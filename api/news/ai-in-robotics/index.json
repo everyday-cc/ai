@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-28-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
-      "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
-      "excerpt": "A transformer in the AI world is not a robot that turns into a vehicle, but rather is a type of technology used in AI deep learning models for natural language processing (NLP). The Nvidia NeMo ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "originalUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "publishedDateTime": "2022-07-28T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-07-28-diagnostic-robotics-closes-45m-series-b-funding-round.md",
       "title": "Diagnostic Robotics closes $45M Series B Funding Round",
       "excerpt": "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,",
@@ -106,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -147,7 +94,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -1403,6 +1351,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-teaching-home-robots-to-learn-by-watching-people.md",
+      "title": "Teaching home robots to learn by watching people",
+      "excerpt": "A team at Carnegie Mellon University is demonstrating the Wild Human Imitating Robot Learning, or WHIRL, an algorithm that can train a system by watching a video.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pIbHOuvuCl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "publishedDateTime": "2022-07-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

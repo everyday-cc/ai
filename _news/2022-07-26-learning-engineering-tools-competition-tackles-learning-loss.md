@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/k-12/learning-engineering-tools-co
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/learning-engineering-tools-competition-tackles-learning-loss?_amp=true"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Challenges facing AI in science and engineering"
-    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
-    publishedDateTime: 2022-07-25T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "MxhYcbZIYBlNx2BaZDli1cbBbsOAM2S43/0UCD/tFUHAC+or3rxPNdneCvv9YoZ6AIs0cF0N18WXEdiEPzR4tMhKdGEkmLnczZd/HwSKLqciEvmbINygCOwaZbo0lDtyCQlumzFp9XrH4x9Zct4F+lPNt3kGmURR5UtlOfE9fHG/XXcBhiuBTXflQoMYXDJavcc7RsAI0IeTFolszgd53WZkgT2S7E4npjuQSSIkJQBdCH2h+w4NjFdh6HpmLkXhANreR/ESptMGZorKoFQh8tGiYi3tW9ag+FZ1SyoFq6KolQDKoQD9LavMZ+Avdg55TZOp2wabA6ttkUt5yCS++SxtEo5JsAKSdFU5lG1g5Sw=;I7FBQJJYs50Lwh02o2S05w=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition cameras in UK retail chain challenged by privacy group"
 excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-publishedDateTime: 2022-07-26T09:22:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+publishedDateTime: 2022-07-26T07:39:00Z
+originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
+webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
@@ -119,6 +119,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "Ebgl7RXMj3IJ6YCAhQz28oOFHuXLzwh8QFX1YSmVNQjvbN9Gq31pLqM+bbKaB9fhUJIvLrK80t/hXq26yXQ/SGpV769zQIBMy/vS1JMnZeSKaz5WSluJJvIDtku8n9obuxlaadQHXc4YltnoJ273iJRC9fzBhlCtNH+Md/UdBTZMePkSTVjtcqWndWUlY8kXRexFWgYM/Z5q89JNPWpzx+BURi3xq0vulUK5uhcC6FdH1b6YCJgGt23QPgzlHvnigCSMwlxiWvJlVwZ24xctlC3o9zmFNY6jSA0tkZ/osKu9yVuqtxlwOqpRNqAs1QNZJ4kT8Q0czVKx3qJ8wBbJl7Jsp8MWWnUmNRzZmBqS8do=;VtsHe9TFQn66S4I7hYlQ1A=="
+secured: "JmZkA9MQliqgex35yQu1rTxjbQkBrjPJT2LtuKNqNVm0kIJ4K9GUGn9heFaOgVN80qEha6cOdufHzAmVvQ3EsIsJ1smuAfhgRaPAiXUlJVnBhjYTwS6GNuOqocaIqIsw46hrBwi1qmDWko/xBYFI27OmritjL/OJG0YcOnVTxQ4hfY8NuAM5otcUadsPtYY/YzmwizzV0R1jn2oJrOtIO0SCwocTRAaF/65KATntwtHTQn/39hOKDZ/80ZDGflMabtwSlnyFizm7llWzf/Wud5LGg0o0/LcejMJQuImWjMBV7Qoi95BjwTfm9+IVegS1GuoYBA9B6l5RUAgPz+gJskxh5QfQnSJ4yDW39uaa2q0=;SjdeBVZeu+1E8OB94ngwgg=="
 ---
 

@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-    publishedDateTime: 2022-07-28T14:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com"
+    excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
+    publishedDateTime: 2022-07-28T10:32:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     type: article
@@ -66,15 +66,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
-  - title: "The Download: a big DeepMind breakthrough, and fixing the US grid"
-    excerpt: "DeepMind has predicted the structure of almost every protein known to science The news: DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science."
-    publishedDateTime: 2022-07-28T12:05:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/28/1056519/download-deepmind-protein-folding-us-power-grid-connect-heat/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
     quality: 19
 
 secured: "gNlu6gMrL9pQ+MBgGcBJzJ1p0FPlk0WcG8k89F8gISwzHdBNUA0NAVy4rKaA0/IqdW3ttcW9ApEWz/kNhL7TEGxb/CCcpj34qckg5rf4Yvke73W9HunkjREkX4nM1NMspgCoE4SqKA5A9ckWYnDuOFu9K/JC1nyAEXhTym18TUcL1ogbm194WgrLLmt/qC3TGWOJeB4OaDEOOE2kBM9+kOQn4bGCJjXtMNOofmWBaiHENd6hHo7qO/mjJjYr28eqPGP67cMiV/SHwn0ZoNRChUy1w8RFzV99Oq5HG72wDCFQo46LVj3V5uZ9F2O7klHOCdqBMtRe8vjAfbOaTjH1IdU8BagI95/Ow4ydQ/z50UGxtTqh2AgJS96Evwz5Jcbalo+MkKoMgISsxaOI/yYvafUFOcYKAr9OZOf1SM2YdMf0YM1vaLn0znU3hVgRYYdCYj3uu3OP3LlZe2ggxUzmkPzo5Q+G1yf3gTtZ0r4BogfpeEAEc301cMnFqZK1ZSrgS2mrBrvqfn/BDBMV5iYN6g==;c9rXppg5m+yoo8rsqZY7Xg=="

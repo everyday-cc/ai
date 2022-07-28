@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
-excerpt: "Notified is one of 20+ host companies selected to host 30 camps across the US in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th."
-publishedDateTime: 2022-07-22T15:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-portland-artificial-intelligence-mark-cuban-63f2bd868afa4a671cc4a2ad6d1cef67"
+excerpt: "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few."
+publishedDateTime: 2022-07-22T15:44:00Z
+originalUrl: "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/"
+webUrl: "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BLH/27bTAQJEot5Yh4Oq1Alih7URu5j+6sT7FZVdaVBOr+FSZwGd1khIQDi00KIb7RhfPuzKe0ykUoGoiQcVMw5aX+HieXOR3cKneHwME41BvTLm1xVJ7JR7az9DMQYqDswBS98fj0G3VGZ/iJvnVCg4NR/EP1EhCO3KuYMBIsoZQIhoZQmCsMcgJ3vsJ5D3X/3AvAhrtuABVA5lhWXxYkWuhO2fQRoCriscNX8NtU07iwaT/SDsBgNJp8173dpNiB0l7purmlV9GlwFWpffhu1NExLCLYsSar16YsHgKUs/S5lqCt+IT+O0HNRmdsiNXagW7eMSCjK9TvusNBGY8tpYroUtNs1m+l6Be6zbAbs=;WYE6zM0IUwx/OAmfg/4wQw=="
+secured: "rY+VDUJJTZ7FlC2GtbcpcntJpUKsnu8iYrT9P0/dOBnpr9WVDxVAHeUJ73uVovOMxUKbDfbCyYgNFMJPvLJ9QoAIvwc5JpS2PXguq9W8DJvW8L17VtTVlFVoATUTOkdj+q5EuIJxdZEA6mriBKgahv5RN6BHH5qbOUpqiAEEp9N/SHcZjQUp6Sn3KhmtjxRqrI3oDb+vk21z9G9wzZf7E13n3PKgpUSUGnCTa3nNxAbrdUi05TlOgnsRrvIwZcLmwGA1x2VfUdPEKfF9xYdezJOgQDuRfMDwQDeBOh/JH57foQzdOGxR1vhk6y2DHr4SX4uxPNVfvqRsE9ZO8Se4fNtlgriMub9FdzD70QNodMI=;istaE0uwPbPbzhC0utzaVQ=="
 ---
 

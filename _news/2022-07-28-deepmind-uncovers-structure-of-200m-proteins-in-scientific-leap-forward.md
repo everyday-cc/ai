@@ -1,15 +1,15 @@
 ---
 category: news
 title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-publishedDateTime: 2022-07-28T14:26:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com"
+excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
+publishedDateTime: 2022-07-28T10:32:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -70,16 +70,7 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "The Download: a big DeepMind breakthrough, and fixing the US grid"
-    excerpt: "DeepMind has predicted the structure of almost every protein known to science The news: DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science."
-    publishedDateTime: 2022-07-28T12:05:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/28/1056519/download-deepmind-protein-folding-us-power-grid-connect-heat/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
-secured: "PXWwgJmR3Ov6BS/P+Ay7elzQhXz0J4b50uADJNiSNd6fcPBgZjVvqtePs6/b45jAfCsQOXXdhjRx+A9ZsvMPeju5RuG6DKvV8HMuXeXiaspk4ZZDs7OllPFKah73jAThvkzHrCVzSASPv8f0g4zZ823+gHNXPNZGmqXdn5RJiV8dl0RYz6bLEgm8dAXTzA30h+GifcYj83GH3diIsOIiElqkJRhuR8q23VmO6ZL/7SOMNvf9X7sOD4aoFXmuaLlmEJcWpaxoOHp4U9CYleElBlTNsUKkzf06uDDEcOsx8cvQNpd0peJczL29+sdayDynxoQvgHI+XRZvNlETwsYGncMEPHSEJ0LbovcyXmvnTf0=;5v36wJ5ImBBtPuhvP+SiBQ=="
+secured: "tGYKS4JmakSakSDtkxqS9Fo2gGf6mXb9cp3PKuqVQqNjwLYy2ShNeUZfheOkTlX4cBbvA78q9XhAqV0MvrKK3sLCmCTBemVbHPAXQwClIHd874sWLezz6maklc2EztP6RQ51XgGQ+VSKGo0utUK1pLEkkomwyAzW4kZDCi2lWc35e7W8IBh/xNW5/bkDE0D2a2fWdTxsIwAiYx1rr3HI5W+2QgwDtSV9FK2pzShNjCnhkPXHHq4lKtogPnjGKW0q1Cu/x6dWqU7Wo75iGvSqkGrRcf3fYk6zyHw0d0yYey14OdpMt/DK2nzc2IqlbWN1T7mQUDzh/mYrZD6vnqxD8LIAhdR4UbuXmFZ8Pm4cT8s=;hKVqVBv4xKV1rmiLvdeHmw=="
 ---
 

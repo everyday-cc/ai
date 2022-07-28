@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-22-portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few.",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
+      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-baidus-latest-robotaxi-has-a-removable-steering-wheel.md",
       "title": "Baidu's latest robotaxi has a removable steering wheel",
       "excerpt": "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,",
@@ -316,17 +350,17 @@
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
-      "originalUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
+      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
+      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg",
-          "width": 1280,
-          "height": 853,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
+          "width": 600,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -334,13 +368,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
-      "publishedDateTime": "2022-07-20T21:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T21:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
+        "name": "WDRB",
+        "domain": "wdrb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -915,12 +949,55 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Birmingham Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "excerpt": "July 14, 2022 (GLOBE NEWSWIRE) -- Protective Life will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few. Students will benefit ...",
+      "sourceUrl": null,
+      "webUrl": "https://kfor.com/business/press-releases/globenewswire/8599776/birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open/",
+      "originalUrl": "https://kfor.com/business/press-releases/globenewswire/8599776/birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/kfor.com/wp-content/uploads/sites/3/2022/07/thunder-logo-big.jpg?w=2000&#038;ssl=1",
+          "width": 1265,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oklahoma's News",
+        "domain": "kfor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-houston-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Houston Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Houston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-houston-artificial-intelligence-mark-cuban-6369ee9058848812542c4bf1afffcaee",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1045,20 +1122,20 @@
     },
     {
       "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million ...",
+      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
+      "excerpt": "By Matt McFarland, CNN Business Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving” software to 1 million people.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "webUrl": "https://abc17news.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
+      "originalUrl": "https://abc17news.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://abc17news.b-cdn.net/abc17news.com/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1066,23 +1143,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-14T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ABC 17 News",
+        "domain": "abc17news.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1241,83 +1309,6 @@
         "AI",
         "AI in Autos",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-25-things-elon-musk-promised-and-didnt-deliver.md",
-      "title": "25 Things Elon Musk Promised and Didn't Deliver",
-      "excerpt": "infusing the human brain with artificial intelligence, and creating driverless cars that are run with software. His latest claim: that he would take over Twitter and more than quadruple its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "originalUrl": "https://www.aol.com/25-things-elon-musk-promised-160000576.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-automation-driven-by-artificial-intelligence-booms-in-uncertain-economic-times.md",
-      "title": "Automation Driven by Artificial Intelligence Booms in Uncertain Economic Times",
-      "excerpt": "Veryfi, using artificial intelligence (AI) technology to transform documents into structured data in just seconds, has announced continued strong business momentum and growth in the second quarter. As economic concerns increase,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

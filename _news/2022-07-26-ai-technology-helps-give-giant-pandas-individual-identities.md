@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38844"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future of technology lies in artificial intelligence"
+    excerpt: "But this level of advanced AI raises questions about morality, ethics, and adverse effects. One problem is AI’s ability to complete repetitive tasks, allowing the possibility of AI replacing employees in labour-based jobs. This is especially true in jobs ..."
+    publishedDateTime: 2022-07-28T17:01:00Z
+    webUrl: "https://thegatewayonline.ca/2022/07/the-future-of-technology-lies-in-artificial-intelligence-the-gateway/"
+    type: article
+    provider:
+      name: The Gateway
+      domain: thegatewayonline.ca
+    quality: 39
+    images:
+      - url: "https://thegatewayonline.ca/wp-content/uploads/2022/06/possessed-photography-U3sOwViXhkY-unsplash-780x405.jpg"
+        width: 780
+        height: 405
+        isCached: true
   - title: "Google fires engineer who contended its AI technology was sentient"
     excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
     publishedDateTime: 2022-07-25T16:10:00Z

@@ -40,6 +40,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "The future of technology lies in artificial intelligence"
+    excerpt: "But this level of advanced AI raises questions about morality, ethics, and adverse effects. One problem is AI’s ability to complete repetitive tasks, allowing the possibility of AI replacing employees in labour-based jobs. This is especially true in jobs ..."
+    publishedDateTime: 2022-07-28T17:01:00Z
+    webUrl: "https://thegatewayonline.ca/2022/07/the-future-of-technology-lies-in-artificial-intelligence-the-gateway/"
+    type: article
+    provider:
+      name: The Gateway
+      domain: thegatewayonline.ca
+    quality: 39
+    images:
+      - url: "https://thegatewayonline.ca/wp-content/uploads/2022/06/possessed-photography-U3sOwViXhkY-unsplash-780x405.jpg"
+        width: 780
+        height: 405
+        isCached: true
 
 secured: "qCdKfgZLQbxXRFB4EhvqqBZR2YYC7Ao7EYSytjJOla1SHAzrKTT+AfqJTKHuqpM8jc3krDO/LQG2osC4bQWmsTM9zNMOlSNLzuhoKbCeQPpT7+QJzw53EY2NFKHbB53BTRddNZUwuMi4+0hdPPa8nzmdLa3w73MTkX+GorXdJT1oEjaf0x7L625wZmYJe+U25QJvF1C+Vi4rbgjGXSNJOz5LYe2lpbyCYKZoLT0r0HuPvP42w8tAIenRp98jGaVeiLl/mW6JZ2nYj+/9B02hlbChViKi52DJa7bQMuODuNRPM2rSTYyNlsZ2rt+sKOCTq0jFV+5PTPiw0nrfk6b8Fm5n9ocnIwWU0CrtdtawTxSkZSGVU6vqqv13JcpbHo7iuz1Fis7obepp8wiTCJtIgbFoZgyuLPAwkyLAAkubClcx9IWVmkbzFdykkfPDvBXthiy5tOzW2c3LHrckEY+zBiMg8kl/pOFYbnGQuuQo+8ZoiU1T2TbEQrfbC2CM4MQDS2Oz4kKJ5NDosnNlzLgV0g==;uPRq5AueLVhVGeNJ5hTreg=="
 ---

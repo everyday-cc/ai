@@ -7,7 +7,7 @@ originalUrl: "https://www.psychologicalscience.org/publications/observer/obsonli
 webUrl: "https://www.psychologicalscience.org/publications/observer/obsonline/2022-july-artificial-intelligence-worker-identity.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Responsible AI: An Opportunity for Quality and Productivity in Legal Tech"
+    excerpt: "The competitive advantage of responsible AI as an approach really comes to life when it becomes an integral part of the wider technology—and therefore business—strategy."
+    publishedDateTime: 2022-07-28T15:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/07/28/responsible-ai-an-opportunity-for-quality-and-productivity-in-legal-tech/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/07/Artificial-Intelligence-08-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "m4cQaZUZNQ/bOyllBLcp8caD7KNolDBP340xbrMMKIZJjLfOS0Nw8oTLrLMqNEFCac1nK7wh6EUJ0QNlhB/5dpxFzUdCsJAFkoitojlTiBNhPilqj5nM0LsQAPc9Rz0twkVnUpYMheOQ6HTsQYIBW+zpwD6GfrCGzHUkXcUb9//EJZI9TysCjiAoxLcMtN9YJRcwIxxqH86eHxLg/WYXc9ajeo1/Z5XgUqP7gvtj/e6kP0Tgw6VTVu3TE92UhKU4xGjAwmjT9BJowiDDv60PhuE1gBvNocKqL5w2C92b4fRDF7MyVSWfmNV449ClYn/sFeP5wyTzgFD5g7HvrzxTKY0yObBHSQna5lCad6+QpN+7lbCS1CzkYJmoukXQgYi9Y/erF+q6Wr/Uzc19ChIRlZTxbgAtVdKBLbzjhzllZtDfxjgzRXQOSDNIHyWpEk9ZBF2hSQMYZKLLgx1NSHp01kmBeowyEUFyv2uWlhgvc4op0Rs8swxqz3TBDUbQmUJ867HMZNp414aWLPReOfKvnA==;M9usdBJePcFwjwbh7CawxQ=="
 ---

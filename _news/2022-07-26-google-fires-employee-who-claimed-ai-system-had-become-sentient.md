@@ -42,20 +42,6 @@ related:
         width: 670
         height: 446
         isCached: true
-  - title: "Google Fires Software Engineer Who Says He Talked to Sentient AI"
-    excerpt: "Google has fired a software engineer who worked on the company’s artificial intelligence development team over his public contention that he had conversations with a bot that had become “sentient.”"
-    publishedDateTime: 2022-07-23T23:04:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-07-23/google-fires-software-engineer-who-says-he-talked-to-sentient-ai"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMkLdr1RvviY/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person"
     excerpt: "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,"
     publishedDateTime: 2022-07-25T17:37:00Z
@@ -69,6 +55,22 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-blake-lemoine-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
+    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+    publishedDateTime: 2022-07-25T18:17:00Z
+    webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    type: article
+    provider:
+      name: ABC30 Action News
+      domain: abc30.com
+    quality: 57
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google sacks senior engineer who said its AI program was sentient"
     excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"

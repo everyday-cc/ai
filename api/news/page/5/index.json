@@ -2,6 +2,125 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-21-econ-corp-services-dba-investorideascom-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market.md",
+      "title": "Econ Corp Services DBA Investorideas.com: AI Tech Stocks and the Growing Implementation in the Sports Market",
+      "excerpt": "July 21, 2022) - Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) stocks releases a sector snapshot looking at the growing AI tech implementation in the sports market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment.md",
+      "title": "Amazon Web Services announces presence in Nigeria with infrastructure investment",
+      "excerpt": "Amazon Web Services is making what can be described as the first announcement of its presence in Nigeria with the launch of ‘AWS Outposts’, an",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "originalUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Amazon-web-services.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "publishedDateTime": "2022-07-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
+      "title": "VDOT preparing to use artificial intelligence to predict traffic",
+      "excerpt": "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/",
+      "originalUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/yPMtFBzaD7Ep7KLjVSdSDxwlTXg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/VULR5AU5CJN4NMJZ7KJ7RXWMXY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp",
+      "publishedDateTime": "2022-07-21T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWBT",
+        "domain": "nbc12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning.md",
       "title": "Moneyhub Joins Forces with Pennyworth to Democratise Financial Planning",
       "excerpt": "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app, to redesign digital banking for the aspiring-affluent consumer. Pennyworth,",
@@ -272,17 +391,17 @@
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
-      "originalUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/",
+      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
+      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg",
-          "width": 1280,
-          "height": 853,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
+          "width": 600,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -290,13 +409,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
-      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/",
-      "publishedDateTime": "2022-07-20T21:23:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T21:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTAR News",
-        "domain": "ktar.com",
+        "name": "WDRB",
+        "domain": "wdrb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -394,6 +513,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-ieee-computer-society-publications-achieve-compelling-increases-in-impact-factors.md",
+      "title": "IEEE Computer Society Publications Achieve Compelling Increases in Impact Factors",
+      "excerpt": "IEEE Transactions on Pattern Analysis and Machine Intelligence earns highest impact factor of all IEEE publications LOS ALAMITOS, Calif., July 20, 2022 /PRNewswire/ -- The IEEE Computer Society (IEEE CS)—the leading publisher of peer-reviewed magazines ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -963,195 +1125,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
-      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
-      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-5-best-ai-stocks-to-invest-in-2022.md",
-      "title": "5 Best AI Stocks to Invest In 2022",
-      "excerpt": "Today’s technology world has been dominated by artificial intelligence in many areas, such as self-driving cars, high-tech computing, enterprise solutions, robotics, and disaster recovery solutions, just to name a few.",
-      "sourceUrl": null,
-      "webUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
-      "originalUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketingsentinel",
-        "domain": "marketingsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
-      "title": "Oracle partners with Microsoft to launch database service for Azure",
-      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
-      "publishedDateTime": "2022-07-20T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-5-ways-ai-is-detecting-and-preventing-identity-fraud.md",
-      "title": "5 ways AI is detecting and preventing identity fraud",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
-      "publishedDateTime": "2022-07-20T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,284 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-07-07-scotiabank-evp-and-chief-compliance-officer-nicole-frew-to-speak-at-the-behavox-artificial-intelligence-in-compliance-and-security-conference.md",
+      "title": "Scotiabank EVP and Chief Compliance Officer Nicole Frew to Speak at the Behavox Artificial Intelligence in Compliance and Security Conference",
+      "excerpt": "The fireside chat with Nicole Frew and Behavox Chief Customer Intelligence Officer Fahreen Kurji will cover the pivotal role technology plays in compliance, how to drive organizatonal change that embraces innovation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9635323.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
+      "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
+      "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg",
+          "width": 650,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly.md",
+      "title": "Break through language barriers with Amazon Transcribe, Amazon Translate, and Amazon Polly",
+      "excerpt": "Imagine a surgeon taking video calls with patients across the globe without the need of a human translator. What if a fledgling startup could easily expand their product across borders and into new geographical markets by offering fluid, accurate, multilingual customer support and sales, all without",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/break-through-language-barriers-with-amazon-transcribe-amazon-translate-and-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/06/Featured-images-for-ML-6711.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T15:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-like-brad-pitt-do-you-have-trouble-recognizing-people-it-may-be-prosopagnosia-or-face-blindness.md",
+      "title": "Like Brad Pitt, do you have trouble recognizing people? It may be prosopagnosia or 'face blindness'",
+      "excerpt": "Actor Brad Pitt recently shared that he believes he has prosopagnosia, or \"face blindness.\" Fox News Digital interviewed an expert about this troubling neurological condition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
+      "originalUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/253c7156-c626-439a-aec0-49160966ee42/0ba5dff5-9160-466c-94b3-967d1ba42b12/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/brad-pitt-trouble-people-face-blindness.amp",
+      "publishedDateTime": "2022-07-06T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
+      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
+      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-11657102429811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/06/600x338/png_20220706_153448_0000_1657102962845_1657102970526.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres/amp-11657102429811.html",
+      "publishedDateTime": "2022-07-06T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-latest-ai-can-instantly-translate-200-languages.md",
+      "title": "Meta's Latest AI Can Instantly Translate 200 Languages",
+      "excerpt": "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced(Opens in a new window) in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages",
+      "originalUrl": "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/070IFBc208oZ2EEnD8cdMWf-1.fit_lim.size_1200x630.v1657134325.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-meta-open-sources-early-stage-ai-translation-tool-that-works-across-200-languages.md",
       "title": "Meta open sources early-stage AI translation tool that works across 200 languages",
       "excerpt": "Meta AI research scientist Angela Fan ... number of errors can produce disastrous results — as, for example, when Facebook mistranslated a post by a Palestinian man from “good morning ...",
@@ -883,300 +1161,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-azra-ai-expands-innovative-incidental-findings-technology-to-help-clinicians-identify-more-cancers.md",
-      "title": "Azra AI expands innovative incidental findings technology to help clinicians identify more cancers",
-      "excerpt": "Azra AI’s proprietary software — which uses artificial intelligence (AI) and natural language processing to identify incidental lung nodules in medical reports — is expanding to include liver, kidney and adrenal,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-ovarian-5ec885db2d8d35ddef975c8a947fd694",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-celus-which-uses-ai-to-automate-circuit-board-design-raises-256m.md",
-      "title": "Celus, which uses AI to automate circuit board design, raises $25.6M",
-      "excerpt": "Just about every electronic contraption you care to think of contains at least one printed circuit board (PCB), which serves to house and connect the various components that allow the device to function as a whole.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/",
-      "originalUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CircuitBoard-e1656949944955.jpg?w=1024",
-          "width": 1024,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/celus-which-uses-ai-to-automate-circuit-board-design-raises-25-6m/amp/",
-      "publishedDateTime": "2022-07-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-ibm-acquires-databand-to-bolster-its-data-observability-stack.md",
-      "title": "IBM acquires Databand to bolster its data observability stack",
-      "excerpt": "IBM has acquired Databand, a provider of data observability products, to build on its existing product offerings in the category.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
-      "originalUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1091444622.jpg?w=1024",
-          "width": 1024,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/06/ibm-acquires-databand-to-bolster-its-data-observability-stack/amp/",
-      "publishedDateTime": "2022-07-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-want-strong-physical-security-dont-forget-about-cybersecurity.md",
-      "title": "Want Strong Physical Security? Don’t Forget About Cybersecurity",
-      "excerpt": "Neither physical security nor cybersecurity are new concepts, but as technology has evolved, the two regularly find themselves working hand in hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/1200274448/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/want-strong-physical-security-dont-forget-about-cybersecurity/amp/",
-      "publishedDateTime": "2022-07-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
-      "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
-      "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/07/06/1600x900/png_20220706_153448_0000_1657102775386_1657102784116.png",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres-101657102405520-amp.html",
-      "publishedDateTime": "2022-07-06T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-three-ways-industrial-ai-can-unlock-instant-value.md",
-      "title": "Three Ways Industrial AI Can Unlock Instant Value",
-      "excerpt": "As field practitioners in the domain of industrial AI, we've discovered three key monetary constructs that will help show the value of industrial AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
-      "publishedDateTime": "2022-07-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

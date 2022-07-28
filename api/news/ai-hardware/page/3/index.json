@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-23-amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable.md",
+      "title": "AMD Xilinx Makes Machine Vision AI Development Quick, Easy And Affordable",
+      "excerpt": "A host of software tools, code samples, an app store, and pre-configured Linux images make getting started surprisingly simple.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
+      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b37f46922813ea4349c831/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
+      "publishedDateTime": "2022-06-22T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-nvidias-ai-powered-3d-moma-tool-turns-2d-photos-into-3d-mesh-models.md",
       "title": "NVIDIA's AI-Powered 3D MoMa Tool Turns 2D Photos Into 3D Mesh Models",
       "excerpt": "Turning still 2D photos into 3D rendered mesh models is not a quick or particularly easy task, but perhaps not for long.",
@@ -1311,49 +1363,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-mit-stackable-ai-chip-with-lego-style-design.md",
-      "title": "MIT: Stackable AI Chip With Lego-style Design",
-      "excerpt": "New technical paper titled “Reconfigurable heterogeneous integration using stackable chips with embedded artificial intelligence” from researchers at MIT, along with Harvard University, Tsinghua University, Zhejiang University, and others. “Here we ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/mit-stackable-ai-chip-with-lego-style-design/",
-      "originalUrl": "https://semiengineering.com/mit-stackable-ai-chip-with-lego-style-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/AdobeStock_373262549-scaled.jpeg",
-          "width": 2560,
-          "height": 1713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

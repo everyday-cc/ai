@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-    publishedDateTime: 2022-07-28T14:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com"
+    excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
+    publishedDateTime: 2022-07-28T10:32:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     type: article
@@ -65,15 +65,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 19
-  - title: "The Download: a big DeepMind breakthrough, and fixing the US grid"
-    excerpt: "DeepMind has predicted the structure of almost every protein known to science The news: DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science."
-    publishedDateTime: 2022-07-28T12:05:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/28/1056519/download-deepmind-protein-folding-us-power-grid-connect-heat/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
     quality: 19
 
 secured: "doOQZW8/bTFDf8B5H/QdzgOZQ1jgIbQs5Gce5ICBzkoRJ5OYeqZkvZsbZnAiffvFY45Q6dPoUAReNA/W4SbT8II8MQZi0PGyCURZl1+UsSzuSpqj2VrsjPXgmvyIPwbtsQqzFvYxCCp3e8oWaSj4HX2bZ9e54g3MKd4fSCz5duw+qi9NBfNL+P5w3nRWafcLStvIWWRAATrNDbWyNGyKML5MNa5v4ZSswOvhmljJZ59gxexSTMk4lg2hqOhhFIiRvOZE1PKr9ZS5ZVHLxEUG8SBUDeHFheTD8L8jsUe1iBbYLFlCXnJH5fnX7dXMiyys6ldgLY/TSNhfvwSEfvXIitbsvy+7k4rWGcg5XVRmJdo=;AWsy/ppJMyQTrtngrUwvSQ=="

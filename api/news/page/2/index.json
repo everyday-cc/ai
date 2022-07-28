@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-27-safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta.md",
+      "title": "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta",
+      "excerpt": "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system.md",
+      "title": "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System",
+      "excerpt": "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "originalUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.suasnews.com/wp-content/uploads/2022/07/loss-of-containment-social-post.jpg",
+          "width": 2500,
+          "height": 1308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
+      "publishedDateTime": "2022-07-26T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SUAS News",
+        "domain": "suasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-scientists-create-robotics-using-dead-spiders.md",
+      "title": "Scientists create robotics using dead spiders",
+      "excerpt": "I learned about necrobotics and wish I hadn’t. This is a wolf spider: Admittedly it’s kinda cute (for a spider) and not venomous enough to kill you with its … Read More",
+      "sourceUrl": null,
+      "webUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "originalUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qph.fs.quoracdn.net/main-qimg-ca4623129d70789f1a4ce62e9db18bff-lq",
+          "width": 602,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "cdnAmpWebUrl": "https://thoughtforyourpenny-com.cdn.ampproject.org/c/s/thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "publishedDateTime": "2022-07-26T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thoughtforyourpenny",
+        "domain": "thoughtforyourpenny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
       "title": "Facial recognition software helps reunite lost or missing pets",
       "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
@@ -296,7 +425,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -661,8 +790,8 @@
       "title": "Facial recognition cameras in UK retail chain challenged by privacy group",
       "excerpt": "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
-      "originalUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
+      "webUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1",
+      "originalUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1",
       "featuredContent": null,
       "highlight": null,
       "heat": 143,
@@ -681,7 +810,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
-      "publishedDateTime": "2022-07-26T02:22:00-07:00",
+      "publishedDateTime": "2022-07-26T00:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -1024,162 +1153,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
-      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
-      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
-          "width": 4912,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "publishedDateTime": "2022-07-25T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-how-stop-shop-is-using-ai-not-cookies-to-target-customers.md",
-      "title": "How Stop & Shop is using AI, not cookies, to target customers",
-      "excerpt": "In 2023, brands like Stop & Shop won't be able to use third-party cookies to discern customer behavior for programmatic digital advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1132387033.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "publishedDateTime": "2022-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
-      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
-      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "publishedDateTime": "2022-07-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

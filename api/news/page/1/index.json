@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-29-nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models.md",
+      "title": "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models",
+      "excerpt": "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200",
+          "width": 638,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
+      "publishedDateTime": "2022-07-28T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
+      "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
+      "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
+      "originalUrl": "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/07/Myanmar-junta-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
+      "publishedDateTime": "2022-07-28T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business.md",
+      "title": "Seven Factors To Consider Before Purchasing A Machine Learning Tool For Your Business",
+      "excerpt": "How Will It Empower The Sales Team?’ First, emphasize the point that machine learning does not replace sales reps; it simply gives them tools and data to maximize results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600b3fa8db806e046793a1bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
+      "publishedDateTime": "2022-07-28T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions.md",
+      "title": "How AI is improving warehouse performance and easing supply chain disruptions",
+      "excerpt": "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
+      "originalUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/12/supply_chain1-e1659022314267.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
+      "publishedDateTime": "2022-07-28T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ai-predicts-the-shape-of-nearly-every-protein-known-to-science.md",
       "title": "A.I. Predicts the Shape of Nearly Every Protein Known to Science",
       "excerpt": "DeepMind has expanded its database of microscopic biological mechanisms, hoping to accelerate research into all living things.",
@@ -51,59 +249,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
-      "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
-      "excerpt": "A transformer in the AI world is not a robot that turns into a vehicle, but rather is a type of technology used in AI deep learning models for natural language processing (NLP). The Nvidia NeMo ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "originalUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
-      "publishedDateTime": "2022-07-28T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -202,58 +347,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-28-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
-      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
-      "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?ref=biztoc.com&curator=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
-      "publishedDateTime": "2022-07-28T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-28-here-are-23-startups-in-areas-like-ai-robotics-and-quantum-primed-to-take-off-in-europes-711-billion-deep-tech-industry-according-to-vcs.md",
       "title": "Here are 23 startups in areas like AI, robotics, and quantum primed to take off in Europe's $711 billion deep tech industry, according to VCs",
       "excerpt": "Startups in areas such as AI and quantum computing are attracting more capital as VCs eye up founders that can drive next-generation innovation.",
@@ -262,7 +355,7 @@
       "originalUrl": "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -303,7 +396,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -406,17 +500,17 @@
       "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
       "excerpt": "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "webUrl": "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "originalUrl": "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -449,7 +543,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -597,6 +690,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
+      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
+      "excerpt": "Success of AlphaFold program could have huge impact on important global issues such as famine and disease",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "publishedDateTime": "2022-07-28T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -1052,135 +1197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta.md",
-      "title": "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta",
-      "excerpt": "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system.md",
-      "title": "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System",
-      "excerpt": "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
-      "originalUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.suasnews.com/wp-content/uploads/2022/07/loss-of-containment-social-post.jpg",
-          "width": 2500,
-          "height": 1308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
-      "cdnAmpWebUrl": "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/07/ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system/",
-      "publishedDateTime": "2022-07-26T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SUAS News",
-        "domain": "suasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-scientists-create-robotics-using-dead-spiders.md",
-      "title": "Scientists create robotics using dead spiders",
-      "excerpt": "I learned about necrobotics and wish I hadn’t. This is a wolf spider: Admittedly it’s kinda cute (for a spider) and not venomous enough to kill you with its … Read More",
-      "sourceUrl": null,
-      "webUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "originalUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qph.fs.quoracdn.net/main-qimg-ca4623129d70789f1a4ce62e9db18bff-lq",
-          "width": 602,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "cdnAmpWebUrl": "https://thoughtforyourpenny-com.cdn.ampproject.org/c/s/thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
-      "publishedDateTime": "2022-07-26T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thoughtforyourpenny",
-        "domain": "thoughtforyourpenny.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

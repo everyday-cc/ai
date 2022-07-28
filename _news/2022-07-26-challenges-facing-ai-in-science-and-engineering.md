@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science
 webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Learning Engineering Tools Competition Tackles Learning Loss"
-    excerpt: "Thirty teams received $4 million in prizes for developing tools that could address learning loss from the COVID-19 pandemic, accommodating faster feedback and communication for students and teachers."
-    publishedDateTime: 2022-07-26T00:58:00Z
-    webUrl: "https://www.govtech.com/education/k-12/learning-engineering-tools-competition-tackles-learning-loss"
-    ampWebUrl: "https://www.govtech.com/education/k-12/learning-engineering-tools-competition-tackles-learning-loss?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/learning-engineering-tools-competition-tackles-learning-loss?_amp=true"
+  - title: "How AI is improving warehouse performance and easing supply chain disruptions"
+    excerpt: "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ..."
+    publishedDateTime: 2022-07-28T16:41:00Z
+    webUrl: "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/"
+    ampWebUrl: "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/f6f0893/2147483647/strip/true/crop/957x499+0+62/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F75%2F79%2Fa880ed586f1a566269d03440c29a%2Fshutterstock-346701608.jpg"
-        width: 840
-        height: 438
+      - url: "https://venturebeat.com/wp-content/uploads/2018/12/supply_chain1-e1659022314267.jpg?w=1200&strip=all"
+        width: 1200
+        height: 770
         isCached: true
 
 secured: "R2U1Jqhl1MRaQz8VtR3QrjxWyq77Lu2ZCZme0MN7ympiGlAR2xMo/jRbG2cSCFBF5hssPI/oxnB8OYnUxEy1KthDWyub2j9GSy012bGAYeYjOgcTeNCwtLjSY4iqzITMvdR+blkjO7T7mDpgFeOfKmeRwO3OqDRrib/LpeZrVYpG1YTQzKqdRxls2YONUrtRSlA+LhcyKtll4CV+ihoJeQB+UApBMpIECOZMbcZxE1QQPYcohn2u3MPPfTBMAMflA7DoVQAWr0CcQ9aGnRLfV7iEtWWzU234AtLhRq/WLLmJzre636QNEiaUJ3NimlA4dKd8EP7Rre+474/faUM2ye44U7ov2MQT3vI7PnwFzcSBKbO42AZsxse+7F2QR7UzNfoBZ/8cKCVhooLZCoxy6Z5+puyFuD/FO5o0kuQoc22riiDK86f7r6Cr4mQ6Gj9txhmPAKsfz+EvDotsJNcyKHHzmCK+dM4NJHCvDdm70JYW0Mwva7QJjvDx7pGhmp2wKc2ciXmTohrefvIWfp/4vA==;Z/lKWjXLmqN1B3Ib0dZjxQ=="

@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
-    excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
-    publishedDateTime: 2022-07-27T13:14:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "New Research Reveals Chatbots and Conversational AI are an Absolute Necessity to Drive Successful Talent Engagement"
     excerpt: "Sense, the market leader in AI-driven talent engagement solutions for enterprise recruiting, uncovers the role and impact that Conversational AI and chatbots have in today’s competitive recruiting landscape."
     publishedDateTime: 2022-07-26T11:01:00Z

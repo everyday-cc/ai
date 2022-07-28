@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -– Over 540 1080p"
-    publishedDateTime: 2022-07-28T01:16:00Z
-    webUrl: "https://www.asiaone.com/business/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-new-intel-data"
+    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -– Over 540 1080p @60Hz Transcoded Streams Per System* SAN JOSE,"
+    publishedDateTime: 2022-07-28T00:30:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-san-jose-7b3fa0891a36b4d2429d38b7bffd6557"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Associated Press
+      domain: apnews.com
     quality: 7
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/Supermicro__gaming_0.jpg?h=8775705d&itok=31ttg0J-"
-        width: 600
-        height: 316
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Super Micro Computer, Inc.: Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New"
     excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -- Over 540 1080p @60Hz"

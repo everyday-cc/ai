@@ -62,6 +62,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Fiddler Announces Updates to AI Model Management Platform"
+    excerpt: "Fiddler today announced major improvements to its MPM platform, including model ingestion at giga-scale, natural language"
+    publishedDateTime: 2022-07-28T16:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fiddler-announces-updates-to-ai-model-management-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "xxcC1I3OB97weQMpfq/vYgSaBJooYUv/ng16pFMfMp0zEjmkc+N3e3o9t6KZFbwBlzmxNDGv6zUMLYPWQs9E7u5+KiFm6KIEiTVZPzmhSvBGRqqsyabMEfeEmmjpAWkcu/A7rvwTrQPkb1UTqqq/8Yprutn1z7UsaR48aBUj7cJG4nVlS7r6Pr+lM1SPBRhzM13rGp/9m9rpAAuaVCGtAm8uNZBfU/Guuv6w6ErhfOhUi/GJeAIiUJYThhm7jE5hYa0uR/mofUxoWB0AjfHAvTKrCf5SXr3+4ljtxxE2zx7FstNbiCLF5hTmFY5foUOhPyfE+wUwMNZNTuHbWDwCT+i89W7hgxF30XdxlxfFiaZ3fZEQSJq6cTm0zwSjCVtTcSYReMbTgT21nxPdaAMsriYUfn5AvHor5pVW7UvVaNQUKJC6RPqrvSP2CzucdE9mEwBar21DZhEZoOjGoOaATHbQG9871sYcvIe28/OjA0Opo8LG7uyp3fN8jRi+6jLCg7cf1ymkGXNy3e5++0yVYw==;ej+/WsvPIdYQLcKvM4/dYQ=="
 ---

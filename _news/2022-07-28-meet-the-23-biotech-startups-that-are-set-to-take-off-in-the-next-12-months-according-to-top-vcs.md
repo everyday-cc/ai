@@ -31,11 +31,25 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://i.insider.com/62dffcd4d571050018ad8b9e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI’s Potential to Tackle Crime in Europe"
+    excerpt: "In the years to come, artificial intelligence will be a key feature of cross border criminal investigations, a joint report by Eurojust and eu-LISA, the union’s official IT agency found."
+    publishedDateTime: 2022-07-27T14:28:00Z
+    webUrl: "https://www.occrp.org/en/daily/16615-ai-s-potential-to-tackle-crime-in-europe"
+    type: article
+    provider:
+      name: OCCRP
+      domain: occrp.org
+    quality: 39
+    images:
+      - url: "https://www.occrp.org/images/stories/CCWatch/daily/Artificial_Intelligence_copy.jpg"
+        width: 400
+        height: 320
         isCached: true
 
 secured: "nj2VNcmfN1UfeUp2bJYJ0sg3A27T9EkTmnQy2dHRUMt5NTYAwMr8JAc91XOJxzrrwrUgOW9oAFnGktCDxlyuzqX2NWoPbnK/ZS/a5vCFo5S3qM536U/GPQdutTXz2HPRqPtLhWl9wr0/BVWlBd3TT2aspo6liTpRCYAk9mrkK0OqTDbVskANLws+2JuGpQsV/JubtzQ938qeSZaf9zwNGIbXFWrtWJ9m3dZ+78UEJFdJOGAldtpDauXK3CrSmrYGzpE2jIqpl6McB8495PyEDW77SQz0jO85VwatCsU6x4weHJM4neGteWfRrKGeoEqI4y7iCtRb9cMBaMTfkZncY7NhJ7wGZ9+zDqYxFB6dVYLbKYJlyE7Qd5HZr4VKLRfVmhqVJeY/NZdn0xGC7o/NIoNfKhzqbXjVsNS35yF4O3TiifTFbgbsv0ZmrGj2M9ydjJxdKAm2sak5H2yy6h0uWaTkGuAMwY19ZZ1SnalQ3ngX94qHiS1OoRYBdtQ8IiK5jYT3s2T3EVvYK5opf85zlA==;LhH2X9NGSZPGg+Y/QDnWXA=="
