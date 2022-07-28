@@ -70,6 +70,20 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "JK Tech launches AI-driven Smart Analytics solution for retailers in the US"
+    excerpt: "Serving clients across industries since 1994, JK Tech has been providing agile and customized technology solutions for enterprises. Using JK Tech’s Smart Analytics solutions, grocery retailers have witnessed around 15% improved inventory turns,"
+    publishedDateTime: 2022-07-28T11:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-b8500cf80468944e5bc928886be42ae5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
     excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
     publishedDateTime: 2022-07-26T01:13:00Z

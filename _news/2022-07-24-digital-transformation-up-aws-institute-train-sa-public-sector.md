@@ -7,7 +7,7 @@ originalUrl: "https://za.investing.com/news/digital-transformation-up-aws-instit
 webUrl: "https://za.investing.com/news/digital-transformation-up-aws-institute-train-sa-public-sector-2589491"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lost in translation: Europe’s quest to speak AI"
+    excerpt: "A group of European scientists, researchers and business interests wants to turn Europe into an artificial intelligence powerhouse by building a supercomputer to develop AI language models. If they don't succeed,"
+    publishedDateTime: 2022-07-28T11:20:00Z
+    webUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/"
+    ampWebUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lost in translation: A new approach to AI navigates world literature"
     excerpt: "English readers of digital foreign-language novels have long despaired over the poor quality of translation, especially when the original versions were published in a non-Romance language and written with a high-literary sensibility."
     publishedDateTime: 2022-07-26T00:00:00Z

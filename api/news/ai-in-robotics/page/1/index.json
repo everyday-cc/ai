@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-28-lost-in-translation-europes-quest-to-speak-ai.md",
+      "title": "Lost in translation: Europe’s quest to speak AI",
+      "excerpt": "A group of European scientists, researchers and business interests wants to turn Europe into an artificial intelligence powerhouse by building a supercomputer to develop AI language models. If they don't succeed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/",
+      "publishedDateTime": "2022-07-28T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-air-force-testing-system-to-stop-active-shooters-with-robots-and-drones.md",
       "title": "Air Force testing system to stop active shooters with robots and drones",
       "excerpt": "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter.",
@@ -47,10 +90,10 @@
     {
       "path": "_news/2022-07-28-veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list.md",
       "title": "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List",
-      "excerpt": "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass., /PRNewswire-PRWeb/ -- CB Insights",
+      "excerpt": "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28232774/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28232774/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
@@ -67,8 +110,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28232774",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232774",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28232813",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813",
       "publishedDateTime": "2022-07-27T12:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1359,49 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-this-robot-dog-just-taught-itself-to-walk.md",
-      "title": "This robot dog just taught itself to walk",
-      "excerpt": "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "originalUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/18/1056059/robot-dog-ai-reinforcement/amp/",
-      "publishedDateTime": "2022-07-18T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -223,6 +223,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Engineer who said AI was sentient fired by Google"
+    excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
+    publishedDateTime: 2022-07-28T09:59:00Z
+    webUrl: "https://www.techerati.com/news-hub/engineer-who-said-ai-was-sentient-fired-by-google/"
+    type: article
+    provider:
+      name: techerati
+      domain: techerati.com
+    quality: 19
   - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
     excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
     publishedDateTime: 2022-07-25T22:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-abo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 400
     isCached: true
 
-secured: "8ZgJdj2JmIgULYpdZHzGPZlcLHUfmBxt6s8RBzGOhFGypWMXH6aEslcwSzrQ1OdKzZqyixREi19YM2EQy9j7/wHMNnaJhtASRKXq4+7pMMvc4lCStzX928qQ/EzhImYqz4+ucJ56EwdlO7vM07HRvhpuBhPPRxU5YsHKnZ5ZqpfmmljVPl4VDP0kuvrYw2ruYeVqoc5/hbDpQN5HANfNwtqcIjRPsqnVISPIBwTIv+r4hsbogTLuPuVT8JOxSzN6/7+But8ln+Tq/qBtemeHK3hjRybmd5GUWErC4KBGGcO8UXtF9MtuKVUzs45/+RWbSQ9vWAov6JIy35ZgfHyYgr4r5nqGs14nHUwVM0HCtSc=;nM4gDR5bLSXM8gRsgAABAg=="
+related:
+  - title: "Here’s why a gold rush of NLP businesses is going to begin"
+    excerpt: "An surge of NLP start-ups and large language models occurred in 2021. There is a huge language model for chatbot apps called LambDa that was introduced by Google this year A visual language model called Flamingo was eventually provided by Deepmind as an update to Alpha Code."
+    publishedDateTime: 2022-07-28T09:53:00Z
+    webUrl: "https://bestgamingpro.com/heres-why-a-gold-rush-of-nlp-businesses-is-going-to-begin/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/07/A-gold-rush-of-NLP-startups-is-about-to-arrive-—-heres-why.png"
+        width: 600
+        height: 365
+        isCached: true
+
+secured: "mKMjrAB9WvBYx54XtZqHpoG6O9udINTiKNC0w6S18EqRyTtLdD6gUqH0ryA4wo3FmvzJzorZ5IUWGXCmb21Lonl4zd/evSxSVGXZjmkH6adopWnka6iqaiHOZ9hPcYn0J78Cm213tlXl78Bt1SZMMpFnCbN3WsFxeCE1yJOmrzmYI2r487g4gpeHtw3E+x3IIPCBToGIFt8pX/Rh3sWTLFl5Y8fuY9iOJb27QYA6LEfI9ewJX4xv+OsGziIxqGcUUFAfmI8v/7pJldKGbjRb/5KQDfKLlvmpDdwRAnDkVqe+KvKMo8CrRYdafNheuelz2hzTxwCyiTNEYjvsVJtJpO4kHgdnLKoz03bI8Ot8Ha2GjMTh2LYoTTtbF5z9/U7USZnXteDOjFBOGSUgd28+uofLQhbKwEPifzZlpfGrh6R3CksDcjVPCSFfQav2idoy+7245+hiuKqCwW9yKKSZ1dkKPrE1bVJirot2wgqN1Z33Gg/xydZcL42VfLe5wOtD1YzvPYx5OoAKM8BphiyxRg==;IrWAd+qyPRSY5OHEurL7Fg=="
 ---
 

@@ -2,6 +2,397 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-06-28-googles-controversial-ai-bot-story-keeps-getting-more-wild.md",
+      "title": "Google's Controversial AI Bot Story Keeps Getting More Wild",
+      "excerpt": "Google recently made waves when it put an employee on administrative leave after he claimed that the company's LaMDA AI has gained sentience, personhood, and a soul. As outlandish as that might sound, there's more to the story. Blake Lemoine, the engineer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
+      "originalUrl": "https://www.slashgear.com/909014/googles-controversial-ai-bot-story-keeps-getting-more-wild/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/googles-controversial-ai-bot-story-keeps-getting-more-wild/l-intro-1656359836.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-deploying-ai-in-healthcare-separating-the-hype-from-the-helpful.md",
+      "title": "Deploying AI in healthcare: Separating the hype from the helpful",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Of all the industries romanticizing AI,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/",
+      "originalUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687-e1654121302980.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/deploying-ai-in-healthcare-separating-the-hype-from-the-helpful/amp/",
+      "publishedDateTime": "2022-06-27T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-nvidia-partners-with-runai-and-weights-biases-for-mlops-stack.md",
+      "title": "Nvidia partners with Run:ai and Weights & Biases for MLops Stack",
+      "excerpt": "In a bid to help make machine learning workflow lifecycles easier for data scientists, AI compute orchestration vendor Run:ai and MLops platform vendor Weights & Biases (W&B), are partnering with Nvidia.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
+      "originalUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/nvidia-partners-with-runai-and-weights-biases-for-mlops-stack/amp/",
+      "publishedDateTime": "2022-06-27T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-australian-retail-giants-named-in-facial-recognition-tech-complaint.md",
+      "title": "Australian retail giants named in facial recognition tech complaint",
+      "excerpt": "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
+      "originalUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-microsoft-is-removing-emotion-recognition-features-from-its-facial-recognition-tech.md",
+      "title": "Microsoft is removing emotion recognition features from its facial recognition tech",
+      "excerpt": "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna35087",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087",
+      "publishedDateTime": "2022-06-27T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-discovering-links-between-cognitive-ability-and-grit.md",
+      "title": "Discovering Links Between Cognitive Ability and Grit",
+      "excerpt": "Individuals who are determined or express more grit may be more able to self-regulate and show cautious control but don't necessarily have better cognitive ability, suggests a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "originalUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/brain3.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
+      "publishedDateTime": "2022-06-27T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-weights-biases-and-runai-announce-partnership-to-accelerate-ml-developer-workflow.md",
+      "title": "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow",
+      "excerpt": "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-openai-taught-a-neural-network-how-to-play-minecraft.md",
+      "title": "OpenAI Taught a Neural Network How to Play Minecraft",
+      "excerpt": "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says(Opens in a new window) it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small amount of labeled contractor data,\" with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft",
+      "originalUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01zNt7tEzKua4wNiI5aBF6U-1.fit_lim.size_1200x630.v1656350088.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true",
+      "publishedDateTime": "2022-06-27T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-googles-powerful-ai-spotlights-a-human-cognitive-glitch.md",
       "title": "Google’s powerful AI spotlights a human cognitive glitch",
       "excerpt": "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ...",
@@ -777,383 +1168,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work.md",
-      "title": "India to get facial recognition tech at airports: Understanding how it will work",
-      "excerpt": "Starting from 31 August, the facial recognition technology under the Centre's DigiYatra scheme will facilitate passengers to proceed at airports without the need for physical boarding pass or identity cards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "originalUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2022/05/Bengaluru-Kempegowda-International-Airport.jpg",
-          "width": 640,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/india-to-get-facial-recognition-tech-at-airports-understanding-how-it-will-work-10842621.html/amp",
-      "publishedDateTime": "2022-06-27T04:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dall-e-mini-is-the-internets-favorite-ai-meme-machine.md",
-      "title": "DALL-E Mini Is the Internet's Favorite AI Meme Machine",
-      "excerpt": "The viral image generation app is good, absurd fun. It's also giving the world an education in how artificial intelligence may warp reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "originalUrl": "https://www.wired.com/story/dalle-ai-meme-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b63286e0a13316321d2421/master/w_1680,h_979,c_limit/AI-Meme-Machine-Dall-E-Mini-Craiyon-3-Business.jpg",
-          "width": 1680,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/dalle-ai-meme-machine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-ai-meme-machine/amp",
-      "publishedDateTime": "2022-06-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-coretech-system-joins-hands-with-microsoft-azure-and-creates-new-values-for-application-of-molding-analysis.md",
-      "title": "CoreTech System joins hands with Microsoft Azure and creates new values for application of molding analysis",
-      "excerpt": "The lineups of Microsoft Azure Data Services, namely Azure Synapse Analytics, Azure Machine Learning, Azure Datalake, Azure Data Explorer, and Power BI, furnish customers with data analysis model ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
-      "originalUrl": "https://www.digitimes.com/news/a20220624PR200.html&chid=9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220624pr200_files/5_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-training-data-the-overlooked-problem-of-modern-ai.md",
-      "title": "Training Data: The Overlooked Problem Of Modern AI",
-      "excerpt": "The importance of data labeling had been hugely underestimated and treated as a nontechnological, ineffective and boring management task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5c1181f0fc88fc17a1f19/0x0.jpg?format=jpg&crop=1660,934,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/27/training-data-the-overlooked-problem-of-modern-ai/amp/",
-      "publishedDateTime": "2022-06-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028.md",
-      "title": "Machine Learning Courses Market| Competitive Landscape Analysis With Forecast By 2028",
-      "excerpt": "Market Trends for Machine Learning Courses Market Insights and Forecast to 2028 from 2022 to 2028 According to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-competitive-landscape-analysis-with-forecast-by-2028-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification.md",
-      "title": "Poolbeg Pharma Partner Completes AI Model for RSV Drug Identification",
-      "excerpt": "Poolbeg Pharma PLC said Monday that partner OneThree Biotech has completed its artificial intelligence model optimization to identify treatments for respiratory syncytial virus, with results expected in the fourth quarter. The pharmaceutical company said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "originalUrl": "https://www.marketwatch.com/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/poolbeg-pharma-partner-completes-ai-model-for-rsv-drug-identification-271656321540",
-      "publishedDateTime": "2022-06-27T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer.md",
-      "title": "Google’s ‘sentient AI’ likened to a 7-year-old child by engineer",
-      "excerpt": "A former engineer at Google has likened one of the company’s artificial intelligence programs to a seven or eight-year-old child. Blake Lemoine was put on administrative leave from Google after claiming the tech giant’s LaMDA (Language Model for Dialogue Applications) had become self-aware.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "originalUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/Google-AI-engineer-Fox-News-5bc7.jpg?quality=90&strip=all&zoom=1&resize=600%2C339",
-          "width": 600,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/06/27/googles-sentient-ai-likened-to-a-7-year-old-child-by-engineer-16895815/amp/",
-      "publishedDateTime": "2022-06-27T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-widely-used-ai-model-makes-robots-racist-and-sexist.md",
-      "title": "Widely Used AI Model Makes Robots Racist and Sexist",
-      "excerpt": "A robot operating with a popular internet-based artificial intelligence system consistently gravitates to men over women, white people over people of color, and jumps to conclusions about peoples' jobs after a glance at their face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/widely-used-ai-model-makes-robots-racist-and-sexist-363042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363042/widely-used-ai-model-makes-robots-racist-and-sexist-363042-640x360.jpg?cb=20220627",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

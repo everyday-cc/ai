@@ -59,7 +59,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 37
+    quality: 54
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17e6484d-f6d0-4d38-88c7-13e07baa66d5/Rendition/low-res/Content/Public"
         width: 700

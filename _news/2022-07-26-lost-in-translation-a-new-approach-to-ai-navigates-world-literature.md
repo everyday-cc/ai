@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lost in translation: Europe’s quest to speak AI"
+    excerpt: "A group of European scientists, researchers and business interests wants to turn Europe into an artificial intelligence powerhouse by building a supercomputer to develop AI language models. If they don't succeed,"
+    publishedDateTime: 2022-07-28T11:20:00Z
+    webUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/"
+    ampWebUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 59
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Digital Transformation: UP, AWS Institute Train SA Public Sector"
     excerpt: "Cyber security expert Prof Jan Eloff, the acting Dean of the Faculty of Engineering, Built Environment and Information Technology at UP said: “The programme equipped senior public servants and elected officials with the confidence and expertise they need to lead the successful digital transformation of public services”."
     publishedDateTime: 2022-07-24T15:15:00Z

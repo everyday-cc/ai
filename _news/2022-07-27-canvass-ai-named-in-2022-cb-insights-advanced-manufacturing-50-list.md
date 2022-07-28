@@ -19,11 +19,11 @@ topics:
 
 related:
   - title: "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List"
-    excerpt: "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass., /PRNewswire-PRWeb/ -- CB Insights"
+    excerpt: "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo"
     publishedDateTime: 2022-07-27T19:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28232774/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28232774"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232774"
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28232813"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813"
     type: article
     provider:
       name: Benzinga.com

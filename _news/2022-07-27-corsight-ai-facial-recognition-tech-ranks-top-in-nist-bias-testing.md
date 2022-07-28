@@ -7,8 +7,8 @@ originalUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facia
 webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Security
@@ -39,6 +39,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Corsight AI partners with OneMind Technologies to enhance security in smart cities"
+    excerpt: "Corsight AI, a facial recognition solutions provider that codifies privacy requirements and is unmatched in its speed and accuracy, has announced its partnership with OneMind Technologies, a subsidiary of Affluence Corporation and a specialist in ..."
+    publishedDateTime: 2022-07-28T11:26:00Z
+    webUrl: "https://www.sourcesecurity.com/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 48
 
 secured: "yxBn/nQnJGIZDFoUWknbb7/UbQchok5onC8IHU0fPTAmJYllAVntHSew+5oIlOnKJjFXiXsNmiEJsbjPx50OIn2Gb15XJpyZ+SuVElSk6gQLGy0CgDuYRa0ujukZRbHV33Ee369PrEMnJ0annLu3Rhv0fhb9nqhyCuJTCgiYwRv1lcUVChv1NwfxSyJZeRo06mEgZCKMtpTb0E3lTNyfnBYJSKenzgRFDmx+lLlbYdb6TI0QfmWcCYDKlObxRHbGyVWC+uMBBAt6WvO1U4mQEWcZBJpQT7W7PHbxvveN6iYvOQ0mcyUCmmrGYsfO2+3Ut6DIwH8Ywbewvpxt+a2+SiiRw3k4/lJhXZ30yLLnB0I=;o1VEqd4EAmwmLwBL3ERuWg=="
 ---

@@ -2,6 +2,333 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-26-how-to-prevent-phishing-using-visual-ai.md",
+      "title": "How to Prevent Phishing Using Visual AI",
+      "excerpt": "Various researchers and organizations concerned with cybercrime understand the severity of the increase in phishing attacks. Therefore, phishing awareness training and detection are two of the best ways to prevent the most significant cause of data breaches globally.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/",
+      "originalUrl": "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/07/Visua-Picture.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/",
+      "publishedDateTime": "2022-07-26T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-considering-the-fine-line-between-ai-democracy-and-autocracy.md",
+      "title": "Considering The Fine Line Between AI Democracy And Autocracy",
+      "excerpt": "We must demystify AI with fairness and responsibility while being competitive to harness its transformative power and potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61892951ad641ca64a264904/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
+      "publishedDateTime": "2022-07-26T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-experts-weigh-in-on-voice-control-technologys-pros-cons-and-future.md",
+      "title": "Experts Weigh In On Voice Control Technology’s Pros, Cons And Future",
+      "excerpt": "Perhaps you’ve had desperate moments with voice control technology in your own home when you just wanted to shut the whole thing down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
+      "publishedDateTime": "2022-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-its-finally-time-for-ai-in-healthcare.md",
+      "title": "It’s Finally Time For AI In Healthcare",
+      "excerpt": "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-07-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-3-green-flags-for-c3ais-future.md",
+      "title": "3 Green Flags for C3.ai's Future",
+      "excerpt": "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
+      "originalUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
+      "publishedDateTime": "2022-07-26T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-police-can-use-facial-recognition-again-after-ban-in-new-orleans-home-to-sprawling-surveillance.md",
+      "title": "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance",
+      "excerpt": "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
+      "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
+      "publishedDateTime": "2022-07-26T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Protocol",
+        "domain": "protocol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group.md",
+      "title": "Facial recognition cameras in UK retail chain challenged by privacy group",
+      "excerpt": "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
+      "originalUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
+      "publishedDateTime": "2022-07-26T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
       "title": "Beeline Loans launches AI-powered investor loan application",
       "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
@@ -862,331 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.md",
-      "title": "NZ Fry Up: Internal Affairs renews deal with AWS; $25B in IoT spending",
-      "excerpt": "NZ Internal Affairs signs all-of-government cloud deal with AWS. The New Zealand Department of Internal Affairs has signed an all-of-government agreement with Amazon Web Services",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
-      "originalUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/1200x800_fridayfryupwithtext-100853181-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
-      "publishedDateTime": "2022-07-24T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
-      "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
-      "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
-      "publishedDateTime": "2022-07-23T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities.md",
-      "title": "How drone autonomy unlocks a new era of AI opportunities",
-      "excerpt": "Autonomous drone technology lets us digitize and analyze the physical world, observing and improving our world’s critical infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
-      "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1319586125-Anton-Petrus.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
-      "publishedDateTime": "2022-07-23T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
-      "title": "Google fires engineer who contended its AI technology was sentient",
-      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "publishedDateTime": "2022-07-23T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-elon-musk-has-likely-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Has Likely Downloaded His Brain into a Robot",
-      "excerpt": "\"20 to 30 years from first human landing if launch rate growth is exponential,\" Musk said on July 15 to a question about the estimated timeframe for creating a self-sustaining civilization on Mars. \"Assumes transferring ~100k each rendezvous and ~1M total people needed,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg3NjE5NzYxNjg0MjI3OTgz/las-vegas-strip_2.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
-      "publishedDateTime": "2022-07-23T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-24-new-discovery-on-mental-illness-indicators-using-the-ai.md",
-      "title": "New Discovery on Mental Illness Indicators Using the AI",
-      "excerpt": "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
-      "originalUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
-      "publishedDateTime": "2022-07-23T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-the-future-of-creativity-brought-to-you-by-artificial-intelligence.md",
-      "title": "The future of creativity, brought to you by artificial intelligence",
-      "excerpt": "How can AI reshape creativity in the business world? To start with, it can reduce the time and resources spent by marketing and ad teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-07-23T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

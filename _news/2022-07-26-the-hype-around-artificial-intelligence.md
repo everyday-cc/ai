@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-in
 webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The transatlantic AI divide"
-    excerpt: "Tech regulators on both sides of the Atlantic hope to prevent a split on AI rules like one seen on data privacy, where regulators in Europe got out ahead of their U.S. counterparts and sparked all kinds of havoc that continue to threaten transatlantic data flows."
-    publishedDateTime: 2022-07-26T20:11:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/07/26/the-transatlantic-ai-divide-00048016"
+  - title: "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles"
+    excerpt: "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems."
+    publishedDateTime: 2022-07-28T11:30:00Z
+    webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 37
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://static.politico.com/29/1a/a9600dec4386907f5c9b7c30c4f1/download-71.jpeg"
-        width: 1160
-        height: 629
-        isCached: true
-  - title: "Art Meets AI Algorithms"
-    excerpt: "I became familiar with his art during an auction at the primary school that our kids were attending. Marco heard about my research into AI applications in asset and wealth management, computational and quantitative finance,"
-    publishedDateTime: 2022-07-27T20:12:00Z
-    webUrl: "https://news.columbia.edu/news/art-meets-ai-algorithms"
-    type: article
-    provider:
-      name: The Earth Institute Columbia University
-      domain: columbia.edu
-    quality: 37
-    images:
-      - url: "https://news.columbia.edu/sites/default/files/styles/cu_crop/public/content/ai-1-marco-gallotta.jpg?itok=LGb9EH99"
-        width: 286
-        height: 375
+      - url: "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "l9F1laMmuomiIBs35PhZO9NB6Rmy7CG4jH7taytzwJhGyk5Xy6BPrgmtW49mrrz3S93vQe/HJYwqMyNB1kYTmV6LlvKrCPNVobNi/CVxdX+XIjwMwdabuHyvIoNTwustnjv19CdaQcfL7bK3Sx3kYWK26wGAVkQDEPOkwN9jjGwwdBK4mmKcnWHmQlNNMzO6147qDft/YX3QIUwQmxEtbBAaGpasLEg2Ie4d9uQeZJbV0Gw0iHu4Tf5UvdrhgV3e6Rsal3rfYh79imOPRu1qa1AZw0+Ehq8wIafgBJvbFZ2XvHyUwRj93xawJo3v1wAOTsVm4SxZGwNCLoH7SRj+XrJiBDw3zbVx7MAxl269wGo=;a5TPhD3MbJFfrfCGkMTdEg=="

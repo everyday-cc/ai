@@ -2,6 +2,348 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
+      "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
+      "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-FSD-Beta-miles-driven-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/",
+      "publishedDateTime": "2022-07-20T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-the-dall-e-ai-image-generator-just-entered-a-limited-open-beta.md",
+      "title": "The Dall-E AI image generator just entered a limited open beta",
+      "excerpt": "OpenAI's Dall-E image generator is both powerful and weird. So far, the developers have only allowed a handful of AI researchers to use the tool. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "originalUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-20-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming.md",
+      "title": "Driverless tractors are here, and that's just the beginning for the future of farming",
+      "excerpt": "\"We launched the first driverless tractor that actually ... Camera images also run through an artificial intelligence process that recognizes humans, animals, equipment and other dangerous obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "originalUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
+      "title": "TechSee Launches Visual Intelligence Platform",
+      "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/146677-0722_HappierAgents_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-dall-es-powerful-ai-image-generator-is-now-available-in-beta.md",
+      "title": "DALL-E's powerful AI image generator is now available in beta",
+      "excerpt": "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "originalUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/08fb3150-084c-11ed-8bae-00915c7d9e77",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
+      "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
+      "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-20-at-1.27.44-PM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
+      "publishedDateTime": "2022-07-20T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
+      "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
+      "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
+      "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
+      "publishedDateTime": "2022-07-20T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-artificial-intelligence-ai-and-the-risk-of-bias-in-recruitment-decisions.md",
       "title": "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions",
       "excerpt": "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems",
@@ -836,334 +1178,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are.md",
-      "title": "Transform 2020: Women in AI and AI Innovation Awards – the winners are",
-      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-07-19T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
-      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
-      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "publishedDateTime": "2022-07-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
-      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
-      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959388",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
-      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
-      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
-      "title": "Should We Worry About Artificial Intelligence?",
-      "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28124099",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099",
-      "publishedDateTime": "2022-07-19T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

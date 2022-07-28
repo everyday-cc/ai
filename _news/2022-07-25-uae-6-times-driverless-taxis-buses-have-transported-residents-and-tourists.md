@@ -1,27 +1,27 @@
 ---
 category: news
-title: "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists"
-excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
-publishedDateTime: 2022-07-25T08:41:00Z
-originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
-webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
+title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
+excerpt: "Dubai is just months away from launching its first driverless taxi and e-hail services. By 2023, Dubai will be the first city in the world to commercially operate Cruise self-driving vehicles outside the US."
+publishedDateTime: 2022-07-25T10:16:00Z
+originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "4GYlW/mGwPbS6VF3y/w3QiSv6cIWfe3Jquby2IOF5AJqDUC1h2zc3xUTfdm/kDn9XqQKWD+0HWRwVH9I5zQzIVeX6ba0yCTobNS4KWgvxRUrAtRrPOER8IJAO7HrVFT6VyPwE4POuLnm3WRWK96BY6XymwKkLgn/B2NuxUqyY4iRy8VzGZuMdFH2y0+7F9yX80u4odzvJUkFUDoezGUp8h/aJ3AZcobJVQw0PB5hz8smDTSBKU79bAFKI213Lk+xBGergc4SBB2HoySrzEDm2WysjE819rgJHUqa5NGuWY+6RhzCxKWa69IqWrPPSfMw3oFj8C1kqFf8NJguTJTRjdjmETYfMM/BnygFV71rRCg=;wL/B/iT75AmgKH23Gdp7ZQ=="
+secured: "ShVUM8vzRoYGrcUqw/rx4veIziCbQKkgDFpSchr8HiEOwr7x+J1QqwOnv1P73SuKl6c7wY4aaTTG78xRf+cDxfP5eKDQ8AEStUttlHWIGi6JZLr5hD5RGnjDFPGOLdruFq/XmpPHZvFzGpy6QQ6k4va4HLVVXLnzGzBrpswRa1N83xF2WXI9utBPfIa/qPuUw7IrRTMZEZw+bMCywSYmzIRv0MRpKaI97l4adctDed8fvd7v3OZyOu/xIadl//ugf7cmtD7Awov7KGGKd7ypN7bhMN5lAhpEuS+jJTdozhfv/bVVLNJjly3GmQyGGZ3oZ7o06Y0u3AEkaTWmpSCab7moFZ/qG7sTuPcQwFuPCpQ=;OHb7h392tifEyz1EAC+XKQ=="
 ---
 

@@ -69,6 +69,20 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "JK Tech launches AI-driven Smart Analytics solution for retailers in the US"
+    excerpt: "Serving clients across industries since 1994, JK Tech has been providing agile and customized technology solutions for enterprises. Using JK Tech’s Smart Analytics solutions, grocery retailers have witnessed around 15% improved inventory turns,"
+    publishedDateTime: 2022-07-28T11:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-b8500cf80468944e5bc928886be42ae5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "GFT among Europe's leaders for data analytics and machine learning in the Google Cloud"
     excerpt: "GFT has been identified as a leader in ISG's Provider Lens™ evaluation for Europe – Google Cloud Partner ecosystem data analytics and machine learning 2022 \"Strong visual inspection capabilities make GFT a leader on data analytics and machine learning ..."
     publishedDateTime: 2022-07-26T07:30:00Z

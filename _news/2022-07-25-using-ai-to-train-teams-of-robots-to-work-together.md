@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-25T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/959810"
 webUrl: "https://www.eurekalert.org/news-releases/959810"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17e6484d-f6d0-4d38-88c7-13e07baa66d5/Rendition/low-res/Content/Public"
@@ -64,6 +65,6 @@ related:
         height: 464
         isCached: true
 
-secured: "CLzbJgLmMeunBiwfNUkrPkuNk0LV8n1UWXoEslU9y2ycKJCX5j5s5R/mHyLtlJXEhJoEsX6UVeEQvLvYyPcQZmJ+mY/VfadCMSxgZoG3KqNq0CFhb1IGVOYOgfweuLve/Ed9G4TNATwKmZPHIhFiI3iX7v6ZTFceqbIC2otiJVofeF82tJ5P+vJT+C91Yd0O+iNfurwXBShhIiyPP5ozAYBjsBOo3KLNMv8jiUU1FPYv8GQkxYC2v9aqVIGInfCk0HF12PBiIsGV3WQ7xbVdECnF4UNBmeNW8AbHs6JglY5KxsY44G7K0poEW7t7PxfoNbip37zCkfwRGOyfOGS9XWqQ0NxOy7XzbpflQJgdWDA=;/+AQSixGmNi8WN7ZcHYNrA=="
+secured: "bcMQ/rdOGv+ZpbQH6jngqwF00eU3NrTH+DKINVSnHfZNSv4UB3Mw/xAzURe64jC6PIjMLS5bZ+yyd7jJ5U9635mhhUX150ZxCEtHSbrS1diDuSio6Ubq5HSYvwlUdh4+KXbwCv2uVG+VOfr2LSpSNxEbKhQL07gRtLGs6X2dmjdcHSCpo23U2Z5IVsbcIL/BWRUCr3M68kbtmSD0glX4bWXIsygTrVflODJyl0VMVmrpCC7yh2GBoHMzYkSqbNDZu3DzAfIatM4JK7jw8PbVU/tzbl+tE0ZrnCtj9ZaPrfGC4D52kPwUvOqJcyKtOgeaa1QLod46TO9lHF+ADkw1dDTLavu1E2uX69IICznmktiMy8+NoXVA040foZLL/VgB+1LveJPFkqZoCNVucA2h/nUCyL0O2HNxWsl1ChPmuyo/dDnlYcdcatCm5oadS1rQCP9RjSrxRXamVgFKz7lSQsPIopOterYJ7QXPi8w8qtUXANSOUdlHiTNszSQafttoklL7s5ddd80eCNDO74qWnQ==;0PQkHvLcNJkCw9Nav4wZjg=="
 ---
 

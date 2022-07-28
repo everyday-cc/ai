@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List"
-excerpt: "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass., /PRNewswire-PRWeb/ -- CB Insights"
+excerpt: "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo"
 publishedDateTime: 2022-07-27T19:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28232774/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/n28232774/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
-ampWebUrl: "https://www.benzinga.com/amp/content/28232774"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232774"
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list"
+ampWebUrl: "https://www.benzinga.com/amp/content/28232813"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813"
 type: article
 quality: 72
 heat: 82
@@ -37,6 +37,6 @@ related:
       domain: menafn.com
     quality: 17
 
-secured: "9WT5v8tZhyzARNpJDBA+MSXVaMmi3+e7rT7wVqL6v/fTFOZ6RHPY1JYO3ZMvwNCYUFZN+o/buiSYERN4Qc5oBW5eS9dxYY3Ii2A8BfsMEVKXMVSIQ5ssSKgdmiBrI1xX4NpOkxF0lTRvU+lbUI2Azq7W3tzWyb8sSGI6GXvnhjsdmXELDA1gkstJ2sFQt8zP3KRTV7sL1AEMokYZR4xWnIVMJTfpDVTR7nxaEGb0brhKDcJFEoc8SQzYeeskMYZK55ylHPIfHBKZ7WH6jTq4nQ8KoNT01Rm+EwYC2IE6yM5AKnC1vZsIl9T1tvR7Y8ojoMM7JJ3jemUn8JQckDBWc+hfP0B5e+KBTnn7qPmTkaQ=;Vzsd5S19xAhYpAKOTrI+9Q=="
+secured: "A/l4g9EftIlaSN94nkL7fSdmYoRZmqPTKI4Q09MHpR2CkzxZ/r1N2wZSrfkMnedtdpS8ikQ0OuV0OIUNsItCZDGN8xOgJPOgV1kYefIQ2BLPpyVcVTHavzQ/0KT95PLfjOqz7VO5WrYxiR+gC0W2acoanVtW0iqTGVd9MMyS18fU5SJfGXvotWHYVJI7Xs02zVtl4OWnbpIbHgriLlJyu15LaOG8oaos8wsJq2kHJfZ/ctxbvPmczoV2SyvBFyxefdM9C7x4dYotJCzPyjg6XO8FdEkvuX0KbapQL7ZmXLWrNq0KUj5lK2ly9OjO6SrHAN9XUdht81dpK3PYDZl/XGXmOrnrZ0cRWMsO+QGiVac=;nnHcc/A8246rJyNLN/LmPg=="
 ---
 

@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
@@ -21,6 +22,6 @@ images:
     height: 338
     isCached: true
 
-secured: "4H87DfvYAfkMQCZRoanRRxUWf8r4ScALhGcYm9wvEezcNgY+eMlyyc7GPxEDB2n3OcDiSbgz6pySnfG/Iwizq7cEqdEeU4Ics8ubMuTqHlVfMSSukhacRXvsVxMRZdA5iY1dk9Km+qxWcqcmoC8O+1W0EZNlkhpr7l1W2VEB9BBPi3bScTRsfdsreO4xy1o/n+M5ta2FIvHYha27fnQsLamYQOcCAwRseDg9UQPXlXB+XE4TQodtQM3q4anf5fqIjv4PrJqWmHRBauFcpOYme/K1EWiZBhe1IxoHQO6LqA6suHQb3rawEJwjB5+l25T6itP6l+O23EI+EKEU9gmZRv9AsntvIvZyTnGKrJ+u33E=;MhitRtCP+d5aLR7btyNucw=="
+secured: "/WIDscICKDqeCP2NGXdb/j+I1kk69D047zTNsDVFh5X4FWZvY/zzDSdCNBuyz0VHNJCquBxFZ5r3k1HbB2KQ1WHAP+uXEyslYH7GaTsb+57s5N0QvR5oZxV8B82k2FEzDcOkrfzjQ6KjtWi8PiKMcWt6q8zFxRIb0IFgic+LyB3603/eVu4nGSTjxTqzSk08ZHfwpjiP6kEebyN4tmemKrdRJRwHiRki2hzmMQKrblhmmKgTGnXl9pHcxYAncaJ1xzBXtcOTVXOxS0VbaLWI7eRplG+teP002fHg3KN614QZrgX3VIr5C5ATS1w4PLMBuILuOr3nsIq5Y4X6kbPPtJpk0RChpokgST/OYu9FdjDnEqir1srpNvPNwfV+nzglCb4ne9V/EENIiBptHKMaACLsq/yY7Fbw5P5X+DcP+phSTVEOG2/AcbOIwvFCofc6bvMB/x2TXfMJd2cz/wvC1MdEWnQP1sbZiVfBHx/L1PkdF8w8H8zRxgWs6HQ077iplfBRZ9uJ4kRa6mjNL9kisQ==;lBpVpT2+bpk1ktuBCD4N7g=="
 ---
 

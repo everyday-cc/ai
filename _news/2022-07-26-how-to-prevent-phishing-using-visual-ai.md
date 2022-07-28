@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Impacts
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Five alternatives to using AI in the recruitment process"
+    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
+    publishedDateTime: 2022-07-25T00:37:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
+        width: 733
+        height: 358
+        isCached: true
   - title: "How a Philadelphia startup is using AI and machine learning to better predict clinical trial success rates"
     excerpt: "A chance meeting at a bowling alley three summers ago laid the groundwork for what has evolved into a health care fintech startup led by three Wharton MBA alum."
     publishedDateTime: 2022-07-24T15:56:00Z

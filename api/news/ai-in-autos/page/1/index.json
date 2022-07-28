@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
-      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
-      "excerpt": "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
@@ -117,6 +74,49 @@
       "provider": {
         "name": "Japan Today",
         "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
+      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
+      "excerpt": "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1046,10 +1046,10 @@
     {
       "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
       "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Washington, DC (CNN)Andrej Karpathy, Tesla's director of artificial intelligence ... including Alphabet's Waymo and General Motors' Cruise. \"Is that person distracted and on their phone?",
+      "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1068,7 +1068,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "publishedDateTime": "2022-07-14T08:29:00-07:00",
+      "publishedDateTime": "2022-07-14T08:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1083,6 +1083,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi.md",
+      "title": "Artificial Intelligence In Insurtech Market Type, Application, Key Players, Region-Forecasts Over 2022-2028 |Latest Research By IBI",
+      "excerpt": "and self-driving vehicles, speed up the artificial intelligence (AI) insurtech market development. The expansion deprived to offer customized protection administrations and reception of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/b2256bb83490cc83e3b7c4897085f5d61ac37c00-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1275,59 +1318,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-when-ai-makes-art-humans-supply-the-creative-spark.md",
-      "title": "When AI Makes Art, Humans Supply the Creative Spark",
-      "excerpt": "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/when-ai-makes-art/",
-      "originalUrl": "https://www.wired.com/story/when-ai-makes-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62ce1726540a1fd5ca4bd872/master/pass/Dall-E-2-Meat-Men-Business.jpg",
-          "width": 1312,
-          "height": 984,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/when-ai-makes-art/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-makes-art/amp",
-      "publishedDateTime": "2022-07-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

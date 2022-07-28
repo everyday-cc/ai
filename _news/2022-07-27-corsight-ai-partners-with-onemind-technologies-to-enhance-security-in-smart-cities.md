@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Corsight AI partners with OneMind Technologies to enhance security in smart cities"
+    excerpt: "Corsight AI, a facial recognition solutions provider that codifies privacy requirements and is unmatched in its speed and accuracy, has announced its partnership with OneMind Technologies, a subsidiary of Affluence Corporation and a specialist in ..."
+    publishedDateTime: 2022-07-28T11:26:00Z
+    webUrl: "https://www.sourcesecurity.com/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 48
 
 secured: "W/OdpY2nZcD5CyoC1WcrQJZ9XA9MgREsOOws5eYdZ37zzTpvssiGFVvhrOwf7JK0fdixYjPO3II52MBEpHesOSH/sBcUQL/VXQwjWOZoTpEhB/4r8qqcbptND0fv5WSlW62PE/XAY4UujCTjz7Jo+FQfo3K8r4p8gVxa9n86QakkmL4E8rU2JcEVYM2WUiFAueTuIqFcs8hfFjoOljMxtLAqmmDLiOEyxB/4w7BrJ0H3tOjcMHTsSMyPvkeC1N3gexeRrVZOa0CChhEMg7otgdPXBSVAviQgl19y3mnTnft0/UeveFhaJ/wgF/I/GhU3OFLph/a/SwHiaF2ruO+b0MYEwBh6CoBhnjPRRNO9mI8=;8Pk2uhDWYHAxZSZKbvT61g=="
 ---
