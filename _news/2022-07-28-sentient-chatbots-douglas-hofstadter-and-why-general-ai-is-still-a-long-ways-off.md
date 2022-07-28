@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Sentient chatbots, Douglas Hofstadter, and why general AI is still a long way off"
+    excerpt: "One of the the fields leading thinkers, Melanie Mitchell talks about why humans are unlikely to develop general AI anytime soon."
+    publishedDateTime: 2022-07-28T06:47:00Z
+    webUrl: "https://interestingengineering.com/science/sentient-chatbots-douglas-hofstadter-and-why-general-ai-is-still-a-long-way-off"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 32
+    images:
+      - url: "https://d2kspx2x29brck.cloudfront.net/2022/07/27/image/jpeg/PTIk1s1RkzFrsFZPEwuP3vJecdVSBDmKAbpTc0m2.jpg"
+        width: 1365
+        height: 768
+        isCached: true
   - title: "On the Talent Hunt: AI chatbots for staff built by my startup help us work smarter and attract new staff"
     excerpt: "... 2016 to build artificial intelligence (AI) chatbots that help businesses improve operational efficiency and marketing effectiveness. We have 16 full-time employees across Singapore and Malaysia. As a startup, we struggled with manpower issues from day one."
     publishedDateTime: 2022-07-24T00:29:00Z

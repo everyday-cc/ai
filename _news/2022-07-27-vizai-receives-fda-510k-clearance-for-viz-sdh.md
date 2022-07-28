@@ -3,11 +3,11 @@ category: news
 title: "Viz.ai Receives FDA 510(k) Clearance for Viz SDH"
 excerpt: "Viz.ai, the leading AI-powered disease detection and intelligent care coordination platform, today announced it has received U.S. Food and Drug Administration (FDA) 510(k) clearance for Viz Subdural (SDH)."
 publishedDateTime: 2022-07-27T15:51:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-san-francisco-artificial-intelligence-7114d43a5c044f1aa241349e636a107e"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-san-francisco-artificial-intelligence-7114d43a5c044f1aa241349e636a107e"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-artificial-intelligence-7114d43a5c044f1aa241349e636a107e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-san-francisco-artificial-intelligence-7114d43a5c044f1aa241349e636a107e"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 500
         isCached: true
 
-secured: "6AK5oTcyXuw7Okmh7BjUHxGe49epzAfHbEJPmC+i3j10aG/YHZbh/iUY7BOlhDa9LFX+c5YpTe5OKkxaYufXtWVwxEa5b2wA5z5IPCvlN+TT5UBn4O6NQw2/e1Lz+c8XwohPMx2PWST7uLgKMMuBlVifDzGSI9TQX/yfC2EmCCN9kfNDrBkri4FEbc7agmBcc3zinVs8R7G/ED85SDkozztLFh3KOdw7f7KB+anD5H5xzlO5ty8BBLadSF7dAFS78FNS+7XFRO4AxjxFBzWOyqBairJ2ZitLsoottHVV/bgSW8zukDthcOOrqkYEwymSJIOKq6K8XD/H0Q4iy2LT3gId8iSTKtsgaBko/VsG+7k=;1W4kKZ6cXDZEhJNZMoszmw=="
+secured: "8WjKz1IQuz3r3kXky237LbFX9GWfXJc2nj+Z+vJeh0ODGNSJfuR+XH8tUTVWcgqN/tYddN01NVI5zdwE7cROalNJY1cCvslXiaM/H/dLh2RsXuJN0n9Z9RPoUEDdKxGNjtIs0rcBO3p1/liGJVoqq8IxyKAt1VXtKDArKar9uvp2Z8bBcYxRErvpm6qyYr+muCx1z1WtNwrjwDvT8mbQKC/G3GyMlITY8AzfPjWjIdArkWZrImUieWwab6G3DUypnZ2MuvzgI0XtVwj/4leLPC/50M4HtJjb2NS2S3yptjp33w0Bt4HzVELVxN4lscANBlBRJMvSC6dynbmzdIqfDSfL5SOk2mcqu4lgQNcFPow=;N0/FwlP0Wo01JQg/+vlcNQ=="
 ---
 

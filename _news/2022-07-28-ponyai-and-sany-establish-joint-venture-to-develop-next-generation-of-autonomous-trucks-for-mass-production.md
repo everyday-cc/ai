@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 592
         isCached: true
+  - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
+    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
+    publishedDateTime: 2022-07-28T08:41:00Z
+    webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
+        width: 800
+        height: 524
+        isCached: true
 
 secured: "eINZVaXhQnIqQbQs6uQOYEXlVl473GdngOs7QdaNMJ/3hpcyaE5XpJ/2u9EhbYOjgWluuQp1TItQJwvr9jV+RVuuqku4tYbFZorC5X3W1lDt4OiLNVh/9B+yeCIRH23h5ALMKZLOphBo9fKZG0OSSAFZfMLYDki9yh+FLD6WYDYJNbrJ2fUKO7DID1Eld0DWvyn2zw0YSz7rPNeIEToZmfFp9QWQjCJX3NxYGf/sPsr9TEQFOW6SsK+hqppcI7FLvYiqcFTQ/meQLzhU5zUrJSYAOz364Q9M9EZIFkKiHZtohjPK5D09U48fSLfVmsHjPP6Goi9o7geAIlnpUtneClQn3P2wgyKTJL93UvSGPB7/5pNfsNgzJ2+fvawWcdiXGmNeCA8EEo0BJPAlsUwZXMXFE27JYZ6yOwM0Vhchv54GFGpy1L8ff5lVb9s2IkNGueOHQ7M9F8n5D3Pjg7l4mnKhSRpHYF+0yLqd/gI9eSek86KJ28tOxu05ns+ug+kaDkPPg8Rte26Eixe0/LD5hw==;+GBeLJEuidDUu+Jy1HIe4Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex
 webUrl: "https://www.itbusinessedge.com/business-intelligence/google-vertex-ai/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 811
     isCached: true
-
-related:
-  - title: "What’s driving artificial intelligence?"
-    excerpt: "Artificial intelligence’s vast applications demonstrate varying and even contradicting goals. Some believe that the goal of AI is simply expert systems that support and enhance specific human endeavors like targeted ads on social media sites,"
-    publishedDateTime: 2022-07-23T17:00:00Z
-    webUrl: "https://highschool.latimes.com/the-kings-academy/whats-driving-artificial-intelligence/"
-    ampWebUrl: "https://highschool.latimes.com/the-kings-academy/whats-driving-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/the-kings-academy/whats-driving-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2020/08/artificial-intelligence-3382507_960_720.jpg?fit=960%2C640&ssl=1"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "T7k2NYn1xeyoV9wlDDdm5JDuMH32h9HE5LDFuLRiulNat9RemZscp36EyFwtYtrQ9ip1rPacNlh9uP0qH55s4QrZ0MHlxg1qPHdfMCj90oKq5fMlofMRgsz55WzIgQSJcqnyEU+cn6hiixZTxxVOzaHTZ7kWjJftiYH+TCy6p/mLnCw2cqzeJpGFq1txePDTZH4URoCV2exqJ5nn3c5cu9YbwIZ0HGncvIQffKGaoWNHacRyu9XXYxLPH30E3Hb+//tP1AQpBKjPoW8lwobkerylm+Q+vdr3KTH2cJtlfJNrj9ka2DPX+8T2psLEt6P2MlcJNblDZoAQSFEpeVhhCR96tYlarhnYk9w4I/Iht61/RZ5xYIxyWDLhovRYXivdq9W4ugp70GNZhxWYr2DVCcMN0jEqfItpbYQ4ST1brpXXcTpIsR46RqkjlxRQHWJB5xAh5hkkZBUT7FuZkkcOD3Oj+bJ3vGH6RHNf6KL6n0WMt6q2JfGzV/AdehFAeRZUTdfoeaz9Qb1kb+bo99d0jQ==;OSZmFl1ejl8Aj/CuL5hwAQ=="
 ---

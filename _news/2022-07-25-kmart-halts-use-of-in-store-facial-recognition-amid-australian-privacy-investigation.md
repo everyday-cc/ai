@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -160,6 +160,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.1244%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/94c14cb850cffd990beaeee1b631238fbca1b380"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Our View: Place privacy restrictions on use of facial recognition software"
+    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"
+    publishedDateTime: 2022-07-28T09:00:00Z
+    webUrl: "https://www.eagletribune.com/opinion/editorials/our-view-place-privacy-restrictions-on-use-of-facial-recognition-software/article_cd4f4d60-0de3-11ed-855a-0fbaaddd80f3.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
         isCached: true
   - title: "Kmart and Bunnings back down on facial recognition after CHOICE investigation"
     excerpt: "Two of Australia's biggest retail giants have paused their use of controversial facial recognition technology in their stores following a CHOICE investigation and weeks of public outcry. Kmart and Bunnings,"

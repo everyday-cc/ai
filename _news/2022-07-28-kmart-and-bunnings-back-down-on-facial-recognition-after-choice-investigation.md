@@ -171,6 +171,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Our View: Place privacy restrictions on use of facial recognition software"
+    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"
+    publishedDateTime: 2022-07-28T09:00:00Z
+    webUrl: "https://www.eagletribune.com/opinion/editorials/our-view-place-privacy-restrictions-on-use-of-facial-recognition-software/article_cd4f4d60-0de3-11ed-855a-0fbaaddd80f3.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
+        isCached: true
   - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
     excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
     publishedDateTime: 2022-07-27T12:13:00Z

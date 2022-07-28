@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
+    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
+    publishedDateTime: 2022-07-28T08:41:00Z
+    webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
+        width: 800
+        height: 524
+        isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
     excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
     publishedDateTime: 2022-07-28T03:32:00Z

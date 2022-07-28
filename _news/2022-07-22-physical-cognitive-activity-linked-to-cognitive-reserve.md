@@ -3,24 +3,26 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://dothaneagle.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_bfe934c4-9dfe-51d4-80b0-befe29728224.html"
-webUrl: "https://dothaneagle.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_bfe934c4-9dfe-51d4-80b0-befe29728224.html"
+originalUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.html"
+webUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.html"
+ampWebUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.amp.html"
+cdnAmpWebUrl: "https://lebanon--express-com.cdn.ampproject.org/c/s/lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.amp.html"
 type: article
 
 provider:
-  name: Dothan Eagle
-  domain: dothaneagle.com
+  name: Lebanon Express
+  domain: lebanon-express.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/9/a2/9a2a00b9-13f8-5761-8e60-93a06ee040f4/62dad7c64b3d2.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/lebanon-express.com/content/tncms/assets/v3/editorial/f/99/f99b85c9-1f14-5e29-8fd2-ca907aa89281/62dad7e707828.image.jpg"
     width: 600
-    height: 315
+    height: 466
     isCached: true
 
-secured: "uKHGQ0AfJPoLzbs8SRAIA/sVbMht1Bp8B0tonz033+bR427vskH82pFRt2BVVDOhHsVsOjVx0LHo7LemT48Po0hZTCPlPn1AjP/RvvvXzQaA4UbQV0NTOM9w2ZhibkS+FbyGeRdlOvXbXhCLpxg4AGzugN2FXMJDY0d3NRkhwmM46wb4j8EYfmor9R8U0uLp2jrYbAt5j5d3T77cs/fEfnUhWLRdGq9Ogfznw6RJ6aW2MaXlMflQ7r7wL5OFMywPas8IRPVsPFIfJmMH1tLAWMDGFL3TAMGM0hy8OUn984dbtI3efjdZFLsRGO1uU5PddAAD2WEGJ6z2TZN05lyjRAp6wPqSoEKEANe2cNMiXziy46JKbHkbqKNckeu644+S6N4xhh/Ee4WqAjeizT6VuutDA6vaU/tQwR67jyUpmdhvQbiTf4texxJOD7il+954+OY91pgxU6tBLslgqYU+z71eKOzJsbP2yS0GWgxGcuyBE+0tmuyn554IGaUxGSlp8ObEydBYD0Ki7S0b9r7W6A==;mfjV3Zh5LPs8282RVtIoQw=="
+secured: "XVAErsEq4QgaW9LH7Ekbe0Jl8jGHYOeiSkEZlT3IB1UsDE+wVLYWAsstuffNa8RiWdu8VijJ0Z2cEv9LMIAaP/GlY3qMytiOaXBuKuzKKzSPVA8a2pj8DSdt88S9AH4xVFyz3iMw6m8xccwENUxPUMQ6vAu3Ir94gAyy7tdIdUKMTN31stvlNy22QB183pORqGhPDj7RGd0t4R47SWZEO8uCrkzLt21P0Do3gTB3yJjE4/u6OOgwQlmGHkpOeTKSpUgiJg/IpcVL2C1EwAZG7RnF0CXUa2HWUQuIGhE+aB3nsiv/7fZWJ13ErO2OTRrwGUX6e6nG1oiRG49l+yOQbhsddHSdjDwEsC+/qesZmf0=;Vf/FhNH9j8zHZfFBiEGQIA=="
 ---
 

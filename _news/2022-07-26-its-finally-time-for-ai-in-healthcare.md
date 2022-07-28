@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "The Future Is Bright For Artificial Intelligence In The Middle East"
-    excerpt: "Artificial intelligence has seen a slew of investments throughout the Middle East, with many nations seeing the tech as playing a key role in creating a more sustainable future"
-    publishedDateTime: 2022-07-23T17:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/The-Future-Is-Bright-For-Artificial-Intelligence-In-The-Middle-Easy-And-North-Af.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/The-Future-Is-Bright-For-Artificial-Intelligence-In-The-Middle-Easy-And-North-Af.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/The-Future-Is-Bright-For-Artificial-Intelligence-In-The-Middle-Easy-And-North-Af.amp.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 59
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-07-22_acy6gef9yk.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence in Healthcare: The Need for Compliance is Now"
     excerpt: "Right now, the regulation of artificial intelligence is high on the agenda for policymakers and regulators. allocate responsibility and governance for AI projects not only internally, but with partnering organisations,"
     publishedDateTime: 2022-07-27T08:48:00Z
