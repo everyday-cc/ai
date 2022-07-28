@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-techn
 ampWebUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 81
 published: true
 
 provider:

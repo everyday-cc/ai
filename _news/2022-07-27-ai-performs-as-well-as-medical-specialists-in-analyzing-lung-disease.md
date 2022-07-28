@@ -23,6 +23,17 @@ images:
     height: 358
     isCached: true
 
+related:
+  - title: "AI performs as well as medical specialists in analyzing lung disease"
+    excerpt: "A Nagoya University research group has developed an AI algorithm that accurately and quickly diagnoses idiopathic pulmonary fibrosis, a lung disease. The algorithm makes its diagnosis based only on information from non-invasive examinations,"
+    publishedDateTime: 2022-07-28T13:23:00Z
+    webUrl: "https://medicalxpress.com/news/2022-07-ai-medical-specialists-lung-disease.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
+
 secured: "aCJn+okuIE6pvXLkd06x+8a6PXWuxZHGR5kEWcPGZQpY2e3sdNDJB6Da8NZ5K/YAVmqebd4DaOYJEJwJ2cp3ZuhLPhYtHodFIN7gX86dYEWWh+Rkv7QrRPGVH5sLS63SYHx9zjgekccHm2TBmw/u5Q1vojTga3DE49xSRIuWJif6zlVis57hpSbT92L6mnc5YZfjUOo3FyGqFV9J9XC1f7g7ofMei7UzRrr07smq3MlBpwzif0ElgzAt+MTtsaTenwdRWcTh7kuTGjgRdV1aE4/ugvUc/eJmse2vlmcOHUxboYYb69wTqiWyotTT4xd7JEF4Nj+ORxAiQQM1ltMzCmAjd8IsRcXKcHnvvq7Xc1DirY618lkz89waDy9qsZ/Ji5OH/td8cutbD82t9oHW3zjPBlk5b9gByABGcoIgxvIUT2RNIrwuGRdq68HrX8fb3F7rnEx8hjhw02UJcZP/JO1SZxz0Orh43dvJTIsJaunn8RO3LV334OFJrkxRxJZ6QGK9WdTdDtvheJCSeOKcEQ==;jUeprs6/1xHUfH1F/K6CeQ=="
 ---
 

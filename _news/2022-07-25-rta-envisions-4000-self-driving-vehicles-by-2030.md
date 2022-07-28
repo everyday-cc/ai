@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Meta’s quarterly decline, Oxford gamer study, Apples self driving electric vehicle"
+    excerpt: "Meta reports a quarterly decline in revenue for the first time, Oxford studies gamers and mental health, and Apple works on self-driving car."
+    publishedDateTime: 2022-07-28T13:25:00Z
+    webUrl: "https://www.wdio.com/good-morning-northland/tech-bytes-apple-self-driving-vehicle/"
+    type: article
+    provider:
+      name: WDIO
+      domain: wdio.com
+    quality: 13
+
 secured: "xjm3j3w01LszKWJuRl0QYRHzIYKBV3BU2dsGycVfB+sBLOjcwFioRcKhzfIsZFenYXkzeRQa6o/q84qDh5Fvlj6BZILr9a6Sp/3y9ouBkjml6eJ6eXHMWR2/Sjkp3jQ9ZDz9q5vPwCWxqcuyNLu3LQESWk/Ss0PQX34YyOglGuEGRQI0Aw2G2crEOfcbSM9OsXvQk7Op5+k934otv+uUd+dkpaWfHaO5T9bzr5RQyFTZsyQ6A5q/0jVer4j5QZ4E3ZVt+ytu/oDnsbWIadr+LeSd2nhaLxA+W9Yn4KvR8MY+SWmtzo4z017ASnbg60UG56GcBgRwi37arcFoo27RotEtZNbgQn8PRrtJpoVVB9vas4HQPpZiQd1fQkx3wSp6sMpK7LHCEC5Q89KIcaK9wQveA+rYRBXqcJQ1Vqc7Zr4Z67+qgsGyn5hhEZQQ/wLqys7ads56IQsE5HJSUd5w6iIQqmuNAeJ9+mBSbg668PtQGkCaus9dFrZ0lZPMvGNPBCJmvTDrF6QgUjlaOE0BrA==;0MzReOTCN9ApcP1Ms5f/+w=="
 ---
 

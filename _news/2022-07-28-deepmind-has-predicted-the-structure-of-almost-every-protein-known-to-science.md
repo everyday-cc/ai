@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T11:00:00Z
+    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 63
   - title: "AlphaFold reveals the structure of the protein universe"
     excerpt: "Today, in partnership with EMBL’s European Bioinformatics Institute (EMBL-EBI), we’re now releasing predicted structures for nearly all catalogued proteins known to science, which will expand the AlphaFold DB by over 200x - from nearly 1 million structures to over 200 million structures - with the potential"
     publishedDateTime: 2022-07-28T00:00:00Z
@@ -52,6 +61,24 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 54
+  - title: "DeepMind AI predicts the structure of nearly every known protein"
+    excerpt: "The expanded AlphaFold protein database has various applications and could help scientists solve more biological mysteries of the world."
+    publishedDateTime: 2022-07-28T13:42:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-protein-database-alphafold-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 34
+  - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
+    excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
+    publishedDateTime: 2022-07-28T13:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02083-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
 
 secured: "WgxenrPClIks+RtDhvDctv+esNcpbUD+zZL2hh/vk7/ue3hnFs4925dtTbdg6bF0sfZWnciK0FnRE/AieSh1QL/5Tc8OIZJaTg25gNCvAOZ3gbVvtrU6trshIw6aABScE6nDulxaxY/CcB0mOiQFX+0HDaShGLsGWJ/QdoCfSTqQ9yhW/JmDUo3O+cYX5G1H5oh0dbHZ+R6a3AJOEL+ZG5aHMRJw7JVfPYDt1VzY3iSow5v7iVSB6FpJBFn8YBFdYG7T2O04KVS5uDXleeYk8e6WccYENOscLksRndcAnEraLbGLwjXfBqs2dH8P1lsdEMWAvQRVXJfMUQleKZd/nnUQc1LOYwQS7jrtb8hHW/33vJLriu7Y7/AdbCFilc2Df452AtIzovKrHmpF4D3Ls48jUzTr4Ig8IgsYqzquUjYzWMDh3ql3v3ef6BQhWFoNJAOUI8I07IP0oUuKXTCRpI3PVsFVKUdo8KTiMgNhxvG0eZb7gPh7lwVFycKMz3t04CqPOJECdwD9mMX4fwUn9w==;qHSaU5B1f/5dC5tSy3SG9Q=="
 ---

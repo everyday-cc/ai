@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:25:00Z
 originalUrl: "https://hbr.org/2022/07/is-corporate-venture-capital-right-for-your-startup"
 webUrl: "https://hbr.org/2022/07/is-corporate-venture-capital-right-for-your-startup"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Harvard Business Review

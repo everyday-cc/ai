@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/07/28/evabot-secures-fresh-capital-to-inject-ai-into-corporate-gifting/"
 webUrl: "https://techcrunch.com/2022/07/28/evabot-secures-fresh-capital-to-inject-ai-into-corporate-gifting/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

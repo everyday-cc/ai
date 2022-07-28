@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T11:00:00Z
+    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 63
   - title: "DeepMind has predicted the structure of almost every protein known to science"
     excerpt: "DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science. From today, the Alphabet-owned AI lab is offering its database of over 200 million proteins to anyone for free."
     publishedDateTime: 2022-07-28T11:00:00Z
@@ -55,6 +64,24 @@ related:
         width: 2675
         height: 1505
         isCached: true
+  - title: "DeepMind AI predicts the structure of nearly every known protein"
+    excerpt: "The expanded AlphaFold protein database has various applications and could help scientists solve more biological mysteries of the world."
+    publishedDateTime: 2022-07-28T13:42:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-protein-database-alphafold-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 34
+  - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
+    excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
+    publishedDateTime: 2022-07-28T13:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02083-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
 
 secured: "euCDIlePwMQZZnXAXp88AoFSmSdjRztuqMsGV8r72JnMqJYgomCvBX1xYvvAdIlrnMsXmoQnm3arl6j/HFcg3EdWEkf2DuFEQnaJ6eV9aJNCO5JVP6wKjsMOf2GLU2YWOZpDb53U+xI6RmSgGmMlWjkBXpX8wKIgZ28TVk6nhMTH7ruBOtRSGCU119nUhlgADQ5lL3DIO7yjbK77AFfqWr4JAa3c+IXN4XEAEdwRljQ+e0hhYIurqNGMZgZxsdqqeM9CUJfsHgZYFgfpwK3ZvkjqFFA3b41TU/1kTYhAs46ShOaRX5EJkQjsoN6FoFcxdgM8Nc6HvI6AZVrykKc6Oifg5A7Ql3Uej0AN00QiiMs=;9Z1YV8NU9JL4KZzzozRDjA=="
 ---

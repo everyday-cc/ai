@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T09:22:00Z
 originalUrl: "https://www.investing.com/news/stock-market-news/semi-stocks-slip-on-samsungs-warning-of-softer-chip-demand-432SI-2856238"
 webUrl: "https://www.investing.com/news/stock-market-news/semi-stocks-slip-on-samsungs-warning-of-softer-chip-demand-432SI-2856238"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Investing.com

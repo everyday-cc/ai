@@ -66,6 +66,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Deepspatial Announces Exclusive Invitation to Present at United Nation’s AI Forum"
+    excerpt: "TORONTO, ON / ACCESSWIRE / July 28, 2022 / Deepspatial (CSE:DSAI) (OTCQB:DSAIF) (“Deepspatial” or the “Company”), an outcome-based artificial intelligence company, enabling organizations to enhance their decision-making capabilities by leveraging the power of data and AI,"
+    publishedDateTime: 2022-07-28T12:38:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/united-nations-general-assembly-technology-artificial-intelligence-0ee667dad1c92aed0f2d13510f0a3e43"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
 
 secured: "ZT08sXLZlunvc9eIXdVA+Viyxuc3IiPSIwNtAGbFuJZDXDo60JvS96BNKgTW6pimWkKFYoHTBMz6jwEkWCo/34Jl1Ew3SqfcKgomamgPq6rfk/QjUxaUPaKAMbvrLt6DcALqgFJ9JZktOf6YeI1WWPraFkBIezUaFLCldXvlvPDBV4dcuPIuSlEiHZ3vo8pF5XjyYhFZo5caca8M8E++aOaqB5T0VoBwKLye5jhoaho0RVuBAmEP0DUKnZqqI//nZl/uI7V+CLEzHJaQ65ackY7jN8d7xx2GOebiU+SAdUxxaaf1QjfheaYxzhJLKKrnHIfV+LAEIoWT41mHDvG5SYoKvivVYVe+cicw51MZGiXyomBIHgqcNo0dmrB60xvE2t1yn0neyADyV8earUkJYWJAHyqR8HNdlWuBSmGwk9Rj7kz48arb+zTHqU+WIBML07a4FN2Z1UquyCj2RnKmiO4Bhr4WM2kDASY8EsBjMDcLrizg+mFUUpOLBZSAKDbhKJiHrI6WswmJ6TQN28rc4Q==;JKjXaTEMVDZJ54w0/ng7eg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-aviation-m
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-aviation-market-growing-exhibit-remarkable-cagr-/2022/07/26/9644578.htm"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Lawyers Expect Growing Litigation from AI Hiring Tools Violating Discrimination Laws"
+    excerpt: "As more state, federal and international regulations are shining a light on how AI hiring tools can discriminate, lawyers say employers need to be prepared, as it's only a matter of time before we start seeing lawsuits."
+    publishedDateTime: 2022-07-25T15:42:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/07/25/lawyers-expect-growing-litigation-from-ai-hiring-tools-violating-discrimination-laws/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/07/Artificial-Intelligence-Hiring-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Lawyers Expect Growing Litigation From AI Hiring Tools Violating Discrimination Laws"
+    excerpt: "As more state, federal and international regulations are shining a light on how AI hiring tools can discriminate, lawyers say employers need to be prepared, as it's only a matter of time before we start seeing lawsuits."
+    publishedDateTime: 2022-07-27T02:48:00Z
+    webUrl: "https://www.law.com/nationallawjournal/2022/07/25/lawyers-expect-growing-litigation-from-ai-hiring-tools-violating-discrimination-laws/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 10
 
 secured: "0eLPly3uIayWQT5i8m2u6sPHBfggUfQpZCE/U9m82aWfuP75iX6q15q66upJoM39Ab6+D3IKEJJgsVQSBDgqaBkshYJm/o0QlK+V4yrdgxVCOJDR644OePNS8eamo2Xj7mZYBpjkghPUpGjEV3rVxNPNVp8zFgSgZ5iCwrkBBJOoxmReMxZSdd4qt1p3ar68qab4oWvLqK3uHKDI0QE18HiphMfU02FacXWPZG/wMjdrS3x4zhUxTQ/c5oFrgGyX49+Tk50ZYQ4FGNgAA7WYJRcwEtayfuep8uVhWDjhJie9uevfq/Pv/wkHxSomXY1jtTDUE4r/bllSapvMnDupv4xxB8Z2i9Atw6wZy8IXUv4=;D3sWDjMVgo+IxNXSJRlDcA=="
 ---

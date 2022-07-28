@@ -25,6 +25,22 @@ images:
     height: 1440
     isCached: true
 
+related:
+  - title: "The novel AI physicist has discovered a new realm of physics"
+    excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
+    publishedDateTime: 2022-07-28T15:50:00Z
+    webUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://d2kspx2x29brck.cloudfront.net/2022/07/28/image/jpeg/PdnVsMCunUYinOScFf194DVfHrdcxOuwXabnQpbe.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "v/QkvuXXAZ1bm0TaOZw0zyxcKEUOGw1E1wPJvc6U30vLiCGng9sV7263Flo5miGeY+lwB/5XsBg58gU6AiWPextbhDKAQUYZIDVSw1n+xSkXPw19kxBmXG2Qrqs1HpeiRnsem979107H6hDndRLwG6j8XJlYKqZCNLQtKafoPrsq+J3rj0eAgNwm98UFcHwrSCQB2jD7BVuw4jUe28Eu1f0IL0PO07g7G23eJk/Nr9FZuNdleBzM5JjsVnm9a3zByM5HuhnaqELJ3hKb7c2jStkhJFZbyFsOBw807XNfto4VN+tUp9mhLGsejvkHJ5I/r571mvetQ1mUp6uVXoIbtcGulRQgjlQVL8zQA0tAW+7Bqp6hmaC8y9c3sCeFjRvRMpMOp4z9Sq/0C+Y+xUHq6/kcqYuZcHBfrIZ7zL345PyMIsEECK/Aa7rRjDJ/ZXUVrcjvnqi+uMdG0vND16eF/HfXSPlbWvKmWizGH3cnMPfO+y4H7fVb9QTxFLfIw4PfVpchIE8nYOhei54XU3Sz1g==;jk9vwr4F5Lb81EHcTTgABg=="
 ---
 

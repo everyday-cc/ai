@@ -29,18 +29,13 @@ images:
 related:
   - title: "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping"
     excerpt: "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options."
-    publishedDateTime: 2022-07-26T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-stamford-shipping-f999e1049cb3443f9f26166a7b4de79c"
+    publishedDateTime: 2022-07-26T15:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pitney-bowes-introduces-regional-delivery-service-models-faster-/2022/07/26/9645131.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "X1np4ooFoxSNQnCkvamcpY41+qR0J4ZYbAOBzqeHMqtgnhlRBijM0N8tYktm59bD3oyDKY8DTFWBQT4bFJpZzMfN1eDzS+Kb0TK5k63p4M31kam/6WjY9dDf3J8Lilutbc6pB+U7YYprzERlzevqn3udLHMxQ4hP+Da4jR6dw2CFo5SpKtv0c8Vy9Rws4Uv/UtZzBnkzbMI7hEQpIHo1kAcgGB/DqwnOh/7HITh3ReDTGVJMN79OxqmFjwxGQiAbAJY1O8nW/nuolIVAjjDcEUxSwFAj/XJ56nwEI8z4w8KdqqGBVUzKJjfizZgxkYzcwWtBE+4sODesw8zAhsT5+z0pF2Nw99oqAjAzzs4Opeg=;9yUX3pbsv1J64r1JkoLt+Q=="
 ---

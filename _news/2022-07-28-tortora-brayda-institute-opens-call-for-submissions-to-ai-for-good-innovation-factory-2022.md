@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28243509/tortora-brayda-institute-opens-call-for-submissions-to-ai-for-good-innovation-factory-2022"
 webUrl: "https://www.benzinga.com/pressreleases/22/07/n28243509/tortora-brayda-institute-opens-call-for-submissions-to-ai-for-good-innovation-factory-2022"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Benzinga.com

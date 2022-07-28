@@ -22,6 +22,17 @@ topics:
   - AI
   - Facebook AI
 
+related:
+  - title: "Calyx, Qynapse to Expand Use of Neuroimaging AI Tools for Therapy"
+    excerpt: "Calyx, Qynapse have partnered to expand artificial intelligence-based imaging tools for developing therapies for treating CNS disorders."
+    publishedDateTime: 2022-07-28T13:15:00Z
+    webUrl: "https://multiplesclerosisnewstoday.com/news-posts/2022/07/28/new-ms-therapies-anticipated-under-calyx-qynapse-ai-imaging-effort/"
+    type: article
+    provider:
+      name: Multiple Sclerosis News Today
+      domain: multiplesclerosisnewstoday.com
+    quality: 34
+
 secured: "ptPs5l8+r7qHx9QhyMvo1hkjleLO0w9CY7imtuQa0BThW3hp9HbxQ4MqSg6FdDVkAc+arDYkmj9jH3Ac9broRO0xogDCsj8+8iuEer6c08n+3fdebeMZ58PUjIs/idWNvVCQJKDpqCOKkJY23CCXwzA0Sk3Etq89o8zISCfIDUeeNqn9bfmN9e7yhsBzyFw8cWGtjGBlWoKuC90dDF9B10CnzxRO8h7aHRBrmvSIViLvT/aMIJIzI7sLTlSl7y7k2lejI8jTBUiY9q/2+pBj+Sxj1LBH00KC98UuPJDERFtvb55XUfHnX4pdwWMOTyrXm2Z3MvqgrzUVr0akCAEjSjkieFFomivTalDr/M0HELY=;QZC+W6DFxZ/fYETGx4MQjA=="
 ---
 

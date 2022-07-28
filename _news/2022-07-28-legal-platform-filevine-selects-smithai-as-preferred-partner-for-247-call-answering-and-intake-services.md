@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T13:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/legal-platform-filevine-selects-smith-ai-as-preferred-partner-for-24-7-call-answering-and-intake-services-1031625837"
 webUrl: "https://markets.businessinsider.com/news/stocks/legal-platform-filevine-selects-smith-ai-as-preferred-partner-for-24-7-call-answering-and-intake-services-1031625837"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T13:37:00Z
 originalUrl: "https://venturebeat.com/2022/07/28/featurebyte-launched-by-datarobot-vets-to-advance-ai-feature-engineering/"
 webUrl: "https://venturebeat.com/2022/07/28/featurebyte-launched-by-datarobot-vets-to-advance-ai-feature-engineering/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

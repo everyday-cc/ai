@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies."
-    publishedDateTime: 2022-07-23T19:37:00Z
-    webUrl: "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "AI technology helps give giant pandas individual identities"
-    excerpt: "Now researchers at the Chengdu Research Base of Giant Panda Breeding have pioneered new technology that uses artificial intelligence to identify the creatures."
-    publishedDateTime: 2022-07-26T15:22:00Z
-    webUrl: "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38844"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_07/1658839016868_tdy_news_8a_jmf_pandas_220726_1920x1080-93xu34.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Google fires software engineer that claimed that its AI chatbot is self aware"
     excerpt: "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,"
     publishedDateTime: 2022-07-25T09:51:00Z
@@ -95,38 +63,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google fires employee who suspects AI sentience"
-    excerpt: "Alphabet Inc’s Google said on Friday it has fired a senior software engineer who claimed the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware"
-    publishedDateTime: 2022-07-23T22:28:00Z
-    webUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/"
-    ampWebUrl: "https://www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
-    cdnAmpWebUrl: "https://www-newsnationnow-com.cdn.ampproject.org/c/s/www.newsnationnow.com/business/tech/google-fires-employee-who-suspects-ai-sentience/amp/"
-    type: article
-    provider:
-      name: NewsNation
-      domain: newsnationnow.com
-    quality: 59
-    images:
-      - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
-        width: 509
-        height: 339
-        isCached: true
-  - title: "Google fires engineer who called AI model 'sentient'"
-    excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
-    publishedDateTime: 2022-07-23T23:12:00Z
-    webUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/"
-    ampWebUrl: "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 57
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/LaMDA-hero.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Google fires employee who claimed AI system had become sentient"
     excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
     publishedDateTime: 2022-07-26T15:40:00Z
@@ -142,36 +78,6 @@ related:
       - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-    publishedDateTime: 2022-07-25T23:17:00Z
-    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 57
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
-    publishedDateTime: 2022-07-25T16:10:00Z
-    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 37
-    images:
-      - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Google sacks senior engineer who said its AI program was sentient"
     excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
@@ -215,6 +121,15 @@ related:
         width: 1170
         height: 724
         isCached: true
+  - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
+    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."
+    publishedDateTime: 2022-07-27T13:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
   - title: "Google fires 7-year engineer who claimed this AI had become sentient"
     excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
     publishedDateTime: 2022-07-25T07:06:00Z
@@ -223,6 +138,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "Sense Selects Iguazio for AI Chatbot Automation"
+    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
+    publishedDateTime: 2022-07-27T14:54:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
     quality: 19
   - title: "Engineer who said AI was sentient fired by Google"
     excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
@@ -242,15 +166,6 @@ related:
       name: techworm.net
       domain: techworm.net
     quality: 17
-  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
-    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
-    publishedDateTime: 2022-07-25T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
   - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
     excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
     publishedDateTime: 2022-07-25T18:19:00Z

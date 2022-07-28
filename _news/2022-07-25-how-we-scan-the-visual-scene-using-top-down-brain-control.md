@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-25T16:33:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
 webUrl: "https://www.psychologytoday.com/intl/blog/neuro-behavioral-betterment/202207/how-we-scan-the-visual-scene-using-top-down-brain-control"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Psychology Today

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T13:02:00Z
 originalUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-to-roll-out-self-driving-electric-vehicle/"
 webUrl: "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-apple-to-roll-out-self-driving-electric-vehicle/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: abc27

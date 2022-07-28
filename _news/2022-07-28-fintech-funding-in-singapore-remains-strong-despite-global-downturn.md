@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Fintech Turn Around Our Collapsing Economy?"
+    excerpt: "Empowering small business owners to flourish via fintech is vital in an era of unrivaled uncertainty and fear. Intrepid entrepreneurs don’t just create unprecedented jobs and sometimes, unprecedented industries,"
+    publishedDateTime: 2022-07-28T14:50:00Z
+    webUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/"
+    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e1bc0f32894645ff133856/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 892
+        isCached: true
   - title: "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers"
     excerpt: "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC."
     publishedDateTime: 2022-07-25T15:05:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://i.insider.com/626ab91786fa90001905a244?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Accounts payable fintech, Finexio, raises $14 million in Series B"
-    excerpt: "US accounts payable payments as a service company, Finexio scored $14 million in the initial close of the Series B funding round."
-    publishedDateTime: 2022-07-26T15:33:00Z
-    webUrl: "https://www.bobsguide.com/articles/accounts-payable-fintech-finexio-raises-14-million-in-series-b/"
-    type: article
-    provider:
-      name: Bobs Guide
-      domain: bobsguide.com
-    quality: 39
-    images:
-      - url: "https://www.bobsguide.com/wp-content/uploads/2017/01/72807.jpg"
-        width: 320
-        height: 217
         isCached: true
   - title: "The future of fintech and how to get involved"
     excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
@@ -67,20 +69,15 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
-    excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."
-    publishedDateTime: 2022-07-26T09:00:00Z
-    webUrl: "https://fintechnews.sg/62801/funding/global-fintech-funding-is-on-the-decline-with-largest-quarterly-fall-in-a-decade/"
+  - title: "Why economic volatility doesn't worry this fintech"
+    excerpt: "Pagaya, which drew attention for wild swings in its stock price last week, says uncertainty is part of what makes its product compelling."
+    publishedDateTime: 2022-07-26T13:42:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/why-economic-volatility-doesnt-worry-this-fintech"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 19
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Global-Fintech-Funding-is-On-The-Decline-with-Largest-Quarterly-Fall-in-a-Decade.jpg?x82653"
-        width: 2048
-        height: 1136
-        isCached: true
+      name: American Banker
+      domain: americanbanker.com
+    quality: 4
 
 secured: "BITu+bH1+r37sXyxDvcNScPe7zHk8eOVRH1ELJI+14d7ICCpgCKOOSnYvc+fGwrhgK3tu5PrdMSVrau1+SVt1vlr9xWHww2b/WnJ5+cpHKk0J4wMg1Fyv6881TGtPlnD4jxkYSRZIX6+IKoQvW7KOTli0ofL6k65vTSJ8f1uKO6gtPr3N1qJPAXC8z1ZhoyilWKyxoGqn79CeTU+UVIxo7ei9y7e8UzQPfyYw0RonYP2+LBihgT91RqvB9BuuPSVQ20k08v9M/yP8OGHnbbMwoRxN5UHARCQVxqFbj/LS8P6/fDZoVqu/xSITT85TH424AT83sXhj03HiOLHROu2keTBwmn2c6B8YQ/lnIVv9pseuwEJSPnPObfcM6jplyny+zplkaVedbn9oRcUwgJSOrjgl6J/0FVBoMmUFP560VgxoKerlIgcfdg+bvn8f4YbtbCZjIdoOgPJUgAvL3Du4gkBS4Dnm+qTesDVtwnQ1BuLMmz7StNzkopUDieDxSTaXomTmKcihi/Pm2Bl9vIxSw==;9wym/xnPXo/gt/oQRC6eBg=="
 ---

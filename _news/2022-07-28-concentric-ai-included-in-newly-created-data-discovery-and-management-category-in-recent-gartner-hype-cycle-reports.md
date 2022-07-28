@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-san-jose-data-management-ai-inc-eeaf68fd81b04140b77bce5b62eb1cf1"
 webUrl: "https://apnews.com/press-release/business-wire/technology-san-jose-data-management-ai-inc-eeaf68fd81b04140b77bce5b62eb1cf1"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

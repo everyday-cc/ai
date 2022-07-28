@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:24:00Z
 originalUrl: "https://www.yicaiglobal.com/news/navinfo-gains-as-e-map-maker-links-arms-with-china-automotive-on-self-driving-tech-hardware"
 webUrl: "https://www.yicaiglobal.com/news/navinfo-gains-as-e-map-maker-links-arms-with-china-automotive-on-self-driving-tech-hardware"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Yicai Global

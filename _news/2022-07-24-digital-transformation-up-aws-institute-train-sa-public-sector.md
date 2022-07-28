@@ -35,7 +35,7 @@ related:
     provider:
       name: Politico Europe
       domain: politico.eu
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/07/19/GettyImages-679721356-scaled.jpg"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:41:00Z
 originalUrl: "https://pcdandf.com/pcdesign/index.php/current-issue/262-material-gains/16692-machine-learning-at-the-edge"
 webUrl: "https://pcdandf.com/pcdesign/index.php/current-issue/262-material-gains/16692-machine-learning-at-the-edge"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Magazine

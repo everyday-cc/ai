@@ -1,34 +1,40 @@
 ---
 category: news
 title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
-excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
+excerpt: "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ..."
 publishedDateTime: 2022-07-26T16:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44"
+webUrl: "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
-  - title: "Acuant Integrates with ServiceNow to Automate and Transform Onboarding and KYC Compliance for Financial Institutions"
-    excerpt: "In the digital world, financial institutions must balance ... Real-Time Risk Detection with Graph Intelligence and Machine Learning. Acuant addresses continuous monitoring with patented technology ..."
-    publishedDateTime: 2022-07-26T12:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/acuant-integrates-with-servicenow-to-automate-and-transform-onboarding-and-kyc-compliance-for-financial-institutions-1031615228"
+  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
+    excerpt: "Iolite release introduces powerful new features to Kanverse AP invoice automation product for enterprises. AP teams can now extract invoice data from Microsoft Excel documents with the same 99.5% extraction accuracy."
+    publishedDateTime: 2022-07-26T18:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645379.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 11
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "3iNPk057PCFncFZ9Y4InEc+3j3xmpPE9x7zpgHbHQnYNLSrE5rbXWQ1wTSHud8dpD1/aN7UuCn0gL/PU7yWCsQo9UdGTIHELZ3FH93MlEXQwtXwRfPKKOAbgvG3mYLTB6Vi6fSsQKKFDGYSdI28G/MeNIqkpcuWoFSV6VpRaMkiQqxK/rxKgp0z8tojifbSFF8UFTCm8dHKKbQgPOy7mMHYD82XXuA+TpvX9zHdqlNiyJwHwYJF54k33A9chf8/smwNUQQKHssHBPdFcjNBA5VJQxxzz+s7EednsMNoMf2OlorQpm/SdXvVTxh48O7UlGyeX32+BR3Q26/0rTN2jF5PSK+iuGAt6JDU/O0GzJRk=;zeNevFZZGwgiskCXha5pBg=="
+secured: "PvvjH/ryhdZvOFeX0fJfBXFAYhroUeF0Q+JkwXP5it8lt2llXnd++siTd3QxCgOFuhz8tMekq8NoG/QgSPXEUpkdJD7SHXj9TvJ5vTMclzBUj4CRVMwcwo1KuKVb03jkeo3Jw+PfQ7JdOVTFQHUKuFE1j3tJG8EkSbPnXRAG2o3AIKlHavEAhRMnoDzYPJMsTQXzXFuAQN1SSnoqjk6213IRYrF8BRxDg7OXbUJncxb11zyfcCt0gkYTyy6WILmy5Rh9PTbEDH6AJqF7kxsJ/b5oIc/zg1rMYSRl746d9tzdU6+QeHgAeJBAie7sJwOWO2iIgBBZmegaG/+sJe/GSr1/NdiVJqqZgN3JBUNLfjk=;8dGp4lwLu121dV/4Nt/czQ=="
 ---
 

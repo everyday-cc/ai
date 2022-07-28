@@ -5,6 +5,8 @@ excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intel
 publishedDateTime: 2022-07-21T04:23:00Z
 originalUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
 webUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/"
+ampWebUrl: "https://ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
+cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5166409/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "52PK8v9JBuG13aUiuwh8dKa0+wjM7hOhi327FTo6eIoUBbyOL7tyCPmHdk34Nv5bNIh+uZ6VLG/oxQe1H5XJDyJJ4DpsHhl0Am1/tkTG+M2AFpqujrJ0Vj4k+j1eesFa8thIzl/eWqDP4yWvNL/5hzX4awatM6mqOfzxco9P4qj2mSdUQRHnTHenpcC50aqpezJZHsb42Y7hlvN9wka6/MndcTK/822YzMjU+oeVZrjOGj4YvvmMWhZYWsA9tfZ3CayWG+K0VoMj/XrOk448XxDkkLnjZ+OyabJY+FmkkcHOGnuanTTRuEL5+3yLloP+0RfnuF1Mf88rfcASuVLz3bx1ufULGIcsEaDCJZMMi3s=;Z3lwmVUA335EX0QTyfAZiQ=="
+images:
+  - url: "https://ktar.com/wp-content/uploads/2022/07/ap_202c0950542c4f0385a16dcf90640f88.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "IAD6p/6wI3ZlElEusdUEYBdMejXKVWoEnXpC3y0VSTnfWabv6uDgAUPdeXjEu9PgtbTwCXiglAuT5AhXq201ktKrXXDqWR+/bB/XqdBqU+0dlpy8S6B7iNEOnLr3m54WwWpG7MDT3rEyCLWbBS1PzZdCkYlN/dtTzga/o4OY0lc0V/afjWCYuuSTrWQmFbVx6GzFPGuL72UYyG3l+iyBkrFK37aK0zIknSomJ/C4WgvLL1mEGFEe/tu/BZ574YhiPmHEG4HqqqIkMTKzdvIiz8pqCmKLWmuzXlOWaBPYrhReuc4StPVxA2/1vfpGED5wBMgKyVaQcPubkE0lEG7Pynjj1zNrAtP+tYkgvzyUZZQ=;vOdfFQ6L5x/yv0adhhkVvg=="
 ---
 

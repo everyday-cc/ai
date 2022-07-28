@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T13:52:00Z
 originalUrl: "https://www.psychologicalscience.org/publications/observer/obsonline/2022-july-artificial-intelligence-worker-identity.html"
 webUrl: "https://www.psychologicalscience.org/publications/observer/obsonline/2022-july-artificial-intelligence-worker-identity.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Association for Psychological Science

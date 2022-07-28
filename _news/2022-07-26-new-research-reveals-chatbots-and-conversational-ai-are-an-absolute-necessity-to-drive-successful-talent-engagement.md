@@ -18,24 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."
-    publishedDateTime: 2022-07-27T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10"
+  - title: "AI-Driven Internal Talent Marketplaces Are Key to Talent Growth and Retention, Reports HR Research Firm McLean & Company"
+    excerpt: "PRNewswire/ - To support organizations that are struggling to fill vacant roles and bridge talent gaps within their"
+    publishedDateTime: 2022-07-27T18:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-driven-internal-talent-marketplaces-are-key-to-talent-growth-and-retention-reports-hr-research-firm-mclean-company-1031621888"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
+    excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
+    publishedDateTime: 2022-07-27T13:14:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 30
-  - title: "Sense Selects Iguazio for AI Chatbot Automation"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
-    publishedDateTime: 2022-07-27T14:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "qhFhlqiQ3OoNtC+S5koCubBUZnX+7NQlzQ+lF7gXGkIU59l1g+XQo1NWtxCaJsyyeiGp9wt1BGXZUCMrqeMyF38/8qfT585G/u8/5q8CsMuQsFy6v8TYZWYdbaBNJZr1x2hQqqPEvZC/7Q0XNd5ePAl+x+eAQQH16Cc9d2G5tR+o9MVyN0w6GUUCBOcIicjfa330fLfpxZck37+MCDgspfzmvhocaKhR2Vgfm7+mjC5Pv8PPyJrxMuth+1vzHsBh7358oaT8tT0t5J5WdR+rV/sJ+L4ujNnZM05zpAbRcq10d2TKeewRlvWX1HG8IjcT2qNpAfPWedDRP5ngBrlqYSjXre6WliSdeXW2p9R6Lig=;tFEv/QZ8OB1vnTLEJKQejw=="
 ---

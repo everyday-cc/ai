@@ -22,17 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
-    excerpt: "Kanverse.ai, a Hyperautomation company, has announced the global launch of the Iolite release of its patent-pending AI-powered Intelligent Document Processing Product for Enterprise. Iolite release in"
-    publishedDateTime: 2022-07-26T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/b28210328/kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-
 secured: "mxEb1G0cUSgSsdamvGxOH3YbL9t6w4mKqDLlbVmCJB3sNxQeBC6UgREnrqh1oUBIP5T9ntFsGkpm7nfRNMJyenmiUuUg2PQIn3+y+j9+nkZZBEqD9KOYylWq2bDXrAEHsrxMkwbvk9EmiKq920Ym1ljXLkiSLA+oFyzqFN/EKa54m6PAjsa65RxjAUAzB88OUfG5Wcyx9Xzc2WsyIkituHEWD5H+2fRiS8K60dNmfzBWuQzcX8VR071T6PlU/II6dnudGqNeeKdX8MDHdptKg0SUCJayGI7tHPG12LMzOR+gj8wAgbYOGotKP+cVmzjkuACTyue2rI851AQdZmiHvNDqho/xdELQH4dglzW3I8tX3jFR6IkL9i6QjI381wHCvGJt1kBN9TMry0GBz7faMnjDVauNA6avAVZOomBjsJe5iRTqUBZwjA52BE+3GY5xYKKM6HmIZTS9oftuEfcwYmQpod9hXCI6eR+Ljk2kh2pwK2Rj6nrvogE9o4B3rAz3DZ5zb8qGdnI3wGPk8BsFFA==;7nHON57FXwmhCTmBuWLgdQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T12:36:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-insightreg-saas-platform-extends-capabilities-aws-/2022/07/28/9646603.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-insightreg-saas-platform-extends-capabilities-aws-/2022/07/28/9646603.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TMCnet

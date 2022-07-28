@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/"
 type: article
 quality: 87
-heat: 107
+heat: 137
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T11:00:00Z
+    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 63
   - title: "DeepMind has predicted the structure of almost every protein known to science"
     excerpt: "DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science. From today, the Alphabet-owned AI lab is offering its database of over 200 million proteins to anyone for free."
     publishedDateTime: 2022-07-28T11:00:00Z
@@ -56,6 +65,24 @@ related:
       name: DeepMind
       domain: deepmind.com
     quality: 54
+  - title: "DeepMind AI predicts the structure of nearly every known protein"
+    excerpt: "The expanded AlphaFold protein database has various applications and could help scientists solve more biological mysteries of the world."
+    publishedDateTime: 2022-07-28T13:42:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-protein-database-alphafold-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 34
+  - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
+    excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
+    publishedDateTime: 2022-07-28T13:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02083-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
 
 secured: "d24htlrcjI8TX6PbEAqLUU2JDmWl63chDq+7c2Y2eGADY8mw/012bKm1NZU+4KvK3gFL7/GsaO0E2H14FJz1UjDO2MCCSNxkS2FWdWgrRsM1MEWnV/1IXeD4Q9aH4FixOm88N5le4RhSCcPL8XTMA7g6QH81zmZJfhUO509MnH60s03X0gkVvRG1WANqi0HRxFu23c5K+mDfB9Ycm8q265qpvDUUc5w78nUkGZOLhp6RFZpUhl8wvi545VTVF8wegLmYmZYR4o9lvta57Eio6BR+sesU200ALIxeylAM1Wc4OChlD8vs37yiAcqTUtyPEt3zdbnSMzG4c4jVqmS3YUddPQ3z1WjygdSHw9rlh+AHSv/2Bv/XudKUWQZ9pAUuIKk93vTsGD6iZSsNNSbuElfxUBzYIKpO4DIflM/LxHJDTgeBCdBMVgwGEJ5X2HeIV4Jxv51/BRPhI4bj9dU+eOYobxiAViLTvBsRPKfDvGd6v0BbsUDpWP330PrSgLrYsQhq5HMhQj2RxQvXoDvcfQ==;4XS9BFBs+OQCusURwBGnug=="
 ---
