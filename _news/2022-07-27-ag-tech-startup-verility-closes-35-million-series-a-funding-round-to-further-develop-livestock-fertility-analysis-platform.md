@@ -7,7 +7,7 @@ originalUrl: "https://www.purdue.edu/newsroom/releases/2022/Q3/ag-tech-startup-v
 webUrl: "https://www.purdue.edu/newsroom/releases/2022/Q3/ag-tech-startup-verility-closes-3.5-million-series-a-funding-round-to-further-develop-livestock-fertility-analysis-platform.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Ag tech startup closes $3.5M funding round for livestock fertility platform"
+    excerpt: "Eyez, analyzes swine fertility, which enables livestock producers to accelerate reproduction among the herd."
+    publishedDateTime: 2022-07-28T03:13:00Z
+    webUrl: "https://www.ibj.com/articles/ag-tech-startup-closes-3-5m-funding-round-for-livestock-fertility-platform"
+    type: article
+    provider:
+      name: Ibj.com
+      domain: ibj.com
+    quality: 20
+    images:
+      - url: "https://cdn.ibj.com/wp-content/uploads/2020/03/og-logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "m1a3oQAD+fI6/QUxB+u5leNLN7yrhNxWqlkCkIv1v1JNYdF8min+JFeoqoBOXrKdWekJ2ffXeuOBo31rMmk1jSwvyhuu5dWtGZ0pvbR0kIp8+xDync/b4W90Q8EjlfM3XLLdfKYX0EB5In4dl3o3HQfeMtC64WWj5dXEB6rWw6g9fVJ4SwPVw553w+YUMBFCJzmhCFJeXRj18JsSAmHAsHYa8vD9onxygIjvuk4Lu5e1nVMxP1ukXQCwnTJZfZz0WFiiZZhr29ZNIOopt0p+4y5noNN+Mxrf23gqS4VI6hS/as76FZLEGtlGlMcZ2jElMZv5nhR1C4/mnfipv3wm5j8cRWXMnHPMowUIbATNY1LzNSJQ3onkdysLKuL4HLzbkkhi+4X7JDP0axNwc5h7pbSWGWv5t1wzgS28skJv4xATxLhFeESK6r9a163isOPHd7B/0BO2il10TZ64Ia1r90fd9ZqVlFA3QihqD1vM5QamBNbIvKdIR0aiDbBuq+sdtxKN7jW/Paj8slrQyqpYfQ==;ZMBD/V9+DJ66YWcFEWwtlw=="
 ---

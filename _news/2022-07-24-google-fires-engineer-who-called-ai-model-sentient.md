@@ -148,38 +148,6 @@ related:
         width: 509
         height: 339
         isCached: true
-  - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
-    excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
-    publishedDateTime: 2022-07-23T09:19:00Z
-    webUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/"
-    ampWebUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 58
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2019/08/Google-Logo.jpg"
-        width: 805
-        height: 486
-        isCached: true
-  - title: "Google fires software engineer who claimed AI bot was ‘sentient’"
-    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
-    publishedDateTime: 2022-07-23T11:01:00Z
-    webUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
-    ampWebUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23171904-1658554567135.jpg?quality=75&strip=all&1658540595&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Google fires employee who claimed AI system had become sentient"
     excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
     publishedDateTime: 2022-07-26T15:40:00Z
@@ -197,15 +165,15 @@ related:
         height: 450
         isCached: true
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
-    publishedDateTime: 2022-07-25T18:17:00Z
-    webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
+    publishedDateTime: 2022-07-25T23:17:00Z
+    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"

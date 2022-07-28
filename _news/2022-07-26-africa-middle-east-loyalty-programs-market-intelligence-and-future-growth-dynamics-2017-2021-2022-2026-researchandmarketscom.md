@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio"
+    excerpt: "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period."
+    publishedDateTime: 2022-07-26T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9644662.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
     excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
     publishedDateTime: 2022-07-26T10:33:00Z

@@ -26,12 +26,17 @@ related:
   - title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
     excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
     publishedDateTime: 2022-07-27T13:14:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mXZ4ogRfWA02gM5wo2HcrVSQDRPC0im1/q8Jn1pv69Vk0JSSLXz/Jkrr9lopqMOv243esryNjFJQvCq4qZU8NWiYux/GuOZKsi6bNlTb95ZfC9BTcrA3ZAKmRup65coo2UiD14UpRmiV/ZTq8prit/k6wGQi1KKSa2uhmKMeEH6Yyof0e/CNUc2b1DjxdJI8JClRnKC7w1aS/GKkDNGYV1kCwRc+dVBs+G+5mn2/onGU4Lvn1ICMfylW5FL+eGFYB86pQFN2qyM7TQSaxRl4w9PpgkMt4gbaGExo6GlLWoBFyvmYIPyzSFmKEWgssY5C4RC1tc6sQHMV9/EmP1dlmO3Op9zCNcNrLaxfTMQ7bqWBysdZZdQ2rVT72DIaWVa4tIB/O41wPkc3Z178TmpRqbycMzfbXFTu9b5Illdpn+gIMUXyjZ5dBLOeZiDbjJjxlzoQQ8iQGSTPL/B2OjnPLNC+ustuR5nYBMNEgB2skObOFbyyIOvZyDMPnyWXJ9r0o6lchjb/E8PGdrdc7kU/6w==;XX8X1AnUCzEC03yalq91CA=="
 ---

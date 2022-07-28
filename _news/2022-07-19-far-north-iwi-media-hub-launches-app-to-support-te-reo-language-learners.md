@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Far North iwi media hub launches app to support te reo language learners"
-excerpt: "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,"
+excerpt: "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund."
 publishedDateTime: 2022-07-18T18:00:00Z
-originalUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
-webUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+originalUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+webUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "Nj6RhGso1SegnNIsG+B9mxXgB4H8c3vrr/9qCh+NsZMg8labn95IzsvZazulbkA2Ful3fww8KKCvy061YPoWb+CQVJA3CY//gI32iuy2vBMzi4v5RYyd8yKPbYtvG5CX38PeKXY5aLWQ2A0/CPWNvLstXtK0moiFbfpi6B9R2c/AsT+f/LOLgOWqn6e9X6jtZHQmJXzamNnbaucB5BsbCuHLkBy5OhKE2X9ztrk2pSnP6ivPJ6x1UL1nU5MTJ+ZW0/itlmNEqL4u9nYYmcp1oTdCUChJO29d2GJx2NjwcVYLJQbCsSJ8rUivDVzZiKcGvTzAXRdX1PTZVrVjgRGphwaCu91Ce996o2HapXIxrFbe9iMdf0gsMlKcB01Gxh5/ntoDPPdKOMq9VPJMGT/h3d6MjIEafcRf73tm0Uq5bkPfpCT5Ns4texRd6OpADBSMLaKWPGHTV0FZy2shIDhzUZxkLCpwT2RFz1tn+fpzHSftY7rQDOrmynA/WfifvENxD+utgV387oH2eatGDFSzcw==;F4+dGimuzUBgKvI4KrB7RA=="
+images:
+  - url: "https://www.nzherald.co.nz/resizer/oO4cSV-r7NIyOQydkB467IXwaD4=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/6CCG3FDFCS6KMYN5SUQRE6NJ54.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "Dn3/HKA+cQf+nY6P6EoCXHMc++ljFbnSTXbfH88X+TyiMzjW1srxdQlhDlPxNKtPqYg3GitsqhA9LAed+nu8zgChcSVCEwII4YMVDE4FzGvVEthhnoNdf2kiX0fU9Oo1MQYBEc9FX82Q6qHDJp35o3h47FvhfoiFSpkqh56tlEsIb8imZlOqUixo74LWe2m8RfiU0wKw3PqCbiLueziaIVEwLI/wQOQoTEJEszzqOYXspcVp9NqWgNrjLHYUFP7es00PTrdZQws4+aZkczSmLd35fGNHUFPgkoF5/pUH7Y+adyfrWxtWS0os4eFtM4RtuOEnXM++MKRIftWbYLLeEP7iKZyPT+zawocUXy3l/UE=;iEPZCND7bIW/NlX0ZOMeoQ=="
 ---
 

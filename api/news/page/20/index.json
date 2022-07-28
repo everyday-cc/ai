@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-07-07-metas-latest-ai-can-instantly-translate-200-languages.md",
+      "title": "Meta's Latest AI Can Instantly Translate 200 Languages",
+      "excerpt": "Meta has open-sourced an AI model said to be capable of translating among 200 languages. The company announced(Opens in a new window) in February that it was \"building a new advanced AI model that can learn from languages with fewer examples to train from,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages",
+      "originalUrl": "https://www.pcmag.com/news/metas-latest-ai-can-instantly-translate-200-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 304,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/070IFBc208oZ2EEnD8cdMWf-1.fit_lim.size_1200x630.v1657134325.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-meta-open-sources-early-stage-ai-translation-tool-that-works-across-200-languages.md",
       "title": "Meta open sources early-stage AI translation tool that works across 200 languages",
       "excerpt": "Meta AI research scientist Angela Fan ... number of errors can produce disastrous results — as, for example, when Facebook mistranslated a post by a Palestinian man from “good morning ...",
@@ -1126,57 +1178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-three-ways-industrial-ai-can-unlock-instant-value.md",
-      "title": "Three Ways Industrial AI Can Unlock Instant Value",
-      "excerpt": "As field practitioners in the domain of industrial AI, we've discovered three key monetary constructs that will help show the value of industrial AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c43e64efebb056e142918d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/three-ways-industrial-ai-can-unlock-instant-value/amp/",
-      "publishedDateTime": "2022-07-06T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

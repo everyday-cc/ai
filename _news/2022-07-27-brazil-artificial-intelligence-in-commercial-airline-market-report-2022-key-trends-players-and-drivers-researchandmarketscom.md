@@ -3,19 +3,25 @@ category: news
 title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
 excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
 publishedDateTime: 2022-07-27T13:14:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI-Driven Internal Talent Marketplaces Are Key to Talent Growth and Retention, Reports HR Research Firm McLean & Company"
@@ -28,6 +34,6 @@ related:
       domain: businessinsider.com
     quality: 24
 
-secured: "+vWmWLnUPGk/z3rZM6zsn/jBc6lF+IvouDGxe3cITZlgAO9owE8b6KyzzYoU1rgIfUXZ/VLopjJW7Faz4te5XSikWso1YPtDTmK+wZ53G3aWF+8JvJPCAA+3egmYtKxFxljX+KMP7Et8N+yIQUkhsxVzVBBEEjq6k9JlnxvDDTNnTe7iN5ShgO7Y/is+PmYOjzOnXtRNs6Mjz58dtJjyHOPGVVpt0fDQnyEgQEcJc8hMc5WEknm0+U6/jLKboOWjg9mtpuYswGK6GVsuAJDsAgH6D+Z9ZULW1lGOnZjQs5ViyIu5e9NmkMcIbvR2Axtcq/o6hK3alQKkG51CrwaeSertNnu9p7xvJa6q+KaKtM8=;rnvIUHkshjf1oQ66fXMVbA=="
+secured: "c6effApgZQ3A4G5+Y4/HDLISu8Jxvmq4ug8uVWPmS1fNqKO7+N5fzvLIzmncbhpn1sCa3rSFEglw6zD+LiGQ5nQCum8Cnp+hbuqxO/XIqFYGYYko/betVNHcJnfErcxjOo2oCnrA4aY82+H+0FHj89TGe3TH3gLjZgM5//E08rPs/zfl7I+dmGQOR0HhclJfe8oaR47CHi5E6WYGpNHwvI3Hwd0OrFDcwjWqUg9rgNTd104nLYXgXJnqUnimofFrQmT413eLV6K/wrqJ8CrUOkzDL+qWDnei2u/VZ1M60nyX0146xNoxHOXLbI9vR5fiXbaWiSThy+bZ65kDThZncpf3/EIFgvbVy3oEu3ilaPI=;th08RQO8u5+7YLefdDqeHg=="
 ---
 

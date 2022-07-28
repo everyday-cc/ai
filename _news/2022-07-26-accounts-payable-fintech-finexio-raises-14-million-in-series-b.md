@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fintech Funding in Singapore Remains Strong Despite Global Downturn"
+    excerpt: "Despite the current global slowdown, Singapore has nevertheless managed to weather the tumultuous market conditions rather well, with fintech funding remaining strong. Moving forward, the momentum is set to continue,"
+    publishedDateTime: 2022-07-28T03:25:00Z
+    webUrl: "https://fintechnews.sg/62943/funding/fintech-funding-in-singapore-remains-strong-despite-global-downturn/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 39
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Fintech-Funding-in-Singapore-Remains-Strong-Despite-Global-Downturn.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "The future of fintech and how to get involved"
     excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
     publishedDateTime: 2022-07-26T11:39:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation"
-excerpt: "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs."
-publishedDateTime: 2022-07-23T14:09:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7"
-webUrl: "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7"
+excerpt: "Ethical GmbH releases a new version of eReconciliation® that uses artificial intelligence (AI) to improve the performance of the software automation engine. This third version of eReconciliation® continues to optimize time spent on SAE data reconciliation and reduce the risk of errors and omissions,"
+publishedDateTime: 2022-07-23T14:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
   - AI Ethics
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "rYvkLbzkdRnsDo8yHC0mq8eHuCbf94UBcjpU82LqRlCe0RQt5d/HvBCGWRP9wYguISir0wvPiaB8uBcg3bOA9hk2fzI1XgHGr48c/5D+QhKM0Pn30mUQrpIHYf/vz3F/cC89aXe0fuLAJ7OV/mklEEew1v2uq5Pjt0UX/lJjICesWkGALsVy+9Cjg+8ngYl7GsQe9ljlHeHVDl446lDdkCIhfTu2XH/UBKhy6YCBVgQT2F7s0aXjqwsXJYfTYzKxt+ymlgKhL4xbxI/f27gO8HaT/chuI0UVAHHKUO4RA0KWuU+SiphRwxs/e6HO9vvUZ8t88AHGK2xtkLdjk2LlTRWdGSFiQiwCZu6BkD3WhAo=;jiZ84dQ/Mm6nqTItEQsk4A=="
+secured: "wFC6Eq8SG3oUxgkGEWG3r2mr1kYg3KbEcx3KhBLY1zlXvnXgALK07OXkhClBmA2zPjMZC2Wnn3GNG6i7zYeWzxBsWj0vOSNHDDrifZV/a71YNunYx7Y1vaG69PBpY55kdWbfG4y0kpXb+bdT1ht2a8ZA7ZrAzGTKCrcPi8ZRoa8nysYUBlxc5fSQA7zQ980wWG5hbOQ/WcIz58ErnsIDdbBpPrv9EiBFZP8bZUlTygqcs0SZPVXlBPjTNxlRSZFs0RscB+rfjvanL9wG7ofL5/ehss84RbOPTVpxlQ7dnfgoC2rVlKjC+FvKor3gLzH2ljUo8/8nzhGHVN0nTgyDEs6eVUfQf8g5tOfROSmCyWcaqbFgFvtDd9qy74DMdryNTsRJ4jNY/0JsyD0KbQXZq4verL7csyEd/9X2NF2hG2R7AjGbl8/QllgT1xXBe0alQnnyRY4nISnT1tqXXeiebiMjPKML7JTR9FjW1pwnuWcm7I4tR2a4TQPHPuXDD5gaPe5hz/gL7mAf0x1hX5bLKA==;OMUrTj0uEl+O1vhtuKmsPg=="
 ---
 

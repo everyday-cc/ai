@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-activ
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

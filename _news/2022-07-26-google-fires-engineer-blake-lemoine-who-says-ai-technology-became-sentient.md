@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
-publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
+publishedDateTime: 2022-07-25T23:17:00Z
+originalUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTVD
-  domain: abc11.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
-  - AWS AI
+  - AI Ethics
   - AI
 
 images:
@@ -148,38 +148,6 @@ related:
       - url: "https://www.newsnationnow.com/wp-content/uploads/sites/108/2022/06/gettyimages-1328784596-170667a.jpg?w=1280"
         width: 509
         height: 339
-        isCached: true
-  - title: "Google Fires Senior Software Engineer For Claiming Company’s Artificial Intelligence as ‘Sentient’"
-    excerpt: "Google had sent Blake Lemoine on leave last month, saying he had violated company policies and that it found his claims on LaMDA to be wholly unfounded."
-    publishedDateTime: 2022-07-23T09:19:00Z
-    webUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/"
-    ampWebUrl: "https://www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-fires-senior-software-engineer-for-claiming-companys-artificial-intelligence-as-sentient-5530556/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 58
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2019/08/Google-Logo.jpg"
-        width: 805
-        height: 486
-        isCached: true
-  - title: "Google fires software engineer who claimed AI bot was ‘sentient’"
-    excerpt: "Blake Lemoine, who works in Google’s Responsible AI organization, was placed on administrative leave last month after he said the AI chatbot known as LaMDA claims to have a soul."
-    publishedDateTime: 2022-07-23T11:01:00Z
-    webUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/"
-    ampWebUrl: "https://nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/23/google-fires-software-engineer-blake-lemoine-who-claimed-ai-bot-was-sentient/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 57
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23171904-1658554567135.jpg?quality=75&strip=all&1658540595&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Google fires engineer who called AI model 'sentient'"
     excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
@@ -315,6 +283,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "2lfTR5FCrgpml/73KqdGBEUPgXTE3d1XT4gpX0m2LMuUkEWUbwQm4PNvcoR7kRMQ2/P4fpF1O5bsotIem/cZgADI1yeqI5JZNu/TS1e4nqcPMMmvpKiwnkZeSG/FSHaEvEA0k+Q+uWb9Q2HM7lv8/S74156KABZ+Tjll2HG1M0RCDjB6qaAlrokyjasho/Q1L1cYVuqyPcpSuCW8KfHglOJlc3YPGrCvJ0U9nsalAoKbLTBIMLvl4VKNHk0mkQKHbE942EHb4m5IAoVckrOMguQm389OUn/RxHrhS1jX6dSUlB4dpAq6Pet/+IT9vcODWOfDUR2CbFIc5udlMqVtl1zZR+OAZCOovW0T1+lNFyM=;r9+aUenEwo1WNS37iNicmw=="
+secured: "TKHR5Z7qo7eHlDiAyjHa320exMzGL6SOLd7KuNKZLpuwp7lG7Ip4Az/4XQAOTO6s6l5D/bYfonJpM/itEVGdVmAGRG2hUJ0LIzQHMg8RshcsoIgKq1Gl3PMBKnq7LROi1kdAk3EipX5I5tcC63GAebETiaV+5wjXqe1TD94ohT81zaEjumJLCmq7kxC30wha6HmGu/NsxugB+dGZhG8g+9DUQZQZZv6x1/w16v0opwxoFw/M53Emo79kVftI2JOk7ACvN+lU6d8LvgUvKievTkMRT+x07k/1DugmbwpQJ0ogwLCQwCMhdWA7N83N73RrQuNQa0BSM0YySeQsT5QL+74/Z2ENrYEGe5DPZo8bsEw=;Jac1xiJekWNqUFDbYGWW8w=="
 ---
 

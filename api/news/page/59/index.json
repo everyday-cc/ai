@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-experts-to-discuss-how-artificial-intelligence-is-powering-manufacturing-at-automate-2022.md",
+      "title": "AI Experts to Discuss How Artificial Intelligence is Powering Manufacturing at Automate 2022",
+      "excerpt": "Today at the Automate 2022 Show and Conference in Detroit, leading experts in artificial intelligence (AI) will discuss how to put AI to use in manufacturing facilities in the keynote panel, “AI & Manufacturing - How Artificial Intelligence is Powering the Next Wave of Manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-detroit-ann-arbor-artificial-intelligence-6e4b3ec7a0654148a394931b713f4448",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-ibm-ceo-explains-why-he-offloaded-watson-health-not-enough-domain-expertise.md",
       "title": "IBM CEO explains why he offloaded Watson Health: Not enough domain expertise",
       "excerpt": "IBM chairman and CEO Arvind Krishna says it offloaded Watson Health this year because it doesn't have the requisite vertical expertise in the healthcare sector. Talking at stock market analyst Bernstein's 38th Annual Strategic Decisions Conference,",
@@ -1066,49 +1109,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-unmanned-combat-robot-disarmed-for-reconnaissance-duties.md",
-      "title": "Unmanned combat robot disarmed for reconnaissance duties",
-      "excerpt": "Milrem Robotics has rolled out its latest THeMIS Observe battlefield robot variant based on its modular THeMIS UGV platform, with an emphasis on Intelligence, Surveillance and Reconnaissance (ISR ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
-      "originalUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Veterans Voice: Navy vet left his mark as a philanthropist"
-excerpt: "They were patrons of the Aviation Hall of Fame’s induction dinner every year. In 2017, that group renamed one of its awards in recognition of the many years of support and valuable contributions made by Robert and Warren Galkin. The Galkin Award is given ..."
+excerpt: "Bob Galkin and his family foundations made major contribution to the Rhode Island Aviation Hall of Fame as well as many nonprofits."
 publishedDateTime: 2022-07-25T09:02:00Z
-originalUrl: "https://www.freep.com/story/news/local/2022/07/25/veterans-voice-navy-vet-left-his-mark-philanthropist-bob-galkin-natco/10129702002/"
-webUrl: "https://www.freep.com/story/news/local/2022/07/25/veterans-voice-navy-vet-left-his-mark-philanthropist-bob-galkin-natco/10129702002/"
+originalUrl: "https://www.dispatch.com/story/news/local/2022/07/25/veterans-voice-navy-vet-left-his-mark-philanthropist-bob-galkin-natco/10129702002/"
+webUrl: "https://www.dispatch.com/story/news/local/2022/07/25/veterans-voice-navy-vet-left-his-mark-philanthropist-bob-galkin-natco/10129702002/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Columbus Dispatch
+  domain: dispatch.com
 
 topics:
   - Natural Language Processing
@@ -24,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "UXzHYJpbhqoRkl0gHGCN+mm06+uf3LIski1Wx0NzPK9+uUwI79yRsSq/InCjmiGJ4VsQvkqCGU4KGuGZbGvE0oRXMAN15hEE5W0xo5rE8rJqnRNVwW4vv2KattIQ/C8X2mvcH8bigrQCGEnOSCixoaaQTqMKy6kuJHHmqH4IuZX0gXvMWm+FgerZ+hrFywzmHBbqn0pUxnOq6CZWJcwla5mn5nZBYwACJ0rA0CLnTXrOKzT3Rhn16Aq7jUcQ7DiLmRPFBxcz8a/qnWhjVxkxXMD9bU00Vw+T4XEIUJe3IgmdsU8X5Yq+JkJCwIt2rbPZcG4OWCctbqzpt6j8lVuAzRn3xr+hTUQftUid0+4vVjU=;aJYe3J9nrgS7fwxDZlLy5Q=="
+secured: "DAAP2aoXnzBsFVCE1VdlJaRMcuOjrcNTWqakKpQ3Z4RoYtVxFoSom+n77Qo9w8IS9ef75WxBcPBpliXP7Zp7+2zNWXGHKu1FWtp+FfRiIRxoKt4jXLtJmpiSuD6T5eZge4WgouRb0iQVQRLTLUTy2zXKWvgS4ZPOnKvFZnjoM0AIfVU7F/X0ZUN45wb1tq+lhlxAwGSPxUZ8uePjbGv7nTJJmY9opoZC+ewCZ7UeLvJXa1DjaL4E4Blwy5cgnPr70t3zlg1u97eVS2gs0sm1Y81+zStgm9O+iFL0kxRHx6lPWUAKSuKHKE2aX4Ml69zoDdf3936sSpACfuBgWZ286RRyAp9SDoQoElNFs7l4OgQ=;HqMOJHtB2VV7hPaJQi3Bhg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Telstra deal accelerates Microsoft Azure cloud"
+    excerpt: "Teams collaboration sessions will be smoother and Azure cloud applications will run faster, Microsoft has promised as the ink dried on a five-year agreement with Telstra that marks the latest stage in cloud providers’ Australian land grab."
+    publishedDateTime: 2022-07-28T03:58:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/telstra-deal-accelerates-microsoft-azure-cloud.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20telstra.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
     excerpt: "Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store providing applications, and services for use on Azure. Botminds' customers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2022-07-25T14:48:00Z
