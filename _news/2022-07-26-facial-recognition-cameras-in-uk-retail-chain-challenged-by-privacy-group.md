@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition cameras in UK retail chain challenged by privacy group"
 excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-publishedDateTime: 2022-07-26T07:39:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
-webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
+publishedDateTime: 2022-07-26T09:22:00Z
+originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
@@ -119,6 +119,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "J84LOZuM1rZDDfVzkG0LdeQOgtxTimHD5zwVX52rS4fkYECixht9qeZ1Mh3E1FYeKgTq4h0pGGAjjX34T7F1B9pcVQ5n3c2o/+bIFp5xR98PUYWq9PR22kUk7GHgBkczc7wmifkWsw98CGaZTKjKPuA8jKtXWu04NQ0kMAx8IiUcFyFRxUeSVdZSISuY3n43A6q7gFa2+iXseEehlnOUMcIiEQBHf+ACX1wMscmsLi5DMPRkiaW0tgGKShDGtHm2N/pL88zKt32J6nfQFN28uWyqZIAUXSnYYQAHOsrcLds0DVJRP4zzMc21S8oTY3IY//SwlYdYyxQIQS2G1hZgQ9n1pFavHQs2oy0otAcSn00=;snHgETtBhasbiKY3EzPudg=="
+secured: "GpASjtlEuxKZ1/LSiFSmROpff69bsNyViv1vgSDqoAZkjrtwDebJZEIUZEI9e6onP+cIyLVn/0G6s1/5ZWVCGZ/v4rvKtGA2sLki1ClQPi48sD4uKOXbTNGyPHBDhzYMrH5V/ReueRapo4CsmtiVis9wRnDci9xoVQdpijNjkXzcLa83v/vt2l4zoBwgwm9m7PvHBtdo0H4AaEjEPUoqMaTuwogUXegrFl0I8T242llGZYv2jjDJ4X8xSXD/kfXJksVBk8pEF/+P1mT7TZqC6r03MogIHJhA36fOEykF+jgSbKavzwXgh78zGGnOoHOl2Aen6tXqxvTDOpmrg2f19/7Wz9myTpIN4ZsZYbuknzM=;MXDyUifPwmgxN3MQ5lY/1Q=="
 ---
 

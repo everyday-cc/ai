@@ -43,6 +43,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
+    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
+    publishedDateTime: 2022-07-27T23:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "X8eErgqSyN8oCe1A0JCkxIImPAPMS+MJAgLs4wrqpAUP1dHWDYjfnSqAc7Qz8RcqZCa0fPZf+UhnxcfATFue+3MfHIczxEeW7zXsMCubzt2KdOxWwyz4xRyRD8VObEZeU/51ISYWYamOQf9flGr0zLB5RzFywrjm5JraJUmlC/7U2eM03z8HZqcT0cSGybw4GKlcYastEuPOWjSjnpmf6W3gN4iy2J6F9AmKKovobVjNYHfbzdCl419koXqwdEYinoneZ36LT9nPXlOMvj7it5lY4igIVm+vYDRUwLAbXHHOX79FFT6IFOeFRNan13xOpa5O1RnI5+wyl2ZA5m+lv7knA+JKozvaSqQNaxO8PRQ=;cqZijjOqg4cJFGuuhHHH0g=="
 ---

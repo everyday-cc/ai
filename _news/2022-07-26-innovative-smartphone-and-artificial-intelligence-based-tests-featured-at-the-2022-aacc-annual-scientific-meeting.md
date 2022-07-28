@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-26T14:56:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "lN0ZQnsp6qS14duuZij7l2K1r2YlrUeO2N2AaBKw2JltkYC+sS7e6kn4YYI17GOvZXFfRDYbH98zOa3CgWiPEa6EHGJehppn4MHnekJupqR42naMyFFHccio6Rbfh2LnM8q1AxDxS3t52jTkdtNUejh1vlgCf58khWwy20o0Et59eVTY/8x2VZMoTU9yHdh2Ge4VBjkWp0zZsK5p992V/7hEkBDGITKppq8qlhCzAJt807ZszFe0Hmali7FNNDYLW3JcMy4PnEy4jVM1Zta7qWgRXCVxUrFPG9EiwDxwo9hG6P+z4AlF0jF+OOLimiYFnC2kXoUmn/1dXB07XLksdjx6BkZw6+vKe3Mp7N+L8tI=;Iu1ovqLACt8sQv8bYeiaRw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "FiOeodpjLOgPO0q3LEEQ0FCC+egtRS0eNgknmdGmbW/Jb3pa8bxUX2kLhgzP/BSjnwUjGr3BSIFKhgzmKPTSUPWn/MZhtaKYWB370qCAfL605984BI5+YJYiS26GPDnJCQIuJrtqlmWDhQ/X6c6j6r44Jrjx6Yyyc41K+5SAWnQKC1G0UrKcrDnBbd+QGxcMZfdQCkSsUAoPFTJQoFtjCBMyW9VULt4WNzNr0KAoc+XV+dttR0U6+HLQKRDfOwcbk9/RozbZMUBTgYvsk4v6rXXAgByY2NLBy1cYfohdLRZChGT52Gme79TxPaJvY/Cmd7omMpaOg9+JKNt9IHySBV7vrunaAXlDkAcpB1eDXHQ=;limvi79EoxBWajtrfL7/Wg=="
 ---
 

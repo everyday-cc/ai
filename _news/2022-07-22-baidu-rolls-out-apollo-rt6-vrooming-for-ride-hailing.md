@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
-excerpt: "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ..."
-publishedDateTime: 2022-07-22T09:30:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
-webUrl: "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
+publishedDateTime: 2022-07-22T02:10:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
     width: 720
     height: 480
     isCached: true
 
-secured: "HbBQwi6zoX/w2z3BMOPaORuwmjCft82ubr+dhuPVkneEl3h9bGNYyK0K11Lx1+JqgUZouRLyNUmdk2jzvD3LbgS1/x6+uO3W/fNqk/80ZUGFbgNEMGwH6HiCWI83wpLwJcfRtFTos0yBKNWoUTMMh5lhKi5f3s60nd9wUYL8FBnkepDFwdQh+Z4xSFsVOos6ZtFxP1JoLjBn0XcX9lhZlKc538XZr0fWkz8pZL237aX5RQuUmh+xtmGm3RlKkAW780P8g5UAQmWS/c95Bc3ifOx8uFqcb6OkjNCPAoefEE9lPYiuv13GE80dAFAnDaXIqJ1L+dqxdfp9qNA9vD71wm/BJiziFiVyjP1qRHI05hc=;yPApltcbZHh29objYwN7dw=="
+secured: "sKtn0vu9veP1n7ApTV6XySX5SOGSm4LVlXOOOREfHOjHOaDqO7x1wRfiwKjgYjTHe060OLblNhGyAlT10PkYtSqJNp2K7pjWd0a9RbUGJubm/He52yuxNsZYXmuIlmELrshRtN3x5ufG4Ja/zUkF2IIF44q8uDLs703syJKpTLJHblB1XHveX7vC/WUIacHlWHUkgDvHp7wwvE30wQ0xRFi91bMIXxaHvbE1sGQvchv300IlrDn7GtGTLX4eOf9PfitingO7kaD1+JZaTy9azVu+aOnuLDso/1cXbgh0uZd8Lw2+n2TrLrkiJtSqQILyyG1Y2lCrGs8ZN0VJyNJgV2sdztL2rAYqgNsErEh14cM=;mdQpV7YOHdfadEAWvKC70A=="
 ---
 

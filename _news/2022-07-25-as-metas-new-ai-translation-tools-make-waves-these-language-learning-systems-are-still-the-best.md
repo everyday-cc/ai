@@ -3,24 +3,25 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://www.wowktv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://www.wowktv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-ampWebUrl: "https://www.wowktv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-cdnAmpWebUrl: "https://www-wowktv-com.cdn.ampproject.org/c/s/www.wowktv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+originalUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: WOWKtv
-  domain: wowktv.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.wowktv.com/wp-content/uploads/sites/52/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
     width: 1040
     height: 585
     isCached: true
@@ -36,6 +37,6 @@ related:
       domain: venturebeat.com
     quality: 47
 
-secured: "jtiqDCNhFMgfhoLGRC6i3ShPQLqrQEE79enXm2MFbNnNbXx7g/z8F+FLhmdlvQZJZBAa9MP/m7QKPWumqrEYav8i22o16G3cDAl8sg/4Ghukx75d3/XPD94eHZgmoa2xVtjsojA3oLmbhuXpeViPUwZI0xqneJfTJhtKBzA07jqVCfnKWp8yobv/JGMPyXblfqpEsq/IFnoAn04DI+OAJI3u4XHw8NE+zLeN7fW2GXNGS5rwkG+pk2PzdZCWeziJQvh8/5C+rN3ttoTdX8qBJlixol9a/GXExQczUfO36gqLYJYTY2B+l3xg1IJ/QSIQD15VdKfI1/cLsRb08Nz5bNCyZJe6RdUsQblC+qFJr80=;zBMVxEThLusG7Gj0HEnRlA=="
+secured: "XGKanOxA+O3D85eMgzS7Mm2rz/sOR60NvIlyJ08Lw9/oG9PIf160Bo0PSgettJg/7vLSX7k9iHL2IWnytR0+NjMvoYJUz5kL79ILARHLNyOE60qTC/HbmgKv6OAskiZPm77K2T1CIUo4oLwiH6EM92/08pAKX1CDC+71nVhqPtmxPGi7Z6lHRY4aqAVtQ8+JGipJdrlnIjTMag7edDjSdATgkGtIcuI+dNIrLPyeDN9JmhDS9bG5TXANSg0/OMSYc1l0uqs9LszwnS3pVNeOfZUgJf34WgqyVHkCHofBLmE7CaWfPyUja4BLOAHG2zJfYWCLWcv2OJqwhqyGSZUecLh+0XeJuihPewMzHVlg7MU=;FGFr05p1HUjdyISjRa3C9Q=="
 ---
 

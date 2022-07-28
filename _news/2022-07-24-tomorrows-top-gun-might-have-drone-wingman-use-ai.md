@@ -9,7 +9,7 @@ ampWebUrl: "https://www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wing
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/tomorrow-s-top-gun-might-have-drone-wingman-use-ai/6669498.html"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

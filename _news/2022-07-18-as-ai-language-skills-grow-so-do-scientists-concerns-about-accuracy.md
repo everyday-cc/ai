@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YISDQUOIC5AVHLEH3SNZPD5OSY.jpg"

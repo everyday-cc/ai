@@ -34,7 +34,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://images.idgesg.net/images/article/2019/05/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large.jpg?auto=webp&quality=85,70"
         width: 1200

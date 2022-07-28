@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Air Force testing system to stop active shooters with robots and drones"
-excerpt: "A system that detects guns and deploys robots or drones to disrupt an active shooter is being tested at multiple U.S. Air Force bases and could see civilian use."
-publishedDateTime: 2022-07-27T17:47:00Z
-originalUrl: "https://www.foxnews.com/us/air-force-testing-system-stop-active-shooters-robots-drones"
-webUrl: "https://www.foxnews.com/us/air-force-testing-system-stop-active-shooters-robots-drones"
+excerpt: "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter."
+publishedDateTime: 2022-07-27T22:17:00Z
+originalUrl: "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/"
+webUrl: "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/"
+ampWebUrl: "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "UN8Glc1/rZ4C8Q/EOPDYPoTsqCW6V1hUSOhv6iZnzr6APYHMQTlB08sWWSiygOpQnxJzpj2i71DdUMms6cNOebthLEVZwl8flGdvIbKwJtR9la4DqEy+MzRwH3a6gAXCZsWdHgEyoe+jRrLWnWjJu7gNdS7fXYR8vSLDsWDKslkeHe08IbUGFf9+7DGjSqPbnqp4cNX+JaJ5APCcu/dFH6DPX8a1RCtCoiEAXUoXEuTuF45JfecyfWUsVJcM4H1cfXr4npGKmHZloLDe9dG0b+v3bPrICzYK9kH8SiFHN7OK9VK+j3Pm8p6ulGC48jO6hQQPt1G7ishrNCXc1XxFCeXtxz0mdfqQHFP1Qujc+5EWISOnIxuYf90hKA0QV7xIyB7PPOwwa+Wsy5pHMWvGrS0NzuPUDFASR5TK9gZBbFysORFR6gFh+8pSB3kpCzSKp8a34ci5+hDd/ON3QigHX8lu8WBgiysNpedsIQZlFMTsEENrxMYbR99qedbdugibnJnEJZgc8pVYgU6S68uMOw==;31nL51Sit9Jf7gsq+cyLvA=="
+images:
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23228536-1658958834439.jpg?quality=75&strip=all&1658944488&w=1024"
+    width: 1024
+    height: 682
+    isCached: true
+
+secured: "a6tPzkmO173Emda9NSiP8ji3dYboyFqMsJW0JH+3YT6V52BUt6qV4q/qbF9oCq7A3sEtBrbpW5dLsZc/ULfhfpuzzShxehQitq11HaWyesP0BIb8PTNHoEGBZ+tb5iabxuSch3DXcAWn7k34uDlsKpN6g/nSxQqIlEyBh++afMJHJkPOHTe4Ud+u3kauLQKZ9V6/nBA7Y+TBEnYwFB6PkDhpbr0ORalxby7NncOKaJNTUus8+It1tJY24JJoz0aSE1KUqvzeXaLgRhPzSGpCMORYdDfkJyOAH25w/2omY4Wnh6/eCTu5f708s3e7zLTfKJ2dXVYqyC9udXS39lT84wjlAGWDqo5n6rD7/XqdpsY=;VFll1YQ2U2giCessmZ7tzA=="
 ---
 
