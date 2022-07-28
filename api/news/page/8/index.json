@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-18-artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects.md",
+      "title": "Artificial intelligence, deep learning to assist diagnosing birth defects",
+      "excerpt": "Canadian researchers have in a breakthrough experimented with the use of Artificial Intelligence-based deep learning as a tool for the early identification of birth defects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-03/20/full/1647798220-9844.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/artificial-intelligence-deep-learning-to-assist-diagnosing-birth-defects-122071800677_1.html",
+      "publishedDateTime": "2022-07-18T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-data-science-and-machine-learning-platforms-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2026.md",
       "title": "Data Science and Machine-Learning Platforms Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2026",
       "excerpt": "Global “ Data Science and Machine-Learning Platforms Market “ report is the single authoritative source of intelligence",
@@ -1140,58 +1183,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully.md",
-      "title": "AI Ethics Cautiously Assessing Whether Offering AI Biases Hunting Bounties To Catch And Nab Ethically Wicked Fully...",
-      "excerpt": "The latest in AI Ethics consists of AI bias bounty hunting, though this raises a lot of questions, including as considered for aiming at AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6253775a681e4c1d1414a314/0x0.jpg?format=jpg&crop=1976,1317,x182,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/16/ai-ethics-cautiously-assessing-whether-offering-ai-biases-hunting-bounties-to-catch-and-nab-ethically-wicked-fully-autonomous-systems-is-prudent-or-futile/amp/",
-      "publishedDateTime": "2022-07-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

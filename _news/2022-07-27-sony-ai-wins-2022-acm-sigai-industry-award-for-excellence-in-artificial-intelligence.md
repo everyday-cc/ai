@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
-publishedDateTime: 2022-07-27T12:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
+publishedDateTime: 2022-07-27T12:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
 type: article
-quality: 47
-heat: 47
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "YNSAeGkYhphmXx2VW5P9IAnAu8C67HVrHu0lp9omOZ0dTSMvFV09Kd+AEDPExqQMT24aZp2yBp+GZ+OyHLkWDMbsSaHQXGvhtdQ5zo9xDL/xfZMPK5vr0twTWacyBJNjzA0++h0UMqTZCJokub+459RXPIaj12WlX33wn2tFQcOVK5XbFUPzoPhBOuZ/W7KD243NheLCh18L5wEtvxfmlJ1161dsBMDWvBbl04IvUfp2kJiLFceqNXjxceED7rf36d0OI94Lxa6NLujK0uKoxGcMRfes6UbcM60UVHJM/13UkvLAnc9/OubnaD0aw3GqcjekubhExX5QW1Ncd/5gF/0Y9t9GxqKrPuvgzl+zqVo=;UnRLLfpCJofzkk+sG7DH/Q=="
+secured: "sLYQRLLuKpYCLhdHjnVRrhyTmFuRfnmG7jl82OruNvhIvJasRG5IgdikQ2GoEZ4DHFenQgpOje6NWA8/zSgSIVIRVgnEq9pH8o7RcceYvDluvd0FNG6CJJBovIob62HxVh0Vm5CijAHuEuGx1mc+uJkowJjm7M/OuWClqhGOTKJvlr29uSCXJDrLOwmrK4yLjCDr+98L5La2QLEHvS6nvV/58ai+sJU4wayVEeNtmD/xukYlpFXBoAdZ9ckxKwIkHSmJH4A/dy8XenylKGdgVvDWNLSKkow4JcGBk6zRvS0FGFdxpUm4lTy4WfvkFVTuXBTK4tAid0gUvkBWK0v2gp9aTAGTzxwWma5F0GdYLFo=;IqetkzyHuUKQiukIZBHXmg=="
 ---
 

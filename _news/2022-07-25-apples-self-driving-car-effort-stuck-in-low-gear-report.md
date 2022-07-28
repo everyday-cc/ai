@@ -64,6 +64,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 4
+  - title: "Apple nabs Lamborghini veteran to work on its self-driving electric car"
+    excerpt: "Apple Inc. has enlisted one of Lamborghini’s top car-development managers in a sign that it’s stepping up work on a self-driving electric vehicle, according to people with knowledge of the situation."
+    publishedDateTime: 2022-07-28T05:35:00Z
+    webUrl: "https://mybroadband.co.za/news/motoring/454300-apple-nabs-lamborghini-veteran-to-work-on-its-self-driving-electric-car.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 4
 
 secured: "LmskPu5QgB7kZXpAStlWnbGVr6vmqoGfokIOJofQ6ek83wM8Yyp9ictb/p4penCFmRosciqNjYrIy01JSR95EYYqm3UxINeK7lTPdjO0dcQfIlM9/gRZVf400Mf2eyqgRpVePXrw3fOyafDUxoP9e/CfhF5a5USxv5nX85dcNZ7qNTpRJC03UV5iSPXazSvDVF3dQ9BrAxrahoLwmjbBlO/3fVKxNK8keifA9Qf4BDJmDhNdw06qvQbam6CnGcDPcJE9H3pqSMOFhyW65bkDVX9knYcX4S7Wkf7aPZOkfwIIyui6cLuASsnZd4E57SWVHbUEFYfEFI20ONu3VKVdgRVtb8HQevoULKNP+zydt4LducBnO1QHijJi8D35liFJTpjd/4HCdxiNnecMEVXsUimj9Lt5LnR5TQskPWvh+Q8GZave1VVfeKHoY1W4r+WGC23YEiZ6j+Iai0CNcOSm0/P/TqKU/7ZZ6kGP6itHdWR1lbjPNKyxNe5LLQ8cu7fcl/4VDi45sMyVXQp0fJhxqA==;j3Tyg+QZiF0rbGaGUKqHcg=="
 ---

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-publishedDateTime: 2022-07-25T23:17:00Z
-originalUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+publishedDateTime: 2022-07-25T18:17:00Z
+originalUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: ABC30 Action News
+  domain: abc30.com
 
 topics:
-  - AI Ethics
+  - AWS AI
   - AI
 
 images:
@@ -283,6 +283,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "TKHR5Z7qo7eHlDiAyjHa320exMzGL6SOLd7KuNKZLpuwp7lG7Ip4Az/4XQAOTO6s6l5D/bYfonJpM/itEVGdVmAGRG2hUJ0LIzQHMg8RshcsoIgKq1Gl3PMBKnq7LROi1kdAk3EipX5I5tcC63GAebETiaV+5wjXqe1TD94ohT81zaEjumJLCmq7kxC30wha6HmGu/NsxugB+dGZhG8g+9DUQZQZZv6x1/w16v0opwxoFw/M53Emo79kVftI2JOk7ACvN+lU6d8LvgUvKievTkMRT+x07k/1DugmbwpQJ0ogwLCQwCMhdWA7N83N73RrQuNQa0BSM0YySeQsT5QL+74/Z2ENrYEGe5DPZo8bsEw=;Jac1xiJekWNqUFDbYGWW8w=="
+secured: "5IR8y7ACZU721+6SLZ5AHLFQehtEYMyYX3to71wy5bDHBmCIXKIYLMe66+l3lhYS3/5ngGtRTA5sh68PU0wAYDW8zfNCXccrnMIE7CpfuVwBS4LmnoD+kiECo4GI/rn823EN2Z75s6oNxIfDG2+HtnP/TGJd3mQDP0dttJLSrz1WkfuXibuDhXuWJSEhz3Sc9tjKo8JlkmsNqGES+M4qa9EJBb8Kq7BfSSUI5kwpOQWPE0AYhNRj+zWVIwJpH1Gl6torNPVYm2m/BzGbnYjrZ6JMimzGBy1xBtkoiIXSy9h+mVSgSnkoqy83szcsTsPHGTUmfhdmFDPRNX+ptMMLAfKhTpHbvgG2dExAsqgmck4=;2msH1npEDoNBYz71YMW23A=="
 ---
 

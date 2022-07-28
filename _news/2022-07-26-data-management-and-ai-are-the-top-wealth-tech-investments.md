@@ -24,34 +24,43 @@ images:
     isCached: true
 
 related:
-  - title: "The hype around artificial intelligence"
-    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
-    publishedDateTime: 2022-07-26T13:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
+  - title: "Data Management, AI, Automation are Investment Priorities"
+    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
+    publishedDateTime: 2022-07-25T06:00:00Z
+    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
+      name: Traders Magazine
+      domain: tradersmagazine.com
     quality: 39
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
+        width: 350
+        height: 350
         isCached: true
-  - title: "The transatlantic AI divide"
-    excerpt: "Tech regulators on both sides of the Atlantic hope to prevent a split on AI rules like one seen on data privacy, where regulators in Europe got out ahead of their U.S. counterparts and sparked all kinds of havoc that continue to threaten transatlantic data flows."
-    publishedDateTime: 2022-07-26T20:11:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/07/26/the-transatlantic-ai-divide-00048016"
+  - title: "Ping An Upgrades AI-based ESG Evaluation System to Drive Responsible Investment"
+    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318) upgraded its proprietary ESG evaluation system to meet the Group's rising demand for high quality ESG scoring data. Growing attention to environmental,"
+    publishedDateTime: 2022-07-27T11:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ping-an-upgrades-ai-based-esg-evaluation-system-/2022/07/27/9645630.htm"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 37
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
     images:
-      - url: "https://static.politico.com/29/1a/a9600dec4386907f5c9b7c30c4f1/download-71.jpeg"
-        width: 1160
-        height: 629
+      - url: "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg"
+        width: 400
+        height: 400
         isCached: true
+  - title: "Virtus Investment Partners Adds Systematic and Multi-Asset Portfolio Management Capabilities"
+    excerpt: "Virtus Systematic uses a state-of-the-art technology platform that is powered by artificial intelligence and natural language processing. The team's process incorporates a proprietary investment-return forecasting model that combines behavioral factors with intrinsic and valuation factors."
+    publishedDateTime: 2022-07-27T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/virtus-investment-partners-adds-systematic-and-multi-asset-portfolio-management-capabilities-1031620271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
 secured: "Fb9LpiZ1KEAegmhNIAG7M1UoNtmlzi3UAyY/lyCKhOIWxMhiQtozWgDIOcIDp7YLx7Ab0oVOFYdjeLJEPQm3Bo62kUF1D2tZ4VA39Fnob8IfcJdM6rgI5Kukz1MG1h32Tw+tRDUarxkTB1oSqDETtw+GU0C/nz5eXbklCTsymoa+jJA750LnYNsxLg4h23PxB9CqBL7VJMfJ96V8Jr7rHQwFwowDkm2ZWPpf1C0+rGhsbpRvDMTIy/yCk7OcleZ+53B3X6SwBymQlB3gZwcch1wCiVSE13QEkareNJdD1glwJYD8yYZvkBq/5WvUwaAAYyb7XowWjzO+zA+aq0IteUveCJj+dxLfoa32GQwRjY4=;1CL5IPV1BrCU7tQO8rmXUw=="
 ---

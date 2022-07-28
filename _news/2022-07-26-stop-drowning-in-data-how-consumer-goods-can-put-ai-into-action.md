@@ -38,6 +38,20 @@ related:
         width: 750
         height: 532
         isCached: true
+  - title: "Three innovation areas in AI that everyone is fighting for"
+    excerpt: "It is an undeniable fact that whenever a new, popular and eye-grabbing tool comes to the market, tech companies rush to replicate them and create their renditions."
+    publishedDateTime: 2022-07-28T04:31:00Z
+    webUrl: "https://analyticsindiamag.com/three-innovation-areas-in-ai-that-everyone-is-fighting-for/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/3ai-domains.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Oracle Announces virtual AI summit 2022 – Accelerating AI journey for organisations"
     excerpt: "Join us at the Oracle AI Summit 2022, a virtual short-format conference that aims to bring together business leaders & innovators to discuss a detailed framework that can help organisations to take the next step in their AI journey."
     publishedDateTime: 2022-07-26T09:30:00Z

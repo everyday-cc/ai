@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
-      "title": "Afghan clerics' assembly urges recognition of Taliban govt",
-      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
-      "originalUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Wcx87xW8MAGf289iTJnXeZyWWxs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7NKFPNIO6R2AL5OARFNSYMYQVM.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
-      "publishedDateTime": "2022-07-02T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KIRO-TV",
-        "domain": "kiro7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-pioneer-meaningcloud.md",
       "title": "Reddit Acquires Natural Language Processing Pioneer MeaningCloud",
       "excerpt": "Reddit has acquired MeaningCloud, a natural language processing company. The acquisition will help Reddit support its machine learning products across its products. The MeaningCloud deal aligns ...",
@@ -1393,6 +1350,50 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-798-billion-by-2028-fior-markets.md",
+      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market is Expected to Reach USD 7.98 Billion by 2028 : Fior Markets",
+      "excerpt": "As per the report published by Fior Markets, the global natural language processing (NLP) in healthcare and life sciences market is expected to grow from USD 1.84 billion in 2020 and to reach USD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-7-98-billion-by-2028-fior-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -24,17 +24,6 @@ images:
     height: 665
     isCached: true
 
-related:
-  - title: "India's Startup Firms Increase to 72,993 in 2022 from 471 in 2016"
-    excerpt: "The total number of recognised startups in India rose from 471 in 2016 to 72,993 as on 30th June 2022, helped by proactive government interventions, Minister of State for Commerce and Industry Som Parkash said on Friday."
-    publishedDateTime: 2022-07-23T12:34:00Z
-    webUrl: "https://www.ndtv.com/business/indias-startup-firms-increase-to-72-993-in-2022-from-471-in-2016-3186816"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 4
-
 secured: "Orvge6WI9GKJIwNmzPF39m/ULRwTfAgLmDhBftB7G+/NyxeL8aX1bXS8xBPkm+/OVLQuy6Tnntua7mN03KlEii4AyrwR2kaFvpOVv7pwOgfsRJyijdtJ5E1swESKxm3nC6VUTUe3j1FqtvSTv5ICgFVnGPAS2ST9eHrnruqMq8wgRzclkQIHopprUjO58JtAr2MrcQkbSkcvwfMKrW6pS+zYZl+qDsZueaUEy6zuASTpbKGMyCrRvYF3jJpEIbHirVaa4fJ38ta/YojCwTh/NLJCUCqqVs/vSR3PaZj+SfnQitsAzdZBrghN+Z1A5YEJfAeHZWB3ebKVArHO2iL0iV+LQ1dvpepVMMF5oXSZNVs=;VcVthu3VLs8NCT1HkYszbQ=="
 ---
 

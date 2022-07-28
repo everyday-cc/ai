@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-06-01-how-is-robotics-innovation-progressing-in-the-air-force-industry.md",
+      "title": "How is robotics innovation progressing in the air force industry?",
+      "excerpt": "Analysis of patent filings revealse the top companies for robotics related applications in the industry over the past year",
+      "sourceUrl": null,
+      "webUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
+      "originalUrl": "https://www.airforce-technology.com/dashboards/patents/how-is-robotics-innovation-progressing-in-the-air-force-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/05/il8Zm-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Airforce Technology",
+        "domain": "airforce-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-singsing-the-first-sing-to-earn-project-with-ai-scoring-technology.md",
       "title": "SingSing: The first sing-to-earn project with AI-scoring technology",
       "excerpt": "SingSing will soon become the first musical social finance (SocialFi) platform, with sing-to-earn features targeting a community of about four billion music lovers in Asia.",
@@ -1040,49 +1083,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "How to Leverage AI in Influencer Marketing",
-      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

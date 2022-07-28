@@ -8,8 +8,8 @@ webUrl: "https://www.rollingstone.com/culture-council/articles/music-and-artific
 ampWebUrl: "https://www.rollingstone.com/culture-council/articles/music-and-artificial-intelligence-implications-artists-and-the-industry-1388232/amp/"
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/music-and-artificial-intelligence-implications-artists-and-the-industry-1388232/amp/"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.rollingstone.com/wp-content/uploads/2022/07/Music-and-Artificial-Intelligence-Implications-for-Artists-and-the-Industry.jpg"

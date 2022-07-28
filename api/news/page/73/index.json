@@ -2,6 +2,58 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2022-05-30-one-ai-raises-8m-to-curate-business-specific-nlp-models.md",
+      "title": "One AI raises $8M to curate business-specific NLP models",
+      "excerpt": "Ben previously was the head of AI at LogMeIn after the company acquired his second startup, Nanorep, an AI and chatbot vendor. Dror helped to co-found Nanorep and served as a platform product ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "originalUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-683632096.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
+      "publishedDateTime": "2022-05-30T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
       "title": "X marks the spot for completion of green-roofed furniture factory",
       "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
@@ -1080,40 +1132,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-google-assistant-could-soon-get-even-better-at-recognizing-what-you-say.md",
-      "title": "Google Assistant could soon get even better at recognizing what you say",
-      "excerpt": "Voice recognition is one of those modern tech miracles we easily take for granted. It helps make the Google Assistant possible, and while that's pretty good at picking up what you say and giving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "originalUrl": "https://www.androidpolice.com/google-is-working-on-personalized-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

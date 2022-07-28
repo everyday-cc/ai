@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Automated Material Handling Equipment Market Analysis and Business Outlook 2021 to 2031"
-    excerpt: "The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion by 2024 at a CAGR of 8%"
-    publishedDateTime: 2022-07-27T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-analysis-and-business-outlook-2021-to-2031-2022-07-27"
+  - title: "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%"
+    excerpt: "\"AI Infrastructure Market\"The AI Infrastructure Market is expected to reach USD 96.6 billion by 2027 from USD 28.7 billion in 2022 to grow at a CAGR of 27.5% from 2022 to 2027.According to a research"
+    publishedDateTime: 2022-07-28T01:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28237970"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg"
+        width: 650
+        height: 373
         isCached: true
+  - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
+    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
+    publishedDateTime: 2022-07-27T23:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "T9jNnjDcXW+KL2t/s7x4IBvMevvk7tkVNcFfWOVI/nsQVcMm9wXvb7+L326fh4ecLk3o/N63HivkrPt8A+NF9qt4DKWWx912/DWl9ZeMIOS6PJ1AwFt622/hLEgtS9z/4efBSivdmFqHEbdrai2sH6gEAVP8gWp4S9amGBJt6EvZXvexxxO/HZtfheR7pfo7Wpdeb+L5iNmir0LvM0zLlBqUYI7hq8S/GZLr77WhFKeJoALw8j4IZXrAlA8GFlzQlnKbH5vEo8eEQXHxM1DKWjh2noxe5Xq9hej8+S1dwN2sv7IupNHq8NApNmLT1MXLNFBW+Q58ijmEdFfUBlLfF+6fyBPc5BYEtHJ55PLE+R8=;EYiNYEDNpXegRTeuZ+Pusw=="
 ---

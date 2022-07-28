@@ -2,6 +2,40 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
+      "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
+      "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27348969/surgical-robotics-market-size-to-hit-us-21-3-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27348969",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27348969",
+      "publishedDateTime": "2022-05-23T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-three-lessons-learned-while-building-a-travel-insurance-startup-during-covid-19.md",
       "title": "Three Lessons Learned While Building A Travel Insurance Startup During Covid-19",
       "excerpt": "Covid-19 reset everything — how we think about health and wellness, where we live and how we explore the world. We saw early on that protecting one’s trip investment and healt",
@@ -1074,59 +1108,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-22-new-deep-learning-technique-paves-path-to-pizza-making-robots.md",
-      "title": "New deep learning technique paves path to pizza-making robots",
-      "excerpt": "A new deep learning technique developed by researchers shows promise to make robotics systems more stable in handling deformable objects.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "originalUrl": "https://thenextweb.com/news/new-deep-learning-technique-paves-path-to-pizza-making-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FRobotPizza.jpg&signature=6ac11f10998502e3a24f329632f83cba",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Ethics And Autonomous Systems Lessons Gleaned From That Recent Alaska Airlines Flight Where The Pilot And..."
-    excerpt: "AI ethics lessons about autonomous systems is gleaned from a recent Alaskan Airlines flight that had the pilot and copilot vigorously disagree and opt to taxi back to the terminal. Resolving disagreements between AI and human-in-the-loop operators will be an arising challenge."
-    publishedDateTime: 2022-07-23T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/23/ai-ethics-and-autonomous-systems-lessons-gleaned-from-that-recent-alaska-airlines-flight-where-the-pilot-and-co-pilot-disagreed-prior-to-taking-off-and-abruptly-opted-to-taxi-back-to-the-terminal-and-go-their-separate-ways/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
   - title: "Op-Ed: Good AI, Bad AI – The hype, the babble, and weaponization of AI as a threat"
     excerpt: "AI is high-value. This endless solve-nothing drivel isn’t. Fix that. Enough with the Monsters Under The Bed garbage. Fix that while you’re at it."
     publishedDateTime: 2022-07-25T09:33:00Z

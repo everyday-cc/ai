@@ -179,15 +179,15 @@ related:
         height: 450
         isCached: true
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-    publishedDateTime: 2022-07-25T23:17:00Z
-    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+    publishedDateTime: 2022-07-25T18:17:00Z
+    webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: ABC30 Action News
+      domain: abc30.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"

@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-06-07-amazon-india-announces-machine-learning-summer-school.md",
+      "title": "Amazon India announces Machine Learning summer school",
+      "excerpt": "Hyderabad: Amazon India on Tuesday launched the second edition of Machine Learning (ML) Summer School, an immersive programme that aims to provide",
+      "sourceUrl": null,
+      "webUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "originalUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://telanganatoday.com/wp-content/uploads/2022/06/amazon-67.jpg",
+          "width": 680,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "cdnAmpWebUrl": "https://telanganatoday-com.cdn.ampproject.org/c/s/telanganatoday.com/amazon-india-announces-machine-learning-summer-school/amp",
+      "publishedDateTime": "2022-06-07T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telangana Today",
+        "domain": "telanganatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
       "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
       "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
@@ -1072,40 +1115,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-machine-learning-helps-determine-health-of-soybean-fields.md",
-      "title": "Machine learning helps determine health of soybean fields",
-      "excerpt": "Using a combination of drones and machine learning techniques, researchers from The Ohio State University have recently developed a novel method for determining crop health and used it to create a new tool that may aid future farmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/955101",
-      "originalUrl": "https://www.eurekalert.org/news-releases/955101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

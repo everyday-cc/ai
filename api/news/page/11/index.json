@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-14-flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business.md",
+      "title": "Flush with new cash, AssemblyAI looks to grow its AI-as-a-service business",
+      "excerpt": "AssemblyAI, which is developing API-based services for AI-powered audio and video analysis services, has closed a $30M funding round led by Insight Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "originalUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/assembly-ai-ceo-dylan-fox.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/flush-with-new-cash-assemblyai-looks-to-grow-its-ai-as-a-service-business/amp/",
+      "publishedDateTime": "2022-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
       "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
       "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
@@ -510,19 +562,19 @@
     {
       "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding",
+      "excerpt": "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -535,8 +587,8 @@
       "publishedDateTime": "2022-07-14T01:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1104,58 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-deltastream-emerges-from-stealth-to-simplify-real-time-streaming-apps.md",
-      "title": "DeltaStream emerges from stealth to simplify real-time streaming apps",
-      "excerpt": "California-based DeltaStream today emerged from stealth with $10 million seed funding from New Enterprise Associates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-740521139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "publishedDateTime": "2022-07-13T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

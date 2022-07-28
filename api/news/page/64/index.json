@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-06-05-how-ai-could-help-predictand-avoidsports-injuries-boost-performance.md",
+      "title": "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance",
+      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
+      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-555376/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
+      "publishedDateTime": "2022-06-04T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-05-to-evolve-ai-must-face-its-limitations.md",
       "title": "To evolve, AI must face its limitations",
       "excerpt": "And let’s face it: although not perfect, AI’s capabilities are pretty impressive. Even something as seemingly simple and routine as a Google search represents one of AI’s most successful examples, capable of searching vastly more information at a vastly greater rate than humanly possible and consistently providing results that are (at least most of the time) exactly what you were looking for.",
@@ -1104,50 +1155,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly.md",
-      "title": "Improve organizational diversity, equity, and inclusion initiatives with Amazon Polly",
-      "excerpt": "Organizational diversity, equity and inclusion (DEI) initiatives are at the forefront of companies across the globe. By constructing inclusive spaces with individuals from diverse backgrounds and experiences, businesses can better represent our mutual societal needs and deliver on objectives. In the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-organizational-diversity-equity-and-inclusion-initiatives-with-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T11:55:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

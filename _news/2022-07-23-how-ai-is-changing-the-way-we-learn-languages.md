@@ -25,16 +25,16 @@ related:
   - title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
     excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
     publishedDateTime: 2022-07-25T14:51:00Z
-    webUrl: "https://www.wane.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-    ampWebUrl: "https://www.wane.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
-    cdnAmpWebUrl: "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    webUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+    ampWebUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+    cdnAmpWebUrl: "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
     type: article
     provider:
-      name: Wane
-      domain: wane.com
-    quality: 44
+      name: WGN-TV
+      domain: wgntv.com
+    quality: 46
     images:
-      - url: "https://www.wane.com/wp-content/uploads/sites/21/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+      - url: "https://wgntv.com/wp-content/uploads/sites/5/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
         width: 1040
         height: 585
         isCached: true

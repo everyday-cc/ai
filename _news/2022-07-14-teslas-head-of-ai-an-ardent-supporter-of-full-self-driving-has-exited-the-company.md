@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
-excerpt: "Washington, DC (CNN)Andrej Karpathy, Tesla's director of artificial intelligence ... including Alphabet's Waymo and General Motors' Cruise. \"Is that person distracted and on their phone?"
-publishedDateTime: 2022-07-14T15:29:00Z
-originalUrl: "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
-webUrl: "https://edition.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+excerpt: "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million people."
+publishedDateTime: 2022-07-14T15:24:00Z
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "Bbba9+q4e4PE3+LvLEIh4NbZy19Xj88+ea+YlT4yfAli/1csZzP9gB5nsBml7yVDnDz10Ar6B3tbEA1Gi/C8Tboe9Moynkl0exPcyiKGaWyUOYMFvJyh7TQoiVDMrb8B2s8ez20s2AGl1MquV/sPSM9mJSOoRU4W//82VtAzY+gGAdViWmwoHSdbmrJmWZUMdcuBt8MKN99+ZX101wJoWUW+vtVTaf0d0PiRm8Hwg0nuDV/F08SlZtxd2psb0ERXiEPAEwnTOZtl4qWbs6Z4owP2vx9giFe8aRUOXKP0KCTbDYBY1qo+2GoilKZn991LBIZ1zcZGQVmW46HS17tBt5cD4MannPTOzhBuYEnuWQk=;VYY2iBO+RnoOdgpbXjtBvA=="
+secured: "wD8FuiBx+DMfplXWFTcH8KZ24TOgLJMCzNX//NuPre5k0f0QVhSeqc3oN3CPoFN50Opk+/9rHqISBMMGCZg9QaDusLC8Mmh1M4aY4CiuLmW/JKp16dQc9g9qjaUhmR7AZZSrqhD3TpnieQ8fadxPsrhrFXy8if63UTZBUy7BPbNYr4KJWGHM87o95e//RxyG2CTTk4isb0Qu0JnM/rXPBkHnmlD1mIA+FPI5aIxZgTqFeA0uneNHL/pAW9Xw9t/h4FlIIece+EDiQSWYoJ23g9lfPeRDnh9LuQQSkYhCYxIsAn2faM8PT7Kwqbnh4OWIOav0PRR8CaX2l5H1WSyCFU7OEidt3RKMj2OjA8vi0Xs=;u1BX1tVMsijZxAa1yWsfng=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-06-10-artificial-intelligence-reveals-a-never-before-described-3d-structure-in-rotavirus-spike-protein.md",
+      "title": "Artificial intelligence reveals a never-before described 3D structure in rotavirus spike protein",
+      "excerpt": "The tip of rotavirus B spike protein is not only totally different from the corresponding structure in rotavirus A and C, but also no other protein before had been reported to have this structure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220609131855.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-amd-touts-big-datacenter-ai-ambitions-in-cpu-gpu-roadmap.md",
       "title": "AMD touts big datacenter, AI ambitions in CPU-GPU roadmap",
       "excerpt": "After taking serious CPU market share from Intel over the last few years, AMD has revealed larger ambitions in AI, datacenters and other areas with an expanded roadmap of CPUs, GPUs and other kinds of chips for the near future.",
@@ -1048,59 +1090,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-09T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-azure-eats-into-aws-lead-as-cloud-market-continues-to-grow.md",
-      "title": "Azure eats into AWS lead as cloud market continues to grow",
-      "excerpt": "Amazon Web Services may be a global powerhouse in the cloud hosting world, but its share of the infrastructure as a service (IaaS) market could be one area it is falling behind somewhat. The tech giant’s share of the IaaS marketplace fell 40.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "originalUrl": "https://www.techradar.com/in/news/azure-eats-into-aws-lead-as-cloud-market-continues-to-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T09:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

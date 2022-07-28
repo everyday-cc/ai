@@ -2,25 +2,21 @@
 category: news
 title: "Ping An Upgrades AI-based ESG Evaluation System to Drive Responsible Investment"
 excerpt: "Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318) upgraded its proprietary ESG evaluation system to meet the Group's rising demand for high quality ESG scoring data. Growing attention to environmental,"
-publishedDateTime: 2022-07-27T09:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523"
-webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523"
+publishedDateTime: 2022-07-27T11:07:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ping-an-upgrades-ai-based-esg-evaluation-system-/2022/07/27/9645630.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ping-an-upgrades-ai-based-esg-evaluation-system-/2022/07/27/9645630.htm"
 type: article
-quality: 65
-heat: 75
-published: true
+quality: 35
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg"
@@ -43,7 +39,30 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "Data management and AI are the top wealth tech investments"
+    excerpt: "Financial service firms are investing in their technology capabilities to improve overall efficiencies Financial services firms are investing in tech to help with data management, as a top priority towards driving efficiency."
+    publishedDateTime: 2022-07-26T10:46:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/data-management-and-ai-are-the-top-wealth-tech-investments/368522"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0405_637944291857362873.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Virtus Investment Partners Adds Systematic and Multi-Asset Portfolio Management Capabilities"
+    excerpt: "Virtus Systematic uses a state-of-the-art technology platform that is powered by artificial intelligence and natural language processing. The team's process incorporates a proprietary investment-return forecasting model that combines behavioral factors with intrinsic and valuation factors."
+    publishedDateTime: 2022-07-27T12:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/virtus-investment-partners-adds-systematic-and-multi-asset-portfolio-management-capabilities-1031620271"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
-secured: "nXIrtJbkOwUHLEJk1ywNJdHSuPypyPVezpNtkqZjLzjzSHu11DpXzcyPa/P+adXVxaAQkG2Tg/k1D4HRLMbFlvSq5rzEg3Qt2o+7AwH3TyBWhZNFjtDG0sKMzlcFMyqzqI1tyHR6csyT33Q3OOPQ/EJGrVZuOVPW+t7jpMCVSVnq1v9lcA25nGUOzd0XA6oHYQcxUmFbbqlN9QUeSu9ZA6bJ1b/aiKRz/qdcvks7yjKAhFyTtuAt1zSVZ4XAE9fsuWhq+r0vMuxJnMAEt/WS4RROJo502cela6PILpbTRz1q2hqwMN/ulEzIulhPCI4ntWiuQJDjuYdRjZIfRM0IC1wu2ARGjPoqL2aEV9MTAXRU6h9JX0ZZYvGBi70CJC0SqRD1RPERHoCU0lHZuzn6eFrLbLAxPQEZpij+Eg7GCN7aaKeLbzr0O8bjTac+QVzQxHHA8y/XyNxmb1SnKznIy4lNsSeOktFPdy+mtG/BWgKFuqDIig3QcpmBM18uHIs8o8oIEfHaOFInObSQY5fwaw==;MhclhttqWtPIgwPnksgXiA=="
+secured: "IIybIP61ZdX0cK2/rD9qn28F8suMAYMQMXPF0Vi401ObQGYYzAHHuJt3daxM3jslO/9aGyU1rMEWm10ktxZZzAb5XGlQ7n1V3Zvf10Il7TE38pi9Hqqa+9azt+iydj66dW8aP4Dj0Clb47aTwNcQDUcSBd/zHu7HOHaytJloEPU6Xe32NdUEkHAA3axqWHfn00syPnV1agC7BiomcE1e6494GIrW9DyIpsb88Dx4ar+Fkvf0JGIYfDdq6PWFOstvjREFFhEk37qBa5hC136UTFp9zN0wmPTSMKtcYnPcg59fLVc51yRSunaAhqR1ycVczygeeaTR3AbcImM5MAwiRQ5+EvK9qAQ/K2JIOhwg/6Y=;rmph7T2EAKCc0OK5BmogoA=="
 ---
 

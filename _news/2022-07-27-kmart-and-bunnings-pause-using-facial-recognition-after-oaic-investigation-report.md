@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kmart and Bunnings back down on facial recognition after CHOICE investigation"
+    excerpt: "Two of Australia's biggest retail giants have paused their use of controversial facial recognition technology in their stores following a CHOICE investigation and weeks of public outcry. Kmart and Bunnings,"
+    publishedDateTime: 2022-07-28T04:39:00Z
+    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-win"
+    type: article
+    provider:
+      name: Choice
+      domain: choice.com.au
+    quality: 36
+    images:
+      - url: "https://img.choice.com.au/-/media/b4ff01b8aaed4456a6c03de0881401e2.ashx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Hashtag Trending July 26 – Australian companies stop use of facial recognition tech; U.S. social media laws; Intel and MediaTek agreement"
     excerpt: "Australian retailers stop the use of facial recognition technology, more American states are working on laws to control social media, and Intel announces that it will produce chips for Taiwan’s MediaTek."
     publishedDateTime: 2022-07-26T09:00:00Z

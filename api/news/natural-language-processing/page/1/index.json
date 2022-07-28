@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-27-ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment.md",
-      "title": "Ping An Upgrades AI-based ESG Evaluation System to Drive Responsible Investment",
-      "excerpt": "Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318) upgraded its proprietary ESG evaluation system to meet the Group's rising demand for high quality ESG scoring data. Growing attention to environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-upgrades-ai-based-esg-evaluation-system-to-drive-responsible-investment-1031619523",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-navigating-data-literacy-in-the-world-of-augmented-analytics.md",
       "title": "Navigating Data Literacy In The World Of Augmented Analytics",
       "excerpt": "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data.",
@@ -407,10 +355,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
+      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -938,19 +886,19 @@
     {
       "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The speech and voice recognition market in Asia Pacific is expected to grow at the highest CAGR from 2022 to 2027 owing to technological advancements, improved awareness regarding",
+      "excerpt": "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69496796-b2ed-5461-8a1d-1d81e3fc0476.html?block_id=531919",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-asia-voice-recognition-9dbad567d0044dfbad49ee3fb08c8b4b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -963,8 +911,8 @@
       "publishedDateTime": "2022-07-14T01:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1365,6 +1313,40 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit.md",
+      "title": "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit",
+      "excerpt": "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

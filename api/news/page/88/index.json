@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-05-18-ios-16-accessibility-features-likely-to-benefit-everyone-argues-macworld.md",
+      "title": "iOS 16 accessibility features likely to benefit everyone, argues Macworld",
+      "excerpt": "Door detection should lead to better object-recognition, with benefits for AR applications. But it’s Apple Watch mirroring that Cross thinks could be most exciting. Notably, this seems like it ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/",
+      "originalUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/iOS-16-accessibility-features-likely-to-benefit-everyone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/05/18/ios-16-accessibility-features-benefits/amp/",
+      "publishedDateTime": "2022-05-18T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-ai-driven-support-system-assists.md",
       "title": "AI-driven support system assists",
       "excerpt": "VietNamNet Bridge – The Ministry of Health has chosen three hospitals to pilot the IBM Watson for Oncology, an artificial intelligence (AI)-driven clinical decision support system.",
@@ -1117,49 +1160,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin.md",
-      "title": "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin",
-      "excerpt": "Pittsburgh-based Argo AI has pulled drivers from its autonomous cars in Miami and Austin, though it is still in the testing phase. Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin",
-      "originalUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/0a92cfb/2147483647/strip/true/crop/3924x2207+0+256/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7f%2F01%2F5a5ea67e44c1bc2325802ac4ad61%2Fap10040103787.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true",
-      "publishedDateTime": "2022-05-17T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
