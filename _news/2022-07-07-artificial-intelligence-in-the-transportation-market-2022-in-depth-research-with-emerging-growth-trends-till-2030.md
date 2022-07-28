@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence in the Transportation Market 2022 In-depth Research with Emerging Growth Trends till 2030"
 excerpt: "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ..."
 publishedDateTime: 2022-07-06T18:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06?mod=search_headline"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06?mod=search_headline"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030-2022-07-06"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "E5Aku+zieqTvWVdHtCn1uHHbPiATTJJBT8RN2MBHWfgsLo/Ne8nP/U44ruTqlFZDeGsI/cMsqDoiNSZmjms63p0EFFGOZ1YhW/LOGa6SEwppge7tdLCFldN8fm7QHqw63bxtHexqpEzPz3zLnO8y843S5MfOw+eqJ6rMVtzGCseF7xhlNaxkNrPDSmTtv33mG6P6lOQ/Vb0Zy6WgFGWQtgk0N4bt7fJmOVhQjT6tJg36dKNK7jK6SvW/nNgBg0qkkqTxWJsIazaGkpVrrUjpp06Tejr0tVrQLUH0yOZ60ZH1VCU+EefvsXj1xlHjYPppGBK+xjTtjEc1E08w28GFXgMc/Y/xBBvFYvZ83Z2iHPM=;3WGkaYaaMy0PFlLxJYJeQg=="
+secured: "yCbSdeiuHTS7cQyJ8591/Jkg7LH+X31xj72Jkbl1jbpnk1mNGYF1IstxoOTO/ChKMnMGOxPDeqeq7toxVp+rWKfCBczx5Kx3HwB5Ejg7+NRIKFw3RISYj2nd/VcRI5hXgQ1UJlJhugE6GiV3GCU8zlCajsb3rsYNphuKfPlRc2AlvrPt82K7FJpy+ZXvXX5nUIzxOUxD1mriQnh1uVKV08bPQat2OGBLp7UeqeAkjepU0wRaUkku1W/i65/rhpvk7jTDuG7ybNYcJG08gNiWdEtS/aQmDkOUkCiX4duBQ/fRPhQaTGun4JnrZ2YfOy6yHQLLnovaQWOKfVdFqqXf304CN8s0xjo5tcFxhlLuR1E=;Ype1co2H9nLO6FsOh5KZqg=="
 ---
 

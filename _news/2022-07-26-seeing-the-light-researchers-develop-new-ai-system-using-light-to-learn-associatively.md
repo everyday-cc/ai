@@ -48,15 +48,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 11
-  - title: "MegaPortraits: Samsung AI Center researchers develop animated megapixel neural head avatars"
-    excerpt: "Have you ever seen a painting come to life, like the portraits in Harry Potter? Researchers from the Samsung AI Center have developed a new neural technology to animate static images with impressive realism and resolution."
-    publishedDateTime: 2022-07-26T13:34:00Z
-    webUrl: "https://www.dpreview.com/news/8230506583/megaportraits-samsung-ai-center-researchers-develop-animated-megapixel-neural-head-avatars"
-    type: article
-    provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 7
 
 secured: "QkrZxU390n1hONUMdrFXaYfCYZ0DtWHuqY70GbTmpV4kxaNfn7XJkrF0eCAf0K/fNL1EUcIyS075KLsf/laRPPaEshQWeCfSCcUURNYT1LOvtLQtFs2N9eLJkptbDnWdSAQMKBrFdq+RD9RqL96CQvH1FHCiCNGv+MPrWK9XhpN+IgGseK8uIBDs85Icb1RF4W3DCNXfN3ooZ0tiRQ9wSnhDypxLyZ0giheqr68ZzmsP0NX7B5jbH0yHv8cR3eth9B9M1wnxAqd6cMhFDSxFujuvvDj45ZVpRBuLWYJFXaNBlrD4IJCN4+hgPxNeDawmo+NGaz7nqqGh8rJqTj6m8Yvmy0hptJeHX4PnTAiEgkA=;IJHtocfQAbkebj7Akjl8YQ=="
 ---

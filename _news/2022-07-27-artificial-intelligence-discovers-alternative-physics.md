@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-27T13:19:00Z
 originalUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
 webUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
 type: article
-quality: 17
-heat: 17
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,7 +16,15 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
-secured: "1YjHrgmPN0Vk6WMP5/WvkE4jyd81w1aL1emrI+V+7Sqem/0ALv11hwBmPOMu16OPtfuGtmR7MrOYHzz1P4/5Vy3DmSzM6keLUWPyBH75TErv0t8m8QCFSXcSg8zAUHKPCibcY94TG1dVlxqCIcAFw2da9hDwfGRtw/3S7dW0D74G5tqsnVlov4K4CZdjCTgvOEgJ9YE0FzcNp9ufTdyExPZVIlbcwoD4UXaShZnXM+guETXGPNGhUDZ5Pi4u0W7lHPOGkA+b94jCkjmy18EqZici7S+l1VYqf2quu1R12Nrr4/3mCiwC5UJd3cEu7bpUYo8ZfQ5c7IAFBohIpPSXK6yDhhaD1+/vQdC8nKMFXiqJvqm+cZXE9QRVR1kgWDTasOiXqPDuxnZFQ2i5wQu506dXE1PyaV0em4b7T+m5jtZXx7paOuJhzprtv2Fiq/FBy+R+r7zX0PbE478sJfgesXA+F78ziNJPCXo4cCzlDDWEfv8KWdEoJpXwhZ2/icOZbUw4mn5Gx4Bb4RA7/bz9JA==;+1vdvm6vWRyFN4SY2WlfnQ=="
+images:
+  - url: "https://scitechdaily.com/images/Columbia-Engineering-Roboticists-Discover-Alternative-Physics-scaled.jpg"
+    width: 2560
+    height: 1440
+    isCached: true
+
+secured: "LRTYH03yBiSVXNMkouPTNJ3UKNRNLK/YCoHMjpfBtcf4VXm8Xsgwcu5r6CNMa63czFXuNZevZNa70W8ygSzi79D2RkhcwzND5ArVUH3oMVT4P6T+uiWjH39O4vWpzFuWS1ddLGIf+PduHLArFpdvgjbqqkwReesmrGN00Ydl29q3QjMFF7Sj7Lgc2emn1eZ0ILUo6Jf8teBltPE+sFcsIpcUJgfmPmgsHWyWy05kWArDdI6c3WStRZo9Sgw4o1GKdzcemJ6iSYZnoclLTK5gY1FurlPIPxIO8fVPmdZNYTwmcvAwl4YigORsMQxc+EQ00GQNbLbzd7o27z4fCL8xeYlv+1aZ3ly0zRD8QUFAzE8=;9gAWb1bexBSjJ4Z0wcp7hg=="
 ---
 

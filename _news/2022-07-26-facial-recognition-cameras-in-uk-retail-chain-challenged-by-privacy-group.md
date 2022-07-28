@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition cameras in UK retail chain challenged by privacy group"
 excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-publishedDateTime: 2022-07-26T09:22:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+publishedDateTime: 2022-07-26T07:39:00Z
+originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
+webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
@@ -119,6 +119,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "GpASjtlEuxKZ1/LSiFSmROpff69bsNyViv1vgSDqoAZkjrtwDebJZEIUZEI9e6onP+cIyLVn/0G6s1/5ZWVCGZ/v4rvKtGA2sLki1ClQPi48sD4uKOXbTNGyPHBDhzYMrH5V/ReueRapo4CsmtiVis9wRnDci9xoVQdpijNjkXzcLa83v/vt2l4zoBwgwm9m7PvHBtdo0H4AaEjEPUoqMaTuwogUXegrFl0I8T242llGZYv2jjDJ4X8xSXD/kfXJksVBk8pEF/+P1mT7TZqC6r03MogIHJhA36fOEykF+jgSbKavzwXgh78zGGnOoHOl2Aen6tXqxvTDOpmrg2f19/7Wz9myTpIN4ZsZYbuknzM=;MXDyUifPwmgxN3MQ5lY/1Q=="
+secured: "XzBrfSDEMlTrWXjagQLrkttJZajObq+1AwJ1WNudIdRzmSvJD7PyF5dza2PLYISdX0L87Fe/gFP1jaVh8S0+pa78bqu76W44rdC8ypVavPKG4D3NHLerSx2ayfMBFsFZGiwBDh1QlSy6SfRmC+px+czBt8Phu9Xn3P6Llx//1mjBYkDU6bIyBG775Yg+CFxTeSyI2vKZLTAE0KZz24NgIolL0aYt2a/Ovrypf3PIq8CoMIBFwNWyOUggxWgTvSL+4ZYIDy75XB51XkPRcYnzcUQlIJ+hKoO7iClYozjZmFYJPF/CMb12Xz7VuglNmFAFuzmEeSDul0KlQhibP3aOwtHtpMFspyVXUVRukk8o0pw=;DF59kpE54416i8/YmyQpEw=="
 ---
 

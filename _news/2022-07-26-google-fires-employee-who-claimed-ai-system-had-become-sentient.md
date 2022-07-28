@@ -3,24 +3,24 @@ category: news
 title: "Google fires employee who claimed AI system had become sentient"
 excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
 publishedDateTime: 2022-07-26T15:40:00Z
-originalUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-webUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-ampWebUrl: "https://www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-cdnAmpWebUrl: "https://www-wkyt-com.cdn.ampproject.org/c/s/www.wkyt.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+originalUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+webUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
+ampWebUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
+cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WKYT
-  domain: wkyt.com
+  name: 13abc
+  domain: 13abc.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wkyt-prod.cdn.arcpublishing.com/resizer/YTiKiN9cbnJXnRBnBydYnpvywo0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/RODA7G367NEOHISL5CEWETXS3A.png"
+  - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png"
     width: 800
     height: 450
     isCached: true
@@ -89,20 +89,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg"
         width: 670
         height: 446
-        isCached: true
-  - title: "Google fires software engineer who claimed its AI chatbot is sentient"
-    excerpt: "Alphabet Inc's Google said on Friday it has dismissed a senior software engineer who claimed the company's artificial intelligence (AI) chatbot LaMDA was a self-aware person."
-    publishedDateTime: 2022-07-23T08:36:00Z
-    webUrl: "https://www.reuters.com/technology/google-fires-software-engineer-who-claimed-its-ai-chatbot-is-sentient-2022-07-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/i84Ji0Rk-qI2Do9-_bgKbPryP6Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GXQAE7Q6ZBKZXOIXJJWDFYBFZE.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Google has fired the AI engineer who said its chatbot is sentient"
     excerpt: "Lemoine, also an ordained Christian mystic priest, made headlines worldwide last month after claiming LaMDA was sentient. The conversations he published included the bot's views on"
@@ -194,22 +180,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google fires software engineer who claims AI chatbot is sentient"
-    excerpt: "Company said Blake Lemoine violated Google policies and that his claims were ‘wholly unfounded’"
-    publishedDateTime: 2022-07-23T07:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/6d64e6b186ae95981b4113031a326d60f993ed7d/0_117_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=8f151e9f3091d822f476eae700a005df"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google fires engineer who called AI model 'sentient'"
     excerpt: "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ..."
     publishedDateTime: 2022-07-23T23:12:00Z
@@ -227,15 +197,15 @@ related:
         height: 405
         isCached: true
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-    publishedDateTime: 2022-07-25T23:17:00Z
-    webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+    publishedDateTime: 2022-07-25T18:17:00Z
+    webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
+      name: WTVD
+      domain: abc11.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
@@ -344,6 +314,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "CnlvXzsD8C+LJpmyc7nFbz5o+gXP0llpBaMBUplNuavIvc1v3Ue/pp6Cf6E0Pw4LO0wJIwGjmQMw8SE7KcC8MJYSSldMG0VYHhs8p4By3LpqYQ+ydPaREWm8uCYJcC1vDAR4ZJN0nIbJsLeKsi+qdHjg8BFXNoenMEFqi2zfEwNjyGqKAipIzGw6y9DH6t8n/inx3DgL4tkgGcAB+ow94AjQh7AQKFdnVEO4wYzel1osKiagTwW19UcftqE3r99KnvW9irpKUBBEpVtW0IkHFWogPQ76GcZA+PGixVeFIvjMlPgtIw38gcChs6IvxQVOBuV91iRGVfB/11zbej41p5k6KpfTGzW8rCYu/9tPp34=;KC1/rgQHTvc+AX6FYTYZ3A=="
+secured: "XqKLyQ2dXAMjpJa3reUGVSvMSS7kuZ1T9yvI2mnwOnN1soljt9EJxYjLUUtURhGQzoPeCZ65Z92BrE22sIZ1ZW6go9hK/q7VbURermbdv/WO4Bo86OgYOH8NBBA8YH8MxX0O765/8CxC2Y9jlU+mK0T3yV3ztX5Wlv5MORLZPDTsnr6/XQrFmz7Xhj1kdG9vaKxmGE3sXgfEw+nHEgIvUsM0estUMaIGGx7VnEOCfbVlXMLgeuWq7KXgbNxMwGqM7PeTZgCbltNi8ihv+iX2CaR86skKCIkeCbozSPzX39i0E+66iycswL1FYGVXihtV6to1iEyOKWJbSL7cGM1PMkaLIenPh0vVdis0U1gW+gI=;RtlN4i4TTHPgj4ExLrHZ0g=="
 ---
 

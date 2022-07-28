@@ -18,43 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
-    excerpt: "Researchers at Oxford University’s Department of Materials, working in collaboration with colleagues from Exeter and Munster have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
-    publishedDateTime: 2022-07-26T15:47:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959921"
+  - title: "Deepfakes concern rises as Samsung researchers produce new, unusual twist"
+    excerpt: "Deepfakes are back in the news after it was reported that a group of researchers working at the Samsung AI Centre in Moscow have introduced an initiative called Mega Portraits (megapixel portraits). In a research paper,"
+    publishedDateTime: 2022-07-28T01:08:00Z
+    webUrl: "https://www.itworldcanada.com/article/deepfakes-concern-rises-as-samsung-researchers-produce-new-unusual-twist/494916"
+    ampWebUrl: "https://www.itworldcanada.com/article/deepfakes-concern-rises-as-samsung-researchers-produce-new-unusual-twist/494916?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/deepfakes-concern-rises-as-samsung-researchers-produce-new-unusual-twist/494916?amp=1"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 43
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c9532dda-8e4a-4ca8-b873-1b0e6f684186/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/07/SamsungV2.jpg"
+        width: 2016
+        height: 980
         isCached: true
-  - title: "Insightly AI Secures Funding Round To Address Solve Developer Productivity And Burnout"
-    excerpt: "Businesses around the world have been grappling with worker productivity to drive greater performance and success for everyone. With a sharp focus on developers and engineering teams, Insightly Analytics a software development analytics platform is announcing a $1m seed funding round led by Together Fund as it seeks to help engineering leaders build better teams and ship software faster."
-    publishedDateTime: 2022-07-27T08:07:00Z
-    webUrl: "https://menafn.com/1104597882/Insightly-AI-Secures-Funding-Round-To-Address-Solve-Developer-Productivity-And-Burnout"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/27/ND_b7db7image_story.jpg"
-        width: 1988
-        height: 1326
-        isCached: true
-  - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
-    excerpt: "Researchers at Oxford University's Department of Materials, working in collaboration with colleagues from Exeter and Munster, have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
-    publishedDateTime: 2022-07-26T18:14:00Z
-    webUrl: "https://techxplore.com/news/2022-07-ai-associatively.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
 
 secured: "au/kyC1ssK1IngjTpBAnKhnto9zhF7ngiJei/CB5QbVbURkWPgIC8X56i0PxjBPfRzdQVT6WofpaBp/hzO58mcooVScj+ERcIisQlJCKBv4ORObA3/fhhqetuZG8cvn1aKvHJgpPLpo54s+4yA9s7oEFSm6a42jUlM7gmM5v0nNGxtztYEC+24VBi09vIMNUh6XKkFC2bp3ZSGVFl/zWlnWNS2ZqUWDuP90Wg9HtFYd7ih74Ib2HeqcdfxBRNKoarYdtiGivkvqTkavMf5bVPug0NDtkDSopnIqTe4KJkMXziNh+U9hKiccRNe+bJ0nhaXDwTm4PVrDEtMsumNuc61YLusBVgBz0blh54hxmoeOdxBkVsEICdBo0GEZLWZ0v65BaF+qsLvjzWR7utBtW3caqOn1o5cHWc8tHpQC5vxSTHEdOnPgaaojuceSVHsbwi7q6s79cuaAPVK97DP0pEeGnU8Y6RGOC3imijAgKM3R5lGUoMOEWfZIznAwcR6+KhlAZZx/ddiPWNkvtjhtTcA==;GwiiTEtmMP87vUQ0buKBlQ=="
 ---

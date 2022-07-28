@@ -8,8 +8,8 @@ webUrl: "https://www.herald.co.zw/liquid-to-grow-cloud-service-footprint/"
 ampWebUrl: "https://www.herald.co.zw/liquid-to-grow-cloud-service-footprint/amp/"
 cdnAmpWebUrl: "https://www-herald-co-zw.cdn.ampproject.org/c/s/www.herald.co.zw/liquid-to-grow-cloud-service-footprint/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.herald.co.zw/wp-content/uploads/sites/2/2022/07/Liquid.jpg"
@@ -26,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "9iP0H8Pue7NHWq6VGMXzBmACf+PQlHXB9SdYzlK0H0qEejCMV0C+4/arXNjatdcUA4nTHkYCna6z2Sq+l153jQhhnYN2TmT/Ggn44+OLESpSW/OpslqBY5mwbgPPwgKdIjcvNA4mjTuzpV9oy9/K3+sk0NdJEZuzi3yN6mfsCwkfHsIDujgEBymr/dlk8isjIziSzgMQfs81rY5YU0/l5dia/xAMLf3xpOkgzk8ogqlhCYz9ZopAL3JbLlod+ma+4MfIUBr833lZAGwNdyn0UE+QQZbk3VF1XGKfF1TlicvrRCML5xEH2Pr0bjm8mqUELEWz2lCRScMQHZa6Y8gHYqqXYnJg6Xj8Q/F4BzyCH5w=;hdPF8gvRxksxYm56ZAO/DQ=="
+secured: "Db0BEbGrim4pT0fOuvfyWlLssn+Li8XSrr5TCMMtbZMh/2a+BSFYc3iKaRy57o0qX11oqDjuK0EOOpL052AfYLTkRHpLlMHI8fVuf+zC+UPFNXcUPRd16PBNiAUcCblSTQ1lWCaYT2GnAG6rv0DQZXbpY7pKtwFBLFx+yeV13oOAHKmMeEDZsBve8DAa3km47K/BBqeOehnQF89Pq7Z2Z8QemMyeay18dYBBjsDJDKRFZDzAM1CNM8fPrCKc4gaaCjK6pFy27G24NCzEAuaQnZ9Qo+k7+sR+cT14ZMXh2mdYCLmtVHJ0K2gRg+iWv90+NzUzo4U/fRT0b7QVx9c1Ug1deFTSOPnLFzEGuznxng4nX71EzGQLuwp6IiSOL/ZpRzFPPSLB1viReA+osN5gTZdtLeU5RKgWwZ+k9mokulRkLAjOqUuRRbMmw5FJ1wuYSx7Vm2bKGlDGWG+23hHheYbLodXQgJlKg1TIGo0Asb88svLfgFxp3W5JRMg+HxyDCLp0/fHXmi4yh4MMldqJEw==;9nukMlcJLlQ6iv8NbtUKvQ=="
 ---
 
