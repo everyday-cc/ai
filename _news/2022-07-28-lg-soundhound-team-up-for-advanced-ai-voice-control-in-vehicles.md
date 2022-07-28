@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-28T11:30:00Z
 originalUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
 webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
 type: article
-quality: 67
-heat: 77
-published: true
 
 provider:
   name: PC Magazine
@@ -21,28 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg"
-    width: 1120
-    height: 630
-    isCached: true
-
-related:
-  - title: "The hype around artificial intelligence"
-    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
-    publishedDateTime: 2022-07-26T13:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
-secured: "JVZgVDbBrb7nkVbY7XDhl7bosaa/NZNl2ElCKltyoDpFf0Fh3Fr40yKbC9aPkaF848N/aiHIEgKPDlPeuk2EO7EjusCPXtlDG7RwE2bZFKRUWiscLa2AZ3A0nuxIq1MRjB5iMdi1fAmg9KbCwMGyl/MIsM8YM0kMy7PMm0oab+wu/lWU+vTI23W7LmNOt0PJfg88f492aP0miEaRK2pJPj9bozw3hcRsIoECNTvJmjlFK8CV//5l9J2eUevab6shwJdQsxOD3IvvEzw20BuRh3oATJi/KKEQCu+1YCLSyJ4cj+LSZFq+cRFeMPZponHYvZnTQ5k8ffuaY4LYgXjMnbtvK856I4XbNQvjNLgcBMA=;H4UIX3SZzMaiECvpLm0G8w=="
+secured: "pIM/EAf8uFcmqCbZqZsQ9cXd70Yo4HlwMabXsQ/WY0Od9u6qHch46X31Icb4mondX5uCnKrCVZN9nOhfqPFmOZ9aza19ia5vpK3LoAVIk/P5axQIGz6Glgs8NwiaRFsUka3DHp46dmOYnRoTmBeMZE+dT9EquJi+bBvYICrpfByY5QTX5tibhtqykFeq3Xy7jMP/9TSvpqT6RcE2twXu/SgXkOSGygRThh8NtajAtz9G7W/N9ZnYLMx524ZUmhB/+nieP2RTOI7/a+iZ1iHSRsZv4NqlUFcsTSkyEpcqz07nJS+EyEJ0CAcqG8qe+x4thjwnP0WSKf/0mNKeCxWZw5iaMXiWLEaSF82H0BOeTRSAS7hZZR1NSgJn531YM9+/1clMuqQZuCY2GTDyxGM5ojKy+e/CRZTCFGzFM2o/YbbkpaPchO+IxaqYKvaVMgs3RPuhkzgO3cB6FKhDx5u2SV4/GIWvqNN4knv3/KF7YvolPxuj/UYuMLq+44s4BBDjGkAI72wrG8xaamihNgUy6A==;5V5S4lFhPo4/CNvXG0AOYw=="
 ---
 
