@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Could machine learning fuel a reproducibility crisis in science?"
-excerpt: "From biomedicine to political sciences, researchers increasingly use machine learning as a tool to make predictions on the basis of patterns in their data. But the claims in many such studies are ..."
-publishedDateTime: 2022-07-26T14:45:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-02035-w?amp"
-webUrl: "https://www.nature.com/articles/d41586-022-02035-w?amp"
+excerpt: "Machine learning is being sold as a tool that researchers can learn in a few hours and use by themselves — and many follow that advice, says Sayash Kapoor, a machine-learning re"
+publishedDateTime: 2022-07-26T13:28:00Z
+originalUrl: "https://www.nature.com/articles/d41586-022-02035-w"
+webUrl: "https://www.nature.com/articles/d41586-022-02035-w"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Nature
@@ -18,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-02035-w/d41586-022-02035-w_23300908.jpg"
-    width: 1024
-    height: 576
-    isCached: true
-
-secured: "cafr22aWhuRYM+cRhvCE4NIqh+ARUYmn+UKmnoPjX58z3w1r5wyZWQ7uQ9yEzMgb/gPmD/9/SCS2KaOMN3wxm4GJb5PuOGqz0JIoODfHwWkzpdv459gQBmR6NMubiUmrjAtsxj6oAiyUGo4tMdB5zLN3gm6/TiONlNYN1MtkeY81KSFrmYWq7drJzIMu7ZlA0dSPEo6AXjp8WIlX07pMGC2aDlVGWlsJkUZ224E/7Y1bX0uGK/ZPprbDI1SGsmSeHP79GqQQtmzfOSlJrb09/xP3w9Ysjctu+PUcSO4Xu56IslMgMCvld/g3ss2nDD83ovDM3SecMUxoC/GQEeJZIuFD5GyPQxTWHcyIYxMTYds=;DZQE9EG/iC92XIGwO6NEhw=="
+secured: "DnNOd90yicpBbd0up7sOgIplwGDQQqtLP+u5saFYts74U9txndJk9H0LW/8IaZQdbD43AkH5m2ZCWM9yb6RN8J2QEl5lHP5+nHA5nCBVi3j7B5LxTpCVImFh95GazZK01wV6YkQt2s6rJfoqKMLL6PYcK45iuhHcNW6X2XkzDHCUnXGPi1/vg+9Up3dkYL17yU2A3k5/UBCKh5UOcP01NGHGPdZn3p7yuGh5TWJ1ghCAMoU6NcZKmxkQcd32hz4oYe0uZ8bQlI1dSQsZvH5Mdl1EBdNenEy1gnEX6H2zjdt4qUGBRu8OjtUgGCZ+C1QOsiRCS1R7P+dEftziGnDM2htU8WXhmLvgLGVTElRMQedfVWY8HIxlfsSjx3TT5ZI6j0xL7+EHv17+X9BigmnD1XgKuV3Y5/qGp7I+u86npd/sULjqJyXT92gaqMUEj+gyYaAFN+xyeC20BUPsyAJsgPYphtQYj5bbm6nRG0vHlSVq6mA30yjk2PkA5/yZ0rYV2bFnYho9bHbtmh1xJrFOjQ==;eQIZTr/2JcTAmxq4wC+mpg=="
 ---
 

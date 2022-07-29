@@ -2,28 +2,19 @@
 category: news
 title: "Anari AI Introduces System-on-Cloud Technology for 3D Applications"
 excerpt: "California-based hardware startup Anari AI has introduced a new cloud-based technology named Thor X to enhance 3D applications."
-publishedDateTime: 2022-07-28T16:54:00Z
-originalUrl: "https://www.airforce-technology.com/research-reports/anari-ai-introduces-system-on-cloud-technology-for-3d-applications/"
-webUrl: "https://www.airforce-technology.com/research-reports/anari-ai-introduces-system-on-cloud-technology-for-3d-applications/"
+publishedDateTime: 2022-07-28T16:56:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/anari-ai-introduces-system-on-cloud-technology-for-3d-applications/"
+webUrl: "https://www.retail-insight-network.com/research-reports/anari-ai-introduces-system-on-cloud-technology-for-3d-applications/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Airforce Technology
-  domain: airforce-technology.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/07/shutterstock_594560369.jpg"
-    width: 500
-    height: 334
-    isCached: true
-
-secured: "k2A41Aie76eIXngHfx+/THRtGH1Yo0zHUit4xMr9htkz1NpG/wBln+RMDBIBYn4BlXeeE705I72SNKx6tHfPfXzJaftsOJQUAPbdlKvfBBUjVGMyFRLGPI98gq4YloSQziGerWSJKpYI/DL3RZTpAS/+JfwbrtUrfOP/+40tgeDJ/QNHfhopmNOkiJ3duh70vezp3YWVWW3O3eizVJz7SqWHk7cI+tufdB8Vj3lbbYVePbiYeKuLN1Q/6XoZwgqJMgItGEH8oo/tHDnpTVqduk3ojhEL9ledw6H6UG36mCoCs8RTFdaRPbuxyY4oKiZcA1lD86Zg5EaIUteucP2eoApW5IxVpyeHaFWhO1722m4=;PJsdKxpVWe/4fkiE7P7VIA=="
+secured: "rGkK26Sb2QN+OWoOOQNrcYruavaECEbw12Asa+119rG+0mJT7sifOV0dxAAjkR+cswm4oNscU2Q31aCpoetrV/hkkuWqZWHLZ+jI/C6rCHL9EFn9lddzjxGNESMHI6C8CkBtmiMC0lLj//kuHqxC+bo2LOG4gcgaWetNWYJdoAfCx+licv/ezzBNzgw8Up1UjrQWZVXb5hoj6AQpUwKw8GF0ghVDIZ7GHpXC4kTF9Xpgb2b/6SqqwTWLCOTtBhq23DsPZSIhiYBzyfSrnuNyu3lTQcJ0mOZfZuAK8svum6dlQw8xftHa/z5qanDmGGkfMq+bE3466yDBPeRtQ8yyBKLw97jHrJ5bIOns9GNswfAdFMIx+l01hVqVzeAjN1FZdf/cMTZbP4E4RXcj5CVr6AeBtd7km7CN4efEIB8AXuXXPSs46PrlXuOwBcnD6w5+q6/Q0w5PA4TM2NhRxKPjNXuadINEDZg4RST5yAR8CxrdzOuDCoPXHyESzg7t0TXkZtZoF9eUYAm4c17V9rtcSg==;l/LbjCUw8WRI0tEtbKaD6g=="
 ---
 
