@@ -70,18 +70,18 @@ related:
         height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-    excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
+    excerpt: "Prototype L4 autonomous truck co-developed by Pony.ai and SANY (Photo: Business Wire) Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony."
     publishedDateTime: 2022-07-28T03:32:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
+      name: Associated Press
+      domain: apnews.com
     quality: 20
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "cmQn9yyzZBRg/3cAF6U/tJTk/JsPdpOYmGtejkJyc3VaEySwJaUoMCYe+1pS5WN/kW8QBRIBnPqmeUaHNiDeNkWQvdrqRY4DXNHyVo0cBZ3m937ndDFmgHQj7Ghhx/JIq4s+rC+yo0annZWeRmfN9nNd9QiLlNyakKtObAcz0NTZxVQeV2RJQUoFQprzBqiDOUgEn7xy/eBd//EQdhoffaL1iQ7htdmrKPfe+30oJkXgYueCTcX977d/pehCRn5BhMLU8Sb3EiW4oLaSQKs5k1V45Y20jyb4x8rYlUsPSqHR1uHzBgfASHZo+GgAEo6rX9PTdbs9YTXMcp7YEHjYTxuyyAxrev5HLCK1PEkszkQ6z3TmqQzewQTg+7DePWnfwexKH3VCDZhe5OZUGOfeTBZ22FAKVXOrH72M6Js6LZqY+5cKfiZQwYr+KmF7lJmlHRZo8XoYegeiUsnxGLaouQuvl8kTTVm7SnOKNMKNcJekdTmBEKFgsLRZqvZKq4yunnxhk3LWhLr3T2Tf/Hsgig==;8uzMtGucy0R2Fji2zs5FGw=="

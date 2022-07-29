@@ -2,6 +2,136 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
+      "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
+      "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
+      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg",
+          "width": 1800,
+          "height": 1203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
+      "title": "Accurate diagnosis of brain tumors using artificial intelligence",
+      "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/accurate-diagnosis-of.jpg",
+          "width": 2880,
+          "height": 1347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-accurate-diagnosis-brain-tumors-artificial.amp",
+      "publishedDateTime": "2022-06-21T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
+      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
+      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-slimai-introduces-beta-software-supply-chain-container-security-as-a-service.md",
       "title": "Slim.AI introduces beta software supply chain container security as a service",
       "excerpt": "Want to make sure your code is safe? Slim.AI helps you secure your containerized programs with its \"Four S Approach\" -- Software Bill of Materials (SBOM), signing, slimming, and sharing.",
@@ -1008,126 +1138,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk.md",
-      "title": "Aurrigo heads to Alnwick for Self-driving rural first for the UK",
-      "excerpt": "Local residents enjoyed the opportunity to attend ‘The Great Self Driving Exploration’ on June 19 and 20, where they took a closer look at self-driving vehicles, asked questions and even enjoyed a ride. These trials are the first time that self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
-      "originalUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/06/21005338/Alnwick-Group-PR.jpg",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci.md",
-      "title": "Recorded Future Announces Second Investment in Cyber Threat Cognitive Intelligence (CTCI)",
-      "excerpt": "Bill Ladd, Chief Data Scientist, Recorded Future Combining cognitive reasoning and machine learning with intelligence lifecycle collection, CTCI curates and validates CVE data that threat actors ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds.md",
-      "title": "Childhood obesity may affect cognitive function in midlife, study finds",
-      "excerpt": "Photo (c) Md Saiful Islam Khan - Getty Images A new study conducted by researchers from Monash University explored how childhood obesity may impact consumers’ cognitive function as they go into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "originalUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

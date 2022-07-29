@@ -20,15 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
-    excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
-    publishedDateTime: 2022-07-25T04:40:00Z
-    webUrl: "https://www.reuters.com/business/media-telecom/rogers-invest-c10-billion-ai-testing-after-massive-outage-2022-07-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Rogers Communication to invest C$10 billion in AI, oversight following outage"
     excerpt: "Canadian telco giant has promised internal transformation after a network-wide blackout caused major disruption in Canada earlier this month"
     publishedDateTime: 2022-07-25T13:44:00Z
@@ -38,20 +29,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 44
-  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
-    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
-    publishedDateTime: 2022-07-25T01:26:00Z
-    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 37
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
-        width: 257
-        height: 257
-        isCached: true
   - title: "Canadian telco Rogers to invest C$10 billion in AI & testing after massive outage"
     excerpt: "Rogers Communications plans to invest C$10 billion ($7.74bn) over the next three years, following a devastating outage that took out a quarter of Internet services in Canada. The telecoms operator said that it would invest in artificial intelligence,"
     publishedDateTime: 2022-07-26T09:50:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Futurism
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Creepy DALL-E AI asked to predict how it will take over the world and the results are eerie"
+    excerpt: "IF you’re a science fiction fan you’ve probably seen a movie in which artificial intelligence and robots take over the world. One TikToker has taken the concept a bit further by asking"
+    publishedDateTime: 2022-07-29T20:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 47
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/lm_aitakeover_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI asked to show an image of the last selfie ever taken on Earth"
     excerpt: "An artificial intelligence that everyone can try has been asked to show a picture of the last selfie a human ever took on Earth."
     publishedDateTime: 2022-07-27T05:04:00Z

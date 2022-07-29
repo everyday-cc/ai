@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T11:27:00Z
-originalUrl: "https://www.timesargus.com/news/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_528b1414-e7b9-5526-bf1e-984142c91bf0.html"
-webUrl: "https://www.timesargus.com/news/business/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_528b1414-e7b9-5526-bf1e-984142c91bf0.html"
+excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T05:57:00Z
+originalUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
+webUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
 type: article
 
 provider:
-  name: Times Argus
-  domain: timesargus.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "itMiE5BfkYKQDV8v9lx2n2L4TwyjO6Xf2KEcHJjtEPIkzfuvcJXGa/d3QPTId8ItAEzesNXNuUUJmRvYcUZAnjmaKIz4k1FMtKjG7jZd+fxG5vFpXTpL+MaJT8V4WY0z/z799h+mRonqAWTXYqAs18UpwHmoI/uNSpICcDm7Rd3DfQaj3J5IxUqkXx59r69tKnsJiRM/ih7z6XExFpEPevV7DtL2kudSQH4lkbiCu6PMvVt55cn98Y3WzVKQq2COvwx70aT/VA+ST6H/KjBqvD862IRpYnnIfV11rzgJ05NuH8bHNCq6h1KcCpnm/veqG0A76H0gYwIvkAkmmApP20sm+RdYAIc0r8Y32iR9YDc=;BNX9Av4NgE3gGN0hm2O2KA=="
+images:
+  - url: "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
+
+secured: "CG4XBJW8T/IHbEOrwVBe4RW1Cz3y05QhsQJNDMuukyoitt5kDaE4NSRJ4gn4DP54nwecxwyBI50BV2ddZTrB4arKK79cvYRpMryMr3PTVl6Z/4bcZ9QL8ETtFdKp6zlJAICx4heGU1cI9hhFGk/rMthRMalrEvto2CiVWEl7kmM0zzsmlzzwEZxL7kMFxoiN7nEns/+SGrEkjFd/xWwLSk86PItmEamF924dyJcqgOZNvJrekjkx/cwPM4vR1JVxxosc3sNXQw2xQ78FPD85ef/zOngMTwOndutuBxU6ySFyx14Nfx1Ky6jx9/V1i/Y40Ja7HTzFjtVa7s08uhROOM666bJWGheEgk9O72qqBc0=;aTavPd6oQVHFpBJyTzKYiw=="
 ---
 

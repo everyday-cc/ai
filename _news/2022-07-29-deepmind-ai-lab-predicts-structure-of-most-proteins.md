@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 79
-  - title: "DeepMind research cracks structure of almost every known protein"
-    excerpt: "The research was done by London-based AI company DeepMind—owned by Google parent Alphabet—which used its AlphaFold algorithm to build the most complete and accurate database yet of the more than 200mn known proteins."
-    publishedDateTime: 2022-07-29T17:01:00Z
-    webUrl: "https://arstechnica.com/science/2022/07/deepmind-research-cracks-structure-of-almost-every-known-protein/?amp;amp;amp="
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Screenshot-2022-07-29-at-09-42-46-DeepMind-research-cracks-structure-of-almost-every-known-protein-694x380.png"
-        width: 694
-        height: 380
-        isCached: true
   - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
     excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
     publishedDateTime: 2022-07-28T11:00:00Z
@@ -122,6 +108,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science"
+    excerpt: "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen."
+    publishedDateTime: 2022-07-29T18:18:00Z
+    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 58
   - title: "AI tackles the challenge of materials structure prediction"
     excerpt: "Researchers have designed a machine learning method that can predict the structure of new materials with five times the efficiency of the current standard, removing a key roadblock in developing advanced materials for applications such as energy storage and photovoltaics."
     publishedDateTime: 2022-07-28T14:05:00Z
@@ -210,6 +205,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind research cracks structure of almost every known protein"
+    excerpt: "The research was done by London-based AI company DeepMind—owned by Google parent Alphabet—which used its AlphaFold algorithm to build the most complete and accurate database yet of the more than 200 million known proteins."
+    publishedDateTime: 2022-07-29T17:01:00Z
+    webUrl: "https://arstechnica.com/science/2022/07/deepmind-research-cracks-structure-of-almost-every-known-protein/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 49
   - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
     excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."
     publishedDateTime: 2022-07-25T15:28:00Z

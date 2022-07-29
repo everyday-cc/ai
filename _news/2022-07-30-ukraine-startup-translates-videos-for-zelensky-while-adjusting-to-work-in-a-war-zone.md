@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T18:03:00Z
 originalUrl: "https://www.forbes.com/sites/annefield/2022/07/29/ukraine-startup-translates-videos-for-zelensky-while-adjusting-to-work-in-a-war-zone/"
 webUrl: "https://www.forbes.com/sites/annefield/2022/07/29/ukraine-startup-translates-videos-for-zelensky-while-adjusting-to-work-in-a-war-zone/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: Forbes

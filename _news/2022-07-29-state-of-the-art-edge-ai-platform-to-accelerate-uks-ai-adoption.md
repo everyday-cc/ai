@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Naval Surface Force plan to accelerate AI adoption expected ‘in the next few weeks’"
+    excerpt: "Naval Surface Force, U.S. Pacific Fleet has reached the final phase of drafting its first-ever, overarching data and artificial intelligence strategy and implementation plan — and aims to share those resources more broadly before this summer ends,"
+    publishedDateTime: 2022-07-29T21:54:00Z
+    webUrl: "https://www.fedscoop.com/naval-surface-force-plan-to-accelerate-ai-adoption-expected-in-the-next-few-weeks/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 33
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/07/GettyImages-1372977104-e1659128025698.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
   - title: "Maris-Tech Launches its Flagship Product- The Jupiter-AI, a High-End Multiple-Stream Video Platform with Edge Artificial Intelligence Acceleration"
     excerpt: "Maris-Tech has already received initial orders for the Jupiter-AI as an OEM (Original Equipment Manufacturer) solution and as a ruggedized platform within enclosure (the Opal), as well as for its derivatives,"
     publishedDateTime: 2022-07-25T13:03:00Z

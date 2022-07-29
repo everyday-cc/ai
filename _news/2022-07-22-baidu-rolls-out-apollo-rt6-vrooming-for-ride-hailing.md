@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu rolls out Apollo RT6 vrooming for ride-hailing"
-excerpt: "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,"
-publishedDateTime: 2022-07-22T02:10:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
-webUrl: "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+excerpt: "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ..."
+publishedDateTime: 2022-07-22T09:30:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
+webUrl: "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg"
     width: 720
     height: 480
     isCached: true
 
-secured: "L36HOuEuW9oLgTKCb9LvpDVKqzgm4bZq+xO+oQ8voEhWZUEAUQAspuTZP2uHjnsxzzv3hRB/hQsMVYEuklaeIkBfRD8B7dmeeJk3livJt3LCAhYigcghiagSRdTf2A5KHde0znbJZbs6ccGnmT4Cj8xMkMchoREQtx7Icy9VX7E5gVu3WOAPTDOJicjltdUsCt8Ifwx9FzuQPKklC8H70osB8kl+eSK13sfBkF/COZk40r5e1lU7szRLUwTB7nmnbCfJ7IXjn8Q0mG+xW2Ac18dijCxRBQiVFLU+0M7x5Bj1tylQfoxi0GEZjKleSyKv97S076TtrOXrVFc3gfQ2xHUvgd1BihPpn7jyhEcPaQBaUwnVsJvMcQ03WYX2Vco0Pbg6kOYAYK/Sp0SSG195llCzmBL0mzQeHtaw/fPLJRw2ooyzQTFwxPEBuz1iYtYFaavPPg8X7sxPTQOevfkvaW4hTzsvBL64EdQayr+utW8oUpghuWwYizzeAJAgR2QqP9v9Hs2vf9MiJysNOz7U3A==;PZDeABjW1FlVau2fVUlsxg=="
+secured: "YBOrqGMTVYA4cJJErlNGGkwfTxzsHsSqUyQ11o69mxgC13bPy1XKvvR6ijOsMqmeF2OO8g1MV8NX9Yl1YC4sBM08dfVWp5Bos+9npL3cRXZPkRZCUU+h3d7cCMUTO1IA0GlrTTvb95dJcMYJVueW5E9fhF2NQ9zhOKx/zw4MfzaNHYLEQvcs4owyRWrPwUHeUmDEpuVOhwnAQ3UDhXwDx8u/iZBCjfPGY4TxOEBHEpyE03rNVs2WAPU/Tle9woTKxBtpk78m+g6EEt/dGzedlMTkEVQzmISuJSgRPEOG9B29V1CvubJ/dng0CwBMhGlKY63wu654y0W+dh97QN+ksZ8ituEQsCx4XCoYwNSpq/Y=;8ygUqsCwXizBJd69KBSnqA=="
 ---
 

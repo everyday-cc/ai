@@ -38,6 +38,20 @@ related:
         width: 1100
         height: 733
         isCached: true
+  - title: "Naval Surface Force plan to accelerate AI adoption expected ‘in the next few weeks’"
+    excerpt: "Naval Surface Force, U.S. Pacific Fleet has reached the final phase of drafting its first-ever, overarching data and artificial intelligence strategy and implementation plan — and aims to share those resources more broadly before this summer ends,"
+    publishedDateTime: 2022-07-29T21:54:00Z
+    webUrl: "https://www.fedscoop.com/naval-surface-force-plan-to-accelerate-ai-adoption-expected-in-the-next-few-weeks/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 33
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/07/GettyImages-1372977104-e1659128025698.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "MQLoRcEPUeKqvgDg6VWBEoWkx0h0f3qGB1VhGZzauZc8Rjo+8IvDaAB0qVT9MSfe3li6qP8xPl2Wf0YSXNXnG2hSZd0yGPQ6etV3haa8wuLD27KoUMU2lirnOMoCoJkpGjeWFLtkVCFZ4dOPQTLbKmxk8ER7AzqdH96xxYvZJTbw/Z+GfwEmKf9aYt0t8EaqS6sZ+NiJ25A/nNYtKdODzSKtg2noTX1CYdkv3X2nIL/7koexZqAWCAgoZJTSrjS0jgpUZYmak/oVikw1TygABniampqGOi0hgqMaZdq4zD0OU07Lsu1urMY9aWQuHteAO09dN2bctQu06i4IeQeTF3WKgu6lOq0mkycqZi2XLqE=;lQv9T/UIojjWUROYwVgTKw=="
 ---

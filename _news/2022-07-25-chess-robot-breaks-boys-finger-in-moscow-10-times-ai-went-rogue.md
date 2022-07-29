@@ -43,22 +43,6 @@ related:
         width: 2500
         height: 1691
         isCached: true
-  - title: "AI gone wrong? Chess robot breaks child's finger at Russia tournament"
-    excerpt: "The boy, Christopher, is one of the top 30 young chess players in Moscow, Russia. During a tournament in Moscow, a chess-playing robot fractured a 7-year-old boy's finger when the youngster attempted a quick move without giving the device enough time to finish its task."
-    publishedDateTime: 2022-07-25T02:39:00Z
-    webUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament-11658674872366.html"
-    ampWebUrl: "https://www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-gone-wrong-chess-robot-breaks-child-s-finger-at-russia-tournament/amp-11658674872366.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 74
-    images:
-      - url: "https://images.livemint.com/img/2022/07/24/600x338/Chess_Robit-Screenshot_2022-07-24_203239_1658674977220_1658674983567_1658674983567.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament"
     excerpt: "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,"
     publishedDateTime: 2022-07-26T04:35:00Z

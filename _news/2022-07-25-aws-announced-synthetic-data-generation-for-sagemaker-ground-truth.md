@@ -39,6 +39,15 @@ related:
         width: 1323
         height: 662
         isCached: true
+  - title: "Team and user management with Amazon SageMaker and AWS SSO"
+    excerpt: "Amazon SageMaker Studio is a web-based integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Each onboarded user in Studio has their own dedicated set of resources, such as compute instances, a home directory on an Amazon"
+    publishedDateTime: 2022-07-29T18:34:18Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "Integrate Amazon SageMaker Data Wrangler with MLOps workflows"
     excerpt: "As enterprises move from running ad hoc machine learning (ML) models to using AI/ML to transform their business at scale, the adoption of ML Operations (MLOps) becomes inevitable. As shown in the following figure, the ML lifecycle begins with framing a business problem as an ML use case followed by a"
     publishedDateTime: 2022-07-27T18:00:49Z
@@ -48,6 +57,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Fine-tune and deploy a summarizer model using the Hugging Face Amazon SageMaker containers bringing your own script"
+    excerpt: "There have been many recent advancements in the NLP domain. Pre-trained models and fully managed NLP services have democratised access and adoption of NLP.&nbsp;Amazon Comprehend&nbsp;is a fully managed service that can perform NLP tasks like custom entity recognition, topic modelling, sentiment analysis"
+    publishedDateTime: 2022-07-29T18:47:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-a-summarizer-model-using-the-hugging-face-amazon-sagemaker-containers-bringing-your-own-script/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 62
 
 secured: "UHMkV8VuOVeid01E3hXnIqaJaM87oy0YrK/SE0qU7+WVeHDUViPWoSC6In1RHcdpe1fMLMTv1DYbbgfNO9g4SszoPt3te9soXGY36Uc/BdD6qABeC0XJYHVlsVz55/zJKnfbVYnDOKJz1xDa58iykvbHOaIpJYqatmilJGYLqepiR9nbhTQRroggxeqMnzOCDeadMwgFA7JTcjuumg4r/wUdZcVbBJEM5h0xQT6jUUpVs5QJb8VKyo/iOgFJEuzY0c+7YOdXXCB2qv1TbG/bKp/yJFskfGfAoUIcNiaMdIUcnhTojtgN+Atjc84IPzaD53xDLZHbAvME+zq7wLSYiVojr7AdbwNVhJPTLHAxlrU=;A9Ta9GBbzW9R8e1yCnfOjQ=="
 ---

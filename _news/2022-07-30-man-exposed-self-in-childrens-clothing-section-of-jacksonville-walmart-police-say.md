@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T19:28:00Z
 originalUrl: "https://www.news4jax.com/news/local/2022/07/29/man-exposed-self-in-childrens-clothing-section-of-jacksonville-walmart-police-say/"
 webUrl: "https://www.news4jax.com/news/local/2022/07/29/man-exposed-self-in-childrens-clothing-section-of-jacksonville-walmart-police-say/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: News4Jax

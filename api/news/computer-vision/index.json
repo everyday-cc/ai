@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-30-how-peloton-is-using-computer-vision-to-strengthen-workouts.md",
+      "title": "How Peloton is using computer vision to strengthen workouts",
+      "excerpt": "Guide’s computer vision capability tracks members and recognizes their activity, giving them credit for completed movements, providing recommendations and real-time feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313136968.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-peloton-is-using-computer-vision-to-strengthen-workouts/amp/",
+      "publishedDateTime": "2022-07-29T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
       "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
       "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
@@ -234,7 +286,7 @@
       "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 202,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1326,58 +1378,6 @@
         "AI",
         "AI in Autos",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028.md",
-      "title": "Global AI In Computer Vision Market Insights, Growth Analysis, Growth Rate, Forecasts 2022-2028",
-      "excerpt": "Jul 13, 2022 (Market Insight Reports) -- New York, US, Zion Market Research has recently added the latest report, named \"AI In Computer Vision Market By Key Players Based on 2020 COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/business-strategy/business-transformation/
 webUrl: "https://www.itpro.co.uk/business-strategy/business-transformation/368635/rogers-communication-to-invest-ten-billion-ai-oversight--outage"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -22,29 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
-    excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
-    publishedDateTime: 2022-07-25T04:40:00Z
-    webUrl: "https://www.reuters.com/business/media-telecom/rogers-invest-c10-billion-ai-testing-after-massive-outage-2022-07-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Rogers to invest $7.7 billion in AI, testing after massive outage"
-    excerpt: "Rogers is physically separating wireless and internet services to create an 'always on' network – to help make sure the customers don't experience an outage with both cellular and internet services ag"
-    publishedDateTime: 2022-07-25T01:26:00Z
-    webUrl: "https://www.rappler.com/technology/rogers-invest-artificial-intelligence-testing-after-massive-outage/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 37
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/07/smart-customer-advisory-sri-lanka.png?resize=257%2C257&crop_strategy=attention"
-        width: 257
-        height: 257
-        isCached: true
   - title: "Rogers to invest C$7.7 billion in Artificial Intelligence over next three years"
     excerpt: "Canadian telecommunications provider Rogers Communications is investing $7.74 billion in artificial intelligence over the next three years. The announcement came weeks after the company suffered a failure that left millions of customers stranded."
     publishedDateTime: 2022-07-25T11:47:00Z

@@ -65,6 +65,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The dangers of using AI in hiring"
+    excerpt: "Banks that need to fill large volumes of jobs increasingly let AI decide who’s in and who’s out, based on analysis of digital resumes and video interviews. Algorithms can take a more inclusive and less biased view of candidates,"
+    publishedDateTime: 2022-07-29T17:52:00Z
+    webUrl: "https://www.americanbanker.com/news/the-dangers-of-using-ai-in-hiring"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "7FrU81Om91ysLZwSPSX5uYnsmnlEmIObSCPX4kNAzAh4yNZooxr91ray5yKXYKXnZwkvIyNTYv87+m8f8s/GUxt8htlKfsOEvUWRy5lx5SK2U67Bg8cP4iao2jxw6pkTv6Cbc0Qwen3cAG7MqJS2XnXPD0KK+Ve5zmgOB8o7Jq51LDLQjPQSX0wgIOxMp7vFF0664xf64VGgZNJHfk177iRxzRnM3DvZdJ3asRplda+iIxH8VDkMsd+qbFBDjwB+9aTFAS7bsEgm3+KYCP1pKDmfMcUQIDkS3wq5QssvPEIEkJkWkqZilD+kcRs7AGODwnXTwBISmgKyhB8mDfptMDb2jnObA3Y331PC2d05Sqy0MVNcn0rPJmAZ4AB/bu4Ig/539PrweH+MrV5k2NfU9RftwAz1BdcbkAbz9KVopkrsZ1T0OC7F03i41VREVSOKcnxs2TQo48+LMIXxBbW1MnCgF6IGzS8H0gc83DbgeGgEGgLXdvh/LRCkNl64diCTWbktWtafMXhTQ+f+zuDOwg==;9XtF6LNuj2x1+AgOFMuPSA=="
 ---

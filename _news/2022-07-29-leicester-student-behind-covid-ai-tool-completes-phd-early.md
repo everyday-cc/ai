@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T05:05:00Z
 originalUrl: "https://www.bbc.com/news/uk-england-leicestershire-62335369?at_custom2=twitter&at_custom4=1D0C9834-0EFD-11ED-858F-27924744363C&at_medium=custom7&at_campaign=64&at_custom1=%5Bpost+type%5D"
 webUrl: "https://www.bbc.com/news/uk-england-leicestershire-62335369?at_custom2=twitter&at_custom4=1D0C9834-0EFD-11ED-858F-27924744363C&at_medium=custom7&at_campaign=64&at_custom1=%5Bpost+type%5D"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: BBC

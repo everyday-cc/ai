@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The dangers of using AI in hiring"
+    excerpt: "Banks that need to fill large volumes of jobs increasingly let AI decide who’s in and who’s out, based on analysis of digital resumes and video interviews. Algorithms can take a more inclusive and less biased view of candidates,"
+    publishedDateTime: 2022-07-29T17:52:00Z
+    webUrl: "https://www.americanbanker.com/news/the-dangers-of-using-ai-in-hiring"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "Vz5c0cmooqTZg+xcxHKT4ZI79Tn2I1AEXI4KbE1PUdx9dogNFPdXwuil4uOWlUbN+r3xnJmi9eVX8JLosDDA9UbIorlE3fwA8S1gGnbQSbC8/TdueWxdUDYOpKRmwf2cSBjO9mH/2EpwXnsNvFGiStde+FA2xG8uVx6S3oK7ETie5P0fHjqFlxy1v2qB/8x1e2nz4laCr0VL9Nzm2mDL5YOAWKbxa2CCaV7pkruB5zUy8/SRmocyjPUCLImf0YfnGsF7x4oevjuuyGeNDlDsdubcrcqtpqNOQ1Flhysc9O3engI+5Ef7+Q6NcBfAi9ETuHUdCnSB4uakbI/TKVZ40BAY0WV9LouUG6YXBQ/d/r8=;+bzZox9VQCAxqlsLm2jgoQ=="
 ---

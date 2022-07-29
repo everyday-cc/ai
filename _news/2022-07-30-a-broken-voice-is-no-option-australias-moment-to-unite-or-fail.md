@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T17:30:00Z
 originalUrl: "https://www.smh.com.au/politics/federal/a-broken-voice-is-no-option-australia-s-moment-to-unite-or-fail-20220729-p5b5nz.html"
 webUrl: "https://www.smh.com.au/politics/federal/a-broken-voice-is-no-option-australia-s-moment-to-unite-or-fail-20220729-p5b5nz.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Sydney Morning Herald

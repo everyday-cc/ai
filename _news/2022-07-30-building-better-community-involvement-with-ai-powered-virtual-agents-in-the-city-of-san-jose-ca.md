@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-29T17:49:00Z
 originalUrl: "https://www.nextgov.com/sponsors/2022/08/building-better-community-involvement-ai-powered-virtual-agents-city-san-jose-ca/374934/"
 webUrl: "https://www.nextgov.com/sponsors/2022/08/building-better-community-involvement-ai-powered-virtual-agents-city-san-jose-ca/374934/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T16:30:00Z
 originalUrl: "https://idw-online.de/de/news799197"
 webUrl: "https://idw-online.de/de/news799197"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: idw
