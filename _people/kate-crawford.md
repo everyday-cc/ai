@@ -10,7 +10,7 @@ website: https://www.katecrawford.net/
 twitter:
   username: katecrawford
   url: https://twitter.com/katecrawford
-  followers: 77998
+  followers: 78000
 
 topics:
   - AI
