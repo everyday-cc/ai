@@ -32,7 +32,7 @@ related:
     provider:
       name: Manufacturing
       domain: themanufacturer.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/07/29013738/shutterstock_561931702.jpg"
         width: 1100

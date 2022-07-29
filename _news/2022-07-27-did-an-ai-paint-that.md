@@ -7,7 +7,7 @@ originalUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that
 webUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,51 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How to build AI data engines that use the right data at the right time"
+    excerpt: "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ..."
+    publishedDateTime: 2022-07-26T15:34:00Z
+    webUrl: "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/"
+    ampWebUrl: "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Labelbox.jpg?w=1200&strip=all"
+        width: 1105
+        height: 623
+        isCached: true
+  - title: "How to curb AI-driven human rights risks"
+    excerpt: "Businesses must make AI and its actions more transparent, and ensure adequate human intervention and oversight"
+    publishedDateTime: 2022-07-25T15:26:00Z
+    webUrl: "https://www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/u8zgoq/article65682660.ece/alternates/LANDSCAPE_615/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Integrated enterprises need to optimise the use of AI for better CX"
+    excerpt: "To get the most out of AI and ML to better meet changing customer needs, enterprises need to start integrating their business units, operations and datasets into a more consolidated entity.  This is according to Archana Arakkal,"
+    publishedDateTime: 2022-07-25T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwEr7n35eYM6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 37
 
 secured: "85WiihzPybc9CMlyz+3Kfob1IZjtmK9jvIs6ck1E7NFR4IQ5LnAtSwufJ7bDGXEDhYDm8yg7320LbEjxIfEIpDhIFV6zkiWDnN8jsTLkJTwAjPr4rOHSpcBlFPEnjMQp02HwvLrQ18DVvVOGehgqGY4GrCVpmbNupX3mr+4Ruriatc5H2j2higbimxzY3R0oFfMGU0R940YTjxJDyedDVZzPl3/YBzvsWvmiduYZicM+hocYHPLHqyISGD3+NxoLuXRxp2YWoaQSX7QG6VUW3NWBoNRyruKBx8WL+uKKDDiKVXsA6R883yDassEk8m6H/ML1gnfmBVmgkBx3SzQGrhdZNAu6HYmNSkooMEDw8Mw=;V7tiOdrDwszSq64EbkHEXQ=="
 ---

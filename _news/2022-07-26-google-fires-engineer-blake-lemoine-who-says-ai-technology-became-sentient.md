@@ -3,18 +3,18 @@ category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
 excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
 publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: ABC30 Action News
-  domain: abc30.com
+  name: WTVD
+  domain: abc11.com
 
 topics:
   - AWS AI
@@ -179,6 +179,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "a6yAtETA69YN0iHAtsix53EtZoa3art5zEA1vp0ESk4H5cGX+qRHwWLWqWFt113Hb7m/iCt5OKY7dij9aly3jF+YYxNV+2UquRBc3scyx7W1WaXIXRcCxGZqPgC1VcvleT/u2qJ6TF/PI+cEv9uTvD8pyWNbuOKaRG9jDX9bKUb7BXZp4d172bdnXBFCcq40DjDbsTLLVQDGdBnIXJaIH7Vz5ZVGYzPjxQZkIqDIRSAdGXtbsMKjDu85bJJgcU7rjgcYQUCoJEUNMCz4+Hwy4e/yhr7fhthMH6gF1vvky0JppfwebFGfqV30pdaYtRmfH4V4S5vEzHjKWu5G9StMnlPm+3GqYrKoz71DDCeD/uI=;LJEzf617LVS1R0+UjsLcBA=="
+secured: "lxQ9G8EFoIvvCxXjVbGjY8P5IcWZJAxKuQT6Fcbsf5FfsnElJl+rAuURcfW/biy4vVoaZ/p4v4wmHYMZCpCY6AZfGcK7+YwTFP5uhOmzl7h3jSMDK190iCjxIXCT6JSdo0TC+rUk40adNCyaS8wldQ7u0y8EhdfnchkCkU9kmwg14UtbL8gLjeY/Ow0XvSChQyVAI/DyPxFQ9WYV+3FYofw/eDXARDg3Xur7uToI/eNZQZZLbRmmPbFaKnrFq+JUe9Yjjg9Aq4WPT++7yRMQV6lHUmLiWTOxo7l/GtMrFlSxOrS47GWXRZ4btWPmpfpxJCRB5T74o+dhH6Oqs3qoFnLzvLwszL5r6ikFDPAIX8w=;uUxgDiCGBbscMf3kdWjuQg=="
 ---
 

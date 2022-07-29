@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
+  - AI in Healthcare
 
 related:
   - title: "Making AI faster and more energy efficient"
@@ -53,6 +53,6 @@ related:
         height: 420
         isCached: true
 
-secured: "NCa39W5hI/geKIhKg9li8PnaOd6sPwrsvxMwcUC8Jf7O3z3adbdbKSlnK0wypXWrC3itz+EkGfy5NDCvZhEw8a1/Nb645Q2j7aIamgjma6ggTSQ9cVEAHDQIuCnMbkX98H4MZKLlg9aFQAEXZNj1uy8xvFACeQQhU3qix6lLMkQwmEYkz4Rtj4gD4WHpRhU9fG6I9x+UNIRPJhRJxUlX96eq5iTx2FRzwCl2OoUCyOSRigDbuZMLG9ot7WxE/ZyN3MDoaSWQtXY8PB7fvBzYTr0x7WuCDZjrtfkTYEuwU6+obrM9HgzJXi+jIWLC7gPouZAP5V90RtXlZE/QHITTe8ErwUjAKMSwi19KNM3MoS0=;GenrmDuW773y022v+5EOow=="
+secured: "E81ME/+alflEIA+udmeiu6YcfJakRW3lUODyg3Hwb4YKWYu38Uozr8hoN1wMoqI5h3LFEZG+5d8UNvyd1orbb/Rbn9BkOseCTOJ7sMDWcr1IuebRY+u9uONQ4jTNkFiTpbIJ7FpG/35QuJqMfw/XecLskuagSPeZmfd4vUZbYWeFr/rAob0SogRgrz4sXYnBy8nk6MGO220LOi3LnAhXrfcmY7kVp9cpkzeP1i8l27x28+k1qvCgw3CDQWn/H73GjS3c7JABlhpT7vJeL1p4hPbq7lfiATK3jTlQpqWRzdCltxeDGK/P/ppY4rCSDKI0sgtPDknlGX5XLoH0dzlEELXHF7zcUUxyYAgMCnzYqLE=;SOYdhawmJZtRFiLgINhDQQ=="
 ---
 

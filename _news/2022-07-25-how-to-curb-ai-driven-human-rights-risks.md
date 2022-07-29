@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-h
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "How an AI managed to confuse humans in an imitation game"
-    excerpt: "How a robot controlled by an artificial intelligence-powered computer program passed the Turing test in an Italian study."
-    publishedDateTime: 2022-07-28T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-nonverbal-turing-test/"
+  - title: "How to build AI data engines that use the right data at the right time"
+    excerpt: "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ..."
+    publishedDateTime: 2022-07-26T15:34:00Z
+    webUrl: "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/"
+    ampWebUrl: "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/Labelbox.jpg?w=1200&strip=all"
+        width: 1105
+        height: 623
+        isCached: true
+  - title: "Did an AI Paint That?"
+    excerpt: "My kid could paint that” is a frequent rejoinder to art that viewers struggle understand. But “my computer could paint that” may become the challenge to art that has secured its status as a masterpiece."
+    publishedDateTime: 2022-07-27T11:00:00Z
+    webUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/d/did-an-ai-/did-an-ai-paint-that_gv7h.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Integrated enterprises need to optimise the use of AI for better CX"
+    excerpt: "To get the most out of AI and ML to better meet changing customer needs, enterprises need to start integrating their business units, operations and datasets into a more consolidated entity.  This is according to Archana Arakkal,"
+    publishedDateTime: 2022-07-25T06:32:00Z
+    webUrl: "https://www.itweb.co.za/content/JBwEr7n35eYM6Db2"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 37
 
 secured: "P3J2lZJnFhVhgJCe7/U1vNc5fQ1oNazDwQh5mzPUh1RNT+K8yDD0T8t/d6F55FKG84sCfEnjBvtLueyZ/A3C6nXzMzufmako9YsQeu5KkYIEz2dVkPcMbBNu6c/xXnKPuP743em8UFec1+WJo+fbxyQVbpFe5vyDt9vnJHUOOqeB0F/T8baoIZ5ec7eykmjWuYDbb7FRkKckM2uCw7ux2PNjYJzaSUC42NONPy3wwe8R9hsXV5U6XSgcExlnxdpfdiQDKZfxEiKmNPEK2zrsy9v827cWXROEj2DCPsNzzXeTRQEOQC80zrs2gyyAPwx/FnYopTUk16IXeofnx6hbrUcF1voI1J1ooPzT8uHv7f4=;eaXRS/LeO023hlJvnRm8kA=="
 ---
