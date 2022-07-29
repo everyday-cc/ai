@@ -7,7 +7,7 @@ originalUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
 webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
+    publishedDateTime: 2022-07-28T19:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
     publishedDateTime: 2022-07-28T21:34:00Z

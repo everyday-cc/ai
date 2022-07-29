@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "AI performs as well as medical specialists in analyzing lung disease, research shows"
+    excerpt: "Researchers have developed an AI algorithm that accurately and quickly diagnoses idiopathic pulmonary fibrosis, a lung disease. The algorithm makes its diagnosis based only on information from non-invasive examinations,"
+    publishedDateTime: 2022-07-28T22:10:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220727211921.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "AI performs as well as medical specialists in analyzing lung disease"
     excerpt: "AI algorithm accurately and quickly diagnoses idiopathic pulmonary fibrosis, a lung disease. The algorithm makes its diagnosis based only on information from non-invasive examinations, including lung images and medical information collected during daily medical care."
     publishedDateTime: 2022-07-27T00:00:00Z

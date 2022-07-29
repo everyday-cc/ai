@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Impacts
@@ -26,29 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Five alternatives to using AI in the recruitment process"
-    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
-    publishedDateTime: 2022-07-25T00:37:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
+  - title: "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts"
+    excerpt: "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities."
+    publishedDateTime: 2022-07-27T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/"
+    ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
-        width: 733
-        height: 358
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "How a Philadelphia startup is using AI and machine learning to better predict clinical trial success rates"
-    excerpt: "A chance meeting at a bowling alley three summers ago laid the groundwork for what has evolved into a health care fintech startup led by three Wharton MBA alum."
-    publishedDateTime: 2022-07-24T15:56:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/07/24/biophy-philadelphia-wharton-clinical-trials-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 20
 
 secured: "5Ws5H0tYtN0v7suu70F7eUx2rQBW6fdFWg1XSqztKESFHkbuuJVloS17/LVZGWrXzTnhYSm+N1rXv7sKxeOgVTHwi/lkJjnEGeAJa/f7YLdQfra/F8VVqB026TlkCD3B1F3tV+z+Rxz5A0zozgjQZELX0N4LSl87WORkszGe5RZ19AsJnR42P48xYZGqHZV4498V6HNSlkXXcTHmEH04UrWDYAJUAZFxrmGz10Nlq4J8rlvk42YLv5ykfffj/KBFI591VmTLBE6oRDeTxYTDrvGcP9ypZhsYuPLUAkrrwxSSKoZdlNcNWy7IZCxeKDsvagZ1iqkEyRYNNAqDNKB8+8KLS+np7hWpaP1tIDiGwMNEGu3eCdr6ILGlpYgQ148o3CZ6/twMgD2IFEVn5v/2B7nliQSLM3yeqdVp2iNCW01FgWCnSRDhu82ViesNKHs10uKJU9A1DtJ8ZBaSIQbj4bw1/IgcXpiUpPRM0mFnc878L4OqyMd/g9HLDlC0ndajcn641B3Ka+IaMgW+6GlhBA==;uRkiwkfmP7HbpL1GUSDdKw=="
 ---

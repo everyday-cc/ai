@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI Lab Predicts Structure of Most Proteins"
+    excerpt: "D structures of 214 million molecules, in an advance expected to quicken drug discovery."
+    publishedDateTime: 2022-07-28T21:42:00Z
+    webUrl: "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-593405/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
     excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."
     publishedDateTime: 2022-07-28T20:20:00Z
@@ -36,22 +52,24 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 79
-  - title: "A.I. Predicts the Shape of Nearly Every Protein Known to Science"
-    excerpt: "DeepMind has expanded its database of microscopic biological mechanisms, hoping to accelerate research into all living things."
-    publishedDateTime: 2022-07-28T15:35:00Z
-    webUrl: "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.html"
-    ampWebUrl: "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html"
+  - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T11:00:00Z
+    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://static01.nyt.com/images/2022/07/28/science/28alphafold-promo/28alphafold-promo-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
+      name: CNET
+      domain: cnet.com
+    quality: 63
+  - title: "Google's DeepMind AI Solves 3D Structures of the 'Entire Protein Universe'"
+    excerpt: "This breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-28T19:15:00Z
+    webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 62
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
     excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
     publishedDateTime: 2022-07-28T10:32:00Z
@@ -67,6 +85,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20"
         width: 620
         height: 372
+        isCached: true
+  - title: "AI tackles the challenge of materials structure prediction"
+    excerpt: "Researchers have designed a machine learning method that can predict the structure of new materials with five times the efficiency of the current standard, removing a key roadblock in developing advanced materials for applications such as energy storage and photovoltaics."
+    publishedDateTime: 2022-07-28T14:05:00Z
+    webUrl: "https://phys.org/news/2022-07-ai-tackles-materials.html"
+    ampWebUrl: "https://phys.org/news/2022-07-ai-tackles-materials.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-tackles-materials.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tackles-the-challen.jpg"
+        width: 2880
+        height: 1563
+        isCached: true
+  - title: "DeepMind has predicted the structure of almost every protein known to science"
+    excerpt: "DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science. From today, the Alphabet-owned AI lab is offering its database of over 200 million proteins to anyone for free."
+    publishedDateTime: 2022-07-28T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/Open-Box-proteins.jpeg?w=2675"
+        width: 2675
+        height: 1505
         isCached: true
   - title: "Alphabet’s DeepMind uses AI to predict 200M+ protein structures"
     excerpt: "DeepMind announced the milestone today. The Alphabet unit is making data on the protein structures predicted by its AI system available to scientists through UniProt, a freely accessible protein database."
@@ -98,15 +148,20 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Protein predictions: AI group says it has solved one of biology's 'grand challenges'"
-    excerpt: "DeepMind, an AI firm owned by Google’s parent company, Alphabet, said its program can now predict the structure of nearly every protein known to science."
-    publishedDateTime: 2022-07-28T19:40:00Z
-    webUrl: "https://www.nbcnews.com/science/science-news/protein-folding-google-rcna40437"
+  - title: "AI Medicine Software Market May Set a New Epic Growth Story | Enlitic, Atomwise, DeepMind"
+    excerpt: "Some of the major and emerging players within the market are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi ..."
+    publishedDateTime: 2022-07-26T10:34:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-may-set-a-new-epic-growth-story-enlitic-atomwise-deepmind"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 40
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 45
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
     excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-28T14:49:00Z
@@ -123,6 +178,33 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "DeepMind AI predicts the structure of nearly every known protein"
+    excerpt: "The expanded AlphaFold protein database has various applications and could help scientists solve more biological mysteries of the world."
+    publishedDateTime: 2022-07-28T13:42:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-protein-database-alphafold-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 34
+  - title: "DeepMind AI has unlocked the ‘protein universe’ – and it could help to cure Parkinson’s"
+    excerpt: "Access to the 3D-mapping AlphaFold technology is having a major impact on research into antibodies and disease treatments"
+    publishedDateTime: 2022-07-28T19:43:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2022/07/28/protein-universe-revealed-ai-could-help-cure-parkinsons/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 26
+  - title: "Google DeepMind AI reveals 3D structure of 200 million proteins contained in EVERY living thing"
+    excerpt: "Scroll down for video DeepMind claims it has followed a 'responsible' path by consulting with more than 30 experts across biology, ethics, security and safety so that the AI's benefits could be shared in a way that minimizes potential risks."
+    publishedDateTime: 2022-07-28T19:19:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11058243/Google-DeepMind-AI-reveals-3D-structure-200-million-proteins-contained-living-thing.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
   - title: "DeepMind cracks structure of nearly all known proteins"
     excerpt: "Researchers have revealed the structure of almost every protein known to science — a breakthrough that promises to transform our understanding of how life works"
     publishedDateTime: 2022-07-28T12:30:00Z
@@ -150,6 +232,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
+    excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
+    publishedDateTime: 2022-07-28T13:14:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-02083-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
 
 secured: "doOQZW8/bTFDf8B5H/QdzgOZQ1jgIbQs5Gce5ICBzkoRJ5OYeqZkvZsbZnAiffvFY45Q6dPoUAReNA/W4SbT8II8MQZi0PGyCURZl1+UsSzuSpqj2VrsjPXgmvyIPwbtsQqzFvYxCCp3e8oWaSj4HX2bZ9e54g3MKd4fSCz5duw+qi9NBfNL+P5w3nRWafcLStvIWWRAATrNDbWyNGyKML5MNa5v4ZSswOvhmljJZ59gxexSTMk4lg2hqOhhFIiRvOZE1PKr9ZS5ZVHLxEUG8SBUDeHFheTD8L8jsUe1iBbYLFlCXnJH5fnX7dXMiyys6ldgLY/TSNhfvwSEfvXIitbsvy+7k4rWGcg5XVRmJdo=;AWsy/ppJMyQTrtngrUwvSQ=="
 ---

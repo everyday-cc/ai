@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/how-conversational-ai-is-giv
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,52 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Stop Drowning In Data: How Consumer Goods Can Put AI Into Action"
-    excerpt: "A wave of innovation is sweeping the consumer goods (CG) industry with customers demanding digital experiences across every channel. Established players are being forced to accelerate their transformations to keep pace with the challenger brands who are often cloud-native from the start."
-    publishedDateTime: 2022-07-26T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/26/stop-drowning-in-data-how-consumer-goods-can-put-ai-into-action/"
+  - title: "How AI is making Gen Z the most financially sophisticated generation"
+    excerpt: "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers."
+    publishedDateTime: 2022-07-28T22:19:00Z
+    webUrl: "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Three innovation areas in AI that everyone is fighting for"
-    excerpt: "It is an undeniable fact that whenever a new, popular and eye-grabbing tool comes to the market, tech companies rush to replicate them and create their renditions."
-    publishedDateTime: 2022-07-28T04:31:00Z
-    webUrl: "https://analyticsindiamag.com/three-innovation-areas-in-ai-that-everyone-is-fighting-for/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/3ai-domains.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Oracle Announces virtual AI summit 2022 – Accelerating AI journey for organisations"
-    excerpt: "Join us at the Oracle AI Summit 2022, a virtual short-format conference that aims to bring together business leaders & innovators to discuss a detailed framework that can help organisations to take the next step in their AI journey."
-    publishedDateTime: 2022-07-26T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/oracle-announces-virtual-ai-summit-2022-accelerating-ai-journey-for-organisations/"
+  - title: "Next-generation RAF fighter jet to feature AI-assisted operation"
+    excerpt: "The Tempest – the United Kingdom's planned fighter jet of the future – will have a cockpit without physical switches or screens. Its systems will also"
+    publishedDateTime: 2022-07-26T23:14:00Z
+    webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/oracle-ai-summit-rev-2-1.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-26-image-17.jpg"
+        width: 2560
+        height: 1439
         isCached: true
-  - title: "Deepspatial Announces Exclusive Invitation to Present at United Nation’s AI Forum"
-    excerpt: "TORONTO, ON / ACCESSWIRE / July 28, 2022 / Deepspatial (CSE:DSAI) (OTCQB:DSAIF) (“Deepspatial” or the “Company”), an outcome-based artificial intelligence company, enabling organizations to enhance their decision-making capabilities by leveraging the power of data and AI,"
-    publishedDateTime: 2022-07-28T12:38:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/united-nations-general-assembly-technology-artificial-intelligence-0ee667dad1c92aed0f2d13510f0a3e43"
+  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
+    excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
+    publishedDateTime: 2022-07-26T15:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 14
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Protecting AI-Generated Inventions as Trade Secrets Requires Protecting the Generative AI as Well"
+    excerpt: "Legal, technology, business, and academic professionals currently are debating whether an invention autonomously generated by AI should be patentable in the United States and elsewhere. Some proponents argue that,"
+    publishedDateTime: 2022-07-24T16:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/07/24/protecting-ai-generated-inventions-trade-secrets-requires-protecting-generative-ai-well/id=150372/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 26
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2022/07/Depositphotos_222059474_XL-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "f16bTgarBk/dEQbg8rhcMS8OJtAacWX/Lpnia4GHZskD6ayeUIEO0GQLImHtdXe2xsHZe4i+NyN52lStsib+JWU3nhu/FRJI1nHOwtJQOhS0REbcE2l9Lzlkc7IsHaX1Alh11SmT5pFwhikcnkkNaEu2j09CC+SVpZzmhQWc5Z4wBFL57EMxX50+XA+nB0Eu5nV75MT3JdJYhyT3KlmPYS7fP4OoTPiYYVuDOPKLHR4YOd7HZszuaBPV/X8oTkGy6LFS2815TN/9LyJvRyxnsi8QJ+7IXKOlRg+QcHi4foMVmcIyW8zwWFBM4yDHA7kW8W47icaZIPRpzZ22+uYdF5KEFWnI0Yu54Q2Ow5iWHqoeaXuHQxwhH1UNTmMHobdq/HhsJqqjAW4olBZJ1QY+kdXMxlKbfdV+j864bx8zLCmFpbNQii22tB/HAqoJmt7z+zh5kr6jyTPNsmUpLVRRDkBR5g4IdpQ9pZ5AluNbHYXx2WGkq+icGYcDGli9KTFcmcxLo8P0oh57d3AtvvwUbg==;0M+vcaDJ+jlgtLqA0lVQKA=="
 ---

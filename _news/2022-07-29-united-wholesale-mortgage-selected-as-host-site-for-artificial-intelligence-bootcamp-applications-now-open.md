@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-28T19:07:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 type: article
-quality: 2
-heat: 2
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -15,9 +15,14 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Mark Cuban Foundation bringing AI Bootcamp sessions to Pittsburgh with Argo AI and The Readiness Institute at Penn State"
@@ -30,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "ZISFDQMFIyB6iE+4AoeHy3Qt1+pNbOR/NbEtb5nm3uZeKMBEPFocbWQea4ISzmNpECwpXcS71g8Eg+MvRuq4WrcRkL5QjaSWW5ALVxkHcadoC0Olh98JjQooVLnFb+4TKUuRE5DhoNKWYbSM1qpQH0ZozfqEi87hs6HiloOnN/CyTPYRCG303YMclF1NfWUPPohSP4d4DvpL8R33VA54JFLBrjclWRpkUDcU3g4/4GFpYLoIZaGCCyMmuZXBHKwM66A0R2GG65B4fXnzBzFjFacYzJJDsz+6jk41P+Uoytu+OLrgrtbL738Wd3cTbF/F3iuLtbTjwaABPmdmauL2cyMw8mzx7SI6P6nYUZa7E3Y=;peaon5c5o+RmbsA4M1x5BQ=="
+secured: "sVFKH15+WKoNj9+L3qFOHBxTKPJ9xZqd5Bo8E48nlMoVF73uf59sOExywHB7PDRsYp69o791T/+LdeGGQAZgmC1ZLg1slGYWLwbw5rgDunTuah7vcQtocgUgN02bUSnOWepYH/1qDTI6gScUkNqEawmLivg559qEIi2vV5Y/46AxRwObyHu/nqWPl1Blt6TMo1MBrXOKaluqecPJkL4Z/2k2Jr1VWMfeiKjA0mg3YYy7aIPFGqbcFEZRydjsvr1eJp49bQi8tD4Bz6DTqStW41JSdXjNTGjP3fGAUXnJY3Ml3itVRDIc+cqcCwaRZ1PkWMOb2Wm+jx3L2zvIFQuCACXytsb548nhJrf0btSSfUM=;DmOjiaEpfAbs/TgAyo8pDQ=="
 ---
 

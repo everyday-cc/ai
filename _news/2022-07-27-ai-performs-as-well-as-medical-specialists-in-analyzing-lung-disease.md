@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/960182"
 webUrl: "https://www.eurekalert.org/news-releases/960182"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI performs as well as medical specialists in analyzing lung disease, research shows"
+    excerpt: "Researchers have developed an AI algorithm that accurately and quickly diagnoses idiopathic pulmonary fibrosis, a lung disease. The algorithm makes its diagnosis based only on information from non-invasive examinations,"
+    publishedDateTime: 2022-07-28T22:10:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220727211921.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "AI performs as well as medical specialists in analyzing lung disease"
     excerpt: "A Nagoya University research group has developed an AI algorithm that accurately and quickly diagnoses idiopathic pulmonary fibrosis, a lung disease. The algorithm makes its diagnosis based only on information from non-invasive examinations,"
     publishedDateTime: 2022-07-28T13:23:00Z

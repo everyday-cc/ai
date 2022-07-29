@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-27T08:48:00Z
 originalUrl: "https://www.fieldfisher.com/en/insights/artificial-intelligence-in-healthcare-the-need-for"
 webUrl: "https://www.fieldfisher.com/en/insights/artificial-intelligence-in-healthcare-the-need-for"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "http://res-3.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/big_data_and_artificial_intelligence_concept-1040557296_guxpv3"

@@ -64,7 +64,7 @@ related:
     provider:
       name: Fieldfisher
       domain: fieldfisher.com
-    quality: 54
+    quality: 56
     images:
       - url: "http://res-3.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/big_data_and_artificial_intelligence_concept-1040557296_guxpv3"
         width: 2571

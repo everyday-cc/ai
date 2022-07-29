@@ -38,6 +38,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Five alternatives to using AI in the recruitment process"
+    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
+    publishedDateTime: 2022-07-25T00:37:00Z
+    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 37
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
+        width: 733
+        height: 358
+        isCached: true
 
 secured: "58+MCvtEiQ1BnjbboHdVDd6Z7UTPOryI3lTEwU31lseF7RYyRHgQIYSjaBnZbbajbObQi4mvIRA5F2HZwXT9+uEGmklOEG8+5vyAYi7HvBnJV9Zuy3QQJOZJahQTcqlj3krp77H0QrJec/gwY7ZuLhbzZEwBGsh/GsWUBt17GguW7e20GB6r4+x0CWJj+V9KUveYWKp584yxtWgExSlnQD294TSRlHq7He4UwOERy52QeRj6wPZEJZRa77bpAlhZOFRx2hXRuPSKN+wauS+QsBV/pO8qwrTGgeIpGCBfDTwlx94c2ODc8/PUVkVYDTwy4XkJ0KffQ2eo1rnUehQ1SjE2adKacTMMgUi4GFUGjcQ=;ixiNXHwObYIBXH0jFtvwug=="
 ---

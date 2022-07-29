@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1"
 type: article
 quality: 84
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png"
         width: 800
         height: 450
+        isCached: true
+  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
+    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+    publishedDateTime: 2022-07-25T18:17:00Z
+    webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 57
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google sacks senior engineer who said its AI program was sentient"
     excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"

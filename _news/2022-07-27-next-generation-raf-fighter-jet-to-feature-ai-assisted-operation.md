@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-je
 webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
 type: article
 quality: 67
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is making Gen Z the most financially sophisticated generation"
+    excerpt: "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers."
+    publishedDateTime: 2022-07-28T22:19:00Z
+    webUrl: "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How conversational AI is giving financial service organisations the edge in customer relations"
+    excerpt: "By Vijai Shankar, VP of Product & Growth Marketing at Uniphore Even pre-pandemic, the financial services industry was facing ‘innovate or die’ decision points, in the face of newer, more technologically nimble competition and changing consumer behaviour."
+    publishedDateTime: 2022-07-26T15:40:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 47
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1362558727.jpg"
+        width: 750
+        height: 532
+        isCached: true
   - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
     excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
     publishedDateTime: 2022-07-26T15:45:00Z

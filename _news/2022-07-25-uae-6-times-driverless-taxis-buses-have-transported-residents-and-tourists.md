@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-25T08:41:00Z
 originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
 webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
 type: article
-quality: 36
+quality: 16
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
-    isCached: true
 
 related:
   - title: "Pioneering partnership could involve Lotus in driverless revolution"
@@ -40,6 +34,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+FXUOyQdTEb2waBj+ENIvUk2cr/NRFR4qYFIC3FSTklZrxaW17eihKkz0mVY65GizPWRjLqEDiDcgXD8WQqM8jIw8CTN5CMZrLY+Ry9AFFxHVDAdcvBDik0KQPCuGJZb4aVEQAR48tu10Yj21HdE03JiuUuwTIQY436pHV2drXC8gMJu7FPVCHZ94R2LxPRoS2210Bo3d7bQJgA3sgp0EujdSCC9ayXEKVYimJqOAWlohUQx/2GpVppCqfogtKPWkeloF/pkazi35KjQmKLCgFCOLbNEIi8pNtaWqAv7/UsNCVyYz8of1PXZ4wObkw0uehw99SBFDD5Zma2Vj2yU8R4TyEf0A6nDuMUvMR/k4Kk=;3zx0lxTT0JOBcQDnDoENzA=="
+secured: "HWywkjpVtLruFjZ2xNVX8LRAKJVhLlqEJ83HqdMcMJ43cjVeTw6ecW38wuOsLUJkTpt2m2OEJc9aZE1LMBCAAbDdomgg0eftae2aL6LCxiXnPkmwWvIKaPKRrWe5jooJB2jpoeQ6NDTV6TKM5MuRSnj15swCoKDKhbGVYQkEJeoV9ObIkw3cO8mIpcprhPsFDgiE/OW+oxdgxihNul2JljFkAXx+W8N2m0bmucN01+n9gR/MG/oyMHbVqitL3o1cFXBo95ptIhasmfbwqBtjJKYqsqoYIndd6Td0uIO1gY+LtTKaqiqN2H5n/JLW1nr1zyJd1rOnCIwA0jpXD0zViDmghJtwJ+r63KO7xmYwvfo=;Cbhgez7dEBg9edvRN4uEvA=="
 ---
 

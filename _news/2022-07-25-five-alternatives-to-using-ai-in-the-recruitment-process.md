@@ -24,31 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "How to Prevent Phishing Using Visual AI"
-    excerpt: "Various researchers and organizations concerned with cybercrime understand the severity of the increase in phishing attacks. Therefore, phishing awareness training and detection are two of the best ways to prevent the most significant cause of data breaches globally."
-    publishedDateTime: 2022-07-26T13:52:00Z
-    webUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/"
-    ampWebUrl: "https://techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-to-prevent-phishing-using-visual-ai/amp/"
+  - title: "Artificial Intelligence Discovers Alternative Physics"
+    excerpt: "A new Columbia University AI program observed physical phenomena and uncovered relevant variables—a necessary precursor to any physics theory. But the variables it discovered were unexpected. Energy,"
+    publishedDateTime: 2022-07-27T13:19:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 57
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/07/Visua-Picture.png"
-        width: 1200
-        height: 675
+      - url: "https://scitechdaily.com/images/Columbia-Engineering-Roboticists-Discover-Alternative-Physics-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "How a Philadelphia startup is using AI and machine learning to better predict clinical trial success rates"
-    excerpt: "A chance meeting at a bowling alley three summers ago laid the groundwork for what has evolved into a health care fintech startup led by three Wharton MBA alum."
-    publishedDateTime: 2022-07-24T15:56:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/07/24/biophy-philadelphia-wharton-clinical-trials-ai.html"
+  - title: "The novel AI physicist has discovered a new realm of physics"
+    excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
+    publishedDateTime: 2022-07-28T15:50:00Z
+    webUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 20
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://d2kspx2x29brck.cloudfront.net/2022/07/28/image/jpeg/PdnVsMCunUYinOScFf194DVfHrdcxOuwXabnQpbe.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Rm3hdzx+d5dKYteM9e4UtD2qqb7eNsV1Glb+8GPj0HNIykATu0Uw8yv8XSwUNAe/kNOZ55H602gNUjjqOifhKeHRHebe2UgYg1OuijoOfRe3y76AUJrD5hX65c1Oqej4hSWdpI6UpFaFd1YZphkCzt8FNW1q3+hdsoP+R+gROf2v0VYQhajOmSA2RmoxPUbuZc96I2+YOnjXGleXwG5wIsvVbbctNaheMRKuUfW866uzflBBbovPdQhFa3phvW+XJtS8UK0jgnBYX2Oh270joBYOaxXO6tLQmm12jDCvX4t8eLzGNjCmm4ALveFRB36uZHT99XZOTFQFaK2eTx/agg8p7DCjN3EDwoQVvxMwI3k=;N0zTBg0NKLSWuwKV3MTKrA=="
 ---

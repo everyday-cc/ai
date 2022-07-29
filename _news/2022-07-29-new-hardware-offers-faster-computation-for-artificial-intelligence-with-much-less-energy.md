@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-28T19:51:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
-quality: 42
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,28 +19,39 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
 
 related:
-  - title: "AI tackles the challenge of materials structure prediction"
-    excerpt: "Researchers have designed a machine learning method that can predict the structure of new materials with five times the efficiency of the current standard, removing a key roadblock in developing advanced materials for applications such as energy storage and photovoltaics."
-    publishedDateTime: 2022-07-28T14:05:00Z
-    webUrl: "https://phys.org/news/2022-07-ai-tackles-materials.html"
-    ampWebUrl: "https://phys.org/news/2022-07-ai-tackles-materials.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-tackles-materials.amp"
+  - title: "Making AI faster and more energy efficient"
+    excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
+    publishedDateTime: 2022-07-28T21:51:00Z
+    webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: UTA Radio
+      domain: uta.edu
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tackles-the-challen.jpg"
-        width: 2880
-        height: 1563
+      - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
+        width: 964
+        height: 650
+        isCached: true
+  - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
+    excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
+    publishedDateTime: 2022-07-28T21:34:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272635944/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
-secured: "McP2S9icth+7JVxECWgayO7yD9rQUNNdztzCMSPs8z0+hLIi2QAZ59HO84WWq7tn1ANbs/c+HMKHvcxSwe7MttDjRjaauWw4kGM5/U/3Q/C10LzK+/RHvqz/IyPUgALoelgcOMinhu7/7qptIWjQrhM8Ny80OhdTYMk6D1HZno+6gfKk2h8AfbOTm42CwQuVWsAb5mdcOiHBqb8vXJcOfsOjDgYBE71ch8OtukcVj4Ff2Z82O+La9wAXC6yQncwfk3fGYqXfmqNGFXkKw1vk04n8nKtFIGm0QOi3Ea2muSZbfUKCK3b7O+Yrebm9rfH5CNl0Y60RqKfaYA9AM475fc6g9HF2zINRA1KOo6cBpaE=;Q0PeROYrtZs9fglU/Oib1w=="
+secured: "NMAf+VlQG39ZhZdJEiBGv67VyhvLL/T0+gHg+ZsRJVqPI+lCKydUJ3lBfLSQ5incRB70T30ACJUA2gDvY4m+jPTGF9aE28nn5Wuo9+rZfu0PhOLwkvlsppIY9/Y+6Vi7BCutBf5DGHUmZj0edJSv62+HdlCIwL4r3631S8JpV4TK9Jze0Z3EF64qewQGZvump99Ing+5cMcv9qBpImwOLVCHVY0/FB34vV2CK2jxeISt05q8f0Hp+qi74LE0Pyo1NJoxZbnt5c/TyqZ4auVnxlQE3wWyFprACWoEBVT/Ve2pssV74HDBmpIi0old6Pn9uMiMK8UpsnC/gkg/JGukjwynhHpMT0FyCAtLypoh5Fs=;bEqF1z3kXjsxVSL2fCII/Q=="
 ---
 

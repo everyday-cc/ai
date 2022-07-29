@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recogni
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "New Orleans Mayor Signs It: Cops Can Use Facial Recognition"
+    excerpt: "New Orleans Mayor LaToya Cantrell on Thursday signed an ordinance that partly reverses the city's ban on police use of facial recognition software."
+    publishedDateTime: 2022-07-28T22:24:00Z
+    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-28/new-orleans-mayor-signs-it-cops-can-use-facial-recognition"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
     excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
     publishedDateTime: 2022-07-27T19:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt
 webUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt6-robotaxi-fleet/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A day in the life of a Chinese robotaxi driver"
+    excerpt: "Most of them, including Apollo, the self-driving arm of Baidu, have started on-demand robotaxi trials on public roads yet still need to operate with various constraints. With an associate degree ..."
+    publishedDateTime: 2022-07-27T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/Baidu-Split.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "The Download: Chinese robotaxi drivers, and AI gun detection"
     excerpt: "A day in the life of a Chinese robotaxi driver When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving,"
     publishedDateTime: 2022-07-27T12:10:00Z

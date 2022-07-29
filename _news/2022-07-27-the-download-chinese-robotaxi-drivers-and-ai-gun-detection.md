@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "A day in the life of a Chinese robotaxi driver"
+    excerpt: "Most of them, including Apollo, the self-driving arm of Baidu, have started on-demand robotaxi trials on public roads yet still need to operate with various constraints. With an associate degree ..."
+    publishedDateTime: 2022-07-27T11:00:00Z
+    webUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/"
+    ampWebUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/Baidu-Split.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
   - title: "Chinese search engine Baidu to have Apollo RT6 robotaxi fleet"
     excerpt: "Chinese search engine and artificial engine company, Baidu reveals an autonomous driving vehicle. It is the Apollo RT6."
     publishedDateTime: 2022-07-26T02:15:00Z

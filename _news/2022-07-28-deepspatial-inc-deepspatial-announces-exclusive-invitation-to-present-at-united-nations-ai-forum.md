@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56668265-deep
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56668265-deepspatial-inc-deepspatial-announces-exclusive-invitation-to-present-at-united-nation-s-ai-forum-200.htm"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Deepspatial Announces Exclusive Invitation to Present at United Nation’s AI Forum"
+    excerpt: "TORONTO, ON / ACCESSWIRE / July 28, 2022 / Deepspatial (CSE:DSAI) (OTCQB:DSAIF) (“Deepspatial” or the “Company”), an outcome-based artificial intelligence company, enabling organizations to enhance their decision-making capabilities by leveraging the power of data and AI,"
+    publishedDateTime: 2022-07-28T12:38:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/united-nations-general-assembly-technology-artificial-intelligence-0ee667dad1c92aed0f2d13510f0a3e43"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
   - title: "BirchAI Announces Partnership With Verint to Provide an After-Call Work Solution That Automates Documentation and Call Classification"
     excerpt: "The companies will partner to accelerate adoption of BirchAI's next generation call center automation solution, Birch Assist SEATTLE, WA, July 25, 2022 /24-7PressRelease/ -- BirchAI today announced its partnership with Verint® (NASDAQ: VRNT),"
     publishedDateTime: 2022-07-25T07:00:00Z
