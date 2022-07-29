@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ksby.com/news/local-news/facial-recognition-software-hel
 cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: KSBY 6
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
         width: 2048
         height: 1536
-        isCached: true
-  - title: "Lawmakers seek limits on facial recognition"
-    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
-    publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
         isCached: true
 
 secured: "AdLq6r0VOI1xpY0tC7AP8ASqOm6nutSGMsEyh5tvvj/lkgatPA+5o5UDBb1jFV1AwKum6vJOBUX5Y3MtnczkN3czdxqRMS/AWHsXOZZCN3k5FWLcZLl5Sd4qYWxmKZBTCRDQoVxrEIl2mOXyBAB6+2QC7ZWN0LtlbKCfKQNa013mi2HtoWCi6nJj/VGvq1lmE6Lx+l7bcUQlOSQ8iIPrjcgBK2CGdgFQCzkLGtdvXfLJuFDnOgLFSIS8qNBnMJd7hCt9sLPZA/D+OOrPZ9SBp4pYLrKFDubqZjsD84zvEycMFBif5WSV+aymp9DyD4jcI+oY5ZWvgxcqcdMtVg9uR16f0CCmfEsukTGzLJTvc2puTwh3JUAK/Ta6a+zzgO3n8YvhB+rL7R2ElOpQUp8hkPw63GNuX1SJTcqA8WURwUji3tkRGKy7eM4tJS2/MKSNWdEhL7m1QMwcbKfmjJMMHIIl0SrA2x/L6VA+h52ytYQCTi6mSgAVDXmKg/JIRNl4ZV+ttpYHm9a6RXJoG7BAkA==;ryQ77+DkQ3sp1WpBEBRaoQ=="

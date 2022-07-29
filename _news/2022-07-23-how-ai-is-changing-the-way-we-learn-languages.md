@@ -5,6 +5,8 @@ excerpt: "There are some exciting developments happening in the AI voice recogni
 publishedDateTime: 2022-07-23T13:40:00Z
 originalUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/"
 webUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/"
+ampWebUrl: "https://venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-ai-is-changing-the-way-we-learn-languages/amp/"
 type: article
 quality: 47
 heat: 47
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all"
+    width: 1200
+    height: 608
+    isCached: true
 
 related:
   - title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
@@ -53,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "4JF5KlcZJJzkvzxIq1mNY+P42e513tvh8QgPsuGwit7Z7WzasbmI7CLRJn+bdWRFoUjuSuP6BLuDynu3+9ig/MdMTQfRqrN3Tk/dXSCAcC6QKp42bPQjSSWeKXUsovCWdsZ3KOb7dBLzrlmiW9RkfU8lholA8JWKMU8HfyJa068c4nIxma3/c673y2bOSmQwCoeFuCyUehrK7L6EWOfK+XAq3VHgFIN/zI29xfPT0CKZCQw6hDL0ilYP4qHdXgaOmDbkquT6W6sQi67vFG5ffuTHT+D9UmhDCM8E9z1ysg/zou5j1QpLLEVtA2fCVX5fG8S9nRQVU+RmDg7Zbuj2j503s8FZ22uDjMIQ8uInIAAFCua8fn5x0dgfEx4xIJIpFMdTYy1i4RPO/zK5qpPOO9EkOOGWxC+zvCOCM6PHPraaWu+inYf162mzJVbfDuh2DC2UaZqWprmpHA08AUYq8QsRA0Fhl9US2a1jvGBDIm/LvWFpcEiUK1G3i7mQgBCPYzRA+QppjD6DSHfVHzOymw==;hkwHRhwho8e9FMLeJDRJsg=="
+secured: "kuJfgeOWeH7QMwTyIVCZ2rZgA+kjy6LA3jilD7NlEAOJcmzVD2VS40Djqt9en+YK5vPMECaqTk/rriNxU3Sih3fSr34t0xeCaf0/qHY3O2ASynPbA0jJ3de7mDP9CoAfT/51sPcxmDO4Gpk23/WhftL7ZcgmFW3Yn6ohuA9GvxmxMsHWGAlk+tcBq8P++uXlHH/Bu7xn5jzg6k0qmcQPP4mBzFhcIq33tKWBUoqKd/y901zZ6OF4JBP0yTET5Tqf8f08l/oW2Fd4ahNfDvYJUR0gQn/1jDsAXAuX4j0E2qG6ln5ZQaYQxXPQhYaNtY4re2NkcBjcVU8hyW+QqyJ628bG0UmXdnTCq5sLuy/cda0=;e0+wzopeeqsiLKKbsaExlA=="
 ---
 

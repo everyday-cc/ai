@@ -2,6 +2,49 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
+      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
+      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
+      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "width": 600,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
       "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
       "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
@@ -1025,50 +1068,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-fortindr-adds-network-detection-response-to-fortinet-security-fabric.md",
-      "title": "FortiNDR adds network detection, response to Fortinet Security Fabric",
-      "excerpt": "FortiNDR accelerates threat detection with artificial intelligence With the ... virtual security analyst (VSA), which employs deep neural networks – the next-generation of AI – and is designed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKqYQ6ENqb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jHrWB3nT2F4uggbnMwTC5aZ8MujuCdU93936VZkzwCmqLVQAWomcfxZA1c2nBgNpk9KZQ97FgdoFwokqttxbUTw=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/6GxRKqYQ6ENqb3Wj",
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
+      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
+      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
       "title": "WATCH: AI objectives increasingly involve marketing",
       "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
@@ -1120,49 +1154,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
-      "title": "How to quickly deploy TinyML on MCUs",
-      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
-          "width": 470,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-15-optical-illusions-could-help-us-build-the-next-generation-of-ai.md",
+      "title": "Optical illusions could help us build the next generation of AI",
+      "excerpt": "It sounds a bit like a word game, but that is it in a nutshell.” So what does this have to do with computer vision? Potentially everything. In order for a robot, for instance, to be able to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "originalUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/machine-vision-featured-image.jpg?p=1",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/bettering-machine-vision-ai-falling-for-optical-illusions/?amp",
+      "publishedDateTime": "2022-07-15T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
       "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
       "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
@@ -47,19 +99,19 @@
     {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
+      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -72,8 +124,8 @@
       "publishedDateTime": "2022-07-15T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -83,9 +135,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1029,51 +1081,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation.md",
-      "title": "Google Open-Sources Its TensorFlow GNN Framework to Encourage Graph Neural Network Productization and Experimentation",
-      "excerpt": "Graph Neural Networks (GNNs) that operate on graph-based data bring multimodal capabilities to machine learning models and have practical applications in areas as diverse as the modelling of physics systems,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "originalUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/14/google-open-sources-its-tensorflow-gnn-framework-to-encourage-graph-neural-network-productization-and-experimentation/amp/",
-      "publishedDateTime": "2022-07-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

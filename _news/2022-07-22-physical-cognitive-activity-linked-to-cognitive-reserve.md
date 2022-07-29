@@ -3,26 +3,26 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.html"
-webUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.html"
-ampWebUrl: "https://lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.amp.html"
-cdnAmpWebUrl: "https://lebanon--express-com.cdn.ampproject.org/c/s/lebanon-express.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_eacb500f-3b1c-51f6-af16-8ab09d4b26c9.amp.html"
+originalUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.html"
+webUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.html"
+ampWebUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.amp.html"
+cdnAmpWebUrl: "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.amp.html"
 type: article
 
 provider:
-  name: Lebanon Express
-  domain: lebanon-express.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/lebanon-express.com/content/tncms/assets/v3/editorial/f/99/f99b85c9-1f14-5e29-8fd2-ca907aa89281/62dad7e707828.image.jpg"
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/4/1c/41c5d89a-6ff2-5add-89f5-2a462e3063bd/62dad79ebe4e1.image.jpg"
     width: 600
     height: 466
     isCached: true
 
-secured: "EBP/NmxF07tzuvjB/nuCYGDJ25qCw3Ppd0/wP2jtovziZxLbPef6m5AzdOs5nKSTBaH4fULjkvqWXbTI1TonAqxOqEHRXiNVbNawSSM9Lw+HBOkvJvLmQsvcGS/xUL1KzA63i8ftx/Oa8jDh3OMO6IGMZpmekmSJVeRnxRiD8DO8KxH2RvgVoph7L3LtC01FdF/gH8Eh+2U/5svlbUGCadU7jekfHgahsfhMgC2MyS5pcZT/iNXDs9/qroCELE/lJfYSPFrJyjsnUZV/EBfEphdzOHrnzorn0M7vAROrK7Ij6aDwObXNrMBwGcOP3v6sTQy1hYbzAPvKcoTR4cfYbz6hL1yvMoQ/hlXHkjnC60H2NBLuVnKvyiXGTGmw/5YocAjKjvQy8TARdZDGePl3bZjqrAN9P6/ywz5OJQp9t3J+XKDXFXgOxsgXni/BiefNS3b0vxmZ/BPnRo2x2zO8aWJlI2ywYgPZ5xyjUNKCVhPnHd5o2SJoouocgUq2FMLqMQ08rpLs2unRQfCZPWA/+w==;zFJgO0286/Roq3gIJsT96Q=="
+secured: "MiWdgrGlCEcUg4jk3hdAEVASBJVHBOVEv1+b/1r579czBsFLE7mCzwm/2SGU0vq/Do9dorozhBxaOmVWOcZK36BHWcb2VL8CdaVrnEAEwyiuUwMHTKJvN175JkXEUE+wiQtJ8eOZgGpErKRLe9PWSihKFIRFBnZY06wWCnUzO0mus+7igAs0L3jhOmqYe/8o3Zhwk/OrYNmFMg8LVPnDIMj2whx3sNCxnlkISDIlKSs3LHyBHfm6Xsv0CUFRrWXUgaTvYiEllMKR59VYKvI0e1nMRDu7N39RqzdHrBUnijNddFS3pJ6x5GBZstCpePFB7TySBWKyMRG3a8ovdtgsNJCSeH8/qyVKaStVaVlxZME=;72y3ZN1d2N8p2lM+mXT4YA=="
 ---
 

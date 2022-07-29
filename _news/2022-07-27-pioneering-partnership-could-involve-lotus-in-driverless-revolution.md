@@ -33,7 +33,12 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 16
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "yibZTuJImXOPTIWMA8+yrJQ2yaQb7GQHRSZL7a/VdHa0kGRexHdzeLWSKbMkKdGrwnTOg51uTox079CX6NXkU6KczGl3rkqI1VeB/kvdyo2T2kEC1g0l0viBLc5/VgUde8tMLwim2RK/1MMVMjVlhzzI8AIrGmpBlaJ8mIDApjFieJ5GvIMefMWiL0+2nfOfeo51CGIEEfCtlHuCNrGwez/js0+pErjvq2FM1CKW6q92a56uQgxzUcEIL3/MAMe1WyuzrFdRZg+/OQym/ue0mzRo5tXmM8qeLyI+Nir4ydrdjLNE6Enz0qn+pgqYHcri9T0F0Pygaah8hHO58hXEmUzCxk0jlM26CFdvE2X20pMospgx3kLKFzaxYRKws5/2x3gIcpiI3v70Nr5KVZSZXQ5KoUyi1a9IntDVWYbsrTbqAMh1oYyWHJMp1dxyppdAwO2q6lZFb83pIqkVlFsG6uygCN59jmeVu0aoDuqcQNGzEwB4q1o+hb8hmSGAwE+CK/nA4YLXbVGCuyjyAyIg3g==;7qSdLYOUUFBis4kcMADy9w=="
 ---

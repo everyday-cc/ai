@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -160,6 +160,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.1244%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_40%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/94c14cb850cffd990beaeee1b631238fbca1b380"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Editorial: Place privacy restrictions on use of facial recognition software"
+    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
+    publishedDateTime: 2022-07-28T09:00:00Z
+    webUrl: "https://www.newburyportnews.com/opinion/editorial-place-privacy-restrictions-on-use-of-facial-recognition-software/article_4349b4bc-084a-5b53-85f9-13e0841d0b18.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Our View: Place privacy restrictions on use of facial recognition software"
     excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"

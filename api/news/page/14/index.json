@@ -2,6 +2,41 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-07-13-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "If you’re looking into buying a robot vacuum, you will no doubt have noticed some of the latest features on offer too, such as self-emptying bases and object recognition. Bear in mind that these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-amazon-gave-ring-videos-to-police-without-owners-permission.md",
       "title": "Amazon gave Ring videos to police without owners’ permission",
       "excerpt": "Amazon handed Ring video doorbell footage to ... after its facial recognition service Rekognition falsely associated 28 members of Congress with criminal mugshots in 2018 and how its Echo Dot ...",
@@ -1059,40 +1094,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
-      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
-      "originalUrl": "https://www.nrtoday.com/ap/aws-announces-general-availability-of-three-new-serverless-analytics-offerings/article_5ab5d774-74c7-5fa8-acd2-f5b8f0456ec9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Review Today",
-        "domain": "nrtoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

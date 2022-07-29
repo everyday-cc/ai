@@ -243,6 +243,93 @@
       ]
     },
     {
+      "path": "_news/2022-07-27-how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.md",
+      "title": "How a CIO’s approach to cloud, AI and ML is transforming Nigeria’s Dangote Industries",
+      "excerpt": "Prasanna Burri, group CIO for Nigerian multinational industrial conglomerate Dangote Industries, explains how the company’s IT arm evolved to adopt a 95% cloud strategy over the business, and how artificial intelligence (AI) and machine learning (ML) boost projects across the group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
+      "originalUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/07/circuit-board_silhouette_with_mind_gears_machine_learning_artificial_intelligence_automation_by_thinkstock_1200x800-100819410-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
+      "publishedDateTime": "2022-07-27T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv.md",
+      "title": "Southern Co-Op faces legal complaint over facial recognition CCTV",
+      "excerpt": "Southern Co-Op is facing a legal challenge after a privacy rights group filed a complaint that its use of live facial recognition cameras is “unlawful”. Big Brother Watch claims that the group uses biometric cameras which are “infringing the data rights of a significant number of UK data subjects”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "originalUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://497959.smushcdn.com/855165/wp-content/uploads/2022/01/supermarket-949913_1920-e1641895539108-390x220.jpg?lossy=1&strip=1&webp=1",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "cdnAmpWebUrl": "https://www-retailsector-co-uk.cdn.ampproject.org/c/s/www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "publishedDateTime": "2022-07-27T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailsector",
+        "domain": "retailsector.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-ondas-holdings-american-robotics-to-add-new-artificial-intelligence-anomaly-detection-capabilities-to-its-scout-system.md",
       "title": "Ondas Holdings’ American Robotics to Add New Artificial Intelligence Anomaly Detection Capabilities to its Scout System",
       "excerpt": "Ondas Holdings Inc. (Nasdaq:ONDS), a leading provider of private wireless data, drone and automated data solutions through its wholly owned subsidiaries, Ondas Networks Inc. and American Robotics, Inc.",
@@ -325,49 +412,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
-      "title": "Facial recognition software helps reunite lost or missing pets",
-      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "publishedDateTime": "2022-07-26T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -878,58 +922,6 @@
         "name": "Protocol",
         "domain": "protocol.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group.md",
-      "title": "Facial recognition cameras in UK retail chain challenged by privacy group",
-      "excerpt": "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1",
-      "originalUrl": "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group",
-      "publishedDateTime": "2022-07-26T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

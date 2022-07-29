@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-06-29-microsoft-certification-guide-overview-and-career-paths.md",
+      "title": "Microsoft Certification Guide: Overview and Career Paths",
+      "excerpt": "Machine Learning, BI Reporting, or Data Engineering with Azure. One additional exam from a list of 13 possibilities must be passed to earn this credential. Topics covered include cloud data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080433/1554238491.png",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-microsoft-drives-financial-inclusion-with-ai-at-bootcamp.md",
       "title": "Microsoft Drives Financial Inclusion with AI at BootCamp",
       "excerpt": "natural language processing and cognitive computing – has huge implications for the financial services industry in Nigeria. According to Microsoft Nigeria Country Manager, Mr. Akin Banuso ...",
@@ -1057,48 +1100,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-worldwide-artificial-intelligence-ai-in-drug-discovery-market-to-reach-40-billion-by-2027-at-a-cagr-of-457-researchandmarketscom.md",
-      "title": "Worldwide Artificial Intelligence (AI) in Drug Discovery Market to reach $ 4.0 billion by 2027 at a CAGR of 45.7% - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence (AI) in Drug Discovery Market by Component (Software, Service), Technology (ML, DL), Application (Neurodegenerative Diseases, Immuno-Oncology, CVD), End User (Pharmaceutical & Biotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-artificial-intelligence-biotechnology-160535d3292a437fa156f28babf9135f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T03:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

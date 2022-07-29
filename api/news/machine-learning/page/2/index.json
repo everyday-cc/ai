@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
+      "title": "AI Art Is Challenging the Boundaries of Curation",
+      "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62d2250c07bc72ded076e64b/master/pass/AI%20Art%20Is%20Challenging%20the%20Boundaries%20of%20Curation.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/dalle-art-curation-artificial-intelligence/amp",
+      "publishedDateTime": "2022-07-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-07-17-machine-learning-and-marketing-analytics.md",
       "title": "Machine learning and marketing analytics",
       "excerpt": "Dr Surabhi Singh has an experience of around 20 years in academics and industry. Being an ardent researcher, her areas of academic interest include Digital Marketing, Consumer Behaviour, Marketing ...",
@@ -186,19 +239,19 @@
     {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
+      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -211,8 +264,8 @@
       "publishedDateTime": "2022-07-15T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -222,9 +275,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1285,49 +1338,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-kdd-2022-announces-special-conference-tracks-for-government-health-deep-learning-diversity-and-inclusion.md",
-      "title": "KDD 2022 Announces Special Conference Tracks for Government, Health, Deep Learning, Diversity and Inclusion",
-      "excerpt": "KDD 2022, the premier interdisciplinary conference in data science, today announced special days dedicated to health, government, deep learning, and equity, diversity and inclusion (EDI). Taking place between Aug.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-kdd-2022-announces-special-conference-tracks-government-health-/2022/07/07/9635238.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/890716/KDD_Logo.jpg",
-          "width": 400,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

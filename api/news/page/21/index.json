@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-07-07-ecovacs-robotics-introduces-enhanced-ai-technology-for-intelligent-floor-cleaning-with-launch-of-deebot-t10-in-malaysia.md",
+      "title": "ECOVACS ROBOTICS Introduces Enhanced AI Technology for Intelligent Floor Cleaning with Launch of DEEBOT T10 in Malaysia",
+      "excerpt": "The new DEEBOT combines next-generation technologies, such as AIVI 3.0 Upgraded AI-based Object Recognition and Avoidance technology, that offer tech-savvy households unique advantages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
+      "originalUrl": "https://www.asiaone.com/business/ecovacs-robotics-introduces-enhanced-ai-technology-intelligent-floor-cleaning-launch-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/EC4.jpg?h=bde28bee&itok=gmu7FuV3",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-meta-claims-breakthrough-in-superpower-ai-translation-as-it-interprets-more-than-200-languages.md",
       "title": "Meta claims breakthrough in 'superpower' AI translation as it interprets more than 200 languages",
       "excerpt": "A new paper from artificial intelligence researchers at Facebook's parent company Meta ... this model and retrain it on their own, fostering research in that area.\" \"So yeah, I think it is a ...",
@@ -1117,40 +1161,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
-      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
-      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
-      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
