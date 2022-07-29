@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
-    width: 860
-    height: 484
-    isCached: true
-
-secured: "PY9qzm8uNSBau50gco9o0ecXfst9DQygLKxx7bGaWcJ5IrMLGIUQi7/l0R8EP32oaGageAkObjNhJS8vrnAiH5CNM1y356yK0+m5nPzXaKbVFF48UYZfNTp4cVoPnnrIt14+C/Fdgp30GMwZZ4XJtIUqYkMsPQ5Cl19vOsWpZUI3koA7c9ErqNAHiwgsihfyxaFu2QHVQ20ka3hY6mYUFsYrJ9RL9GSbuiLCpFMTirJyS29CrYLo1ybiKDrw/k5ZC4eGJohQPdYrlISEh/iChFGLuxv84kBPrglAswqMoevJ1ZmnghOb5wUWHxa3Gry/8IM8PzhmZIYOKpzhnRmdZvRdKORxqUQjhQkUsy/LXLI=;pgbX7W/RDdO9H4bXN9gfPw=="
+secured: "5V3TwxXEHGHGl9jh+J2EJptGrjw9/AJK1vk0PaYn+WcuXmvqPc1soXZ9Linp4zNewpeZTzXu/wgwy05eAQ43d0wf+IFr96xEjDYw0WSrBXMlk4K9YGdI6vSPG9Ah0EAvjmw73wmLsUsFqb//YOyz/oIhkiCE76yVkgJtUBECv6a86qSZHwmoGZjMcLGKGx+wazKt0DHzPJzpGm1y9KL2IJXX4CjyHW3fnOXYg4uGA7q92JgIHb5xXevswoSzQiTXtoGi2SUL7lZ0JYqRjcZcKkSV+GaUYlmWmbp6PCOIGm2o8djtcPU/lO6uM4LHAC7q/8hC7CLrD3XDR7uz+ahpzLDbz3tIPp3fCLTd6mIDHlA=;/8UFwqHgQQP6kMtauRdUHg=="
 ---
 

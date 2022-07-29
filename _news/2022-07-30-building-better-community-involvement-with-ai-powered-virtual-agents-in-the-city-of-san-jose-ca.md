@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.nextgov.com/media/img/cd/2022/07/26/iStock_1301787558-1/open-graph.jpg"

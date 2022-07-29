@@ -6,9 +6,6 @@ publishedDateTime: 2022-07-28T01:23:00Z
 originalUrl: "https://fox4kc.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
 webUrl: "https://fox4kc.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
 type: article
-quality: 7
-heat: -1
-published: false
 
 provider:
   name: FOX4 Kansas City
@@ -18,53 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
-    width: 400
-    height: 206
-    isCached: true
-
-related:
-  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, is announcing future Total IT Solutions for availability with Android Cloud Gaming and Media Processing & Delivery."
-    publishedDateTime: 2022-07-28T05:45:00Z
-    webUrl: "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 25
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/sanjosecali2807.jpg"
-        width: 400
-        height: 206
-        isCached: true
-  - title: "Super Micro Computer, Inc.: Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New"
-    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -- Over 540 1080p @60Hz"
-    publishedDateTime: 2022-07-28T01:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56660678-super-micro-computer-inc-announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-a-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
-        width: 400
-        height: 206
-        isCached: true
-  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding and media delivery, the Supermicro BigTwin system with up to eight Intel Data Center GPUs,"
-    publishedDateTime: 2022-07-28T17:57:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20220728/3967473.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-
-secured: "U0NbWjLU70qS2dhz+htjh/dcgwMmfxNqfHc3tSOplpy+2MYiRbSQgMb34Y0030VI95HahtLzglyK6HhDyfO67L75Pqfqb1RgN2eMkjYM2/y6Sf2a3LxuMljd094ptXtrMPKPLhTq0gYdnjsEmyHq4vV0kQyoI6JihWuqqyAIqciDw/rV5HsryN/Ms8jLgBPzJbFOvn/+oOIOhnrXyzo4wg2skOC207zqjwDNCTcZDkd699AAtVAa5zmjVhQbm01HY7QWD+GbBnup1GHqT8IIsHDYQw+7XMZYtEhK0s9GkcDSHihq0lJ8a1jCV3Uxi0PyYeZkCS9AOVH7Z0Re2WY/bk67i13J4egQS0uFQqEYG1A=;AgfGnD1NVHmKSiUm4vPYJQ=="
+secured: "ypaGk09fr6othrdFfzKW3szNTyDWA8Zp+OPwlmA9ykNaDlX52G1DH5DM+XxSaJlMGBRshR1VWgQ97BNE/qg59jgtDU3iJaPc6/0L0vNsq8A9n38kPdm7+HwhtjQXXQag4q7UTEzKEauONWcXn6Onaph+aT6VtbS+huH3p6cMfHT21F1RE0Qq47FLh4YZxHdUIzAfy8dpW1z/iQBKZpLMYvxjc4TGFsxeBMUnyZDuKJhrCQZq4OFDT8KToWQrMro+GjBX1rJpepNU6+OYjaloE58digFHPJHdUBM1GzmLUzGT9YcqJkz7Dl76lGeqaEWacbC58ZUNuuiSvdGUIPjOd+nFRP5AlDC3fFU/lHBAgb0=;hh/n2Cd2lpfcAWFD8Vf//w=="
 ---
 
