@@ -38,20 +38,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Five alternatives to using AI in the recruitment process"
-    excerpt: "AI can highlight recruitment keywords, but it can’t read between the lines or recognise talented people who may not have on-target resumes."
-    publishedDateTime: 2022-07-25T00:37:00Z
-    webUrl: "https://www.smartcompany.com.au/plus/ai-artificial-intelligence-recruitment-alternatives/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 37
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/07/recruitment-ai.jpg"
-        width: 733
-        height: 358
-        isCached: true
   - title: "An AI-driven physicist may have uncovered a new form of physics"
     excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
     publishedDateTime: 2022-07-29T13:41:00Z

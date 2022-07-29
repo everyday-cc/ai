@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
-excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
-publishedDateTime: 2022-07-28T08:41:00Z
-originalUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
-webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
+title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
+excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
+publishedDateTime: 2022-07-28T09:50:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
+webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
 type: article
-quality: 39
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: 中国日报网
+  domain: chinadaily.com.cn
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
-    width: 800
-    height: 524
+  - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
+    width: 625
+    height: 416
     isCached: true
 
 related:
@@ -41,19 +41,19 @@ related:
         width: 1024
         height: 592
         isCached: true
-  - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
-    excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
-    publishedDateTime: 2022-07-28T09:50:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
+  - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
+    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
+    publishedDateTime: 2022-07-28T08:41:00Z
+    webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 35
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
-        width: 625
-        height: 416
+      - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
+        width: 800
+        height: 524
         isCached: true
   - title: "China's Sany teams up with self-driving venture Pony in robotrucks"
     excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cmQn9yyzZBRg/3cAF6U/tJTk/JsPdpOYmGtejkJyc3VaEySwJaUoMCYe+1pS5WN/kW8QBRIBnPqmeUaHNiDeNkWQvdrqRY4DXNHyVo0cBZ3m937ndDFmgHQj7Ghhx/JIq4s+rC+yo0annZWeRmfN9nNd9QiLlNyakKtObAcz0NTZxVQeV2RJQUoFQprzBqiDOUgEn7xy/eBd//EQdhoffaL1iQ7htdmrKPfe+30oJkXgYueCTcX977d/pehCRn5BhMLU8Sb3EiW4oLaSQKs5k1V45Y20jyb4x8rYlUsPSqHR1uHzBgfASHZo+GgAEo6rX9PTdbs9YTXMcp7YEHjYTxuyyAxrev5HLCK1PEkszkQ6z3TmqQzewQTg+7DePWnfwexKH3VCDZhe5OZUGOfeTBZ22FAKVXOrH72M6Js6LZqY+5cKfiZQwYr+KmF7lJmlHRZo8XoYegeiUsnxGLaouQuvl8kTTVm7SnOKNMKNcJekdTmBEKFgsLRZqvZKq4yunnxhk3LWhLr3T2Tf/Hsgig==;8uzMtGucy0R2Fji2zs5FGw=="
+secured: "kmYKjb0zFY9xFdEcrS+kiphznLd70syjlyKU9+mqhpD+gqBefcT7rcpfxvivr51FSCWNKorKpfMlOezKWgnVcZJbJ6R+LPfSEr8G4VIrvr2W864ros+gaaUz8oSRlvlYWxV7vygZow2uIADXZ67CUhA3qPU/EpxX/Yhc2n2bua1E0OETiWIf+F3yyFUn8h67dbT1w0CgGYu/QFcNtMoW9qxDb2NEjlgsCjKP/GNzvNXOOYWurST2V8vjitIROuX+Hw4adLHvOE5PERNhUg1g3nXpq666JdlwxkbLhGp0CC9Og0Ij6BAwyaYPxpKXEp6t10l1XUR8ssbZTnF3ItnvUlNSlJk6JzK62AodiHzh8nQ=;wDuSiBh4wEpHjb3P8ZEhpA=="
 ---
 

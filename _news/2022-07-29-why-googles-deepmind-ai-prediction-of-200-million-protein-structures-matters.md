@@ -1,29 +1,33 @@
 ---
 category: news
-title: "AlphaFold predicts structure of almost every catalogued protein known to science"
-excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
-publishedDateTime: 2022-07-28T14:49:00Z
-originalUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
-webUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
-ampWebUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+title: "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters"
+excerpt: "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
+publishedDateTime: 2022-07-29T16:34:00Z
+originalUrl: "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+webUrl: "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
 type: article
-quality: 39
+quality: 101
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/alphafold-predicts-str.jpg"
-    width: 1000
-    height: 600
+  - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://images.wsj.net/im-593405/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters"
-    excerpt: "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
-    publishedDateTime: 2022-07-29T16:34:00Z
-    webUrl: "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
     excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."
@@ -252,6 +240,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
+    excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
+    publishedDateTime: 2022-07-28T14:49:00Z
+    webUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
+    ampWebUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/alphafold-predicts-str.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
     excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-29T08:43:00Z
@@ -376,6 +380,6 @@ related:
       domain: euronews.com
     quality: 14
 
-secured: "GPB5OKResidR8s62WyVIBmNmu6qsxmWF5SQu+K20+sN/L+Cx9U8eDAfJYY36qcQCcv4aM7B1FIWNDB49aL/6lyGIsyNnaphr7DB1X6zZnHgYHCXZbouiwc7bd61fikeQ7T6jKFvDtLNW0gfs4S8ucIlFiKx54d3v1oZ3Dbo0OWNI4Vb+nh9KcGrO3VmrigsC0PkE58H9rnQlcGBUY9+Va9SIOJtRxvz8H58gWXzsjklSaqQoZZdCypFvtQ5QwwlVE6oSLSyp5U+2JKjibQUdrS7vJLqKxRr3qL+TCnl7Vb6ayO7TFgiUbyX5tcUPbE2UKki7Rh9/TSxYeTMOwPCVylvkkz/MTuetb9CVZWCjwLI=;L1mdp9RvusCsik66NpyRqQ=="
+secured: "w/kupJzsh2SFwISfZJpoOSj6Azk9v3E+c3SA8RKfw6LoIwvEcV/h/firSReSIVRVqCZeBMrsvbHmIJ7ygABJNekzO5GdVAXNAnNzq90y4PXe/kDoC38S86M6ZBR0b8utps2Qn/h4/vOnzY47770MV2RH7bPA2gFY53JFU6K+myKEcBOAV7PbH85uRnZqWc+JIwHVdMyu1q2guoOTA7ZN/2b0xHLMhHDHXrypyQY3+AApA3IT1gkAjeiVD8c6hGhJ9VSGIUv6zBwGSIgHVBPJwwJTaWOOJ3iaVAhI41JVOeCtwIDcZM98hvmTwRI2FgIT7n+vY71G061508yb5CrOwFX6l02/jkYQjjQIBjW5YYo=;OQPh3LKEmKXzEgVGFzPFKQ=="
 ---
 

@@ -132,35 +132,35 @@
     },
     {
       "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million ...",
+      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
+      "excerpt": "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
+      "webUrl": "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
+      "originalUrl": "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg",
+          "width": 860,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T08:24:00-07:00",
+      "publishedDateTime": "2022-07-14T09:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

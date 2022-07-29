@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Computer Vision Syndrome: How can you keep your eyes protected?"
-excerpt: "Do you sit in front of a screen at work for hours, then leave with a headache, sore, dry, blur­ry eyes and a painful neck? If so, wel­come to Com­put­er Vi­sion Syn­drome (CVS), a con­di ..."
-publishedDateTime: 2022-07-26T18:04:00Z
-originalUrl: "https://www.entornointeligente.com/computer-vision-syndrome-how-can-you-keep-your-eyes-protected/"
-webUrl: "https://www.entornointeligente.com/computer-vision-syndrome-how-can-you-keep-your-eyes-protected/"
-ampWebUrl: "https://www.entornointeligente.com/computer-vision-syndrome-how-can-you-keep-your-eyes-protected/"
-cdnAmpWebUrl: "https://www-entornointeligente-com.cdn.ampproject.org/c/s/www.entornointeligente.com/computer-vision-syndrome-how-can-you-keep-your-eyes-protected/"
+excerpt: "JavaScript is disabled in your web browser or browser is too old to support JavaScript. Today almost all web pages contain JavaScript, a scripting programming language that runs on visitor's web browser. It makes web pages functional for specific purposes ..."
+publishedDateTime: 2022-07-26T22:37:00Z
+originalUrl: "https://www.guardian.co.tt/article/computer-vision-syndrome-how-can-you-keep-your-eyes-protected-6.2.1524362.53767748bf"
+webUrl: "https://www.guardian.co.tt/article/computer-vision-syndrome-how-can-you-keep-your-eyes-protected-6.2.1524362.53767748bf"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Entorno Inteligente
-  domain: entornointeligente.com
+  name: guardian.co.tt
+  domain: guardian.co.tt
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://smart-reputation.com/wp-content/uploads/2018/09/logo_smart_transparente.png"
-    width: 402
-    height: 287
+  - url: "http://www.guardian.co.tt/image-3.3700279.200646.20220726172455.d9f2a687ef"
+    width: 1024
+    height: 503
     isCached: true
 
-secured: "0QAlNJ332BQ/bY6Ugb68h36hxTh55vyXCyudvqYeeprlDoZqmjHjVQtFI3a+Q9bzNBSWXDZwHem1iehf+4BORIqq9YM47bq04b6uXV4IcU8fCcdYEZjpY2mY4CZppEAqS3B+oKDVPjS2ctLfH+6nXH3/zlCxHEw6VeAVtZKhzJV6tH6QMMmnVRrD18M2aYi7cFQco9u5iGZxxFR7M7T1/5iCiD3s7Jn1Jyov027WLWdSUGqQHOguE+ctsVrpUjeSzblg6n6Ih7qCk3ZhNGBXkozSHHhMuQQ4EzPrhtyzHfyLESNk49ioO1XkhV2oxyR6P7dGfNk8Vi3XY/Py6YopH2TRuHVr50+ph7wu5HjagME=;Xjc89yShMUQxdS0NBPjxxA=="
+secured: "xGdE/PFap5ahB+0S/KSkPWQM8zgtPup8Lzp6Nab1DtDC/yDcZ4WIoz2AawdBKo4Vi8/QsZfdOQvoDrjVnFCNiI2Ypf9kBDqAXg50ZwqlOQ5C/9hG+crRrs0yd6LfgaU27GWHCOiCoGekAbGSDnF4YJBNhP2jEmib+rmOwrfkB5BfAFPB8q0/eVo9mRxSbKyhpyufZE3dbq/SU/62kv1YQau/KXgE4Z7eH/HiecGqGvhemW5G2RLw1km9zH9yb3oIxQQlTHShVWnLU4lm+EpJhjT8pVG4ZuQh66vm4oCVPaWXpNzR/xOoGR9KmISwIpB4EK/plSpG+EZvffeV2MPEVdIcNCLl8Wsze9Tk6HNnomY=;73PAF5tR1nWnRppd8RTL0w=="
 ---
 

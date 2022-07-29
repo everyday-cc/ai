@@ -64,20 +64,6 @@ related:
         width: 599
         height: 464
         isCached: true
-  - title: "Using AI to train teams of robots to work together"
-    excerpt: "University of Illinois Urbana-Champaign researchers developed a method to train multiple agents such as robots or drones to work together using multi-agent reinforcement learning, a type of artificial intelligence."
-    publishedDateTime: 2022-07-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959810"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17e6484d-f6d0-4d38-88c7-13e07baa66d5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 434
-        isCached: true
 
 secured: "XQo+ntMyYohipkYV3/w6y+4zhl6U2V1Utliv+JoBkibO5Ux7Zr2bAvP1zzsbJnrUxgWzuMbiRPhdQE2vJtF8uYF2XZMdOSjTzxoNcfbSyy5rPJT/iGk4bmpmD3kSrfHVjNCkFyZHOHMMAYINNk8zffIeCzkFQ+/kn2zUnGqpH9KYBSPJ0NNFPMNd6s6jPtxK+8EZ3Gg/L7g23TYBFaAjgnSK8V0vZKRrbRbFhGHhqSm7HjLD8PqmJ91VoS7/H2zj3AGDKGXREsK8WkCMnuglwvTrUztcPUBORMjlPIPGOeIqo2bBGxei2xZtlTT9+B0S8uLrbmIK5HpS11qSw5qK5/6vwMj89ke275r+4xzshrM=;/wJVf/yN+XfX/5yH/96l8w=="
 ---

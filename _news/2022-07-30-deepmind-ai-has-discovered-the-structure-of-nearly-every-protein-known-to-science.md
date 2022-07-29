@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AlphaFold predicts structure of almost every catalogued protein known to science"
-excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
-publishedDateTime: 2022-07-28T14:49:00Z
-originalUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
-webUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
-ampWebUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+title: "DeepMind AI has discovered the structure of nearly every protein known to science"
+excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
+publishedDateTime: 2022-07-29T17:23:00Z
+originalUrl: "https://www.livescience.com/alphafold-200-million-proteins"
+webUrl: "https://www.livescience.com/alphafold-200-million-proteins"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Live Science
+  domain: livescience.com
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/alphafold-predicts-str.jpg"
-    width: 1000
-    height: 600
+  - url: "https://cdn.mos.cms.futurecdn.net/53AezPLcASuSLquLmxy6Mk-1200-80.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -208,20 +206,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "DeepMind AI has discovered the structure of nearly every protein known to science"
-    excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
-    publishedDateTime: 2022-07-29T17:23:00Z
-    webUrl: "https://www.livescience.com/alphafold-200-million-proteins"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 49
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/53AezPLcASuSLquLmxy6Mk-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
     excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."
     publishedDateTime: 2022-07-25T15:28:00Z
@@ -251,6 +235,22 @@ related:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
+    excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
+    publishedDateTime: 2022-07-28T14:49:00Z
+    webUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
+    ampWebUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/alphafold-predicts-str.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
     excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
@@ -376,6 +376,6 @@ related:
       domain: euronews.com
     quality: 14
 
-secured: "GPB5OKResidR8s62WyVIBmNmu6qsxmWF5SQu+K20+sN/L+Cx9U8eDAfJYY36qcQCcv4aM7B1FIWNDB49aL/6lyGIsyNnaphr7DB1X6zZnHgYHCXZbouiwc7bd61fikeQ7T6jKFvDtLNW0gfs4S8ucIlFiKx54d3v1oZ3Dbo0OWNI4Vb+nh9KcGrO3VmrigsC0PkE58H9rnQlcGBUY9+Va9SIOJtRxvz8H58gWXzsjklSaqQoZZdCypFvtQ5QwwlVE6oSLSyp5U+2JKjibQUdrS7vJLqKxRr3qL+TCnl7Vb6ayO7TFgiUbyX5tcUPbE2UKki7Rh9/TSxYeTMOwPCVylvkkz/MTuetb9CVZWCjwLI=;L1mdp9RvusCsik66NpyRqQ=="
+secured: "8zunUhmKsKDqQB5dt75XKh4IfYeAyWLmrfFjzj6SS8GGERn/rEvkMPXFwYKhhFqcpAvAVklOLCROv6YsEQWIpdXoiFoV3fK34w9hkeWpVjSM0R9+q9dQqrsYrMjN7U709LEDVqm2C003tQ7/Bxfv4d1QctM0Ow/z8vukAXCxTDEUFWUaJCp46NLt+XSv5P87D+ZVp2AViCol61OSHY3rzx9VOANi9n+KOXwQ/V9tnLMR4XbmlaT+Mi6PNLGmlDGuZUNTasUWtEPqaneUK2NK8dIX8UIcapHh9pBoKgIgziP3biVW5nnedmmJ0xyLq//bTV7JTWvJBTheeYVVPCn1eyJ1rze02AJXat48Y5EIWrg=;bMqJoT5HFTuXGtGvumIkhQ=="
 ---
 

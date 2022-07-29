@@ -91,22 +91,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Chess-playing robot grabs and breaks finger of 7-year-old opponent"
-    excerpt: "A chess-playing robot grabbed and broke the finger of its 7-year-old opponent at a Moscow chess tournament. The incident occurred on July 19 after the young player moved too quickly in violation of safety regulations,"
-    publishedDateTime: 2022-07-24T23:25:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/chess-robot-breaks-finger-7-year-old-opponent?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 59
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/07f4f50/2147483647/strip/true/crop/1908x1080+0+0/resize/530x300!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fe6%2F41%2Fb6361b5647e8934b3a072100a987%2Fputin-thumb.jpg"
-        width: 530
-        height: 300
-        isCached: true
   - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
     excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
     publishedDateTime: 2022-07-27T12:00:00Z

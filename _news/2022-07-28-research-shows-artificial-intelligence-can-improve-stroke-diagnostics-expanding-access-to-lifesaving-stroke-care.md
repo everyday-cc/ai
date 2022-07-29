@@ -1,21 +1,30 @@
 ---
 category: news
 title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
-excerpt: "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
-publishedDateTime: 2022-07-28T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960135"
-webUrl: "https://www.eurekalert.org/news-releases/960135"
+excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
+publishedDateTime: 2022-07-28T16:37:00Z
+originalUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
+webUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
 type: article
-quality: 0
-heat: -1
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg"
+    width: 1920
+    height: 1354
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
@@ -32,7 +41,21 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "AI-based gaze deviation detection can aid in quick stroke diagnosis, expand access to lifesaving care"
+    excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
+    publishedDateTime: 2022-07-29T03:18:00Z
+    webUrl: "https://www.news-medical.net/news/20220728/AI-based-gaze-deviation-detection-can-aid-in-quick-stroke-diagnosis-expand-access-to-lifesaving-care.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 24
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
-secured: "QIN0CgB8sKO05lC71YCReKtUiFxcvmu0tACcMlH8ti4rg1kNswlaHylzmF23D8uInOGaQjpqJtgrg84HkyP/nKrl5fnakOGOFkqEMC6HnOlYABPQGiGu/8Wd/lI59HvlGwAN9zw8prOuAdSbElpM4VuIzQukXjl/DQrCqoT3hMiqjguj3KR4iJAiPCPK3GpmHJkN+sY002lTzKGmE9wGA3iiLfLJ7pRXWb3xPCJlspKvUB427R+54frMLRGruvvqPUeh4U5rQ0oavYZxo0a3vz8WMNmku2Ogd81/3e3aJoANferEffo8fOLik0RHTzINbY2VWYwZ+HOxLR2CiQ70jpLnYw4OZFGRtzRaqCOQXPk=;vilzsWk7mQWiR4zngjGEnw=="
+secured: "6XVBgQKczZuPi04EG4MQA5qbKgDlBlhm271HYrFN8N4qqBLilLtdNPRh5KlkrjDdK8j8Lih1Z/uPjErd/lZs3RziP+Lq2KNYnjzPJZJZNztToopthiXnuOQvqGiLDOoQWKHw5sWg/aG+xsm6G4uvDGL9tVxmmvqdbW4SeddWBYQviqiZoIUdxbYvFxQ2om5IkbaIrl8ArtwFdekcJwDy7amUIQ3xWKM8c9R6RoDg9eR5Cfomu2ClNIPbqdH9QLEcVuL2stTrBpbVvBghqXiVot38LWyHCuB/+sE2fmd8vOJBFHmDiGyRix0nehe/f9IONb5L2tv6VYwLOz0g50ZiCKfVuoLnq1PxOg2LQ+/oTPg=;uCiuM/syT7Crx2gISdURQQ=="
 ---
 

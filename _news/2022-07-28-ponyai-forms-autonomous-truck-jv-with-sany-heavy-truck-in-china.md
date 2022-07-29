@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,34 @@ related:
       - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
         width: 800
         height: 524
+        isCached: true
+  - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
+    excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
+    publishedDateTime: 2022-07-28T09:50:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 35
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
+        width: 625
+        height: 416
+        isCached: true
+  - title: "China's Sany teams up with self-driving venture Pony in robotrucks"
+    excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
+    publishedDateTime: 2022-07-29T16:23:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F2%252F0%252F41580262-4-eng-GB%252FCropped-1659104976photo_SXM2022072800007739.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
     excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."

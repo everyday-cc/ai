@@ -25,29 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies."
-    publishedDateTime: 2022-07-25T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm"
+  - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
+    excerpt: "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard"
+    publishedDateTime: 2022-07-27T11:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
+    excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
+    publishedDateTime: 2022-07-25T15:57:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 18
+  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
+    excerpt: "Insight stands at the forefront of modern manufacturing through the integration of manufacturing tools in Microsoft Azure - from smart devices to the cloud - that improve coordination, productivity and product quality."
+    publishedDateTime: 2022-07-25T17:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644377.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg"
-        width: 400
-        height: 260
-        isCached: true
-  - title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store providing applications, and services for use on Azure. Botminds' customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-07-25T14:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-botminds-document-ai-now-available-the-microsoft-azure-/2022/07/25/9644238.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 48
+    quality: 18
 
 secured: "/vXbKvdvSDIqeadN907/hkwB9tept6OgM9I9Ebc5+BVlsN7Bci2PcyBIYnbAydHy39qYJ3wLjn1Vg/g+AqboYKffC6gh5wGa9iG5W5XGD2tATDpWhW03dwQWCGqBpB3HKV/adoJr76poLDJBUvrcaE0LALVQtgtsVwj7Z9x62YGb8Gf+WljAI/K4AbK2D8Pa54KFE8VsyCkBqBiKFtR4DZQNDkX4A2xoanlIRIy6F1SiLWinpeB7SL3bYH47Sk6EcqU8ZY7EoKDRdOmYxEMP4c5NY9JmOltdlSzUIq1afwsNeIKivTkHQNnL9NnNxbWOgXxhYGue0lJGsbSv0CYr1V2NKyL5UK1vZzbN5/vc7S9Xe60wBNxHy9bA+2vCwTguewRjZKZZ+RML7up9/FjHPq3N2eGGzwK9eifBELwNXPYjleR5PtM1S31Z3hIEBX3H8TtVQHitUa/0Iqo4cxyUMKge+OtCW5TEFvRW5uzg0jzuQY3FcBLM5XSulBHmqh1liF6rkEsbopGcBV52x2xOfA==;2FrL42K6WdaYsyIg1/KN6g=="
 ---

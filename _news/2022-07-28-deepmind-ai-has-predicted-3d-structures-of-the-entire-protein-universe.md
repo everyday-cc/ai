@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters"
+    excerpt: "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
+    publishedDateTime: 2022-07-29T16:34:00Z
+    webUrl: "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 101
+    images:
+      - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
     excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."
     publishedDateTime: 2022-07-28T20:20:00Z
@@ -50,6 +66,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 79
+  - title: "DeepMind research cracks structure of almost every known protein"
+    excerpt: "The research was done by London-based AI company DeepMind—owned by Google parent Alphabet—which used its AlphaFold algorithm to build the most complete and accurate database yet of the more than 200mn known proteins."
+    publishedDateTime: 2022-07-29T17:01:00Z
+    webUrl: "https://arstechnica.com/science/2022/07/deepmind-research-cracks-structure-of-almost-every-known-protein/?amp;amp;amp="
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/Screenshot-2022-07-29-at-09-42-46-DeepMind-research-cracks-structure-of-almost-every-known-protein-694x380.png"
+        width: 694
+        height: 380
+        isCached: true
   - title: "Google's DeepMind AI Solves 3D Structures of the 'Entire Protein Universe'"
     excerpt: "This breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
     publishedDateTime: 2022-07-28T19:15:00Z
@@ -164,6 +194,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/07/29105126/SEI_116909091.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "DeepMind AI has discovered the structure of nearly every protein known to science"
+    excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
+    publishedDateTime: 2022-07-29T17:23:00Z
+    webUrl: "https://www.livescience.com/alphafold-200-million-proteins"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 49
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/53AezPLcASuSLquLmxy6Mk-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
     excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."

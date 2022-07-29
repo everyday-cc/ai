@@ -55,6 +55,34 @@ related:
         width: 800
         height: 524
         isCached: true
+  - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
+    excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
+    publishedDateTime: 2022-07-28T09:50:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 35
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
+        width: 625
+        height: 416
+        isCached: true
+  - title: "China's Sany teams up with self-driving venture Pony in robotrucks"
+    excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
+    publishedDateTime: 2022-07-29T16:23:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F2%252F0%252F41580262-4-eng-GB%252FCropped-1659104976photo_SXM2022072800007739.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "eINZVaXhQnIqQbQs6uQOYEXlVl473GdngOs7QdaNMJ/3hpcyaE5XpJ/2u9EhbYOjgWluuQp1TItQJwvr9jV+RVuuqku4tYbFZorC5X3W1lDt4OiLNVh/9B+yeCIRH23h5ALMKZLOphBo9fKZG0OSSAFZfMLYDki9yh+FLD6WYDYJNbrJ2fUKO7DID1Eld0DWvyn2zw0YSz7rPNeIEToZmfFp9QWQjCJX3NxYGf/sPsr9TEQFOW6SsK+hqppcI7FLvYiqcFTQ/meQLzhU5zUrJSYAOz364Q9M9EZIFkKiHZtohjPK5D09U48fSLfVmsHjPP6Goi9o7geAIlnpUtneClQn3P2wgyKTJL93UvSGPB7/5pNfsNgzJ2+fvawWcdiXGmNeCA8EEo0BJPAlsUwZXMXFE27JYZ6yOwM0Vhchv54GFGpy1L8ff5lVb9s2IkNGueOHQ7M9F8n5D3Pjg7l4mnKhSRpHYF+0yLqd/gI9eSek86KJ28tOxu05ns+ug+kaDkPPg8Rte26Eixe0/LD5hw==;+GBeLJEuidDUu+Jy1HIe4Q=="
 ---

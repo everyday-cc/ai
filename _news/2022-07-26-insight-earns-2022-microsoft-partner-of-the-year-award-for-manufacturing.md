@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "Telstra deal accelerates Microsoft Azure cloud"
+    excerpt: "Teams collaboration sessions will be smoother and Azure cloud applications will run faster, Microsoft has promised as the ink dried on a five-year agreement with Telstra that marks the latest stage in cloud providers’ Australian land grab."
+    publishedDateTime: 2022-07-28T03:58:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/telstra-deal-accelerates-microsoft-azure-cloud.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 54
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/microsoft%20telstra.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
     excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
     publishedDateTime: 2022-07-25T15:57:00Z

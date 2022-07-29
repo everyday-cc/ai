@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
-excerpt: "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ..."
+excerpt: "Iolite release introduces powerful new features to Kanverse AP invoice automation product for enterprises. AP teams can now extract invoice data from Microsoft Excel documents with the same 99.5% extraction accuracy."
 publishedDateTime: 2022-07-26T16:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44"
-webUrl: "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products"
@@ -35,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "Bo5wPibzl3aG0l9VzCV32WRGbDcZCnaON+ba9SnIlwItipPMzX6UX1nQaZQTwDlfyZSiQEaju9zuFb3eiJ/E1QDD/iHT2PBf/Ouep3kzzjEVL9TeFaxdLzj/f14WreYSWvTnWb17I1Jd5HcUpMcdnfCkv+P6z6ucCOsxj+RDBXebxlb5Prx45OczX1h0eNsuOgU/tFJzg71xks9CTkZugZe8ZijgcOaruzoj7EVGfqJBSd6Sy68IFicNxLyt0DW4yUURNhok+JmhTU481yLNgzwgq49BUnegCzN3xXmkvaC2XX3XMXJE9/jzLa0bIT2QuBjeFQCLRYAmTKaLXsvWpToDEJLPjy0/ZyYgrd65ER0=;drH1Zp1HSLyFHmGzmaumbw=="
+secured: "Uq6m4CbY/lU+cS0OqWLHSYEBU3rtnVY0pVGvv5VAql+J9ezeWCjPqjVfK4GNCw8XA6mHowCT1DJIhXwiA9v/BWuaxCT/mWX7jJxGZqjVWHzR4SAeXMOnTM+1VTFDh48BnXOB9j26ngTC0xRlyAecZTz2EFqcNiIA7ZaBvUX74kSiT835RuKR4gmZJzp4AFTAEJXQ1K5J8+ZzGXjyMua4B9UpHgNgoSSyBvO/4tryg9fiB0Lu6xbz7bl6aA86M+R3QFt6ZyHinGFN8qfPHZwIMnKxL07SFdzpa8NcufNpoJygZkI1TLAg7g4p9XyNY8ESQ9BgyOU1EiHiuNdCwl5gKi9wV9jCNM37n+WHli9cQnY=;KDpL+/b8HPskwe6N1vQ/0g=="
 ---
 

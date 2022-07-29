@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
-excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
-publishedDateTime: 2022-07-28T08:41:00Z
-originalUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
-webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
+title: "China's Sany teams up with self-driving venture Pony in robotrucks"
+excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
+publishedDateTime: 2022-07-29T16:23:00Z
+originalUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
+webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
-    width: 800
-    height: 524
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F2%252F0%252F41580262-4-eng-GB%252FCropped-1659104976photo_SXM2022072800007739.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+    width: 1024
+    height: 512
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 592
         isCached: true
+  - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
+    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
+    publishedDateTime: 2022-07-28T08:41:00Z
+    webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
+        width: 800
+        height: 524
+        isCached: true
   - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
     excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
     publishedDateTime: 2022-07-28T09:50:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
         width: 625
         height: 416
-        isCached: true
-  - title: "China's Sany teams up with self-driving venture Pony in robotrucks"
-    excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
-    publishedDateTime: 2022-07-29T16:23:00Z
-    webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F2%252F6%252F2%252F0%252F41580262-4-eng-GB%252FCropped-1659104976photo_SXM2022072800007739.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
     excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
@@ -84,6 +84,6 @@ related:
         height: 630
         isCached: true
 
-secured: "cmQn9yyzZBRg/3cAF6U/tJTk/JsPdpOYmGtejkJyc3VaEySwJaUoMCYe+1pS5WN/kW8QBRIBnPqmeUaHNiDeNkWQvdrqRY4DXNHyVo0cBZ3m937ndDFmgHQj7Ghhx/JIq4s+rC+yo0annZWeRmfN9nNd9QiLlNyakKtObAcz0NTZxVQeV2RJQUoFQprzBqiDOUgEn7xy/eBd//EQdhoffaL1iQ7htdmrKPfe+30oJkXgYueCTcX977d/pehCRn5BhMLU8Sb3EiW4oLaSQKs5k1V45Y20jyb4x8rYlUsPSqHR1uHzBgfASHZo+GgAEo6rX9PTdbs9YTXMcp7YEHjYTxuyyAxrev5HLCK1PEkszkQ6z3TmqQzewQTg+7DePWnfwexKH3VCDZhe5OZUGOfeTBZ22FAKVXOrH72M6Js6LZqY+5cKfiZQwYr+KmF7lJmlHRZo8XoYegeiUsnxGLaouQuvl8kTTVm7SnOKNMKNcJekdTmBEKFgsLRZqvZKq4yunnxhk3LWhLr3T2Tf/Hsgig==;8uzMtGucy0R2Fji2zs5FGw=="
+secured: "EXPXhECeQftcPNKkVns4fcF0jcYPwDEy8ysxEz/jazJwWVCrFVPshWmkT3cyavwhiqNOOtZchF1eejMjz9YcoZeCgCTx+0kirWe4bTjgvTFoDQI5U/dpiaZtjrX+6cHq+/Cm7SNRwdjDMvGgcyIM9kZiF8NNYLZg1iM2DCVjJYU7uj0kcrRPVNsvi9cgUqf1IitLU0GlmLK9nNao7X5MCOsCCsGXCRGlajbxf50C2m/RRgkesDu+wLvBE0u9qbfNVjE3n5avX2FZRxiHchnDFXT8XGWB7KNm8trwJkVVJg2tTyJeEe0tX1w4kAHOgPb7xCMmruWCz/RffUkcQBrmAiT0jejVLffg6p9KJYHHYnA=;gR4vF8x25ctShXHRDMgJ5A=="
 ---
 

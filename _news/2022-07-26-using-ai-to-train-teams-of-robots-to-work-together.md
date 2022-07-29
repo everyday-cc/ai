@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220725124120.htm"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://www.crn.com/resources/0277-15b77e0622f0-49d0dd49ccea-1000/aruba_image_resized.jpg"
         width: 599
         height: 464
-        isCached: true
-  - title: "Using AI to train teams of robots to work together"
-    excerpt: "University of Illinois Urbana-Champaign researchers developed a method to train multiple agents such as robots or drones to work together using multi-agent reinforcement learning, a type of artificial intelligence."
-    publishedDateTime: 2022-07-25T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959810"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17e6484d-f6d0-4d38-88c7-13e07baa66d5/Rendition/low-res/Content/Public"
-        width: 700
-        height: 434
         isCached: true
   - title: "Using AI to Train Teams of Robots to Work Together"
     excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate ... together using multi-agent reinforcement learning, a type of artificial intelligence. “It’s easier when agents can talk to each other ..."
