@@ -2,40 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-06-03-roomba-vacuum-deals-start-at-just-179-in-early-fathers-day-sale.md",
-      "title": "Roomba vacuum deals start at just $179 in early Father’s Day sale",
-      "excerpt": "Today’s deals start at just $179.99 for a best-selling ... The newest Roomba with AI and other cutting-edge features also has great discounts right now. The hot new Roomba j7 and Roomba j7 ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
-      "originalUrl": "https://bgr.com/deals/roomba-vacuum-deals-lowest-prices-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
       "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
       "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
@@ -1303,6 +1269,41 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Market Report Shows Demand to Boost Industry Growth from 2022 to 2026| IBM, Intel, Microsoft, SAP, etc.",
+      "excerpt": "The Global “Artificial Intelligence (AI) in Agriculture Market” provides a comprehensive valuation of the market through in-depth understanding, accurate market growth, deep market analysis, evaluating past developments,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "originalUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

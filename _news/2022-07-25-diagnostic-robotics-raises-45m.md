@@ -21,13 +21,18 @@ topics:
 related:
   - title: "Diagnostic Robotics closes $45M Series B Funding Round"
     excerpt: "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,"
-    publishedDateTime: 2022-07-28T14:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-closes-45m-series-b-funding-round-1031626359"
+    publishedDateTime: 2022-07-28T14:33:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "SpDqpEXaxMqnuU0bPdG1IhoZhC54WL1XeMyiYKcnT/oGUjBiKL64Wp/XcMo3rjjqhfWzvAL9VfVkaN998W93a7ZfaacuMeVZtOfulFNNxLXwY13yrIStbvB7zseIALRNw0BGSxTJpuw8X7p/dn9dVGntOmhQ+cjSKw0vn+K1zJiP6o1zg9HQ2bquuvPGJ9UjUV6BzFWUD4+9nDQH5rnpVaMFFBekOGOQIts8AxQQ5sh02X53Xwd3TOpEeQTfrAdC3R81/i2YxbHJnPE8KAmzqtAnwMs8VchRcc+NTEExA4hm6/mzx89THrb+BAhvXPo1rsAPyrrwmeVBG//Bb/KgVIT5I3pQhY6C03F/7KNPbN9Z4WU4EWlY+m7oH9dz6BGAzThuZsL40v00xNGMYJTQbftKDRgKCSJG44jnBNXM6WLMwrZUcItFx2VVRMp+fclHbGjKaQ5dXwVDV4n9I06cRrUb6/rirtThNAlhQRkProWhzuwBg6oFZvi/T3nACvBRh9nKu9pOS/Zw93ELMS6ZIg==;uFgeVY/ZGXClXtwDZPD+jQ=="
 ---

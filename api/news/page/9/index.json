@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-18-forbes-ai-newsletter-july-9th.md",
+      "title": "Forbes AI Newsletter - July 9th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d1bc618a37a26e45c4a0fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
+      "publishedDateTime": "2022-07-18T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
+      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
+      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "publishedDateTime": "2022-07-18T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
+      "title": "Building a business case for zero-trust, multicloud security",
+      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
+      "publishedDateTime": "2022-07-18T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
       "title": "Microsoft launches simulator to train drone AI systems",
       "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
@@ -1003,153 +1150,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-ibms-watson-can-help-cut-your-tax-bill.md",
-      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
-      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
-      "publishedDateTime": "2022-07-17T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kiplinger",
-        "domain": "kiplinger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
-      "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
-      "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "publishedDateTime": "2022-07-17T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority.md",
-      "title": "Why Corporate Purpose And AI Ethics Must Be a Leadership And Risk Management Priority",
-      "excerpt": "In today’s challenging world, there is an imperative to advance Corporate Purpose leadership at all levels of an organization. AI Ethics and Happiness Foundations must be integrated into Corporate Purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d46626059d45a508f35bc8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/amp/",
-      "publishedDateTime": "2022-07-17T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

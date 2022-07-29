@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
+      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
       "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
       "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
@@ -1282,50 +1325,6 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
-      "title": "AI and ML: Key combatants in the cyber security conflict",
-      "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "originalUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "publishedDateTime": "2022-06-02T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

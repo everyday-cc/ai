@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "A day in the life of a Chinese robotaxi driver"
-    excerpt: "Most of them, including Apollo, the self-driving arm of Baidu, have started on-demand robotaxi trials on public roads yet still need to operate with various constraints. With an associate degree ..."
-    publishedDateTime: 2022-07-27T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/"
-    ampWebUrl: "https://www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/27/1056472/life-of-chinese-robotaxi-driver/amp/"
+  - title: "Baidu unveils latest autonomous EV: Apollo RT6"
+    excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ..."
+    publishedDateTime: 2022-07-27T00:00:00Z
+    webUrl: "https://www.manilatimes.net/2022/07/27/business/foreign-business/baidu-unveils-latest-autonomous-ev-apollo-rt6/1852333"
+    ampWebUrl: "https://www.manilatimes.net/2022/07/27/business/foreign-business/baidu-unveils-latest-autonomous-ev-apollo-rt6/1852333/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2022/07/27/business/foreign-business/baidu-unveils-latest-autonomous-ev-apollo-rt6/1852333/amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/Baidu-Split.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2022/07/26/92303.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "The Download: Chinese robotaxi drivers, and AI gun detection"
-    excerpt: "A day in the life of a Chinese robotaxi driver When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving,"
-    publishedDateTime: 2022-07-27T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/27/1056476/download-chinese-robotaxi-drivers-baidu-ai-gun-detection-schools/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "gzCb8itBKrgqKHerQyobsbZ/NmmxGGtVYYUjebTRufmffVQqAR/IvvSyuVMalnQhkAU9IPoWwVNylAA9RbjrtUnFskbhFoy29p9lShOZiRKKTMFx033HX6XXyOCRq5lvFCLJ1t3IxvosMruV0EP3bbjHa9bRQBEXpRngfJdrAekfgne3e2VebmRL/lQ8q7DVzAOOi3RkBRVG3iaptbrz2O1poP0RrueYSZadXhm59B5rLuElmLoxOxI+c1vd5DZMY6ls+OqGkROasEKwAAi4PdureLGvgakFGEhA49Bri7rvHON8JCsh480JZlSlQKEyiR3AFb5NBJx6lH5bRULWKgWN8k+TwVsJjChMNvitJkcKWfv4Cmt4BGUIsoYMxm632SPWcq4UqBAo9luYWR9U/+YL2UF0KmiSV/nxRkgDHJgA1Bi0KPcUgKB8Undt2omBs1YFKGLwitWQBL9pZ4GzxKMX/Ry5n7j0eOF1ruNQNdPCh8IXOj9bYqMbKxMlhrUS5MEtEdF6gHrdoNX7Q5fLvw==;SfSyNePyWXiQ6RB3EM9OnA=="
 ---

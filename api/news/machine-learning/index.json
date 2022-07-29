@@ -458,6 +458,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-24-a-huge-wave-of-acquisitions-is-expected-to-hit-the-machine-learning-market-as-giants-like-snowflake-take-advantage-of-discounted-valuations.md",
+      "title": "A huge wave of acquisitions is expected to hit the machine learning market as giants like Snowflake take advantage of discounted valuations",
+      "excerpt": "Investors and insiders who poured hundreds of millions into machine-learning startups now expect a big wave of acquisitions as the market sours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "originalUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d9aff2d0011000190fe0fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "publishedDateTime": "2022-07-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
       "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
       "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
@@ -1381,58 +1433,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
-      "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
-      "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "publishedDateTime": "2022-07-17T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

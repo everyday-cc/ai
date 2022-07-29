@@ -436,17 +436,17 @@
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
       "sourceUrl": null,
-      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
-      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
+      "webUrl": "https://qconline.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_9aaefdac-4c29-5c67-bf61-4c3f2cf7c4db.html",
+      "originalUrl": "https://qconline.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_9aaefdac-4c29-5c67-bf61-4c3f2cf7c4db.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
-          "width": 600,
-          "height": 600,
+          "url": "https://bloximages.newyork1.vip.townnews.com/qconline.com/content/tncms/assets/v3/editorial/3/93/3931575b-407d-539d-bd2b-375cf5cea4a1/62d8d2d3e17e9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -456,12 +456,64 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T21:16:00-07:00",
+      "publishedDateTime": "2022-07-20T21:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WDRB",
-        "domain": "wdrb.com",
+        "name": "The Dispatch / The Rock Island Argus",
+        "domain": "qconline.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030.md",
+      "title": "Self-Driving Car Market 2022 Insights on Size, Share, Application and Forecast Assumptions 2030",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -846,6 +898,53 @@
       ]
     },
     {
+      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
+      "title": "How artificial intelligence (AI) affects business executives",
+      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "publishedDateTime": "2022-07-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI in Healthcare",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-baidu-to-reveal-latest-updates-for-autonomous-driving-ai-cloud-large-ai-model-at-baidu-world-2022.md",
       "title": "Baidu to Reveal Latest Updates for Autonomous Driving, AI Cloud, Large AI Model at Baidu World 2022",
       "excerpt": "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference Baidu World on July 21. Centered on the theme of “Deepening AI innovation for social growth”,",
@@ -1184,92 +1283,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company",
-      "excerpt": "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
-      "originalUrl": "https://kvia.com/cnn-business-consumer-3/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi.md",
-      "title": "Artificial Intelligence In Insurtech Market Type, Application, Key Players, Region-Forecasts Over 2022-2028 |Latest Research By IBI",
-      "excerpt": "and self-driving vehicles, speed up the artificial intelligence (AI) insurtech market development. The expansion deprived to offer customized protection administrations and reception of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/b2256bb83490cc83e3b7c4897085f5d61ac37c00-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

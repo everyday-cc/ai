@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-28T19:07:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 type: article
-quality: 22
-heat: 22
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -36,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "M6mImCorHdA+DOAjejTRq3tiD7m7GefPKXKrZr7rCSRH3NO3iPZ75U3zzC7q3tipPsDTnMnpu/3Yoeu99LaX1v5jfKXF22zycXCxSBc0INeMm96ELi8wlD4S9eGv+tLuUMcn3G1lWbEeAmjcc3kdR1MIakWmTsFSsWc6I4H+wbtb6Llx+Y/Ftr3s+beVQvbln1lxJ/udqpG+mr9h+5RQHM2DIptLBXbzE0tLS78gufnL1457cqGgBZOG2mGgqhcqPOcYTdVmyBrKE75Y7zweWCeeQ1Rm2F/LjtUWsEaScpKo9lC1gIiTCgvuZB2mPe+iuxDP8nDRP0usJzXRavK41sqL4GHfE8/pzqeSbzJjDX4=;yww02D0aesjNMf60+oO6LA=="
+secured: "jEJ8qBRpsdPG4U1ZMPvetTcLKlm+k4s9I7rq3siBjskolGUJe6JJdiVDSJBBLBVWsQ0+xUUBJ1frFpaBidi0CYPNdUgcbxvpcAlE5aEoJxFuCF5lbtEMLtORFEuRhVN+g3J7vzHEj3cLIUHhRugHW1edRXrWgWPkUDro5Vb1yQCx8Ypqsk/uSE+KwbQ73kOhJ5VYsE5UjS5bSYUyh3r5IOXVa+jN+c6BbHUffi/ESP5i3JhUuI77os9G0hjTzkWkpmNKTKpWn4J2ZDwyTLZqXHYGeB21aohi/bB9IM8elwVBixZW/zbIpTwOGJsrfJs0FuZiSxJKQUwNXBZOkyaJgRidelTqc1Uwdd9hGs4dczA=;gYlCXHDrnkcbv+ItyQal6A=="
 ---
 

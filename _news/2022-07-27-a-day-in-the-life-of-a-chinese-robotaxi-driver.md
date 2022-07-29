@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese search engine Baidu to have Apollo RT6 robotaxi fleet"
-    excerpt: "Chinese search engine and artificial engine company, Baidu reveals an autonomous driving vehicle. It is the Apollo RT6."
-    publishedDateTime: 2022-07-26T02:15:00Z
-    webUrl: "https://techstory.in/chinese-search-engine-baidu-to-have-apollo-rt6-robotaxi-fleet/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/07/Baidu-Apollo-RT6.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Download: Chinese robotaxi drivers, and AI gun detection"
     excerpt: "A day in the life of a Chinese robotaxi driver When Liu Yang started his current job, he found it hard to go back to driving his own car: “I instinctively went for the passenger seat. Or when I was driving,"
     publishedDateTime: 2022-07-27T12:10:00Z

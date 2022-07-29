@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-23-the-future-of-creativity-brought-to-you-by-artificial-intelligence.md",
+      "title": "The future of creativity, brought to you by artificial intelligence",
+      "excerpt": "How can AI reshape creativity in the business world? To start with, it can reduce the time and resources spent by marketing and ad teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-07-23T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "publishedDateTime": "2022-07-23T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being.md",
       "title": "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being",
       "excerpt": "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ...",
@@ -1032,101 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope.md",
-      "title": "Why distributed AI is key to pushing the AI innovation envelope",
-      "excerpt": "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "originalUrl": "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-21-at-4.46.37-PM.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/21/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "publishedDateTime": "2022-07-21T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-what-it-says-is-a-37000-self-driving-car-with-no-wheel.md",
-      "title": "Baidu unveils what it says is a $37,000 self-driving car with no wheel",
-      "excerpt": "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "originalUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "publishedDateTime": "2022-07-21T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -38,6 +38,20 @@ related:
         width: 1140
         height: 760
         isCached: true
+  - title: "AI-based gaze deviation detection can aid in quick stroke diagnosis, expand access to lifesaving care"
+    excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
+    publishedDateTime: 2022-07-29T03:18:00Z
+    webUrl: "https://www.news-medical.net/news/20220728/AI-based-gaze-deviation-detection-can-aid-in-quick-stroke-diagnosis-expand-access-to-lifesaving-care.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 24
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "HGx8I8R1Cb4GaKDpzBPy35mOceaVOErQ7b45YWQy2wHrkj/W56CnsEsialxFK8XrYM2HkqPMLY/ErBloDtNE6H3srqFvuqxU23V8oAATYfBVOrjxR0kwhv9T8lziT/iiRtyP4lktbOt75JzvO+7utnfDtOtg8P0fiMbpGx06sW6x20rRQmyAFrXHcPl8h3KodHlsympN2gxxGaWUjo8iZtZPACJoKAK1FdMzuJCtGniuqPbLfBuWDa/IXl7atP8iOINrNc+YZR9g7oovdxWEGbRxp2pWCTuFTSUOh31I0Ky8hZlmxumKTdr+ZGtIMF2sx6K+Dr1H2SIjTrKufoHGQc2NQt2ez92CGYR4K5q8fRY=;Hv2Y95h2oiW0nWPSZIjKCw=="
 ---

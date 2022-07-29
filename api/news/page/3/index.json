@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-26-a-tiny-robot-gives-10-minute-manicures-for-under-10-in-texas.md",
+      "title": "A tiny robot gives 10-minute manicures for under $10 in Texas",
+      "excerpt": "It's a fully autonomous robot that uses 3D cameras to take a picture of each nail, then uses artificial intelligence to quickly and accurately paint them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wltx.com/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
+      "originalUrl": "https://www.wltx.com/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wltx.com/assets/KENS/images/6d1efe3d-148f-432e-8dfb-4780f3ef5ad8/6d1efe3d-148f-432e-8dfb-4780f3ef5ad8_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wltx.com/amp/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
+      "cdnAmpWebUrl": "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
+      "publishedDateTime": "2022-07-25T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLTX19",
+        "domain": "wltx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
       "title": "AI experts establish the “North Star” for domestic robotics field",
       "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
@@ -772,6 +815,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-24-a-huge-wave-of-acquisitions-is-expected-to-hit-the-machine-learning-market-as-giants-like-snowflake-take-advantage-of-discounted-valuations.md",
+      "title": "A huge wave of acquisitions is expected to hit the machine learning market as giants like Snowflake take advantage of discounted valuations",
+      "excerpt": "Investors and insiders who poured hundreds of millions into machine-learning startups now expect a big wave of acquisitions as the market sours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "originalUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d9aff2d0011000190fe0fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "publishedDateTime": "2022-07-24T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
       "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
       "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
@@ -1076,109 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-the-future-of-creativity-brought-to-you-by-artificial-intelligence.md",
-      "title": "The future of creativity, brought to you by artificial intelligence",
-      "excerpt": "How can AI reshape creativity in the business world? To start with, it can reduce the time and resources spent by marketing and ad teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-07-23T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
-      "title": "Google fires engineer who contended its AI technology was sentient",
-      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "publishedDateTime": "2022-07-23T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

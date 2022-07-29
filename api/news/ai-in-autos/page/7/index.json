@@ -2,6 +2,75 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-10-driverless-hyundai-ioniq-5-hits-streets-of-seoul.md",
+      "title": "Driverless Hyundai Ioniq 5 hits streets of Seoul",
+      "excerpt": "The manufacturing giant converted two electric Hyundai Ioniq 5 cars to work as RoboRide taxis, adding new sensors and software to the machines with the help of artificial intelligence specialist ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
+      "originalUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Weekly Times",
+        "domain": "weeklytimesnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-global-artificial-intelligence-ai-partnering.md",
+      "title": "Global Artificial Intelligence (AI) Partnering...",
+      "excerpt": "DUBLIN, June 9, 2022 /PRNewswire/ -- The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2022\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27622875",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622875",
+      "publishedDateTime": "2022-06-09T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa.md",
       "title": "Timnit Gebru and the fight to make artificial intelligence work for Africa",
       "excerpt": "This encompasses everything from self-driving cars to automatic translation and facial recognition programs. The ultimate prize is a concept known as Artificial General Intelligence — a computer ...",
@@ -1263,84 +1332,6 @@
       "provider": {
         "name": "Dothan Eagle",
         "domain": "dothaneagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-elon-musks-humanoid-robot-might-debut-at-teslas-ai-day.md",
-      "title": "Elon Musk’s humanoid robot might debut at Tesla’s AI Day",
-      "excerpt": "Tesla may demonstrate a working prototype of its Optimus humanoid robot in September, company CEO Elon Musk has claimed. Musk first teased the existence of Optimus at last year’s Tesla AI Day event. Details about the robot’s eventual pricing and commercial availability are scarce.",
-      "sourceUrl": null,
-      "webUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
-      "originalUrl": "https://knowtechie.com/elon-musks-humanoid-robot-might-debut-at-teslas-ai-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowtechie.com/wp-content/uploads/2021/08/tesla-bot-2-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KnowTechie",
-        "domain": "knowtechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some.md",
-      "title": "Artificial intelligence scans for weapons, but faces criticism from some",
-      "excerpt": "Ellenbogen is the founder of a company called Evolv. Inside the company's Waltham, Massachusetts headquarters, he walked us through how his company's next-generation security scanners work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "originalUrl": "https://www.fox13now.com/news/national/artificial-intelligence-scans-for-weapons-but-faces-criticism-from-some",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSTU",
-        "domain": "fox13now.com",
         "images": null,
         "publishers": null,
         "authors": null

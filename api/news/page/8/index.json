@@ -2,6 +2,161 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-19-this-ai-powered-prosthetic-hand-is-stylish-too.md",
+      "title": "This AI-powered prosthetic hand is stylish, too",
+      "excerpt": "The company makes an AI-powered prosthesis that is highly dexterous, remarkably light, and has an unmistakable elegance. It's part of a lineage of technology products that emphasize form to enhance underlying function -- a welcome departure from a medical device sector whose dominant design is best described as antiseptic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
+      "originalUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/809b860885706c3c26dd01fa3741797c633fb785/2022/07/18/78c134fe-4cdc-4d0a-8a83-346a4b86ede0/esper-hand-grapes.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
+      "publishedDateTime": "2022-07-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-thirdai-founder-works-to-make-artificial-intelligence-more-efficient.md",
+      "title": "ThirdAI Founder Works to Make Artificial Intelligence More Efficient",
+      "excerpt": "Instead of using huge amounts of computing power, Anshumali Shrivastava wants to rethink the fundamentals of AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
+      "originalUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-585899/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
+      "publishedDateTime": "2022-07-19T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
+      "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
+      "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
+      "originalUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/11/1542144283_google_deepmind_health_and_google_health_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-how-is-ai-impacting-the-automobile-industry.md",
       "title": "How is AI impacting the Automobile Industry?",
       "excerpt": "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of.",
@@ -1014,153 +1169,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forbes-ai-newsletter-july-9th.md",
-      "title": "Forbes AI Newsletter - July 9th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d1bc618a37a26e45c4a0fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/18/forbes-ai-newsletterjuly-9th/amp/",
-      "publishedDateTime": "2022-07-18T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
-      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
-      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
-          "width": 1080,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
-      "publishedDateTime": "2022-07-18T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
-      "title": "Building a business case for zero-trust, multicloud security",
-      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "publishedDateTime": "2022-07-18T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -42,6 +42,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "CyberLink's facial recognition technology expected to generate revenue in 2023"
+    excerpt: "In its online earnings call on July 26, CyberLink's chairman and CEO Jau Huang indicated that the company's FaceMe facial recognition engine is expected to contribute to revenues starting from 2023, thanks to the adoption by Toyota for factory inspector identification as well as CyberLink's cooperation with Avigilon and MediaTek."
+    publishedDateTime: 2022-07-29T05:49:00Z
+    webUrl: "https://www.digitimes.com/news/a20220727PD207/facial-recognition.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220727pd207_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "UF7MJfhRa8xEdmADFvVIlytdSb9UnLC41lrxOjc9002HqRoWJ0gYlSw2HCDWJdI0DbDh/bPPIBhUa1EImjOXH/4vyNe/DN94h5HIPaRS7pmtqvtJ+B/s0x2Txbjy5cx3iiFhAnu+irMTLlXH3STKOXXi0cdC4FglcF5h8Utj+rZs89HplqDe6+Q9J7viZRygtKtF4eo0tRepjs8f6Ngt6IJQc+v+pVHLLHkDMVTWXq7cb/u9j28/rr6ABrzGp+6B1hb2Od8dbHVPCmhK0xu+8Px00rDzDdG7ZW5rg1lvXfGz5iRVhF6Lu7XyQk4TwPXUn+/P1LJ3xHX5yZJqh9nYQ8XepJ7oBVKP+SiK0lqPpKPk8rk+k6Q+wOC8GAHCqnH8+nwGRf1w7+hK1LXrLDfGEUrU9/41K/6wzUPrOLIfDJnLITR3z8ZmG0nlmdQU9GpJsJefUGBoeKrecNniPA0ZCrpWe7c9FZuuft3Y8h0sXXS42bt7FryP8t6SwA962J3KAAFSne+AwuhIHr3F7fcsPw==;+cP82LvYvLC9zqmfEIqgng=="
 ---

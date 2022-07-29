@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
+      "title": "A start-up aims to bring driverless cars to Indian roads",
+      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "publishedDateTime": "2022-05-23T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-22-ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars.md",
+      "title": "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars",
+      "excerpt": "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62871351ad5ec247308a0ba8/0x0.jpg?format=jpg&crop=1833,1235,x170,y0,safe&width=1200",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/22/ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-22T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant.md",
       "title": "Baidu: After 65% Plunge, It's Time To Buy This Chinese Tech Giant",
       "excerpt": "Against this backdrop, Baidu (NASDAQ:BIDU) emerges as a solid buy as investors assess receding risks and uncertainty related to the regulatory crackdown. Shares in the Chinese language internet ...",
@@ -1294,83 +1390,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence.md",
-      "title": "Look behind the curtain: Don’t be dazzled by claims of ‘artificial intelligence’",
-      "excerpt": "We are presently living in an age of “artificial intelligence” — but not how the companies selling “AI” would have you believe. According to Silicon Valley, machines are rapidly surpassing human performance on a variety of tasks from mundane ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
-      "originalUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2022-05-11T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

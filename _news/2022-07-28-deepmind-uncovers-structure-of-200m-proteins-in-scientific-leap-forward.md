@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
-publishedDateTime: 2022-07-28T10:32:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
-webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
+publishedDateTime: 2022-07-28T14:26:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 type: article
@@ -260,6 +260,6 @@ related:
       domain: nature.com
     quality: 15
 
-secured: "wWK1tH7niNC9/dS/F0f1nIcsK4bEmPaxAQsXqzoz5tYPzxUIveNem9e8SOx89IxzEq2jRDHcZteG5a3bg3/9vr4m/Es8+hvomJSJTNycm4NWyA/oAdhZZQ3KP701rXsTBw/8zJmDB9fc+BdLQI4Wp+Ai7yXe2ZeRM/aGFAi0jsI0T5rXULNo/2lS7cynW4hoACHlJ74YOouHBHiNv7E2SVKYo+oIT1s25HufnaWTAc26PMOeTm7ob34mTZWIXM8GRuHO0oDUtwJHxQpzhGGEDMfcWrd15TUIHJwXe9pXZE1mNpELdcBXwoP1PYW8OrlC9twf28tueCtx/tZ2112yAf4Z6EeJGADptkqZccl3aDYXdfbxhHiw69KuyXzgm9/hqOHBGUQE2xAOzSnCOn8O8BZGMr5xXx6HcUztEKfrbMuhECgymLQl8E/rZhNEnyEPByaqJv1r/jfYFkmB0wuPkWIBxIajelXdNALJYgQhzuVNu/9IVMwwSUyWF3CaKJrY/Po5Vwz4eoVBEYMdEDe9jg==;cbo6SujE5nXPXOTAmzlQHA=="
+secured: "hufU1Ww9kmTzjZTMgGwheYdhYamWrZ4KUEwTyQl67OyQATaIg0IRqd6AobN+lXh10j7O8wxzX5VZHHh7tiLNgyFPdtmoDRcP5rZnDg1DQiF8zIj5GUg6KexJexQivwn0H7AYHIR8Hz5Nk9lxCJy1BuCntDX7uRBqNRcrPEKyDPvUPgbRKQHykOhUV92YGtlt+yWE5z344AhDG9B/i7IqGJaOy8ws4WmHl8RUz6eeoJVqCo8N4coTBlEzUBAtrzV3xKp11XUsUW3jUmGk93QFJjEDnhhO/LkBaIDfO2TzmWbTSSmsJe1YkrC8Hi8X1+4pnyxXnsQXoQ0K3tyQwy8JdNlH/1uTPnL3faxKEAW6Nes=;H5MqKMBcstiIFrVBKtfaVA=="
 ---
 

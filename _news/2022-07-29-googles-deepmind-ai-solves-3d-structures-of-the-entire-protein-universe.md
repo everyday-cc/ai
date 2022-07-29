@@ -60,9 +60,9 @@ related:
       domain: cnet.com
     quality: 63
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
-    publishedDateTime: 2022-07-28T10:32:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
+    publishedDateTime: 2022-07-28T14:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     type: article

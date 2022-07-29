@@ -2,6 +2,144 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-06-17-dementia-warning-the-sleep-disorder-significantly-associated-with-cognitive-impairment.md",
+      "title": "Dementia warning: The sleep disorder ‘significantly associated' with cognitive impairment",
+      "excerpt": "A new study has now suggested erratic sleep patterns could fuel cognitive impairment in later life. The new study, spanning several decades, has suggested erratic sleep disorders could result in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/dementia-1627007.jpg?r=1655459385595",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627007/dementia-risk-cognitive-impairment-erratic-sleep-risk-factor/amp",
+      "publishedDateTime": "2022-06-17T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-how-human-pose-estimation-can-push-computer-vision-a-step-forward.md",
+      "title": "How Human Pose Estimation Can Push Computer Vision A Step Forward",
+      "excerpt": "Unlike traditional object detection, HPE allows the computer not only to find a human in the image but to actually understand its behavior.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab35581d55f4f89af2b68a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
+      "publishedDateTime": "2022-06-17T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
+      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
+      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-17T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-maruti-invests-rs-2-crore-in-artificial-intelligence-startup-sociograph-solutions.md",
       "title": "Maruti invests Rs 2 crore in artificial intelligence startup Sociograph Solutions",
       "excerpt": "The country's largest carmaker Maruti Suzuki India on Friday said it has invested around Rs 2 crore in Sociograph Solutions Pvt Ltd (SSPL), a startup specialising in artificial intelligence. The investment is part of the company's MAIL initiative to support startups with promising mobility solutions,",
@@ -1002,134 +1140,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm.md",
-      "title": "FTC recommends Congress use ‘great caution’ in promoting AI to address online harm",
-      "excerpt": "The Federal Trade Commission (FTC) recommended Congress proceed with caution in promoting artificial intelligence (AI ... innovation in this area and research is important, Congress should ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/3526738-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm/",
-      "originalUrl": "https://thehill.com/policy/technology/3526738-ftc-recommends-congress-use-great-caution-in-promoting-ai-to-address-online-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions.md",
-      "title": "Why AI is crucial for the next level of Network Access Control solutions",
-      "excerpt": "\"Integrating NAC with AIOps is critical to simplify deployment and operations and accelerate the resolution of issues.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1180183927.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
-      "publishedDateTime": "2022-06-16T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-cybersecurity-ethics-artificial-intelligence-imperatives.md",
-      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
-      "excerpt": "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "originalUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HHS",
-        "domain": "govinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

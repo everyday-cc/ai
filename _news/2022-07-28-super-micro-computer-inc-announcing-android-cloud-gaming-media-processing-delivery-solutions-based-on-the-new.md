@@ -42,18 +42,18 @@ related:
         height: 206
         isCached: true
   - title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -– Over 540 1080p @60Hz Transcoded Streams Per System* SAN JOSE,"
-    publishedDateTime: 2022-07-28T00:30:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-san-jose-7b3fa0891a36b4d2429d38b7bffd6557"
+    excerpt: "These new solutions will incorporate the Intel Data Center GPU, codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server with ..."
+    publishedDateTime: 2022-07-28T01:27:00Z
+    webUrl: "https://fox40.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: FOX40
+      domain: fox40.com
     quality: 7
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+        width: 400
+        height: 206
         isCached: true
 
 secured: "XPtMe31ZYA/tPGqWw2f3tvUHwEkP9b90XlPxE7wLTfBxcCoW4wD/9r2UqMhJTqeFKVBd9zvYib2UENrCnLAgVlXinVkzF+7JJ9RJ+A32Wwx14xPAsH5FH/zj8KvJRmmENvfPgH/BXeM16P/sU3SNnCbgWB1ATVCObcvN970nglJUmROEULSlmoTH89WkN6DpyLPa2bGS5caP69HWP4jBUyCj5/5JC6qXvsNbJ4E2+bJcFcAKtw32dLimX3PMFOnoc0DxJG1+voXBiLIyvVHERkrpOtAbzyWD+7zw5MOCU4OCmAlDGwVCeQiWEfO3pJDdW6QfJllMF15hYW4o/9Gi0snN+0tfgJC+dvc5fx6rnuI=;DDHsXpFVBLimOlxIJDLgBA=="
