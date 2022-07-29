@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T12:30:00Z
 originalUrl: "https://www.afr.com/politics/voice-question-isn-t-the-problem-it-s-the-detail-20220729-p5b5sb"
 webUrl: "https://www.afr.com/politics/voice-question-isn-t-the-problem-it-s-the-detail-20220729-p5b5sb"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Australian Financial Review

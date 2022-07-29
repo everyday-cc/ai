@@ -52,6 +52,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "An AI-driven physicist may have uncovered a new form of physics"
+    excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
+    publishedDateTime: 2022-07-29T13:41:00Z
+    webUrl: "https://interestingengineering.com/science/an-ai-driven-physicist-may-have-uncovered-a-new-form-of-physics"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 17
 
 secured: "Rm3hdzx+d5dKYteM9e4UtD2qqb7eNsV1Glb+8GPj0HNIykATu0Uw8yv8XSwUNAe/kNOZ55H602gNUjjqOifhKeHRHebe2UgYg1OuijoOfRe3y76AUJrD5hX65c1Oqej4hSWdpI6UpFaFd1YZphkCzt8FNW1q3+hdsoP+R+gROf2v0VYQhajOmSA2RmoxPUbuZc96I2+YOnjXGleXwG5wIsvVbbctNaheMRKuUfW866uzflBBbovPdQhFa3phvW+XJtS8UK0jgnBYX2Oh270joBYOaxXO6tLQmm12jDCvX4t8eLzGNjCmm4ALveFRB36uZHT99XZOTFQFaK2eTx/agg8p7DCjN3EDwoQVvxMwI3k=;N0zTBg0NKLSWuwKV3MTKrA=="
 ---

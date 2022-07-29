@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T13:29:00Z
 originalUrl: "https://nypost.com/2022/07/29/ai-program-predicts-last-selfies-ever/"
 webUrl: "https://nypost.com/2022/07/29/ai-program-predicts-last-selfies-ever/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: New York Post

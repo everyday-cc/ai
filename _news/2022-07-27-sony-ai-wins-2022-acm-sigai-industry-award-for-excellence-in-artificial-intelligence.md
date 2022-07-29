@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
-publishedDateTime: 2022-07-27T12:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
-webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
+publishedDateTime: 2022-07-27T12:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 type: article
-quality: 57
-heat: 57
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "rzVCTtbCcF69SQmQ5UHpgItwWqVzpwNihSZTyjE6L13NMRqfesNiGf+mv6EAUVJ490Wb0+4q4mHwDOyUVCEXrNvQkqy0qYRICH8PDJzo6YSJCzLAzvQ2u457xUOqikzecQ2sV51b2IUEiDWHDF2zeoFt5jNijVMjtS5xrSH+cMMGdAVs6N6EBko7Jrouzz3S92+AVqnEDYIR9oBmMSwIrsvW1H9/8gALqaDYIwXLZQvzFgTY5OZi2ro6Lq3ixi0u/nd6olZP7nfquER6RPR1tINzfyVY7CfBaY7EkhS6nArETCa05lnSVzEP+sZMXIHjM22om5C0Kffyq2prUlJk21Ide+9dY8rze7LbcwCvnwQ=;ri96toN457lZ96VT1/1ykA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Ah+MlwaKfhyDcN/CsAa6bmNBScgEKl8aHO+axoq5s0hz67BPstZqMNXXNDqN/anoy8aiQguo0iKxopzdtxMdtAnM79pZegBxLKJudnN1T40SRMzMHZWY/okyIJ0oLvTGMphxDrwISGAzm0nekX25g8aLi8Csl1OL6oUKTmrKvPqifeeKdcLOfaBOQ7J+DmpV2Y9xVnt4rxOuzB47nu9wliHo9UvOXL60XBqPieCjKXGriVfSyN7AUoh6xLBpVI2GVg42zMBXErxQdP6vZZ0TZshZxDH7yNwX3K7i2qsKep5wtosQniEzl6VO5KHXbunJH91w06i4WzFBGgOvV4D7Mk00YPwAqZr49kkAf7i+gVY=;GXtmGgH9Cnc9CskYgDr1lQ=="
 ---
 

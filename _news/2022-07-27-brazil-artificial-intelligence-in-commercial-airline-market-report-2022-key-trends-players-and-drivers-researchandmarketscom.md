@@ -3,16 +3,16 @@ category: news
 title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
 excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
 publishedDateTime: 2022-07-27T13:14:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
@@ -33,6 +33,6 @@ related:
         height: 234
         isCached: true
 
-secured: "l0DTf/AtyJEaM3udEMt9C9X+ADaZHfRn+BpBvYOrj5Q+lBcUfg4WGorKcDTvAQPF1wA4bOUSr2EgwOYXAcIHejLu4RTa54UpM7S1f3QO5rYpsyFVTzLRYqCG0dxeWhvK8/MJrThG7pPhDrjC4U/KjDS4E6KpAxXmeNByIXMPUQMOSPqpVVBJKKJfDFsoCoiKmeU5ksCTYe0frjba9dJavAKvjLqIBtf0xcpaITVgE/6jx6O1nVJ7xpN8uOostF9bKhF56KWX9f7q58QtHWJs5oUVT4ah+8DLFhvcC5H/MCSIyVelRynje5RzOLMf9VyRzOMwv5yLSDZuEzEK2vxA+NXkbMsRxFKsFSSvUfOtrz8=;7CVL0FVeTTDUTQsZ9SX21w=="
+secured: "os1dWdDlzoy4bej2Ycgcx3PS+XLn41z8OwseJ2CogAYm0WnT2f9EOMzw4Lm3VRNOjkW5modf1SOgHWxFww1covovn5/SSQkFayyNUIhrEa9ImlVloX1c8iG6WxO8I2rzbU08YX+eoFMBsVj1IEr3sOu/pt0j70nXMh96AuZh7oC/XSc9vuSSqOWImq6Q3KPak4lceOvFhDCv9me8MHoEDr95fekuH8PSfWNmlxe45dZPVt1v+Za98MrkdEdWmWOEyUB3YiD0dQjLryMhot05sDW9QYyr//yLt1SKOz1+n+jcaZV417QQwMqTUuErWWf0JOo9xEekB3cUsNfWICKUfLS7yPpxMwbhMetiGcdtmOM=;QJCZqumo79reuEVKnUowLw=="
 ---
 

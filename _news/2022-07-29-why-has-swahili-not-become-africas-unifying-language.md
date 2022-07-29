@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T11:50:00Z
 originalUrl: "https://globalvoices.org/2022/07/29/why-has-swahili-not-become-africas-unifying-language/"
 webUrl: "https://globalvoices.org/2022/07/29/why-has-swahili-not-become-africas-unifying-language/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Global Voices Online

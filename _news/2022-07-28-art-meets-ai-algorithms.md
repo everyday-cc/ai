@@ -23,6 +23,17 @@ images:
     height: 375
     isCached: true
 
+related:
+  - title: "In search of AI bias"
+    excerpt: "\"We have built an entire world of bureaucratic legalism and short-sighted monetary incentives that get in the way of actual, compassionate, ethical progress\"—Blake Lemoine. #AI #ethics"
+    publishedDateTime: 2022-07-29T13:18:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/29/blake-lemoine-ai-google-fired-workplace-culture.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
 secured: "bOr4MbYysd8ISOcmWgOJXLv+xsM6eer4D0VLmA8TjrD1efc/zv1zzLES5/xbdOV6KlJBqqiWFLH+bQwAMKHTPV/r4ZMshpfb/LgurSKuOWPTZwvRfIcl68SGzz0vo7jjv6k2Ta0eGXcSwscVx6ukxodgMq2oIfW5s2VhTU0eYYXn31SJ/UiqEZ8VpqWgVUNeY8v9fOAX2wsugS5DgRRfH7LmSJnpdbAsJNJpEKnRoPzvdhv4OGXnl6hV9QSNDZuOSaUyVLGA5xuGP/iLjxXXzLRF9SCgKJ8IMqc+OTS4vc6c9X85BiYLp3/LeE7ZJoYeL9pVTvMBm4kMpDwA8aWAc7HjCVouZwQlvj872eODHKX+FHOAo2YTeu16e5Wi6DWsszjWMYilGD+l7FRbsrS/FzMKZ/S1zKoXXZxofk+An6MoofwDGNFL5jqCjUOICViywVEFoXv6YWzyQzT1SJ4LA8iU1uL+MJqzaNWBnX0kOLzzqTyloo8keVKCie+4826eTDjqsC9kskg5bPLE3nzFRg==;f9uy/rvVDLoITZKXjWGTHw=="
 ---
 

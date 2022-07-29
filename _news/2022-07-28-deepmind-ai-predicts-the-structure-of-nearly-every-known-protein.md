@@ -258,6 +258,15 @@ related:
         width: 1200
         height: 826
         isCached: true
+  - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
+    excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
+    publishedDateTime: 2022-07-29T12:00:00Z
+    webUrl: "https://www.extremetech.com/extreme/338390-deepmind-ai-breakthrough-allows-prediction-of-more-than-200-million-protein-structures"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 26
   - title: "DeepMind AI has unlocked the ‘protein universe’ – and it could help to cure Parkinson’s"
     excerpt: "Access to the 3D-mapping AlphaFold technology is having a major impact on research into antibodies and disease treatments"
     publishedDateTime: 2022-07-28T19:43:00Z
@@ -312,6 +321,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 15
+  - title: "DeepMind just uncovered the 3D structure of almost every protein known to science"
+    excerpt: "DeepMind has been working to uncover one of science’s mysteries - the 3D structure of proteins and how they interact with each other. Using AI, the researchers had previously built a database of nearly one million protein structures."
+    publishedDateTime: 2022-07-29T10:59:00Z
+    webUrl: "https://www.euronews.com/next/2022/07/29/deepmind-just-uncovered-the-3d-structure-of-almost-every-protein-known-to-science"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 14
 
 secured: "b4PtHLhDc3uGGf9zIevKf8cgfWhIRBjM/2vegh6A7u/6Huqt/l0xidgV73Jwj+bt2qX0XJE3lFZnsrfta5wkbm1TQA5ZYLNIGlFPS9bd7py+99U8xhTN82WnnVkfkiqgqmKm0DWy7Sn/Ls4JO7V4tqPOjZviKPClS3B87/NloBiIyPuUf6UDtGK51TL0JmuS/AxbwlpXTIoaCY11B2sD+7VAR2VS4E6yUQ1gDZ8vn7NQNC2JjaE+OkTR6BfjqKssgyjSMruS4n6yzLZsZ23FLHIdvzS9dGdyNca60DgaxMiUJH2fqoQnNjlgJN/xftIOy+N5Daxh6ERTU/amGcn9sq/gFBJeC8b3wLA6nmhs1cfsDUI/uhi80URvlOg9Iv6X7JDCsFvxpsOayWNDpyOAyL0GiKtSFoLGHsLa/1tQrNtkGhsjXGJDa8zABRE7yeDdXVjpTzHiVyda71P9zJWyeS0fBiWesiMRc5/CT7dW54chEhB5z03yS/yqlj46EN3qhmTdALk3ZeAAkMh5IdGb0w==;/kTU4BcgsOOHS5gNz14TQg=="
 ---

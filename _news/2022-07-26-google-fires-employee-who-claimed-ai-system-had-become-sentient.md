@@ -72,20 +72,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google sacks senior engineer who said its AI program was sentient"
-    excerpt: "Google has sacked a senior software engineer who claimed the technology group’s artificial intelligence chatbot system had become a “sentient” being.Blake Lemoi"
-    publishedDateTime: 2022-07-24T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-sacks-senior-engineer-who-said-its-ai-program-was-sentient-qr7gf68gc"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2e45d396-0b7d-11ed-a4af-79eb4b98fc31.jpg?crop=400%2C225%2C0%2C21&resize=1200"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Google Fires Engineer Who Contends Its AI Chatbot Is Sentient And Has A Soul"
     excerpt: "The engineer who claimed a Google AI chat bot had become sentient has been fired due to violating company policies"
     publishedDateTime: 2022-07-25T16:46:00Z
@@ -99,20 +85,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/59199/content/ai-human.jpg"
         width: 708
         height: 419
-        isCached: true
-  - title: "Google engineer who claimed Google’s AI chatbot LaMDA was self-aware has been fired"
-    excerpt: "Artificial intelligence (AI) has long been worked on; one Google software engineer has been fired for claiming Google's LaMDA AI was self-aware."
-    publishedDateTime: 2022-07-24T20:47:00Z
-    webUrl: "https://techaeris.com/2022/07/24/google-engineer-who-claimed-googles-ai-chatbot-lamda-was-self-aware-has-been-fired/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 31
-    images:
-      - url: "https://techaeris.com/wp-content/uploads/2022/07/Google-Logo-dark-background-min.jpg"
-        width: 1170
-        height: 724
         isCached: true
   - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
     excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."

@@ -48,6 +48,22 @@ related:
         width: 638
         height: 310
         isCached: true
+  - title: "Nvidia Speeds Up Large Language Modeling"
+    excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
+    publishedDateTime: 2022-07-29T14:42:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 46
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
+        width: 888
+        height: 417
+        isCached: true
   - title: "Nvidia upgrades its NeMo Megatron development tool to speed up AI training"
     excerpt: "Nvidia Corp. today introduced a new version of its NeMo Megatron artificial intelligence development tool that will enable software teams to train neural networks faster. In particular, the update promises to reduce the amount of time necessary to train advanced natural language processing models."
     publishedDateTime: 2022-07-28T15:00:00Z

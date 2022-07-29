@@ -34,6 +34,24 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Artificial intelligence has mapped out every protein known to science"
+    excerpt: "Artificial intelligence has mapped out the shape of virtually every protein known to science. The breakthrough will help to tackle major global challenges such as developing malaria vaccines and fighting plastic pollution,"
+    publishedDateTime: 2022-07-29T09:06:00Z
+    webUrl: "https://metro.co.uk/2022/07/29/artificial-intelligence-has-mapped-out-every-protein-known-to-science-17083953/?ico=related-posts"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 17
+  - title: "Nearly Every Protein’s Shape Predicted By AI System"
+    excerpt: "The New York Times reports on a startling development from artificial intelligence lab DeepMind which could impact the future of drug research and development. A potential new candidemia"
+    publishedDateTime: 2022-07-29T12:59:00Z
+    webUrl: "https://khn.org/morning-breakout/nearly-every-proteins-shape-predicted-by-ai-system/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 17
 
 secured: "qwhyabCPg/Pb0peNMxZW+GCXegn/5DFFEjR9OdAHeDC/VsvXnTKrgmuR7P/i0cNrkepCPKvHZvSqRPoboGlmeVEk7A6Om/DyxMKk0D9kqw0cAKtDZZZZBaU1qUL8d48adKubt57Kc+Clj9XxDKXyMjP+924fzP6ayPqOXMMxJ3buMi8wEmDTIFJr4u/LpXoUpAm1OnnPya5wDTYiKxyxzkOJ62Dr4cMsYGpkeUiAuyWVmRC2KVSQxX+qAEizwXZdaI7aRiFHEZ/10Nt40g3XXQJ9K+yawmvmSS/HhCQIMIsqv1yLQEi6eim43kvaEIwPEjzOJXZ4NVgSd+b/ZhiVbu0mcQJy3wIGKwKrfXivAQclP9Z8D6s5BcdbmemUIPOiHZXUwmqhFXP+vsTo+IZ7VEo+PQYcow7g7VSX4RLtVUcqg8nbZ8HzWmfNMccBjQQXeaq2BJLdHdp1a/RedgPo9hb9zcGDhm5sJDFAT+SzTmZRqC2qY7FFnk0CbXOxrPRtMGTLHfAhQrQldni8Xp7jbQ==;YBIcnqhDmPPUefuEDJk3ww=="
 ---

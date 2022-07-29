@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "How artificial intelligence is changing your world"
+    excerpt: "Like this weeks grim economic outlook, the CSIROs report on megatrends that will frame the lives of Australians in the coming decades made confronting reading. From the pandemic to drug-resistant superbugs,"
+    publishedDateTime: 2022-07-29T13:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    ampWebUrl: "https://amp.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 61
+    images:
+      - url: "https://cdn.newsapi.com.au/image/v1/ffb699e16ac131a7d583e6a66e04343b"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "R2U1Jqhl1MRaQz8VtR3QrjxWyq77Lu2ZCZme0MN7ympiGlAR2xMo/jRbG2cSCFBF5hssPI/oxnB8OYnUxEy1KthDWyub2j9GSy012bGAYeYjOgcTeNCwtLjSY4iqzITMvdR+blkjO7T7mDpgFeOfKmeRwO3OqDRrib/LpeZrVYpG1YTQzKqdRxls2YONUrtRSlA+LhcyKtll4CV+ihoJeQB+UApBMpIECOZMbcZxE1QQPYcohn2u3MPPfTBMAMflA7DoVQAWr0CcQ9aGnRLfV7iEtWWzU234AtLhRq/WLLmJzre636QNEiaUJ3NimlA4dKd8EP7Rre+474/faUM2ye44U7ov2MQT3vI7PnwFzcSBKbO42AZsxse+7F2QR7UzNfoBZ/8cKCVhooLZCoxy6Z5+puyFuD/FO5o0kuQoc22riiDK86f7r6Cr4mQ6Gj9txhmPAKsfz+EvDotsJNcyKHHzmCK+dM4NJHCvDdm70JYW0Mwva7QJjvDx7pGhmp2wKc2ciXmTohrefvIWfp/4vA==;Z/lKWjXLmqN1B3Ib0dZjxQ=="
 ---

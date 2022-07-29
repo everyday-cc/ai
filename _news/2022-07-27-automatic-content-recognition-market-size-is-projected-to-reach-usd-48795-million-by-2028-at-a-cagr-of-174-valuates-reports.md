@@ -35,20 +35,6 @@ related:
         width: 650
         height: 373
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports"
-    excerpt: "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,"
-    publishedDateTime: 2022-07-28T14:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "Artificial Intelligence (AI) in Drug Discovery Market worth $4.0 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "AI in Drug Discovery Market size is projected to reach USD 4.0 billion by 2027 from USD 0.6 billion in 2022, at a CAGR of 45.7% during"
     publishedDateTime: 2022-07-28T15:30:00Z
@@ -63,6 +49,15 @@ related:
         width: 1400
         height: 732
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports"
+    excerpt: "The Artificial Intelligence in healthcare market size was valued at USD 8.23 billion in 2020 and is projected to reach USD 194.4 billion by 2030, growing at a CAGR of 38.1% from 2021 to 2030. The increasing volume of healthcare data and rise in complexities of datasets will drive the growth of the market during the forecast period."
+    publishedDateTime: 2022-07-28T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9646950.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
   - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
     excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
     publishedDateTime: 2022-07-27T23:28:00Z

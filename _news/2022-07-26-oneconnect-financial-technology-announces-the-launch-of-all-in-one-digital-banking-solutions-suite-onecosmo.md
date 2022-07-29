@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-a
 webUrl: "https://www.asiaone.com/business/oneconnect-financial-technology-announces-launch-all-one-digital-banking-solutions-suite-0"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OneConnect Financial Technology Announces Launch of Virtual Banking Solutions Suite"
-    excerpt: "OneConnect Financial Technology, the technology-as-a-service provider and an associate of Ping An Group, announced the launch of OneCosmo."
-    publishedDateTime: 2022-07-24T21:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/194010-oneconnect-financial-technology-announces-launch-of-virtual-banking-solutions-suite/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Brazil-Money-Reais-Brasil.png"
-        width: 658
-        height: 609
-        isCached: true
   - title: "OneConnect launches digital banking suite powered by Brazillian fintech Pismo"
     excerpt: "The cloud services sector was forecasted to grow 18.4 percent in 2021 to reach a total valuation of $304.9 billion, up from $257.5 billion in 2020, according to research conducted by Gartner."
     publishedDateTime: 2022-07-25T07:08:00Z

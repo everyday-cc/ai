@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T12:30:00Z
 originalUrl: "https://thewest.com.au/news/indigenous-australians/indigenous-recognition-prime-minister-anthony-albaneses-garma-festival-speech-builds-referendum-momentum--c-7681574"
 webUrl: "https://thewest.com.au/news/indigenous-australians/indigenous-recognition-prime-minister-anthony-albaneses-garma-festival-speech-builds-referendum-momentum--c-7681574"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The West Australian

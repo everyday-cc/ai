@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI, Autonomy, and the Risk of Nuclear War"
+    excerpt: "Will emerging technologies like AI increase the risk of nuclear war? We are in an era of rapid disruptive technological change, especially in AI."
+    publishedDateTime: 2022-07-29T07:50:00Z
+    webUrl: "https://warontherocks.com/2022/07/ai-autonomy-and-the-risk-of-nuclear-war/"
+    type: article
+    provider:
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 37
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2022/07/minuteman-III-test.jpg"
+        width: 1330
+        height: 888
+        isCached: true
   - title: "Automatic recognition of jellyfish with artificial intelligence"
     excerpt: "The jellyfish sighting app, MedusApp, recently incorporated artificial intelligence (AI) to automatically recognize different species of jellyfish. Until now, this app only required users to select the species of jellyfish from a catalog provided;"
     publishedDateTime: 2022-07-27T13:28:00Z

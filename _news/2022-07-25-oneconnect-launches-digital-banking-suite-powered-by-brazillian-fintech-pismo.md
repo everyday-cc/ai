@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "OneConnect Financial Technology Announces Launch of Virtual Banking Solutions Suite"
-    excerpt: "OneConnect Financial Technology, the technology-as-a-service provider and an associate of Ping An Group, announced the launch of OneCosmo."
-    publishedDateTime: 2022-07-24T21:37:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/07/194010-oneconnect-financial-technology-announces-launch-of-virtual-banking-solutions-suite/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/08/Brazil-Money-Reais-Brasil.png"
-        width: 658
-        height: 609
-        isCached: true
   - title: "OneConnect Financial Technology Announces the Launch of All-In-One Digital Banking Solutions Suite, OneCosmo"
     excerpt: "OneCosmo is the result of the joint product offerings of a partnership between OneConnect and Pismo Next-generation technology implemented in OneCosmo allows financial institutions to build a wide range"
     publishedDateTime: 2022-07-26T06:46:00Z

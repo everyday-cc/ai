@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recogni
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "New Orleans Mayor OKs Police Use of Facial Recognition Technology"
+    excerpt: "Many jurisdictions have banned the technology, but it may be enjoying a comeback because of the crime surge. In New Orleans, the software has raised privacy concerns for years from the New Orleans Council,"
+    publishedDateTime: 2022-07-29T15:05:00Z
+    webUrl: "https://thecrimereport.org/2022/07/29/new-orleans-mayor-oks-police-use-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
+        isCached: true
   - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
     excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
     publishedDateTime: 2022-07-27T19:31:00Z

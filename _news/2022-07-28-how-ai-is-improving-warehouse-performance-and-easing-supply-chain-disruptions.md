@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-per
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/"
 type: article
 quality: 84
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is changing your world"
+    excerpt: "Like this weeks grim economic outlook, the CSIROs report on megatrends that will frame the lives of Australians in the coming decades made confronting reading. From the pandemic to drug-resistant superbugs,"
+    publishedDateTime: 2022-07-29T13:30:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    ampWebUrl: "https://amp.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/inquirer/how-artificial-intelligence-is-changing-your-world/news-story/fc4c705e408471f97730abbeac4f2501"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 61
+    images:
+      - url: "https://cdn.newsapi.com.au/image/v1/ffb699e16ac131a7d583e6a66e04343b"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Challenges facing AI in science and engineering"
     excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
     publishedDateTime: 2022-07-25T18:07:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T12:30:00Z
 originalUrl: "https://www.afr.com/politics/federal/pm-reveals-simple-but-momentous-voice-referendum-20220729-p5b5mz"
 webUrl: "https://www.afr.com/politics/federal/pm-reveals-simple-but-momentous-voice-referendum-20220729-p5b5mz"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian Financial Review

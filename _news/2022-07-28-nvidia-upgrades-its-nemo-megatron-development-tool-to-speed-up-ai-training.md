@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Nvidia Speeds Up Large Language Modeling"
+    excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
+    publishedDateTime: 2022-07-29T14:42:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 46
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
+        width: 888
+        height: 417
+        isCached: true
 
 secured: "36uAckt/GzW9x88ymkhszAVo06zZ0TyZVcsjyEjfB3zpcn9gwuRJEG0VXB7LwxnUmJBSExT08AK/HnuceHZM3DqbeH+UT88fiM6cwBpKm3PE8+wduJq557OfpYzSDkhZOMGM5d3Co7+LIKeWsXzk+cXfdm3TfT1xUvx9MF14I83UsY4M12RDC6mcN2YyBU6+WFOQIl8Riak4JL/PbAsU4wiyHEln0rz3QoT0qqKEB0cKFLx8wLFHcDCDCRP2prFQmDR/j+IcU77pVa+ht95zPsdhflX0i7WdhLrA8c1omb/JvB07kNW3c+mT4W4yjWvQIhtvT1cba2uHyjGMtUVr3AfjUuJWSPIU2ruMBrZt09mduP9mrlM/Zpwj/FTHw6gB0f8cHpMaMtATdYyNoK7NMzFoA3fgRURcUR8y2H26TF2DduY4KlptMldYr5KwK2vjPU7JT/bLdkkUIwGx8W37T3S0/w+sgJvESvxKwNDSNALdCoiGLdCM6jhKpGyxyTIngBcp+iFV0yUp4gG/fwCgiQ==;5sRmTdJIIZA3ruirwGiODQ=="
 ---

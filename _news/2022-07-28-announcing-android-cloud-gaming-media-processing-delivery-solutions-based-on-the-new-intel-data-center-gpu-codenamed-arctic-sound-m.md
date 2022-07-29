@@ -2,19 +2,69 @@
 category: news
 title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
 excerpt: "These new solutions will incorporate the Intel Data Center GPU, codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server with ..."
-publishedDateTime: 2022-07-28T01:27:00Z
-originalUrl: "https://fox40.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
-webUrl: "https://fox40.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
+publishedDateTime: 2022-07-28T01:23:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
 type: article
+quality: 7
+heat: -1
+published: false
 
 provider:
-  name: FOX40
-  domain: fox40.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "Vi461xGJeWGZtAsZjXQKSisnymTqKPSZiBipSpJGZJ1JzTUNeN8/sj/xOf9EyV42MNZ0PnGhMnkfbrwpY+EldUAFmxGSxD0XVC1oSa62LbRlPPSVE2P5+JX7K7OsZSNSJYiyPCt6MY4o4Xsyzjo01dpMH0F4Or4heDYCnWEgVO3XPwBElFQbH8Q0w18qt6HDROOKLfx/nsOhEvL4z3M3ylmahywm6bPFIGlZR2iVwW/mZO30/4MzqQMMRyO6KnnAWr2nOJDYI/tF2vvJQ09rHQCmI0daMqzZ9VyhaRMQYUVG2Z962B+FkJqYnBx5o2RpR7E79yXkoNMJ/8Z2/vCY907olpNwuXNwJRAOGYZ7occ=;E6JDL10ZM8UKiYQ2dt2yVQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+    width: 400
+    height: 206
+    isCached: true
+
+related:
+  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
+    excerpt: "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, is announcing future Total IT Solutions for availability with Android Cloud Gaming and Media Processing & Delivery."
+    publishedDateTime: 2022-07-28T05:45:00Z
+    webUrl: "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 25
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/sanjosecali2807.jpg"
+        width: 400
+        height: 206
+        isCached: true
+  - title: "Super Micro Computer, Inc.: Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New"
+    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M (ATS-M), to Deliver Outstanding Performance for the Modern Enterprise -- Over 540 1080p @60Hz"
+    publishedDateTime: 2022-07-28T01:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-07/56660678-super-micro-computer-inc-announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-a-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+        width: 400
+        height: 206
+        isCached: true
+  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
+    excerpt: "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding and media delivery, the Supermicro BigTwin system with up to eight Intel Data Center GPUs,"
+    publishedDateTime: 2022-07-28T17:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20220728/3967473.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
+secured: "1huIf+EnkW3orTb6olNC5ESshOZdM95OqnhWs88HMm3uyf58x19MyH3NHVFmBbV4WkC8JGV7gcvhKsYuvgYv16rrvJvA1QpRWf6n788cKeq046EnRNgT2pZmbA93J6LKCuUTDPBxLwOyvb5FL01pCPx/j0ijqBj2VCT9JwjExSWMH6f5Ri3rwVpUgxp1GuCy7MjvQ0sX0QA6BDE0mTYarVgyromOu4OYJlmi740jqM4TSFCdZ23Iq/329OQ0sHK9eiJaweXddS0xIBWtr7KZg5IlGYxserPHuYc2C/UIlTStcSv9v1dK2F77K51QHIg34oqMrtSgETTyobJgiFKHBHQTlxjAOGToZwRWDnOoAEE=;aoPFJywyJ73Joa6b1okc1Q=="
 ---
 

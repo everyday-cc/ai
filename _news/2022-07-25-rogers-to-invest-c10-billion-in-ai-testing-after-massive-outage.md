@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/media-telecom/rogers-invest-c10-b
 webUrl: "https://www.reuters.com/business/media-telecom/rogers-invest-c10-billion-ai-testing-after-massive-outage-2022-07-24/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Rogers to invest $10 billion in AI, testing after massive outage"
-    excerpt: "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
-    publishedDateTime: 2022-07-24T19:37:00Z
-    webUrl: "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369"
-    ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 57
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Rogers Communication to invest C$10 billion in AI, oversight following outage"
     excerpt: "Canadian telco giant has promised internal transformation after a network-wide blackout caused major disruption in Canada earlier this month"
     publishedDateTime: 2022-07-25T13:44:00Z
@@ -86,15 +70,6 @@ related:
         width: 470
         height: 247
         isCached: true
-  - title: "Rogers Communications to invest 7.7 billion USD in AI"
-    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
-    publishedDateTime: 2022-07-26T06:46:00Z
-    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "7ECzxT0qqW/tOPqEZyj2S5XB90hCTIV0fftyFOOKq/e1TVmn8hZXYGQG2oYgKSEA5/j5LuM3jcsft8T32xAE35V+Zyw3HsGn3u9wjPwjB/sh7pm07R3QSBeIh2yFt694MFWh/8MgZcUdewSdeIPVM6R6NAp6yQaJ1hFDgO0lyHJc3HPHYZ+BZyySiQ7jOdsGrtEeQtUI67kI9yCwz9HVSf6Uk70NsI1hQdT6zwWnSCHUZAz1QV3gEqWQ1/nCOjCx/BFYLd6X9t4UxVh9uvloeGoB7E1kvXMVAfAODVUNIhFF8/JAGFBLX+zWYBip2tw2oLdOn82kAcQRJhjrCCXYJDdWxxvuOY9LsYErPHb5U+RoT1uUiBcWNPw+L1QaktirmtpLjL9l0kjjPEXNr/LZbNFA6ij/fiByw0A31P1jHcgfPWWvFeBcweSJXYkiIx6cWhcUv6OQH+3gl8m+qSComvkmrFJ2OfHP+NKqfm2FTCfA41luNiM1IN5V6ulWT/ICsGxbHwMi9MIc3fkbkxwy6Q==;hZh+8E+QbObE73ZMPu+0ew=="
 ---

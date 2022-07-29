@@ -27,6 +27,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Transforming Customer Service Starts With Voice AI"
+    excerpt: "In the thick of our CX transformation journeys, conversational AI is a means for bridging the limits of automation as well as the gaps in workforce management. Now is the time to explore how voice-based conversational AI is flipping the script for the future of customer experience."
+    publishedDateTime: 2022-07-29T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/29/transforming-customer-service-starts-with-voice-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "asrC5WaphqmjVJZdXRRPPnz01+xNf+JIq0VxXhlqgfKhroL+bPLwLwu/3jARqJxkSFjXjZ1MpQYVqMfyirbAFrLDrFjXWuZ8eQP5IrB8S3xZjlSFLPV8/WvKO1GiCu0KACblwMD6VMYk8vyuKB/LsQi+yHmeV+UcU2zZ1A9/Zra5Pe1y/OT2h3d+O5tqdUzqAle2tJoj854dGSD3+8VhQYlPYWjNXHg2/N3vEoptXRc/Z4Ji3sya5zHvlzxQhFT4IVPD8PxAnAF6NPiapQb1U6Q9QGLuemPEIngb+HYZdcCiiTS0/Py6w+SsIoWPPAEWAByAiZuE4AC2rh2+/OmstBubMcZxp+VCGmQE5JlWYJo=;4F3xXZixkigfTEWSJet2Ow=="
 ---
 

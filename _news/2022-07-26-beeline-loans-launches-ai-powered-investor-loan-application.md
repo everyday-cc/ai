@@ -9,7 +9,7 @@ ampWebUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-appl
 cdnAmpWebUrl: "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 339
         height: 208
         isCached: true
+  - title: "Rogers Communications to invest 7.7 billion USD in AI"
+    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
+    publishedDateTime: 2022-07-26T06:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
   - title: "Eccovia Launches ClientInsight, an AI-Powered Data Warehouse to Improve Social Service Delivery"
     excerpt: "Eccovia, a leading provider of cloud-based SaaS solutions for the health and human services sector, announces the release of an unprecedented data warehouse and community-analytics platform, ClientInsight."
     publishedDateTime: 2022-07-25T13:39:00Z

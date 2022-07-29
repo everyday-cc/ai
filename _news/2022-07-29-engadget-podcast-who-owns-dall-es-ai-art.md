@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T13:12:00Z
 originalUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html"
 webUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Engadget

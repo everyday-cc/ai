@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI asked to show an image of the last selfie ever taken on Earth"
-    excerpt: "An artificial intelligence that everyone can try has been asked to show a picture of the last selfie a human ever took on Earth."
-    publishedDateTime: 2022-07-27T05:04:00Z
-    webUrl: "https://www.tweaktown.com/news/87614/ai-asked-to-show-an-image-of-the-last-selfie-ever-taken-on-earth/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
-
 secured: "Cj0N+afimYUby3M5wRDXbaQ3Q+QHCPkzsL1meNf+gLh7AiA6+MfwSnM48Wx5+jns10pq8m1UCkKgD3KcvNzZ6lCIKPQA25J124CIgDYj0B7MGCfMs1l+5/XO7mdKut/RJ+xktrqjYrmigX/l86RHBzeo8QohF6bGxNkeM8+VYQjnh3UyJw9gLLMx2H6q42VkdkA+BpBrCNrtTxH821Ne0UAAPDFmjXwLxY0kYuFsbhg51t7jXekQTr8zZr761HtikzoJnXs4Kl2YPBS8Pqk7LsZzwNAV8br44enUvielkHDkJvXxnCSM/j7OQO8YvaaOfGxe7ygPbs+iHY2QWBReJjfSDFoHQY22PUcDv0o8WgM=;e9CwnohLN5GWfgEsCNudIg=="
 ---
 

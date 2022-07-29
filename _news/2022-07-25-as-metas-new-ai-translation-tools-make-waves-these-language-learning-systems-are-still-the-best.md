@@ -3,18 +3,29 @@ category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
 excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
 publishedDateTime: 2022-07-25T14:51:00Z
-originalUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
-webUrl: "https://wgntv.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+originalUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
+ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
+cdnAmpWebUrl: "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
-  name: WGN-TV
-  domain: wgntv.com
+  name: FOX31 Denver
+  domain: kdvr.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "u13gUlEJZNVxNPwvZk9xtXAt9a+qF5Jq+QD90klBOZ5BHXu73p3Jq5KB07wvM+xIo5Vq8OxiJK07oE0/SlvHMBs1rpug7DzXJtcLV7CAp2uy3afsYejoBs4m/u/RQwOjAD2CAn/BfjFN84OUp4ZF1LBIl7/oGWt6/yv3qv5K5EFS2VPg7oQJaVbJfOJ1e7qwT/JrL2QAM3GwAaDjyyo3plB7D3SCqVgsmirVS1Cf0iWj+S2iqIKPCEE0jFDiKsiQ5bxQJLrVe8HpgCKi9lzCCQPS104LrHDXa8HtYv5Uhn3QvB2MDuo5KO81R/TJzalYWGkxvb/5RcoqGIL7LfCt3e2fWCoofMA4+RVKvNs9e/FHImczkbOOFHBTqCjSpuEPSw+ERYBgTo9OAeXbvT5o84M5qFwop07YnhPAEbB/YVLTrqsN/DAesUTXujwgRfGNAhb9ZmCunqWyz4+ZjU3Cm3lo83Fh9MdN+z7C1jjOH268BL8ojDYZWCkbBPpgtyW0PFV6c2CroMgmesg0dLqtGA==;fElb9xDC8huCjB3XQy9lLw=="
+images:
+  - url: "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280"
+    width: 1040
+    height: 585
+    isCached: true
+
+secured: "tNIS1T36Z5n7JQejpPu0yXWMGVX9F9bf9VksMbREmDxY2Y1E2GjbhJkVlrGpIKFw6pnWECFTj8wt7J8ypq3XD4DrM+NKjMGVHkjyjtLHcRzSu6leDTzDwjB687i4wCSXwn3j9QBp9PwvUoBmEMfgvXK11a4xd9dbuyvvcce18o1l+WAmM64ryiwBcNRjyCXY6GwCu5+woZ70tSteip4YeErNxk4x7ewAjYj/hLCtftInz/i9dt8LRJBAPQXcL1VW3c3V80hYX+Yztx0cMdKqzMJmZcaRBTkE2H4rF3dZR16Tg4Aq/w+UMVjbH8q24yvDZrwavQFu9pcbedIc8q5Var/cQGoU0FIGyM9C/+hQxiE=;WkW457Ye5VEabamq+CYK8w=="
 ---
 

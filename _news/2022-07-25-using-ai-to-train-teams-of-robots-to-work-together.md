@@ -64,6 +64,20 @@ related:
         width: 599
         height: 464
         isCached: true
+  - title: "Using AI to Train Teams of Robots to Work Together"
+    excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate ... together using multi-agent reinforcement learning, a type of artificial intelligence. “It’s easier when agents can talk to each other ..."
+    publishedDateTime: 2022-07-29T15:42:00Z
+    webUrl: "https://www.labmanager.com/news/using-ai-to-train-teams-of-robots-to-work-together-28526"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 54
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/28526/aImg/51504/using-ai-to-train-teams-of-robots-to-work-together-m.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "bcMQ/rdOGv+ZpbQH6jngqwF00eU3NrTH+DKINVSnHfZNSv4UB3Mw/xAzURe64jC6PIjMLS5bZ+yyd7jJ5U9635mhhUX150ZxCEtHSbrS1diDuSio6Ubq5HSYvwlUdh4+KXbwCv2uVG+VOfr2LSpSNxEbKhQL07gRtLGs6X2dmjdcHSCpo23U2Z5IVsbcIL/BWRUCr3M68kbtmSD0glX4bWXIsygTrVflODJyl0VMVmrpCC7yh2GBoHMzYkSqbNDZu3DzAfIatM4JK7jw8PbVU/tzbl+tE0ZrnCtj9ZaPrfGC4D52kPwUvOqJcyKtOgeaa1QLod46TO9lHF+ADkw1dDTLavu1E2uX69IICznmktiMy8+NoXVA040foZLL/VgB+1LveJPFkqZoCNVucA2h/nUCyL0O2HNxWsl1ChPmuyo/dDnlYcdcatCm5oadS1rQCP9RjSrxRXamVgFKz7lSQsPIopOterYJ7QXPi8w8qtUXANSOUdlHiTNszSQafttoklL7s5ddd80eCNDO74qWnQ==;0PQkHvLcNJkCw9Nav4wZjg=="
 ---

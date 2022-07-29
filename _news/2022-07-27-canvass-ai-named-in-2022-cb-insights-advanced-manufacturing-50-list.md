@@ -34,6 +34,20 @@ related:
         width: 900
         height: 594
         isCached: true
+  - title: "Industrial AI Startup OnePredict Named to the 2022 CB Insights' Advanced Manufacturing 50 List"
+    excerpt: "Named as the first S. Korean AI company to feature in Predictive Maintenance category SEOUL, South Korea, July 29, 2022 /PRNewswire/ -- OnePredict, a South Korean industrial"
+    publishedDateTime: 2022-07-29T13:00:00Z
+    webUrl: "https://www.asiaone.com/business/industrial-ai-startup-onepredict-named-2022-cb-insights-advanced-manufacturing-50-list"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 25
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jul2022/pr-newswire_500_4_1523.jpg?h=7de12b8a&itok=U-BTSRkX"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "RfZSknVEqxiN0XY3N2tYYHtYHs+lN+Qj+rU4hfhdIcg+y0kqqabvh0gpdqlRn4I7f8wx5u9/ciYVvOTfgbXPhQNScRSMZh0HFNqKfyYYzEmEFmuVaJ/WeHx8w1IxYXY2Jhf+Ss3a8zp4a6kmIiRZ/Sh9zP7wvT3lVNRiz1voZ3UOcTLYJESVUJqFjv+eOjNFPf0DutdwwP3CynuNEyUHsdx2vMdDQltI8rBnT53K6+tHplUy5UJS4sMVPm1HvPQptHv8jp5Fx8sJzqr1213T+tpeZKyaJlbywCyceMaJGyfOjvWS16+bN20dg7S60QNnMb6D9OUcE7i6PLbyMRcd9gG0PXJjHvyHxB3GM3pTuSU=;mkSn5077CnNpI5Pt3/SsLA=="
 ---

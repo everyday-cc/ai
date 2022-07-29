@@ -63,6 +63,15 @@ related:
         width: 339
         height: 208
         isCached: true
+  - title: "Rogers Communications to invest 7.7 billion USD in AI"
+    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
+    publishedDateTime: 2022-07-26T06:46:00Z
+    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "xv36QsIvFPMu1DXJ43eKHi/P/2brScpiOGAfKNh7T24A9BuQAUz+KX134nKNSVN0GMOrvg8dsF8bka9pPAVIuUqFgmlac9Q/OofqTsJcAPNSeznABh0rum07Eag3Gm0xca1XbHTC3rbEIaDAElZs2VaIzygfOhxGLkoAT12W0ga1ODAw/Dqd6KuJY21B63V6FiouJue2LeLFHxpLTfaULtEowt2cBArduYz779dpiRwk8wsMmwry5Ffl5ErPkjtbONAmgVJdNoDdmk4lbk01sYKlg/P8Vf9I1vQwc3CcwlyXnoSKp5yg0wUvvtmLJ098iWJvytowL+QfLpKCwGku5JYWRmfB1F1binWCpzpzOBE=;e8/wXX0kX5LIN5UjtpOifg=="
 ---

@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Rogers to invest $10 billion in AI, testing after massive outage"
-    excerpt: "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
-    publishedDateTime: 2022-07-24T19:37:00Z
-    webUrl: "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369"
-    ampWebUrl: "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 57
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Rogers to invest C$10 billion in AI, testing after massive outage"
     excerpt: "Rogers Communications Inc said on Sunday it will invest C$10 billion ($7.74 billion) over the next three years in Artificial Intelligence (AI), and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country."
     publishedDateTime: 2022-07-25T04:40:00Z
@@ -86,15 +70,6 @@ related:
         width: 470
         height: 247
         isCached: true
-  - title: "Rogers Communications to invest 7.7 billion USD in AI"
-    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
-    publishedDateTime: 2022-07-26T06:46:00Z
-    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
 
 secured: "QuGNzjkSc7F0vtWxR8H4z4z8zA6TCfd5CQ8NkTXw/umXQDXyC50fCPEkg1GSxua3lMKLPiUjTFdJnokOxBPPKOY5gsdE3iLMbkgilaDt2T9vSdk9G9tWk071ZQpen0e5eKYfs8ytKqOPXtNxRfBC9FxAKGmHOlFegMor6+aVIF2avi8YZWCQw+8+RRwTZSxlPQQp2ia5itC4JG1xBlKOjgMkskZ4c+UUfKCMHYrtwnnFCxDXIAExpEJRGAwP6CQD0N93sXPwhUgz8xXLMHvtYsRM3d5K103SC1PHUX5n029krwz3MEPwyR9KmeWwhOMPEvQn1doid/jiHiH8W8srqUHYQbOMAwIAq/0uLCu9vDdrZKeCB4v3PnFX4BfI5O8hX11td4CuclikLBWHEMKyrBklUJnM6If9ctv/+8FDy29/kWn/l6gkNwJQPY2xyyhJxitSglqcGmPcJshyk5ZWgGVT1z1/5aC3A25JIUBySMOqxUVKCK3E2CSJHlzNEmzFcJL56pbRu/eb5tkgW5Md+g==;NSWZ8efFMCIsw+ju0ZTb1g=="
 ---

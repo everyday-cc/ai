@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
-    excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
-    publishedDateTime: 2022-07-28T16:37:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
+  - title: "Researchers develop technique to bypass AI intrusion detection"
+    excerpt: "Researchers managed to trick deep learning model trained to recognise malicious packets that DDoS traffic was legitimate"
+    publishedDateTime: 2022-07-26T09:02:00Z
+    webUrl: "https://www.computing.co.uk/news/4053703/researchers-develop-technique-bypass-ai-intrusion-detection"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 38
+      name: Computing
+      domain: computing.co.uk
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg"
-        width: 1920
-        height: 1354
+      - url: "https://image.chitra.live/api/v1/wps/2528cec/289d9fdf-2a6b-42d9-bd52-26278c5dc68b/1/cyber-risk-iStock-479801072-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
-  - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
-    excerpt: "Artificial intelligence can ID when a patient is having a stroke caused by emergent LVO, making them a candidate for endovascular therapy."
-    publishedDateTime: 2022-07-28T23:24:00Z
-    webUrl: "https://ptproductsonline.com/neurological/strokes/artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care/"
+  - title: "Researchers aim to predict cardiac events with AI technique used to analyze earthquakes"
+    excerpt: "The project, supported by grant from the Canadian Institutes of Health Research, aims to leverage techniques developed by Goodfellow and his colleague in their previous work, which involves using artificial intelligence (AI) to analyze seismic data."
+    publishedDateTime: 2022-07-25T21:03:00Z
+    webUrl: "https://www.utoronto.ca/news/researchers-aim-predict-cardiac-events-ai-technique-used-analyze-earthquakes"
     type: article
     provider:
-      name: Physical Therapy Products
-      domain: ptproductsonline.com
-    quality: 25
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 31
     images:
-      - url: "https://ptproductsonline.com/wp-content/uploads/2021/12/ArtificialIntelligence2.jpg"
-        width: 800
-        height: 530
+      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-182424105-%281%29-crop.jpg?175776"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "PUDASbEQRguHZE7UMdq2G498dkc0Chqi98/AoLGxZtSx3BZ+imc/qXkFg9/YdEeK33AqMJ1dYdOrhJ6f5jSF1NuBzu9y1LFpEqr0nO45l0HMfNCyioL1aZwyou3w6R9PfbeIA6Zf64XTQPIaHakeiOQmFvv4jkq5y0p9fZB24PysRx76qtwAAIuh1+Tl40ESLjxGdMC1798m/1EnqxDPC/tg03/dr1olOcTUz8GZ7t79tlNDlZG+XMlOmt9wi37LxpDS7FcDvRLiEYnO6/1N/q1l5nrf5DqIZkc2y0MdRp8C+Plq9i4SFy7/VfaV7T0SJ/DTU/WIsXLA8OaKLZKekUEaln67It1BodCzV1tkukQ=;VaS4JjJuzWMzYUIk1c1zZg=="

@@ -43,18 +43,27 @@ related:
         isCached: true
   - title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
     excerpt: "These new solutions will incorporate the Intel Data Center GPU, codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server with ..."
-    publishedDateTime: 2022-07-28T01:27:00Z
-    webUrl: "https://fox40.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
+    publishedDateTime: 2022-07-28T01:23:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
     type: article
     provider:
-      name: FOX40
-      domain: fox40.com
+      name: FOX4 Kansas City
+      domain: fox4kc.com
     quality: 7
     images:
       - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
         width: 400
         height: 206
         isCached: true
+  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
+    excerpt: "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding and media delivery, the Supermicro BigTwin system with up to eight Intel Data Center GPUs,"
+    publishedDateTime: 2022-07-28T17:57:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20220728/3967473.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "XPtMe31ZYA/tPGqWw2f3tvUHwEkP9b90XlPxE7wLTfBxcCoW4wD/9r2UqMhJTqeFKVBd9zvYib2UENrCnLAgVlXinVkzF+7JJ9RJ+A32Wwx14xPAsH5FH/zj8KvJRmmENvfPgH/BXeM16P/sU3SNnCbgWB1ATVCObcvN970nglJUmROEULSlmoTH89WkN6DpyLPa2bGS5caP69HWP4jBUyCj5/5JC6qXvsNbJ4E2+bJcFcAKtw32dLimX3PMFOnoc0DxJG1+voXBiLIyvVHERkrpOtAbzyWD+7zw5MOCU4OCmAlDGwVCeQiWEfO3pJDdW6QfJllMF15hYW4o/9Gi0snN+0tfgJC+dvc5fx6rnuI=;DDHsXpFVBLimOlxIJDLgBA=="
 ---
