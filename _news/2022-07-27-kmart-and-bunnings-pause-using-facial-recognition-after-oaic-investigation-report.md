@@ -35,20 +35,6 @@ related:
         width: 4912
         height: 3264
         isCached: true
-  - title: "Retailers vow to avoid facial recognition"
-    excerpt: "Bunnings and Kmart have put a pause on using facial recognition technology in their stores amid an investigation by the privacy watchdog."
-    publishedDateTime: 2022-07-24T17:30:00Z
-    webUrl: "https://www.crikey.com.au/2022/07/25/retailers-vow-to-avoid-facial-recognition/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 54
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/07/2b0526f0-c660-494e-a99b-7748660dc10e.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial recognition still gets mixed reception on retail floors"
     excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
     publishedDateTime: 2022-07-26T21:44:00Z

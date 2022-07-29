@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Xalles to Acquire AIgrowthHUB and Expand AI-based Solutions"
-excerpt: "Xalles Holdings Inc., a fintech holding company providing technology and financial services solutions, will acquire AIgrowthHUB Inc. (“AIgrowthHUB”) in a share exchange agreement. AIgrowthHUB Inc. will become a wholly owned subsidiary of Xalles Technology Inc,"
-publishedDateTime: 2022-07-19T13:03:00Z
-originalUrl: "https://financialit.net/news/investment/xalles-acquire-aigrowthhub-and-expand-ai-based-solutions"
-webUrl: "https://financialit.net/news/investment/xalles-acquire-aigrowthhub-and-expand-ai-based-solutions"
+excerpt: "Grows in Importance Throughout the Business World, AIgrowthHUB Will Offer Solutions to Grow Business and Enhance the Customer Experience. WASHINGTON, DC, July 19, 2022 (GLOBE NEWSWIRE) -- via NewMediaWire – Xalles Holdings Inc."
+publishedDateTime: 2022-07-19T12:03:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-54c0138527f96165f858017636c83926"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-54c0138527f96165f858017636c83926"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
   - AI
 
-secured: "i4IKPcblylegU0mxFSQ9qd2v/HKj0k3B9BCLx5H9AfoSl0rtYAYvC4Ab/7IxWG310N2RPudYg+6X9upnVZNVJR+9/1ACvyu4y1ioDbajfd2EhT1FQQjWPOx2vx2aRzZYNem9BG786mWwIlPFzI1P7gbbO/78zEykz8vQBUCz+3co0RLnvHjfHsQfQCcGnxupaKpCQQjzgtmp2Aa9aMpgdwp7cK4qRonE/qtO6uQJBFAHn52OWC/l4F8mCzaTRz6BfUKOYMMiCP7QwRBRtjR9Bqb3kzO0nkXLEH8FBX4DjQZfHg3fZw+OVNiIt6xxYC4YjYox1L/W0yoON0VDz3U9r6bm58GaFoitzI4JD0/eVXw=;LAI/K8LHQHENGLaMYBqsdA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "UHq3IZJm8mnYRhZfQIo8mmI3kSYN80LS1SYj41EwRllG1om+ic5gxwCWMb5BW1gLDwu7UDIeY/vqQ+z5FLwuQYG3PoATSqJsXjtM5wQqPPLU5nJXlsDWT7/9JajItGU8ZqBoeZB00WvihimD5KMbTYiezijtKJXRt3tMk5HOl6AyDGsmagruMpEUhCQi0ymAkZERlAVgZsC72uyLosbm3C1qZDA89GUxY0wv67sanegjy6LyrdHUASeKTZL+LyuekDKjSTdq1BCcV2IboTjNjFabkftB6s7iQIQQSyjatBau6y2NvFdDDiZ9tvaY31MQTGSyDQkalX0PrgS9tsjaaJ1XNo8RExtJXlUMPG4ZURE=;71AAaNIEN0EUozcEyKy42g=="
 ---
 

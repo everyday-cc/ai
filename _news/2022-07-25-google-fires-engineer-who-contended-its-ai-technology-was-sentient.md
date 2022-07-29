@@ -54,6 +54,20 @@ related:
         width: 780
         height: 405
         isCached: true
+  - title: "Zeal rolls out AI identification technology to protect minors"
+    excerpt: "Zeal Network has linked up with Nect to implement AI identity verification technology to better protect minors from gambling harm."
+    publishedDateTime: 2022-07-29T09:18:00Z
+    webUrl: "https://igamingbusiness.com/tech-innovation/cybersecurity/zeal-rolls-out-ai-identification-technology-to-protect-minors/"
+    type: article
+    provider:
+      name: igamingbusiness.com
+      domain: igamingbusiness.com
+    quality: 37
+    images:
+      - url: "https://igamingbusiness.com/wp-content/uploads/2020/11/magnifying-glass-450690_1920-1.jpg"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "qCdKfgZLQbxXRFB4EhvqqBZR2YYC7Ao7EYSytjJOla1SHAzrKTT+AfqJTKHuqpM8jc3krDO/LQG2osC4bQWmsTM9zNMOlSNLzuhoKbCeQPpT7+QJzw53EY2NFKHbB53BTRddNZUwuMi4+0hdPPa8nzmdLa3w73MTkX+GorXdJT1oEjaf0x7L625wZmYJe+U25QJvF1C+Vi4rbgjGXSNJOz5LYe2lpbyCYKZoLT0r0HuPvP42w8tAIenRp98jGaVeiLl/mW6JZ2nYj+/9B02hlbChViKi52DJa7bQMuODuNRPM2rSTYyNlsZ2rt+sKOCTq0jFV+5PTPiw0nrfk6b8Fm5n9ocnIwWU0CrtdtawTxSkZSGVU6vqqv13JcpbHo7iuz1Fis7obepp8wiTCJtIgbFoZgyuLPAwkyLAAkubClcx9IWVmkbzFdykkfPDvBXthiy5tOzW2c3LHrckEY+zBiMg8kl/pOFYbnGQuuQo+8ZoiU1T2TbEQrfbC2CM4MQDS2Oz4kKJ5NDosnNlzLgV0g==;uPRq5AueLVhVGeNJ5hTreg=="
 ---

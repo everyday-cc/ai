@@ -86,6 +86,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
+    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
+    publishedDateTime: 2022-07-28T22:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20"
+        width: 620
+        height: 372
+        isCached: true
   - title: "AI tackles the challenge of materials structure prediction"
     excerpt: "Researchers have designed a machine learning method that can predict the structure of new materials with five times the efficiency of the current standard, removing a key roadblock in developing advanced materials for applications such as energy storage and photovoltaics."
     publishedDateTime: 2022-07-28T14:05:00Z
@@ -145,6 +161,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-7.png"
         width: 850
         height: 478
+        isCached: true
+  - title: "AlphaFold: Why DeepMind’s protein-folding AI is transformational"
+    excerpt: "Understanding proteins and their complex 3D shapes is key to understanding life, and especially for developing drugs"
+    publishedDateTime: 2022-07-29T11:29:00Z
+    webUrl: "https://www.newscientist.com/article/2331479-alphafold-why-deepminds-protein-folding-ai-is-transformational/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/29105126/SEI_116909091.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
     excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."
@@ -284,6 +314,6 @@ related:
       domain: nature.com
     quality: 15
 
-secured: "N1Wg8kYxYOnKV8yewHYv6JfF6j16zKSna1vDtPvFaFLEUXDjY3bfMtNMDj3m78KQfgX6fyUWbPlYB1JsTCLfd8w39Mg/VVsi7N2rcq6dGo36lYHVLsLRtTIRuMPBlnV41r+G9/XS5dmXyuESn1hhQkXyi4PF/PJCJ+wWtnH4JOGET9DtSBcxEYywxcxiWbabkDDiMIQtDMbUunmIcY67e1i31DQW4SFwGgBssmSwb7DKkMxJ9l49eBT3GwrVT8GaTFxDkr3bU3te6pSM3sgiqKZCifXGE9IQTlujlB+JjUODDy1YFG9cAxc2ZMTqu5K0ak5mwnrO98XJ5pJ7jyVbi/KAl6+k4cPa6l8yDC3PeRA=;mKT4V15ZRTvjT3LaDYTjeQ=="
+secured: "BCfuETRETj1nlwttGtpAquZRdSBJKSfnd2IgJp+Q1cE1ihXhuIaGLv3l2uIT3oh+i5OoA3hHBfzXABe66wiXdjFL/lMQhfBie4iiClJu1aBa0lvJHxWC/8dyqETapZ08G5vZe+U0JtYqg/qmItSCoIu5LWaXb71C2ZjK3nT9TBoCbgN1Bbl7wxJo+OCCX8eSaiXhyOmcU9/mDm9zuUOOpWdmetwZ7MsBa0R7vmPxoVvefFl5mFFkNaf+wiXUvqnVap70hhkJwXPVG4KENvAuAAcg4pPUabkgkDKe/A2FstxzA/k6bRkT2ON3tE/N4XwghGKad9E9mI3zQxRIY6S0U1lXDzwJ+t4KNZIrcgVadmeHo7F+f2F8+DvncUbweX03UalKY1DlvQbpMGMxUV/jiwTw2geRSCTMx3CcclRQbTNWAwBy9/ckVr+oiGLQ1MKUF4tVD6s2qZmK7CpsyvbvOsVz9r1XYsWjOuyP/BG54ETYTDITVUsoEimRE3ua7Y5vJxbjDi+upXtxrZYqrgTJKg==;0hE/7t3Y7veTpJ1LixMRfg=="
 ---
 

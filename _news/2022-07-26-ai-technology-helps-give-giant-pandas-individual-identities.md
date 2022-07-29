@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38844"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Zeal rolls out AI identification technology to protect minors"
+    excerpt: "Zeal Network has linked up with Nect to implement AI identity verification technology to better protect minors from gambling harm."
+    publishedDateTime: 2022-07-29T09:18:00Z
+    webUrl: "https://igamingbusiness.com/tech-innovation/cybersecurity/zeal-rolls-out-ai-identification-technology-to-protect-minors/"
+    type: article
+    provider:
+      name: igamingbusiness.com
+      domain: igamingbusiness.com
+    quality: 37
+    images:
+      - url: "https://igamingbusiness.com/wp-content/uploads/2020/11/magnifying-glass-450690_1920-1.jpg"
+        width: 800
+        height: 522
         isCached: true
 
 secured: "qr8opJNMJodivXRrv661hK9ZQo09BxxSsJf1Fmwrnam3hxwQ3mcYgZ/JbQtZcNvCSSk6E6Jz0vIP3iwStMc5NOs9QTgmUjRFJucsuQPjZL+UxEMFr8iQXw+xRNDVKu1mFI/fAkE7dD22lh/f/lReedlRFUR2jgpX6uQB6Vw1Qju9ARzDeONYtEQkfunpi1zcxzXX8Z/wtdHldKMlKk1Y5uSOGNGWzNUwE9ijqvXBG5KZ2FqvMr92tVrIm/PynC52GEiOAwm7hy9FGMgvfpHd53zU1d2YvhvKH/SxntIBtAfwYvvS1XHf5yRG6QVohXUtZuFK3fD8lzrVd9xoCrn1B4Ryj9tfidgBBNCL7EAMf7KItd3m2eVLxAb2u+dk9lgs9wO7s5h4EMKegM8hJ8NyscKNaCo31EDs8KDGLaCw/TblXnFr5hbkb9ribFPGU/X2jkPug7J393u4zj7vwj0DUNXkzDSMHtoNwVSGxMWZP0VfHfSdrN2fVUihgHxt7ZJusY/FCFiNENAP20fERVhpkQ==;GgvZ91xasHWEIDghTUtSXg=="

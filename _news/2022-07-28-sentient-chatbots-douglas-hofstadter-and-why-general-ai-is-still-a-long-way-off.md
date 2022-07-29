@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sentient chatbots, Douglas Hofstadter, and why general AI is still a long way off"
+    excerpt: "One of the the fields leading thinkers, Melanie Mitchell talks about why humans are unlikely to develop general AI anytime soon."
+    publishedDateTime: 2022-07-29T10:39:00Z
+    webUrl: "https://interestingengineering.com/science/sentient-chatbots-douglas-hofstadter-and-why-general-ai-is-still-a-long-ways-off"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 12
   - title: "Sentient chatbots, Douglas Hofstadter, and why general AI is still a long ways off"
     excerpt: "One of the the fields leading thinkers, Melanie Mitchell talks about why humans are unlikely to develop general AI anytime soon."
     publishedDateTime: 2022-07-27T19:06:00Z

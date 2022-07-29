@@ -29,14 +29,21 @@ images:
 
 related:
   - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
-    publishedDateTime: 2022-07-28T19:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage."
+    publishedDateTime: 2022-07-28T18:00:00Z
+    webUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
+    ampWebUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
+      name: techxplore
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg"
+        width: 2480
+        height: 3507
+        isCached: true
   - title: "Making AI faster and more energy efficient"
     excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
     publishedDateTime: 2022-07-28T21:51:00Z
@@ -80,6 +87,6 @@ related:
         height: 400
         isCached: true
 
-secured: "iICNSHp0HL9jVIWMk0yGoh8kKqffuPa5LAVGGwFZlEbFw0w2d8oIRb6LFRknauD+hwG5LI45tYSJW2OdMTkO4oRlA2Abzkin1diyODs6NpU6o5A8Pfvxfzqh5G1mgNv9gXDK5OlZ2hj9hTr5qa2kB73hLRTkVu+5ZTOR3guccs6OM6pUqellt8ftNZe1Rn/X8fKZuOcIMz6grGdSeinip5F7zN925u3ioacmJk68ey59FFKJNJKjmuZwsdgNS/SNJJvGknKDbf7pGz4UvWqKju0vkQHg2mspvnxtpdQdS/yeynrAx4cuLtmgcMUJGyz3pD3vnzwduqUY2FoSZUeIQMIsTVDBw/1wiA2wJJouF5A=;F19A43r3aCGq5tJOMFum5Q=="
+secured: "s7L4OZ4ixjUAITSSF2cM/8bCy4b/UF5hxOdixqfIZe5q7f/Jfy+WRXf4y7KVX2mqYtEePJlmmNATZml5G5vcMlraDWDBSYwnAnvv6YadTcBc3T9mq34vg6RmCJMs+rD1rUuZW8FlX9Cy/LJPWarMJIRzc5CRxjWM+0dvXdJYu6/daNjvGqh5/Vi3JReZB7wKwAtZX+MYM2EF3+y2o6Se4Kql8aLidVp10faItc2wFKyoAferQVrIWMgGQX3Pw444YvejngDRdI2NsZHaftWLibrBRmPwwfzJpSzZ0+hi/VE2PJwdGpp7rLmz5lG/E0INPIT2xWSgMYQhsdKiLDYa9bzjDhSKhs+s97/+5JZHZdKq226K/3c2EdZ6Pdd8mK+SA6ZBZU3eFXDEAJJUVtMeAE+OcUQJQGhpJOF3+HfLcya7gAlYA7Zpfm4Z1Ne1yoIyTqXh4GfX9Q+4VH5Lho1uGJle1jogit+WlTJ8vB1AFWSTYds0ylwqFjwE9Blmqrxf/Mgwey+aHphL6Zgq2KMZ6g==;nnljyOwgG/osBRPRvdqYvA=="
 ---
 

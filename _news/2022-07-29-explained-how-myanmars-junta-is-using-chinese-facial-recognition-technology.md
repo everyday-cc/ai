@@ -2,11 +2,11 @@
 category: news
 title: "Explained: How Myanmar’s junta is using Chinese facial recognition technology"
 excerpt: "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents."
-publishedDateTime: 2022-07-28T17:24:00Z
-originalUrl: "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/"
-webUrl: "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/"
-ampWebUrl: "https://indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
+publishedDateTime: 2022-07-29T11:37:00Z
+originalUrl: "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/"
+webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/"
+ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
 type: article
 quality: 71
 heat: 81
@@ -21,27 +21,29 @@ topics:
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2022/07/Myanmar-junta-1.jpg"
+  - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759-1.jpg"
     width: 1200
     height: 667
     isCached: true
 
 related:
   - title: "Facial Recognition Technology Down Under"
-    excerpt: "The language is far from reassuring. Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia’s large retail companies have given a ..."
-    publishedDateTime: 2022-07-29T03:15:00Z
-    webUrl: "https://countercurrents.org/2022/07/facial-recognition-technology-down-under/"
+    excerpt: "The language is far from reassuring. Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia rsquo;s large retail companies have given a meek assurance that they will ldquo;"
+    publishedDateTime: 2022-07-29T11:05:00Z
+    webUrl: "https://www.modernghana.com/news/1174328/facial-recognition-technology-down-under.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1174328/facial-recognition-technology-down-under.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1174328/facial-recognition-technology-down-under.html"
     type: article
     provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 39
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 59
     images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2022/07/facial-recognition.jpg"
-        width: 700
-        height: 528
+      - url: "https://cdn.modernghana.com/images/content/7292022123316-rwnyqdcp53-man-with-facial-recognistion-software-on-face.jpeg"
+        width: 760
+        height: 428
         isCached: true
 
-secured: "HzdnJUJJHSDI3OepOqSDd1fHhxFNNlHHTvE2lRJwcYtcvdxc0/q/Q2vVNxW9Bobn1Ep6xlYjr+ylNsgBx9NwCk3/m6wjfgXGlIDBhTI+NEGcxpOAOzzsUddTQQBiBTezNu58CEW6ACh/SJa49BRwO8LTSPSL0SqjvLPfClj3GgIw5JyfzSoDoeeC7Ry2So0vaI/uNuTh/Ime79uw38WcXXT5Mt7juzmLFBT3IBgd+Q5Xzz5aZ0kScIHOinv3Mi9a4PT1nD1b7TBxGLnxgp2PA/JoDs8QkTO+nUeLmrmeOQNcHhcEB6M7GnoT+pjO+eYmncI1eAnJUrCZ2ufKC4HENRPEbrm+YsEsMYMUwqVtn6t3X1+1POQkw4Bzcn817kckmPEWo8jpe1w8yKr1pK23lSg20RbiZhuM3n9fQFvcb2gBIB7+gKXPy89XsV3NUPzj0gDaRKlFzTdQD/aljdQ1TxujPVDEK6CQg3ca+0GeFMu2FpxmlDspCPbPUuVtAKvnZXEvhWtYBYUibsqCuUWFeQ==;eELui4+vYjUOHuvCsGj+sg=="
+secured: "7z3ypxRbzteHCnINhhnSTqUCnZQqUHRzwJ8cURD9P62mmMpigwKM/d/fkK4GOpEXNXWBCaqofY+6A+78CT0AuuQpi/u+RffIrWwRuaWuio9hVSkiRw5NvCai+cqF1umXnwrMyp1Eep9WvUIlZuYXQ4rOvnefrcVcXnibXVIZbPC0f0KnemkUkRZIqt6eTJTJClHLX2Ho3CXwqtfsrI9D710+f2rDQ6HKngpDwW1+I9nmfxDHTJKmk2lXGPjbYFLSOqZ6gccowuJvpWi7qP/l2C0/PQ77yvCCmMLcbSZuYRO6VE5LsKP/QBqAd+4cjH+zd4XMMu58bnHxrPykMlIYNXK4Fe60bdHjOh/2buL/E6k=;CVNDfKhGlW1yILgBeE5W5Q=="
 ---
 
