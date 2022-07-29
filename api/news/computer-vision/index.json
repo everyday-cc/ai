@@ -830,6 +830,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-how-awards-recognition-decrease-inventors-creativity.md",
+      "title": "How awards, recognition decrease inventors' creativity",
+      "excerpt": "The U.S. Fear of failure the second time around Markus Baer, professor of organizational behavior at Olin, and Dirk Deichmann, of the Rotterdam School of Management in the Netherlands, discovered that recognizing first-time producers of successful novel ideas with an award or recognition can significantly decrease the likelihood that they will produce future creative work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "originalUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0722/inventor.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "publishedDateTime": "2022-07-18T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
       "title": "ForSight sees a world without cataracts with its surgery robot",
       "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
@@ -1311,58 +1354,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-13T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
-      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

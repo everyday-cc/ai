@@ -158,15 +158,6 @@ related:
       name: techerati
       domain: techerati.com
     quality: 19
-  - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
-    excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
-    publishedDateTime: 2022-07-24T12:53:00Z
-    webUrl: "https://www.techworm.net/2022/07/google-fires-engineer-ai-chatbot-sentient.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 17
   - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
     excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
     publishedDateTime: 2022-07-25T11:49:00Z

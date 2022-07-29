@@ -32,7 +32,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 42
+    quality: 40
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
     publishedDateTime: 2022-07-28T21:34:00Z

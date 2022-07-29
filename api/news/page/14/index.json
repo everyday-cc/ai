@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-07-13-deutsche-telekom-will-trial-google-clouds-data-analytics-artificial-intelligence-ai-and-machine-learning-ml-solutions.md",
+      "title": "Deutsche Telekom will trial Google Cloud’s data analytics, artificial intelligence (AI) and machine learning (ML) solutions",
+      "excerpt": "Deutsche Telekom and Google Cloud will pilot several network services such as 5G SA in Austria, as well as remote packet gateway functions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
+      "originalUrl": "https://www.rcrwireless.com/20220713/5g/deutsche-telekom-expands-partnership-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2018/08/86347751_l.jpg",
+          "width": 2048,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-gartner-translated-leading-advances-in-ai-in-the-translation-industry.md",
+      "title": "Gartner: Translated Leading Advances in AI in the Translation Industry",
+      "excerpt": "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-from-physicist-to-machine-learning-engineer.md",
       "title": "From Physicist To Machine Learning Engineer",
       "excerpt": "Justin Chen received his PhD in Physics from Rice University before deciding to make the jump from academia to machine learning. He spent the last few years as a Machine Learning Engineer at Manifold before making the jump to Google.",
@@ -1036,93 +1113,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-intel-releases-open-source-ai-reference-kits.md",
-      "title": "Intel Releases Open Source AI Reference Kits",
-      "excerpt": "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28037885",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885",
-      "publishedDateTime": "2022-07-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
-      "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
-      "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
-      "publishedDateTime": "2022-07-12T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

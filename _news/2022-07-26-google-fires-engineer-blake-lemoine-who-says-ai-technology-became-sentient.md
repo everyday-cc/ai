@@ -151,15 +151,6 @@ related:
       name: techerati
       domain: techerati.com
     quality: 19
-  - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
-    excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
-    publishedDateTime: 2022-07-24T12:53:00Z
-    webUrl: "https://www.techworm.net/2022/07/google-fires-engineer-ai-chatbot-sentient.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 17
   - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
     excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
     publishedDateTime: 2022-07-25T18:19:00Z
@@ -179,6 +170,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "lxQ9G8EFoIvvCxXjVbGjY8P5IcWZJAxKuQT6Fcbsf5FfsnElJl+rAuURcfW/biy4vVoaZ/p4v4wmHYMZCpCY6AZfGcK7+YwTFP5uhOmzl7h3jSMDK190iCjxIXCT6JSdo0TC+rUk40adNCyaS8wldQ7u0y8EhdfnchkCkU9kmwg14UtbL8gLjeY/Ow0XvSChQyVAI/DyPxFQ9WYV+3FYofw/eDXARDg3Xur7uToI/eNZQZZLbRmmPbFaKnrFq+JUe9Yjjg9Aq4WPT++7yRMQV6lHUmLiWTOxo7l/GtMrFlSxOrS47GWXRZ4btWPmpfpxJCRB5T74o+dhH6Oqs3qoFnLzvLwszL5r6ikFDPAIX8w=;uUxgDiCGBbscMf3kdWjuQg=="
+secured: "v/2Kr25uIpA5iSrRBNAtsZyIEaKFJV0JzqDL0lHGyvvhOjvf9hFTh8MjAsCKIi2Pwin1SGQUuTXSrPzzIcvSEPFEl/+exUUcZf8Ts4fcWAjYA0UAyvEpc8u10kW4GK+PbLENl8TGXwkA8iJ3bROo44s7Uk56T6oxho/4Nn2s2KcFN2i9apFLq0+/EDb2cLxuqS3Ok1svHxaAE0hebVZ5ddTgjICHTd2tfoI0RMbLQdWjCHsbfXDmeOw8r2tBqPaCfcpLqGF4/Mzxrv1xPDCZ+HMy5XX3ZwqkI12l+ulNPDfI5jRObpBrpodKjlFT3C1aXp5LGSexN4lpOsMw2xzoww9qeWaoq8uo/tMBejkeeUE=;h1/EHqfbXjKdoWMBsdxK0w=="
 ---
 

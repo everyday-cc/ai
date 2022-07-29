@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-21-dall-es-powerful-ai-image-generator-is-now-available-in-beta.md",
+      "title": "DALL-E's powerful AI image generator is now available in beta",
+      "excerpt": "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "originalUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/08fb3150-084c-11ed-8bae-00915c7d9e77",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
       "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
       "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
@@ -1119,49 +1170,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
-      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
-      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959388",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

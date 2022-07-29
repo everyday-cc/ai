@@ -27,6 +27,22 @@ images:
     height: 218
     isCached: true
 
-secured: "PC3hnMawz/us6Gkvify8D3SiTXljOugCceFL1dtvRGAqrc96EjVK3tygNiSx4NWE1EJ7E7QZtERZztmGE7qkeEIeHuW6w0+QJ4S0vuq94AavfvgheHGdbwCkjmNTiDHI2jrBRnkReITPh/Hd0sbfdlmHwl6i3wZ7n01PUcoAdcXzOmSUYonvfEVUTzPZGO+J/UzKNSlG8r+U9v90geCVMutvpkyUzg6ozbhj+zMTt3Ha0GnM80OwqWzhrcGcg1flI7aqDYoCXLcLLtPirByHjnWIqEYJGM0A+4ZOer+LTwzkpjvtdwnwYYaVEcXPnjFnYCjnzcf9JsvbXoqO5514Hk7VxlkdhrxE5q14yJw2LcE=;VWb59woM7HfYx0AC920kqA=="
+related:
+  - title: "The Taiwanese Startup Mindtronic AI Opens the Way to the Future of Mobility With Meta-Service Ecosystem"
+    excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS,  /PRNewswire/ -- Mindtronic AI (  ), a Taiwan -based startup, unveils the world's first Meta-Service,"
+    publishedDateTime: 2022-07-29T05:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-taiwanese-startup-mindtronic-ai-opens-way-the-future-/2022/07/29/9647354.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1868820/image_5019932_6824200.jpg"
+        width: 400
+        height: 270
+        isCached: true
+
+secured: "W6dGy0ejILp5YtAc/AOVtEucadXl23hnoz6ZdbhDQdJr0bPrxLZ49rpCCfkvd1YmIL70l+kJ3DdZPjaKowLIFTpxFRsHhYnXwlwNKtddwhLa96ij6FIO3hMf7WnW1QSIr2yBgKTTeee208SP8snx7Ll7Nbkpz2l3R2+N/noXPVPXY9a1rKEQ7Mp7pyr0+vNvm+glCWB+iZcRo0AFbvmhrtCZfzoYFv25C9IybMncLewrgW6klxgAxk8ndoofoYaZyS6ylCKwExB+9ruoh9r+eGh0818AoGolW+XPPF0FfYToOPiSK/6EaYVzjAZpuulOz64x6b96NeE8LJm4a6AhFBSLCLoDVoNwBDCk9Tuu24jFzDhVjNbTx6t/gKpQtegO/lGlIJPss4RoDdXs51mPRS6RlWwO9Jy1+Bh0RVAVjQgUMNF0zryh0kcxzyVYxSJraFTX0O3I4DBfqqPa4d+bmZTz1MzB7I3/doJNHlbLdD27NSA0tRcSaXrlyfMh1BklVi6/NatAEe5HdlZrbTUmeA==;edaWDMqqkh59Ip/hwSTyew=="
 ---
 

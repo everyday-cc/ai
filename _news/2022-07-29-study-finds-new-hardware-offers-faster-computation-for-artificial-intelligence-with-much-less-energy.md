@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 42
+    quality: 40
   - title: "Making AI faster and more energy efficient"
     excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
     publishedDateTime: 2022-07-28T21:51:00Z

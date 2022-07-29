@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
+      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
+      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959388",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
       "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
       "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
@@ -1098,48 +1141,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-how-is-ai-impacting-the-automobile-industry.md",
-      "title": "How is AI impacting the Automobile Industry?",
-      "excerpt": "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
-      "originalUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
-      "publishedDateTime": "2022-07-19T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

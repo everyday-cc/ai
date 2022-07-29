@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition cameras in UK retail chain challenged by privacy group"
 excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-publishedDateTime: 2022-07-26T07:39:00Z
-originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
-webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group?mid=1"
+publishedDateTime: 2022-07-26T09:22:00Z
+originalUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
+webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
 type: article
@@ -182,6 +182,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "1RzJujEvGCe68IYqI/M+o3FayAbDBtVtkm6EguXiSa2o/EGgI0Lu22VIKt4ooDdZvhi05Q5z8XSDSQ0Ryy6lu6d/SuBYnbVUqJNng86GWhM4+RMBPLcvbTlPY3D8rjaqPHI+sR9zHhZYizpPHNVSgRpJTqWq9s9NxgL6W4+nn+9BbFKC3Om9NpLnwFjUos7UwPGZ16KvvviLX2hePRh0aYwEokyNGxXsQ3rywgfpUnrtFtz32uAxPuqCQfRIuf6bf7AhIaVp0BwnF1tcLBV3+3DBqNVn840XJWO7DK9N6RkBFqLnFO/w4+5k8vQU6IoMD6yh/VfZrB0dJBUJc7TY6aoAUbrrrCNxy0QI71evTcuofBzGNoGcMQkBDXHkNPCra6CO8SYhoYgAwVj0x+pVGEkwmjFfSW/WtLOauUbXCN+DC7igUmQH4TUPGmTYKiHt2LWft9gnMfAcNFCDFGKWPsfyHNfASmv/UW8oVnqbqrhtjdHChdcIO/N0rHyPSMm2q6j3CAvulRpXP3kD7IbZFQ==;e+7fbE8JM+FeAXQAggi9Bw=="
+secured: "me1qd7ENrLBR3WyrQ0dSeXZcP5llAzSiAVKhUxwjWkFgYYxfC5/bQNnDGmKj4wplR9UzzW/6hYNwHF9TCpOl7QtYdurXxMM9Vd8ExLVer4UZN08AsnLaRu+psUenZo9xPspBLjLfxONBLPmZaOp4srEyAelezkLBPTDzRfHECNhWtDQoUYEqVQ05z8BBOu9TaZ0bsCAC0PiPc7ViD0EWNi1ZjSGNl6puUvhXVigE/S6SZMxNvJjPQbLt5Yb2VbfIlUZzSif0AwKy2OUcux1TatycrGtJ/4peMZBOvo3Oopfn5lYKzvGDsrQAa+ZmdDlQsl+lRXSU2hjQj++8yloMAID3XyZ2BGl7C4olHjMKMbU=;1MNTrxX4EQ3rhAJDrDGPMg=="
 ---
 

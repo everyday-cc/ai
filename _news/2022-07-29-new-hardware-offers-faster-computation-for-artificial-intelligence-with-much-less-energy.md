@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-28T19:51:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
-quality: 42
-heat: 42
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Making AI faster and more energy efficient"
@@ -53,6 +52,6 @@ related:
         height: 420
         isCached: true
 
-secured: "E81ME/+alflEIA+udmeiu6YcfJakRW3lUODyg3Hwb4YKWYu38Uozr8hoN1wMoqI5h3LFEZG+5d8UNvyd1orbb/Rbn9BkOseCTOJ7sMDWcr1IuebRY+u9uONQ4jTNkFiTpbIJ7FpG/35QuJqMfw/XecLskuagSPeZmfd4vUZbYWeFr/rAob0SogRgrz4sXYnBy8nk6MGO220LOi3LnAhXrfcmY7kVp9cpkzeP1i8l27x28+k1qvCgw3CDQWn/H73GjS3c7JABlhpT7vJeL1p4hPbq7lfiATK3jTlQpqWRzdCltxeDGK/P/ppY4rCSDKI0sgtPDknlGX5XLoH0dzlEELXHF7zcUUxyYAgMCnzYqLE=;SOYdhawmJZtRFiLgINhDQQ=="
+secured: "/IT4UVfGiZJVSEn/2oVq1RanSEKAaUMRfMgBffgf6zDGwlyAjNUeq3mHNXc5HAzsb0fY/8ZSqUIMamDFCxRmYm/7/57Wltf/5insncmkCkYtEpaBnohC3jBUp5STGr742Irljrj+1Q/itQiV5RnsITbgApzeR2bwMQ9X37b0lY/G7tEbR10nUFuYr/yhyGn+EcecD6HjKbGCI2gcOyWkgagFaAbqLVqpTNz+K+/ksTIPWbtwF/h44N3lpVTgIbzzzv+xQzSqtUmIIoorHNf5e4/lIz06WDUBmmKMj1yz8BJ2xO/i0/9cQe+6EPLHD1KX6DCtr9oQRFBzgMn+2zo0NMnr5gCJBxf6L0xKDpIF58s=;Nw18+w8QOvL6EG4vlHYBZw=="
 ---
 

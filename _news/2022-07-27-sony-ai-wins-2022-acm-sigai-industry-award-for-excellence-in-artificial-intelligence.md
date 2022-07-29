@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-27T12:15:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
 webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 secured: "rzVCTtbCcF69SQmQ5UHpgItwWqVzpwNihSZTyjE6L13NMRqfesNiGf+mv6EAUVJ490Wb0+4q4mHwDOyUVCEXrNvQkqy0qYRICH8PDJzo6YSJCzLAzvQ2u457xUOqikzecQ2sV51b2IUEiDWHDF2zeoFt5jNijVMjtS5xrSH+cMMGdAVs6N6EBko7Jrouzz3S92+AVqnEDYIR9oBmMSwIrsvW1H9/8gALqaDYIwXLZQvzFgTY5OZi2ro6Lq3ixi0u/nd6olZP7nfquER6RPR1tINzfyVY7CfBaY7EkhS6nArETCa05lnSVzEP+sZMXIHjM22om5C0Kffyq2prUlJk21Ide+9dY8rze7LbcwCvnwQ=;ri96toN457lZ96VT1/1ykA=="
 ---

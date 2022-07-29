@@ -28,6 +28,22 @@ images:
     height: 400
     isCached: true
 
-secured: "SM+y3uYHTC8ikyXLihpv5jNbpFM4lRbkmqQH6Y+VvrBeKBWGCtMh0YENCi9voEqygOqau5sftw/p+xPZRzYpRoslClbencwnV/9sbXuQ0aMcosVokscz8Jc1olEe7cpQr0j2fo8a+UagaxQgdzWDC4bWMjDXwjPaQFdM3wbv87nAPFK3zDODPyzpYFWGOOrNVpVy3gjr3iZplBRNesELGDT3eYmba6py9nWv4zchMrO1yZY0KurQkZEyVKCwf2YlKoHpJPrCNeYZVYr63hJfon72dqAQ8xIU6tgi1hwWO5CT4iYerllC1zQAOzDmu1zkVKLTFMBFM1BSVCEVsK+7dw/LZMWHhPJ54aTaxg/Vx9Y=;OFnpG37Akr2ni/EFwVSfhQ=="
+related:
+  - title: "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion"
+    excerpt: "Leading algorithm programmer company in Taiwan, Quantum Music, will be exhibiting the AI Baby Crying Translator Q-bear in the 2022 Consumer Electronics Show (CES), the world’s largest and most influential technology trade show,"
+    publishedDateTime: 2022-07-29T04:28:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-artificial-intelligence-consumer-electronics-show-95e45f7e1e1eefd3a684dd96202fc213"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "J+yU7fgXheFieWXQg1bYWyjeQjRyYckfy9M5Cj1ZfOvYbRNYd1/N9ABR4ebFB9+QCsuGkD5EUj9Sxt0L6XvIxmhpzO1K35xqGcW4hjQScLZVjh4xN4Sj1lq2rQfDG77R9/iKzIoy9TzBh3CaBbb56fTisePucXKOCbtKFRglkVuCc+4aAQPl112/+CMNStRcxcKGON7oHySSk9LXX5ytK40XG87j6p8xwP4+++0Q3EJeS4Xle6c09YWRDXYg7TamokhQA0HTSXqua5QhhKEbl0Q0wKatMSax4qL/wFsBgzSJMt+KChEKJcTKb+sF+p5vBdsGHdGHczI15xOpP3H13iLHs0DHoAagsWO85EIDR1oma+mmsi9z50Jf/x3FZSfNUNs0syaWeHNf6AjyDWeqW4AT6Pmj3DR+AsSK/rY/OGc16lYUKnX3S+5Si245FoxDMUHME70F5Od9LpogQySayXQjmF651sEkGqgpb8Ju01Hc9V/aKRzHjBFBhLC/LE8+yisOOPAITKyJgIgKQKeORQ==;h6pw/dEhNOJMAvNVhxokEw=="
 ---
 

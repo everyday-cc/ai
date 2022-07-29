@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"

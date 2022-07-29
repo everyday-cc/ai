@@ -150,15 +150,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "Google Fires Software Engineer Who Claimed AI Chatbot Was ‘Sentient’"
-    excerpt: "Alphabet Inc’s Google put a senior software engineer, Blake Lemoine on “paid administrative leave” after he published a paper claiming that"
-    publishedDateTime: 2022-07-24T12:53:00Z
-    webUrl: "https://www.techworm.net/2022/07/google-fires-engineer-ai-chatbot-sentient.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 17
   - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
     excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
     publishedDateTime: 2022-07-25T18:19:00Z

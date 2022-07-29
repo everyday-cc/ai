@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
+      "title": "Microsoft launches simulator to train drone AI systems",
+      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-62202118",
+      "originalUrl": "https://www.bbc.com/news/technology-62202118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
+      "publishedDateTime": "2022-07-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
       "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
       "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
@@ -555,6 +607,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-how-awards-recognition-decrease-inventors-creativity.md",
+      "title": "How awards, recognition decrease inventors' creativity",
+      "excerpt": "The U.S. Fear of failure the second time around Markus Baer, professor of organizational behavior at Olin, and Dirk Deichmann, of the Rotterdam School of Management in the Netherlands, discovered that recognizing first-time producers of successful novel ideas with an award or recognition can significantly decrease the likelihood that they will produce future creative work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "originalUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0722/inventor.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/leadership/how-awards-recognition-decrease-inventors-creativity.amp",
+      "publishedDateTime": "2022-07-18T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "poandpo.com",
+        "domain": "poandpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
       "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
       "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
@@ -1055,93 +1150,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
-      "title": "Artificial intelligence in Pakistan",
-      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "publishedDateTime": "2022-07-17T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-scientists-worry-about-accuracy.md",
-      "title": "As AI language skills grow, scientists worry about accuracy",
-      "excerpt": "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "originalUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wkyc.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "publishedDateTime": "2022-07-17T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKYC3",
-        "domain": "wkyc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

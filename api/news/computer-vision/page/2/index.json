@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
+      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-the-best-robot-vacuums-of-2022-tested-and-rated.md",
       "title": "The best robot vacuums of 2022 tested and rated",
       "excerpt": "If you’re looking into buying a robot vacuum, you will no doubt have noticed some of the latest features on offer too, such as self-emptying bases and object recognition. Bear in mind that these ...",
@@ -1276,62 +1328,6 @@
         "Computer Vision",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
-      "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
-      "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "publishedDateTime": "2022-06-29T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

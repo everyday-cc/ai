@@ -2,6 +2,92 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-06-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors.md",
+      "title": "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors",
+      "excerpt": "His pioneering experience applying artificial intelligence and machine learning software ... Mr. Kancherla led the Level5 software team responsible for building the self-driving car. Mr. Kancherla previously worked on Windows at Microsoft focusing on ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/03/businesswire2020.png",
+          "width": 596,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-speech-recognition-on-an-arduino.md",
+      "title": "Speech Recognition On An Arduino",
+      "excerpt": "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "originalUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
       "title": "Uncovering links between grit and cognitive function",
       "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
@@ -1058,92 +1144,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
-      "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
-      "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "originalUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-leading-global-fintech-provider-selects-infobird-co-ltd-to-deliver-its-industry-leading-digital-and-intelligent-customer-engagement-solution.md",
-      "title": "Leading Global Fintech Provider Selects Infobird Co., Ltd. to Deliver its Industry Leading Digital and Intelligent Customer Engagement Solution",
-      "excerpt": "Infobird Co., Ltd (NASDAQ: IFBD) (“Infobird” or the “Company”), a leading provider of AI-powered customer engagement solutions in China, today announced that it has entered into a cooperation agreement with a leading global Fintech service provider.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-china-beijing-f28b4b12bdc43ed7e5d215ceefa548fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
