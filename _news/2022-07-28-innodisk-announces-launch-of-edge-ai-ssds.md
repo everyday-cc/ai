@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/innodisk-announces-laun
 webUrl: "https://www.prnewswire.co.uk/news-releases/innodisk-announces-launch-of-edge-ai-ssds-865156727.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1600
     height: 838
     isCached: true
+
+related:
+  - title: "Innodisk Edge AI SSD storage unveiled"
+    excerpt: "Innodisk has announced the launch of its new Edge AI SSD storage in the form of the 2.5” SATA 3TS6-P, 3TS9-P and M.2 (P80) 4TS2-P drives."
+    publishedDateTime: 2022-07-29T09:16:00Z
+    webUrl: "https://www.geeky-gadgets.com/innodisk-edge-ai-ssd-storage-29-07-2022/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2022/07/Innodisk-Edge-AI-SSD-storage.jpg"
+        width: 700
+        height: 405
+        isCached: true
 
 secured: "zmsVMb5CaW+SVJmVZdm8D5b2VExQSY1U7X+TMfgNFUu7Z6waU2pRrQrCM1+eWGUZx5ow/ci/erqSLTmMin1q6Bn/QGZugoDOTaFtCHMQxKHqG5xwIIqwtrodaHb85XgKZGe8PiVFgDZFMkLy9FM942G6o+EkHoxmjWoZbPgscERfY4/fR6D8nmnMr6A7P3BgOM3tri91Bur0vG74lRSX40vn6Dz0jZUhScfC5axeopQ9sBmLwdfgXpnC6SXLX7RbtHzFYjXbCXpoQjJKdPETIEXkZMYjKX4tllxxQGPP8FIelkpQUoCEVYCCmwE+ytRKf1YWyljulI9esN7Oh+/98pBXEEE9w7VFv/2ru6MRGfo=;tME8vZ/lKJjZMmXtMIcxUQ=="
 ---

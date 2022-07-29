@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/the-power-pitfalls-of-ai-in-indian-j
 webUrl: "https://analyticsindiamag.com/the-power-pitfalls-of-ai-in-indian-justice-system/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI Used By ByteDance A Security Risk: Indian Officials On Re-Entry Reports"
+    excerpt: "New Delhi remains concerned over ByteDance and its ability to harvest user data using AI, as it seeks to re-enter the Indian market."
+    publishedDateTime: 2022-07-29T09:18:00Z
+    webUrl: "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/"
+    ampWebUrl: "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 72
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2020/09/bytedance.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "ByteDance’s AI policies likely to face scrutiny on re-entry"
+    excerpt: "ByteDance Group is in talks with Mumbai-based realty major Hiranandani Group to make a comeback in India in an attempt to re-enter one of the world's largest internet markets."
+    publishedDateTime: 2022-07-28T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/bytedances-ai-policies-likely-to-face-scrutiny-on-re-entry/articleshow/93169830.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/bytedances-ai-policies-likely-to-face-scrutiny-on-re-entry/amp_articleshow/93169830.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/bytedances-ai-policies-likely-to-face-scrutiny-on-re-entry/amp_articleshow/93169830.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-27144,msid-93169814/.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Indian Navy’s quest to become an AI-enabled force"
     excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."
     publishedDateTime: 2022-07-25T11:56:00Z
@@ -40,15 +72,6 @@ related:
         width: 950
         height: 624
         isCached: true
-  - title: "IIT Madras launches centre to build open source AI for Indian languages"
-    excerpt: "M has commissioned the Nilekani Centre at AI4Bharat to advance Indian language technology with a grant of ₹36 crore from Nilekani Philanthropies"
-    publishedDateTime: 2022-07-28T12:58:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-launches-centre-to-build-open-source-ai-for-indian-languages/article65693855.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 19
 
 secured: "sscZPh/iE5sgAh805auTnKTAGTMn11+I7acOwJXbcThEn774llsjdrhxgH4sG4tYDH+XNM+uli0Kpr9wkHDRzEzjpjSh7/NAtSErpkrWPKBZTJ14dNvp7O3X68bkppBryIMQD7TdiM2X+lYIyLETbz7Bm2oL7WAAMTIaJGyNzf5cDkJ0hnbzymTc2uBIkysfvXveayC4YVx7cBEKJmEUt2pFkUgWUlHqg686nHYWDyrdjZtDtpGt3Dfuw5zXHGK2ZDhwie3L3c6Mv7sGsVoPfBHOJQdKgaMib9FP5kgJGgm7fK/yyV4yfjW5WjyIkZUpfB2trjvfZDorsMmacteGlEJljf0KQUCPCIq68DPsHqt0A3/MW+jVLfIphZY/D9cmkZnmhswupRW5UfLm1K3iZ61gm6rKrb3ZKcE0mzF/0Jx9yS64fNk2nIx6Cl/j+kVProuJ403IHvbqxsT/9I6SsTRaCfR9Kjba94JlhVGmg2rX50UedTO0R9yTeVZpUJ/3F45ZNrDUCtI3CXI0VL2+CA==;++6btSn3bhcVjaFvRsAWxA=="
 ---

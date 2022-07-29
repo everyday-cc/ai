@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
+    excerpt: "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,"
+    publishedDateTime: 2022-07-29T09:09:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 62
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
     excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
     publishedDateTime: 2022-07-28T19:51:00Z
@@ -48,6 +64,20 @@ related:
       - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
         width: 964
         height: 650
+        isCached: true
+  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
+    publishedDateTime: 2022-07-29T08:01:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 10
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "mWfrOUOJ6jaKsN5bhLOGefw3LAWmWIS16Z5eeWNtUfOO92CuSl4morbkizOvAGWlzuA9CRstC8ae2A/cu42/TfkhnbbUls5+msjOSNNVuD34gVsgnKGWkzKpfuUKq4CziuBtnWI63BTbvpN75JDG7LUv8q976ltnMJgPsHGHlN717VmGeigffPWDOGJSVc2NNljwh+eDFNIKxv774Y+F5sPr9x1yOr8/AuAhLQxda/AVdCzlv0WTLbpMOxzW0J/JdTC2/Ju5p6r+2Aq5ItbY1LiPTdzUiOBLylbW5Paf9rI7LcAhp3IPAO8HL9BIVatUUyY3SUSbzqfxnTtUb0zovhkfl5nBsszv6nYvoo9dDdw=;2H3QVef0My04ZM8EebmNjQ=="

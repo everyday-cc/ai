@@ -3,25 +3,25 @@ category: news
 title: "Lawmakers seek limits on facial recognition"
 excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
 publishedDateTime: 2022-07-26T21:00:00Z
-originalUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
-webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+originalUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
     width: 600
-    height: 333
+    height: 315
     isCached: true
 
 related:
@@ -178,6 +178,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "l4oSeePBUmvSMWS07Hppg3RWmQeKTGaZEo5w28g+qqW0jQRCTAvI9VEAu5k7P/B8pySDU2kBvpgxgKd/wYJu1ih6IuBbnC4BGOOFst8uVtr99+ZW5YgWHuayniQbNkfW/hOIqm3jhYJPgelvurB6d02vIsd5oqcNcRltmVazB9iYsyfumzZp+fleDKe8U0MiMdV0+3Zy39nmv0986IhePjkKUMfXa2EKozg/2nlvSB81RxdsGgyw8TWM0nRV9e8mtON+zW6rD3Lgorh9FxpLUYSWJiYb3uLS7N1MNapo/kUTIhpzBmUAJ4lhMMH88FhYlvrEHEeS3ugawdX6n9lWOv+qhHx1KILVNL44MVoI+p4=;rNiECAfM2t+08+KrWVOgcQ=="
+secured: "6RLHRI6xr7hftdEZdDISW4qtJLR935TvYBuEPSmy77M2VtEw2ow5qTNBObYn2SJeyNtefoJwV5GQLKHAzPU8VQ6VTfBym4eeJKlfzQ+I+/KzUWfCoV3BZEPnMpUk9iMXdwx9tpebOl2GRlM2NNN+Fd5EOP6btk/aPLMspwu2NrR11oZey4TnPCmk+kO5JhySRbGMbyr9XBVTytjh2OCY+ctoO+aHIoWeMCzOf1MveGESbUcNwuO5S0zjyS9f8rIlxOu+tGuMHkPHgzkUAesJUd06kJ+metxd9dfYWlvXsAhoGqxfrn48xZHuKRP1vTsY5xmLdQAz7iyuhV3gzHil6y9oDT4+fg7ZjseiR9WTWNc=;xUhiwV7krbgvNKniC/qwUg=="
 ---
 

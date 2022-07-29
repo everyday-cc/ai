@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/translation-europe-quest-speak-ai-te
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/translation-europe-quest-speak-ai-technology/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digital Transformation: UP, AWS Institute Train SA Public Sector"
-    excerpt: "Cyber security expert Prof Jan Eloff, the acting Dean of the Faculty of Engineering, Built Environment and Information Technology at UP said: “The programme equipped senior public servants and elected officials with the confidence and expertise they need to lead the successful digital transformation of public services”."
-    publishedDateTime: 2022-07-24T15:15:00Z
-    webUrl: "https://za.investing.com/news/digital-transformation-up-aws-institute-train-sa-public-sector-2589491"
-    type: article
-    provider:
-      name: Investing.com
-      domain: investing.com
-    quality: 54
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "Lost in translation: A new approach to AI navigates world literature"
     excerpt: "English readers of digital foreign-language novels have long despaired over the poor quality of translation, especially when the original versions were published in a non-Romance language and written with a high-literary sensibility."
     publishedDateTime: 2022-07-26T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104591128/Deep-Learning-Market-Size-Share-By-E
 webUrl: "https://menafn.com/1104591128/Deep-Learning-Market-Size-Share-By-End-Use-Share-Revenue-And-Region-Forecast-To-2031"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Computer Vision Market Size, Share, By End Use, Share & Revenue, And Region, Forecast To 2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 02:55 /Comserve / -- The Computer Vision Markethas encountered significant development over the recent years and is anticipated to grow tremendously ..."
-    publishedDateTime: 2022-07-26T07:41:00Z
-    webUrl: "https://menafn.com/1104591185/Computer-Vision-Market-Size-Share-By-End-Use-Share-Revenue-And-Region-Forecast-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?775221"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "iMODfEZ7h6UNqAOS6FaQ85b8mNZIMnowPzTTuIxgiQNcjIzeMMNg5hlg3QD7ScSNTPiUh8dxKRUvmNWzpReWZE9V3lFZ29JruiC2itO21joeVONlYUBKBxEt777Wo5qyyz2hQkSOdlfzUW2NJnLHkSukptE5bmtq5lu4/kLpvnwY46Fts0HMEEB7b+mSrUZTsDkJQXqAFexvZ9PGRS1djMh5UqeH9+CD7BASwTFEutwrZzW6M4s2o6vjI5uirqCLgK6u4mIHapGhRL1zRrefTgM+eMbp1x9ItiJdpWobapNCb99sL/ePW05p8JjGRqVg6p9qn2fBimlZkGJE2lMINAVq4ZkaIHY9F6PfuZfrLh4=;af69/az2T5jUy99SxYww2w=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists"
+title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
 excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
-publishedDateTime: 2022-07-25T08:41:00Z
-originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
-webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
+publishedDateTime: 2022-07-25T12:56:00Z
+originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "8eQJHKA9URm98GoGfcScV6bqJpdtKAVxil+/AHGCpipWz7v0EZTYkDT9G4oCuwuhwppH9PMdEpARMw7C6U02P/v2n/xVvbgU4dT35zP2Ilwyw4dcYXoFAgGS8F6S9BbVB+SDxIjN/7FFpEoBe2srB8WRZ4fTFT8mhq4HoBS/SF9x5cCy/ZcB94iHiPf5YJ/HnZnpL+sT60eD1O62f8dNkxC2D0jQUTOVQU6l59AnZXGfHjnmQT43pYnSF0j6i11QLgu9IxDice+uQnmdQ5Lfcx1BoOIWaoqe5U7GsZoWcWc6KwgPJL7Pg05iepeBLLBdyNkGyqilNJxakd7WRMzS/dyoQ+SS/yER/OQpY+c6NZw=;Ma09hujvqzPTyWDUpmeXwA=="
+secured: "iekQ2hHdTLHHQ5OWcps7dcYyqAiu9eMd4aJi8tuYx9tPAsxbJ9YkoEAylWxlz/rBE0eJnQWroiXIEtJkOpzRiLlfh13HbNIiEHUM2yCDGKpIwYuTZcLI4gqCOu8A03o+ArFNv0r3QUUQRBs28fm/ly5+E2fDnnDDMRMndSNo15D53OJJiEBbUkiVqU7bKEmV4/CRdTWoEkRFxsA/j3OabJL8gSKCXqjkyoI+E2gMxOSXfcZ2ytqCYhEtU8F0dcXfI85Rx7K3bEtlv7glknN0bPFcOQEkMEFW4CzGcGNzvomzZIgLFuWccTUDhhbhv+8Gpi8UcoOoR84KVuHQ2rIttCIkRhpEvpERKbLOKnOcK1k=;1oFpULFicX3djzUmgQ8wzg=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 1260
     isCached: true
 
+related:
+  - title: "IIT Madras launches centre to build open source AI for Indian languages"
+    excerpt: "M has commissioned the Nilekani Centre at AI4Bharat to advance Indian language technology with a grant of ₹36 crore from Nilekani Philanthropies"
+    publishedDateTime: 2022-07-28T12:58:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-launches-centre-to-build-open-source-ai-for-indian-languages/article65693855.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 19
+
 secured: "D3gA6HJGhATQhrncgwTl6DQdQbVinQZVNWglrYRO815+2ZmZnWKxmHpPuZJAqnBbZDxWsS9c3bxG4mWC7mo4B633sIBZnBKa34x/x3EVrkTnx4SZ06jmb6KeB6jnKIBOGZbAmtMPwqAlpPHeEtoMF1LWg5KU/rEYL8Vun+HLSeSliwSdbCyJfitiJeeN8Zjqha2uIrnuD82yWPTbUhcnKHUaeEJimG5pl4YKXFg4uV0VMmCIDInmGJ0dM979AAuqheypdtow+w/q1GVMmxJ3oe9OvvYqJfKCkmpQQERySZxnrE82o29AzpLQ4mx3XV3mC1Sz9clefUwk1Y1ZE+be80nxbfjpUWydlkbnu2NdW6AN2phmdSUP3pI2pE2qm3iE3f2EqVb9XCpBm9V16t2tNVt2QxtcFiEBvGyaQsxO/VGBY78ZpoX6+ZkjXf3DpUXxM77BEdINo91HVKvBTbS6FvEJhvwB5zcR5bkJYce0DlL8RItm7vY/vMUlNZm+iOnqsjg7HKj0qZRnl9NhAwRT2A==;D9loR6jEV68jFKKDgE6UTA=="
 ---
 

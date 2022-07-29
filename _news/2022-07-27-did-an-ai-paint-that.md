@@ -3,8 +3,8 @@ category: news
 title: "Did an AI Paint That?"
 excerpt: "My kid could paint that” is a frequent rejoinder to art that viewers struggle understand. But “my computer could paint that” may become the challenge to art that has secured its status as a masterpiece."
 publishedDateTime: 2022-07-27T11:00:00Z
-originalUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that"
-webUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that"
+originalUrl: "https://www.pcmag.com/news/did-an-ai-paint-that"
+webUrl: "https://www.pcmag.com/news/did-an-ai-paint-that"
 type: article
 quality: 67
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/d/did-an-ai-/did-an-ai-paint-that_gv7h.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/06oqtyOHMf1Wdbj2c8EYM7G-2.fit_lim.size_1200x630.v1658862349.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -72,6 +72,6 @@ related:
       domain: itweb.co.za
     quality: 37
 
-secured: "85WiihzPybc9CMlyz+3Kfob1IZjtmK9jvIs6ck1E7NFR4IQ5LnAtSwufJ7bDGXEDhYDm8yg7320LbEjxIfEIpDhIFV6zkiWDnN8jsTLkJTwAjPr4rOHSpcBlFPEnjMQp02HwvLrQ18DVvVOGehgqGY4GrCVpmbNupX3mr+4Ruriatc5H2j2higbimxzY3R0oFfMGU0R940YTjxJDyedDVZzPl3/YBzvsWvmiduYZicM+hocYHPLHqyISGD3+NxoLuXRxp2YWoaQSX7QG6VUW3NWBoNRyruKBx8WL+uKKDDiKVXsA6R883yDassEk8m6H/ML1gnfmBVmgkBx3SzQGrhdZNAu6HYmNSkooMEDw8Mw=;V7tiOdrDwszSq64EbkHEXQ=="
+secured: "0KBpQN1vlBouZKQIM/0HOMGfQt5+gWn8SrpyTUVmsL6IdKPnaRI1wMk5O/Ngu7bWm61ECg1hq+HeThsFl5KuHIJkhmtia0qtRaT/lu/QWowas6froLVkHP52PTmOPC0MddIsv5ULpvcOgfs4TB9MJsxfWQUW2pBKox7yoC/37My7wfv9+5LmrchrdZA5iuFB7aRmck+LZJZQt5OhEDFBn6+GEGXh1mq2Ttq8bGs1Fatzj38pB218mp1scdUXWabBaGRRtLkzfQDnhK9f142eaxxWJgpPqn4J70YpKnAvKkWuqXuZl3jez8lXsoQNWqtslQp1BjWfDEaQT5wwQDuGzGQ97Icz6szNxGrAi3cEIDE=;xX4Oj14N+imjY0MajCUbmw=="
 ---
 

@@ -1,44 +1,28 @@
 ---
 category: news
-title: "The Taiwanese Startup Mindtronic AI Opens the Way to the Future of Mobility With Meta-Service Ecosystem"
-excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS,  /PRNewswire/ -- Mindtronic AI (  ), a Taiwan -based startup, unveils the world's first Meta-Service,"
-publishedDateTime: 2022-07-29T05:35:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-taiwanese-startup-mindtronic-ai-opens-way-the-future-/2022/07/29/9647354.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-taiwanese-startup-mindtronic-ai-opens-way-the-future-/2022/07/29/9647354.htm"
+title: "The Taiwanese Startup Mindtronic AI Opens The Way To The Future Of Mobility With Meta-Service Ecosystem'"
+excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology.LAS VEGAS, July 29, 2022 /PRNewswire/"
+publishedDateTime: 2022-07-29T04:40:00Z
+originalUrl: "https://menafn.com/1104610824/The-Taiwanese-Startup-Mindtronic-AI-Opens-The-Way-To-The-Future-Of-Mobility-With-Meta-Service-Ecosystem"
+webUrl: "https://menafn.com/1104610824/The-Taiwanese-Startup-Mindtronic-AI-Opens-The-Way-To-The-Future-Of-Mobility-With-Meta-Service-Ecosystem"
 type: article
-quality: 21
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1868820/image_5019932_6824200.jpg"
+  - url: "https://menafn.com/updates/pr/2022-07/29/PN_2fe0b504-5_Image_In_Body.jpg"
     width: 400
     height: 270
     isCached: true
 
-related:
-  - title: "Taiwanese Startup FaceHeart Video-based Measurement Software Uses AI to Remotely Measure Vitals Stats of Patients"
-    excerpt: "Fortunately, a new and innovative video-based measurement software from FaceHeart corporation now allows diagnosis of patients to be done remotely using cutting-edge artificial intelligence. FaceHeart exhibited recently exhibited at VivaTech 2022 in Paris,"
-    publishedDateTime: 2022-07-29T02:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/taiwanese-startup-faceheart-video-based-measurement-software-uses-ai-to-remotely-measure-vitals-stats-of-patients-1031627824"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://mma.prnewswire.com/media/1868789/Faceheart.jpg"
-        width: 400
-        height: 218
-        isCached: true
-
-secured: "qGEcKrpzQOnXcaOEB2fkMDf42ybG2Lu2ChBjzrPuwxinPTM/+KsCeq09rvWyls41FzjeINhcX8xhDMY82Hfl6ez0Fl9CONA6Ajg1ohPZeKy6oWC+YRjNKy2zZ/+4GWkPlxjlvKjxSFUtb5TqlfHyVJRbhWEbXFlu9q8W1v9qkII7B4UQ4koVPKDpBdtpfECqE3pP14Pl0+ioVzgQh5ERtHMFKUH3GBAzFqeB8IZfCJK8nhT8BpIYE4BZPOTr0Q6Ko6aVqu0yL34Z8pKJjaz5Hi8Jot3RayqqJ0Y4m1wK/nyag26DBtbetA8V4bTlNtxXwOE7dMB6jgKd9yrE21qw3vSjhwj6F8R59otTc4G5sA0=;QIczm5F0dT9E//NgzS/y5w=="
+secured: "TnOgfj3Ooc39o5R08Mp9LYJ0Xdz5Lql2Do6VYK5fQX4OcmpQCoN4KKls2NqhDOmq6e31YUSIFS1JhjsFuxWowW82m398MFxsi1WabyltkQWxhP8qTQCNnAdEHvh3E5mUcz0UjXCcFsYbPLNpqxyzR1zd9YUp3FQIE1M2fJ0FeI/qY3M2ysgPcCfbnUpQSofvON6Qh2O/0ifHAIh1SwrypQtxFBb4R4eIS1Je8Jn7cnfDneefuY7EY8MvDgs9qokiBOAJTfQNSGmVqyccLU+ee0eMEiLS0GWHmmuWy3DD3ZVhF3P8JiDilXEW2hupXkf/UU3p4yZsq7WNJEOoBA8PFJJS/pycFq46OZcyLVAnv18=;xzUeetJbOMrXSkrBsEU+5w=="
 ---
 

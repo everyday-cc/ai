@@ -115,20 +115,6 @@ related:
         width: 401
         height: 300
         isCached: true
-  - title: "Australia remains an AI laggard, new report warns"
-    excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
-    publishedDateTime: 2022-07-24T15:08:00Z
-    webUrl: "https://www.afr.com/technology/australia-remains-an-ai-laggard-new-report-warns-20220722-p5b3vw"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e3d24459f20c4756fe323e68faae716c988777dd"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Bunnings & Kmart Pull The Plug Temporarily On Instore Facial Recognition"
     excerpt: "Bunnings and Kmart the Wesfarmers owned retail stores have followed the lead of the Good Guys and pulled the plug on using facial recognition technology in their stores while an investigation by the AIC takes place."
     publishedDateTime: 2022-07-25T01:40:00Z

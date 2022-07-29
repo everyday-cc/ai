@@ -45,16 +45,16 @@ related:
   - title: "Did an AI Paint That?"
     excerpt: "My kid could paint that” is a frequent rejoinder to art that viewers struggle understand. But “my computer could paint that” may become the challenge to art that has secured its status as a masterpiece."
     publishedDateTime: 2022-07-27T11:00:00Z
-    webUrl: "https://au.pcmag.com/the-why-axis-serie/95319/did-an-ai-paint-that"
+    webUrl: "https://www.pcmag.com/news/did-an-ai-paint-that"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/d/did-an-ai-/did-an-ai-paint-that_gv7h.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/06oqtyOHMf1Wdbj2c8EYM7G-2.fit_lim.size_1200x630.v1658862349.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Integrated enterprises need to optimise the use of AI for better CX"
     excerpt: "To get the most out of AI and ML to better meet changing customer needs, enterprises need to start integrating their business units, operations and datasets into a more consolidated entity.  This is according to Archana Arakkal,"

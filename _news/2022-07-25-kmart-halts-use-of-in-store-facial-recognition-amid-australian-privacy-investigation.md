@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 232
+heat: 222
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
         width: 401
         height: 300
-        isCached: true
-  - title: "Australia remains an AI laggard, new report warns"
-    excerpt: "A new report says artificial intelligence is still in the early phases of implementation in many Australian companies and industries, with only 34 per cent of firms using it across their operations."
-    publishedDateTime: 2022-07-24T15:08:00Z
-    webUrl: "https://www.afr.com/technology/australia-remains-an-ai-laggard-new-report-warns-20220722-p5b3vw"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.2741%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/e3d24459f20c4756fe323e68faae716c988777dd"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Bunnings, Kmart hit pause on in-store facial recognition"
     excerpt: "Bunnings and Kmart Australia have paused the use of facial recognition while the privacy watchdog investigates their personal information handling practices. The Wesfarmers-owned retailers took the decision over the weekend,"

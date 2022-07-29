@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -19,10 +19,26 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 related:
+  - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
+    excerpt: "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,"
+    publishedDateTime: 2022-07-29T09:09:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 62
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Making AI faster and more energy efficient"
     excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
     publishedDateTime: 2022-07-28T21:51:00Z
@@ -51,7 +67,21 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
+    publishedDateTime: 2022-07-29T08:01:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 10
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
-secured: "CB86bPBgIJKaQBLA3GmMZVWWpAzM3trMutayy2DvqIfF4+VfgA9Qaj5H5Ibd/L91CZxh/NTIp1QgKHqKnP2+051ME1/BE3/kjm03XaEc18V84pdTv/gMEVLMx0SC4nXdLK6C/cslJlqZLNwdK0B7opRVEm9GLUstIHIFL/p3MyDr0xwgzaUy7Vlj3z3uvB0NM77SPXb7fVdYWCEESKE5i2FO7Xvr8Md6vg7AnwD6jLW/YP3W37bYKHcRiePFUGFLVe2AdkH/q0slkZTfFmSzn2ZnPQ6vUwiStD7VvuGkXXlAQ0iuju5MxG/P6MV4w/OY1k1MIv/R430llpSglnRJ3xHUFKU2d3wbNzGXgoWuw/0=;/Cg6miYjMKSVgL87RaWaEg=="
+secured: "Jm/5gkmA4D1YD132GBm9LWdSqCoQBEU7ZtKdJKR+a3yuSyHJdr8CZUyn1oMMw+Oawk6jfUYKbwGFXLfqJ7xIczJjfbqrwZCwTovnvDp4oG7xv5OdBuFljUHw9mLMRxkzbm7/p7y7c/EUzV8T7goCwODqWVfkrbQNwcC4E0Ef7WqWUdgV3eR1Xxo4rSkwuBAWcelO6IKopjwI2QxliBIVRO8fqIorL2SYCo1X/wJzHh8tZNWdO42D5DhGjIV5CElvfiSog73TbRh6S/5W1ObKOuWUA+ovmqaq0v3dLEaJcS0pSKinvuSasoRBNSw9fFnXXsERTozR562oxHVSI7A6XTyYXFA3mvuCVTaeLUJd+/s=;lCd2NVB5zj63qMGZbSRLkg=="
 ---
 

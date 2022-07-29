@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-publishedDateTime: 2022-07-28T14:26:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
+excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
+publishedDateTime: 2022-07-28T10:32:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
 type: article
@@ -182,6 +182,34 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
+    excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
+    publishedDateTime: 2022-07-29T08:43:00Z
+    webUrl: "https://scitechdaily.com/deepmind-ai-powers-major-scientific-breakthrough-alphafold-generates-3d-view-of-the-protein-universe/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Q8W3K0.jpg"
+        width: 1800
+        height: 1500
+        isCached: true
+  - title: "DeepMind just predicted nearly all protein structures known to science"
+    excerpt: "DeepMind, an AI firm owned by Google's parent company, ‘Alphabet’, recently announced that its AlphaFold program expanded its open online database to include more than 200 million protein structures."
+    publishedDateTime: 2022-07-29T08:48:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-just-predicted-nearly-all-protein-structures-known-to-science/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/3may-2.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s DeepMind AI cracks 3D structure of nearly all proteins known to science in major breakthrough"
     excerpt: "Determining 3D structure of a protein used to take many months or years, it now takes seconds’ Google ’s DeepMind AI has predicted the 3D structure of nearly all proteins known to science, an advance that can lead to a better understanding of rare genetic diseases,"
     publishedDateTime: 2022-07-29T03:44:00Z
@@ -260,6 +288,6 @@ related:
       domain: nature.com
     quality: 15
 
-secured: "hufU1Ww9kmTzjZTMgGwheYdhYamWrZ4KUEwTyQl67OyQATaIg0IRqd6AobN+lXh10j7O8wxzX5VZHHh7tiLNgyFPdtmoDRcP5rZnDg1DQiF8zIj5GUg6KexJexQivwn0H7AYHIR8Hz5Nk9lxCJy1BuCntDX7uRBqNRcrPEKyDPvUPgbRKQHykOhUV92YGtlt+yWE5z344AhDG9B/i7IqGJaOy8ws4WmHl8RUz6eeoJVqCo8N4coTBlEzUBAtrzV3xKp11XUsUW3jUmGk93QFJjEDnhhO/LkBaIDfO2TzmWbTSSmsJe1YkrC8Hi8X1+4pnyxXnsQXoQ0K3tyQwy8JdNlH/1uTPnL3faxKEAW6Nes=;H5MqKMBcstiIFrVBKtfaVA=="
+secured: "MuulN1Al3A6GORWuHvzAvtzc+WcidGATirHyRGmd2kAvLaKU27ROOSl71x2JmiPW7xkXtNfKn6QErBP8EV7AhojRTmY4CRRDfttMq1ZKnwTzLK7AQmyxHGqtvtzsKXwgRSp90LtGgWei6GUfUfpLNBGJ5iJB5qvcXYmlvlOTPQGLh4jeWJ/rgaNTUSf51tWO7h4704ATnQ7m1ylrA6ZCmESQf4jwRetmMAeQQUpthWX5vtSG4xYbDJNMejyspiaHB63uNKfV5fcoWqYEkNJJfCjDjMzRT/Wy0fMcIhNIPDrQENJUFcS1WyiqXN1Px3OyNTuesShzKfcFbPFYNpIDweUy124AuHNCkM3txNkdhj8=;JAKaQCToJOcwYgQwcc6KQg=="
 ---
 
