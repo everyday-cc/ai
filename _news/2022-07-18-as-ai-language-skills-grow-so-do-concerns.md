@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/07/AI_Scientist_AP.62d567ab383c0.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C53%2C1024%2C576&w=1200"
