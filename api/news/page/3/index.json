@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
+      "title": "Facial recognition software helps reunite lost or missing pets",
+      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "publishedDateTime": "2022-07-26T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSBY 6",
+        "domain": "ksby.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
       "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
       "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
@@ -211,7 +254,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -306,7 +349,7 @@
       "originalUrl": "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -720,6 +763,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
+      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
+      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
+      "publishedDateTime": "2022-07-25T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
       "title": "AI experts establish the “North Star” for domestic robotics field",
       "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
@@ -780,7 +866,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220725124120.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -823,7 +909,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1097,110 +1183,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-how-stop-shop-is-using-ai-not-cookies-to-target-customers.md",
-      "title": "How Stop & Shop is using AI, not cookies, to target customers",
-      "excerpt": "In 2023, brands like Stop & Shop won't be able to use third-party cookies to discern customer behavior for programmatic digital advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1132387033.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "publishedDateTime": "2022-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
-      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
-      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "publishedDateTime": "2022-07-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
       ]
     }
   ],

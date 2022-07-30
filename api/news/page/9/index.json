@@ -2,6 +2,143 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-19-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
+      "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
+      "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
+      "originalUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2018/11/1542144283_google_deepmind_health_and_google_health_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-how-is-ai-impacting-the-automobile-industry.md",
+      "title": "How is AI impacting the Automobile Industry?",
+      "excerpt": "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
+      "originalUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
+      "publishedDateTime": "2022-07-19T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-digi-yatra-using-facial-recognition-to-begin-in-august-at-bluru-varanasi-airports-scindia.md",
+      "title": "Digi Yatra using Facial Recognition to begin in August at B'luru, Varanasi airports: Scindia",
+      "excerpt": "Digi Yatra is proposed to be rolled out at two airports, Varanasi and Bengaluru, in August and at five airports, Pune, Vijayawada, Kolkata, Delhi and Hyderabad, by March next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
+      "originalUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://data1.ibtimes.co.in/en/full/717947/jyotiraditya-scindia.png?w=570&h=322",
+          "width": 570,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
+      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
+      "publishedDateTime": "2022-07-19T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes India",
+        "domain": "ibtimes.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
       "title": "Using AI and machine learning to kickstart climate change fightback",
       "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
@@ -891,10 +1028,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
+      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1023,154 +1160,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists’ concerns",
-      "excerpt": "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220718-steven-le-scao-ai-mn-1040-c489c3.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna38698",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698",
-      "publishedDateTime": "2022-07-18T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-building-a-business-case-for-zero-trust-multicloud-security.md",
-      "title": "Building a business case for zero-trust, multicloud security",
-      "excerpt": "Building a business case for securing multicloud configurations needs to surpass the costs and benefits, while recognizing that public clouds lack advanced zero-trust features and unified reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/zero-trust.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/building-a-business-case-for-zero-trust-multicloud-security/amp/",
-      "publishedDateTime": "2022-07-18T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
-      "title": "Microsoft launches simulator to train drone AI systems",
-      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62202118",
-      "originalUrl": "https://www.bbc.com/news/technology-62202118",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
-      "publishedDateTime": "2022-07-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

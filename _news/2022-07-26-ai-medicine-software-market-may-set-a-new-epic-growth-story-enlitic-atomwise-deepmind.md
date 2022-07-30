@@ -231,22 +231,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
-    excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."
-    publishedDateTime: 2022-07-25T15:28:00Z
-    webUrl: "https://syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/"
-    ampWebUrl: "https://syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 46
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
   - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
     excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-28T14:49:00Z

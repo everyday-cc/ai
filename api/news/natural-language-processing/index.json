@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-30-australia-pm-unveils-draft-indigenous-recognition-referendum-question.md",
+      "title": "Australia PM unveils draft Indigenous recognition referendum question",
+      "excerpt": "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-30T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-how-businesses-can-use-video-translation-to-grow-their-global-influence.md",
       "title": "How Businesses Can Use Video Translation To Grow Their Global Influence",
       "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. If you want to grow your business globally, it helps to speak the language of your customers.",
@@ -727,10 +779,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
+      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1339,49 +1391,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-indias-project-bhashini-breaking-the-language-barrier-with-ai.md",
-      "title": "India’s Project Bhashini: Breaking the language barrier with AI",
-      "excerpt": "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
-      "originalUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

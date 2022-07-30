@@ -9,7 +9,7 @@ ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior
 cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
-    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
-    publishedDateTime: 2022-07-30T02:30:00Z
-    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+  - title: "Australia PM unveils draft Indigenous recognition referendum question"
+    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
+    publishedDateTime: 2022-07-30T08:11:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
     type: article
     provider:
-      name: Neos Kosmos
-      domain: neoskosmos.com
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Creating a constitutional Voice – the words that could change Australia"
+    excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
+    publishedDateTime: 2022-07-30T05:12:00Z
+    webUrl: "https://theconversation.com/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    ampWebUrl: "https://theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/476767/original/file-20220730-13615-929x0c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
+  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
+    excerpt: "Australian Prime Minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative Indigenous body in parliament. Australia's constitution currently does not recognise Indigenous peoples,"
+    publishedDateTime: 2022-07-30T08:13:00Z
+    webUrl: "https://www.ibtimes.com/australian-pm-outlines-draft-indigenous-recognition-vote-3591780"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 24
     images:
-      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
-        width: 1920
-        height: 1278
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/30/albanese-elected-in-may-had-promised-a-referendum.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "PM lays path to vote on Indigenous Voice"
+    excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
+    publishedDateTime: 2022-07-30T01:22:00Z
+    webUrl: "https://www.sheppnews.com.au/national/pm-lays-path-to-vote-on-indigenous-voice-2/"
+    type: article
+    provider:
+      name: Shepparton News
+      domain: sheppnews.com.au
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=b5fd0b5c-6681-5641-a66c-2e318ad95423&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
+    excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
+    publishedDateTime: 2022-07-30T03:40:00Z
+    webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 22
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
     excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
@@ -52,6 +110,31 @@ related:
     quality: 21
     images:
       - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "A broken Voice is no option: Australia’s moment to unite or fail"
+    excerpt: "On Saturday, the prime minister unveils his plans for a referendum for an Indigenous Voice to parliament. The stakes could not be higher."
+    publishedDateTime: 2022-07-29T17:30:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/a-broken-voice-is-no-option-australia-s-moment-to-unite-or-fail-20220729-p5b5nz.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 19
+  - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
+    excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
+    publishedDateTime: 2022-07-30T04:50:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/1103bbefb1465c83b00323f57c31c3ea"
         width: 1280
         height: 720
         isCached: true
@@ -79,6 +162,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "93GdmH8duyqvW0KwjrQnLtRNc96r0Fu4ZSOAlgZi7YVUEZ8/FdcRvAhQ1cJDBk6FyJmQjPFU1mBB1NVVgvyRb0PC7uZyX4sMsrgX13UZaI4jUHJFwiUs9dcUCs98A4QUKovSK+xRtfMATnCsM8cMXdYFwEiwdlJGkO7/gEJewOFvh0oSjs76O49tnHNUa10pRUdy00Rn6gVmK2OXM9JRyFZjBjmhd6e+DSTgRDOZFxqHYohyBi/cQ6pfBaK/WltRCH83n56nqf4W6IMtAC38cvJiBcyyYmyeN/xd7H4Z8V4ygehMwFxp0QcVi4NxW0+Fa5yLM4wVcOd9OJ5gcrbV0LhCLD1r3kxggaMvqJlx5GM=;aZubpbYwhnno4YUG5f5KQA=="
+secured: "eVweZlot10XGwA+ek+EP6+aX2GsfjalwUmKeArK+Uym/fu++JUU4s20tyDDsA75z4K8f5TUhpOI8EPt+dScqlPpmUK2uz0P5YkGwLEyzehs178xGx/2uXMPdrtV8P+1/8nLMr4jite2do5raZ+UfvcVEjS8MbOaDKTYXbXNVKYPeCV1ghst5xCqOXVzhts5uFm+HevdgWNrQcZXfWtHYjG/sTsNuw6XHf7vT7o4P+kWcLMvHp5a59vLdv5KPvQyzCc61/Rzul6b/FSuSv3MpFrrFv9/FceWTvFI6ENNArvAqPU1Aioy1Zs7S3JnpPCtAzv11iK79Oc/ceKlC9BHDF9J3HvKvS9CmML/eK6dEzltThX3ADvWJgGfhAZzwFfd66/z3BBebIMqXzd3bRqCg/SwZwiWhiVHe7NuAeGkaIUF8SVliXtqpnWtJdUv3bOPXJ7H7UgY3peDJ8TLkeVt+lqG1B+KXZED4P2HJ/NfsMz+26ErVjtYHrk+WaCqg4SjJtp3Sy4XopQ9pam4+HFGAFQ==;j408GYk4J/E9Jold7euaXA=="
 ---
 

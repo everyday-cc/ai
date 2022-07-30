@@ -54,20 +54,6 @@ related:
         width: 780
         height: 405
         isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
-    publishedDateTime: 2022-07-25T16:10:00Z
-    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 37
-    images:
-      - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "Kn/OleY9BPjoEfi5fWz74vFIhhs3m6t0KshBxtzr5fe5DVDRqsGU+jarnOrcL2DVtvCNmC5N9oTI7IIZzb0P0O4PdXj5eWZZvwlHF6fHAAVUZf2+4LFMiUYr6h8PDytWcDMmgfYtNHC7gjQQA8O7mOQTrwCuBZl4egQpqWgV0CgCY9KT3e/fVkFSiw2t8w/HICLcCQACBZ1BO11EhXMHUlRNRZjd+5bA8exb/Y2NHk/H7Y0PVjhVXcvcuEol9vkyGf+XmsMtLnyuaMp81IYrxVUb17ste8YlRGch4iEnBMj2IxkwpVadbRPqgLr+3AMQ/A8DhY+7FsdfA2me6cpKnArMT9zS+lEhgwuj7w063+Q=;5ZlA0b98IRAtggHT8qAA4w=="
 ---

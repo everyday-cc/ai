@@ -44,22 +44,6 @@ related:
         width: 1105
         height: 623
         isCached: true
-  - title: "How to curb AI-driven human rights risks"
-    excerpt: "Businesses must make AI and its actions more transparent, and ensure adequate human intervention and oversight"
-    publishedDateTime: 2022-07-25T15:26:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/how-to-curb-ai-driven-human-rights-risks/article65682642.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/u8zgoq/article65682660.ece/alternates/LANDSCAPE_615/IMG_iStock-1034901762.jp_2_1_6V9RDSLP.jpg"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "XtzQJSIZlbsvkZyETv2ZRZp7ZxU0pvt5OEAvUz67IDQ1aGRdLykl5S8stWSsik8aywYH61OtxfNmlRpU+30xKE6qZWizfxB1/0SOD9JLiRB/knwEf0+2x5FLm4iIPgRrLXgh8f+hIE2VMVaxeeeS6bYosg6ouBcOPCP2QEb2ZMNzArL8xDaKLGMad//AAD65YBPttMalJmFWQp3UTFUwKtDUkr62epu6dOan+hOLMAydu2NeR/4tVJqc9FLyigBo9UHp9iHIscOrtGu0zFGkySxDtgUIwgAQ06Q6LU2GRLNQRet4UEEkYogkMGWNqqKHcHaLmfsyxbCnkB8BIbTm905STB40nFkboeLh85n9vNrb6WO9mMPBD8htRDTpoYnH6lLVFH3JQAFMdcaD2l11IvL+BF6Ct5P9ubp5Q1UzTxOOAbfa74hIgFHxddt0Ot6yUsGJbKIR2mpnnQNo23YszHuL8LJpuTUQ+OMUKrT6X4jgPPaK3xBtYLwNG7egiKxvde1E0lcxnXLLTAooniTXnw==;SPrnOBSKc1byrmf5Wlh2Vg=="
 ---

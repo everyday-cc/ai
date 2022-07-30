@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-23-ai-is-key-to-keeping-your-digital-services-running.md",
+      "title": "AI Is Key To Keeping Your Digital Services Running",
+      "excerpt": "The right AI approach can make the difference between up and running and down and out. You don’t need us to tell you that times are weird. The perfect storm of Covid variant waves, war in Ukraine, unrelenting climate events,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db2cbccce38e50ba39dc40/0x0.jpg?format=jpg&width=1200",
+          "width": 567,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "publishedDateTime": "2022-07-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-take-an-inside-look-at-how-nopds-facial-recognition-tech-works.md",
+      "title": "Take an inside look at how NOPD's facial recognition tech works",
+      "excerpt": "According to the NOPD, the department’s facial recognition policy has already been approved by the Department of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "originalUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wwltv.com/assets/WWL/images/3111947a-0bb6-4e4e-93b9-887b75ffbdc3/3111947a-0bb6-4e4e-93b9-887b75ffbdc3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "cdnAmpWebUrl": "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "publishedDateTime": "2022-07-22T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLTV",
+        "domain": "wwltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-dynamic-mental-illness-indicators-caught-by-advanced-ai-in-brain-imaging.md",
+      "title": "Dynamic mental illness indicators caught by advanced AI in brain imaging",
+      "excerpt": "New research by Georgia State University's TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer's disease, schizophrenia and autism—in time to help prevent and more easily treat these disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "publishedDateTime": "2022-07-22T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few.",
@@ -993,154 +1130,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
-      "title": "Prosegur Security Launches World’s First Responsible Artificial Intelligence Framework Globally",
-      "excerpt": "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively decrease risks associated with AI use. The policy will serve as a guideline for the ethical,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
-      "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
-      "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "publishedDateTime": "2022-07-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics.md",
-      "title": "Sign up for free and tune in today for TC Sessions: Robotics",
-      "excerpt": "Robotics is finally here, and we can’t wait to get things started! If you don’t have your free pass yet, no worries — sign in here to register. Then join more than 3,000 global attendees online for a full day exploring the latest news,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_0-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-28-here-are-23-startups-in-areas-like-ai-robotics-and-quantum-primed-to-take-off-in-europes-711-billion-deep-tech-industry-according-to-vcs.md",
+      "title": "Here are 23 startups in areas like AI, robotics, and quantum primed to take off in Europe's $711 billion deep tech industry, according to VCs",
+      "excerpt": "Startups in areas such as AI and quantum computing are attracting more capital as VCs eye up founders that can drive next-generation innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7",
+      "originalUrl": "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62dffcd4d571050018ad8b9e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
       "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
       "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
@@ -820,7 +874,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1127,49 +1181,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
-      "title": "Facial recognition software helps reunite lost or missing pets",
-      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "publishedDateTime": "2022-07-26T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers"
-    excerpt: "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC."
-    publishedDateTime: 2022-07-25T15:05:00Z
-    webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/626ab91786fa90001905a244?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fintech Funding in Singapore Remains Strong Despite Global Downturn"
     excerpt: "Despite the current global slowdown, Singapore has nevertheless managed to weather the tumultuous market conditions rather well, with fintech funding remaining strong. Moving forward, the momentum is set to continue,"
     publishedDateTime: 2022-07-28T03:25:00Z

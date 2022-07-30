@@ -37,20 +37,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "BigID Expands Its Data Protection Leadership in AWS Coverage & Integration"
-    excerpt: "With more native controls for AWS than any other data security solution, customers gain more insight into their data, integrated support, and deep data protection across their cloud data: More Native AWS Cloud Coverage - including AWS S3,"
-    publishedDateTime: 2022-07-25T16:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-b632f2888ce757982a6f4803248c035a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "bwUGiwj8dVveUSzqQlmexex0lUfUSGz7Y5fIXiJSoj/ruY82N3kbk/aXffUWLgGjRrdFVWk8MWt6k10YZ37Ey0gHyLjXc6Ptu92ciGsZmFbeNV64fvBr4jsA0X1KLjINFjy0RhUbfMgTsSLUyx2ATI4bwfoUiO440f2EmdtCbAvSItw1UAreF8pEem9RHT2W8qmoJetcX8JDp/KRixfi6iV+zX4fvc5XVP69XNMP2laGKSAFRvSstUbbRW6a86s5Gx6/5N3OmR4lDt7H69B3F+82thQiVVacTpV5jVzECmeDERA9dtZJKWdDJusfOr4JHPYc+v/nD4J0xaYCqsEpNm0uZBhVK7YvHLjEzE9j5Xx7Vfknp4P+DfW5y26Gf2Y50Z4oflmcsf3lsqHgCbdjtQLhuFekYgOD5usRPHyQXgBUuZ/thCKyQm01B3YXsSDPPI9iWZodODzOqykLVPKjnCHQgpgzds94YrB3AWzbSfnEEI6EkCzU5h9NwZzNjUNVsjtkRY/q6OhvmtlHCFHJAQ==;4H4sUzcsyIhlgPMrUB6iOQ=="
 ---

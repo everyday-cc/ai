@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
+      "title": "Prosegur Security Launches World’s First Responsible Artificial Intelligence Framework Globally",
+      "excerpt": "Prosegur Security, a global security leader, has launched a new Responsible Artificial Intelligence (AI) Policy in an effort to proactively decrease risks associated with AI use. The policy will serve as a guideline for the ethical,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-5e65d058186bb61b23af004ad50f4242",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
+      "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
+      "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
+      "originalUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
+      "publishedDateTime": "2022-07-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics.md",
+      "title": "Sign up for free and tune in today for TC Sessions: Robotics",
+      "excerpt": "Robotics is finally here, and we can’t wait to get things started! If you don’t have your free pass yet, no worries — sign in here to register. Then join more than 3,000 global attendees online for a full day exploring the latest news,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_0-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-07-21T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services.md",
       "title": "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services",
       "excerpt": "EXL (NASDAQ:EXLS), a leading data analytics and digital operations and solutions company, today announced that it has been named a Major Player in the IDC MarketScape:",
@@ -79,6 +227,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
+      "title": "VDOT preparing to use artificial intelligence to predict traffic",
+      "excerpt": "State transportation officials are gearing up to use artificial intelligence to monitor emerging traffic conditions in NoVa and Fredericksburg",
+      "sourceUrl": null,
+      "webUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
+      "originalUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.virginiamercury.com/wp-content/uploads/2022/06/American-Legion-Bridge-June-14-2022-scaled-1024x683-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virginia Mercury",
+        "domain": "virginiamercury.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment.md",
       "title": "Amazon Web Services announces presence in Nigeria with infrastructure investment",
       "excerpt": "Amazon Web Services is making what can be described as the first announcement of its presence in Nigeria with the launch of ‘AWS Outposts’, an",
@@ -118,48 +308,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
-      "title": "VDOT preparing to use artificial intelligence to predict traffic",
-      "excerpt": "VDOT is preparing to use artificial intelligence to predict traffic in Northern Virginia and Fredericksburg metropolitan area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/",
-      "originalUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wwbt-prod.cdn.arcpublishing.com/resizer/yPMtFBzaD7Ep7KLjVSdSDxwlTXg=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/VULR5AU5CJN4NMJZ7KJ7RXWMXY.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nbc12-com.cdn.ampproject.org/c/s/www.nbc12.com/2022/07/21/vdot-preparing-use-artificial-intelligence-predict-traffic/?outputType=amp",
-      "publishedDateTime": "2022-07-21T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWBT",
-        "domain": "nbc12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -473,49 +621,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-21-baidu-unveils-autonomous-vehicle-without-steering-wheel.md",
       "title": "Baidu unveils autonomous vehicle without steering wheel",
       "excerpt": "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,",
@@ -545,6 +650,49 @@
       "provider": {
         "name": "tbsnews",
         "domain": "tbsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Use Next and Previous buttons to navigate HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
+      "originalUrl": "https://www.timesunion.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -969,150 +1117,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
-      "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
-      "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-20-at-1.27.44-PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
-      "publishedDateTime": "2022-07-20T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
-      "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
-      "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "publishedDateTime": "2022-07-20T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-artificial-intelligence-ai-and-the-risk-of-bias-in-recruitment-decisions.md",
-      "title": "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions",
-      "excerpt": "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "publishedDateTime": "2022-07-20T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

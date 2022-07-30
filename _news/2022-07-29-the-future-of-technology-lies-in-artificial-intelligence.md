@@ -41,20 +41,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Google fires engineer who contended its AI technology was sentient"
-    excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
-    publishedDateTime: 2022-07-25T16:10:00Z
-    webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 37
-    images:
-      - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Zeal rolls out AI identification technology to protect minors"
     excerpt: "Zeal Network has linked up with Nect to implement AI identity verification technology to better protect minors from gambling harm."
     publishedDateTime: 2022-07-29T09:18:00Z

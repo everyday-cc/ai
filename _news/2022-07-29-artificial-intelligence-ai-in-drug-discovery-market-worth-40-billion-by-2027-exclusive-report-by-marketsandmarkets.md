@@ -3,11 +3,11 @@ category: news
 title: "Artificial Intelligence (AI) in Drug Discovery Market worth $4.0 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "The growth of this Artificial Intelligence in Drug Discovery Market is driven by the growing need to control drug discovery & development costs, and growing number of cross-industry collaborations and partnerships,"
 publishedDateTime: 2022-07-28T17:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9647057.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9647057.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-drug-discovery-market-worth-40-/2022/07/28/9647057.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-drug-discovery-market-worth-40-/2022/07/28/9647057.htm"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "rML4xkeUgsnEZC5szA96JZih3UlRsyUTFYAc7b3Z/ZphRzKKpz5jLWwkLAft3Tdc/Tc46LXJ3uSc1bD3BkdHKI9xQ9Doio5hutA58r1CrSCb82z+TMDquCrmVTTO1GlggR9wKMUPYktDycQ0AgWCxZrFeWKM3fHVBhfkfTvjCObz9nKa4Qbk+OhofZIKY3nP6oxV1xDTpzRF0elDhS1I1CFskhuGzQzP1X07jEeEZYnMDJ5lf2h56IhX+9T5qcXrujn2C0RYOxf2/VoPXjJlq34mv4F3hnKWiSDTFsimVEbnz8ZEB1twdvNlvzJdfSxan8z2O8/HZPFCL3nK9bZ8XpTuCPBlsRIUzjzzFg3MEO8=;MOXdWwOy3K0pICacEVJKcA=="
+secured: "hz0GC2z6HAPumM2pSEmt4EacwnAP8xh9ieRrZorXGE/hKULFH6o9Sbk5CUJVFSEC7EPMzj3bp/9bM+b6Pq/sD3axFs+BGTFLlfup26f0OWgsvgaNENDwIK0q7wSZ1NUDer5StABdjl5lG+KaUiX6pvSoDjn5+g7kzeqZLgmQotka2ufCuXDUvn/xVJly4cOyJHM1B1RqcysT8kEv0FgR0IIHEAvWp155it8PWL/mZ24+PjCCoWYLniW1QSRoHbFvh0cAIbB181XNgxJvvNKMxEQ6dhV19PKXPHUg3vIy1uPqF3POKe6hlM3Cf2e87wtTc7ogm2fnFFVNeO9Nu+SNzcM+izc5sxe0nClkouLaE2c=;WelypSBdyZgM9vQePoVOBg=="
 ---
 

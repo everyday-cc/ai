@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BigID Expands Its Data Protection Leadership in AWS Coverage & Integration"
-    excerpt: "With more native controls for AWS than any other data security solution, customers gain more insight into their data, integrated support, and deep data protection across their cloud data: More Native AWS Cloud Coverage - including AWS S3,"
-    publishedDateTime: 2022-07-25T16:34:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-b632f2888ce757982a6f4803248c035a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "BigID Announces Industry-Leading AWS Auto Detection for Granular Insight & Automation at AWS re:Inforce"
     excerpt: "Automatically discover discrete accounts across AWS, detect dark data, & monitor changes on the fly NEW YORK, July 26, 2022 /PRNewswire/ --"
     publishedDateTime: 2022-07-26T16:03:00Z

@@ -42,15 +42,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
-    excerpt: "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies."
-    publishedDateTime: 2022-07-25T15:57:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 18
 
 secured: "7vmbkAnrVZ9v8eoMPfq39SM5J63udFv1/xOqdGXEm3bnaSjX84hg0D8Q+Dy336uE55194OQeO6EX8sczu0MDr3AP6630o/Y9xH6GDaLRs0fmJ9ZKw/UVaeKNGI395sExEXtFwbzTFYT05S2o47p6XD41Nr/DWWO7+RlQ7TRB38lbKKRY8Xg6M5GZRb/4ks1ljRanqMeyY+/GfVYwaR8JMQk1Z/g/elwUd91Vj0j5V2LAeEzpMXFI4mJY65v2R9lwasiVw/NaNvb9Adxlaqf1hjcdKF2SpP/FvRXSN8N4U//oiQXCTOfkZlLnMRSNa1YHl2cE8bYYXs4CDX0hYKvg+wTXFbJLvW2EDGvyWdYwlZU=;JJP6+I3upNmP8KcAz3EAFQ=="
 ---

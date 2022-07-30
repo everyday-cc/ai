@@ -7,7 +7,7 @@ originalUrl: "https://nypost.com/2022/07/29/ai-program-predicts-last-selfies-eve
 webUrl: "https://nypost.com/2022/07/29/ai-program-predicts-last-selfies-ever/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI predicts how last selfies of Earth before it dies will look like, See photos"
+    excerpt: "The haunting pictures of how the last selfies before Earth dies will look like, were shared by an account named 'Robot Overloads' on TikTok."
+    publishedDateTime: 2022-07-30T08:21:00Z
+    webUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html"
+    ampWebUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 53
+    images:
+      - url: "https://images.livemint.com/img/2022/07/30/600x338/Earth_1659168071219_1659168071477_1659168071477.PNG"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "P6Yn6rT3l8JABmuMsnxr4gxOLyTms7b+afUj70+JT/lvyIaKVf7GMIgRl/TpujqTYhEu9fgKu3WjBPQBbgwQQcsB4TuClO3WTSow4ivGkZoxVU91SaWlaHv0w0f/gdA+QSZ5UDmccdbIIfZwTYny5gr2O7VLl/RpFx/5Q7/GwYIpDKaJX54k6eK2q/BAcEUD3OAdwfT6TtvtQXRMLRQVyjWOZVnWTQ4pBSb6fy9fWzke6WRQHtNya2WCxcV/ve6o3Yya4pTRTnoDjN80wnNxIXk/t7uMhyKaQN6QDbV0xm0ZS3Q+ocJ23NomVNz+O7YhC+uP2azUAXO+5dXU5KmtEKjAi+zdozJX+o60zGYITj/SBqHJVe+ulJxEw2nqiGckhLa891x4A5JjMSdNFEZwSXAZKPFH6R0PJz9QLGwgEqluxJL0YSM/g7ZR1URnrxcSeBeubJQIfijwtluGNxTHUqQYW88QPt8ovuVUhAG23riSyl7HCwjaUQQciLJpqlqdla0TRGnzhc48KfPqQUIUNw==;yLu4CC3xgIXnyXNy2bZ17Q=="
 ---

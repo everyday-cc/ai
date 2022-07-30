@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Australia PM unveils draft Indigenous recognition referendum question"
+    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
+    publishedDateTime: 2022-07-30T08:11:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Creating a constitutional Voice – the words that could change Australia"
     excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
     publishedDateTime: 2022-07-30T05:12:00Z
@@ -35,6 +49,117 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
+    excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
+    publishedDateTime: 2022-07-30T07:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
+    images:
+      - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
+    excerpt: "Australian Prime Minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative Indigenous body in parliament. Australia's constitution currently does not recognise Indigenous peoples,"
+    publishedDateTime: 2022-07-30T08:13:00Z
+    webUrl: "https://www.ibtimes.com/australian-pm-outlines-draft-indigenous-recognition-vote-3591780"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/30/albanese-elected-in-may-had-promised-a-referendum.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "PM lays path to vote on Indigenous Voice"
+    excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
+    publishedDateTime: 2022-07-30T01:22:00Z
+    webUrl: "https://www.sheppnews.com.au/national/pm-lays-path-to-vote-on-indigenous-voice-2/"
+    type: article
+    provider:
+      name: Shepparton News
+      domain: sheppnews.com.au
+    quality: 24
+    images:
+      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=b5fd0b5c-6681-5641-a66c-2e318ad95423&function=original&type=preview"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
+    excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
+    publishedDateTime: 2022-07-30T03:40:00Z
+    webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 22
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
+    excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
+    publishedDateTime: 2022-07-29T21:19:00Z
+    webUrl: "https://www.sbs.com.au/news/article/pm-to-outline-proposed-referendum-question-on-indigenous-voice-to-parliament/0hg0tp04m"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 21
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
+    excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
+    publishedDateTime: 2022-07-30T04:50:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/1103bbefb1465c83b00323f57c31c3ea"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "‘If not now, when?’: Albanese reveals wording of referendum question on Indigenous voice – video"
+    excerpt: "PM announces draft wording of the referendum question to enshrine a voice in the constitution at the Garma festival"
+    publishedDateTime: 2022-07-30T02:57:00Z
+    webUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-not-now-when-albanese-reveals-wording-of-referendum-question-on-indigenous-voice-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 11
+    images:
+      - url: "https://i.guim.co.uk/img/media/57cb81e3edfce17c1f29f310b3d945efc4f92f65/0_30_3945_2367/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8b432436f8ce3e8a0820a27e6684979"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
+    excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
+    publishedDateTime: 2022-07-29T12:30:00Z
+    webUrl: "https://thewest.com.au/news/indigenous-australians/indigenous-recognition-prime-minister-anthony-albaneses-garma-festival-speech-builds-referendum-momentum--c-7681574"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 0
 
 secured: "t6a0h7SphyITfxWAIgaAii3T4wIImu7tmiWSvWKIjugQoTWgXVFS6qWURcVap+VgE1Bji6ZBBGi1H1U6AAgXhjZFgubfGZyJcaOPVe8ViP1rx1CeJiVdBRwP5KAz2P/pdna9Z1VqEggvYxn8YgFQJ8DpYOLU0iuQshg/mK25bXdCUXtyBVSrRc6oZFWr7CHkhKDhRy1ib9oWcud1W39wFR+oCtfmx5MaDZk2eCr49Xz7eHkfAZwvfgcF8NuiVmCAzIlO4vWvrIF578awRolSa0T8DBg8PtG+TzMu6qJnc3kJlpuj+6h3pH3xxMybguPR/Uerc/8DcD2EZeG+0XaKIFO93Ryl6I1n7ThGr/cgqS8qanNcRpwxtQKER5MA480z5WLok1fTZxjPiA5pFA9DnJv4PQsVUn+Ua2ykAeqH1E9QipFV9YkwVeCKxnQTCMRKXg1Z6AgH+NHZwmUK4WFCiwNoFldpgp5TWmqD5m3lMT+Vm19wM+EnVTzFSPbQvEU1RNMhd80o4q4tdCsdw9UD6g==;Z7qxDIuRR49/L5E7PJxn4w=="
 ---

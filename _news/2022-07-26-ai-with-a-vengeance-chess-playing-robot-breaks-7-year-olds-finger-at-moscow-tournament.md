@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-ch
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
-    excerpt: "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
-    publishedDateTime: 2022-07-25T15:55:00Z
-    webUrl: "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39784"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg"
-        width: 2500
-        height: 1691
-        isCached: true
   - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
     excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
     publishedDateTime: 2022-07-27T12:00:00Z
@@ -52,22 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Chess Robot Breaks A Kid's Finger During A Match, Has Skynet's Uprising Begun?"
-    excerpt: "A Russian robot trained to play chess fractured a seven-year-old opponent's finger during the Moscow Chess Open tournament."
-    publishedDateTime: 2022-07-25T16:04:00Z
-    webUrl: "https://hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    ampWebUrl: "https://amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59198/content/Chess_robot_hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
     excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
     publishedDateTime: 2022-07-25T17:22:00Z

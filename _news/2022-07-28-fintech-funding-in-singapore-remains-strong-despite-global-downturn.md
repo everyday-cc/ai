@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 892
         isCached: true
-  - title: "As VC funding dries up, one fintech shares its unique path to raising a seed round through customers"
-    excerpt: "Early-stage startups will need to be creative with where they find capital. Karan Kashyap of Posh shares his journey to a seed round without the help of VC."
-    publishedDateTime: 2022-07-25T15:05:00Z
-    webUrl: "https://www.businessinsider.com/posh-fundraising-seed-round-fintech-bank-customers-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/626ab91786fa90001905a244?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The future of fintech and how to get involved"
     excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
     publishedDateTime: 2022-07-26T11:39:00Z

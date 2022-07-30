@@ -35,22 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Rogers to invest in AI after network outage"
-    excerpt: "Rogers Communications plots CAD10 billion network investment over three years, as it seeks to rebound from massive outage."
-    publishedDateTime: 2022-07-25T16:46:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/07/Tony-Staffieri-e1657624125282.jpg"
-        width: 650
-        height: 399
-        isCached: true
   - title: "Using AI to Train Teams of Robots to Work Together"
     excerpt: "When communication lines are open, individual agents such as robots or drones can work together to collaborate ... together using multi-agent reinforcement learning, a type of artificial intelligence. “It’s easier when agents can talk to each other ..."
     publishedDateTime: 2022-07-29T15:42:00Z

@@ -3,18 +3,18 @@ category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
 excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
 publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+originalUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: WTVD
-  domain: abc11.com
+  name: ABC30 Action News
+  domain: abc30.com
 
 topics:
   - AWS AI
@@ -57,20 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google Fires Engineer Who Contends Its AI Chatbot Is Sentient And Has A Soul"
-    excerpt: "The engineer who claimed a Google AI chat bot had become sentient has been fired due to violating company policies"
-    publishedDateTime: 2022-07-25T16:46:00Z
-    webUrl: "https://hothardware.com/news/google-fires-engineer-who-contends-ai-chatbot-is-sentient"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 36
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59199/content/ai-human.jpg"
-        width: 708
-        height: 419
-        isCached: true
   - title: "Engineer who said AI was sentient fired by Google"
     excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
     publishedDateTime: 2022-07-28T09:59:00Z
@@ -99,6 +85,6 @@ related:
       domain: thesun.co.uk
     quality: 14
 
-secured: "V0J4Ir30/5ww9hZCsfbklrzDuRWauzxh5Wq5TOLNVEzR3JqVg3cMglG3FkXP2PmKaHPOUUY47EL9c48SIzi6qZFiyarLcAQQ0OA2p6FQBsxNujMj29u82KICnj4RxnW/4tkKOAszcfNrG1NpXfZEo9E6RSviMK3Kf4MnTgOYkpDJwDFxDZPbGEI79SyiJgwG4nXOJ/muTooASSFAd9dJKLNpJqtdHmE64j+Xrl56KLqaO+Q166QOIzai0gd44lgH7HhFpUlQmgdknbmT+6YaPLaaRiML8+leM960oWeGmXga36Ebh2ZH8HdJa6TZC2IdN/KWN/R9kiVP3iOFUBWRH/oUVh/RBXIJV7gJoXndKLc=;FE2tRvPd5xtzohhlVgkr+g=="
+secured: "vg2XKCNYgt9rFspjGeTieejkn7HboHNjzgXNP+s4X0OazAcT1lGPrBSmTabZ7BOkiMGQYUgqScjwGHlwmYdlMwtgn26OmMLpEr9ZQ+Lw6XP8C605Rx5Dcr93fxE2nA8BbU0r2U6+H5jRwiU99mB3kSyBlGSkcyuscrffWjvVfspeInYu6b7CEqptFsvMt4yutpKSdt3x9oNoHWY+/qrL5Xqh4c2o1q9Re8sASTx41dLBxgcZ6EEY17zPf2b0VEYU8vMzz3DQ5ODPqLyNvqR6WO6DE3vENw+WkoH42JFszxbI50XTZkHfeTpV/38fZo/zucldXIeerMdo3kyG+2qDBImq5Gx1SMegkwnakQxko+Y=;mU+r3sZ2tj/nhfJoee5exw=="
 ---
 

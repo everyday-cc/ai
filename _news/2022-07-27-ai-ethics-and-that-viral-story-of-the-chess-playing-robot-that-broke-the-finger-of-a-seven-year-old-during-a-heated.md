@@ -24,22 +24,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
-    excerpt: "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
-    publishedDateTime: 2022-07-25T15:55:00Z
-    webUrl: "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39784"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 89
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg"
-        width: 2500
-        height: 1691
-        isCached: true
   - title: "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament"
     excerpt: "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,"
     publishedDateTime: 2022-07-26T04:35:00Z
@@ -55,22 +39,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Chess Robot Breaks A Kid's Finger During A Match, Has Skynet's Uprising Begun?"
-    excerpt: "A Russian robot trained to play chess fractured a seven-year-old opponent's finger during the Moscow Chess Open tournament."
-    publishedDateTime: 2022-07-25T16:04:00Z
-    webUrl: "https://hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    ampWebUrl: "https://amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/chess-robot-breaks-kids-finger-skynets-uprising-begun"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 55
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59198/content/Chess_robot_hero.jpg"
-        width: 708
-        height: 400
         isCached: true
   - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
     excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."

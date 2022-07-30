@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
-publishedDateTime: 2022-07-27T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
-webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
+publishedDateTime: 2022-07-27T12:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 type: article
-quality: 57
-heat: 57
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
 
-secured: "IotVyQ4Vb396z1gvqSHuYOoi48rcvtwABL5Fj4nyNpWRq8cTf0GwgZhZAhRoUPaFH9cK4RFT903GxLqU+T0NrurqG9VHnZJEiuYPLUppumLe+HucAwX91cwV/npNA6EuQdEAJYQwlLL9ayFp0L7pd/PHCiJFMTc/kkTzEmdSaWDOcsW1h/q9RrZCNpVjKq6Mw2jSvnPBeZdZZnECnynjjz5B4K9xKFuCyGTfCb5YYM34U4JCN4uRY+W2s2iIbPFVKgOBxkF7xTv3f41PhGFbmvZKDEuD3O/IaVzMlt4aYa95qp5vGAu0yF7z+7/q10lDJNgwXuJKKDZ8p3Pug5KF5QUlrJDK1TfDwy2/QCMEjwg=;mRoPqAYKKZ2wGvo2h7OK2Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "hqG4ZeHU4uDcqTK2oqOPVm8r8ih4lVVpItbM/jA/mUIgxQ+Hf71rI5FRerMNWUMhwsp2yhMhgZbTPGFbF1RbqcJnDLHHT7BS6KoIISq//IZ99+8sw5qceFN6yiM1AgHImdT6hOE4s7Y/N5J7AxVRz+8BR+rnQwixAT7rl7L5381kr2CRI83uO4vjTege6ClXd5mibISWp/qieuFBnYQHqPcyVo0TRT5iebBRX3gGpPOlx9FY1ioIsaU6Jr7kF9Jy3n5Qd+oNXF9zxaLy1dcwiHz1SbdFm+hvwD+RepOK5qxrniY9HZR6mOlWwghzJQI7dFcxj1tBaacCebUoUrUqOQs4CK6n/TvTqnP5/N2aLTk=;EP7KlgsJ66luNgoHIBJVsA=="
 ---
 

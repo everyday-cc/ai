@@ -2,6 +2,136 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-05-11-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
+      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
+      "excerpt": "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91481989,imgsize-28942,width-1200,height-628,overlay-etcio/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
+      "publishedDateTime": "2022-05-10T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
+      "title": "Intel launches new AI chips, challenging Nvidia's market",
+      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
+      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T19:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
+      "title": "Intel unveils new AI, 5G technologies at Texas conference",
+      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
+      "publishedDateTime": "2022-05-10T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-robots-and-the-future-of-remote-healthcare.md",
       "title": "Robots and the Future of Remote Healthcare",
       "excerpt": "Although the technology has been around for several years, it is crucially important as we start to look toward the future ... and now some robots are even armed with artificial intelligence capabilities. Others have added automated movements that ...",

@@ -221,22 +221,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "DeepMind Paper Provides a Mathematically Precise Overview of Transformer Architectures and Algorithms"
-    excerpt: "Since their 2017 debut as a novel approach to natural language processing (NLP), transformers have achieved epoch-making performance across an increasingly wide variety of tasks and fields and are now the architecture of choice for many academic and industry machine learning researchers and practitioners."
-    publishedDateTime: 2022-07-25T15:28:00Z
-    webUrl: "https://syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/"
-    ampWebUrl: "https://syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/07/25/deepmind-paper-provides-a-mathematically-precise-overview-of-transformer-architectures-and-algorithms/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 46
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
   - title: "AI Medicine Software Market May Set a New Epic Growth Story | Enlitic, Atomwise, DeepMind"
     excerpt: "Some of the major and emerging players within the market are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi ..."
     publishedDateTime: 2022-07-26T10:34:00Z
@@ -405,6 +389,6 @@ related:
       domain: euronews.com
     quality: 14
 
-secured: "PYle3HpxS2fbRgRjK6wU6xCL3PU34G/f0RjuLwuqzl4JOlVs1CJNQ9neq3opDHW6Tt0Yrjux9hr7goH7rh5NNkxBNsMsibwn33a+S7iOnKz7TAbmVJYEnWU5KI1GIWd8ufQiqO5gGkIb4s261mBhws7o1z7njmgIS8oOlbTsW5zNUy/f38EFTh3/SG3D7THPmcYSfA7twSVD7wbuVL6CfJ1u5rpQeNYNBDkKTALsg+cx9W1OWAB/tCmd39Xzk7UUIVzPKcRJu3nxSqIudU7CW3Nvz9CsPqPC3c0zr3y3ErE6HMD0YMW65lCam5FghOfZGMRuUFgLJXUJiEjxRUMIjU/VhTc67S3qsNRCPHHI2Zs=;23wmuCIIREBuBvcA9BWcoQ=="
+secured: "aTMPbyjzAIi07kiwB1nbjqX9ZypJQ1h8IENi0VR1OT2Crfdl9aLXWLpHFD3wNPikGhoTDhdPPfXsnRw7DVlCeLkCWvlrflbVe1/B+h7ZpstKNttEOwfX5Hjx+Lv/onhb6OufmDXHmzP3JBOsFLbK8/5QGCJnNdxqZRFXn3uMWUd9XFR4MN1MZq2Wo/naMXq03Q1EXDIePqnlD+XvuJ8GaaohxtoFTTPYEl5PnIlLkidCX9RwXekaHE02H9ouzrIbgNGJh/mubZNYfAVXSunCy6ZXcbd+L7rnKn20uB6V0hb/4Hd3V5ldQmSSFFhkBQgyKvQiMsCYFQY4sPEYlalv2Ay0PR2BQKVY7iBMkmmiTXIEHh9eFhxATLASCGUiIxXIF9xgax8gkw1fz4Zbw5kETBNn8rWsrq7N1Za6IWyrE5AXfBD3UQ0G94P09jruBEorFZxj7vqpVUNspaOH8DwSylLAeDT3hndxP7CbtL9NX0tQfYegIFnxfZqsNdoRCQe9lZFUKqNatHRhdttrImXJ9g==;GXo06GHKaOT4PjuWiFgVfg=="
 ---
 

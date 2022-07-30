@@ -28,22 +28,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Rogers to invest in AI after network outage"
-    excerpt: "Rogers Communications plots CAD10 billion network investment over three years, as it seeks to rebound from massive outage."
-    publishedDateTime: 2022-07-25T16:46:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/rogers-to-invest-in-ai-after-network-outage/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 57
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/07/Tony-Staffieri-e1657624125282.jpg"
-        width: 650
-        height: 399
-        isCached: true
   - title: "Aruba Central Gets AI Infusion To Tie Together Network, Security Insights"
     excerpt: "HPE-owned Aruba Networks' flagship Aruba Central network management platform will now include a handful of new AI features aimed at bringing together network and security information in one place for partners and IT administrators,"
     publishedDateTime: 2022-07-26T15:19:00Z

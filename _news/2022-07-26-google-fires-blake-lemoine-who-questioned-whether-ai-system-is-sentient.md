@@ -51,32 +51,18 @@ related:
   - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
     excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
     publishedDateTime: 2022-07-25T18:17:00Z
-    webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
     type: article
     provider:
-      name: WTVD
-      domain: abc11.com
+      name: ABC30 Action News
+      domain: abc30.com
     quality: 57
     images:
       - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google Fires Engineer Who Contends Its AI Chatbot Is Sentient And Has A Soul"
-    excerpt: "The engineer who claimed a Google AI chat bot had become sentient has been fired due to violating company policies"
-    publishedDateTime: 2022-07-25T16:46:00Z
-    webUrl: "https://hothardware.com/news/google-fires-engineer-who-contends-ai-chatbot-is-sentient"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 36
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59199/content/ai-human.jpg"
-        width: 708
-        height: 419
         isCached: true
   - title: "Engineer who said AI was sentient fired by Google"
     excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
