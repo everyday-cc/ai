@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Resecurity Expands AI-Driven Threat Intelligence in Peru with CFBD S.A.C Partnership"
-excerpt: "Resecurity, Inc., a U.S. cybersecurity and intelligence company, announced its partnership with CFBD to expand Resecurity's AI-driven cybersecurity solutions and services to Peru. Based in Lima, CFBD is a leading distribution company specializing in engineering development and IT infrastructure for electronic security and artificial intelligence."
-publishedDateTime: 2022-07-29T23:19:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/07/29/9647723.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/07/29/9647723.htm"
+excerpt: "Resecurity, Inc., a U.S. cybersecurity and intelligence company, announced its partnership with CFBD to expand Resecurity’s AI-driven cybersecurity solutions and services to Peru. Based in Lima, CFBD is a leading distribution company specializing in engineering development and IT infrastructure for electronic security and artificial intelligence."
+publishedDateTime: 2022-07-29T22:03:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-peru-artificial-intelligence-d4919f44f7cfe8557c1d7f1fa4e54af5"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-peru-artificial-intelligence-d4919f44f7cfe8557c1d7f1fa4e54af5"
 type: article
-quality: 10
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Cybersecurity mesh adds decentralized security and swarm AI for remote-first enterprises"
@@ -49,6 +55,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "3uWk88TZZkp105r4ZToHAsQKkt++0dqI6jfyvqmHJbEFMaFvbp1LJn03d/JG5sPjBjSFpZEWDHA0iHTQgWomSrwVcmNsOn6IgIBCWycfJEfm+MR7NBf7pcHpUrGzAMRdhY8b7ZbRWWYrO8yTXQDGDg44UWE8u7fMKx5mJK+OP8VJElkKzN4tHcP+453Ys+YuyhzwaHWQqpkxaSRCowLpj3jrswneLTJyhRhhDUcxG+D9ASUM4SDxwuxH9ono81Uoj0DPR0Omqa46FFMRqW80DLFbYLl23UfbpeLPLGB4rF47TRWEoRrjf6HiZz0i+LUueNwzSVgoDc8Hk/NDsrg51MFvrE6R5t43kbDVP9BWNdgsyZYLCej+BTn3wHe9kQELGUyh8/EV4AMPvigcwTrjbP8atwP4vLlAUkp7101hFuhkvEwTFGtQf38/Y75pDFeNSMS5P/zxgwdGZ9kxqgbRPyg1O+eQQaMUXBDbTDI4jp2OMQjEDkHBKCwesVKsGGiq0ii2DUldfWg3Gg5RnE0xMw==;CoGeADWahZFMfZ/KvmY1cQ=="
+secured: "2vtSYUiu7b2k8gQUQvUncjwXgGYwGqmE+TZ7EiIC0VfnOBNWTJvsAjgpglnjDLquSn86b73ysz2ATr2K5pjGN9x7d+vj81ZO3cYk7e5y/gL8d6XFfMS5XCK/krsRU/TwY5GEqbSjFG+5G381NYbPrbspkZUL7s38K49kN6+v3RplsLYA3GetYMUEvaJdLMcV8dTjAGmQvGd9d3sK8sFQS1f3J5OBQBP4OL5l54iesEdFLMDcqaq7Ft7oNtfe6p8YGOj1MRHfoBv4pbsEdbMqhHp8nHvgUNm2iCiAatmM5oOyFrWGLSzbwrgj8UI5YjK/LdYKsOiMEvzRqfNpP6pbTA1hwlc9FSMtr4Vhg+ZHm3I=;66n8eStvbcgAS7JGwR14Iw=="
 ---
 

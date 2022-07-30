@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Vizient Announces Strategic Partnership with Mpirik to Improve Care, Health Equity in Cardiology with Help From AI"
-    excerpt: "Vizient, Inc., the nations’ largest member-driven health care performance improvement company, today announced a strategic partnership agreement with Mpirik, a cloud-based care pathway software company focused on cardiac care,"
-    publishedDateTime: 2022-07-25T10:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-texas-b35cc51c495c420a9ed343b99c6a3906"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "v0Zwr8xq2+dsW33LnntCSlyD0NenYIA5i5ZeENDmsONp1fUuJezkbWrxJjxUKaf1S/tYiTN+NaeUaUuJ56QqsJpaBChcO85eGFK5CLgQr557olkbdzI9znl1MOLgisQJ8xCAAMBeMgAfQlVvohgqUbKd5z3qbDjDXu/18QHkMYTQ5STRnDI7j/0JN0D1Ov4zvECIlCGCU+KQRC0P0agR00/UHblq/mXub+n76D+/4LiSDCV6dJ4TrCe5ZbMaMAHFbLmhhl4TRrPFBkye5L1dSZ3Qk1l670IsBk2w/e/V1rmqjarnNkwyFZ3BBAOZD1cFByXn9ViWP6G1+8Y8mg5sce/IEAVMJNT+TPhzd9mlsqduAuX2PmmunWdqwtqZdW+7id+O2PonfotYFbJJ9ggPWcsCO1gT/SO8XFuswZDsuTT/qsi2DLnEM68Ie7tQ1/X+Y6PAvDTpxjpk28L/5+vDFz2cKvatYa9SzAJS3eVGZN3fxNcTrWP0WwT93yJTX/6HZgU3ZXMJDciL2fuHcaGJwg==;NWBukLPmb/m4OwXuyzoQpQ=="
 ---
 

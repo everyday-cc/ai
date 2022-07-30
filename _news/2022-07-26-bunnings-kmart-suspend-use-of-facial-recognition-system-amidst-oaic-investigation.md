@@ -55,22 +55,6 @@ related:
         width: 1454
         height: 800
         isCached: true
-  - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
-    excerpt: "Hardware giant Bunnings has switched off use of facial recognition technology in its stores amid an investigation by the nation’s privacy watchdog into how the retailer is using it. The Office of the Australian Information Commissioner (OAIC) confirmed earlier this month it had opened a probe into how retailers Bunnings and Kmart were handling customers’ personal information."
-    publishedDateTime: 2022-07-25T09:26:00Z
-    webUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490"
-    ampWebUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 51
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-7639490/ecaf881619aabefe9bd6b8d2da6024e398e47746.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Editorial: Place privacy restrictions on use of facial recognition software"
     excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
     publishedDateTime: 2022-07-28T09:00:00Z

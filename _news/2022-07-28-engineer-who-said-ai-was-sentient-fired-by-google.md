@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google fires software engineer that claimed that its AI chatbot is self aware"
-    excerpt: "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,"
-    publishedDateTime: 2022-07-25T09:51:00Z
-    webUrl: "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/"
-    ampWebUrl: "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg"
-        width: 670
-        height: 446
-        isCached: true
   - title: "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person"
     excerpt: "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,"
     publishedDateTime: 2022-07-25T17:37:00Z
@@ -95,24 +79,15 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations."
-    publishedDateTime: 2022-07-27T13:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10"
+  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
+    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
+    publishedDateTime: 2022-07-25T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-  - title: "Sense Selects Iguazio for AI Chatbot Automation"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
-    publishedDateTime: 2022-07-27T14:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
   - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
     excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
     publishedDateTime: 2022-07-25T18:19:00Z

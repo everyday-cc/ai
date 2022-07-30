@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/lm_aitakeover_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI predicts what 'last selfies' before end of the world will look like - See Photos and Video"
+    excerpt: "Creepy images of what \"last selfies\" taken on Earth may look like have been depicted by an artificially intelligent image generator. See pictures and video:"
+    publishedDateTime: 2022-07-30T02:48:00Z
+    webUrl: "https://www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123"
+    ampWebUrl: "https://www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 46
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93224123,imgsize-100,width-1280,height-720,resizemode-75/93224123.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI asked to show an image of the last selfie ever taken on Earth"
     excerpt: "An artificial intelligence that everyone can try has been asked to show a picture of the last selfie a human ever took on Earth."

@@ -5,10 +5,12 @@ excerpt: "Bay is doubling down on AI-led visual experiences and further incorpor
 publishedDateTime: 2022-07-29T19:10:00Z
 originalUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/"
 webUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/"
+ampWebUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all"
+    width: 800
+    height: 533
+    isCached: true
+
 related:
   - title: "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping"
     excerpt: "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options."
@@ -32,6 +40,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "EIThrIXL7lFQz5m29a4yFQWqO3q6zZh5uW4aMsqMD1AZ+ZKiOwp4Xoa5jDkrTIRKQfIqHwLb7mfHiQ4etcjvPsYJll4zEPkydEUbQoXkFnl/vkMEhfPVp/LiWdKZe7O6NjpAUEuJo8FQt65waF8bxw43bs4oKeqPIjQBNhxY4aQq1B8ACnDMPDLNzfvhwR74ZIzBSxfa5Pt4FTm08w/WJrJIch1Q97OIeXwh38Lf9+JRoKtnN5MzYEF14qW7IvrRDSVQrc7zLWyzahtGY4k422ficCrAqEEkcKPyyIEepQscUyn2ZWsnm0O6/Ir8M66wk+oNRVf55OcxR+mrrF2MyW9+ytbBCqybntZkjKuC74I=;bbqWW9VVJeJVhgcidISRRg=="
+secured: "q6Nu03Bq+yF9+nIwjoo6pPXd9gF+7+GPwicz4Ud9wy02Dc/ThwPk8ossrpzcZ4lDg5ahVE+asItKDO0pZl26k20Lp6VRJiHEIp8QGtqw3aOKvRUx2rhHeZBOFNNllSsqL4tdWU6/mywdqBZCk2oVuhLZVbrHR1VDfTUAyYhKQD15PeUNUIJeSEn2QikOqnzRXGK+wuVWoMUqlrl5jaT5JgMgETFX0sUASJ3Vr4lPrLpc7sxkHqg/3apppAH/XNfZxpPLaFxGTOFG9o2XRMmj+2qT2536+tl/GgLsBcmdu+GQWnCwL+BHCv9xY7IFb4P0cAJLd62djvtHSKVZp6Si3SfKPeMFvxwO9HwIqKnmR14=;v1lmS/5TEb5uLG+BpDsAIg=="
 ---
 

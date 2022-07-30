@@ -49,20 +49,6 @@ related:
         width: 1330
         height: 888
         isCached: true
-  - title: "Op-Ed: Good AI, Bad AI – The hype, the babble, and weaponization of AI as a threat"
-    excerpt: "AI is high-value. This endless solve-nothing drivel isn’t. Fix that. Enough with the Monsters Under The Bed garbage. Fix that while you’re at it."
-    publishedDateTime: 2022-07-25T09:33:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-good-ai-bad-ai-the-hype-the-babble-and-weaponization-of-ai-as-a-threat/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/primages/Watsona.jpg"
-        width: 600
-        height: 480
-        isCached: true
 
 secured: "dQpxSg3Nn/McSHbkUYWBn9F/l3xy/rZF0EumIFsZkh8+ZDWpE9x+2U/Odv4UW05UZI8vNJPbeC2oiA4dMdrzAWULkLtQzyhEy7TRg8yYJxwG5T3hjaqClQRntxfgLSkTK8CBPKM86NQZj7gMTOHcRmgLYZd/TaHNjg1agQ2Zr17UnoZlr8sukpOQJeXLBEhoNXekqHueJj0bMcFZCz5M/LvOGSGCLzuiRGkOzgE95hEV8Vn8tmJEZXb5EfURB5Ac3yzComDoZ2ac2G5Fmgl3+32VfeL2zPlLhGEkqIqmTF7bYr2jhsVeQWrtsOaNNUYOZT+bq0MzH3CXI4Wtu39M27cCBxDgqtn06kQ6OQPtXXu3TFyJsbzluaOmKo/aOjtJ5wM36tqG7Rt7JJ1QWnLoUaw58v8grs83czFto/evCFD58et5IwCDmE9YB3NUCyQNsZt07DiXB5HBZyNZOuqQCtrGXRouftRKXUJzAGwk1MXZMtNZsB1fmdHIRQx2VuNZPDbAIssa9xIwEJmhHqSl2w==;sO06NlIBc7EwADVcTzXrxg=="
 ---

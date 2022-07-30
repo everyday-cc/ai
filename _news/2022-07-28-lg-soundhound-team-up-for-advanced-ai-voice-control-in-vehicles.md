@@ -32,7 +32,7 @@ related:
   - title: "The hype around artificial intelligence"
     excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
     publishedDateTime: 2022-07-26T13:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
+    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence/140394/"
     type: article
     provider:
       name: openaccessgovernment

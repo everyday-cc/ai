@@ -8,8 +8,8 @@ webUrl: "https://www.timescall.com/2022/07/29/longmont-startup-week-cheaper-tech
 ampWebUrl: "https://www.timescall.com/2022/07/29/longmont-startup-week-cheaper-technology-labor-shortage-stokes-demand-for-automation/amp/"
 cdnAmpWebUrl: "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/07/29/longmont-startup-week-cheaper-technology-labor-shortage-stokes-demand-for-automation/amp/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.timescall.com/wp-content/uploads/2022/06/20150619_21dcphecw-4-2.jpg?w=570&h=570"
@@ -25,6 +26,6 @@ images:
     height: 570
     isCached: true
 
-secured: "dDEHAAxuhCvc7zsNSmb4D3JjoEeuTln+4WiTI8i+3MV+MqzvpTkku0JyVdJGve7YK54S8e3X+/gND5Tknx8VZRXcq0hi4dDkzHBvF36Qk0l0NIateErU2eI9JTZnFvFRPXVPqn+gooOuhzkCFUR/Wr3bxfaEgOYwRI/UHHBQcFhCwOeEr77s3WdQzR7Tj338IDl4nigd4LqI0UF6A9NWK1LbAL/uu/PQpXvwYO0ewZXEPcoUWymccIeHXvRxRblA/T/j4ncsahxzuL67McXrmKPv2/VyHI6TxOJS1bC+0fbleeZlR5sjTl1CpXMlsxn1oG5AR/d8YDFxHadwZms3zmkBk1j164kSLjxJhTK6AUE=;WvvEsHwrEq2cmccLnDWS7g=="
+secured: "An2cWPkJUWrgMSjA7yyazbXE3CbgRHhHFJ/nQlZF43ahAHjjmy+QjZNDVisswJquK+v511PIAZtTDxYSAjCR73EYJ2K9dOcXlVyQUT44DdcYlDqUoCrj9WYWRrYNDypMAW386AH7SfPzlEnu/3qmYIqTPpd1rGODB7iI15xDUwmuJs/SP7q/X8Cm4LRejD3tkHxF6O8/muRBU6xJVBpw9LUtz+DLfk0vqyarcQeMHoUZvHbMmPT9nzc8CoWa6RlECojV07SQiMxuyI8vd//VSBmuuGgguJJqe120O1tVwyG7vKHM4EucBrOcM8w2weEP2wW0PTZsT0Zt0K/dyPpkF05WnNN23P4QiOcWQxU8EwW3e3EAM4yRrsNGaXf+4ejw3RsewrXIMlwcBvhJl/PEGTAUsPIPTvWMzueOUS3Wc/6VbCQ0V/TC3dr5JYrJuKcmrBMUSfQkCVf0B255blAsQHedaUA7f39Bf19dFDQpOQ5TyXT9zaIw6J4/q/vh6GAkTBhSMVFTqdW342Yt7vkB9w==;E484n05Qm3fGHVAAInBgzQ=="
 ---
 

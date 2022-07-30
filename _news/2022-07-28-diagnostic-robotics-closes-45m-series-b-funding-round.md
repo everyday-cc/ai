@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Diagnostic Robotics closes $45M Series B Funding Round"
-excerpt: "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,"
-publishedDateTime: 2022-07-28T14:33:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b"
+excerpt: "Diagnostic Robotics closes $45M Series B Funding Round Jul 28, 2022 (PRNewswire via COMTEX) -- PR Newswire BOSTON, BOSTON, July 28,"
+publishedDateTime: 2022-07-28T14:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
+webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -35,6 +39,6 @@ related:
       domain: globes.co.il
     quality: 49
 
-secured: "o7pMA7xJa2DZ5VlfyR6bL7PKKxIPaXxN3jo7scJTc6x75XXEdSycvFLMjcx4VZyRu/hQH/D8tThFDtYE4R3EyR26wsnWyarLbMmrvXq0/7FCijAe4/FTHbQcew2X3kkHGID2I9/1gxfon6D6B88BhyoVRjkDHJwOf6ybpVIigiEM1guc6/2wbkcYlIMYVVtXGRT1xO9/JSMnzwKIiI0VwmeYnJZpiCJfrpEfZQ50ierORl4c2o0B1xhNpe7wEQtmgaUTUfxqKGSILfmIbOucVVUjGiSJuvtm9PP9r45rnkZj/uYUCkasI48tzhAOJkHp34ZLJF4FhzZNtBRSnwILos4cwXJI98opkYF+bwFEJdw=;WoVJvPSbPqUbUXtjjecm1Q=="
+secured: "x6x5Kmpxej5VP4vcvKuLeTnX+cDvH8c0rXjWnzFOKLquzjFtPCcZGUsBwvcZmhxUcCJmyVvIQC3fKjrOWoTLFfgvANKez/Z/ynRLHgexFeaQrRtuXbvruhZPJ5tblChWXlrlRS2DZYRkmqPv2JH74HxaVSFNseOko1JZwlgITyBpJchnPrbgSeJY8VSkWvKbD81+HFiyKk3ZpHjeAFshkpf8ueTB8QBUeVC/OywqmAsxFqNMA+vlLMayYMWNXong7rU74rs7+7vbul0ZtIvxN+HexS51qgWvEc5sjc0ibu9v9fFQQQeUl1fAUwdgyFOkTkrarpsQjMlSkPUNeJ98F1jX3HQrSiz8e8PpQauAyOQ=;1WlT0RhhiDJftDRpEc87Vg=="
 ---
 

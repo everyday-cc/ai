@@ -23,11 +23,18 @@ related:
     excerpt: "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding."
     publishedDateTime: 2022-07-29T19:10:00Z
     webUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/"
+    ampWebUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "WcCKjRhmlhvCi4VOMjq/IEXI0Yzd9Eh6OGPflKegh4tBJdZ255VWQVqgM5im5sijePe1M3mDcZXacyUJFBjUK4SEHWsJb0Qnd1ZyRyUhUE2pugSi3WLyhYLGMsGW9NTKaD6ZLu2kKAaw0YGAUFIFWxeguzMGXIKSGf7S1iHIkFOClmZbqE0SAWfCGK4Gr3GMc0Q1qwdTO+6qu7kkCSp3G1/L70XZQsz3+0Y1LLGBd30PvPXE0unoUlGV8h5wFM8ek/AHZdsKoi13KQdt7uqatp+ug/hYNeUXwgsmeIQssuYgv51HLOVa85pruo2vVi7xXiuTN1oSEU5OmvJ27saL6zL4Y1F+AE6So8TBCGG3rWw=;JSfFumrkex7NIupW7X/QOw=="
 ---

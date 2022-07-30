@@ -3,8 +3,8 @@ category: news
 title: "The hype around artificial intelligence"
 excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
 publishedDateTime: 2022-07-26T13:32:00Z
-originalUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
-webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
+originalUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence/140394/"
+webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence/140394/"
 type: article
 quality: 39
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: impulsegamer.com
     quality: 12
 
-secured: "l9F1laMmuomiIBs35PhZO9NB6Rmy7CG4jH7taytzwJhGyk5Xy6BPrgmtW49mrrz3S93vQe/HJYwqMyNB1kYTmV6LlvKrCPNVobNi/CVxdX+XIjwMwdabuHyvIoNTwustnjv19CdaQcfL7bK3Sx3kYWK26wGAVkQDEPOkwN9jjGwwdBK4mmKcnWHmQlNNMzO6147qDft/YX3QIUwQmxEtbBAaGpasLEg2Ie4d9uQeZJbV0Gw0iHu4Tf5UvdrhgV3e6Rsal3rfYh79imOPRu1qa1AZw0+Ehq8wIafgBJvbFZ2XvHyUwRj93xawJo3v1wAOTsVm4SxZGwNCLoH7SRj+XrJiBDw3zbVx7MAxl269wGo=;a5TPhD3MbJFfrfCGkMTdEg=="
+secured: "AWH2yKeIp4DM++eXV0DPq6oHWjb+aDaNOBm3JcDJh4lZpjeK0Ow0USFTvAbqEhve36tzOiYO7PwTyZXOj8sCmElDS+c5PgXhPgQLmEmGWCVXkT6GOOnLPFcCJe8KvibSLOAteibJmufrhEWdOXNd7vrLCoWBH/bW5X4oVbaC2lOcJoWUTZVntXWTd73wSl/uXba0U5o6rG+mOq3/bSrfOtbWYnyiKURLmCCmoM/MHCU31W9iJ6r8x5SmQ/JAlwbqpl7O4Ah2Cay8jihOAs/zQZFTbdu93XGTu6ptgvQVuEDXKez8vC4nrZzoqW85n+cvUdTxSLwFSP52j8ThagU3CcxAs/FOZZ0pniB4GJYySL8=;M3PZoeICxJ//7utCnqvhRw=="
 ---
 

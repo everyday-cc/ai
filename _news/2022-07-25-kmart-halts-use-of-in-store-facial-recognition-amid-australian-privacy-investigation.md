@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
 type: article
 quality: 82
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
         width: 1454
         height: 800
-        isCached: true
-  - title: "Bunnings temporarily turns off facial recognition technology as privacy probe continues"
-    excerpt: "Hardware giant Bunnings has switched off use of facial recognition technology in its stores amid an investigation by the nation’s privacy watchdog into how the retailer is using it. The Office of the Australian Information Commissioner (OAIC) confirmed earlier this month it had opened a probe into how retailers Bunnings and Kmart were handling customers’ personal information."
-    publishedDateTime: 2022-07-25T09:26:00Z
-    webUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490"
-    ampWebUrl: "https://www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/technology/bunnings-temporarily-turns-off-facial-recognition-technology-as-privacy-probe-continues-c-7639490.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 51
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-7639490/ecaf881619aabefe9bd6b8d2da6024e398e47746.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
     excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
