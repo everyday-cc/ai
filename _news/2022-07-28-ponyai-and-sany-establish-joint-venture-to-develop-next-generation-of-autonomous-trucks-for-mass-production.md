@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
-publishedDateTime: 2022-07-28T03:41:00Z
-originalUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
-webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+excerpt: "Prototype L4 autonomous truck co-developed by Pony.ai and SANY (Photo: Business Wire) Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony."
+publishedDateTime: 2022-07-28T03:32:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
+webUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 512
         isCached: true
 
-secured: "eTttDQnAJcPBjjpTfKe+TGmipVGkdEYyVrkNUCA/3IHeyJfExlOrq/dHvILgI4jDnIV84pI7prT4nupnZxltxEc4G0LJJd50ldP3GTyGhLcvwdtPW38fOIZFVggAAEeAJtkw89/UeQ9q6v+HcuyDnlz9azT6+8jBWRIcA06B7PEMLgyCpIOl2Yg2s0OXOSBxjLwPtRDjxqzKJOp1BR2y3j9E2Gd2i8s+J3yYXslQxkIv5yX4vMA4J6iXrjSC01Ab4BgEPjM+YLTR6su1f1nUOd1UE+bjX1BWpZzREKK4aZCQXos5l5Z94sn5fSlrAVnXXHU0PyjcSUITQ9xeKyiGGmt2X12QDN2csliutBziZKtltW/6eJy99IIu/y9iMs6Hemwga6Rbm5544/dxGHeJr0X0LleGFvYyoSiq3egccvuij6j59DVy1PSPM8vRaplAnXqnL0gzQbfmGbtUyYb6YxAdFJnAbsLPSu3y9LSCg0Asb/1vIrL5qsYx+UAx95ttSZ8909rXwCKNND5HSGerLg==;YUPtVBoMPDq2x7KlWQ1/wQ=="
+secured: "3MjZjoi2B4qB+70qBQlz505Jql36HTV/W+Pl3Qrk9p5MSXNNpdobZUWW6RCCUU8BhNRl9eC/h4QydD3AJEaZsPDeCYCfQWfzgM2Cer9bG0F0ewx/ZvpDljqCRaeWExp/XbPcoy+m4V8mGOHKSmoqSPbX7N3ykz1SbxcGmamLAQ+y3aDmKX8Q/1dmVttEpttnFdJbqcN9K4y4CL2hq6EHEYKAYPVbBIHTim5upKhUlM6958fdPNBSYeUIFOVA69zZXI4g/FIis3dZs5gv9GctB9lo/CmfOU+yBuU7VxM4LEURGay3fZ74WF1Fhr1mfWPcFvcTF4AB3Uee3ByRXbS8qZXC7tviiK0iGQOvXA83zQA=;eYGLAUqL3VHYqgAO0qzBcg=="
 ---
 

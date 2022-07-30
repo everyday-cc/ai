@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
+      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
+      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
+          "width": 4912,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "publishedDateTime": "2022-07-25T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-how-stop-shop-is-using-ai-not-cookies-to-target-customers.md",
       "title": "How Stop & Shop is using AI, not cookies, to target customers",
       "excerpt": "In 2023, brands like Stop & Shop won't be able to use third-party cookies to discern customer behavior for programmatic digital advertising.",
@@ -206,6 +258,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-brain-image-movies-help-ai-predict-mental-illness.md",
+      "title": "Brain Image \"Movies\" Help AI Predict Mental Illness",
+      "excerpt": "New research by Georgia State University’s TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer’s disease and schizophrenia, in time to help prevent and more easily treat these disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/364015/brain-image-movies-help-ai-predict-mental-illness-364015-640x360.jpg?cb=20220725",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1055,101 +1150,6 @@
         "name": "GizChina",
         "domain": "gizchina.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
-      "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
-      "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
-      "publishedDateTime": "2022-07-23T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-how-to-build-ai-that-actually-works-for-your-business.md",
-      "title": "How to Build AI That Actually Works for Your Business",
-      "excerpt": "The biggest, fanciest, most ‘intelligent’-seeming artificial intelligence gets all the attention, but tried-and-true algorithms, applied to narrowly defined problems, are far more useful today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
-      "originalUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-589120/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
-      "publishedDateTime": "2022-07-22T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

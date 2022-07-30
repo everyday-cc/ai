@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/074OcBfRS0X2YXt333iV2nn-1.fit_lim.size_1200x630.v1657978378.jpg"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "OpenAI expands access to DALL-E 2, its powerful image-generating AI system"
@@ -120,6 +127,6 @@ related:
         height: 437
         isCached: true
 
-secured: "i1reuFVN6vJ9p/9hSdxrOG2qLnFP01fOrrMgi6UrIdq0MgeTfLP/VZ+DdAcBDP7+BzXl86Ovo98iS7z0kHHWgKzJaJGqmcdpr4HZIQGTQW/q+dv2dlu2UT+j1cLtYGMpJIXwL+hMO2QbGqInHb3mmxZc81Zq0scz5Dvr4Ddso6obSynactw0suHbl8U3QUKbWGirnOBATOhQVRJbItXlXBLfObBXwUfcEFAa/RmvHd5/YMO6i3Y/QjMLIuTP/lpfWrQAtLzYWfkXMEx2vMschdmag9xzS3gJPFghI69qqKhfcUyChIhdKnI3HP87MmqWr8e8LD+RqqX35Sup+VRSzIU6/bDiO7731FJZ/Z+n2jHfeD1GI6+k1afCdmoka1xE69DPpjhOnzoC+UDo2iYkdAw3cUWcmxbl+dSgvie4f/hadr+UWgYH9Z+m0KWJZ7bGYMjMk/cRCnACK/tyLKQmGH9+rIlqCcttkyOREJdYzy6iOg0t3bx1jS6jMnGKYo0biGRlCQSOtPvesYxNJUsa6w==;S+JUYRxzUGQG1eu4U21qVA=="
+secured: "GtESdiawVHiuGrT8Q9ztM/qz5Wl3v9vBgEESrnT6kdnzJKRP/61Zpk58OXUB4FMzgwK9DlhaxHYghzyHIAXk/+4xOjVEmHjmKUKUgkmEsZU7ySsJeIBVJK6vqbTYTNRBeCfKgVblEPLBJWJ88Cf+ao85eRziTzNtR42u6B07N3PwQ/2FIhEHqI1HvzNW/ljcHHDmU5YhQqMZn0dU4+dn40XPOYIhZA4NLowqzXlOgFRzEPN5FD1Bcbbz+YrsRv988LnleoBZz5REzNdj6bFVApMlnXIvxnnaqV9qlN9AtLm44slBwteiyQVN4L7UN4d5xpwNIgDJC0mW2CjFhTieP1FU8YrQ+lu/0vzxHBTOzSs=;8wg9cBn4LFrHkty85cs+nA=="
 ---
 

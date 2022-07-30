@@ -73,18 +73,18 @@ related:
         height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
-    publishedDateTime: 2022-07-28T03:41:00Z
-    webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+    excerpt: "Prototype L4 autonomous truck co-developed by Pony.ai and SANY (Photo: Business Wire) Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony."
+    publishedDateTime: 2022-07-28T03:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Associated Press
+      domain: apnews.com
     quality: 20
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "cUVhiTi51IPCqKE/k8fcfBt3qJFjQ7myvW4ZJBsrUY2aPYmntFU/303wDkzmlORX9M1LqT0Oq9TY3uJtOrWMLgnBSiXuT3kLtZo3pK6BYVxkNfb7KN67tdcnZ9gGTeSX6mczpe3EKDXDG0ZsnUbgNMg88o50HPG22naZOqkjpENbhNnQUzQUcg5KVgk5VnyKMtm6weBkTx6RlvsxPjc4IZreh3krqOHGXI8oXLKwbUMJVFeGTvRWXmDmRLiTXgMY2agaHXI2glwumS7+FLkys3o3mx+rF0wv1h9Ig9ofaoqRt8qCtG3Xa5+pg8+1rsoOlOl++AgpBEIrd9jnqTk3sbGqyso41cqHoKHBXcnKZJa/uIRiASzR+lclGGeLAnQJr27Xi4gwKG/m0cI4oKuVbTOXHtPl92VqI5mkFCiclvmoAIZuJ//VV9v8UzGts39mOo3flY+2nYfa+ORkY5YUHUjTmLseYOpjqaqPQGn1fmOgt8rjT56slDBzJjM20KqqSBnrCFSzNlgcMUfXbR2EIw==;Eq3ngdy/8LlUetb78Bk2WA=="

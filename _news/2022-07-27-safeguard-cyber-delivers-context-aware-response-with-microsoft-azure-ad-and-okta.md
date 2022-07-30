@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-de
 webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -37,15 +37,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing"
-    excerpt: "Insight stands at the forefront of modern manufacturing through the integration of manufacturing tools in Microsoft Azure - from smart devices to the cloud - that improve coordination, productivity and product quality."
-    publishedDateTime: 2022-07-25T17:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/25/9644377.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "1J0VCOq2Aod5R7U4phiagkEmk5FKTXmxqEk6zLGTOR+wnOwjOmveWLt9t+2E6yP7ps9+XeltXf4Jmna29NiNW8WnY1xwk+nSIL3Z5bfCb0r8eKivgLHcRR+3uabix5LjpF6IlE7WrhydL6srnNC+DH7ppcFspSXIC0PTOHBjrxDJ1gKra+gua0/5XqSQBYJrEz0Fbe7apI+Dr5skNFQ1tITU7m+W2l8JWyxvUBbOF00EcCu/cVhiSoXq5PX0ar9tjwNPsYAtgNYYVKStvMyAsjbR00C0beUhRfya77VLYbiJW/B31W33+bmA042fxNJUrqFGPJuQA7xSdbCGxcFnvtvnDWcGpOpJ7c6jdHWMxi8=;MmSgPKiK9ZwrBv7CBbG1Lw=="
 ---

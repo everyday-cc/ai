@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-06-23-uncovering-links-between-grit-and-cognitive-function.md",
-      "title": "Uncovering links between grit and cognitive function",
-      "excerpt": "A new analysis of the personality trait of grit found that people who showed higher levels of grit also had different patterns of cognitive performance—but not necessarily enhanced cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uncovering-links-betwe.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-uncovering-links-grit-cognitive-function.amp",
-      "publishedDateTime": "2022-06-22T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
       "title": "OctoML CEO: MLOps needs to step aside for DevOps",
       "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
@@ -1340,6 +1297,49 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease.md",
+      "title": "A Roche treatment fails to slow cognitive decline in patients with inherited form of Alzheimer’s disease",
+      "excerpt": "Roche reported negative results Thursday from a long-running clinical trial investigating an experimental antibody treatment in people born with an inherited form of early onset Alzheimer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
+      "originalUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2021/12/AP7729632100000111-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

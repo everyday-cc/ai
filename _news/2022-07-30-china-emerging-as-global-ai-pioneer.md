@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-29T23:26:00Z
 originalUrl: "https://global.chinadaily.com.cn/a/202207/29/WS62e32108a310fd2b29e6f050.html"
 webUrl: "https://global.chinadaily.com.cn/a/202207/29/WS62e32108a310fd2b29e6f050.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://img2.chinadaily.com.cn/images/202207/29/62e32108a310fd2bec9919e8.jpeg"

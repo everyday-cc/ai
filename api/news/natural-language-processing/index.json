@@ -149,58 +149,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-28-lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles.md",
-      "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
-      "excerpt": "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-28-lost-in-translation-europes-quest-to-speak-ai.md",
       "title": "Lost in translation: Europe’s quest to speak AI",
       "excerpt": "A group of European scientists, researchers and business interests wants to turn Europe into an artificial intelligence powerhouse by building a supercomputer to develop AI language models. If they don't succeed,",
@@ -779,10 +727,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
+      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -978,49 +926,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-scientists-worry-about-accuracy.md",
-      "title": "As AI language skills grow, scientists worry about accuracy",
-      "excerpt": "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "originalUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wkyc.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "publishedDateTime": "2022-07-17T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKYC3",
-        "domain": "wkyc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1391,6 +1296,83 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-indias-project-bhashini-breaking-the-language-barrier-with-ai.md",
+      "title": "India’s Project Bhashini: Breaking the language barrier with AI",
+      "excerpt": "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
+      "originalUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-gartner-translated-leading-advances-in-ai-in-the-translation-industry.md",
+      "title": "Gartner: Translated Leading Advances in AI in the Translation Industry",
+      "excerpt": "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

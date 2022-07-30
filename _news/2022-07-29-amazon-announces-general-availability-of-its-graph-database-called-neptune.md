@@ -39,20 +39,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "NVIDIA: GA of AI Enterprise 2.1"
-    excerpt: "NVIDIA today announced the general availability of NVIDIA AI Enterprise 2.1., an updated version of its AI and data analytics software suite designed to help enterprises deploy and scale AI applications across bare metal,"
-    publishedDateTime: 2022-07-25T18:38:00Z
-    webUrl: "https://insidehpc.com/2022/07/nvidia-ga-of-ai-enterprise-2-1/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 41
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Nvidia’s AI Enterprise 2.1 makes running AI models ‘simpler’"
     excerpt: "AI Enterprise 2.1 promises more accessibility across hybrid or multi-cloud environments to support AI. It adds support for Red Hat’s OpenShift, the software family that features a hybrid cloud platform as a service,"
     publishedDateTime: 2022-07-26T20:12:00Z

@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-18-how-ibms-watson-can-help-cut-your-tax-bill.md",
+      "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
+      "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
+      "originalUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615837136/kiplinger_placeholder.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
+      "cdnAmpWebUrl": "https://www-kiplinger-com.cdn.ampproject.org/c/s/www.kiplinger.com/article/investing/t057-c000-s002-how-ibm-watson-can-help-cut-your-tax-bill.html?amp",
+      "publishedDateTime": "2022-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kiplinger",
+        "domain": "kiplinger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
+      "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
+      "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
+      "publishedDateTime": "2022-07-17T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority.md",
       "title": "Why Corporate Purpose And AI Ethics Must Be a Leadership And Risk Management Priority",
       "excerpt": "In today’s challenging world, there is an imperative to advance Corporate Purpose leadership at all levels of an organization. AI Ethics and Happiness Foundations must be integrated into Corporate Purpose.",
@@ -102,15 +197,15 @@
       "title": "As AI language skills grow, scientists worry about accuracy",
       "excerpt": "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation.",
       "sourceUrl": null,
-      "webUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "originalUrl": "https://www.wkyc.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "webUrl": "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "originalUrl": "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wkyc.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
+          "url": "https://media.krem.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
           "width": 1140,
           "height": 641,
           "title": null,
@@ -120,13 +215,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "ampWebUrl": "https://www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "cdnAmpWebUrl": "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
       "publishedDateTime": "2022-07-17T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WKYC3",
-        "domain": "wkyc.com",
+        "name": "KREM",
+        "domain": "krem.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,7 +231,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1081,101 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics.md",
-      "title": "Gain insight from HAX robotics founders at TC Sessions: Robotics",
-      "excerpt": "We’re fired up and ready to connect with the global robotics and AI community at TC Sessions ... and if you’re interested in raising funds for your startup — and what early-stage startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC_Sessions_Robotics_Evergreen_Wordpress_Header-_Image_1200x6281.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/15/gain-insight-from-hax-robotics-founders-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-15T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules.md",
-      "title": "Indian tech startups raise $6 billion in April-June quarter, Fintech rules",
-      "excerpt": "Sixteen large-ticket deals helped generate a total funding of $6 billion in the last quarter, as the number of deals dropped by 17 per cent quarter on quarter, according to the Quarterly Investment Factbook Tech Startups by Nasscon and PGA Labs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/08/full/1644299309-0574.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/indian-tech-startups-raise-6-billion-in-april-june-quarter-fintech-rules-122071501268_1.html",
-      "publishedDateTime": "2022-07-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

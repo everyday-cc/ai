@@ -2,83 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-14-indias-project-bhashini-breaking-the-language-barrier-with-ai.md",
-      "title": "India’s Project Bhashini: Breaking the language barrier with AI",
-      "excerpt": "The core idea is to stop language from being a barrier for any industry. According to Census 2001, along with 22 official languages, India is home to 122 major languages and 1599 other languages. However,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
-      "originalUrl": "https://analyticsindiamag.com/indias-project-bhashini-breaking-the-language-barrier-with-ai%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/bhashini.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-gartner-translated-leading-advances-in-ai-in-the-translation-industry.md",
-      "title": "Gartner: Translated Leading Advances in AI in the Translation Industry",
-      "excerpt": "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-13-from-physicist-to-machine-learning-engineer.md",
       "title": "From Physicist To Machine Learning Engineer",
       "excerpt": "Justin Chen received his PhD in Physics from Rice University before deciding to make the jump from academia to machine learning. He spent the last few years as a Machine Learning Engineer at Manifold before making the jump to Google.",
@@ -1364,6 +1287,112 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-meta-open-sources-early-stage-ai-translation-tool-that-works-across-200-languages.md",
+      "title": "Meta open sources early-stage AI translation tool that works across 200 languages",
+      "excerpt": "Meta AI research scientist Angela Fan ... number of errors can produce disastrous results — as, for example, when Facebook mistranslated a post by a Palestinian man from “good morning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/6/23194241/meta-facebook-ai-universal-translation-project-no-language-left-behind-open-source-model",
+      "originalUrl": "https://www.theverge.com/2022/7/6/23194241/meta-facebook-ai-universal-translation-project-no-language-left-behind-open-source-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-open-source-ai-model-leaves-no-language-behind.md",
+      "title": "Meta’s open-source AI model leaves no language behind",
+      "excerpt": "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/",
+      "originalUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Meta_NLLB_main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/",
+      "publishedDateTime": "2022-07-06T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI",
         "Natural Language Processing"
       ]

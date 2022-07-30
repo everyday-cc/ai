@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "Challenges facing AI in science and engineering"
-    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
-    publishedDateTime: 2022-07-25T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "gpDCXAsv3sEaXQgGqs9psv3JlnEJEkaRU11VF7lm07Q0HFnfMB/bUuvxtHg67AqLiIpieSh9yxfpfnhfjfmN2t+TW8pf6SYERQYRNQ/hCc9RGy0h6xu8qFJUd3nhNDiAsoyA6Q/QCI9+j9xniuN3uMpPhqF0FvHHckHl9sICFWE//sf/UeAFyYD+Yd/1evgb0eKDOWwxCdkIBJBww/ujtFEuPul+//HNJjmn2hR7GM9wZqPtbFwyiekaLEGYxqsXY8RqRj1ECCtz5IqSaeQ4NLns/86Bf8zuD8yc1i18z9Vel3kqg1So+zftmwNc8jtYv5beID7p7vjPEZEx2+RQiIuoHOw87LLRrzgFzeQA4k0=;wQk5jwbEUU8BHldlBwmFJA=="
 ---

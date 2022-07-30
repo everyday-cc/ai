@@ -3,8 +3,8 @@ category: news
 title: "Should We Worry About Artificial Intelligence?"
 excerpt: "Students discuss the impact new technologies and possible AI sentience will have on the world."
 publishedDateTime: 2022-07-19T21:52:00Z
-originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=hp_opin_pos_6"
-webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607?mod=hp_opin_pos_6"
+originalUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
+webUrl: "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 ampWebUrl: "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607"
 type: article
@@ -18,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -26,6 +27,6 @@ images:
     height: 640
     isCached: true
 
-secured: "yOTpEWzsLd+ApA4Msm38laHFORyG3gyU5lKp2YVWxfRlV9966ImOThFU+h8Fq3CATzA0kflJEpAPlPjmiQOolkfzwcpMEkMFOfs78y8CJLFb9vedU50ZaIOJXAtkV28FrUTO3YVLDNISr4zFewsuavqwv7dgSpHZVZeU+g0/H7ltL9XEeEAEdWk2b8NTTHLUMXl6r13lwGPLl7yYn2NnyoeAi4DfAe+aLR+xEUG188Uf7R8uFmrciUI2K2cqjM1FZmBln+JjdiXoUtXHsrIU3aVauZA7Uyxgu0XeBbyhgisiv3wHCgMy+f+v6BxEI2xmPpXaJp4HxxicEv7jpkeuYFXImHxcsubB9vA5u+t6/oc=;cBCaw/uC1Bh3YEHWc4/oJw=="
+secured: "wMTFIkkkv4iLooAQ1Hzszwy8uPPsBzt/7J02kowC0gu/ss7Km8jNs7Jd65z+OhZjTVYAxvvgsZr1EHKpWJ9nYSTSToHXQigQy5dtzUuhAjB8mYA60d/ye7zTnU4USpuAepZYSYRntZAaBsLKM08gkwVrbho4F2ziyiXiQdSLWTBiNWSzTA8jgmDZ6eSoQpQCVNH4vf/cKhkVeoRJnU9xESkfAkBHlYl6nxklCYSMVPSNwE3jgWIoL9CTGRTtHIyqrSlMXw6sNzZkXAXKRthDrY777Eg6wVOjPleBWu7K+iMPcclGo0mlIOTNL7OuG+6pk6zAxXaGVbzBn/qNW60qU4V6jp2Qx0K2KcvjVCTWp9k=;qx1qcPeuwE+s/JuJpi0ZsQ=="
 ---
 

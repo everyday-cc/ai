@@ -28,16 +28,16 @@ related:
   - title: "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles"
     excerpt: "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems."
     publishedDateTime: 2022-07-28T11:30:00Z
-    webUrl: "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
+    webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "LG Partners With SoundHound To Bring Voice AI Technology to its Next-Gen Ivi Systems"
     excerpt: "LG Electronics (LG) has signed a memorandum of understanding with SoundHound AI, Inc. (SoundHound), a global player in voice artificial intelligence (AI), to"

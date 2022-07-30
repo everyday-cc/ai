@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-ch
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
 type: article
 quality: 65
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Chess-playing robot breaks young boy's finger during match in Moscow"
-    excerpt: "The incident happened after the 7-year-old hurried the AI-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass."
-    publishedDateTime: 2022-07-25T17:22:00Z
-    webUrl: "https://www.cnbc.com/2022/07/25/chess-robot-breaks-young-boys-finger-during-match-in-moscow.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
   - title: "Chess robot breaks finger of 7yo child opponent"
     excerpt: "A chess-playing robot has broken the finger of a 7-year-old player in Russia. Video footage of the incident, which happened last week at the Moscow Open, shows a robotic arm in a table surrounded by three chess boards which it can play on simultaneously."
     publishedDateTime: 2022-07-26T01:44:00Z
@@ -73,15 +64,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Chess-Playing Robot Breaks 7-Year-Old Opponent's Finger at Moscow Tournament"
-    excerpt: "Russian media have reported that a chess-playing robot broke the finger of a seven-year-old boy during the Moscow Chess Open tournament. A video shared on social media showed the robot grabbing the child’s finger as he attempted to make a move during last week’s tournament."
-    publishedDateTime: 2022-07-25T18:34:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/chess-playing-robot-breaks-7-year-old-opponents-finger-at-moscow-tournament/3793458/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 16
   - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
     excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
     publishedDateTime: 2022-07-27T12:50:00Z

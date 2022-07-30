@@ -8,9 +8,6 @@ webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient
 ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
   name: ABC30 Action News
@@ -26,65 +23,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person"
-    excerpt: "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,"
-    publishedDateTime: 2022-07-25T17:37:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-blake-lemoine-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Google fires employee who claimed AI system had become sentient"
-    excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
-    publishedDateTime: 2022-07-26T15:40:00Z
-    webUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/"
-    ampWebUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-    cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
-    type: article
-    provider:
-      name: 13abc
-      domain: 13abc.com
-    quality: 57
-    images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Engineer who said AI was sentient fired by Google"
-    excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
-    publishedDateTime: 2022-07-28T09:59:00Z
-    webUrl: "https://www.techerati.com/news-hub/engineer-who-said-ai-was-sentient-fired-by-google/"
-    type: article
-    provider:
-      name: techerati
-      domain: techerati.com
-    quality: 19
-  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
-    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
-    publishedDateTime: 2022-07-25T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
-  - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
-    excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
-    publishedDateTime: 2022-07-25T18:19:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19315424/google-fires-engineer-claims-company-created-sentient-ai/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 14
-
-secured: "vg2XKCNYgt9rFspjGeTieejkn7HboHNjzgXNP+s4X0OazAcT1lGPrBSmTabZ7BOkiMGQYUgqScjwGHlwmYdlMwtgn26OmMLpEr9ZQ+Lw6XP8C605Rx5Dcr93fxE2nA8BbU0r2U6+H5jRwiU99mB3kSyBlGSkcyuscrffWjvVfspeInYu6b7CEqptFsvMt4yutpKSdt3x9oNoHWY+/qrL5Xqh4c2o1q9Re8sASTx41dLBxgcZ6EEY17zPf2b0VEYU8vMzz3DQ5ODPqLyNvqR6WO6DE3vENw+WkoH42JFszxbI50XTZkHfeTpV/38fZo/zucldXIeerMdo3kyG+2qDBImq5Gx1SMegkwnakQxko+Y=;mU+r3sZ2tj/nhfJoee5exw=="
+secured: "vhTulvh4z/8izIThcFLE13I9ldArUUx3KsXdRPEwhGGIrqLKvCmDczNLoSVl1hb53O8vp16LTf7je0PPkWho+kM+pzjnCfqLrLvL2FQ5MFF17yTZaZXsSjJMIbAN/gsHbyJK71sVjKaje+vQ2zpPvEnsBtZ4tLvqKgj3mBbiFzXU8yGLN65KGDSduJ49NQcNqJAj/4/FwAXbpjz//FTnkywKKXOm4cP2MhWk1zAcFzKDrUHiGMEtGtzE+jGZrLAJo+d/jT6ZQoBsPgle4DXXmUZzM55/xokizZ4k7vbgTsyD0wYRHaNA7hb78et4KJO1BntyxUG1RiHrF0GjndZU15TfVmJd2PCY+XTIGr+mHIg=;VnqJ0rK/7hqsIsVYCQi/Pw=="
 ---
 

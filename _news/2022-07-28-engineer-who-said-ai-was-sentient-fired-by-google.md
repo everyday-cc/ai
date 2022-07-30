@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person"
-    excerpt: "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,"
-    publishedDateTime: 2022-07-25T17:37:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/getty-blake-lemoine-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Google fires employee who claimed AI system had become sentient"
     excerpt: "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded."
     publishedDateTime: 2022-07-26T15:40:00Z
@@ -49,22 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-    excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
-    publishedDateTime: 2022-07-25T18:17:00Z
-    webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-    type: article
-    provider:
-      name: ABC30 Action News
-      domain: abc30.com
-    quality: 57
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
     excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
     publishedDateTime: 2022-07-25T22:24:00Z
@@ -74,15 +44,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Google FIRES engineer who claims company created ‘sentient AI child’ chatbot"
-    excerpt: "THE GOOGLE engineer who made headlines when he claimed the company’s artificial intelligence bot was conscious has been fired. Blake Lemoine personally announced his firing on the Big"
-    publishedDateTime: 2022-07-25T18:19:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19315424/google-fires-engineer-claims-company-created-sentient-ai/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 14
 
 secured: "ui5lTsV9u8FhMeAvfd7UnQUIsFIMrOb4QJTsQ3Sl3KlXiME0qQDBugp0kZZSXp1du7nhYXcvCSlbC3TioeSQGax1HCgr4anxal8J7tPLxG9oXM3pMuIRyysZQ++PWryQOmsv433Lhs3Ce1a0cagBtHqXW3ivN9xmj+aHSnu+HSlJkPVWkGqLlcK3hIs3GlFbLosKfrTGOhfPm5fP7fjGLQjs222BQKROMjqq9ZAGQdJfbDJLcfzb5VqOU39ApMNtNzMmkq4mebUVHYwwniXQP6hcoBy96eJ633lFQYpwbWWDs1JDLxfic0W7cC5EPh8qiVwTtzSE4KhmZXLNDWgJJiHyZ/itVBlaL2ZZL+9G54z/yTa5oSMeiNr1m2iVL+zeUohRU3AXfTryI0gnvue+1dnGnnq+O2senN7yhNCd2PYGOOGacB4np6Oq8JyUD3zPgNX1Xf4IjKsSso6ZMDBtEX5xz7WWNyoGaQAmgGrFImD+iPmNDDTeAh5AQLZgY8gq4nyj+1FcHlHT3FnXxDjlCA==;tyVeheoKc5FI4Abl9fPF3g=="
 ---

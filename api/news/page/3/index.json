@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
-      "title": "Facial recognition software helps reunite lost or missing pets",
-      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
-      "publishedDateTime": "2022-07-26T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSBY 6",
-        "domain": "ksby.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
       "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
       "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
@@ -246,6 +203,48 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-google-fires-employee-who-claimed-ai-system-had-become-sentient.md",
+      "title": "Google fires employee who claimed AI system had become sentient",
+      "excerpt": "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/",
+      "originalUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp",
+      "publishedDateTime": "2022-07-26T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "13abc",
+        "domain": "13abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
       "title": "How to build AI data engines that use the right data at the right time",
       "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
@@ -443,7 +442,7 @@
       "originalUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -771,7 +770,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -897,6 +896,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-google-fires-engineer-blake-lemoine-who-says-ai-technology-became-sentient.md",
+      "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
+      "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "originalUrl": "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "publishedDateTime": "2022-07-25T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC30 Action News",
+        "domain": "abc30.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1130,58 +1172,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
-      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
-      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
-          "width": 4912,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
-      "publishedDateTime": "2022-07-25T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
