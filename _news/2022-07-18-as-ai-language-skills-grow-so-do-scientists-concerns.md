@@ -1,28 +1,28 @@
 ---
 category: news
-title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology."
-publishedDateTime: 2022-07-18T14:56:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
-webUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
+title: "As AI language skills grow, so do scientists' concerns"
+excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
+publishedDateTime: 2022-07-18T08:31:00Z
+originalUrl: "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html"
+webUrl: "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-ai-language-skills-scientists.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-language-skills-scientists.amp"
 type: article
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220718-steven-le-scao-ai-mn-1040-c489c3.jpg"
-    width: 1240
-    height: 827
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/as-ai-language-skills.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
-secured: "DlVituQG5FbcPW6HdDYetIZ19yMsQX/TmdS4qeh3MF+T4mo4cdlL5wkxmjy++35N0WU+HjXX7RkjBVeeenZz9IG5+6DT7VtGacqHGulURHtl5KbX8oz9+EyjdWpxgIXsgGidPH5S9FEAhTKIb1JmLi7YrydVD5aqGgDPVRFcCXJt3xQ2OdeEwxf3X+lmkoXODpcVug2C0lklTXaifq3rQ4uhzkM72ehSSp1vubiO6StKrP3iuTo8LXVebnF3yo/FgByBTk9PvYUsx/EI7BiZPHOInpLFXite2l4xAw13CnH2Hqlx1FMnAfUxjp3/4ARkh62yMGuD/DGIdn+7hETZfsYglXVikSkIGyp9LA1vweZObvzZ+vtPnpfK8AktdBfVDsmQpG6SKmE25+UWSoRZnm+mlWsaGDz/qCZcjcumn+IOZf/ME86un2fhyw2b51QUAltpYj77Vhse/BMaLw7XV9EEwMsTV3sdlR8YOeSV6oJxAlb9I1wIXcwW9+y2s4eo0buQRv7LNu9WtNRvW+KIrw==;RjzIGRyuEY0lkqn0CNwDjw=="
+secured: "Z1AMT9UGZl5O4v9pH5z3qbV8jlr/3YXOU3gVIaFBW7P+DIbn5ORoYHlELWkRm908xXaGT7dwcUWZN2oHuVosu5ov8Cu3btqy7U/Nr7vhMt1+fmN0S1u0SD9OmAS7eflQ8l1HdmdLBRMF2133uvqZt4rUgO8id4EWTQycGqU9NXZ2TIpoHzPWZNfyeATdl1/62Sz8tTeptkOXGEJENr8rcg2vut+WNqm6S6Kt4nwIlGPRudr+NOrBc4mJal4twKHPSoteU06d2gNLZLgzU7o4IU4hj8Ty5BkjO2mI3Rjvx/CS6Yd1ImMDoDN9yRXJwNJ4bWRiVSIwhjjlT3iYPeP+vBbQ181on6RcC2R5k5YQj3Y=;PY43T0cuEfnb+a9UlFRhzQ=="
 ---
 

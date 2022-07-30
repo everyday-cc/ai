@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This Indigenous MP thinks a Voice referendum will fail"
-    excerpt: "Greens Senator Lidia Thorpe is convinced the Indigenous Voice to Parliament referendum will fail. She believes Aboriginal people will actively campaign against a Voice being enshrined in the Constitution."
-    publishedDateTime: 2022-07-25T08:33:00Z
-    webUrl: "https://www.theaustralian.com.au/the-oz/news/this-indigenous-mp-thinks-a-voice-referendum-will-fail/news-story/19b7d85f28798c77f62edd233d9f55e7"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
     excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
     publishedDateTime: 2022-07-29T12:30:00Z

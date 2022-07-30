@@ -95,15 +95,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "Google fires 7-year engineer who claimed this AI had become sentient"
-    excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
-    publishedDateTime: 2022-07-25T07:06:00Z
-    webUrl: "https://www.tweaktown.com/news/87554/google-fires-7-year-engineer-who-claimed-this-ai-had-become-sentient/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Sense Selects Iguazio for AI Chatbot Automation"
     excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
     publishedDateTime: 2022-07-27T14:54:00Z

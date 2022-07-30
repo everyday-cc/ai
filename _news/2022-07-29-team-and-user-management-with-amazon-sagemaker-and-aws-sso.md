@@ -55,20 +55,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 62
-  - title: "AWS Announced Synthetic Data Generation for SageMaker Ground Truth"
-    excerpt: "The 2022 QCon London and QCon Plus tracks featured in-depth technical talks from senior software practitioners covering developer enablement, resilient architectures, modern Java, Machine Learning ..."
-    publishedDateTime: 2022-07-25T08:00:00Z
-    webUrl: "https://www.infoq.com/news/2022/07/aws-synthetic-data-sagemaker/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2022/07/aws-synthetic-data-sagemaker/en/headerimage/generatedHeaderImage-1658435509607.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DgcsQx+0IEmOS1gCINwzSHKSoTJp3x3UYq0DUlmtgd1ApLwW7/cvvecAeWaZhjznB8pXJ/xmlbheamz3vFzyAQf7wrObSjP9kPlMCpAC/h0r+rfhyeaEoY5st85c60bMQOrsQjsQbhN76mPFuE5ptkRAF83gGONzFT5lLTP/x5qVO9VZEK8eH9gH7V6OIzKq37lDE/eofPh5tKCJVQARfGWz5K6BMKUoh5h3L+SBbp40YfT/Jld2y+mOzQfjvoemlVWgLOSaZ8tKgkPvxGxY0/3z9mVVgL7/DiwOb3dgLF8XGLFQIaS864ee4yNSEc0forQc9wkzxmo6HRfxA5KxKwfhFAVbCDfw0ffQBFZBjz8=;QfXD+RiwekTwMTvJPbMSaw=="
 ---

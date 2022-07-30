@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com"
-excerpt: "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42."
+excerpt: "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665."
 publishedDateTime: 2022-07-15T08:36:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
-webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "WXcctFht1G4onrk85Qb4paml/e3SFYGXiysHgZPFDXBxxoZayGBILLSHVeFV8h1NraCmHbBrETScMY2r24bZt67d5axC6E8CtOOh2229DHR1JOLue/lqhMhdBodOgDUhQv+BkFfZUAuP8sV74CIb6asQ9dYh+boZLUAr5Jliq2n6SJR5ier+iaicRP2baNDdwEkj/odXEhI4MPaNurVAxvhJhHQioJvoJ/0pAP9FrnhfYcV99NPkacrgRSAkuzMcHqKCIl/SxA/eHlW38fCF128+8pj/JPUypdwdZfKtIUGK53esjSM1DwGXbhUslugr3tEFN39MNLPcTaNcz/JyaZUoNweTw/+eDjxuRJht+cc=;rQ9YSsN2en5yYHohiA7Q1Q=="
+secured: "pNiaFSyaieb9FxhxzatXWj8RkwKgUvhOuCcW0VjdI2wuStN+MlmzH4I4wOw4bA3NFkgBwf/9DPDK6wbEHg4Buk5VDUzpxtTEFYiEMd92O4DNzwoIiIrI1IU02UmbdbVtGWIgGzc7PgraBIbCmOyzCmvCI7FJR7CvBNqBW5XedEL8+ofKgZalXnEdT0nU8a5oRerVc+Y7P9tKyLSn/MAsY3HUIP1SQJnGqcTzeMhgUPjwEu1g5f3kXbTw2vE6LqI6LOnLpj06bW23HRXEYzJXSURVLY1QDAaC5IZovgorKWnzF/eUjVIpAnU3vwR/K+gyQEoxvrWMCTuoh8L0WnsNz2gdcFRhhBM17PeUFNileY0=;K2W7S3BMGpl2DXMxKFKO3Q=="
 ---
 

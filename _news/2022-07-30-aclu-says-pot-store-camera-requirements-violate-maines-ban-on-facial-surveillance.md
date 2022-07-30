@@ -2,24 +2,24 @@
 category: news
 title: "ACLU says pot store camera requirements violate Maine’s ban on facial surveillance"
 excerpt: "State regulators say the draft rules to require recreational cannabis stores to use video cameras to record shoppers' faces simply update existing requirements to cover newly approved cannabis delivery."
-publishedDateTime: 2022-07-29T22:46:00Z
-originalUrl: "https://www.pressherald.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
-webUrl: "https://www.pressherald.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
+publishedDateTime: 2022-07-30T00:59:00Z
+originalUrl: "https://www.centralmaine.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
+webUrl: "https://www.centralmaine.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
 type: article
 quality: 33
 heat: 33
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: Kennebec Journal
+  domain: centralmaine.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/07/31362053_20220719_arleigh-kraus_8-1659134748-1024x640.jpg"
+  - url: "https://multifiles.pressherald.com/uploads/sites/2/2022/07/31362053_20220719_arleigh-kraus_8-1659136625-1024x640.jpg"
     width: 1024
     height: 640
     isCached: true
@@ -35,6 +35,6 @@ related:
       domain: bangordailynews.com
     quality: 12
 
-secured: "O6newFzyTHnKKdNxEzDFvamkO8YRebTppC1ZXxJ3jlMh+6tQ4zOx72bNy435qxOY2wUdYiZGsZ3w6NQ4JHltuujWwGWkAIuoLdP/qAQFo/jrs3Zz0QOuB6O2U6AOBf5qKxMPhk5yuzbnPpuI6IAoQVIfYvt+4mEVsjnUzrY7AygmPDWQah6/FNIHS1eX7wJ0IngynCofGMP349cTt1h6M/1kVZNMurGL+PBW6460pjroOmqSLnh0xY5xrNomg+mo3aXEQidpF0/kgdRdWN+/DZ+vz8coXJp62uYwz/CNPVN8CUb23MQLPJgMA4dfgk+mwfSiVE1TIhlhMpGQ7tNYc1zJ2yip3nka8jGEWM9gjeg=;+YdY5yiVOkAL6OoGol2VhA=="
+secured: "Gazv2wwWlP6Z7psemLrdBHRohj/yo64fwbMvbOjRT20PwzZ6sIw+xBn4gj2oIYZeZ1if0UGK8zDjWqMyQqOMyH6xmUq9vRLnaOCI4UsFg/F4DC+Uo6gZWaUwyyf5FWs+/UUUXkS+K5te5jxgxhZykwtsl6wEkNUIrs6udL0NuZA27N41x8kC3nFAsUy1/8mJxk2YF3xC0B6HMfci1l6m4T8ZspgQkyNLMc/CCLqjbc2aLFSB0FYPTmLav5/hx/ye5rlOhWI9C05oM35LHOSlEVFo1dkOkxy/tD78dLYacCeC0LVUcGsW4rbDq/whOVgcjEdJI5VAOiECNa2H5Kv9m+0laS7dT0vuDa6jB8tFekI=;8l9HoHffyIEltPY8AZQTrA=="
 ---
 

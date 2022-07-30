@@ -1,22 +1,18 @@
 ---
 category: news
-title: "New Orleans Mayor Signs It: Cops Can Use Facial Recognition"
-excerpt: "New Orleans Mayor LaToya Cantrell on Thursday signed an ordinance that partly reverses the city's ban on police use of facial recognition software."
-publishedDateTime: 2022-07-28T22:24:00Z
-originalUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-28/new-orleans-mayor-signs-it-cops-can-use-facial-recognition"
-webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-28/new-orleans-mayor-signs-it-cops-can-use-facial-recognition"
+title: "New Orleans mayor signs it: cops can use facial recognition"
+excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
+publishedDateTime: 2022-07-28T21:27:00Z
+originalUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
+webUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
@@ -63,6 +59,6 @@ related:
       domain: securityinfowatch.com
     quality: 10
 
-secured: "b3ONzxOHhLgsAdeggKbTI9E+Zvs1Xmio2r1HRDeCWbugLdkJ8eQDkuWqcZqmYPLRUec9XwHcvsCquWrTyHfBKiYmTWvT1BhpAqPgSYFLz3sJLRltO0LAeB8t/NA0XR0scOMjrTS+DpquX6AztOXLplX6XSLwTmk8ur9UBKoSlJjlnQWP+xTh8NtktsQOXTHwcYhOkN2jsF6RqdYAtVA88W8f65/4ncjZuOynDudEIWQdhQQ6zHmo8evzZl23kgwoKiTunEJx6HQUg8r0D7UsJ0TYeufGoE1xup+8o8sNcp8NJ+hgstP/zTkBVDeOSX/8Rr8DLju4HE9UQovXuhhoR4xrcdd6ibN4gXXzFFUw7nY=;MU4XC8i2b8gd31HiMnS+hA=="
+secured: "rJS7gERdpzO922YVm326kN8X8lwyKLw6Xc2uCoVqTRzxPNjHA9bM7VVcLgPwGNilwuMy0ukbsAZPHDkM+cfktlMQ/JPYh3qY9CCkUI6BjlvwKFzTirh6BirQ4+KtKZlp16EdM9g+zizQVkqHI9hpv3ladqDVLygY45Wc3ECcPfQdVnNchKIleFJlbU/du9baygbaHy0SSOAriZ414lLtxQ8HfgcOgNhWuOW8TiyQ5asY283YXUnU4n5DmYZLSBZ2h7jf3DPjce0UEIxGhPeCS/Zljf+avb/tI0SHebtmMaObdHUu1j6II4LBoPmmhWHsxSCXmfUfwq1fS0lLvN9enl//6lEiIqjgOa29fbM7HiY=;Jr1UDZNXKXiN3XdLHSihvw=="
 ---
 

@@ -43,38 +43,6 @@ related:
         width: 2500
         height: 1691
         isCached: true
-  - title: "Chess robot breaks boy's finger in Moscow: 10 times AI went rogue"
-    excerpt: "In the latest in AI horror from the real world, a chess-playing robot broke a 7-year-old boy's finger in Russia. The incident was captured in a CCTV camera mounted behind the boy's head."
-    publishedDateTime: 2022-07-25T07:14:00Z
-    webUrl: "https://www.dailyo.in/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    ampWebUrl: "https://www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    type: article
-    provider:
-      name: DailyO
-      domain: dailyo.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202207/chess-1200250722120029.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Chess robot breaks child player's finger: Video goes viral"
-    excerpt: "In a video that is going viral on social media, the robot arm can be seen reaching across and grabbing the child prodigy by his fingers after he tried to make his move too quickly after the machine had captured one of his pieces."
-    publishedDateTime: 2022-07-25T08:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/articleshow/93106566.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
     excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
     publishedDateTime: 2022-07-27T12:00:00Z

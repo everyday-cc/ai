@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-29T16:37:00Z
 originalUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375132/?oref=fcw-skybox-lander"
 webUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375132/?oref=fcw-skybox-lander"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.fcw.com/media/img/cd/2022/07/29/072822AIcongressNG/open-graph.jpg"
@@ -50,6 +51,6 @@ related:
       domain: popsci.com
     quality: 19
 
-secured: "NIuuqzO1KI/NLpthSt5SdRlw4QqKY+XQBqCijf9aOh7B0BPaLD6MrrhvrdDFQVZFygBLnIj/0/dYAgkfw2Nov0uVL65P3hc13RPqPbp2k+9V0JqCRaRwup/cdeTG4/P/7vwV0PHbmdpnVW5aU2PB1HUaWAg1khojHRDclBChYPttMp9Lezyg3htXlcpz8e/K3RtO9SReGsJSS5sKQvRnzWS+YRUP+4fEScjXc9ZqtR5oUaNE1xVE1vxG0JOqQyXVlwgfl+Ews9SP7HRUAw+zpoJHRXlObWqTEDlkdszvtmJVG1ZdcgbggBPDQeldAgHujsDRH4z1etVtv9qEZBzmuqrhktE6UedXmr58c9ZJEr8=;kAllp5AxU4j5w55zc9vYSA=="
+secured: "+70XpZjBplnuEFCvSdxgqVDBJB616RlHgwogu4RwGdULjq5InMg2cKvVou5jzT2Vt7R+w+V7saq5l9D9y7almvA5/OJ6Osj5uvioSRGkeW3HGndWSXPVvqLyrkgKS1s5E9rsOjqrUFIzJ5Nv7vrIXP1Ekti2orVIdLjoX08FixW4viAhuM+iJx0ljSllghxetSlc8rqgnxD8WvEi8KuPF7u4ZonMmYpwM2iBjc9uRaqRJVMejYU7dxr0gxAPUZTZlE1R/aSuKhg9naq/700hYqK6UST/MB8HLTQIEihUIoJqop47T+nwAvl1OolAGfMfWsvu/Kbvei1z/m6kA+VbCBHUzF62TWsjSMxsYcO59Jtj4+D54EulrfjO5wUTUNonTDsxiGDqqpUmSLCwpwcsvmaAZ/MqicCkzidV05B7SAji1IH+WuMWWyWLw0wWdCWEfHRsQ/z/Ma5k4yvyIaCBt5VsT8Bs9pfSeAizQ5kW9UOahVTLOJs//suNZjv65oU2WT79vdM56xmgVBhkVAAt/A==;8I9oLxK2bqoBIRIZ7Ukauw=="
 ---
 

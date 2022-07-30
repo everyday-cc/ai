@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Atturos: Better diagnostics through machine learning analytics"
-    excerpt: "UCD biotech spin-out Atturos is combining algorithms and the study of proteins to better detect disease biomarkers in blood samples."
-    publishedDateTime: 2022-07-25T08:52:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/atturos-ucd-diagnostics-proteomics-life-sciences-psoriatic-arthritis"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/Atturos_RP_SP_Lab_2.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "JK Tech launches AI-driven Smart Analytics solution for retailers in the US"
     excerpt: "Serving clients across industries since 1994, JK Tech has been providing agile and customized technology solutions for enterprises. Using JK Tech’s Smart Analytics solutions, grocery retailers have witnessed around 15% improved inventory turns,"
     publishedDateTime: 2022-07-28T11:39:00Z

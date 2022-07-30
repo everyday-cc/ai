@@ -35,7 +35,7 @@ related:
     provider:
       name: Federal Computer Week
       domain: fcw.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://cdn.fcw.com/media/img/cd/2022/07/29/072822AIcongressNG/open-graph.jpg"
         width: 400

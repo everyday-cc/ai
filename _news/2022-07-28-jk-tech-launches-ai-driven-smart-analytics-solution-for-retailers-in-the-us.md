@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Atturos: Better diagnostics through machine learning analytics"
-    excerpt: "UCD biotech spin-out Atturos is combining algorithms and the study of proteins to better detect disease biomarkers in blood samples."
-    publishedDateTime: 2022-07-25T08:52:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/atturos-ucd-diagnostics-proteomics-life-sciences-psoriatic-arthritis"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/07/Atturos_RP_SP_Lab_2.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Harnessing AI & analytics to establish a smarter, adaptive Supply Chain"
     excerpt: "Businesses are looking to deploy adaptive Digital Supply Chains that are equipped to deal with uncertainties and can process and analyze."
     publishedDateTime: 2022-07-27T06:41:00Z

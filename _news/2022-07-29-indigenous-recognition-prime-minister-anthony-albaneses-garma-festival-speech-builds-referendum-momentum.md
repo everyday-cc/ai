@@ -33,15 +33,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "This Indigenous MP thinks a Voice referendum will fail"
-    excerpt: "Greens Senator Lidia Thorpe is convinced the Indigenous Voice to Parliament referendum will fail. She believes Aboriginal people will actively campaign against a Voice being enshrined in the Constitution."
-    publishedDateTime: 2022-07-25T08:33:00Z
-    webUrl: "https://www.theaustralian.com.au/the-oz/news/this-indigenous-mp-thinks-a-voice-referendum-will-fail/news-story/19b7d85f28798c77f62edd233d9f55e7"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Voice question isn’t the problem, it’s the detail"
     excerpt: "The wording of the referendum proposal for the Indigenous Voice to parliament is not the problem. In fact, its elegance and simplicity is a virtue. But the devil will be in the detail, or the lack thereof,"
     publishedDateTime: 2022-07-29T12:30:00Z

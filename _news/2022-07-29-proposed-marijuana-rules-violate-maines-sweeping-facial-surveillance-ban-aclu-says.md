@@ -21,15 +21,15 @@ topics:
 related:
   - title: "ACLU says pot store camera requirements violate Maine’s ban on facial surveillance"
     excerpt: "State regulators say the draft rules to require recreational cannabis stores to use video cameras to record shoppers' faces simply update existing requirements to cover newly approved cannabis delivery."
-    publishedDateTime: 2022-07-29T22:46:00Z
-    webUrl: "https://www.pressherald.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
+    publishedDateTime: 2022-07-30T00:59:00Z
+    webUrl: "https://www.centralmaine.com/2022/07/29/aclu-says-pot-store-camera-requirements-violate-maines-facial-surveillance-ban/"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
+      name: Kennebec Journal
+      domain: centralmaine.com
     quality: 33
     images:
-      - url: "https://multifiles.pressherald.com/uploads/sites/4/2022/07/31362053_20220719_arleigh-kraus_8-1659134748-1024x640.jpg"
+      - url: "https://multifiles.pressherald.com/uploads/sites/2/2022/07/31362053_20220719_arleigh-kraus_8-1659136625-1024x640.jpg"
         width: 1024
         height: 640
         isCached: true

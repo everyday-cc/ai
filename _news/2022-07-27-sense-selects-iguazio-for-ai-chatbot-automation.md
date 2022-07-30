@@ -104,15 +104,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 30
-  - title: "Google fires 7-year engineer who claimed this AI had become sentient"
-    excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
-    publishedDateTime: 2022-07-25T07:06:00Z
-    webUrl: "https://www.tweaktown.com/news/87554/google-fires-7-year-engineer-who-claimed-this-ai-had-become-sentient/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Engineer who said AI was sentient fired by Google"
     excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
     publishedDateTime: 2022-07-28T09:59:00Z

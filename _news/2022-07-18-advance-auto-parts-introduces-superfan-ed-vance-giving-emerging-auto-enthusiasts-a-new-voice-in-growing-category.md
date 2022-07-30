@@ -3,24 +3,24 @@ category: news
 title: "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category"
 excerpt: "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey."
 publishedDateTime: 2022-07-18T12:02:00Z
-originalUrl: "https://www.eagletribune.com/region/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_16de7f77-c5f6-5ee8-90c5-853b9fc41150.html"
-webUrl: "https://www.eagletribune.com/region/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_16de7f77-c5f6-5ee8-90c5-853b9fc41150.html"
+originalUrl: "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html"
+webUrl: "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/e6/1e65d6a8-e5b3-5876-bb95-69512b6fd302/62d54cee2262b.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/d6/4d60f869-f8b0-5477-8cfc-ea5baf18a455/62d54c4386f67.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "2kIqAA/oVftxGGqlEu7jJVqhOsbQX3OqkBSkcQatqPtbZVjL4ngU4vE5E77ZKptHLBkrsN9gVCKa/ZkKxijMKr149zBMz81QdFxhHl38C115vXKwWvAYl3WmiK8IbSJXJwFRV9H4Ypax0zKJJkxnbR9FK8AsU0NHRdP4cb80bOk6YMEuGWUSSdKcVL4pmWXWi9/Tugr3HoXyMRp+znfJyOHFxT/kwYt62WHtsisWIuEQlLJ6DlaEsSkPTrC3Y5NyBkcFM7f2qXpE+8OylJWSkGORfCgBACwBnE0N1gjnIIym1koPzKcPt951wuW3kqVdhLvG6C1OB1gmHx/1jYZhQNSlif4QNxt6EsBUJuNkruq2hLiKdGxs71gfoQERjQcsbOJqzWKXzukB8kDMABN62Bt93gjTi46JO4V5uA28QyBTGQhHAL+8yMjHEUfRnx0gqeLeTh8rm1cm6OPXsrOI+CQXBr1p8ydX+vyT1hsO15YyFEAxHf0g0XE19Hh7px8j5449Kzo0bQmmQDwyQrGV8w==;vrB4n0zNoWntzzN77KFWsw=="
+secured: "8gKllWF7y82F9q9MMS1K1lMlNXAUq3BDguntgz1OufyMPIOgQnmQBLsplg5nJcQCBiTztlUO3hiUbDP4cVWNsDCXn1RMNuCJYxF91OWpcC4udGiUcNLXLUd2x5jmejhMvKflILZrhgIUluXFtAY3QtPrgsanlpCjm7XtaXOG4PAXLAqF0cyK+Xjz6Wm0sTwWTbSi/uKpD3bMbSIQpgtE/Jm2FPzO82K7bEEBTf+mIcP90dl8ii7JCN8xncmjSpqhcuIyL5m/2T4FSWyHBYd5sKZ7bgqlr9brU9+MoXk0UKKX75ZhyXe0Z30ETVbkaIg4McIrkAfcFoaZ3Z2G4LEBOaal7gA2CFQWdQSyf3psTP8=;PQJj05iEWVu1Koo3RU/lLA=="
 ---
 

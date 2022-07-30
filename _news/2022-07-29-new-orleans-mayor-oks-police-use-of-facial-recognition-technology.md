@@ -41,15 +41,15 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "New Orleans Mayor Signs It: Cops Can Use Facial Recognition"
-    excerpt: "New Orleans Mayor LaToya Cantrell on Thursday signed an ordinance that partly reverses the city's ban on police use of facial recognition software."
-    publishedDateTime: 2022-07-28T22:24:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-28/new-orleans-mayor-signs-it-cops-can-use-facial-recognition"
+  - title: "New Orleans mayor signs it: cops can use facial recognition"
+    excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
+    publishedDateTime: 2022-07-28T21:27:00Z
+    webUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
   - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
     excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
     publishedDateTime: 2022-07-27T19:31:00Z

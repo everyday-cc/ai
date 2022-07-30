@@ -35,15 +35,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "New Orleans Mayor Signs It: Cops Can Use Facial Recognition"
-    excerpt: "New Orleans Mayor LaToya Cantrell on Thursday signed an ordinance that partly reverses the city's ban on police use of facial recognition software."
-    publishedDateTime: 2022-07-28T22:24:00Z
-    webUrl: "https://www.usnews.com/news/best-states/louisiana/articles/2022-07-28/new-orleans-mayor-signs-it-cops-can-use-facial-recognition"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "New Orleans Mayor OKs Police Use of Facial Recognition Technology"
     excerpt: "Many jurisdictions have banned the technology, but it may be enjoying a comeback because of the crime surge. In New Orleans, the software has raised privacy concerns for years from the New Orleans Council,"
     publishedDateTime: 2022-07-29T15:05:00Z
@@ -58,6 +49,15 @@ related:
         width: 720
         height: 393
         isCached: true
+  - title: "New Orleans mayor signs it: cops can use facial recognition"
+    excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
+    publishedDateTime: 2022-07-28T21:27:00Z
+    webUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
 
 secured: "6yTmnj2RRmF7sQAL7F6kkLlkNpsxfw3/0gm1xc08eI2RG/FhmIRjt4mJxXHrWZyPblgAE0xbznXcGD0pXlsZWkUs5EiHYZWNEB66XjUfVzSeprnAuxsJDDinZMRjJU6Y0eHQOm1tiv2KFz8MN9HDhtYyWZ6o052eP9PUMW7GqZvfaCjx0Job0fpyKT1wfi7H+M0lFdJSBOur7PpiV6BtUfQ9MN2UmFXq3YfgxJV+v3dGaU5q4JH5sjzD80poo/toatbJrL+tviW9gRWzIWwUL0inXl9CK59oETJFExT0SgMyjEz2J0/QH+SwOCikjqYq46LLa2R1Zpxy5ajR5aseWsdpV1a8BDwfvAyvKCntXcreg6jo+f89lkQM5wUd9+oK0l3N6CGuNgeO/tLd5oMoQEfvCbplTMrCbfi2sf9FKiX80jzUC49y0El6OFXf3tHKjLLiDXWXMoRiNrpXsnBhFKqv/nFlwofpdItRmWLKZOgSK6lCGDR61ekRB4M+Zw4DtEi9bp7LhuClaaY0r3wo7g==;39AwQXIEQ/fwwATznyfJOA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna39784"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784"
 type: article
 quality: 89
-heat: 199
+heat: 179
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chess robot breaks boy's finger in Moscow: 10 times AI went rogue"
-    excerpt: "In the latest in AI horror from the real world, a chess-playing robot broke a 7-year-old boy's finger in Russia. The incident was captured in a CCTV camera mounted behind the boy's head."
-    publishedDateTime: 2022-07-25T07:14:00Z
-    webUrl: "https://www.dailyo.in/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    ampWebUrl: "https://www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/news/chess-robot-breaks-boys-finger-in-moscow-10-times-ai-went-rogue-36704"
-    type: article
-    provider:
-      name: DailyO
-      domain: dailyo.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202207/chess-1200250722120029.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament"
     excerpt: "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,"
     publishedDateTime: 2022-07-26T04:35:00Z
@@ -56,22 +40,6 @@ related:
     quality: 65
     images:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Chess robot breaks child player's finger: Video goes viral"
-    excerpt: "In a video that is going viral on social media, the robot arm can be seen reaching across and grabbing the child prodigy by his fingers after he tried to make his move too quickly after the machine had captured one of his pieces."
-    publishedDateTime: 2022-07-25T08:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/articleshow/93106566.cms"
-    ampWebUrl: "https://m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/chess-robot-breaks-child-players-finger-video-goes-viral/amp_articleshow/93106566.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-45126,msid-93106595/robot.jpg"
         width: 600
         height: 450
         isCached: true

@@ -96,15 +96,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 30
-  - title: "Google fires 7-year engineer who claimed this AI had become sentient"
-    excerpt: "Google has fired an engineer that worked at Google for seven years over his claims that the company's AI had become sentient."
-    publishedDateTime: 2022-07-25T07:06:00Z
-    webUrl: "https://www.tweaktown.com/news/87554/google-fires-7-year-engineer-who-claimed-this-ai-had-become-sentient/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Sense Selects Iguazio for AI Chatbot Automation"
     excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
     publishedDateTime: 2022-07-27T14:54:00Z
@@ -142,6 +133,6 @@ related:
       domain: independent.co.uk
     quality: 12
 
-secured: "1zSLoHl0+sl1HwWp1l9vEv7e9pJASNsSwNGvrMwzMEx3GlxlStVmaeQd9ZTw34ti4CeEPPlpqwLwTnh3l9IwdVVQIlA/iik5V8hephsQDqSuIVIW+Ynj+J9nJXfc7LFQMi6RijbpiyzD9gCUvjMHVLD83SJJ/RL5xzsi1JkTNtVZNOENTMXzJQDvJCZpeUDz0sDIC6idBnAo576CbI9v2+6eRPdeWuSam3FLLdqkLwM5Jq50N5+SQ1DSiqxoMXM30LOdnRRBi0GeywdZrzo+vcXaIl6TQBbaTmmLnzgSKDWloZd2OojaS2Ha6OCr4SfolUrW23KxCqGkg/7B8ObaFuPoVbzQg3pHcdvycHkdrm0=;p+JR0KyXFMnmIB5M/N/zhA=="
+secured: "wmicDk/RqEihvyVBL1p+VwzMP6qKz/yOYg+5MmnCxza7vPdIdl+PJit1ngQUO/IBxpqurFjer6Iq4TUj7R0/oqVBr2kBxlc6jkLbc1OUhA5qezCYq/cPmwv37DAYXb1x/+a1SQTmLgdwywcVGxPgtYGJdewkXZ9A2glMF137l5DRNGPLyTcYS8iaRFxFKdKbx4vvENvp1myiP28hQt2zal6IM20dxPtFy6A0f2okR3+SG0Y76qgFPCqKZktpC6wc8E9njd9uENEsrC63aWInzS3mjhHOzM4B99uuNbS/BK8gualedsu1hdtz7TJgkBD30vFWsCE5gjDsiBmJF50F0vlnBUbn0GITAu1Ja2YTNNI=;zBboR87xKvDH/HzVJIiaKA=="
 ---
 
