@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-
 webUrl: "https://arstechnica.com/tech-policy/2022/07/google-fires-engineer-who-claimed-lamda-chatbot-is-a-sentient-person/"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -102,15 +102,6 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 14
-  - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
-    excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
-    publishedDateTime: 2022-07-25T11:49:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-ai-sentient-self-aware-blake-lemoine-b2130634.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 12
 
 secured: "Rxmwm20JbHx+zEaTtIVASnpyX3vvgjyndlQOjscS58NWgr/Jhxk7rjYwuRFeuBFkFNGYbMhNFwXVJUHeJPvTH7L0o3iH57mcyl7fM0LO7e9IZvX9/nFoC+84kL3bkUdUFb+oGycqup37YkFmBmBXapBVz7VfanhwA+Wad57GmlkXtRyCAh2O1A1oo3i5X1fMpTRoGPk/bhcQoSr+u/GK/IwmtSXwlKjqamUBHDJyST1xGDWZ0l20rBR6vkETK8mInSWyIFMadmdPgldvpx82Ngs1W4nHaav0zurmbu59kyCC1U11whHoOzUVLYeZfdSdrqua/WYvfnqGEN9WbHVNjYysjNgU5D82gz8pohBGSxiQIkFtPhiFdklfV59yvHc35+unkZcdMc4yXvlk7eSwbXSAS1BN/vvRQr15TiEhAO5OToW8g1QHYmVXPpf4IeasCmRLEutx3ce3GN7MJQdRKpRcF1LQ1IA8/4G54UxBKghK7Zh25ggS+/g7kbVOlPeVCErWrYIsndVbohQwKR2T9Q==;DthgQ6N8TQBKcOu5JjYvjQ=="
 ---

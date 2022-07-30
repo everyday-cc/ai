@@ -24,31 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation..."
-    excerpt: "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern."
-    publishedDateTime: 2022-07-25T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/"
+  - title: "AI is about as easy to handle as a nuclear war"
+    excerpt: "Schmidt Duran Duran cover Google’s former chief executive Eric Schmidt has labelled AI as dangerous as nuclear weapons. Speaking at the Aspen Security Forum earlier this week, Eric Schmidt said that AI is “incredibly powerful” and “government and other institutions should put more pressure on tech"
+    publishedDateTime: 2022-07-27T10:06:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55215-ai-is-about-as-easy-to-handle-as-a-nuclear-war"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3a909a3983af82cd89c6eb8c160fbcae_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Automatic recognition of jellyfish with artificial intelligence"
-    excerpt: "The jellyfish sighting app, MedusApp, recently incorporated artificial intelligence (AI) to automatically recognize different species of jellyfish. Until now, this app only required users to select the species of jellyfish from a catalog provided;"
-    publishedDateTime: 2022-07-27T13:28:00Z
-    webUrl: "https://phys.org/news/2022-07-automatic-recognition-jellyfish-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 19
 
 secured: "3hccQxKQ5DS7x4cBjKreLvGA+mBbJj0ZijJoGHit7+X5a1glxB1AmZWnj+uaHIV2I6KU0ZWokK3HQYLGFmTihyiF2RMIRmRJFmHm4e2JRIBRptDvg9OnSX2cmrWmU3dlFH+lrIpb70DBtdpQLt2lpkAjSWW27NlXbTNqRHBjv+aLM3kaksjmE5WE+odJPXKdLvIl/R6mU0W7RvB+mhs4lRCZAkFZFU2i7KoaOakLBJpwmjxpGT2PLg4XzgFCNfIkcyalWVTEWnZfPeZ/taxDvVcmH3ufl0Li3tXcDAJr6jnVjcoun/DE/wrNSDAh7XNb84JSHayuZKah79pscwIghX0GfEuub9F6FslAM06RYrYs/iFdNS2uOtKV1zRH0aUN9UbMvdQ8H9qZM6cedjMDUZz6BZfWMr2pQ4e6gDCDofot98FoTGlNA/vXwfwF1enrenHKSgm+hVUWYJ4r9PW6c58zZsR8nKgbp/C6vfRte9jWTEVnPu2oE5dDLBNjbCHUtAUNNQod72naMosDVqf9LQ==;SXaCeVUERvCHa1rstrnukA=="
 ---

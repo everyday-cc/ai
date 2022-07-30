@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports"
-excerpt: "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,"
-publishedDateTime: 2022-07-28T14:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
+excerpt: "The Artificial Intelligence in healthcare market size was valued at USD 8.23 billion in 2020 and is projected to reach USD 194.4 billion by 2030, growing at a CAGR of 38.1% from 2021 to 2030. The increasing volume of healthcare data and rise in complexities of datasets will drive the growth of the market during the forecast period."
+publishedDateTime: 2022-07-28T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9646950.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9646950.htm"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%"
@@ -74,6 +68,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "3l21Cp4io7/bUyvgmadkanRhY8XC2IvcB2uBwsMMs+2EScwbfNHE4pbckJzPlyfegzTs+QB6Nqz9Ojoku5zwEiRvjk0vTLMhtW7BF55vwjZhaP3YjZtDQx4+MbO8dV7J3lJSXNiGDXR6I/W+nkHVssRTY+mSNA73St+iZOfV5fv0I/LIBVHnKztGF9JbbU2DEIcGOiSm1CsfZPW1hdS0+tO9eUCYI8hn/5wAETditZbmBtzJbYdzQ2NHIeJc0jx7N61eGPkoXRIINyc6SX+1sQ2/gWe2t/UK2kQc+syuFyOPMfUuU+mFQr/XNpiUVkksmhUIYIu6gyLzLNTlNqoynPyg3oN84LEb6oAYPK+Nwi4=;bs9vU9RNPz2v3K72MDKkzQ=="
+secured: "FUqPw6hJFyOfahfwNE+jktHV58WEBbtX87CtLQBK8tKFzikQ48culW2hTL3tBs20ocJ0zWbwmkwQaoBkQ/L1+9ThiRhaf41t2XWq7I5eBX6B6869EKULja3Ba/wo+uoDEWyhGV5/JTqOj+ykXmlsHbNxk0NCm0s1auHRZIUEEXmUid2XjySp9hDBkckQMgqhCQWITZiwLtPvap4j9Iunu1Fi9KAVwKWq8AhndNDFupGbAkRe/BW579EBipKmWNg7sM2NSE6qceFHWdLkwKlIZhaYgwcYS6Axw8v9IPjnQampE67yE91Od1x0IIgjclq/5idu1hdjTFk6g4mEpa0zBSMOjuilnoCu+AchcQQEvUs=;6uSULxLNtRGVD+Bq5daFDQ=="
 ---
 

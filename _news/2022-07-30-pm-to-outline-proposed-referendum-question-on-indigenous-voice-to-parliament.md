@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/news/article/pm-to-outline-proposed-referen
 webUrl: "https://www.sbs.com.au/news/article/pm-to-outline-proposed-referendum-question-on-indigenous-voice-to-parliament/0hg0tp04m"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Voice question isn’t the problem, it’s the detail"
-    excerpt: "The wording of the referendum proposal for the Indigenous Voice to parliament is not the problem. In fact, its elegance and simplicity is a virtue. But the devil will be in the detail, or the lack thereof,"
-    publishedDateTime: 2022-07-29T12:30:00Z
-    webUrl: "https://www.afr.com/politics/voice-question-isn-t-the-problem-it-s-the-detail-20220729-p5b5sb"
+  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
+    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
+    publishedDateTime: 2022-07-30T02:30:00Z
+    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
+        width: 1920
+        height: 1278
+        isCached: true
+  - title: "‘If not now, when?’: Albanese reveals wording of referendum question on Indigenous voice – video"
+    excerpt: "PM announces draft wording of the referendum question to enshrine a voice in the constitution at the Garma festival"
+    publishedDateTime: 2022-07-30T02:57:00Z
+    webUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-not-now-when-albanese-reveals-wording-of-referendum-question-on-indigenous-voice-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 11
+    images:
+      - url: "https://i.guim.co.uk/img/media/57cb81e3edfce17c1f29f310b3d945efc4f92f65/0_30_3945_2367/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8b432436f8ce3e8a0820a27e6684979"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
     excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
     publishedDateTime: 2022-07-29T12:30:00Z

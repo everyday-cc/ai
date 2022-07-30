@@ -462,49 +462,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-26-a-tiny-robot-gives-10-minute-manicures-for-under-10-in-texas.md",
-      "title": "A tiny robot gives 10-minute manicures for under $10 in Texas",
-      "excerpt": "It's a fully autonomous robot that uses 3D cameras to take a picture of each nail, then uses artificial intelligence to quickly and accurately paint them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wltx.com/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
-      "originalUrl": "https://www.wltx.com/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wltx.com/assets/KENS/images/6d1efe3d-148f-432e-8dfb-4780f3ef5ad8/6d1efe3d-148f-432e-8dfb-4780f3ef5ad8_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wltx.com/amp/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
-      "cdnAmpWebUrl": "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/national/a-tiny-robot-gives-10-minute-manicures-for-under-10-in-dallas-and-fort-worth/273-38e079c0-e25e-48f3-a8e8-05ea8375af09",
-      "publishedDateTime": "2022-07-25T18:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLTX19",
-        "domain": "wltx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
       "title": "AI experts establish the “North Star” for domestic robotics field",
       "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
@@ -1429,6 +1386,49 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals.md",
+      "title": "Robots became racist after AI training, always chose Black faces as ‘criminals’",
+      "excerpt": "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
+      "originalUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg",
+          "width": 1280,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
+      "publishedDateTime": "2022-07-18T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

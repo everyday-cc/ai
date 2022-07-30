@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

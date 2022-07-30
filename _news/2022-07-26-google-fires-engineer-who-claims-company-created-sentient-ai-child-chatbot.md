@@ -96,15 +96,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 16
-  - title: "Google fires software engineer who claimed its AI had become sentient and self-aware"
-    excerpt: "Google has fired a software engineer who claimed its artificial intelligence had become self-aware and sentient."
-    publishedDateTime: 2022-07-25T11:49:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-ai-sentient-self-aware-blake-lemoine-b2130634.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 12
 
 secured: "P/AHLmt49FUH0t8udoHYT8Kf6owxz5RH43d/5YEmXZmf7KBZgXlwqUkDrHxeoycje34iX8TCYi4DmRZarPqK1PJaFeQLgrijIyEDN1DUpyauVqgp4a/yv7MWzDPvj+hP4L6ByapVswgpHfP38tj5/O1pU0iOH/LsgppO351Vg1T6yOUyfkm+SJB0yhbZbG6FTXGzwTGuOPEqukyFN63nL7XaBXNf1r6AnQ7kkcbbSF4GHDb6EIgRAyuIo7/h5nIUpj/sFrKKQslfZAY2sWD8AVJacpiUFxGQZuWsA6z7Cq3gtrXIO6MJjefgId1go3K/GRJiZjx+ni5TMIgGQcTgZtoxQ8riYpJZPhUn1Bsca5Kiqf2AybzWFOFb1w5mXn/h98wsp6OhzHLjMA5dLqdoTTP3zvnz4+w8WDY+1pxcgkyUixKl7knETonFafj476TOiZqg514+CDfLajNE50PM4FFeeVHaeIv0BEqImkxGZQSttllNdhlYg3GZCTV4fgmuyhKtl70yC/xK3+iAdwh/uQ==;FZa9+Yk63lVf5hnarAEZCQ=="
 ---

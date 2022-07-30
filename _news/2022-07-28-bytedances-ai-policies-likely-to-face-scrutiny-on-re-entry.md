@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Indian Navy’s quest to become an AI-enabled force"
-    excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."
-    publishedDateTime: 2022-07-25T11:56:00Z
-    webUrl: "https://analyticsindiamag.com/indian-navys-quest-to-become-an-ai-enabled-force/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Navy-AI.png"
-        width: 950
-        height: 624
-        isCached: true
 
 secured: "Dfc8v2rPHZ2wzgPS45UrmlDZKOq9bKgzlb0WMlF9u/2czRFL8ZqAPWa62m7N/6devHIVnnMdkyEWIIiXfaLkClkXnOdn4ZE4pj/lg1s9Jb8VT112HPGtlFR+P6NLLTJ2c4KEHg0ezeArZXWBeWD9LvPU6ptWRfBqLh1nvE+JU0oxMDjYbYd9/YMsIF4X1nh38c544+7gQfhNaZjFlBq5j7bkOwpz8P2+ypSXOi/TZ3KYAJOwFSvkRlqbrc4iktlhfcNymldqQXQ+jX+SXR74Y7/NVLVn/3pu2x3CrdPBnIJorn0627YXRm+QkutqeW7Uy89Jeh93V1ZZdhG1jcnJf5LpBsV01mdNjawbfWUqN8o=;7nCOh6G2LRKi1niIIHGEdQ=="
 ---

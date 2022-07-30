@@ -35,15 +35,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Apple Ramps Up Efforts On Self-Driving Car, Files New Patents"
-    excerpt: "Apple has ramped up its efforts to develop a self-driving car, and has filed several new patents in software and hardware re"
-    publishedDateTime: 2022-07-25T12:33:00Z
-    webUrl: "https://menafn.com/1104586804/Apple-Ramps-Up-Efforts-On-Self-Driving-Car-Files-New-Patents"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 4
 
 secured: "zsyCNBjl7m9EbUpq8ymcH6S294NU2PtcMMDSgyof4NNvtwk9S9vAtIuQlLl6B3ue5OSb7l8w4pKMLqhQuu64hpWOuo8/8Vi9oFzdWVG+YDy0K4QTMkLzpWkBSGROYb3xl0bCjnGonFTSGLK4MzXjxqgg+iH7EAje90lQWjUzFqSd1XcM090P7w3PC0LBnSaYi6YpNSjMnLAgTeEl0jV9FEPObgZrcrnfaBPXQuF6h/lNo5aV2h6pusXaRHXCLkxYW4sc+k51LkJFrQ01yyZL77iUVyiZXTl3rFk+PBxWtzUgH6v3fVlr1+6nipQUaVNjVG8hVByc0LeL+EVFaYR3lgtuhQqiA74OSGUBaBC3kIL9b5BGiAsjVr1GvtODLOkJIg6n1jQUUj2NcurdWKZSNcv3hGbpDiUtwESFKPJ/UwOoI6e9IevPE8IRvsvmblytXGojvFONaNt4OdK89hKg15t8OYqlQWqrVJ9Dk2ekqBqqac2cADdLAo5hAbjQqoQIn4FmcyT5PQbL33Qf8Jg8Dw==;M36kwoO6evJylo25aoZxEw=="
 ---

@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.guim.co.uk/img/media/a06b1fa95037e071b8515f9345096ac7b1d27027/0_0_1000_600/master/1000.jpg?width=620&quality=85&auto=format&fit=max&s=0cb24096a4cccc1c8e995528b0d40046"

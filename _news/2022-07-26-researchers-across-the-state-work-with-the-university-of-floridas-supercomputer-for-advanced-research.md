@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcjb.com/2022/07/25/researchers-across-state-work-with-u
 cdnAmpWebUrl: "https://www-wcjb-com.cdn.ampproject.org/c/s/www.wcjb.com/2022/07/25/researchers-across-state-work-with-university-floridas-supercomputer-advanced-research/?outputType=amp"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "University of Florida: One credit AI course offered this fall"
+    excerpt: "Students who are curious how artificial intelligence can be applied in their fields can enroll in a course this fall on how AI is used to solve real-world problems. Frontiers in AI, or BSC2930, is popular among students who want to get their feet wet in AI and explore whether to pursue it further."
+    publishedDateTime: 2022-07-30T04:38:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-florida-one-credit-ai-course-offered-this-fall/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 39
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/University-of-Florida.png"
+        width: 532
+        height: 336
+        isCached: true
 
 secured: "qwDYGhGZyjOqczSPCkBJeypZYfDuupWIDdwIZKK/NFw3dk+8N9PVk2jvcl9VIgyoUbBYhDaVuvXZDZ+DTF8DdLOBEm0ii24GM0RioaT6QlfB9Z16aAgOMSID99L7luSxSjwTVNcLCwpTQxs6mmYHhrvxL9smiTrKrihUM+tx2dncnoFBL/g/KsR9ZzNS8ByXIp2TpTyCEmXeiVgY7j4AsCSv2iqFxBb/PZbZQa/ljXcow7dp3NapA+wK/1ph6R33Kq+T9d4exX86s7nVNfKAfFVqFebMrTcwVf9AGpug8nlvp9veZ+vXXaXU28MNb7NxaQLKbQ1IINVJPHIHgpS2s/Rbfu7f0noel+NNR10J/YU=;fsQnihjblLy8C4nxZUjDBQ=="
 ---

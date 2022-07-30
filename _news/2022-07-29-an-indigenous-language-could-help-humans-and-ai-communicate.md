@@ -9,7 +9,7 @@ ampWebUrl: "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-
 cdnAmpWebUrl: "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.fcw.com/media/img/cd/2022/07/29/072822AIcongressNG/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "PHNTM AI Helps Business Owners Through AI-Powered Communication Tools."
+    excerpt: "Changing Tech Allows Users To Manage Multiple Communication Platforms And Increase Response Rates Up To 80% <a href ="
+    publishedDateTime: 2022-07-30T05:38:00Z
+    webUrl: "https://menafn.com/1104616424/PHNTM-AI-Helps-Business-Owners-Through-AI-Powered-Communication-Tools"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?898684"
+        width: 375
+        height: 250
         isCached: true
   - title: "How an AI managed to confuse humans in an imitation game"
     excerpt: "How a robot controlled by an artificial intelligence-powered computer program passed the Turing test in an Italian study."

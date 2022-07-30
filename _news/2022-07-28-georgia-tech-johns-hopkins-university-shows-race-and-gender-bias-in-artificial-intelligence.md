@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-28T00:56:00Z
 originalUrl: "https://www.wabe.org/georgia-tech-johns-hopkins-university-shows-race-and-gender-bias-in-artificial-intelligence/"
 webUrl: "https://www.wabe.org/georgia-tech-johns-hopkins-university-shows-race-and-gender-bias-in-artificial-intelligence/"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://www.wabe.org/app/uploads/2022/07/AP19316792829102-scaled.jpg"

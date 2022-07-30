@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
+    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
+    publishedDateTime: 2022-07-30T02:30:00Z
+    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
+        width: 1920
+        height: 1278
+        isCached: true
   - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
     excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
     publishedDateTime: 2022-07-29T21:19:00Z
@@ -33,15 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Voice question isn’t the problem, it’s the detail"
-    excerpt: "The wording of the referendum proposal for the Indigenous Voice to parliament is not the problem. In fact, its elegance and simplicity is a virtue. But the devil will be in the detail, or the lack thereof,"
-    publishedDateTime: 2022-07-29T12:30:00Z
-    webUrl: "https://www.afr.com/politics/voice-question-isn-t-the-problem-it-s-the-detail-20220729-p5b5sb"
+  - title: "‘If not now, when?’: Albanese reveals wording of referendum question on Indigenous voice – video"
+    excerpt: "PM announces draft wording of the referendum question to enshrine a voice in the constitution at the Garma festival"
+    publishedDateTime: 2022-07-30T02:57:00Z
+    webUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-not-now-when-albanese-reveals-wording-of-referendum-question-on-indigenous-voice-video"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
+      name: The Guardian
+      domain: theguardian.com
+    quality: 11
+    images:
+      - url: "https://i.guim.co.uk/img/media/57cb81e3edfce17c1f29f310b3d945efc4f92f65/0_30_3945_2367/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8b432436f8ce3e8a0820a27e6684979"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z8HLq4wO1AhPqpFRQRtl+oqsXrsbucWEFdqr379UYlFAoulMp7MKOU1lxuHretfO1U8LFuOj5Q9eOftI1L7kDzsIGaQbL7JjLE0eEpaEuas451AvEVKj8CPuhRWqYvh4a8dyYDYyKb4R8sWIpO2n5WbD16kKtuO/wuF0eRfF0AqDMXZm4vvKhoSplDLn5h+8bKAb9sTQGcKRWsL72zMFMupIhQgpmwK2aeZ2iaZTIUMruQQ96PJLcj2DtvN0FAFoAlRbFBusTMZh6m178ZY864B+Hq8BTbHaNPONiOUM7HGY1Tm7WxSmYDb2XBniDCy2Yy6Mb9zsi8ffzh3M6O/howov4VM+quZaps1ZnjMdomf+SRtEl6YDYyGjBNfVlVhdsAT2dSIexkBNs71FKErpqecK/1AU0JUqTbigfSEtJQGWJ5v7/wKweAjL8j9dUuHmfNpNR3yfmcM8cfGevzdKpE6QNZ/gjs2grIXtMEI1aTRgqunUr9dbqWM0BaedSe68V/DdE4iXXHBLPnItQ8CEAA==;mY7hLQB5CCrtDkauGKx+OA=="
 ---

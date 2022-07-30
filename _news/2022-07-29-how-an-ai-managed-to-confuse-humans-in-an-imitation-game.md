@@ -49,6 +49,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "PHNTM AI Helps Business Owners Through AI-Powered Communication Tools."
+    excerpt: "Changing Tech Allows Users To Manage Multiple Communication Platforms And Increase Response Rates Up To 80% <a href ="
+    publishedDateTime: 2022-07-30T05:38:00Z
+    webUrl: "https://menafn.com/1104616424/PHNTM-AI-Helps-Business-Owners-Through-AI-Powered-Communication-Tools"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?898684"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "H8TVSCSFWI+zzUBLiArtAW08XzpkjSnzfZc9gW0qP/fR2fL6ZEgnBXcfpIUqolGIX5vQh7kg5g6SCfiPP5ZKl09IsfpINQWpurhN9RMltdmjKKCcb3DXM9gilvQkt1Zb84Ec6qoDx1ychMXAXL+nqUDu9fW87bYo6Bz7ZBsYtNXDxTZOCqfA4GC8QW+m+4+r3zGFyAWzl+b48fKjqiaYOAbmvZTAEO7J1xjPzRh05HVGYP4UmZRrV+/CgwpVC44W+dRNZ0V31wookIwS/oeajZZByQeg2RWvnOmjJPXX/8XHC88+bM1vTE0XL1QsaXL40lVZq1aaTRsu8xAKnzaqvzjEQZM5ilV3LekaFW/3rGE=;H0m8Xri2vnXpwhtjqO/iCw=="
 ---
