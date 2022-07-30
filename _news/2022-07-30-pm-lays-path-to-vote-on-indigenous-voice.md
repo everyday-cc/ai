@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia plans Indigenous recognition"
+    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
+    publishedDateTime: 2022-07-30T16:31:00Z
+    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 24
+    images:
+      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
+        width: 790
+        height: 452
+        isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
     publishedDateTime: 2022-07-30T03:40:00Z

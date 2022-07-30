@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia plans Indigenous recognition"
+    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
+    publishedDateTime: 2022-07-30T16:31:00Z
+    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 24
+    images:
+      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
+        width: 790
+        height: 452
+        isCached: true
   - title: "PM lays path to vote on Indigenous Voice"
     excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
     publishedDateTime: 2022-07-30T01:22:00Z

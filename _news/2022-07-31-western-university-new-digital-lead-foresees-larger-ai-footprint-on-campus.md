@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New AI technology may aid in the discovery of therapeutic agents for neurodegenerative disorders"
-    excerpt: "A research group from Nagoya University in Japan has developed an artificial intelligence for analyzing cell images that uses machine learning to predict the therapeutic effect of drugs."
-    publishedDateTime: 2022-07-26T02:40:00Z
-    webUrl: "https://www.news-medical.net/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220725/New-AI-technology-may-aid-in-the-discovery-of-therapeutic-agents-for-neurodegenerative-disorders.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/6/synapse-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "4ztQLtKlY99T9w1oqodKPuvIPoGrXPLiFXzYL9wyKgx9mAQTYzL4HDORXzd4yVR3zwqJS095ZYk3HZAI2p2dPz7w4kLP9oY1VBxQI97XBw7FZlepEGqWClqdLydbltw6B4lC+97b6A0o6cRFgAjzWUUQIw6CRTBE2AxqijeU+YinqubvsPIsMgh1vL9dmjrVB0hwLLJWBhrDqUOBzVjJ9n6Qd2XxVqSKlDkSl/4lGs7V3zDwncMOLq+L/s0gDMSe6vr39MO2EIh6+TwmWLEpMJVg8/42GRPt70+Wi6k5d+j+OddKCKb64CZS6eyfkKWF3ERR3Z6VMWxIUuJqpntdRGzbT0IFvV+z37n3IU9Cb0A=;KaYXm9qDeFhOZBP9pZ8GSw=="
 ---

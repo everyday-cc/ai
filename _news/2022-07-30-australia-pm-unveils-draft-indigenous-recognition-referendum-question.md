@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-dr
 webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
 type: article
 quality: 54
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Australia plans Indigenous recognition"
+    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
+    publishedDateTime: 2022-07-30T16:31:00Z
+    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 24
+    images:
+      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
+        width: 790
+        height: 452
         isCached: true
   - title: "PM lays path to vote on Indigenous Voice"
     excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."

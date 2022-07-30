@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-30T17:17:00Z
 originalUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/"
 webUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

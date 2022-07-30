@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament"
-    excerpt: "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,"
-    publishedDateTime: 2022-07-26T04:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 65
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated..."
     excerpt: "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm."
     publishedDateTime: 2022-07-27T12:00:00Z
@@ -50,19 +34,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Chess robot breaks finger of 7yo child opponent"
-    excerpt: "A chess-playing robot has broken the finger of a 7-year-old player in Russia. Video footage of the incident, which happened last week at the Moscow Open, shows a robotic arm in a table surrounded by three chess boards which it can play on simultaneously."
-    publishedDateTime: 2022-07-26T01:44:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/chess-robot-broke-finger-of-child-opponent.html"
+  - title: "From the robo-surgeon that killed its patient to the driverless car that ran over a pedestrian: Worst robotic accidents in history - after chess robot breaks seven-year-old boy ..."
+    excerpt: "This means driverless cars or intelligent robots ... DeepMind's Shane Legg said in a recent interview. He singled out artificial intelligence, or AI, as the 'number one risk for this century'."
+    publishedDateTime: 2022-07-26T09:59:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 21
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/chess%20robot%20child.jpg"
-        width: 754
-        height: 424
+      - url: "https://i.dailymail.co.uk/1s/2022/07/26/10/60702639-0-image-a-2_1658828529313.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
     excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."

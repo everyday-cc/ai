@@ -297,20 +297,6 @@ related:
         width: 1200
         height: 826
         isCached: true
-  - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
-    excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute in Cambridge,"
-    publishedDateTime: 2022-07-29T22:41:00Z
-    webUrl: "https://www.bioworld.com/articles/521169-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 36
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Research-and-science/3D-model-of-a-protein-molecule.png?height=635&t=1659127566&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
     excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
     publishedDateTime: 2022-07-29T12:00:00Z
@@ -365,6 +351,15 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 19
+  - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
+    excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI) in Cambridge,"
+    publishedDateTime: 2022-07-29T17:37:00Z
+    webUrl: "https://www.bioworld.com/articles/521165-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 18
   - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
     excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
     publishedDateTime: 2022-07-28T13:14:00Z
@@ -383,6 +378,15 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 14
+  - title: "Could Google's DeepMind help cure all diseases? Super-AI reveals 3-D 'universe' map of the 200 MILLION proteins contained in every living thing that help scientists engineer ..."
+    excerpt: "Google's DeepMind artificial intelligence has revealed the 3-D structure of 200 million proteins that are contained in every living organism - enabling scientists to instantaneously access in ..."
+    publishedDateTime: 2022-07-28T20:16:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11058243/Google-DeepMind-AI-reveals-3D-structure-200-million-proteins-contained-living-thing.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "b4PtHLhDc3uGGf9zIevKf8cgfWhIRBjM/2vegh6A7u/6Huqt/l0xidgV73Jwj+bt2qX0XJE3lFZnsrfta5wkbm1TQA5ZYLNIGlFPS9bd7py+99U8xhTN82WnnVkfkiqgqmKm0DWy7Sn/Ls4JO7V4tqPOjZviKPClS3B87/NloBiIyPuUf6UDtGK51TL0JmuS/AxbwlpXTIoaCY11B2sD+7VAR2VS4E6yUQ1gDZ8vn7NQNC2JjaE+OkTR6BfjqKssgyjSMruS4n6yzLZsZ23FLHIdvzS9dGdyNca60DgaxMiUJH2fqoQnNjlgJN/xftIOy+N5Daxh6ERTU/amGcn9sq/gFBJeC8b3wLA6nmhs1cfsDUI/uhi80URvlOg9Iv6X7JDCsFvxpsOayWNDpyOAyL0GiKtSFoLGHsLa/1tQrNtkGhsjXGJDa8zABRE7yeDdXVjpTzHiVyda71P9zJWyeS0fBiWesiMRc5/CT7dW54chEhB5z03yS/yqlj46EN3qhmTdALk3ZeAAkMh5IdGb0w==;/kTU4BcgsOOHS5gNz14TQg=="
 ---

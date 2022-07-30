@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-lite
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1865796/GFT_Lens_Report.jpg?p=facebook"
         width: 2384
         height: 1248
-        isCached: true
-  - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
-    excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
-    publishedDateTime: 2022-07-26T01:13:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/26462-sap-acquires-startup-focused-on-search-driven-analytics-askdata"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/bae5cec759c6a03e7fb78a7e60411c40.jpg?t=20220726_011055"
-        width: 752
-        height: 408
         isCached: true
 
 secured: "980fOKtAjT9YIi0IcKOkPG/F8wY7GIibUjqJFETmIg8J39+enXPlEZUeSCwZk9iO/Uy25SECMPXX72cfYuOE8sstcRqanb9lH+KHay93lovJh4r5E7rz6BD4EghiMyJVZK1pSoTgg2vUtxQFBHns8lGEruRq0hNGBBWmTx3vCslpj+Xb/8cPPfMa4CQ3Ks6eKKk122kA6dQk/smuDp6diuftalr6zFExsoiybKkTM4ScqXvTfPjgmDsVn5kmqz89bx+WyBkeeMNyBV/Las4ca6+aW2jAl+gp8EuNCp5NZEhq9nWaVcBy44TRaQBfidf7bsjkCReXjR7Zk/gfQtm0h1RijSxhenXkZlRSZQa03YC5q5MR7JL7T8v50IIRS0dvrelMxWeL824ZKdMMPGIIpi8yo0D9IvZRValtX+1yrcee2NWJqW+/mwOOprefWJlAt8lpz5qwW767pEZMmFPvN47/Uj4uAPfzkJo+0QQ9Z8DPFnUKKVDbuMsbyMiNfdMLtysEXBbW2yoAOIkUCZNNng==;5l025wlycF2U0qT9N1gI7A=="

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Creating a constitutional Voice – the words that could change Australia"
-excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
-publishedDateTime: 2022-07-30T05:12:00Z
-originalUrl: "https://theconversation.com/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-webUrl: "https://theconversation.com/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-ampWebUrl: "https://theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+title: "Australia plans Indigenous recognition"
+excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
+publishedDateTime: 2022-07-30T16:31:00Z
+originalUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: New Age
+  domain: newagebd.net
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/476767/original/file-20220730-13615-929x0c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
+    width: 790
+    height: 452
     isCached: true
 
 related:
@@ -40,6 +38,22 @@ related:
       - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Creating a constitutional Voice – the words that could change Australia"
+    excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
+    publishedDateTime: 2022-07-30T05:12:00Z
+    webUrl: "https://theconversation.com/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    ampWebUrl: "https://theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/476767/original/file-20220730-13615-929x0c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
@@ -72,20 +86,6 @@ related:
       - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Australia plans Indigenous recognition"
-    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
-    publishedDateTime: 2022-07-30T16:31:00Z
-    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 24
-    images:
-      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
-        width: 790
-        height: 452
         isCached: true
   - title: "PM lays path to vote on Indigenous Voice"
     excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
@@ -187,6 +187,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "89hpEb0+TVy4GpUZucLosjlDeTKi+z5Sskplyy4Fdkn8AU6YwkM3PlWGC2cseWCIsu+DgEttWkMPoQi7D5Wphtc8jWoRfbEF4HjK4xy93A4MDzrSRvnPE2yPC7ZnBZxhrIWL1UjsJ7mvWk5wbP3cYPE4G57xIMYlx+pSOh4ozh4TYi1aRzH7jzkOPAHQBZILStW/Kbm59Kl3XoG08F7CLF9ZOtbZ49Wj+6ynsasee46LPG4G52Tpg9ALITYJ1ploxWsKIvmx+Wvqxma8Hf/Atf6ZISYxB+2nSUVCLbuUhqyg83klWy6I/h7BVdV9vg6VNPTnD2dk98HC0xMGoZdkCq+7orQi3z6FxCP0+d4g44iMubS9MwPmNh8wCrLpoEwO6m9/ntPtHNi1PtG1eDjBxE9M6W2OzbqURNQ8lXWZSdU6WULvYJxWNRlKPZ2I/lEgJz9hEe08ZIxLxI8iILuTLv+FSGAzLnwuOVwtcUv/HS6fztEQuvo1po5qWi+fpKAavWZDnL3Vjy2IEjqR1LIXhw==;BQmx0tmk7QmzWtZ80VcsZg=="
+secured: "u5bjFS7fVs92cGMFkrnW3WVg0R4OS/h7l4bE+7q+PO1TBESxGBaq0IVhXHeCwjoc0FWePtSrXzO3U8KTqLfi5TMQ8Kd4NbXZ3oKmF1vDwtJWkdqplGCBBcfmWzHogICfwIqS5xmsrPucHa9lmY029x9uOy0GsgGir6dhr/kSriZ/OdMHGWRf/0FyfYfuT4rhQpKLnlilOW4gINfO6I5blNVaM1Mp7h1dt9sNcr+sZrBg++/tLSLO3Z9rgW69YqzxRNH5Zq45+QzTauEn5mxzsxhDMTyOLnyZ4KorAXz7Di8d1STNRewvk84Q4CbBLceVDYtMnDtHHAAsNGIzjjPz8DJdPsWD2XEA5FstU95qdsQ=;UTb0jzVBTpMemdVhuFWZtg=="
 ---
 

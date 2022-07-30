@@ -53,15 +53,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
-    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
-    publishedDateTime: 2022-07-26T02:33:00Z
-    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Missed Out on Nvidia? 3 Artificial Intelligence Stocks to Buy Now"
     excerpt: "World-renowned semiconductor producer Nvidia is widely regarded as a pioneering force behind artificial intelligence (AI), and it remains a leader in the field today. But AI is a rapidly growing industry with plenty of room for other contributors ..."
     publishedDateTime: 2022-07-30T11:18:00Z

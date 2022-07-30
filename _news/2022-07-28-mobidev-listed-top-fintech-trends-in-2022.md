@@ -47,20 +47,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "4 Ways Alternative Data Is Improving Fintech Companies in APAC"
-    excerpt: "Here’s a look at four data enrichment strategies for certain use cases and processes that fintech companies can leverage to grow their business and manage risk."
-    publishedDateTime: 2022-07-26T01:07:00Z
-    webUrl: "https://fintechnews.sg/62698/sponsoredpost/4-ways-alternative-data-is-improving-fintech-companies-in-apac/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/4-Ways-Alternative-Data-Is-Improving-Fintech-in-APAC.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
     excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."
     publishedDateTime: 2022-07-26T09:00:00Z

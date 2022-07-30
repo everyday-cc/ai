@@ -3,18 +3,18 @@ category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
 publishedDateTime: 2022-07-29T21:52:00Z
-originalUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+originalUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
 quality: 66
 heat: 66
 published: false
 
 provider:
-  name: WABI
-  domain: wabi.tv
+  name: KOLO TV
+  domain: kolotv.com
 
 topics:
   - AI
@@ -26,6 +26,6 @@ images:
     height: 369
     isCached: true
 
-secured: "FDMKX1fjYmoxaP7WmYnI1zjgpASxgJh0YAv/v9FurjE+A3OtQp5DxbaNw4Y1zH9bN5xBim96d2nTUGX4KQc7GJ91gAG/tt6cZDo+Dd2fezgG+dvUor+Ssp6OxZTyNEurHbXVqhnbU0/MY77awKEhwnZqHaryRfbpM8HRUeofzB0A8MTTUPBVIO7u/KfsMoKE8vSnU27snXtWAmeKFshFpT0L5TPCDqARQCUwMbmWRK8qPmrRLpVRU6ffjHhmX/+4n/qFD/jrS8bvfBwwjKjtos0idGFOCkIwPLHFFPN2U6T7fs6lMaPzo6UdG3dqFTXjEBoMhk02piGSZghWy2qv5JC1oTE6zCWongHXqN1Rz18vpteP0NPym1qBKJ74wk9horIXGX47orv/7vY5Ie3rfBImszJRPk2VeEGaRXzS2njymaQMBY1XDxvh226oPYrh9ilYFclSp8zlFCIJsaekSMo+1WWMcXxCBIrWbd29vtegIIjsEj0c2Sdq8yk4Xqxu3RuLQU52mmt3T5i0Fl4FJg==;/QyRBYTjDG+NkcxIrCUVOA=="
+secured: "xC8Q9SBp3QN30+fgYAf0E4pJBEck5ciyEX2JaHcZ33yqrR7K0ErxNCkK6/jvA/VEB0+ciTB+8rVVPFsmKHr0bHl2JJmTbL/9Z67mqsDiuHfSTkSZBzIZyoVmn/fgZGjJUnzt5xUfTamVgoRxLx5UobQp6mCnXkzJX2xyqW+3Z/Zu/ze0xzeLsC0lA8gMp+YhS//Vm9YwDV88DcErXV0cCZzdud9FVMKIfX9RGZT/Af2Dk+8NvVv7nUw63CGfw5jzhMpMZee/96J/4MSEB6tdmzGCDdy1mo0PzGhZK92Rj/I8fc0O3nJfIJcd23eRDIsCYc9DpzU0U2XkdO+hCEoq0oaFqaCAWWibF18P47CHWl4=;ueuzcKXzCMY7vc9nn61Lcg=="
 ---
 

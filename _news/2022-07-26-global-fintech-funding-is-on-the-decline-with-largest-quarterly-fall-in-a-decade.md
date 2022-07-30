@@ -53,20 +53,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "4 Ways Alternative Data Is Improving Fintech Companies in APAC"
-    excerpt: "Here’s a look at four data enrichment strategies for certain use cases and processes that fintech companies can leverage to grow their business and manage risk."
-    publishedDateTime: 2022-07-26T01:07:00Z
-    webUrl: "https://fintechnews.sg/62698/sponsoredpost/4-ways-alternative-data-is-improving-fintech-companies-in-apac/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/4-Ways-Alternative-Data-Is-Improving-Fintech-in-APAC.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "MobiDev Listed TOP FinTech Trends in 2022"
     excerpt: "According to Markets and Markets, the fintech blockchain market size is expected to grow from $230.0 million in 2017 to $6,228.2 million by 2023. Fintech solutions involve a great deal of data, and there's no btter technology to handle all that data than artificial intelligence."
     publishedDateTime: 2022-07-28T14:20:00Z

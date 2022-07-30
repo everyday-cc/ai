@@ -70,20 +70,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "SAP Acquires Startup Focused on Search-driven Analytics 'Askdata'"
-    excerpt: "SAP SE announced that it has acquired Askdata, a startup focused on search-driven analytics. With the acquisition of Askdata, SAP strengthens its ability to help organizations take better-informed decisions by leveraging AI-driven natural language searches."
-    publishedDateTime: 2022-07-26T01:13:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/26462-sap-acquires-startup-focused-on-search-driven-analytics-askdata"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/bae5cec759c6a03e7fb78a7e60411c40.jpg?t=20220726_011055"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "cENz8neekncTuj8WEgWBvtg8uOwMTVSG51XezWxO8QgcYKZnKmNeH31T4yfGNpD/U71olSoZpoAs5dZrkGv6f+KP0ENd2LHyJg7agHa01+X33qLNfmvbaY0EJtiyOSXMtpuNiyE0KaEFmrM/duT1Mz1VqgL3idvZUVj3hYtSKlfFcdK4VPQr6whLmQHD617aQLvBUoYGVpEkp5rcVHaWe+DXW88XEwCVs03FZ88GzHdVJGE0XLwKM07YNGm0iI6Vl5ePjLN2ahtenxJXzJegajMaXYU9F3Y87UWPM1aZS1LpCmaM359D7X686ImnUQjWy2A4i3fKn4/DB/LVF87FYvVVsuAzsVUER7EGKkPM0/OHCqubEaAanqKADcK+S42uGEDG6G1oJnQSsbVFtr91mGpF495S/3J4nMsGCh83LVFHvylrK+3aecTOBDCVIz8ErxwS/fxeMuqIWW3UnmMjWtZzHKmkb4Jrw8uLG5D6AHcYRa7LC1TUDYu+A4Q9rqk/YLbAX++7evoIzTEpoP4dXQ==;R/Onwjp/cTcYRFSqeJ0H2w=="
 ---

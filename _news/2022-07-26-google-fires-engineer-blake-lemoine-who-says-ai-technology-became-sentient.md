@@ -5,6 +5,8 @@ excerpt: "'What sort of things are you afraid of?' he asked the technology, in a
 publishedDateTime: 2022-07-25T18:17:00Z
 originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "EHdXvy8SJelKYp85cpRXnGx+KEX9PIUngh33QwxdUw2fElsjsZoCUllSCBc4BpNF/qJPKgngO/3YmO9sIrdjW657sbVtRuHEsURqzh/bn85/PgMzAXzFM1+w3LiqwBRPWX1kw10F+X9WEObI0ZiP1cUn9ZeSQ7zpT42MGdTSpprXTkaYdXuX/mQvUaie0ySyVYRHAvPJsNTewMbphm71FCEdnRHHtEDRHgeYa/N1ZS6bg80raAa4vS+Jw4OdHlzRWRZvK1IzcmraM0DyY5FzHqXXyZsZBfm9y8mWjmyADVsBNuQY6cAwiNM/0juCESbjp97dJxQYizU6kdZHVaswBs8o/plDlrkMkw8MCey3jQk=;6VJlszKrhbbbS+dRGPmwOw=="
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "49blS6KLpd/zFRhLB7k9D+O5kznEQP/gDVqUTAkWHOM0NQvFBAE9tyhoonnCCSEf57ZjWZC5MsD8GSaqOH2y4ZzFPTHqsYXGfIE6CiWVYA99Q3pUROcdVmV+AWjjZPL2PBHQt8RWabWx8q+al2cbVggMANJ7vPvwMz5yfaKvYGURYb0tWJTsaYF36WrsXMf8AcrxSjeor7fNyxjISFmKcHn+QdBojvLMH2P+JJRdrgljaT3eWuEvfZzpBOBXi2TcFhA1vB7qZ5PrZHqe95qddqD6cs37oqLX52yf9G5+GE9JepQORCvye1iODFEEBDvxRkSS+lv0kgdt8f4Jm/FZGdXmYs6d4cgeqIxi4NkzE90=;rTwziW7H7Qxcxdtg45XFkw=="
 ---
 
