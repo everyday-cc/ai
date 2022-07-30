@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
-excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
-publishedDateTime: 2022-07-30T03:40:00Z
-originalUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
-webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
+title: "Australia PM unveils draft Indigenous recognition referendum question"
+excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
+publishedDateTime: 2022-07-30T17:41:00Z
+originalUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
+webUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
+ampWebUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
 type: article
-quality: 22
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: SBS
-  domain: sbs.com.au
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
-    width: 1280
-    height: 720
+  - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
+    width: 615
+    height: 383
     isCached: true
 
 related:
@@ -55,22 +57,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum question"
-    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
-    publishedDateTime: 2022-07-30T17:41:00Z
-    webUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
-    ampWebUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
     excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
     publishedDateTime: 2022-07-30T07:23:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=b5fd0b5c-6681-5641-a66c-2e318ad95423&function=original&type=preview"
         width: 800
         height: 600
+        isCached: true
+  - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
+    excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
+    publishedDateTime: 2022-07-30T03:40:00Z
+    webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 22
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
     excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
@@ -173,6 +173,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "a4ONuIze8Q9rabWO5lesjT6HBVvrdW/JQrOVtzlrmPT+rvoNUEbDst06OoS27c6k/tU0zXnxN+iNLMnTSEBFK2ywZyezn6hIx88tsH6DVH24S8b1rsSXsFTdsRV9pMp1ffoFtAttpQk5BfD3eSHON7DSicCd/FSm7abYNQwuaCStyES94wMASCdf0fC8DXWnNwA+eosqh74oCIVqmNaGrIubSZecWj7Zymvq7JjGvbFy6ozwRh8RVPD+VYh2bUlNiBisieV7UCzKO3z4FwpcTs9DfIaUnGIvkeImwPQpe1QDUtCw670xkoXzRH5aNshGtB76T7Mjiyze1aw/o/8WZwJg1P6a77Gvv3SWxAtXNKTuZzTc8aHXCTY+uItguevGxB9RgsHEE7EKJWV+d3UH/Hi8ZcVHvPI5Xddi0iIK9EmPaYPuQ7FRZ0tiynH4E1by8LQ0+pBf9JJBrp59PEWlXOsb1VHliUjEOwQs+CIikeyRoG5ymcFlRUwbI6niYIa+2PulGhhJvhWwYeVyP7sRfw==;yB+Uuhz9Ph/N6UgQzYqJrw=="
+secured: "xWOb24cMHY/a6YGbKstY/7Ee23Jjhpxi9WdxgOtI+mKGdw7jVd67uMZASkIIFs3icgGJXeZO/xi54TkTiYpfB4pGFhUSCeomj4OuIU8axTDbcKbSHyAkO3Vh+XXjcHm/AjSpZhEARMi0hVAxjWtfRk78bY1C568Nm2OkXfWHDJLuuEdtxDtsNeesaiIC3Gco/04BzLNGFQUKic/Tqk6QrPvqNcLjDhx5YuwrcxNzy7kRudfip/0yJFk6WaVSr02JCEzFiuSa6Izth/yHqt6zPkSzEBo7j3BmmFzoFLojexcB1K2cGoJQBVnHtfQ2hA2fRQpn9uyWw9k+hE9nlNrpDjiJO5pCgGslSnHSuPT1dHw=;+2CEc8oC2oJ2/OcX377hgA=="
 ---
 

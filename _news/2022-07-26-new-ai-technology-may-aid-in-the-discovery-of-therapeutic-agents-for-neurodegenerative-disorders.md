@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Western University: New digital lead foresees larger AI footprint on campus"
+    excerpt: "Western University students could soon be plugging into a Netflix-like platform to choose their courses, one of the kinds of changes the school’s first chief digital officer foresees as he steps into the new job."
+    publishedDateTime: 2022-07-30T17:04:00Z
+    webUrl: "https://lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus"
+    ampWebUrl: "https://lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus/wcm/bd72a623-ce82-4826-876b-1d90a9e6b14e/amp/"
+    cdnAmpWebUrl: "https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus/wcm/bd72a623-ce82-4826-876b-1d90a9e6b14e/amp/"
+    type: article
+    provider:
+      name: London Free Press
+      domain: lfpress.com
+    quality: 55
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2022/07/9999-lf-western-2-scaled-e1659123324879.jpg"
+        width: 1000
+        height: 766
+        isCached: true
 
 secured: "d8PI0cTIvKXO8bASzE287socMfKvef7LzeBGVscxwIDny7A1dG20GkFWBmtBv1NGI9pICVBHkI/m0jMOI1ffqJsVLCseLPEynM1spj67UkkpS+qO7VAenX5VEAtIJR8WmfUGg+F25kZFIjJbofOfMPexRr7+T8AFco+fyoacACIlRPom8KCs0I3pUIvLGPZkwxj2F7LQxdLLKdlQZ/2vaD7RabiVtFAre8wrheRY50wdFNR3jkPu2XQ6lasB9TsJcRJAIefP61hJQlUR7yrewoWodM5yYFo4cMQyg2YMoPUVVNFQJ28cOmxeUmqKf7mYv3kbMcaUSPz5nG0GeHuq+/fgqM+xt+ymOXafuLe2MRA=;LZlT53zX3pvz7eYMGmnyAQ=="
 ---

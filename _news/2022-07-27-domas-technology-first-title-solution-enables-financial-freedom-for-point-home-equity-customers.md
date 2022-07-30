@@ -3,21 +3,27 @@ category: news
 title: "Doma’s Technology-First Title Solution Enables Financial Freedom for Point Home Equity Customers"
 excerpt: "(NYSE: DOMA), a leading force for disruptive change in the real estate industry, today announced that Point, a home equity financial platform, is leveraging the Doma Intelligence platform to quickly scale its operations and provide more financial freedom to its customers."
 publishedDateTime: 2022-07-27T13:10:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/doma-s-technology-first-title-solution-enables-financial-freedom-for-point-home-equity-customers/article_ce0c3eb6-c30f-5805-b4b1-31402dc21129.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/doma-s-technology-first-title-solution-enables-financial-freedom-for-point-home-equity-customers/article_ce0c3eb6-c30f-5805-b4b1-31402dc21129.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-8d2a4015e15b4b028f2ee53fd4d94a10"
+webUrl: "https://apnews.com/press-release/business-wire/technology-8d2a4015e15b4b028f2ee53fd4d94a10"
 type: article
-quality: 0
-heat: 0
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "pgKzUpI+FBgciBUm7lbwv4zas/4C8zJO5h+OqHWSZJkC8TNeHNm96QvVDFgo1veFpyH8B76lo6lMrX8TrF6aVAMntrMVQU6CVXhG97In0K1Wn0BM9PmB37XlgFIY1TanCZX2wovUO2Rb+c95eZJk6lZd/o55RlGWXCpoVS207RQDtUFL92rCbRXQ/xxbBXXZVnavPjIYZ8o62dojBBJLczEMGwAL4kmCJFT5ITrY2Jh5/gAt9oGE8URWX2scK7US8U7cBobJpvdNZ3LUlaLN0bZPD0w9E5G3OFW1SgokWcgvo/7Um59I1uHRsnvO6wz/JYd/JVNlzkZ+FxCo+P6vhbGDrzYtSa4S6CDChMj9rFc=;iELt8NKSCKJtTzNP/XdcKA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "pd+jbQwl1S0/ifljZluTXBkBz5JEbcicf1MeBUhzacfOVbSrRa6b0LaDKWA+/TohqrRCmGcDQewWjwqwAl5Eq3X74WCW5yz7SOqGfVbAaMlU+jAv1pfsfWuJSv+2bU1h6Lbhct53mkG2WA1TWRxFLXfQcSb10/4iafyuDrgi40TXcMMz+2C4Kzj0JhLkHUxD6vyaoLxKKdAmD2FB/+tpBS8SLDn3mU6aItxRfhCpnDC33Hkb64TLEaAcl8bsX1Rb7DVLaTcbRH9o9YrmU1xpFX3VADZPD0Nb0XKL9w2DcPuDqkztj94un5YGj9p/G4OJjv7rFkmGIPZX8hC7E5RNBs0INd9uZq7fzDg4mWwo1M4=;tyLmwoag2Tg7Xx1yWDUUCQ=="
 ---
 

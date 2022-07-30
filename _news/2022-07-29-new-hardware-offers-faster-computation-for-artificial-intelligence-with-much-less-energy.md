@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-28T19:51:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
-quality: 40
+quality: 44
 heat: -1
 published: false
 
@@ -19,8 +19,10 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
@@ -82,6 +84,6 @@ related:
         height: 400
         isCached: true
 
-secured: "5/Y84UNCTrLwlBE7TBZZQIjRtGY2CHsq3hFFPKCmpxUnHu0pBkpV+3bq4+u7AaHuyqjjqFRftm1y63WrxH9zLUCYNfRKJE71lJcifCGV+giv1x7sT9Of8Fac6LWZ0L2eZ8B4LoSFLmDe5eIkwLrANqHOv08C+NUdbClZOZ/cFztBhXJ2mleiBNXSolUKuVjMggeHT/iwKDx/XNS8qxyjB0wW5Zh1r2OeTa4tdx9zXpX2matZnyWEi3RGTgaSlxwj2VfH8U6Wm+MR+fuMyz0az94o9/4eBDQXfI2didm5/hZeWn5/ntMFxFyFO/PAZjKAcb9IuCQB2g+3CregfVCYYskSbMygc7G1FNAT03CxOyA=;27LxweTerplqK1mdyQN9/A=="
+secured: "qxTJjgtEWYYnjqufcu/4GJWeW4ftsoEIwsg5pb/Ot8tk14BLCerldWg1TrkNpoqmT7EKX9J8s5skiCfYb55MQNXZ53+VhdQdncAzPTt9Cm+eYkI0V7rb5xXtc0JHYaWs3EXzdUB8fpAlT+aKOg47E/5cVnlDOEdveJGrvA8JdgchBTGw62e6NRVhnG7JcgkQ6j+okiHNQkfNmHzkRF+DBEuynII5nC9layvHwYVokLv1AUz6wqYUufooV3HQOS92XspIjzMw9gadgdGdeY0XIY0MJjM1u5iqKQYTgOWu0/Se9dz57ff3aXujOHpooDzFTaUxc8Ymg0pR+4XEQq9lOXKqjpnIBe+GpuF1XdHHh2o=;6fF75FM5mzv7wWHlrHIpiQ=="
 ---
 

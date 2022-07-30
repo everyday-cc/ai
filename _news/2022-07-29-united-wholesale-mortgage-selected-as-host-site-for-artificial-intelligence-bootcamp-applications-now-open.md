@@ -3,10 +3,10 @@ category: news
 title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
 publishedDateTime: 2022-07-28T19:07:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 type: article
-quality: 18
+quality: 20
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: apnews.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -39,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9JKpFpxk8yaVJlm0zrwylT7CHpt+zfIutrq9GocK/jAG3WSr8V3DGsvDQNtBKmMgSV0y/wSQb9hjuk7D/R5Drl1z8yJSRmVVtJZOpv4BD5OrYSC8lrfaqP0dfndTLj1IBrxiOhGVm0gQFs6EvnUIogab/HkGpnRXYjS9Zb2YVTXbk9GbIXSnbE0duOTM5KooypMfrgqTj69zsyK9SdWly1RYx7ogoP9GgrLnZRxJQsw3hJojFssug4vZPpUI9IAC8q+4oHSF1z+qQFomdiuI7H0E3/o0eXiX5tfNL0dl5WONlLmsIQS+eaPk91t80qUDMO6AfuXA04aED5eyeE33G5KfigH6JY9sS0h9bJfQbpI=;twCu5TWRgcEoQkB019qI6w=="
+secured: "/kUYX6onWo+UAwU5TEJXhx2at4wZHdfZSz5UD8qlCG404fms1Ehg1oK5UJLYSL/1J835LL2xJKcBpr7sZhsT6JPMmVugvaLr/YYvc0MsUMOv+aY8VaWvWP8mCtR4eL2vkSiIrwIml1/zzCOwbNimY8tYCsadVq6v2QBke/LNsOCcstYfOV8R52d02EYw3JP09xQ6Q9fqoB92lgr+Mhf6815BxWmQ46dU3xFtlW4dvfXDS9kxdmL7FzZ34LVMdkT+hdClyA7P43pG3NTR3YzKjei2E4T6N9+1qNKUjNqnUw93U43lUdyzWDulxT5pfYvjScCXq4pkOkLxPUEsK7XH1EwOzHMMNzCEAU8RA3RrwhA=;80AotdDSnoJBybFI4urN0w=="
 ---
 

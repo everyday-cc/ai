@@ -70,14 +70,19 @@ related:
         height: 416
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-    excerpt: "Autonomous trucks produced by the joint venture will be powered by Pony.ai’s Autonomous Driving Controller (ADC), built on NVIDIA DRIVE Orin Pony.ai, a leading global autonomous driving technology company,"
-    publishedDateTime: 2022-07-27T19:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
+    excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
+    publishedDateTime: 2022-07-28T03:32:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EXPXhECeQftcPNKkVns4fcF0jcYPwDEy8ysxEz/jazJwWVCrFVPshWmkT3cyavwhiqNOOtZchF1eejMjz9YcoZeCgCTx+0kirWe4bTjgvTFoDQI5U/dpiaZtjrX+6cHq+/Cm7SNRwdjDMvGgcyIM9kZiF8NNYLZg1iM2DCVjJYU7uj0kcrRPVNsvi9cgUqf1IitLU0GlmLK9nNao7X5MCOsCCsGXCRGlajbxf50C2m/RRgkesDu+wLvBE0u9qbfNVjE3n5avX2FZRxiHchnDFXT8XGWB7KNm8trwJkVVJg2tTyJeEe0tX1w4kAHOgPb7xCMmruWCz/RffUkcQBrmAiT0jejVLffg6p9KJYHHYnA=;gR4vF8x25ctShXHRDMgJ5A=="
 ---

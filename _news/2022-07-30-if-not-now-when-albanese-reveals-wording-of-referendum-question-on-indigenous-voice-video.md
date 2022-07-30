@@ -59,6 +59,22 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Australia PM unveils draft Indigenous recognition referendum question"
+    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
+    publishedDateTime: 2022-07-30T17:41:00Z
+    webUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
+    ampWebUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
     excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
     publishedDateTime: 2022-07-30T07:23:00Z

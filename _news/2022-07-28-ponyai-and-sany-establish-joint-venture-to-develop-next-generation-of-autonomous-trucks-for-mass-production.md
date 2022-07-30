@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "Autonomous trucks produced by the joint venture will be powered by Pony.ai’s Autonomous Driving Controller (ADC), built on NVIDIA DRIVE Orin Pony.ai, a leading global autonomous driving technology company,"
-publishedDateTime: 2022-07-27T19:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
+excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
+publishedDateTime: 2022-07-28T03:32:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China"
@@ -78,6 +84,6 @@ related:
         height: 512
         isCached: true
 
-secured: "tcWF3G1m/S2P43rxfnSo6euC8C7WAzJssOnz5uu6auSBCyZU+8HWyxSZxVR1itFPRs8lnzNWT737bMVgiwCaRjQrYDPLW4UBUnC4cmaN+5CAroOhLoSs1hFQTPnuczZw7BIPpPEJ2ypEoMEw3wjVhW7ppP81UWVqd4yNt3RjEnjwmuIgwTesoruUSYOMWkXnA3vUSyzXySwFOjkA/S9Xh7y+BZZ98hHOKQNtZwI9iGv6Tr37OBZ9Sk+wnUDt5trmGM5IZn2OK2vAf6/5q88S5El5mi8T/p2V6R4Fm6U+D0rOqhX+hflgLDsbo6UXWpoVV/f4YR3WHjxl4+vKu3Dj41KZu79U+NyPD/6jbtD+FLf/SrmWYdami+67mRbdfJHhwzMMbskiEOjBREmWd71dAqnMjAbAbd+ONG66xueAiUDvdCC0gg7d718iTbTNkT3sgDGngAcvMWyy+r2wsxyMRF+58djill9i5PPpf2Dn/gearjdXVhsUY/5/BLgzIxc4GB0km5qE4T/lDjHHIWgNoQ==;h1xw7wINjk9NE4nQ9O4KIA=="
+secured: "oaC6N8iNe/Haohpnx2sPyTanw7EdKaKHfJu3IYRp1VyfzMYekn5lJGRBleP/oeB8RPn53eiW83UtB7pDbibCdaFoQ9wkL89jwPboKnuKWwWCJCaKMqguKk6g3RAuuw9zXAykyIyfDC4ex9vpCSJLZcJ0RvSmocq5rAaDg77UfU2XF2gb7xjrR2e0PJf8D39AIzLkB1WN52YTA+6J/3fUnrRTiqUwkTG5fNuehKQ46TSd5vG7f8Lk0871QvqjwJxHqydxAPkjl3a2ZZClWnfp4a5exiJ+X+Ld7g79HeCxgBn1suRBEAMekLpClcfSMo1gIAtKqN23Vv22Qe8XUeE03szJNpSeI1zW2RdJw2/3N1U=;rYVS+lnS4+ohwsFjB0AnSA=="
 ---
 

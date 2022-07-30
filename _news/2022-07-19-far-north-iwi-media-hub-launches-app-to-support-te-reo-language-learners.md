@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Far North iwi media hub launches app to support te reo language learners"
-excerpt: "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund."
+excerpt: "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,"
 publishedDateTime: 2022-07-18T18:00:00Z
-originalUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
-webUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+originalUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+webUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "OwvyGXir7b07/5cIvYc4RS990wWJyU2nB/TUGk72bK6HvUhJLsHVGXipKyUw5JEF0o8xGEJ+nqnOeSBVt0wsVyc3gAZh2kjryl+6jA6aT+5mJ+UibupJCrAIjwrLJ5Nqwvh/9nlrQn+nBP7fhs+WW3pZ1KBebXhyzsgHVmLzTIG8r2ivz/Orh5BNhhwdOJG8qXJ+eVusVa7BWTIcPMXbmMKRYMiHCl2Jfw9gzepVCCro0UeQmcF47bdf97JHsyzQMo+Sl08gMZ6sp4N/w2rzWrac25mqWyEXYYV2OtldrAmmN0ISBFIKnPAMt3GsDDT7ACv5xoTyIzXouvW0njPqiogbbesvsOUenIdr+WIHzLA=;5y9J1oFjKrVD9SshHSzfxA=="
+secured: "pl9wYd/lLgTV/dzKhaNveEzNAZuCDNam/o4cR9yTHOXOrolRGwjNnzXPYwYR8kDwkEWeyqhNE7FfCfp1Ib0XGzZemPftFQjuFowwfEbGQLb2H7eka5EsudgzprqPxkNj1/UqAwpAzL9GQA3lTnNpb+eSpC24VobrW6ELMnTV4GC8Z039cbF4nPk1J56z8WyFPnBsHGT6zM8jqYYVoMSY6Zz86nkzf2WHMt/ZaMkfC9Qq66Ye1CLzn2voZ0+MyutWhCROHpt/YysrU2JKEWw2jEMHVmtgyByPjVXbK97fsJmUD1/LMJN47e5qQDmuReHkF8pYUTnCmnJwFEwiHN6iQsnAhgE2eXeNGqODsJGsW2Q=;9bm3EAuL+iXSaIrpCC+AKw=="
 ---
 
