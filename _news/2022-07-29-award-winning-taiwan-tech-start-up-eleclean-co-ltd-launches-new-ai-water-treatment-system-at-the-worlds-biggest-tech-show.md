@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-heal
 webUrl: "https://apnews.com/press-release/pr-newswire/covid-technology-health-water-treatment-6d69cc0d0c8583b7fbd686e70199fb87"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Cubo Ai launches new sleep sensor pad to boost award-winning AI baby monitoring system at TTA Pavilion"
-    excerpt: "To further boost the safety of newborn babies as well as the peace of mind of parents, Taiwanese tech startup Cubo Ai has launched a new product to augment its award-winning Cubo Ai Plus Smart Baby Monitor - the AI Sleep Sensor Pad."
-    publishedDateTime: 2022-07-29T04:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1868825/image_5019932_7247023.jpg"
-        width: 400
-        height: 281
-        isCached: true
-  - title: "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion"
-    excerpt: "Leading algorithm programmer company in Taiwan, Quantum Music, will be exhibiting the AI Baby Crying Translator Q-bear in the 2022 Consumer Electronics Show (CES), the world’s largest and most influential technology trade show,"
-    publishedDateTime: 2022-07-29T04:28:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-artificial-intelligence-consumer-electronics-show-95e45f7e1e1eefd3a684dd96202fc213"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ID0xc2nZUxClN9bn4ub88HSey3NnRUkQkDgVaZBxFDHFUgYCA0RkaKPPvlpIYDRy/8BZOYsH+9WlpNz2/harbOxkdn8QJ23Xnmqg1o8Fpds/WMPydAJPaIuhnlzq9Ke3aMPPLiDHjiHQBQ9R7lAiUcAb7q8AfYUk3q4/pkSVkUtOoxxoiqHfFVC18H2v+gxlCmGHS0rTvAgX6h+tfC86U6wHyzYJuHWVxSAWn/0621W4FV4YtInCqkBUHNkfKRu04DWZut/hSOs+pcf9IpP+4JDOcge7WWFfPVgAc7K63bR5b16MJYGNq7q15X5lUV79yaAmxhd1Jrx2771EKZkEV5wxw/SfWwwGvy5I4xAJRLI=;lATlTMbO11cnqL/MGkOslw=="
 ---

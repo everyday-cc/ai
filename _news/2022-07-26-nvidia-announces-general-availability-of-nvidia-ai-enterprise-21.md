@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/data/nvidia-announces-general-availability-of-
 webUrl: "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "Missed Out on Nvidia? 3 Artificial Intelligence Stocks to Buy Now"
+    excerpt: "World-renowned semiconductor producer Nvidia is widely regarded as a pioneering force behind artificial intelligence (AI), and it remains a leader in the field today. But AI is a rapidly growing industry with plenty of room for other contributors ..."
+    publishedDateTime: 2022-07-30T11:18:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/9405059/missed-out-on-nvidia-3-artificial-intelligence-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "iVXJ32M70JMSdgbfiLbvKsFKNNxT/Sl6ovd3GSPILyBvFZth3IzTBSoqxYDU/B3wJTsNK2j24rD5omFvNlhJJR9msYiyHzCrBEIdB9k6pFarqIVe8WU/RO47QEMhT6imHm01QyVV4JF28afbRW6o9cZy8diAoio25iVOsCft2ou0kVuUVZO6J4Xza3mMHRC34lI2ZanU7Lx8XW8r7r6WySH4Y8vs3IAEAAvZ6+P77BKQ1UGitMSgCJeOugVXsIWEbX6VGe1PWHHfTh4L19UJv0bdd+ZU0nmtB8HCpq2CJDxyFcJvEC7bqzXeIqjqJ+qs+jiTVogTjGQkLey+/SX+8esqyLPwF05BpUNgqfJwBmLHrxKncIT5RRNFggwRspMc5qS9fKcKbCi1iTE3UjvhFxVdA/soTnlZ6dCCS3mU+z6aj0r7t3n8REtmDP2Crq1dqghH+EHEJ7K8K9a1iFQ6R5CIVbtIWDywq36cgkakii0wULAOskzbCw+t6s5VxQvqbdDTuh5hpAvLbVpy5BGECw==;JUBCEOyDkeXOpjEbC45dlQ=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Carnegie Mellon University President Farnam Jahanian Statement on the Passage of the CHIPs and Science Act of 2022"
+    excerpt: "Carnegie Mellon University President Farnam Jahanian issued the following statement on the passage of the CHIPs and Science Act of 2022: \"Today, after several years of hard work to build bipartisan consensus,"
+    publishedDateTime: 2022-07-29T01:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/carnegie-mellon-university-president-farnam-jahanian-statement-on-the-passage-of-the-chips-and-science-act-of-2022-1031627778"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "How facial recognition is being used to track and protect pandas"
     excerpt: "Researchers at the Chengdu Panda Base in China have developed facial recognition technology for pandas to help aid in the conservation of the beloved creatures. NBC’s Janice Mackey Frayer reports for TODAY on the AI technology."
     publishedDateTime: 2022-07-26T12:38:00Z

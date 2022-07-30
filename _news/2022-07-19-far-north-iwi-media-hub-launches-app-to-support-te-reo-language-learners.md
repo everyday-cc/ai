@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Far North iwi media hub launches app to support te reo language learners"
-excerpt: "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,"
+excerpt: "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund."
 publishedDateTime: 2022-07-18T18:00:00Z
-originalUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
-webUrl: "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+originalUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
+webUrl: "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Yynm8mvLLOO28mu5WR5zER5+B3qYtWJamvanyTt+aq5grTVW+wvhfeu8gYdCk759pPAzbcAvyz/qb280aS/2DmmtO3iqQzkNAqsIpH1Sy56p7oAlWCQVvQISiW8+4maEhIROLCOt3uK7Iqzg9zgN/d9uCpOAvbZmwyAoi4TBGLwIBXtqj06sAGiqcSgdL4ZGwvcqDvrY9N1b0NAPWB9k+TBIOnPTTB5DHQOHHd0z+5bXGiWe0v0GyjbW53S6ac+jbb9Uw5QgPYS3dGjs86521yWHc0+SAqMIrhKWIICKVWxacrsSsVHN1XT672lcDIFGtG/6ZwWjVpyPNMzaG4qUb6EXQqWqum9e5B2tYYh85TY3sDMJMp0/SEHdiYQUQ3Yp+oCaB1mZsE9WuWHfzxuck3bAtGPBXeq6EnTasAcUFtfwbDcC3raz+JgnMtx5iy/BV8dImlqFjDPVsv2a1bdwCsigQ91Oxs+ll42hPuSbGTHd4/keKY3utW99riSm4MxneKxj9+eJO2/MqUz1PnungA==;GpF2+AVuTUnWRyi90cmEug=="
+secured: "OwvyGXir7b07/5cIvYc4RS990wWJyU2nB/TUGk72bK6HvUhJLsHVGXipKyUw5JEF0o8xGEJ+nqnOeSBVt0wsVyc3gAZh2kjryl+6jA6aT+5mJ+UibupJCrAIjwrLJ5Nqwvh/9nlrQn+nBP7fhs+WW3pZ1KBebXhyzsgHVmLzTIG8r2ivz/Orh5BNhhwdOJG8qXJ+eVusVa7BWTIcPMXbmMKRYMiHCl2Jfw9gzepVCCro0UeQmcF47bdf97JHsyzQMo+Sl08gMZ6sp4N/w2rzWrac25mqWyEXYYV2OtldrAmmN0ISBFIKnPAMt3GsDDT7ACv5xoTyIzXouvW0njPqiogbbesvsOUenIdr+WIHzLA=;5y9J1oFjKrVD9SshHSzfxA=="
 ---
 

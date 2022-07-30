@@ -48,20 +48,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
-    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
-    publishedDateTime: 2022-07-25T19:20:00Z
-    webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 26
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/RunAILogo2020-03-31_15-07-21.jpg"
-        width: 339
-        height: 208
-        isCached: true
 
 secured: "CTHMJr7UFxxquCVWdM2hjCuJZqVr9R9vjwOcjROGgOgOGIt711rZURh3Znz+3QCOqe7t/fkG8cO2sw8Rf3+PcioC1B4oqEFk7SngUPZ9DY2m6/SxvUJOdRGe0zmNGzHyrSo1WnoNLbk06jAEfeB87C5vHyxQvEg2fQ5rD9/1YUZD+M/ONuxVUCWVGNLJDo4lj9UbOgo+DzT/amAoIUOMj7+Kfg/7NbowdoGP37j/G4kAV/Zj+mWrRAgxJdXJ7FppKHoZYL+ArFYHTDf4hNMd4fYvygxOYtexbSnAw52hy2ZH/9HxdaHkIOVe2Tpj+ppkcB9T7FQx26dha2du7I59b2n/MQmWT9Xdgv6FXHCnrJ4GTK2ZFYybe2XYMBp+EDh4g8j93M27fbA6hgP4b1aYyrUM0ggz1XcZCq/+lu7DPYOibRqaXE2ZmbnUSbrrXGZ5hXEyVz42IfD0/8BeN3GqOZHCqhr44Q30wJfxwcW2KG5+Qy8TUUPhdANemEhDhZy15ycC7JqAaHykpKSuw4U2YA==;agbBGTqE1mAxnBL2+yBWxA=="
 ---

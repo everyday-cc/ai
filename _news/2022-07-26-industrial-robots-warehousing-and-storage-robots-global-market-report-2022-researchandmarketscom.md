@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Chatbot Market Size to Grow to USD 3,411 Million by 2030 Propelled By the Growing Use of Bots for Marketing and Promotion Activities"
-    excerpt: "The Global Chatbot Market size accounted for USD 521 Million in 2021 and is expected to reach USD 3,411 Million by 2030 growing at a CAGR of 23.7% during the forecast period"
-    publishedDateTime: 2022-07-25T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/g28197058/chatbot-market-size-to-grow-to-usd-3-411-million-by-2030-propelled-by-the-growing-use-of-bots-for-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28197058"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28197058"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
-    images:
-      - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-        width: 900
-        height: 594
-        isCached: true
-  - title: "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio"
-    excerpt: "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period."
-    publishedDateTime: 2022-07-26T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9644662.htm"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market worth $4.0 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "The growth of this Artificial Intelligence in Drug Discovery Market is driven by the growing need to control drug discovery & development costs, and growing number of cross-industry collaborations and partnerships,"
+    publishedDateTime: 2022-07-28T17:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-drug-discovery-market-worth-40-/2022/07/28/9647057.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 11
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg"
+      - url: "https://mma.prnewswire.com/media/1868356/AI_DRUG_DISCOVERY.jpg"
         width: 400
-        height: 225
+        height: 234
+        isCached: true
+  - title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
+    excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
+    publishedDateTime: 2022-07-27T13:14:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
     excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."

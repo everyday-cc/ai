@@ -203,48 +203,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-26-google-fires-employee-who-claimed-ai-system-had-become-sentient.md",
-      "title": "Google fires employee who claimed AI system had become sentient",
-      "excerpt": "The software engineer claimed the conversation technology had reached a level of consciousness after he exchanged thousands of messages with it. Google first put him on leave in June. The company said it reviewed his sentient claims extensively and determined they were wholly unfounded.",
-      "sourceUrl": null,
-      "webUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/",
-      "originalUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/kuL9s45cUBrepqnFFlDnTx4Ki4U=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/3OF65XGMJJDEPLZ34MJPEHZ624.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp",
-      "publishedDateTime": "2022-07-26T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "13abc",
-        "domain": "13abc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
       "title": "How to build AI data engines that use the right data at the right time",
       "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
@@ -305,7 +263,7 @@
       "originalUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -442,7 +400,7 @@
       "originalUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -728,7 +686,7 @@
       "originalUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -904,8 +862,8 @@
       "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
       "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
       "sourceUrl": null,
-      "webUrl": "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "originalUrl": "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "webUrl": "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "originalUrl": "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -922,13 +880,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "cdnAmpWebUrl": "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "ampWebUrl": "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
       "publishedDateTime": "2022-07-25T11:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC30 Action News",
-        "domain": "abc30.com",
+        "name": "WTVD",
+        "domain": "abc11.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1172,6 +1130,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-kmart-halts-use-of-in-store-facial-recognition-amid-australian-privacy-investigation.md",
+      "title": "Kmart halts use of in-store facial recognition amid Australian privacy investigation",
+      "excerpt": "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "originalUrl": "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8",
+          "width": 4912,
+          "height": 3264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html",
+      "publishedDateTime": "2022-07-25T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

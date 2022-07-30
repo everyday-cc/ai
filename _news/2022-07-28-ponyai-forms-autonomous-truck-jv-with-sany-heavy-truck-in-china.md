@@ -73,19 +73,14 @@ related:
         height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-    excerpt: "Prototype L4 autonomous truck co-developed by Pony.ai and SANY (Photo: Business Wire) Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony."
-    publishedDateTime: 2022-07-28T03:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
+    excerpt: "Autonomous trucks produced by the joint venture will be powered by Pony.ai’s Autonomous Driving Controller (ADC), built on NVIDIA DRIVE Orin Pony.ai, a leading global autonomous driving technology company,"
+    publishedDateTime: 2022-07-27T19:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "cUVhiTi51IPCqKE/k8fcfBt3qJFjQ7myvW4ZJBsrUY2aPYmntFU/303wDkzmlORX9M1LqT0Oq9TY3uJtOrWMLgnBSiXuT3kLtZo3pK6BYVxkNfb7KN67tdcnZ9gGTeSX6mczpe3EKDXDG0ZsnUbgNMg88o50HPG22naZOqkjpENbhNnQUzQUcg5KVgk5VnyKMtm6weBkTx6RlvsxPjc4IZreh3krqOHGXI8oXLKwbUMJVFeGTvRWXmDmRLiTXgMY2agaHXI2glwumS7+FLkys3o3mx+rF0wv1h9Ig9ofaoqRt8qCtG3Xa5+pg8+1rsoOlOl++AgpBEIrd9jnqTk3sbGqyso41cqHoKHBXcnKZJa/uIRiASzR+lclGGeLAnQJr27Xi4gwKG/m0cI4oKuVbTOXHtPl92VqI5mkFCiclvmoAIZuJ//VV9v8UzGts39mOo3flY+2nYfa+ORkY5YUHUjTmLseYOpjqaqPQGn1fmOgt8rjT56slDBzJjM20KqqSBnrCFSzNlgcMUfXbR2EIw==;Eq3ngdy/8LlUetb78Bk2WA=="
 ---

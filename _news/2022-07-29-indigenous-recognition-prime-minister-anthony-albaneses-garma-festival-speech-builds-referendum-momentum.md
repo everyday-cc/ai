@@ -65,20 +65,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
-    excerpt: "Australian Prime Minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative Indigenous body in parliament. Australia's constitution currently does not recognise Indigenous peoples,"
-    publishedDateTime: 2022-07-30T08:13:00Z
-    webUrl: "https://www.ibtimes.com/australian-pm-outlines-draft-indigenous-recognition-vote-3591780"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/07/30/albanese-elected-in-may-had-promised-a-referendum.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "PM lays path to vote on Indigenous Voice"
     excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
     publishedDateTime: 2022-07-30T01:22:00Z
@@ -160,6 +146,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
+    excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
+    publishedDateTime: 2022-07-30T13:53:00Z
+    webUrl: "https://www.voanews.com/a/6680249.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 4
 
 secured: "z8HLq4wO1AhPqpFRQRtl+oqsXrsbucWEFdqr379UYlFAoulMp7MKOU1lxuHretfO1U8LFuOj5Q9eOftI1L7kDzsIGaQbL7JjLE0eEpaEuas451AvEVKj8CPuhRWqYvh4a8dyYDYyKb4R8sWIpO2n5WbD16kKtuO/wuF0eRfF0AqDMXZm4vvKhoSplDLn5h+8bKAb9sTQGcKRWsL72zMFMupIhQgpmwK2aeZ2iaZTIUMruQQ96PJLcj2DtvN0FAFoAlRbFBusTMZh6m178ZY864B+Hq8BTbHaNPONiOUM7HGY1Tm7WxSmYDb2XBniDCy2Yy6Mb9zsi8ffzh3M6O/howov4VM+quZaps1ZnjMdomf+SRtEl6YDYyGjBNfVlVhdsAT2dSIexkBNs71FKErpqecK/1AU0JUqTbigfSEtJQGWJ5v7/wKweAjL8j9dUuHmfNpNR3yfmcM8cfGevzdKpE6QNZ/gjs2grIXtMEI1aTRgqunUr9dbqWM0BaedSe68V/DdE4iXXHBLPnItQ8CEAA==;mY7hLQB5CCrtDkauGKx+OA=="
 ---

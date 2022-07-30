@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-30T10:39:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech?amp;amp;amp"
 webUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech?amp;amp;amp"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Guardian

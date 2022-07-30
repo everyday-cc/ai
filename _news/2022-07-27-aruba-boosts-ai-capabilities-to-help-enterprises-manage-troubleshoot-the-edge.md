@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Aruba Central Gets AI Infusion To Tie Together Network, Security Insights"
+    excerpt: "HPE-owned Aruba Networks' flagship Aruba Central network management platform will now include a handful of new AI features aimed at bringing together network and security information in one place for partners and IT administrators,"
+    publishedDateTime: 2022-07-26T15:19:00Z
+    webUrl: "https://www.crn.com/news/networking/aruba-central-gets-ai-infusion-to-tie-together-network-security-insights"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 55
+    images:
+      - url: "https://www.crn.com/resources/0277-15b77e0622f0-49d0dd49ccea-1000/aruba_image_resized.jpg"
+        width: 599
+        height: 464
+        isCached: true
   - title: "HPE’s Aruba unit debuts new AI features for automating network management"
     excerpt: "Aruba supplies networking equipment for data centers, offices and other locations such as university campuses. The HPE unit also sells software that customers can use to manage deployments of its hardware."
     publishedDateTime: 2022-07-26T12:39:00Z

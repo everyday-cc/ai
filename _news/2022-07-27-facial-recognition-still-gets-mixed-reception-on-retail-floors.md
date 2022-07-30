@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial recognition: The tool of despair and hope"
-    excerpt: "There is increasing use of biometric solutions like facial recognition to reduce fraud, protect data, and safeguard operations."
-    publishedDateTime: 2022-07-25T20:37:00Z
-    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-the-tool-of-despair-and-hope"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Editorial: Place privacy restrictions on use of facial recognition software"
     excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
     publishedDateTime: 2022-07-28T09:00:00Z

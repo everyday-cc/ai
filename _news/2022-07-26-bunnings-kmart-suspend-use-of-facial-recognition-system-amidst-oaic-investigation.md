@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s facial recognition ‘dragons’ dealing with potential habitat loss, competition"
-    excerpt: "The growth of smart electric vehicles and influx of money from its Hong Kong stock launch will see SenseTime through challenging market conditions."
-    publishedDateTime: 2022-07-25T22:41:00Z
-    webUrl: "https://www.biometricupdate.com/202207/chinas-facial-recognition-dragons-dealing-with-potential-habitat-loss-competition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
     excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
     publishedDateTime: 2022-07-27T12:13:00Z

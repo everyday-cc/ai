@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-26T00:00:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645260.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645260.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "UiFHKcqUUWInNWF0Juuofng5hUaBcYgET+txR68wy2QiQa7qJYID9zTEmUU4lHh8P6/sN42I86Hrgrqu0CJ+DspUSrtITLLyf6AfpnE6WOHWzILw0G+NVfE8gI/z30xBnYQy/HRCfmhJD3ouRPLnjeODGWJ2nbR6RUE3Oy9MZl3SQ3LlWV3UhgysqQg3p17G5QhLuXpY/SrqdS/OpTha+BY+Z0AdMPYFYSi7wXsOHgnsqVAJCh4LO57aBy3G3l2SvEnRvNqi4MbkcvYLAayEzQjI2FNDOAR/ayiMl4g1F1EQoigicJxdnTosu+JAmlvmmss640DmuKeU4iIWKVrYKXGBiP/caK0WwiJjcJUS3ZY=;aLhMm9fR4LOcgLGAex1Uxg=="
+secured: "VJoWV+mLx64WOwSOkluKqf294FeGJZslD0kRyniC0JAz7bcSgc8iyqbEwje6cdhZBt+JLyd+5poYnciLi8yylmX6RQZ3jAyCgBJdfmiVfdvmWEWwgNjN025eHvs+IHjCNIM8fSvCjJ9JRUMGFwC3FMn+b7zEtzyz9USTDYA06S6v/puaAc6KaqT23L2hoMGXJ23q6cf/4ROl9qS2esAG8q0NzdWmAFRsPSyiTt1C7AP7Rdlf+f651lf2egEAuAZ6qUewdhUfMYY+GHXOTSDUAvlw6jzhsRs8DzWbUqq/zglXgFlZQQJXWXCW+yd0dGffX4tu8kD+eJ9bNAm1teDAWkBcv7Nsad9k4WrxcyKHQnQ=;Wfnr7OzjHNKd+hEacf976A=="
 ---
 

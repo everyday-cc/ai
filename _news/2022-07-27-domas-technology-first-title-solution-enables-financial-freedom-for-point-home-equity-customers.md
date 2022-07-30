@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-27T13:10:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/doma-s-technology-first-title-solution-enables-financial-freedom-for-point-home-equity-customers/article_ce0c3eb6-c30f-5805-b4b1-31402dc21129.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/doma-s-technology-first-title-solution-enables-financial-freedom-for-point-home-equity-customers/article_ce0c3eb6-c30f-5805-b4b1-31402dc21129.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Joplin Globe

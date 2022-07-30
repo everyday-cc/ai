@@ -61,6 +61,15 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Missed Out on Nvidia? 3 Artificial Intelligence Stocks to Buy Now"
+    excerpt: "World-renowned semiconductor producer Nvidia is widely regarded as a pioneering force behind artificial intelligence (AI), and it remains a leader in the field today. But AI is a rapidly growing industry with plenty of room for other contributors ..."
+    publishedDateTime: 2022-07-30T11:18:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/9405059/missed-out-on-nvidia-3-artificial-intelligence-stocks-to-buy-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "g21HKWiEZr7GPo1olwy4tqoJCUtTnIaVyL0qUsYXJwBk+s8DGB2B8Nn1FZX+sYntQzaKD1G5EIGvx70jSLHuCu163wrTtRoy89Z/Vb5pjHuPhYh4IzS7334MTMBBwID7D4N2WOP2GSxYfkpNBmx32ZaD53SvYaVR96zdBiQzUHAsABVQSUFYRJrkO9xLDUig6F9dBzffjgyz/zXefWhMy78SwBU2hKBAzH03aoS0o0B1zoWIoD2hNj6odPA8E4J6xokTC62yjDUKreETM9Xf6u8xlLcBqZdTIbBhCGmqQNY+eKRLLyJeqIQFvHSbyS3Bk12P8SDMvVYRY+/tuEJ5dhDAAxRaASCCrId41Z2g8oQ=;cFDpX6zcTk7eB12DIARhQw=="
 ---

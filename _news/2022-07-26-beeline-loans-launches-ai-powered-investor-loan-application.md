@@ -9,7 +9,7 @@ ampWebUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-appl
 cdnAmpWebUrl: "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.automation.com/getmedia/96f112bb-03b3-4d1c-aa23-d5b488a366c6/Smartcow-prod-July-26-2022-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
-        isCached: true
-  - title: "Run:ai Releases Advanced Model Serving Functionality to Help Organizations Simplify AI Deployment"
-    excerpt: "Run:ai, a leader in compute orchestration for AI workloads, announced new features of its Atlas Platform, including two-step model deployment — which makes it easier and faster to get machine learning models into production."
-    publishedDateTime: 2022-07-25T19:20:00Z
-    webUrl: "https://insidebigdata.com/2022/07/25/runai-releases-advanced-model-serving-functionality-to-help-organizations-simplify-ai-deployment/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 26
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/RunAILogo2020-03-31_15-07-21.jpg"
-        width: 339
-        height: 208
         isCached: true
   - title: "Rogers Communications to invest 7.7 billion USD in AI"
     excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"

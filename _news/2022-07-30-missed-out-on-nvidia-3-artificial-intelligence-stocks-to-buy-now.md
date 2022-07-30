@@ -1,28 +1,21 @@
 ---
 category: news
-title: "Amazon announces general availability of its Graph Database called Neptune"
-excerpt: "Neptune Global Database to build graph applications across multiple AWS Regions using the same graph database."
-publishedDateTime: 2022-07-29T05:44:00Z
-originalUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-graph-database-called-neptune%EF%BF%BC/"
-webUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-graph-database-called-neptune%EF%BF%BC/"
+title: "Missed Out on Nvidia? 3 Artificial Intelligence Stocks to Buy Now"
+excerpt: "World-renowned semiconductor producer Nvidia is widely regarded as a pioneering force behind artificial intelligence (AI), and it remains a leader in the field today. But AI is a rapidly growing industry with plenty of room for other contributors ..."
+publishedDateTime: 2022-07-30T11:18:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/9405059/missed-out-on-nvidia-3-artificial-intelligence-stocks-to-buy-now/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/9405059/missed-out-on-nvidia-3-artificial-intelligence-stocks-to-buy-now/"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
-  - AWS AI
   - AI
-
-images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Amazon-Neptune-.jpeg"
-    width: 512
-    height: 288
-    isCached: true
 
 related:
   - title: "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1"
@@ -53,6 +46,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Amazon announces general availability of its Graph Database called Neptune"
+    excerpt: "Neptune Global Database to build graph applications across multiple AWS Regions using the same graph database."
+    publishedDateTime: 2022-07-29T05:44:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-graph-database-called-neptune%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Amazon-Neptune-.jpeg"
+        width: 512
+        height: 288
+        isCached: true
   - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
     excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
     publishedDateTime: 2022-07-26T02:33:00Z
@@ -62,16 +69,7 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
-  - title: "Missed Out on Nvidia? 3 Artificial Intelligence Stocks to Buy Now"
-    excerpt: "World-renowned semiconductor producer Nvidia is widely regarded as a pioneering force behind artificial intelligence (AI), and it remains a leader in the field today. But AI is a rapidly growing industry with plenty of room for other contributors ..."
-    publishedDateTime: 2022-07-30T11:18:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/9405059/missed-out-on-nvidia-3-artificial-intelligence-stocks-to-buy-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
 
-secured: "Q9BEVeSCazlbr5P/on9Zf78Lhkp8gUDcTxNgMZmL/W57n/Y/b2YoYapyMoPX9amMF4xw8nl58Ib70ou23Z7GRjseEtX41nlZ2oBKDxVh9e5D14u00VBoF9jCk2HYolsC2rbD6+U8lhtmv+iW8I4a1ns7Xv7FytnnL7aKi/ZrWF8KIsdbmBtyAHao/kDdfeURikFJ+NM7yaMtKH33kugJndn3SF+VsSalnw/wKWnWEL9+6hQuR84olEpBZdhjgQm282l5BY5i3r/59eMT/E3mibyGGhxV1IR48q9cjQgPSNSN21FL4mNfSO9TTgD4VaTj7JRCFpQJUc/7JzsGddfrNryMsg89twpGxMr6fYOR6cQ=;2CT48REKPAZU82AiekVihQ=="
+secured: "eABQhOQRv5H7HbEJOK+vgd5/NjueQsAEtSuFKrSonRCSRXOxM+/buNQguiN4SWZTm0m0OoRg3n32ffp6erThbKfHj7oxqM+bmKSLNbRmBMGr7hjplNelM/UEPNsO6pyLnzq19vdiKSnDE7DV1YcLxzolB90pQYdsvGM8J7dxYkSACJTjFSiZG1CxwSUQRzvpk7iRcu/TDD/V8NWrmy3Wjh5pfNDyj1+S/nZYLVmhA2OoXm+JOjOOyVG6vTV7x+SVnO9roTYXx9Z5bjsVpWQpl+NbbMWJfcTm1H3Bn8TS41aLQ4yr3yJDviIjKYL5DhlaKZMkutr4v1eJfCqfm0ByYBFUrkA/2PphcO0XnC/V3rQ=;BCvY+PCMXtSlWtbxg1o8sA=="
 ---
 

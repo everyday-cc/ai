@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksby.com/news/local-news/facial-recognition-software-hel
 cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: The tool of despair and hope"
-    excerpt: "There is increasing use of biometric solutions like facial recognition to reduce fraud, protect data, and safeguard operations."
-    publishedDateTime: 2022-07-25T20:37:00Z
-    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-the-tool-of-despair-and-hope"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "Facial recognition still gets mixed reception on retail floors"
     excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
     publishedDateTime: 2022-07-26T21:44:00Z

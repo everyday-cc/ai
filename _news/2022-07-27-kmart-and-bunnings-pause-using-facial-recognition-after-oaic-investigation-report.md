@@ -33,20 +33,6 @@ related:
         width: 401
         height: 300
         isCached: true
-  - title: "China’s facial recognition ‘dragons’ dealing with potential habitat loss, competition"
-    excerpt: "The growth of smart electric vehicles and influx of money from its Hong Kong stock launch will see SenseTime through challenging market conditions."
-    publishedDateTime: 2022-07-25T22:41:00Z
-    webUrl: "https://www.biometricupdate.com/202207/chinas-facial-recognition-dragons-dealing-with-potential-habitat-loss-competition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "FHKObPPElbUtHQFHV+PAT5+mnqcnn4QoOElVGJc7cXLJ9a1D0rp2STyJVshVERzldH7FJI8/pBcfFJ6QQZHgLlbAe7+wjpKEtxnA2WCatkkjJ9lW545+BnZB6/Wt+Et60+sqPCaJJdiozRPAwrVVHFw8ILrsppTrMGSOr8vucztTc3LoSFf2rRfcfeIrl3C9YrTzjXnsNCiLtf4z2n9PHftO5cWoAq6x7d2B66pIrv5p2jB1Tq+t/6ChAGZhUmde2/h3U43ZgIfJQ2yR8WwUW3KE1fcHbuHaoNOSs6jmJEe2FadxKSSjuZUnxLXD3qICSRCKJW+h3DFILndBW0uPX+ZrivMh0CPJ8WVne/PpFbnnpXXhUWvjtbpBt1L+qGdil5nsYi/BwbrxAyLIEH/vLyWqQx19e35sFbLvVhcEE/o9kQIxvvCzsSzajScJcHcM4hhBIiWxm4yVfhlipnrxpCqNthM7tm2PQ1Dv05HsQXXYjsGmAd3DrjM7qZthEDHDD7XaiejLcbkWfVHddLT/bw==;LrAKRH6TQ5K2xem40ZVeZg=="
 ---

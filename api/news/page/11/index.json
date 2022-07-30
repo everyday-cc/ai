@@ -197,15 +197,15 @@
       "title": "As AI language skills grow, scientists worry about accuracy",
       "excerpt": "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation.",
       "sourceUrl": null,
-      "webUrl": "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "originalUrl": "https://www.krem.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "webUrl": "https://www.wzzm13.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "originalUrl": "https://www.wzzm13.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.krem.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
+          "url": "https://media.wzzm13.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
           "width": 1140,
           "height": 641,
           "title": null,
@@ -215,13 +215,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
-      "cdnAmpWebUrl": "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "ampWebUrl": "https://www.wzzm13.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "cdnAmpWebUrl": "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
       "publishedDateTime": "2022-07-17T11:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KREM",
-        "domain": "krem.com",
+        "name": "WZZM",
+        "domain": "wzzm13.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -231,7 +231,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI"
       ]
     },

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.13abc.com/2022/07/26/google-fires-employee-who-claimed-a
 cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/26/google-fires-employee-who-claimed-ai-system-had-become-sentient/?outputType=amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: 13abc
@@ -35,15 +35,6 @@ related:
       name: techerati
       domain: techerati.com
     quality: 19
-  - title: "Google fires Blake Lemoine, who questioned whether AI system is sentient"
-    excerpt: "He had previously been placed in administrative leave for allegedly violating company confidentiality policies."
-    publishedDateTime: 2022-07-25T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/25/google-fires-blake-lemoine-ai-system-sentience.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "XqKLyQ2dXAMjpJa3reUGVSvMSS7kuZ1T9yvI2mnwOnN1soljt9EJxYjLUUtURhGQzoPeCZ65Z92BrE22sIZ1ZW6go9hK/q7VbURermbdv/WO4Bo86OgYOH8NBBA8YH8MxX0O765/8CxC2Y9jlU+mK0T3yV3ztX5Wlv5MORLZPDTsnr6/XQrFmz7Xhj1kdG9vaKxmGE3sXgfEw+nHEgIvUsM0estUMaIGGx7VnEOCfbVlXMLgeuWq7KXgbNxMwGqM7PeTZgCbltNi8ihv+iX2CaR86skKCIkeCbozSPzX39i0E+66iycswL1FYGVXihtV6to1iEyOKWJbSL7cGM1PMkaLIenPh0vVdis0U1gW+gI=;RtlN4i4TTHPgj4ExLrHZ0g=="
 ---

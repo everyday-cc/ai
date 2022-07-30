@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-30T12:16:00Z
 originalUrl: "https://www.smdailyjournal.com/news/local/pacifica-startup-gets-funding-from-google/article_d56e469e-0fba-11ed-b7f5-f7c9c8d01d28.html"
 webUrl: "https://www.smdailyjournal.com/news/local/pacifica-startup-gets-funding-from-google/article_d56e469e-0fba-11ed-b7f5-f7c9c8d01d28.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: San Mateo Daily Journal

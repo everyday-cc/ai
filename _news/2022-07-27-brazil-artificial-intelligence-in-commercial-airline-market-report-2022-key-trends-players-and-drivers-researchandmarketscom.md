@@ -38,6 +38,48 @@ related:
         width: 400
         height: 234
         isCached: true
+  - title: "Industrial Robots (Warehousing and Storage Robots) Global Market Report 2022 - ResearchAndMarkets.com"
+    excerpt: "The global industrial robots (warehousing and storage robots) market is expected to grow from $4.65 billion in 2021 to $4.98 billion in 2022 at a compound annual growth rate (CAGR) of 7.1%. The market is expected to grow to $6."
+    publishedDateTime: 2022-07-26T10:22:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-fanuc-corp-omron-yaskawa-electric-8d792a034b9949fe872ec5e79fce43b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
+    excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
+    publishedDateTime: 2022-07-26T08:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-africa-d369649341184ee987ee99d032095502"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
+    excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
+    publishedDateTime: 2022-07-26T10:33:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-d2eade83fafd40b09211272a31176b83"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Zs2fABe46t5/QAkTizyE1Atn5IooV5stAsN6FT5g2yMAtbMsllpQC6dNB5Fgu7v2JrwAHRr7r6z020u3A4rjd7cGhl3S/2nibbHO5XtyqPmKlhZFmX2RsXlTLtk77ZwAfbrfqjvgip036I9Fc6Lbd4MwlrreSMmW947QJaEp/2OiA8X+/KYBpSJ+J2mVdasCc7GGaY1wQoSwGktv7ictxFS0UKHDJwzBos4ipWfxM0cLL7PXoV4Q9b4OZ74NZy8fUNdHL9lrBvXPeKULUbqtIL1Pg2N2RmqeGbjxe6ujqr2QHmg4Qz9qHOiVr8Rj13o/M/z+vmX+7CCVjHBGiCGfJ3L2FKC29me02mmKoRpj/5Y=;fK0A5MwJvgvE2ZxnB21qfg=="
 ---

@@ -727,10 +727,10 @@
     {
       "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
       "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "A Far North iwi-led media organisation has developed a new app to support learners of te reo Māori improve their pronunciation skills. Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori,",
+      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
       "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northern-advocate/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
+      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -754,49 +754,6 @@
       "provider": {
         "name": "The New Zealand Herald",
         "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists’ concerns",
-      "excerpt": "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220718-steven-le-scao-ai-mn-1040-c489c3.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna38698",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698",
-      "publishedDateTime": "2022-07-18T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -897,6 +854,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
+      "title": "As AI language skills grow, so do scientists' concerns",
+      "excerpt": "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-basics-of-the-python-programming-environment.md",
       "title": "Basics of the Python Programming Environment",
       "excerpt": "Related: Coders, Software Engineers Find Work with Right Skills One of the appealing aspects of Python is its applications in technologies like AI ... language, not a compiled one. An interpreted language uses an interpreter to translate the instructions ...",
@@ -926,6 +917,49 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-as-ai-language-skills-grow-scientists-worry-about-accuracy.md",
+      "title": "As AI language skills grow, scientists worry about accuracy",
+      "excerpt": "Tech companies have been secretive about their AI inner workings, making it hard for outsiders to understand the flaws that can make them a source of misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wzzm13.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "originalUrl": "https://www.wzzm13.com/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wzzm13.com/assets/CCT/images/f6802eb9-b164-4e4e-920b-cc1b7ada28f4/f6802eb9-b164-4e4e-920b-cc1b7ada28f4_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wzzm13.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "cdnAmpWebUrl": "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/nation-world/as-ai-language-skills-grow-so-do-scientists-concerns/507-fa2cf898-e031-4c9d-8d5b-a2288922820a",
+      "publishedDateTime": "2022-07-17T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WZZM",
+        "domain": "wzzm13.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1339,40 +1373,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-gartner-translated-leading-advances-in-ai-in-the-translation-industry.md",
-      "title": "Gartner: Translated Leading Advances in AI in the Translation Industry",
-      "excerpt": "\"We have been working on AI-assisted human translation since 1999 and have developed a variety of tools based on artificial intelligence, machine learning, and automation to support our translators,\" Translated Founder and CEO Marco Trombetti said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-gartner-translated-leading-advances-ai-the-translation-industry-/2022/07/13/9638076.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

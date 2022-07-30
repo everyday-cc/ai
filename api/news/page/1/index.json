@@ -726,21 +726,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-29-cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion.md",
-      "title": "Cubo Ai launches new sleep sensor pad to boost award-winning AI baby monitoring system at TTA Pavilion",
-      "excerpt": "To further boost the safety of newborn babies as well as the peace of mind of parents, Taiwanese tech startup Cubo Ai has launched a new product to augment its award-winning Cubo Ai Plus Smart Baby Monitor - the AI Sleep Sensor Pad.",
+      "path": "_news/2022-07-29-quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion.md",
+      "title": "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion",
+      "excerpt": "Q-bear uses artificial intelligence technology to help parents understand their newborn baby's needs and track physiological condition.LAS VEGAS,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/cubo-ai-launches-new-sleep-sensor-pad-to-boost-award-winning-ai-baby-monitoring-system-at-tta-pavilion-1031627921",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 80,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1868825/image_5019932_7247023.jpg",
+          "url": "https://mma.prnewswire.com/media/1868832/image_5019932_7744838.jpg",
           "width": 400,
-          "height": 281,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -750,7 +750,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T21:25:00-07:00",
+      "publishedDateTime": "2022-07-28T23:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -773,7 +773,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {

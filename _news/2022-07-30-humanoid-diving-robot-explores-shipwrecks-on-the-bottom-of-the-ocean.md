@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-30T13:22:00Z
 originalUrl: "https://www.cnn.com/2022/07/30/tech/oceanone-diving-robot-scn/index.html"
 webUrl: "https://www.cnn.com/2022/07/30/tech/oceanone-diving-robot-scn/index.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: CNN

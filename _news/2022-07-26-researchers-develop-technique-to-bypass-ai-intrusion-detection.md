@@ -23,22 +23,6 @@ images:
     height: 229
     isCached: true
 
-related:
-  - title: "Researchers aim to predict cardiac events with AI technique used to analyze earthquakes"
-    excerpt: "The project, supported by grant from the Canadian Institutes of Health Research, aims to leverage techniques developed by Goodfellow and his colleague in their previous work, which involves using artificial intelligence (AI) to analyze seismic data."
-    publishedDateTime: 2022-07-25T21:03:00Z
-    webUrl: "https://www.utoronto.ca/news/researchers-aim-predict-cardiac-events-ai-technique-used-analyze-earthquakes"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 31
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/GettyImages-182424105-%281%29-crop.jpg?175776"
-        width: 1140
-        height: 760
-        isCached: true
-
 secured: "HGx8I8R1Cb4GaKDpzBPy35mOceaVOErQ7b45YWQy2wHrkj/W56CnsEsialxFK8XrYM2HkqPMLY/ErBloDtNE6H3srqFvuqxU23V8oAATYfBVOrjxR0kwhv9T8lziT/iiRtyP4lktbOt75JzvO+7utnfDtOtg8P0fiMbpGx06sW6x20rRQmyAFrXHcPl8h3KodHlsympN2gxxGaWUjo8iZtZPACJoKAK1FdMzuJCtGniuqPbLfBuWDa/IXl7atP8iOINrNc+YZR9g7oovdxWEGbRxp2pWCTuFTSUOh31I0Ky8hZlmxumKTdr+ZGtIMF2sx6K+Dr1H2SIjTrKufoHGQc2NQt2ez92CGYR4K5q8fRY=;Hv2Y95h2oiW0nWPSZIjKCw=="
 ---
 
