@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-clos
 webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Diagnostic Robotics raises $45m"
-    excerpt: "Among past investors in Diagnostic Robotics are Accelmed, Maverick Ventures Israel, Alpha Capital, and Dr. Kobi and Dr. Judith Richter. So far, including the current round, the company has raised $84 million."
-    publishedDateTime: 2022-07-25T13:10:00Z
-    webUrl: "https://en.globes.co.il/en/article-Diagnostic-Robotics-raises-45m-1001419191"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 49
 
 secured: "x6x5Kmpxej5VP4vcvKuLeTnX+cDvH8c0rXjWnzFOKLquzjFtPCcZGUsBwvcZmhxUcCJmyVvIQC3fKjrOWoTLFfgvANKez/Z/ynRLHgexFeaQrRtuXbvruhZPJ5tblChWXlrlRS2DZYRkmqPv2JH74HxaVSFNseOko1JZwlgITyBpJchnPrbgSeJY8VSkWvKbD81+HFiyKk3ZpHjeAFshkpf8ueTB8QBUeVC/OywqmAsxFqNMA+vlLMayYMWNXong7rU74rs7+7vbul0ZtIvxN+HexS51qgWvEc5sjc0ibu9v9fFQQQeUl1fAUwdgyFOkTkrarpsQjMlSkPUNeJ98F1jX3HQrSiz8e8PpQauAyOQ=;1WlT0RhhiDJftDRpEc87Vg=="
 ---

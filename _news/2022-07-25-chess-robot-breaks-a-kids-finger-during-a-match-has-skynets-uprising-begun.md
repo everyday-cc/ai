@@ -77,20 +77,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 49
-  - title: "Rogue AI? Chess-playing robot in Russia turns violent mid-match and breaks a 7-year-old boy’s finger"
-    excerpt: "The controversy of ‘rogue’ artificial intelligence (AI) has stormed headlines again recently. This, and other events like the Google employee who was fired after claiming Google’s LaMDA AI was sentient, have alarmed many. In the words of the European ..."
-    publishedDateTime: 2022-07-25T14:46:00Z
-    webUrl: "https://www.scotsman.com/news/world/rogue-ai-chess-playing-robot-in-russia-turns-violent-mid-match-and-breaks-a-7-year-old-boys-finger-3781162"
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 39
-    images:
-      - url: "https://www.scotsman.com/webimg/b25lY21zOmE0NWZlMjBiLTEyZDEtNDg2My1iZjQxLWUzMWZiM2NkMzI4Mzo3NWUzNGY4MS1jMmViLTQzNzMtODE2MS00NjdhNWU2YjliOWY=.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Chess robot breaks finger of 7yo child opponent"
     excerpt: "A chess-playing robot has broken the finger of a 7-year-old player in Russia. Video footage of the incident, which happened last week at the Moscow Open, shows a robotic arm in a table surrounded by three chess boards which it can play on simultaneously."
     publishedDateTime: 2022-07-26T01:44:00Z

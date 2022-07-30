@@ -3,18 +3,18 @@ category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
 publishedDateTime: 2022-07-29T20:52:00Z
-originalUrl: "https://www.mysuncoast.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.mysuncoast.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.mysuncoast.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-mysuncoast-com.cdn.ampproject.org/c/s/www.mysuncoast.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+originalUrl: "https://www.wtvm.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.wtvm.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.wtvm.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-wtvm-com.cdn.ampproject.org/c/s/www.wtvm.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
 quality: 66
 heat: 66
 published: false
 
 provider:
-  name: WWSB
-  domain: mysuncoast.com
+  name: WTVM
+  domain: wtvm.com
 
 topics:
   - AI
@@ -26,6 +26,6 @@ images:
     height: 369
     isCached: true
 
-secured: "AD2rfGnVvWMn73cd1d71ODtPUe67/ABWFYrsYQXrjcrG1aAgfFMcH6pcUlMIMQ9b6FwjV+qTO466QNctgcaFLSK/0THvrFYDDtqFKDe4aoYzJkCQQs5tOlZMN9n4hzJvaPYRa/N0SdctyKViOxktTzBBq0TVhHbdkR3JS3++qqjRcMFMvAmvLRuAxryfXIPKj5TltJQ2lX0zmsmRDlFoezkHPVdiTJpd56Grf/f9qFyzF+kCz5n4WKWyhNzW1jTtFRXIWe2JGirq08UjfqtgSAZ3eF/EsppwtdYTOPcCHUtm3MkVf+jal7kBCSGPlEnHkCG4rl/jdliKLFpSRT4GDkyr2CWwM6Q8mUlss8ZhK+E=;z+AhWCV0gJsMafPUbDeF1A=="
+secured: "AU6ahxnGReohvh2z6SneTLiVvSSB7QX5K/eB1Ko2Sf6zxJabtEYPskiPae1iM4U15iofUVxapVVEnzAfTNAgdqet8tv0Y8nmPEHnwz1OLUOKjwhSzWrOkvWWocpgUZxhffQbLG/vlCb0Mp9MhBstbqRdnTjXbS6bUz4R4I+vihGOkykWZPLN0B1d1X45gE7hiDmA0EJaSKafHgR/zg7OmYmJVv9LEWd6lpOLrdBwHhPYYSrvZdXUWgogZ/5Hmaxs9R+WzFItuqZhYFQVbvr40XqukmSVgKH19FVTVcUVbNNmQPBKRD6okGCpKwA/r1EOe6gNWoO/yIy2zVl6T91r5yuKH7bUs4cXG3xDfLgoxFM=;7wo3hsgWOTFOjwjumaC4EA=="
 ---
 

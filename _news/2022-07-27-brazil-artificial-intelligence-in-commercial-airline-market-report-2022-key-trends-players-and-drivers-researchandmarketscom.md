@@ -3,36 +3,42 @@ category: news
 title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
 excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
 publishedDateTime: 2022-07-27T13:14:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Drug Discovery Market worth $4.0 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "The growth of this Artificial Intelligence in Drug Discovery Market is driven by the growing need to control drug discovery & development costs, and growing number of cross-industry collaborations and partnerships,"
     publishedDateTime: 2022-07-28T17:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-drug-discovery-market-worth-40-/2022/07/28/9647057.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/07/28/9647057.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 29
+    quality: 27
     images:
       - url: "https://mma.prnewswire.com/media/1868356/AI_DRUG_DISCOVERY.jpg"
         width: 400
         height: 234
         isCached: true
 
-secured: "k0p+IP1a19Vu3y0n2CGFmm1jPAFrucNl2phpioqSCglYfbvUlQ8+F5n6fD0fhtftJO/WrA/c+PJOy8n7ZCNV5sEbtqfvHTgh360G6uozWoTQWnEmjcAk/2iGig6VIqNxu67khg4WIp2+SK+Napb58+AeA8vIEoJ+dcdwHFm0MVmaC936k2KuL8jxeyl0MaekRchEvspCKsBXM+7SJClqlHbUDXa89/ICJzkZXTcGByhmMXoZLzendvFryXOrS1Ri/61UueIQD6VFv+3cSGAdtliR4iH2STrb5IJMfPMtHCj778yX6xg6U1iyJPQQP6rpNwMfo5Q0s4x5uA7rmNPGchcZyU/LQzjry+muy8h5Cuk=;+wJNKXcMGZW/Q4jTzBFORA=="
+secured: "Zs2fABe46t5/QAkTizyE1Atn5IooV5stAsN6FT5g2yMAtbMsllpQC6dNB5Fgu7v2JrwAHRr7r6z020u3A4rjd7cGhl3S/2nibbHO5XtyqPmKlhZFmX2RsXlTLtk77ZwAfbrfqjvgip036I9Fc6Lbd4MwlrreSMmW947QJaEp/2OiA8X+/KYBpSJ+J2mVdasCc7GGaY1wQoSwGktv7ictxFS0UKHDJwzBos4ipWfxM0cLL7PXoV4Q9b4OZ74NZy8fUNdHL9lrBvXPeKULUbqtIL1Pg2N2RmqeGbjxe6ujqr2QHmg4Qz9qHOiVr8Rj13o/M/z+vmX+7CCVjHBGiCGfJ3L2FKC29me02mmKoRpj/5Y=;fK0A5MwJvgvE2ZxnB21qfg=="
 ---
 

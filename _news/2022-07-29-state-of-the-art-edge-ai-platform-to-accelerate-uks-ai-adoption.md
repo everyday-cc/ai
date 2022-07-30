@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Maris-Tech Launches its Flagship Product- The Jupiter-AI, a High-End Multiple-Stream Video Platform with Edge Artificial Intelligence Acceleration"
-    excerpt: "Maris-Tech has already received initial orders for the Jupiter-AI as an OEM (Original Equipment Manufacturer) solution and as a ruggedized platform within enclosure (the Opal), as well as for its derivatives,"
-    publishedDateTime: 2022-07-25T13:03:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/astronomy-science-technology-jupiter-middle-east-f87dc4132786b79d7a4b500a665234b6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "/7/ciJwhyWTQH0chB8eaUEWiTOlZm4jORJcFwYz6tXEaPdImYmH49SyytgtdWv1bj19coBCO77GfFHlfDLEzT/9xEG0xxgIQqUjRu4gF/kiTeq6lX1mqblkhwmmPzAIqtgzN+YOIVayStKzBosa9GGpMmkP8EuOZTY0pcXPtaYgpzI52v7Ndvkhs13Uj/GFBJAEPAwWC+0TUnZ1hubS8ZAZDYkwL3FOAzsszFjYFVTvnvZ6tErum0iHlgVwSyUIL8HSXPGIZfuNex9vL6hKDKqf+z49C9W3LxyePnl48nIXVumnTFpCmO7m9nbZoIUti7PrxnyHHS2FtEMRJHSL+h33O3W1zSqozmIyWSirNFKaGnzE4iBR6eHoQXhHYaN3qGPHaKDdy2wlas7cpVJORCqIu/JKani1hSCovnAYW45+dvGehqk0+oGg6PJIPaxGqmJxkj/8G2/wGxxVu4oZAoQQeH9QHtU+eo5y/5pBXtLa1+3RbjkwzCv6GdYa5+mkBbbiTpH3PJFClQzo0RciBWA==;pNcePgiJ09x7Ai4yNsqAaw=="
 ---

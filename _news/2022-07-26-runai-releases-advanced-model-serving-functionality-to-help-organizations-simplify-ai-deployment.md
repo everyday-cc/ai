@@ -64,15 +64,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 17
-  - title: "Eccovia Launches ClientInsight, an AI-Powered Data Warehouse to Improve Social Service Delivery"
-    excerpt: "Eccovia, a leading provider of cloud-based SaaS solutions for the health and human services sector, announces the release of an unprecedented data warehouse and community-analytics platform, ClientInsight."
-    publishedDateTime: 2022-07-25T13:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-ai-powered-data-warehouse-/2022/07/25/9644099.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "mRhfyQLNkycmGN8kX6r3MPmgPXypa6rRrwJF18jPpQEEgp6QCXv6UM4VSLyj3cWhA2q+Jv00GWI6ixZjDFz1NVasyVWXxNE1TiJqA5CGa8RS9HTOfasLDFnZWRE3hJhA1HGb5ja60WqIVXrCLNVqssWq5x6WmIUd+ZMw28YPY8oppwN6UbhXc7dEj9JtHCXhHkG01eD1Pu3r0beL9MmLn+ACiTgzUSfVF7IJdj7gEJlDnO3B9A0fHx+f41uiicmp8reRQbPFCPjUuyX681S0UoHkGn38yki7NTcntI3OefiPF8ZW7Dm7VSMEDxd23PCMPYJjw63Nd7CabHJDubPqJg8x/21P8Qeq8/+PhrZO5wZaaMrQcDGf6UjKRMZ9alNnYn5O8YZxkRtBK+ooMLQjCTjG/7aIvRxnKSZEVX7xfB2bp8Mifps+Hg9MtSPmL2M6mYsVIzo6GmLBFZ+f3cHT3O+NM3QAnm1JWoUC0wzMPbKEbi9U25P/j/Ua+2ESqjc/NVKJ4s9xmNpVJ5j4cdxhGg==;YgTIIeG4DLTedTPxqOwe8g=="
 ---

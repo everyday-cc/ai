@@ -27,77 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Kmart halts use of in-store facial recognition amid Australian privacy investigation"
-    excerpt: "July, a month after the consumer advocacy group Choice learned that Kmart and Bunnings were testing facial recognition. Bunnings had already paused use as it migrated to a new system. Other Australian retailers,"
-    publishedDateTime: 2022-07-25T14:01:00Z
-    webUrl: "https://www.engadget.com/kmart-bunnings-stop-facial-recognition-131935278.html"
-    ampWebUrl: "https://www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/kmart-bunnings-stop-facial-recognition-131935278.html"
+  - title: "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance"
+    excerpt: "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech."
+    publishedDateTime: 2022-07-26T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition"
+    ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 82
+      name: Protocol
+      domain: protocol.com
+    quality: 61
     images:
-      - url: "https://s.yimg.com/os/creatr-images/2020-02/ab7a0df0-4bb8-11ea-b7dd-8bf29e9a20d8"
-        width: 4912
-        height: 3264
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Facial recognition still gets mixed reception on retail floors"
-    excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
-    publishedDateTime: 2022-07-26T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
+  - title: "New Orleans Mayor OKs Police Use of Facial Recognition Technology"
+    excerpt: "Many jurisdictions have banned the technology, but it may be enjoying a comeback because of the crime surge. In New Orleans, the software has raised privacy concerns for years from the New Orleans Council,"
+    publishedDateTime: 2022-07-29T15:05:00Z
+    webUrl: "https://thecrimereport.org/2022/07/29/new-orleans-mayor-oks-police-use-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
-  - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
-    excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
-    publishedDateTime: 2022-07-25T23:53:00Z
-    webUrl: "https://www.bandt.com.au/bunnings-kmart-suspend-use-of-facial-recognition-system-amidst-oaic-investigation/"
-    type: article
-    provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 48
-    images:
-      - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
-        width: 401
-        height: 300
-        isCached: true
-  - title: "Editorial: Place privacy restrictions on use of facial recognition software"
-    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
-    publishedDateTime: 2022-07-28T09:00:00Z
-    webUrl: "https://www.newburyportnews.com/opinion/editorial-place-privacy-restrictions-on-use-of-facial-recognition-software/article_4349b4bc-084a-5b53-85f9-13e0841d0b18.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Our View: Place privacy restrictions on use of facial recognition software"
-    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"
-    publishedDateTime: 2022-07-28T09:00:00Z
-    webUrl: "https://www.eagletribune.com/opinion/editorials/our-view-place-privacy-restrictions-on-use-of-facial-recognition-software/article_cd4f4d60-0de3-11ed-855a-0fbaaddd80f3.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
+      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
+        width: 720
+        height: 393
         isCached: true
   - title: "Kmart and Bunnings back down on facial recognition after CHOICE investigation"
     excerpt: "Two of Australia's biggest retail giants have paused their use of controversial facial recognition technology in their stores following a CHOICE investigation and weeks of public outcry. Kmart and Bunnings,"
@@ -113,15 +71,24 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
-    excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
-    publishedDateTime: 2022-07-27T12:13:00Z
-    webUrl: "https://www.medianama.com/2022/07/223-australia-information-comissioner-kmart-bunnings-facial-recognition/"
+  - title: "New Orleans mayor signs it: cops can use facial recognition"
+    excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
+    publishedDateTime: 2022-07-28T21:27:00Z
+    webUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 28
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+  - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
+    excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
+    publishedDateTime: 2022-07-27T19:31:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21275564/new-orleans-city-council-approves-police-use-of-facial-recognition-reversing-earlier-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 10
 
 secured: "2mQMwlwyPkNQduH0wTZ556IEA69Kn6TdLVJZ3dPrURkdOsTCTBGcBxYXq95ZzNVdJRRS4PtufkpiUVdQIGo5na1a1Y/Dr2H2l25xmskMIJVX9eCrxTNqAv/IJMEYe0YsNMU84rwisXxBI6SbAVvQO6nvNwAT8zasiN2LZijinzAh5mq9/SGyk6TM4kkAcbX4GFQznGeedeqoOL8CyfgMqqKoI+TUT1KAlTBs78t9Nka453USilsusUTkM99tmM8vPhGGs5YGUwoRJl8xUfWoSwO03KB0rzRluTnmYpD5hoTv05P3wjKDreEg0iAWx/q58ARzABFQYSi+QPHNr6PFumUyOaLpPmPaecWLeK2LaBI=;Lp6ep9EffpqDbptxz2MDZw=="
 ---

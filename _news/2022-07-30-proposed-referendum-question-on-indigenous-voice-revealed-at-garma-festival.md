@@ -69,6 +69,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
+    excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
+    publishedDateTime: 2022-07-30T04:50:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/1103bbefb1465c83b00323f57c31c3ea"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "a4ONuIze8Q9rabWO5lesjT6HBVvrdW/JQrOVtzlrmPT+rvoNUEbDst06OoS27c6k/tU0zXnxN+iNLMnTSEBFK2ywZyezn6hIx88tsH6DVH24S8b1rsSXsFTdsRV9pMp1ffoFtAttpQk5BfD3eSHON7DSicCd/FSm7abYNQwuaCStyES94wMASCdf0fC8DXWnNwA+eosqh74oCIVqmNaGrIubSZecWj7Zymvq7JjGvbFy6ozwRh8RVPD+VYh2bUlNiBisieV7UCzKO3z4FwpcTs9DfIaUnGIvkeImwPQpe1QDUtCw670xkoXzRH5aNshGtB76T7Mjiyze1aw/o/8WZwJg1P6a77Gvv3SWxAtXNKTuZzTc8aHXCTY+uItguevGxB9RgsHEE7EKJWV+d3UH/Hi8ZcVHvPI5Xddi0iIK9EmPaYPuQ7FRZ0tiynH4E1by8LQ0+pBf9JJBrp59PEWlXOsb1VHliUjEOwQs+CIikeyRoG5ymcFlRUwbI6niYIa+2PulGhhJvhWwYeVyP7sRfw==;yB+Uuhz9Ph/N6UgQzYqJrw=="
 ---

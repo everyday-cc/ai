@@ -62,15 +62,6 @@ related:
         width: 339
         height: 208
         isCached: true
-  - title: "Eccovia Launches ClientInsight, an AI-Powered Data Warehouse to Improve Social Service Delivery"
-    excerpt: "Eccovia, a leading provider of cloud-based SaaS solutions for the health and human services sector, announces the release of an unprecedented data warehouse and community-analytics platform, ClientInsight."
-    publishedDateTime: 2022-07-25T13:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-eccovia-launches-clientinsight-an-ai-powered-data-warehouse-/2022/07/25/9644099.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
 secured: "CTHMJr7UFxxquCVWdM2hjCuJZqVr9R9vjwOcjROGgOgOGIt711rZURh3Znz+3QCOqe7t/fkG8cO2sw8Rf3+PcioC1B4oqEFk7SngUPZ9DY2m6/SxvUJOdRGe0zmNGzHyrSo1WnoNLbk06jAEfeB87C5vHyxQvEg2fQ5rD9/1YUZD+M/ONuxVUCWVGNLJDo4lj9UbOgo+DzT/amAoIUOMj7+Kfg/7NbowdoGP37j/G4kAV/Zj+mWrRAgxJdXJ7FppKHoZYL+ArFYHTDf4hNMd4fYvygxOYtexbSnAw52hy2ZH/9HxdaHkIOVe2Tpj+ppkcB9T7FQx26dha2du7I59b2n/MQmWT9Xdgv6FXHCnrJ4GTK2ZFYybe2XYMBp+EDh4g8j93M27fbA6hgP4b1aYyrUM0ggz1XcZCq/+lu7DPYOibRqaXE2ZmbnUSbrrXGZ5hXEyVz42IfD0/8BeN3GqOZHCqhr44Q30wJfxwcW2KG5+Qy8TUUPhdANemEhDhZy15ycC7JqAaHykpKSuw4U2YA==;agbBGTqE1mAxnBL2+yBWxA=="
 ---

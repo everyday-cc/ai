@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-rei
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
+    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
+    publishedDateTime: 2022-07-26T17:49:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Nvidia Speeds Up Large Language Modeling"
     excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
     publishedDateTime: 2022-07-29T14:42:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/44658024474_23169e4910_b.jpg"
         width: 1008
         height: 672
+        isCached: true
+  - title: "NVIDIA Announces GA of AI Enterprise 2.1"
+    excerpt: "which enables affordable GPU sharing.” NVIDIA said the updated version enables customers to stay current with AI development and deployment tools, along with support and updates from NVIDIA. Support will continue for those relying on earlier ..."
+    publishedDateTime: 2022-07-25T18:45:00Z
+    webUrl: "https://insidehpc.com/2022/07/nvidia-announces-ga-of-ai-enterprise-2-1/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "kxsKAiVyt6EDr/e4/764d+y7otFruNNCij+UxygTbX24VQvLZphBLL5gNnIY15NztM1RJosm+Yb4DrvQg7hV9vlB40cVjBbvaYSoQoJPt3dxPIjmKmhzDYs5mm0IQvhG4j/SklkW/cQecAFqFxYjZikV2q0hofpjcqweIxTuCIsrSB9IWmWKlDJ6mwxhRpYtlCLp5oKuX7hJNFd1P9/hJoRGQge32ASGCx1mLUN+CE+EGA3cbeQX4yfUST116xyeTDm6FUVMVGQ44Y0fHqXbaCabkIq1845a5zS/By0lGwX41WRyXRzsCbNcFudiTGB6xejCp4LpYEDmlOTW0R1LZK0HIWfowQA/N4CCJu5bJxLHfcDPMTrx6f6dx0uG5AZhOrFsaksTNk+p+ysMpRcxvCeOG5zJpSV8xkQ84CbWIKfW8uZlcYsSewiPBdJb2YepSXzXbb3kc0tH+aPQKPCmOMRfJAB7MeqRKUm0qZk9EobVDLgN4wf4agVLqXV6RwptLjTTWYK4WRaiVWMicH+M4g==;oYQOE14g3yNAl0wPyfokQw=="

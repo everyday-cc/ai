@@ -46,7 +46,7 @@ related:
   - title: "Resecurity Expands AI-Driven Threat Intelligence in Peru with CFBD S.A.C Partnership"
     excerpt: "Resecurity, Inc., a U.S. cybersecurity and intelligence company, announced its partnership with CFBD to expand Resecurity’s AI-driven cybersecurity solutions and services to Peru. Based in Lima, CFBD is a leading distribution company specializing in engineering development and IT infrastructure for electronic security and artificial intelligence."
     publishedDateTime: 2022-07-29T22:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-peru-artificial-intelligence-d4919f44f7cfe8557c1d7f1fa4e54af5"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-peru-artificial-intelligence-d4919f44f7cfe8557c1d7f1fa4e54af5"
     type: article
     provider:
       name: Associated Press

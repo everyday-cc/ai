@@ -26,72 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia AI Enterprise 2.1 bolsters support for open source"
-    excerpt: "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases."
-    publishedDateTime: 2022-07-25T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/"
-    ampWebUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
+  - title: "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models"
+    excerpt: "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ..."
+    publishedDateTime: 2022-07-28T17:38:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
-        width: 1200
-        height: 748
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200"
+        width: 638
+        height: 310
         isCached: true
-  - title: "Your Nvidia GPU could one day make your AirPod calls sound better"
-    excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
-    publishedDateTime: 2022-07-25T13:18:00Z
-    webUrl: "https://www.techradar.com/nz/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zT87RgQt7jyquSQckH9P4W-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1"
-    excerpt: "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool."
-    publishedDateTime: 2022-07-26T14:03:00Z
-    webUrl: "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 71
-    images:
-      - url: "https://sdtimes.com/images/sd-premium.png"
-        width: 628
-        height: 246
-        isCached: true
-  - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
-    excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
-    publishedDateTime: 2022-07-25T13:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/how-nvidia-is-helping-telcos-take-advantage-of-artificial-intelligence/"
+  - title: "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster"
+    excerpt: "A transformer in the AI world is not a robot that turns into a vehicle, but rather is a type of technology used in AI deep learning models for natural language processing (NLP). The Nvidia NeMo ..."
+    publishedDateTime: 2022-07-28T15:01:00Z
+    webUrl: "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/"
+    ampWebUrl: "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 47
-  - title: "NVIDIA: GA of AI Enterprise 2.1"
-    excerpt: "NVIDIA today announced the general availability of NVIDIA AI Enterprise 2.1., an updated version of its AI and data analytics software suite designed to help enterprises deploy and scale AI applications across bare metal,"
-    publishedDateTime: 2022-07-25T18:38:00Z
-    webUrl: "https://insidehpc.com/2022/07/nvidia-ga-of-ai-enterprise-2-1/"
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all"
+        width: 1200
+        height: 645
+        isCached: true
+  - title: "Nvidia Speeds Up Large Language Modeling"
+    excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
+    publishedDateTime: 2022-07-29T14:42:00Z
+    webUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/"
+    ampWebUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 46
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
+        width: 888
+        height: 417
+        isCached: true
+  - title: "Nvidia upgrades its NeMo Megatron development tool to speed up AI training"
+    excerpt: "Nvidia Corp. today introduced a new version of its NeMo Megatron artificial intelligence development tool that will enable software teams to train neural networks faster. In particular, the update promises to reduce the amount of time necessary to train advanced natural language processing models."
+    publishedDateTime: 2022-07-28T15:00:00Z
+    webUrl: "https://siliconangle.com/2022/07/28/nvidia-upgrades-nemo-megatron-development-tool-speed-ai-training/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 41
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/44658024474_23169e4910_b.jpg"
+        width: 1008
+        height: 672
         isCached: true
   - title: "NVIDIA Announces GA of AI Enterprise 2.1"
     excerpt: "which enables affordable GPU sharing.” NVIDIA said the updated version enables customers to stay current with AI development and deployment tools, along with support and updates from NVIDIA. Support will continue for those relying on earlier ..."
@@ -107,29 +102,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Nvidia’s AI Enterprise 2.1 makes running AI models ‘simpler’"
-    excerpt: "AI Enterprise 2.1 promises more accessibility across hybrid or multi-cloud environments to support AI. It adds support for Red Hat’s OpenShift, the software family that features a hybrid cloud platform as a service,"
-    publishedDateTime: 2022-07-26T20:12:00Z
-    webUrl: "https://www.crn.com.au/news/nvidias-ai-enterprise-21-makes-running-ai-models-simpler-583206"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20220727071246_0_0_0_0_70__News_20220218090141_crn-14_nvidia_sign_iStock-502379459_(1).jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
-    excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."
-    publishedDateTime: 2022-07-26T02:33:00Z
-    webUrl: "https://www.tweaktown.com/news/87575/amd-teases-ai-based-noise-suppression-tech-fights-nvidia-rtx-voice/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "qnnGV1IZJBV7IwBRP9mWvSH66tOYWRavneG9Vr8qWaGbIVpJbQw1CSBsvy8MKeeaEG6UNTLtk1r2KQY86udjOWaXEjTmylD98rlAUReloTF8bjyYzBlmkxaV3CYd1eqD/1jjkgtRAdc1WXgiH9XcShPDGigH+5pV9/T8OZ/vHHmliXCcDoiBwiJSvJ8AwUr82fKCHZxmSFg/kn7ugnmDxRNlHFNKOo1ue6N+zLqWZuLYwXSaALhg99L4PRwgkMiguXAXMwnjT9CwUxW4Sa6FfeOoP816wMGzOHqTgyuVSILeS2xIiv3asWqsRKw8l7WXB6f0sCfbNaECcZiyWrh9JCGg3FETBIzAkDqCMnqwuVXDYejPNnnrt0ypo0xHvcQ/npVz5v8YlWaGootF2+wCJvI8ZGYF9pvKDgrLXNoOmboNQdwwFWEvLC17wN2gDLbFQhK+1le8wO0T91Ga1KrN/NiwJjEx0wA6nk/l2hzwZb9OrccusTwf8TxfLDyJINwl+XcHEdNmrAWiCE/CumNzIw==;fFaAhNH6DnqHR0LcC52eVA=="
 ---

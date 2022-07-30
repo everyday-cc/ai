@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
+    excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
+    publishedDateTime: 2022-07-30T07:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
+    images:
+      - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
     publishedDateTime: 2022-07-30T02:30:00Z
@@ -67,6 +83,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "HZdFRTA9e0N5IDRrIs/DwWkgAzRdNs37v957xBNBd9MtQDFFlhRY1gVb3L6R6dD2zRNT3JWi5RxKUJLP7k0S15XhAHmWo8eigNRMlvqiAffuBwS22RX6I/rkkka56P4wTU2gZftkRdPxVbHP6gc0C/PV79bJFb0aHsvM3QbnEGRn5pRHNdTHwIzTgPmRS3cbwZXgUk0H9KUhoYeqkXuqC+YXxbIvhBmgVqSgEl08f8N6TUfa4m5AL4YFvDAg0UonQAyBgmCCVwnW/h3Ta2bm+EGGbNSpv3LLJHs9cC5L9a86j20JUYNWEXwKJJFSRv77+/Bw9yzAzarT4jM6WUHkOfJtwxHqJeIhAqJhtBC+AVo=;mWWetsyF7ecEY1jrZ6m9HQ=="
+secured: "SRYecXy5zv+zGQNr+ZEvfZUz0UisxceZcOjtRhkOWFm0QwPbvh/t9WscSeFHnlV9cQlf2lK1SLCJ+yCrDhO0gY8LJD8iH77+sVBOI/qk7167Nbw9RT/GGVC9J6aET39dstvBXQ5OdiRWrupiBmtsGlnBX7tpHAJNzwh4Tw4AD7ro08LoTEamsvwdyE07ztBdRnEc+d/9nrUgjEpxpoNr0MixOI95//5FzWZfjOThsnpyl2fktMKLeQSBsAAVGiMa1ywNOU3BlUpzjP44odfHL4ePTHsypG+emehXvgH8ZL0/JzGx5fRWlxVq/BTAnjNM0/A+QCBQVi93Zb9VM39h9wheoKWTQCl1sN12R73UgN1P8zRkK7z5KarZsC1hLB4DD1pvtrLqz5mpGHm+7a1XjGXz6/esAIhUX5Sp/QJv944nWaPCMtTaPP7Y7nNaWavkuKFGomQ+ulkcu0WQo+yFO1fBvoZRd0DIEOEv1mxyMb2c2kP5krROmH4CoUYgm5u9wP7Z/VXJAv9oRhP+W96o5A==;jMS2e4sxYmzykNVrACNZlw=="
 ---
 

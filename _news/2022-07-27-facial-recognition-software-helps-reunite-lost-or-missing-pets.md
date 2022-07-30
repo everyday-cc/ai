@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ksby.com/news/local-news/facial-recognition-software-hel
 cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 99
+published: true
 
 provider:
   name: KSBY 6
@@ -40,6 +40,48 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/12141334/face-biometrics-smaller-scaled.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Facial recognition still gets mixed reception on retail floors"
+    excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
+    publishedDateTime: 2022-07-26T21:44:00Z
+    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
+        width: 1454
+        height: 800
+        isCached: true
+  - title: "Editorial: Place privacy restrictions on use of facial recognition software"
+    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
+    publishedDateTime: 2022-07-28T09:00:00Z
+    webUrl: "https://www.newburyportnews.com/opinion/editorial-place-privacy-restrictions-on-use-of-facial-recognition-software/article_4349b4bc-084a-5b53-85f9-13e0841d0b18.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Our View: Place privacy restrictions on use of facial recognition software"
+    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"
+    publishedDateTime: 2022-07-28T09:00:00Z
+    webUrl: "https://www.eagletribune.com/opinion/editorials/our-view-place-privacy-restrictions-on-use-of-facial-recognition-software/article_cd4f4d60-0de3-11ed-855a-0fbaaddd80f3.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+        width: 600
+        height: 333
         isCached: true
 
 secured: "AdLq6r0VOI1xpY0tC7AP8ASqOm6nutSGMsEyh5tvvj/lkgatPA+5o5UDBb1jFV1AwKum6vJOBUX5Y3MtnczkN3czdxqRMS/AWHsXOZZCN3k5FWLcZLl5Sd4qYWxmKZBTCRDQoVxrEIl2mOXyBAB6+2QC7ZWN0LtlbKCfKQNa013mi2HtoWCi6nJj/VGvq1lmE6Lx+l7bcUQlOSQ8iIPrjcgBK2CGdgFQCzkLGtdvXfLJuFDnOgLFSIS8qNBnMJd7hCt9sLPZA/D+OOrPZ9SBp4pYLrKFDubqZjsD84zvEycMFBif5WSV+aymp9DyD4jcI+oY5ZWvgxcqcdMtVg9uR16f0CCmfEsukTGzLJTvc2puTwh3JUAK/Ta6a+zzgO3n8YvhB+rL7R2ElOpQUp8hkPw63GNuX1SJTcqA8WURwUji3tkRGKy7eM4tJS2/MKSNWdEhL7m1QMwcbKfmjJMMHIIl0SrA2x/L6VA+h52ytYQCTi6mSgAVDXmKg/JIRNl4ZV+ttpYHm9a6RXJoG7BAkA==;ryQ77+DkQ3sp1WpBEBRaoQ=="

@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 645
         isCached: true
+  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
+    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
+    publishedDateTime: 2022-07-26T17:49:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 57
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Nvidia Speeds Up Large Language Modeling"
     excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
     publishedDateTime: 2022-07-29T14:42:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
         width: 888
         height: 417
+        isCached: true
+  - title: "NVIDIA Announces GA of AI Enterprise 2.1"
+    excerpt: "which enables affordable GPU sharing.” NVIDIA said the updated version enables customers to stay current with AI development and deployment tools, along with support and updates from NVIDIA. Support will continue for those relying on earlier ..."
+    publishedDateTime: 2022-07-25T18:45:00Z
+    webUrl: "https://insidehpc.com/2022/07/nvidia-announces-ga-of-ai-enterprise-2-1/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "36uAckt/GzW9x88ymkhszAVo06zZ0TyZVcsjyEjfB3zpcn9gwuRJEG0VXB7LwxnUmJBSExT08AK/HnuceHZM3DqbeH+UT88fiM6cwBpKm3PE8+wduJq557OfpYzSDkhZOMGM5d3Co7+LIKeWsXzk+cXfdm3TfT1xUvx9MF14I83UsY4M12RDC6mcN2YyBU6+WFOQIl8Riak4JL/PbAsU4wiyHEln0rz3QoT0qqKEB0cKFLx8wLFHcDCDCRP2prFQmDR/j+IcU77pVa+ht95zPsdhflX0i7WdhLrA8c1omb/JvB07kNW3c+mT4W4yjWvQIhtvT1cba2uHyjGMtUVr3AfjUuJWSPIU2ruMBrZt09mduP9mrlM/Zpwj/FTHw6gB0f8cHpMaMtATdYyNoK7NMzFoA3fgRURcUR8y2H26TF2DduY4KlptMldYr5KwK2vjPU7JT/bLdkkUIwGx8W37T3S0/w+sgJvESvxKwNDSNALdCoiGLdCM6jhKpGyxyTIngBcp+iFV0yUp4gG/fwCgiQ==;5sRmTdJIIZA3ruirwGiODQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/canadian-telco-rogers-t
 webUrl: "https://www.datacenterdynamics.com/en/news/canadian-telco-rogers-to-invest-c10-billion-in-ai-testing-after-massive-outage/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 470
     height: 247
     isCached: true
-
-related:
-  - title: "Rogers Communication to invest C$10 billion in AI, oversight following outage"
-    excerpt: "Canadian telco giant has promised internal transformation after a network-wide blackout caused major disruption in Canada earlier this month"
-    publishedDateTime: 2022-07-25T13:44:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/business-transformation/368635/rogers-communication-to-invest-ten-billion-ai-oversight--outage"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 44
 
 secured: "+bxBWYTVhZMSmZ20SbgkFcBmESmXLvMEipHOF4P8vYCIX3T6dzUsucvKrN/4nGFkSUsCcPyicITluw7CBZxJ7TPPxxRrIBMfADx7QJdoA+NwNOVxxnp5BRFIyHJs64bztOE6mJFtwAss9eyMEvSk/VRB2RRqIcztkrtiLklHUlqsSO5n4XZ7QP7zOGYcI4AzslNjX1chxo9DwYCUBv69WB4GIrrRz4AP01GVInBeEFR5Jx5qgccrVPFd2iveVUZMto73ehOwQU96/TmFERscliYehN9tOe6xg4kEN7YdnFW4sZimc/af47KhvyvIBhFPWtUnOgY2Y+Nx6YbE+GvbE4yq/U+pUgDm1uM6adqLHVRPsHLN0Dx6pSzGYvnEY8F0vYtuluOSJwazG5aP/heVlHbB/kySjPpehKZFZsGWtaToI4Dqa2pkXRgyjha9u6+OOeLinvq1goHhSvLm+WFgke7jJWiOgZi9fP/ZkpBSkwxiC22cwPGqC7RRjcjvzw4IgCqRWHGr5hFZt1Zx3+O2fw==;BshZ6FKRXz5taYrLVkHsXg=="
 ---

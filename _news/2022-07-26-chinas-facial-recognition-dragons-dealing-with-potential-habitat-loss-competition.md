@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202207/chinas-facial-recognition-d
 webUrl: "https://www.biometricupdate.com/202207/chinas-facial-recognition-dragons-dealing-with-potential-habitat-loss-competition"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 2048
     height: 1366
     isCached: true
+
+related:
+  - title: "Bunnings, Kmart Suspend Use Of Facial Recognition System Amidst OAIC Investigation"
+    excerpt: "Following a report from consumer advocacy group Choice that revealed both Kmart and Bunnings were taking biometric information regarding their customers and an investigation from the OAIC, both companies have now announced they will be temporarily shutting down the facial recognition systems."
+    publishedDateTime: 2022-07-25T23:53:00Z
+    webUrl: "https://www.bandt.com.au/bunnings-kmart-suspend-use-of-facial-recognition-system-amidst-oaic-investigation/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 48
+    images:
+      - url: "https://d1dlh1v05qf6d3.cloudfront.net/information/uploads/2016/02/bbc-facial-recognition-study-1.jpg"
+        width: 401
+        height: 300
+        isCached: true
+  - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
+    excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
+    publishedDateTime: 2022-07-27T12:13:00Z
+    webUrl: "https://www.medianama.com/2022/07/223-australia-information-comissioner-kmart-bunnings-facial-recognition/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 28
 
 secured: "CK9igkleCJfx0PvbGnm42JVz7gva98HKfQyTGKhZjbL4FPch6oDFSMB44u95XoQXVtDKWpdkdPUJSbLq2wRnvQc+ROMEU5Vc2K/zePFRSOtRs0tKFD6kgnlDQf69/I1eABpo1clvq9o8oGyUuBYHbeN+wcGID4+iKR8Aoss8mZaY5KXTUgg5sIWvk7u+Exf9saGYY7jFJVvpyudXZpQFcde5y0RxacYXor/bPhw+TC4qTirU0PJwdRSMTC3kItGtuwTPr43mJuIQ/6E6m1nf9/GPNqnt+aFMOonM9EP9oow0EWD+wAD7buGcD+kq7imMB1wMg8ttjy2jj4X00Fz14mJIUnXBDWde0HTeUzHuq90XF1NR5DFRJQXJkNDlwYJNW7IX3n5Sm+YkkIm6F6nRnoby1BDLbleoJi7WmN8PdNB9muQnzzHsLTcWsqP3hrtiI4TR4jbdk3xEHYLz/jOEVEHIkAt1lqaAagXQGLwJ3aBBuLE3K96J/HtOpCl94+4EZX1koMsyKk5JCNi7GcSIUA==;ZnCVPPtuHZpBwRXN8mdyjg=="
 ---

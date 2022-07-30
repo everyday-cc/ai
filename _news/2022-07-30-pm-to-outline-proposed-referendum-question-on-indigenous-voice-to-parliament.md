@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
+    excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
+    publishedDateTime: 2022-07-30T07:23:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
+    images:
+      - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
     publishedDateTime: 2022-07-30T02:30:00Z

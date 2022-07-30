@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia AI Enterprise 2.1 bolsters support for open source"
-    excerpt: "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases."
-    publishedDateTime: 2022-07-25T15:00:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/"
-    ampWebUrl: "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all"
-        width: 1200
-        height: 748
-        isCached: true
-  - title: "Your Nvidia GPU could one day make your AirPod calls sound better"
-    excerpt: "A small group of computer science and engineering students at the University of Washington have designed a new set of wireless earbuds that use AI-powered technology to provide a better standard ..."
-    publishedDateTime: 2022-07-25T13:18:00Z
-    webUrl: "https://www.techradar.com/nz/news/your-nvidia-gpu-could-one-day-make-your-airpod-calls-sound-better"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/zT87RgQt7jyquSQckH9P4W-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1"
     excerpt: "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool."
     publishedDateTime: 2022-07-26T14:03:00Z
@@ -69,31 +39,6 @@ related:
         width: 628
         height: 246
         isCached: true
-  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
-    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
-    publishedDateTime: 2022-07-26T17:49:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "How Nvidia is helping telcos take advantage of artificial intelligence"
-    excerpt: "Nvidia, the market leader in all things AI, has invested billions of dollars in telco-focused computing technologies."
-    publishedDateTime: 2022-07-25T13:20:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/how-nvidia-is-helping-telcos-take-advantage-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
   - title: "NVIDIA: GA of AI Enterprise 2.1"
     excerpt: "NVIDIA today announced the general availability of NVIDIA AI Enterprise 2.1., an updated version of its AI and data analytics software suite designed to help enterprises deploy and scale AI applications across bare metal,"
     publishedDateTime: 2022-07-25T18:38:00Z
@@ -108,19 +53,19 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "NVIDIA Announces GA of AI Enterprise 2.1"
-    excerpt: "which enables affordable GPU sharing.” NVIDIA said the updated version enables customers to stay current with AI development and deployment tools, along with support and updates from NVIDIA. Support will continue for those relying on earlier ..."
-    publishedDateTime: 2022-07-25T18:45:00Z
-    webUrl: "https://insidehpc.com/2022/07/nvidia-announces-ga-of-ai-enterprise-2-1/"
+  - title: "Amazon announces general availability of its Graph Database called Neptune"
+    excerpt: "Neptune Global Database to build graph applications across multiple AWS Regions using the same graph database."
+    publishedDateTime: 2022-07-29T05:44:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-announces-general-availability-of-its-graph-database-called-neptune%EF%BF%BC/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/09/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/Amazon-Neptune-.jpeg"
+        width: 512
+        height: 288
         isCached: true
   - title: "AMD teases AI-based noise suppression tech, fights NVIDIA RTX Voice"
     excerpt: "AMD's new AI-based noise suppression technology is coming, accidentally posted by AMD themselves on YouTube, expect it soon."

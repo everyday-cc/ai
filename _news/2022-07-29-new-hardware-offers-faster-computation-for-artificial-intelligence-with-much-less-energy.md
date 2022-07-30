@@ -1,8 +1,8 @@
 ---
 category: news
 title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
-publishedDateTime: 2022-07-28T19:51:00Z
+excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
+publishedDateTime: 2022-07-28T19:08:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
 related:
@@ -82,6 +82,6 @@ related:
         height: 400
         isCached: true
 
-secured: "QjT5ssvOuYJaVQWnyXnhrCASHt1ydyTyGFdelLjLCydQgz+sw/+Laigx59ash/lsd/aG70o6eX3nx1QOTsGsvmHooaaJLJygDR0NFl3Q+9erdc52C3mtEnDSWfXYFI/NlVHmt1o0yz6ntf0XNxJUEaGOqQjiyewz6du3nhHYQCT+FGDdlilBWKnAjjZP5g+Ab0QxeCy482lTxzxf7zf+bcQkuu458JL1bhYS8yThPoU7RxItjcgYfzcUy8DU3DOwlJGN6kGtJqEemaIgbsG2YihxEwZrNvwT0HqJrcqOgIgUF4ay3eTJVMMkxQv+1tgboB+6sI2Zekbh/ymz+UDEeQFa4w0jC2ob533asMP9TFo=;8eFpaC6w8jty7uGo2Z9KZg=="
+secured: "s+g3gEvCOJSkOy8FQkjazvcl+kxzpb2/ky6p/Or/WF0BJbi6jimJHH7W6YlA4nqv3iRRaHLaZmmQirX8uwUWWpOR3qoPyntm14SFgllCw96nLRIsEdRav7aGzQ0LU5HzbvYAPzyYni5jbs6SLqpbVvUqjx2Z9n3bUI4BUBXVOsfXTHKLFtIpZIRggVGH0aEGxoT8oagxRL2UBP2l3LlKGAhfQVdZJC9/UB7LjoCqOup0lNTHpAJ8cRWz16pK8af1SqgrIMpiHPhgccotFLPIIDi2kMV9PEBC56fh1POczXoRmcAylhiCLByA9DhdMhIr2WubYh2APh9XM0TtbBpqizurDL+lAG/SqdzkD2HqRC0=;bZntNlFWszTmdWyPQapDRw=="
 ---
 
