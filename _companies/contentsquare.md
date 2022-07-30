@@ -2,7 +2,7 @@
 name: "ContentSquare"
 overview: "Contentsquare is a digital experience insights platform that helps businesses understand how and why users are interacting with their app, mobile and web sites."
 type: "profile"
-heat: 58
+heat: 77
 
 website: https://contentsquare.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ContentSquare"
   url: "https://twitter.com/ContentSquare"
-  followers: 7002
+  followers: 7001
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "K2uWLHIppYpd6B6bXZxZZ15rjegvsGbQVMoDg5ZuQ46e509BTvPbcjXqm+KVVYYOKgZpr49iKqO3SXf4ItNedwxC5ezVBbLK8eFGbVuh0YIwZ+sDxNOMKMzyb8WrKBwSVaibL6mSUp9QLmvfRZklOG16Q8RLstzIiSCEm7x2R8BKg/1J8XW8pqUnWI9/jtBHVoT1Xj0fLmLSAJ4DNpy8TX6l1VPxqkRUM1BJmyTx2XlHAknxbTnYFCZX1zUYApmREfyR3xeDnnf60wGpBdLQzdYc2UDR1AIRHfZNqkWeQUoTk6Xx6maE/vgQWEDkvz+XfR1IQifG3CDggWL6GnX7tCJjpLtGgik1qMls1ooaA7I4aSff3e5d8AY6QQLk1g+K3CzVWT1a9cwNlKVBg7h5QdDzz7PfQpEsSfvEQMq4Gd4=;VJM0LnN4Yu3FXY63/FboGw=="
+secured: "MT2HB9c/r7cDJ30ihtk/lhA7dX5ypROAcKPL5iXOduqODg87VDPixzdcWV3vNh1QO7pf8V2iF41rMXMvfwPiIP78ldbokzxOpe5U+hBmfzCmPBoUOSv9NTGH+TwEsGdPFw+7vHqyNhN1E5Fko+Yy5KBkqRL8RqRBV+F+JU8ErNY1dn3P5hDQlaSdaoaf2I15xbGzaGdNsHqM9irs35e1ZsrJqx0QZV4KFSem7uAM5rgGLtXWxti+zVLwD5A1TEBVjlBM+O+86LnB4UKJFVynsHdyHCWpjQYZzIvV8A1bX4ZBaIztCc8mNeUY8G8sEBJg0FExsWy16Ds/JuyhXD0KzV/Ws/ZChSzlrBpdc3TDBzLHSyXuJ+3AeivLtGWV8idFeKKRsSN3z7k28dV5ET/VO8Ma3pGw4+m6znNuo1CHgoQ=;PWxy0R3xZysDOESG5caVNQ=="
 ---
 

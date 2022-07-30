@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 552
+heat: 549
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 16542442
+  followers: 16542294
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "FKVIjVMp/gjaMj4gKbjDJRGxU6s/8ZiAhsYPGwLuQdvkkTsAPlaPd5a9IQAeeOD/gglx44xmXV+ymzLc82saWmR03YCuIx6gUuANOrcrmQiVQYk+cu4Wx9phnDqH2nyiQr5pHXxUiyXWYRlqwLD3ve0HVoNgqWLpa6c4TEoI+z66qdwRQ/U5KSTgvnFmjl6H5Gr4UZD6uwhVneiIdmLFKIK5h3EksEXYYbxFEl9aGfk5k6ATqjJkM3VIZJsT5JJNs8wYFt9RVnC3NEsmSs1HgOXf/oT9qQz+Gtz1MrpDFif3T0kmzNd99LbgNcC8EmgqCYCjf5L7Nf28pe+Gz570CN3aw8zQqMOaP/gOVl0L1+V5rO+fgI6eRQRd8qCVcJYQg7VhWn7N+ZRzU/X09gK/SqUkpKaPA7wJW2zzHkRN3Zo=;YwkQ7WsjFk9XlR0f1b4ZHA=="
+secured: "oUCtQZ4h/IYg7GBUwFbzsUL5bhhA3xn2wLkmHftBcvl4jY56BdnR/aD7gX1GiUUmaDrt29lDju8X71CZmhazY09cv0tAgG2PynwGSvUU3RUStpKmawMMEXQ/WeuWC9fth+NWTLH6zHk0s3R5KOm6yWZ14h/swW2yZez9ttyXrTcFlKOSP6KD/97hL4hNNf+qpAXEvkCzYJ60OEj41TRsGK0T8wdo9J6eWelcb24vdQ7Sua7QdkIw4yyR7r4l1nujZrrnCB2NdHGumlQm6GBSn5RExCzxzgFJMmvqMNqIClgH4MxuozDB5k/lXBUE6rxxbFk8eWqehw4QBcj77Cy9gflP5mN/XWVoN731Fs4F9AloDMbpK991+4gMdOpjGwDsMwPHxRDM6/IMFMFfrWb38aT5pywpKmNLjRceCdxYy40=;VaSA8/5vnsGGdMyxuuxN2A=="
 ---
 
