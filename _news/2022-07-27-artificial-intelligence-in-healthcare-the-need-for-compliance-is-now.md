@@ -67,6 +67,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "Artificial Intelligence poised to change healthcare industry"
+    excerpt: "Nagaraj Bhat, VP & MD of Cardinal Health International India, talks about what’s fuelling digital transformation in the healthcare sector. - The market for global augmented reality in healthcare is expected to grow to $1."
+    publishedDateTime: 2022-07-28T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/28/artificial-intelligence-poised-to-change-healthcare-industry"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 36
 
 secured: "JihFUpaNTYhlMOjdZ0Qn0JgjfYTd0rQ9dnuM1sw4uTr/yQYm28KA4B4I2EwFZim2IhcYNUeNGldqI6AduRPAPSuuNGsR9sSGXRzUdlJFspq2K0/0wrjjaRgOq26bEIOX29coK+XH5l7K80frEP3vztRcniahgkpRsc6jcYlRQhvFSyLFSx9mkSj3jJLxkZTfVc4TgfKiNhNiF0+mRJSf1/JxeW+p+ZuxFAlJSjSTNLhfsHaC/yNeNQoPkZZzY1sON7+ZFrQjZ2e8oGI3TuBIIOkXI/hFNH4LV9cHYUF3tDiqrTEvXsvaNnIGqq7guZd7aLmT9VXRecnYMOJjCa10cWorgDFghinmAodSuD7P6dPyv/7BdDqxeRHJlX0SWAMjUmWL/v2X626mYh9m32QvbPV/XjqWeC6i/LCU5Lcj/cYD+6Sc1cu+y9MwBEWCcMAfL4JQkAw3cywXRetfGLoBpPHe/69iMoNNRQCT8u1C8jNOcLOX9KaH/iER8ojBIPudQUg1kIcrX5n0v/WDqrRwPA==;433j/ztfbcHn69HQJGZxJA=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "How conversational AI is giving financial service organisations the edge in customer relations"
-    excerpt: "By Vijai Shankar, VP of Product & Growth Marketing at Uniphore Even pre-pandemic, the financial services industry was facing ‘innovate or die’ decision points, in the face of newer, more technologically nimble competition and changing consumer behaviour."
-    publishedDateTime: 2022-07-26T15:40:00Z
-    webUrl: "https://www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-conversational-ai-is-giving-financial-service-organisations-the-edge-in-customer-relations/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 47
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/07/iStock-1362558727.jpg"
-        width: 750
-        height: 532
-        isCached: true
 
 secured: "MxfubYTP6G/8ccPu9H2Mxul9+6xpksBq+UtPqM8MQQ+0zWaV5CTufSKjNB16OxQHtbHmbnZ3dGBglMP3nm1ifcizHGE9xze7J93c1dd0WEQ4t7BhN4w9d4UMHdYFCke9kbtNxGfHPq2E3BIGNV9pjxJ0pQQTcXA0ktkuFpNFX1O8y9g1LMgoJi16T+Pf3oxUzijRA+XeYdWntzaCkN9ISEwrhtpSNsLG1YTuiWYKBVhY/7jatyf1Io3ebsAnwFBko9pHp3C7y0oA6S0N8tLJ43ct8be84pSLeFwGpNH5YW+KCZJwa5PMzi6B/R+bsmPdCrwLDNgbKb6pHMim7XZROentzPPPPsWFTgpNCkLZKa8=;GIKn5+794qxb1qfhn7vZAw=="
 ---

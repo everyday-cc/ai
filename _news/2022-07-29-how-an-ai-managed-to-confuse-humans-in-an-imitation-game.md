@@ -35,17 +35,17 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Could Help Congress Schedule and Find Unexpected Consensus, Expert Says"
+  - title: "AI could help Congress schedule and find unexpected consensus, expert says"
     excerpt: "Members of the House Select Committee on the Modernization of Congress discussed how artificial intelligence and machine learning could help improve policy outcomes."
-    publishedDateTime: 2022-07-28T21:05:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375105/"
+    publishedDateTime: 2022-07-29T16:37:00Z
+    webUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375132/?oref=fcw-skybox-lander"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Federal Computer Week
+      domain: fcw.com
     quality: 35
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/07/28/072822AIcongressNG/open-graph.jpg"
+      - url: "https://cdn.fcw.com/media/img/cd/2022/07/29/072822AIcongressNG/open-graph.jpg"
         width: 400
         height: 400
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-si
 webUrl: "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured"
 type: article
 quality: 54
-heat: 57
+heat: 54
 published: false
 
 provider:

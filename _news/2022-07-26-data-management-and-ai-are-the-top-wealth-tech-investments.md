@@ -7,7 +7,7 @@ originalUrl: "https://www.wealthprofessional.ca/news/industry-news/data-manageme
 webUrl: "https://www.wealthprofessional.ca/news/industry-news/data-management-and-ai-are-the-top-wealth-tech-investments/368522"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Data Management, AI, Automation are Investment Priorities"
-    excerpt: "With as many as 98% of respondents’ companies investing in their front-to-back-office workflow management, more than one-quarter (27%) of respondents cite data management tools as their firm’s priority investment."
-    publishedDateTime: 2022-07-25T06:00:00Z
-    webUrl: "https://www.tradersmagazine.com/am/data-management-ai-automation-are-investment-priorities/"
+  - title: "Opinion: AI and Open Medical Data Are the Keys to Solving Global Health Inequity"
+    excerpt: "Even now, AI diagnostic tools can assist lower-level health workers in making diagnoses that could otherwise only be made by highly trained specialists. AI software can read pap smear slides — freeing up pathologists to do other important,"
+    publishedDateTime: 2022-07-27T09:32:00Z
+    webUrl: "https://www.caixinglobal.com/2022-07-27/opinion-ai-and-open-medical-data-are-the-keys-to-solving-global-health-inequity-101918561.html"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 32
     images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2022/04/Vijay-Mayadas.jpeg"
-        width: 350
-        height: 350
-        isCached: true
-  - title: "Ping An Upgrades AI-based ESG Evaluation System to Drive Responsible Investment"
-    excerpt: "Ping An Insurance (Group) Company of China, Ltd. (HKEx:2318; SSE:601318) upgraded its proprietary ESG evaluation system to meet the Group's rising demand for high quality ESG scoring data. Growing attention to environmental,"
-    publishedDateTime: 2022-07-27T11:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ping-an-upgrades-ai-based-esg-evaluation-system-/2022/07/27/9645630.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1828519/Ping_An_logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://img.caixin.com/2022-07-27/165891396428016_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
   - title: "Virtus Investment Partners Adds Systematic and Multi-Asset Portfolio Management Capabilities"
     excerpt: "Virtus Systematic uses a state-of-the-art technology platform that is powered by artificial intelligence and natural language processing. The team's process incorporates a proprietary investment-return forecasting model that combines behavioral factors with intrinsic and valuation factors."

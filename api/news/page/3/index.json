@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
+      "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
+      "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/corsight_logo.62e046c333a2c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
       "title": "How to build AI data engines that use the right data at the right time",
       "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -303,7 +346,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1138,48 +1181,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-rogers-to-invest-10-billion-in-ai-testing-after-massive-outage.md",
-      "title": "Rogers to invest $10 billion in AI, testing after massive outage",
-      "excerpt": "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
-      "originalUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
-      "publishedDateTime": "2022-07-24T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

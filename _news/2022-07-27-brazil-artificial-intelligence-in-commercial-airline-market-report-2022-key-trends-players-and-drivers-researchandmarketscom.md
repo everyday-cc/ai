@@ -3,19 +3,25 @@ category: news
 title: "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com"
 excerpt: "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,"
 publishedDateTime: 2022-07-27T13:14:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Drug Discovery Market worth $4.0 billion by 2027 - Exclusive Report by MarketsandMarkets™"
@@ -33,6 +39,6 @@ related:
         height: 234
         isCached: true
 
-secured: "gtkZZhWpn9hs0cduAOkiY1rbq631uyEx3S2nSvJryc+tBCUvxeAE+MhCZbtNdt7+whIiQjgfpiaKXeO+w3bMSnYFKdokzqxMkLGbqjF2vpAe0t3T/Md7mIFmM+8oOxikkVlIGq+YIdqShT7jXaigKWzC6g8jMHOMK5FxrfFz6rALFs+0kpUYctbrkzRyOfS8W3HNN8awK7qIREBQ5ueRgkuvCxl+OFUQKo+Xg+lwzwT8qAiSxFlViro944dvKntmyPFaysAADdt3ig7Hn5jRnXySw7czgB1Uk7AT8NOPq1HtVBiN2HVkBsPDYg/eFsi5hC9PeyXpX2DQSBV88Qip/8E8zdr/WZ/IgaRELS+Y80w=;Jo8KYxgagtKsY2fhW9PVgg=="
+secured: "JRYSBD/SjRKjJPfte8Gc6VDAlx4h0odMvtbIh/iWosqwwDTrJwUBfRAISE5/38uiIhWEnGiuidQ6RN6UmE/+uKE0gAGLbPskxNY8B4P5Ds5nvxus1tgSD2IReZn5AQG7oxxQb3HXXTKvTj6ivjALKPqwFpwo/mXRzyVgOjOHNqQgfi3vh5+SPOUgWc0IKsB9vgXD27nY7VrWZe5tkYbImhQIU3vT/XaATxwcr0rOwKVjG32ULw21IJ1D4UPzuNtOlixMXeYEblUA6z9PcEzcPZFZxcPrVSbh5sxOTgjRIOyds28oooS2TXMUt1J+Fk9ZLDFP2aYr1L44iRlsuVU+14He88RhjeR6gBBqUwQj2HY=;HaqqTyBMQKNz28r/X5u+2w=="
 ---
 

@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -918,6 +918,59 @@
       ]
     },
     {
+      "path": "_news/2022-07-16-healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2026 with Top Countries Data",
+      "excerpt": "Jul 15, 2022 (The Expresswire) -- Healthcare Natural Language Processing (NLP) Market - Insights: The \"Healthcare Natural Language Processing (NLP) Market\" Research Report gives an inside and out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-center-to-support-cell-and-gene-therapy-manufacturing-launches-in-newark.md",
       "title": "Center to Support Cell and Gene Therapy Manufacturing Launches in Newark",
       "excerpt": "McKinsey & Company launched a new high-tech learning and innovation facility in the Garden State to support the advancement of cell and gene",
@@ -1317,59 +1370,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
-      "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
-      "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
-          "width": 716,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
-      "publishedDateTime": "2022-07-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Google AI"
       ]
     }
   ],

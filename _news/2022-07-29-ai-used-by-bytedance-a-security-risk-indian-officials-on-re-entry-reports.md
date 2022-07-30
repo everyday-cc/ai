@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-offici
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-27144,msid-93169814/.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "The Power & Pitfalls of AI in Indian Justice system"
-    excerpt: "Likewise, a language translation AI tool called ‘SUVAS’, Supreme Court Vidhik Anuvaad Software was launched to help translate judicial documents from English to Marathi, Hindi, Bengali, Punjabi, Kannada,"
-    publishedDateTime: 2022-07-25T06:47:00Z
-    webUrl: "https://analyticsindiamag.com/the-power-pitfalls-of-ai-in-indian-justice-system/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/indian-judiciary-and-Ai.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Indian Navy’s quest to become an AI-enabled force"
     excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."

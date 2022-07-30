@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

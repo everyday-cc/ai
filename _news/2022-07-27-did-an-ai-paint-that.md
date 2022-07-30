@@ -60,17 +60,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Integrated enterprises need to optimise the use of AI for better CX"
-    excerpt: "To get the most out of AI and ML to better meet changing customer needs, enterprises need to start integrating their business units, operations and datasets into a more consolidated entity.  This is according to Archana Arakkal,"
-    publishedDateTime: 2022-07-25T06:32:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwEr7n35eYM6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 37
 
 secured: "XtzQJSIZlbsvkZyETv2ZRZp7ZxU0pvt5OEAvUz67IDQ1aGRdLykl5S8stWSsik8aywYH61OtxfNmlRpU+30xKE6qZWizfxB1/0SOD9JLiRB/knwEf0+2x5FLm4iIPgRrLXgh8f+hIE2VMVaxeeeS6bYosg6ouBcOPCP2QEb2ZMNzArL8xDaKLGMad//AAD65YBPttMalJmFWQp3UTFUwKtDUkr62epu6dOan+hOLMAydu2NeR/4tVJqc9FLyigBo9UHp9iHIscOrtGu0zFGkySxDtgUIwgAQ06Q6LU2GRLNQRet4UEEkYogkMGWNqqKHcHaLmfsyxbCnkB8BIbTm905STB40nFkboeLh85n9vNrb6WO9mMPBD8htRDTpoYnH6lLVFH3JQAFMdcaD2l11IvL+BF6Ct5P9ubp5Q1UzTxOOAbfa74hIgFHxddt0Ot6yUsGJbKIR2mpnnQNo23YszHuL8LJpuTUQ+OMUKrT6X4jgPPaK3xBtYLwNG7egiKxvde1E0lcxnXLLTAooniTXnw==;SPrnOBSKc1byrmf5Wlh2Vg=="
 ---

@@ -3,24 +3,26 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
-webUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
+originalUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.html"
+webUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.html"
+ampWebUrl: "https://journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.amp.html"
+cdnAmpWebUrl: "https://journalstar-com.cdn.ampproject.org/c/s/journalstar.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_8b300eed-93bd-5be8-867f-1eccd3d29984.amp.html"
 type: article
 
 provider:
-  name: Napa Valley Register
-  domain: napavalleyregister.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-    width: 256
-    height: 256
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/4/1c/41c5d89a-6ff2-5add-89f5-2a462e3063bd/62dad79ebe4e1.image.jpg"
+    width: 600
+    height: 466
     isCached: true
 
-secured: "MpsvnsCD6VZ/F7q+BIOX7iklxBOakAn5jXNWsISgrlVF8o2ZichgHgQVaN+P8PnBfr3MbCLlV338SteY/N16idcteOA3BHk3Wf2/y/vxj7aOboEjRyy3hgRCV4wOEPr9O623rpLofcXed4ciIdpSgxFKXE89m1kr5I81eyk9MwKBJLwhrdP3gGRRCLwvUb8pI6vC+0RcvD+s0+NgOGYx7ZpGWWM+NIiQX/4Jd3FOKUxmaHWlqElgQL1zfDyZAf2hiIQL3vX026dx7JK+tW1kgXsa/P2TTUmTn5kBXhNGInB6h8G4t7oXBkswfvMekB69NGgk2lw0ZJjFblOBFoCF1zVY2OyZx2hww+NN9Aaqlw8=;KOwgQFK+bFSFAYRra25X0Q=="
+secured: "yYp3C7/TjRfjArLc3PHpZjuPPVtHEd3vXLBwf9aSj53r6v3nxjGFK/WuPlsrX+dcki8XANg1alpCIMGuphsXkRE1Q1yIpYLiQKwSBxCUhrKjvxOpWT/x0HQwgdwEN7dQlVG2iImaJKNoHlkI562uE3jfGKsstzTsTO7XxGiUXmC6vso3ADS5Qh5FPGtxAwpkdkwuADtsetPaKedhXvOi4lnm+lwtxeYVwBp7iMglTU2Zql0NH8GBKpNwCANeRDp6cu/5oCeDoxs2gK8/aemT2jTTN1pgMYw8ATJpr6kuuoCZNdynRgnmmyI8hb0rONoOgF/ZheGJ+7n6EGA1B0VeRDH1cGj4U3FvnjWxiqVY6ug=;bd228z6CrENfTYyST0BrNg=="
 ---
 

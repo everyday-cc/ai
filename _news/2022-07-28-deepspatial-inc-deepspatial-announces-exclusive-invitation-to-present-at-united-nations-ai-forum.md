@@ -28,15 +28,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 14
-  - title: "BirchAI Announces Partnership With Verint to Provide an After-Call Work Solution That Automates Documentation and Call Classification"
-    excerpt: "The companies will partner to accelerate adoption of BirchAI's next generation call center automation solution, Birch Assist SEATTLE, WA, July 25, 2022 /24-7PressRelease/ -- BirchAI today announced its partnership with Verint® (NASDAQ: VRNT),"
-    publishedDateTime: 2022-07-25T07:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/247pressrelease-2022-7-25-birchai-announces-partnership-with-verint-to-provide-an-after-call-work-solution-that-automates-documentation-and-call-classification"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "pAbta8PiW4WzuZgunVkNUtwqQZ1LIwttxgVmP8ELMtci3iKmaXVgBgFNkcJMT0eaH7EaZF0NdFUEN/C2I5DL5TdgTwyc/LXjAqLxLtQAX4vh6aWxV71qJLOkUf0fi4hQI7LZBlfHZDIRk3tzHceuBl0emB0n2OIZdw5/ARFc4JAWoknwX3MMXDtKBL8BsBB2F0rywgMHyIx2cHqaR+WSEiM6Brl1gZm4NxACOeYAywFg2/PwhswKsyDU88Nfxh7iWPES1gZZ+qvRw/rF8B1R5b9HCp+NCNOeAWoHfXPJBDm8CTJAq4C4FqOG3y3QNI+D4oCnXpbS+rnxYHZSob0/S8lCrXbxm6/tqNMxEgEaWes=;Uq6bpkZLYP7o3xQgyZ9A6g=="
 ---

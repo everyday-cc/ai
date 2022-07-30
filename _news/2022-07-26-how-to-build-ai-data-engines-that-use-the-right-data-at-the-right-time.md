@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-uti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,17 +61,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Integrated enterprises need to optimise the use of AI for better CX"
-    excerpt: "To get the most out of AI and ML to better meet changing customer needs, enterprises need to start integrating their business units, operations and datasets into a more consolidated entity.  This is according to Archana Arakkal,"
-    publishedDateTime: 2022-07-25T06:32:00Z
-    webUrl: "https://www.itweb.co.za/content/JBwEr7n35eYM6Db2"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/JBwEr7n35eYM6Db2"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 37
 
 secured: "wKQcSMlVh2hFzA4ffPw6TfsRcP8cATevS2qMpBCy+TRvKZPVY91AZ7khqBrVbPHjpWoKhwmS2X2s9ZQnDroCcgN6daZPjNOqbPHuJeS3rq9DozwH03xVgDivdrciYAyfe67gJ3eWzSNOypvHByLThNJWZnetYxbw8jmZbTElF+9mm8b6ZX3KyHbGpAPg5zvqgIn3cxtLdMC7F+urGB72NvZA7JWCPhd5MCfiL2zjw+mYiFqhrQb9ipHDUEAPE2twjMDIvRiwrvwDE58+2mNvSdrkqrhNgQrZEDHgJOX3Mo+kmkcBvqHnBGE4VnLGtVO5B7JGrbB3x3mFZOGiQnmmmIJ5280JGoevZTOI/yJlXV0=;ZwW/YPzojMYzJKbpU3wkeA=="
 ---

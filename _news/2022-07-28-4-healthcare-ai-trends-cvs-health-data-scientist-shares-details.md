@@ -70,6 +70,15 @@ related:
         width: 2571
         height: 1166
         isCached: true
+  - title: "Artificial Intelligence poised to change healthcare industry"
+    excerpt: "Nagaraj Bhat, VP & MD of Cardinal Health International India, talks about what’s fuelling digital transformation in the healthcare sector. - The market for global augmented reality in healthcare is expected to grow to $1."
+    publishedDateTime: 2022-07-28T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/28/artificial-intelligence-poised-to-change-healthcare-industry"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 36
 
 secured: "WQIoUOhjRbWoSekeuJ+MaAFXJ5DJrSneLyy/HC/IRPMVWn++eK7Hftzn9+olsTdqCZZPt5RFC4tfkCuCWnlQl2jJOYWwJ9knmzG2EMskedY3hkKi2Rs8Bu1M1hjovdLKaIRnF+C3YmEnpl4BuADyOMQeOHd2vDs/yCJfhyVRkKDXiwu6g3ptc+6N9DDN4QxnqrB/TVR84Kf3F94uO9JFQz7BU5wgb7hWvM2T79mR4nISI6gA5Vsflt17dIrzQmkIO9quisSdWzM4oIlpEdyoNRWW+2Q2397kXop3jGOy+ddBmQTWPBgLlqwFnc05eeMRit1utf+eLs2g5nGVn1HFWo+Dm93LI81kOktRHG1lXYA=;zSOlk0yCe29aRWqzf/wxgQ=="
 ---

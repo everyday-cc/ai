@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The Power & Pitfalls of AI in Indian Justice system"
-    excerpt: "Likewise, a language translation AI tool called ‘SUVAS’, Supreme Court Vidhik Anuvaad Software was launched to help translate judicial documents from English to Marathi, Hindi, Bengali, Punjabi, Kannada,"
-    publishedDateTime: 2022-07-25T06:47:00Z
-    webUrl: "https://analyticsindiamag.com/the-power-pitfalls-of-ai-in-indian-justice-system/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/indian-judiciary-and-Ai.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Indian Navy’s quest to become an AI-enabled force"
     excerpt: "AI can vastly improve every aspect of naval warfare, such as combat, communications, logistics, maintenance, cybersecurity as well as physical security."
     publishedDateTime: 2022-07-25T11:56:00Z

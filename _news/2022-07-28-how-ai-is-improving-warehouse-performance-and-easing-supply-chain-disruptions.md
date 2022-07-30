@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-per
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

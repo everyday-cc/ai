@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finall
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 2571
         height: 1166
         isCached: true
+  - title: "Artificial Intelligence poised to change healthcare industry"
+    excerpt: "Nagaraj Bhat, VP & MD of Cardinal Health International India, talks about what’s fuelling digital transformation in the healthcare sector. - The market for global augmented reality in healthcare is expected to grow to $1."
+    publishedDateTime: 2022-07-28T00:00:00Z
+    webUrl: "https://www.bio-itworld.com/news/2022/07/28/artificial-intelligence-poised-to-change-healthcare-industry"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 36
 
 secured: "FooiDE2XHgEA4psMMx0syFCUb2CIVbAkRh751XDmSWFLVVdQnXyzXwyIMTwIqYUAB/liP3LU9EHEfbSXyNe0DnQw23gRJgf3JiXTE7HGEMiGK3skXzPoR8qdpiFL/9U2haUgEIc9ItX1hNRdLeaSIzSySR/pmiuXpYmx8lSzOeBYklB77yzoyxsl1NaUZb+qsw2zcMEESgKpbN0IZgdplNzSr8JrEyfo5Gq/scBF8N1zqA43BO5fH0VdfpS1Ij95Jl7YwKbZYo4eI+8bV5Z2TmEVvuLhm840tv872rs5Vp2MTOwW8LzbRB12FW9EKW6BVzEkeAAHjHp05BACQww5jeU+/BvZN/7EPUU3S7bb7mESaH8wrr1e5pzgguEhSEjRiUvyMuhXxssahZPeWvSyaotE1uMcxK7zFWZePVw9JT30FazWOX/z8BA8+IcY1z/YYSTcSmxoN8ULnO/dk6vjKic2GCu2Fk9UVoRfdGRu+04KZ3P+PegVxFCbLy1xnZief6sbJYefa965LGPGWOFrBQ==;Fc1kCDHBs2vMGWT0xYbLTw=="
 ---

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Tesla’s head of AI, an ardent supporter of ‘full self driving,’ has exited the company"
-excerpt: "Andrej Karpathy, Tesla’s director of artificial intelligence, announced Wednesday he’s leaving the company only months before its anticipated release of its long-delayed “full self-driving ..."
-publishedDateTime: 2022-07-14T16:06:00Z
-originalUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
-webUrl: "https://ktvz.com/money/cnn-business-consumer/2022/07/14/teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company/"
+title: "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company"
+excerpt: "Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving\" software to 1 million ..."
+publishedDateTime: 2022-07-14T15:24:00Z
+originalUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+webUrl: "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html"
 type: article
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2022/07/hypatia-h_7d277fc62268077ed482b4e6679d65f9-h_a5de2b2ec07b206570c63e15f6907e94-300-860x484.jpg"
-    width: 860
-    height: 484
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "yl6YR825AS1v6PxnIcY3id+g4Xwh2eBuEtrSzRTggFJD3QDgHu+dRp3tePucODLZxrMTQLef1pUjyUdSBiy1ahzgYg/WA+8jgWwkxzW6OtQmHkP0fPgc/A34xvSvFXH3dxivDLYknejc4Jg3UUt/nydzBguAga7NnZGwMneFGagqs8Vk9DSWd1NAZv6Hl0TnBJfn3PfeqN4rnB0hy3PQkNUhlivowKoosyuNKVrjR6FlFukV0ezIoULJLjLyHccfZa/0T1RnYR/i9kxCiBf7UjpztwCsft+RI3f1eq1E3hqPG+SDWWUWcIzfG3gIzckBsVziO3gWLacQUrZoIaZClbILdJiEgaJeAd5tvnMgrIQ=;rQz66dq8gkKBELlZdl953w=="
+secured: "uSfS3nJojLBJ03y9g0KM6wvrBKlTCumzU4njR1D/i8motaZLpJRyG+TokmxR+E4/hUAu4x4GpByYbdAElWFqiUkwutPHAr6AzqAbKWVJFzY1UQL7FDucI6cMbPbwdKfZaeK4iTp70MfAzv3MYI94SDjHOUW3CU+3a8H3T7mSTW+xQazUWrkpgSRnr8XQal0qumVvkEOgqTAh33+oocAPeWCNMY7msFrCYOiYhLCoawlGlFx/R6r+UpkgvpPAeFi//wu4kT8VzK8SL010on1aPT4h+PWFdRUbkgKbQoHkQwqqohuXnjA+wZe/+yiYsl/zEfnvWMhZW8WSu6eHCPeV8P+L9/ggruF6iRVzEdSOmFI=;uhOHSAGYGVOj295hVsAWSg=="
 ---
 

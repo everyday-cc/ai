@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/"
 type: article
 quality: 79
-heat: 80
+heat: 79
 published: true
 
 provider:

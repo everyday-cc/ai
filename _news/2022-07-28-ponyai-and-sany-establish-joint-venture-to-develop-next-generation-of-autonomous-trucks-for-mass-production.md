@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "Prototype L4 autonomous truck co-developed by Pony.ai and SANY (Photo: Business Wire) Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony."
+excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
 publishedDateTime: 2022-07-28T03:32:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
-webUrl: "https://apnews.com/press-release/business-wire/technology-china-joint-ventures-climate-and-environment-73f75b05ad2041d8944691ed6a98f518"
+originalUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 512
         isCached: true
 
-secured: "+R/QiExbheLE1ZQaWO6YXFRfpftYVUAVq7GpDykuHWnZMX+S4ZdKORv4Fon/R1ZfTHLIkzQuHfsL1pWZpDCfNPEmyAfgys/gopcBhoWgaW0i6BkB/oThV0mSHsPwJQkRk61pWJesPoYhPl2YkQZIq0LLMnL3h4DuZxx0L3jpEe0TCQv9tKKwC8WNgWitFUmpwKtWZ2DmqKxYvntb7c8+Y3j+9g/nBPzdtuC7FhDFPR50pYE6zIxTe8exDvZvz7mnpzYAifv2aeYKJLA1OIhCsc6k6TpMiLJQecG2sS/cq2oKbMXcmAytzuKIDo+AbuR/sTC3khV7T+ou3EiDG/7dHGjv98hXK1WVS044Cpkg9uA=;uKZF2Xi6bEhc9Cq4ZxZHfw=="
+secured: "rC1d2fhshML1vTPNrT/jlwzI80AulJwOhP6kykEUqzgsG2E79iPtqqVPP6O5RcbFRnphKOYtnWO1D37Bw5Aosv7vo5tDHxYBJG509pFUhAAYLuJx/Yjy2PTi4QCdhF273YbLro7B7OUeHV2d8ViFuJZ4697XTJ93ByvgKcdockrO5AHXpStbuCvcfuqdjxh/jpuyOVaSb4PMUXSJUP8LKkuNQh4DRaF4BTIeSDaOylRwnY5za0vyRLhbdOBT/E9yPgmCZ55q563/I+6u6L6rkT+xxxEzXpAc+QFvb7v7NJghDp+YlPVqNJVp0t3rxBny00Tg+mXYfUuhFJ33ZKErJgxHeCPY/1q3QszLuLYMJ04=;tChYMD19Bmx8TpSQ5QpTLQ=="
 ---
 

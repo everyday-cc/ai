@@ -2,6 +2,155 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2022-06-22-youcom-is-taking-on-google-with-ai-apps-privacy-and-personalization.md",
+      "title": "You.com is taking on Google with AI, apps, privacy, and personalization",
+      "excerpt": "Socher is naturally aware of all major AI talking points these days, including bias (it's not just the datasets), sustainability (perhaps overblown, but we can and should do better), ethics (no easy answers, it depends on each person's stances and beliefs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "originalUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec515376e9ad2dd505b7e960c144f8c10d628690/2022/06/20/74e2fbff-7231-4635-98b3-c73600e3cbc6/richard-soucher.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "publishedDateTime": "2022-06-22T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
+      "title": "AWS beefs up contact center solution with new AI capabilities",
+      "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1248443439.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "publishedDateTime": "2022-06-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-blacksky-chief-innovation-officer-dr-patrick-oneil-to-present-on-ai-and-machine-learning-at-aws-remars-2022.md",
+      "title": "BlackSky Chief Innovation Officer Dr. Patrick O’Neil to Present on AI and Machine Learning at AWS re:MARS 2022",
+      "excerpt": "Chief Innovation Officer Dr. Patrick O’Neil will be speaking at AWS re:MARS 2022 in Las Vegas on the core artificial intelligence capabilities that enable the company’s end-to-end dynamic monitoring capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_d267d1bf-0b80-50ab-abc0-1195e6ba9a80.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d267d1bf-0b80-50ab-abc0-1195e6ba9a80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
       "title": "Why Growing Organizations Should Consider Voice AI",
       "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
@@ -976,126 +1125,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.md",
-      "title": "Walking helps some young and healthy people improve performance on cognitive tasks",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources. However, this does not necessarily mean you should work on a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-transforming-the-classroom-experience-with-ai-and-machine-learning.md",
-      "title": "Transforming the classroom experience with AI and machine learning",
-      "excerpt": "There is a unique opportunity to create a more meaningful and equitable learning experience through the implementation of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
-      "originalUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.universityaffairs.ca/wp-content/uploads/2022/06/sponsored-cisco-644x374-1.jpg",
-          "width": 644,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University Affairs",
-        "domain": "universityaffairs.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra.md",
-      "title": "Digital transformation: Cloud proving to be a great fit for Myntra",
-      "excerpt": "online fashion marketplace Myntra has strengthened its cloud services capabilities by leveraging Microsoft’s public cloud Azure. This allows it to develop new use cases in cognitive services and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-649.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/lite/",
-      "publishedDateTime": "2022-06-21T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

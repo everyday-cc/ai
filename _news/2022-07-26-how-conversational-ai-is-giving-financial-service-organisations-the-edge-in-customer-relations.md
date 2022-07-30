@@ -27,49 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is making Gen Z the most financially sophisticated generation"
-    excerpt: "Artificial intelligence is helping an entire generation close the financial literacy gap. From large banks to fintech startups, the financial services industry is leveraging the power of Artificial Intelligence (AI) to attract and assist Gen Z customers."
-    publishedDateTime: 2022-07-28T22:19:00Z
-    webUrl: "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
+  - title: "Add conversational AI to any contact center with Amazon Lex and the Amazon Chime SDK"
+    excerpt: "Customer satisfaction is a potent metric that directly influences the profitability of an organization. With rapid technological advances in the past decade or so, it’s even more important to elevate customer focus in the following ways: Making your organization accessible to your customers across multiple"
+    publishedDateTime: 2022-07-29T22:11:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 97
     images:
-      - url: "https://www.zdnet.com/a/img/resize/25df3905c4451440013e7266c3c5e48ff30aaeda/2022/07/01/d65645b1-d2e8-40b8-83eb-81135e8299cd/gettyimages-1313131469.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Next-generation RAF fighter jet to feature AI-assisted operation"
-    excerpt: "The Tempest – the United Kingdom's planned fighter jet of the future – will have a cockpit without physical switches or screens. Its systems will also"
-    publishedDateTime: 2022-07-26T23:14:00Z
-    webUrl: "https://www.techspot.com/news/95434-next-generation-raf-fighter-jet-feature-ai-assisted.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-26-image-17.jpg"
-        width: 2560
-        height: 1439
-        isCached: true
-  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
-    excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
-    publishedDateTime: 2022-07-26T15:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/lex-chime-sdk.jpg"
+        width: 1326
+        height: 660
         isCached: true
 
 secured: "f16bTgarBk/dEQbg8rhcMS8OJtAacWX/Lpnia4GHZskD6ayeUIEO0GQLImHtdXe2xsHZe4i+NyN52lStsib+JWU3nhu/FRJI1nHOwtJQOhS0REbcE2l9Lzlkc7IsHaX1Alh11SmT5pFwhikcnkkNaEu2j09CC+SVpZzmhQWc5Z4wBFL57EMxX50+XA+nB0Eu5nV75MT3JdJYhyT3KlmPYS7fP4OoTPiYYVuDOPKLHR4YOd7HZszuaBPV/X8oTkGy6LFS2815TN/9LyJvRyxnsi8QJ+7IXKOlRg+QcHi4foMVmcIyW8zwWFBM4yDHA7kW8W47icaZIPRpzZ22+uYdF5KEFWnI0Yu54Q2Ow5iWHqoeaXuHQxwhH1UNTmMHobdq/HhsJqqjAW4olBZJ1QY+kdXMxlKbfdV+j864bx8zLCmFpbNQii22tB/HAqoJmt7z+zh5kr6jyTPNsmUpLVRRDkBR5g4IdpQ9pZ5AluNbHYXx2WGkq+icGYcDGli9KTFcmcxLo8P0oh57d3AtvvwUbg==;0M+vcaDJ+jlgtLqA0lVQKA=="
