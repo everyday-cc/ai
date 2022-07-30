@@ -1,28 +1,20 @@
 ---
 category: news
-title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology."
-publishedDateTime: 2022-07-18T14:56:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
-webUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
-ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38698"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38698"
+title: "As AI language skills grow, so do scientists' concerns"
+excerpt: "The tech industry's latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel. But they're not so good—and sometimes dangerously bad—at handling other seemingly straightforward tasks."
+publishedDateTime: 2022-07-18T08:31:00Z
+originalUrl: "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html"
+webUrl: "https://techxplore.com/news/2022-07-ai-language-skills-scientists.html"
 type: article
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220718-steven-le-scao-ai-mn-1040-c489c3.jpg"
-    width: 1240
-    height: 827
-    isCached: true
-
-secured: "8vC5bXUaAzSnoJoCDJQQsSCInJwJy27t9XWZEMx/vqrBZSom0f5em1T1oJZQaMHYkH0B29rWS6dMl5y6Ej+EKSqmOHHwIU9aG1LIT4KzcDQPUlYcpEWgoiHu/KShcIjD/GQ0pZ6u2iJvBMj3t5dZAESOllY3bHnoe3BTNXqtZ/qT35FIxcd3iSw0O3YhQNKTImwFwdJLb/5bPzhpm7XbcA0OVqjzPIiNbpleL+hjeQZUBVni68Wv3FsLcu8HdxkHOy4Y2MUax2RA/ylIZiLOBasLwWM+mF2oNyRmCGBN3fQTqg5yppz4Vek1S/0l5W2uCm/3V1tFZZevrp19ALwGuW5YJVF6FteR08rXKObgzkCe2vV/8JWvnvcAXAVAnnnuuongAoz0hyUVwaYrjmOiZk03Vw09nBDnACnUKr6IDwokxozDU+eUKUVAge34Fkbtn2Vl8o4KMKozRpyE/txjYSYzJKL6gejVxCbsphhjzqoSKx6IsiErv8tYO5rYc7KbjvywxZbLBnBisXk2W00rSQ==;48irp3mRfDsiZonSf5ccrg=="
+secured: "Qon0n4jaVWLegBAPwrTQafG8g/zVzVkx7CygmDSrxgf5uMT/SuEYH+HkDCPh9HdGItP+hTccrIoAsX6J7hG3iU2+AABWvrGWnnxF3qqSJ/8LKChfea3vr8b+zXbwp7hghjCk1d2u5+ojIRt9NVAGlVIFWOVLEoiTnnIU15lAPj9ipOaitJ6Q3U1YFC1qzncxaLiTYkMqob2lPov1ZJM6YCzDTaQ7bPASzRXR1nPFzJ8fMEJy+Cj5gRyc4EppZWL3Jy9nSCljaDvkHnSeiKcDHkRCIk/I3vv2H8w74SeLK4oMjB972g1arfCksi6Gb6aTzG81DiPB12/csSnqkSOX8jIl/Zgfa8L5+Yl0bxU0Z9r3s+L4xtGTXkC6bycwlDpm+EBAihgGDZpATEkRFCQp7e41U8ZeSWIgh0y0a/Svpz2H4MCRuoCACFkoWAbniLWdCf/qDaNmtGyVmKQSoAWjk5+c94txpXOzlRWQiFMYx/8ZYKsKJRoZW7aZcyd+Gjxx/WWZWS9+BgdJ+lgZZpfymQ==;lMOPZN9Vk/D3G5388WKkVw=="
 ---
 

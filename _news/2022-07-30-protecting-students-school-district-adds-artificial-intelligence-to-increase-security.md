@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
-excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T21:52:00Z
-originalUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-kolotv-com.cdn.ampproject.org/c/s/www.kolotv.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+excerpt: "The security system is known as Intellisee, and the company says it is a real-time artificial intelligence security platform. The system consists of 64 cameras that would reportedly learn over time to protect kids as they go about their day at school."
+publishedDateTime: 2022-07-29T21:56:00Z
+originalUrl: "https://www.ky3.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.ky3.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
-  name: KOLO TV
-  domain: kolotv.com
+  name: KY3
+  domain: ky3.com
 
 topics:
   - AI
   - AI in Security
 
-images:
-  - url: "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png"
-    width: 604
-    height: 369
-    isCached: true
-
-secured: "p+ZU5we4Uuv+h25tDthT6nEnLJlqalPmKvX+13pZguvL/tcEm3pY+IgD0dOxjxXY9+L16ao50ZPSFWrhJkb2NiJRiQ6NpfC9OPuWomRStpQj1sCxlDrf2hSfeNenSIGYROapLbznhF5bwvI0MpIF5RH5zMQD7cU4Pl64Zd4BDEmzwmkkgQtF5kOJTeObHrEU9MGX96feDpkHqF+yIq6YQPSb6J8zTC5atJjSNzqgySp5ymyPom7M7rUcnitT7IzK9yRI5M45nWNrH4aJsH90tk5DiRh8F03JrZdIbWfcl11KdSLAxCpEgEQ25Vw40k+4hexGKAq22vKq5yd+LfMHRvhTVrwvNQ2nUGEPxF8rYcg=;ZU5ax06ShB/vF9p0H0Ovkg=="
+secured: "3E4VKb/vdt7TVHxaY+YRHv9mwPQEU+ERY1cmgHIlFMLEWkPXmg56khTpfIgQqMn7VW28y8dcohCuTAfj7A+FjtIr1JakjGPV1W0pxLGuL1y7NV0hML7DT7lVMOh99gAaUv4HoWXOtBSpBKA/le1U3Cr9k0fPQISNaIZYSXzRR+sXXvcpYbH360FCFivUtzD1PPlMUOF4s50ZAn4SHvZXN54dZ279755CBVFqtN7s6aEq7Uh0BhgRRIKBn6T8Ad+79Mqc+7lYq7H0MlsjQKFQ+hRNuW8cfA3Zz8b4TwsE9wKJKuunSHukntTvNvloVFUB9jBHzNN625fgIaMzivGdASm/wG4nxMPoN7xmZKoT02bE8Bfv10VRvUIuUSswje6rETLXpZS+XbPguNgoaAaUCD7RFhCqw2lEQ3bqL+u1gm5ZJ3e/9mfqW0XCvxSOWtSYb9AGON4xzTg+2inH4VSK4rUeXX1hFM/N2wDSF6ZfVWCEMz9gvh/Js5hu1BilwI+paZUZY3GKu0lfc6lGvj9q2w==;NPeTJDxtTiI6w6XfsN8vkw=="
 ---
 
