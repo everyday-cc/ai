@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Why economic volatility doesn't worry this fintech"
-    excerpt: "Pagaya, which drew attention for wild swings in its stock price last week, says uncertainty is part of what makes its product compelling."
-    publishedDateTime: 2022-07-26T13:42:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/why-economic-volatility-doesnt-worry-this-fintech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
 
 secured: "ub1KHYwK8GyBDwSSYmKzgOyCLbXdrLTsWxJPJFQKb8zAbwsgLxjFCnlQQ+wkRJTHHLtVboSY4wVsAfnujVb4RxYgmRx2h/uySohnc10pZ9pXTNECKWOCwqqze20Ns0cagHzZfrWq75iNqylDn/D1rUEPy0xZvzOMkgRECFdi+07NL0toXSJ7XOnKrN1X2voqnkQs5O4Gr2X6IDPGIl6g9+4vGu2n9YFApYHY+SXCEPTKk3vIzl/j3seMTFcm1C8wfX5ATzAZYspIEjtmofQ13lCnlqp6DcM2/fiNL+eXK+aE1OjS9bPL9K65g3Ta8dUH793rmOKfxNlCE51Xww3VeG8JFO/TV9jaa8dSx3J+FBe5INJRCdVZXl5qPIeCxlDa6p821UlhvxbOmBuK6VzhpRp9IO1Dw/LCqhO6EPzyJmri4OyDl6pMFs4H+AGz3XnYPl73NgPlB9yA/Ul/EFPAmMajbgaZHqFuwRe/q875aT9Xe8qqtDyVEJSOSqnL91HbjZjqNtPcdreOVBpdmCSpGg==;pi+hKiBNoHT3zXGwlbISRw=="
 ---

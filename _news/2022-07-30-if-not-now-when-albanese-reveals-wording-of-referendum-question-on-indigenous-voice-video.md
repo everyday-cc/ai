@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Australian government reveals draft Indigenous recognition question"
+    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
+    publishedDateTime: 2022-07-31T06:21:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 24
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
+        width: 1050
+        height: 789
+        isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
     publishedDateTime: 2022-07-30T03:40:00Z

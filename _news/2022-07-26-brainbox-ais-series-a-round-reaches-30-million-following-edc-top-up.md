@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/brainbox-ais-series-a-round-reaches-30-million
 webUrl: "https://betakit.com/brainbox-ais-series-a-round-reaches-30-million-following-edc-top-up/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1050
     height: 700
     isCached: true
-
-related:
-  - title: "BrainBox AI Closes USD30M Series A Funding"
-    excerpt: "BrainBox AI, a Montreal, Canada-based provider of an autonomous building technology platform, raised USD30M in Series A funding"
-    publishedDateTime: 2022-07-26T14:25:00Z
-    webUrl: "https://www.finsmes.com/2022/07/brainbox-ai-closes-usd30m-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/07/brainbox-ai.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "7FQ59YNqiifsmzqzIckx60A/rF8Iow0ZohQdo+N0ix9TqGsIeRrtcTR5+eAwu3tNJLbZ+Kuc1yRp0sZgcacIGn5P5M3uZ8D/ei2UzlFOT+ZJviOQibpErOgIAizTkKiCI/LXFbjUkxrIGqXtmBSSo4bs1feo1/Jkswa5SYb4CYe3UGubQy/aaQcw+o+ArtUmLSE1OBfHh/0OI2TxX3ARWZLxr2wLyfipTizvwtF4FxVxXd5/VYbUacdYLlJYjnwns10j9KYanlBJ0qTVErapy3qXLyx1P1qk299iqHq3sQsLooDaPMpyfoQKQKuIlhJZPIf+pcNTGY3F7pUAEH+C5dGMJY8su3UBukFwFEuxmIhMKmxzHtiwxGdHax3DG2L33F0U1StnEQXjnp1cxCc8V50yakglQRfM4Yy0mQbJmF1LV90NABmcxmy8tgC1Odg4tyh1pJ7JqbSxkYOc5fn5Sde2hBgxpOBPXufq1kp28aUwpig/UeLduNvHVPBG6iXHK3bmHMQg2uQ6YZ9gcHr98w==;cM5ZV//cm+1T1sZwDiT1FA=="
 ---

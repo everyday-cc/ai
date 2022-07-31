@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Australian government reveals draft Indigenous recognition question"
+    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
+    publishedDateTime: 2022-07-31T06:21:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 24
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
+        width: 1050
+        height: 789
+        isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
     publishedDateTime: 2022-07-30T03:40:00Z
@@ -240,6 +254,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "ListGzf61yu9HwAc/p/pnwf1k4TzhDcD+AaPd5PAVyFjmwzzxR2DnPejKKCfXKfhc5DCe4wBewJxrytuM9jA7iSsC8DIfM+uRS50plA4rj/CtO8IaCRNYkyFj8wNxs7jzGv1rcNMygqzegpv9nzgsb2rZWlO+BhipN1Djz5bmBzA5evruirbGnmIj36yKetxfT04qTMNJ1ZkM8tUmaUV63X+zhXxKlg1OiDqsVQcyRpndi//KYlNapg6LCV4U11rKFKby1WMaG0bNRin+xgTAEYkgnMH4CcU3M8TEU476E68v+u2D+z8IbGSm3zDWJckIReyilzm11lZYg+AZqz8/2yiGGxeado6jyvdWrri8+E=;eJ1GhTOCeuspb4JWqOLbxg=="
+secured: "hoFByIbO7/alpBQJfq6arF4GZhn6T/bwRd1RQg2UfewLtPnQWt9SjdKCY6+UUvKTEhrIefHfwn30oE0Wo4BXKvMqZD1VC2dP4sJgU2w+EzCnJrot6Ws+tZ90FZkhp3RX7dnhEPzzaJEudRekoyuR0pMICyAotxUS1l0ROtmIKhJra7A/3bbhnMmzKyAcLaoHPmBW3IyvD6O6b7TbCTftklTit/+M5Ei+rZW+cgaEqdLXkfdwQas/jGG9tGQdR4mnI52qMkXw7wen87TrriBcin/Nt7WmECFyueCi0rjRH2pXP7AO2HXsMQ99lX+aSkX92m9xWq9fZZGO83iw7dPRD48YgzOdS5AQFi1ihVRKtolET+K6M4T16Ymh2RWsjLGaO7QId5BePn08VUB5HaMKQq6RPiHamq50oHGsKDPTjorQhF5C6RLC9YNbzBw9rfQNfdI38SaWyo8tsCtEtsHrFPul712kr+AhyF7SbqdN9gJYiz/BfrKKIuJZT7SwA+YxHjLg0kiOjkQT7k6DP3hfLw==;GZq411XB8Uc0MqrpZ17bGw=="
 ---
 

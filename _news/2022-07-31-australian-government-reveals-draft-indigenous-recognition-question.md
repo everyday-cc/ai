@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Australia plans Indigenous recognition"
-excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
-publishedDateTime: 2022-07-30T16:31:00Z
-originalUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
-webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+title: "Australian government reveals draft Indigenous recognition question"
+excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
+publishedDateTime: 2022-07-31T06:21:00Z
+originalUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
+webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: New Age
-  domain: newagebd.net
+  name: rnz
+  domain: rnz.co.nz
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
-    width: 790
-    height: 452
+  - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
+    width: 1050
+    height: 789
     isCached: true
 
 related:
@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia plans Indigenous recognition"
+    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
+    publishedDateTime: 2022-07-30T16:31:00Z
+    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
+    type: article
+    provider:
+      name: New Age
+      domain: newagebd.net
+    quality: 24
+    images:
+      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
+        width: 790
+        height: 452
+        isCached: true
   - title: "PM lays path to vote on Indigenous Voice"
     excerpt: "Prime Minister Anthony Albanese has recommend changes to the constitution as Australia takes historic steps towards an Indigenous Voice to parliament."
     publishedDateTime: 2022-07-30T01:22:00Z
@@ -130,20 +144,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--rvyK41ZC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-07-30t015528z_1_lynxmpei6t00v_rtroptp_3_asia-energy.jpg?itok=JvQzUo5i"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Australian government reveals draft Indigenous recognition question"
-    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
-    publishedDateTime: 2022-07-31T06:21:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 24
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
-        width: 1050
-        height: 789
         isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
@@ -254,6 +254,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "u5bjFS7fVs92cGMFkrnW3WVg0R4OS/h7l4bE+7q+PO1TBESxGBaq0IVhXHeCwjoc0FWePtSrXzO3U8KTqLfi5TMQ8Kd4NbXZ3oKmF1vDwtJWkdqplGCBBcfmWzHogICfwIqS5xmsrPucHa9lmY029x9uOy0GsgGir6dhr/kSriZ/OdMHGWRf/0FyfYfuT4rhQpKLnlilOW4gINfO6I5blNVaM1Mp7h1dt9sNcr+sZrBg++/tLSLO3Z9rgW69YqzxRNH5Zq45+QzTauEn5mxzsxhDMTyOLnyZ4KorAXz7Di8d1STNRewvk84Q4CbBLceVDYtMnDtHHAAsNGIzjjPz8DJdPsWD2XEA5FstU95qdsQ=;UTb0jzVBTpMemdVhuFWZtg=="
+secured: "DSMQ2b+73eGqNSQxv1bQLuB5BbQDo90cifnfZnc5qlBEmF4w7gFE1nZr/uTaJkIynD/N+QmCakqeZSoxVuC4TrUTqAwHSIEHVHN9+RkIsfdbFbxCau4Baena2WzN/7KPnewkfBB1Nb1GUU1/KSNb8KIyJdpvurq9sE0nW5MD2WPFpjGe3a00vkXQeVMV4vdY62/1QVQJkKS6N4iMonud5SOxmV4C1sVQFWF5zjrOz6JvlkZcYBtBNsNMRA1wNRvgV4wcLrICkZlXNGY7/2FzfXJzXjeNo+RnW34329dqbHWs/uDl77hl1Lsq4U35NcRRKCf5si0T5FE+nkp7Pk/h+vFvmK7YuqiGIUL+dr61Ohg=;aDuN1PN2/nj/l0Uz8XTZ+w=="
 ---
 

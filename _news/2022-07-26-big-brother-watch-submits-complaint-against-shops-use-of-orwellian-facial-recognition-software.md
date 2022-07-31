@@ -58,20 +58,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Southern Co-op receives complaints over 'Orwellian' facial recognition system"
-    excerpt: "The group said the independent grocery chain had installed the surveillance technology in 35 stores across southern England"
-    publishedDateTime: 2022-07-26T14:40:00Z
-    webUrl: "https://www.swindonadvertiser.co.uk/news/20579628.southern-co-op-receives-complaints-orwellian-facial-recognition-system/"
-    type: article
-    provider:
-      name: Swindon Advertiser
-      domain: swindonadvertiser.co.uk
-    quality: 51
-    images:
-      - url: "https://www.swindonadvertiser.co.uk/resources/images/14303145/?type=og-image"
-        width: 1060
-        height: 591
-        isCached: true
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z

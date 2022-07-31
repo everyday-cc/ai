@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-dr
 webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
 type: article
 quality: 54
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--rvyK41ZC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-07-30t015528z_1_lynxmpei6t00v_rtroptp_3_asia-energy.jpg?itok=JvQzUo5i"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Australian government reveals draft Indigenous recognition question"
+    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
+    publishedDateTime: 2022-07-31T06:21:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 24
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
+        width: 1050
+        height: 789
         isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"

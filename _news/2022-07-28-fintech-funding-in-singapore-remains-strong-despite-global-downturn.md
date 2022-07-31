@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 892
         isCached: true
-  - title: "Why economic volatility doesn't worry this fintech"
-    excerpt: "Pagaya, which drew attention for wild swings in its stock price last week, says uncertainty is part of what makes its product compelling."
-    publishedDateTime: 2022-07-26T13:42:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/why-economic-volatility-doesnt-worry-this-fintech"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 4
 
 secured: "BITu+bH1+r37sXyxDvcNScPe7zHk8eOVRH1ELJI+14d7ICCpgCKOOSnYvc+fGwrhgK3tu5PrdMSVrau1+SVt1vlr9xWHww2b/WnJ5+cpHKk0J4wMg1Fyv6881TGtPlnD4jxkYSRZIX6+IKoQvW7KOTli0ofL6k65vTSJ8f1uKO6gtPr3N1qJPAXC8z1ZhoyilWKyxoGqn79CeTU+UVIxo7ei9y7e8UzQPfyYw0RonYP2+LBihgT91RqvB9BuuPSVQ20k08v9M/yP8OGHnbbMwoRxN5UHARCQVxqFbj/LS8P6/fDZoVqu/xSITT85TH424AT83sXhj03HiOLHROu2keTBwmn2c6B8YQ/lnIVv9pseuwEJSPnPObfcM6jplyny+zplkaVedbn9oRcUwgJSOrjgl6J/0FVBoMmUFP560VgxoKerlIgcfdg+bvn8f4YbtbCZjIdoOgPJUgAvL3Du4gkBS4Dnm+qTesDVtwnQ1BuLMmz7StNzkopUDieDxSTaXomTmKcihi/Pm2Bl9vIxSw==;9wym/xnPXo/gt/oQRC6eBg=="
 ---

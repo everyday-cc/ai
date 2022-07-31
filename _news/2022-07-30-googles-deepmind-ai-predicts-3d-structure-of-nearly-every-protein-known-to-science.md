@@ -3,10 +3,10 @@ category: news
 title: "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science"
 excerpt: "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen."
 publishedDateTime: 2022-07-29T18:18:00Z
-originalUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
+originalUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
 type: article
 quality: 98
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -379,6 +379,6 @@ related:
       domain: dailymail.co.uk
     quality: 0
 
-secured: "VbA7/lFQPI+/ol/fQyfr9q7YQIs4A6TJmdQ6wgh07UPmJt9gHkEgAxIVGHDXVF+u+FGaKY2JzSFmAIgDzddZeY66jPkI0nmwivq/kXezU0h+oTZ1O9h+NFqTvKqNBRws0nLxKFguCofRiOWlagV/PPT0JXw+AgIE8IK5FleS3DxbhvQNdRyvlX4fPkX6Obs60y50tuBz9mYDQvMPHmspnyjGD4/vy4S0P8lUVgqaeCnYljzpbGqUJswg60g2Tg6bv47ShtZTp1CucbvfKyEtXy0xLJuWwknjUGLHDFS1tZRcxeuFe5hgzlw46Fv/+iQ9WUNRPCwYo+YobjLAfOfCZp/Pj+iqj6NBfh2odPgQ7mU=;evrYmXf+Lie1XHYj4Cyblw=="
+secured: "CfVVr88P4HizdAcbORvVk3+Pk4pfcvLYVN8IGAFVLuOc93vhckA4NP8WM8oCHYC/awUAUeMV466ZHi8BcaS76GPuSCyTOjGJrQUAgtYd/fn8uYpaXT3ZAqJES/GhMbgp+0K60YNafKI2r2LBYwFZpedUzqNf3f/RL6Ypi42Kj9DLZqM0i5AYunoKB7mV82c4PhoX/6plH3k21I3wEMhlBXTIADKyKSdOd0F6xsVBW3hK4kZiDEBlSNZas8TKAlsW4+PNrCAgtg8vhg/igQSUkS57nDqU9gdelGgH+SMkyTr8xONbxJ3F2mkcAVYXA/7iEXeUdFV0SQ//Fd0854kRgl6+g9ZGPl7eHYzMfDzOLXU=;/tq2p5ZLB1zBh+ZCPzPgiA=="
 ---
 

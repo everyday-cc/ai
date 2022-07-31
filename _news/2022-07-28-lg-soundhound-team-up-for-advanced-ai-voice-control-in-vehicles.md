@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-v
 webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The hype around artificial intelligence"
-    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
-    publishedDateTime: 2022-07-26T13:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence/140394/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "LG Partners With SoundHound To Bring Voice AI Technology to its Next-Gen Ivi Systems"
     excerpt: "LG Electronics (LG) has signed a memorandum of understanding with SoundHound AI, Inc. (SoundHound), a global player in voice artificial intelligence (AI), to"
     publishedDateTime: 2022-07-28T12:17:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-t
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/07/27/ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated-chess-match-proffers-spellbinding-autonomous-systems-lessons/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -24,20 +24,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Chess playing robot breaks finger of 7-year old boy for moving his piece too early"
-    excerpt: "A chess playing robot grabbed the finger of a 7-year old boy and broke it because its opponent tried to move a piece too early."
-    publishedDateTime: 2022-07-26T14:42:00Z
-    webUrl: "https://thelibertyline.com/2022/07/26/chess-playing-robot-breaks-finger/"
-    type: article
-    provider:
-      name: Liberty Line
-      domain: thelibertyline.com
-    quality: 33
-    images:
-      - url: "https://i0.wp.com/thelibertyline.com/wp-content/uploads/2022/07/WordPress-Featured-Image-Sizing-38.jpg?fit=2240%2C1260&ssl=1"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
     excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
     publishedDateTime: 2022-07-27T12:50:00Z

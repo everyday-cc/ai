@@ -28,20 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "Chess playing robot breaks finger of 7-year old boy for moving his piece too early"
-    excerpt: "A chess playing robot grabbed the finger of a 7-year old boy and broke it because its opponent tried to move a piece too early."
-    publishedDateTime: 2022-07-26T14:42:00Z
-    webUrl: "https://thelibertyline.com/2022/07/26/chess-playing-robot-breaks-finger/"
-    type: article
-    provider:
-      name: Liberty Line
-      domain: thelibertyline.com
-    quality: 33
-    images:
-      - url: "https://i0.wp.com/thelibertyline.com/wp-content/uploads/2022/07/WordPress-Featured-Image-Sizing-38.jpg?fit=2240%2C1260&ssl=1"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "4ZjQRHKnwQtBEYJ5bcwTvzFlsNRYXBLg0buXmRawsk/dydT/QzK7db6l1SCDlL5jyWzgrNZRlwQXSFB8lvHVvuL35ha1sDQa8PDO5jOZcR75Zxq1sljrEjn1RlnC8EIVYXK6vK9m6dXuxrUnwsgiieXPj1s3jbnY4Sa2jblsJLJGMK8DN23XXD7vBo32ZNp+tleO2tNpI08oDL+Bw7e9W+1njTHxroEPZ7DZo0PS4P8FXSLny2bsCoWhNUMpEzXqD9892mVMDOKLVmcei13+ikKdAl04+w+WwPC0NK76EyEjf75VakTpTicPcq2Q4Uk0wtf06UtJERhQ9D2uOmAdfcTRpMlOU8qtaIwCVzIsdtgP+g4WHkXq569qT0vyi9d6BcrMHrxLchIVdhkjDTuss8qTFH0Xbd6P7vpI2iaAZj8XW3HdFcPzNoq/9CMCeyyO2GgQrlVT2dl/FeUtxY45a6psRjIn/0YheZd3Jmdh3EhphLHDX7lYmT/BfEpiI7Zdf4BZVda3L+1Zz/NhR19gng==;xMokkHnmc0IvmT7ZSvzq3Q=="
 ---

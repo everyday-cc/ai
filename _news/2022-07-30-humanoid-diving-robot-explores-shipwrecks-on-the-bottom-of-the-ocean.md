@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Humanoid diving robot explores shipwrecks on the bottom of the ocean"
-excerpt: "CNN, CNN BUSINESS By Ashley Strickland, CNN A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t. Known as OceanOneK, the robot allows its operators to feel like they’re underwater explorers,"
-publishedDateTime: 2022-07-30T13:22:00Z
-originalUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
-webUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+excerpt: "A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t."
+publishedDateTime: 2022-07-30T14:58:00Z
+originalUrl: "https://wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+webUrl: "https://wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+ampWebUrl: "https://wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/amp/"
+cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/amp/"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: 7News Miami
+  domain: wsvn.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-    width: 1280
-    height: 720
+  - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/07/hypatia-h_c5cc9168d682981a76a0c43b6d7ec72b-h_486fe56dfa8924f79834f87227668250.jpg?quality=60&strip=color&w=1024"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "pF/QABCIuv9mBUoTaNHqXAKAGkaEv50hL5WtaMvmBc4dQ2MpidNw6vMHFg4YjJ1X/pljRQm8u7Apanfi6wNoeAF2JHbfJmwm+9hKrpxONSyCnu3EcmgUmThwx9KzChVNbp/VY2w0IB8r9VyH7ULQ6XioRogAWt4aWlqGFX7ksdbYruYFNENrLM5qPNPVFuHDGNX84y3OTvkl2AxYzlGPqdAd5efHiMMWFdnQMlNHAY8dO1OeBMBWWemidOVr3UvE+tui68bccSzI5DR11KiNh2pjULLEe2G/5cLWpSI4O9hdEW/sXlwbNqQRDYPww6yfgX8i40D9Xqorj04NVE3q4UcVd+81i7eb0+3QamCFq00=;NbVdlrO6/iNQNXUf/ee5Dw=="
+secured: "TqAr46pm+E6EEMaZc7ITh1CSv5I0jsrrJgwQ3nGM4gGf+VnRH1rZElgEFxIkM/9/svHvyp4YSV4BiQtQJ05bx2Ixz2Dh4aHjHDZZAJovtLmdnmP15gZ0pb3sqWipUN3CTsJkIStSNjrFK2S90A4ac7lLXJta+i5hiJq+jmpoKRH+pAjX9BMUZi1W26VBFIL5VEvWO+lipcZYbaUAovWgKF9jk6CI5PvdfWPHOD/ZWcOBpJ3Iw1YX+/tAvgU1740bYtsz2LZzIk5zSMVjkGwiKsoBURsbNfnCDTDt5+Tfd9gvwFeXzvF7ib9zS+Lyq3jx/1z4mWlMN6GGbnXTpo4cQZ7RcCzvvvkr7PwFVuV3Cl4=;hlVPBRrMfJGR7nQnVy/x1g=="
 ---
 

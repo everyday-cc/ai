@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/stanford-team-develops
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/stanford-team-develops-humanoid-deep-sea-robot-virtual-exploration/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Humanoid diving robot explores shipwrecks on the bottom of the ocean"
-    excerpt: "CNN, CNN BUSINESS By Ashley Strickland, CNN A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t. Known as OceanOneK, the robot allows its operators to feel like they’re underwater explorers,"
-    publishedDateTime: 2022-07-30T13:22:00Z
-    webUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+    excerpt: "A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t."
+    publishedDateTime: 2022-07-30T14:58:00Z
+    webUrl: "https://wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+    ampWebUrl: "https://wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/amp/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 59
     images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wsvn.com/wp-content/uploads/sites/2/2022/07/hypatia-h_c5cc9168d682981a76a0c43b6d7ec72b-h_486fe56dfa8924f79834f87227668250.jpg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "ytqc24gbZUaUC7ku68YgKiRXt7clZ3hzxA4hnv/GGhKyWYAkQCzrGHRkLrVRJcjYA1LFxqHG/UoOvRwSL4I54gn9xMt3/ZCCPX6X6/tKEIi4O9Ei023BJHkoR9gOQUMf8X0iEVOSm+EyKu2TGTkrQvJgX1fkMFqzA2njMYcoVsWdikWFlvu5HbY0Rl6sVA3TDix9kDIyyIrbxPjUmu9zGWy/c1QwcvpogZTyO+w66KJXBoaK60tZd6pJtlvuCJarWKxL5B8VQ4Y73bVCZvIR2+Fw9VvK/7UQ/xcpGJRx4HdrfrGly86S7mq/ML8qFQJPKnrwW08CtXoQyox1MhreUTdx5RCZT2udH7JtbqRMYVzcqbcOhSrxKWOm6NfiMWGa3aSY7rHm3D0W+hZGNL1xsRDilMDfAFqzpIVvBwcrJiacSAl8Wi16uXYMxYCW49uW6Ni7yOTY+srljSV+6bMEkJYsaDGTyRhyY7VJQPn+gRsNqxqqIKGNsw33zMM3QtAxKmtrJCHEtoHz4B3fMrqXnQ==;tqnvC0BkSuu5bOs7DG9VcA=="
