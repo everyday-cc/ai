@@ -3,25 +3,25 @@ category: news
 title: "Lawmakers seek limits on facial recognition"
 excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
 publishedDateTime: 2022-07-26T21:00:00Z
-originalUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
-webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+originalUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gloucester Daily Times
-  domain: gloucestertimes.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
     width: 600
-    height: 315
+    height: 333
     isCached: true
 
 related:
@@ -40,22 +40,6 @@ related:
       - url: "https://497959.smushcdn.com/855165/wp-content/uploads/2022/01/supermarket-949913_1920-e1641895539108-390x220.jpg?lossy=1&strip=1&webp=1"
         width: 390
         height: 220
-        isCached: true
-  - title: "Facial recognition cameras in UK retail chain challenged by privacy group"
-    excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-    publishedDateTime: 2022-07-26T09:22:00Z
-    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
-    images:
-      - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc"
-        width: 620
-        height: 372
         isCached: true
   - title: "'Orwellian' facial recognition cameras now in UK stores"
     excerpt: "Shoppers at a supermarket chain in southern England are being tracked by facial recognition cameras, prompting a legal complaint by a privacy rights group."
@@ -148,6 +132,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "9MQ8T6cQwO1fy00sKqdzeY6cr5HCsioW+T9y0IJMNuWKgmqHoYQ4UDYOeRymYtNDdHnH0oJbo3/6sz+NfKC7VVXdvU3Yk5LY1fiC/7IA1tK+/M0o57GlaG6QL9PCBHRMPtfNmp5Dzk2rfo6XDd7VVmBMqfcbFbFMi9fbZrg7SVXII0PYR8jUDWn2oXEF3D4OaMCrxu0hlF1vYa111jNg3DSCnIs4ijhK0hhX4+vn6agEizKaj5QEbgRWsOr/2xsammNtvPREh//pZb0t+6BVm1xEJvjFTKEmZ3hm46gGlAnqoFS0jb1d5NLS8PGOdehzNX4SrlN6Ax9QqRtmSwsPM9CSNfsAy2e6tM7pgMw15RQ=;xk462eiEarewopvcH1CjRw=="
+secured: "I8KQutGgFr5R1QwO9rzX8X56i7JLGx1UxrPNouSh0BOqa6lvoNU3jEV8epJ2MmSOtkFOq8lqaLsbnBk7pI2FuKBPSvevU9mTlqbQ3WXKpUpJ+Z1xOdPlJ3MFgNNI003GzcnbA3/vYmEgJLagTUkVPkTaEuz9mbrq/dkPGTRzjVZSggYSoxerMtBci103PQ5lrjRfc8adQuQMNV9Yc3/wM3cVU0ZONCzbDePcrmkvYAsbEYSH3a4rNX3IPS3U31TAJRno/k7ISzNLTpg6p6OKeayJ8hik6HpDDkbBT97QMfN1s8UmZzBSxtYRE99vMO0NMQIRp92fLOL4dOE7+e18Qj3gmUri4ZyLkdzpjmLFnM4=;VRbtmZYXbm+SmQP5hVtP7A=="
 ---
 

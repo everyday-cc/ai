@@ -2,19 +2,19 @@
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T21:52:00Z
-originalUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-wabi-tv.cdn.ampproject.org/c/s/www.wabi.tv/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+publishedDateTime: 2022-07-29T20:52:00Z
+originalUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
 quality: 66
 heat: 66
 published: false
 
 provider:
-  name: WABI
-  domain: wabi.tv
+  name: Live 5 News
+  domain: live5news.com
 
 topics:
   - AI
@@ -26,6 +26,6 @@ images:
     height: 369
     isCached: true
 
-secured: "KIvxZ9D8FICYsi8IxWYEmeci8l8XmNnFr2JZ5b5hAIW3QmxGhbzxnn/MQbvUPiXM6v9XlJ/1I9cQ2AQz8XRLXftCPqU29Ye0w7vlwXOT+WiCGDlmnDTlRqNlhtVMoAzmYKUilVfuHXQEcbwL69O0ywnMNhDxejeqsO97Z0H/BcJcCuDrKJC1X9xZ11HzIoMHoL3yFBilB/KJl6p5J8uqf4tkAS0gzGjt2XJvockjhm9TwkEFAajbZtRTNn1xvyzrtzEC8wO5G5DgM0TZuzACyK/rtJHIxugOggO4jG8/uXUcRqJQDhOh3L6Omdp1b8lMqbV9+A36CTj56z2hW9Q/Kg9zUuh73g6/9hOdTB7tDmCPTEPyNKnZBpQNKUGVDE1U/OawEYyehXDg4VSYLatYa3VJZpu7xOzSIq2W/gNl/VqcJ5ySbqwMmlm9QSBgdoCJEkBgkPxMt+aiCXbclKKNWRtgcO07xxXC0xlTvjE5bzEScR8bgXQF1aSKXOXVuUL8pJ3523pVk4Nh66fC3otDWg==;8/UgHJvcPgeryKIkGU6UVg=="
+secured: "arvKKrzAckJyCfC7YfaVa4m9OGGz58WYcqKBaBfwVCWTJVG6FyJHskuvji9XyMvxYraZE66xN1y6RujBHOfP7lXC61uxFJIKi4ViZsDO3L0+fajxtlB+KH/agEEFprcNhuWYvAbADoV4EeiYdhDqProXTU1GG1A4JpE2ARy6V+ro2wv2knZyS7wcyMoC0oL/qcwLp+Zpuobxc8jkWQuTTHYAL8z7Gh1wd0gi4Zb/Br3qYKJxx8rs3ax9K4VlzcOivN0Z51ea6X7rFGHvF5OFsne050BSfsNY5lKYzq/uqMggwjMIRnc9mtD9XE0ykpGLNeaEe4Br5Mk6PzgvcgEN0x+1rNlowpQPTHf+4WUuY84=;YXFzuLUTK/MKh87cy1tgdw=="
 ---
 

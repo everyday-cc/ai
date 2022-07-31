@@ -43,22 +43,6 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Facial recognition cameras in UK retail chain challenged by privacy group"
-    excerpt: "Big Brother Watch says Southern Co-operative’s use of the cameras is ‘Orwellian’ and ‘unlawful’"
-    publishedDateTime: 2022-07-26T09:22:00Z
-    webUrl: "https://www.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jul/26/facial-recognition-cameras-in-uk-retail-chain-challenged-by-privacy-group"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
-    images:
-      - url: "https://i.guim.co.uk/img/media/aa6324386e9fe52d51b229a9ab13f470938263ff/1_332_2666_1600/master/2666.jpg?width=620&quality=85&auto=format&fit=max&s=8749557b920f7e7ccb7eed1ddc70f1fc"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Southern Co-op receives complaints over 'Orwellian' facial recognition system"
     excerpt: "The group said the independent grocery chain had installed the surveillance technology in 35 stores across southern England"
     publishedDateTime: 2022-07-26T14:40:00Z
@@ -90,16 +74,16 @@ related:
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
     type: article
     provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
+      name: Eagle-Tribune
+      domain: eagletribune.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
         width: 600
-        height: 315
+        height: 333
         isCached: true
   - title: "A sketchy assessment of US border facial recognition systems"
     excerpt: "This week privacy advocates tried to convince the U.S. government that it should not use facial recognition systems at ports of entry."

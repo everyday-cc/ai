@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server ..."
-publishedDateTime: 2022-07-28T00:46:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28237787/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-ce"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/n28237787/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-ce"
-ampWebUrl: "https://www.benzinga.com/amp/content/28237787"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237787"
+excerpt: "These new solutions will incorporate the Intel Data Center GPU, codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server with ..."
+publishedDateTime: 2022-07-28T01:37:00Z
+originalUrl: "https://fox59.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
+webUrl: "https://fox59.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: FOX59 News
+  domain: fox59.com
 
 topics:
   - AI Hardware
@@ -67,6 +65,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "ZMVbzaXUQP8Tm+TWOa7KN6eY05u64DJaGZ9k2+CBuE491jz1XizmgfLoSK7+S2lpk8V23gDqAm/m2aass095g4MShreSz0COfx912H/cXLLP/ynJZQWEDbloHM4ZF4bGg58sQe1LovfxnkueRWUZK4vvnhOzwWwG7nW79Fsk6kgqXPKDLhfLiIVda1soG7JGStzTsx41jej+HPhqHIKjUp9HCcpDeiPvux166DtZrhAepb5Tflnd7ocmo7Lo75qRyYGQ2c/jETJIvYXLzKjP7OWuci4Jl5NVmCkyaF1LYRCzxOSBN4K8NK5SXQw05tymOj3mu6wVDJNUf6YHjxOVOUyRJkF7zNouN/14WDDPE+o=;futIrs3VMeIudQRidY/XJQ=="
+secured: "DqnLR2e6YcIWIwxsbqGNqqYzhfAPTQ5h6Nl1wVuYKfUGX5dCViA30W3AuJDbZGv4Vu3TVjmkkMb2WsSiqunne7oYmhwHjQbFE3ryoHxNp8giZgZzBjdzgsHAFqijOnEshOzYAf37UtHqaE70d6YXd/vQscVvhSwInPUS4AzPNlFZvQSCQUcqKrPHavu968GDZqzlr4IuMWFDXJY7FYWWc2wvBLjZofDY0eYYtMjMBCv3WkZI6ayWKRKFUTMriMIRlmxC7X/++DVT/WMnnZE6L0+s1oIFe2sE+6w2a2c/v4XOfYi5XsN3I0KnLwCwi6OsvnK8seuJwY9SDAwKQDfEl2HveqLSQXfmtaa4Xb6BuBY=;xyAzwWSLnaKDsNuXTRubdw=="
 ---
 

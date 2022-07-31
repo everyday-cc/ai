@@ -9,7 +9,7 @@ ampWebUrl: "https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-int
 cdnAmpWebUrl: "https://www-domusweb-it.cdn.ampproject.org/c/s/www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.amp.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,17 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "3 Green Flags for C3.ai's Future"
-    excerpt: "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April)."
-    publishedDateTime: 2022-07-26T10:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp"
+  - title: "How AI and TTS are changing the professional work culture?"
+    excerpt: "Artificial intelligence (AI) and TTS technology is changing the professional work culture. These technologies are helping to automate processes and tasks, and they are also creating new ways for employees to communicate."
+    publishedDateTime: 2022-07-27T14:22:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/07/27/453023-how-ai-tts-changing-professional-work-culture.htm"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jul/3493213473-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "Fk+tYorfSg2Ju9dluZuve1VZGJa0PY9KHvtX8yFDe/890pXnLFxnjh5jEU9wd4MvZ4ge0ObkiksYw3t9nB92+acZqdJYsiYBDybNa8cp2lHHlP5T7SMFkXFC4FEp6LSXwqbYw9Xfbumqz1fIaElEE9n+bGGl712m9wYqHoKU8ZYOSiB6s8pjqmO6+TJGxUgSoBQhG0jn84ICt1NM6TcXYe+1cxWqAGCaKzzSt4e/VX6cyRuDoeLIKlUMH1shobsN15kcsFRzIXMaW6lWyLxGgqEi3Pl7/As4Pk6GGSbHexvN8myhtMvbDIMSga/23TZWnIiYPmKLv4Qun5MlkysOoeJdMd/VoQovVvqVdxAcnPI=;Cx/1reN+AeR6IpBo1TMitA=="
 ---

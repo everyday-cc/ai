@@ -23,6 +23,17 @@ images:
     height: 3648
     isCached: true
 
+related:
+  - title: "Fiddler Announces Updates to AI Model Management Platform"
+    excerpt: "Fiddler today announced major improvements to its MPM platform, including model ingestion at giga-scale, natural language"
+    publishedDateTime: 2022-07-28T16:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fiddler-announces-updates-to-ai-model-management-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
 secured: "GwWa9ZByu0Xn1Z9nzYur4uUq3y7j3GD2Bq82cjzQIRomEUKP7uc9UK0cufX8xrhJ0uA1NxmLI31JaHCHIkWkdE9y0/AjizJrydT27Cy0Jrr4FoWJqK26nJ8NRe/2CNwCoMYerDIrNFJvpQ2Yjab5KVDpNMeUaagK3aFEWPj3Wr0flnrnnRMi79KnVW7xfCm6QvrthFk1y0S6F85k6/xh2xhohWsnzJBtMaMgZVyl+4C2AUVgAY1wo8olMrV7xmMEU7q6c8J9fyQO+LWlf/pq+F6tXAtCGAHGAAZSm/s//hYWrTorN+A34B5lLZ+/rxryzw6dVrHbjHnlgPlQE8T9zvpaaV+2+lJlOHsLTVRfwgMgHyFFogbzE+bIhKXxk3PC2DAY5cUnvgOsEGZk5N5w8bMAkkHe+Q5AFTHZkiQkRjif6gY+uqGanM/R97Ig5t+Q5lrtoi1U9If5ddWbaz/RMsM+2wsZQRTDfMEn7SLzzMuoxYq8P97JexfBgWjNKs3RJFt09CSZ/Sr67fWLsKj5LQ==;Hz5Y6QbyU4r+RS2l/HF+og=="
 ---
 

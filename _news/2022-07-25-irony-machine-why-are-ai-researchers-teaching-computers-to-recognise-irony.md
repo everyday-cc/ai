@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.theconversation.com/files/473359/original/file-20220711-19-5d335n.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"

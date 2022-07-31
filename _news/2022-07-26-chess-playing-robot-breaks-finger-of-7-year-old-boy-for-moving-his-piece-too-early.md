@@ -34,22 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 57
-  - title: "From the robo-surgeon that killed its patient to the driverless car that ran over a pedestrian: Worst robotic accidents in history - after chess robot breaks seven-year-old boy ..."
-    excerpt: "This means driverless cars or intelligent robots ... DeepMind's Shane Legg said in a recent interview. He singled out artificial intelligence, or AI, as the 'number one risk for this century'."
-    publishedDateTime: 2022-07-26T09:59:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/26/10/60702639-0-image-a-2_1658828529313.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "A robot breaks the finger of a 7-year-old: A lesson in the need for stronger regulation of artificial intelligence"
     excerpt: "Disturbing footage emerged this week of a chess-playing robot breaking the finger of a seven-year-old child during a tournament in Russia."
     publishedDateTime: 2022-07-27T12:50:00Z

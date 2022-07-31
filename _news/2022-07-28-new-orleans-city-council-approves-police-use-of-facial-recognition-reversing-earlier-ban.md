@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance"
-    excerpt: "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech."
-    publishedDateTime: 2022-07-26T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition"
-    ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 61
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80"
-        width: 400
-        height: 225
-        isCached: true
   - title: "New Orleans Mayor OKs Police Use of Facial Recognition Technology"
     excerpt: "Many jurisdictions have banned the technology, but it may be enjoying a comeback because of the crime surge. In New Orleans, the software has raised privacy concerns for years from the New Orleans Council,"
     publishedDateTime: 2022-07-29T15:05:00Z
@@ -48,20 +32,6 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
         width: 720
         height: 393
-        isCached: true
-  - title: "Kmart and Bunnings back down on facial recognition after CHOICE investigation"
-    excerpt: "Two of Australia's biggest retail giants have paused their use of controversial facial recognition technology in their stores following a CHOICE investigation and weeks of public outcry. Kmart and Bunnings,"
-    publishedDateTime: 2022-07-28T04:39:00Z
-    webUrl: "https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/facial-recognition-win"
-    type: article
-    provider:
-      name: Choice
-      domain: choice.com.au
-    quality: 36
-    images:
-      - url: "https://img.choice.com.au/-/media/b4ff01b8aaed4456a6c03de0881401e2.ashx"
-        width: 1200
-        height: 675
         isCached: true
   - title: "New Orleans mayor signs it: cops can use facial recognition"
     excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"

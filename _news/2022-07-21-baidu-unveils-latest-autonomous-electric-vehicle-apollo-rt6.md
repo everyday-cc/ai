@@ -2,25 +2,25 @@
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
 excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T05:57:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
-webUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
+publishedDateTime: 2022-07-21T04:16:00Z
+originalUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
+webUrl: "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html"
 type: article
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: WDRB
+  domain: wdrb.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
-secured: "3eusIuiQYGjJqy/bJ0xwMQ8s4bw2gYwNbhi6tnHo4KYBHCUNK/PDfW1Q51Dlm3+/C3K6eZECBfhdY1zKpznKIGITVVvRzH/W+8ZmCBFw0TfsKgfHX6a1L8KripjKlY/Z1XVYoPnsGlDxpFtC/+TjTADYIPYYpQe9/08K3Ctk2n+833ZbUn4FxNNkgQHfyweyBDoPoCe9sbHA+CaQmWt8wLuHQI/ApQEEu995IdSErAUZeOeO93R9nQ5yOXl0C3hZK+AbBAQtI5by+8Na20kT0Tq1iitYqBbNGrYsvXklp/KJRTJkM9wGvyKmFWsnePKAEKEbLUtZm3CVwcgXJfdUSaR6Ozm8QOOiEN7qRgXRnew=;0E2BnuIe6bI+xDeGJ9z1QQ=="
+secured: "zA8sm8lqY3x9pelxyaeKm2ouDE9OXP0as4fBxbM4xmwYxc1m8XDkKsMUg8tJyMIyOgf3W5XO5D5HESaBhHyORTM1EJX8e7tYnI9rL7PNKItSzW6jJ5Tt3mOsBy3w35x2svfNpDnY517q5dhad9Ki0xSL/tHR1x7OotW3tBeHDpXZe4rZubTlhyxYLY8j/b3enrOWr6wDPu+GgFpddYrPmXwQg6HQkcLgbmwkd/wnEfCIO3lmLGY+60CEHQseeqDyErhQOK0lWGAVHShjlmcEHBMPSV6uxYENBm0baYwmsuY0CNj9f/UTnzvW1ExYKF9wrF0/+GbArCeNdi4ZT1XNemRcNluRC+b6PTTPi1asapY=;yGG/bm9WMBVJtkfI6hYTCQ=="
 ---
 

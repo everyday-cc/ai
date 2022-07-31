@@ -233,20 +233,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "AI Medicine Software Market May Set a New Epic Growth Story | Enlitic, Atomwise, DeepMind"
-    excerpt: "Some of the major and emerging players within the market are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi ..."
-    publishedDateTime: 2022-07-26T10:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-may-set-a-new-epic-growth-story-enlitic-atomwise-deepmind"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 45
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
     excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-29T08:43:00Z

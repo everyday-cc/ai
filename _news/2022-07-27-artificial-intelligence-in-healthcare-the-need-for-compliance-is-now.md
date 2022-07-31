@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Three Ways Artificial Intelligence And LIDAR Can Be Used In Healthcare Delivery"
-    excerpt: "The time is now for healthcare organizations to consider AI and LIDAR to help streamline care, improve outcomes and protect their financial viability."
-    publishedDateTime: 2022-07-26T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/three-ways-artificial-intelligence-and-lidar-can-be-used-in-healthcare-delivery/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/three-ways-artificial-intelligence-and-lidar-can-be-used-in-healthcare-delivery/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/three-ways-artificial-intelligence-and-lidar-can-be-used-in-healthcare-delivery/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62d820664fed819bc1c1ec8d/0x0.jpg?format=jpg&width=1200"
-        width: 1195
-        height: 796
-        isCached: true
   - title: "4 healthcare AI trends: CVS Health data scientist shares details"
     excerpt: "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now."
     publishedDateTime: 2022-07-27T18:40:00Z

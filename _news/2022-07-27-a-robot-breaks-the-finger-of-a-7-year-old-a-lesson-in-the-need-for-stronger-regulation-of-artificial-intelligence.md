@@ -42,22 +42,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "From the robo-surgeon that killed its patient to the driverless car that ran over a pedestrian: Worst robotic accidents in history - after chess robot breaks seven-year-old boy ..."
-    excerpt: "This means driverless cars or intelligent robots ... DeepMind's Shane Legg said in a recent interview. He singled out artificial intelligence, or AI, as the 'number one risk for this century'."
-    publishedDateTime: 2022-07-26T09:59:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11046663/amp/Worst-robotic-accidents-history-chess-robot-breaks-seven-year-old-boys-finger-Russia.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/07/26/10/60702639-0-image-a-2_1658828529313.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "4ZjQRHKnwQtBEYJ5bcwTvzFlsNRYXBLg0buXmRawsk/dydT/QzK7db6l1SCDlL5jyWzgrNZRlwQXSFB8lvHVvuL35ha1sDQa8PDO5jOZcR75Zxq1sljrEjn1RlnC8EIVYXK6vK9m6dXuxrUnwsgiieXPj1s3jbnY4Sa2jblsJLJGMK8DN23XXD7vBo32ZNp+tleO2tNpI08oDL+Bw7e9W+1njTHxroEPZ7DZo0PS4P8FXSLny2bsCoWhNUMpEzXqD9892mVMDOKLVmcei13+ikKdAl04+w+WwPC0NK76EyEjf75VakTpTicPcq2Q4Uk0wtf06UtJERhQ9D2uOmAdfcTRpMlOU8qtaIwCVzIsdtgP+g4WHkXq569qT0vyi9d6BcrMHrxLchIVdhkjDTuss8qTFH0Xbd6P7vpI2iaAZj8XW3HdFcPzNoq/9CMCeyyO2GgQrlVT2dl/FeUtxY45a6psRjIn/0YheZd3Jmdh3EhphLHDX7lYmT/BfEpiI7Zdf4BZVda3L+1Zz/NhR19gng==;xMokkHnmc0IvmT7ZSvzq3Q=="
 ---

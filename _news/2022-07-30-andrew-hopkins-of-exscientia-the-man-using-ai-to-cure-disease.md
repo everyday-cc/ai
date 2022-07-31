@@ -2,9 +2,9 @@
 category: news
 title: "Andrew Hopkins of Exscientia: the man using AI to cure disease"
 excerpt: "The British scientist’s company employs artificial intelligence to drastically reduce the speed of drug development"
-publishedDateTime: 2022-07-30T16:20:00Z
-originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
-webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
+publishedDateTime: 2022-07-30T14:00:00Z
+originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Fz2kJMotrEPOJ0FVyQexYtCyFHvWB+/NBFcz7AX8k3aLmp46YjnZaWs5yHUa3N6RIkJ5rXmGjvgblTLygmbY7L9X5h8qqPnqEr3eXP+MBpSD8rJcZQsiNOyop7xUtTrTIU/XPGewtYjBYP7WkaQ8X3z9HmlxdvNRkQvfTU2UNSUWYa1n09e/I9aWGXxO6DUjkXoEcpPKpUkJ0Y3rLqY8/rZd8kRy2bJxmuwErteXBBaEAcdS9y3FTRVKWnElkolIHzN81F0M/1PoW0OcJY4q/1FHK1HdzvwK0aXq3Z6eSMSiFNkhBTT9Ja3Yeg5vx+OcffSvqZqKoHUO8qli+skIUf9eIp8cssbRgoQNUeKC7pY=;l8Ka6YGx9HkZrRwqsrA9bw=="
+secured: "VKLUPDZQgJV3BAxY+2+2dxQbVjPrGNv88hBcFPmOLfUbDCMRC72YXp1LFm021DwFrkccjIsDBOF/1J42C10c8yN+0M+0XG8ZgBu2dBcCe0zt97Dug6mJOjPcikSa7Ct46ORxaSpAo+2aGgnqtpoZtmkACybNg7Z5E62SOlnLFtdO4VOhsPn2WFjUdQxQoUH6yftkIJpw6/4gPjy4dP01zVVE7WBWr84eVwBNJI0QBNDrQuTqAZEJ3myPqQqoftDZ9GnGmmV4ctSn8Qfr899TrycBrHU3j/Ni9LAvcGY90Ylfpfq7B5Fe1qzPXKdE3uROyKDTkmq1us5naCqSkCkjfumgIccX3+zuoLpJuszvfds=;nyzqzLapRN7VBXTITFqjZg=="
 ---
 

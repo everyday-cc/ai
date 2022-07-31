@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-27T12:25:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 type: article
-quality: 47
-heat: 47
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "/0UFvm91C3PKEzHvZitr7tWzlGPIQ8G3mQeEHQIKJFJXO/cvNhWrlSF0RpA7yLy03E/uIRKbQcW/IxdGDeLy1YFynDVOHy/5YvmqyKYKjfCjeH5UXRLpfwQasnhy/p6pl4zlagbWdfQuOCbcxV5UN0QkOPtWQtvgctnPPGjZtjkzQGLcyNikddiYl3Wp2fyLiZ1eu8Tf5r8v88YY29IU2Bgl6+XnhVL18ZE8/dtcE0hGOWdD/H63foXwaTyiP7qDDJnFqu1GMkS5Bi/XR2cMEuxxH2Tx55VUtSmcaDquV3KIn5MmSGbpMTTeZxaRQtCaPnHgflN8rQj3bSiZ4Vw/xoNnv9VVG1ibMvbdgks/4KA=;nll5yOOBESvvs2UTq10tBA=="
+secured: "qckJkPToXj2D4jTXA8FFsj0msQudfcCIbzF/incVH1hA7swlWNPQsNj2nlQc1FkgL+7S6ffOHvuLWQYZWOAp6ykHnQSHnyy33CKGg1U7wzdgu3H6d/PlDt+6M1Nx4QTY8EZCiWZwxe9uyrG2to/eyqnRJACLY30uuwR1Qy5rFMgg4oz0RqAIHnTifpPj9kakjVmCbxYoIuSEiuTm3W3ybq9LkGlo3m8wnHjQ6KT9N0/vFBa57aJpbNNfdGR6jGh3zYhdQGC23bR/11dV3Ld9QyAmYAngSGQ5J8K6ZADR5n3Q0UCR8924+zes8r/PMcpsPjrr1UUpHsmAF/iBbgZyHy3hF8Cj4Tb+Tb3stbQd8Ts=;GPsaTQ0ZMWzKE3hbJnIHow=="
 ---
 

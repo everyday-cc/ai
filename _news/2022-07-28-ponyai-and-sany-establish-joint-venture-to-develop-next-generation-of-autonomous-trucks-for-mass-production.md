@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
-publishedDateTime: 2022-07-28T03:41:00Z
-originalUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
-webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
+publishedDateTime: 2022-07-28T03:32:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 512
         isCached: true
 
-secured: "zgFM/VBtKCSjj9hj/5rszhpcff4EZ55WINO9k/0KTLtAT3JerB85n7pT+5iSMc8Y/DReU5lkhKEA546aD/Th72VdvFsbdIZcL+UXIiknQwD8YrlM+t4taZFe1fJ3Xp/556SepzA6zVVIvK6b1HFnAQn4LEByglJ1FA0XgRP2YBZ51YJs1Rj9HX5WR4sGQB/sIU7Fkc9mcDu21M8CC5DqUxEDPzILrB3Tl21Sj1//RI/kBBqAaPfw3Ij859TKWkcef4UnBeERC+aBtQaSsmBkiLTtxM8dMhKzv1IySRwxGsbdEgMJVGBz1QA5WwrfEElauJkif2xNyJFV0g8SVFP3u3G8DT9bAXFZChSzcr1jsCdO+5KKyhkyaxE7iZnA0I/bwZ0Mi30x3Oenmzh9fbUZIpn3xZ8YPTEkVa41F35+nOug3Z+MeLg28SnzKc512QMPsUq7b23+72UzuByMqrCCevkdkvtoB/VIQN6rWdKZ+z9zqlIwIRW6ma7IyPZ1hSni2+B9vroAvQo2C6Yd36PN3A==;tQ5QxH8agpFTJQxI1FjIag=="
+secured: "jGBSFrMo9j3E3K7t4medAWWg94Uu1rn+S1n5vV7leH/4OW8/aZlCjCWsRuosoSTG0NbZBJzz3LfknULX7GdCwZE+SegpC0+ZpHxlAhfa8Ivb63HTuQbW0pvPqMBrTbLAYV0jtAaaJghkxL7Vbh/pKRB6+jk/ulRimhcivprG8DV9vV5vtaM9xP+vSk2H517i24s2x8JwrF35wat8GPLARYdF5Xa3X72E73ZCoU6EQfXZWPLFjPr3Ondcib+akL7jbi++2l1JEqlqEZnrAHwTGN+uiEN67melLh0otriZwL5fz4Bgc7mXrOK3iQpNbCB9I5R0/18EIYhUif3RmI8dyS03Eq/lNGNPd3oV49ANRto=;RdRqsOHlceQyWeKMiAbHyQ=="
 ---
 

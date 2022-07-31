@@ -221,20 +221,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "AI Medicine Software Market May Set a New Epic Growth Story | Enlitic, Atomwise, DeepMind"
-    excerpt: "Some of the major and emerging players within the market are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi ..."
-    publishedDateTime: 2022-07-26T10:34:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-medicine-software-market-may-set-a-new-epic-growth-story-enlitic-atomwise-deepmind"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 45
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
     excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-28T14:49:00Z
@@ -393,6 +379,6 @@ related:
       domain: dailymail.co.uk
     quality: 0
 
-secured: "gjzMDIR/ha5n6Az1iMwh/63u+UElmc5iSYVYdGhxbR+Dv+WPGcFhSkjvQn1e1NjFNKtWxVnhX6teIRsNxE1VO3PAXhXUlag7R78brKec0JbeNupweoDSi637O9NkbiIj18ECJFke4Dynv0HBSZhlvM9Jdea4eoGS77KwfMoPSWRq6faYxuSRHyxMAlz+lAnU3TbMcwHOwtlzSleaAf+yz4wCjAb2lPq2O2xxB3bjZx0hJh/z7TaUT5P1PsIXq/gjIEVjmbJicbKBFb4H2By58UyQjaYFrGWCpHOnQ4dRoa2yYgUZUM0BgL975wkODMam2Ri9RY6MPVn6TgQ24S4u/cDc092PPn/Uhn19koXsTfc=;U6+Y3vxW6bz5EIEaNGSFjw=="
+secured: "RcEbWBoAIg1XcHXQvyMKlhe6g/rD2tbrFGREKG6fIqVlDhvme2ZKPE2Hj3GOAB5xe9vgJZP4LEaE5lvC1FjHhB6ueLPLBhuIwu1A7hwfA36h6sWYFaY/s8qvny0+uJ0przDuC6iuhN3ETUR90klHXQ97+n0JiA/Bdu5Ehwv+vMHAjqzzsuk32ZdJUK1GVrhjJiPxG5/9Pd3LQjn2/eU0WdUlmS12QuPGm46CmsC8ZwUMVH9jl7xNIeAANMJ16F3JzGMn+voqGL2p16XaTdAglauwy6OiHPaii7JW5x8gvvJ2d2vVKpF7nPAvCnaqw6paIjpyor/FqEAkPz4b7ZYg/x5VjCeMdupsOZbtGlnudTjdzCtC5SQcjmvoUj75V7tyTKQP2k8C4xZDJxwJEeoi5zX3xsn1CiXPGCAcY+zQZBxh8tkuYZ8GbsY6FuOMuuf2W92ZlGGd6LDpOeHRr0XsDJoKnfm65At689ZEohC22a592I0JQ8FV5AbslttiM5frYZOamffSHyrPc4A06PVSTw==;0PIEeZk82g5XkEce68SRyA=="
 ---
 

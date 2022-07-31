@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Taiwanese Startup Mindtronic AI Opens the Way to the Future of Mobility With Meta-Service Ecosystem"
-excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS, July 29, 2022 /PRNewswire/ -- Mindtronic AI (  ), a Taiwan-based startup, unveils the world’s first Meta-Service,"
+excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS, July 29, 2022 /PRNewswire/ -- Mindtronic AI (  a Taiwan-based startup, unveils the world’s first Meta-Service,"
 publishedDateTime: 2022-07-29T04:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
 type: article
 quality: 21
 heat: -1
@@ -39,6 +39,6 @@ related:
         height: 218
         isCached: true
 
-secured: "19eYQunqW9g+wec9n4VmCS1Bx+KIkrPJWDZ2F6aQjHQsZirK+05Fgjp6ekR/omyKeHiXRCCpbDS1EXvJKpwR1T/sNVr0tzH2Sy+rNKoAYQwhQ9b4YmB/eO5l66qht4zYavi2hhSnwaZXwY7CdtR0BIAycF0zX88x8RlzdpxlJ4YVSuowUNfY+xuFY+qOsH1pBCRNdSItAVSP7FKaZbxvLw1JDZM0azjxV1KtM1KmKoOImBAgmtYt4eOAM57iLKcmAbXoB9ltUdKv7MUVBEDKgYow/2kgFlLnpAsiJxkazrDhcC5gFL+brr6xDsVk8wg0Ou7t9jkOGsG5BTyI4Eipvqg1sYuwFdHuicvS1C+fu08=;xZa00epN16ABQLPmzkEA0Q=="
+secured: "zHtW4qh1CXk5vRc5+QFQo6i84Gt0gdI/duIaYnNBoWnQqOFrWaoJubhMbt7sKkFfzKP0HJCUt8HN2lbffA9ER8cE1OOE+NLOKBopd6xJwCDNZbdDma+cgxNWhfp9tAh94vpTJteS6Yvzbjos165BI55DKZKFT5UwHSULoLn3QuwkBeLrJ2+DL0ac71dE3WmqAxrqb4e8WKFhzE23P4sHUk4nExK51wehPM667YFROdV8xyQUZ61peUlzM0eMQz/S2OFd8k4GwIa5gbaxye43Yz6b+gfete3pJzNusmBaWHywnkgk44tBxZow6wXfWbE1asCE09Dg64pLdehsl3VNihWCAwPxUc1siSh6D6BxCko=;qbhUokB4WrdRPfbjgphHUg=="
 ---
 

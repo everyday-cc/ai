@@ -1,27 +1,47 @@
 ---
 category: news
 title: "Humanoid diving robot explores shipwrecks on the bottom of the ocean"
-excerpt: "A diving robot explores shipwrecks and sunken planes in a way that humans can't. But OceanOneK's 3D vision and touch-based feedback allows people to feel like they're underwater with the robot."
+excerpt: "CNN, CNN BUSINESS By Ashley Strickland, CNN A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t. Known as OceanOneK, the robot allows its operators to feel like they’re underwater explorers,"
 publishedDateTime: 2022-07-30T13:22:00Z
-originalUrl: "https://www.cnn.com/2022/07/30/tech/oceanone-diving-robot-scn/index.html"
-webUrl: "https://www.cnn.com/2022/07/30/tech/oceanone-diving-robot-scn/index.html"
+originalUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+webUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "eyTZGaimAN2GgHHf0qPClCMpMuhvo0FcFPfJqd59kopx9/xVpcRiiOV/ZvPIFT2LUAWszykEimOqDiFFShMWUbDDZGBd8nIIYfDHAa2iRTQ3jvCblALI+8xZVre8eLz5K73Nxx54J29RNqLeONyNC5chxyC3HM0zko+3weD97At14jEpEP18+aE4472C+6lEFrH7EOuzLPHsQIPwgclWIVyCtrkjiud+lLpwlKYq417iZ0dJlurzl7XVvpjr+ivk8VWCoMbVzoCPGDfIMy3ccewUfvcAfqw0dARPgj4LVAG30qb+1avOz43Pc8ujxsHunVrfVwMEkEjfMqBrm3hbIZcrpBhe3vl1xDlesLH29PqIC9B14JAn1LYBA5OEBTI9ANaicxvr748Kn77qvj0zgIQkg69wjVHvQJX+SWK25Ntx1HzkbLNoR6wTb7ShM+Vl2TRq5kD/F2pZgwGV3o0EH4CxSqTOfK8uUMgn006NAz8fTCln/S+/fIukZ89fruOOieCYJsxA6VETMcsEyMR0Dg==;qkpvALbwgOrq0BcMsOQExg=="
+images:
+  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Stanford team develops humanoid robot for virtual deep-sea exploration"
+    excerpt: "A robot created at Stanford University is diving down to shipwrecks and sunken planes in a way that humans can't."
+    publishedDateTime: 2022-07-30T17:46:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/stanford-team-develops-humanoid-deep-sea-robot-virtual-exploration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/stanford-team-develops-humanoid-deep-sea-robot-virtual-exploration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/stanford-team-develops-humanoid-deep-sea-robot-virtual-exploration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/30/f5c1d49f-ecc4-4a8c-8fcf-42c5b78ad04f/thumbnail/1200x630/3a5478d1bb74a7fa6daa4b64620b9726/humanoid-robot-diver.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "pF/QABCIuv9mBUoTaNHqXAKAGkaEv50hL5WtaMvmBc4dQ2MpidNw6vMHFg4YjJ1X/pljRQm8u7Apanfi6wNoeAF2JHbfJmwm+9hKrpxONSyCnu3EcmgUmThwx9KzChVNbp/VY2w0IB8r9VyH7ULQ6XioRogAWt4aWlqGFX7ksdbYruYFNENrLM5qPNPVFuHDGNX84y3OTvkl2AxYzlGPqdAd5efHiMMWFdnQMlNHAY8dO1OeBMBWWemidOVr3UvE+tui68bccSzI5DR11KiNh2pjULLEe2G/5cLWpSI4O9hdEW/sXlwbNqQRDYPww6yfgX8i40D9Xqorj04NVE3q4UcVd+81i7eb0+3QamCFq00=;NbVdlrO6/iNQNXUf/ee5Dw=="
 ---
 
