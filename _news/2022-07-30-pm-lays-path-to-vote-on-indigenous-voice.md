@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Australia PM Says Indigenous-Voice Details to Follow Referendum"
+    excerpt: "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided."
+    publishedDateTime: 2022-07-31T10:08:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
     publishedDateTime: 2022-07-30T08:11:00Z
@@ -102,6 +113,20 @@ related:
       - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
+    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
+    publishedDateTime: 2022-07-30T02:30:00Z
+    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
+        width: 1920
+        height: 1278
         isCached: true
   - title: "Australia plans Indigenous recognition"
     excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
@@ -221,20 +246,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘If not now, when?’: Albanese reveals wording of referendum question on Indigenous voice – video"
-    excerpt: "PM announces draft wording of the referendum question to enshrine a voice in the constitution at the Garma festival"
-    publishedDateTime: 2022-07-30T02:57:00Z
-    webUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-not-now-when-albanese-reveals-wording-of-referendum-question-on-indigenous-voice-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 11
-    images:
-      - url: "https://i.guim.co.uk/img/media/57cb81e3edfce17c1f29f310b3d945efc4f92f65/0_30_3945_2367/master/3945.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8b432436f8ce3e8a0820a27e6684979"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
     excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
     publishedDateTime: 2022-07-30T13:53:00Z
@@ -244,15 +255,6 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 4
-  - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
-    excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
-    publishedDateTime: 2022-07-29T12:30:00Z
-    webUrl: "https://thewest.com.au/news/indigenous-australians/indigenous-recognition-prime-minister-anthony-albaneses-garma-festival-speech-builds-referendum-momentum--c-7681574"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 0
 
 secured: "WRRXKx8L1ujYT77d/E2kJYtJhm2Pi9mAm96u67jTZ7vpVuLk4f1aToGE+Zi/Dcd+HcjJ/SfcC41EoFBZojadLgQ6jGLYOvZv8Ek4tHXMpfbfyQN5le00YUVe87Q69WXA5TL2zrkwU6pAwfN1JWSrfiD+9ZdGG28hix+RGp/NLzgLVn2MufKiC2U+0NiM47FDKXSc14lM5vBSoWas1FoX9NUnN6eTSYZxO/oDwBCad7bQ804y2qearVpekRdxA+9zuVSNj62/Hqi8V6vgGgNtZfgliw5a4xXnG8wOcuyVFWPX6gM5ZIgxBM0PSeHV1A03vaG8rhHzbt48UAl6rW18rrEJXFSzxR0gQExFFwuwS7E=;bZ3DcP1p7SdAmAVx29ecmA=="
 ---

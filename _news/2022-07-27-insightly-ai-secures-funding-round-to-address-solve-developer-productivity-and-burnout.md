@@ -23,17 +23,6 @@ images:
     height: 1326
     isCached: true
 
-related:
-  - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
-    excerpt: "Researchers at Oxford University's Department of Materials, working in collaboration with colleagues from Exeter and Munster, have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
-    publishedDateTime: 2022-07-26T18:14:00Z
-    webUrl: "https://techxplore.com/news/2022-07-ai-associatively.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 11
-
 secured: "UAjBFn3cK9rSLEJwE4eCyIlS9gQmRIpu7wWeUnguTaG+dSRSCEZlzuNESbudC9n2/EeP4x7oMvUmN3zZrMRM3MzxEdkbnOaZgb0vBbMh6uUVeNpWewR4Z43fJbxj5mfWzCi/qZ2PSeWwgiSy3yH+W45xEYJY32cMuXgLH/kCjnduOw1hpNnPx+C3ZNU4goC9jIPUyGa3n71n+vvtscYqD9jYhhH435jktv6ULIqhfRnEbG368DLRE+rJJUCZ6WoZkREgOVkeAP1atBRQXHth2D9s73LJAIhBa3R4HlfrDQGzCnMvM7sXrxPMZV26T++RgCobxEGktOg6BVXG4fqPrDFS+g2tJ474cpjShLrpVOs=;5hFMZ3Bu5SOvt/loF4rs0A=="
 ---
 

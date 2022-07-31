@@ -5,10 +5,12 @@ excerpt: "Artificial Intelligence is potentially a game-changer for anyone with 
 publishedDateTime: 2022-07-30T17:17:00Z
 originalUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/"
 webUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/"
+ampWebUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "Dw4uQn4r+/iNoFnWcN8OcjafoUNm7CM8dTZcM/FFtwyaqmhvveKYDlnbH2pTFz1yFmL+2oZZ14M9g+ktsCgF8rfBc04O2W989mbiBe6Gp18vUXZDkXqWae93gdoM3ls5tt4s8bU0FdGxmkss/3mIekqZQNepm3+Fx3lYcJXaMNzz1ERY3TT6U6xHsDyVw8y+JU/FrbeOfOxff7cWDSWbTvOWeoArqnV+PFeXJ7OpKkNjuyd4Px2WpOmjEkb/24F1FV4X+H4jqopXPg2z3V0nQWWEd/6GjmkwuLygqq5adDJNQgih59ooyavFL8HzrPJGD+F4RJ4/B7pms0W/QLHKk+KZL+z5HjA1SPryVvX0q9k=;3FlVpI8ftn9cd9hVzKhoCA=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/62e5648e4207a7d5d8b0c77e/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "SYxgsif9CQppr2oTOPCWyVMPyX7Ic4sNqfQP1BAZwpRbYsQGRGqQW1xVXYI+fmtL+eGrb3Yx1OzJM28k9Ik0PAkdRkvMPcRlo/feXFmdN3YK5D7KUJwQZaGBiWpiKddLH81wA5Q0wIRH/cmN/nWOYH5gZ0ULIXXaWYyTJT2keZdWu/NW88etMCzrIA1dD52DuJEFSh9zgwBO+iddiSW9CyDE+nfFSREaKOug7rUl9pv/dJrtHxv2+YRoH/OoAAdLfw8WKmt2glY+i1hLo+GzamP7v0FAc6x3xwOT4M/DV1WnelqdJj9gQiR6w7sw9JjOjwtJquT+/PEDTEdP/StpJBf+XAId6HM6LeEEZLbx0dk=;Yu6cr+SZe0MeKbn02dzlkg=="
 ---
 

@@ -63,6 +63,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 17
+  - title: "'Alternative physics' discovered by artificial intelligence"
+    excerpt: "An artificial intelligence program has studied various physical phenomena and identified its own variables for describing them."
+    publishedDateTime: 2022-07-31T09:55:00Z
+    webUrl: "https://www.tweaktown.com/news/87680/alternative-physics-discovered-by-artificial-intelligence/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "v/QkvuXXAZ1bm0TaOZw0zyxcKEUOGw1E1wPJvc6U30vLiCGng9sV7263Flo5miGeY+lwB/5XsBg58gU6AiWPextbhDKAQUYZIDVSw1n+xSkXPw19kxBmXG2Qrqs1HpeiRnsem979107H6hDndRLwG6j8XJlYKqZCNLQtKafoPrsq+J3rj0eAgNwm98UFcHwrSCQB2jD7BVuw4jUe28Eu1f0IL0PO07g7G23eJk/Nr9FZuNdleBzM5JjsVnm9a3zByM5HuhnaqELJ3hKb7c2jStkhJFZbyFsOBw807XNfto4VN+tUp9mhLGsejvkHJ5I/r571mvetQ1mUp6uVXoIbtcGulRQgjlQVL8zQA0tAW+7Bqp6hmaC8y9c3sCeFjRvRMpMOp4z9Sq/0C+Y+xUHq6/kcqYuZcHBfrIZ7zL345PyMIsEECK/Aa7rRjDJ/ZXUVrcjvnqi+uMdG0vND16eF/HfXSPlbWvKmWizGH3cnMPfO+y4H7fVb9QTxFLfIw4PfVpchIE8nYOhei54XU3Sz1g==;jk9vwr4F5Lb81EHcTTgABg=="
 ---

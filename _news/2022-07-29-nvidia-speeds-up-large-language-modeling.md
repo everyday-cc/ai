@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 645
         isCached: true
-  - title: "Nvidia AI Enterprise 2.1 enhances open source support"
-    excerpt: "Nvidia is updated its AI Enterprise software suite to version 2.1, providing users with additional commercially sponsored tools to facilitate"
-    publishedDateTime: 2022-07-26T17:49:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/nvidia-ai-enterprise-2-1-enhances-open-source-support/amp/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 57
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/07/Nvidia-AI-Enterprise-2.1-enhances-open-source-support.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Nvidia upgrades its NeMo Megatron development tool to speed up AI training"
     excerpt: "Nvidia Corp. today introduced a new version of its NeMo Megatron artificial intelligence development tool that will enable software teams to train neural networks faster. In particular, the update promises to reduce the amount of time necessary to train advanced natural language processing models."
     publishedDateTime: 2022-07-28T15:00:00Z

@@ -1,41 +1,30 @@
 ---
 category: news
-title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
-excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
-publishedDateTime: 2022-07-30T02:30:00Z
-originalUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
-webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+title: "Australia PM Says Indigenous-Voice Details to Follow Referendum"
+excerpt: "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided."
+publishedDateTime: 2022-07-31T10:08:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum"
+webUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum"
+ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 69
+heat: 239
+published: true
 
 provider:
-  name: Neos Kosmos
-  domain: neoskosmos.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
-    width: 1920
-    height: 1278
-    isCached: true
-
 related:
-  - title: "Australia PM Says Indigenous-Voice Details to Follow Referendum"
-    excerpt: "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided."
-    publishedDateTime: 2022-07-31T10:08:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
     publishedDateTime: 2022-07-30T08:11:00Z
@@ -113,6 +102,20 @@ related:
       - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
+    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
+    publishedDateTime: 2022-07-30T02:30:00Z
+    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
+        width: 1920
+        height: 1278
         isCached: true
   - title: "Australia plans Indigenous recognition"
     excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
@@ -256,6 +259,6 @@ related:
       domain: voanews.com
     quality: 4
 
-secured: "Wcqs0K/dX+xBbusoQwVuwHAL4omHyhCwHJn0m9ZM2tydsCimfZS6jiHNOcdftIE3zioQI4p+cimtLFAkkRdIdqeru4E0wGPuLtQFlH7y28rhOTwMHTQeZrvZtphNlia5W9k1WgdP4xt2JxcAYbaBf4HVVqRWUCtlKq5gKkOjL2RO5Z9iIesRsst4BeKN+lhRR/wJIgALg35V63piEOeeUiGxYrCCkQp5jnhGm02bJdR7fGIiyOT1JpeTpRm65Ox7lYA/z+Iue+SxisEsUui7H5tTKHtn7K2LsJaf5s7grp/Y5szfoplhHOrOZQSoEMpFEgvpFS0V8e3qmkycBRJLsHT+AcYjZ+rWssTTnOXiE3k=;uv8hE1as1JcscsM0/nnT5Q=="
+secured: "4hqkxc4dPPr3cApLEwR0VQcroAp+t9/TOfEMDUKriUVNdVrJQ1ed103ynkmPuHoKY9sRx2xoQ//ZmfkAtiTqYRZDMB0Eq0fT3LH2NsOOyfKCK7JQBfMgMbdxS4KELVH3nRa/9JTgFUc64GyPTRvudQhcFFhqASHV8uIsGXwH1bMl1SHtgpemBQzxqdumeCNZn1vm5sf2nrDLbAP9pQUwKJWdetoKrhI3EKFp7wLcWXtknLFlespO7T956t7+dNnuQRZnr20kzAXZ913bdd5NsRmf+z3F7kuypKUq2iFHyFGuy5F7HtBdvz+FWES5+tbKlcwIggo/Z/2Ev2dxcd1ZbIKa7MDgCNcCPm809jfE7ZuJ1yLl1JYWGRrtG9kagLvezQy3qrmkh4RDGY8OQT2qJqb43JTKMY4LuPgm3D7QGjpTnpfJ4dd9A5KxhlLS6Z1I5l7Oihg7hmoSY9FJvbaz/lBWF21HUAr5ZxsAcnbFgg8BCfG+BBAOiaNYmOPdjiDb9D/IdxzSFOJ4lVqMtWyTfg==;mPhTyTtZAbt2WQxQmv4tvg=="
 ---
 

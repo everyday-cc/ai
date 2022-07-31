@@ -1,27 +1,21 @@
 ---
 category: news
-title: "The novel AI physicist has discovered a new realm of physics"
-excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
-publishedDateTime: 2022-07-28T15:50:00Z
-originalUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
-webUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
+title: "'Alternative physics' discovered by artificial intelligence"
+excerpt: "An artificial intelligence program has studied various physical phenomena and identified its own variables for describing them."
+publishedDateTime: 2022-07-31T09:55:00Z
+originalUrl: "https://www.tweaktown.com/news/87680/alternative-physics-discovered-by-artificial-intelligence/index.html"
+webUrl: "https://www.tweaktown.com/news/87680/alternative-physics-discovered-by-artificial-intelligence/index.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Interesting Engineering
-  domain: interestingengineering.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI
-
-images:
-  - url: "https://d2kspx2x29brck.cloudfront.net/2022/07/28/image/jpeg/PdnVsMCunUYinOScFf194DVfHrdcxOuwXabnQpbe.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Discovers Alternative Physics"
@@ -52,6 +46,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The novel AI physicist has discovered a new realm of physics"
+    excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
+    publishedDateTime: 2022-07-28T15:50:00Z
+    webUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://d2kspx2x29brck.cloudfront.net/2022/07/28/image/jpeg/PdnVsMCunUYinOScFf194DVfHrdcxOuwXabnQpbe.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "An AI-driven physicist may have uncovered a new form of physics"
     excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
     publishedDateTime: 2022-07-29T13:41:00Z
@@ -61,16 +69,7 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 17
-  - title: "'Alternative physics' discovered by artificial intelligence"
-    excerpt: "An artificial intelligence program has studied various physical phenomena and identified its own variables for describing them."
-    publishedDateTime: 2022-07-31T09:55:00Z
-    webUrl: "https://www.tweaktown.com/news/87680/alternative-physics-discovered-by-artificial-intelligence/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
-secured: "ldh4dV+J0DXVGvQjNnKCcc+TemDcgNGvA4ahGioVlO/cysBahl/CBqGk44BI2hk9u2EVgR2PTBNWrQ/HjIbfcAiDVRFtwtAbOyG4Fjp9Sp+6yznYK5pKjWsLn8mk2rlHTXshxLueyjUfAGB8vgPaMJnyAZFMySDL4pqIVbnAb1uca0Ru8dn7l40tle5K25wmSygBA/XY+mmpQgHBCquoiqJm/EUL+PxUZsWtK4PiCme9mCuJEY+6fj5NmB5MmB5qdGC4EJmv8Ys+o0a1QMLGthYhDTo+Wl422Mgp32iEkcneW8maZ0FLsjjUQBZeXaKOBSmq2jD9teyKsAdTehZAMNRetDBzDgNnbtqyBkLLoNawYqNmIJKwxcVu1uG2x97gaFtZ+OMexJ8bg/NE89M4BVWc2D4ubnlF0z9e2V6mNeDjy3zZPD1IllslCgTAFfwDA0XKgVzgw5H6K9iXr2JciWeLPfNRZb9nKKnZMDYAENaUYRfzAZzE7N36HROkIDXmE2UWwtwpKi12Az6j6Ys3Kg==;OxIsFYmtItj315he3ePJnQ=="
+secured: "uV9G9KGWKaHp8fIXFX5kUDFLAZAgAH0yaLF/1OJUOpxUAx/NOFGV8ae2/iwlQaFwx7v3+yGE84Dymy5E1fUwrDwJPZcHryKd0VRlaMb2aD0OdarN50meq3kTC72JnMV6Cihq42lIl0hy4LyhdPhCYJOQOhi1QjMbCA8BCOrwWlQOZdk/3CeFQzaxKnN7hqXLPYZjiPQXt/n9Onh1M0KRxUSnpagu83uWveHWopUL5taq4nEZvV0z4TL1huI2UEQUQ+i2GMIl0uw97ul7f3DZaFb1+ULlVmOftyar4ZxmKaYEqAWwKdD4jQkrKrAVN9VDvPg+XF7T2N92k5s2qK4Yj867z3U8mzDCbrynSYDgGQ4=;JiQIE3pseLift8zXEBnyHA=="
 ---
 
