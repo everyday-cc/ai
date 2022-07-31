@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "owkinscience"
   url: "https://www.twitter.com/owkinscience"
-  followers: 2851
+  followers: 2850
 
 size: 51-200 employees
 yearFounded: 2016
