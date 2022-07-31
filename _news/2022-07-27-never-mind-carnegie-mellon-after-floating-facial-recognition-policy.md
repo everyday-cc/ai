@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "How facial recognition is being used to track and protect pandas"
-    excerpt: "Researchers at the Chengdu Panda Base in China have developed facial recognition technology for pandas to help aid in the conservation of the beloved creatures. NBC’s Janice Mackey Frayer reports for TODAY on the AI technology."
-    publishedDateTime: 2022-07-26T12:38:00Z
-    webUrl: "https://www.today.com/video/how-facial-recognition-is-being-used-to-track-and-protect-pandas-144805445811"
-    type: article
-    provider:
-      name: Today
-      domain: today.com
-    quality: 19
 
 secured: "Pvki62rHjVQ4ZW4/4UOqzLrHPZw3HR2d0XZoC5XMrx5qcn+Xoj/W+lGJ3U2OZI5quRDN1O8EBGIiErbdA+mkqnBRdlM7LO6tkrw+efAbfQJwZ7LR35yfMBPxQxaG7NSRxkpS6EF4M/NBuW6gZEJe3AEk2nNthBo9iOau03dEprPskeTGkFfVSWc7Yhg8NmTx05hqEP9DjH3JTMYFEkljfir8tcPUhIKl9bpiAq/pDZJYjfaXIs5KghPdUZfhAdgDRSAqRpHTPlQmPu5G9CJu66Q+oTqBYloLR76aUDETgc7IUy7B74K3Y/xwGPtaC/14t6DuoLYeJBknrNcLbJKF6RJyOKI9dBIyqJCtvy0xE54JE+K2bPN4MP69frfvpBk8aUkTdY2TvEDnvpKOygw6c46BDonsUDtAKynZYaCLG1ND3c3F3Ub8CIlsONFM1n/+8Wq/Wt2xxVVBR2pCnh1wK5r2pKoWdLU8pKo9OzVemBObx10ZJ/vG40kQHQEr2+5mZNysMeabec80KlfjlnljxA==;VJCbykClNQSvzVmSLkyrOA=="
 ---

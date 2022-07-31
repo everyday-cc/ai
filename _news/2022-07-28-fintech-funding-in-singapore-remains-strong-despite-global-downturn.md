@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 892
         isCached: true
-  - title: "The future of fintech and how to get involved"
-    excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
-    publishedDateTime: 2022-07-26T11:39:00Z
-    webUrl: "https://www.eastmidlandsbusinesslink.co.uk/mag/news/the-future-of-fintech-and-how-to-get-involved/"
-    type: article
-    provider:
-      name: eastmidlandsbusinesslink
-      domain: eastmidlandsbusinesslink.co.uk
-    quality: 24
-    images:
-      - url: "https://www.eastmidlandsbusinesslink.co.uk/mag/wp-content/uploads/2020/01/shutterstock_1063376933.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Why economic volatility doesn't worry this fintech"
     excerpt: "Pagaya, which drew attention for wild swings in its stock price last week, says uncertainty is part of what makes its product compelling."
     publishedDateTime: 2022-07-26T13:42:00Z

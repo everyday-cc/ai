@@ -73,6 +73,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
+    excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."
+    publishedDateTime: 2022-07-31T04:54:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 38
+    images:
+      - url: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum/_jcr_content/par/image.dynimg.768.q75.jpg/v1659242029590/Anthony-Albanese-election-eve-CREDIT-getty-200522.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Australia plans Indigenous recognition"
     excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
     publishedDateTime: 2022-07-30T16:31:00Z
@@ -151,6 +167,15 @@ related:
     provider:
       name: Sydney Morning Herald
       domain: smh.com.au
+    quality: 19
+  - title: "Indigenous voice details to follow referendum, says Australian PM"
+    excerpt: "Albanese’s centre-left Labor Party government is seeking a referendum, required to alter the constitution, on recognising indigenous people in the constitution and requiring consultation with them on decisions that affect their lives."
+    publishedDateTime: 2022-07-31T04:16:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2022/07/31/indigenous-voice-details-to-follow-referendum-says-australian-pm/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
   - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
     excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."

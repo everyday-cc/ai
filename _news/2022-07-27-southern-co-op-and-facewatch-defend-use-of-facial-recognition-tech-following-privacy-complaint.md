@@ -82,16 +82,16 @@ related:
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+    webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
-        height: 333
+        height: 315
         isCached: true
   - title: "A sketchy assessment of US border facial recognition systems"
     excerpt: "This week privacy advocates tried to convince the U.S. government that it should not use facial recognition systems at ports of entry."
@@ -121,15 +121,6 @@ related:
         width: 1000
         height: 607
         isCached: true
-  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
-    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
-    publishedDateTime: 2022-07-26T12:53:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 15
 
 secured: "MvNm7x78MLOm5xNQneX2GCqVwDvTv31AbBIu3rq73esWJMQm4HIvPVLbwv9ZJc2ETljXE6/qQ94FiJNOJfu+BGVmeO/Zp8eD1ziYlvxVKyQygE9WxcNsSQlIm1fmkh2QXsihh/AymPrE9JQFyDpwSTcjPYUsETOF2pKogcieS201xt39DuPfxJSI9v9iLP5wITeUyut7Dfa5yf1PLg3ssCeQNMYb5rO5imzyJ1D3VQlti1MQP2S4RuEHBlITj4V9uYMP/+/KCg3qyfwR0/oCB4uKW9nrWYEfe7PYAcSClh+iq6Rc0wRlDfcBRsgIOeKp/fRrjLUFURVvXWmPx9c4LJOjC/8DIO+l/D9f+l28hTc4hLPfRGP0WA6Q21Vb4LOs17vRCtmBqRoIZBjzU1SYCred8ujTggd41D/FVNEa4uiQQK+nO1hQFXEqTMawGRSsQ/2Bwlkf7XLIRyNkTC7erBBZ98MH4Q0YzVUuW3vLD5kV7Yd14BQ/i3LGjJ/nAAbuaRD9DJ2fioYkxJqBQpYfSg==;wcqbOXXCDbT50gS1CZ/LGg=="
 ---

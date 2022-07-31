@@ -3,25 +3,25 @@ category: news
 title: "Lawmakers seek limits on facial recognition"
 excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
 publishedDateTime: 2022-07-26T21:00:00Z
-originalUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
-webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+originalUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
     width: 600
-    height: 333
+    height: 315
     isCached: true
 
 related:
@@ -122,16 +122,7 @@ related:
       name: The Grocer
       domain: thegrocer.co.uk
     quality: 22
-  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
-    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
-    publishedDateTime: 2022-07-26T12:53:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 15
 
-secured: "I8KQutGgFr5R1QwO9rzX8X56i7JLGx1UxrPNouSh0BOqa6lvoNU3jEV8epJ2MmSOtkFOq8lqaLsbnBk7pI2FuKBPSvevU9mTlqbQ3WXKpUpJ+Z1xOdPlJ3MFgNNI003GzcnbA3/vYmEgJLagTUkVPkTaEuz9mbrq/dkPGTRzjVZSggYSoxerMtBci103PQ5lrjRfc8adQuQMNV9Yc3/wM3cVU0ZONCzbDePcrmkvYAsbEYSH3a4rNX3IPS3U31TAJRno/k7ISzNLTpg6p6OKeayJ8hik6HpDDkbBT97QMfN1s8UmZzBSxtYRE99vMO0NMQIRp92fLOL4dOE7+e18Qj3gmUri4ZyLkdzpjmLFnM4=;VRbtmZYXbm+SmQP5hVtP7A=="
+secured: "nqPVZxiFNFQXN9/GzgEGNdDaAboN2qcSXIdvhvkmAkmO7yZffAQHs+zOiQw1572OG6UdgjK0w3FA5UI0Oqow9inHkKxc7pSyEwEvgG0XrJgfFrjhmBLsfo2Anfkae1NsjOeEYt2Db1sTklheizXaQBB3ZfK3uDYm/kbU6O1MXuZAIac1IPSrWq6ybK3twb19rNVqO6azM7liKRwCJ/3eJ/Jz2e0hh9ZDY3dBSilR6gprHIQrrWtF/dTKOuhaXdjgjhtAaHEjI33WrdpR7LzWnCmTNziI4c5+nHO/tLP1nBUHsmrg/e08nsVSHkYNc0bpUAQlGbwUYM6IA35iolsgNqnRIbo19GwAP6rU8Rj7hfo=;wyY+aek1cy7rrdATM3ulXg=="
 ---
 

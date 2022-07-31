@@ -88,16 +88,16 @@ related:
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+    webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
-        height: 333
+        height: 315
         isCached: true
   - title: "Southern Co-op faces legal challenge for facial recognition CCTV ‘adding shoppers to watch-lists’"
     excerpt: "Southern Co-op is facing a legal challenge for its use of cameras that capture biometric data of customers. Privacy rights group Big Brother Watch said the independent grocery chain had installed the surveillance technology in 35 stores across the UK and claimed supermarket staff could add people to a secret ‘blacklist’ without them knowing However,"
@@ -122,15 +122,6 @@ related:
       name: The Grocer
       domain: thegrocer.co.uk
     quality: 22
-  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
-    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
-    publishedDateTime: 2022-07-26T12:53:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 15
 
 secured: "8G7AN0uXGcpqiyjDqJH30Zk2GBV1cz1nYpIcXgM1VcJW025dZUhmcPDG5uDfT35aYiG+ZxXmzbAyi5qYqZ3SMPHds4H33NWXTo2VuFfSKAN1ltMeaq62RnB0JhdmQYx6QExWqdCV85cucMTcOcTl7LlHVLduXOk80TNl3z6ln8fd9ZEfithgywp2jTyhSij2+pdGYX986qdS0uOetRjA+rBx0gyEaqDecT/+sy0IWTPjLWmN3r6EsZFLoK8o/ExzocNhK+s7+j6UUcuoQsEABCmjbBPCUIXVTo8yuZENF5iIBELmW7RJiCqAImFUwrsCbYMEl8a6FIyYAqgT6LDwC7nERT9jFXRIdKFrRMal6qyRlYxjDfv9XwEDt2+ZHnwaYNU1abnezbr2DdX5+E9l0lUFT2uw1lz3pnxoUFPjzJKXePpISt5TZbGT95+X1FpWEBgiRKZuP3UfqRbTOZbJssYEsHVpjUVn/cfLbLYChI0OpIjD7oRr3WJcatL1YxTB37lFTFFmb4YPEJWxaeBx5w==;MmkUwjbkh5+SeeOX1mi4BQ=="
 ---

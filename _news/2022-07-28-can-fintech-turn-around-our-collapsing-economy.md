@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-tu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Fintech-Funding-in-Singapore-Remains-Strong-Despite-Global-Downturn.png?x82653"
         width: 1024
         height: 567
-        isCached: true
-  - title: "The future of fintech and how to get involved"
-    excerpt: "Fintech has taken some huge leaps and bounds in the last few years, and it is clear that it is in for some exciting times ahead."
-    publishedDateTime: 2022-07-26T11:39:00Z
-    webUrl: "https://www.eastmidlandsbusinesslink.co.uk/mag/news/the-future-of-fintech-and-how-to-get-involved/"
-    type: article
-    provider:
-      name: eastmidlandsbusinesslink
-      domain: eastmidlandsbusinesslink.co.uk
-    quality: 24
-    images:
-      - url: "https://www.eastmidlandsbusinesslink.co.uk/mag/wp-content/uploads/2020/01/shutterstock_1063376933.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Why economic volatility doesn't worry this fintech"
     excerpt: "Pagaya, which drew attention for wild swings in its stock price last week, says uncertainty is part of what makes its product compelling."

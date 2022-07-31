@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-dr
 webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
 type: article
 quality: 54
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
         width: 615
         height: 383
+        isCached: true
+  - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
+    excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."
+    publishedDateTime: 2022-07-31T04:54:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 38
+    images:
+      - url: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum/_jcr_content/par/image.dynimg.768.q75.jpg/v1659242029590/Anthony-Albanese-election-eve-CREDIT-getty-200522.jpg"
+        width: 768
+        height: 438
         isCached: true
   - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
     excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
@@ -155,6 +171,15 @@ related:
     provider:
       name: Sydney Morning Herald
       domain: smh.com.au
+    quality: 19
+  - title: "Indigenous voice details to follow referendum, says Australian PM"
+    excerpt: "Albanese’s centre-left Labor Party government is seeking a referendum, required to alter the constitution, on recognising indigenous people in the constitution and requiring consultation with them on decisions that affect their lives."
+    publishedDateTime: 2022-07-31T04:16:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2022/07/31/indigenous-voice-details-to-follow-referendum-says-australian-pm/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
   - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
     excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-com
 cdnAmpWebUrl: "https://www-retailsector-co-uk.cdn.ampproject.org/c/s/www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -74,16 +74,16 @@ related:
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+    webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
-        height: 333
+        height: 315
         isCached: true
   - title: "A sketchy assessment of US border facial recognition systems"
     excerpt: "This week privacy advocates tried to convince the U.S. government that it should not use facial recognition systems at ports of entry."
@@ -122,15 +122,6 @@ related:
       name: The Grocer
       domain: thegrocer.co.uk
     quality: 22
-  - title: "Southern Co-op accused of using ‘Orwellian’ facial recognition in supermarkets"
-    excerpt: "Supermarket chain Southern Co-operative has been accused of “unlawfully” using live facial-recognition cameras in its stores."
-    publishedDateTime: 2022-07-26T12:53:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/07/southern-co-op-accused-of-using-orwellian-facial-recognition-in-stores/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 15
 
 secured: "9y7430/B0PGXOM76v47M7pKVqpUpI+GBxL5VvVPKC9HWPMHlQ/uMZX4bwjT4ROyv8FmFb3XeUyWMprLZmoo2qbKlK9Aitnk65hJwunn2hVZoV2eB5WEG/eQ1s4CO9SKfp4j7zVzlhf9cLRVgNw/zTp6YBbuMRHoAfSIeIgt33eU9du5/zU8VIIB1DIkGvWXGG2/Mx+FfUjyCn00frOoG4F7SCF+luWKhkPmm2thkf/fIzQ8BSjGrbEI6m/LbHz/L2RcOeQDLOj/mLkrn8j8SAfoR1wHTW5JCEuI/UJM4y88kKh/PvavnROmYGQIX2JVrTP5u+6YyY+nKV6uJXrV1ssGcLNVyEmEjoQ7lARZ5wrkP0xQbkXto00bMaqT6a8cccr0O8cNcOniBWyX//OrGTYa0wD15j5Dzn5NqaMUfo9yfCfidBeHgfu4S8D9ZTOBJs7pm2nII/yvDCf3uZHcOg9We7dKnp3eFW9FpsqhWCmAhQyiIOfiHwydzcI14nH+VL1ZStJcQwF6k5iai2WE8LA==;TmZMnRyDcL4BGNQRYIrdFQ=="
 ---

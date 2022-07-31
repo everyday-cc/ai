@@ -1,29 +1,21 @@
 ---
 category: news
-title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
 excerpt: "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-publishedDateTime: 2022-07-28T19:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+publishedDateTime: 2022-07-28T20:35:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm"
 type: article
-quality: 22
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Robotics
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Mark Cuban Foundation Selects United Wholesale in Pontiac as AI Bootcamp Site"
@@ -41,6 +33,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YwvBZfZw2gxWnWMqFjMQkR8VwQvusqyU4cMgNvcfzWMlC1Fnn+EUJsw8nviXQ1uSRaxSvz2gXoYa4bkflebLP6ZbPttRywmFjjAeV11Si8y8kDpWUdd/ciPRqWAEZOUFseTLGghfVGYxi76EvAg4mS+rGOilTO3LfGE8zth9AT2szjO+CKuBKglv4lWD9E22IYNg4zgRkSFsLjzfC0YfGNhIG5SmhCMtre9cIekL1uFGz+UKHowNGultylSbFgWqZaurFnOxkBY/ghwwo0ZuUIDteCDQpLV56ViiLH3DRTCEU8n+i5Xx2sqly499BviQNqru4ZJXFdosIT61dKuHJs6CtT4gIRkEFk9o+ggfMMw=;XPiINFvAJzwLS1sL4MTTAQ=="
+secured: "kw5WOcnY2V5T6wNjQhHdPRuuU5fx5CWHeTtvKw4L6CY+IM6keVGDRTbk7xhV+DpXfYJ+CASXM1i3EvDuy5FG930FsZQ2Pcx+Mf47QnAaNWE8g3H/QHDDVojHHHMIXXV/bqoEiFnH//1WoxMYBZ1WgCoYAbpYEcgChpUD+vDz9RdlnTJPo36kTZFHo/RiKY0kDlzWT4qQc70H5P8ruKnewKXllVTsKFBvSYXWgG6NfxXdNOKi4yCOQhKSTakdIh+SMnmCt8S0zhGxesqFYOObNjQlK7aOC0XLdkwhFsO0pL/fzDu8sul94aaAvLHNCiCSJnox5VRtgAgj27a31fu8ckcXs7pRrnI1lG7oi6pNMBQ=;pRCpK8y/vH4zOb3mZ16dCQ=="
 ---
 

@@ -236,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-as-ai-language-skills-grow-so-do-scientists-concerns.md",
+      "title": "As AI language skills grow, so do scientists’ concerns",
+      "excerpt": "By MATT O’BRIEN AP Technology Writer The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
+      "sourceUrl": null,
+      "webUrl": "https://krdo.com/news/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/",
+      "originalUrl": "https://krdo.com/news/ap-national-business/2022/07/17/as-ai-language-skills-grow-so-do-scientists-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-17T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRDO",
+        "domain": "krdo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-emotion-ai-a-possible-path-to-thought-policing.md",
       "title": "Emotion AI: A possible path to thought policing",
       "excerpt": "Community We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
@@ -1125,58 +1168,6 @@
         "AI in Healthcare",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-stitch-fix-ceo-ai-and-machine-learning-are-our-core-secret-sauce.md",
-      "title": "Stitch Fix CEO: AI and machine learning are “our core secret sauce”",
-      "excerpt": "Elizabeth Spaulding says thanks to the power of algorithms the company successfully personalizes clothing recommendations for customers. © 2022 Fortune Media IP Limited. All Rights Reserved. Use ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "originalUrl": "https://fortune.com/videos/watch/stitch-fix-ceo:-ai-and-machine-learning-are-“our-core-secret-sauce”-/3fbc5769-9111-492d-8e02-134674f1f0a8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/3fbc5769-9111-492d-8e02-134674f1f0a8/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/stitch-fix-ceo%3A-ai-and-machine-learning-are-%E2%80%9Cour-core-secret-sauce%E2%80%9D-/3fbc5769-9111-492d-8e02-134674f1f0a8/amp",
-      "publishedDateTime": "2022-07-15T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

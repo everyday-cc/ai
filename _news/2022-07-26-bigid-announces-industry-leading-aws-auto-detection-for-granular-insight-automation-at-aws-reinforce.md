@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bigid-announces-in
 webUrl: "https://markets.businessinsider.com/news/stocks/bigid-announces-industry-leading-aws-auto-detection-for-granular-insight-automation-at-aws-re-inforce-1031616214"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "BigID Announces Intelligent Access Control for AWS Cloud Infrastructure"
-    excerpt: "BigID, the leading data intelligence platform that enables organizations to know their enterprise data and take action for privacy, security, and governance, today announced security and privacy aware access control for AWS Cloud infrastructure,"
-    publishedDateTime: 2022-07-26T12:23:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-853888409524f22c5714fd7fd40070f0"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "bwUGiwj8dVveUSzqQlmexex0lUfUSGz7Y5fIXiJSoj/ruY82N3kbk/aXffUWLgGjRrdFVWk8MWt6k10YZ37Ey0gHyLjXc6Ptu92ciGsZmFbeNV64fvBr4jsA0X1KLjINFjy0RhUbfMgTsSLUyx2ATI4bwfoUiO440f2EmdtCbAvSItw1UAreF8pEem9RHT2W8qmoJetcX8JDp/KRixfi6iV+zX4fvc5XVP69XNMP2laGKSAFRvSstUbbRW6a86s5Gx6/5N3OmR4lDt7H69B3F+82thQiVVacTpV5jVzECmeDERA9dtZJKWdDJusfOr4JHPYc+v/nD4J0xaYCqsEpNm0uZBhVK7YvHLjEzE9j5Xx7Vfknp4P+DfW5y26Gf2Y50Z4oflmcsf3lsqHgCbdjtQLhuFekYgOD5usRPHyQXgBUuZ/thCKyQm01B3YXsSDPPI9iWZodODzOqykLVPKjnCHQgpgzds94YrB3AWzbSfnEEI6EkCzU5h9NwZzNjUNVsjtkRY/q6OhvmtlHCFHJAQ==;4H4sUzcsyIhlgPMrUB6iOQ=="
 ---

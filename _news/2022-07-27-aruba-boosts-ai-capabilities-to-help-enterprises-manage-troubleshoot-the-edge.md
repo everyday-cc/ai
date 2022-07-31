@@ -54,20 +54,6 @@ related:
         width: 599
         height: 464
         isCached: true
-  - title: "HPE’s Aruba unit debuts new AI features for automating network management"
-    excerpt: "Aruba supplies networking equipment for data centers, offices and other locations such as university campuses. The HPE unit also sells software that customers can use to manage deployments of its hardware."
-    publishedDateTime: 2022-07-26T12:39:00Z
-    webUrl: "https://siliconangle.com/2022/07/26/hpes-aruba-unit-debuts-new-ai-features-automating-network-management/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/aruba.png"
-        width: 795
-        height: 447
-        isCached: true
 
 secured: "yS31gS8FI/Z/6gFb1ZBLZzLNVZ3fWRHoD2bLdhea0m4/i9XQxH2kKobOmgLAfsvzM85h1usDBZRuxniZamC7WeEXweIhWxzo1S8vPSXJnGQ8MtPKnV3QXCuJlqWbmUdJza4JPTK/wJ3t4AAc8F7m/ElceC6iEDGS+02jDbOGGIS7mTY7R/cMDa54J6Z2Gs4oEYn0H/31YnZFHCUdSlaOY0xKhoAxuSCFjP7+K/9EoXkmke7naUTH+wfwjuyN3mdG5oHgcH1YBdCRN/SaiBG9/RHv2ZXVzli76RIzSHUjVertOngRzq262aXpxEFafzKSH6+e6DXEreFQa0xHzu9MqlEWjdAdqTuy3HB6KjomrcoPiwNaam82he9SW/NYCxth6cWHU0rBQGcUMZ49nQONauJAZUH7NlcakfQq+fJU6E/u0ETZ4Z/n8zBHXTkFelGmNoNK16LFWqHbhE8DjfDhQfLxD0ZVwWzfHnrTHGMxOaCAtKJm5xmUppQEcoDLY4sO8frSDl1/syOPAIinzawInw==;Dg44ctVlOo1Ox8isO8mXrA=="
 ---

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-28-4-healthcare-ai-trends-cvs-health-data-scientist-shares-details.md",
+      "title": "4 healthcare AI trends: CVS Health data scientist shares details",
+      "excerpt": "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/",
+      "originalUrl": "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-ai-ethics-and-that-viral-story-of-the-chess-playing-robot-that-broke-the-finger-of-a-seven-year-old-during-a-heated.md",
       "title": "AI Ethics And That Viral Story Of The Chess Playing Robot That Broke The Finger Of A Seven-Year-Old During A Heated...",
       "excerpt": "AI Ethics issues arise in a recent viral news story about a young boy playing tournament chess that got his finger broken by a chess playing robotic arm.",
@@ -258,24 +302,33 @@
     {
       "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
       "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
-      "excerpt": "Ethical GmbH releases a new version of eReconciliation® that uses artificial intelligence (AI) to improve the performance of the software automation engine. This third version of eReconciliation® continues to optimize time spent on SAE data reconciliation and reduce the risk of errors and omissions,",
+      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-ea7c69603540495a3493c8759bd00e36",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-ea7c69603540495a3493c8759bd00e36",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-23T07:00:00-07:00",
+      "publishedDateTime": "2022-07-23T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1343,58 +1396,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
       "publishedDateTime": "2022-07-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
-      "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
-      "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdaf29f10cfef9f670f110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-30T09:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

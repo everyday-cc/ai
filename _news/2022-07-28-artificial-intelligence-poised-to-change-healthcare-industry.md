@@ -7,7 +7,7 @@ originalUrl: "https://www.bio-itworld.com/news/2022/07/28/artificial-intelligenc
 webUrl: "https://www.bio-itworld.com/news/2022/07/28/artificial-intelligence-poised-to-change-healthcare-industry"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -18,47 +18,6 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
-
-related:
-  - title: "It’s Finally Time For AI In Healthcare"
-    excerpt: "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,"
-    publishedDateTime: 2022-07-26T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "4 healthcare AI trends: CVS Health data scientist shares details"
-    excerpt: "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now."
-    publishedDateTime: 2022-07-27T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "Artificial Intelligence in Healthcare: The Need for Compliance is Now"
-    excerpt: "Right now, the regulation of artificial intelligence is high on the agenda for policymakers and regulators. allocate responsibility and governance for AI projects not only internally, but with partnering organisations,"
-    publishedDateTime: 2022-07-27T08:48:00Z
-    webUrl: "https://www.fieldfisher.com/en/insights/artificial-intelligence-in-healthcare-the-need-for"
-    type: article
-    provider:
-      name: Fieldfisher
-      domain: fieldfisher.com
-    quality: 56
-    images:
-      - url: "http://res-3.cloudinary.com/fieldfisher/image/upload/f_jpg,q_auto/v1/insight-articles/big_data_and_artificial_intelligence_concept-1040557296_guxpv3"
-        width: 2571
-        height: 1166
-        isCached: true
 
 secured: "vPO4hgs/aZDQHcSE7hUssnPb0f9yCXUIUbRGCcesH3tPhxH0psQpmLvadtMsHwUejMQZItCCW9YsODB/p1+AUC5o5axrBKqSPwCsf9Wg/tCicLe+h2jnzYrmAy6zZhM9onWb7C4tjno3QPOUFV+sN6wRXaz9PLkFhLnXmsvrza0m7Pk6Tsa/AW3v6EgEEim5LyOXBn3a18nMSJVl06toppqzJqtIy/v+vdT3M3CzQ404pmd16rpmKRHKi0H20tx1J2d21oI/BMx/NMZX528oD+e0bf88YKSvQK5x1mHo04bTftQuna9T8GlBYcu7uMnVLBse0jT3+64Ll3EFTe3tW53Wz5syhD996wuPjKedU6o=;SYR2B79LqK989XMZU1O56g=="
 ---

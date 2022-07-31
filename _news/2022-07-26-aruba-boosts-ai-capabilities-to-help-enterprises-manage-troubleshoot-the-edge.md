@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabil
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.crn.com/resources/0277-15b77e0622f0-49d0dd49ccea-1000/aruba_image_resized.jpg"
         width: 599
         height: 464
-        isCached: true
-  - title: "HPE’s Aruba unit debuts new AI features for automating network management"
-    excerpt: "Aruba supplies networking equipment for data centers, offices and other locations such as university campuses. The HPE unit also sells software that customers can use to manage deployments of its hardware."
-    publishedDateTime: 2022-07-26T12:39:00Z
-    webUrl: "https://siliconangle.com/2022/07/26/hpes-aruba-unit-debuts-new-ai-features-automating-network-management/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/aruba.png"
-        width: 795
-        height: 447
         isCached: true
   - title: "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge"
     excerpt: "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls."

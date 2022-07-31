@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies."
-publishedDateTime: 2022-07-28T03:32:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_5c117092-d055-5b7a-ad7e-a160bc65956a.html"
+excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
+publishedDateTime: 2022-07-28T03:41:00Z
+originalUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/08/e0856983-aa5e-5217-b4df-445ee4e95423/62e203678e489.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -84,6 +84,6 @@ related:
         height: 512
         isCached: true
 
-secured: "jGBSFrMo9j3E3K7t4medAWWg94Uu1rn+S1n5vV7leH/4OW8/aZlCjCWsRuosoSTG0NbZBJzz3LfknULX7GdCwZE+SegpC0+ZpHxlAhfa8Ivb63HTuQbW0pvPqMBrTbLAYV0jtAaaJghkxL7Vbh/pKRB6+jk/ulRimhcivprG8DV9vV5vtaM9xP+vSk2H517i24s2x8JwrF35wat8GPLARYdF5Xa3X72E73ZCoU6EQfXZWPLFjPr3Ondcib+akL7jbi++2l1JEqlqEZnrAHwTGN+uiEN67melLh0otriZwL5fz4Bgc7mXrOK3iQpNbCB9I5R0/18EIYhUif3RmI8dyS03Eq/lNGNPd3oV49ANRto=;RdRqsOHlceQyWeKMiAbHyQ=="
+secured: "DCc+GDHr0E98SceXkb1r0LqFhAUb5ocRagGCFctn7L45Lv+1qzryzIKl5HFwwZ4SantwdSRe5quPuLLiLeh8NqnvruUYxyy+Ol1s7YJgy/91vsqWjramUkPv+zrCI9wiqqKAlrF5GgpF1uR0Ts5AWbQhdYHjhVl55E3U92lg4quUv5DW+BLTx5alqgXJF9XJFnWpE9kGiITa92CLXa7bwVdYeqfWaFbI30PiJ57dGVdZkEcg4auqa4Nq+76rDGupLq6P/TeNsZksq5yhSZSmq1jZfcstP9PczYtiydpUJSeSpz4abLhT7GZOjwPLbOVcphnUXyKzTWe8sUf6p6rlMquVWpycItImAwfS2KIyGzM=;J2e2L+SsrdX0lJk1wnGQeg=="
 ---
 
