@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI technology helps give giant pandas individual identities"
-    excerpt: "Now researchers at the Chengdu Research Base of Giant Panda Breeding have pioneered new technology that uses artificial intelligence to identify the creatures."
-    publishedDateTime: 2022-07-26T15:22:00Z
-    webUrl: "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna38844"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844"
+  - title: "Anari AI Introduces System-on-Cloud Technology for 3D Applications"
+    excerpt: "California-based hardware startup Anari AI has introduced a new cloud-based technology named Thor X to enhance 3D applications."
+    publishedDateTime: 2022-07-28T16:56:00Z
+    webUrl: "https://www.retail-insight-network.com/research-reports/anari-ai-introduces-system-on-cloud-technology-for-3d-applications/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 39
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_07/1658839016868_tdy_news_8a_jmf_pandas_220726_1920x1080-93xu34.jpg"
-        width: 760
-        height: 428
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/07/shutterstock_594560369.jpg"
+        width: 500
+        height: 334
         isCached: true
   - title: "The future of technology lies in artificial intelligence"
     excerpt: "But this level of advanced AI raises questions about morality, ethics, and adverse effects. One problem is AI’s ability to complete repetitive tasks, allowing the possibility of AI replacing employees in labour-based jobs. This is especially true in jobs ..."

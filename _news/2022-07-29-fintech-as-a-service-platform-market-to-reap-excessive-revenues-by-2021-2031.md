@@ -7,7 +7,7 @@ originalUrl: "https://www.fmiblog.com/2022/07/29/fintech-as-a-service-platform-m
 webUrl: "https://www.fmiblog.com/2022/07/29/fintech-as-a-service-platform-market-to-reap-excessive-revenues-by-2021-2031/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Ready Life Fintech Platform Poised to Disrupt Mortgage Industry by Providing Loans That Require No Credit Score"
-    excerpt: "The modern-era consumer credit score system is broken, locking millions of potential homeowners out of the American dream. Ready Life, a new fintech backed by Figure Technologies Inc., is pioneering a revolutionary mortgage lending model that relies on good rental payment history to qualify buyers for home purchases."
-    publishedDateTime: 2022-07-26T16:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/07/26/9645275.htm"
+  - title: "AI Can Help Fintechs Fight Fraud-as-a-Service"
+    excerpt: "Artificial intelligence tools can help companies strike the right balance between preventing financial crime and maintaining customer service and satisfaction."
+    publishedDateTime: 2022-07-26T20:12:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/ai-can-help-fintechs-fight-fraud-as-a-service"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt8fb23000be31e05b/61ad04dff1b49856b7fc6edf/Fraud_photobyphotoboy_Adobe.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "h9Y1gel7uaOP58eCioxL4Z01w5Ynb1YLinHIA3fpMURUeRTmIAD4UcxhD8oAg54/kBPJm404fBeFq1yYcbXDcATECdDWxQauWikAFNqxeJX2+cfmqu5RSa0bXNKjqPIBCJl/IgmKM9jGDyr1tOPUTuMernzA1zWrjFmuWpZjrHsibDXVPW/4WvjTIQeLztXBrxWVmSuR1jamZyogP/Wbo4TobSsQzvdJ7uDXtbMVCSw+omcSAasGcmgRhWC1yEqH/DInzKXZn0Nn+eO0rcAu64ivFmpMoLVyk/KWH3/EerGCEoYlxqnHyhWAZQrvZBjrITJpAGwuvVUFTByuO/5VJVgtQgsDSPKowYy9qJB4aIMSZeHux7GX4IyIQHScnOfVaKO+3Hdi/d8SoW1O4l4rvKr/5qk1NdlCz0GpOScK98K0a+9ju/cqARKLR3TN3nET+pxsaDOylAnw12gl98yikKpfs4GfARXX5+CBhi4tZBH/waRx4Kuz8fGHage7k87HU43aX5n7aJPe3NfEtQ3BcA==;8Q7b+vNp95trbIYgTo1+IA=="
 ---

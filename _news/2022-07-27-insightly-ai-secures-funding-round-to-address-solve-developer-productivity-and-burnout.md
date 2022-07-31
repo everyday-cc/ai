@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104597882/Insightly-AI-Secures-Funding-Round-T
 webUrl: "https://menafn.com/1104597882/Insightly-AI-Secures-Funding-Round-To-Address-Solve-Developer-Productivity-And-Burnout"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
-    excerpt: "Researchers at Oxford University’s Department of Materials, working in collaboration with colleagues from Exeter and Munster have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
-    publishedDateTime: 2022-07-26T15:47:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/959921"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c9532dda-8e4a-4ca8-b873-1b0e6f684186/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
   - title: "Seeing the light: Researchers develop new AI system using light to learn associatively"
     excerpt: "Researchers at Oxford University's Department of Materials, working in collaboration with colleagues from Exeter and Munster, have developed an on-chip optical processor capable of detecting similarities in datasets up to 1,"
     publishedDateTime: 2022-07-26T18:14:00Z

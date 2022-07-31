@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Big Brother Watch submits complaint against shop's use of ‘Orwellian’ facial recognition software"
-    excerpt: "PRIVACY rights group Big Brother Watch submitted a complaint against Southern Co-operative’s “Orwellian and unlawful” use of facial recognition cameras today. According to the complaint made to the Information Commissioner’s Office,"
-    publishedDateTime: 2022-07-26T16:06:00Z
-    webUrl: "https://www.morningstaronline.co.uk/article/w/big-brother-watch-submits-complaint-against-convenience-stores-use-facial-recognition"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 43
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-49806341.jpg"
-        width: 1185
-        height: 790
-        isCached: true
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z

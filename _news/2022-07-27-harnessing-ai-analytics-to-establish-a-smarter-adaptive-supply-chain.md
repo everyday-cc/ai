@@ -7,7 +7,7 @@ originalUrl: "https://www.pcquest.com/harnessing-ai-analytics-to-establish-a-sma
 webUrl: "https://www.pcquest.com/harnessing-ai-analytics-to-establish-a-smarter-adaptive-supply-chain/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Data Literacy In The World Of Augmented Analytics"
-    excerpt: "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data."
-    publishedDateTime: 2022-07-26T15:15:00Z
-    webUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62def46c309ce98e9087f3de/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "JK Tech launches AI-driven Smart Analytics solution for retailers in the US"
     excerpt: "Serving clients across industries since 1994, JK Tech has been providing agile and customized technology solutions for enterprises. Using JK Tech’s Smart Analytics solutions, grocery retailers have witnessed around 15% improved inventory turns,"
     publishedDateTime: 2022-07-28T11:39:00Z

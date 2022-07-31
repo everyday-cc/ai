@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-clos
 webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Diagnostic Robotics Raises $45M In Series B Funding Round"
+    excerpt: "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round."
+    publishedDateTime: 2022-07-31T08:52:00Z
+    webUrl: "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 69
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg"
+        width: 1500
+        height: 757
+        isCached: true
 
 secured: "x6x5Kmpxej5VP4vcvKuLeTnX+cDvH8c0rXjWnzFOKLquzjFtPCcZGUsBwvcZmhxUcCJmyVvIQC3fKjrOWoTLFfgvANKez/Z/ynRLHgexFeaQrRtuXbvruhZPJ5tblChWXlrlRS2DZYRkmqPv2JH74HxaVSFNseOko1JZwlgITyBpJchnPrbgSeJY8VSkWvKbD81+HFiyKk3ZpHjeAFshkpf8ueTB8QBUeVC/OywqmAsxFqNMA+vlLMayYMWNXong7rU74rs7+7vbul0ZtIvxN+HexS51qgWvEc5sjc0ibu9v9fFQQQeUl1fAUwdgyFOkTkrarpsQjMlSkPUNeJ98F1jX3HQrSiz8e8PpQauAyOQ=;1WlT0RhhiDJftDRpEc87Vg=="
 ---

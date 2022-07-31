@@ -7,7 +7,7 @@ originalUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commi
 webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Prime Minister Anthony Albanese gives assurance that Indigenous Voice to Parliament won’t act as a ‘third chamber’"
-    excerpt: "Watch my speech here: https://t.co/M6JUKhLa2g pic.twitter.com/EhT9ghpp4W — Anthony Albanese (@AlboMP) July 30, 2022 “It’s very important that Constitutional recognition occur.” Mr Albanese also unveiled the proposed wording for three sentences to ..."
-    publishedDateTime: 2022-07-31T03:22:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/prime-minister-anthony-albanese-gives-assurance-that-indigenous-voice-to-parliament-wont-act-as-a-third-chamber/news-story/aa8b0fdf583332e4592f1b2d9f20d888"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/prime-minister-anthony-albanese-gives-assurance-that-indigenous-voice-to-parliament-wont-act-as-a-third-chamber/news-story/aa8b0fdf583332e4592f1b2d9f20d888?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/prime-minister-anthony-albanese-gives-assurance-that-indigenous-voice-to-parliament-wont-act-as-a-third-chamber/news-story/aa8b0fdf583332e4592f1b2d9f20d888?amp"
+  - title: "View from The Hill: Albanese takes welcome first step but government needs to produce Voice detail"
+    excerpt: "The prime minister has made a good start on a referendum on an Indigenous Voice to Parliament. But as always, the details will be crucial."
+    publishedDateTime: 2022-07-31T09:39:00Z
+    webUrl: "https://theconversation.com/view-from-the-hill-albanese-takes-welcome-first-step-but-government-needs-to-produce-voice-detail-187981"
+    ampWebUrl: "https://theconversation.com/amp/view-from-the-hill-albanese-takes-welcome-first-step-but-government-needs-to-produce-voice-detail-187981"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/view-from-the-hill-albanese-takes-welcome-first-step-but-government-needs-to-produce-voice-detail-187981"
     type: article
     provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 22
+      name: The Conversation
+      domain: theconversation.com
+    quality: 45
     images:
-      - url: "https://content.api.news/v3/images/bin/6f38f3e117f573a494576cd4375a9392"
-        width: 1280
-        height: 720
+      - url: "https://images.theconversation.com/files/476778/original/file-20220731-28629-w6qtal.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
 
 secured: "Wcqs0K/dX+xBbusoQwVuwHAL4omHyhCwHJn0m9ZM2tydsCimfZS6jiHNOcdftIE3zioQI4p+cimtLFAkkRdIdqeru4E0wGPuLtQFlH7y28rhOTwMHTQeZrvZtphNlia5W9k1WgdP4xt2JxcAYbaBf4HVVqRWUCtlKq5gKkOjL2RO5Z9iIesRsst4BeKN+lhRR/wJIgALg35V63piEOeeUiGxYrCCkQp5jnhGm02bJdR7fGIiyOT1JpeTpRm65Ox7lYA/z+Iue+SxisEsUui7H5tTKHtn7K2LsJaf5s7grp/Y5szfoplhHOrOZQSoEMpFEgvpFS0V8e3qmkycBRJLsHT+AcYjZ+rWssTTnOXiE3k=;uv8hE1as1JcscsM0/nnT5Q=="

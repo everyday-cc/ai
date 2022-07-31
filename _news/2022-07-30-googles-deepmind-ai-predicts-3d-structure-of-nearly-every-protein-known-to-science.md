@@ -93,9 +93,9 @@ related:
       domain: cnet.com
     quality: 62
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on important global issues such as famine and disease"
-    publishedDateTime: 2022-07-28T10:32:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
+    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
+    publishedDateTime: 2022-07-28T12:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
     type: article
@@ -379,6 +379,6 @@ related:
       domain: dailymail.co.uk
     quality: 0
 
-secured: "CfVVr88P4HizdAcbORvVk3+Pk4pfcvLYVN8IGAFVLuOc93vhckA4NP8WM8oCHYC/awUAUeMV466ZHi8BcaS76GPuSCyTOjGJrQUAgtYd/fn8uYpaXT3ZAqJES/GhMbgp+0K60YNafKI2r2LBYwFZpedUzqNf3f/RL6Ypi42Kj9DLZqM0i5AYunoKB7mV82c4PhoX/6plH3k21I3wEMhlBXTIADKyKSdOd0F6xsVBW3hK4kZiDEBlSNZas8TKAlsW4+PNrCAgtg8vhg/igQSUkS57nDqU9gdelGgH+SMkyTr8xONbxJ3F2mkcAVYXA/7iEXeUdFV0SQ//Fd0854kRgl6+g9ZGPl7eHYzMfDzOLXU=;/tq2p5ZLB1zBh+ZCPzPgiA=="
+secured: "C7wELF8IJwJUHokpc0HwI3Zh73M/z5rVvqnvThTZRLk4w/cK98XRe5m1eMCCQBkuhPr6F0yQR+Je/X5dlKiI/u4VipZi7xLglft86ElwnlzBJleU8TdxoZqsOOH1bCTBq3Fi0ODdmt3zmbFZ38B6rlQmey87pHevMDImcYLB5YkkLoq7lExsK57PJs36fVIGIJeexquvPM+14bwTW20Kovfob3xjqMteAAjSHBVsNVzl0QKEPuC4w2+8W7L0Y8l91ZZqzDuYAw/ZfvbqhQQyPBeYtv+ThB5e9Jj6w+EcHXJX4p8p0H6vmK0f4xGl+moZUBtbq7HVAaftxmI2P4oCgRFrOjUM6+lsUQ53VryGlgUGzIDNQJ1KslXoKqRBfCnDBCKjV4k0nAV9Mky2+kh7HUanqm5l3JJFmjubMVKS76z9GPs8jaf3jMh8yXcntSQIGrjOKfxlAVtujDptORL+ThC6sUVJbRFjTx3UpQ8bqi8Ao/suISQtQTazhRFA9CZgrTJ6tnus4C/tL4KjI0gSfw==;O4MNI4qprqt9NxPt46z0XA=="
 ---
 

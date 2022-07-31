@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
-    excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
-    publishedDateTime: 2022-07-26T15:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "xbwY6sSR0aRpvAR74gjAgniZ0ydtCGobJYU1IA4r6LhE0Oe6kPJou0eZIkteDfWIp0mXzHWLPQVfFVCnWOddZ/v92BBVSi50RE8YnRBXzKYrD87IwAfa90ljPHK2+jnZKfTEz003QalQd5PUYZ3z8bPqhgrxUuqUWA+s8t69mBdmfjsolD7AJdG8IuX3ejyd1iWhk0TeTYMb0Tn3dQfDUD9W99NUIVrhEgKrbG6wpJQi1WbNJrHXEP7CNUbXovP0bUJnHuepTsPUGSXBS4fUXX9iVEqTfIVPizvtW8/v9Am73wFzXiOp7BXXhI97IbCpz/h26Hc8vpc31/FzXz3ZJA44Z6ti49cx5sUrtd/jJIMGc+iWfRnaj+GwPtZRUOKMwDYLv0gnh4YxF/yRswrSqcacrumrdTtu/LCoK1/LXqErdEX6BafetHcxW5UfdQ06PAX7FOOBSJlxxPTrY+X1YDOEJfEQXwEFVp3kej+Jsp90WGUKmfkSedJnB2Upb3TI0tI4mxsMnWCahhdA1H3r1Q==;2PMRNj+kglYZZFd5mrCKig=="
 ---

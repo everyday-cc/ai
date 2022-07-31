@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
 type: article
 quality: 89
-heat: 109
+heat: 101
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-26-image-17.jpg"
         width: 2560
         height: 1439
-        isCached: true
-  - title: "CemAI Delivers Next Generation AI Maintenance Solution for the Cement Industry"
-    excerpt: "CemAI’s solution complements the expertise of local plant maintenance teams by adding the dimension of predictive analytics, bringing cement plant maintenance into the digital age of AI. CemAI leverages machine learning technology that processes in real-time the operating data of entire cement plants,"
-    publishedDateTime: 2022-07-26T15:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-a65fd5b19f9be428b3c7fb9b2583a7cc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "9nsxmOSNy6momZdfcHjq9aIHAUW5+UXxQCXYp8W/qJXlGz/guq/s709Uw8DAgHi1YD6G8cINGVUOMRs+8AHSkUNhs2xSC0XuRxJKm6UB3Caq8KjoCSvZLU3Ycr6UCbzj8wk8LlhI3rOgUHACuKc6R3yE42f7DWH4ydN+SZQJRnt3HVncVyoM4wW9p3YnfpNUzPM9k1QDqOz70Avw1DGYgeccyvR5gJKoyas4Aw9xgY/6SPC3vTrFjzKC9yOo1xPULDzsyGP5ReQ/4VPgHSfZmKxEkTiPAh4Z8xACDMi9Jnm26tSzCs9hV8c6hZMcwywEZXr7aEdKbWNFJo+h7Ud9txPKuZptR27hOylR9zEv3fg=;TcvFoIJB5HJIuxPPZQgRQA=="
