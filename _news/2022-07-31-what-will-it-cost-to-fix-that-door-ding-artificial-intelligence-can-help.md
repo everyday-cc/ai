@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

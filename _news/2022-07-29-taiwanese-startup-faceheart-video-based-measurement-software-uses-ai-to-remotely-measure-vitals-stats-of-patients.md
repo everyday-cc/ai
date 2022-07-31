@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "The Taiwanese Startup Mindtronic AI Opens the Way to the Future of Mobility With Meta-Service Ecosystem"
-    excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS, July 29, 2022 /PRNewswire/ -- Mindtronic AI (  a Taiwan-based startup, unveils the world’s first Meta-Service,"
+    excerpt: "The Taiwanese start-up marks its fifth CES Innovation Award win since 2018 with its auto technology. LAS VEGAS, July 29, 2022 /PRNewswire/ -- Mindtronic AI (  ), a Taiwan-based startup, unveils the world’s first Meta-Service,"
     publishedDateTime: 2022-07-29T04:01:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-biometrics-c86953c3039b714a1c6bf300b4b092e3"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+    quality: 1
 
 secured: "W6dGy0ejILp5YtAc/AOVtEucadXl23hnoz6ZdbhDQdJr0bPrxLZ49rpCCfkvd1YmIL70l+kJ3DdZPjaKowLIFTpxFRsHhYnXwlwNKtddwhLa96ij6FIO3hMf7WnW1QSIr2yBgKTTeee208SP8snx7Ll7Nbkpz2l3R2+N/noXPVPXY9a1rKEQ7Mp7pyr0+vNvm+glCWB+iZcRo0AFbvmhrtCZfzoYFv25C9IybMncLewrgW6klxgAxk8ndoofoYaZyS6ylCKwExB+9ruoh9r+eGh0818AoGolW+XPPF0FfYToOPiSK/6EaYVzjAZpuulOz64x6b96NeE8LJm4a6AhFBSLCLoDVoNwBDCk9Tuu24jFzDhVjNbTx6t/gKpQtegO/lGlIJPss4RoDdXs51mPRS6RlWwO9Jy1+Bh0RVAVjQgUMNF0zryh0kcxzyVYxSJraFTX0O3I4DBfqqPa4d+bmZTz1MzB7I3/doJNHlbLdD27NSA0tRcSaXrlyfMh1BklVi6/NatAEe5HdlZrbTUmeA==;edaWDMqqkh59Ip/hwSTyew=="
 ---

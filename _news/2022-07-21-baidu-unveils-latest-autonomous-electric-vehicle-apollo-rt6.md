@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "Dqwb8f3BwtmB3hJ2Nz63j0xBD1DQaNvSet0GUklRfTnm2MfrxHsXPUf4/mcVpOGe6oubfV89Pupe32GDS16XevxgwZrHvt5BXX20V4WMiDYM7honnCvxDjLMVv8KY67nLocqnKfY/i7AHucxJMYLzNydS8cwRGrA7YcLiLZ8bK7KltVjU5IA3JCRa56xP4cQDAW9X//zZoqvCk+tVeXN45jKFQf1//idwDw7yYBEBKFy7Cyv42K/Kb41Fv08KlXHIBiq+6n3SXi+PoXdCu1zzN05yFfXRZ+Vi79Ic79zoVnbSF7FTgyQWv78mY0NI2MUvIG7ljysuq2W6NBWA4fuN4tleqfTyDO1BbDEsPW12Lw=;bjhwydcvuhdgGwRtUckdRw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+secured: "oG9Z21mPlU/hyuoehEXpqixRXErzkYUkm+PLhhlxl7O6y6GP/tHtbFyZ8s7b5frWRj10zMyB2V+CkPDkLIWlvZRQlhAbREXgU1atGcGwntpibhAPTJwzC3Mj0On4IO1b/pk7ldCWBI0MviOW6fXpX04zGcHzo/oJnDZLjAyzWVmydQgg16f2fNef9X4zQWQR+08BtajUnv45zfoY/QMm7RqODw+XblbWNVBkdmnz4PAigSPZF1Ovqe3KBLo+x/XRmnDgD7VzeXlfuVcvKc1V9xiFi6uPgxbabwwF4WW6UJm0m40lC/JdcviLOr22AKHfSajwEOldGveI4S3NRRl94hpMfh+vOWXnTDsxkxKsqK8=;YQVLjnc+xlJSSkrv0TOm4A=="
 ---
 

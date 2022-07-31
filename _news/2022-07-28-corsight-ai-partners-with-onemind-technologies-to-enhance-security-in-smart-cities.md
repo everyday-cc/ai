@@ -21,20 +21,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Corsight AI facial recognition tech ranks top in NIST bias testing"
-    excerpt: "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects"
-    publishedDateTime: 2022-07-26T20:09:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/corsight_logo.62e046c333a2c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Corsight AI Partners with OneMind Technologies to Enhance Security in Smart Cities"
     excerpt: "Recently recognized by NIST (National Institute of Standards and Technology) as a leading provider for proactively reducing bias, Corsight AI delivers Facial Recognition Technology (FRT) that allows for ethical and accurate biometric detection,"
     publishedDateTime: 2022-07-27T12:16:00Z

@@ -2,19 +2,30 @@
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T20:52:00Z
-originalUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+publishedDateTime: 2022-07-29T21:52:00Z
+originalUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
-  name: Live 5 News
-  domain: live5news.com
+  name: 13abc
+  domain: 13abc.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "BZvpLIXwSaX4+dmdtBgKQJrSQhUbTyKDCt/8Rsf3r43wRqEujUFAxv8pDT5MgtO8H3vpDuhqYi7DPNPXo4TDxrDaTvPwiHXzRJsWoOKBxNfJOVkSVw8FjAqj/9INX7qogXYN7g3hqtVWjf11K0p/q9h4WSkIX1aSxIs7it2wo1Y9HmSY71WIcWw+AHKQBNk9KQzSUSvE385JN54kvtnrFQaDsHzsjmB/f/iMoD0k9ENicRrgWwl2E2jNyekMM2avBB4LJQdzBL0gA+qX1uxLwLCwc9kUwQ4YrbizSX9Xfe0CFPhHU1I1zlCDruD9Nzb78+Hgu5D8tvlCDtLn0rYj3Q301MkI5pnLqGRIGE2LzjoRJkkr6lqvu/E/SM/GRa9C9iFCMoOuZ5wou47pmhKazzdnKATzaip+1GTSgUauazNN5Jy/5PSL72bIbv0rLE2uFBTYAm7vXJXeUkIUONVzTR+csejtUHVIMlfLHZ9/GsEQA1cN1YInhoYG1xEtmUX1BVnsrAu0rTjaM9tjcyV/yg==;Wi90bZ7EG1DKhvrZMhWEXg=="
+images:
+  - url: "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png"
+    width: 604
+    height: 369
+    isCached: true
+
+secured: "mYsKp67GDVfw/GksuMDZomycGbzii62BPPagUjN8xRqpHZo7pjyZviTP1GbiiKFUUQfN8RXBhQuaI3xa0eshzEMWFEnHI948mHpUvyNib99ZaR/TLyrsXOnAZhne/eKCFBovzug4EHR6OlPtiGktWVWtGt2pNEeaCS6tssuaQ1f/oI4AcVq/Fcm/EEpcaLONliSvuR/26E9aEs9UiwH/KiUOAQrRntbQjByn5dKPrdIg0av6FwgyMDY1fuQuR660k1x14Fm0XH3T8WseLWLkWj6hObqht7MEkAHOgAhdStQExIjLJz3sIy33eWmy6qFyk2yHc+UfmjUlkrPnFAwwh3oB92f+jxxX7uavOKWp5/g=;An6Wj+X7H9HAWBgVO62nxA=="
 ---
 

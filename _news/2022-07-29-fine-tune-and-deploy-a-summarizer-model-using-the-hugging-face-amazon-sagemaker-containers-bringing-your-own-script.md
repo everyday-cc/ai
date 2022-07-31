@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Predict shipment ETA with no-code machine learning using Amazon SageMaker Canvas"
-    excerpt: "Logistics and transportation companies track ETA (estimated time of arrival), which is a key metric for their business. Their downstream supply chain activities are planned based on this metric. However, delays often occur, and the ETA might differ from the product’s or shipment’s actual time of arrival"
-    publishedDateTime: 2022-07-26T20:10:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/shipment-eta.jpg"
-        width: 1323
-        height: 662
-        isCached: true
   - title: "Team and user management with Amazon SageMaker and AWS SSO"
     excerpt: "Amazon SageMaker Studio is a web-based integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Each onboarded user in Studio has their own dedicated set of resources, such as compute instances, a home directory on an Amazon"
     publishedDateTime: 2022-07-29T18:34:18Z

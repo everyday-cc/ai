@@ -30,14 +30,14 @@ related:
   - title: "Humanoid diving robot explores shipwrecks on the bottom of the ocean"
     excerpt: "CNN, CNN BUSINESS By Ashley Strickland, CNN A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t. Known as OceanOneK, the robot allows its operators to feel like they’re underwater explorers,"
     publishedDateTime: 2022-07-30T13:22:00Z
-    webUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+    webUrl: "https://kvia.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean-2/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KVIA
+      domain: kvia.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+      - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
         width: 1280
         height: 720
         isCached: true

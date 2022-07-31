@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagn
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
+    excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
+    publishedDateTime: 2022-07-31T13:29:00Z
+    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
     excerpt: "Artificial intelligence can ID when a patient is having a stroke caused by emergent LVO, making them a candidate for endovascular therapy."
     publishedDateTime: 2022-07-28T23:24:00Z

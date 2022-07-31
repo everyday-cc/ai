@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
-excerpt: "\"What sort of things are you afraid of?\" Blake Lemoine asked the technology, in a Google Doc shared with Google's top executives."
-publishedDateTime: 2022-07-25T23:17:00Z
-originalUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc7chicago.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
+publishedDateTime: 2022-07-25T18:17:00Z
+originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+ampWebUrl: "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: WTVD
+  domain: abc11.com
 
 topics:
-  - AI Ethics
+  - AWS AI
   - AI
 
-secured: "yG+bj1NG/ZKTZ9hzgeRluUDHWZUInhsA5yn5+3xa8I0us3KQaj9uQVMmdqgq7/avB8BEFoy4BAGGk0bbTaxnd0aLYzuKDvRueDydsecbpH/7RDC6h484AZaFUmx8tRkVXu5u3f1bO/86bNVBc12xKu+TgtNI1W3EDZbQOsz/oHnsftK/xT4QcTa1gct823fI2PQsrZ4qlrSzGR6uHao1LwF/zJp/boy418J8HmUMZapq5un8hbOeq1vyQ/qEWAV6vd5AFJWl2ejqYyCWoT/XRWqj2R3s9B+65q2AXT7KfqKIdOUZdQncGj04maw5dRmVk0tGaBfZs0W6YtO8fXcWjf+fs/6ITlp3nucmbaE4aRg=;NPzMi/MRCmChGGgT5DWX/Q=="
+images:
+  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "0dKKhP5h/6Rk5pXJ/ABsrVJHMn4bR7f2HFDlMWGq10TWPTiZ5lC3xatXlsf3jw0rElZPUHn3NPLc9SWvGfC8RSkL1PwMCB6/JI1oa0nx8xHKjMWKLcLJX1CkoYn7upTB2E7nkBNnmhLTpaqI6q+7R24bsx2kZoqVuphwTkfbHmSbwIhP36f9y/nGWvrFXPyupneRxkVwduzwL8TqPWO/8nlGzGIHM4N+2mhikqqz6SpxbLbj/PRKsZ6Yig4B6LgjfTDomH8bViEiU9pcDAKmU90oOD+fypkGDTi37ihJvbg95bbC4vKFrVP7f2csp43xAuKAA68K5dfNM+zpxHRxAeE1XsxPrV8jGzZYQyhBGk0=;J0Dgi+1y66Lsf6HSLpYtBw=="
 ---
 

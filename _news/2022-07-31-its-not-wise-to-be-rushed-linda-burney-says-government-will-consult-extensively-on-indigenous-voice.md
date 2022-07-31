@@ -3,8 +3,8 @@ category: news
 title: "‘It’s not wise to be rushed’: Linda Burney says government will consult extensively on Indigenous voice"
 excerpt: "Minister says Labor’s plan is ‘five years in the making’ as she seeks to clear up confusion about approach"
 publishedDateTime: 2022-07-31T06:39:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice"
-webUrl: "https://www.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice"
+originalUrl: "https://www.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice?amp;amp;amp"
+webUrl: "https://www.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 414
     isCached: true
 
-secured: "3cihCermoXOd3F3YjxvH6Z3Vd3e6lwU11VSXGfXVCMwV3ZAV5VVca2RV/BsvJwmg50bpZBBwnaYUoq7N/l7jq0fo7v1HdsKOSYalWDgJWwLVxQNz4KdqBc2E4RBhAqmmt7hdaNdBZh7VTXLR+sBV/E51TPXh2LlvJ32D2n2wbvHpBmtTXVUctXwN0OkvCNsNPZF0eNeH08+h2oLTtYvdFHAVL0LuS+V/mNPpv1mwUW3S4PlvS1l4NFkjIVzD19sh+YZS/s0JbI3Ls9jon3Mw0r6Um97JKokhaOqz71oedmQQjcJcNaTnKn36VuiVXePm/+e/lBbRK0SbuQ5TbLa53kPjDLlAwlPnWxNo9c0Rf3k1TbN1Ci4pYLr7MD/pMkg9DcG61MPcYZmNPbbM37WZF0sjj4en3M3xRicQqcGJARd9HtVhCSU4P2KXSecv+6Fi2iZAI6ccvBChGk1075/QymC4L3NOkaHeN6vvbkoW4H2AT8OcS7mAsQNhAxgyXqHIB/dh/nxdA8VGlFAEbeTsVA==;BnDlTBX09Qpjd5R2dvIoGA=="
+secured: "HYEwHRdUv7FFjyZRpzxQkYh7RAbXTzLDNYWY2kQtRGZTD7u6w5vBHbQBO60UpTsUnBFmlYeROSwrQkwgzsM3DaLuQBPQWoy1CtGmO7Sjn0DDAX612hfMfyxpYnFWS80Vxs0ZmG0hVIrFYqECPwBfFemPcTkwOlnRbExG+L2cQ3oYJM3BDJ5yvGwWbQH7UBgBfsiKaCiD/aXA4tDC8HAsYkPr5nuKP973cqCwH46wNGANMropp8Zo8IMORVo9mLU6kMWLiNWcft3IoVIc12tIgJhIAsezIQJfw7pXnz63aQzLdjMTjO584JF3QuH1QT0sxU4hJrMZOw7ve4khTBZKDv2CfNKcnLMtOQzl2/N5DvQ=;+dBUvGPE16DH/1etk7avpg=="
 ---
 

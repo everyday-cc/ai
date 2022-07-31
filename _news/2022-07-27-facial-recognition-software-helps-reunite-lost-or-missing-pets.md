@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition still gets mixed reception on retail floors"
-    excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
-    publishedDateTime: 2022-07-26T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
   - title: "Editorial: Place privacy restrictions on use of facial recognition software"
     excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
     publishedDateTime: 2022-07-28T09:00:00Z
@@ -69,6 +55,15 @@ related:
         width: 600
         height: 333
         isCached: true
+  - title: "State lawmakers seek restrictions on facial recognition technology"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-30T08:50:00Z
+    webUrl: "https://www.newburyportnews.com/news/state-lawmakers-seek-restrictions-on-facial-recognition-technology/article_97b60efb-38e2-5a5d-be83-a474149b8ced.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 19
 
 secured: "AdLq6r0VOI1xpY0tC7AP8ASqOm6nutSGMsEyh5tvvj/lkgatPA+5o5UDBb1jFV1AwKum6vJOBUX5Y3MtnczkN3czdxqRMS/AWHsXOZZCN3k5FWLcZLl5Sd4qYWxmKZBTCRDQoVxrEIl2mOXyBAB6+2QC7ZWN0LtlbKCfKQNa013mi2HtoWCi6nJj/VGvq1lmE6Lx+l7bcUQlOSQ8iIPrjcgBK2CGdgFQCzkLGtdvXfLJuFDnOgLFSIS8qNBnMJd7hCt9sLPZA/D+OOrPZ9SBp4pYLrKFDubqZjsD84zvEycMFBif5WSV+aymp9DyD4jcI+oY5ZWvgxcqcdMtVg9uR16f0CCmfEsukTGzLJTvc2puTwh3JUAK/Ta6a+zzgO3n8YvhB+rL7R2ElOpQUp8hkPw63GNuX1SJTcqA8WURwUji3tkRGKy7eM4tJS2/MKSNWdEhL7m1QMwcbKfmjJMMHIIl0SrA2x/L6VA+h52ytYQCTi6mSgAVDXmKg/JIRNl4ZV+ttpYHm9a6RXJoG7BAkA==;ryQ77+DkQ3sp1WpBEBRaoQ=="
 ---

@@ -34,6 +34,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "‘Like a huge chess game.’ Start-up is revolutionizing traffic-light timing with AI and the Internet of things"
+    excerpt: "Instead of timed lights, one company is using artificial intelligence and optical sensors to keep traffic moving."
+    publishedDateTime: 2022-07-31T12:04:00Z
+    webUrl: "https://www.wheels.ca/news/like-a-huge-chess-game-start-up-is-revolutionizing-traffic-light-timing-with-ai-and-the-internet-of-things"
+    type: article
+    provider:
+      name: Wheels
+      domain: wheels.ca
+    quality: 0
 
 secured: "Cqvdd4PxA6GeZUle9yOWJQAT/+gU3OlBDsMkSKqbZ9c6859MQU+/g93ifkBxQgCwnPe18X5lFAcNWVw9vZORk/esQA1PwLVgTQPt39w6DaflTiZEGsiPR+5Cni+NPkq2q5yCLXQF8uKuSfQsAyrmkmEQ8lN+kXt5uLvP+ZxdkA5EFSO74LCDY6tRimlT5fTaw0j0e+Zjkh3umX0o20y05Z3actYhI+YZ1Mu4x9GCctU1nFUkk1RS72aeRj2Nw3AcdVXYDRdXxbrjBnSYcCAs+Z76YebM2LMqcssOYmWkWq13ygN22DmsAvk5ea0xKrTLVf9/uH42TYES3bJyzohK8PAHZzZaN6uZocjNihm/5n/AT0J7TSD4FPzxxuIVNHTdvBcML76Viz2wEmW1b3+SItgqRazqwjjBc8jTFycD3w74hfKBwmYxQdnaaXybRUo5Ce0drp28fTzfShTD89Y9EzgMOxuje3iUPdsm+wk/if5GMQwahjAAXmbptusNoVidioYC9uJgulDa6tk8nK0Hjw==;JZMze0QViIwBxTpwRXhcCA=="
 ---

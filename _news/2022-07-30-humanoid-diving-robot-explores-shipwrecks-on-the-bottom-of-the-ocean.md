@@ -3,23 +3,23 @@ category: news
 title: "Humanoid diving robot explores shipwrecks on the bottom of the ocean"
 excerpt: "CNN, CNN BUSINESS By Ashley Strickland, CNN A robot created at Stanford University in California is diving down to shipwrecks and sunken planes in a way that humans can’t. Known as OceanOneK, the robot allows its operators to feel like they’re underwater explorers,"
 publishedDateTime: 2022-07-30T13:22:00Z
-originalUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
-webUrl: "https://ktvz.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean/"
+originalUrl: "https://kvia.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean-2/"
+webUrl: "https://kvia.com/news/2022/07/30/humanoid-diving-robot-explores-shipwrecks-on-the-bottom-of-the-ocean-2/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KVIA
+  domain: kvia.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "m2CyR9jzInOwpe9TNvdpdUzpw1Q3z4Bf1l9uY6ac3ebqK86O6DWzp0HTg5PFdVYXSny8HiZIDpuz75pC5cbs/H1jmkah32wuZz8gxeeGKgU9OGxvGENIp1q+vBUuQEf9zxxLuwclTuvUwriUQHmmAlJ6SRIc8ELpBhYMOCPU1i461EVyDU1xF0xiRyj7OAQGDxn7p6t8KnN8w4s0fGnbJl3erL97rYXzvwOpX2PAjMgWIWQ5l/fu8qb2RJJJUzW5s1wavk8/t3s75ZtGxMiE20T5v4b5ZsaMoNWaib5ZMlIeD9JWmKkQwGru31aKK0psRwkGHLsHnNnc4qbRegS4gkHGGSE24cjXJAiSk9BQrlU=;M3xI25hsXyGxNJC+rEQmRg=="
+secured: "ok4GhOYbnmp6LQtxeZ/pIfiRAnXbk93hR1Atam3jwa/WOOnUhF3fS+lLkMZ1O2tDyD7a+PEn1EmaaTw9YJ5/tnU5Arih6x5vJX0iE4vwn1x7ngoiazJN7fF3L4zzbml1eNVxn7HGfnMaL7AG6Idoy7AIu4Ee3dXxGkqfYV/rInG7CQhbfa5bcpSopgH2BstX4nhgtp1nS9np0HgPkCAHh3UQPRYrdD0sX/q/iuvcxPpEyj5ERA7G3wwroCSM/F0Fjek4VJimLS3Dwm+LPewpp6xUYFr/M/5hrP1LS731sW6zy9E53fSw5UslD/9IV2qiugt0D7O/H82Ix+cV7Q6e6FrmDPV5BYqO/qE96ZSlHvs=;GWPJ8dERjPjINstCexD13A=="
 ---
 

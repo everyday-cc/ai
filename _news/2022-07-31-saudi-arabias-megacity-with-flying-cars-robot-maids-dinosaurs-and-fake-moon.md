@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-31T13:34:00Z
 originalUrl: "https://www.mirror.co.uk/news/world-news/saudi-arabias-megacity-flying-cars-27611425"
 webUrl: "https://www.mirror.co.uk/news/world-news/saudi-arabias-megacity-flying-cars-27611425"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: The Mirror

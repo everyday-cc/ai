@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial recognition still gets mixed reception on retail floors"
-    excerpt: "Two retailers in Australia have halted use of facial recognition systems on their floors as they are investigated for possibly breaking national privacy laws."
-    publishedDateTime: 2022-07-26T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202207/facial-recognition-still-gets-mixed-reception-on-retail-floors"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/18122029/grocery-retail-biometric-security-camera.jpg"
-        width: 1454
-        height: 800
-        isCached: true
   - title: "Editorial: Place privacy restrictions on use of facial recognition software"
     excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
     publishedDateTime: 2022-07-28T09:00:00Z
@@ -69,6 +55,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "State lawmakers seek restrictions on facial recognition technology"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-30T08:50:00Z
+    webUrl: "https://www.newburyportnews.com/news/state-lawmakers-seek-restrictions-on-facial-recognition-technology/article_97b60efb-38e2-5a5d-be83-a474149b8ced.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 19
 
 secured: "ptIYIEkNgmOxTP7x/BAYSqV0HVJrf+J2XG+gP9YH9jkBp793uKxWDuNaq4hmzffMjZq5/cBHprzeApvqIGPZcn0/um8ze9hVIo/7epeys8DtpFM+G2u3GGkUl+k5c2ds33pM/ebZ0w9GFcvra4zv726g/IR1/+hzD0WjMogoSVSTah4mDzoFOMfafJNoVaQqF20szQGKq56PEo0UbYkhHarq4Sqa3UgHgGVGZG+nQhsYi9M+CCQEqmFGDgLiYmDL+lJtQbtHcv96JWXb23spB4FlI0PZbv6WEG4HHFN+Fx3fn8d5jtXO8F3gYATMoRsCc+3adXt3QlOLnajVrRZoMww9E49qVNQRvwaiHxXZWAE=;FDDInqPlaazkWZVugkICHA=="
 ---

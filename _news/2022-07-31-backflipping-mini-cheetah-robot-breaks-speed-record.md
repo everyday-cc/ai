@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-31T11:38:00Z
 originalUrl: "https://www.tweaktown.com/news/87682/backflipping-mini-cheetah-robot-breaks-speed-record/index.html"
 webUrl: "https://www.tweaktown.com/news/87682/backflipping-mini-cheetah-robot-breaks-speed-record/index.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TweakTown

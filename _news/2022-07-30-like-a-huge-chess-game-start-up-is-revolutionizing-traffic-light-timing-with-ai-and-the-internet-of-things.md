@@ -35,6 +35,15 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 17
+  - title: "‘Like a huge chess game.’ Start-up is revolutionizing traffic-light timing with AI and the Internet of things"
+    excerpt: "Instead of timed lights, one company is using artificial intelligence and optical sensors to keep traffic moving."
+    publishedDateTime: 2022-07-31T12:04:00Z
+    webUrl: "https://www.wheels.ca/news/like-a-huge-chess-game-start-up-is-revolutionizing-traffic-light-timing-with-ai-and-the-internet-of-things"
+    type: article
+    provider:
+      name: Wheels
+      domain: wheels.ca
+    quality: 0
 
 secured: "ZrPyGx+bwyAi3ENnkm8CgL1D6hCkLvD9NDNL1wAGExwoJRyMdDMDLZWRli2Uue8mGOjlf6rkjmXDwMw26f7/J8kzpwXJH/OgkCXKHLF4VOl9mqPPnLnaG2Z5FZyBi5vBqL6eZLK1EKg1XeKs5vYXjxfGZYzCbSUp71HgSBJLQkziWzoTxaUVFrCp8qkCcN0lwL0sH11HkEeLNetLm+yNf2GhaBsXiMjWQKsEWb2ZETzuZlEcyS0VFFtR1S8oQJKB7jW4eKCgHJm9GWIx2ppVOYAlTUvt7YeycTgpkkpZVfMOldlZqAk9ZIK9TvnjDAXQRmLSeHC4lfJiBaMWXk/3VVqoEYFBezc8ODvtYoGu8fU=;fORrTUJQ2+p/Uy4P+RI7Lg=="
 ---
