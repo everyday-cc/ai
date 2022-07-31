@@ -3,10 +3,10 @@ category: news
 title: "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science"
 excerpt: "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen."
 publishedDateTime: 2022-07-29T18:18:00Z
-originalUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
+originalUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
 type: article
 quality: 98
 heat: -1
@@ -379,6 +379,6 @@ related:
       domain: dailymail.co.uk
     quality: 0
 
-secured: "80BpsYsjhSAQIMj5Vg/dX6TK1ZcAJzhvhiR1IAeQoBv+7BlYHpR/G6bADTcF94I7WmPEpfXiuL7GB38q6EbLtvg3ibIKB9RHkJ6fumMn33Pb8vdo8+4gX+XfByCz63yZsTvc/zfEQ8+XNtOsPH3Ogpf17X+JACcbPN5/JcumflrXz0wbYjwffScxmBSjIg9awReBMGOj4LCoyMlgtVr0ZYn3l1XpsXXDxhfEA+S4VtJ0ZNzznJ48Rv/WpjhLtHBwgN2j03dKL97WLgKd7QP2Q6ETWWZkm/ed8vImxFM3uOQdjuvp99jKorrzfq+YAGIyb49SlQh4O1LP/mu5honrrIHIUZh7Iz/uweuqxsFESnk=;/9dNIVq3xcmO+coGC3Z1Ew=="
+secured: "+X1KIJDLBFpQ+F7jQPEhaoXZDGmSnJGosmRDgRPEXw3JYAOVY79YyJMQtolGOq+ck8Tecbqs16CJUIqLasiJdSkyMYCRHumbKQSv62K29CRoI4Z+zH0jAvSHyP/Ur3AdUrP3mNZFRl7RO1n7sosJ1LjZzV8AhArNwy64COzjOSvxypBczEvQK1NkuUyyrobKkJtbYYo16k1jOngnerEWmGBVlaiCCuF0f6tXl3lzBXbA4zgeoBsyUHan7gCFefemGZat9ceP5tVz32o9NASfFV3GojoU/wSosLdXIbvJ8Z/92svz7gk6/mkBA9fFH/QKbJ7InCWWKSC4HZQNT2jY5MjOltaNOJCSjVzg+hwZ5NY=;b0Dq1kno/lMDo65cWdc+FA=="
 ---
 

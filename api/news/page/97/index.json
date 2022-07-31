@@ -2,6 +2,197 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-05-13-langai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai.md",
+      "title": "Lang.ai looks to help orgs extract value from customer conversations, with AI",
+      "excerpt": "Lang's AI-powered customer conversation platform extracts the key concepts in a conversation automatically, so they can be grouped into categories that make sense for a particular business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/",
+      "publishedDateTime": "2022-05-12T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
+      "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
+      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/05/12/1600x900/Google_Health_1621427558893_1652340789454.JPG",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
+      "publishedDateTime": "2022-05-12T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
+      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
+      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
+          "width": 776,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T10:38:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-3d-printer-companies-makerbot-and-ultimaker-to-merge.md",
+      "title": "3D printer companies MakerBot and Ultimaker to merge",
+      "excerpt": "MakerBot Industries LLC, a major supplier of desktop 3D printers, today announced plans to merge with rival Ultimaker BV. The transaction is expected to be completed by the end of the third quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
+      "originalUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/MakerBot.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
       "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
       "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
@@ -965,204 +1156,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
-      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
-      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "originalUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
-      "title": "This startup hopes photonics to will get us to AI systems faster",
-      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
-      "publishedDateTime": "2022-05-12T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
-      "title": "Microsoft session highlights from SAP Sapphire 2022",
-      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
-      "title": "AWS DeepRacer program teaches developers about emerging tech",
-      "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "originalUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Mike-Miller-AWS-Summit-SF-2022-1.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

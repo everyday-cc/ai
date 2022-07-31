@@ -2,19 +2,19 @@
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T21:52:00Z
-originalUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-13abc-com.cdn.ampproject.org/c/s/www.13abc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+publishedDateTime: 2022-07-29T20:52:00Z
+originalUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-live5news-com.cdn.ampproject.org/c/s/www.live5news.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
 quality: 66
 heat: 66
 published: false
 
 provider:
-  name: 13abc
-  domain: 13abc.com
+  name: Live 5 News
+  domain: live5news.com
 
 topics:
   - AI
@@ -26,6 +26,6 @@ images:
     height: 369
     isCached: true
 
-secured: "mYsKp67GDVfw/GksuMDZomycGbzii62BPPagUjN8xRqpHZo7pjyZviTP1GbiiKFUUQfN8RXBhQuaI3xa0eshzEMWFEnHI948mHpUvyNib99ZaR/TLyrsXOnAZhne/eKCFBovzug4EHR6OlPtiGktWVWtGt2pNEeaCS6tssuaQ1f/oI4AcVq/Fcm/EEpcaLONliSvuR/26E9aEs9UiwH/KiUOAQrRntbQjByn5dKPrdIg0av6FwgyMDY1fuQuR660k1x14Fm0XH3T8WseLWLkWj6hObqht7MEkAHOgAhdStQExIjLJz3sIy33eWmy6qFyk2yHc+UfmjUlkrPnFAwwh3oB92f+jxxX7uavOKWp5/g=;An6Wj+X7H9HAWBgVO62nxA=="
+secured: "vQ/dI8EfO9CJeRC8Hg5AGbq4KlbrA2JmBAaXxY80ID8Nup2liY3nxy/NpBNBoGZjVlXIAc7CxDv80nc7UW25k0ng1fJQx0IB5DJ5+ku3NWFJ2Mptm25EO4EFUcpW6ER+bCXVe84tEfs/aCDd1XbgTf9eR+qhjfcNDVFqzUtNzro50S9KLRQU5zJJ0r6N+4ojJBc7zJlBHa9m8g/cqZFl88jSauOeT2pw5qU3dYrGCHH1AExfpPj34NAQUvhMpkZ0Df1KSepiM13k+d2Y1Tvr8f+9P7cf9A0PW42pPKORBrCGJosGRrLq5Q+hPMX4vejncm9SRSFAfDvMNdtR5zHwuc1tCbPQmX6WE6BsStkWfWk=;GLBF8fq80T1RPROcl1Gl6Q=="
 ---
 

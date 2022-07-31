@@ -84,6 +84,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Indigenous voice details to follow vote: Albanese"
+    excerpt: "Details for giving Australia’s indigenous people a voice in parliament would follow a national referendum on the question, Australian Prime Minister Anthony Albanese said yesterday. Albanese’s Labor Party government is seeking a referendum,"
+    publishedDateTime: 2022-07-31T16:00:00Z
+    webUrl: "https://taipeitimes.com/News/world/archives/2022/08/01/2003782786"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
     excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
     publishedDateTime: 2022-07-30T07:23:00Z

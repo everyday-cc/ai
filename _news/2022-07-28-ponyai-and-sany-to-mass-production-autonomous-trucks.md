@@ -70,19 +70,14 @@ related:
         height: 512
         isCached: true
   - title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
-    publishedDateTime: 2022-07-28T03:41:00Z
-    webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+    excerpt: "Autonomous trucks produced by the joint venture will be powered by Pony.ai’s Autonomous Driving Controller (ADC), built on NVIDIA DRIVE Orin Pony.ai, a leading global autonomous driving technology company,"
+    publishedDateTime: 2022-07-27T19:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 20
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "cmQn9yyzZBRg/3cAF6U/tJTk/JsPdpOYmGtejkJyc3VaEySwJaUoMCYe+1pS5WN/kW8QBRIBnPqmeUaHNiDeNkWQvdrqRY4DXNHyVo0cBZ3m937ndDFmgHQj7Ghhx/JIq4s+rC+yo0annZWeRmfN9nNd9QiLlNyakKtObAcz0NTZxVQeV2RJQUoFQprzBqiDOUgEn7xy/eBd//EQdhoffaL1iQ7htdmrKPfe+30oJkXgYueCTcX977d/pehCRn5BhMLU8Sb3EiW4oLaSQKs5k1V45Y20jyb4x8rYlUsPSqHR1uHzBgfASHZo+GgAEo6rX9PTdbs9YTXMcp7YEHjYTxuyyAxrev5HLCK1PEkszkQ6z3TmqQzewQTg+7DePWnfwexKH3VCDZhe5OZUGOfeTBZ22FAKVXOrH72M6Js6LZqY+5cKfiZQwYr+KmF7lJmlHRZo8XoYegeiUsnxGLaouQuvl8kTTVm7SnOKNMKNcJekdTmBEKFgsLRZqvZKq4yunnxhk3LWhLr3T2Tf/Hsgig==;8uzMtGucy0R2Fji2zs5FGw=="
 ---

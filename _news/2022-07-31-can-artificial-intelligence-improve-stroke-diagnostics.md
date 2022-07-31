@@ -3,10 +3,10 @@ category: news
 title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
 excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
 publishedDateTime: 2022-07-31T13:29:00Z
-originalUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
-webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
-ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
-cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+originalUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
 type: article
 quality: 59
 heat: 89
@@ -72,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+nqA/h2kgPHYhBwJhLrTDRUn0RGXN2oLjFYPTAqO7tXb3CetoAYM04Ui/CGK5VMWYYJ5HZ6q9pXkQ6DYwp0eXWp8mQ+fXrIfizQboRpmzCQTQcfl243SmwZHsxf78XqL+H0lkpLguolNRhUzcUfZmIRdUYbfEhtLJmC+EER7y+R+hTwRdkgTfYHJemhRhptAolQ3SuJ/30qoK8v6lYjBoy+K8hZEeSlaHrZrumQEJZh1NRqskjcypgH2zrEp/xMGRdvECPAnpfd+4sVdSvGXM8GLOVKB+C1zLZs2OVgPsm/spFqZMOLO8lHLqaooH9fDWZlUmXafJ4s9VD5lV4ui/GGxKesLyE6pmSY3fYmDrxE=;Q/qx5WeZAZrBu/TxyH5hHA=="
+secured: "f8TMNFdtYLHuiJFr/slaEFjunpZuTZOgjYbz0ujfOVIjGSNzovsCjyrs8RNoi3yJXSvTa0rYBl5gGBywCUghnUxcefV4z7FSUbDmbslDEWjfT6X3o8/Rq/39Grll3EpfgwrETmvbd7sjmNB+g84S+p8zYJlJOReEv9xmJVueZ/iMae4vWUtLbS1OU5KxoSNto6ppCbOLcYxc85qZq5LoyYOj3Th4zsg6dDSikqnUHkR8ZFNRkiKE/EA6SKuFqPGWK9ZpZwKOZGfTCzIgf8S2xOD62yoIqQMvucSu22PEN4MfcOW1T0OPpNkgsuS9EOU4wJBRT31xP3io0uS3r0ttyVF3kTsgC67QAd3Svfu3LRQ=;KAG57fhdJuLtNzq7KRT7yw=="
 ---
 

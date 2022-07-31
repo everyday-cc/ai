@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-24-how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities.md",
+      "title": "How drone autonomy unlocks a new era of AI opportunities",
+      "excerpt": "Autonomous drone technology lets us digitize and analyze the physical world, observing and improving our world’s critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1319586125-Anton-Petrus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "publishedDateTime": "2022-07-23T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "publishedDateTime": "2022-07-23T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-elon-musk-has-likely-downloaded-his-brain-into-a-robot.md",
+      "title": "Elon Musk Has Likely Downloaded His Brain into a Robot",
+      "excerpt": "\"20 to 30 years from first human landing if launch rate growth is exponential,\" Musk said on July 15 to a question about the estimated timeframe for creating a self-sustaining civilization on Mars. \"Assumes transferring ~100k each rendezvous and ~1M total people needed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg3NjE5NzYxNjg0MjI3OTgz/las-vegas-strip_2.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "publishedDateTime": "2022-07-23T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-new-discovery-on-mental-illness-indicators-using-the-ai.md",
       "title": "New Discovery on Mental Illness Indicators Using the AI",
       "excerpt": "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness.",
@@ -544,17 +690,17 @@
       "title": "Physical, Cognitive Activity Linked to Cognitive Reserve",
       "excerpt": "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a",
       "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html",
+      "webUrl": "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html",
+      "originalUrl": "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png",
-          "width": 256,
-          "height": 256,
+          "url": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/6/e8/6e87cb79-87f3-5001-b1e5-bab59be4df05/62dad7d53d039.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -567,8 +713,8 @@
       "publishedDateTime": "2022-07-22T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
+        "name": "WiscNews",
+        "domain": "wiscnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -988,126 +1134,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular",
-      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
-      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
-      "excerpt": "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
-      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
-      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "publishedDateTime": "2022-07-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q13 FOX News",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

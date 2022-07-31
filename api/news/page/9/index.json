@@ -2,6 +2,127 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-19-hyfe-joins-forces-with-merck-to-deploy-its-artificial-intelligence-powered-cough-detection-and-counting-technology.md",
+      "title": "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology",
+      "excerpt": "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
+      "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
+      "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
+      "originalUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
+      "publishedDateTime": "2022-07-19T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
+      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
+      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
+      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
+      "publishedDateTime": "2022-07-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-self-driving-cars-market-size-2022-share-industry-analysis-by-future-demand-and-growth-2030.md",
       "title": "Self-driving Cars Market Size 2022 Share, Industry Analysis By Future Demand and Growth 2030",
       "excerpt": "A self-driving car is also commonly known as a driverless car ... of novel technologies such as machine learning and artificial intelligence, coupled with the development of connected vehicle ...",
@@ -42,6 +163,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
+      "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
+      "excerpt": "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -979,188 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists’ concerns",
-      "excerpt": "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/",
-      "originalUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1",
-      "publishedDateTime": "2022-07-18T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals.md",
-      "title": "Robots became racist after AI training, always chose Black faces as ‘criminals’",
-      "excerpt": "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes.",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
-      "originalUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg",
-          "width": 1280,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
-      "publishedDateTime": "2022-07-18T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-signal-ai-opens-external-intelligence-graph-for-enterprise-use.md",
-      "title": "Signal AI opens External Intelligence Graph for enterprise use",
-      "excerpt": "Signal AI unveiled its new tool, a data structure that constantly tracks the major and minor events for companies that course through the news sphere each day.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
-      "originalUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Signal-A.I.-Grows-Global-Footprint-with-Strategic-North-American-and-Asia-Pacific-Expansion-e1571678390601.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/18/signal-ai-opens-its-external-intelligence-graph/amp/",
-      "publishedDateTime": "2022-07-18T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-ai-art-is-challenging-the-boundaries-of-curation.md",
-      "title": "AI art is challenging the boundaries of curation",
-      "excerpt": "In just a few years, the number of artworks produced by self-described AI artists has dramatically increased. Some of these works have been sold by large auction houses for dizzying prices and have found their way into prestigious curated collections.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/",
-      "originalUrl": "https://arstechnica.com/gaming/2022/07/ai-art-is-challenging-the-boundaries-of-curation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1052751430-800x549.jpg",
-          "width": 800,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

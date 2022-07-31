@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
         width: 615
         height: 383
+        isCached: true
+  - title: "Indigenous voice details to follow vote: Albanese"
+    excerpt: "Details for giving Australia’s indigenous people a voice in parliament would follow a national referendum on the question, Australian Prime Minister Anthony Albanese said yesterday. Albanese’s Labor Party government is seeking a referendum,"
+    publishedDateTime: 2022-07-31T16:00:00Z
+    webUrl: "https://taipeitimes.com/News/world/archives/2022/08/01/2003782786"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
     excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-07-31-tech-startup-ketos-targets-water-safety-and-scarcity.md",
+      "title": "Tech Startup KETOS Targets Water Safety And Scarcity",
+      "excerpt": "Entrepreneur Meena Sankaran discusses KETOS, a San Francisco-based startup with an AI-based platform aimed at making water safer and more sustainable through an automated testing and monitoring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6ad2220262508199932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "publishedDateTime": "2022-07-31T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5.md",
       "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog Series 2 Of 5)",
       "excerpt": "This blog will provide more context on what the field of AI is doing to advance corporate purpose in light of AI ethical frameworks, principles or guidelines that are shaping our",
@@ -58,8 +109,8 @@
       "title": "Can Artificial Intelligence Improve Stroke Diagnostics?",
       "excerpt": "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO).",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm",
+      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
@@ -76,8 +127,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
       "publishedDateTime": "2022-07-31T06:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1070,7 +1121,7 @@
       "originalUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1162,57 +1213,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-how-edge-data-is-training-ai-for-accurate-real-time-response.md",
-      "title": "How edge data is training AI for accurate, real-time response",
-      "excerpt": "Register now for your free virtual pass to Transform's AI & Edge Week, July 26-28. Hear from AI and data executives from Visa, Lowe's eBay, Credit Karma, Kaiser, Honeywell, Google, Nissan, Toyota, John Deere,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
-      "originalUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1148108337.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-edge-data-is-training-ai-for-accurate-real-time-response/amp/",
-      "publishedDateTime": "2022-07-28T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

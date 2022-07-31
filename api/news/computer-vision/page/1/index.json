@@ -183,6 +183,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-27-lawmakers-seek-limits-on-facial-recognition.md",
+      "title": "Lawmakers seek limits on facial recognition",
+      "excerpt": "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
+      "originalUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
       "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
       "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
@@ -891,6 +934,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
+      "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
+      "excerpt": "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer.md",
       "title": "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer",
       "excerpt": "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear.",
@@ -1254,110 +1341,6 @@
         "name": "The Australian Financial Review",
         "domain": "afr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds.md",
-      "title": "Black Americans More Worried By Police Use Of Facial Recognition Than White, Hispanic Americans, Poll Finds",
-      "excerpt": "Only 22% of Black Americans say the use of facial recognition technology would lead to safer policing, significantly lower than the 36% of whites and 40% of Hispanics who believe so, according to a new Pew Research Center study,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d073374c8eda79ee9139ef/0x0.jpg?format=jpg&crop=796,448,x0,y0,safe&width=1200",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/07/14/black-americans-more-worried-by-police-use-of-facial-recognition-than-white-hispanic-americans-poll-finds/amp/",
-      "publishedDateTime": "2022-07-14T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-global-computer-vision-system-market-2022-future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028.md",
-      "title": "Global Computer Vision System Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028",
-      "excerpt": "Jul 13, 2022 (CDN Newswire via Comtex) -- Global Computer Vision System Market 2022 by Company, Regions, Type and Application, Forecast to 2028 is anupcoming study declared by MarketsandResearch.biz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T01:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

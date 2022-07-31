@@ -2,6 +2,172 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
+      "title": "Computer Vision in Healthcare Global Market...",
+      "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27539247/computer-vision-in-healthcare-global-market-report-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028.md",
+      "title": "Cognitive Media Market Size, Share and Analysis to Expand At 20.4% CAGR Through 2028",
+      "excerpt": "Jun 03, 2022 (Market Insight Reports) -- The Cognitive Media market share report ... is a hub for market intelligence products and services. We streamline the purchase of your market research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-share-and-analysis-to-expand-at-204-cagr-through-2028-2022-06-03?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-artificial-intelligence-market-providing-ai-enhanced-security.md",
+      "title": "Artificial Intelligence Market Providing AI-Enhanced Security",
+      "excerpt": "Companies in the artificial intelligence market are providing ... Computer vision, a subset of AI, is being used in self-driving automobiles. A recent and popular example of this is Elon Musk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-providing-ai-enhanced-security",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-market-providing-ai-enhanced-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-the-forgotten-margins-of-ai-ethics-a-paper-on-ai-ethics-with-teeth.md",
+      "title": "The forgotten margins of AI ethics - a paper on AI ethics with teeth",
+      "excerpt": "The field of AI ethics seems to generate more happy talk than potent ideas. It's rare to find an academic paper with real world teeth, but \"The forgotten margins of AI ethics\" stands out. Here's my critical review.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "originalUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2015-09/Fotolia_85545935_Subscription_Monthly_M-e1540994230373.jpg",
+          "width": 701,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/forgotten-margins-ai-ethics-paper-ai-ethics-teeth?amp",
+      "publishedDateTime": "2022-06-03T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-voice-and-speech-recognition-market-2022-2027-report-size-share-trends-growth-and-forecast.md",
       "title": "Voice and Speech Recognition Market 2022-2027: Report, Size, Share, Trends, Growth and Forecast",
       "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", offers a comprehensive analysis of the industry,",
@@ -964,179 +1130,6 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
-      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
-      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
-          "width": 883,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
-      "publishedDateTime": "2022-06-02T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-children-who-attend-schools-with-more-traffic-noise-show-slower-cognitive-development.md",
-      "title": "Children who attend schools with more traffic noise show slower cognitive development",
-      "excerpt": "In order to assess the possible impact of traffic noise on cognitive development, the researchers focused on two abilities that develop rapidly during preadolescence and are essential for learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-aws-and-amazon-sagemaker-c-the-commercialization-of-machine-learning-services.md",
-      "title": "AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services",
-      "excerpt": "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services.\" Harvard Business School Supplement 622-087, May 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "originalUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491",
-          "width": 440,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business School",
-        "domain": "hbs.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
-      "title": "Traffic noise may impair children’s cognitive development: study",
-      "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/traffic_infrastructure_033017gn3_lead.jpg?w=1280",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
-      "publishedDateTime": "2022-06-02T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
