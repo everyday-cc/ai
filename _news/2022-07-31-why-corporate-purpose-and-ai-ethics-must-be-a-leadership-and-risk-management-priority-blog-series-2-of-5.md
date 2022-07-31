@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
 type: article
 quality: 86
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,40 @@ images:
     width: 1200
     height: 960
     isCached: true
+
+related:
+  - title: "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)"
+    excerpt: "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations."
+    publishedDateTime: 2022-07-31T17:48:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Responsible AI must be a priority — now"
+    excerpt: "Responsible AI is a necessity now, as discussed at Transform 2022. AI bias could affect access to healthcare and employment."
+    publishedDateTime: 2022-07-28T22:45:00Z
+    webUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/"
+    ampWebUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/responsibleAI_transform2022_lg.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
 
 secured: "2RHYf/i/TR79bUAJDDE4S7m1w44GOx0gPlXfzW0k5n7N6TH9eI9z41XfRn9JF+I//X7Q92XXGRX2ghZxwy6a9nuTczAb19m1Wuk+RrnhtgtrQ02OZG+UtZoDcdzCFPlS1cMLJ7qjKdJilUrjYjttQ8WuU8zbvH5ULaoBUu9WeJD8fFmG0mj3ED1c0fAvaiQbTcJ0i1Z1TNPZL07+J1sUXHDEE9QuFIki1YwvOsOfl0klVB6PwIszFMy7zOh7k/RQpHk4JxxIeAIylzz4oYVyBJRUtMtSgjIKTNkO8Y4r7SNQ6JttOezdZlsigbSEnwh1TWyFJwIZP7CP72bBJsBdJ+LdtMUn7SLiVmq0xaoPZkGLHI+QEvuwy/+ClU05Y/8Qetrju0m1FhN47fkdVWlyADGvNd72cLLfwhL+JBuMu4mbhu1tK2lWDnaTsE5kVyzr+pvRb23Pb4IwvvXEjVmtGVRZXq4Pp5J2fFb2b/FK5DnWL1oGNYZrV5vkpyLFhyUwPUYUyaK1+3RdvFNnuzrz2Q==;XVz+6fNSLfKKrL5stR/7eA=="
 ---

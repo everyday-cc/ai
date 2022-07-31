@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services"
-excerpt: "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers."
+excerpt: "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account."
 publishedDateTime: 2022-07-19T13:03:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362"
-webUrl: "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362"
+originalUrl: "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html"
+webUrl: "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
@@ -17,11 +17,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/5d/b5dc9d28-25b0-5748-bb91-5e946d0a6c48/62d6afcd1a645.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
     isCached: true
 
-secured: "FI6cX6pVTuBJLqN00p2AXEW8eOPJ9Wc38giNPkjZGFmxEWGm/trsW+t1VReTgZLYLUO+DJj4SGb1SgIhwdWDIYGaDxgIm3oNp5T2NeY5j2txjTwmJIdueUVnVG4wOi1iIu5ZQX8S0w/DslxpsGDFhjXkwfMr0zimkIXHZWsgbbWu7sp5Tl4gQdCBOk4rYPDlyu6wmWgsoCDmqlstxjQ/M1DuwHM8HhoX8iPTLrQI8C/q4JSKT+VocweB4Gy5hkJ3OfUNIEfveNhxqaiPA7RjgR+wblDq2OFRH4gtzqaBbWMG6yPkLT2OxejY1nSzCkJnqxi6AtKy2y1a581bus5MDQ3S+xQugF7AhCY6dC/jKAM=;v23+1DfvvvxyYuFEyCDOqg=="
+secured: "nXLpzy8OS3xvnLCX3hQD7arqNlqyM4tv3RLyxe6IPYlyM+wVj788eJh64QzET8PQTZESoP8bRKUlQiHexIdULxGyiluYK5CYt536jnjcaxPBUYefQd9EdSRoc0KklXMFTP7heIXHhScri3OxJjDoagLp+5N1nY+HUuV2spTTMwnAeU4skK1Z1ZkYsu+VROtSSfvTsZ6/gyHbrMd8F8BIcbMwYDo2VGQlQteI9unlWac5W8mjnLfh5nwkDOsDKSCrNEbbisgoFQH0M44UOtfzA7x/3CIKZSbuE14xunAbJBKBufViP7tmmnpDe8buIgCfRwppqvIj2Of7BEkam6KJ39isNSI895R9l7rs6+J+2nk=;auBWQoNqzEKlDufsC5U5AQ=="
 ---
 

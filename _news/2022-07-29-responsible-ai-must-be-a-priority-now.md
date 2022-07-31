@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Prosegur to enforce 'Responsible AI Policy'"
-    excerpt: "Prosegur Security, a provider of manned guarding and security technology installation services, is looking to change that as the company recently issued a new “Responsible Artificial Intelligence Policy” to dissuade those who may want to use these products for nefarious purposes."
-    publishedDateTime: 2022-07-29T17:02:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21275826/prosegur-to-enforce-responsible-ai-policy"
+  - title: "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)"
+    excerpt: "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations."
+    publishedDateTime: 2022-07-31T17:48:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 90
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/bigstock_Face_Recognition_And_Personal__379967281__1_.62e4107943c7d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog Series 2 Of 5)"
+    excerpt: "This blog will provide more context on what the field of AI is doing to advance corporate purpose in light of AI ethical frameworks, principles or guidelines that are shaping our"
+    publishedDateTime: 2022-07-31T14:55:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62e67f60e9decdef7d5398d2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 960
         isCached: true
 
 secured: "bpvux08QvsyzHPKlOqJWUzl5CT+Bm1SrIFuwcuq/sAG6TP5+1Yz0TB5AgE2F890xlah/uh6VLPz+wtBHTN999HHFUNr6u59j6HA1K2Bwwlb20awXw9rLMcVxnz388OYcd1bGyB5yIzom0rDpfGL/jj/357DoRD+EvvglNzyafDmnalpfZcdylnjSuI8TNYMHNtS+pL2ComjHDcAR4ZGFLln1ifSGu/ADAnW8IWX2wqe4Rkl7Ss5YvptCq61gM2Rx2AtH4zQ6qfYDkjR50ZOtAKsjB4Eg97pCKjqR5bl5LbJ+Mgyr3cAsbYG4038mpiKnC8btfGCgviv5FDjb/sinjLfFHhJhEiMYpRWYut3MaUa9seU9Izi0pbmSLcVnOcikGC3ZJaCWL+EnVyRgHRAFy8KFsVRWxeeIjze14w4GeoO3sJ/JsGKSor4EM3LnoMdLJolLChUU/GI+qfohWoJLsIlWcIMGFRnQeCi7OXuOFtJYAz9AtPO3gcUXQalQ4J7S+JGNA/OWSAJt28Q6inSDtQ==;s4HwzEyZuR1AMLqMrZ4O/Q=="

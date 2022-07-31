@@ -1,22 +1,26 @@
 ---
 category: news
-title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-publishedDateTime: 2022-07-18T22:55:00Z
-originalUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
-webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
-ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+title: "As AI Language Skills Grow, So Do Scientists' Concerns"
+excerpt: "Meta says its openness about the data, code and research logbooks in its new language model OPT-175B makes it easier for outside researchers to help identify and mitigate the bias and toxicity that it picks up by ingesting how real people write and communicate."
+publishedDateTime: 2022-07-18T17:06:00Z
+originalUrl: "https://www.law.com/dailybusinessreview/2022/07/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
+webUrl: "https://www.law.com/dailybusinessreview/2022/07/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
 type: article
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Law
+  domain: law.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
-secured: "Bzd1ZCbS1ESLwLdq1TddDiiavoYoIf+lt3nflmFN9NmCNqikWhHHS/l6pqLS1whv3ItboaHqLNPIaZxxeOXkKa5XgQvWABCon1pdDIR23I13P3G31t9fbq4GxzGGh6NLUrjFIhB7k6pNUfSpTNoER7Qnn1GR2ngo/UbntBpQx4j81MKc/iBPpGMWCYQClReGz3wQnhxYcQmlGd6B4ULw92CoFHi6EYnpdvpmQm7yZQC486xIPfYiDjEEzJrKjnfnP55UzPaja+2szToB/fcmVBZ/zhLX4j42F7BGIuatwHNx3y6G3YwmpFQGTcgUvFmNwSU32UZ0y63C1i+V9aw2SSw3EKt9OzWiMhPRqiQ8at5hbMQ//djDI8WeZfhUq21jI+7zkk4o5eKSmWG/GfQV2qVhVWgA+PH+liCycsx3OZCG8aKVbvsW/ojTXuUqf1CU2EQp7oPWfHocd8cyHPU2Llk2A4sAxZPHkLr7jyk6SeY91b/O9SMVdH6KXMYYnqY7Bq2wKboZUIvehxx2HoYbAg==;wHLwQcvKtyPHuEepg8AVtw=="
+images:
+  - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/07/Artificial-Intelligence_2-767x633.jpg"
+    width: 768
+    height: 633
+    isCached: true
+
+secured: "3XetDTn7dAMufGhdIqQtRQO2M1K3WJnoImr5TZVStmnGm14qu4JLgjO/M0r/NEU/TmiMzZy2rxs4hNtmrNWQnU+MwyvsxNwCgfFVl7igZmKAus5YNRGlm4Aug8jTo56AFAqwGc3jT15zvijQwP2cOQANw/Mk0ZEYkSZkoyi1238rBmXjPEjzhGroTRa+hwX4b35i4KUbZi3pgxnzAOXgHG33UVtyyXqu+DnxJskJAFrx7Mz6jioi3PsRLSIkf9adzMST6hGtRF/i0MsDiDUKfi7b6h/6kQPUOnfNpm7BQmNXHN4q831mjSPKkBjjNjW+XF1KxXGxi4hDSK8tGEgcQP8gfldbUv6PNC4+SJt9GbA=;XX0TJr4BUY+BGahAkOFp4g=="
 ---
 

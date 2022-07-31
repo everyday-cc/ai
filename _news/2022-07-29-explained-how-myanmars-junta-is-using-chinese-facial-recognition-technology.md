@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/expla
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Facial recognition technology down under"
+    excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
+    publishedDateTime: 2022-07-31T21:40:00Z
+    webUrl: "https://www.onlineopinion.com.au/view.asp?article=22077"
+    type: article
+    provider:
+      name: The National Forum On Line Opinion
+      domain: onlineopinion.com.au
+    quality: 19
 
 secured: "IIn1d1mNS3LHG1iLIqwdqiHcvCjcnv1ZxD1DuVh1m5Vyak+zbQY6SzyF0tsN8n7ThDdxvl3BWSKTI42zTC5KH5p9rImljYW/blRpZDpXgw+h7LyaISi/+hlika49K59n8SRQCAoWe9kqEa1dIgiwNpio9tk/akvFeFw9bRHRI5jAHadwKnBOtChE/tsN3TnauADZqrM1ncgVfSFEnwJbawGYYkZnna/TOLyRIWZEm7N6DIc/5uuAWJL0lPva22U+EfaL3LzEaRzzXvrtFnxPOxmbvAnJQvUkEPaFYNVp4x6CiKlQ4QvQzj7jqz93Ps8Z8M0qsz2zyodU7CSQl/y0f8NW4jR1/+h8Q9TDAfMmLS2aBhhObk9g5Ul3b6EGaWm2ObWgIimQjJK4QygbghCxiRRlnWsLvXJflWdXuxZ5hS1C5pR+LOswIzW3vsmH0zKwu1LAUobf2moQEJ7Vzgjjh5y+sTTerAVsB/7xdh8VNqsy6feKPQfCW/p8V85r3fnE/vFslAgPJD81ewXAQliApA==;zexX8bQcaF6+1Qkz0YSYRg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/new-rules-may-open-flo
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/new-rules-may-open-floodgates-for-ai-driven-auto-insurance/amp-11659001979194.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Should artificial intelligence be regulated?"
-    excerpt: "GMT: In the past decade, artificial intelligence technologies have spread into almost every field. From healthcare and job hiring, to law enforcement and transportation, AI software is advancing our lives through automation."
-    publishedDateTime: 2022-07-27T02:48:00Z
-    webUrl: "https://www.aljazeera.com/program/the-stream/2022/7/27/should-artificial-intelligence-be-regulated"
-    ampWebUrl: "https://www.aljazeera.com/amp/program/the-stream/2022/7/27/should-artificial-intelligence-be-regulated"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/program/the-stream/2022/7/27/should-artificial-intelligence-be-regulated"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2022/07/shutterstock_1154457493.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LMp4VRb58vDatCMa48jUjvEEwnx4cuJZ3pL42XlMGxRViRsOUuxvwpay+TLYl0uzseEY34s93OSWPyh2JgN5Q3g+vAdiFXNwB7YXaNmg/d2q6VLpjgOrvgoarAYWPSRXHUDhGOcH9kxwlhxUwnpq6DihSfMnxobFfuPvILgHC91bE/jlCRFElgAGPSaeSgpczPtYMD7jOv1/+hTxf9epAbnEc3yT4bz+0TqF8haB4zvNoomVBxoibwjitF6A1YMmzwT3t51I3bP8cEUVORzYW2llKJVoJ6lu83P8E0BvX46XsAMmzwDEF3/833fAkA0Hahzwl1N2Ip0hIkzcCYPl9lOiE4gyVvshvbRpngknZLw=;O4MkCbIy2PqpR4hrkXXHgg=="
 ---

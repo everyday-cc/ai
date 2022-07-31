@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Facial recognition technology down under"
+    excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
+    publishedDateTime: 2022-07-31T21:40:00Z
+    webUrl: "https://www.onlineopinion.com.au/view.asp?article=22077"
+    type: article
+    provider:
+      name: The National Forum On Line Opinion
+      domain: onlineopinion.com.au
+    quality: 19
 
 secured: "0A3Fxd/fqF8jQJGYdEIff+irYF7vvwraRwr7famJabAzitxBGftOVuSm/IEnAVBKBLUuxfipxnv3ldjkPjPvCxExC7FUSoqTPW5ajaYnl2kRIAFMEvuOUgaKMrFwiaTXjf4X2K/9OEIOkbHQhZNhHcfD0OiFUlq5xpavfi6FyW5CNqMoyd33klRTf4Er1hzzasbwXSZbWTugP1CQ59TRv2YWbW6panx5Gsv1M+1ZofeZoVV+/qKybDNmB3wAkuYTFVwXodlxPN34D5P/mq6TJD536hRbowr2chVSf2xCxZ4Mcp1BcrSDrBTHpOj7LO9rVgSbNV1JC2psHyTumRx6AuWDS/+EQ9uVOYSPgai8f5A=;Dfmd6PX2U1oWxa/S6GeAVQ=="
 ---

@@ -82,6 +82,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Australia PM says Indigenous voice details to follow referendum"
+    excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
+    publishedDateTime: 2022-07-31T20:59:00Z
+    webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
     excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."
     publishedDateTime: 2022-07-31T04:54:00Z

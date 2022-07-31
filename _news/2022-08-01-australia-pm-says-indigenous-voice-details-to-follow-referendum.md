@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
-excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
-publishedDateTime: 2022-07-30T02:30:00Z
-originalUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
-webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+title: "Australia PM says Indigenous voice details to follow referendum"
+excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
+publishedDateTime: 2022-07-31T20:59:00Z
+originalUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
+webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
 type: article
-quality: 24
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Neos Kosmos
-  domain: neoskosmos.com
+  name: Gulf Times
+  domain: gulf-times.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
-    width: 1920
-    height: 1278
+  - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
+    width: 620
+    height: 355
     isCached: true
 
 related:
@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Australia PM says Indigenous voice details to follow referendum"
-    excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
-    publishedDateTime: 2022-07-31T20:59:00Z
-    webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
     excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."
     publishedDateTime: 2022-07-31T04:54:00Z
@@ -141,6 +127,20 @@ related:
       - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
+    excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
+    publishedDateTime: 2022-07-30T02:30:00Z
+    webUrl: "https://neoskosmos.com/en/2022/07/30/news/australia/albanese-commits-to-referendum-on-an-indigenous-voice-to-parliament/"
+    type: article
+    provider:
+      name: Neos Kosmos
+      domain: neoskosmos.com
+    quality: 24
+    images:
+      - url: "https://cdn1.neoskosmos.com/uploads/sites/2/2022/07/ALBOGARMA-PRINT_20738.jpg"
+        width: 1920
+        height: 1278
         isCached: true
   - title: "Australia plans Indigenous recognition"
     excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
@@ -284,6 +284,6 @@ related:
       domain: voanews.com
     quality: 4
 
-secured: "Wcqs0K/dX+xBbusoQwVuwHAL4omHyhCwHJn0m9ZM2tydsCimfZS6jiHNOcdftIE3zioQI4p+cimtLFAkkRdIdqeru4E0wGPuLtQFlH7y28rhOTwMHTQeZrvZtphNlia5W9k1WgdP4xt2JxcAYbaBf4HVVqRWUCtlKq5gKkOjL2RO5Z9iIesRsst4BeKN+lhRR/wJIgALg35V63piEOeeUiGxYrCCkQp5jnhGm02bJdR7fGIiyOT1JpeTpRm65Ox7lYA/z+Iue+SxisEsUui7H5tTKHtn7K2LsJaf5s7grp/Y5szfoplhHOrOZQSoEMpFEgvpFS0V8e3qmkycBRJLsHT+AcYjZ+rWssTTnOXiE3k=;uv8hE1as1JcscsM0/nnT5Q=="
+secured: "9nuNOWhK+fPcW4kiwpnZ2DYEbahq8bQ0v1Rd3Wxy00PsUiM4g7T8vvoT9S8+zA6FCfT+GmHZwr5oJz1/BpFPcnOUldmYyuB9URBVL/+2NEUOylgKJ9IOGyLhbwxqtyEwro4F/XRh0a2UNtTSJe4LzYr9Ns++RkprbCa6NLMUpBQsngfMjCb240ubiRSNc8whH/ImrD8CltOiL9yXVT2WS0RXcCTI4eV5/ufx1inOzy4XYs0lHIeaCke8ysGZgJpzXviPMdOW2XdR/f94dHWVYBuAmsFT2A6Z0IKGb2AvTncEVMSaQ08pWTz0pc5U4uiLidwbbpirn6EXYL+y9t6cvTZp3FAebCd7cmZ7CcU1dXQ=;Q/wBDxoFW11UWDePtr5paA=="
 ---
 

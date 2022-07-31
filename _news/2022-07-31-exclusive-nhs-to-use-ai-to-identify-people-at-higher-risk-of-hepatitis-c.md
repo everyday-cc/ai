@@ -3,8 +3,8 @@ category: news
 title: "Exclusive: NHS to use AI to identify people at higher risk of hepatitis C"
 excerpt: "Screening programme will detect people with the deadly infection, which is often symptomless in early stages"
 publishedDateTime: 2022-07-31T15:13:00Z
-originalUrl: "https://www.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c"
-webUrl: "https://www.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c"
+originalUrl: "https://www.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c?amp"
+webUrl: "https://www.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c?amp"
 ampWebUrl: "https://amp.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2022/jul/31/exclusive-nhs-to-use-ai-to-identify-people-at-higher-risk-of-hepatitis-c"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "I3kCmzPOUVD62VFnQyGE1gJQ9UdVdfFkMYdRh3WUMOHqJ8IfBWC7WO+RtxMAu7Wj8z5frkypuOc1xQIMtYYIGvv1VEI4TUQ/wejzGzCCfSeMkGuC3J9JR1d/JFxtmVDhsVsYsr6PsnvZdw2CYYTFr/OobK347TmUmwr5ZN4YoYB5Pnoqi/iVSZvO9G62oFM+kslVTtkanNR4jnXC5ZueZfa9zHAcm7/tJsCgqu1LM8B1tkC/ShhHy39B2aIlAAQHkFlnFF0qNzIKi5uTJrD3A0zmTIxra7CzzqEuhGDEFgDC0VOQ9Mrvwpoc24mRuxdFJ75QirvAqoCBI3DuVqb4JhRYNtzK56L1kwmJMAPoPfx6PrUcht4Vk+ALPr/a1ixOE4Zk38U2wysH2oFCgnI00aT/qxAnYXNOlaXWiG6OUB+YJur7OssBKV7oZOvwDkyz5VOrxssUhM8MUXXSRlgTehW7aAtfiOlf18NvPNVd5BBLpeGQbw2DLNlcB5hGWSoz+inC465R+K18IRrp5VRcLQ==;c1JsUFzHr/vluvNFGfG7EQ=="
+secured: "DjnbIj7YxisFQttHTYiUX/tIkMHKPLxVYJcRkGy1oQ2WMpXrXjXS+ELQMMlY67L14XeowhotxuVxKCCZW7IuR1AVf3FXtxi2uruyLJqPSqcmLUtE5l64QwebjI0ssa9W+jZxZfUP1v/aHq8/H+l4yPPQDI6WdN7M5GIx5iwXUwcp7k9CFPQ5Dt7DfP8r9+RXGUF4HAOm0PevqQeI8CohZW3mbuwj4ybFD9OE357M4kv86im7NiennmAj+j16G5L4ePpMlg6hhqm4o5zAhDifKz1/4RuJIKgsDDjXgZxCFmpBGT7iuDRmvZcxZUTbA1cDQySl7fiJL3RaTfuXoG7F2eL62ZFH4Kmr02yWnLDVF8Q=;M4qa7OeI96rts+qb7ajdLA=="
 ---
 

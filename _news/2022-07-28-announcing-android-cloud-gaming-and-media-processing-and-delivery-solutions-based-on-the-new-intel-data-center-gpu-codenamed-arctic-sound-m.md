@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/announcing-android-cloud-gami
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -28,16 +28,14 @@ images:
 
 related:
   - title: "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "Supermicro to Expand its Total IT Solutions Using Intel Data Center GPU codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server ..."
-    publishedDateTime: 2022-07-28T00:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/07/n28237787/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-ce"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28237787"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237787"
+    excerpt: "These new solutions will incorporate the Intel Data Center GPU, codenamed Arctic Sound-M ... the Supermicro CloudDC server for edge AI inferencing, and the Supermicro 2U 2-Node server with ..."
+    publishedDateTime: 2022-07-28T01:37:00Z
+    webUrl: "https://fox59.com/business/press-releases/cision/20220727SF29353/announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
+      name: FOX59 News
+      domain: fox59.com
+    quality: 7
     images:
       - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
         width: 400

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-30T15:00:00Z
 originalUrl: "https://siliconangle.com/2022/07/30/cloud-changing-security-defenses-2020s/"
 webUrl: "https://siliconangle.com/2022/07/30/cloud-changing-security-defenses-2020s/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: SiliconANGLE
