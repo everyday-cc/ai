@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: CIO
@@ -26,22 +26,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Sopra Steria and OVHcloud expand their partnership to industrialise AI and accelerate companies' transformation using open source principles"
-    excerpt: "Sopra Steria, a European Tech leader recognised for its consulting, digital services and software development, is joining forces with"
-    publishedDateTime: 2022-07-26T08:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/sopra-steria-and-ovhcloud-expand-their-partnership-to-industrialise-ai-and-accelerate-companies-transformation-using-open-source-principles-826056595.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 2
-    images:
-      - url: "https://mma.prnewswire.com/media/1861938/Sopra_Steria_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
 
 secured: "s6gBpCZF3IGhWSej1V5l+nMbDf6vJdSPYzruxGhyuTht3pCkIkX5s74Ac5y51cnzpDUL5s1jeIwm7QyoEuktlIy2cHBtd+an9F7d8b6KRVJInGBVukCDKeX5ODdhmnSkS5TQ9VMHznXVviLX/ryWZ+IiHAL8fVdwFjvfSTjPjForqQDiu5aTPXjtmCNjAUU/anszIB5AdFIWLSl9Tdde9tZmwhEE53gjjGNta6Xg7g4YSsD5/FCQ2TIwv5GIxBR8wi6BWwtQsx4SuAcrSB2lYdjHtQRQCy6iwt/dYWOUOVehd5TAc8eMJdKCGQ135LzXyPpD9Fv4EPRtZH7g3ypNV++DoClrL6PH2ug8GfqhP/0kPmudSUN9u2mh2PmJJP9qJE4rk62TsefvBWy8GGizbhoi+lNMv16F8Uizu7U6EdTK+YThlptfkjJP2ZzhR7agYkgwmi2Ja6AzuiTTK6CP+Hzf21H9OxmS8HRHcP+8CPc/fpyThmpt2VpA7L5m8i0GNh1h/3qeD3GwluDo4jDvwg==;3KnM68b/J80U3NGlqun1qw=="
 ---

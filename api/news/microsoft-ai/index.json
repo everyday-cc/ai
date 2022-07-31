@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-27-how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.md",
-      "title": "How a CIO’s approach to cloud, AI and ML is transforming Nigeria’s Dangote Industries",
-      "excerpt": "Prasanna Burri, group CIO for Nigerian multinational industrial conglomerate Dangote Industries, explains how the company’s IT arm evolved to adopt a 95% cloud strategy over the business, and how artificial intelligence (AI) and machine learning (ML) boost projects across the group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
-      "originalUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/07/circuit-board_silhouette_with_mind_gears_machine_learning_artificial_intelligence_automation_by_thinkstock_1200x800-100819410-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
-      "publishedDateTime": "2022-07-27T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-nvidia-announces-general-availability-of-nvidia-ai-enterprise-21.md",
       "title": "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1",
       "excerpt": "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool.",
@@ -1394,6 +1350,58 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

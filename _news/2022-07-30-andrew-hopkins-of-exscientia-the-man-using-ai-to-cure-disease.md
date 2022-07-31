@@ -2,9 +2,9 @@
 category: news
 title: "Andrew Hopkins of Exscientia: the man using AI to cure disease"
 excerpt: "The British scientist’s company employs artificial intelligence to drastically reduce the speed of drug development"
-publishedDateTime: 2022-07-30T14:00:00Z
-originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
-webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
+publishedDateTime: 2022-07-30T16:20:00Z
+originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
+webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 ampWebUrl: "https://amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "gUDHpEShQMNucBvvgFai3ih2FCfOQ7GJcIJUr5L+xqrcKvE1GokQ/dJRuPxAnSHIglMGAtsXYFow29cZ1BItf8j/UmFeEwzGmuynMTu0KqKrKOPKC0bCEVh3jbNubu2Dw87rx18zR7jLzVY0kbKDwaMEV1lTd+p+xjs75l7D0aFZLMdZm51aHy2Wg3oj0qx7BHSYRmDXj+eb/WdbIW3DzBLsZrsyaR9/c9aW4ReVzXRVEMREEK2ak6heJ239zh1ErRTD2e/ZUc7U0awedN6otUO8/7rKaxbSm2DyLL9/ICkcVLmFxyQ5C+f4jUsLAPP24Vg05XMpQohRz3gfIogVHhriFSkTXIbKipn6mEUbLOE=;HHG7q8QGKfWJhrIfB0Bs+Q=="
+secured: "Fz2kJMotrEPOJ0FVyQexYtCyFHvWB+/NBFcz7AX8k3aLmp46YjnZaWs5yHUa3N6RIkJ5rXmGjvgblTLygmbY7L9X5h8qqPnqEr3eXP+MBpSD8rJcZQsiNOyop7xUtTrTIU/XPGewtYjBYP7WkaQ8X3z9HmlxdvNRkQvfTU2UNSUWYa1n09e/I9aWGXxO6DUjkXoEcpPKpUkJ0Y3rLqY8/rZd8kRy2bJxmuwErteXBBaEAcdS9y3FTRVKWnElkolIHzN81F0M/1PoW0OcJY4q/1FHK1HdzvwK0aXq3Z6eSMSiFNkhBTT9Ja3Yeg5vx+OcffSvqZqKoHUO8qli+skIUf9eIp8cssbRgoQNUeKC7pY=;l8Ka6YGx9HkZrRwqsrA9bw=="
 ---
 

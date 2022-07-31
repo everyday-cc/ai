@@ -2,52 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
-      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
-      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-18-global-deep-learning-market-2022-comprehensive-research-study-business-overview-and-regional-forecast-to-2031.md",
       "title": "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031",
       "excerpt": "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ...",
@@ -432,19 +386,19 @@
     {
       "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
       "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Global Automated Machine Learning Market - Growth, Trends, COVID-19 Impact, and Forecasts (2022 - 2027)\" report has been added to ResearchAndMarkets.com's offering. The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.",
+      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
       "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d525c1f8-303d-5a13-91e6-a70a266e9ced.html",
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -457,8 +411,8 @@
       "publishedDateTime": "2022-07-15T01:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -468,9 +422,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1359,6 +1312,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
+      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
+      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

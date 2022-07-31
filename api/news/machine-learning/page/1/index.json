@@ -248,50 +248,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-27-how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.md",
-      "title": "How a CIO’s approach to cloud, AI and ML is transforming Nigeria’s Dangote Industries",
-      "excerpt": "Prasanna Burri, group CIO for Nigerian multinational industrial conglomerate Dangote Industries, explains how the company’s IT arm evolved to adopt a 95% cloud strategy over the business, and how artificial intelligence (AI) and machine learning (ML) boost projects across the group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
-      "originalUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/07/circuit-board_silhouette_with_mind_gears_machine_learning_artificial_intelligence_automation_by_thinkstock_1200x800-100819410-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403815/how-a-cios-approach-to-cloud-ai-and-ml-is-transforming-nigerias-dangote-industries.html/amp",
-      "publishedDateTime": "2022-07-27T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-07-26-tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning.md",
       "title": "Tiny cars and big talent show Canadian policymakers the power of machine learning",
       "excerpt": "In the end, it came down to 213 thousandths of a second! That was the difference between the two best times in the finale of the first AWS AWS DeepRacer Student Wildcard event hosted in Ottawa, Canada this May. I watched in awe as 13 students competed in a live wildcard race for the AWS […]",
@@ -1432,6 +1388,52 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
+      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
+      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "AI in Autos",
+        "AI in Healthcare"
       ]
     }
   ],

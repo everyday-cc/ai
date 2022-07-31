@@ -3,25 +3,25 @@ category: news
 title: "Lawmakers seek limits on facial recognition"
 excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
 publishedDateTime: 2022-07-26T21:00:00Z
-originalUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
-webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+originalUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Gloucester Daily Times
+  domain: gloucestertimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+  - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
     width: 600
-    height: 333
+    height: 315
     isCached: true
 
 related:
@@ -57,22 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Privacy group slams 'unlawful' Co-op facial recognition cameras"
-    excerpt: "A PRIVACY rights group has submitted a complaint against the use of facial recognition cameras at Southern Co-operative stores, claiming it"
-    publishedDateTime: 2022-07-26T08:28:00Z
-    webUrl: "https://www.theargus.co.uk/news/20571801.privacy-group-slams-unlawful-co-op-facial-recognition-cameras/"
-    ampWebUrl: "https://www.theargus.co.uk/news/20571801.amp/"
-    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20571801.amp/"
-    type: article
-    provider:
-      name: The Argus
-      domain: theargus.co.uk
-    quality: 59
-    images:
-      - url: "https://www.theargus.co.uk/resources/images/14303211/?type=responsive-gallery"
-        width: 650
-        height: 433
-        isCached: true
   - title: "'Orwellian' facial recognition cameras now in UK stores"
     excerpt: "Shoppers at a supermarket chain in southern England are being tracked by facial recognition cameras, prompting a legal complaint by a privacy rights group."
     publishedDateTime: 2022-07-27T15:11:00Z
@@ -102,20 +86,6 @@ related:
       - url: "https://www.swindonadvertiser.co.uk/resources/images/14303145/?type=og-image"
         width: 1060
         height: 591
-        isCached: true
-  - title: "Privacy group complains of ‘unlawful’ facial recognition at convenience stores"
-    excerpt: "Privacy rights group Big Brother Watch has submitted a complaint against Southern Co-Operative’s use of facial recognition cameras, claiming it is “Orwellian” and “unlawful”.According to the complaint made to the Information"
-    publishedDateTime: 2022-07-26T07:21:00Z
-    webUrl: "https://jerseyeveningpost.com/morenews/uknews/2022/07/26/privacy-group-complains-of-unlawful-facial-recognition-at-convenience-stores/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 50
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/07/26072138/Img33880174.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Big Brother Watch submits complaint against shop's use of ‘Orwellian’ facial recognition software"
     excerpt: "PRIVACY rights group Big Brother Watch submitted a complaint against Southern Co-operative’s “Orwellian and unlawful” use of facial recognition cameras today. According to the complaint made to the Information Commissioner’s Office,"
@@ -178,6 +148,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "HMKhHqzbtOHehA/I/udWdfMxpjz0QW4BU5JYz3VSWtxBaOlWwnWy8SKjYj6lrprVXdx1MBLttd1TqbUwjmKiG8HsMgBdUtP954Q/ORc4BpVuPzjLZ5k9vUYka3/3g3dQg7pCgqpEEMOqpmqX3PFReeGOLlsaigZEDxLrI83k0o+/kyTq+heyjG4F93Cf0jKaE3aGOCMGwCpGaD9pjM/jtcPwrfn1QsO4H2CH/+zxQTEasaptT9xckqKc+NOLIvh2asR4Ceb6nLBviWijm38kxsJ5+tziqqBxKXT+w+hVPv1Ku4dM4+XiNg4J6DhU9pcLgUDN/lp3RnhRBKXFk4rfNVRzRkuQfBC5S3egd8gu1GU=;3T7ZfURKbLnaGkD5N7LUog=="
+secured: "9MQ8T6cQwO1fy00sKqdzeY6cr5HCsioW+T9y0IJMNuWKgmqHoYQ4UDYOeRymYtNDdHnH0oJbo3/6sz+NfKC7VVXdvU3Yk5LY1fiC/7IA1tK+/M0o57GlaG6QL9PCBHRMPtfNmp5Dzk2rfo6XDd7VVmBMqfcbFbFMi9fbZrg7SVXII0PYR8jUDWn2oXEF3D4OaMCrxu0hlF1vYa111jNg3DSCnIs4ijhK0hhX4+vn6agEizKaj5QEbgRWsOr/2xsammNtvPREh//pZb0t+6BVm1xEJvjFTKEmZ3hm46gGlAnqoFS0jb1d5NLS8PGOdehzNX4SrlN6Ax9QqRtmSwsPM9CSNfsAy2e6tM7pgMw15RQ=;xk462eiEarewopvcH1CjRw=="
 ---
 

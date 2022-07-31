@@ -53,20 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Africa & Middle East Loyalty Programs Market Intelligence and Future Growth Dynamics, 2017-2021 & 2022-2026 - ResearchAndMarkets.com"
-    excerpt: "Global Loyalty Programs Survey, Loyalty Programs Market in Africa & Middle East is expected to grow by 12.7% on annual basis to reach US$6573.8 million in 2022. In value terms, the Loyalty Programs Market in Africa & Middle East has recorded a CAGR of 13."
-    publishedDateTime: 2022-07-26T08:52:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-africa-d369649341184ee987ee99d032095502"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Global Data Intelligence & Governance Market Report 2022-2026: Exponential Growth in Data Volume Fueling Expansion - ResearchAndMarkets.com"
     excerpt: "The global data intelligence & governance market in 2021 was valued at US$20.55 billion, and is likely to reach US$36.27 billion by 2026. The data intelligence & governance market is projected to grow at a CAGR of 13."
     publishedDateTime: 2022-07-26T10:33:00Z

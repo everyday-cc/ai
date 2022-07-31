@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/new-orleans-surveillance-facial-recogni
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://img.choice.com.au/-/media/b4ff01b8aaed4456a6c03de0881401e2.ashx"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Hashtag Trending July 26 – Australian companies stop use of facial recognition tech; U.S. social media laws; Intel and MediaTek agreement"
-    excerpt: "Australian retailers stop the use of facial recognition technology, more American states are working on laws to control social media, and Intel announces that it will produce chips for Taiwan’s MediaTek."
-    publishedDateTime: 2022-07-26T09:00:00Z
-    webUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493"
-    ampWebUrl: "https://www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-july-26-australian-companies-stop-use-of-facial-recognition-tech-u-s-states-social-media-laws-intel-and-mediatek-agreement/494493?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 26
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/03/hashtag-trending-text-middle2.png"
-        width: 1500
-        height: 1500
         isCached: true
   - title: "New Orleans mayor signs it: cops can use facial recognition"
     excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"

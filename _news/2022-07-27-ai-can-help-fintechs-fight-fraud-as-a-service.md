@@ -39,20 +39,6 @@ related:
         width: 320
         height: 217
         isCached: true
-  - title: "Global Fintech Funding is On The Decline with Largest Quarterly Fall in a Decade"
-    excerpt: "After a blockbuster year 2021, the venture capital (VC) market for startup investment is now pulling back amid uncertain macroeconomic conditions and market turmoil."
-    publishedDateTime: 2022-07-26T09:00:00Z
-    webUrl: "https://fintechnews.sg/62801/funding/global-fintech-funding-is-on-the-decline-with-largest-quarterly-fall-in-a-decade/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 19
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Global-Fintech-Funding-is-On-The-Decline-with-Largest-Quarterly-Fall-in-a-Decade.jpg?x82653"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "MobiDev Listed TOP FinTech Trends in 2022"
     excerpt: "According to Markets and Markets, the fintech blockchain market size is expected to grow from $230.0 million in 2017 to $6,228.2 million by 2023. Fintech solutions involve a great deal of data, and there's no btter technology to handle all that data than artificial intelligence."
     publishedDateTime: 2022-07-28T14:20:00Z

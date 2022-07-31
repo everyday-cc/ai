@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-07-21-driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming.md",
-      "title": "Driverless tractors are here, and that's just the beginning for the future of farming",
-      "excerpt": "\"We launched the first driverless tractor that actually ... Camera images also run through an artificial intelligence process that recognizes humans, animals, equipment and other dangerous obstacles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
-      "originalUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
       "title": "TechSee Launches Visual Intelligence Platform",
       "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
@@ -1142,6 +1099,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027.md",
+      "title": "Healthcare AI Market in Europe to reach USD 8.9 billion by 2027",
+      "excerpt": "Europe healthcare AI market is reported to show promising growth during the forecast period of 2021-2027 with the rise in the demand and use of AI-enabled technologies in this industry. AI uses a combination of technology and human intelligence to enable different machines to carry out activities like automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-in-europe-to-reach-usd-89-billion-by-2027-2022-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

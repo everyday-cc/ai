@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market Size, Share, By End Use, Share & Revenue, And Region, Forecast To 2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 02:55 /Comserve / -- The Computer Vision Markethas encountered significant development over the recent years and is anticipated to grow tremendously ..."
-    publishedDateTime: 2022-07-26T07:41:00Z
-    webUrl: "https://menafn.com/1104591185/Computer-Vision-Market-Size-Share-By-End-Use-Share-Revenue-And-Region-Forecast-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?775221"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Omni Channel Messaging Software Market Research, Segmentation, Key Players Analysis and Forecast to 2031"
     excerpt: "The Omni channel messaging software market would grow by more than 17.5% CAGR. Omni channel messaging software create special content for audience and helps to reduce the content creation time. It enables agents to receive and send case messages from multiple messaging platforms such as WhatsApp,"
     publishedDateTime: 2022-07-27T07:45:00Z

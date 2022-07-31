@@ -186,6 +186,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
+    excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
+    publishedDateTime: 2022-07-31T01:35:00Z
+    webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 18
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
     excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
     publishedDateTime: 2022-07-30T13:53:00Z

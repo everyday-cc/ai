@@ -878,6 +878,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-13-the-best-stories-for-national-robotics-week.md",
+      "title": "The Best Stories for National Robotics Week",
+      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
       "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
       "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
@@ -1307,58 +1350,6 @@
         "name": "Mint",
         "domain": "livemint.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
-      "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
-      "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-07T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

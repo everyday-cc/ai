@@ -1,27 +1,25 @@
 ---
 category: news
-title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
-excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
-publishedDateTime: 2022-07-30T04:50:00Z
-originalUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
-webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
-ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
-cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
+excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
+publishedDateTime: 2022-07-31T01:35:00Z
+originalUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
+webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Sky News Australia
-  domain: skynews.com.au
+  name: SBS
+  domain: sbs.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://content.api.news/v3/images/bin/1103bbefb1465c83b00323f57c31c3ea"
+  - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -168,17 +166,19 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 19
-  - title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
-    excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
-    publishedDateTime: 2022-07-31T01:35:00Z
-    webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
+  - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
+    excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
+    publishedDateTime: 2022-07-30T04:50:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/pm-albanese-very-confident-australians-will-adopt-indigenous-voice-to-parliament-after-landmark-speech-at-garma-festival/news-story/fa61cbf2f6bf00f4c68c10462e9454e8?amp"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
+      name: Sky News Australia
+      domain: skynews.com.au
     quality: 18
     images:
-      - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
+      - url: "https://content.api.news/v3/images/bin/1103bbefb1465c83b00323f57c31c3ea"
         width: 1280
         height: 720
         isCached: true
@@ -215,6 +215,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "mLebeuYagavENcnu55/FfEKYbnLspHeAA632zj2bBBV5yuhwNTHWlT+zriNm8bN+pAxYsvflX2L8mdfBHxmKgq+mcVEG1cBanBk1J+mBMHBKzPzG3DfeUQDXoU+tz710MGIamsjwtb0nw+H8Fi+fcuHuyFOwD6IRaS8K5pgrf3ns4X6EbOjQiI4Ii13SOae7lVCom1RgzxucpeFjm8d3W3Xrtr/+B5Kw4oRTUUSQ7ofv371KqJwbxJ/zfh3YlOLuWbvF/zj5QZ+yxU3tdgw4wr6KLuB+T1UU5VY7MwzGP69YjTG7t5f3QVxtFAM10q0spvz4FUG9JiFsTSjETIaL1j+6CDiisSCzu1UnPYy5ZwBYH1IxRkJE6ObqAIq5uljZhDEUhXrtOogUJqjIrBvTM3n/mZLGvZqtJQxUz3oVQo9jLkaiz9MES5P3pbxJ6QM1M4uIcMYYIDzyuhhT5z4FkrKW61uNDcRLM9jgORyxHuoQ97mhge8+yWkdcb5EP84DCMXXR6eduRqDsgvGayd5YQ==;iT3SGK6Lia5fQYSW/PUq1g=="
+secured: "KLhvmXy++Vzbzg1CKCjExXSabv2YZmBtxOc1y/BjlXL94CCGbCC0UlVtC/ocAGWQ+XKR4HZw4ZjLd7OZbDO3sfzNCddQnWrt3XyY4QQ67nZySgSA3fAqP++n7RU8nGGRDGioVMqDQJVvMIbewnPMibkt3qoFKAbJIa8eBMyqRaBkP+bt4gD6fUPRqKRky8z9+PXZOoWxERc14C5dTb30d4bCW2Qc094lGMenR9r0lwERmFtTi2UV6HKdkg7x8VHgLb4oZ0cxV/+GXuZsa/aED93v1Cw0hAzGwsPAjeU5ZpCDrwoTB9UnFlZkPeYFq/FjF1Dq3hrFh+mCo2osd4ySqP0K0VtIr7h7/fM+PWugYFY=;3gyTnXwOGhjaO5JzQtj8tw=="
 ---
 

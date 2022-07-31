@@ -58,22 +58,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Privacy group slams 'unlawful' Co-op facial recognition cameras"
-    excerpt: "A PRIVACY rights group has submitted a complaint against the use of facial recognition cameras at Southern Co-operative stores, claiming it"
-    publishedDateTime: 2022-07-26T08:28:00Z
-    webUrl: "https://www.theargus.co.uk/news/20571801.privacy-group-slams-unlawful-co-op-facial-recognition-cameras/"
-    ampWebUrl: "https://www.theargus.co.uk/news/20571801.amp/"
-    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20571801.amp/"
-    type: article
-    provider:
-      name: The Argus
-      domain: theargus.co.uk
-    quality: 59
-    images:
-      - url: "https://www.theargus.co.uk/resources/images/14303211/?type=responsive-gallery"
-        width: 650
-        height: 433
-        isCached: true
   - title: "'Orwellian' facial recognition cameras now in UK stores"
     excerpt: "Shoppers at a supermarket chain in southern England are being tracked by facial recognition cameras, prompting a legal complaint by a privacy rights group."
     publishedDateTime: 2022-07-27T15:11:00Z
@@ -104,33 +88,19 @@ related:
         width: 1060
         height: 591
         isCached: true
-  - title: "Privacy group complains of ‘unlawful’ facial recognition at convenience stores"
-    excerpt: "Privacy rights group Big Brother Watch has submitted a complaint against Southern Co-Operative’s use of facial recognition cameras, claiming it is “Orwellian” and “unlawful”.According to the complaint made to the Information"
-    publishedDateTime: 2022-07-26T07:21:00Z
-    webUrl: "https://jerseyeveningpost.com/morenews/uknews/2022/07/26/privacy-group-complains-of-unlawful-facial-recognition-at-convenience-stores/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 50
-    images:
-      - url: "https://jerseyeveningpost.com/wp-content/uploads/2022/07/26072138/Img33880174.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Lawmakers seek limits on facial recognition"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-26T21:00:00Z
-    webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+    webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315"
         width: 600
-        height: 333
+        height: 315
         isCached: true
   - title: "A sketchy assessment of US border facial recognition systems"
     excerpt: "This week privacy advocates tried to convince the U.S. government that it should not use facial recognition systems at ports of entry."
