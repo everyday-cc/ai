@@ -24,31 +24,34 @@ images:
     isCached: true
 
 related:
-  - title: "Beeline Loans launches AI-powered investor loan application"
-    excerpt: "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,"
-    publishedDateTime: 2022-07-26T05:08:00Z
-    webUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/"
-    ampWebUrl: "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
-    cdnAmpWebUrl: "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1"
+  - title: "State-of-the-art Edge AI platform to accelerate UK’s AI adoption"
+    excerpt: "Funding has been sourced from private angel investors, including Growceanu, and non-equity funding from Innovate UK as part of an industry collaboration with Domin and the University of Bath. This round’s funds will bring forward more advanced Federated Learning capabilities,"
+    publishedDateTime: 2022-07-29T00:40:00Z
+    webUrl: "https://www.themanufacturer.com/articles/state-of-the-art-edge-ai-platform-to-accelerate-uks-ai-adoption/"
     type: article
     provider:
-      name: Providence Business News
-      domain: pbn.com
-    quality: 57
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 39
     images:
-      - url: "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg"
-        width: 1308
-        height: 750
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/07/29013738/shutterstock_561931702.jpg"
+        width: 1100
+        height: 733
         isCached: true
-  - title: "Rogers Communications to invest 7.7 billion USD in AI"
-    excerpt: "Total mobile operator spending on AI solutions will cross 15 billion UD by 2024.. Rogers Communications to invest 7.7 billion USD in AI. AI Solutions, Artificial Intelligence, Canada, Internet, Rogers Communications,"
-    publishedDateTime: 2022-07-26T06:46:00Z
-    webUrl: "https://www.itp.net/emergent-tech/rogers-communications-to-invest-7-7-billion-usd-in-ai"
+  - title: "Naval Surface Force plan to accelerate AI adoption expected ‘in the next few weeks’"
+    excerpt: "Naval Surface Force, U.S. Pacific Fleet has reached the final phase of drafting its first-ever, overarching data and artificial intelligence strategy and implementation plan — and aims to share those resources more broadly before this summer ends,"
+    publishedDateTime: 2022-07-29T21:54:00Z
+    webUrl: "https://www.fedscoop.com/naval-surface-force-plan-to-accelerate-ai-adoption-expected-in-the-next-few-weeks/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 33
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/sites/5/2022/07/GettyImages-1372977104-e1659128025698.jpg?w=1200&h=500&crop=1"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "DJ83xhegbTlof+o5jwX8FmNpLRDdZschniSWXQqdSUfMEoJSyPwLiQMiENopUzW+0PlyYhv6ciStdnv4Zou8ZLI6b8zxgZ3VJ9sd7wdgi0NyaoJTDEuIFT89cMPzg+AOMumIphHVuIxL4nJjMnzQBaI5H6jP+PAZdKn2Qot+++2q23jB/rPQmbOLv+ytiH3gsptH/qnsbOc1h0raCyzzgyKMrGunor2EO3mUhmDHilifbq8dzugfG8rNCKbbcKGBPJho0ijPvhyQuiNFxMTP8VOZ593OJKrT1zRASRUxbHbWtcADRNjwn5jKdkcLGJAVjzBrvBcjcOQxJljxDEMFVBUBFXwn4whCRt8+y6X+l+xIx812PIkOsUFSOYrLKHgZSGvyEmDht43suTYLMzHHeng+C3iyCWgw1Jv9GQrsyLMticiWvOJv+rlyQC1Rb0fNZH2qYkpbHP92QmDHdo1BeQ8l/xtS7i0Rz1HW+eOSloDpvgn42FEX/jt3Hcx63DWKP7+20qys5ijxp35ruos/Tw==;zIZ8KWb63aK5rQWQahErDQ=="
 ---

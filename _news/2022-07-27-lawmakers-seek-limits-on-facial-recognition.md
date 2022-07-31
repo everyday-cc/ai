@@ -3,20 +3,26 @@ category: news
 title: "Lawmakers seek limits on facial recognition"
 excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
 publishedDateTime: 2022-07-26T21:00:00Z
-originalUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
-webUrl: "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html"
+originalUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
+webUrl: "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gloucester Daily Times
-  domain: gloucestertimes.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
+    width: 600
+    height: 333
+    isCached: true
 
 related:
   - title: "Southern Co-Op faces legal complaint over facial recognition CCTV"
@@ -172,6 +178,6 @@ related:
       domain: theiet.org
     quality: 15
 
-secured: "Y78J72+OqRD4yeE/0Mm0kM4x8rfE23j8+pAzQAJzSOWnng2kr07nvdMrlSonh7WQuam1+xdUYFV6wUVndCLeE+qgPxVpIDCYE78yzNljhv2C5wqq568croMPg1rwsGpipsNMqqIk45Yv/tDf3X6Vfy/YNorNPQE7QNLwCW2JEwr1wFcuFD9X7vM+RZp5VJohfPAX/8E589eSfNmlRYrWCMg7jBPyhAMwr7IYyMuoZzOgMHLcHYhdIRaMCw8aEAbckzJcciPLLl6QfQS8wGIFTV2ik7yD5yNl/zrJTvR73Bc1M73XqxiL6U9ZhyhNM4m5Voltb7Vz/5gZ3f1yjoIC36PJvJWbATPFTUzdoXm6Dk0=;dUT+gg/3ISot3mIFrRo4RA=="
+secured: "HMKhHqzbtOHehA/I/udWdfMxpjz0QW4BU5JYz3VSWtxBaOlWwnWy8SKjYj6lrprVXdx1MBLttd1TqbUwjmKiG8HsMgBdUtP954Q/ORc4BpVuPzjLZ5k9vUYka3/3g3dQg7pCgqpEEMOqpmqX3PFReeGOLlsaigZEDxLrI83k0o+/kyTq+heyjG4F93Cf0jKaE3aGOCMGwCpGaD9pjM/jtcPwrfn1QsO4H2CH/+zxQTEasaptT9xckqKc+NOLIvh2asR4Ceb6nLBviWijm38kxsJ5+tziqqBxKXT+w+hVPv1Ku4dM4+XiNg4J6DhU9pcLgUDN/lp3RnhRBKXFk4rfNVRzRkuQfBC5S3egd8gu1GU=;3T7ZfURKbLnaGkD5N7LUog=="
 ---
 

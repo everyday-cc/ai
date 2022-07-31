@@ -101,6 +101,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Australia PM unveils draught Indigenous recognition referendum question"
+    excerpt: "SYDNEY: Australian Prime Minister Anthony Albanese on Saturday (Jul 30) unveiled the wording of a draught referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
+    publishedDateTime: 2022-07-30T22:59:00Z
+    webUrl: "https://www.channelnewsasia.com/world/anthony-albanese-draught-indigenous-recognition-referendum-australia-2846556"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--rvyK41ZC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-07-30t015528z_1_lynxmpei6t00v_rtroptp_3_asia-energy.jpg?itok=JvQzUo5i"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
     excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
     publishedDateTime: 2022-07-30T03:40:00Z

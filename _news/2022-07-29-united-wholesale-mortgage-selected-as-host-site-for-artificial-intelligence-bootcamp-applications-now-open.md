@@ -3,10 +3,10 @@ category: news
 title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
 excerpt: "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
 publishedDateTime: 2022-07-28T19:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 type: article
-quality: 20
+quality: 18
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 500
         isCached: true
 
-secured: "RvVCKtICi1XDJhfrTe2149rN3nS1XrMJI6hwmhmvMxCN34bUosyc2GN7N669gCNgM9eSS1X4dRLFDOp/jag9u4Sk1JQIiBmEk3adQNQyU/6f1rnr4JS8hD7r+3AOLv9yY897OZgooPRXsOl1jfsHpqGMr4ATtJC0KcKhkdfAX599qAkrItsEzunVtS84XmTa/yLnPJGxegT2tbol7EyA9AqzPqu+uYSRz83SMG5uPqqvQ6nA78ozYzkqgN0nUX47igFOwc6IJwyNZFPFeKazYEpjMkqSRhQMHZ1K/CngQ9W9BCShnRVV2k+HFkOV/cOjx2uRILH/Sc1+x4UbJgxFDCHGLETDzKiuhGXbiKx7hJU=;LSDUCTyEVwgL99r9JAkruA=="
+secured: "Qo5qSDstdH8MOEUHmSvUUqS+tw9V0mZEgshKjPu/LsZ2NtPXDvlyq7VvebRYi2yQFHHdZvl4NsyCy5wsfvWlefR/rrkR0UVxPoxe1O6EoZgzm43SoTgyGM6WSPV2iwqKF050wU9vU/tMM/Nl/c0PGSsdwXvr3O7zIkvmpsA66kZtntWs4j8qAcLx/kRAfI4hRVNoyJ+JCf0giicgXHUdRADC9RmgaYjpaD+xZscHdHyTfdGP9xEkV23JZ+z/OUjlDusxcyi7aKzyHM3L4AlxIKOG22/R2QyLVYWSzkQWPJjuDRMTTq0xPKcCvHkmYgiY8SnmJ+7v4wmRYAgnyyTaoy3HUwD1Z1X/xn6ClPj5/3A=;KpBT0tqTJnZw3iaqquycrg=="
 ---
 

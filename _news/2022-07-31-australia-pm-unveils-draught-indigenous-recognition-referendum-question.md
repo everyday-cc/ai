@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
-excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
-publishedDateTime: 2022-07-30T03:40:00Z
-originalUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
-webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
+title: "Australia PM unveils draught Indigenous recognition referendum question"
+excerpt: "SYDNEY: Australian Prime Minister Anthony Albanese on Saturday (Jul 30) unveiled the wording of a draught referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
+publishedDateTime: 2022-07-30T22:59:00Z
+originalUrl: "https://www.channelnewsasia.com/world/anthony-albanese-draught-indigenous-recognition-referendum-australia-2846556"
+webUrl: "https://www.channelnewsasia.com/world/anthony-albanese-draught-indigenous-recognition-referendum-australia-2846556"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: SBS
-  domain: sbs.com.au
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
-    width: 1280
-    height: 720
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--rvyK41ZC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-07-30t015528z_1_lynxmpei6t00v_rtroptp_3_asia-energy.jpg?itok=JvQzUo5i"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -115,19 +115,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Australia PM unveils draught Indigenous recognition referendum question"
-    excerpt: "SYDNEY: Australian Prime Minister Anthony Albanese on Saturday (Jul 30) unveiled the wording of a draught referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
-    publishedDateTime: 2022-07-30T22:59:00Z
-    webUrl: "https://www.channelnewsasia.com/world/anthony-albanese-draught-indigenous-recognition-referendum-australia-2846556"
+  - title: "Proposed referendum question on Indigenous Voice revealed at Garma Festival"
+    excerpt: "Anthony Albanese says the greatest threat to advancing Indigenous constitutional recognition is \"indifference\", adding that he is hopeful Australians will find room in their hearts to support the Ulur"
+    publishedDateTime: 2022-07-30T03:40:00Z
+    webUrl: "https://www.sbs.com.au/news/article/proposed-referendum-question-on-indigenous-voice-revealed-at-garma-festival/0hg0tp04m"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
+      name: SBS
+      domain: sbs.com.au
+    quality: 22
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--rvyK41ZC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-07-30t015528z_1_lynxmpei6t00v_rtroptp_3_asia-energy.jpg?itok=JvQzUo5i"
-        width: 1200
-        height: 676
+      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
     excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
@@ -201,6 +201,6 @@ related:
       domain: thewest.com.au
     quality: 0
 
-secured: "a4ONuIze8Q9rabWO5lesjT6HBVvrdW/JQrOVtzlrmPT+rvoNUEbDst06OoS27c6k/tU0zXnxN+iNLMnTSEBFK2ywZyezn6hIx88tsH6DVH24S8b1rsSXsFTdsRV9pMp1ffoFtAttpQk5BfD3eSHON7DSicCd/FSm7abYNQwuaCStyES94wMASCdf0fC8DXWnNwA+eosqh74oCIVqmNaGrIubSZecWj7Zymvq7JjGvbFy6ozwRh8RVPD+VYh2bUlNiBisieV7UCzKO3z4FwpcTs9DfIaUnGIvkeImwPQpe1QDUtCw670xkoXzRH5aNshGtB76T7Mjiyze1aw/o/8WZwJg1P6a77Gvv3SWxAtXNKTuZzTc8aHXCTY+uItguevGxB9RgsHEE7EKJWV+d3UH/Hi8ZcVHvPI5Xddi0iIK9EmPaYPuQ7FRZ0tiynH4E1by8LQ0+pBf9JJBrp59PEWlXOsb1VHliUjEOwQs+CIikeyRoG5ymcFlRUwbI6niYIa+2PulGhhJvhWwYeVyP7sRfw==;yB+Uuhz9Ph/N6UgQzYqJrw=="
+secured: "ag8jPplVZKc+sBxYOlTTJrT6NybCWAWy3dXwixD3sUuy1TfRSStvC/A2B6WhHkYVnzimus+xG4joKrAIEgT18wrG76Bqpf4oXy+RsMXB3Q3e9R6E72zY7tbQu24Y6LcdtpObB2hsaphhHVjvKQY+0fxRPqjcO1TeCai5aMpTUVYZamGdNkRd3r4gh0bgz1Y4YrYcBnU9ZgIoJ9RklFHOZQW09wujNHakcMPlfSsZHxM094YPZKNCe7Eu8yeHGZmcQwiXVP9CQgdTVo6SUKlvTQMq1/QrokrwuXNL6B0yZ4p1XVNGu1iL+E3fLfKJx+02pPLadXoxlFJqyTOG6nKb39wuAa18qfvynO4SNgYejfI=;UdXQzQkQnUeq+WMLhtsQ/w=="
 ---
 

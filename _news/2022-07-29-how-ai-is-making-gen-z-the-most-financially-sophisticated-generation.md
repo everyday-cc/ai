@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/finance/banking/how-ai-is-helping-gen-z-manage-their-money/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

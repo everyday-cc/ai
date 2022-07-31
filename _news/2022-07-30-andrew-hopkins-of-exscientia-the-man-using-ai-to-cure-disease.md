@@ -3,8 +3,8 @@ category: news
 title: "Andrew Hopkins of Exscientia: the man using AI to cure disease"
 excerpt: "The British scientist’s company employs artificial intelligence to drastically reduce the speed of drug development"
 publishedDateTime: 2022-07-30T14:00:00Z
-originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
-webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
+originalUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jul/30/andrew-hopkins-of-exscientia-the-man-using-ai-to-cure-disease"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "5K3Z4GAwY0ybtbcxZ0ZxJ7lDILh4xOj1yReeWzfc4QEpqc+Vh4yVi8mWHVSnOfY4q8Kp34jPozXsjaOBhM6M/dTIceWzEuwK2hh504KqLkbaCE8dNuGD9e0fVKji/eHFRFR8KwGprreQS6kxYO4F4TbO/JlxfY+EIjRKZWLXeLLu35G0w9IXItRpzzVxdrtL6r6sx1fEOgKBTVrCBu2xLhf949SPlQHSBkFEBNqFtzw1rdRv/xSWF2GqvrkQ2n67DGPCpw6MbDPb2xL8sAfWK4XWllxSabCTZNgwCS9IpeujiL5Do+B43coMCDhNcSJBrwTWKzbiFD0ZuE6pbwEqIJQoKualqfSJ1CGoe4Xb2T/eXt/HJclNSa/9vfuL2YZZxcdWrS4KLVcivDELdZz3DC4AnGLhc/3pzVFnYy4pE0lN8T/aqfLYe/IBQy59VuL69VO1uH4xM+FwI5jnuPshN/TcNP6GmjF8ZjQyu45BW8f/K6PCkzxfQEG7KyMyEwLBI1SH6roWDJv1pAqbnoiZNQ==;Def7QOs/51h49qEH2AvYpg=="
+secured: "gUDHpEShQMNucBvvgFai3ih2FCfOQ7GJcIJUr5L+xqrcKvE1GokQ/dJRuPxAnSHIglMGAtsXYFow29cZ1BItf8j/UmFeEwzGmuynMTu0KqKrKOPKC0bCEVh3jbNubu2Dw87rx18zR7jLzVY0kbKDwaMEV1lTd+p+xjs75l7D0aFZLMdZm51aHy2Wg3oj0qx7BHSYRmDXj+eb/WdbIW3DzBLsZrsyaR9/c9aW4ReVzXRVEMREEK2ak6heJ239zh1ErRTD2e/ZUc7U0awedN6otUO8/7rKaxbSm2DyLL9/ICkcVLmFxyQ5C+f4jUsLAPP24Vg05XMpQohRz3gfIogVHhriFSkTXIbKipn6mEUbLOE=;HHG7q8QGKfWJhrIfB0Bs+Q=="
 ---
 

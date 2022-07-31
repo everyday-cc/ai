@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:
