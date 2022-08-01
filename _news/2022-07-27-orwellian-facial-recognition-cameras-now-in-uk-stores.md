@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/orwellian-facial-recog
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/orwellian-facial-recognition-cameras-in-uk-stores-challenged-by-rights-group-71658843359330.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Southern Co-Op faces legal complaint over facial recognition CCTV"
-    excerpt: "Southern Co-Op is facing a legal challenge after a privacy rights group filed a complaint that its use of live facial recognition cameras is “unlawful”. Big Brother Watch claims that the group uses biometric cameras which are “infringing the data rights of a significant number of UK data subjects”."
-    publishedDateTime: 2022-07-27T09:22:00Z
-    webUrl: "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/"
-    ampWebUrl: "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/"
-    cdnAmpWebUrl: "https://www-retailsector-co-uk.cdn.ampproject.org/c/s/www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/"
-    type: article
-    provider:
-      name: retailsector
-      domain: retailsector.co.uk
-    quality: 74
-    images:
-      - url: "https://497959.smushcdn.com/855165/wp-content/uploads/2022/01/supermarket-949913_1920-e1641895539108-390x220.jpg?lossy=1&strip=1&webp=1"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "A sketchy assessment of US border facial recognition systems"
-    excerpt: "This week privacy advocates tried to convince the U.S. government that it should not use facial recognition systems at ports of entry."
-    publishedDateTime: 2022-07-28T22:15:00Z
-    webUrl: "https://www.biometricupdate.com/202207/a-sketchy-assessment-of-us-border-facial-recognition-systems"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/01170113/Simplified-Arrival-CBP-biometrics.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Southern Co-op and Facewatch defend use of facial recognition tech following privacy complaint"
     excerpt: "The Southern Co-op is confident its facial recognition tech to cut crime in stores has not breached privacy rules after receiving a newly filed complaint from campaign group Big Brother Watch. The complaint,"
     publishedDateTime: 2022-07-27T12:26:00Z

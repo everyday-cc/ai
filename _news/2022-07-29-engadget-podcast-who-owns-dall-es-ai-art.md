@@ -3,11 +3,11 @@ category: news
 title: "Engadget Podcast: Who owns Dall-E's AI art?"
 excerpt: "Cherlynn and Devindra dive into the world of AI art with Senior Editor Dan Cooper and Creative Futurist John LePore.."
 publishedDateTime: 2022-07-29T13:12:00Z
-originalUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html"
-webUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html"
+originalUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html?src=rss"
+webUrl: "https://www.engadget.com/engadget-podcast-dall-e-ai-art-ethics-123007328.html?src=rss"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -27,6 +28,6 @@ images:
     height: 469
     isCached: true
 
-secured: "bIUnQI6VNOHu+NyG+1xbVGk/fvbgoJeByFKn4UqObs6o+zffwWxMM+Vk5yhfK/UGysR87A7oV9x0codV+lFIn/lhMiiY/SrojKEaoCQgIH1rzzQuDn8P1IMJpmljoQJuc82eq0ppctV5i54/kIY2uTKhppTFLyQKesg28xU8gUPQ0ACM0zSaBh2YxkT0cbEPDi7OTXPUcyf6o10E4eUa9Cnqke3eX/77DLAHx/poEMaAECsU5EizxZQrRdG5PNYa7ZYT2RrLQImGa8KLMbXUVTYDC+yMK0sv8mCXYYar7pa5aN8hMCoS4tPmCxj29T/IG2Pz0Nu42XlkNIOL1Nt0s+ch1W9kITy2kAfBZvqCG9Y=;eDo4DeVTTZPUafrIywd/wA=="
+secured: "0uOTyxZzkgKatZVwOiuTf5zqprq59qzAy5PxoW0ML0Q7hs11VCevEFcDQONszr0CDLX2ClxiKoXXwYqwJZqMH8SiPhhxfQYbx/5Nvt2qj0elM+IQAagKaBOpzQetx0EYCZu76a5KqVpwOWe+ICTezMUPyfQLB3aKuC8GIbrVhXqvj8xqA1wtbwJYA43VGRoS8mdudajSU4nOI5YH0KeB5KpBx9/h9FgcYW+A7jsLtnQm0rNh8n7WSYhoUPiUZ7CpG3aG6uL8vp5/D7sPk0lUsn77pO9VVfbGl5rZj2ftixOZk4qV6FkVErNaNJ+0SCSOK1zGF2pjyCQu3rn0WEFoESAitbJrHyxXKqsdb+GC7zc=;dxZg0ia70DO/ONCBUgOI3Q=="
 ---
 

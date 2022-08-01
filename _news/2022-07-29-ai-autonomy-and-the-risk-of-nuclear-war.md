@@ -40,6 +40,20 @@ related:
         width: 753
         height: 502
         isCached: true
+  - title: "The hype around artificial intelligence"
+    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
+    publishedDateTime: 2022-07-29T08:32:00Z
+    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The dangers of using AI in hiring"
     excerpt: "Banks that need to fill large volumes of jobs increasingly let AI decide who’s in and who’s out, based on analysis of digital resumes and video interviews. Algorithms can take a more inclusive and less biased view of candidates,"
     publishedDateTime: 2022-07-29T17:52:00Z
