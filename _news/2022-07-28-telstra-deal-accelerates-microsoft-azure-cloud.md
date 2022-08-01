@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "SafeGuard Cyber Delivers Context-Aware Response with Microsoft Azure AD and Okta"
-    excerpt: "Advanced Capability Accelerates MTTR and Establishes a Robust Zero-Trust FoundationCHARLOTTESVILLE, Va., July 27, 2022 /PRNewswire/ -- SafeGuard"
-    publishedDateTime: 2022-07-27T11:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/safeguard-cyber-delivers-context-aware-response-with-microsoft-azure-ad-and-okta-1031619837"
+  - title: "Microsoft FY 2023 Outlook Signals Growth 'Azure'd'"
+    excerpt: "Microsoft continues to demonstrate sustained growth and a strong balance sheet despite near-term downside risks. Click here for a full analysis of Microsoft's latest earnings report."
+    publishedDateTime: 2022-07-27T15:22:00Z
+    webUrl: "https://seekingalpha.com/article/4526287-microsoft-fy23-outlook-signals-growth-azured"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402827481/image_1402827481.jpg?io=getty-c-w750"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "/vXbKvdvSDIqeadN907/hkwB9tept6OgM9I9Ebc5+BVlsN7Bci2PcyBIYnbAydHy39qYJ3wLjn1Vg/g+AqboYKffC6gh5wGa9iG5W5XGD2tATDpWhW03dwQWCGqBpB3HKV/adoJr76poLDJBUvrcaE0LALVQtgtsVwj7Z9x62YGb8Gf+WljAI/K4AbK2D8Pa54KFE8VsyCkBqBiKFtR4DZQNDkX4A2xoanlIRIy6F1SiLWinpeB7SL3bYH47Sk6EcqU8ZY7EoKDRdOmYxEMP4c5NY9JmOltdlSzUIq1afwsNeIKivTkHQNnL9NnNxbWOgXxhYGue0lJGsbSv0CYr1V2NKyL5UK1vZzbN5/vc7S9Xe60wBNxHy9bA+2vCwTguewRjZKZZ+RML7up9/FjHPq3N2eGGzwK9eifBELwNXPYjleR5PtM1S31Z3hIEBX3H8TtVQHitUa/0Iqo4cxyUMKge+OtCW5TEFvRW5uzg0jzuQY3FcBLM5XSulBHmqh1liF6rkEsbopGcBV52x2xOfA==;2FrL42K6WdaYsyIg1/KN6g=="
 ---

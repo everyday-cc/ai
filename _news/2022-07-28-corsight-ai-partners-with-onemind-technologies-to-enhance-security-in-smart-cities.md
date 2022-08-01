@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-partners-onemind-technologies-enhance-co-1590149149-ga-co-1616048003-ga-co-1659004032-ga.1659004635.html"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -21,15 +21,15 @@ topics:
   - AI in Security
 
 related:
-  - title: "Corsight AI Partners with OneMind Technologies to Enhance Security in Smart Cities"
-    excerpt: "Recently recognized by NIST (National Institute of Standards and Technology) as a leading provider for proactively reducing bias, Corsight AI delivers Facial Recognition Technology (FRT) that allows for ethical and accurate biometric detection,"
-    publishedDateTime: 2022-07-27T12:16:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-e97c82258601e7124955d7396c13cba2"
+  - title: "JK Tech launches AI-driven Smart Analytics solution for retailers in the US"
+    excerpt: "Serving clients across industries since 1994, JK Tech has been providing agile and customized technology solutions for enterprises. Using JK Tech’s Smart Analytics solutions, grocery retailers have witnessed around 15% improved inventory turns,"
+    publishedDateTime: 2022-07-28T11:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-b8500cf80468944e5bc928886be42ae5"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 48
+    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

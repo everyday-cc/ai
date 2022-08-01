@@ -24,17 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Google Parent Alphabet's Search Outperformance, YouTube Shorts Momentum, AI-Focus: Munster's Analysis Of Q2 Results"
-    excerpt: "Alphabet’s June quarter results were essentially in line with expectations, as Search outperformance more than offset the soft YouTube revenue, Loup Funds Managing Partner and co-founder Gene Munster said in a note."
-    publishedDateTime: 2022-07-27T12:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/google-parent-alphabet-s-search-outperformance-youtube-shorts-momentum-ai-focus-munster-s-analysis-of-q2-results-1031620455"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-
 secured: "zvHvEioa6lXfcRmzWIDKQiBcnSGd7662fDn5j2p/upKMtQ9ibjbfXT6+7DLbt0Iz4FfAjXp2CnzXnk6WhHd5FlPqPGWroRQHxBFU9vwx3MbjcgQcxYmtZuLRJuavZ/HLSjn1Ng+0/yfM3P+gxGxIUEbb2F1NKUPJaHHPFwB4D8PfgpKr81kwnYjed/tF9BoRQr3yOIezYRogRQH/AtYjMU5Jc6Gm04bLtPQEYAhewbHdS6Bwh0Cm3tImc4ebV9O0RxmuQ9Z/zjiCSlMZWj58boQFl9Ye0LUmFF/UCZJfcWgTt0H2dQ3++00PYT+GIfks9rWBX20zAj6qdJWJ1HT1ThyCKXXjzEqkN4OsT/pMqkg=;rAuzzWIwQgOY1a/OHtLGAQ=="
 ---
 

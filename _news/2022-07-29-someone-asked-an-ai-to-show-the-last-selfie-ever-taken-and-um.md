@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://static.tnn.in/thumb/msid-93224123,imgsize-100,width-1280,height-720,resizemode-75/93224123.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How the last Selfie ever taken on Earth would look like: This is what AI \"thinks\""
+    excerpt: "TikTok account “Robot Overloads” used OpenAI's DALL-E AI to generate what it thinks the last selfie ever taken on Earth would look like."
+    publishedDateTime: 2022-08-01T05:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-the-last-selfie-ever-taken-on-earth-would-look-like-this-is-what-ai-thinks/articleshow/93265219.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 32
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-93265291,width-1070,height-580,imgsize-6030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "4VtUUjGyblffpkxwG/zDTqs980vqrFKBvu/pzTBuvF95627qLfp6DmmHGyl4cHvpGLN2JQkKucCGSzuXDV6lnpeYdElZ7NOyQCjuDOnq8Mp/GK0ri0cBlnFnZVkoDQcDsfMbagt79QbSZv8zvUOPWH7sJxhwYwbFcM8bmWiF3zsgNcnxowjeBYGrjANRtNShsNI4MnqE0idLghfVuq1qef8Zo8GnbSokFFfzepj/RO+nPnZfkkvN8Id9uh2IhbNncgNph1xAml7GqD3aqMnn6hyGH09TmFJYW9m7Bm/cbZYFbpZWST+AZHYK5A5JENarKo+kbe9LCk7/f/NDijz5wThUa+pOaulNa23LRNy1eusgN713X55Mc/IODfhI0ppDUbrIzI3op7/a4bfJ86qZYru9Tay6GomFLKIzgDWDdvtu0Elo9u8Ni9pKJPFZ4mC9ZpvARXxw8BCZgLU4fNQXtb2xZw5FLAr+OBVtir7FGMBDJCRtRBdbIOGt7fwWfZV0NZooHlT5AiWrl7RzD/FhbA==;uLLv+vHFJSGRwcjhV7b/WA=="

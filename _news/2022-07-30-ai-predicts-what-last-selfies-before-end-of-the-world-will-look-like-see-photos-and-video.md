@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How the last Selfie ever taken on Earth would look like: This is what AI \"thinks\""
+    excerpt: "TikTok account “Robot Overloads” used OpenAI's DALL-E AI to generate what it thinks the last selfie ever taken on Earth would look like."
+    publishedDateTime: 2022-08-01T05:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-the-last-selfie-ever-taken-on-earth-would-look-like-this-is-what-ai-thinks/articleshow/93265219.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 32
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-93265291,width-1070,height-580,imgsize-6030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "fPdKX307cqXfwhK3M6ZpvgB6RfptYj8or7jHAdwZudcqD1gF2/a9xqA26RoMqRpzBf4qpl+yEDpMLN0o1mym0r3EiRkuu2k4JVwXJXn/uvd3dJ24ggYqlwXCeR7RWnj6THLlum72qJmVb5UROolqpTJRmN1KHJpFGh5Ady/my7TfFxBitneKCYNN7YR9O3i1jKisz8glCnsHN38C0nOlC+BTtau3Tvxz/3gVqJo3dkQzHiDGL3TBP/o9VrX2NQXmEITBTKZeBIUdCXtamlq7OMtpLDVZeo0buCtpFXMeQstxGfUpflRU1qTIuor6XSekOL7D+P2iGBSxbeVr7EIFEx5oe7yXtRVKZxVr1ER5Ntk=;TG+ZKY4iyrcQvWUPW2P6YQ=="
 ---

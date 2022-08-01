@@ -26,6 +26,24 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "Anthony Albanese rejects Jacinta Price's comments on Voice to Parliament but admits there will be 'difference in opinion'"
+    excerpt: "Prime Minister Anthony Albanese has defended his draft proposal for an Indigenous Voice to Parliament following scrutiny from Coalition Senator Jacinta Nampijinpa Price."
+    publishedDateTime: 2022-08-01T03:48:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rejects-jacinta-prices-comments-on-voice-to-parliament-but-admits-there-will-be-difference-in-opinion/news-story/d68735159d3deac63fcba895aaf56905"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rejects-jacinta-prices-comments-on-voice-to-parliament-but-admits-there-will-be-difference-in-opinion/news-story/d68735159d3deac63fcba895aaf56905?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/anthony-albanese-rejects-jacinta-prices-comments-on-voice-to-parliament-but-admits-there-will-be-difference-in-opinion/news-story/d68735159d3deac63fcba895aaf56905?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 19
+    images:
+      - url: "https://content.api.news/v3/images/bin/766524ebcc4323c1da460d4b1a7ff857"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "oKeh3LW52KvT5/jsCWuLmDbipbkQcMD+9I1eQdR6jYaniLGslxNVAet17rHXBWcIozYYnph07D1AjZGRHyVcD7Pz2Dm3mkLNbGupXevHf3feDImDmWnLpwlmIppKMvmJstp/jZJUrY9wQ97+oQPP/IRzsgH6hfV53BcmZrwf8KhbmdPnNF+3JbEre+C0g+lhCbnOptU7b5RbAKPUQ+PbGiG95/hQZ9E3kJv7KOMgSQOmF+RU5IiZ4lpczzjxrYw7XI9ltJdshpwcWEcUwfbNbb3LO6l/De0QsNyqS5AZi5rVQuCZ0s4fw0Fwfb7CLPNi+NyxdP/HytBFjpE6ZswhfpwpPgluWNTEI0tCNAriXr8=;b1F0TbFL2W5lyzVjXeeJyw=="
 ---
 

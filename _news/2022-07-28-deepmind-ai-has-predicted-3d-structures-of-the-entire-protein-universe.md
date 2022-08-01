@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DeepMind's Perceiver AR: a step toward more AI efficiency"
+    excerpt: "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet."
+    publishedDateTime: 2022-08-01T03:46:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
     excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."
     publishedDateTime: 2022-07-28T20:20:00Z

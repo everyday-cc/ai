@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/29/tran
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/29/transforming-customer-service-starts-with-voice-ai/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial Intelligence (AI) transforming vast amounts of data into substantial insights for creating better health services"
-    excerpt: "Artificial Intelligence (AI) has altered the digital world in the past few years. The change is not limited to only specific sectors; the healthcare industry has also witnessed the benefits of this impeccable revolution"
-    publishedDateTime: 2022-07-27T11:16:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-ai-transforming-vast-amounts-of-data-into-substantial-insights-for-creating-better-health-services/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-ai-transforming-vast-amounts-of-data-into-substantial-insights-for-creating-better-health-services/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-ai-transforming-vast-amounts-of-data-into-substantial-insights-for-creating-better-health-services/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 49
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "XvFLLsH5ApkDrddhxXYAso5eCsUsEapCAHinh3k9k5Dp0SjUpi4IOJNuQSOFMwLKX49taL2ogA6zu1xwxU3X/tkFX7t5knEoN5lImiyGUD0erIFNy9gLKJyDqMD/+NCuaEBY5Rfs5FoDbuFsd0Y/wdITFXZRtrBu61RgMmBZgi56u1bX0uMQ+HcPSS9ITZ0/RZKTx7dZ3tTs4LPRjFxOWZzaLYDTbvq0QiwB+qC68gzEdI/b0DqD77VHa5GnOrXLgQRGr1HLQnUsawXtHjE+JYKImaoI03EGf5mUcOC6DuuLRbS38ok2OHiFndCUIGRNPdejSYcC8AR8FHrMZ7EpxQ88n9lnl7n2Q14V8Hz/+xA5zKqFnB83eEC+2qFUGR6UzkiTDKDg9RDGo1kpDDhjxzs1GIgTfC4Q3womN2ivNwcppeIzSu1bgxZyA73a859qgN1VuyphzSKyD6HxfP5gIvyjJ++t0ra083NhLoGSch63j5z3vkgwIGUlBTm4dRwQV2Jp1JEqk5btMAVG+s2TUQ==;FfMgIYNbNLnjqKoeouS7WQ=="
 ---

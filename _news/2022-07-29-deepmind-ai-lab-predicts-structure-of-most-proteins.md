@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
 type: article
 quality: 104
-heat: 394
+heat: 404
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "DeepMind's Perceiver AR: a step toward more AI efficiency"
+    excerpt: "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet."
+    publishedDateTime: 2022-08-01T03:46:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
     excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."

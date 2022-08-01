@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Kmart and Bunnings pause using facial recognition after OAIC investigation: Report"
-    excerpt: "The Office of the Australian Information Commissioner (OAIC) began probing after Bunnings, Kmart were reported to use facial recognition tech in stores"
-    publishedDateTime: 2022-07-27T12:13:00Z
-    webUrl: "https://www.medianama.com/2022/07/223-australia-information-comissioner-kmart-bunnings-facial-recognition/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 28
-
 secured: "DGXQ9UfujQqyvLI5sa1wDpivC4rxdGCiFR/sruJRML/abLqDwuc09Hcqpoxd9p1StIbqTOd/qIR8uiHbghHG3Xoya++M9jGU2Cvx3mtq0t4sNTmEzaK4BpLUj61MEp/i0k8gSmryEsR+xFE5iRLA1Vlx7tq0/MsnXU8sfU2I2ljlGah+s73H/ggI/cwDHQ3SVSD0vGi/ktP/wapsXOq3L7DR9f647NCi4ou4UfXzyfL20IbX5qYMYQwfSedCTLgoMDeeu0bDSB6Vn4ERN0Eo4+t/RDOfpALBF9maTynLEAwQ92VFsnHWL71jZ3ltMyC1i9Vdv4SMPUvYwjwfUZVFYneoeUL1NKsiiW4lrwWJKGjrwA74dyBsicVJg7nrCXAAPzAmsdgKl+VWAsMTrEtnCCsGoy64H7pMu7BeSQRAIr2/OG217fJuTx/bdZvDfto1L/jWdvXKRe6ooFbDIn+pMwhlmRE2fkAPqBww002Q99UcG63NhzvR5HIVwmhDlzdI8mSiH08UD14hkgtxw2KmJQ==;vHFrgFPLvNAvYeMG+afdJA=="
 ---
 

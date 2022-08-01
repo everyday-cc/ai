@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production"
-excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the NVIDIA DRIVE Orin system-on-chip and will fully enable the trucks produced by the joint venture. “The establishment ..."
-publishedDateTime: 2022-07-28T03:41:00Z
-originalUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
-webUrl: "https://www.eagletribune.com/region/pony-ai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for/article_05b962fd-cccd-5c9a-b14c-65411eed4028.html"
+excerpt: "Autonomous trucks produced by the joint venture will be powered by Pony.ai’s Autonomous Driving Controller (ADC), built on NVIDIA DRIVE Orin Pony.ai, a leading global autonomous driving technology company,"
+publishedDateTime: 2022-07-27T19:30:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production"
 type: article
-quality: 20
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/14/b14d3270-0119-5f4c-a71b-2f77a6227824/62e203df0edb2.image.jpg?crop=1892%2C993%2C0%2C50&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China"
@@ -84,6 +78,6 @@ related:
         height: 512
         isCached: true
 
-secured: "xSWxGzy3EagRzFWMVS69LPVEEDEXorLtYQsC1XvML6B+Qe9NUVU3jwPvsB0FNu5K0WLJ2gtNtafOONy7vmT21e7rNA83kp4E+uvwL8AIwVelad1YZ9s5Kbw2f1jYyNZs50ejB7gs9glvXT1bwlrJ5YfWviAisDjQuZu9NPRJV86l9PmYGrwKnc6XC5snnP8OkJEVEG/B2UzYrbvDzT0SoNoZAwph9o02oPnXxsax04Ko/tjsooYA9OizBld6EyBy5J5KKG1tmRzcxycPSaEwiVXFN5UJHlmWjL1Jp0o4meTQ+0cMGKaEddW0DGOx8I5nkfsr10c9VmprUEG3Nfh+FDJo6weGQelqtp/DJMNA4t6tTFw0EQ43//nD6UECyKx/YwSN+NFsEz0l0isqnIzi/jS++MVhy6UQhdUMFNs7+/bPutqjx9aHQ3l2ejCMRXtpzrXBi1pCt0rE0RMi1FEA/Zkuhx8RW8rhxhaiuw5Ba2EGb0iXF1pNkMBRiEdUWTV9MfeHl3lopEiReyvBpMWgUw==;4szh5BnV8LuPiafEjdZK5A=="
+secured: "ShhK+gOq9/O6rXGQEmCbjdmqzZE8RznsA1aa8h05WrAdP4ggxer3dBYQUvuObXk0ZdJpZ4lcQsWCpkpmQkELhm67UUASZekui9vmgO2NZqifnuIBmxytKZ+Zdh4tWgVG2vqHb9/Lqw8b0F/frLsn9u+SPEu7Iqyhaa31v1MNt2/F2gyRr7tMs8GHVGidGR+lWik3Y81f6tApSqgqUnK+5Tas6ny6VONfLTJcUl/pvjpgBVKQlFsdfb2g9JJk1EpmHXpUDUojyzhw5UgrDSfD7kdKv7gKuQEEMg5rQacYNU+VWpVo7odcn0E+IwKiozKstE5Q5RCQEFgRKpSQiJcn8H9t8iSPSq+ZIKyS1NMh9wsF6aJNjXR5A0lyieiKUk36FSTaehHWGyU8uWdtrGXnL/0WlDHKW7hUYlLYTC0Emh6lcAgvZrXxBR5h4NofDHqb/+mhZ/j/u5TsX5pDcCaYupp8fxmD5qSgBCLDrHFl0gkxTrZU8/pQ8hLIApqWae9EVraO9ZtGwlWIXuWapR9IIQ==;EwIlKx1BOGQbj2/ia00e8g=="
 ---
 
