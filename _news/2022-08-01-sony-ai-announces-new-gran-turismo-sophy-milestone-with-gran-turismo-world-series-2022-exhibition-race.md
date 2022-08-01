@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T12:14:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-announces-new-gran-turismo-sophy-milestone-with-gran-turismo-world-series-2022-exhibition-race-1031635068"
 webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-announces-new-gran-turismo-sophy-milestone-with-gran-turismo-world-series-2022-exhibition-race-1031635068"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

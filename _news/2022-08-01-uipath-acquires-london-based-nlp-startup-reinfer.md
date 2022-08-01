@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T13:47:00Z
 originalUrl: "https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/"
 webUrl: "https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechCrunch

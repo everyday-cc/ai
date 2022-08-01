@@ -72,6 +72,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ever Wondered How Last Selfies On The Earth Would Look Like? Well, This Is What AI Thinks"
+    excerpt: "The account had asked the AI picture generator to display what \"the selfie of the end of the world\" might look like, according to the video published on the short-video hosting website. An AI (DALL-E) was asked what the last selfie on Earth would look like."
+    publishedDateTime: 2022-08-01T12:36:00Z
+    webUrl: "https://in.mashable.com/tech/35943/ever-wondered-how-last-selfies-on-the-earth-would-look-like-well-this-is-what-ai-thinks"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 38
 
 secured: "vaJORZhpoW4klJ/k81mrnkLiJr81bhFCoZnSlbzj1vO6zcqt5a7JWuBaKBen5PvlQj4DcKMui9iseM1Nlj/QFTlEFpy1UD59y29ACvSoB5y7cyjyXordgVgdT1IdMW9k2nU/hlDvBccGijHYHupZAUqicBO2FGdKieGsvEmIY1SMgWPvsU/cAhzMyKKhUkD1h07ZrPCxKl2d1USPTdCUUSwH/mXRHDM70mUXOsj1YaJ6rM7LgUpThwwMLFqBQQU5+E/nGm4EtIRVSOPuQS1zbpKJMwtJx38sNBoENKN8oQ8i2rEUqVx8J4WmsIMpdwZA5yrBxoedcG2brri5u6bpwcGqskCFy9IX7j75GMsRjjIxLSbl3PCKXQsrTpojRtiV44YterVE3Im9ABWI6sYrZbBgyUW6NzLv/XoAzQQCBMPA0vL3HK5UWRftLoXmF+V0v7SvQPdOs+6gG2aQWWuVzAVBRPwQ98j9f72CKbuDXUgaJURGl3lnwO0D02lLEX7R8pSl9Cb2JMZuxkzcnaHDAA==;fC0IyhRuxUOPkOBJL4kKTg=="
 ---

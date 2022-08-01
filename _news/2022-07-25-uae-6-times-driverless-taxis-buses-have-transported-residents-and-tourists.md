@@ -1,8 +1,8 @@
 ---
 category: news
 title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
-excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
-publishedDateTime: 2022-07-25T12:56:00Z
+excerpt: "Dubai is just months away from launching its first driverless taxi and e-hail services. By 2023, Dubai will be the first city in the world to commercially operate Cruise self-driving vehicles outside the US."
+publishedDateTime: 2022-07-25T10:16:00Z
 originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "51YaXqViJTxxKBc8Ct4xJM5e3JsloaYfTIVtVjufrL3+pYzqi83npa6gCnAVktVCb53O3ej9dc4WSB+gthJR91nhWGFxmLXJlGeHxgwskaB7LmF4zeHHJJ/Xxqq+78PrYSvLC0XOBJex2ncHfZ75FTp3GvfnWMMLSEfDfFiwOwewo1Ujpx+x2oEz00DLlWqcSnDgz8RW1VoQLYBjtKmXZE0bqB4bgBvutRJmlEGVOZ4poWJBBgidMXlXya2KF8o0gFq05ss0xiBdJ/3OXZvQ7h9KHTSTgt+iXeh/JsWpHIBnsvaEBiqwZCv2OpCf3bZ5m0Vtqr+IJtZuMtHE8bSQUbU+8OD5iEq2FTQZi6JyJQE=;deQmWnI+0GO+6Czc7i0iJw=="
+secured: "BN12V9ZPQFrpIGLGDmGWs0j0D6WdjErYl9NH8gioHYwtzzOSI7epy2pznJRObji7hUQsOr9+Bihjyw45Tg2Qb5JxMbQvSb6KhboRllN+ItztVzG+NIoTp8/DTsRzMIm2FiLS7FBuHiTdaKkJo/WNYyoGUM3YbZ8XHDX/armlzXCFcaYyZSZhjFKc94YFUUMDwr8q9TS6O1A2dW5ipgxXXVRe/cJiRqvwAjy5RuSVXp6XHsRL1dsYJ4lvDBDzkpG4/xQ/ParVKGNK/Bq3ss3JzpLSJx70JyI1kZC7Xx7zkAPmdHr8TURaEowHrxx3M8sBzBof80fKZXO4MpbX19w1cSh9X5L/jY4fjT9MRIvR1U8=;8BU5xFn/8/LFC5bwZ9c+kg=="
 ---
 

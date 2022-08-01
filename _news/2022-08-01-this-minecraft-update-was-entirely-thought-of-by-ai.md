@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T12:17:00Z
 originalUrl: "https://www.pcgamesn.com/minecraft/update-ai"
 webUrl: "https://www.pcgamesn.com/minecraft/update-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: PCGamesN

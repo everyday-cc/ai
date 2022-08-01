@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T11:57:00Z
 originalUrl: "https://www.dbusiness.com/tech-mobility-news/detroits-waymark-launches-machine-learning-platform-to-speed-video-creation/"
 webUrl: "https://www.dbusiness.com/tech-mobility-news/detroits-waymark-launches-machine-learning-platform-to-speed-video-creation/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: DBusiness Magazine

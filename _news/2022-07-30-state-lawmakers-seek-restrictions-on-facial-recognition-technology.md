@@ -70,15 +70,6 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 19
-  - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
-    excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
-    publishedDateTime: 2022-07-27T19:31:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21275564/new-orleans-city-council-approves-police-use-of-facial-recognition-reversing-earlier-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 10
 
 secured: "9CvlD6+qXCQZyu62FfTZ90+iZdtH4kp+GylgJhjYVm2Jb4DHaW4If5d0lKHfVMUkHBmgQ4HUmCegeuBsJZY8ia3NPg5wsIPY5Gt7g7kfVzY3cZ2tgmid2dW17GrLVSfBSq7kkhqqFa6uwvv/UehTIXkDVCjMB1pKDvH2CbNYk3FwIq3Vd4zBkIe6vnlgiZYylqxPGaqcG8dKdcVOFASdOQWO9IOnMQBe1fLAf5KrDm3SV3gpNIhaWDR/MmAL7xvIKVKV4Up+Oo3xPLtj6lNF63nxU1YgYkBDd/3f90BWWyZAgKJQCY70DRBZfqA1n+gbC+cKWWPCkiHOaR/PUcmZBoQSnaLErIbwHUeSfR6pMUk=;rxwck52eJ6WmA0b0tKfWhQ=="
 ---

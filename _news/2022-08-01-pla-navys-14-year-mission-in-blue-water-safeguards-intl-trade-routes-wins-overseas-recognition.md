@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T12:55:00Z
 originalUrl: "https://www.globaltimes.cn/page/202208/1271933.shtml"
 webUrl: "https://www.globaltimes.cn/page/202208/1271933.shtml"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Global Times

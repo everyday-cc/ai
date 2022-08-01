@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
-    excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
-    publishedDateTime: 2022-07-31T13:29:00Z
-    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
     excerpt: "Artificial intelligence can ID when a patient is having a stroke caused by emergent LVO, making them a candidate for endovascular therapy."
     publishedDateTime: 2022-07-28T23:24:00Z
@@ -55,6 +39,15 @@ related:
         width: 800
         height: 530
         isCached: true
+  - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
+    excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
+    publishedDateTime: 2022-07-31T13:29:00Z
+    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
   - title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
     excerpt: "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
     publishedDateTime: 2022-07-28T00:00:00Z

@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "In search of AI bias"
+    excerpt: "\"We have built an entire world of bureaucratic legalism and short-sighted monetary incentives that get in the way of actual, compassionate, ethical progress\"—Blake Lemoine. #AI #ethics"
+    publishedDateTime: 2022-07-29T13:18:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/29/blake-lemoine-ai-google-fired-workplace-culture.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "LMU: LMU gives out prizes for innovative teaching and outstanding student research"
     excerpt: "Their research has explored subjects as diverse as refugees, artificial intelligence, and bowel cancer. On Good Teaching Day at LMU Munich, 10 research prizes, each worth 1,000 euros, were presented to excellent students."
     publishedDateTime: 2022-07-31T08:00:00Z

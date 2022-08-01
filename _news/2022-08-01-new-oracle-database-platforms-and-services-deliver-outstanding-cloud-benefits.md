@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/moorinsights/2022/08/01/new-oracle-database-platforms-and-services-deliver-outstanding-cloud-benefits/"
 webUrl: "https://www.forbes.com/sites/moorinsights/2022/08/01/new-oracle-database-platforms-and-services-deliver-outstanding-cloud-benefits/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Forbes

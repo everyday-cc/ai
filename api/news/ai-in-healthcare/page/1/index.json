@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-07-31-can-artificial-intelligence-improve-stroke-diagnostics.md",
-      "title": "Can Artificial Intelligence Improve Stroke Diagnostics?",
-      "excerpt": "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO).",
+      "path": "_news/2022-08-01-changing-the-culture-in-healthcare-organizations.md",
+      "title": "Changing The Culture In Healthcare Organizations",
+      "excerpt": "Most healthcare workers have a desire to continue improving, but hospital staff everywhere remain overwhelmed.",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/01/changing-the-culture-in-healthcare-organizations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/01/changing-the-culture-in-healthcare-organizations/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e42101caa0e77de9d194ae/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 1000,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
-      "publishedDateTime": "2022-07-31T06:29:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/01/changing-the-culture-in-healthcare-organizations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/01/changing-the-culture-in-healthcare-organizations/amp/",
+      "publishedDateTime": "2022-08-01T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

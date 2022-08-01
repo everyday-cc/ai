@@ -71,15 +71,6 @@ related:
       name: The Daily News of Newburyport
       domain: newburyportnews.com
     quality: 19
-  - title: "New Orleans City Council approves police use of facial recognition, reversing earlier ban"
-    excerpt: "The New Orleans City Council on Thursday voted to allow New Orleans police to use facial recognition and other surveillance tools, siding with Mayor LaToya Cantrell and a number of civic groups over the concerns of privacy advocates as the city confronts a violent crime surge."
-    publishedDateTime: 2022-07-27T19:31:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21275564/new-orleans-city-council-approves-police-use-of-facial-recognition-reversing-earlier-ban"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 10
 
 secured: "ptIYIEkNgmOxTP7x/BAYSqV0HVJrf+J2XG+gP9YH9jkBp793uKxWDuNaq4hmzffMjZq5/cBHprzeApvqIGPZcn0/um8ze9hVIo/7epeys8DtpFM+G2u3GGkUl+k5c2ds33pM/ebZ0w9GFcvra4zv726g/IR1/+hzD0WjMogoSVSTah4mDzoFOMfafJNoVaQqF20szQGKq56PEo0UbYkhHarq4Sqa3UgHgGVGZG+nQhsYi9M+CCQEqmFGDgLiYmDL+lJtQbtHcv96JWXb23spB4FlI0PZbv6WEG4HHFN+Fx3fn8d5jtXO8F3gYATMoRsCc+3adXt3QlOLnajVrRZoMww9E49qVNQRvwaiHxXZWAE=;FDDInqPlaazkWZVugkICHA=="
 ---

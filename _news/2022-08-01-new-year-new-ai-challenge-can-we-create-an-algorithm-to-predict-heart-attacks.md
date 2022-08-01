@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T13:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/08/new-year-new-ai-challenge-can-we-create-an-algorithm-to-predict-heart-attacks/"
 webUrl: "https://arstechnica.com/information-technology/2022/08/new-year-new-ai-challenge-can-we-create-an-algorithm-to-predict-heart-attacks/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Ars Technica

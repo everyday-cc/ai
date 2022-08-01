@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ever Wondered How Last Selfies On The Earth Would Look Like? Well, This Is What AI Thinks"
+    excerpt: "The account had asked the AI picture generator to display what \"the selfie of the end of the world\" might look like, according to the video published on the short-video hosting website. An AI (DALL-E) was asked what the last selfie on Earth would look like."
+    publishedDateTime: 2022-08-01T12:36:00Z
+    webUrl: "https://in.mashable.com/tech/35943/ever-wondered-how-last-selfies-on-the-earth-would-look-like-well-this-is-what-ai-thinks"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 38
   - title: "How the last Selfie ever taken on Earth would look like: This is what AI \"thinks\""
     excerpt: "TikTok account “Robot Overloads” used OpenAI's DALL-E AI to generate what it thinks the last selfie ever taken on Earth would look like."
     publishedDateTime: 2022-08-01T05:13:00Z

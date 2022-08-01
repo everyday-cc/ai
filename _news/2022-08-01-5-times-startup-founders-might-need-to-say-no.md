@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/01/5-times-startup-founders-might-need-to-say-no/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/01/5-times-startup-founders-might-need-to-say-no/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

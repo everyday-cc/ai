@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 892
         isCached: true
+  - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
+    excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
+    publishedDateTime: 2022-08-01T13:22:00Z
+    webUrl: "https://www.insidermonkey.com/blog/10-fintech-stocks-getting-hammered-amid-economic-weakness-1054744/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 4
 
 secured: "BITu+bH1+r37sXyxDvcNScPe7zHk8eOVRH1ELJI+14d7ICCpgCKOOSnYvc+fGwrhgK3tu5PrdMSVrau1+SVt1vlr9xWHww2b/WnJ5+cpHKk0J4wMg1Fyv6881TGtPlnD4jxkYSRZIX6+IKoQvW7KOTli0ofL6k65vTSJ8f1uKO6gtPr3N1qJPAXC8z1ZhoyilWKyxoGqn79CeTU+UVIxo7ei9y7e8UzQPfyYw0RonYP2+LBihgT91RqvB9BuuPSVQ20k08v9M/yP8OGHnbbMwoRxN5UHARCQVxqFbj/LS8P6/fDZoVqu/xSITT85TH424AT83sXhj03HiOLHROu2keTBwmn2c6B8YQ/lnIVv9pseuwEJSPnPObfcM6jplyny+zplkaVedbn9oRcUwgJSOrjgl6J/0FVBoMmUFP560VgxoKerlIgcfdg+bvn8f4YbtbCZjIdoOgPJUgAvL3Du4gkBS4Dnm+qTesDVtwnQ1BuLMmz7StNzkopUDieDxSTaXomTmKcihi/Pm2Bl9vIxSw==;9wym/xnPXo/gt/oQRC6eBg=="
 ---

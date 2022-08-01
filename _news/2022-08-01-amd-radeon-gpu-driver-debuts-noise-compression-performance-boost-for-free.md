@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T12:00:00Z
 originalUrl: "https://www.techjuice.pk/amd-radeon-gpu-driver-debuts-noise-compression-performance-boost-for-free/"
 webUrl: "https://www.techjuice.pk/amd-radeon-gpu-driver-debuts-noise-compression-performance-boost-for-free/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: techjuice.pk
