@@ -1,22 +1,30 @@
 ---
 category: news
 title: "NEC NGSI-LD Scorpio Broker selected for Amazon Web Services' Smart Territories Framework"
-excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The STF is a set of tools and standardized modules that AWS partners and customers can use to build and operate smart solutions and services that adhere to the European Telecommunications Standardization Institute (ETSI) industry standard for context information management,"
-publishedDateTime: 2022-08-01T06:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nec-ngsi-ld-scorpio-broker-selected-amazon-web-/2022/08/01/9647796.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nec-ngsi-ld-scorpio-broker-selected-amazon-web-/2022/08/01/9647796.htm"
+excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The STF is a set of tools and"
+publishedDateTime: 2022-08-01T06:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28282151/nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28282151/nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework"
+ampWebUrl: "https://www.benzinga.com/amp/content/28282151"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28282151"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
+    width: 900
+    height: 594
+    isCached: true
 
 related:
   - title: "NEC Laboratories Europe GmbH: NEC NGSI-LD Scorpio Broker selected for Amazon Web Services' Smart Territories Framework"
@@ -29,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "q+Ti6cCi+7+xrGmCS+GXw+V04vRnuYw1HpmWZhYGFHERYzxw9DLJ2QcR1jzvEjki6b7G0/w9K2PypLTbGizYrET9wn9zeUNB/t57bbZGkgYx8HVvNr0VdCluX6YdSaT4LHoZW6L8NFD/tjmDvUbjzlQfrcWL8HpI/5Bd9d30egqDBP1c+NPLNDTWvqc3+O5qDtvoqQgUcDonBWEGHAxqvD6MjpbXPhN+5CHurXMi/rlbQ1r59fKc7F3wNKmbk8snofjuuM/mpc9PsIkSVmK6oOE/jDzHsZowaAWO8sBd3APsvYyO/wadCiyXTyuTrcG+AZw/Jsmzr+4Etj386WWV+q29HuDLiRGuYdoen9GYCHU=;P1HJpNujjdcCifNrid/FBQ=="
+secured: "anQ9l1kwoEROtSg27v1FjmEcaRZuFnRgHTY40pkrawTynHBg6bLAhNTA+hauPg6N7GSZG4KV+J4qUEEPhFyt/d2UTXMvh/mGEqCFfHQHOftdVdVJahXjb7y5Q3WPOcwyVVIyuMz+KcUOv8q4qOsa0JSzyKqYi+q16ZTN27RfR6Tw8V6XZFmRcTFO05XqnIUqqZC4cnpvN/TK30kuPvKI+nVoQRH/JxPOMJMfYBfHhNeeSr+1f3IJEAefx6pug9mgCsHjhfajm7Il0lqf5E7y7lUcJRdAcFup+eiiBukRsFMFywtnDQcqD8fyIntRVemb9PSyXzinjYAYdByGY1ZYL17wNATkK3YPVVQEFAkZX6E=;k70UQ6rg+ODHQgOg9l2Fig=="
 ---
 

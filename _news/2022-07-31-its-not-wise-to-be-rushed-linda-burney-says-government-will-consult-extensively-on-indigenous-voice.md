@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jul/31/its-not-wise-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/31/its-not-wise-to-be-rushed-linda-burney-says-government-will-consult-extensively-on-indigenous-voice"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 414
     isCached: true
+
+related:
+  - title: "Indigenous Voice: Minister Linda Burney’s bid to win support from Opposition"
+    excerpt: "Minister for Indigenous Australians Linda Burney is trying to win over support from the Opposition for a Voice to Parliament, saying it will bring both practical and symbolic outcomes."
+    publishedDateTime: 2022-08-01T09:34:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-minister-linda-burneys-bid-to-win-support-from-opposition-c-7717943"
+    ampWebUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-minister-linda-burneys-bid-to-win-support-from-opposition-c-7717943.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/federal-politics/indigenous-voice-minister-linda-burneys-bid-to-win-support-from-opposition-c-7717943.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 41
+    images:
+      - url: "https://images.thewest.com.au/publication/C-7717943/b284900e3822d9eb961456c568d81386947b0f8f-16x9-x0y107w2048h1152.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "HYEwHRdUv7FFjyZRpzxQkYh7RAbXTzLDNYWY2kQtRGZTD7u6w5vBHbQBO60UpTsUnBFmlYeROSwrQkwgzsM3DaLuQBPQWoy1CtGmO7Sjn0DDAX612hfMfyxpYnFWS80Vxs0ZmG0hVIrFYqECPwBfFemPcTkwOlnRbExG+L2cQ3oYJM3BDJ5yvGwWbQH7UBgBfsiKaCiD/aXA4tDC8HAsYkPr5nuKP973cqCwH46wNGANMropp8Zo8IMORVo9mLU6kMWLiNWcft3IoVIc12tIgJhIAsezIQJfw7pXnz63aQzLdjMTjO584JF3QuH1QT0sxU4hJrMZOw7ve4khTBZKDv2CfNKcnLMtOQzl2/N5DvQ=;+dBUvGPE16DH/1etk7avpg=="
 ---

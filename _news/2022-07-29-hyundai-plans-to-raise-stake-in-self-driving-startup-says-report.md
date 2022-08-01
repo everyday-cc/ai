@@ -7,7 +7,7 @@ originalUrl: "https://www.carsifu.my/news/hyundai-plans-to-raise-stake-in-self-d
 webUrl: "https://www.carsifu.my/news/hyundai-plans-to-raise-stake-in-self-driving-startup-says-report"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1024
     height: 708
     isCached: true
+
+related:
+  - title: "Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot"
+    excerpt: "Hyundai Motor is considering increasing its stake in, or fully acquiring, the South Korea-based lidar-free autonomous mobility platform 42dot, the latest signal of its growing interest in the fast-growing space."
+    publishedDateTime: 2022-08-01T09:13:00Z
+    webUrl: "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/"
+    ampWebUrl: "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "rNSnC/fxgi+H5nJD6zpOd0erhJM3eKTJfSwlJ9BqYTYOLloPazFfXxQFMbCKd0Om3Has1lmKONkJSTrKdzJIIqh4LxoY/JddFe+iFBcmDV43IFpsgqKVi2Gx03IOCoSfWrqFo6asOQJeDdrbKR43oFBkrVvhFIiSUl0+eOWC5OLZ0J1eAlZQDDS4EJ9hUPz6OvYbPBN7sKV1tZgnRKQtGIeqyVmF8pEF258vKmDB89Ws6s/KAz1HfJ3UDDrCwtzcJKed72nvYRqR4PcKyx2zizseHZTZmRqRDlxAZi2xw+Gc+MF3ociipcrYSIf8xn6fXpYFpR+NshXo+owcK7paxK0u+0YdaNcIfqqALq7DBbVAvXVVt5/q+y9qwHhHDqVzPckz1I6w20fyq/Xi+5x/zvgSeKmXFyikw+cPXwnfmHT8H5pTfFM4+Kazplnq40urXcO72Ey3Luw8XbYYujEuE2eMn26X8qI6hgGpO0ax3Hv3Ehr616yPyCFAW9s8Zw0vWk0SOz6BbJXs15P65XbcUA==;pJSf3Lq61WTbz31CYOSn5w=="
 ---

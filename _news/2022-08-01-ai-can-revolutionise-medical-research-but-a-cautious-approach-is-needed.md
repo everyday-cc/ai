@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/ai-can-revo
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Standard
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI promises to revolutionise medical research"
+    excerpt: "AI is particularly well placed to revolutionise medical research. The technology helps in two vital ways: it optimises research, and it can make discoveries that humans have not. AI is unshackled from the limitations that come with human researchers: it can trawl deep datasets exponentially faster,"
+    publishedDateTime: 2022-08-01T06:59:00Z
+    webUrl: "https://www.theweek.in/news/health/2022/08/01/ai-promises-to-revolutionise-medical-research.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/May/doctor-medical-AI-artificial-intelligence-system-deep-learning-hospital-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "3 ways AI is Revolutionising the Insurance Industry"
     excerpt: "Data science & AI practice, Larsen & Toubro Infotech (LTI) Over the last few years, the insurance industry has experienced a huge acceleration in the pace of digital transformation. According to research by KPMG,"
     publishedDateTime: 2022-07-27T17:13:00Z
@@ -37,6 +51,6 @@ related:
       domain: globalbankingandfinance.com
     quality: 17
 
-secured: "BTy/BmmQ0TUIe+2+tstgpLRwBykSZMoIjxFvesbhOcA+qms3TQom3oUDMg+R+elTpAdsvcKgcRSGxnEQt1rxXy4Y2aKz3CsT4awoBavfOt+FM5Fj7LZlZ1WFP2s2uiav/JT9VOpmaFs3ggPKe9lEa9d5JncsnKEPi7PigwFBN45qrPV025yO9an7e71R/xL4hbEi82qD82tiMvZ0YmLRH0R3RpWp/rIsaHkv/udKM5x69S9YF3TWgWwKtkXxfxD70S0ejHCXBdpK7AEjFKqt6y4LeK18vy5TjWO186oeL9rL4s1ucf1/6zgzU5/bX1R5BNSHo4yMlYKYh2Fi92f037q+UmJiCbPIOEUerkLcHlg=;7EyF/PdKIW69mHkmtM06xw=="
+secured: "p+C6c9hKGiCwrsQqBoOPLIrk9+sth4Oz76lA3JDbDeE/pUVGWHTg1IlggiHkFd5HPJGIjHClnViCYzRk8A1c/+yFHmZYhppXER/vHiL2LpKMD+sU4Ibr2lpdoh46KKZO26FDN/9/+BeGBjO1ne/4/Ae4o3dTU/k6kNzSkAE+AvXaTDEMUyRhnVzpCx7eP0v7rRgushbocSYa53r+VIbr9XRxrYUYR/cZLbi3a9zmR4tU49+jHT1WjU/q3ohFDZIiOOZku0nZaO3Y+6KgaYwQX1FebDcWQWkN7uEU/BQjd9MgjsxqllzcYa3xwT7hs1TkOoATqPHBWeZgxXLEd+rw+fhuwZ+M34NQDFncOMBvgPk9f8XTbSAgiWCIl82w5ZeaVaj7jqjifpv4oFXFvai1gbc5ftJ+u00BXIwpQ0H+3M0N69buKUFCTVoGZ4DTIdsIjj2lLVn9+1isMd5CoIQc3ahtaGhKZiFX1Eq2wyHkonijWOn0HALB5FELQfFIo3x9sm5pOllhJHTr2+cto00wRw==;PgZ/GKKGq06wAXVutNPX7A=="
 ---
 

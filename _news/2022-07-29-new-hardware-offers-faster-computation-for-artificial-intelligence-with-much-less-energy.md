@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Making AI faster and more energy efficient"
-    excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
-    publishedDateTime: 2022-07-28T21:51:00Z
-    webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
-    type: article
-    provider:
-      name: UTA Radio
-      domain: uta.edu
-    quality: 37
-    images:
-      - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
-        width: 964
-        height: 650
-        isCached: true
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
     publishedDateTime: 2022-07-28T21:34:00Z
@@ -82,6 +68,6 @@ related:
         height: 400
         isCached: true
 
-secured: "/oeVbSC9mUMzcM61vbb+UapiL+PuHBnUjvBa56x/GcaIitF1Z0g9hZI1qMAjOxtAjLOlb0rXNn9EQz1LgXo2lwBK9ZdXVLubVu1ZTZ6HwUX7Ib0yJfCFymA/nRDihsCzeYm+CbNL07ntIw9gio4BKafLZz5IxYBe5TR9Xx+O/WL+0uPh8HlW9D/dgZZO9554kWWtQ580dUc4sCyTT5I55ap2r3sCgR4rMadqxSAmprEF7ALeUXr3A5upkTALA7aYRkw+047DMoTWu1LEw08tLIYE61Mld98y8HRokCGrmsXb8g1d389D/5x2KTnmNyFRydgy9vBJ73wkF1xmjIfYLQjBuAUGVYt6Xv6bfvVhWKQ=;TsYCfxqK8xvSX0sPCPVsJg=="
+secured: "b7lPW81gkofWqBmD3NJIv+qiHpqB1Y6vIQ/84JdIt5wQwYTWVBmEMYjoWDa2BHhsmMVctI14ZOHwC9aYTH0WodwiahVNfSKN2UpYUl6zYX+81A2Gr9es/7i5N9i5eOcJCojvZ7cUsfHDkpTmaoEema7XI7ctQ/6t7Wmxmss7PuS/T8WYkuF1clqVGnxHCganWoR9A7dmXV0NrU1YsiV5nBD+zhgjTQyxc0y7yurUujLWWBq2MXHxYYzYhNoLAsajYqFpARc2McpYsj/laWfQcPdM+kXtWVUcmE1MC57gtwU2L1AWWswjItZuqPR6D+kn4mB/pCcH0TYURpr1ihQuTt4tXh6MxP+JFS6eEryzHgU=;skRt/aN6Jr4SppgMJmEI6g=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "FDA clears Viz.ai’s algorithm that detects subdural hemorrhage"
+    excerpt: "Viz.ai announced today that it received FDA 510(k) clearance for its Viz Subdural (SDH) artificial intelligence (AI) algorithm."
+    publishedDateTime: 2022-07-27T17:51:00Z
+    webUrl: "https://www.massdevice.com/fda-clears-viz-ais-algorithm-that-detects-subdural-hemorrhage/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2020/09/Viz.ai_.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "In search of AI bias"
     excerpt: "\"We have built an entire world of bureaucratic legalism and short-sighted monetary incentives that get in the way of actual, compassionate, ethical progress\"—Blake Lemoine. #AI #ethics"
     publishedDateTime: 2022-07-29T13:18:00Z

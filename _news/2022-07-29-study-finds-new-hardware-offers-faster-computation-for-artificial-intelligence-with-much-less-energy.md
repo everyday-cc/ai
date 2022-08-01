@@ -51,20 +51,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
-  - title: "Making AI faster and more energy efficient"
-    excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
-    publishedDateTime: 2022-07-28T21:51:00Z
-    webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
-    type: article
-    provider:
-      name: UTA Radio
-      domain: uta.edu
-    quality: 37
-    images:
-      - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
-        width: 964
-        height: 650
-        isCached: true
   - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
     excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
     publishedDateTime: 2022-07-29T08:01:00Z

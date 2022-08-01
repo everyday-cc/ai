@@ -55,15 +55,6 @@ related:
         width: 1400
         height: 732
         isCached: true
-  - title: "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports"
-    excerpt: "The global Automatic Content Recognition market size is projected to reach USD 4879.5 million by 2028, from USD 1543.8 million in 2021, at a CAGR of 17.4% during 2022-2028. Major"
-    publishedDateTime: 2022-07-27T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automatic-content-recognition-market-size-projected-reach-usd-/2022/07/27/9646049.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
     excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
     publishedDateTime: 2022-07-27T23:28:00Z

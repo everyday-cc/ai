@@ -24,59 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
-    excerpt: "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,"
-    publishedDateTime: 2022-07-29T09:09:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+  - title: "Why AI and machine learning are drifting away from the cloud"
+    excerpt: "Cloud computing isn’t going anywhere, but some companies are shifting their machine learning data and models to their own machines they manage in-house. Adopters are spending less money and getting better performance."
+    publishedDateTime: 2022-08-01T09:30:00Z
+    webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
+    ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
+    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 62
+      name: Protocol
+      domain: protocol.com
+    quality: 74
     images:
-      - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-    publishedDateTime: 2022-07-28T19:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+  - title: "Metaversing Addresses Climate Change and other UN Goals with AI Brainstorming"
+    excerpt: "According to CTO Savannah Partridge, “We as a species need to use whatever methods are most capable of efficiently addressing issues like Climate Change, and we need to do it immediately.” Throughout 2022 Zoom meetings have been held to address the UN’s 17 Agenda for Sustainability Goals using Mind mapping AI software including generateideas."
+    publishedDateTime: 2022-07-28T17:27:00Z
+    webUrl: "https://apnews.com/press-release/send2press/technology-united-nations-oxford-climate-and-environment-046f6645a06beac3be254d449950822b"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
-  - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
-    excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
-    publishedDateTime: 2022-07-28T21:34:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272635944/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
+      name: Associated Press
+      domain: apnews.com
+    quality: 34
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
-    publishedDateTime: 2022-07-29T08:01:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
+  - title: "The dangers of using AI in hiring"
+    excerpt: "Banks that need to fill large volumes of jobs increasingly let AI decide who’s in and who’s out, based on analysis of digital resumes and video interviews. Algorithms can take a more inclusive and less biased view of candidates,"
+    publishedDateTime: 2022-07-29T17:52:00Z
+    webUrl: "https://www.americanbanker.com/news/the-dangers-of-using-ai-in-hiring"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 10
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
 
 secured: "m2HtygmyoRMLHhGSs7TvLmFJcEEMf8t44aYFf2TdJK76djQS6L3g2F3404lEIVEPFAakDT+GbwC/uLopBIf6KXfiLN2ph1tfdVV6q0L6H0oxUCg21vdTX4Q6mR7kAug4yaSBQZnQruWk2YsvcBuHckJ/OLTkAK7uy2I3qhMBiPxRDGLJ36DWqUKdjFiWVF2WFUIdExAORYvQ3fNDbHAHt1Khu3WMufE3QHmByGUgWxewYk/rBF86fCpBGaxgLLRPzD4SdwCXGfSKQ+NE3VT8r0kKTigJhY6jnQ3uln5CeSFEN3MJoS4QPa2hQzhNVjPbf4zZ3cuEHi74k1/Pg2kEksmxg+L50BLJFCaWcujsZGq0Cfv1uwS54+US94sJKn/uGNlWjstghk4Bmr8FzR+1HcMhwBf42pVAls7fIjmak+FRoLAC68dddRKiM0JFo7UThA7p6Cl+CSnakNbgFwtZhGPLHkkh4/OrmtWbwOVwRtSGCX90myhCdreWzzJTYx19+bAykazdmefJiOspDEcnLw==;Km28DxH4wjzvmsKTuUogGA=="
 ---

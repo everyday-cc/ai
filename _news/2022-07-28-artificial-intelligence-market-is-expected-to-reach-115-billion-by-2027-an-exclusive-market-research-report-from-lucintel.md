@@ -64,15 +64,6 @@ related:
         width: 1400
         height: 732
         isCached: true
-  - title: "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports"
-    excerpt: "The global Automatic Content Recognition market size is projected to reach USD 4879.5 million by 2028, from USD 1543.8 million in 2021, at a CAGR of 17.4% during 2022-2028. Major"
-    publishedDateTime: 2022-07-27T15:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automatic-content-recognition-market-size-projected-reach-usd-/2022/07/27/9646049.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PCaiBGuRIHrfy/JMLa65ukCoeWDIY4Jkv2JovHA7TTEr7JW6n08kF6pd8a5J5CJsrS670gt3u4S1lOFodg3xqVWEasF6rv8wdsgiQn3trsFFykpyBnm5Fnk7gJp1WaxZIK29ryuZtaOxhqHbBmXE1tph0rHtgZQuO8p4AGyvACj3JxeTLBO4Mqp7O4SwFZk5ZrGlY5Jg11LR1lZQlpI0bEBgS3Y8CDVG8YseWF9KO3MNZkpaQTbMbZmPhE+HAxxc6T+1UX7h6ZIIBCd5eMXM4ckKp7K+ufgF4JNtF/LfCjVMhhuRQdAaa+qNpJnnt9lOiLbI0nUxO/yVG38o2vzR/eZnMcYzncww0SI5Ce3RHJg=;+ADAB6WnICsFI0SLcoB4kA=="
 ---

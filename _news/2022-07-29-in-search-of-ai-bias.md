@@ -33,6 +33,20 @@ related:
         width: 286
         height: 375
         isCached: true
+  - title: "FDA clears Viz.ai’s algorithm that detects subdural hemorrhage"
+    excerpt: "Viz.ai announced today that it received FDA 510(k) clearance for its Viz Subdural (SDH) artificial intelligence (AI) algorithm."
+    publishedDateTime: 2022-07-27T17:51:00Z
+    webUrl: "https://www.massdevice.com/fda-clears-viz-ais-algorithm-that-detects-subdural-hemorrhage/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2020/09/Viz.ai_.jpg"
+        width: 770
+        height: 500
+        isCached: true
 
 secured: "abw3VfWYyfO+ZqNxVpcnVOOSv8gqaFFkQcNsklDZIrBQN+fPNkPluepx3rTgGW9R6fwCcXipBs+c/yT83AT60Avbw6W7dcBiOWBwlBliRCcQ6yVI+BKOZXmVpeb9BFtd5N7QAdbiuRl7H/OyoAvfUk5h22Cg//mHwwd5qV3fhE7aZA4FVx10cAe810CWWhocokhLb97BahoTBtwoIxNcl0SOIPMmMjkav7Vfu/E/LjstNhKx18R6J3pwQTVm3+S3UurTbTdz0Vjlup3ZyjQiEnqfTDZq7Vf7kUCWrrB7HS/jQ2CbPL93m8Smol3f4vF/Pbe2mYg8y85xl2wAD5Ea7U0FqFU253/UwCrTuMApAwe4/X45yymShPGjBTFTNJn3rkjjzDkLaZa1oLANoSzmTuFp1/EHiMA82wIhKUPQnWmW9AYg6w2QpP+/hSkTnAFBu1qbQiSkxwD8+dlRwnUs5ZAqQ0NsIhS5MoR9+oPty+OGUdWf6t9O/i4Qu4R0ILVZsNo4X9urCAf5S+mFqv/MVQ==;V4akiUry84Otm9o9XDqIXA=="
 ---
