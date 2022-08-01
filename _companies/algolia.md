@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "algolia"
   url: "https://twitter.com/algolia"
-  followers: 24970
+  followers: 24972
 
 size: 201-500 employees
 yearFounded: 2012
@@ -32,7 +32,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1534603198283096070/z6lISBQQ_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1554126722047660035/yPLl_pGt_400x400.png"
     width: 400
     height: 400
     isCached: true
