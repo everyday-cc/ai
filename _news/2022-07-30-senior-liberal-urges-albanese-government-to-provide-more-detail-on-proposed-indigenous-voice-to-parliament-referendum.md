@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australia PM unveils draft Indigenous recognition referendum"
+    excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
+    publishedDateTime: 2022-07-30T11:42:00Z
+    webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Creating a constitutional Voice – the words that could change Australia"
     excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
     publishedDateTime: 2022-07-30T05:12:00Z

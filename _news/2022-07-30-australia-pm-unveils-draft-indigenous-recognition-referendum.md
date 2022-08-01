@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
-excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
-publishedDateTime: 2022-07-31T01:35:00Z
-originalUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
-webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
+title: "Australia PM unveils draft Indigenous recognition referendum"
+excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
+publishedDateTime: 2022-07-30T11:42:00Z
+originalUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
+webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
 type: article
-quality: 18
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: SBS
-  domain: sbs.com.au
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
-    width: 1280
-    height: 720
+  - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -49,20 +53,6 @@ related:
       - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum"
-    excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
-    publishedDateTime: 2022-07-30T11:42:00Z
-    webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Creating a constitutional Voice – the words that could change Australia"
     excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
@@ -288,6 +278,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
+    excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
+    publishedDateTime: 2022-07-31T01:35:00Z
+    webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 18
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
     excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
     publishedDateTime: 2022-07-30T13:53:00Z
@@ -298,6 +302,6 @@ related:
       domain: voanews.com
     quality: 4
 
-secured: "phPuBOzp885UNHb6cCwRe1v+3KSwNF1m1ZdGtfyh6t1X1x7CRktJZWJOT38pRXmbU5xBj9wOueW8cBef5vCh9n0Tl+zVNv3waEfskNZ8qR3gkDxKRh1TCpf2tvqEDioPRSi7C1DBgEz1phppA/gQoro35Zl97qFWmDJeoMk8alv4sHUEv+casLtzToFC+fmXjrDKimJT2sGwCBLq62+K9RK5uVVhDSxVrYWeEA5Q8++K6ZPlMuVII25w4fZmwfmS+5MnSKWwF1lbtwwbrbpVV1jzpQmsbqqTGch42eKdA9m/4tZ0m6eNAngk4xnX5bJzamEmjc7keMke9cI+B3RKhgng7HKKUSg7qCu7C4iaFyQqSq+rMX4ZRSfS3x9URpBcOlkUuI7utv4jMxQEOITUBwbIeblSUMzNvn1lXy7kIygTJN4Aza1inPVWtr57wiHuRTAhtilnr2mP4D1HcpWfZzySN8Ztsp0c84o+jFI4pzwSyNodQDWjNdlO+eOtQfUWs2gunLMjK7iU9Zl/Kku+8Q==;n0q/ZAsHGcvQA7vSzoPnuw=="
+secured: "LDELnPz5GDh3GrKBcDJ5USwRV0Co1aEZ2Amw9iSEcahuYe8scaMRwQDNadVWAU9JT5mE9xidHfE+J9NdrtEFoqj5g9FXk6jyVYVIcxaRW4TQvj8V0U81wFq7u2sSb4mlfysc1UggBbvx5R02nOnfdBfHAWXXTAg4TJEnKcKxjNJcY9GfJIQRr6jIogEDTXfuMfeP+HazgVkL4JXwsleBnwP5Ed6jOzf7x8uYBNuvBGylh1cHn4+luyZfAl91kpddi/WbqYJWPLkaAVVKPRvGCrGaLmeK13HqWyRceNI8FshczzOGBFPgp29j1+pjTu48F0L1EIOidsz67BcescSpC56cBa6+QKoRK8QxiRz6Cqg=;htFNdZiWrZe0/Vo794vLtQ=="
 ---
 

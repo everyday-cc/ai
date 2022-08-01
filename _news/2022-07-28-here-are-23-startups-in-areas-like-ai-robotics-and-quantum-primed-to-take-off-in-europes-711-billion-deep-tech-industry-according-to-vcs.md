@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-t
 webUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7"
 type: article
 quality: 68
-heat: 92
+heat: 88
 published: true
 
 provider:

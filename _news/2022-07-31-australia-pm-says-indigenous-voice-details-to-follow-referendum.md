@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Australia PM unveils draft Indigenous recognition referendum"
+    excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
+    publishedDateTime: 2022-07-30T11:42:00Z
+    webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Creating a constitutional Voice – the words that could change Australia"
     excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."

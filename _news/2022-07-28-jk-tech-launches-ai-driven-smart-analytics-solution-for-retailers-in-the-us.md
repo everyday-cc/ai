@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-b8500cf804
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-b8500cf80468944e5bc928886be42ae5"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Harnessing AI & analytics to establish a smarter, adaptive Supply Chain"
-    excerpt: "Businesses are looking to deploy adaptive Digital Supply Chains that are equipped to deal with uncertainties and can process and analyze."
-    publishedDateTime: 2022-07-27T06:41:00Z
-    webUrl: "https://www.pcquest.com/harnessing-ai-analytics-to-establish-a-smarter-adaptive-supply-chain/"
-    type: article
-    provider:
-      name: PCQuest
-      domain: pcquest.com
-    quality: 39
-    images:
-      - url: "https://www.pcquest.com/wp-content/uploads/2022/07/Harnessing-AI-analytics-to-establish-a-smarter-adaptive-Supply-Chain.jpg"
-        width: 800
-        height: 451
-        isCached: true
 
 secured: "7sivsoKP5FFO3ByHbk6bPi2o/113G+uKgcJoQbmSLhhj0JWiol27kxFmxgi/tnbR0ePojdVYu5GD8BS3jg3v48ScJkLQZ5izvsSXlN+YOZJbMEQo1k7iy+B0441DejGaoAWtTdgMrk9aCr/NVTVtuodgPe1NjauQ7g1oaaRPH2dr5Nag1hdxmR74oc8BSiVZXk8E+3FvoqXqxVQoqKDhty/1fDCMWd8SSdJMxzNcZPhZfO/tdvUBR/CdwpI6JalAyrybW8Rgj12tf27ePZYg2wrbQ6RcFV7cVcEZZLBmuwZQ2O7Kv5V17ds3ulYIpsbbyrEzCkCmqDstfd3KPvnsYYNTZkaNXBmIJrmHGTUCv7c=;ny7o2KXLy1YP/KwjSTfyuA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
 type: article
 quality: 104
-heat: 396
+heat: 394
 published: true
 
 provider:

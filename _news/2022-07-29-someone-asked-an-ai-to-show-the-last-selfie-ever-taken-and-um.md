@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI asked to show an image of the last selfie ever taken on Earth"
-    excerpt: "An artificial intelligence that everyone can try has been asked to show a picture of the last selfie a human ever took on Earth."
-    publishedDateTime: 2022-07-27T05:04:00Z
-    webUrl: "https://www.tweaktown.com/news/87614/ai-asked-to-show-an-image-of-the-last-selfie-ever-taken-on-earth/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "4VtUUjGyblffpkxwG/zDTqs980vqrFKBvu/pzTBuvF95627qLfp6DmmHGyl4cHvpGLN2JQkKucCGSzuXDV6lnpeYdElZ7NOyQCjuDOnq8Mp/GK0ri0cBlnFnZVkoDQcDsfMbagt79QbSZv8zvUOPWH7sJxhwYwbFcM8bmWiF3zsgNcnxowjeBYGrjANRtNShsNI4MnqE0idLghfVuq1qef8Zo8GnbSokFFfzepj/RO+nPnZfkkvN8Id9uh2IhbNncgNph1xAml7GqD3aqMnn6hyGH09TmFJYW9m7Bm/cbZYFbpZWST+AZHYK5A5JENarKo+kbe9LCk7/f/NDijz5wThUa+pOaulNa23LRNy1eusgN713X55Mc/IODfhI0ppDUbrIzI3op7/a4bfJ86qZYru9Tay6GomFLKIzgDWDdvtu0Elo9u8Ni9pKJPFZ4mC9ZpvARXxw8BCZgLU4fNQXtb2xZw5FLAr+OBVtir7FGMBDJCRtRBdbIOGt7fwWfZV0NZooHlT5AiWrl7RzD/FhbA==;uLLv+vHFJSGRwcjhV7b/WA=="
 ---
