@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-rei
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/44658024474_23169e4910_b.jpg"
         width: 1008
         height: 672
+        isCached: true
+  - title: "Nvidia upgrades NeMo Megatron AI toolkit to accelerate AI training"
+    excerpt: "Nvidia created a new NeMo Megatron AI development toolkit to make AI training faster. Nvidia announced a new edition of the NeMo Megatron AI toolkit that"
+    publishedDateTime: 2022-08-01T17:43:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/84818/nvidia-upgrades-nemo-megatron-ai-toolkit-to-accelerate-ai-training/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/CG0A9839-2.jpg"
+        width: 2880
+        height: 1920
         isCached: true
 
 secured: "kxsKAiVyt6EDr/e4/764d+y7otFruNNCij+UxygTbX24VQvLZphBLL5gNnIY15NztM1RJosm+Yb4DrvQg7hV9vlB40cVjBbvaYSoQoJPt3dxPIjmKmhzDYs5mm0IQvhG4j/SklkW/cQecAFqFxYjZikV2q0hofpjcqweIxTuCIsrSB9IWmWKlDJ6mwxhRpYtlCLp5oKuX7hJNFd1P9/hJoRGQge32ASGCx1mLUN+CE+EGA3cbeQX4yfUST116xyeTDm6FUVMVGQ44Y0fHqXbaCabkIq1845a5zS/By0lGwX41WRyXRzsCbNcFudiTGB6xejCp4LpYEDmlOTW0R1LZK0HIWfowQA/N4CCJu5bJxLHfcDPMTrx6f6dx0uG5AZhOrFsaksTNk+p+ysMpRcxvCeOG5zJpSV8xkQ84CbWIKfW8uZlcYsSewiPBdJb2YepSXzXbb3kc0tH+aPQKPCmOMRfJAB7MeqRKUm0qZk9EobVDLgN4wf4agVLqXV6RwptLjTTWYK4WRaiVWMicH+M4g==;oYQOE14g3yNAl0wPyfokQw=="

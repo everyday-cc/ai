@@ -69,15 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
-    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-    publishedDateTime: 2022-07-27T23:28:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "hKcqZ0DOsB44x7KhU8r93HcxGAzLQ+PnglYLWmyHo3ob9JFtddxJTc2RJLtplrqnVLNVPnIYJN9l1nksyqk0Zg30p3Pli/QCW03jm5vD/FJG45Rv8OouycJXvDBKARpTF/K98xHFJrqJve2pl1IwRS6PE6ptWDLLi0ukZ+1SUfTSFVIu5vc0OAfIc4wvTHR1P2VXUuaefAT1OEfaK3p/9aLM8uzhCFsejRuIJgbpo9okyDGKwasvM8qqOm2qM//CDE0RyG8gHHx9eUBaNyOxFT3BQKzZsA/db0Jq+Wboax71a7lSaNtNqIjbjFCN4omaOCu8dpQmOBf5vwtMxQVr5YoRpRtbPxrQlwk1k/6VKfU=;qD1OiKQ8GahwiEGI6VeCYw=="
 ---

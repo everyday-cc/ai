@@ -236,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-28-inside-tiktoks-attempts-to-downplay-the-china-association.md",
+      "title": "Inside TikTok's Attempts to ‘Downplay the China Association’",
+      "excerpt": "Both are explanations of press talking points in English and include a version translated into a European language ... downplay AI.” All three bullet points are the second, third and fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736",
+      "originalUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736/amp",
+      "publishedDateTime": "2022-07-27T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-no-quick-fix-how-openais-dalle-2-illustrated-the-challenges-of-bias-in-ai.md",
       "title": "No quick fix: How OpenAI's DALL·E 2 illustrated the challenges of bias in AI",
       "excerpt": "OpenAI released the second version of its DALL·E image generator in April to rave reviews, but efforts to address societal biases in its output have illustrated systemic underlying problems with AI systems.",
@@ -652,6 +695,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
+      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
+      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959388",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
       "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
       "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
@@ -748,6 +835,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-19-as-ai-language-skills-grow-so-do-scientists-concerns.md",
+      "title": "As AI language skills grow, so do scientists’ concerns",
+      "excerpt": "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/",
+      "originalUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1",
+      "publishedDateTime": "2022-07-18T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-signal-ai-opens-external-intelligence-graph-for-enterprise-use.md",
       "title": "Signal AI opens External Intelligence Graph for enterprise use",
       "excerpt": "Signal AI unveiled its new tool, a data structure that constantly tracks the major and minor events for companies that course through the news sphere each day.",
@@ -798,40 +919,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-as-ai-language-skills-grow-so-do-scientists-concerns.md",
-      "title": "As AI language skills grow, so do scientists’ concerns",
-      "excerpt": "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.idahostatesman.com/news/business/article263559438.html",
-      "originalUrl": "https://www.idahostatesman.com/news/business/article263559438.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.idahostatesman.com/news/business/article263559438.html",
-      "cdnAmpWebUrl": "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article263559438.html",
-      "publishedDateTime": "2022-07-18T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Idaho Statesman",
-        "domain": "idahostatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1266,106 +1353,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2026 with Top Countries Data",
-      "excerpt": "Jul 15, 2022 (The Expresswire) -- Healthcare Natural Language Processing (NLP) Market - Insights: The \"Healthcare Natural Language Processing (NLP) Market\" Research Report gives an inside and out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026-with-top-countries-data-2022-07-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
-      "title": "How artificial intelligence (AI) affects business executives",
-      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
-      "publishedDateTime": "2022-07-15T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing",
-        "AI in Healthcare",
-        "IBM AI",
-        "AI in Autos"
       ]
     }
   ],

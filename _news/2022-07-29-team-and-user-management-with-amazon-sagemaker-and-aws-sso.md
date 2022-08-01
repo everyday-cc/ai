@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-manage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store"
+    excerpt: "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,"
+    publishedDateTime: 2022-08-01T17:58:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png"
+        width: 1199
+        height: 630
+        isCached: true
   - title: "Fine-tune and deploy a summarizer model using the Hugging Face Amazon SageMaker containers bringing your own script"
     excerpt: "There have been many recent advancements in the NLP domain. Pre-trained models and fully managed NLP services have democratised access and adoption of NLP.&nbsp;Amazon Comprehend&nbsp;is a fully managed service that can perform NLP tasks like custom entity recognition, topic modelling, sentiment analysis"
     publishedDateTime: 2022-07-29T18:47:26Z

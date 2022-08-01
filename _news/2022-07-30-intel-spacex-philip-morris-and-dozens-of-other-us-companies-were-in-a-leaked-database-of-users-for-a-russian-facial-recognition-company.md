@@ -28,6 +28,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Leak reveals Western companies with face biometrics licenses from Russia’s NtechLab"
+    excerpt: "Intel, SpaceX, Philip Morris, and several other U.S. companies were spotted in a leaked database of companies that obtained a license to use FindFace."
+    publishedDateTime: 2022-08-01T17:17:00Z
+    webUrl: "https://www.biometricupdate.com/202208/leak-reveals-western-companies-with-face-biometrics-licenses-from-russias-ntechlab"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+
 secured: "lNFqz5MguQN1O8f7BiVYUzbV/ap8qOoNUJRVpQXzhDtQ5VwA79ebG1E2hBYHOTsoAn9+8U5RkHluH5AzSO6oQcFRzrYF16XLtVsT6No7L2HctvbaC8jfTZjdMyXOlHAZh1BAWBum9NE/56/V3hKm69Rif6vxN4NpyCt5M4fo/kSzjlyEmeoevQpMkzqBjWs/1FLmbDDV9iAg8Vwt8Q/tQz6glgqK0u/oTbwnYpgtOMfCJibhmoP9BjWdN6XczL55DofeAD60T/ew8v51rnCvurc6mrGV5OfHRVVIM9n2uSMXZOwnPRux/LAf9cHrS0d7Ikc1POF1fw80EJXZlxhRQ/v+zd+yk61r3dlENbaQiqM7oPD1raSM5MifxuLHRuSMdUNwP2YWwVX4vnDpI/3wHACwGDq9b4I9HFLRAOCKZUV2wVBAhVenYBiyI+GLIrxB1VIgxj0dvueCM4oypPolJMNA2hb9B7Mm/VQ8YpELpnaJtCMdEqHXN3RFlWXkK1DAy0KyBvw78mevZPjoJRDaEA==;sbbuMlUP5nbBb6JLw6fTUA=="
 ---
 

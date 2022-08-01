@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 770
         isCached: true
+  - title: "Pairing imaging, AI may improve colon cancer screening, diagnosis"
+    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering at the McKelvey School of Engineering at Washington University in St. Louis, has combined optical coherence tomography (OCT) and machine learning to develop a colorectal cancer imaging tool that may one day improve the traditional endoscopy currently used by doctors."
+    publishedDateTime: 2022-08-01T17:35:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/colon.jpg"
+        width: 1920
+        height: 1800
+        isCached: true
 
 secured: "gpDCXAsv3sEaXQgGqs9psv3JlnEJEkaRU11VF7lm07Q0HFnfMB/bUuvxtHg67AqLiIpieSh9yxfpfnhfjfmN2t+TW8pf6SYERQYRNQ/hCc9RGy0h6xu8qFJUd3nhNDiAsoyA6Q/QCI9+j9xniuN3uMpPhqF0FvHHckHl9sICFWE//sf/UeAFyYD+Yd/1evgb0eKDOWwxCdkIBJBww/ujtFEuPul+//HNJjmn2hR7GM9wZqPtbFwyiekaLEGYxqsXY8RqRj1ECCtz5IqSaeQ4NLns/86Bf8zuD8yc1i18z9Vel3kqg1So+zftmwNc8jtYv5beID7p7vjPEZEx2+RQiIuoHOw87LLRrzgFzeQA4k0=;wQk5jwbEUU8BHldlBwmFJA=="
 ---

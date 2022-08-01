@@ -2,6 +2,91 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-05-26-navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence.md",
+      "title": "Navy Unmanned Task Force Lead: Common Control System Critical to Enable Artificial Intelligence",
+      "excerpt": "The head of the Navy’s Unmanned Task Force said a control system common for aerial, surface and underwater unmanned systems is still the goal as the Navy develops and fields unmanned systems for the fleet,",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
+      "originalUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seapowermagazine.org/wp-content/uploads/2022/05/MUMT-2-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022.md",
+      "title": "Satya Nadela Announces Microsoft’s New Technologies at Build Conference 2022",
+      "excerpt": "Kindly share this postMicrosoft Build Conference 2022 kicked off on Tuesday May 24 with Microsoft CEO Satya Nadela talking about ten new technologies that are “coming together as a powerful platform” to help developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/05/Microsoft-Build-2022-CEO-speecgh-2-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
       "title": "Backlash over law that would let gardai use facial recognition technology",
       "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
@@ -1041,95 +1126,6 @@
         "Google AI",
         "TensorFlow",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
-      "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
-      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid.md",
-      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid,",
-      "excerpt": "The ML Workbench is a Jupyter-based Python development framework that allows data scientists to quickly build powerful deep learning AI models using connected data. Graph-enabled ML has more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

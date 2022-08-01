@@ -2,21 +2,21 @@
 category: news
 title: "As AI language skills grow, so do scientists’ concerns"
 excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
-publishedDateTime: 2022-07-18T19:18:00Z
-originalUrl: "https://www.idahostatesman.com/news/business/article263559438.html"
-webUrl: "https://www.idahostatesman.com/news/business/article263559438.html"
-ampWebUrl: "https://amp.idahostatesman.com/news/business/article263559438.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article263559438.html"
+publishedDateTime: 2022-07-18T22:55:00Z
+originalUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
+webUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/"
+ampWebUrl: "https://www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/as-ai-language-skills-grow-so-do-scientists-concerns/?amp=1"
 type: article
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "gf4f31EY2uVfTcxpmETFnYM9wsGFV/KrNs4dtrAd+yKShXLHUsC1TI1SEzG8+Z4GT1bqI0Nm9m74GoprcvYwbGVcB1/mPKhvzA+tOIyYOA5oOuCyuE0Zrkun7k+MY08FQdsjg/dQAY3CbLFxbqOflGp1wqgJmX8GRMQuxK2PF6SQ5w5vGihq4Pu2sN7mrdxPNL2hKrub1r+ww5Tzlbz10ep59Oe6W5RrChb2Ag//7BBgQNEqryVi6iQd//iu2QEgfdBFPP6YNqCXyYfj/y0jYVHxdMqQoFSUOvKVXe59w2L1E0b50Nqzw9nm76e34FUagw8TQZ3GVsoNn0i765MmEFYk6sCdkGLrBdRZXMZNkJkzWtxuUUGq8gj2n28fQ79wsOy62/81DoPuiAMp6zmX6S2D4y+hsECz7cdzKMiqpKXclctMXxx2Yl+JP93jIrdYXXReAfaabWeb4TsP8q63mTP6dc4L0q+ioVhbWuC2EBHaNQ52AsCLRMdPm8ftrcPaJgrpnNpFpC+HoH91Ug7HnA==;vXjDhP2SMIIgL4tY9bblIA=="
+secured: "bDa5pRgCu7iFzq6cZ67L4vg+bvNMYcYOqxGFWdosI3a93ORliQMQRzEl//kPk0b2Xj0s8fg4TrzHSGKIx0F4cdAM3TprXqEGCErxHb24vb+9a092TsD6JTpw9s6ewHcmsuLdMCdrOs6Tqvs3xTlIlNuCHQ7ybdafcxwRQkyO3o4ASrNXjoua52TSeZWCx4k/+LngjGv40c5fCFs2hnxwob3XsQRr3rMUVbSr0NDU2YCjNs0iHLQfxQJyAJrTkTzj2LZ9VV+AfvBkrWWEd6E8kxKkWiLlSze5SvTtDg2jEL0QMUxTIOtHEZSaDEAi9U6DRDhvql2MlyLQBdLALLJYpQFIJqvxJmzrXam6dAQg1Amw2DjsQnvQqrD+wl1bgdpjfReXTrDPaMTQITyxvGZ1nqY6imLZuql0NdJa0qbEng6y33yeRf8Rao9reoeIW08k3DBfT/n2L6+6Aaqm7sEu9AOWa2Cof6eDYIb0r/dRAOdSAUxfFoYt8svCq3TrmNzYXOZMdU5M44dhWPRGbSfEcA==;gmjQg1Z2ERunU5BpDsLRYQ=="
 ---
 

@@ -105,7 +105,7 @@
       "originalUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -339,7 +339,7 @@
       "originalUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -442,7 +442,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -546,7 +546,7 @@
       "originalUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -953,7 +953,7 @@
       "originalUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1159,7 +1159,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1194,35 +1194,26 @@
       ]
     },
     {
-      "path": "_news/2022-07-28-smashing-security-podcast-285-ubers-hidden-hack-tips-for-travel-and-ai-accent-fixes.md",
-      "title": "Smashing Security podcast #285: Uber’s hidden hack, tips for travel, and AI accent fixes",
-      "excerpt": "Uber may not face prosecution over its handling of a 2016 data breach – but its former chief security head does; how to defend your digital devices' data while on vacation, and how to change",
+      "path": "_news/2022-07-28-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
+      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
+      "excerpt": "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),",
       "sourceUrl": null,
-      "webUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
-      "originalUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
+      "webUrl": "https://www.eurekalert.org/news-releases/960135",
+      "originalUrl": "https://www.eurekalert.org/news-releases/960135",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://grahamcluley.com/wp-content/uploads/2022/07/ss-episode-285.jpeg",
-          "width": 730,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
-      "cdnAmpWebUrl": "https://grahamcluley-com.cdn.ampproject.org/c/s/grahamcluley.com/smashing-security-podcast-285/",
-      "publishedDateTime": "2022-07-27T16:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Graham Cluley",
-        "domain": "grahamcluley.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1232,8 +1223,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     }
   ],

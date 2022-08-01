@@ -32,6 +32,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store"
+    excerpt: "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,"
+    publishedDateTime: 2022-08-01T17:58:16Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 75
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png"
+        width: 1199
+        height: 630
+        isCached: true
 
 secured: "wjW230gqHaD/sSF4+wSbweiiDH/q+XyRRJbMSzS40ld5+yvaow+NWK4WgRb4aUo5eUnZWeWjAZM0x25hlHyIFbaq5P/yf7WSXQvk2Sr7SJVRECizOgUYc6DTHcqu8MIoh/onKZe4qGFON/cpM42m3fIq4vun8LXULbMkFlzeYQI1EjEYj4hNZvwF9S2pyxVVOVucQ53qfgU91O5mLu2Cv9Q/4nKVSNbAF98UnKYVZ4+Ci/gOmFVG5qdFFojdXtdB67hiXXjHUgWPkpVJjq0/m7ksrNb+wO/WrZNyBJ+g4jGrBfWVx24+PXILDfPitGzf/3Qpk92VD+vbbbSKwt68dFXWIe7frEVAF1aUNl/DgMk=;DxHzbOLDW9tQv+pXOrawbw=="
 ---

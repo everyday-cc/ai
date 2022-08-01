@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-per
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://cdn.newsapi.com.au/image/v1/ffb699e16ac131a7d583e6a66e04343b"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pairing imaging, AI may improve colon cancer screening, diagnosis"
+    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering at the McKelvey School of Engineering at Washington University in St. Louis, has combined optical coherence tomography (OCT) and machine learning to develop a colorectal cancer imaging tool that may one day improve the traditional endoscopy currently used by doctors."
+    publishedDateTime: 2022-08-01T17:35:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/colon.jpg"
+        width: 1920
+        height: 1800
         isCached: true
 
 secured: "MYH+B2NZVgGMQiLy8eUF0x/OUR8jcAyKAMu2FdwRpTx02LH50vfuPwnQ2Th5f4xlnRbV5ytbLfqtkLYAHic2Eqxk5sS2OO7710crgkAQKOj0dyU5v7sLyXjMhGTZegrO85eHXRmyLjfvrm6pfOXaRnooZbaDyF3RrgHMM681m+/l6AWWgkqmVmgTF3k9Ze8NYkGv/7sE5GZVuf91ZeYPQt5zKGKxHdd2Pte9D9HZl9ghJ6PI1/r6lR8bSQ7BZtWs2jhwRScC7FtklUBNp0JUWvZRpRqb6KrjdxXw70JJlMpLhL8u5H1jTs5vWapBPk8uMbbG+7JIJTRaQEJALBlBFoaICmzLkuEIPZPncUWHdMWbAseT4ldpPwr5e/IumF6rVmVyH1Y43JPvC4glHLN9I3xkIKWPPK8v9jzSiOc3U8imDouT8F3a8X0LELYqNjzRrxrsxuhUQEnMeaDA1DkgJ4gPWuyfA8fLWeDGBrLoxUTM9i95IahYO8Diz956FLmzvdXiQROCUOadw6Zbv6LU2A==;BPbDr0Jx56Lo5ukJC5GY+w=="

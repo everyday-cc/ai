@@ -48,15 +48,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 19
-  - title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
-    excerpt: "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
-    publishedDateTime: 2022-07-28T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/960135"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "PUDASbEQRguHZE7UMdq2G498dkc0Chqi98/AoLGxZtSx3BZ+imc/qXkFg9/YdEeK33AqMJ1dYdOrhJ6f5jSF1NuBzu9y1LFpEqr0nO45l0HMfNCyioL1aZwyou3w6R9PfbeIA6Zf64XTQPIaHakeiOQmFvv4jkq5y0p9fZB24PysRx76qtwAAIuh1+Tl40ESLjxGdMC1798m/1EnqxDPC/tg03/dr1olOcTUz8GZ7t79tlNDlZG+XMlOmt9wi37LxpDS7FcDvRLiEYnO6/1N/q1l5nrf5DqIZkc2y0MdRp8C+Plq9i4SFy7/VfaV7T0SJ/DTU/WIsXLA8OaKLZKekUEaln67It1BodCzV1tkukQ=;VaS4JjJuzWMzYUIk1c1zZg=="
 ---

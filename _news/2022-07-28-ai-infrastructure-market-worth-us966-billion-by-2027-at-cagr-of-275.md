@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28237970"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Artificial Intelligence Market is expected to reach $115 Billion by 2027 – An exclusive market research report from Lucintel"
-    excerpt: "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),"
-    publishedDateTime: 2022-07-27T23:28:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-from-lucintel"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "VpCOt5y1Vy77nyFoAO3ksZkwosYOoPhvyFapwbSL+n1I1r2I0Z7vDygzs3CjcrSmiNLfFq0NyRjcTZBcbBJ+I7EqfHOJ2f5LoP/UwMw+gYRa3SKRlcxcW1kuMn0SZg5OTlCbxs0y8BTtSHzqe2Y2TGvPraM/5jwZlDTy0nojF6wI/YEeNQZdra4ErF2+bHNhAoAtymByHY0QSwt+/8Wq1TAuDfMSVfMfDQSM2iVKwcG+0O9Zk5py/+QG+L4N4n+tZ5yl7O/F1f6+S+6Zcle7DGUF6MjIUEv5mkUW+o2JtmmnI5a5Fu4ZW8SPgE/2q1jYSg8c9HKsca6z8mLxMF6JjMTx/DaRQEEQhVELFxa/2YB11cUYFrwvHuxoNK0mDN3noiMxlV5Ao0kc9nsSigAjv8Q0IhPSw+aAj89inDVCPtcBQ29eJRNb0gfO0/SLBzIWZNhF/Ph/2w9DuORPAHUFQlCP+Yz5/ZhzYfZcz8mxXk8KnS+BM2Jxm6sPebti4q0n6qU0q8j5RcRRbNxwH/ycTQ==;iM4ng8LULxeSW5lnzO2IhQ=="
 ---

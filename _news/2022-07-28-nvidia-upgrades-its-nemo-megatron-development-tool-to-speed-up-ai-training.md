@@ -75,6 +75,20 @@ related:
         width: 888
         height: 417
         isCached: true
+  - title: "Nvidia upgrades NeMo Megatron AI toolkit to accelerate AI training"
+    excerpt: "Nvidia created a new NeMo Megatron AI development toolkit to make AI training faster. Nvidia announced a new edition of the NeMo Megatron AI toolkit that"
+    publishedDateTime: 2022-08-01T17:43:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/84818/nvidia-upgrades-nemo-megatron-ai-toolkit-to-accelerate-ai-training/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2019/09/CG0A9839-2.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
 
 secured: "36uAckt/GzW9x88ymkhszAVo06zZ0TyZVcsjyEjfB3zpcn9gwuRJEG0VXB7LwxnUmJBSExT08AK/HnuceHZM3DqbeH+UT88fiM6cwBpKm3PE8+wduJq557OfpYzSDkhZOMGM5d3Co7+LIKeWsXzk+cXfdm3TfT1xUvx9MF14I83UsY4M12RDC6mcN2YyBU6+WFOQIl8Riak4JL/PbAsU4wiyHEln0rz3QoT0qqKEB0cKFLx8wLFHcDCDCRP2prFQmDR/j+IcU77pVa+ht95zPsdhflX0i7WdhLrA8c1omb/JvB07kNW3c+mT4W4yjWvQIhtvT1cba2uHyjGMtUVr3AfjUuJWSPIU2ruMBrZt09mduP9mrlM/Zpwj/FTHw6gB0f8cHpMaMtATdYyNoK7NMzFoA3fgRURcUR8y2H26TF2DduY4KlptMldYr5KwK2vjPU7JT/bLdkkUIwGx8W37T3S0/w+sgJvESvxKwNDSNALdCoiGLdCM6jhKpGyxyTIngBcp+iFV0yUp4gG/fwCgiQ==;5sRmTdJIIZA3ruirwGiODQ=="
 ---
