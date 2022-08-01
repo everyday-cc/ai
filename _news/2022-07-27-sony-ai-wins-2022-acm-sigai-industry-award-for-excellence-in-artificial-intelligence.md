@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
-publishedDateTime: 2022-07-27T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
-webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
+publishedDateTime: 2022-07-27T12:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Ethics
   - AI
 
-secured: "t2qXZM5ZtG62W8lBh2ecYiKfyLwXAZ9DmXvoI6RvJSHTvzjUSHNPzL0/qwiNcgEkJii988h5ths+QXTK66fym9+ROMalZg4Gt2VD1xQI+CmgD1vUyly6YaP50dNv8spvvmA9FHycCuTkzPP/C/BkW3sxT0pEw0Mw/xBbTq0q7jhGCtV8AFYg8WH+8FdhbA6gTecSoQ3RAMPlwdsYIFHpQF5u22qWt9p0qv6AWwYMzwMLYT2ja+QXauUnxupnN4R/RULTvi08lO0OU4bgoJ26Q/wW+Bm8EBCgIPV014QrvdClNy3+AdABbicNi8maCjyF5FFwUsrLFGRJ9/PZ2E8qyOmgxGJpO2PH2RjvbWDfEf0=;5wnPDnhbBHUDuCcxSAV+KA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "+9AWq69swecBRCJwJNFG3G5q+sfQYYcYh3zAf70AW/wQ33xC6UzmNQFpdhm5cDk88BQM6mybS57xyy3FLcNvoupEzmW52qQaOsPn1hXaX/l8i4dXkY4k/bwpL3N+Vve634hN0kpUld19ro6+RSJqltbLHHADrDCTJCYKaL3R9ZPFg2JAjjHFXf8cw4t754SrqP/WwE3lzN0V+Kykw889A9aBXv3eiddQYcWVTAHne4L6pCefgbR05ngMETSDF5o3JH9TNZ96GH9mRdfBoOTYQ4agGYhuOlY7Ai4upWZzYlJ8pm/9uMqEH/7dF2TSyrrGqMmX4iBqfGoW8zZUdAKgAWPYsHDJz8Z83yru+EtZLuY=;fOjaY0bBsM6cflu+DIHuSw=="
 ---
 

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sense Selects Iguazio for AI Chatbot Automation"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
-    publishedDateTime: 2022-07-27T14:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "ui5lTsV9u8FhMeAvfd7UnQUIsFIMrOb4QJTsQ3Sl3KlXiME0qQDBugp0kZZSXp1du7nhYXcvCSlbC3TioeSQGax1HCgr4anxal8J7tPLxG9oXM3pMuIRyysZQ++PWryQOmsv433Lhs3Ce1a0cagBtHqXW3ivN9xmj+aHSnu+HSlJkPVWkGqLlcK3hIs3GlFbLosKfrTGOhfPm5fP7fjGLQjs222BQKROMjqq9ZAGQdJfbDJLcfzb5VqOU39ApMNtNzMmkq4mebUVHYwwniXQP6hcoBy96eJ633lFQYpwbWWDs1JDLxfic0W7cC5EPh8qiVwTtzSE4KhmZXLNDWgJJiHyZ/itVBlaL2ZZL+9G54z/yTa5oSMeiNr1m2iVL+zeUohRU3AXfTryI0gnvue+1dnGnnq+O2senN7yhNCd2PYGOOGacB4np6Oq8JyUD3zPgNX1Xf4IjKsSso6ZMDBtEX5xz7WWNyoGaQAmgGrFImD+iPmNDDTeAh5AQLZgY8gq4nyj+1FcHlHT3FnXxDjlCA==;tyVeheoKc5FI4Abl9fPF3g=="
 ---

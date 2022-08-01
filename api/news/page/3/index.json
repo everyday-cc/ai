@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-27-ai-from-drug-discovery-to-robotics.md",
+      "title": "AI: From Drug Discovery To Robotics",
+      "excerpt": "First, companies began using artificial intelligence to transform drug discovery. Now, they are jumping into the robotics race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-the-benefits-and-risks-of-embracing-ai.md",
       "title": "The Benefits And Risks Of Embracing AI",
       "excerpt": "As business leaders, the most strategic thing we can do is embrace AI as an opportunity to serve our broader business mandates.",
@@ -865,6 +908,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping.md",
+      "title": "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping",
+      "excerpt": "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
       "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
       "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
@@ -1086,91 +1172,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
-      "title": "Beeline Loans launches AI-powered investor loan application",
-      "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
-      "sourceUrl": null,
-      "webUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
-      "originalUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg",
-          "width": 1308,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "cdnAmpWebUrl": "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "publishedDateTime": "2022-07-25T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Providence Business News",
-        "domain": "pbn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
-      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
-      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "publishedDateTime": "2022-07-25T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

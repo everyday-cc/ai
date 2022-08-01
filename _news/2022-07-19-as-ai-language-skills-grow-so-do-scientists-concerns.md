@@ -1,26 +1,22 @@
 ---
 category: news
-title: "As AI Language Skills Grow, So Do Scientists' Concerns"
-excerpt: "Meta says its openness about the data, code and research logbooks in its new language model OPT-175B makes it easier for outside researchers to help identify and mitigate the bias and toxicity that it picks up by ingesting how real people write and communicate."
-publishedDateTime: 2022-07-18T17:06:00Z
-originalUrl: "https://www.law.com/dailybusinessreview/2022/07/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
-webUrl: "https://www.law.com/dailybusinessreview/2022/07/18/as-ai-language-skills-grow-so-do-scientists-concerns/"
+title: "As AI language skills grow, so do scientists’ concerns"
+excerpt: "The tech industry’s latest artificial intelligence constructs can be pretty convincing if you ask them what it feels like to be a sentient computer, or maybe just a dinosaur or squirrel."
+publishedDateTime: 2022-07-18T19:18:00Z
+originalUrl: "https://www.idahostatesman.com/news/business/article263559438.html"
+webUrl: "https://www.idahostatesman.com/news/business/article263559438.html"
+ampWebUrl: "https://amp.idahostatesman.com/news/business/article263559438.html"
+cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/news/business/article263559438.html"
 type: article
 
 provider:
-  name: Law
-  domain: law.com
+  name: Idaho Statesman
+  domain: idahostatesman.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.law.com/contrib/content/uploads/sites/392/2022/07/Artificial-Intelligence_2-767x633.jpg"
-    width: 768
-    height: 633
-    isCached: true
-
-secured: "WEaQnXLEL/DAZEWMzj75eh9yI1RwFtSQmkYx/o1iPAJBktHrD74bwWQfthAGkm4j8B208enkwHnRMF2L/vqJMm4Os9NlaOMJFH2nKFiLlOtB7T8XhCdq0jzcsCTQDYkyFDrF1+oUulDvQs89OgHQjUzuSFsDNNUxkBrn6LTN815Dliz1SH8CaSULv9NRwKyiaS0RL71RVLB8uMqd7/sSfRsM0qrjIGol7z8nBAkgvDh0T9BLk273YaQpMhW3Z9ZTG2v51mHlTc+4ggXVU9P4p3/7hgV9bbyKX6iNoY4awg1s5BXEC7DLzFCUQRTcvvrCutIKMQLWUEOzksBnMP95LBUwdWxvXPq/QJY31j3lnG2jFYRkiyQPH95B0CKiYI4WBh/ZSOV+cpEvzEUsQyuCFEWzoUyHKkJe3ZvCLg8oKsaZWO9xlCWaJiKOFGPslcfvqFywuBhrEOcfV1NZS9V5f9ryagroMT8M12vmIlwq0yJhnufwsRuTtJvYMr2jM284T6v1SjjS4aIgTVDu4GDADA==;daEFJb8I3/5bylwaYPkRdQ=="
+secured: "gf4f31EY2uVfTcxpmETFnYM9wsGFV/KrNs4dtrAd+yKShXLHUsC1TI1SEzG8+Z4GT1bqI0Nm9m74GoprcvYwbGVcB1/mPKhvzA+tOIyYOA5oOuCyuE0Zrkun7k+MY08FQdsjg/dQAY3CbLFxbqOflGp1wqgJmX8GRMQuxK2PF6SQ5w5vGihq4Pu2sN7mrdxPNL2hKrub1r+ww5Tzlbz10ep59Oe6W5RrChb2Ag//7BBgQNEqryVi6iQd//iu2QEgfdBFPP6YNqCXyYfj/y0jYVHxdMqQoFSUOvKVXe59w2L1E0b50Nqzw9nm76e34FUagw8TQZ3GVsoNn0i765MmEFYk6sCdkGLrBdRZXMZNkJkzWtxuUUGq8gj2n28fQ79wsOy62/81DoPuiAMp6zmX6S2D4y+hsECz7cdzKMiqpKXclctMXxx2Yl+JP93jIrdYXXReAfaabWeb4TsP8q63mTP6dc4L0q+ioVhbWuC2EBHaNQ52AsCLRMdPm8ftrcPaJgrpnNpFpC+HoH91Ug7HnA==;vXjDhP2SMIIgL4tY9bblIA=="
 ---
 

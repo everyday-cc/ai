@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28232813"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Canvass AI Named In 2022 CB Insights' Advanced Manufacturing 50 List'"
-    excerpt: "Canvass AI is the first Canadian AI company to feature in Factory Analytics and AI category. TORONTO, July 27, 2022 /PRNewswire/ - Canvass"
-    publishedDateTime: 2022-07-27T13:29:00Z
-    webUrl: "https://menafn.com/1104601514/Canvass-AI-Named-In-2022-CB-Insights-Advanced-Manufacturing-50-List"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
 
 secured: "A/l4g9EftIlaSN94nkL7fSdmYoRZmqPTKI4Q09MHpR2CkzxZ/r1N2wZSrfkMnedtdpS8ikQ0OuV0OIUNsItCZDGN8xOgJPOgV1kYefIQ2BLPpyVcVTHavzQ/0KT95PLfjOqz7VO5WrYxiR+gC0W2acoanVtW0iqTGVd9MMyS18fU5SJfGXvotWHYVJI7Xs02zVtl4OWnbpIbHgriLlJyu15LaOG8oaos8wsJq2kHJfZ/ctxbvPmczoV2SyvBFyxefdM9C7x4dYotJCzPyjg6XO8FdEkvuX0KbapQL7ZmXLWrNq0KUj5lK2ly9OjO6SrHAN9XUdht81dpK3PYDZl/XGXmOrnrZ0cRWMsO+QGiVac=;nnHcc/A8246rJyNLN/LmPg=="
 ---

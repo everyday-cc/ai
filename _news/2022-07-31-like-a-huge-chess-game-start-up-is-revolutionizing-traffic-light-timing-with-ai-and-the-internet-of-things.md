@@ -34,15 +34,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "3 ways AI is Revolutionising the Insurance Industry"
-    excerpt: "Data science & AI practice, Larsen & Toubro Infotech (LTI) Over the last few years, the insurance industry has experienced a huge acceleration in the pace of digital transformation. According to research by KPMG,"
-    publishedDateTime: 2022-07-27T17:13:00Z
-    webUrl: "https://www.globalbankingandfinance.com/3-ways-ai-is-revolutionising-the-insurance-industry/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 17
 
 secured: "0hJ/sC7jxYW5gTRPXju3f9dEmWqsZ5fVLJrmHdGperyQ78CwjeymGWUr64DCjtMHB3u98RihHq5dhpqfjLDnem0Mrv57RddoX0U5roVS5nG3eS6Tz276srJk9TohyqSm35uzM7w7RlZyb5Fj0uPVSt5p8hAK6ZqnPS0K0V1K0FkpHv0bAztqUVZuUZ9PbNWkbqIRTK5ADEp6AchGfBf9oe+U/9RD4egH1KZqnxqWZge2DD7y2CJgCAI+wIwxuCTna2tiJRQy/Mn8d72Dtqri4hjH1RQ7jbeSDCKwb5g82tShqnYQhRyfYs4qcYa2nZxeyJDPZymvHDa/HDHTg5zXr/kuX/eUDTaFDpGpwJk8o2c=;xfqogair3dwkWpdT9Hb0Xw=="
 ---

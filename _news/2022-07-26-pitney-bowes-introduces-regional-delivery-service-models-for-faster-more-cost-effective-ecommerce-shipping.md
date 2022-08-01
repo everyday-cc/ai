@@ -2,40 +2,25 @@
 category: news
 title: "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping"
 excerpt: "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options."
-publishedDateTime: 2022-07-26T15:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pitney-bowes-introduces-regional-delivery-service-models-faster-/2022/07/26/9645131.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pitney-bowes-introduces-regional-delivery-service-models-faster-/2022/07/26/9645131.htm"
+publishedDateTime: 2022-07-26T13:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "How eBay is ramping up AI use in ecommerce behind the scenes"
-    excerpt: "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding."
-    publishedDateTime: 2022-07-29T19:10:00Z
-    webUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/"
-    ampWebUrl: "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all"
-        width: 800
-        height: 533
-        isCached: true
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
 
-secured: "WcCKjRhmlhvCi4VOMjq/IEXI0Yzd9Eh6OGPflKegh4tBJdZ255VWQVqgM5im5sijePe1M3mDcZXacyUJFBjUK4SEHWsJb0Qnd1ZyRyUhUE2pugSi3WLyhYLGMsGW9NTKaD6ZLu2kKAaw0YGAUFIFWxeguzMGXIKSGf7S1iHIkFOClmZbqE0SAWfCGK4Gr3GMc0Q1qwdTO+6qu7kkCSp3G1/L70XZQsz3+0Y1LLGBd30PvPXE0unoUlGV8h5wFM8ek/AHZdsKoi13KQdt7uqatp+ug/hYNeUXwgsmeIQssuYgv51HLOVa85pruo2vVi7xXiuTN1oSEU5OmvJ27saL6zL4Y1F+AE6So8TBCGG3rWw=;JSfFumrkex7NIupW7X/QOw=="
+secured: "nJ4AVt/fwj6SzFgEiCfMZTJS7ymx/FFHN2LX3RCPs2NUpr1KPI4SJqScFT2D0sAeMBYd6dTZt9ZkdhtajSB1yEezYHFl0ZmLv76HecUROL1yUc7CJxy6J4D08F+BfaD3JkWF+mbBi9fbIgyNwn0gJXM/16FDz2Gm64WkGY0pwvzvfM5zGFZNuytr13+aeLZ7Tzyxp6H/0zztYPGHoh3DhNbcVhH6wzxVXEHO/fp8kqTHZEjBzVsp/UzKQPWpB0sVc8dvQazQUhIqz7ncoDN9eSApGyL2gvlmg+F6DleXzYBaoEpHzM1lUWEbPYWpofWnaVf5+hWqorS88b6f++klxh2B7FEZqJlY1GDwLQ5dz+k=;XOYM9Ydl/NYGctZShVHmPw=="
 ---
 

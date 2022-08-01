@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-
 webUrl: "https://interestingengineering.com/science/the-novel-ai-physicist-has-discovered-a-new-realm-of-physics"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Discovers Alternative Physics"
-    excerpt: "A new Columbia University AI program observed physical phenomena and uncovered relevant variables—a necessary precursor to any physics theory. But the variables it discovered were unexpected. Energy,"
-    publishedDateTime: 2022-07-27T13:19:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 41
-    images:
-      - url: "https://scitechdaily.com/images/Columbia-Engineering-Roboticists-Discover-Alternative-Physics-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "The novel AI physicist has discovered a new realm of physics"
     excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
     publishedDateTime: 2022-07-28T15:50:00Z

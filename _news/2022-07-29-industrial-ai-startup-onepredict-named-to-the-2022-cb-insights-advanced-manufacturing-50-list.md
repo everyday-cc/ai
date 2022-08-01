@@ -40,15 +40,6 @@ related:
         width: 900
         height: 594
         isCached: true
-  - title: "Canvass AI Named In 2022 CB Insights' Advanced Manufacturing 50 List'"
-    excerpt: "Canvass AI is the first Canadian AI company to feature in Factory Analytics and AI category. TORONTO, July 27, 2022 /PRNewswire/ - Canvass"
-    publishedDateTime: 2022-07-27T13:29:00Z
-    webUrl: "https://menafn.com/1104601514/Canvass-AI-Named-In-2022-CB-Insights-Advanced-Manufacturing-50-List"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
 
 secured: "7dzsiOtUucJvgXrI1yKAKQenugLIt0XTpuwIzamneQSu6rzcDyX3cuNbtxWfIOqCKCuA0oxR040eHrXQZ2oxVBgCehzKwk8kSlrz8H1YsHK8OVaAJb+K/ppSJs7L+ciIV6xS+eTe2FS+k2cw4O3gOyFuIiEPaD4ZwTd5mgEVVpucb19bjtITIhnsqAGixowpr50UtjrJ2b2M8eyG7ZW8OJmAwb6RCVfzV0Y8pSp0+Ejq0pqKn6YeoeVolWN/DGnUuhaOI2j6448d2263+qZW/Z0u2dKv2P1Q+KR60Qw2BLIOH/HiTwrmojbppPqWozySUZ13C/N/Bh9YrHPpV8HTFY0vCfeXm0DWKRDSzG5c17dm1vmZXqaP/5LAz+TJXPcBQTa0CRtYJmJ9Fxvd7LxQHSIjmwDnnH9e1XaY0UEqmEJmE+Jxtnhk9ggsBQPouFLgWqxGifTQ36VHDYzkdK8E7ZS3kQ2149JuCThRiHkZ2tY+csjb45fnosj8nn3sNKUV06QTQuiPCj0Hd98BxZotOA==;YyPnUZbrEP83/2letwwJHg=="
 ---

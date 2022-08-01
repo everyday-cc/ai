@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Discovers Alternative Physics"
-    excerpt: "A new Columbia University AI program observed physical phenomena and uncovered relevant variables—a necessary precursor to any physics theory. But the variables it discovered were unexpected. Energy,"
-    publishedDateTime: 2022-07-27T13:19:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-discovers-alternative-physics/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 41
-    images:
-      - url: "https://scitechdaily.com/images/Columbia-Engineering-Roboticists-Discover-Alternative-Physics-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "An AI-driven physicist may have uncovered a new form of physics"
     excerpt: "Researchers at the Columbia University may have developed an AI-driven algorithm that could prove revolutionary for the future of physics."
     publishedDateTime: 2022-07-31T01:49:00Z

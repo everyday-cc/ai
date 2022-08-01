@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Technique based on artificial intelligence detects Chagas disease using images taken with smartphone"
-excerpt: "When Brazilian immunologist Helder Nakaya visited Evandro Chagas Institute in Belém (the capital of Pará state, Brazil) in 2017, there was a commotion because one of its best microscopists was retiring and much of the knowledge used for fast and accurate identification of the protozoan Leishmania would be lost."
-publishedDateTime: 2022-07-28T16:37:00Z
-originalUrl: "https://medicalxpress.com/news/2022-07-technique-based-artificial-intelligence-chagas.html"
-webUrl: "https://medicalxpress.com/news/2022-07-technique-based-artificial-intelligence-chagas.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-07-technique-based-artificial-intelligence-chagas.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-technique-based-artificial-intelligence-chagas.amp"
+excerpt: "Brazilian researchers have developed an algorithm to identify the protozoan Trypanosoma cruzi in photographs of blood samples taken with a mobile phone camera. The low-cost method is described in the"
+publishedDateTime: 2022-07-28T16:04:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960222"
+webUrl: "https://www.eurekalert.org/news-releases/960222"
 type: article
-quality: 42
-heat: 42
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/technique-based-on-art.jpg"
-    width: 1000
-    height: 484
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0cf37f7f-b2b3-4639-98e1-3ddff1f146be/Rendition/low-res/Content/Public"
+    width: 700
+    height: 339
     isCached: true
 
-secured: "Mi2ho5tGnxcgkrkymK8FLeX4baXEdjywohmYkqZq3xb1zWjshjnU2woeP/RUkAPB4JU3e18Gd1KcbDADDyGlW9TKUB0hdu+WdinfowsmpfG8K9RX612lSFOV34ASYl2BWPlKlZwv5TKw7Ze26kkqATP6ZhJCpwTfb62/gYNcDEcuw0eUDNZc+tChTZuhH8efx6RTT90EXPvOr3h9WeI/ZeR+c+yHmjbN41+5EsXMQor7kWHL16U9e8zJxOQzqDJ27g1OkEjNZ5NwIFoESjl3HT/7KPaZDoDJHT5kj4RG28QLYzVds5R7Dd9/0aJelvDpsTOw1rzkuuoyol4olZPVOxn2D7I+1LkZRZgbrvbkGy8=;m6HK5+dUZLyewY6/Rb/RjA=="
+secured: "Yhn2t47KeGrguNQzEZOxO/YGbizlisLj8MahuHkaukiU7dOVzzH13PORbrkTRF41+xu6zhHBCnlsORvXtxYVSNjsW79cmj5x3efJz70vLPsMimXxwpo+aQHB4swRm+odi98mjjjFCBCdZqfB/JHqc25XnqSBUpKFDfib2kNcgi5zZ7sMwJ/60ux3MpGUhESxIfgdpCJfWLVNwinMaQBcXsO013VPBsfjBKn5Y6MYZDiqcozsrQx0VT0UsfOwHXFm0/CN9xblGtOQt4NuOhRYAQDx9DPX5yZ98waLk+qZ3ZEIY3LMly7kb/wShnO9Q1gTRQvVatjcfETjsysQbf4xXVYQkGUxeJTVMvMf8FpSXto=;Bn3STJdVXDuHY/b/2XEhmg=="
 ---
 

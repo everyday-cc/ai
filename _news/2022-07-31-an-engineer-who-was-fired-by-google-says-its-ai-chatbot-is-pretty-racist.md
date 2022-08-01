@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sense Selects Iguazio for AI Chatbot Automation"
-    excerpt: "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent"
-    publishedDateTime: 2022-07-27T14:54:00Z
-    webUrl: "https://www.datanami.com/this-just-in/sense-selects-iguazio-for-ai-chatbot-automation/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
   - title: "Engineer who said AI was sentient fired by Google"
     excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
     publishedDateTime: 2022-07-28T09:59:00Z

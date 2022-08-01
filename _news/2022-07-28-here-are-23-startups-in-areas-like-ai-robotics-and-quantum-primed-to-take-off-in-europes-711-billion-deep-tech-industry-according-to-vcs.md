@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-t
 webUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s Potential to Tackle Crime in Europe"
-    excerpt: "In the years to come, artificial intelligence will be a key feature of cross border criminal investigations, a joint report by Eurojust and eu-LISA, the union’s official IT agency found."
-    publishedDateTime: 2022-07-27T14:28:00Z
-    webUrl: "https://www.occrp.org/en/daily/16615-ai-s-potential-to-tackle-crime-in-europe"
-    type: article
-    provider:
-      name: OCCRP
-      domain: occrp.org
-    quality: 39
-    images:
-      - url: "https://www.occrp.org/images/stories/CCWatch/daily/Artificial_Intelligence_copy.jpg"
-        width: 400
-        height: 320
-        isCached: true
   - title: "Meet the 23 biotech startups that are set to take off in the next 12 months, according to top VCs"
     excerpt: "Biotech investors look at hundreds of startups each year, trying to find the best new companies. Here are the privately held, venture-backed businesses they think will take off."
     publishedDateTime: 2022-07-28T12:00:00Z

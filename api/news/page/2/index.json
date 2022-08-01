@@ -424,7 +424,7 @@
       "originalUrl": "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1054,7 +1054,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1193,36 +1193,36 @@
       ]
     },
     {
-      "path": "_news/2022-07-27-ai-from-drug-discovery-to-robotics.md",
-      "title": "AI: From Drug Discovery To Robotics",
-      "excerpt": "First, companies began using artificial intelligence to transform drug discovery. Now, they are jumping into the robotics race.",
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T05:15:00-07:00",
+      "publishedDateTime": "2022-07-27T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1231,7 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

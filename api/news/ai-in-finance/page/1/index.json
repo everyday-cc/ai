@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping.md",
+      "title": "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping",
+      "excerpt": "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
       "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
       "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
@@ -1259,49 +1302,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam.md",
-      "title": "Fintech SaaS Platform Lentra AI Acquires AI-Startup TheDataTeam",
-      "excerpt": "Bessemer Venture Partners and SIG as its investors Fintech SaaS startup, Lentra AI has acquired Chennai-based AI startup TheDataTeam (TDT) for an undisclosed amount. Following this acquisition ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
-      "originalUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/06/social-5-1.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-platform-lentra-ai-acquires-ai-startup-thedatateam/amp/",
-      "publishedDateTime": "2022-06-28T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
