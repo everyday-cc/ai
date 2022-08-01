@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Mint
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI predicts what 'last selfies' before end of the world will look like. Pics, video inside"
+    excerpt: "A video created by the AI program shows a battered, bruised and disfigured man appears to look around what seems like a post-apocalyptic world before smiling painfully for a selfie."
+    publishedDateTime: 2022-08-01T10:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 47
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/Collage-Maker-01-Aug-2022-03.56-PM-770x435.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "AI program predicts what ‘last’ selfies on Earth will look like"
     excerpt: "Horrifying images of what the “last” selfies taken on Earth may look like have been depicted by DALL-E 2, an artificially intelligent image generator. The haunting images, which look straight out of a Hollywood horror blockbuster,"
     publishedDateTime: 2022-07-29T13:29:00Z

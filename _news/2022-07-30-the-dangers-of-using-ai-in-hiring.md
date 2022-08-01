@@ -29,7 +29,7 @@ related:
     provider:
       name: Protocol
       domain: protocol.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
         width: 1920

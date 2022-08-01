@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
-    excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
-    publishedDateTime: 2022-07-29T12:30:00Z
-    webUrl: "https://thewest.com.au/news/indigenous-australians/indigenous-recognition-prime-minister-anthony-albaneses-garma-festival-speech-builds-referendum-momentum--c-7681574"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 0
-
 secured: "HjUvJ7N7uQWDlkeGgR9xiIUWW3ln5i+/5/CkzP6y/6f3tHNd8b5qNoIT/mY8TBJvC//jWKACiT/sx7vIZffRh9b7fqkFECdUpWezRMqpPcxZqwY55pw6gC3YgWGGODqgydOasF03KF3CK0+4XbX/xytl4gfe77Da/IOdI12CTU+NbjIXJhvV9X4vkW0A0HdNfUUy2Saby+ouFpVK6ukv1mbZOOPwbEM0LWEVAgj3U8havlk2JyCYCxUfd70WuXCKMpFThdFyNgl6/D3vmbv3bUK1/16OOkrAGIyIL6Rh6Nj4p35kSg68h0o3KcJVqjNWMEBV8rCemUwcjEsoJk88Ka5HaP8nBr85Vkk+vRewqco=;UMH2U3Xuu7C4qdM7vo9tGw=="
 ---
 

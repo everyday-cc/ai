@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
+    excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"
+    publishedDateTime: 2022-08-01T11:12:00Z
+    webUrl: "https://www.voanews.com/a/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    ampWebUrl: "https://www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 34
+    images:
+      - url: "https://gdb.voanews.com/1F7DF6CE-90C0-46C5-8C96-CE7112CBE3F4_w1080_h608_s.jpg"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Australia plans Indigenous recognition"
     excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
     publishedDateTime: 2022-07-30T16:31:00Z

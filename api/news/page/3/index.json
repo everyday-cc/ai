@@ -149,6 +149,39 @@
       ]
     },
     {
+      "path": "_news/2022-07-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom.md",
+      "title": "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com",
+      "excerpt": "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-ai-from-drug-discovery-to-robotics.md",
       "title": "AI: From Drug Discovery To Robotics",
       "excerpt": "First, companies began using artificial intelligence to transform drug discovery. Now, they are jumping into the robotics race.",
@@ -531,17 +564,17 @@
       "title": "Lawmakers seek limits on facial recognition",
       "excerpt": "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
-      "originalUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
+      "webUrl": "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html",
+      "originalUrl": "https://www.gloucestertimes.com/news/lawmakers-seek-limits-on-facial-recognition/article_f0658514-062f-521b-9bb6-a8c0998118ad.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "url": "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/custom/image/f7ca64c6-9798-11e5-8fc6-73d2f281fad3.jpg?resize=600%2C315",
           "width": 600,
-          "height": 333,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -554,8 +587,8 @@
       "publishedDateTime": "2022-07-26T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Gloucester Daily Times",
+        "domain": "gloucestertimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -715,6 +748,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products.md",
+      "title": "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products",
+      "excerpt": "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1095,101 +1171,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
-      "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
-      "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-experts-weigh-in-on-voice-control-technologys-pros-cons-and-future.md",
-      "title": "Experts Weigh In On Voice Control Technology’s Pros, Cons And Future",
-      "excerpt": "Perhaps you’ve had desperate moments with voice control technology in your own home when you just wanted to shut the whole thing down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "originalUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "publishedDateTime": "2022-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

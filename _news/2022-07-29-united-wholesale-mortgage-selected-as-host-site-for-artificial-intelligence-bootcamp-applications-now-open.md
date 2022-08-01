@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artific
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Mark Cuban Foundation Selects United Wholesale in Pontiac as AI Bootcamp Site"
-    excerpt: "United Wholesale Mortgage in Pontiac will host a Mark Cuban Foundation AI Bootcamp for high school students in October and November."
-    publishedDateTime: 2022-07-29T15:11:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/mark-cuban-foundation-selects-united-wholesale-in-pontiac-as-ai-bootcamp-site/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 36
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/07/UWMCuban-800.jpeg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "Kzo6HXynEV+IfJHZyJI9+sCm1aqpmYB60sG+lZw7Yd9nVkZO1dlZ3CXCnN7Avye+08mcYJNowGuD1ocQlHQjS9RskLCWBHXMcp0HZHP/gb99UtSq27uhRESK2PFqfuAVzrpNQ9D8WFoMzsKXhAmrFT6S2jRgsOWtMKO1UIKxMhUdgh4hlO2KEj8FuXpNOtTPfV/rk69QAR6rGWuGJ1eHBFQBlCggM0AXuuPRhnlMokI51cYdlIg0Fzi64e8tT//V1yNUpGD6lwUg47B+F7bVK9r8iZLiXijobVhdZbDr5l0Y3hNkctG77emWRleewlsxmWWb4EHS4uYRq0AmslhdxDlumfK4SIyE1LnBYlqdDws=;xpt6VmTojOkYRVwiCieFaA=="
 ---

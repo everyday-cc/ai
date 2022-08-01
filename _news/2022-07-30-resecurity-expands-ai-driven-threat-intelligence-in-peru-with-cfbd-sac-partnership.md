@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Anomali Appoints Cyber Security Expert Steve Benton as Vice President and General Manager to Expand Growth of Anomali Intelligence-Driven Solutions"
+    excerpt: "Anomali, a leader in intelligence-driven extended detection and response (XDR) cybersecurity solutions, today announced that Steve Benton has been appointed to the position of Vice President of Anomali Threat Research (ATR) and General Manager of the Anomali Belfast,"
+    publishedDateTime: 2022-08-01T09:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-e4a29886725e4daba07193b1dda70422"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 1
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "A+VvG1awxbaZzqwL8TvtxFPB5z4fGRmr5R407B2bPhV4hElxTZNPncLT8C7I13nf70cjspe9Jr4CPDukHeReT5fl7H9rlfgRmMpsZRZEgiZnG0eA8DQCsvPgmllQPEykF6cgaxtg7Emft6+k7irL93wiy+HQkOpj0HSgmunam1mDsMQJfij0+0qDO07Fh8sY8gcBciRQ1oaCC056eQyAAOB2KpEjY9aWXsI8JvpYsm4T8k9KDEc4qClIkLOKqq09iEN0pRjbdk9afjVlRwL4UqmyfIhr9dwFu1j3vDOI1JDrBLnw5UK91+HVFjLipDFKnb+WVFnO2gaXmUDb9k/gDhBFDwq5ttSDceglr6fdxl87h4rCPk5PS/sysWyQJrNH1KRFvtBmcr2u5QxzWMw0yTRF/kDyZ6aTJMG3MxhOFfZgH5LczHrAN4Ur2EIjzIID+1LeirJ8OrqDMTLmhwDxqZtbG6tghY+wBZO5KsNnXWmrWS7Mdc+Hx/TOzOvYDdfBGfLPhFK5z1TV02p7bWw8sg==;3n10ApH8xB9D6POB1Lm4Mg=="
 ---
 

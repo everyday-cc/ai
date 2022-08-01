@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-22-baidus-latest-robotaxi-has-a-removable-steering-wheel.md",
+      "title": "Baidu's latest robotaxi has a removable steering wheel",
+      "excerpt": "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "originalUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f",
+          "width": 1920,
+          "height": 1281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
+      "publishedDateTime": "2022-07-22T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-african-artificial-intelligence-in-aviation-market-key-players-trends-and-drivers-researchandmarketscom.md",
+      "title": "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com",
+      "excerpt": "The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market. Moreover, the report provides deep insights into demand forecasts,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T04:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025.md",
       "title": "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025",
       "excerpt": "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,",
@@ -1056,101 +1151,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics.md",
-      "title": "Sign up for free and tune in today for TC Sessions: Robotics",
-      "excerpt": "Robotics is finally here, and we can’t wait to get things started! If you don’t have your free pass yet, no worries — sign in here to register. Then join more than 3,000 global attendees online for a full day exploring the latest news,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_0-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services.md",
-      "title": "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services",
-      "excerpt": "EXL (NASDAQ:EXLS), a leading data analytics and digital operations and solutions company, today announced that it has been named a Major Player in the IDC MarketScape:",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28153084/exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28153084",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28153084",
-      "publishedDateTime": "2022-07-21T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

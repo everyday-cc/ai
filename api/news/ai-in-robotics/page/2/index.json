@@ -144,6 +144,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-18-bc-if-your-child-isnt-learning-robotics-what-are-they-learning.md",
+      "title": "BC: If Your Child Isn’t Learning Robotics; What Are They Learning?",
+      "excerpt": "Robotics is the conception, design, construction and control of robots to assist humans ... How it helps the proper development of the brain and mind, fosters healthy competition, and instils ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
+      "originalUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2022/07/18091906/learning-child.jpg",
+          "width": 740,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/bc-if-your-child-isnt-learning-robotics-what-are-they-learning/?amp",
+      "publishedDateTime": "2022-07-18T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-this-robot-dog-just-taught-itself-to-walk.md",
       "title": "This robot dog just taught itself to walk",
       "excerpt": "The robot dog is waving its legs in the air like an exasperated beetle. After 10 minutes of struggling, it manages to roll over to its front. Half an hour in, the robot is taking its first clumsy steps,",
@@ -1306,49 +1349,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
-      "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
-      "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
-      "publishedDateTime": "2022-07-08T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

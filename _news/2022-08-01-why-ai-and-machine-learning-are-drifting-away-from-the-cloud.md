@@ -8,8 +8,8 @@ webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
 ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
 type: article
-quality: 74
-heat: 104
+quality: 76
+heat: 106
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
@@ -65,6 +66,6 @@ related:
       domain: americanbanker.com
     quality: 19
 
-secured: "ccBnYxvkR936XnMUPFECG62KCZPUeujyrVtEIzvQJ0YT+E9qxGi9bvtCYgFPO9HN1Jy4DCHjZ8e6baU0CAKYZ6JTZ+bEgedY5v3oDf5D/SiyItPKGDYwZErk4FmRm4s5UzrEjgOZquRU3eYIvb1qnuLUMyexPGMxmRTZ0uiKfJuK9wY5gBNzmW830zBjzgtV36m/xZCgn9IaF8yahPrOdv1E+BcQ9CqymyLLc8cK9zt0UZN5/BSSwm0wb3Dc7P0qdL296B9hplQIm0aAxc3hkAcxRl/DJB3Yh0lGZ9sJonPjyO3YN4Cs2ogK6ZtTR1KQLwV7au+GL+Ea7XS2D0c2CHz0/sN6SCfmmdjCv0Dbx0I=;BrtvwMi5VEGfso3ZneM40w=="
+secured: "Ebz2lA3+lHb7Ex0hzHtz7pche77RR7MrfcuVOZB7jqU4fNKuzu7mUnvDWCDkWYzvoIodWbOE/IDDCdZWoI86j8ZQzR6XaW3v+2cQZ6V9Izxv+UWu/HeDL1On2TfT3sJU2JWu4g/+iH14OZmW+IjAmkPVIf2CBHiNPmaJi2+HVajTV1NR5+ee1/obK5/bLfr5lt0fhW1NmqnJMIYAVoS8xkR93MgvZ7Gg8PmWILrcvgPG4l+mfYg2fat6U1U4uHoR9Jc6LiuisV9ZXLEpZxQwvF9m0NPYUlf871D/0L+4T7icFmyi3zGC5ET4zhEz0F2W/evpxGeM8jmHZD5yq9uJw2u+5v/LzXT9oyBn+C2yjRJx2Zki/D2yGILlXb6Ahaad/D3wizRw7oMPyj7h32fgqaoStmC0oFlKIwRiUN2n3i/iCUBdU2sTYZEXSeQdrmDSptnVkZiew7xcGCLK55/vywDCXSuiwMhCIYfAZ4JWmo3TyD6ZwIkbLgcIiiiX6DVyb24CtGSAaAQX5IQLaH67qw==;Y3ZdZt0NO5u0nB2ixHcBRw=="
 ---
 

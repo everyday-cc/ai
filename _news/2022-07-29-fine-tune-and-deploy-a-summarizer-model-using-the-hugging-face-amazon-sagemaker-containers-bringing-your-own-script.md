@@ -32,15 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
-  - title: "Integrate Amazon SageMaker Data Wrangler with MLOps workflows"
-    excerpt: "As enterprises move from running ad hoc machine learning (ML) models to using AI/ML to transform their business at scale, the adoption of ML Operations (MLOps) becomes inevitable. As shown in the following figure, the ML lifecycle begins with framing a business problem as an ML use case followed by a"
-    publishedDateTime: 2022-07-27T18:00:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "wjW230gqHaD/sSF4+wSbweiiDH/q+XyRRJbMSzS40ld5+yvaow+NWK4WgRb4aUo5eUnZWeWjAZM0x25hlHyIFbaq5P/yf7WSXQvk2Sr7SJVRECizOgUYc6DTHcqu8MIoh/onKZe4qGFON/cpM42m3fIq4vun8LXULbMkFlzeYQI1EjEYj4hNZvwF9S2pyxVVOVucQ53qfgU91O5mLu2Cv9Q/4nKVSNbAF98UnKYVZ4+Ci/gOmFVG5qdFFojdXtdB67hiXXjHUgWPkpVJjq0/m7ksrNb+wO/WrZNyBJ+g4jGrBfWVx24+PXILDfPitGzf/3Qpk92VD+vbbbSKwt68dFXWIe7frEVAF1aUNl/DgMk=;DxHzbOLDW9tQv+pXOrawbw=="
 ---

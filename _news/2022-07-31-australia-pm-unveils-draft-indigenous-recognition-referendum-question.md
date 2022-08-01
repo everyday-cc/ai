@@ -142,6 +142,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
+    excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"
+    publishedDateTime: 2022-08-01T11:12:00Z
+    webUrl: "https://www.voanews.com/a/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    ampWebUrl: "https://www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 34
+    images:
+      - url: "https://gdb.voanews.com/1F7DF6CE-90C0-46C5-8C96-CE7112CBE3F4_w1080_h608_s.jpg"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Albanese commits to referendum on an Indigenous Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese (left) shakes hands with Yothu Yindi Foundation chair Galarrwuy Yunupingu after delivering a speech to Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land,"
     publishedDateTime: 2022-07-30T02:30:00Z

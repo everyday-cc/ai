@@ -8,8 +8,8 @@ webUrl: "https://www.timesnownews.com/columns/are-we-being-kept-in-the-dark-abou
 ampWebUrl: "https://www.timesnownews.com/columns/are-we-being-kept-in-the-dark-about-artificial-intelligence-article-93267551/amp"
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/columns/are-we-being-kept-in-the-dark-about-artificial-intelligence-article-93267551/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://static.tnn.in/thumb/msid-93267551,imgsize-100,width-1280,height-720,resizemode-75/93267551.jpg"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WBq2bZvdPnPOnx+cV/hMhhxkaabHirIz+BgyP/NQ17II+nwNLj8yFDb8flBEvYCbIeT2GLQG9aunhkBIS4Lqxs7YJVO/JX3FXawDP0R5H0kprcmN5krRkikzVWvaEOjHS7zaUulNCZa2olFo5ruHt5wnHDKm1W+TIv7vwKUhN9ojjaAwSWSFMGLmQaabbNojHBEWzRxD9N1na7X9vSEP82N2wviNIbnddXVNCfBcBpVXUmruKDNRQRW+RoddiB6Z27PpAWlujvtnzyRpP5WQb8BL9srAMm7dyIJpq3h9cilRQ3A3TIa2sx/KK+6MYDUYriS5BcLBMmdasCpxBLsMTu0Q59jibPDQjYHSVgBeuv8=;wChBv9phbnNiPrMlOtf6fg=="
+secured: "/p8bHYnzCCiSvC/DPqMQmn4sbwUoY8xAjC3rxJJKTFb9W6thJ7pSw3TPeKorYXUs6CDpXqODAY+Wm/uIhQHPuzWqsBPuG5oC8cwPnrqQJZiWeY0mb//AfmqtvArpbPJn7tsCdUJkvt61e7106/6oPuIW40tMuR2W49KD/PCCTvE6oKRDXjaOdShU/Ra7Br8vtNSsXOJOyLVc1J7Ma9+cZG5N9JCH3EZYmYxC2wYu6ww3YwL63Ixpmqwr5gnJaLdG1apaQog38aocpML7cFeCXSwApYMZZOengsd8rQ9tRRNHotKW+p01ZlyiPmyo3eN97hE4Iv9buiSMeeiMoMU0x0q2yEqCYUpiuZNfOT0Zubx52MhCfhIkOrwwdPGK+WyFDZeBOrBpLnu8NNzXMwHD8pF0rrZGB3O2Tsc1XP3fp0gZ3uIJsDDtYIsJNeb+cBVsyHeYlEUXkkk3aS4qdumT2vTshYieLkVW0YLbe+Ocsry8bfxJIfDv372/eLFKGY1ZWEpU6Kk4J7pUc0+LFRlbrw==;xnaf3dKXSYbPmXxthGGcjQ=="
 ---
 

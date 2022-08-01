@@ -10,7 +10,7 @@
       "originalUrl": "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -93,49 +94,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed.md",
-      "title": "AI can revolutionise medical research, but a cautious approach is needed",
-      "excerpt": "One week social-media users are generating and sharing amusing images using AI, the next we hear AI can predict the structure of over 200 million proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "publishedDateTime": "2022-07-31T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -389,7 +347,7 @@
       "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -525,6 +483,48 @@
         "AI Hardware",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos.md",
+      "title": "AI predicts how last selfies of Earth before it dies will look like, See photos",
+      "excerpt": "The haunting pictures of how the last selfies before Earth dies will look like, were shared by an account named 'Robot Overloads' on TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html",
+      "originalUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/30/600x338/Earth_1659168071219_1659168071477_1659168071477.PNG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html",
+      "publishedDateTime": "2022-07-30T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -796,7 +796,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",

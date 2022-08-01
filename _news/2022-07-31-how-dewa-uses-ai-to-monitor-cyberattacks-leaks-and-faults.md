@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattack
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "AI use helps DEWA bring water losses down to among lowest in the world"
+    excerpt: "DEWA now uses AI to improve the efficiency of operations in its water network, monitor cyberattacks, leaks, and find faults and isolate and repair them immediately AI use helps DEWA bring water losses down to among lowest in the world Artificial intelligence,"
+    publishedDateTime: 2022-08-01T11:40:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-use-helps-dewa-bring-water-losses-down-to-among-lowest-in-the-world"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 17
 
 secured: "+ETNcBdFHn2HybGKt6ID0l7d9ZtANlwtzYunlvItsD17JrS/vEH2IV0fDSUvIAdU1gsxWpcxTJPlpXuWDhfQJAchyqLeaGgSVtlwr8qvxQ3C0WPv2lxUo5lC+gGFHqZAwrsrQpcomiSftF7vAaBpMwa2DKySJiHbDaXnYdDCY77MaWl2H9sNr4paRoV3Dm4X+sEtMIhlcHg9eKdQ0NaIAFRVMg6Wl25WTLlPfdMsWhj37IYTqA3mDH1ImQjFGUwWohO6NcAw+u/z4YsjcuoxB3hajQt0Zehb13Lgjl1n4VX+PF2+dGdrmw94s3+g8HRkYEmnzC3IwtTHzlcglOZX2OTnEOmxLeYvYayXLAXUWrc=;5pPMLbAoC5AzjcDtY0rMZA=="
 ---

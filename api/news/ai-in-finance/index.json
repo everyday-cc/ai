@@ -356,6 +356,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu.md",
+      "title": "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu",
+      "excerpt": "ViableEdu will leverage Fusemachines' AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
       "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
       "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
@@ -402,19 +436,19 @@
     {
       "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
       "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
-      "excerpt": "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers.",
+      "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "webUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
+      "originalUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/5d/b5dc9d28-25b0-5748-bb91-5e946d0a6c48/62d6afcd1a645.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -427,8 +461,8 @@
       "publishedDateTime": "2022-07-19T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1260,58 +1294,6 @@
         "Microsoft AI",
         "AI in Finance",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-april-taps-ai-to-help-personalize-and-autofill-tax-filings.md",
-      "title": "April taps AI to help personalize and autofill tax filings",
-      "excerpt": "April, a startup developing a system to help personalize tax filings by pulling information from various apps and systems, has raised $30 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "originalUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/closed_loop1.png?w=444",
-          "width": 444,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "publishedDateTime": "2022-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-manage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Integrate Amazon SageMaker Data Wrangler with MLOps workflows"
-    excerpt: "As enterprises move from running ad hoc machine learning (ML) models to using AI/ML to transform their business at scale, the adoption of ML Operations (MLOps) becomes inevitable. As shown in the following figure, the ML lifecycle begins with framing a business problem as an ML use case followed by a"
-    publishedDateTime: 2022-07-27T18:00:49Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-sagemaker-data-wrangler-with-mlops-workflows/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "Fine-tune and deploy a summarizer model using the Hugging Face Amazon SageMaker containers bringing your own script"
     excerpt: "There have been many recent advancements in the NLP domain. Pre-trained models and fully managed NLP services have democratised access and adoption of NLP.&nbsp;Amazon Comprehend&nbsp;is a fully managed service that can perform NLP tasks like custom entity recognition, topic modelling, sentiment analysis"
     publishedDateTime: 2022-07-29T18:47:26Z

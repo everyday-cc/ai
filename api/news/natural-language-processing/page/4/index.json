@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-26-best-speech-recognition-software-for-windows-10.md",
+      "title": "Best Speech Recognition software for Windows 10",
+      "excerpt": "Speech Recognition software is clearly a glimpse into the future. They are programs that use your voice to understand what you want, turn into the readable material and search a device for it when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
+      "originalUrl": "https://www.thewindowsclub.com/speech-recognition-software-windows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-debate-over-ai-sentience-marks-a-watershed-moment.md",
+      "title": "Debate over AI sentience marks a watershed moment",
+      "excerpt": "The debate over sentience in AI is evidence of not only how far AI systems have come, but also suggestive of where they are going.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
+      "originalUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1148109721-KTSDESIGNSCIENCE-PHOTO-LIBRARY.jpg?fit=800%2C399&strip=all",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/25/debate-over-ai-sentience-marks-a-watershed-moment/amp/",
+      "publishedDateTime": "2022-06-25T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market.",
@@ -1262,111 +1349,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-natural-language-processing-market-forecast-2022-2028-cagr-294.md",
-      "title": "Natural Language Processing Market Forecast [2022-2028] | CAGR 29.4%",
-      "excerpt": "Jun 16, 2022 (The Expresswire) -- The global “Natural Language Processing Market Size” is rising with a steady CAGR and expected to generate the highest revenue by 2029. Fortune Business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T22:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-customize-pronunciations-using-amazon-polly.md",
-      "title": "Customize pronunciations using Amazon Polly",
-      "excerpt": "Amazon Polly breathes life into text by converting it into lifelike speech. This empowers developers and businesses to create applications that can converse in real time, thereby offering an enhanced interactive experience. Text-to-speech (TTS) in Amazon Polly supports a variety of languages and locales,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/customizing-pronounciation.jpg",
-          "width": 1248,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T13:42:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

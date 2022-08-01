@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
+      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
+      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959388",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
+      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
+      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
+      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
+      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
+      "publishedDateTime": "2022-07-19T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
       "title": "Should We Worry About Artificial Intelligence?",
       "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
@@ -691,19 +829,19 @@
     {
       "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
       "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
-      "excerpt": "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers.",
+      "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "webUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
+      "originalUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/5d/b5dc9d28-25b0-5748-bb91-5e946d0a6c48/62d6afcd1a645.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -716,8 +854,8 @@
       "publishedDateTime": "2022-07-19T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -986,161 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-this-ai-powered-prosthetic-hand-is-stylish-too.md",
-      "title": "This AI-powered prosthetic hand is stylish, too",
-      "excerpt": "The company makes an AI-powered prosthesis that is highly dexterous, remarkably light, and has an unmistakable elegance. It's part of a lineage of technology products that emphasize form to enhance underlying function -- a welcome departure from a medical device sector whose dominant design is best described as antiseptic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "originalUrl": "https://www.zdnet.com/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/809b860885706c3c26dd01fa3741797c633fb785/2022/07/18/78c134fe-4cdc-4d0a-8a83-346a4b86ede0/esper-hand-grapes.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-powered-prosthetic-hand-is-stylish-too/",
-      "publishedDateTime": "2022-07-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-thirdai-founder-works-to-make-artificial-intelligence-more-efficient.md",
-      "title": "ThirdAI Founder Works to Make Artificial Intelligence More Efficient",
-      "excerpt": "Instead of using huge amounts of computing power, Anshumali Shrivastava wants to rethink the fundamentals of AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "originalUrl": "https://www.wsj.com/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-585899/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/thirdai-founder-works-to-make-artificial-intelligence-more-efficient-11658230200",
-      "publishedDateTime": "2022-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division.md",
-      "title": "Google merges DeepMind's AI health efforts with newly formed Google Health division",
-      "excerpt": "Google acquired DeepMind, a London based artificial intelligence (AI) firm, back in 2014. The company is famous for its AlphaGo AI that defeated the world Go champion and was in the news in 2016 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "originalUrl": "https://www.neowin.net/news/google-merges-deepminds-ai-health-efforts-with-newly-formed-google-health-division/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2018/11/1542144283_google_deepmind_health_and_google_health_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
