@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2022/07/AI-writing-service-Craftly-AI.jpg"

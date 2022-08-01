@@ -24,6 +24,7 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+  - AI in Autos
 
 related:
   - title: "Challenges facing AI in science and engineering"

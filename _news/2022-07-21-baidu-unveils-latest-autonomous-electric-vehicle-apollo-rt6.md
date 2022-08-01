@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T05:57:00Z
-originalUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
-webUrl: "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T13:00:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 type: article
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
-
-secured: "Bgq+3mL3Gw5FsYLBRjiZTbf0KO3QMVXv1mUUtA2/8NS+GtBJ/sii+mO+VicIeVtaJmqaw/o6ckVsfHRfYWLMH4Pgq0tQ/rEuS69xcEL/41a98O6LOymq1zB+uKjiD2JGccI15tFS8nuaVIZVMFyiQNjcJo0+Crdjd/HN/jn1zaicyQvJ88/koEMptwO2rz1ACUSymvARZsSTwXOwm89sM8j4Tv6+AwsQRxXHmhl9PnPi+DRwSCCKJs6/sTSEdki9WnGRuSPOkAcdwdnm+oFnc4I4JaUbyrRhoOwPXyuzNokiLJSI+uN9GffT6gIC+TdqOWEidL27MpZ8gTqrSlafbwhTqm82++fYXW1XcVyAy7Q=;mmhZ4V+XfXPvIwGenBMH2A=="
+secured: "8FIXm4toMKvYEwCPsp1nWh9z+3l8KNE7BR+XJx6E5ZWLi5VQ9xEMQQb5XpPfsINJR0tLNrn0smgzk17cVuiUddjtJf6NdRCWL3vrjely/V1r/lK7FfvjwP4v/W3IWZ5hgv0bMlndGsTeWMHla4j/7G0YM88suXVzn2hocqDGHQ3wa0sfEpMbe/e4Lbw5xQwk9+FTbpCRTmMdABr0cQ2oMe8lulYkZI2WeOiFby7qmh14TGBP83TDvZg+sk2epbSN67kTkhMJzA5hH0zeOaddCJlZ/+G0Wt5rIAibl3BWBEOGUcWvER27W+tbmR3ToBME3iJCzEJobiLDpYIp9KL0YbdOeDMGCty18NwBin5n4wc=;hKloCSerHx9QJhP+rpx8lQ=="
 ---
 
