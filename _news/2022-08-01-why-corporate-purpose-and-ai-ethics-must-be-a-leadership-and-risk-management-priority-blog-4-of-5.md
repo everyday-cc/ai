@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
 type: article
 quality: 90
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)"
+    excerpt: "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML."
+    publishedDateTime: 2022-07-31T20:19:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 90
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 851
+        isCached: true
   - title: "Responsible AI must be a priority — now"
     excerpt: "Responsible AI is a necessity now, as discussed at Transform 2022. AI bias could affect access to healthcare and employment."
     publishedDateTime: 2022-07-28T22:45:00Z

@@ -374,7 +374,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -778,7 +778,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -808,7 +808,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -984,50 +985,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-28-4-healthcare-ai-trends-cvs-health-data-scientist-shares-details.md",
-      "title": "4 healthcare AI trends: CVS Health data scientist shares details",
-      "excerpt": "Eugenio Zuccarelli, a data scientist at CVS Health, shared his thoughts on some of the top trends he sees in healthcare AI right now.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/",
-      "originalUrl": "https://venturebeat.com/2022/07/27/4-healthcare-ai-trends-cvs-health-data-scientist-shares-details/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-07-27-why-machine-learning-in-ad-tech-is-ready-for-liftoff.md",
       "title": "Why Machine Learning In Ad Tech Is Ready For Liftoff",
       "excerpt": "Learn more about the incredible scale and complexity of machine learning in ad tech with Yunshi Zhao, ML engineer at Liftoff Mobile. Zhao also part of the diversity, equity, and inclusion (DEI) committee at Liftoff,",
@@ -1200,6 +1157,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/amp/",
       "publishedDateTime": "2022-07-27T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts.md",
+      "title": "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts",
+      "excerpt": "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "publishedDateTime": "2022-07-27T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

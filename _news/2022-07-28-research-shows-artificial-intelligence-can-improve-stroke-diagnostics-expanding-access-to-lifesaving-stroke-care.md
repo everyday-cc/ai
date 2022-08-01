@@ -1,21 +1,30 @@
 ---
 category: news
 title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
-excerpt: "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
-publishedDateTime: 2022-07-28T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960135"
-webUrl: "https://www.eurekalert.org/news-releases/960135"
+excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
+publishedDateTime: 2022-07-28T16:37:00Z
+originalUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
+webUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
 type: article
-quality: 0
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg"
+    width: 1920
+    height: 1354
+    isCached: true
 
 related:
   - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
@@ -63,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "7w3IR/0TELRB2u7VwyW+rg4a5a4bzlZdo+yulFuudui41j2HeTsbYFoxN+qdNzakwDjz7+KkEulBIH7fG2smSeHksiQEcuDQ2FWJ8W1wsSU2mYUlP0XyctRQLJmdMCG90j0QQCtnBby3/+d1fFjJw5aCTW1EXiBV2mf+o5Py2BoJexRDczMmOuKVWwkbSYkHWfwL8vnT7nT5MGCKrG7EqWADIhpGQzatbwOI6Q6rhG0LrIkV/oF6e6Lq78bb0r8PjKU+EYqZg+SAXweH+okY+SPyTGjYkG8Ev0bo4kzR76q5Ev0IQVyrGZpeyI6C6L8jA9qw4ctsVEPJvLa5jI7ej11OeUMnX7RPybZI45v+3Mo=;L5B9GiyOAszoHx91oRQA8w=="
+secured: "g86atXMd13fUwj8EawwsenVCBwElNC0yk4dg2vaXJEGnuPtrBYBUCfKdLTtyHVnI2U9CBCDJ5F/Si46Y8g1wDEAGrf76CEaw1hSCLBzSyWIXikEIGpnriIj9cDjCD05wrdpgqaLji+pKuGbwkceTQ8F7mhJvT8kEsRtm8lwPbCTRA2kQhT5mCT4MxDXTL9V5FkKvbgRjbC9P7o75Wrpge8On5RjK4hgHExAOotB1bYk8o+IVLK46IoyaWdrDgcHkjTndo9NupheT29um+I86TiCU95+PFkG90uv8bv6YfrHQ7S8eyalctj10DS+zMsS+YfPm1bN1VPCkYUtg64y89qmGvqcH32/yRKu185ZujiA=;HRaT/ZqsLrB5CsWIvew1RQ=="
 ---
 

@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-27-how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts.md",
-      "title": "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts",
-      "excerpt": "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
-      "publishedDateTime": "2022-07-27T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-27-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv.md",
       "title": "Southern Co-Op faces legal complaint over facial recognition CCTV",
       "excerpt": "Southern Co-Op is facing a legal challenge after a privacy rights group filed a complaint that its use of live facial recognition cameras is “unlawful”. Big Brother Watch claims that the group uses biometric cameras which are “infringing the data rights of a significant number of UK data subjects”.",
@@ -61,7 +10,7 @@
       "originalUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1171,6 +1120,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries.md",
+      "title": "Backed by Yoshua Bengio, Ubenwa is using AI to diagnose neurological issues through baby cries",
+      "excerpt": "Ubenwa said the goal is to create a world where baby cries are no longer viewed as “noisy sounds that we are trying to quiet,” but ways to understand health.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "originalUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/07/minnie-zhou-0hiUWSi7jvs-unsplash-1.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

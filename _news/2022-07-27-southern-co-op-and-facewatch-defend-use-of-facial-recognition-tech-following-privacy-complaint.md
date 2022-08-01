@@ -65,20 +65,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Southern Co-op faces legal challenge for facial recognition CCTV ‘adding shoppers to watch-lists’"
-    excerpt: "Southern Co-op is facing a legal challenge for its use of cameras that capture biometric data of customers. Privacy rights group Big Brother Watch said the independent grocery chain had installed the surveillance technology in 35 stores across the UK and claimed supermarket staff could add people to a secret ‘blacklist’ without them knowing However,"
-    publishedDateTime: 2022-07-27T07:02:00Z
-    webUrl: "https://www.retailgazette.co.uk/blog/2022/07/southern-co-op-faces-legal-challenge-for-facial-recognition-cctv-adding-shoppers-to-watch-lists/"
-    type: article
-    provider:
-      name: Retail Gazette
-      domain: retailgazette.co.uk
-    quality: 26
-    images:
-      - url: "https://www.retailgazette.co.uk/wp-content/uploads/2022/07/shutterstock_1323541409.jpg"
-        width: 1000
-        height: 607
-        isCached: true
 
 secured: "MvNm7x78MLOm5xNQneX2GCqVwDvTv31AbBIu3rq73esWJMQm4HIvPVLbwv9ZJc2ETljXE6/qQ94FiJNOJfu+BGVmeO/Zp8eD1ziYlvxVKyQygE9WxcNsSQlIm1fmkh2QXsihh/AymPrE9JQFyDpwSTcjPYUsETOF2pKogcieS201xt39DuPfxJSI9v9iLP5wITeUyut7Dfa5yf1PLg3ssCeQNMYb5rO5imzyJ1D3VQlti1MQP2S4RuEHBlITj4V9uYMP/+/KCg3qyfwR0/oCB4uKW9nrWYEfe7PYAcSClh+iq6Rc0wRlDfcBRsgIOeKp/fRrjLUFURVvXWmPx9c4LJOjC/8DIO+l/D9f+l28hTc4hLPfRGP0WA6Q21Vb4LOs17vRCtmBqRoIZBjzU1SYCred8ujTggd41D/FVNEa4uiQQK+nO1hQFXEqTMawGRSsQ/2Bwlkf7XLIRyNkTC7erBBZ98MH4Q0YzVUuW3vLD5kV7Yd14BQ/i3LGjJ/nAAbuaRD9DJ2fioYkxJqBQpYfSg==;wcqbOXXCDbT50gS1CZ/LGg=="
 ---

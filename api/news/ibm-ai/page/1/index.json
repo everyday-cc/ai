@@ -55,6 +55,135 @@
       ]
     },
     {
+      "path": "_news/2022-07-28-ai-infrastructure-market-worth-us966-billion-by-2027-at-cagr-of-275.md",
+      "title": "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%",
+      "excerpt": "\"AI Infrastructure Market\"The AI Infrastructure Market is expected to reach USD 96.6 billion by 2027 from USD 28.7 billion in 2022 to grow at a CAGR of 27.5% from 2022 to 2027.According to a research",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg",
+          "width": 650,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28237970",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970",
+      "publishedDateTime": "2022-07-27T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries.md",
+      "title": "Backed by Yoshua Bengio, Ubenwa is using AI to diagnose neurological issues through baby cries",
+      "excerpt": "Ubenwa said the goal is to create a world where baby cries are no longer viewed as “noisy sounds that we are trying to quiet,” but ways to understand health.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "originalUrl": "https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/07/minnie-zhou-0hiUWSi7jvs-unsplash-1.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
+      "title": "IBM Watson Gets a Factory Job",
+      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
+          "width": 800,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-econ-corp-services-dba-investorideascom-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market.md",
       "title": "Econ Corp Services DBA Investorideas.com: AI Tech Stocks and the Growing Implementation in the Sports Market",
       "excerpt": "July 21, 2022) - Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) stocks releases a sector snapshot looking at the growing AI tech implementation in the sports market,",
@@ -228,6 +357,49 @@
         "Facebook AI",
         "IBM AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-ai-infrastructure-market-worth-966-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "AI Infrastructure Market worth $96.6 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "For example, in the US, MIT-IBM Watson AI Lab (Massachusetts, US) is funding ten projects to address the health and economic consequence of the COVID-19 pandemic. These ten projects include early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-infrastructure-market-worth-96-6-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--817505176.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-infrastructure-market-worth-96-6-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--817505176.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1078,169 +1250,6 @@
         "name": "Webindia 123",
         "domain": "webindia123.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "IBM (NYSE: IBM) and the All England Lawn Tennis Club today unveil new ways for Wimbledon fans around the world to experience The Championships digitally, powered by artificial intelligence (AI) running on IBM Cloud and hybrid cloud technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-egat-drives-sustainable-operations-with-ibm-ai.md",
-      "title": "EGAT drives sustainable operations with IBM AI",
-      "excerpt": "In addition, the proven increased production efficiency also leads to the expanded use of IBM's AI-powered asset management system at our hydroelectric and solar power plants. This drive towards ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
-      "originalUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1288.jpg?h=7de12b8a&itok=z2jGRmC9",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-industry-leaders-announce-coalition-to-fight-bias-in-adtech.md",
-      "title": "Industry leaders announce coalition to fight bias in adtech",
-      "excerpt": "A year ago, IBM Watson Advertising launched a research initiative to understand and mitigate unintended bias in digital advertising using artificial intelligence. In January 2022 the results of that research revealed that, while unwanted bias in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.campaignasia.com/article/industry-leaders-announce-coalition-to-fight-bias-in-adtech/478762",
-      "originalUrl": "https://www.campaignasia.com/article/industry-leaders-announce-coalition-to-fight-bias-in-adtech/478762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "campaignasia.com",
-        "domain": "campaignasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
-      "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
-      "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "originalUrl": "https://www.techradar.com/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vExTvrYZ34ak3GJaUNv2zF-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

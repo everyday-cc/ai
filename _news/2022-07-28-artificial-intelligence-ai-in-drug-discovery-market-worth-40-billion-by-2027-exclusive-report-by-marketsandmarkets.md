@@ -35,7 +35,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg"
         width: 650

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructu
 ampWebUrl: "https://www.benzinga.com/amp/content/28237970"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970"
 type: article
-quality: 56
-heat: 96
+quality: 58
+heat: 98
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg"
