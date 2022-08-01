@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Funding in Singapore Remains Strong Despite Global Downturn"
-    excerpt: "Despite the current global slowdown, Singapore has nevertheless managed to weather the tumultuous market conditions rather well, with fintech funding remaining strong. Moving forward, the momentum is set to continue,"
-    publishedDateTime: 2022-07-28T03:25:00Z
-    webUrl: "https://fintechnews.sg/62943/funding/fintech-funding-in-singapore-remains-strong-despite-global-downturn/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Fintech-Funding-in-Singapore-Remains-Strong-Despite-Global-Downturn.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
     excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
     publishedDateTime: 2022-08-01T13:22:00Z
@@ -53,6 +39,15 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
+    quality: 4
+  - title: "The Next Fintech Movement Coming to America"
+    excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
+    publishedDateTime: 2022-08-01T18:33:00Z
+    webUrl: "https://www.thinkadvisor.com/2022/08/01/the-next-fintech-movement-coming-to-america/"
+    type: article
+    provider:
+      name: Think Advisor
+      domain: thinkadvisor.com
     quality: 4
 
 secured: "ub1KHYwK8GyBDwSSYmKzgOyCLbXdrLTsWxJPJFQKb8zAbwsgLxjFCnlQQ+wkRJTHHLtVboSY4wVsAfnujVb4RxYgmRx2h/uySohnc10pZ9pXTNECKWOCwqqze20Ns0cagHzZfrWq75iNqylDn/D1rUEPy0xZvzOMkgRECFdi+07NL0toXSJ7XOnKrN1X2voqnkQs5O4Gr2X6IDPGIl6g9+4vGu2n9YFApYHY+SXCEPTKk3vIzl/j3seMTFcm1C8wfX5ATzAZYspIEjtmofQ13lCnlqp6DcM2/fiNL+eXK+aE1OjS9bPL9K65g3Ta8dUH793rmOKfxNlCE51Xww3VeG8JFO/TV9jaa8dSx3J+FBe5INJRCdVZXl5qPIeCxlDa6p821UlhvxbOmBuK6VzhpRp9IO1Dw/LCqhO6EPzyJmri4OyDl6pMFs4H+AGz3XnYPl73NgPlB9yA/Ul/EFPAmMajbgaZHqFuwRe/q875aT9Xe8qqtDyVEJSOSqnL91HbjZjqNtPcdreOVBpdmCSpGg==;pi+hKiBNoHT3zXGwlbISRw=="

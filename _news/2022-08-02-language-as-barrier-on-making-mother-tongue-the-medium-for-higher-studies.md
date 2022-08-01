@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T18:40:00Z
 originalUrl: "https://www.thehindu.com/opinion/editorial/language-as-barrier-on-making-mother-tongue-the-medium-for-higher-studies/article65711363.ece"
 webUrl: "https://www.thehindu.com/opinion/editorial/language-as-barrier-on-making-mother-tongue-the-medium-for-higher-studies/article65711363.ece"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Hindu

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-A
 webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China"
-    excerpt: "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand."
-    publishedDateTime: 2022-07-28T04:43:00Z
-    webUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/"
-    ampWebUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/image_01_-_high_res.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
     excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
     publishedDateTime: 2022-07-28T09:50:00Z

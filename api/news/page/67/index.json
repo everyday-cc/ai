@@ -2,6 +2,151 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-06-06-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics Brings Robotic Painting To Life . Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA – Fini",
+      "sourceUrl": null,
+      "webUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "originalUrl": "https://www.constructiondive.com/press-release/20220603-finish-robotics-brings-robotic-painting-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.cloudinary.com/dmgi9movl/image/upload/v1654277575/press_release/assets/header_images/Finish_Robotics_Primary_Blue_Black_6_pcs8hf.png",
+          "width": 1500,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Construction Dive",
+        "domain": "constructiondive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-self-captaining-ships-start-their-mutiny.md",
+      "title": "Self-Captaining Ships Start Their Mutiny",
+      "excerpt": "The unmanned \"Mayflower\" made landfall in Canada and Hyundai's autonomous tanker vessel completed its first cross-ocean voyage.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "originalUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/658e3f0fca820bdf112e22bd811e16dc.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-autonomous-ship-mayflower-hyundai-1849022316/amp",
+      "publishedDateTime": "2022-06-06T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-alethea-launches-fusion-to-combine-nfts-ai-characters-and-games.md",
+      "title": "Alethea launches Fusion to combine NFTs, AI characters, and games",
+      "excerpt": "Interested in learning what's next for the gaming industry? Join gaming executives to discuss emerging parts of the industry this October at GamesBeat Summit Next. Learn more. Alethea AI is launching Fusion,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/alethea-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/alethea-launches-fusion-to-combine-nfts-ai-characters-and-games/amp/",
+      "publishedDateTime": "2022-06-06T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-stem-toys-that-promote-cognitive-skills-critical-thinking.md",
       "title": "STEM toys that promote cognitive skills, critical thinking",
       "excerpt": "Toy expert and speech-language pathologist, Erika Cardamone, joins Real Milwaukee from PlayOnWords.com to share awesome STEM Toys that promote cognitive skills, problem-solving, and critical ...",
@@ -981,144 +1126,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
-      "title": "Roadblocks to getting real-time AI right",
-      "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "publishedDateTime": "2022-06-05T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-clos
 webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg"
         width: 1500
         height: 757
+        isCached: true
+  - title: "Diagnostic Robotics raises $45M Series B"
+    excerpt: "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round."
+    publishedDateTime: 2022-08-01T19:59:00Z
+    webUrl: "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 69
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg"
+        width: 770
+        height: 500
         isCached: true
 
 secured: "x6x5Kmpxej5VP4vcvKuLeTnX+cDvH8c0rXjWnzFOKLquzjFtPCcZGUsBwvcZmhxUcCJmyVvIQC3fKjrOWoTLFfgvANKez/Z/ynRLHgexFeaQrRtuXbvruhZPJ5tblChWXlrlRS2DZYRkmqPv2JH74HxaVSFNseOko1JZwlgITyBpJchnPrbgSeJY8VSkWvKbD81+HFiyKk3ZpHjeAFshkpf8ueTB8QBUeVC/OywqmAsxFqNMA+vlLMayYMWNXong7rU74rs7+7vbul0ZtIvxN+HexS51qgWvEc5sjc0ibu9v9fFQQQeUl1fAUwdgyFOkTkrarpsQjMlSkPUNeJ98F1jX3HQrSiz8e8PpQauAyOQ=;1WlT0RhhiDJftDRpEc87Vg=="

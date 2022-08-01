@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-01T13:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/08/new-year-new-ai-challenge-can-we-create-an-algorithm-to-predict-heart-attacks/"
 webUrl: "https://arstechnica.com/information-technology/2022/08/new-year-new-ai-challenge-can-we-create-an-algorithm-to-predict-heart-attacks/"
 type: article
-quality: 42
-heat: 42
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "WUMyW49uVNmz2eyjAYinVqB4XQLMDdOGnd1FU4fHkigzibEQNzjOV/tNDU+G6t7du7Jevs49REeIWEEPCihNQW2wMvbkqUNgo2F3aG5iQHigQCcVs+z69+VATXVcacC7Z0uYXcsoaTCNyYKeHYUA31Ia+ZGj3QRXENCfavQ+UxRGBSz4zCTfmqHUbO1x9WLs+W3HIiRkG/zYbzTbR5tHOMjYAdiuM9dQhQWx0SoIN+T2+3FTpIB98xhxnuAZVO2LGtdGDnlcV9UDOPAAIE3EjogA8UA+zts0twOctIwwZE7gy1b976Nu0V1O0/OGRCMoI/Ow0ba6Hp9saV30TbClTI6GLY/6n9wzpAJk5U4c4GlTlptMYT8/al6LtlK26OJx3ESISqQ2C/OMO3iaQvQjjnBoyrGDxrs79YGWKMh0EYAvEWu2Vwr+oyQqVYAWpZHbkuZYAfivnKOjoQYsMOIGCWDwSW3OgPsrSgK8VpEH/s6zfA57xqHr1JomM8XozEnphUdTogQU7FOcn5KVp9EEKw==;Ylg9NfUZzXw7U1SSOHim0g=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/07/machine-learning-heart-attacks-760x380.jpg"
+    width: 760
+    height: 380
+    isCached: true
+
+secured: "oK5iJE/8OfrQRmvrRHZxsXymb37oduRvKzf0yrvghk8wCn6cS/R/LVi8MsFmKwAjSje51tWjw9o7+Q0k0g/2TDELvTTCYMT0Xa62DLjEBO1UlOg9HPLEQx3Ecx0bsghXFxzikCk+8u5OvsSkWbkXgAJn7tznnL2VZCp7t+2TpiU1n6qT2ylhPXVd2V9phjiXl9x2pJfnPgJYaGwnygfZlVyeKBNsggtwKWGHQ+Y6enRa6S/tVWeaFSQp44nrREZGCZxnYtgvG5yjmRYJhx+P+E/dmlT2AYSje/Sp6q9kbLB52OP05P6H4732z7teHIEyxYx/wqDxufmlKvAUc+liWZ2tCVdbeqhiGDWNOuPqkzU=;GVYcB65PKvJ4yRAulQJ2RA=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China"
-    excerpt: "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand."
-    publishedDateTime: 2022-07-28T04:43:00Z
-    webUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/"
-    ampWebUrl: "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/image_01_-_high_res.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
     excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
     publishedDateTime: 2022-07-28T08:41:00Z

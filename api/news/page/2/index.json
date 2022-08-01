@@ -2,6 +2,150 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-29-coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletter-july-23rd.md",
+      "title": "Coinbase Cost Cuts, Netflix Earnings And Factor Investing: Forbes AI Newsletter - July 23rd",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fbf02d8df711259932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "publishedDateTime": "2022-07-29T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
+      "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
+      "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-944464846.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "publishedDateTime": "2022-07-29T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-someone-asked-an-ai-to-show-the-last-selfie-ever-taken-and-um.md",
+      "title": "Someone Asked an AI to Show the \"Last Selfie Ever Taken\" and Um",
+      "excerpt": "An AI image generator made a series of ghoul-filled selfies that feature skeletal, grim reaper-like figures, one captured via smartphone in the mirror.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
+      "originalUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/07/ai-show-last-selfie-ever-taken-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/ai-last-selfie-ever-taken?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp",
+      "publishedDateTime": "2022-07-29T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
       "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
       "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
@@ -339,7 +483,7 @@
       "originalUrl": "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143",
       "featuredContent": null,
       "highlight": null,
-      "heat": 414,
+      "heat": 424,
       "tags": null,
       "images": [
         {
@@ -807,7 +951,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1096,133 +1240,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ponyai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china.md",
-      "title": "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China",
-      "excerpt": "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
-      "originalUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_01_-_high_res.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
-      "publishedDateTime": "2022-07-27T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-infrastructure-market-worth-us966-billion-by-2027-at-cagr-of-275.md",
-      "title": "AI Infrastructure Market worth US$96.6 billion by 2027, at CAGR of 27.5%",
-      "excerpt": "\"AI Infrastructure Market\"The AI Infrastructure Market is expected to reach USD 96.6 billion by 2027 from USD 28.7 billion in 2022 to grow at a CAGR of 27.5% from 2022 to 2027.According to a research",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/ab28237970/ai-infrastructure-market-worth-us-96-6-billion-by-2027-at-cagr-of-27-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/ai-infrastructure-market.jpg",
-          "width": 650,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28237970",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28237970",
-      "publishedDateTime": "2022-07-27T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
-      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
-      "excerpt": "A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960135",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

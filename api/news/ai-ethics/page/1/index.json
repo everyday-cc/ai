@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-google-fires-blake-lemoine-the-engineer-who-claimed-ai-chatbot-is-a-person.md",
       "title": "Google fires Blake Lemoine, the engineer who claimed AI chatbot is a person",
       "excerpt": "Google has fired Blake Lemoine, the software engineer who was previously put on paid leave after claiming the company's LaMDA chatbot is sentient. Google said Lemoine, who worked in the company's Responsible AI unit,",
@@ -1351,58 +1394,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
       "publishedDateTime": "2022-07-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
-      "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
-      "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdaf29f10cfef9f670f110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-30T09:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

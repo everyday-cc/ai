@@ -459,9 +459,9 @@
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg?w=1600",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -469,8 +469,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-25T11:17:00-07:00",
       "updatedDateTime": null,
       "provider": {

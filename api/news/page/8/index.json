@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-21-self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030.md",
+      "title": "Self-Driving Car Market 2022 Insights on Size, Share, Application and Forecast Assumptions 2030",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T18:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-oneconnect-financial-technology-announces-the-launch-of-all-in-one-digital-banking-solutions-suite-onecosmo.md",
+      "title": "OneConnect Financial Technology Announces the Launch of All-In-One Digital Banking Solutions Suite, OneCosmo",
+      "excerpt": "OneCosmo is the result of the joint product offerings of a partnership between OneConnect and Pismo; Next-generation technology implemented in OneCosmo allows financial institutio",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/21/9643525.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/21/9643525.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1863738/1.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-ieee-computer-society-publications-achieve-compelling-increases-in-impact-factors.md",
+      "title": "IEEE Computer Society Publications Achieve Compelling Increases in Impact Factors",
+      "excerpt": "IEEE Transactions on Pattern Analysis and Machine Intelligence earns highest impact factor of all IEEE publications LOS ALAMITOS, Calif., July 20, 2022 /PRNewswire/ -- The IEEE Computer Society (IEEE CS)—the leading publisher of peer-reviewed magazines ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
       "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
       "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
@@ -1013,127 +1151,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-3-chip-stocks-to-buy-ahead-of-earnings.md",
-      "title": "3 Chip Stocks to Buy Ahead of Earnings",
-      "excerpt": "T he world's top chip manufacturer Taiwan Semiconductor Manufacturing's , better known as TSMC, second-quarter 2022 earnings report indicates chip spending is still very healthy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-chip-stocks-to-buy-ahead-of-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/3-chip-stocks-to-buy-ahead-of-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
-      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
-      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "publishedDateTime": "2022-07-20T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-do-masks-get-in-the-way-of-recognizing-emotions.md",
-      "title": "Do Masks Get in the Way of Recognizing Emotions?",
-      "excerpt": "Researchers have discovered in their latest research that people can identify emotions and traits of other people wearing a face mask when the whole body is visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363875/do-masks-get-in-the-way-of-recognizing-emotions-363875-640x360.jpg?cb=20220720",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T18:58:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-1-medical-progress-is-about-to-leap-forward-thanks-to-eu-startup-data-lake"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-1-medical-progress-is-about-to-leap-forward-thanks-to-eu-startup-data-lake"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Daily Herald

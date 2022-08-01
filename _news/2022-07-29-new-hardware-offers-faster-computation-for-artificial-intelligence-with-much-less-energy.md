@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-28T19:08:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
+quality: 40
+heat: -1
+published: false
 
 provider:
   name: Science Daily
@@ -19,6 +22,52 @@ topics:
   - Machine Learning
   - AI
 
-secured: "VYSpfLuDaj0w06eLkmKMIlcKxhqhj9uCaE1hjds/ObZdaow3v/s4wXiMftHWwEBDmOPtic2y5o2oxE8qxUXyER94kQFGroOsG6VvudbbZhxooPGOh65E2cdED9Lw2H7/2t7UXpQ++Gx+XAbpqaTNiQRClh9+Uqb26PJrlBz4ecj8lKg6lCKn68GHcYHt7kV4QGSqwv/cmWzK+w7AZ4QkQ1R+r+WvNAEmvLYoaZ/k+GeN10meAeN98CHtbAwcm8PpT6MDhEUe6k4eluGrJej4AzYmbAIFaXI5X+IXKtWqBdUudknfmcaCacmVVx6Vx7Z0Z70LU7lakqD+8iI88KVhftE1XKp9CUzhunLeCl+Juds=;J+cE4FH5cnixpoNXgnWGgg=="
+related:
+  - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
+    excerpt: "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,"
+    publishedDateTime: 2022-07-29T09:09:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 62
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
+    excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
+    publishedDateTime: 2022-07-28T21:34:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272635944/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
+    publishedDateTime: 2022-07-29T08:01:00Z
+    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 10
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
+        width: 600
+        height: 400
+        isCached: true
+
+secured: "+6N6zuM13xawvnM/ZyIhtSJJxH2LNBdiNiYKlyKdXx7YtsJijzTWF2XDde828PYMZKZJOPALSBU3ukfevCzQtgUUEkgc0YR5/JDtX+cTEc+CsEezyHYWuvQxyrH4vuT/pMF4MkPinqD0KRqyzI8a4V/5UAvg3J2UMvH1yUx0wbO6vxfQ1yf+nHek2GdEGljjGJ5t8QahvejuEUsk/a5KvcDt1sIHKdybGwd0uFsxnpX2R0ymltPJiFSHpBL6KISi0Rp4aAASuzCnHL74MuUUmuy9S951O4j55fn56PqQ4DFn1DeoWu8VZ9Wrk/aViuU3XRXLrLFb5HcLxysC8Gg4Ryv9ZGLgbRIaBZ+op0X9MWo=;d1NmcbR+8LrdWwna3etBcw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T11:08:00Z
 originalUrl: "https://stockhead.com.au/health/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-thats-ahead-of-market-peers/"
 webUrl: "https://stockhead.com.au/health/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-thats-ahead-of-market-peers/"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: stockhead

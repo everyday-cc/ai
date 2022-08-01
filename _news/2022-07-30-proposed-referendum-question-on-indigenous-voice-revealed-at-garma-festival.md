@@ -36,6 +36,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Facial recognition plays a role in 5-year National Australia Bank partnership"
+    excerpt: "The Australian banking company is working on a proof of concept demonstrating the promise of using an ATM without a debit card."
+    publishedDateTime: 2022-08-01T21:04:00Z
+    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-plays-a-role-in-5-year-national-australia-bank-partnership"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 55
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
     publishedDateTime: 2022-07-30T08:11:00Z
@@ -242,6 +256,22 @@ related:
         width: 1050
         height: 789
         isCached: true
+  - title: "Indigenous voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
+    excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
+    publishedDateTime: 2022-08-01T20:04:00Z
+    webUrl: "https://www.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
+    ampWebUrl: "https://amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 24
+    images:
+      - url: "https://i.guim.co.uk/img/media/fa7de657cfac7be0d2a9713648ed8a6c9c7e4585/0_0_3969_2641/master/3969.jpg?width=620&quality=85&auto=format&fit=max&s=0ee561ddf626a1223d5457bd01933187"
+        width: 620
+        height: 413
+        isCached: true
   - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
     excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
     publishedDateTime: 2022-07-29T21:19:00Z
@@ -313,6 +343,15 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 4
+  - title: "Indigenous Voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
+    excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
+    publishedDateTime: 2022-08-01T16:32:00Z
+    webUrl: "https://theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
 
 secured: "a4ONuIze8Q9rabWO5lesjT6HBVvrdW/JQrOVtzlrmPT+rvoNUEbDst06OoS27c6k/tU0zXnxN+iNLMnTSEBFK2ywZyezn6hIx88tsH6DVH24S8b1rsSXsFTdsRV9pMp1ffoFtAttpQk5BfD3eSHON7DSicCd/FSm7abYNQwuaCStyES94wMASCdf0fC8DXWnNwA+eosqh74oCIVqmNaGrIubSZecWj7Zymvq7JjGvbFy6ozwRh8RVPD+VYh2bUlNiBisieV7UCzKO3z4FwpcTs9DfIaUnGIvkeImwPQpe1QDUtCw670xkoXzRH5aNshGtB76T7Mjiyze1aw/o/8WZwJg1P6a77Gvv3SWxAtXNKTuZzTc8aHXCTY+uItguevGxB9RgsHEE7EKJWV+d3UH/Hi8ZcVHvPI5Xddi0iIK9EmPaYPuQ7FRZ0tiynH4E1by8LQ0+pBf9JJBrp59PEWlXOsb1VHliUjEOwQs+CIikeyRoG5ymcFlRUwbI6niYIa+2PulGhhJvhWwYeVyP7sRfw==;yB+Uuhz9Ph/N6UgQzYqJrw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T18:13:00Z
 originalUrl: "https://www.crainsdetroit.com/transportation/how-deltas-parallel-reality-board-detroit-airport-works"
 webUrl: "https://www.crainsdetroit.com/transportation/how-deltas-parallel-reality-board-detroit-airport-works"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Crain's Detroit

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T18:00:00Z
 originalUrl: "https://www.targetedonc.com/view/machine-learning-shows-promise-in-identifying-patients-with-nmcrpc"
 webUrl: "https://www.targetedonc.com/view/machine-learning-shows-promise-in-identifying-patients-with-nmcrpc"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Targeted Oncology

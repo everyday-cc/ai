@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T18:53:00Z
 originalUrl: "https://www.startribune.com/schultz-wardlow-face-off-in-gop-primary-for-minnesota-attorney-general/600194775/"
 webUrl: "https://www.startribune.com/schultz-wardlow-face-off-in-gop-primary-for-minnesota-attorney-general/600194775/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: StarTribune

@@ -35,20 +35,15 @@ related:
         width: 1200
         height: 892
         isCached: true
-  - title: "Fintech Funding in Singapore Remains Strong Despite Global Downturn"
-    excerpt: "Despite the current global slowdown, Singapore has nevertheless managed to weather the tumultuous market conditions rather well, with fintech funding remaining strong. Moving forward, the momentum is set to continue,"
-    publishedDateTime: 2022-07-28T03:25:00Z
-    webUrl: "https://fintechnews.sg/62943/funding/fintech-funding-in-singapore-remains-strong-despite-global-downturn/"
+  - title: "The Next Fintech Movement Coming to America"
+    excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
+    publishedDateTime: 2022-08-01T18:33:00Z
+    webUrl: "https://www.thinkadvisor.com/2022/08/01/the-next-fintech-movement-coming-to-america/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/07/Fintech-Funding-in-Singapore-Remains-Strong-Despite-Global-Downturn.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
+      name: Think Advisor
+      domain: thinkadvisor.com
+    quality: 4
 
 secured: "SDbhdgQS0ugbHd/Q7cnH2EXCjr4SM9uorb+vAbEunPq3MQu1iAGpguZB4+LZjNkQ4Mk855JRKJGYTwQK6hFaecjS6vCbWqSgdNshtNSXnBoshrBpK9pKIp9w1iHEx/7czPoN0zp7crMAGjm1iODNyfNecmdKBePuiT56766r1Lb8zRGFohgqJYfnfn7NXgjhdOi03c3MsMS15sRf9VbtZXxjPwK+tnfIVggJNlIjMR3N3zuRmujiGhsbcCD1RSvFrgg3Z9PdafhVClsgL/+3mj7mD8FlFewxGH4tsXO4m32SSsXg3xI4xe/xr+BcBbqDwg5JPi+ajHThUezcpJhATrEJ2eZR8AcvzQwgMmMJG9IIbWbSu114t2uU/pdYWVR0Fe7rS489a5roUzP9KN+1Z3E3QranslWn1EF1uh4w8RTgu6n2RtYJgHKBSOAOtsml6drJsXtav8v0klRKC7oIRvmKlPrZkuL9XVFzDyXgrRgDeTpbIjLCrowZV+Hsmg2s84KcpIfLnlsvquK431Fl8Q==;UeEYuXIVD/7lAuja6w7iTw=="
 ---

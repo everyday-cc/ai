@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T06:08:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647796.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647796.htm"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "NEC Laboratories Europe GmbH: NEC NGSI-LD Scorpio Broker selected for Amazon Web Services' Smart Territories Framework"
+    excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The"
+    publishedDateTime: 2022-08-01T06:06:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56689112-nec-laboratories-europe-gmbh-nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "bNfzogb2YHwvG/UeQivdvlku7d5BR3RYSATKwTvj+j705/+HoyH+QFYyVi8BKnMdeuUj7C1JNVkBW5AkZx/fD7s0zxBoSV5xJfzhuu+SXCTCslV0ATaXPpY1PIe4McQmO7W8sZtwK++vDWDQfMqMBbIip/GevOvTSnbZ/w5hCsgsgpcBJ+gk1l+AkAl8IXwcVS8/7kXSMz/g8PT+rXCeM+fw1bord8XOyNHNNuoSGh23da9jzJHhzzfH3pHMNx8wb285t8OjX727FJUeE3zOAsmKK6OACHEUDLVQkM7l2hU4H+ISI0cX3ZRxJJEo/5h+jolnbBqJneVLWkkrLIk45PHw+1KF75gMZ8yQahPwng8=;IdfOtrdQ0GBriXtIHTmI0w=="
 ---

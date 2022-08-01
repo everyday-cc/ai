@@ -32,6 +32,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "UiPath acquires Re:infer to expand its AI capabilities"
+    excerpt: "UiPath announced the acquisition today. Re:infer previously raised $11.2 million in funding from investors. New York-based UiPath is a publicly traded provider of robotic process automation, or RPA, software."
+    publishedDateTime: 2022-08-01T19:13:00Z
+    webUrl: "https://siliconangle.com/2022/08/01/uipath-acquires-reinfer-expand-ai-capabilities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "vCPqHXoQb0Iqt1KyoFY/PO7bnShNUB1Ut3LUJxGXOMXhwVeviUMxoEpEa9MVGkT0hFLc6r8JJzctJDqMrR6ximcSlUC6Dq7w0otkPlRNZnj3OJMZeJFGq9fJJv7qs59NY9x15GYVAccs0OH7SPottecVjGLpQFSfS1zAgQVq8vvAdNXYBCsPzBv6CC8dM/jJKDupr9VS6sYeQ19K3BL0hUfcuTKxTfKIpYAT0coP7cv0sEuXR2IwCZtoHuSfZMbJu53Jbdhld0XNbXOYTTecWYYo7Y6muOlraFQlAE7zcHLA0XBVEnQIynmCAB2FtN4OkXaN5bH5bEEwyn3z53eTXuFVmJ4+6e9TJAPjybFuqvtDZ7zXCXrTi48Vlnk+SZg5Qv7r88MDRR2QEr4UjUZAqe15LC9nOtpqoAqUoXVRQCLPfczKMU0hjAsBvZHLMwF2Zvs3coPwgQ2FqqvXs1DdFAYOq9UIrnQvfLqyxiFRhw/+nTzAXBHyRu11AsSOrezFwLPHuUg+BCLk44d7UO+xow==;d6RbJP6avwVR2jU7P31wCA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-07-29T21:52:00Z
 originalUrl: "https://www.wsfa.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
 webUrl: "https://www.wsfa.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: WSFA
