@@ -1,42 +1,20 @@
 ---
 category: news
 title: "NEC NGSI-LD Scorpio Broker selected for Amazon Web Services' Smart Territories Framework"
-excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The STF is a set of tools and"
-publishedDateTime: 2022-08-01T06:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28282151/nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28282151/nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework"
-ampWebUrl: "https://www.benzinga.com/amp/content/28282151"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28282151"
+excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The STF is a set of tools and standardized modules that AWS partners and customers can use to build and operate smart solutions and services that adhere to the European Telecommunications Standardization Institute (ETSI) industry standard for context information management,"
+publishedDateTime: 2022-08-01T06:08:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647796.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647796.htm"
 type: article
-quality: 50
-heat: 60
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g"
-    width: 900
-    height: 594
-    isCached: true
-
-related:
-  - title: "NEC Laboratories Europe GmbH: NEC NGSI-LD Scorpio Broker selected for Amazon Web Services' Smart Territories Framework"
-    excerpt: "NEC NGSI-LD Scorpio Broker has been selected as a FIWARE context broker for Amazon Web Services' (AWS) Smart Territory Framework (STF). The"
-    publishedDateTime: 2022-08-01T06:06:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56689112-nec-laboratories-europe-gmbh-nec-ngsi-ld-scorpio-broker-selected-for-amazon-web-services-smart-territories-framework-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
-
-secured: "anQ9l1kwoEROtSg27v1FjmEcaRZuFnRgHTY40pkrawTynHBg6bLAhNTA+hauPg6N7GSZG4KV+J4qUEEPhFyt/d2UTXMvh/mGEqCFfHQHOftdVdVJahXjb7y5Q3WPOcwyVVIyuMz+KcUOv8q4qOsa0JSzyKqYi+q16ZTN27RfR6Tw8V6XZFmRcTFO05XqnIUqqZC4cnpvN/TK30kuPvKI+nVoQRH/JxPOMJMfYBfHhNeeSr+1f3IJEAefx6pug9mgCsHjhfajm7Il0lqf5E7y7lUcJRdAcFup+eiiBukRsFMFywtnDQcqD8fyIntRVemb9PSyXzinjYAYdByGY1ZYL17wNATkK3YPVVQEFAkZX6E=;k70UQ6rg+ODHQgOg9l2Fig=="
+secured: "bNfzogb2YHwvG/UeQivdvlku7d5BR3RYSATKwTvj+j705/+HoyH+QFYyVi8BKnMdeuUj7C1JNVkBW5AkZx/fD7s0zxBoSV5xJfzhuu+SXCTCslV0ATaXPpY1PIe4McQmO7W8sZtwK++vDWDQfMqMBbIip/GevOvTSnbZ/w5hCsgsgpcBJ+gk1l+AkAl8IXwcVS8/7kXSMz/g8PT+rXCeM+fw1bord8XOyNHNNuoSGh23da9jzJHhzzfH3pHMNx8wb285t8OjX727FJUeE3zOAsmKK6OACHEUDLVQkM7l2hU4H+ISI0cX3ZRxJJEo/5h+jolnbBqJneVLWkkrLIk45PHw+1KF75gMZ8yQahPwng8=;IdfOtrdQ0GBriXtIHTmI0w=="
 ---
 
