@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai
 ampWebUrl: "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.wsj.net/im-595225/social"
@@ -59,6 +60,6 @@ related:
       domain: siliconangle.com
     quality: 19
 
-secured: "pebQP8+Hc5YWkPPWbLNWuONWx0QkiAp5Nu3ai3AiZdu5AOUVFb3YtRJjd4PDnCCIvLugtFrEFr13NAaEhth3S/7sWv577fN7cRuy1pJDpJi+qDSSHEdmujNC7hn9d3GGqTk+EI1mox2JdXsUZCVcCpjISu0Hd7xVNHrhFe1bBJzPahount+0ayIe+UXO7VqzNpyFvsDrSxHYrQKCHzXSwl6LVVpIX32nhG9x8xUdv/rtaB3ZFPkuDog2QmMC+z/T8yE6Jr4LPPWLPJ63eKj0KRDB8aU5gowDBu4WyO8mMRxxntql5d2MRWdLyL3i/r9SvUNqBnKAXfJg3kD/p6s9nZ4aYH1c9Nfvu1Ios46xr5g=;aO8fbA9MyFYos4lSHow6Lg=="
+secured: "WrU1gdSkx9lbaY2ps862LeMiR30NBEdzgr3SBQuG6urzgZanQerjo8uMnEEJZRYTcFJFXCUHUuLTxDkO1JlDLY9ODF2xyhHC2H7qvmTb8TH+FG9oT2VHcrl1vRpmjc/27MvsVA2zYqhiWZAI+HuaQiQmbq9zomCEMO0J+Ep4xXEWclrZcKFooEAXOBbqq/+8lv4p3kjwcxs37YFk93kVfFoqBWSdffMxwzWqmQs7p+D8tuXUFOX0iva9QKgdYhGOAVAu/rPynxB3qRlj4U3bIdNWcpSn5ur6g4NOjLveeEXxfxTcKTI+7qpFxqGBAbsiTbVpB6XlVMbEJvc3aM/133Kzk8HvqvlBIRBQy7ZpCJxJFHTBF4MTNk+TBpJyPPpMFZfe6j0YXT66p+5lqf7ZPw11a8kVL/1d8E39/t3nLSSCt6vyRIRHtgzbfu/8GxKnWTFxgwoWvaBOApX9x3LKcxpGXxWCRqsxh0uJMs6ikjcNlGfl6DTLHLSAI2tcIA8BzzEuU3ueDAKZRJkP/QWCFw==;DEYgSQYzcShoJp4C12jeUA=="
 ---
 

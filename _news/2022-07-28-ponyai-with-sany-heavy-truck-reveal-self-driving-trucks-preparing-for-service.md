@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.Ai And SANY To Mass Production Autonomous Trucks"
-    excerpt: "In June, Pony.ai released its autonomous driving controller (ADC) designed for automotive-grade mass production. The ADC is built on the Nvidia Drive Orin system-on-chip and will fully enable the ..."
-    publishedDateTime: 2022-07-28T08:41:00Z
-    webUrl: "https://menafn.com/1104606219/PonyAi-And-SANY-To-Mass-Production-Autonomous-Trucks"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-07/28/R&AN_d5d32image_story.jpg"
-        width: 800
-        height: 524
-        isCached: true
   - title: "China's Sany teams up with self-driving venture Pony in robotrucks"
     excerpt: "Chinese self-driving startup Pony.ai is partnering with construction equipment maker Sany Heavy Industry to develop and produce self-driving trucks. By continuing to browse this website, you accept cookies which are used for several reasons such as personalizing content/ads and analyzing how this website is used."
     publishedDateTime: 2022-07-29T16:23:00Z

@@ -33,34 +33,6 @@ related:
         width: 720
         height: 393
         isCached: true
-  - title: "Editorial: Place privacy restrictions on use of facial recognition software"
-    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel \"1984\""
-    publishedDateTime: 2022-07-28T09:00:00Z
-    webUrl: "https://www.newburyportnews.com/opinion/editorial-place-privacy-restrictions-on-use-of-facial-recognition-software/article_4349b4bc-084a-5b53-85f9-13e0841d0b18.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/newburyportnews.com/content/tncms/custom/image/867ad2ec-8965-11e5-8451-8f0d0d73f7e3.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Our View: Place privacy restrictions on use of facial recognition software"
-    excerpt: "The widespread use of facial recognition software by law enforcement needs to be curtailed or eliminated. Otherwise, the surveillance society George Orwell first warned us about in his novel “1984”"
-    publishedDateTime: 2022-07-28T09:00:00Z
-    webUrl: "https://www.eagletribune.com/opinion/editorials/our-view-place-privacy-restrictions-on-use-of-facial-recognition-software/article_cd4f4d60-0de3-11ed-855a-0fbaaddd80f3.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333"
-        width: 600
-        height: 333
-        isCached: true
   - title: "New Orleans mayor signs it: cops can use facial recognition"
     excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
     publishedDateTime: 2022-07-28T21:27:00Z

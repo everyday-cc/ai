@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - IBM AI
 
 images:
   - url: "https://www.crn.com/resources/0277-15a9720a5b3e-925bfa27c054-1000/arvind6.jpg"
