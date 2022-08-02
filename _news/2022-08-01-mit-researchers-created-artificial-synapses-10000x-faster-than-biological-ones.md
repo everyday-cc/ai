@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Artificial synapse’ could make neural networks work more like brains"
-    excerpt: "But these “artificial synapses” are 1000 times smaller and 10,000 ... might make it more difficult to run certain neural networks, he adds. Pavel Borisov, also at Loughborough University, agrees that it is an impressive technology, but he points ..."
-    publishedDateTime: 2022-07-28T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/2331368-artificial-synapse-could-make-neural-networks-work-more-like-brains/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 34
   - title: "MIT’s New Analog Synapse Is 1 Million Times Faster Than the Synapses in the Human Brain"
     excerpt: "New Hardware Delivers Faster Computation for Artificial Intelligence, With Much Less Energy MIT engineers working on “analog deep learning” have found a way to propel protons through solids at unprecedented speeds."
     publishedDateTime: 2022-07-31T20:21:00Z

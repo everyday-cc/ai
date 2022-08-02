@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-02T08:33:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723"
 webUrl: "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1870688/Photo_1.jpg"
@@ -29,6 +30,6 @@ images:
     height: 266
     isCached: true
 
-secured: "lg1BN8WJ0UisfATa0J9FumeNq2Ju8kUJ28+WG7YbyJCGwRaklQArjxbYa5HtmrsN+8Ws8HZD8kMshSpPqbdnA5IZjJYd1o6fmAqcQ2bk39YCWkCm49ELLpKtG8t+uLZRqwjWY/4IbppMlfwwYRU1/IlyS9RCg5RafYeeFQ1Zl8rUoHN3IwiJVa4kEQr2TV3XGh5IHHxU8lZBNqokG/1C5euPU7FlEvVwdalYuo8ZuCEXzsliSOUznWW7pjp/K/zFNC0uwC9Ptf3durglR1KLpxiGCBVGsv8XYCRVqf1QFyhzmz2z7Y73t7snTkiKDHf+2bKTRJ/jHd3n8J2kQLxVg7Pi1/LrN3bzE8ZoonqY+oI=;bh9wD5Ucu7Wu7w3J+ma2lw=="
+secured: "tz+i9fjnHV9PXQWrqwqXhd3nZpJSrPY169/6bZLDgQ03YDyUPUcBWxYLtoYOQ16awTdwK+N0Fe5ixaUVvXG7FtkbY5afYO30/Uqc1nB5Z/9+QpgyYZwNMmOhYaCOEaIMLhaQ1Gw1VPwNJKF2afVnrKaDs1bUvAwP97hJG8fHXaliz/xGityd4ZGCUosJGmKwyI13rN9hjqFVi36tVhOrMVp5GygVG0mgvih5JXQeSzF9POw+lMtpvgvpJzZOczPXdyj5RCHrxkwSij8gKq2EBeNn06bMwxsiBYfzQM/v+X4nofmG2bVbr2eqSqy1eoTG46tfXjjhGXD0LBQcZjy0OgBfxxIOQ3hh9KvqpA07c5SMdyo6ws2d1hvPYceWU+z6dQqLxKttaYcsXGkdpuGbBv/ZuuyHC11UJR2ZBQRAharKRqcjrcfJNv5J/v3s88hSfZ2phmqh0NwdfSF5eCCFbmobacQJQ1ElKoj5Nf7UTd69jJB0JS6XNmLiyZf2eaKi4VoenSgsi2fC3t5HERS3bA==;MhsEz+Xr6amfTYq/Jg2yqA=="
 ---
 

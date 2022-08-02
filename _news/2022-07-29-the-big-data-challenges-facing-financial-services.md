@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Driving greater agility in the financial service industry with smarter databases"
-    excerpt: "By Julian Moffett, CTO BFSI at EDB Digitalisation and the desire to build data-enabled business models is sweeping through the Banking, Financial Services and Insurance (BFSI) sector. And, as with other verticals,"
-    publishedDateTime: 2022-07-28T18:22:00Z
-    webUrl: "https://www.globalbankingandfinance.com/driving-greater-agility-in-the-financial-service-industry-with-smarter-databases/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 0
-
 secured: "PlqmG3rn6s2cJTI7GXNPM6t0Oxtu886zpTsfuOZH+88zai5kPk62EWX0hV8IlyGgN8nK6Bh+w6nbIoY1sOqzpBCO4Rih++cLLr77Ny6/8X6hN8WCdwBQ4Cw5bgCoEJTYfUow5WMhkEamBwfoNFHQWRje6q9Hz5WZf425AHGZRf8J7JVXZJfOXmG7+g0Nc0960pswq95kukoGFKDMQ+MG/OeIIW74iy8Emir2Ua2pdOaJBBedzIPTO4DzoqGhyLj0v57Hm/QwzC5aLtmQV5fmMe+U2rB6+NBd9wjMtg/U4vxX9F9ns5w1kQeSn78ULs+fT3u/Z1sSLveXwsFZHBcmcfhSbIlCNfLBJwUl9neNFZrv8azdbRGufVRFE6OjXAqdo/jsJGF/A3EGB++pbd7Y8vOPsIWq5v6eCpw9HDoVsxhm+lvCN0bKJavOlddyc/4mgzoimAgvbyPYRCrEE4wrHQJ8tbj36MNo3ndTrgSjdXa++nGC4KylQ/IMxsuKkH6KmDOlSCWNxzF9prKGXjStng==;iqnP5wXD97vnbk6qRxIxzA=="
 ---
 

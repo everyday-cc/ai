@@ -42,15 +42,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "‘Artificial synapse’ could make neural networks work more like brains"
-    excerpt: "But these “artificial synapses” are 1000 times smaller and 10,000 ... might make it more difficult to run certain neural networks, he adds. Pavel Borisov, also at Loughborough University, agrees that it is an impressive technology, but he points ..."
-    publishedDateTime: 2022-07-28T18:00:00Z
-    webUrl: "https://www.newscientist.com/article/2331368-artificial-synapse-could-make-neural-networks-work-more-like-brains/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 34
 
 secured: "vTJ+lvxnE5rDtfdIUAP/4OuBc74fj3uG5famVwpS0/eXuE/3VIc3VmT+L4aTpoC77XJ5VxmvUaXO2YnKHvhrzOtU3cTEux22uzcO8nJ3Z68W/vWhQXeREsAqNaHCHfMWFmNv/Z/IilDHrjaQms53t0gZxXVUskurxbwElas271bg8wweXkS/kIy+3ndK3GyT0WKJU3toz95wEYDkmFPw0L7aEf2UVcF6vszAhoS9FzbMMRqnxkVVSsBVr264wc+SKAXsGymba2UwhnlV6rdTCC1ykyXxCOrMoPyGbLHuy+gtMdS5uXmvHboMhlB+PgOfD15vpdr73zS7gPDVUj43MrmqWIjwtLpppGywow4WpzVGF4Leg5aaXgd3uzgEXMEWSVmwnjmF64lC+HdfR+doH36/sNyfAowrsALPQA8kvbobhc17HvdOCqaSGY0R7QxHiqHPhgUFetdHxWvvys63MPngejaSswgOPDdRQdM4xhhro8ZUwsr3ySaLrggT+cC+bWIqmgBVJLt71KHYMo8IPw==;zU+wkZBLyLrVXaXdzGO7jw=="
 ---

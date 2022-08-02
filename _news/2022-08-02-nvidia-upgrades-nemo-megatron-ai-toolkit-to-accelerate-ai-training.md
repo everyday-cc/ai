@@ -7,7 +7,7 @@ originalUrl: "https://www.techzine.eu/news/infrastructure/84818/nvidia-upgrades-
 webUrl: "https://www.techzine.eu/news/infrastructure/84818/nvidia-upgrades-nemo-megatron-ai-toolkit-to-accelerate-ai-training/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 2880
     height: 1920
     isCached: true
-
-related:
-  - title: "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models"
-    excerpt: "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ..."
-    publishedDateTime: 2022-07-28T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200"
-        width: 638
-        height: 310
-        isCached: true
-  - title: "Nvidia Speeds Up Large Language Modeling"
-    excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
-    publishedDateTime: 2022-07-29T14:42:00Z
-    webUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/"
-    ampWebUrl: "https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 46
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
-        width: 888
-        height: 417
-        isCached: true
 
 secured: "Ruulp2i2Fxmb97RTuHxlLpnv2DWFQC+oj8p6neF59nCHnVtzNusvdkoWqSvVdoMeWukmjy2fmKykA+gu3WelCiV6pEfXVhrJoLJM+m+I3jtT2jfNDmUunVrlwUNNQlSBaP3WQ1jm2eNcbyXBGAqiZYa92uCrvA42hSDGN6jRKB4NOPI1ZeW1jpoG1ZXn5nG2JL/P0hA6+jceBuUQ8tf0FgqvtTd2eUGYGhd3vfcY+NLJQejvcwEUFDIU91ILc0kLLpEOKAKMngVdeokKo1/aIP7tbz4qzh2tQrpkbEVvzSTkni3r0UWgrd+1MgJgTBsZFDUFTiSE1fhCelsc8/aPub504n7mLcRayWc0+/f9vBrfWzqGPBmFPSrkSn8JOedR1KFhgnoiZIibx7Co/FYgZNOKE2Ekx7+y7fO5/bEm32575WC66jJL96XPxN2NbRK6O1tDKG/cfm+nYSSiAA6o2jXd8c7F/GlZiuW+l1dxpLb7tX4uroLUiXYmxB/eHF5+FNSsT7BRWqDFRaOXYPJAcA==;s4x7GoFIMrA7lXFf1+hITQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-edges-cl
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-edges-closer-clinic.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-edges-closer-clinic.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-53.jpg"
@@ -41,6 +42,6 @@ related:
         height: 225
         isCached: true
 
-secured: "I//8UsPHhl6eAV3fEE/LlrVwH8KZJ9pLwn8DiyEhqSeRlK/saldw6/wTPE26gVICUq2+74Zw+X+QroSAb03xmIyOvqT8ObUHIHby/zfP7CEqSaPSgoMXKWGK6rhlNmDFFLolAnC8rN8rAD3QXIM0aErw1wwlwGXc6FHuuqtnxzk40vyFjflrUXoyZ2F2Cupl/QxwQvcpDbSaX2upesbOqJGTKB13B4108WyuaW/HwaphxHuL91jvmPiNOVTEsx5+iFReoNOw6yCJBf3MTEEJZiTzR6PP/paAAjnXNB2gOtMApjmcwMAAArtH5K+i1tCcalobfkGdLo+o+PDPfoobMGJL3EIfvWUQdJf2O6vLMys=;dCbg0SMPFA3jxAMhGWEarQ=="
+secured: "7ulIuK5els5w5WbQwA8fHi60LdDQeNNMqD4kFzBNpnjsGUlfurWwbSw4yX6/fLHkyRGvY23CnCIhTxKZ8zpgo8LZeeeRG8KzFAVo+6kepU/PFQotfpIViM+XoAthmAW8b/Kuw5F/xI474Tyrh5jGCe5by4H29XdXUupKOVf/mwG7lo4QujQdhDGtxpKQ/NpS6pTFANxLjYBAkzyXZBOurg0zHxsk0AT+6vsSW0Wp70WcgOygbfFdm7IgxsBmMdRH9cg8TQU4qdKpEm5/bBtiR9pMk6fLmNZuTLDsGaksUEFyZsYlpda2UbLs7QD9rvuXVIR37bKH64jP7soZTps8soUFxWdHj82e+bqoOs7FaZhtvwWCLcMOGiUUjqE1+s1FGoAkyxfdG+c+uaJbXRRToM2fAe+iot8zDskpxjczfAYm1fH/CFXPL8bzC/1Yl2z5B93lvOB3ceSIVrCDRgKaoiD+TAElXjfVEe6tvgn5L5CvvUxy1RBdy7ymg0YPPLkr+WglMfKxIPX0nbLQPthftg==;zAtAODDreRZ0lHs/DMU11g=="
 ---
 

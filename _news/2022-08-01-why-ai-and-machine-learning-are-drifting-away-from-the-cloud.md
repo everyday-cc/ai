@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-26577628
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
         width: 964
         height: 650
-        isCached: true
-  - title: "Metaversing Addresses Climate Change and other UN Goals with AI Brainstorming"
-    excerpt: "According to CTO Savannah Partridge, “We as a species need to use whatever methods are most capable of efficiently addressing issues like Climate Change, and we need to do it immediately.” Throughout 2022 Zoom meetings have been held to address the UN’s 17 Agenda for Sustainability Goals using Mind mapping AI software including generateideas."
-    publishedDateTime: 2022-07-28T17:27:00Z
-    webUrl: "https://apnews.com/press-release/send2press/technology-united-nations-oxford-climate-and-environment-046f6645a06beac3be254d449950822b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Ebz2lA3+lHb7Ex0hzHtz7pche77RR7MrfcuVOZB7jqU4fNKuzu7mUnvDWCDkWYzvoIodWbOE/IDDCdZWoI86j8ZQzR6XaW3v+2cQZ6V9Izxv+UWu/HeDL1On2TfT3sJU2JWu4g/+iH14OZmW+IjAmkPVIf2CBHiNPmaJi2+HVajTV1NR5+ee1/obK5/bLfr5lt0fhW1NmqnJMIYAVoS8xkR93MgvZ7Gg8PmWILrcvgPG4l+mfYg2fat6U1U4uHoR9Jc6LiuisV9ZXLEpZxQwvF9m0NPYUlf871D/0L+4T7icFmyi3zGC5ET4zhEz0F2W/evpxGeM8jmHZD5yq9uJw2u+5v/LzXT9oyBn+C2yjRJx2Zki/D2yGILlXb6Ahaad/D3wizRw7oMPyj7h32fgqaoStmC0oFlKIwRiUN2n3i/iCUBdU2sTYZEXSeQdrmDSptnVkZiew7xcGCLK55/vywDCXSuiwMhCIYfAZ4JWmo3TyD6ZwIkbLgcIiiiX6DVyb24CtGSAaAQX5IQLaH67qw==;Y3ZdZt0NO5u0nB2ixHcBRw=="

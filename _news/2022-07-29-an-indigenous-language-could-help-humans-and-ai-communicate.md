@@ -9,7 +9,7 @@ ampWebUrl: "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-
 cdnAmpWebUrl: "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "How an AI managed to confuse humans in an imitation game"
-    excerpt: "How a robot controlled by an artificial intelligence-powered computer program passed the Turing test in an Italian study."
-    publishedDateTime: 2022-07-28T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-nonverbal-turing-test/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
 
 secured: "K0ybhHD51ozvCKkC9GPmP1TRpiOTK/Cgq6qP/OLXUuXxxqf5+BJj1PkV86HAxIDldqpbpqSpLUo88y4Phi/zOfq51RP16euys+JQGuuLkg1NISvi6ZmPzGmyrKq62AaSWV2bRzIHP+uK/B5Wxgx+zzXol7b1JwN6055ghJjNb838u4UL2y3ZGJvciBRk60bPZAMyIjqLZI4g1aSZcS/kZj6XFqUoYcCJCjO8uQAfPpxzpvaqWwHlOS/7nKtvDcnYmE6SDgMp8C2NOhmV1Td50zfaiRK3MqA67E41OZubD2/8VoDL+6GIoj5/RIOw2ybxZiNaPOLfmyEZbNfN1FwRkCUFpQ4LEOvou3W80k6qzVDwuq0JBeI/DuCJxArxIhJi5/DR9k3aiZ0uSenWcrRZWZ/4XaIQ7Jkxdg+JEca0tAK0a52zkgyvDNW7xI8xppJ5JsxfgQQssXG0eGD6IS4+sYOJEWMkKqJPl0bxitCJzMgcC0a1zXwv0xzQp5ZZKUcUYjQor5JdKhPF1hTFIJhsZg==;iP6Te6MzrMOn8eEXhthARQ=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "How an AI managed to confuse humans in an imitation game"
-    excerpt: "How a robot controlled by an artificial intelligence-powered computer program passed the Turing test in an Italian study."
-    publishedDateTime: 2022-07-28T19:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-nonverbal-turing-test/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 19
 
 secured: "+70XpZjBplnuEFCvSdxgqVDBJB616RlHgwogu4RwGdULjq5InMg2cKvVou5jzT2Vt7R+w+V7saq5l9D9y7almvA5/OJ6Osj5uvioSRGkeW3HGndWSXPVvqLyrkgKS1s5E9rsOjqrUFIzJ5Nv7vrIXP1Ekti2orVIdLjoX08FixW4viAhuM+iJx0ljSllghxetSlc8rqgnxD8WvEi8KuPF7u4ZonMmYpwM2iBjc9uRaqRJVMejYU7dxr0gxAPUZTZlE1R/aSuKhg9naq/700hYqK6UST/MB8HLTQIEihUIoJqop47T+nwAvl1OolAGfMfWsvu/Kbvei1z/m6kA+VbCBHUzF62TWsjSMxsYcO59Jtj4+D54EulrfjO5wUTUNonTDsxiGDqqpUmSLCwpwcsvmaAZ/MqicCkzidV05B7SAji1IH+WuMWWyWLw0wWdCWEfHRsQ/z/Ma5k4yvyIaCBt5VsT8Bs9pfSeAizQ5kW9UOahVTLOJs//suNZjv65oU2WT79vdM56xmgVBhkVAAt/A==;8I9oLxK2bqoBIRIZ7Ukauw=="
 ---

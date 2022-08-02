@@ -56,20 +56,6 @@ related:
         width: 964
         height: 650
         isCached: true
-  - title: "Metaversing Addresses Climate Change and other UN Goals with AI Brainstorming"
-    excerpt: "According to CTO Savannah Partridge, “We as a species need to use whatever methods are most capable of efficiently addressing issues like Climate Change, and we need to do it immediately.” Throughout 2022 Zoom meetings have been held to address the UN’s 17 Agenda for Sustainability Goals using Mind mapping AI software including generateideas."
-    publishedDateTime: 2022-07-28T17:27:00Z
-    webUrl: "https://apnews.com/press-release/send2press/technology-united-nations-oxford-climate-and-environment-046f6645a06beac3be254d449950822b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 34
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "DpO7qS87TMME1usl8VwI9muqwUVOdMMJmdcQSX9barbSs6WI+YJxbZBzz3xhZPEEyqnKvHqAbw/RnmcRNe1vNGXNnZw4YzU2JEO6/t0lzD3IvAT/xJpLVUo50dNoicx+MoseDkBco/g6p4cPYi57LFknzHwQeiOk3ZABkpAZ3nU+kBaNpW3KCj9IEzpkpRjzdPHqBOwfARPgxAo+dRZkzSIAmUspOnuu8uOek/SgJDa0wi7cSXYQxUDKHH/QJrS42Wp20uof6cqILNLq7csHxM7VnTal0h0OOVATCpfr5g69SHkY0K9fWA9b2o5J1FEwqlJqWegSYmAq+UGzrBlSvZEtIGqzg6AHlu5w4nv3J+E=;JdFwWpxyCEOmC5/1AvirmA=="
 ---
