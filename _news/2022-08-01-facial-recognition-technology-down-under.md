@@ -51,6 +51,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Facial Recognition Technology Down Under"
+    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
+    publishedDateTime: 2022-08-02T05:55:00Z
+    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "1vgO5N8T+7ZvW3ttAwHXtg94VIOblLbRfzAz6GT6s6aIsLhbJBERSzbKZTyG1mxik5toNwbk6bbEUDfHnWeOVFgxFrPxF0SkQzf31CEnQK4geI1rtEo2ude7kgD1+9MbJKSpldGjrFuoN0XYPdkzeUiH6RhBXeLTTnhjAZPjcVUVy4fcgPkd3xdItnc34MhFh3zVEJIvu6qX1cT+tn+o55IdZ41pPcGk1iP2kWd1ro9/chVFfNEwMZ+nX4Hmy3NU1gkw4E8ki7uuccm9CVjh32TaFq4yFPLJwyXP5u5h+9LTC9RonGuz0wwpXud72uF7EQl8rMIhltP0IP5BnOSKxZYKyWYqgq9vYpf1pBys83U=;6bkoe28e7/n+5aDEvFsIvA=="
 ---

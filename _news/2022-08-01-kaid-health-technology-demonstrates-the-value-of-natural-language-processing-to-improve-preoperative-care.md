@@ -1,30 +1,31 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
-publishedDateTime: 2022-08-01T14:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
+excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
+publishedDateTime: 2022-08-01T14:01:00Z
+originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
+webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
+ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - AI in Healthcare
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
     isCached: true
 
-secured: "lCEZaj3mrw5peaItuPDi7ydGRPJxgqzj1yB+0LLqEBd/Hcm9x1k3R/pANiVWR7oZBYkq0Fz1pPDnCvsSkySw+mwH5U4RDFVcbmA7qfk/2bt/XlJG7FGPqPFR/5raXSfMIY9cNt+1hHwSV8N3d59SdCbONONP6/GSfPgNo9tT8b88yXkwZRbJswCcUZyd7zbsRFIkMAEPi5INLUasey4v4QdU29LkY1OxjICtTPhXxIP9jFh3IIqXqGYSQq74+3Rh/e1F5L/4Npkbr7iY0vDuLr22Doid9e6MTNZCBvJlvNaRpek7wmMY22cAGTBULuUBvu1IJgOEZcdeEunKeYfjsoabHEmGIE1YqWop9PLrfkQ=;FOkvvwIPMi8n7kNaVHqjiA=="
+secured: "4+SoWn1F5Y4ihm2S57MMOz67X3/1pgGE639jlP7SA42Y8NZqrbraeZGt1LnZ+YesmAHP4RePMkvbEHlDbzolplGpRli2OqZxryJToYozxflz1nOwUd/MHRV/tlCG1wkYXBhwA3iHx5bG+g+EmAVtBQGGgDvPmUG9c9766Xrl5fixCj2TKwPZ9ZhcVxwhrwk1AeCJfLsqFakcepWQTtkSJG4QMaWTwywsjREVO2Ues1j2oSa6BsQZEPvvl5uEU8hYFKxgGWVTfStAfEMzJfuEgEtx871+dy9HqjEq0lKi2kNmSj2nsxYIWDJUadlbSpYa6MJEYgKgzUjEt5L69CkISe0UKoDkWZ3fHf06ndfZ15Q=;tQ/0pBPUt8wFGEPJIjkdGA=="
 ---
 

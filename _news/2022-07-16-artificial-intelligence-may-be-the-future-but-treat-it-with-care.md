@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2022/07/15/23/60323993-0-image-a-37_1657923715986.jpg"

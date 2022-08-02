@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-t
 webUrl: "https://www.businessinsider.com/meet-23-deeptech-startups-poised-to-defy-market-downturn-vcs-2022-7"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Business Insider
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Meet the 23 biotech startups that are set to take off in the next 12 months, according to top VCs"
-    excerpt: "Biotech investors look at hundreds of startups each year, trying to find the best new companies. Here are the privately held, venture-backed businesses they think will take off."
-    publishedDateTime: 2022-07-28T12:00:00Z
-    webUrl: "https://www.businessinsider.com/list-top-biotech-startups-vcs-investors-new-companies-2022-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "KTLmb1lPnG0bvOQGcrZcdE3jaxUIT2J4pHMYNNeN9F/Rlq/lJf8LsU5n4Ym+AcwueO+GB+tvvqyKZa8/ka50GKe+vamk8u4NWRKeG9I44LsESH7AngQDIIro288MlPO7Shzjn4cCR1HG3XSBZu5IyxIYXvup+la2B3S8J0fAqI67DM8h03UHodYqP9lWL+6Ot6O/lCIr89thHSjSLiG1Dcr5Ai0pfd7o3v84DEWYH2+HVjkMxMQpZXGEuN6o0SpL6JyLqaDX4w2Q0+zuoJmMY8DLPxYQ3nSbnFW9DWGd2JSSGQaWk7+s63rS02sYXmEDQ+mlTCys+4kIWseXZvP7n/EdTFjlRgizPKWmvdDc5qMHqNfqFfArh5Jt4h3dhli4M1IaexQlpR5CQxgrnwKDgd10wWaDA3X7nDOeFtI69EK5F+SkqLDWhyGyZTUxPJweEeaemGrdD/eAo2Kr88GjKv4XbxXLFgcVEOJsZke03A4pNpVKZzFvLygVdBiMYG82rbCQPVGw33aeyY+4rObvkg==;xe4C0XsGpDWYueZKx3yZFA=="
 ---

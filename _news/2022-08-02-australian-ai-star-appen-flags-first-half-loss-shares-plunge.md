@@ -1,24 +1,23 @@
 ---
 category: news
-title: "Australian AI Star Appen Flags First-Half Loss, Shares Plunge"
-excerpt: "The warning on Tuesday shows how hefty spending cuts by global tech giants, facing raging inflation and rising interest rates, are filtering into the Australian share market where Appen has been an analyst favourite due to its high-profile customer base."
-publishedDateTime: 2022-08-02T03:50:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+title: "Australian AI star Appen flags first-half loss, shares plunge"
+excerpt: "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,"
+publishedDateTime: 2022-08-02T03:41:00Z
+originalUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+webUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+ampWebUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - Facebook AI
   - AI
 
 related:
@@ -37,6 +36,6 @@ related:
         height: 335
         isCached: true
 
-secured: "1QR6HoRdo19thAnmYsHaYoSwEIR7be9Au82qZJ27aM4fYFZWSG5jgT6e5czmJBZc/y7q/EoJd6eBAG50fzprHpnxI6a1CO/mRZJnsNowoSjqpi9I+GgyDQWTLAt5CIlh7BDHxYq+tehtieW74vI3u0CdFFl8U77PZhhvYfwDHCNzLS+oLIhUaQfX0+9RfB1egMVBgNKbhqmAH2O5l2/ciCSr4UGCVygMQWfypG99MiQYBBMWlrDXQ+l1dBy41jBrAtlYWHwGbq8oXP2YnriM8rtlt/iJmMCdUp08VG+090BOX5NM01Q5H8eAP5QghAaP+kTyzBFBUbklovkiLt1/To9wvU6PS+7e+aImqfnoTGQ=;jIgbkATlFkV+7bA1JRaF7w=="
+secured: "Jvoku/ho5ZnwPT47CfLaVEp4P0NpRAVTGQdxUX0WAFjesoiLmTkjxvcFc6MV9y67vhiTx4VZJIEVVDv8Csj1TkoHFQw4Rwq/1kY+TqPfPj89k1ZKch1FzTFpYC9op1W9AyJfW3RyLHyNWhVMiu1GkcjXV04gccGx3pdHmAoRpe9nC9MbPTujr/SY3pdeYJg+46/O0rWKuGR+wmRLd/L2es3T9PpuXCxn6uS/sjdoZegXCrHWhOfWkItJ6o9KBnArwh+AcsW7MjYo/BHmhzFDJnzH3nC41o8TznhbIHTHLiqwkL6kd3bWC4ChspNL3LkyTM6WcH1Ylbds3YBFF7FpcgK7GCJus5rMFb0D+LztNzk=;2ojAb3/n42JOJRa5V6aiWg=="
 ---
 

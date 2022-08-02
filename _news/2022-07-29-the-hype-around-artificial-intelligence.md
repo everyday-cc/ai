@@ -24,30 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles"
-    excerpt: "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems."
-    publishedDateTime: 2022-07-28T11:30:00Z
-    webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
+  - title: "Three evil geniuses and AI"
+    excerpt: "By Melissa Martin Syndicated Columnist It sounds like a sci-fi film, but 3 evil geniuses (referred to as EG’s in this commentary) want to hack our brains and bodies: Klaus Schwab, Yuval Noah Harari, Albert Bourla."
+    publishedDateTime: 2022-08-02T01:23:00Z
+    webUrl: "https://www.citizensjournal.us/three-evil-geniuses-and-ai/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Pros
+      domain: citizensjournal.us
+    quality: 39
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.citizensjournal.us/wp-content/uploads/2022/07/HeadshotsColumbus-1-Melissa-Martin-7335-scaled.jpg"
+        width: 1707
+        height: 2560
         isCached: true
-  - title: "LG Partners With SoundHound To Bring Voice AI Technology to its Next-Gen Ivi Systems"
-    excerpt: "LG Electronics (LG) has signed a memorandum of understanding with SoundHound AI, Inc. (SoundHound), a global player in voice artificial intelligence (AI), to"
-    publishedDateTime: 2022-07-28T12:17:00Z
-    webUrl: "https://www.impulsegamer.com/lg-partners-with-soundhound-to-bring-voice-ai-technology-to-its-next-gen-ivi-systems/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 12
 
-secured: "gJWqpO69DfTA7zLdUrdv508Qu1X3Y/nIIYTBpBaXRNce6v+TZANYGGu9hMg7T0CB9Z3/SBLmEVw+aQXG4GcYUzd2W772tLaBkf5LC2Da94caa2xvsfm+Qy4oK10+PQCMxpy87EqbfV0sDom/gCROajoE/z71ObPd8Xk5wmOozWcrkSlhn04u3ypHPX0k0lIPyWjkSUxnkCJUTadmtlWfZkzPaxmw4h+PBF1lKdm61J7kNYhGCZ76g7hhJd9CQCgzYNIe0q7THlIOM6UP+HG41qgoriHQnclII0GKMXvaQbK1mWq6lPUa7tz/u1ZsPXWUgTe04jlOtIMZjWvG7+CV5LBt5fpOreCglWSqqDRwwsY=;huGgHYxejJloPxcJ95ewXQ=="
+secured: "NP6wmmVOq4PskqEd9PHvs4yPXWeM7l6ESV5nvl8MkZbls60oa9zhzxMKrF152uTnaRliMt5QueZYZkXti8qaM/AudPVhuiAG6pf8vRfDNsFwJzYSF7sSHK4t3bJdEfdV9sPEL4hmFjsfGQNnNn9CgP1ZUH0pKacEyjDUkF7kJp0dnwMFv2SDMmgslx5Bcoj/RLfwQzR3UhDLdd6qLez1UzrcF4r2t8EYEfi+9J4mr5X8cbVA3WPh/NbAFV3ESMqle2YlHy6ix6vhR36YX6lwujOoMIUVsBdSIh0tt4ECNQx+KvNIRupXi2/6h6AnlLMT8RrDHMCyzR24f3b4GjuB6azwmGZ4SFrgDbg/W9GceKdqo5A6JDYhNSypHyyoI5/Y/N8i5BocdMdHJ7qxiitKK76Jg6RsGMb+RevKzptSKmkQ9QwAXcomwTZiX8EeMHIwBG/qU/FzBw6Rqe4sP2ukPwj4YlJTvBZew7I7jWHFNmX15663xte0DNuYguHTDe8JHjdIzVn9OFyA2Qmhgxsv5A==;iG6GIPqIAaet1qV53GgPvg=="
 ---
 

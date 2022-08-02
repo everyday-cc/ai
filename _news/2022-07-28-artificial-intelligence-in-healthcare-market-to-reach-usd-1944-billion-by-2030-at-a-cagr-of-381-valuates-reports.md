@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
-    publishedDateTime: 2022-08-01T12:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+    excerpt: "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode"
+    publishedDateTime: 2022-08-01T11:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.co.uk
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
         isCached: true
 
-secured: "a6IQENmF43i395DM8qhq1+UNZF1Gpg5PzO9DRnjOtCRuxX6vSYz+RsgLKHxXK1uwHTX9GQzdQqY7Wo8XixP+D+of9vFSTc0OqqCb5ea8ckEo5oDAqfbrAydL+hlqI1H7psqqyfKyrO99PKNR4++GyVN/W9ba3g8P8w7AF2cYp6KA8H7NGQNjUlGZ8CkdeZlIk3Xw5bwaRfquEYmiNV8SnzNqrxPRDx5lPBf9yqAEOdApQG7aB1ik6enAFLQSkimSz5/DPtQV4IHpLCf83Fvk1ZfYuuu/oKxUY0hPcGDhqwq+QfZCgniGAZ1hmHYeypwrARMsRgP6BLBEaxeLCMZ5ZFWE3RCrKwlf2sB9F3zGWDw=;2PDiN03PDoVaLyScdYVgwQ=="
+secured: "JAfHW89OgLlggnW/QpvmV7pdk2GAWvdt5cPmQ4HG6HwzD+fbfeT2WphmVU8D84/5Hp59+Z1Hsom9K0WBkxm3lMNouJRPrVDKGPQcUQELn3MmQBLXYFPQwyrLZzg9NfM9h5p7BrK7eLVPPCLaS5mADHLaVX2q2RC8nA4vTpr2+Vi/91ZZSuKQML3BU87Mq4fNMyPVMuJvt+MgJeChDW3j3gFradckeu0NrBmDelyhUJ+44sHhFA06Ar7Pr4rBGeamkuxsoMAhzJvDxt6j/snWRIV/lIGTGosHIYymKEaIxGd/IX782U1tsHWk2K3oerkUwV9aBMuKt+aUC/ebYQTLFcf6xJwPS8851lmCXMAeQjrThkhCoiOWWIRfzj1AqlaQjVPovjCPYn+FWcPE30R/EprM04SqEOXhzLau/gZYiEKg8hO1ahD89YqfyUeX2BraFEDGXKOlXnwWB50eKa04TRREewRqlSBb/hyVyRjm91f9vo2UPn475YJjdM3xNU3pMS8dr97xX6aMGcuDr3aPIA==;YxS+au2dHMXf8Q35cXB7gQ=="
 ---
 

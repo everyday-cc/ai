@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/expla
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.modernghana.com/images/content/7292022123316-rwnyqdcp53-man-with-facial-recognistion-software-on-face.jpeg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Facial Recognition Technology Down Under"
+    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
+    publishedDateTime: 2022-08-02T05:55:00Z
+    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Facial recognition technology down under"
     excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."

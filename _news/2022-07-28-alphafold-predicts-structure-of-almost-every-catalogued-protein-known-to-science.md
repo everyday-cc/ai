@@ -127,22 +127,6 @@ related:
     quality: 62
   - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
     excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-    publishedDateTime: 2022-07-28T12:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
     publishedDateTime: 2022-07-28T22:06:00Z
     webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
@@ -311,24 +295,6 @@ related:
       name: Daily Mail
       domain: dailymail.co.uk
     quality: 24
-  - title: "DeepMind cracks structure of nearly all known proteins"
-    excerpt: "Researchers have revealed the structure of almost every protein known to science — a breakthrough that promises to transform our understanding of how life works"
-    publishedDateTime: 2022-07-28T12:30:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepmind-cracks-structure-of-nearly-all-known-proteins-lz2wfcn0q"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 19
-  - title: "The Download: a big DeepMind breakthrough, and fixing the US grid"
-    excerpt: "DeepMind has predicted the structure of almost every protein known to science The news: DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science."
-    publishedDateTime: 2022-07-28T12:05:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/28/1056519/download-deepmind-protein-folding-us-power-grid-connect-heat/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
   - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
     excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI) in Cambridge,"
     publishedDateTime: 2022-07-29T17:37:00Z
