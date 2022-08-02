@@ -3,7 +3,7 @@ name: "Sebastian Thrun"
 bio: "Sebastian Thrun is an innovator, entrepreneur educator, and computer scientist from Germany. He is CEO of the Kitty Hawk Corporation, chairman and co-founder of Udacity. Before that, he was a Google VP and Fellow, a Professor of Computer Science at Stanford University, and before that at Carnegie Mellon University."
 location: Mountain View, CA
 type: "profile"
-heat: 77
+heat: 42
 
 affiliation:
   name: Stanford
@@ -21,7 +21,7 @@ website: https://t.co/rlrjbh9s51
 twitter:
   username: SebastianThrun
   url: https://twitter.com/SebastianThrun
-  followers: 77246
+  followers: 77243
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7K34d7cAAAAJ
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "Sebastian Thrun"
 
-secured: "nytSnHB7Iwjf5PMUg1Y6C7AodKpBsSW9M/OtaCDbOyL4/+1y0toed/5/YPq3KRQD7KOv3c7BwIN0S27IHQVQuF/1EI40YVWVHw7DquXA0HTlUTNkgTSTf/Urh+UTPFL8pHOuBlsk0kC2lWdW98Q8HO9BxyMAfLRcR8KoPHS/Tox/ZNhzCkUV5PA7zvJdx7euvoDbN+2x37gN6qVQeMZx05GrTwk90ExNKzSgYeAfMvIIUgWgAfTfo5TKj77h03ZrY8PnklMl2LnPtwh7UwR4fEScUFm27q1H/FEEZXzdiH94y/uGnPLNK2bmbMNrzBPiP3dFphc9SKkZ9ejLjj0UZlJKqEISPY/Fj3/x1h3UKvOOzb3tKZQEpTRPwP/Ac75a6RGEbbJ1J2T69K5zXyaauIBebcY72+HZo21ytcd8mJA=;v/ODkc33Rn+xGSw/o2GSAQ=="
+secured: "XbsAcTuveFSgd7DYy9FSo7VWWYpgPzv0XkZU5BUkTi5TTz3u1ZVAJRMsCHmswFuCyLffhGMOj2L9boMy+Sd2TTBM7stJNtgJFMaF1+FRAB5vn4dD2nP2HHo6Dex7e8U5fwqyA1PXtqPtZAezBaU21qtuRdGL7a0QJ64T/+vt+3fiksE9lhZ3fAS/O4dx1e8q/Nnubw2VfokpKv+TughcwhvS74XOZFgBFsV4IWv981SgG2tvz5KoSxy0ao8iapj6roF+ZnVyI0WJlb5M7/eXjdAMtMtWC6o/ZYLnpkcirlOl3wMk2ApjuQAoSye5DYkCg9xws3w1ttJXcEbbGNyZV9xgTE0ftuq58ZrZvrRkuUHqdaq/glyD/obC+Zo0BvKZadwYlTLJvh1t4azz3I8TsSQTQxHE2+uU8oZL7cR1PzU=;/jHN1DbLhIk3OfhwWNGAVw=="
 ---
 
