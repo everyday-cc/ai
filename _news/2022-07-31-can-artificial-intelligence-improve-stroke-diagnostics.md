@@ -3,12 +3,14 @@ category: news
 title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
 excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
 publishedDateTime: 2022-07-31T13:29:00Z
-originalUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
-webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
+originalUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 90
+published: true
 
 provider:
   name: Medindia
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg"
+    width: 1200
+    height: 1000
+    isCached: true
 
 related:
   - title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
@@ -64,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "znULUf9tLHD5VjNGP3idhwIQJ6hs8LJ0CLRvpIF2gqkdQk6tXkjh1KDkP4nJPtbtHb2pGkV7iAHlGbn0VxSHOuN8dyHHq11ZJbABYuAv2/pzStA9wGV/26pH29s7MKP1voGX0wlby3nMwllCA3oVP//KquL2ZRAPusGseynzEKPT9NPJVsW7P1talY2jzBwFppL0ms1X233BBLdix7CBkRzIkEyJVcpup7NqxJnR60k4MmtwRA5EKcFHBU/fOFQ1l3SY9M/xs4ugb5DPo34PwLlh+753Fv9Z/+Quqa7lUfCFM0J8kIOC857zKa0jGD8R2dnZ6gn0ZrzD9LC/ptNrioED5GCQOqzLmOAQ9+u3wZk=;GvHMvZAt7FSUmToX5jzhew=="
+secured: "6gZ8iAH4YtVAUNkNLQdTQ4m7x22LdHOP7r58g/wP935a4fEiH35CLlANaXxC9clSoWgiNT1U78nWT1PLvjtOYPUmIGTMIJ9RpkG0U1qzdW9gbVqez+mQ3MU/yPQZzDYNLQNIskV4quMb0L5QD2DZdniB0XjRuCTJUj99RQ0mlJOiBQbEHLPUo60TaAuaHAzR0KYnYMxfvKLhzGweKivfNPHwD9NG2WVwmeeu40cuAprRSVSJD61Ie+520Mw7FQltuG5zYWkIt6vTihH+aE2OaGtIn1W3uy2FxpimEOr16ngh2pa3ql9nzj8DXg4x2VpSqXO1hQccSCBMDZ2HiW1Lxvh41ovLkfGAtyU/wCeHYJk=;vdXntyI1SggyRW7bPHghnA=="
 ---
 

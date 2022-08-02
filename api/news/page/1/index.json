@@ -2,12 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-02-mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers.md",
+      "title": "MGC Pharma takes 40pc stake in ZAM, an AI healthcare platform ‘ahead of market peers’",
+      "excerpt": "MGC Pharma believes tech platform ZAM, in which it now has a stake, is a game-changer and has the possibility of personalising medication - not just with cannabis-based drugs, but with all pharmaceutical drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
+      "originalUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsapi.com.au/image/v1/7959ea2120a57eaa321b53394d728d58",
+          "width": 1280,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
+      "publishedDateTime": "2022-08-01T16:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-how-rangers-are-using-ai-to-help-protect-indias-tigers.md",
       "title": "How rangers are using AI to help protect India's tigers",
       "excerpt": "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-61824904",
-      "originalUrl": "https://www.bbc.com/news/business-61824904",
+      "webUrl": "https://www.bbc.com/news/business-61824904?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.com/news/business-61824904?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
@@ -703,6 +746,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-31-can-artificial-intelligence-improve-stroke-diagnostics.md",
+      "title": "Can Artificial Intelligence Improve Stroke Diagnostics?",
+      "excerpt": "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO).",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm",
+      "publishedDateTime": "2022-07-31T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-australia-pm-says-indigenous-voice-details-to-follow-referendum.md",
       "title": "Australia PM Says Indigenous-Voice Details to Follow Referendum",
       "excerpt": "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided.",
@@ -1140,100 +1226,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
-      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
-      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "publishedDateTime": "2022-07-29T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-team-and-user-management-with-amazon-sagemaker-and-aws-sso.md",
-      "title": "Team and user management with Amazon SageMaker and AWS SSO",
-      "excerpt": "Amazon SageMaker Studio is a web-based integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Each onboarded user in Studio has their own dedicated set of resources, such as compute instances, a home directory on an Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T11:34:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

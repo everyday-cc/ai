@@ -3,10 +3,10 @@ category: news
 title: "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science"
 excerpt: "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen."
 publishedDateTime: 2022-07-29T18:18:00Z
-originalUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
+originalUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
 type: article
 quality: 98
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
@@ -104,15 +104,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "DeepMind AI Has Predicted 3D Structures of the 'Entire Protein Universe'"
-    excerpt: "The breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular realm. After 22 years of grueling experimentation,"
-    publishedDateTime: 2022-07-28T11:00:00Z
-    webUrl: "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 63
   - title: "Google's DeepMind AI Solves 3D Structures of the 'Entire Protein Universe'"
     excerpt: "This breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
     publishedDateTime: 2022-07-28T19:15:00Z
@@ -169,36 +160,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tackles-the-challen.jpg"
         width: 2880
         height: 1563
-        isCached: true
-  - title: "DeepMind has predicted the structure of almost every protein known to science"
-    excerpt: "DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science. From today, the Alphabet-owned AI lab is offering its database of over 200 million proteins to anyone for free."
-    publishedDateTime: 2022-07-28T11:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/"
-    ampWebUrl: "https://www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/07/28/1056510/deepmind-predicted-the-structure-of-almost-every-protein-known-to-science/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/07/Open-Box-proteins.jpeg?w=2675"
-        width: 2675
-        height: 1505
-        isCached: true
-  - title: "DeepMind's protein-folding AI cracks biology's biggest problem"
-    excerpt: "Artificial intelligence firm DeepMind has transformed biology by predicting the structure of nearly all proteins known to science in just 18 months, a breakthrough that will speed drug development and"
-    publishedDateTime: 2022-07-28T11:00:00Z
-    webUrl: "https://www.newscientist.com/article/2330866-deepminds-protein-folding-ai-cracks-biologys-biggest-problem/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/28093633/SEI_116652663.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Alphabet’s DeepMind uses AI to predict 200M+ protein structures"
     excerpt: "DeepMind announced the milestone today. The Alphabet unit is making data on the protein structures predicted by its AI system available to scientists through UniProt, a freely accessible protein database."
@@ -363,15 +324,6 @@ related:
       name: The Times
       domain: thetimes.co.uk
     quality: 19
-  - title: "DeepMind research cracks structure of almost every known protein"
-    excerpt: "Breakthrough by Alphabet-owned AI company will significantly accelerate time required to make biological discoveries"
-    publishedDateTime: 2022-07-28T11:00:00Z
-    webUrl: "https://www.ft.com/content/6a088953-66d7-48db-b61c-79005a0a351a"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "The Download: a big DeepMind breakthrough, and fixing the US grid"
     excerpt: "DeepMind has predicted the structure of almost every protein known to science The news: DeepMind says its AlphaFold tool has successfully predicted the structure of nearly all proteins known to science."
     publishedDateTime: 2022-07-28T12:05:00Z
@@ -418,6 +370,6 @@ related:
       domain: dailymail.co.uk
     quality: 0
 
-secured: "1Lk70OtrRSx+IK1Xjvj7ZrxsGWg5trQItRwWf0UC+Lie/t7AFq3lrwlBz+zvCM8oWxS3KWmp8mID+QxLPA0rr5Ox7PyZp/adEG6NaSTUjYM2DIonc6TFz68vyhijnoIy3xeiNZMG0UybkHc0dDdmVi7O5Otd/L8nxCjvaNT2POiB35pNeVb0D9c/ssDvW8/s28WmQqXnI2RPXN4ZcpUm5bHAno5gpkO4BzDaG08iN7GBkPWKjMSNW60JeXJQPd6+4YUvojz9nfejYzV3UezYZ/fDAUhtPhVqJJBTc+hc8h7WcZSWlt9krdoq/UPMd8uECU/AKVsekTuUdbLVdgJehgHzd2B/oQxEhOhfnvyJesuejfIq8UQ4ezpvsZYPYvmJAaoxoM2fvE93fNgOX5m65M3/poH9GBVULPIkkx8Ln7ntiYZHxWe1wAAsvt2P8U99I/Xl7F2YIx8YImzndGablElh6aNFxRlmFDRd7xQ2M+Kr2sioooK88z0iPUOz/ndq3eNnusU/XsMgIfU5eQuJbg==;ApAe2jzwwhJ1WfJrYGbJyg=="
+secured: "Tu5rWkWIVLfiUPknkaWtdNUtx+F50icqV1ep6b1t0PyoEHT3vBVBFn6bpSRoONVmslFXguzL+XVHb7cwdft7nFKMpsl05NMOu8Gf8llHjWyCbcMXINC/K6Sq6DpYiZKthoKo5o60G2D1T/nUh/251/9rHynIw+ozCXLGm2C+mjSPuYprxkC4gI3s+sdpIU12s7qinGoSYwF+sRG6MbVrkSD4itIObUr78vwv7auHggFXEkfotpLujR6lUPr3Q7kMq/pps5A1qvTIVN/o7uZ9z8O3lKfPyHzKcSM9vORhzGwHCh3chPQK4OlvD2qfhis2Wkrl1D89NevqAaWcAflscYdCA40X5u0COBiHCypD1Yc=;oUMXV0LkD4/ZCwBa3l4ZkA=="
 ---
 

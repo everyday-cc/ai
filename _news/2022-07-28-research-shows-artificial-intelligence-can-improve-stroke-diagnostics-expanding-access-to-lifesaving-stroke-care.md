@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagn
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
+    excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
+    publishedDateTime: 2022-07-31T13:29:00Z
+    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/stroke-pharmacological.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
     excerpt: "Artificial intelligence can ID when a patient is having a stroke caused by emergent LVO, making them a candidate for endovascular therapy."
     publishedDateTime: 2022-07-28T23:24:00Z
@@ -55,16 +71,7 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Can Artificial Intelligence Improve Stroke Diagnostics?"
-    excerpt: "Artificial intelligence (AI) technology identifies when a patient is having a stroke caused by emergent large vessel occlusion (LVO)."
-    publishedDateTime: 2022-07-31T13:29:00Z
-    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-stroke-diagnostics-208124-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
-secured: "jSdbU2SgLryyIKUul3klB5OBgfRTUGpwOmket/y6k/KSoNy1VLrlYRE7BigEhSrOo1CwNv27FwN9hIp4DN3xs2sdlfrhQ/aId55GBoIUjzLizeR9ZUqdFPowJkQmEiFI2HETbLPBY1LqKNetfwERUHkenHbj2Kb6FiT0Zk7wWsPhraLcV9whm7OEs8OvrXGyLCzeJSHOyaawQlAn395xYuQtTMRNC9HAORfQxR0zTcwmAxhBQ2KTR7fMFcAMpNuxncZdhRsHpohjDF8gPhQQOf06h0bGZt4CFAG20FFIMPZlXL7kMzjIwSZLdEEeDEGUDGGCn/T8W/cmIhN1Ab4T7eUMl3VscueV1L9x5AJnWOg=;4jVqGcHrSe+GZr6bQ0+hJw=="
+secured: "UvdW9L7pUpb0Z7NeDhplSlXW3vcjObYNXp+UJCXEHJrF3XbOR3TTYNK1OCGGMeHyGiX6O1EaA+NTSrEzI4pWmAEJqxNAnjadalIMvzDFiVrV1axxZcNMR+rVRgeMdsqcFDHIbI9Uql5gsGrxkypnJCtJF3QhlDF3PW/XCgqds+5ic/NCFYx6DcNeSeE2agpBgqmx3F1MliNNMXJs3mUpLXm3jkErAX3TlhLX4sWmWdcjYTMeU7fS2gLp9DvgN1zsm7Ze8c+5ZdV6R4fUsbCBr+y0PphzPuyW+IeVltOux/IS+zwtAHqUAuLJOflQvLs6EmD0eNdUXOCi3YF9m6ZZOAv4Y2ENiDa5Cqmm/5WEyOi30k+249iwj90r4hEb0MIiMwlxMKUmxLWhu6CbsjTxFCsPC1eGrpl9LRcmdIFa73RTeXzr6+/7AHrE1nl9qhoiLAeV4kynKl0vm9wQRiJeqV/xkxaaRi/nLTZOD/wTkXHZG1vFhlU5u7fHvfxfNP5fM2f7aBAJxeZo8Pe1O9urjw==;77c2y7O0SoAZVS1I4ubtIg=="
 ---
 

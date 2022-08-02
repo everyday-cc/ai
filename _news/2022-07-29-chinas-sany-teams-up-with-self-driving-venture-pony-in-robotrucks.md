@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-
 webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-Sany-teams-up-with-self-driving-venture-Pony-in-robotrucks"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Pony.ai with Sany Heavy Truck reveal self-driving trucks preparing for service"
-    excerpt: "Self-driving startup Pony.ai announced on Thursday it will establish a joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to develop Level 4 autonomous trucks for logistics transportation."
-    publishedDateTime: 2022-07-28T09:50:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202207/28/WS62e25715a310fd2b29e6ef62.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 35
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202207/28/62e25715a310fd2bec990c07.jpeg"
-        width: 625
-        height: 416
-        isCached: true
 
 secured: "EXPXhECeQftcPNKkVns4fcF0jcYPwDEy8ysxEz/jazJwWVCrFVPshWmkT3cyavwhiqNOOtZchF1eejMjz9YcoZeCgCTx+0kirWe4bTjgvTFoDQI5U/dpiaZtjrX+6cHq+/Cm7SNRwdjDMvGgcyIM9kZiF8NNYLZg1iM2DCVjJYU7uj0kcrRPVNsvi9cgUqf1IitLU0GlmLK9nNao7X5MCOsCCsGXCRGlajbxf50C2m/RRgkesDu+wLvBE0u9qbfNVjE3n5avX2FZRxiHchnDFXT8XGWB7KNm8trwJkVVJg2tTyJeEe0tX1w4kAHOgPb7xCMmruWCz/RffUkcQBrmAiT0jejVLffg6p9KJYHHYnA=;gR4vF8x25ctShXHRDMgJ5A=="
 ---

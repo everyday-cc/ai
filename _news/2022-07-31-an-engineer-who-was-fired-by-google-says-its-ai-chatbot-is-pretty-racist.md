@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Engineer who said AI was sentient fired by Google"
-    excerpt: "A software engineer that claimed a Google AI chatbot called LaMDA was a sentient, self-aware person has been fired by Google's parent company, Alphabet."
-    publishedDateTime: 2022-07-28T09:59:00Z
-    webUrl: "https://www.techerati.com/news-hub/engineer-who-said-ai-was-sentient-fired-by-google/"
-    type: article
-    provider:
-      name: techerati
-      domain: techerati.com
-    quality: 19
-
 secured: "SB5BWbJ/q+uG6FEOKpHJNPEBzgc7IwFK6T4a3nwD0MSuwr8X+KsxWMwXQa79MMYzqO0zN5BdDtm2/EE+Rmuewqo7z2eezdFb5RFW1VVIpAIHUhtmdvapFg3Q4kZtlJhXAzP/yTeoDzOv7gW0WkEDHg/12qNtXhE6j5nDI38EMl+qSlCulr443WJthT9oKYuhlAIEpJNBkRFsC7NPtF0sbHEGDRKpsoeyWJLlCB6cggEZOIgOyrvzxlXY+vRcfzZ/mVnQ4TPfV0PU2Dc4Mp1IoA5x3KcjdbPe0rkf+zHzzkHEDoo/uoKDivUOJmeFzaZSECepsOiD8MjQgFXdcuQWq586Bk9jSsBSjMS9WHMQ8OQbzrw/+JcxavNEGiSB83LT+FyQskyn1BNChjrDPWj1ySCuVbe+GU1O91nf7kwuMv6MzXjKum7UevruIyiKSZCG1jt+JvV9R7NSMH/lmTVVrEjCNkaJ21BszeFMe5LHS7dzBi9GUhS0fVAFU3+1HDGwCOFnoPv3gVF8JG5ihksevA==;dnGcryNfC9bBwwQFLxNXFw=="
 ---
 

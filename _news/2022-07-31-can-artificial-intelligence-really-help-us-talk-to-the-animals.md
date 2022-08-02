@@ -3,8 +3,8 @@ category: news
 title: "Can artificial intelligence really help us talk to the animals?"
 excerpt: "A California-based organisation wants to harness the power of machine learning to decode communication across the entire animal kingdom. But the project has its doubters"
 publishedDateTime: 2022-07-31T14:00:00Z
-originalUrl: "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals?amp"
-webUrl: "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals?amp"
+originalUrl: "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals"
+webUrl: "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals"
 ampWebUrl: "https://amp.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "Y9AP7G6RI/UfBxzZtU1XvCp85GSLQqNSVOIk0gPjureAtCcibDz6c/nHcfdARjyFPmwPz3xQkF60uKuqnpMUSAZ18dq8Wp16Q6iZ6QzQC2GJMSG/f/kfTJE1L/E008ZgyyuB6NqjXXNpBKHgzGYGiTFzfEEj4vDlEMqqHcBiiLrCSjjipZlYtpnxIEoD9AXDzrhc0n2bPL9tlB3qWw/meFbsdyKZhE2/7+GRMDt3tbfKTmpHKPS1qFrf1d2Q4TXeXQpO2dvtKSGa08rmtFJhOsgxSQQjNmMIbPpBUD2Y1FkBjhVTN0/MPsEnNGhS+WYF8Q1gA9YUIOdki6Pdiaq1RvWFN0lK0vb2xLFHaht6PBM=;NTn3k4BBE2g6enl90RhaMw=="
+secured: "7QWfGL6Y3iXxROC2okdwp/1V6c43SCz7eMiTND7R4032o0bJlGUH7ft6f0FZNy1G64t66eYZ0P8ve24EExpC6WsEpPL0LeRN6mZNeCca3NjkOCpxYtHwdQP1v2YR8VXES0vzCzDC0uZE9Qzq0+AKMYZ4DccUXDIQrjGtcGiF6YtdrZPEEAKsbFfqnOH558ScLKR80K4S8rFXCBcw0YS1WeobDEAdU9lm7UhjQZho0tvYFhCayv13oH/f9bH9q+9MdUrZKFHzKUcZyUAHgZ1yrxheJCoudPT55CDPAasvJOE9kQIGLqTeGBjoYXqWKUfKDvSoOP43ApG8EqVdvCMZWt9Jk82eCcavnBekURgB+vw=;7gPDpyQdTXVJ2Bd9eGVyQA=="
 ---
 

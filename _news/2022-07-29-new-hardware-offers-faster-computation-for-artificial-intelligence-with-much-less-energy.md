@@ -1,8 +1,8 @@
 ---
 category: news
 title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-publishedDateTime: 2022-07-28T19:08:00Z
+excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
+publishedDateTime: 2022-07-28T19:51:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 related:
@@ -38,6 +38,22 @@ related:
       - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
+    excerpt: "Analogue deep learning, a new branch of artificial intelligence, promises faster computation with less energy consumption. The findings of the research were published in the journal ‘Science’. Programmable resistors are the key building blocks in analog deep learning,"
+    publishedDateTime: 2022-08-01T13:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/videoshow/93277578.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/amp_videoshow/93277578.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/amp_videoshow/93277578.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-93277578/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
@@ -68,6 +84,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ahodC7SmN27Jjzjor8B8mhcLt933StVZaz7IP/LxBvnkGJaln/LvUdgM6w9aVaPuReCnHa4Rv5cizKeOMXuq1ZgLMQONxDudZXnHFrJcv9VXC76lGfOTA22z/p0utyO2p4qVSmHEFhmNGGA8a8EmZZisaLRqL5ghPnKp6QfxuTHCLgjLUNMzUK8I7a7/Dkqm+bRDPVC0C9J7TonnmeZ15m3/nLwdrZM645sysWCOYCtUfbKgn7V5Tp5b9JLM+POpQIyY53P0S5YuaLpSp0yB/wmCmtUr2g/YNKmZdie3QmcnCLAgupmE0SJwmace1oIdu4pewMNZTarHEd7Fa7IeMvQMCvvAZJRJMl1EqRQa9y0=;UV/cdW8Kzo8725So4/nlZw=="
+secured: "TgnpasGjLThINAyy9kDnVqRmXpEEWxSKqg0jsP+LbaPKYgcIVGl0ulujIZCo0+SVAVq/GNgzPbUKXAPyzvgMJBL2LiLfeUZoMG5aFM1PQQgT/a53vlgrCUS1eOvLMhjgyBVuWAyD4/LppUtb+zRSBafOlJPBwSUQjjFJtFHq0EM59oQo0QK0L1RJ3gXZR+U4d5Jg4mW/lFUG8Y76iZGagphF+7khKwSkC5oNjBabhjJkS1SqmA2X3xymMlEVejBbKXyXFLShhvIoOMK8oOPhda4B29z2dcPzkOrH1uK3SL9quo/PtLIuzE/9ZuMzE3+sF3BCNDcJ/U8ktO29jWXIyACfNNOVSMAZYR68JQLguGE=;vpz2KLkVLoS1SjbIEVdq4A=="
 ---
 
