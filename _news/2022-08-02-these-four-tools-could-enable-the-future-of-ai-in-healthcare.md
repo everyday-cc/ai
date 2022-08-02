@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-02T14:39:00Z
 originalUrl: "https://www.openaccessgovernment.org/these-four-tools-could-enable-the-future-of-ai-in-healthcare/140794/"
 webUrl: "https://www.openaccessgovernment.org/these-four-tools-could-enable-the-future-of-ai-in-healthcare/140794/"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
   name: openaccessgovernment
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_154741318-scaled.jpg"
@@ -25,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
+    excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
+    publishedDateTime: 2022-08-02T16:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Changing the culture in healthcare organizations"
     excerpt: "From its earliest days more than two years ago, the Covid-19 pandemic hit hospitals and healthcare facilities with abrupt and harrowing changes. For healthcare workers, the trauma still reverberates."
     publishedDateTime: 2022-08-01T15:54:00Z
@@ -40,6 +55,6 @@ related:
         height: 312
         isCached: true
 
-secured: "V9pyOitAk0CQPj69T70c/rR2VJIDoX8Zr5wHLNDHhajU7cMZwza7d5sqpELMvubLutyMj5pEeG0si8pP3OEff96oTTybRNEcbo63fSQoiwq2czTcf2YQvnZozgtwJvAnKWcjoY7BAiHAE9uuOxeYPiYy5JloKSSs12QmxYipyZBD8BzV6JHQY4yyiurRGhs+1sXc3yZTyyUxdFcBxIyn2lnbKDNEktUyYaUCA7j5KnTndSuIq8UGFEGnq6XJGs/S9s8hrzfgE5k64V4Q2NVCpvbU1Z8Ryy2OtCdJRC4tlGvm9OVaN6ue8fMSTRLNWuDGSFYmS0W+ajyhtbUsXpmWt7MVSiIChTm40nc+BaKHIwg=;l/+ReAkgSBj9bE/pDqToow=="
+secured: "PQ/3dY5wrGRWoUdaei1mRfo9s+S7sbHmyctQdZxhoH345G0WhjlSJad8+164yEwq42Jp45inexBUTreru2YB5IB5f5iRgTkgcqPxgP/RovBTsF6BiiufgoU1Q56kYB3vDi8rT0RUR7CRQK3xtih5ayXipdwqFLfCQso5gYm0hlMxxX449uleSYsaDYWOV6GAZ6lQh5IV+U9yEn5AXvazpdHIzBHKr86oKnYY9lEke2Ilujt2FcM73OqjgCTBEdS8st36W3lQ9FLa7TTkGOSZoPjkLEji1okz3E4e9VHKdc3hioZiT6Gq6un6YSKxuyf2ymJjUV/px4YG9EYmwokKD3AoRNZB2YYj4+LWE+16aQqgX5ty2m6cKyvDLADmj7J2g8cpwkIrkWJdCUWbhOMn11FKp1EPSfyUcKmKWhMnDDIWdSAi9O+Y0PnkRI1zTlAV9czunbF2zbvf9xjmFr137UznaBnTMrmFGRVs0HqNTdJPc2+9USKcZm/ZC8AhfZrMIqe7UGGSHCHZb/PojSGGzA==;lvXiutA4KcAHzJqDAO4VNw=="
 ---
 

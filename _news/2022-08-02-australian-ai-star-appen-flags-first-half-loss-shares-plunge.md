@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Australian AI star Appen flags first-half loss, shares plunge"
-excerpt: "Australia's Appen Ltd, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc, said a spending slowdown by clients would bring its first half-year loss since listing, sending its shares tumbling."
-publishedDateTime: 2022-08-02T15:50:00Z
-originalUrl: "https://www.channelnewsasia.com/business/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2851966"
-webUrl: "https://www.channelnewsasia.com/business/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2851966"
+excerpt: "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,"
+publishedDateTime: 2022-08-02T03:41:00Z
+originalUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+webUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+ampWebUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "“Shell-shocked”: Australian AI marketing firm Metigy has entered administation, losing 75 employees"
@@ -40,6 +36,6 @@ related:
         height: 335
         isCached: true
 
-secured: "MLvkcdXKmIWYqmq5//HMsmd5jK06sBBlciaPX6G1oXrrMOdOIiZNxN1IRhpAzyGEIXSCtiyKN4vNbebuDEBy/AsBkPcqvTDpwyYTqvj5uVzu/aoa10nIZfzvcWmNq8FPJbe6iCezRipXe/YmLpEyn8dfrmKOpTJQK4iCohHFJYZFqyXpPNapstPeIoqrbQaVAptJtT7Mb1FZ+m1P85XJ23yhlMU4D30GkAWLDLbj7hYONeI1PnDYETVp+ns8Li0DKFLi2ZT75zlq1pJ2y4Ku1JhPBesJoIP2aswolxdYOwoHKr1sCmu3vZwpw8LX8dhFggocjNbje0RI9lLUiEpvNrPASx8SZhkpru/s7AVNUaI=;92ocaSN+zMBK/fmPIndHVA=="
+secured: "z7ZWsVdJbz1Yz0j29igqA++OoMG02qK/OKRGE9bZuBj1sD33YYBf1dGWZg5AhQfnK1AvC5Gzvv+uvpjfQDOSjcfv1rvg+o3h+KGGgJJY7uCR/loyPIdoDdadlPxI3q7jHY4n8hve2jr4rsKgaQss52WHJHOQHIe7IwI7Q0v65Zti0C9BEsCwp/XWvq7ezKbrCC0+L84RKyz4CiJYfQMdD64CJe+on7416uB5CPos9+Z0V9mBnahXLpDy6wyc++Fmn8UxELzv7MgbP6aYakyl5uIfaZEmwH5sO1fXoHs1Cm2dO1MF5Oib8wBZP6Z6c7t/XSStO/avpHTQ9sP6+OsOflwS7v1N1N74PSN1w9r6UMk=;j3HlxQswc89Od+PN1oeSXw=="
 ---
 

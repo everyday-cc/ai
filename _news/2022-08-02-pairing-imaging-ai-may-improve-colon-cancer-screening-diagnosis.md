@@ -56,6 +56,20 @@ related:
         width: 520
         height: 292
         isCached: true
+  - title: "Using artificial intelligence to control digital manufacturing"
+    excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers from MIT and elsewhere avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
+    publishedDateTime: 2022-08-02T16:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/960620"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4275e2d-14d5-4ca1-ae81-519496509e3c/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "DpO7qS87TMME1usl8VwI9muqwUVOdMMJmdcQSX9barbSs6WI+YJxbZBzz3xhZPEEyqnKvHqAbw/RnmcRNe1vNGXNnZw4YzU2JEO6/t0lzD3IvAT/xJpLVUo50dNoicx+MoseDkBco/g6p4cPYi57LFknzHwQeiOk3ZABkpAZ3nU+kBaNpW3KCj9IEzpkpRjzdPHqBOwfARPgxAo+dRZkzSIAmUspOnuu8uOek/SgJDa0wi7cSXYQxUDKHH/QJrS42Wp20uof6cqILNLq7csHxM7VnTal0h0OOVATCpfr5g69SHkY0K9fWA9b2o5J1FEwqlJqWegSYmAq+UGzrBlSvZEtIGqzg6AHlu5w4nv3J+E=;JdFwWpxyCEOmC5/1AvirmA=="
 ---

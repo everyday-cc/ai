@@ -2,28 +2,22 @@
 category: news
 title: "LTI Strengthens Strategic Collaboration with Microsoft"
 excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
-publishedDateTime: 2022-08-02T09:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-41ee5c29f9194ef5aacdc72bd7cb787b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-41ee5c29f9194ef5aacdc72bd7cb787b"
+publishedDateTime: 2022-08-02T16:20:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/02/9649236.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/02/9649236.htm"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "LU01qjN+sOV0CPzaExyudgMcX2pUA8+dcts47pNuORZUAUbItf+Z/mD0+JsBm5aFogKSBjQ0wgK8kSPRcxn64FQ7bKQSGZzwo6Slz8qtOCRyLdVnMBsXm80Ti6oWfwqlrbOkX/IwG6ObrE0SKgkWblm4UwdrQTfIwFoqFA/fAXFRo9onjtK9WXf6ldBaEYQMVtW8/2kkb5W58j66ZuSoySmZn1DshvWEOkfK6sWHl1NFXpOKnyne9KA7T/PZfLo53+NxGLpvFwCp/7OAVP6oHm4DEGxihZ1nhEkubNEH2yW9MTADVUTzDOr4UVJJ2dVkp3rej56ooiGzxG1ALIB7KnljZt5sIUwC+GmzS9157dc=;Qmi+k+QYETaw/HLQoMZcAA=="
+secured: "DeoP49C2NnbDgl5GbbESpymqT63tBQHuhJCWBbP910M6x/JZe4VGCdf0lSFswhmBqlxM75XqmKp5GaViMbCRAm1xCk29QsHbAJtBTJAGqPjkYgyP+1wZwxY177ZiD4sVLSv9IElYzbc80ZbzhSTZblPeu+5WLtQCjmzrrEO6UAsEYK+p7vnlcHpBSD93TBEVGGac2O4kvL5uWM9mIGAYwssouS4IMioTpw3/RrGy0sKIiZlD80fOp32V+UCjmv/mHQFnX8g4MOHFdSw7N/DkzbbYzNB/qlxly2ZFRZhiexNtOdV0WePojBgph8tIR4L1JFNel8LyTjTAR7N25mwwUU1lZYJ7nVbapIK38ypHgNU=;gSF7YO+5voItKNI1mm2WPQ=="
 ---
 

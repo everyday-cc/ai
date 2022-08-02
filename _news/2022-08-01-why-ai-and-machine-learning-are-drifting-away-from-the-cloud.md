@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-26577628
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
 type: article
 quality: 76
-heat: 96
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
         width: 520
         height: 292
+        isCached: true
+  - title: "Using artificial intelligence to control digital manufacturing"
+    excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers from MIT and elsewhere avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
+    publishedDateTime: 2022-08-02T16:24:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/960620"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4275e2d-14d5-4ca1-ae81-519496509e3c/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "Ebz2lA3+lHb7Ex0hzHtz7pche77RR7MrfcuVOZB7jqU4fNKuzu7mUnvDWCDkWYzvoIodWbOE/IDDCdZWoI86j8ZQzR6XaW3v+2cQZ6V9Izxv+UWu/HeDL1On2TfT3sJU2JWu4g/+iH14OZmW+IjAmkPVIf2CBHiNPmaJi2+HVajTV1NR5+ee1/obK5/bLfr5lt0fhW1NmqnJMIYAVoS8xkR93MgvZ7Gg8PmWILrcvgPG4l+mfYg2fat6U1U4uHoR9Jc6LiuisV9ZXLEpZxQwvF9m0NPYUlf871D/0L+4T7icFmyi3zGC5ET4zhEz0F2W/evpxGeM8jmHZD5yq9uJw2u+5v/LzXT9oyBn+C2yjRJx2Zki/D2yGILlXb6Ahaad/D3wizRw7oMPyj7h32fgqaoStmC0oFlKIwRiUN2n3i/iCUBdU2sTYZEXSeQdrmDSptnVkZiew7xcGCLK55/vywDCXSuiwMhCIYfAZ4JWmo3TyD6ZwIkbLgcIiiiX6DVyb24CtGSAaAQX5IQLaH67qw==;Y3ZdZt0NO5u0nB2ixHcBRw=="

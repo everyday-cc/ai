@@ -32,8 +32,8 @@ related:
       domain: menafn.com
     quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511055"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166236"
+        width: 444
         height: 250
         isCached: true
   - title: "Global AI Writing Assistant Software Market Set to Reach USD 1035 Million by 2030, With a Huge CAGR Of 15% | Growth Market Reports"

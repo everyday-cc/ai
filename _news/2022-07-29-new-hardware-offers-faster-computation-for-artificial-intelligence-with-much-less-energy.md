@@ -1,25 +1,28 @@
 ---
 category: news
 title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain. These ultrafast,"
-publishedDateTime: 2022-07-28T19:51:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage."
+publishedDateTime: 2022-07-28T18:00:00Z
+originalUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
+webUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI in Autos
-  - AI
   - Machine Learning
+  - AI
 
-secured: "YTnQ9XvY1stjmE+pnCb6fDLi6DoLdNsxxXrLackX2jOVfECVAaAG1kYEn1oIsLvPt8eMgumKXZU1ZJQkSwe7AWPCDFyRQ1CoqxCCI0x81q6wjKQWMLsTe0eEB7w2ewfkfFxvype+GLPUzlbjZEpcbYraf4ueYHqC+dtAq6zvEfpgzJRQ0+JtMrjXCBMptNTvwmLLRF2rpiFAQQ1D8SHew3P9HGt36UWDAYP3zl2BjKmIFPAwn+jjhU2sdk9biPowDtOZWHwJG2yIKoSe9tEKBgcyfek33kCSInndyLhD8BgIMsV1wdQD3cSoaZR3nuxfHbUhdO7jM532h7EDgVU5E2hx3fN4TqUrvPEAYBP3Kw0=;oPdt/RGbX6YRsH5xE7IolA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg"
+    width: 2480
+    height: 3507
+    isCached: true
+
+secured: "VN9xcZE4hFOKkYF3uqgIj66eX5iuUbhIh55L3xJ2+goXq6lP1bVgxcOwFx+y74rMF16vdiuxG/bTTVliB3O4AqkyEMTYMg59r1gNcacwMLLNgazhS5l+gH1vMYcLrwySGctv0Q1jkonm0xschUTHWfVnVQxLt9GEAiu6MOhuu6PaTwk3rMBa8btL/DHiSVCiMEMILNiuqG+7velr30ngQfC69Y7cVTQ5DTBROoTNfiPiL0ORYFmh/1VnBVt+ATPhZtnVQmN7etUqygbETGk1Mul4DFLBXKcOFYRfaW/ROkdM3czaxwpSl+rFddVHhhIXFOjwDvQ0ffwCS3hXhM3euLjjZThdaZX4+XzqF7P1yWc=;ivHEFpZYQDSKKj18Yvr9Nw=="
 ---
 

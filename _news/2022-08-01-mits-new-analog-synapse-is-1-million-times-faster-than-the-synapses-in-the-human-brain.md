@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Claims New Artificial Neuron 1 Million Times Faster Than the Real Thing"
+    excerpt: "Think and you’ll miss it: researchers at MIT claim to have successfully created analog synapses a million times faster than those in our human brains."
+    publishedDateTime: 2022-08-02T16:46:00Z
+    webUrl: "https://futurism.com/the-byte/mit-claims-artificial-neuron-1-million-times-faster-real-thing"
+    ampWebUrl: "https://futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/mit-claims-artificial-neuron-1-million-times-faster-real-thing-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "MIT Researchers Created Artificial Synapses 10,000x Faster Than Biological Ones"
     excerpt: "By building chips whose components act more like natural neurons and synapses, we might be able to approach the efficiency of the human brain."
     publishedDateTime: 2022-08-01T14:00:00Z

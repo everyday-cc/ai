@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/08/01/mit-researchers-created-artifi
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/?amp=1"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "MIT Claims New Artificial Neuron 1 Million Times Faster Than the Real Thing"
+    excerpt: "Think and you’ll miss it: researchers at MIT claim to have successfully created analog synapses a million times faster than those in our human brains."
+    publishedDateTime: 2022-08-02T16:46:00Z
+    webUrl: "https://futurism.com/the-byte/mit-claims-artificial-neuron-1-million-times-faster-real-thing"
+    ampWebUrl: "https://futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/mit-claims-artificial-neuron-1-million-times-faster-real-thing-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "MIT’s New Analog Synapse Is 1 Million Times Faster Than the Synapses in the Human Brain"
     excerpt: "New Hardware Delivers Faster Computation for Artificial Intelligence, With Much Less Energy MIT engineers working on “analog deep learning” have found a way to propel protons through solids at unprecedented speeds."
     publishedDateTime: 2022-07-31T20:21:00Z

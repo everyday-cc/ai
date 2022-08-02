@@ -15,12 +15,12 @@ provider:
   domain: menafn.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511055"
-    width: 375
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166236"
+    width: 444
     height: 250
     isCached: true
 
@@ -44,6 +44,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OW5hsY691fcfUY2ss5zI8gSX86s3poWGCkIO/U5nwiUWoMnXX5YLWq9ZCvLqEBBrpM2dI0Ll/OdU66kJ8o+kt2jbl6DJNjsXnbx8E/iEDfbkX0yrBXHvRWRO0740r9axn8eSmWworWR4WegDKN/VKCDPiXNWGPsvs6HqVRHkoWryeCyXR3ENONDkAvmhKt/5TC/U4Yo3vcjuwd8Pwqw2q3KGKIQTSCHh8E1r157FXXIYJGCgPqy7zhhNC96GFg1TmgRDja0HVDRPslrXbfZh4v3rgTp5eKtTDkpnbAgOk/Ohdz59Yy8F6NwpvGfOfTAHdFTSh06ttADbDmFxE7aZZ+BrEFMAQfuuLcGoHrzYIQo=;icasVDgPHvaQ7zUwhxp73A=="
+secured: "sOgjLsf5GdUCFvHCiLKvA0Wph9IHsr0f8c1zmfLQJVX/s2w58Y8Ikm84MwtZwLbY4VMhhlocWsYCK2zKgYIyNUB3XPKFrVF5dxolBe9isRGh3ZMaFwv1S4AghyK0TbxcoOCDGYD16uK7ZTQo87291kOHH/LYt2uqCtxbziGTpkMxsbhY87mI5rY6wJRGoSg9wgbZSQI8WJVHIZz9NG3FjuYGnnjH4SrhCq0EvmrB44RV4wNYZf8JJqw2J/2pS5RYgaFU42H3i0l0GZEoACVJxBSv7f2zpUmbZoLouSC69KLh09U9DE2O5bgXWti9ROMzgXmB3TAuYlcuwn73n2IcXnZ6qrHXBJEby2bTf3iqsdo=;Pppder2gZRltt8/VwILqqw=="
 ---
 

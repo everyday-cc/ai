@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Vetted Raises $15M For AI-Powered Product Search"
+    excerpt: "Product search engine Vetted has raised $15 million in a Series A round led by Insight Partners. Vetted uses AI to help online shoppers find products."
+    publishedDateTime: 2022-08-02T17:43:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/artificial-intelligence-venture-e-commerce-products/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/SoftBank_Ai_Investment-2.jpg"
+        width: 900
+        height: 506
+        isCached: true
+
 secured: "p0mX9I4h8bkP6/X8YNGwZLKUaU5zJS1aRNOZNWF2gYSpndjk2GCc2+bFJGOkz2lycUdv7nhdmz+YbhbD7otLzLfXOVAc8DLE1BfiLaEJ8DzglmwTazhcfEu0FoLKamR6m/IvbDrkGZcZX2+QYtysLDosfyZx8iARY+uz0/onq6cxBsKaIfc84DsqqW2H+pQQVEtXRSthX9h9BCLFYyNwh2aWHgiAuB7F+zBFPnhJ1gyTHXz39Tdc7RJN/QqEXI0GDOgv2JHtjUVA3YiDvzML0JAvae7LaaeJcTwh9jlsCYQZBPmJJ5/dmn3fD75C7lhLIPHaK2Xe5pFhtRW2bK1q2/2Adj4WN1lCv06rcBSAcascdOPwsCHD2ejuw7mksosVdFDKwu0jsJys9Fa2hNZGx09CVrw+rQwR7aRfFSnqyq90sNTXYs8fIBmfyoq+CS25A5So1M2vf36sz0wsNhH7+WAA6T7QVNf18XBHlSZme58bc1j7dKIynAUW9OLElFHHktgXQsQjBizsEocjNjLscg==;jK0Zdt2EXLm+Qt/HYjL4+g=="
 ---
 

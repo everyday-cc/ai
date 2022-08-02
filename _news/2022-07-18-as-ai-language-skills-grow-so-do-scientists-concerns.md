@@ -1,20 +1,26 @@
 ---
 category: news
-title: "As AI language skills grow, so do scientists’ concerns"
-excerpt: "A coalition of AI researchers is launching an open-access language model meant to bring some transparency to a relatively secret technology."
-publishedDateTime: 2022-07-18T14:56:00Z
-originalUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
-webUrl: "https://www.nbcnews.com/tech/tech-news/ai-language-skills-grow-scientists-concerns-rcna38698"
+title: "As AI language skills grow, so do scientists' concerns"
+excerpt: "Big Tech company Meta, the parent of Facebook and Instagram ... set their own internal AI safeguards, Liang said what's needed are broader community standards to guide research and decisions ..."
+publishedDateTime: 2022-07-17T23:59:00Z
+originalUrl: "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns"
+webUrl: "https://www.stuff.co.nz/technology/digital-living/300639733/as-ai-language-skills-grow-so-do-scientists-concerns"
 type: article
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
-secured: "hBoAr+bSwnHrH/LtMli2+lGKkbNW3+KiHvSjiFPZx4DLcILqLhviVYdr1f0tbNFLImYuBYke1zY24t+3RIhHJVFcdhwuoRmi3SbGuEGjCQnawvAit00RjLkZasp94I+GMPVEspoZli5EAkNshIWRooqWBcEkNWtMyRtU0m8g8PK+RBzsI9ui/Zy7KQHEQChXBdqI2j8cuK8MgVauB8P+X6elNfrkgurral/TZNL6nKwTXpgfICKjYgoveWG+Qsz9Q+0FTo964Pr2zTO6UqXu3bLQufXNT38HJQIY5KVeZKKzUBiip/kQtHJ87RqX/92PV2Zj78RwByZpO//OBmgSNKC5Hk4JdU2o3HZgG46eJL62lWjkgFpURJZgw9kv+DTOa71abzYA0xBaAseYc4YCPrzgwPJmPlPgc6cAbA/+QtbfJwJKLjJ9FHh6imAhjYWBTBeDJXFUtAcs5CMtzjFJ919Xhb64F7kyacRDshHPRfvzM0YTEs6d0sizDG/fyWLsOqdplilyDB2ZxCE4RRz39w==;UUgL9rM7S4VPOtiV9g7HmQ=="
+images:
+  - url: "https://resources.stuff.co.nz/content/dam/images/4/y/w/h/3/q/image.related.StuffLandscapeSixteenByNine.1420x800.4yzr3p.png/1658101675506.jpg"
+    width: 1420
+    height: 798
+    isCached: true
+
+secured: "0RJDraPku1Y4Rxx0QFdceU3KNnhEeuGtVyPYoNhBrqF6L2+W1mihO8Z9+5kAWagm5WGDGBLVgoejbPgzet6iOo43C8mOrYhjrWA9cbrYzmMYxoIxhGJKWW75Whws5kfhwN6D0O5dmiozpVyDn/RvI0oDO4d1Cgla8PqKJeLKVlDw0slU12iWC0UfyegCqxXInsTC9V9jQ3seMUxkC4x+WF+2Tn8owjdFHfcrj+JY1YV4ebkUjkpIkxHaXr9vZZJbYZeCLGiqRiTgU/UDkOPgyJNVkYbvutEPjK6//s4wCOdup42RkRQvQ5Smkbha1VSOxxgQenimTk+JYjm74EEFTINHtSagIxGhjbkCtePrOr4=;+OXDdq7cZEhP8liMSwXPDw=="
 ---
 
