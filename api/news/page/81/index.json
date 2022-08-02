@@ -2,6 +2,92 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
+      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
+      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
+      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-amazon-chooses-top-startups-for-2022-aws-space-accelerator-programme.md",
+      "title": "Amazon chooses top startups for 2022 AWS Space Accelerator programme",
+      "excerpt": "Amazon Web Services (AWS) - the cloud computing wing of Amazon - has selected ten participants for its 2022 AWS Space Accelerator programme, chosen for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
+      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/05/26181543/AWS-accelerator.jpg",
+          "width": 919,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
       "title": "Platinum Jubilee: AI robot paints Queen's portrait",
       "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
@@ -1034,74 +1120,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-emersons-zedi-cloud-moves-to-microsoft-azure.md",
-      "title": "Emerson’s Zedi Cloud Moves to Microsoft Azure",
-      "excerpt": "By synchronizing this data, cloud platforms can enable end-to-end planning and visibility that would be difficult or impossible if local, on-premises servers were used instead. Moreover, the cloud is increasingly seen as a key factor in helping companies meet sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
-      "originalUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-how-to-use-windows-speech-to-text-for-hands-free-typing.md",
-      "title": "How to Use Windows Speech-to-Text for Hands-Free Typing",
-      "excerpt": "Both versions of speech-to-text use online speech recognition to convert your spoken words into text, so you’ll need an internet connection for the technology to work. Speech-to-text is built ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "originalUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techlicious",
-        "domain": "techlicious.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

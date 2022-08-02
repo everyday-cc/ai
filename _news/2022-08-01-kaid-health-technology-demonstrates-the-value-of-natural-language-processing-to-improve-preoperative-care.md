@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T14:01:00Z
 originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
 webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: 01Net

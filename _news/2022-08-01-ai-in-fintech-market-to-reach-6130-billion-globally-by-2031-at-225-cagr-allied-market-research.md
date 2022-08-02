@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T12:52:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

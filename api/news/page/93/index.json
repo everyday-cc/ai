@@ -2,6 +2,102 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2022-05-19-ucsf-study-combines-ai-chest-radiographs-to-map-out-health-concerns-expenses.md",
+      "title": "UCSF Study Combines AI, Chest Radiographs to Map Out Health Concerns, Expenses",
+      "excerpt": "Researchers using deep learning tools to analyze chest radiographs found that they could predict patient costs at one, three and five years and identify high-risk patients, enabling health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/ucsf-study-combines-ai-chest-radiographs-map-out-health-concerns-expenses",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/ucsf-study-combines-ai-chest-radiographs-map-out-health-concerns-expenses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_407506846.jpg",
+          "width": 2732,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
+      "title": "From LEGO competitions to DeepMind's robotics lab",
+      "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-plus-one-robotics-to-present-parcel-sortation-robot-workflow-at-automate-conference-2022.md",
       "title": "Plus One Robotics to Present Parcel Sortation Robot Workflow at Automate Conference 2022",
       "excerpt": "Plus One Robotics, the leading 3D and AI-powered software maker for logistics robotics, will showcase live demonstrations of their revolutionary PickOne technology, which features Yonder, the company’s award-winning remote supervision product,",
@@ -1026,109 +1122,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next.md",
-      "title": "Synchrony Financial Stock Lost 10% In One Week, What To Expect Next?",
-      "excerpt": "The current scenario is likely to increase the credit risk, leading to an increase in the provisions of credit losses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6284647b19c3382449b0251b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/05/18/synchrony-financial-stock-lost-10-in-one-week-what-to-expect-next/amp/",
-      "publishedDateTime": "2022-05-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-can-you-trust-ai-to-help-navigate-todays-digital-business-landscape.md",
-      "title": "Can You Trust AI To Help Navigate Today’s Digital Business Landscape?",
-      "excerpt": "As artificial intelligence and machine learning technology continue to advance the digital business landscape, you may ask yourself: Can I trust these systems to keep my brand reliable and to remain ahead of the competition? Building trust in AI is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2022/05/18/can-you-trust-ai-to-help-navigate-todays-digital-business-landscape/amp/",
-      "publishedDateTime": "2022-05-18T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -148,20 +148,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s DeepMind AI cracks 3D structure of nearly all proteins known to science in major breakthrough"
-    excerpt: "Determining 3D structure of a protein used to take many months or years, it now takes seconds’ Google ’s DeepMind AI has predicted the 3D structure of nearly all proteins known to science, an advance that can lead to a better understanding of rare genetic diseases,"
-    publishedDateTime: 2022-07-29T03:44:00Z
-    webUrl: "https://www.independent.co.uk/tech/google-ai-deepmind-protein-universe-b2133786.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 38
-    images:
-      - url: "https://static.independent.co.uk/2020/11/30/19/SCIENCE%20Proteins%20%2007163297.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 826
-        isCached: true
   - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
     excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
     publishedDateTime: 2022-07-29T12:00:00Z

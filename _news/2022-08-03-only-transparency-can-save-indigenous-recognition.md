@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T17:30:00Z
 originalUrl: "https://www.smh.com.au/politics/federal/only-transparency-can-save-indigenous-recognition-20220727-p5b549.html"
 webUrl: "https://www.smh.com.au/politics/federal/only-transparency-can-save-indigenous-recognition-20220727-p5b549.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Sydney Morning Herald

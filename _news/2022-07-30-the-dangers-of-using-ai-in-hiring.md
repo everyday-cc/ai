@@ -22,7 +22,7 @@ related:
   - title: "How rangers are using AI to help protect India's tigers"
     excerpt: "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink."
     publishedDateTime: 2022-08-01T23:07:00Z
-    webUrl: "https://www.bbc.com/news/business-61824904?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.com/news/business-61824904"
     ampWebUrl: "https://www.bbc.com/news/business-61824904.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp"
     type: article

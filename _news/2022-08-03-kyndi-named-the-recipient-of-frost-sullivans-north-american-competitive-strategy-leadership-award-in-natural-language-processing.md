@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T18:37:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-kyndi-named-recipient-frost-sullivans-north-american-competitive-/2022/08/02/9649313.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-kyndi-named-recipient-frost-sullivans-north-american-competitive-/2022/08/02/9649313.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

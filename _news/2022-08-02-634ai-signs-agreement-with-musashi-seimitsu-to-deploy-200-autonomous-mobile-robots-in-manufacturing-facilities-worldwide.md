@@ -26,6 +26,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "634AI To Install 200 Autonomous Mobile Robots In Musashi Manufacturing Facilities Worldwide"
+    excerpt: "634AI , the developers of Maestro, an artificial intelligence-enabled control tower for indoor mobility management, and Musashi Seimitsu , a global tier-1 auto part manufacturer, have signed an agreement to install 200 autonomous mobile robots, powered by ..."
+    publishedDateTime: 2022-08-02T19:41:00Z
+    webUrl: "https://menafn.com/1104634174/634AI-To-Install-200-Autonomous-Mobile-Robots-In-Musashi-Manufacturing-Facilities-Worldwide"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+
 secured: "Iidwb0mzPaBu5x+ml7I42gybEjjRc+exsFnBkL9kH8plPPDvyO++qnA8eolAM0v2RdyFqJOkKXJDJRG7LdQOBmrSGSWruqS19MdtJskA3eFFEAd2KUAWIms/SNE976EuvJtu0MmxiVGs0RA1kT/Xl0lqtliN4HCsOx0DHXZ7UZco0ol997Ld2Tj2lqSSGHx1ErQWa59+BOLuhQ/qLd/JX3868nYG+imItzMSKTD+uZ8Pt6xy5D9IuugUhaLnfexuaTgu1lPGeN+w72uH3Awlrg8mg0u8MBZC6AhQ2JKTOOmrag4clGaJOKOIg4hPwTGN0tEaiyU38MezmoKch1bMKgi2GQNrm3YTg8AIyQVnSjY=;JYJC9XC2za0j9+5fxCaH3A=="
 ---
 

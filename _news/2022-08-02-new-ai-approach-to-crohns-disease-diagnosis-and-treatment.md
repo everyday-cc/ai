@@ -7,7 +7,7 @@ originalUrl: "https://www.israel21c.org/new-ai-approach-to-crohns-disease-diagno
 webUrl: "https://www.israel21c.org/new-ai-approach-to-crohns-disease-diagnosis-and-treatment/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1600
     height: 901
     isCached: true
-
-related:
-  - title: "Taiwan Firm AHEAD Medicine Disrupting cell analysis with AI to help accelerate disease diagnostics and cell therapy worldwide"
-    excerpt: "AHEAD Medicine's AI platform removes bottlenecks in drug discovery, clinical trials, and patient treatment, increasing speed, accuracy, and reproducibility. TAIPEI, July 28, 2022 /PRNewswire ..."
-    publishedDateTime: 2022-07-29T03:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/taiwan-firm-ahead-medicine-disrupting-cell-analysis-with-ai-to-help-accelerate-disease-diagnostics-and-cell-therapy-worldwide-1031627849"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1868815/image_5019932_6401767.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "25QtvWAIGaMHO4EWqa0frULC9f322hOzsXVVBHQenABqsKDHLgFYEdT3GmxuOZPkz+XdWpnl9Gq9DJji8+I74WkJCaXWF3Qbxj+At4y185NVNfG1h3VnC3SJhu+7E0hQUsN1pcVX0kyjjBcBqykX2Bh97NhLAvavP96Fvon9WXrSoLadOfXKKFJEonpZmEGuBIziXHCk8MEOiDWSUCIXCWxsthTMFrfwQrrSH5pYn1dCUJdveJ0VZol430QRuT8z+JWW1DnJuy1MmV0g5g64rh5uOMFXK/f6L9saDQP9dLNkZyX1yMex0koAAF74ZH1qZLvgb/3I+3Gh1ZzUuONYVhTznVIlv/VbR72L/slvFOL16aTaHZWaPuFhRBX2Y0OkuL1sv1Qh1/dgrY5OP/vFMJnYuaJYP9rXMG9QyJ6s0H81jppaLwcT1oDquBpJKgvGAWsE/DgSrS8cOiH8+0KpPf5LCZOFrQ+hZiASxbmAQ9jd8HqsjekhsC14YIxSDTtyyflIvYYm9z6hHUju83qTRQ==;OgVP3MFM3U7mf5QBJUDrhg=="
 ---

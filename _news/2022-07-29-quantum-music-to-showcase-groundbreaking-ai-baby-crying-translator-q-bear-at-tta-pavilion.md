@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/quantum-music-to-s
 webUrl: "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -27,31 +27,6 @@ images:
     width: 400
     height: 267
     isCached: true
-
-related:
-  - title: "VM-Fi's Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion"
-    excerpt: "Backed by 5G and AI technology, the highly-scalable speech-to-speech translation turnkey solution reduces the MICE industry's dependence on"
-    publishedDateTime: 2022-07-29T02:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1868803/image_5019932_6176121.jpg"
-        width: 297
-        height: 400
-        isCached: true
-  - title: "Cubo Ai launches new sleep sensor pad to boost award-winning AI baby monitoring system at TTA Pavilion"
-    excerpt: "To further boost the safety of newborn babies as well as the peace of mind of parents, Taiwanese tech startup Cubo Ai has launched a new product to augment its award-winning Cubo Ai Plus Smart Baby Monitor - the AI Sleep Sensor Pad."
-    publishedDateTime: 2022-07-29T04:17:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-6dbb0b344d6f4097be7af5dbd088e580"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 1
 
 secured: "a3F4FCQ97YJ4HTS1tg0gmYhHrDYgW3xbqRoM1uf36aK1uRdeEO6TryUzyKWxDFLqsPaMFcmC/QmhzRSBdrYNp+s6ojOaMC0M0WcCLL1Kfp+g7AjTyTSvzqOiievGrR5bTmJ8j/iUYiQTvBgLA+TqI/uJdsro9iYaviUnePmtCWj/Z214ixI3t8NRJlgqFv3KMfl/xjP52HKnVLamtiObunMxNl3VE46IeUdw6UqAy//P5bxHpM+YPWxyjhQ6g8d/bZ3D9IhmxQ5MyPJQMGkotltxK6gQBKvg2r4899n/2Y6HTJTknPJtd/jDcsWvDkx9ihqR8jWYE6lDVgUoedbPdStG0FWVJS77cDhYcJsgDO+m5yOLZ5c7RTrQbR9CkCxiZ6gt95T77xEV2uSpDP7dKORrhhtODjZ+SNLbqO5etiPfJfDbc3VyI0Fs1ZpCAVRiOO5XwbthXQp/avwxX6aUHc0s8UrZGUK5tDiD+hUhogZR9VBH5Kjry+E7B+FUzDjeZc/bnDxCgMUI6TTO7Nx7Cw==;9p6NEk6GbB3Tj8A/aZqEMw=="
 ---

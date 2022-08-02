@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-02T14:00:00Z
 originalUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
 webUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

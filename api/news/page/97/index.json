@@ -2,6 +2,92 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-05-16-intels-beta-gpu-driver-reveals-full-arc-lineup.md",
+      "title": "Intel's beta GPU driver reveals full Arc lineup",
+      "excerpt": "Arc 3, Arc 5, and Arc 7 series GPUs The latest Intel Beta GPU driver pretty much listed the entire Intel Arc GPU lineup. Although it is meant to be used for Arc A350M and A370M mobile GPUs, the Intel Beta 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
+      "originalUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/b6951925c8e044dfddcb62308f409b94_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-behavox-research-on-continual-learning-featured-in-international-conference-on-acoustics-speech-and-signal-processing-icassp.md",
+      "title": "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "excerpt": "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-dental-ai-startup-wins-second-fda-clearance-to-detect-top-oral-diseases.md",
       "title": "Dental AI Startup Wins Second FDA Clearance To Detect Top Oral Diseases",
       "excerpt": "The FDA has awarded dental AI startup Overjet with landmark clearance to use its software to detect and outline cavities in patients’ X-rays. It’s the second FDA clearance for the company, co-founded in 2018 by CEO Wardah Inam almost a decade after she ...",
@@ -1008,82 +1094,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-ai-trends-to-watch-out-for-in-digital-healthcare.md",
-      "title": "AI trends to watch out for in digital healthcare",
-      "excerpt": "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
-      "publishedDateTime": "2022-05-14T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine.md",
-      "title": "Artificial Intelligence In Medicine Market Growth Scenario 2028 | Cyrcadia Health, AiCure, Modernizing Medicine",
-      "excerpt": "Latest survey on Worldwide Artificial Intelligence In Medicine Market is conducted to provide hidden gems performance analysis of Worldwide Artificial Intelligence In Medicine to",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
-      "originalUrl": "https://xaralite.com/21351/technology/artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-14T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

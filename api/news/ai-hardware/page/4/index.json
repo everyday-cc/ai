@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-06-15-think-silicon-to-unveil-industrys-first-risc-v-3d-gpu-at-embedded-world-2022.md",
-      "title": "Think Silicon to Unveil Industry’s First RISC-V 3D GPU at Embedded World 2022",
-      "excerpt": "Think Silicon®, a leader in ultra-low power graphics IP, will showcase the industry’s first RISC-V-based GPU – the NEOX™ G-Series & A-Series – at Embedded World 2022. The company will also introduce the NEMA®|pico-VG,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-greece-athens-fda81fdd2c7f9daa492ec82dc36455e5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-15-mit-has-made-a-lego-like-ai-chip-that-stacks-to-upgrade-your-device.md",
       "title": "MIT Has Made A Lego-Like AI Chip That Stacks To Upgrade Your Device",
       "excerpt": "MIT engineers have now developed an AI chip resembling LEGO as they intend to create modular and sustainable electronics.",
@@ -1340,6 +1306,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
+      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "excerpt": "Performance targets were exceeded in machine learning and molecular dynamics, which are essential to advancing scientific research and discovery STUTTGART, Germany–(BUSINESS WIRE)–Inspur information, a leading IT infrastructure solutions provider, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
+      "originalUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
+      "publishedDateTime": "2022-06-01T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
         "publishers": null,
         "authors": null
       },

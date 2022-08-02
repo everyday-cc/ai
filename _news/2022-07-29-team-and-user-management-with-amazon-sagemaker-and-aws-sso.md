@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-manage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/team-and-user-management-with-amazon-sagemaker-and-aws-sso/"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -23,18 +23,18 @@ topics:
   - AWS AI
 
 related:
-  - title: "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store"
-    excerpt: "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,"
-    publishedDateTime: 2022-08-01T17:58:16Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/"
+  - title: "Scale YOLOv5 inference with Amazon SageMaker endpoints and AWS Lambda"
+    excerpt: "After data scientists carefully come up with a satisfying machine learning (ML) model, the model must be deployed to be easily accessible for inference by other members of the organization. However, deploying models at scale with optimized cost and compute efficiencies can be a daunting and cumbersome"
+    publishedDateTime: 2022-08-02T21:11:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 75
+    quality: 104
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png"
-        width: 1199
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/22/ML8827_image_01-934x630.png"
+        width: 934
         height: 630
         isCached: true
   - title: "Fine-tune and deploy a summarizer model using the Hugging Face Amazon SageMaker containers bringing your own script"

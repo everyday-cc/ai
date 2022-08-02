@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-02-metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.md",
+      "title": "Metaverse to create next evolution of consumer spending patterns: NatWest",
+      "excerpt": "The pandemic brought the urgent need for enterprises across the spectrum to adopt new and emerging technologies. The global banking sector has been at..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91959600,imgsize-47826,width-1200,height-628,overlay-etcio/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/metaverse-to-create-next-evolution-of-consumer-spending-patterns-natwest/91959600",
+      "publishedDateTime": "2022-06-02T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
+      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
+      "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
       "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
       "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
@@ -1230,92 +1317,6 @@
       "provider": {
         "name": "ARN",
         "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
-      "title": "AWS and Temenos team up for speedier banking",
-      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-puts-digital-banking-on-aws.md",
-      "title": "Temenos puts digital banking on AWS",
-      "excerpt": "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
-      "originalUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
         "images": null,
         "publishers": null,
         "authors": null
