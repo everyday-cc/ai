@@ -465,11 +465,6 @@
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/soundhound"
       },
-      "twitter": {
-        "username": "SoundHoundInc",
-        "url": "https://twitter.com/SoundHoundInc",
-        "followers": 672
-      },
       "yearFounded": 0,
       "locations": [
         "Santa Clara, CA"
@@ -1318,7 +1313,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 52401
+        "followers": 52402
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,

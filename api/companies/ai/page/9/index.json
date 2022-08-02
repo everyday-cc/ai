@@ -208,11 +208,6 @@
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/soundhound"
       },
-      "twitter": {
-        "username": "SoundHoundInc",
-        "url": "https://twitter.com/SoundHoundInc",
-        "followers": 672
-      },
       "yearFounded": 0,
       "locations": [
         "Santa Clara, CA"
@@ -1136,7 +1131,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 74898
+        "followers": 74899
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
