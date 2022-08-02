@@ -374,6 +374,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Peter Dutton tells MPs many Australians don’t understand Indigenous Voice to Parliament proposal"
+    excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."
+    publishedDateTime: 2022-08-02T08:13:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-tells-mps-many-australians-dont-understand-indigenous-voice-to-parliament-proposal/xbpxhiwpp"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 11
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/cae5c41/2147483647/strip/true/crop/1999x1125+0+3/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb7%2Fb5%2F23aa56be45469bad0a699838535b%2Fdutton-parliament.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
     excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
     publishedDateTime: 2022-07-30T13:53:00Z

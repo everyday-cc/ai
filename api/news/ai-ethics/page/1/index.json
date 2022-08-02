@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
+      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
+      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5.md",
       "title": "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)",
       "excerpt": "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations.",
@@ -1366,58 +1419,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems.md",
-      "title": "AI Ethics Starkly Questioning Human Voice Cloning Such As Those Of Your Deceased Relatives, Intended For Use In AI Autonomous Systems",
-      "excerpt": "AI Ethics questioning whether human voice cloning such as using your deceased relatives is appropriately being used in AI autonomous systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb86dbc92b5006564a638a/0x0.jpg?format=jpg&crop=2032,1354,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
-      "publishedDateTime": "2022-07-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-26577628
 cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pairing imaging, AI may improve colon cancer screening, diagnosis"
+    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering at the McKelvey School of Engineering at Washington University in St. Louis, has combined optical coherence tomography (OCT) and machine learning to develop a colorectal cancer imaging tool that may one day improve the traditional endoscopy currently used by doctors."
+    publishedDateTime: 2022-08-01T17:35:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/colon.jpg"
+        width: 1920
+        height: 1800
+        isCached: true
   - title: "Making AI faster and more energy efficient"
     excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
     publishedDateTime: 2022-07-28T21:51:00Z

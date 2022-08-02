@@ -1,23 +1,29 @@
 ---
 category: news
-title: "634AI signs agreement with Musashi Seimitsu to deploy 200 Autonomous Mobile Robots in manufacturing facilities worldwide"
-excerpt: "AI, the Israeli developers of MAESTRO, an AI-enabled control tower for indoor mobility management, and Musashi Seimitsu, a global"
-publishedDateTime: 2022-08-02T07:07:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/634ai-signs-agreement-with-musashi-seimitsu-to-deploy-200-autonomous-mobile-robots-in-manufacturing-facilities-worldwide-812655124.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/634ai-signs-agreement-with-musashi-seimitsu-to-deploy-200-autonomous-mobile-robots-in-manufacturing-facilities-worldwide-812655124.html"
+title: "634AI Signs Agreement With Musashi Seimitsu To Deploy 200 Autonomous Mobile Robots In Manufacturing Facilities Worldwide'"
+excerpt: "AI's MAESTRO, an AI-enabled autonomous mobile robot management platform will be responsible for managing 200 AMRs also supplied by 634AI <"
+publishedDateTime: 2022-08-02T09:32:00Z
+originalUrl: "https://menafn.com/1104630360/634AI-Signs-Agreement-With-Musashi-Seimitsu-To-Deploy-200-Autonomous-Mobile-Robots-In-Manufacturing-Facilities-Worldwide"
+webUrl: "https://menafn.com/1104630360/634AI-Signs-Agreement-With-Musashi-Seimitsu-To-Deploy-200-Autonomous-Mobile-Robots-In-Manufacturing-Facilities-Worldwide"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "btZqdhya7gAGD09xZ+SJQSmie4bM2fiErciorcmJEBf2Ey85N+BS46d0hBio3GCxi78HIsqoSWSSOrt2hHmzLcwEU1e4eZmpp0IDfizU2ZmevIcTmhd+qhc3jn9jzbOB6GLXRJ3GxQwIO2ZtDbSfyLOKLJFenSqp2vS9TCYlXW0kKbeU2ZyY7zkLoBC4kaTY8NXNRHWu1M23DejqliqQgEdMv5opE7pD6/b3phPUJl/MwEsPDU22bilFgTqrz1bPoh6AEWhxGqcNxeUsHOWPs4QdXaZ2BM58xy0sMoC+Ik3FWgkaZGFUTr+OJRQR/TPRfW5B1MnxPTF3+mywEn8CjBkPwU7+LvQrCM1+Xavd1UU=;UuTUbslnUiXVedWxbGw1vg=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511055"
+    width: 375
+    height: 250
+    isCached: true
+
+secured: "O3Z3i+UdT3sGA+RHf+JQeuMi2nuLaUmfUDZb8ZAPk8mJBonKKVNbljNir+PCCVg620mncSOcQkBVf5m/b+biu3jnURl2fADYBVTFnbqVDggjut7ZPh6P420rF/xA+bGhKAx8BuRVyZ3COA8qbW7eHxbxftHHqVj0w9FkEIr4VrPRUv0/3BsWGKY7440zr5I7jv+VKWpQxWOL+Jl0gRcBqKM1CLd3tRAlm6HoeKDhSlYpBkaDhuo0FFWBwavUb61Ub2LA1NbPrXTcnCMGOss9ZE01fVk++aPLC8khlanRn00Lurh+6GCMtYRf8TUUlf+1waxyU5zsfy4pxlxVsBEu32jGc87vOGI1GcrtsL1Ri1w=;30zqGxyD1k1N9usL7vzKSA=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 405
     isCached: true
 
-related:
-  - title: "Innodisk Announces Launch of Edge AI SSDs"
-    excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals, is pushing the development of edge AI technology, and in"
-    publishedDateTime: 2022-07-28T15:46:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/innodisk-announces-launch-of-edge-ai-ssds-865156727.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1868255/PR_Photo_Edge_Server_SSD.jpg?p=facebook"
-        width: 1600
-        height: 838
-        isCached: true
-
 secured: "zMNOH818LRax/yOoYdOMPOeWgW3eyLVQ1hsCb9w2iy/SygWRrjKJ143EW5AgDZvTHm5W0FMigb51tDMq4bZlznpTe9zM2eca4HgOQPicOuGUllyJxwpWdNOo0gi2z4Bj5oa5ctjEAzQDdO148/CocWjvmRuZgSJTdYVvSbLhLHXP3xTWky8kKomijGgww4MvgjLu4ecmwDQ07JqAdO1HJaLBMADBCyIDmckBkwG4HG6xZQi+x/dvDmyGXTx6Jt0d01Mjs7egIloU89382Gz6MbHGuc4PffbHJO/y01G9DVLIIksJ+42vGKjDoHo3Mdgi47uUGjsXlhM1lt0VhwrFwy+P6F9lkor1OGrls3LoYzE=;vHtaVEaZnLKubPmsCN4uNw=="
 ---
 

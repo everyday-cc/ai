@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
+      "title": "AWS Selected as Delta's Preferred Cloud Provider",
+      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
+      "publishedDateTime": "2022-07-11T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-find-what-moves-you.md",
+      "title": "Find what moves you",
+      "excerpt": "First Drive: 2022 Lucid Air Grand Touring Performance Delivers Exactly That The Lucid Air's top-level Grand Touring Performance trim stays true to its name with refined luxury, impressive range ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/1167/",
+      "originalUrl": "https://www.cnet.com/roadshow/1167/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e588511b23a04b20ba1b2bcbad43926e66cca8cb/2022/04/27/6e683780-bcc3-41c7-99a7-adfdfda611c1/avatar-cnet-cars-square.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-10T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
       "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
       "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
@@ -1329,92 +1424,6 @@
         "AWS AI",
         "Machine Learning",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
-      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
-      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
-          "width": 1248,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T10:56:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte.md",
-      "title": "Artificial Intelligence in Accounting Market Size Analysis, Current Status and Forecast 2022-2028 : IBM, Google, Deloitte",
-      "excerpt": "Click to get Artificial Intelligence in Accounting Market Research ... or manufacturers included in the study are Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-accounting-market-size-analysis-current-status-and-forecast-2022-2028-ibm-google-deloitte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

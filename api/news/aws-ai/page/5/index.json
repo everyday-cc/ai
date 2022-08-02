@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
+      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
+      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
+      "publishedDateTime": "2022-05-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
+      "title": "AWS Introduces New P4de Instance for AI Training",
+      "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/AWS-Introduces-New-P4de-Instance-for-AI-Training-1024x585.png",
+          "width": 1024,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/aws-introduces-new-p4de-instance-for-ai-training/amp/",
+      "publishedDateTime": "2022-05-30T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
@@ -1197,93 +1292,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-17T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-customize-pronunciation-using-lexicons-in-amazon-polly.md",
-      "title": "Customize pronunciation using lexicons in Amazon Polly",
-      "excerpt": "Amazon Polly is a text-to-speech service that uses advanced deep learning technologies to synthesize natural-sounding human speech. It is used in a variety of use cases, such as contact center systems, delivering conversational user experiences with human-like voices for automated real-time status check,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciation-using-lexicons-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/17/customize-pronunciation-polly.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T08:36:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-people-data-labs-joins-aws-isv-accelerate-program.md",
-      "title": "People Data Labs Joins AWS ISV Accelerate Program",
-      "excerpt": "People Data Labs (PDL), which provides 3 billion unique B2B data records for developers, engineers, and data scientists, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor Accelerate (ISVA) Program,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/science-c463fadcb10931e64fc81f415fb11959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-17T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

@@ -770,6 +770,92 @@
       ]
     },
     {
+      "path": "_news/2022-07-19-aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company.md",
+      "title": "Aiming sky-high: IIT Madras professor starts his own air-taxi service company",
+      "excerpt": "Professor Satya Chakravarthy informed that his company — ePlane Company — would enable up to ten times faster passenger commutation and cargo transportation",
+      "sourceUrl": null,
+      "webUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
+      "originalUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/7/19/original/IE19SEPT121_07-11-2019_12_44_44_07467976.jpg",
+          "width": 5520,
+          "height": 3680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
+      "publishedDateTime": "2022-07-19T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edexlive",
+        "domain": "edexlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-how-graph-databases-took-over-relationship-mapping.md",
+      "title": "How graph databases took over relationship mapping",
+      "excerpt": "Mining these relationships takes a new kind of database that draws on a very old theory: a graph database. Graph theory was a thing long before big tech firms used it to work out who knew who. It dates back to the 18th century,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/07/19/how_graph_databases_took_over/",
+      "originalUrl": "https://www.theregister.com/2022/07/19/how_graph_databases_took_over/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/04/26/graph_database.jpg",
+          "width": 1070,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/07/19/how_graph_databases_took_over/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/07/19/how_graph_databases_took_over/",
+      "publishedDateTime": "2022-07-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
       "title": "Localize content into multiple languages using AWS machine learning services",
       "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
@@ -1287,101 +1373,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
-      "title": "AWS Selected as Delta's Preferred Cloud Provider",
-      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
-      "publishedDateTime": "2022-07-11T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-find-what-moves-you.md",
-      "title": "Find what moves you",
-      "excerpt": "First Drive: 2022 Lucid Air Grand Touring Performance Delivers Exactly That The Lucid Air's top-level Grand Touring Performance trim stays true to its name with refined luxury, impressive range ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/1167/",
-      "originalUrl": "https://www.cnet.com/roadshow/1167/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e588511b23a04b20ba1b2bcbad43926e66cca8cb/2022/04/27/6e683780-bcc3-41c7-99a7-adfdfda611c1/avatar-cnet-cars-square.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-10T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

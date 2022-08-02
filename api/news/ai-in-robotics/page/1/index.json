@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
+      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
+      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
       "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
       "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
@@ -1364,49 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-need-our-guidance.md",
-      "title": "Robots need our guidance",
-      "excerpt": "a supercomputer called HAL turns rogue and starts taking control of the mission. A computer run amuck because it can think beyond what it has been programmed to do! This is what came to mind when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/civ3s4/article65654857.ece/alternates/LANDSCAPE_615/2020-09-08T142304Z_242700249_RC2EUI90YU3D_RTRMADP_3_HEALTH-CORONAVIRUS-FRANCE-ROBOT.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
-      "publishedDateTime": "2022-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

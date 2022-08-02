@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-19-robots-need-our-guidance.md",
+      "title": "Robots need our guidance",
+      "excerpt": "a supercomputer called HAL turns rogue and starts taking control of the mission. A computer run amuck because it can think beyond what it has been programmed to do! This is what came to mind when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/civ3s4/article65654857.ece/alternates/LANDSCAPE_615/2020-09-08T142304Z_242700249_RC2EUI90YU3D_RTRMADP_3_HEALTH-CORONAVIRUS-FRANCE-ROBOT.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
+      "publishedDateTime": "2022-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-teaching-home-robots-to-learn-by-watching-people.md",
       "title": "Teaching home robots to learn by watching people",
       "excerpt": "A team at Carnegie Mellon University is demonstrating the Wild Human Imitating Robot Learning, or WHIRL, an algorithm that can train a system by watching a video.",
@@ -1315,49 +1358,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-rajnath-singh-to-launch-75-ai-enabled-defence-products.md",
-      "title": "Rajnath Singh to launch 75 AI-enabled defence products",
-      "excerpt": "Defence Minister Rajnath Singh will launch the first-ever 'Artificial Intelligence in Defence' (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "originalUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg",
-          "width": 730,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "cdnAmpWebUrl": "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "publishedDateTime": "2022-07-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catch News",
-        "domain": "catchnews.com",
         "images": null,
         "publishers": null,
         "authors": null
