@@ -1,30 +1,20 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
-publishedDateTime: 2022-08-01T14:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
+excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
+publishedDateTime: 2022-08-01T14:01:00Z
+originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
+webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
-  - AI in Healthcare
-  - AI
   - Natural Language Processing
+  - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "C0Bfe3iaOi0x9a7IkYoWVmWOG9190PuNsQMoX+YmhTONTRZnEsMUUQqepk0ZktTgBkGN1VVeODLDequOEOxVQbpKbCmN31q+y50leVI+I3F1sOeQIdpv0WWXK8t2ayqbFdCZ0Nq/FkkvMVGCndpTCzYQTr8PPgb+rHPQtxjILvBfctoebshBdGpDezxpar4S+pwgDcpdmreaRfLOK08vuiyCGYTNh439hMax5dmUCnrxlhNKQGWoL4/Ko+RREbQWjgS/7ckzqwmk0W6HE0LtwQ0lMC++7JEqJhk+/dLfeIYzBQzxnZhs0LqTrlh4lV2rGzShWR31begxuTg3fD26Xix9NJwGgd6ghBzep8NDGPM=;M1TpaMbiCiFMdf8Bc3BKiA=="
+secured: "LixpZgamsg4QT4AgvVTJAwbKffhHwNbSnhpC67IWCTX7YktjvnIrsfG3nptJF1m7L3ruXeDxsjEcaK6x1zT4odQBjewuyzMeXAJHjnOPwXrNe3a9s4VYCMiLn2ZrKGIc/rUTxBZPVfywvJtUeoQvJzJqGvYJNLDiLgkDJFI8W8swWEaPeChZ2pVF853dasN1It61b9ljj13sjRokiN7niPeTdhHvziyy+oneYH3lDVCQF/IASsybBluw3x6Xjzel4KUZZIqPYBdVqaPLRgoepOh8CKetHChug6MEyN8Jdx3aUbu/52wmEuib9O/PccpY35R2gbicHp7bNv0yAAJfQcy/ZWl6WL2HLg8UiMehSe+QNXich4gttdQZeYFYkYo/RwLfLaC6s2R67cD7U4AewljTOVwjaTCIySVa/ldvDFvZDanyYrtbo2+sDpXt5ZgBjLwycD/Lm6fZq3ak+hb348QVCZB8gFMe+77au6jhFyCV802XOH8If/FoO3y2kwXu51MyD5DVE0dwCLmFCQG8+A==;nka8spTSXzan6Sd/C0eK7A=="
 ---
 

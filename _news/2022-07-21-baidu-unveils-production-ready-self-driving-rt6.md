@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img.digitimes.com/newsshow/20220721vl200_files/3_b.jpg"
-    width: 640
-    height: 427
-    isCached: true
-
-secured: "6X/YFcPvXDxD+Fwez/N87KeIIlBKOfreo8OA/ASR2TcZOYOj2A4yoFtoG5yGqN1pirm3PuiZYgi4J8isH5UCoxheOE+mZzp8cQrk2fpmQo0WKe9J10f7xCApiQDlro49ZR/KKYwJ8apVlIISh8XsXxt+Lm+LNH3zW8Qh/b1XQnbCHCff/1H3Drn7XZQAIsbvcvtykIYHMJN5x0JYtqzu1xEgyhenxPadxFqvDw25uLq5JJDrw5A6w22i2ca4JZKpFacco6UuBnPqCDk13FYQC8lt2GzJOqJpBMTfSsUptteNClbL66Ck1jSCr3Wcj2ldnTnU9mKF1G+CLw36OBS+dB7RMntlSldvXanx0Jz/huM=;H3HRN/wCU9++SuiEONBOiw=="
+secured: "GCVhHQmXECfl6hbR0TeXHF0ZNSF6Pqdy3s6PWtxe3s7ZmWeoA7ei9oVAx1TrXWSTHYDTIdtdjytCQebzg9JcMWkd/kiLCaiEtw2NwYVuQznD230rRVatMNyM5UJDg5kotklte1aJ4JNE/hQsBxHKwvuV/oXvcib1FXZxh/SUTLgOXV4YjIjfjhVZRLEiQrYZJo+b6lnR4acfHkgxdrr23kI63Rivuyf0u1tKTlSWrEQwyGCQ7udTu18gB2WI+4X4oqvn1AGbIMfjKSH15EyMfucZZ4cQ+FFxZTAQ3EDdoR0kYww6Wi2GuTaXzsioEyYlrs0AoXsdHxada2Uq+0p0jsl/tLQSfpzPKCIopDTRpJE=;iZj3zUNsFkVPKR5an/rgiQ=="
 ---
 
