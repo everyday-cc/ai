@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"

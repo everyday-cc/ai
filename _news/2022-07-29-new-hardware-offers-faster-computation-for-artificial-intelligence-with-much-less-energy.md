@@ -1,28 +1,24 @@
 ---
 category: news
 title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage."
-publishedDateTime: 2022-07-28T18:00:00Z
-originalUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
-webUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
-ampWebUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
+excerpt: "Researchers have created protonic programmable resistors -- the building blocks of analog deep learning systems -- that can process data 1 million times faster than the synapses in the human brain."
+publishedDateTime: 2022-07-28T19:08:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg"
-    width: 2480
-    height: 3507
-    isCached: true
-
-secured: "VN9xcZE4hFOKkYF3uqgIj66eX5iuUbhIh55L3xJ2+goXq6lP1bVgxcOwFx+y74rMF16vdiuxG/bTTVliB3O4AqkyEMTYMg59r1gNcacwMLLNgazhS5l+gH1vMYcLrwySGctv0Q1jkonm0xschUTHWfVnVQxLt9GEAiu6MOhuu6PaTwk3rMBa8btL/DHiSVCiMEMILNiuqG+7velr30ngQfC69Y7cVTQ5DTBROoTNfiPiL0ORYFmh/1VnBVt+ATPhZtnVQmN7etUqygbETGk1Mul4DFLBXKcOFYRfaW/ROkdM3czaxwpSl+rFddVHhhIXFOjwDvQ0ffwCS3hXhM3euLjjZThdaZX4+XzqF7P1yWc=;ivHEFpZYQDSKKj18Yvr9Nw=="
+secured: "hoCnzRrhAZWoONzc7fDl1Fz+UB/M6WEaJt6b62jpMndT5aq1WTibcYEv9w6aRhFXxmxIQNcrEphr5rupvPNsR86tg94YKJv9OppH/o/nTovKiJwcTMGwcJOyhoJrBFvLXhbHAcUK/j2c21uRGYLwwnAAARE5LCM7KYmXr9jmIMVUAbKZq1daFaC3RMLl8d40O7nozckd4W0TAghKB2xuR9mu8QpNdXD8XUCxs73xzeCJM79LafkpzMO9LO0sTjRX6CKFwFyB0bvTsh5VpUD5bSqMum/ALLys2R9WgxDrSLnd0cNR1s93ahGdiZU/NNf1PwYxnBhz/pLq6DUbAPf+G48jBpNo9brUSkHS3kXBCeY=;uNRwvSFexG4moTbhI7mheg=="
 ---
 
