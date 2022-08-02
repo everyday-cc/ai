@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp
 webUrl: "https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Automation Tech Company UiPath Acquires AI Startup Re:infer"
+    excerpt: "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks."
+    publishedDateTime: 2022-08-01T21:32:00Z
+    webUrl: "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    ampWebUrl: "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-595225/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "UiPath Acquires Natural Language Processing Company Re:infer"
     excerpt: "UiPath today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured"
     publishedDateTime: 2022-08-01T15:52:00Z

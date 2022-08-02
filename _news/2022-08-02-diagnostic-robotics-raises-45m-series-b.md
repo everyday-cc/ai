@@ -53,7 +53,16 @@ related:
         width: 1500
         height: 757
         isCached: true
+  - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
+    excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
+    publishedDateTime: 2022-08-01T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/45m-funding-round-in-ai-diagnostics-company-includes-mayo-clinic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
-secured: "KksyKeaqcyZOgv8b1iHZFXZV2izPr0/rZ4oeOSnRJqSi0dntvvCMnFXVhvjbtJO4mCRZbPR7IgiR1nNFHoT/GmZGRV8M3LniekCyID3oOg5SUZLyHrqy3tRF+Ouz2+t0jnofahRS/9HzYV/L4/NQLKyrLr2ER9RXy3KhKu9IzYgxRZTJzldiiL0xevbMx9GySIzGqzNDk7QmGhypy4Rksh/b5wsYz8Xoi5udh5zuCqwXzqP3T1GtlBxVzEzDSMZYk34wkv+giM2X7IYghXCW+mBTMS1MWBSXKbY5puPYPydlGylwMoj36ytSoawbIhwiVvUKJBkkBvfaOsZgSuzVNOPNk/T0cSGXwd+YyWJY/PQ=;z0kpT0kuRwkAvRWpRKsoag=="
+secured: "wQ8fN1Ij/VOWaUF9Ohu7pqdAIxTtz/NpDkBUMe7dZ+r6V6VZmuOeoh3uRWD7or98EsOgr/obSsbKFgbx0N7hcdbWKweugN7BiyXR2G+I0dIcFyvxK72b0b/rIBGwg/A+vkULW8rQHDxq555+wRfD58QUVz6qe3nyLdUN+zdBDCm/JDt/614q9Y18UE0pIUIZ7ktoT7PL2IHOy8zETdtKMm5IDOaEYSfFM9ihY/LY41sAX506PDQhYNnZWkaApUn9kvGsqpfdsDT/5L+L4Q5cprtqd3TXCsofgOd9QGH0h1TjMCehi7RpeQ74dzpUetvhbJi79bllfZr2YeGk9ZNQtu8NVmDSpsQqsKPN5lRLuLL7rtBNNIJo4rXcpr1iV/8IkXEd9DQAt/nRRU23X3tG9avEo3Ad1hAzL2MmV40p5pa/Ur20njhFkFkUyCXNA7PfiF+MdjAkPYmd8Q/Ji6q561ksO7KvXEE+tkUDZMAdGcTOFF29RHHbw3MAwBrQc9yYQYY0oHsiDIg3rPp0FF8jCg==;qXuk3FIHxYnLlloWF+RcAQ=="
 ---
 

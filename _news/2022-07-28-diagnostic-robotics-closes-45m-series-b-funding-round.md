@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-clos
 webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
+    excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
+    publishedDateTime: 2022-08-01T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/45m-funding-round-in-ai-diagnostics-company-includes-mayo-clinic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "x6x5Kmpxej5VP4vcvKuLeTnX+cDvH8c0rXjWnzFOKLquzjFtPCcZGUsBwvcZmhxUcCJmyVvIQC3fKjrOWoTLFfgvANKez/Z/ynRLHgexFeaQrRtuXbvruhZPJ5tblChWXlrlRS2DZYRkmqPv2JH74HxaVSFNseOko1JZwlgITyBpJchnPrbgSeJY8VSkWvKbD81+HFiyKk3ZpHjeAFshkpf8ueTB8QBUeVC/OywqmAsxFqNMA+vlLMayYMWNXong7rU74rs7+7vbul0ZtIvxN+HexS51qgWvEc5sjc0ibu9v9fFQQQeUl1fAUwdgyFOkTkrarpsQjMlSkPUNeJ98F1jX3HQrSiz8e8PpQauAyOQ=;1WlT0RhhiDJftDRpEc87Vg=="
 ---

@@ -2,6 +2,155 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-26-tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning.md",
+      "title": "Tiny cars and big talent show Canadian policymakers the power of machine learning",
+      "excerpt": "In the end, it came down to 213 thousandths of a second! That was the difference between the two best times in the finale of the first AWS AWS DeepRacer Student Wildcard event hosted in Ottawa, Canada this May. I watched in awe as 13 students competed in a live wildcard race for the AWS […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/deepracerevents.jpg",
+          "width": 1193,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:15:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict shipment ETA with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Logistics and transportation companies track ETA (estimated time of arrival), which is a key metric for their business. Their downstream supply chain activities are planned based on this metric. However, delays often occur, and the ETA might differ from the product’s or shipment’s actual time of arrival",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/shipment-eta.jpg",
+          "width": 1323,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:10:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
+      "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
+      "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
+      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/corsight_logo.62e046c333a2c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products.md",
       "title": "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products",
       "excerpt": "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ...",
@@ -178,6 +327,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications.md",
+      "title": "ARYABHAT-1, IISc Bangalore’s Analog Chipset for AI Applications",
+      "excerpt": "With ARYABHAT we have a learning paradigm, the problem of analog chips being prone to noise or small variations in voltage that causes errors can be compensated here by learning and overcoming,” Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/07/markus-winkler-f57lx37DCM4-unsplash-1-e1658740792279.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
+      "publishedDateTime": "2022-07-26T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -962,187 +1154,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022.md",
-      "title": "Machine learning hiring levels in the retail industry rose in June 2022",
-      "excerpt": "We've analysed hiring patterns using data from GlobalData The proportion of retail companies hiring for machine learning related positions rose in June 2022 compared with the equivalent month last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
-      "originalUrl": "https://www.retail-insight-network.com/analysis/machine-learning-hiring-levels-in-the-retail-industry-rose-in-june-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/07/RkCvA-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Verdict Retail",
-        "domain": "retail-insight-network.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-chess-playing-robot-breaks-young-boys-finger-during-match-in-moscow.md",
-      "title": "Chess-playing robot breaks young boy's finger during match in Moscow",
-      "excerpt": "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "originalUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg",
-          "width": 2500,
-          "height": 1691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39784",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784",
-      "publishedDateTime": "2022-07-25T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-nvidia-ai-enterprise-21-bolsters-support-for-open-source.md",
-      "title": "Nvidia AI Enterprise 2.1 bolsters support for open source",
-      "excerpt": "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "publishedDateTime": "2022-07-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best.md",
-      "title": "As Meta’s new AI translation tools make waves, these language learning systems are still the best",
-      "excerpt": "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course.",
-      "sourceUrl": null,
-      "webUrl": "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/",
-      "originalUrl": "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kdvr.com/wp-content/uploads/sites/11/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280",
-          "width": 1040,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/",
-      "cdnAmpWebUrl": "https://kdvr-com.cdn.ampproject.org/c/s/kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/",
-      "publishedDateTime": "2022-07-25T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX31 Denver",
-        "domain": "kdvr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/finance/banking/how-ai-is-helping-gen-z-manage-their-money/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -488,19 +488,19 @@
     {
       "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
       "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
-      "excerpt": "CyberLink’s FaceMe Fintech solution combines the latest ID authentication, facial recognition and liveness detection technologies, ensuring intuitive, accurate and secure identity validation to Good Finance’s online banking customers.",
+      "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-7a551749df0742b49375f5bfaca3f362",
+      "webUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
+      "originalUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/5d/b5dc9d28-25b0-5748-bb91-5e946d0a6c48/62d6afcd1a645.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -513,8 +513,8 @@
       "publishedDateTime": "2022-07-19T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

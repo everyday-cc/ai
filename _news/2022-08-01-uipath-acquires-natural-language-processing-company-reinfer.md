@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Automation Tech Company UiPath Acquires AI Startup Re:infer"
+    excerpt: "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks."
+    publishedDateTime: 2022-08-01T21:32:00Z
+    webUrl: "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    ampWebUrl: "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-595225/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "UiPath acquires London-based NLP startup Reinfer"
     excerpt: "Robotic process automation (RPA) company UiPath has acquired Reinfer, a London-based startup that’s developing natural language processing (NLP) tools for enterprises. Terms of the deal were not disclosed."
     publishedDateTime: 2022-08-01T13:47:00Z

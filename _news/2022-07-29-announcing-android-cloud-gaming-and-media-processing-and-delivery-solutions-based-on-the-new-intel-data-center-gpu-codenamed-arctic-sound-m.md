@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/Business/20220728/39674
 webUrl: "https://news.webindia123.com/news/articles/Business/20220728/3967473.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M"
-    excerpt: "San Jose California [US] July 28 ANIPRNewswire Super Micro Computer Inc Nasdaq SMCI a global leader in enterprise computing storage networking and green computing technology is announcing future Total"
-    publishedDateTime: 2022-07-28T05:32:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272634741/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 5
-    images:
-      - url: "https://cdn.bignewsnetwork.com/YmJkZTg0ODMtMzc.jpg"
-        width: 630
-        height: 473
-        isCached: true
 
 secured: "5ulIro6ijB4bb75LWECigm0OME6G03Od9h/ItF2a7eSj4NyjZecG6ZHGMhZYaHvpTIWyBG6NdqV2gnM0fUCO1IJ32Bh/CgcUme8sJpAVsDiChi0zgonn2JinvJg+S3b6XzPHvL6HfkbqeIhk+5P3YLNtoMHfbhhah1ix4ikqyVIKuK6NUTHOID2Gs7DfS01F+uXBocpLME17OhzFTXdHaObdok2WhtuvqHNnReCxLPK8j4PuTW7cH84ilpvunPnHDR659ZtG+OviBfUqNxwntoKWMyxqW5JoTFi/0Y2NQ6ughmw+KEj/GpgVX1IXJthZWrDipZ7YdaYPjh6QsXrUaJ5XW/4YGJ6EhjAxkhpk/w8=;z/G5kbBoOq6m1q+mA5nAbQ=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care"
-    excerpt: "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),"
-    publishedDateTime: 2022-07-28T16:37:00Z
-    webUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 38
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg"
-        width: 1920
-        height: 1354
-        isCached: true
   - title: "Artificial Intelligence Can Improve Stroke Diagnostics, Expanding Access to Lifesaving Stroke Care"
     excerpt: "Artificial intelligence can ID when a patient is having a stroke caused by emergent LVO, making them a candidate for endovascular therapy."
     publishedDateTime: 2022-07-28T23:24:00Z

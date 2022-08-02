@@ -244,6 +244,20 @@ related:
         width: 1050
         height: 789
         isCached: true
+  - title: "Calls for formal recognition in Indigenous Voice"
+    excerpt: "The Uluru Leadership Group has backed Noel Pearson's call for the preamble to the Voice to Parliament to formally recognise Australia's First Nations people. Australians will vote in a referendum to enshrine the Voice in the Constitution before the end of the Albanese government's first term."
+    publishedDateTime: 2022-08-01T21:55:00Z
+    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/13999300"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 24
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/73a85901522a8e96ea7122cc5cb4bed5?impolicy=wcms_crop_resize&cropH=364&cropW=647&xPos=0&yPos=16&width=862&height=485"
+        width: 647
+        height: 364
+        isCached: true
   - title: "Indigenous voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
     excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
     publishedDateTime: 2022-08-01T20:04:00Z
@@ -355,6 +369,6 @@ related:
       domain: theguardian.com
     quality: 0
 
-secured: "dlM09jL6Ts47DNVhOrRmu3xRnRfXb1euKuu5aZV0bQF2SK7mM+l2VUxbb4vv450Izq1EIvQdoVoX668HC0rHMBCTkQVY4sTlUZkxDk3Zf1qZrfynFi7bndquk3xlDJv/3SbDXIcJOw9UBWNGsISIH3lykTJ/RI80nbCF3VMSF5GrmWFWVp8ba+bam7DhEgNFCv4crOPGvm+cwgy+yHtarag2d+4NLnqpIltKKXb+VQU5NcP5z/fsdvIKcBgJ0O/pgKZOPm95y6goJZhS7YfYVNvo43fzgGhLpL9qjygoM8PsySNAJd4+sBtCq/H22TR2krYcxOWGQwgu4L0sowALXxdv+fRLhp9KfhT38SIaGPA=;PsFX+exZKo5PQuVthR0qHQ=="
+secured: "ZUaWUouXdB380+1dv5yhmfTJDks/WUxaTN6LT/k0m+hWfxX4u4F16Eww1h1DbH6xRDmFfPk2OeiOlRGUgSn792X+p9Ukbi/px1//FbfL72Hhyuxj3uYPqrxOT3nQTIaP+QP1+dpYfCaL9lL8smZ7VPeSEFEfRwKHpDUXbKmz0cFP+SE/96uVOug7SNzaA0/ICK6a0fvC2Wc3OK8phwHRJJuu8OqqdA5JabmIabSvmpL6PMWuG9qpza/vC04+3birGmTl6JpZbFVT4vbeVr/e0mIu37Fp1npELpVz5FJ9WgcSRQ/aOdn7F2sFjX30iEwJ8roIstptp0xtUfBHXY+4PFwDBDSpcsoQ4IhfEU5xwLMQOO4nXHSRQszBUWLoG99kwHSU3ws3+OTVutvQLZVFixGsQqE/xYtXk50DmFkm/51lSzgYjQellzMAVaGllODq5m7CpBZOuzwp9Hu86ALwQ75bXkJ58DSe/D+lOpnHAKSHS+VPH/utG879G25npHCnwNb28tm0rnRnPYuGcNTjmA==;pHjApnS2qqgcuxL59ELliA=="
 ---
 

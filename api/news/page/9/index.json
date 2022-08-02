@@ -2,6 +2,187 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno.md",
+      "title": "Safety Vision Showcases Mobile Video Surveillance Advancements at STN EXPO Reno",
+      "excerpt": "EXPO in Reno, NV this week displaying several innovative technologies for K12 Pupil Transportation Directors representing hundreds of the nation’s largest school districts. Technologies included our Electronic Mirror System that includes a 12.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-7-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-4-ways-computer-vision-will-reshape-urban-transportation.md",
+      "title": "4 Ways Computer Vision Will Reshape Urban Transportation",
+      "excerpt": "The involvement of computer vision in smart transportation optimizes several facets of smart cities and will continue to do so in the future. The public sector, in collaboration with private tech enterprises,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bb1bd6a217d2eec1ec8f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/20/4-ways-computer-vision-will-reshape-urban-transportation/amp/",
+      "publishedDateTime": "2022-07-20T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive.md",
+      "title": "This Robotics Professor Performs Hip-Hop Robot Poetry And Writes Black STEM Romance Novels To Make STEM More Inclusive",
+      "excerpt": "Engineering and robotics professor Dr. Carlotta Berry uses innovative, out of the box strategies for making engineering and robotics concepts more interesting, engaging and inclusive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
+      "originalUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7195256c22d20c27896a2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
+      "publishedDateTime": "2022-07-20T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
+      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
+      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-3-chip-stocks-to-buy-ahead-of-earnings.md",
       "title": "3 Chip Stocks to Buy Ahead of Earnings",
       "excerpt": "T he world's top chip manufacturer Taiwan Semiconductor Manufacturing's , better known as TSMC, second-quarter 2022 earnings report indicates chip spending is still very healthy,",
@@ -1005,162 +1186,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-kami-vision-grows-by-350-percent-as-demand-for-ai-services-in-security-safety-industry-surges.md",
-      "title": "Kami Vision Grows by 350 Percent as Demand for AI Services in Security & Safety Industry Surges",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced today the company has grown 350 percent since its launch in August 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-hyfe-joins-forces-with-merck-to-deploy-its-artificial-intelligence-powered-cough-detection-and-counting-technology.md",
-      "title": "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology",
-      "excerpt": "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
-      "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
-      "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "originalUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/analysis-g709988b49_1280.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-8-uses-of-data-analytics-in-accounting-and-finance/amp/",
-      "publishedDateTime": "2022-07-19T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
-      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
-      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "publishedDateTime": "2022-07-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

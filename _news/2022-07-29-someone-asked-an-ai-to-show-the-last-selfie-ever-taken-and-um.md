@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
 type: article
 quality: 57
-heat: 98
+heat: 97
 published: true
 
 provider:
