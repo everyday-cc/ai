@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/building-a-bridge-between-artificial-intelligence-and-business-intelligence-to-maximize-business-outcomes-part-two/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/building-a-bridge-between-artificial-intelligence-and-business-intelligence-to-maximize-business-outcomes-part-two/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Forbes

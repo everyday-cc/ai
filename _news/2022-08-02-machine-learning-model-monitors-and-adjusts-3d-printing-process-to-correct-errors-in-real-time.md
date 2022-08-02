@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:15:00Z
 originalUrl: "https://techxplore.com/news/2022-08-machine-learning-adjusts-3d-errors-real-time.html"
 webUrl: "https://techxplore.com/news/2022-08-machine-learning-adjusts-3d-errors-real-time.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

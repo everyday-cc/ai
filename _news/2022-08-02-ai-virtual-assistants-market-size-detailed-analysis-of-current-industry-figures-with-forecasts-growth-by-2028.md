@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T10:42:00Z
 originalUrl: "https://www.marketwatch.com/press-release/ai-virtual-assistants-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-08-02"
 webUrl: "https://www.marketwatch.com/press-release/ai-virtual-assistants-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-08-02"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: MarketWatch

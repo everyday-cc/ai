@@ -3,12 +3,9 @@ category: news
 title: "Riot Games taps AWS for new cloud-based esports content"
 excerpt: "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS."
 publishedDateTime: 2022-07-19T12:09:00Z
-originalUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
-webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/"
+originalUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=broadcast-ott"
+webUrl: "https://www.sportspromedia.com/news/riot-games-aws-amazon-web-services-esports-broadcast-content-lol-valorant-wild-rift/?blocktaxonomy=broadcast-ott"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
   name: SportsPro
@@ -18,22 +15,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Riot Games taps AWS"
-    excerpt: "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s esports content is created and distributed in the cloud. Riot is the first com"
-    publishedDateTime: 2022-07-19T11:43:00Z
-    webUrl: "https://advanced-television.com/2022/07/19/riot-games-taps-aws/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 39
-    images:
-      - url: "https://advanced-television.com/wp-content/uploads/2022/04/AWS.png"
-        width: 870
-        height: 500
-        isCached: true
-
-secured: "sogt0zUjbc7WJo1yhcchgozy6dZuZks3ylZvUbE1Je27rclYf7g1MAKz+BSU9kipclGa4Ehu4mEmSpXltAnmeONXv1zZ/6YpKG73YEeG5Xh/f12w5t5xL9hSoDPK/bgGxViQEw92zWJT6ZefbV9G+SoE7eKd4QwZ3KmThefnBXtAT9Yqk7iT/avJfzSeV43Pr/iJeI/YrkUt7Xn/2xmcCsaYdlaiMLWvqh9DSLi5L8jrEYUYHFIHKCVxybc0k6DJvoE8ohPVD0L3Xb4MmRnt+bzAcfzivNC3um97VbpfnQYFaCyPoxQIhNzMl3pMFLOhgE+hcKmRGLcJMi8lWp0PCOC9BTEXsMtjLNMr6ysR78S05Zseg9Vfmoisldwryq/dEh/ENXdNmyZbK57hN4K6pMGnmf8mytDYPM2VGFdXwYgDmKeTE/RHU78p6fkeVAbqviYXWZaFLd0JXhKk4RbSVaGxVj+VUjPS+0BY4KHh5M0X4iQ3rcYUgEefx+kzhpHtJJaEOsXI128KYIe9P6lIyw==;RIbBpcms9SK9wi/MU62n6g=="
+secured: "eIw3Q3aD8PtOZKOmgkDupJAUielFKba/9dY+Ay3rsfGt7tMjw8BsHD1HYklYhgjufXwl7eay6auLakRJecxaI7eAWZNhJJngL/hexmC9WpBGTPy+gvIFmQfnHypMxrntLGefSN9r5tqtZy5wkdbuwMZW/x/xmorLD6gSLirxJqLf4pM6QMG7xc3Ik+qrOcgMyRuc6i3jdYnkJRe4m8kiteVUoiJwkcH71l87Hoi4TwRZS2G06/aMKofK1fCH1A0TNoEhdb0WiA/jWbcRWLFBkM53JcS3PWarwPQOUE5uD188cUW2/i3ptdAZN97O08ZDLU6OQc5c2gJ/3b4XxdZNozn1jOURmJmj/oKni0CtwNu9RNYWoyXlxhgHt9lu9senXAxiCoS7zZzlmPuM1MXARI4Eqd7uElwlC6qC+YBaDloIEq2SaRXOIifTlYkL6ixD4RTVdv/YnwQ+hC+ecpvm3wA8wS5pyhoP4nnjFM/mNXdSeOGUF6VxYsrMaF6c8SIaaaVN0UqpxDCftc3BWnj0pw==;p9PHvD2E2bfsvsybKOJ17A=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/02/marqvision-wants-to-combat-counterfeit-goods-with-its-ai-powered-ip-protection-platform/"
 webUrl: "https://techcrunch.com/2022/08/02/marqvision-wants-to-combat-counterfeit-goods-with-its-ai-powered-ip-protection-platform/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: TechCrunch

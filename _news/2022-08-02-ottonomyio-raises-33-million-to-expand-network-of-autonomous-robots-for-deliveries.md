@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
 webUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
 type: article
+quality: 57
+heat: 67
+published: false
 
 provider:
   name: TechCrunch
@@ -18,6 +21,17 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Ottonomy Raises $3.3 Mn To Build Autonomous Robots For Deliveries"
+    excerpt: "Autonomous mobility startup Ottonomy has raised $3.3 Mn in a seed funding round led by Pi Ventures, with participation from Kinetic ventures and Branded Hospitality Ventures."
+    publishedDateTime: 2022-08-02T13:00:00Z
+    webUrl: "https://inc42.com/buzz/robotic-mobility-startup-ottonomy-raises-seed-funding-to-ramp-up-hiring-strengthen-partnerships/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 34
 
 secured: "efxWcxJRRCEIOq9ltIxgg2HypKjKYY50/6m6OYFy9hRilcYRay9yGQ9EozYDi27MD+4ABsgo32A+VoTnzYAvgAFLlpBRbbZQcwgppZYSn/6dBN+rg/pYfA7gZlh0wQxhDKm+0wWK+JOhVQRJiupcaL84qLEpOi0GgIWn5/fba1mTN3Yn1Ges4v9y4qWVzY/XiHy10iZiO+/WauHuxu0oSol42bJY6HpdQlOMzPAL79aYPk4EWgjRMvGcYl9EQa80ZTsQZIdZNa82RtQwMrMUZcKrjKUGxf628SxrZKtnMauESft3OK1GrIkCt6iB8aV4AojSXNyCtUe4WU9GTzTInNM7AiZLgPf/6YXR4SkdVjTHOOnWBVrnwynnfepAaiBxGMEvxbDItnCIXh6vxYr9nqFV8pwtyqVlJ0XUUtII4Z0jn6OpObvPsPZwYm3kGvFUTR42a/y79hoc5aWgMzyTSYF7NjDp+/7Fx/yC4EqnKYq7jYAmpxKWjtxYyRlInw4lhrU/it4kX45HJiBqrlbDtA==;n6r2ez0C6yNjNGJsxpp4ew=="
 ---

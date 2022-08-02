@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:58:00Z
 originalUrl: "https://techcrunch.com/2022/08/02/ai-art-generated/"
 webUrl: "https://techcrunch.com/2022/08/02/ai-art-generated/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

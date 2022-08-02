@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "MIT’s New AI Chip Is 1 million Times Faster Than The Synapses In Human Brain"
+    excerpt: "A team of researchers with the Massachusetts Institute of Technology (MIT) has been working to push the speed limits of a type of a previously developed"
+    publishedDateTime: 2022-08-02T12:36:00Z
+    webUrl: "https://www.techworm.net/2022/08/mit-ai-chip-faster-synapses-human-brain.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 33
 
 secured: "Wz8tet78WxQyvT5cMNIxcipgRPkGPlOKX2FrF5lBXCpmEBfQX8JbZPmf647+ullJy9C2846TwJ0B12+wBzf+c+gYSAqVxyJMHobznmxjj6HAcEJJ+RRgcpCv6th3iB9KCZJvMfMZfISwz95LjpyZAo1HPtB+J8v6P0N9P4eYZcQjzdmrsEQtpsiKqfw4ARxi8wixvIuXXP/5zg8GK0DOBUYX46eNB4jJT3/sEL9f6IDGq691AJ4zdEFRkJLxwJxrMUNSjj0RvHVktmRz99d/lyy9gykj6EbRQLJe6HwPVWKfSSe/mNCbvKoxL46Pbxi+B9mgQPCjP4oNwOtGSkVJ8pC+psRDYrgC5F26HOQE6s/RgsrXdniHZ/M27T9f1lHGG+L7yAiEeAp/IR2TwGHFYm9W7LcihBBensB+1b8uq16gMI3mBoF6Qkovd5wLF1GbwXy1bKT3a8JakClTfKnZG5wzAvKa503FpAilIHvdBQMwkuTZaeXcN8AeBqRXJgo6gbZ8H34vnFGHOKs8yaxjCQ==;6s1WnGyJlWqIBV0r0WCAfA=="
 ---

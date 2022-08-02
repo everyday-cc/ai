@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Contech Software Startup Announces $20M Investment"
+    excerpt: "A construction technology software startup has announced a large funding boost. TestFit, which produces interactive AI-powered real estate feasibility software, has announced $20 million in Series A financing led by Parkway Venture Capital,"
+    publishedDateTime: 2022-08-02T06:48:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/news/22353936/testfit-contech-software-startup-announces-20m-investment"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 2
 
 secured: "PTNv2vnDT6zEzFxoiC9SLVr6jPhBdXNaTEhpDZ4RGIDKlLDzi0vGyai1pgnS5gs9dMHV1IQePx8rNY/snqApp8eVCtbe9KQd2OsG7iuNqIehHTdKM7gD0V/x31fgZfe4M8T4a4yk8EBJxrclV0fqw7KYrjGgjyu40wEV4Xy+1yB1Nk03bwgpSriL72r0YZHOanhEZ0VBxNTC2kKT7GLNNh6TMtdjvOScQxiAUazL31wcAtxJ4FFrvfgCdfesv0NPCFIBF/s6REwjZdSP2kEkLtKnwhMY+dCQJ3RtTay7ywBzoTZfTL6AcWC/4kE3FAvBHjLRPf/oqG6rm6DX/eukFQtAM1xaS1+5A3bj7Je2Kj0=;QW/kopz40Poa06Hn9vS1yg=="
 ---

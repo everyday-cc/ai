@@ -46,13 +46,18 @@ related:
     quality: 49
   - title: "UiPath acquires Re:infer to expand its AI capabilities"
     excerpt: "UiPath announced the acquisition today. Re:infer previously raised $11.2 million in funding from investors. New York-based UiPath is a publicly traded provider of robotic process automation, or RPA, software."
-    publishedDateTime: 2022-08-01T19:13:00Z
+    publishedDateTime: 2022-08-02T12:19:00Z
     webUrl: "https://siliconangle.com/2022/08/01/uipath-acquires-reinfer-expand-ai-capabilities/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/37360756_1890231374612077_7331828311816929280_n-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "cUwBjbG1D4atNOUePeodFw7rNGBGFf/GKOW3WYjTpjBRNZmMY+TYB4BJSFUDRfFge3370JAd6DfZ1KkWCd//56goQwcGdqhISysZvmp2vmfW+CtfznHVWHthjt9VOhlkSRZpOEUA+QH43AtcUiBfNuDIaEACOY/5N+ElmesGg1wEst4xTY0Sn/Y0SNQRJsW2u+Cnvm3Ce9OXRyx2QC5/dqaw00EHjLom5enmQpDaWXqmUG/bTgpq/pj/d/sWBDF5MrXnMGN/3kxeiqVw6sh949Isup0JU0hK4ZwGWymg6DZ1m9uPUV7f2V31PIypv+VuLN5r0FFWyizUyRxgQ6TqiB0Lm100kL01L6oO1dNbvVzrMzOtz5B0/2da3TQcy1DTcJq62MddyE5mY4FipZNWosyUey0RcjIX1VPXiUKdI3PTwq+O0ES9s94BNQNQaWF7h1hC6o2ws7zU5jNHvxPZfh2x3na/a7P2Y/8V318bFUdtjGtj+828Qpbg/ig1i9n3l5FMIalRZAtkv8b6WYmf0g==;vcyiA2HCYIxLz8Tyc417Qg=="
 ---

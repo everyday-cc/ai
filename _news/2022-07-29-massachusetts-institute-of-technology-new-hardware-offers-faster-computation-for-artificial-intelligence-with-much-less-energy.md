@@ -57,29 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-    publishedDateTime: 2022-07-28T19:08:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
-  - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
-    excerpt: "The amount of time effort and money needed to train ever-more-complex neural network models are soaring as researchers push the limits of machine learning An"
-    publishedDateTime: 2022-07-28T21:34:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272635944/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "UeLDaFbMFN8B4lFHzqmUNanV0RGK2JoUwb4K53n/OMJCb3EOmMOhvUWcvhwwpkhdohveK+50fZvIHWoXAh/TM2UivAm1Il8PrcdZ2SxEB2O7B9k9GIMVOhsYmtcdGXW8GDyGUjGTUkhQhRWOxvHhjBCEtBFCJklUoGkZRv3ZNwrFlqw5qzlaHIikL8op/uKvaT65VcAb5AgmZib/7199CgIqFyktGxy0LizRsuR1PdM1kJfMPPDlLtbSh2YVJhykyhYtVtJYMttZMjaB4QlVYaTpFsz1Pe3SvLN9g1sfVrY71LVjcxQANsvxvOuDJbTbdptEfRhnJ6ltGiLxEbvYd6MOc0y59B8XtzNM1P8BKo17tQ7Fjn7Fqosa71BYNT7RxDgbrQS9AQFxPBq/HwEpp6zdQKcQ2RZG54WGufqpGyQD3xtL/ky3cEKD4/Odj7I4/gDH//FZmnRo41kV43aofMqgwP376NWggpf7e/yno96ufRbo+KDoX996pC71xf9BLZFhepOAOi3s+LlltJP8ag==;mEIPibGJQVaqEFp0HUk//Q=="
 ---

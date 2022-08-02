@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/02/vetted-lands-15m-for-ai-that-helps-shoppers-find-top-products-and-deals/"
 webUrl: "https://techcrunch.com/2022/08/02/vetted-lands-15m-for-ai-that-helps-shoppers-find-top-products-and-deals/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: TechCrunch

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:30:00Z
 originalUrl: "https://phys.org/news/2022-08-attitudes-immigration.html"
 webUrl: "https://phys.org/news/2022-08-attitudes-immigration.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

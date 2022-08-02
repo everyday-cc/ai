@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:50:00Z
 originalUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-cropin-is-using-ai-for-better-more-predictable-harvests/78657/1"
 webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-cropin-is-using-ai-for-better-more-predictable-harvests/78657/1"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Forbes India

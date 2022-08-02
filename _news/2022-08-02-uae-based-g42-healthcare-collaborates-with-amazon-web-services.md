@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:30:00Z
 originalUrl: "https://www.zawya.com/en/press-release/companies-news/uae-based-g42-healthcare-collaborates-with-amazon-web-services-a1zo2q80"
 webUrl: "https://www.zawya.com/en/press-release/companies-news/uae-based-g42-healthcare-collaborates-with-amazon-web-services-a1zo2q80"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Zawya

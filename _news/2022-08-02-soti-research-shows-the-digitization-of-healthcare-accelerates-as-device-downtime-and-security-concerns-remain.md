@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T11:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-canada-digitization-8f1f1b0e7171ea0ed2a962d00b4ff9a0"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-canada-digitization-8f1f1b0e7171ea0ed2a962d00b4ff9a0"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Associated Press

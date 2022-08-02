@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:31:00Z
 originalUrl: "https://swarajyamag.com/context/why-the-chips-and-science-act-matters-to-the-us"
 webUrl: "https://swarajyamag.com/context/why-the-chips-and-science-act-matters-to-the-us"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Swarajya

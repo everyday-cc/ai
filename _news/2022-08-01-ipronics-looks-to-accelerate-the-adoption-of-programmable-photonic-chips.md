@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-01T00:00:00Z
 originalUrl: "https://www.newelectronics.co.uk/content/news/ipronics-looks-to-accelerate-the-adoption-of-programmable-photonic-chips"
 webUrl: "https://www.newelectronics.co.uk/content/news/ipronics-looks-to-accelerate-the-adoption-of-programmable-photonic-chips"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: New Electronics

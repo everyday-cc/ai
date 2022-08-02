@@ -24,6 +24,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "US House Republicans Who Voted to Impeach Trump Face Primaries"
+    excerpt: "Three Republican lawmakers, who broke with Trump following last year’s Capitol riot, are running against rivals endorsed by the former president"
+    publishedDateTime: 2022-08-02T15:32:00Z
+    webUrl: "https://www.voanews.com/a/us-house-republicans-who-voted-to-impeach-trump-face-primaries/6683568.html"
+    ampWebUrl: "https://www.voanews.com/amp/us-house-republicans-who-voted-to-impeach-trump-face-primaries/6683568.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/us-house-republicans-who-voted-to-impeach-trump-face-primaries/6683568.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
+
 secured: "L4ZyYWG9ou/bXEhPCbAYR7/3yxcVxBb6wp2Paiw/F6wynBJzoL+4ObGIIp5WIjSl3rFbudhw2Fzp8w+tzEjJs7pC86/X7n3iFkPTaGX4R6A+sbTw0nAWYn7RPawtN8Jbr5WtaWaiP33msnMqiMrtr3INLeKiDY8JyCbA5qKb1LtPevvOhTg3dTDDa3nNFC0rddVIVqMwjiPztUiiF409slbFwZRm/AR41BgX4ch1MOJAUMgyzl5vEYxVY+jZo1jEtsYgPTdNetSfbEYzuN4ktobZBhmR7B28OCM0pJgCk9noSlVh/SrmdCAxzUYE74zXiLAUcgVNrQtEzCAjQIlKLLniEgTkf76QF/9R2b3EnlY=;p7eBP3qWsRmz4xV2nRSSJA=="
 ---
 

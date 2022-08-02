@@ -26,6 +26,17 @@ images:
     height: 640
     isCached: true
 
+related:
+  - title: "Self-driving firms ramp up investment, accelerating innovations"
+    excerpt: "Several Chinese self-driving companies have announced new investments and the landing of self-driving taxi services after the nation's first regulation on smart vehicles came into effect in Shenzhen,"
+    publishedDateTime: 2022-08-02T11:53:00Z
+    webUrl: "https://www.globaltimes.cn/page/202208/1272016.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 4
+
 secured: "eXAsVi5bRFZHui1R6Dc2/9e7vkVSDgepBYjQJIGFoGrAo1T+VljIGMM9TbsCAge9+0t3vgym5Y16eJcIhSYsIUnAaX+nrlHdI8AzVdF062am8IWwQ3pzcRaNbSRm5SKRdYhbCducHaveMGoKyna1ZQfRIqRn5aRtgggOc222/unW0atvF/pmZceQxzLuyNLBwiEyOhXI0e2xgKsRJ438IXXDD+lgf1i4PQ/X/9dmjNEsamagphu90dwmgfJyQKEtre4qEnBk2rtk9BPXG453ZKmwbIMUQ1oJM1gsLdguHw3rX+vf54JxqWuc3xTcsKeqaBlVrxrf84hvBlX6y9++BYXpIcK8QHABUsXN8/BeNdcWOZl+zy934U3mN060ocT/4fjIeduV+Dlpkxik5pNrsdrSFQBKAX2X2U+/xeCcRkJMegtzP3lCEEsimf2tNPwZDRYJdcI3xvm3wZlVYAmhIOVVjLKyYj/WI0R76hQWKn2mM7Q0tt4wLLMVGUw9TUNaDzW1B2pgSWmIN7b4PlZGrg==;EHJZX3f3fYO0jIEwg46Grg=="
 ---
 

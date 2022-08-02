@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:26:00Z
 originalUrl: "https://www.news-medical.net/news/20220802/Study-challenges-the-perspective-that-autistic-adults-cannot-read-facial-emotion-expressions.aspx"
 webUrl: "https://www.news-medical.net/news/20220802/Study-challenges-the-perspective-that-autistic-adults-cannot-read-facial-emotion-expressions.aspx"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: News Medical

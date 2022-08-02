@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:54:00Z
 originalUrl: "https://ptinews.com/news/13582058_Cloud--AI--IoT--drones-set-to-transform-insurance-industry--ICICI-Lombard--s-Girish-Nayak"
 webUrl: "https://ptinews.com/news/13582058_Cloud--AI--IoT--drones-set-to-transform-insurance-industry--ICICI-Lombard--s-Girish-Nayak"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: PTI

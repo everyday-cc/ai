@@ -42,19 +42,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Making AI faster and more energy efficient"
-    excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
-    publishedDateTime: 2022-07-28T21:51:00Z
-    webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
+  - title: "The Computer Scientist Challenging AI to Learn Better"
+    excerpt: "Artificial intelligence algorithms are designed to learn in fits and starts. Instead of continuously updating their knowledge base with new information over time as humans do, algorithms can learn only during the training phase."
+    publishedDateTime: 2022-08-02T14:00:00Z
+    webUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
     type: article
     provider:
-      name: UTA Radio
-      domain: uta.edu
-    quality: 37
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 39
     images:
-      - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
-        width: 964
-        height: 650
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
+        width: 520
+        height: 292
         isCached: true
 
 secured: "DpO7qS87TMME1usl8VwI9muqwUVOdMMJmdcQSX9barbSs6WI+YJxbZBzz3xhZPEEyqnKvHqAbw/RnmcRNe1vNGXNnZw4YzU2JEO6/t0lzD3IvAT/xJpLVUo50dNoicx+MoseDkBco/g6p4cPYi57LFknzHwQeiOk3ZABkpAZ3nU+kBaNpW3KCj9IEzpkpRjzdPHqBOwfARPgxAo+dRZkzSIAmUspOnuu8uOek/SgJDa0wi7cSXYQxUDKHH/QJrS42Wp20uof6cqILNLq7csHxM7VnTal0h0OOVATCpfr5g69SHkY0K9fWA9b2o5J1FEwqlJqWegSYmAq+UGzrBlSvZEtIGqzg6AHlu5w4nv3J+E=;JdFwWpxyCEOmC5/1AvirmA=="

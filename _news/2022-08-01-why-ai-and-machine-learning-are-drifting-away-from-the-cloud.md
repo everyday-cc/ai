@@ -44,19 +44,19 @@ related:
         width: 1920
         height: 1800
         isCached: true
-  - title: "Making AI faster and more energy efficient"
-    excerpt: "A University of Texas at Arlington researcher has received a three-year grant worth nearly $600,000 from the National Science Foundation to make the technology used with artificial intelligence (AI) faster and more energy efficient so it can be used in real time."
-    publishedDateTime: 2022-07-28T21:51:00Z
-    webUrl: "https://www.uta.edu/news/news-releases/2022/07/28/liang-ai-grant"
+  - title: "The Computer Scientist Challenging AI to Learn Better"
+    excerpt: "Artificial intelligence algorithms are designed to learn in fits and starts. Instead of continuously updating their knowledge base with new information over time as humans do, algorithms can learn only during the training phase."
+    publishedDateTime: 2022-08-02T14:00:00Z
+    webUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
     type: article
     provider:
-      name: UTA Radio
-      domain: uta.edu
-    quality: 37
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 39
     images:
-      - url: "https://cdn.web.uta.edu/-/media/project/website/news/releases/2022/07/qilian-liang-lab-portrait.ashx?revision=03eaddca-5b7e-477b-ad37-81380323610a"
-        width: 964
-        height: 650
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
+        width: 520
+        height: 292
         isCached: true
 
 secured: "Ebz2lA3+lHb7Ex0hzHtz7pche77RR7MrfcuVOZB7jqU4fNKuzu7mUnvDWCDkWYzvoIodWbOE/IDDCdZWoI86j8ZQzR6XaW3v+2cQZ6V9Izxv+UWu/HeDL1On2TfT3sJU2JWu4g/+iH14OZmW+IjAmkPVIf2CBHiNPmaJi2+HVajTV1NR5+ee1/obK5/bLfr5lt0fhW1NmqnJMIYAVoS8xkR93MgvZ7Gg8PmWILrcvgPG4l+mfYg2fat6U1U4uHoR9Jc6LiuisV9ZXLEpZxQwvF9m0NPYUlf871D/0L+4T7icFmyi3zGC5ET4zhEz0F2W/evpxGeM8jmHZD5yq9uJw2u+5v/LzXT9oyBn+C2yjRJx2Zki/D2yGILlXb6Ahaad/D3wizRw7oMPyj7h32fgqaoStmC0oFlKIwRiUN2n3i/iCUBdU2sTYZEXSeQdrmDSptnVkZiew7xcGCLK55/vywDCXSuiwMhCIYfAZ4JWmo3TyD6ZwIkbLgcIiiiX6DVyb24CtGSAaAQX5IQLaH67qw==;Y3ZdZt0NO5u0nB2ixHcBRw=="

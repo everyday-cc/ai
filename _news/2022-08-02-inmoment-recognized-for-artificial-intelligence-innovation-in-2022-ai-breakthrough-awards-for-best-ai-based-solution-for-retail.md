@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Daily Herald

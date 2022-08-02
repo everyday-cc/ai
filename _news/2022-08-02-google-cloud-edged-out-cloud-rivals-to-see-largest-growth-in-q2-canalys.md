@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:55:00Z
 originalUrl: "https://www.itpro.co.uk/cloud/cloud-computing/368708/google-cloud-edged-out-cloud-rivals-to-see-largest-growth-in-q2"
 webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/368708/google-cloud-edged-out-cloud-rivals-to-see-largest-growth-in-q2"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: IT Pro

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Orleans mayor signs it: cops can use facial recognition"
-    excerpt: "New Orleans Mayor LaToya Cantrell signed an ordinance Thursday to partly reverse the city’s ban on police use of facial recognition software. She had pushed for the changes in a ban approved nearly two years ago,"
-    publishedDateTime: 2022-07-28T21:27:00Z
-    webUrl: "https://www.chron.com/news/article/New-Orleans-mayor-signs-it-cops-can-use-facial-17336708.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
   - title: "State lawmakers seek restrictions on facial recognition technology"
     excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
     publishedDateTime: 2022-07-30T08:50:00Z

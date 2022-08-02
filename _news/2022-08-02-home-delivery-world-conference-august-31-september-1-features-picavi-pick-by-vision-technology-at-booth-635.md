@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:32:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-2-home-delivery-world-conference-august-31-september-1-features-picavi-pick-by-vision-technology-at-booth-635"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-2-home-delivery-world-conference-august-31-september-1-features-picavi-pick-by-vision-technology-at-booth-635"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T11:31:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-health-france-c0f949e81f221d5a6425d9e49b4be70b"
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-france-c0f949e81f221d5a6425d9e49b4be70b"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Associated Press

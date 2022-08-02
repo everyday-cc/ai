@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jul/3493213473-artificial-intelligence-3382507_960_720.jpg"

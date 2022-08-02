@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T12:33:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Associated Press

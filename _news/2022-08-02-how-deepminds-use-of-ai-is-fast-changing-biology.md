@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI Lab Predicts Structure of Most Proteins"
-    excerpt: "D structures of 214 million molecules, in an advance expected to quicken drug discovery."
-    publishedDateTime: 2022-07-28T21:42:00Z
-    webUrl: "https://www.wsj.com/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
-    ampWebUrl: "https://www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deepmind-ai-lab-predicts-structure-of-most-proteins-11659048143"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-593405/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters"
     excerpt: "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
     publishedDateTime: 2022-07-29T16:34:00Z
@@ -74,70 +58,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "DeepMind's Perceiver AR: a step toward more AI efficiency"
-    excerpt: "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet."
-    publishedDateTime: 2022-08-01T03:46:00Z
-    webUrl: "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Deepmind's Releasing AI Predictions for Virtually Every Protein Known to Science"
-    excerpt: "The expanded database increases the number of known, cataloged proteins by over 200x, from 1 million structures to around 200 million structures."
-    publishedDateTime: 2022-07-28T20:20:00Z
-    webUrl: "https://gizmodo.com/deepmind-ai-protein-alphabet-1849344400"
-    ampWebUrl: "https://gizmodo.com/deepmind-ai-protein-alphabet-1849344400/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/deepmind-ai-protein-alphabet-1849344400/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 79
-  - title: "Google's DeepMind AI Solves 3D Structures of the 'Entire Protein Universe'"
-    excerpt: "This breakthrough could finally put the decades-old protein folding problem to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
-    publishedDateTime: 2022-07-28T19:15:00Z
-    webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-solves-3d-structures-of-the-entire-protein-universe/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 62
-  - title: "DeepMind uncovers structure of 200m proteins in scientific leap forward"
-    excerpt: "Success of AlphaFold program could have huge impact on global problems such as famine and disease"
-    publishedDateTime: 2022-07-28T22:06:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Alphabet’s DeepMind uses AI to predict 200M+ protein structures"
-    excerpt: "DeepMind announced the milestone today. The Alphabet unit is making data on the protein structures predicted by its AI system available to scientists through UniProt, a freely accessible protein database."
-    publishedDateTime: 2022-07-28T19:25:00Z
-    webUrl: "https://siliconangle.com/2022/07/28/alphabets-deepmind-uses-ai-predict-200m-protein-structures/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/image-7.png"
-        width: 850
-        height: 478
         isCached: true
   - title: "AlphaFold: Why DeepMind’s protein-folding AI is transformational"
     excerpt: "Understanding proteins and their complex 3D shapes is key to understanding life, and especially for developing drugs"
@@ -252,24 +172,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 26
-  - title: "DeepMind AI has unlocked the ‘protein universe’ – and it could help to cure Parkinson’s"
-    excerpt: "Access to the 3D-mapping AlphaFold technology is having a major impact on research into antibodies and disease treatments"
-    publishedDateTime: 2022-07-28T19:43:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2022/07/28/protein-universe-revealed-ai-could-help-cure-parkinsons/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 26
-  - title: "Google DeepMind AI reveals 3D structure of 200 million proteins contained in EVERY living thing"
-    excerpt: "Scroll down for video DeepMind claims it has followed a 'responsible' path by consulting with more than 30 experts across biology, ethics, security and safety so that the AI's benefits could be shared in a way that minimizes potential risks."
-    publishedDateTime: 2022-07-28T19:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11058243/Google-DeepMind-AI-reveals-3D-structure-200-million-proteins-contained-living-thing.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 24
   - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
     excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI) in Cambridge,"
     publishedDateTime: 2022-07-29T17:37:00Z
@@ -288,15 +190,6 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 14
-  - title: "Could Google's DeepMind help cure all diseases? Super-AI reveals 3-D 'universe' map of the 200 MILLION proteins contained in every living thing that help scientists engineer ..."
-    excerpt: "Google's DeepMind artificial intelligence has revealed the 3-D structure of 200 million proteins that are contained in every living organism - enabling scientists to instantaneously access in ..."
-    publishedDateTime: 2022-07-28T20:16:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11058243/Google-DeepMind-AI-reveals-3D-structure-200-million-proteins-contained-living-thing.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
 
 secured: "QAfbdMYILkRIxEVNgBXb28S7GSoyMX2q3Q8gk5/WZXawbwC/bB++8Ne7hOgKJ8yq3qSPAnZiYVrnHOdqWDpCkQPbyi3gNLZKi4jz49cLtcW/m7qqVHyQyGSEL1Pf1EZFEqodH/uWu7r+XK5LUvHXQa651IhzSzNdEcJSOEAxWr6LjkFWTx7tiOT13+a27t7cL4gPzfYRFiYMluBzLcgoXPgpmhD+CibGi3119XG68eyyWy1D7ZWI4gzuBTNv+bMHjVJ5c39LCdwq3lwW0AJL7lMifOcy0Om852h/ZATJPlfIk4Ec3qKKuZnZ7+qMNSV9cUn5ex3E1fm+Z9dbxqOETRpQyGX2/fO8fwRb6ycQY3Y=;PbrCOAlt+7FuZRLW+1Aq9g=="
 ---

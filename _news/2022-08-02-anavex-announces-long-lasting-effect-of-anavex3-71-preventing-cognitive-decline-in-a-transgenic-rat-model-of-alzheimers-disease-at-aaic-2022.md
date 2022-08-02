@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T11:03:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/health-rats-anavex-life-sciences-corp-climate-and-environment-b0374d081f68d6e40c0fa1aa058e1d34"
 webUrl: "https://apnews.com/press-release/globe-newswire/health-rats-anavex-life-sciences-corp-climate-and-environment-b0374d081f68d6e40c0fa1aa058e1d34"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

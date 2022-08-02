@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-no
 webUrl: "https://www.theguardian.com/australia-news/video/2022/jul/30/if-not-now-when-albanese-reveals-wording-of-referendum-question-on-indigenous-voice-video"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Conviction not enough for PM on the voice"
+    excerpt: "Anthony Albanese has done the nation a service by outlining his proposal to enshrine a voice in the Australian Constitution revealing a draft referendum question and, critically, the proposed three sentences to be inserted into the Constitution."
+    publishedDateTime: 2022-08-02T13:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/conviction-not-enough-for-pm-on-the-voice/news-story/46431a2cecd2eb58440168588c85a1ca"
+    ampWebUrl: "https://amp.theaustralian.com.au/commentary/conviction-not-enough-for-pm-on-the-voice/news-story/46431a2cecd2eb58440168588c85a1ca"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/conviction-not-enough-for-pm-on-the-voice/news-story/46431a2cecd2eb58440168588c85a1ca"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 44
+    images:
+      - url: "https://cdn.newsapi.com.au/image/v1/e6762d73e476d24abe804edc132df780"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SRYecXy5zv+zGQNr+ZEvfZUz0UisxceZcOjtRhkOWFm0QwPbvh/t9WscSeFHnlV9cQlf2lK1SLCJ+yCrDhO0gY8LJD8iH77+sVBOI/qk7167Nbw9RT/GGVC9J6aET39dstvBXQ5OdiRWrupiBmtsGlnBX7tpHAJNzwh4Tw4AD7ro08LoTEamsvwdyE07ztBdRnEc+d/9nrUgjEpxpoNr0MixOI95//5FzWZfjOThsnpyl2fktMKLeQSBsAAVGiMa1ywNOU3BlUpzjP44odfHL4ePTHsypG+emehXvgH8ZL0/JzGx5fRWlxVq/BTAnjNM0/A+QCBQVi93Zb9VM39h9wheoKWTQCl1sN12R73UgN1P8zRkK7z5KarZsC1hLB4DD1pvtrLqz5mpGHm+7a1XjGXz6/esAIhUX5Sp/QJv944nWaPCMtTaPP7Y7nNaWavkuKFGomQ+ulkcu0WQo+yFO1fBvoZRd0DIEOEv1mxyMb2c2kP5krROmH4CoUYgm5u9wP7Z/VXJAv9oRhP+W96o5A==;jMS2e4sxYmzykNVrACNZlw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Responsible AI must be a priority — now"
-    excerpt: "Responsible AI is a necessity now, as discussed at Transform 2022. AI bias could affect access to healthcare and employment."
-    publishedDateTime: 2022-07-28T22:45:00Z
-    webUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/"
-    ampWebUrl: "https://venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/responsible-ai-must-be-a-priority-now/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/responsibleAI_transform2022_lg.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog Series 2 Of 5)"
     excerpt: "This blog will provide more context on what the field of AI is doing to advance corporate purpose in light of AI ethical frameworks, principles or guidelines that are shaping our"
     publishedDateTime: 2022-07-31T14:55:00Z

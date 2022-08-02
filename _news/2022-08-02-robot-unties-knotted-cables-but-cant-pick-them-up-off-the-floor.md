@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T13:08:00Z
 originalUrl: "https://www.newscientist.com/article/2329463-robot-unties-knotted-cables-but-cant-pick-them-up-off-the-floor/"
 webUrl: "https://www.newscientist.com/article/2329463-robot-unties-knotted-cables-but-cant-pick-them-up-off-the-floor/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: New Scientist

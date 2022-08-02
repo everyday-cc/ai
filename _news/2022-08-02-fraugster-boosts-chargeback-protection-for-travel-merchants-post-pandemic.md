@@ -26,6 +26,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Chargebacks911 Launches Translation Automation Module for Multi-Lingual Merchants"
+    excerpt: "Chargebacks911, the leading dispute technology specialist that powers chargeback remediation for the largest global eCommerce businesses as well as the world's financial institutions, today celebrates being able to more intelligently automate the chargeback dispute process for merchants who use more than one language through the use of its intelligent language translation service."
+    publishedDateTime: 2022-08-02T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/02/9648821.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "Ml15NzyXWMh4KQOiUQZqbIArJPrQqyYjG5N/CjVdtWvrUa2x4FYrAxJfn28uHfCGM9ovVQjRFHKXJ5wbNawF8zduYmxOX59Ki/uu61hNIoyVZb7AXi8hRK6adHVRuEWtu5zZjIE4y8NtGYIhwRkJaZEYVHIqrCc7RmrrTr87+r6gsVdpgriVm20z0cqHWZlOpekuYQ7fnh38Cf3TjpDl3ZdScprvd0whWJdIvqrc3x4vZQIzsRS+1rqZkePDRjL8Qt+3wIlWuNjm7Pg+QTpKTWKXiKNyqpxGzs5WXrq65ReaqeoYXo5y505MkK0JUjvDTj+b0A+73I2BRJ7dTkOEDzga6/jGQki9wDs+c2F0cCQ=;GA/u5IIylNJ4S91o7tJKow=="
 ---
 
