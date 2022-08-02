@@ -59,7 +59,7 @@ related:
     provider:
       name: CounterPunch
       domain: counterpunch.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
         width: 1920

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 319
+heat: 329
 published: true
 
 provider:
@@ -348,6 +348,20 @@ related:
     quality: 18
     images:
       - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Peter Dutton tells MPs many Australians don’t understand the Voice to Parliament proposal"
+    excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."
+    publishedDateTime: 2022-08-02T07:55:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-tells-mps-many-australians-dont-understand-the-voice-to-parliament-proposal/xbpxhiwpp"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 15
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/cae5c41/2147483647/strip/true/crop/1999x1125+0+3/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb7%2Fb5%2F23aa56be45469bad0a699838535b%2Fdutton-parliament.jpg"
         width: 1280
         height: 720
         isCached: true

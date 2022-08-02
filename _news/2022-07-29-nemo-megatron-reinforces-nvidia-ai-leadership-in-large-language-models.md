@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-rei
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster"
-    excerpt: "A transformer in the AI world is not a robot that turns into a vehicle, but rather is a type of technology used in AI deep learning models for natural language processing (NLP). The Nvidia NeMo ..."
-    publishedDateTime: 2022-07-28T15:01:00Z
-    webUrl: "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/"
-    ampWebUrl: "https://venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all"
-        width: 1200
-        height: 645
-        isCached: true
   - title: "Nvidia Speeds Up Large Language Modeling"
     excerpt: "Natural language processing has been an easy fit for these relatively early days of artificial intelligence. Teaching computers how humans speak and write"
     publishedDateTime: 2022-07-29T14:42:00Z
@@ -62,20 +46,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-dgx-logo.jpg"
         width: 888
         height: 417
-        isCached: true
-  - title: "Nvidia upgrades its NeMo Megatron development tool to speed up AI training"
-    excerpt: "Nvidia Corp. today introduced a new version of its NeMo Megatron artificial intelligence development tool that will enable software teams to train neural networks faster. In particular, the update promises to reduce the amount of time necessary to train advanced natural language processing models."
-    publishedDateTime: 2022-07-28T15:00:00Z
-    webUrl: "https://siliconangle.com/2022/07/28/nvidia-upgrades-nemo-megatron-development-tool-speed-ai-training/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/44658024474_23169e4910_b.jpg"
-        width: 1008
-        height: 672
         isCached: true
   - title: "Nvidia upgrades NeMo Megatron AI toolkit to accelerate AI training"
     excerpt: "Nvidia created a new NeMo Megatron AI development toolkit to make AI training faster. Nvidia announced a new edition of the NeMo Megatron AI toolkit that"

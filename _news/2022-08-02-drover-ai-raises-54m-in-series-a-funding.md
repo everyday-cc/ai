@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-
 webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,21 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
-    excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety"
-    publishedDateTime: 2022-08-02T04:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
+  - title: "Diagnostic Robotics Raises $45M In Series B Funding Round"
+    excerpt: "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round."
+    publishedDateTime: 2022-07-31T08:52:00Z
+    webUrl: "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 25
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg?p=facebook"
-        width: 1279
-        height: 670
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg"
+        width: 1500
+        height: 757
         isCached: true
+  - title: "Diagnostic Robotics raises $45M Series B"
+    excerpt: "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round."
+    publishedDateTime: 2022-08-01T19:59:00Z
+    webUrl: "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 69
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
+    excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
+    publishedDateTime: 2022-08-01T22:00:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/45m-funding-round-in-ai-diagnostics-company-includes-mayo-clinic.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
-secured: "iTKNgFOaraJAPLZ0jg3YyFesLx9hfMoPLVnE/lv2tdnGXbJXV5qysQE2x2nMaWnr1Lr6mrmPZFNmObYuVHq/REjA4LOryEXdb+zpmUuAnBeYM8Nk1tccTC9sq/SKMr9ObJclCw9tSMUXMlIDd0UEObVtbMDN2KtPcqAfDvu5NAU3Xvvf0HQeoxzQFuTKoX7d/V9T1u8pkq49BINNDL7yFdnCo4O1bkdKo61hg8coe0fo+YcNly+6yj3wJDWlbtIACZF1GetjpkRTI1j2hjzz6Qbu1OmRaaF9irH2/6lGgR1XIKGg1lBud2czqKsP9fShHYoVbRKxfH/BccX/9aaNNk/lVmT89ETwd7Fth3UrQtE=;iVoFk1TbEyEyHadsmTY8IQ=="
+secured: "9l/oy6bDUETDYAKgqU7RH7Thov4RaOa03GpFUfcwNyTh96Hh35SOd8IZHW0SJ5JbdbuzLp9D20lZkmd6t8xjLtABxGGtidv6Bctfmczql3vtFSaD+x9e5BF5jCMe8XBlTs7ihU1Qlgjmtk15VuehTSiOk8UkJZzxn6jTT70z16D0Tv95cbZiw5OLEHS1xXUZRHdl3gItZShsIOdi11R+LOUjv7rPCxQHl9jD09K3zBs2WNNNsorpNwmdQoH6YOeDQ+J2pX+vAAibl1nzFEfEjPchpu1tQa+601WN3hxC5v+tsWEhLQ7t1hDq6BL0tAgMTqc/gfQH+RvTrTCc61N1QDDckftGNee4KHimSpll2OaI7YY80p0SQib46hd3cGwMFFMQOYY1em6aE/EKSG+mUjk+S9eKHXxdgPXjojfsEAAp1TrdugK6gaf8FRMhlStyFsL5QwsjMqY3a/fGdrg+vcKdmCHTH4wOUUH3AwD84kR2oqbL4kVH1PER8NzFfE3yjrX6NwrupJdtEsAo5mSsSg==;mCIJk25VfHPDRB06zcE40w=="
 ---
 

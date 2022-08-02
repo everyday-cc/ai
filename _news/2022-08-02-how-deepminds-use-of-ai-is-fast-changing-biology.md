@@ -125,22 +125,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "AI tackles the challenge of materials structure prediction"
-    excerpt: "Researchers have designed a machine learning method that can predict the structure of new materials with five times the efficiency of the current standard, removing a key roadblock in developing advanced materials for applications such as energy storage and photovoltaics."
-    publishedDateTime: 2022-07-28T14:05:00Z
-    webUrl: "https://phys.org/news/2022-07-ai-tackles-materials.html"
-    ampWebUrl: "https://phys.org/news/2022-07-ai-tackles-materials.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-tackles-materials.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-tackles-the-challen.jpg"
-        width: 2880
-        height: 1563
-        isCached: true
   - title: "Alphabet’s DeepMind uses AI to predict 200M+ protein structures"
     excerpt: "DeepMind announced the milestone today. The Alphabet unit is making data on the protein structures predicted by its AI system available to scientists through UniProt, a freely accessible protein database."
     publishedDateTime: 2022-07-28T19:25:00Z
@@ -169,6 +153,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Artificial Intelligence Predicts The Structure of Almost Every Protein Ever Found"
+    excerpt: "A new era of biological research has been unlocked, with an artificial intelligence (AI) predicting the 3D shape of nearly every protein known to science – just one year after its first data release."
+    publishedDateTime: 2022-08-02T07:39:00Z
+    webUrl: "https://www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science"
+    ampWebUrl: "https://www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science/amp"
+    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science/amp"
+    type: article
+    provider:
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 52
+    images:
+      - url: "https://www.sciencealert.com/images/2022-08/processed/StrandOfmRNA_1024.jpg"
+        width: 1024
+        height: 415
+        isCached: true
   - title: "DeepMind AI has discovered the structure of nearly every protein known to science"
     excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
     publishedDateTime: 2022-07-29T17:23:00Z
@@ -192,22 +192,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "AlphaFold predicts structure of almost every catalogued protein known to science"
-    excerpt: "DeepMind and EMBL's European Bioinformatics Institute (EMBL-EBI) have made AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science freely and openly available to the scientific community,"
-    publishedDateTime: 2022-07-28T14:49:00Z
-    webUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.html"
-    ampWebUrl: "https://phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-alphafold-catalogued-protein-science.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/alphafold-predicts-str.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
     excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
     publishedDateTime: 2022-07-29T08:43:00Z
@@ -250,15 +234,6 @@ related:
         width: 1200
         height: 826
         isCached: true
-  - title: "DeepMind AI predicts the structure of nearly every known protein"
-    excerpt: "The expanded AlphaFold protein database has various applications and could help scientists solve more biological mysteries of the world."
-    publishedDateTime: 2022-07-28T13:42:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepmind-protein-database-alphafold-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 34
   - title: "How Deepmind’s AI decodes millions of proteins"
     excerpt: "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold."
     publishedDateTime: 2022-08-01T19:33:00Z
@@ -304,15 +279,6 @@ related:
       name: BioWorld
       domain: bioworld.com
     quality: 18
-  - title: "‘The entire protein universe’: AI predicts shape of nearly every known protein"
-    excerpt: "DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins, from almost every known organism on Earth."
-    publishedDateTime: 2022-07-28T13:14:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-02083-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
   - title: "DeepMind just uncovered the 3D structure of almost every protein known to science"
     excerpt: "DeepMind has been working to uncover one of science’s mysteries - the 3D structure of proteins and how they interact with each other. Using AI, the researchers had previously built a database of nearly one million protein structures."
     publishedDateTime: 2022-07-29T10:59:00Z

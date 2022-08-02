@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-
 webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 670
     isCached: true
 
-related:
-  - title: "Drover AI Raises $5.4M in Series A Funding"
-    excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
-    publishedDateTime: 2022-08-02T05:47:00Z
-    webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/08/image.jpeg"
-        width: 500
-        height: 399
-        isCached: true
-
-secured: "x8eGHY4esBX8S9kt6vGrQ5zBxNjuYN6LbHmwx7TWPkCgk3+cwR1KxLBwnBG+OEcB8HP2/7cWwloLkc8vCKXgpsvaAmRSr12edEWeccXfVmQOEfCIYCy3fQAhFiHUmKidNUb3KC34eSQpGT/t4d4zCn3zvOcwD6crU1Ra+7kdhoTnTtSvdROCLLGCHhSXUa3ndsCWgviqHdJJ3CRNJwjef+Xmn0bCb3vSlKbj3FPxo0qzF0rhKc97aK4C2v2oedxZR7vYuPZ8/109Snu9unAwPbg5LTRZkygPVVibgQMqSv9VXo8V6USUUga3pLt5s5m4FB3narSEN2hOHmMO4n4LLOMsp1KYUvEh18rzPugw5Jw=;6uisV41v/YKAaFKZM4hb+Q=="
+secured: "lzwuAaXip51VB7fd+7slDZwXZ6IkcrWM3ihiS0R40C41jMlWY7P1ZhFEcbuTIBDYGl3/0uwrQ+N4/L6U70644W42OAggudKd2+qyHtMpyzju5kJ9QHwtEd+QZB8uo8XAAlPIp55BZfRemcQNacNvgZORA8xbJ1x02FRRVFzyJZAveLC6eklC526AzcKYl0OpjU9reWrcjR1qII09oNwiETihQAFXuabLkSQMWM4j/B99bSCCyX4xMh1I7AcjMG4AWnu2iODcXQoO6WS5OlJaa7fNueVSniy+MTORhAptzzdjq83RsODZGFtjq3ywpNlfPeRMsTrOcCREq30RliOEWXyoOplHnQapAf7T70XGmTjrO8oVWXsAMMwEojWX39jmdxn0f0jG8WnNnvvAwSpcdsoYUDRHesg26hDvhvY/QqvzgbO8mRAxriIASQ/wCSBh9zSp50tger6aKz1BnPjpDqM2rxvHoDXZLUz6OPNEGPsM5TdLQKDE+DX0KwdUlS7buL3KT1zMqo6VSbfVQTWVlw==;cxindWyxQ54eUnupo0Rjqw=="
 ---
 

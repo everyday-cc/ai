@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/08/01/featurebyte-raises-5-7m-to-fix
 webUrl: "https://www.datanami.com/2022/08/01/featurebyte-raises-5-7m-to-fix-the-weakest-link-in-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "FeatureByte launched by Datarobot vets to advance AI feature engineering"
-    excerpt: "FeatureByte is bringing feature engineering to AI, automating data preparation and ensuring data is formatted and structured for ML."
-    publishedDateTime: 2022-07-28T13:37:00Z
-    webUrl: "https://venturebeat.com/2022/07/28/featurebyte-launched-by-datarobot-vets-to-advance-ai-feature-engineering/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
   - title: "FeatureByte launches with $5.7M in funding to streamline enterprise AI projects"
     excerpt: "FeatureByte’s co-founders, Chief Executive Officer Razi Raziuddin and chief product officer Xavier Conort, previously worked at AI startup DataRobot Inc. in leadership roles. They launched FeatureByte to ease an AI development task known as feature engineering."
     publishedDateTime: 2022-07-28T20:43:00Z

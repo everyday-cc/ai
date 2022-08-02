@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Diagnostic Robotics closes $45M Series B Funding Round"
-    excerpt: "Diagnostic Robotics closes $45M Series B Funding Round Jul 28, 2022 (PRNewswire via COMTEX) -- PR Newswire BOSTON, BOSTON, July 28,"
-    publishedDateTime: 2022-07-28T14:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diagnostic Robotics Raises $45M In Series B Funding Round"
     excerpt: "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round."
     publishedDateTime: 2022-07-31T08:52:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg"
         width: 1500
         height: 757
+        isCached: true
+  - title: "Drover AI Raises $5.4M in Series A Funding"
+    excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
+    publishedDateTime: 2022-08-02T05:47:00Z
+    webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/08/image.jpeg"
+        width: 500
+        height: 399
         isCached: true
   - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
     excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."

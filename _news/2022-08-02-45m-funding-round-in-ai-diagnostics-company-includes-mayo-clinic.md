@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Diagnostic Robotics closes $45M Series B Funding Round"
-    excerpt: "Diagnostic Robotics closes $45M Series B Funding Round Jul 28, 2022 (PRNewswire via COMTEX) -- PR Newswire BOSTON, BOSTON, July 28,"
-    publishedDateTime: 2022-07-28T14:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Diagnostic Robotics Raises $45M In Series B Funding Round"
     excerpt: "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round."
     publishedDateTime: 2022-07-31T08:52:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg"
         width: 770
         height: 500
+        isCached: true
+  - title: "Drover AI Raises $5.4M in Series A Funding"
+    excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
+    publishedDateTime: 2022-08-02T05:47:00Z
+    webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/08/image.jpeg"
+        width: 500
+        height: 399
         isCached: true
 
 secured: "XNYXIqIFxfoHqfxOI3/UIk7B+5623Xgwuh1NB0I66/ls2iIh+G+rBJwbBEFAGaeaG94uV/uvbxowSs98TQtxLlAQr0eh4m2EHgeD00CQBmTjg9GtvJw4OjTw9XIljOq+HlpNqYBXsFj/bOK9+XKGIBhQRPE1RlfvtUofGOloeicgCDmAT/zW8K3rI5CtDJo4iQ9p5Y6Mm4kCB2vYo3Kh7n7glzov97Mxv/hR/zg6knwMbtDuQYtY66lf2mOEkDc4VnU8T8KDN6TAvA5eElEmoT7J9UKzLXARzE+LtooREJs6ks+fVm6iteA/MlNnu4cQOH4eeKf6G5sB8u/91XtroPlhgedoc3aJXUKRS82eyZo=;dhZ7CAX2+1ITTx6e4sxCOQ=="

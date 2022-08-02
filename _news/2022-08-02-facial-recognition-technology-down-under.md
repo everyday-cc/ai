@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-02T05:55:00Z
 originalUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
 webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
@@ -67,6 +68,6 @@ related:
       domain: onlineopinion.com.au
     quality: 19
 
-secured: "89uYqwQx8KouT3kpbGWSonjIm6hB5svybL40mc1rzI5EG1uu4QqEzXV4/o6k8/pbYcOByx1pL22UNvn8qtB0fxXUgw9popM2ImKNb0cNIs3j074sfL5lUY1dcKIMbPqQy/yp1fEbshR0PGmiLH8VVwDlc1VxNKTwx21VUhNJyGC5tBMXD07Q9ze/CrT5al+Pi/Pz20RUgiHSM4KksFp5kzBBSdr9OhflT5/Kros1Da7CYPXwosFGJtxv4fjssxRwlEfQJG8stwU5+B+RWXpU1AX5cp/ge9C6tgzbO8RivOuoNOj+Yt70iiXdJ9Vk1iBfxrPKOXpJicySnkON9u6NinERAtgwnyNbNSnevzif06o=;sBfyo4QA80bj4mT/r3wHgQ=="
+secured: "TKNHPBUwGHXx/Vxfw2gcXf1C07KMjp76ZnN4JmedHE/Edn5FnT5x6U+q+DMcO6b2IdFtY90SqdCpoHdQYcs0i712bQduA6tX5T4MGl1mDCdRD/qyz3q23OMB2PCWoAFLXzEzRkTAZVUwvlir5pgYsAnqPp/AdTcIvA9DPeEs3ufyaZxsoyDxiew7HaypRZuWtrxlwAHDYbwMS1mdOqW8tp2rm7rlQCkQkQz22j9LxtYCRso6UUGamWmcl6l1HBurd7BU/UB6f0mgkUJWuoZZxuwDEWpENM+xql3LB/X5o5YBK1X2OfRzlDl3gc6Sh3C5qOI+axJTiNLWQ2ue/GITc/v2Y+U7FGMHLX1pMwKz9TX+AjXyG1P1Cy7lh6PxAIt3b1+jaUB6X5Puh5LdtmaC6DANB8m7SQpMuw3e/E/urqoFmN4KGhJ2Q6Tt1EXq8Cqt8T4LywuRX1pi+MsyIQpPj4oUx96p3pZ6ppjFV1sSLu1wLRXYhdbG2pgzHMlmXhJfmq/O9dQ8+LNkb64sO7ydXQ==;FIYxcxtnvU/gWUYXw7Iq9Q=="
 ---
 

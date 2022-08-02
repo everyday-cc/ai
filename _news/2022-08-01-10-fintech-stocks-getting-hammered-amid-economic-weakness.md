@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Can Fintech Turn Around Our Collapsing Economy?"
-    excerpt: "Empowering small business owners to flourish via fintech is vital in an era of unrivaled uncertainty and fear. Intrepid entrepreneurs don’t just create unprecedented jobs and sometimes, unprecedented industries,"
-    publishedDateTime: 2022-07-28T14:50:00Z
-    webUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/"
-    ampWebUrl: "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/"
+  - title: "ACCA Thinks – Episode Five: Fintech – The State of Play for Finance Professionals"
+    excerpt: "In this episode, host Lloyd Powell, Head of ACCA Cymru, talks to Narayanan Vaidyanathan, Head of Business Insights in ACCA’s Professional Insights Team"
+    publishedDateTime: 2022-08-02T04:47:00Z
+    webUrl: "https://businessnewswales.com/acca-thinks-episode-five-fintech-the-state-of-play-for-finance-professionals/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 34
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e1bc0f32894645ff133856/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 892
+      - url: "https://businessnewswales.com/wp-content/uploads/Ep-5-Narayanan.jpg"
+        width: 600
+        height: 360
         isCached: true
   - title: "The Next Fintech Movement Coming to America"
     excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
