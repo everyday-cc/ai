@@ -29,7 +29,7 @@ related:
   - title: "How AI and Data Science Can Modify the VC Industry"
     excerpt: "In this contributed article, Jonathan Serfaty, Head of Data Science, Telstra Ventures, discusses how Venture Capital (VC) is one of the most powerful mechanisms in modern society for catalyzing innovation – particularly in technology – however,"
     publishedDateTime: 2022-08-03T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/08/03/how-ai-and-data-science-can-modify-the-vc-industry/"
+    webUrl: "https://insidebigdata.com/tag/vc/"
     type: article
     provider:
       name: insidebigdata.com

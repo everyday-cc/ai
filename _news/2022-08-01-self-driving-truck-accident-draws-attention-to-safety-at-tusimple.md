@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-att
 webUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wall Street Journal
@@ -44,6 +44,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/ee/beea2a24-11e9-11ed-a6ce-8bb90e45b4ba/61faae1675fb3.image.jpg?crop=1752%2C988%2C156%2C52&resize=1024%2C577&order=crop%2Cresize"
         width: 1024
         height: 577
+        isCached: true
+  - title: "TuSimple’s Self-Driving Semi Truck Crash Veers Into Renewed Scrutiny"
+    excerpt: "Following a recent crash, the self-driving truck company TuSimple has come under fire for ignoring safety measures."
+    publishedDateTime: 2022-08-03T17:46:00Z
+    webUrl: "https://www.thedrive.com/news/tusimple-self-driving-trucks-are-ignoring-safety"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 24
+    images:
+      - url: "https://www.thedrive.com/uploads/2022/08/02/TuSimple-2-of-2.jpg?auto=webp"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "t4g4l7auYyS1CGpRRF+6rBnMuWz6PForndpE+OVlaam6xxUSbq/rj2fDfP8HKhxI66lLvW/AF3x12smPmkHjufYRN6IV6PSUb+COZymKh1Ohv9FD1CgYR6jLKlScUCowpNfqGjaAifRMPs4ZPoPHBoQlj8h8GlPSSmDM7iSuKrpUw5Cmq/T+67a8EHXYGPDwKLcFf58QqAoGtzF1HlspjOgmh90k9kiT0Lc/x1bngWKO0b/RG0nBmzb8TrgF0hE7Bwsu+RnPV0uUdddBFGVjj3lDTdh3yx20vbMVrDI7ut1mVnEVK7x1ctZbbbTirg5M238y0wItwx+4oBO5NGQ23eRfB7UWMTaQYldyJFoj6VMKVmQVcK1zXdgUgtn/GB+PyOrHbI0AonjtQyproBjOILWi97i/JjIUpgDE3VcUpruwlBfsiAgfXnn7xnu6GbgPWFc4WGPONX/9XWv0mxYG96mrFG3di3SVTDfMNT+OILptj5US9FkgZs8qrxNt4AAVtGdE0owmGHleSSBbOvHYDA==;ve2yEQIXdtkKmR1A21PcNQ=="

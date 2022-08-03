@@ -19,37 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "NYPD Ordered to Share Documents Related to Facial Recognition"
-    excerpt: "The New York Police Department must disclose thousands of documents and emails revealing facial recognition surveillance of Black Lives Matter protesters in 2020, a judge has ruled recently."
-    publishedDateTime: 2022-08-02T16:30:00Z
-    webUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
+  - title: "Marion County Schools Weigh Facial Recognition for Security"
+    excerpt: "A West Virginia school district is in talks with Rank One Computing to install facial recognition software that would create a database of known faces and flag anyone on campus who's not supposed to be there."
+    publishedDateTime: 2022-08-03T16:50:00Z
+    webUrl: "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security"
+    ampWebUrl: "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 59
+    quality: 76
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
         width: 840
         height: 438
         isCached: true
-  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
-    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
-    publishedDateTime: 2022-08-02T21:49:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+  - title: "Jefferson Mall adds new security system with facial recognition"
+    excerpt: "Jefferson Mall now has a new way of helping keep shoppers safe, and officials believe it could help save lives. The Okolona mall installed an enhanced security system in March to give shoppers extra peace of mind -- and the mall's security director Kenneth Bennett says it provides extensive coverage."
+    publishedDateTime: 2022-08-02T21:00:00Z
+    webUrl: "https://www.wdrb.com/news/jefferson-mall-adds-new-security-system-with-facial-recognition/article_66714a42-128b-11ed-b95c-7fc634889bf9.html"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
+      name: WDRB
+      domain: wdrb.com
+    quality: 56
     images:
-      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
-        width: 1902
-        height: 950
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/8/80/88055978-1290-11ed-84f8-f71d9854b565/62e96c554629a.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial Recognition Technology Down Under"
     excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
@@ -65,6 +63,43 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Marion County School Board considers implementing facial recognition software"
+    excerpt: "Marion County Schools could soon take advantage of facial recognition software. Monday night, the Marion County School Board heard a presentation from Rank One Computing, a Denver-based security company whose East Coast headquarters are located in the Mountain State."
+    publishedDateTime: 2022-08-02T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-board-considers-implementing-facial-recognition-software/article_a0ef622e-11e8-11ed-b944-c3cc38fbdb05.html"
+    type: article
+    provider:
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/0/15/015e72ce-11fa-11ed-bfb8-cb52f477853c/62e870905c531.image.jpg?crop=1476%2C775%2C0%2C314&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Marion Co., West Virginia, BOE hears presentation on potential facial recognition software for schools"
+    excerpt: "The Marion County Board of Education heard a presentation Monday evening on \"ROC Watch,\" facial recognition software designed to help schools boost the safety and"
+    publishedDateTime: 2022-08-02T00:30:00Z
+    webUrl: "https://www.wvnews.com/fairmontnews/news/marion-co-west-virginia-boe-hears-presentation-on-potential-facial-recognition-software-for-schools/article_1c76d6e4-1193-11ed-aba5-bf0a1cb318e2.html"
+    type: article
+    provider:
+      name: wvnews
+      domain: wvnews.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/4/cf/4cf3da2e-11f2-11ed-9b79-3b8213e64408/62e862e0401fa.image.jpg?crop=1769%2C929%2C0%2C121&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "State lawmakers seek restrictions on facial recognition technology"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-30T08:50:00Z
+    webUrl: "https://www.newburyportnews.com/news/state-lawmakers-seek-restrictions-on-facial-recognition-technology/article_97b60efb-38e2-5a5d-be83-a474149b8ced.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 19
   - title: "Facial recognition technology down under"
     excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
     publishedDateTime: 2022-07-31T21:40:00Z
@@ -74,20 +109,6 @@ related:
       name: The National Forum On Line Opinion
       domain: onlineopinion.com.au
     quality: 19
-  - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
-    excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
-    publishedDateTime: 2022-08-01T23:30:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-nypd-ordered-to-disclose-black-lives-matter-documents-20220801-6pohl3v5ebebrl2ac5fpuddr3m-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 14
-    images:
-      - url: "https://www.nydailynews.com/resizer/aHR-qw0387gLj8MJLtEW8HaLK6Q=/1200x630/filters:format(jpg):quality(70):focal(2267x1431:2277x1441)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NXIU3UMPVNG3BIEJ6BCVML74RQ.JPG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wgA3g0bRgMrTZx7klAJ6r0tEcPL+W4t8TK4AF1in0NYlVkdtCwx3fAzuXOS8JpYPR6iq/n1TPEAlZlhhYS3sS7byvkTMdp8KxPfVM+aapSf91W7Cl8vQsIuEadr2XF3snevz1ve5rTnEdiwRFxZnUJKo4K4+grAEP1fAHJaZQrku9f6o5KZopCnRaDUJ0/aFj7TaKbCO2En9aYwezDHfagE6MEqcUdy9iE6DKDo5nDXP9ukeLIRmRqkXDIL4uTLya46QECAfPwyv4kPxBKTEqk7LHqMNfMXVcBherH8tkxMwd2KFP/wM60YyRK2Llcg3p+girwABCF6Nk7JFH+QQ52VGx0wnwwd2oTc7fjvbu0UcNWNsANFYhWTNsUncJwP6lfer8EcV9UCzo+dkryO5NCs4v8r/ZBr21aJEyKB4lFQb3Ly16Lddc2TgwCQR0Dmw/rGMFkESGfYkjDKcqViV1qFPqjaOXu0epJ5FykBOkLdz+VabTFCO3USCrkqL2nmZxxXeMplsWo09Y56HUd+wKg==;sJBkcT0pFuxwr1PAow1a0w=="
 ---

@@ -1,23 +1,40 @@
 ---
 category: news
 title: "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks"
-excerpt: "PRNewswire/ -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform for"
+excerpt: "The combined offering improves the value of customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. NEW YORK, Aug. 3, 2022 /PRNewswire/ --"
 publishedDateTime: 2022-08-03T12:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-804323971.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-804323971.html"
+originalUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
+webUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
   - AI in Marketing
 
-secured: "33NeSvuw5r8sAWEIBgzP5Sm1ywBcjcpVfXPhAOzo19ptP/L/xWsDVYfvoD3MG9H6nTCfewPC4bSKB+52OR9i6CbO0Sd6faSy0LTw1z30yS5Izm4Vq079dPvt8Wle1XM9tuv7vYlwdbKjP6vf7eOxSPti3Qwa8RavSngyS7VdYmf6lgG/EsyQGC61TVKDzZmNq/3BY0Yw9e6ygZQT2hRq+1wxA5gI6KMM2C1etAQV56cy+ZGOmBBbu8Xk3E4zkxeY3F7WeKZ9/IRAwMqnzetueVZtlm40XpZDRFS0W+5TOX7Pkzhr1SQ6UZx/qwLUPlNnCSaZRd5NQV3eg7EKsU0UDRCCmbVBqTaY/FTEeOomb+AOZbnRTMqsAxzITDPdwHsynR7JtLCdHoZf2VFijq1d1148sKWI8y0jC5qmN0kpDznYh9InmBRMvFeRZXhdQdhkc6st2tN+IDv9vMcagRgSkd665al5IbBF0fQKzKAmbsOi6U4NT2xKhSf23ASDxH49ZWaLm45ASgyAKQ7VpVh56Q==;FmbWGcXzWbm5KCKeJbOXCw=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/vidora___mparticle_2.jpg?h=2c61325d&itok=onM5WUFo"
+    width: 600
+    height: 316
+    isCached: true
+
+related:
+  - title: "mParticle Acquires AI Startup Vidora"
+    excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
+    publishedDateTime: 2022-08-03T17:12:00Z
+    webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
+
+secured: "jKG3PUup554ARQ6IPmNpf0WvyuUPh9lwDcy7jtjieovIQ+HrwiXBcFRIOCuXLIUZaFxw6w06P//JtHxvdvIIcjsaQyHigCNOEdC9kPFOJfwhkKxaqhsev6ZSEJF86xYmERMW+cFQnGr8GB7XyzS6u1DaljLZpvPDrPWyEqphQwudxL0k7eA1XEAhwC6acWfxGA3QQIyWtP1KDo9DFS9iMk81HvbYZ4WoLXFfhtuNRT+fEbkcNcx11qhgOxXL8v7UosbCiP1eOyBa7cGJQv6xHcFKkn/FUi4ErUMxZj7iwBFsdnXD208xVBKtcZufYE0jGdDUjP9T/J4kPgpzPEEGYiY/hsaKHOvT+Rq2joWi31Q=;8XQDb5Y5SHM49zn1ULwgFg=="
 ---
 

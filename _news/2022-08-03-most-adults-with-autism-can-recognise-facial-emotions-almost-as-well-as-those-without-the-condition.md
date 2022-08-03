@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Research on recognizing facial emotion expressions could change our understanding of autism"
+    excerpt: "There's a common perception that autistic individuals are poor at recognizing others' emotions and have little insight into how effectively they do so."
+    publishedDateTime: 2022-08-02T08:11:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-facial-emotion-autism.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-facial-emotion-autism.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-facial-emotion-autism.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 34
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/autism-5.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Study challenges the perspective that autistic adults cannot read facial emotion expressions"
     excerpt: "There's a common perception that autistic individuals are poor at recognizing others' emotions and have little insight into how effectively they do so."
     publishedDateTime: 2022-08-02T13:26:00Z

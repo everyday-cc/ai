@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
         width: 1920
         height: 1800
         isCached: true
+  - title: "Exploring the nuances of AI use in news production"
+    excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
+    publishedDateTime: 2022-08-03T17:37:00Z
+    webUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These four tools could enable the future of AI in healthcare"
     excerpt: "Craig Rhodes, EMEA Industry Lead, AI for Healthcare and Life Sciences, NVIDIA, argues that just four tools could enable future AI in healthcare"
     publishedDateTime: 2022-08-02T14:39:00Z
@@ -131,6 +147,6 @@ related:
         height: 400
         isCached: true
 
-secured: "kmBrWnRL0ALmfvJ7NNnETV2JuzTrjas06G65mN4Bit8voe9nYYoxU9REd6FLdN+qikKhQmDUed7Q70evqaw96FtYeD0X2hNzA1KOgMlw8Ttna9IZNczLEY7hu9dBrH4hmXQ8P/U4vecNa7dBhPysFXvOe250hR0RUA9qDH4+VbhgfDsd7dAIQmAU2alsZEuDgy48NcpPQ35fp39Ik5sPOKQcLK0OA5OOoldRbDeUNwj07WENrKUuR/7FojpK5Bhgy3/BGeF0mWqsinnMEvF4sKcpg2PLPw7Mu+qX5lZeLJjSGPraID+X9tbLRHFDWL1IbRBr6zmmTaDs2/MLpOm/l/wSN37vQ1Ss08lo7i4lHIU=;zsD730rdQTzHilJqocMGdA=="
+secured: "cQk27z2mmABS8E3C0/CdQEFx0js7RToyvAmE03M7yA8PNUbN8wm7hlpFU/Es5igo3CACsnYWAFVAZESHTwixhCRaanIjLV5W750B28fGDCkWF61DExB4aZPqsf/mdOzTiKyUDY2Aw2NoZ9LPNj5ar/LXxjNbzl3HGOUpyNS/VBbevMptbLtm0dGbK5P7SRBktoKvLpc//0AjL3IYWq/yrpesUIDhDVICUyUulEl6f1VMSqr+d3CoI7ttrDU48p60Lbbh3szxwaLexdCycGwpH55c3ECrepZqTGVoZxDOUSyYiaf3Qe9+bh+hVoR+BAFPetzCnXl31pL8nn+3vlYPiFUlZ+SkRNtwTOQM7h6H6PlB0GSB+XgiIVbyrE8TfPYaYGO/Cz3O/B4RVCjAzHPCst0kMSy3x+dzNO3U+PQHI75/LIAoJ4L07bjFOqkHgJxpW6j04OSr0+FfpA+rsg+/yuRptZ/K3/NzWWYuEBj4gZANnWqnBva+ABf5boQy8zk8s5EqHPqWqPsecCmAY7wZyw==;xAbmd2GXDPx+Qjr5LuKnzA=="
 ---
 

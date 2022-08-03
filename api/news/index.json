@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
+      "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
+      "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "originalUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eaae20a4b525b4d6b80b31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "publishedDateTime": "2022-08-03T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-marion-county-schools-weigh-facial-recognition-for-security.md",
+      "title": "Marion County Schools Weigh Facial Recognition for Security",
+      "excerpt": "A West Virginia school district is in talks with Rank One Computing to install facial recognition software that would create a database of known faces and flag anyone on campus who's not supposed to be there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security",
+      "originalUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true",
+      "publishedDateTime": "2022-08-03T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse.md",
       "title": "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse",
       "excerpt": "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users.",
@@ -62,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -105,6 +201,49 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-mercedes-benz-stadium-launches-pilot-for-facial-recognition-ticket-entry.md",
+      "title": "Mercedes-Benz Stadium launches pilot for facial recognition ticket entry",
+      "excerpt": "ATLANTA — Mercedes-Benz Stadium is testing out some new technology that could change the way fans enter the stadium. It's experimenting with \"a frictionless entry pilot.\" The technology would allow fans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "originalUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "publishedDateTime": "2022-08-03T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -210,7 +349,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -351,6 +490,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
+      "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
+      "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
+      "sourceUrl": null,
+      "webUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
+      "originalUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/99c309f8b22ccf674ef513c2b1fdd8b5_L.jpg",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
+      "publishedDateTime": "2022-08-02T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator.md",
       "title": "HPE Adds Support For Qualcomm Cloud AI 100 Inference Accelerator",
       "excerpt": "HPE’s endorsement for the Qualcomm Technology Cloud AI 100 is a huge step for most efficient and high-performance AI inference engines in market today. When I was working at AMD to get the first generation EPYC server SoC added to HPE servers,",
@@ -454,7 +636,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1006,188 +1188,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI star Appen flags first-half loss, shares plunge",
-      "excerpt": "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "originalUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "publishedDateTime": "2022-08-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers.md",
-      "title": "MGC Pharma takes 40pc stake in ZAM, an AI healthcare platform ‘ahead of market peers’",
-      "excerpt": "MGC Pharma believes tech platform ZAM, in which it now has a stake, is a game-changer and has the possibility of personalising medication - not just with cannabis-based drugs, but with all pharmaceutical drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "originalUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsapi.com.au/image/v1/7959ea2120a57eaa321b53394d728d58",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "publishedDateTime": "2022-08-01T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-automation-tech-company-uipath-acquires-ai-startup-reinfer.md",
-      "title": "Automation Tech Company UiPath Acquires AI Startup Re:infer",
-      "excerpt": "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "originalUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-595225/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "publishedDateTime": "2022-08-01T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
-      "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
-      "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/atvi.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "publishedDateTime": "2022-08-01T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

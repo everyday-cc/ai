@@ -39,6 +39,20 @@ related:
         width: 875
         height: 596
         isCached: true
+  - title: "AI to boost PHL fintech industry"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
+    publishedDateTime: 2022-08-03T15:03:00Z
+    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "Vr6DePgkNXPb5fBGjh9BNp31ovXn7hH8XSWqTaOjoLK/oyBR1739LtkriujZ22RbtMe9ffxUkQkW0IRDI9jUxvBFj7aZ/C96RzZwcHH/jY8f3zdUSDnac1WRzCv40EGPtjM7mtqJTVAItc2qDmT0ZIx/F3m9l9JT6DwoKcrF75yln8xn+iE2PqjWcOuXAYdb5kxs94sp2PsRTP8o+5IS/mFWoaSOCuUh0f9rJaOQLVDDRlkcc8ofvctZfiLv1fpHKJUGa8TVcnPqCMx22g7RrvRPo989NfhEoaFuUzKa4bsYOVSgnszE6w+W/qmbM8+ZMKSQDOhlInF/ux7FRdrqEbjU32j1Aw3aqgLczfNYK82zk3awSokM3Jkdz97mDxW4EaVxn9yaW0isFprNqRCujdn3MfelGEvSOeD261Bui52Ia4pDlM93cmFh/hU6d5gtitGrZHFbtRkDUAFLW2hCXbrWy36T1f4vBW7nvFNDEwxGuNHLmXT6duttZ7m7Rks4fti5BFfI/XyHrOU1k4Lx6A==;YQpsUVrModXvjDHHcIw58w=="
 ---

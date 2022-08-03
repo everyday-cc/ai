@@ -69,6 +69,22 @@ related:
         width: 1920
         height: 1800
         isCached: true
+  - title: "Exploring the nuances of AI use in news production"
+    excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
+    publishedDateTime: 2022-08-03T17:37:00Z
+    webUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These four tools could enable the future of AI in healthcare"
     excerpt: "Craig Rhodes, EMEA Industry Lead, AI for Healthcare and Life Sciences, NVIDIA, argues that just four tools could enable future AI in healthcare"
     publishedDateTime: 2022-08-02T14:39:00Z

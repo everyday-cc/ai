@@ -7,7 +7,7 @@ originalUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-boa
 webUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-board-considers-implementing-facial-recognition-software/article_a0ef622e-11e8-11ed-b944-c3cc38fbdb05.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Research on recognizing facial emotion expressions could change our understanding of autism"
-    excerpt: "There's a common perception that autistic individuals are poor at recognizing others' emotions and have little insight into how effectively they do so."
-    publishedDateTime: 2022-08-02T08:11:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-facial-emotion-autism.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-facial-emotion-autism.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-facial-emotion-autism.amp"
+  - title: "Marion County Schools Weigh Facial Recognition for Security"
+    excerpt: "A West Virginia school district is in talks with Rank One Computing to install facial recognition software that would create a database of known faces and flag anyone on campus who's not supposed to be there."
+    publishedDateTime: 2022-08-03T16:50:00Z
+    webUrl: "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security"
+    ampWebUrl: "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 34
+      name: Government Technology
+      domain: govtech.com
+    quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/autism-5.jpg"
-        width: 2880
-        height: 1920
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Jefferson Mall adds new security system with facial recognition"
+    excerpt: "Jefferson Mall now has a new way of helping keep shoppers safe, and officials believe it could help save lives. The Okolona mall installed an enhanced security system in March to give shoppers extra peace of mind -- and the mall's security director Kenneth Bennett says it provides extensive coverage."
+    publishedDateTime: 2022-08-02T21:00:00Z
+    webUrl: "https://www.wdrb.com/news/jefferson-mall-adds-new-security-system-with-facial-recognition/article_66714a42-128b-11ed-b95c-7fc634889bf9.html"
+    type: article
+    provider:
+      name: WDRB
+      domain: wdrb.com
+    quality: 56
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/8/80/88055978-1290-11ed-84f8-f71d9854b565/62e96c554629a.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Technology Down Under"
+    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
+    publishedDateTime: 2022-08-02T05:55:00Z
+    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 41
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Marion Co., West Virginia, BOE hears presentation on potential facial recognition software for schools"
     excerpt: "The Marion County Board of Education heard a presentation Monday evening on \"ROC Watch,\" facial recognition software designed to help schools boost the safety and"
@@ -55,6 +83,33 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "State lawmakers seek restrictions on facial recognition technology"
+    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
+    publishedDateTime: 2022-07-30T08:50:00Z
+    webUrl: "https://www.newburyportnews.com/news/state-lawmakers-seek-restrictions-on-facial-recognition-technology/article_97b60efb-38e2-5a5d-be83-a474149b8ced.html"
+    type: article
+    provider:
+      name: The Daily News of Newburyport
+      domain: newburyportnews.com
+    quality: 19
+  - title: "Facial recognition technology down under"
+    excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
+    publishedDateTime: 2022-07-31T21:40:00Z
+    webUrl: "https://www.onlineopinion.com.au/view.asp?article=22077"
+    type: article
+    provider:
+      name: The National Forum On Line Opinion
+      domain: onlineopinion.com.au
+    quality: 19
+  - title: "Customs and Border Protection expands use of facial recognition"
+    excerpt: "As of July, facial recognition technology is scanning departing travelers in 32 airports and all arriving air travelers."
+    publishedDateTime: 2022-08-01T17:53:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2022/08/customs-and-border-protection-expands-use-of-facial-recognition/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
 
 secured: "GAMc7yfPjD7tEkqlc8B20GCz0Nxn/2IE+buRj+P7BMuqOYJ/XaQLimWDyrpPtvBot0Hw8oGLjpUmM9jDi9KEImi8iFALs/m0uLCeSMePjimzg5uKkxH2VTIo0V/3+KpN4aWn50N1vs4x4J9V4PbBI989dTrLGFBvE4b0NA6Vwbcm7wrpdn0clZ9kOq0xq9DrE32cd4VOQEvPC1L/ncIynYUtCQrFYZUAISad82U7B1GxbwrR95RdiTJMqhN9X+xl8q7GH4pl2ZAeNMh3IyxYwjHD7LJbruhcx/8MDWWuNc5nNkbd583CsYms533yVcwp+MFQok8XMOL2ikLaWwrLq0m52scoILfmpY3afP9XB4w=;lJrZHo+o/ylJXFfqb3tZyg=="
 ---

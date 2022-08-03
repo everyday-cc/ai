@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://imengine.public.prod.bte.navigacloud.com/?uuid=6c83a388-f641-51ba-ba94-a9f0345cb7bc&function=cover&type=preview&source=false&width=300&height=300"
+    width: 300
+    height: 225
+    isCached: true
 
 related:
   - title: "Big Tech builds AI with bad data. So scientists sought better sets."
@@ -33,6 +40,6 @@ related:
         height: 987
         isCached: true
 
-secured: "XHE9Nxv/vpFl+N6U22ai/C9SnhvgxDmnJRZCL/yE+QpHHEGo6VtYw+PQq2ydU9BwOFdocOGwoiqpOXv+Z6R9pFQkBX6uYpxKSSWi9NxL9CtWA80WRyhIYKJ7e2wbJjNF6PN1X/H2jT1UnjlqcG0qcF8WYyGC5CvBCS48tTS5tKUHksBaXGVWD3BX1xxQyOSEYmp3RRj3nWDBsEmw/rVa5sZ1pOiKdwLagUcdQtWQ0lmOitq9PZUvyg6f8tfQFpRUjJuhT3zLaQC2x1KQyDgrPjcOnbaZIHoXxqFq8oDrmz7akOTfdSfCqtYQRyTwkqaCO/1nIeKpVX6O5nVc6FV7ReizaoLlwpjz9yAJ7Je5LgxkW3/ny8AXif8iiXD2MvW5uenF1wdZDG5wyjdEpkQekfMBYoJeerJ69OlxTEu2POkD50jS79cChXACfnPdOUNYS24PPs/DyHrpknfMsk7j3vVkyyYkedxvDGeSMK21RfXjRrgXejOLnzBFqqOhT3eZpHa786T6P2Nn30dt34P9Jg==;kQwfMwGHCkQnHSjLwfCa4A=="
+secured: "BeEvw0645iSlfu55yGNoZ9JtiRbRkqDG+qE8E4zfdcnCucK8diLu74Kb7wM0ZCvZgqi94od8c18DEhMW7xxD9fL0UfimI6i6rHk1H71zicR2ST3o1HMirmc9x3zkG8yOihrNG0NVoepWjRXymbLHNIRKtfAtHt+HQohJUzgkk6emeXTMMROaCgtdYTr4OHDKTPb9/8bsm5zyTS3xGQEv1y154kaTDp9tsulpkj5gEgTAWcdti82hjcNO+x2tM9zGCXINzSmxsRkFbilQxaJRg15MnfCvohSUezXOyaREIVN1aSFZ8mkWZ7wo3pqipkRUv4QLim4HNfPxdIbOplBsKbznRDVrr/iJ+uOY17EYqs4=;RHlbEDCtlzCCBk0A/I6dKA=="
 ---
 

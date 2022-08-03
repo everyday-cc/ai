@@ -82,6 +82,22 @@ related:
         width: 1920
         height: 1800
         isCached: true
+  - title: "Exploring the nuances of AI use in news production"
+    excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
+    publishedDateTime: 2022-08-03T17:37:00Z
+    webUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These four tools could enable the future of AI in healthcare"
     excerpt: "Craig Rhodes, EMEA Industry Lead, AI for Healthcare and Life Sciences, NVIDIA, argues that just four tools could enable future AI in healthcare"
     publishedDateTime: 2022-08-02T14:39:00Z
@@ -125,6 +141,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DkLOvJkVxFJw9rabj5QzQsD4YPlIkc/rnaY2U8M8gRPRNdiyZrQSF9Gr58+RpGQSlxBQhjC61vGcGFx5XCAIHM63zZbwZH4YleBmYxI7Aq6vq8cUOWxHIrebKWQPnNJIMexHRJG18ShHvsUC/yBHSwTIK6OvQhzroWyRtC8DfOC0jmbLbZ9jdOmFSD6bhVlxTf6ytuyR4R65rqkAwLeco16fJQF7SaA0ofkAialMdsLh5puDcvLiG41KzZ+mr2ectF53exuFg+2uH5CjshWbNT1hAXJa4fUrL7zxEt00FVJ+0XYn7lZyqQxp70oHxEbjbTKPGDP9rBArnrnHyDjf+3rsTBLU2qZJRNdAPhcVhog=;mAH/LWL9MAWzRWHHV0WzWw=="
+secured: "Z9Ce9l/cLsv6pu9lPiYeU+Fzo7QSEjHAX7cKXpGpp2+JHZntJT5q4kQKbzHDN/MsixTEeIq6bU1xq+AYytxcyb/wZ6woNZ/uin77YHnkgOlxUUeE+ojNcNtvhsadPHG5stiNQ/sUcBVujNeitn9u/RfBfq1U8yu+MGIfed4gwXNwOfnUeqwkpzrpQJmo2NiByI44gS8nN8dYAWsT2jgiGyw/X1CVfML+kGX3rres6jTw3sSF7CxL7sHosSYs4Iv3oOtxI3GAE5QZ1nGoW/9ct6oNrQvXgYbQAzWgeE4CaTRO/vFs67kNKf0K+oKmSz+lMVYYLHoxlLdKWWT80L7Rt2VzcqtuM5w0OXhNlXYBa3E3LI9cRi0RyWpn68s/xktbv6Q96plXkofgmueu8bWeJvFzKsRQUddTCdpHwoX+T0o3GcaBD1MCgUq/dyxY74bsAaOSbxfBdPYEosvxlvUmoSmQOSaWiR/a6IHMawQ5KsTTPPArzcarW+hA/tpyvPKx7uin4e+f/bl6NlLs0xwApg==;DZ/PGGucke8Lb7v2YPsm9Q=="
 ---
 

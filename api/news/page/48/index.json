@@ -2,6 +2,301 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-06-21-ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems.md",
+      "title": "AI Ethics Leans Into Aristotle To Examine Whether Humans Might Opt To Enslave AI Amidst The Advent Of Fully Autonomous Systems",
+      "excerpt": "The inaugural annual presentation of the Oxford University Institute for Ethics and AI featured a Stanford talk covering Aristotle and lessons for AI Ethics, especially dealing with the controversial idea that perhaps humans will opt to enslave sentient AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b18b75c943048e2d4b3746/0x0.jpg?format=jpg&crop=2360,1573,x500,y62,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/21/ai-ethics-leans-into-aristotle-to-examine-whether-humans-might-opt-to-enslave-ai-amidst-the-advent-of-fully-autonomous-systems/amp/",
+      "publishedDateTime": "2022-06-21T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
+      "title": "Artificial intelligence will help Autodesk expand in the metaverse",
+      "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1371918162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-06-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics.md",
+      "title": "Nvidia’s new AI magic turns 2D photos into 3D graphics",
+      "excerpt": "After converting 2D images into 3D scenes, models, and videos, the company has turned its focus to editing. The GPU giant today unveiled a new AI method that transforms still photos into 3D objects that creators can alter with ease.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics",
+      "originalUrl": "https://thenextweb.com/news/nvidias-new-ai-magic-turns-2d-photos-into-3d-graphics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design-2-3.jpg&signature=5e6e1429a34631758a98e2f3b51997ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-hpe-invests-in-truera-for-ai-explainability-and-quality-management.md",
+      "title": "HPE invests in TruEra for AI explainability and quality management",
+      "excerpt": "Explainable AI is important for trust, compliance and building less-biased AI models. Both customers and regulators want to know more about what’s inside the black box. Most monitoring tools leave blind spots,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/hpe-invests-in-truera-for-ai-explainability-and-quality-management/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/hpe-invests-in-truera-for-ai-explainability-and-quality-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/explainable_AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/hpe-invests-in-truera-for-ai-explainability-and-quality-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/hpe-invests-in-truera-for-ai-explainability-and-quality-management/amp/",
+      "publishedDateTime": "2022-06-21T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-soniox-releases-groundbreaking-ai-for-speaker-recognition.md",
+      "title": "Soniox Releases Groundbreaking AI for Speaker Recognition",
+      "excerpt": "Soniox Inc released a breakthrough in artificial intelligence for speaker diarization (separation) and identification. Soniox Speaker AI has achieved a 96% accuracy in detecting speakers for all kinds of business applications,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-287a19561d2649c78bb6b2a7934be37c",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-palo-alto-287a19561d2649c78bb6b2a7934be37c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
+      "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
+      "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
+      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-takes-on-a-new-17248895.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/17/72/22609559/4/rawImage.jpg",
+          "width": 1800,
+          "height": 1203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
       "title": "Accurate diagnosis of brain tumors using artificial intelligence",
       "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
@@ -880,264 +1175,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu.md",
-      "title": "Imagination launches IMG RTXM-2200 – its first real-time embedded RISC-V CPU",
-      "excerpt": "Together with its market-leading GPU and AI accelerator IP, Imagination’s new CPU cores offer customers access to innovative heterogeneous solutions. This real-time embedded core features up to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartware.de/2022/06/21/imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu/",
-      "originalUrl": "https://www.hartware.de/2022/06/21/imagination-launches-img-rtxm-2200-its-first-real-time-embedded-risc-v-cpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartware.de/wp-content/uploads/2022/06/Imagination-IMG-RTXM-2200-top-600x388.jpg",
-          "width": 600,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hartware Net",
-        "domain": "hartware.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-iktos-and-zealand-pharma-to-develop-artificial-intelligence-technology-for-peptide-drug-design.md",
-      "title": "Iktos and Zealand Pharma to Develop Artificial Intelligence Technology for Peptide Drug Design",
-      "excerpt": "Iktos, a company specialized in Artificial Intelligence for new drug design, today announced a research collaboration with Zealand Pharma A/S (Nasdaq: ZEAL) (CVR-no. 20045078), a biotechnology company changing lives with innovative peptide-based medicines to co-develop generative and predictive AI technologies for peptide drug design.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_69e4dd9c-1bf2-5c73-b853-b8b34ad7d0ba.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-incredible-moment-australian-soldiers-control-ghost-robots-with-their-minds-using-new-technology-designed-to-keep-hands-free-for-weapons.md",
-      "title": "Incredible moment Australian soldiers control 'ghost robots' with their MINDS using new technology designed to keep hands free for weapons",
-      "excerpt": "The technology allows soldiers to control the robots hands-free which is ideal ... visual concentration rather than having to clear your mind and have mindfulness.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-10936697/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/21/06/59323199-0-image-a-32_1655788844022.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10936697/amp/Australian-soldiers-control-ghost-robot-dogs-minds-using-new-UTS-technology.html",
-      "publishedDateTime": "2022-06-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "Losing one AI ethics board might be unlucky, but two is surely careless given the ethical hot water the company has found itself in lately. 10/04/2019 EC lists seven requirements for ethical AI A ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.chitra.live/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "Kevin Farrar, Sports Partnership Leader, IBM UK & Ireland, said: \"The digital fan features on the Wimbledon app and Wimbledon.com, beautifully designed by the IBM iX team and powered by AI and ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220621NY94532/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1843601/IBM_Wimbledon_2022.jpg",
-          "width": 400,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk.md",
-      "title": "Aurrigo heads to Alnwick for Self-driving rural first for the UK",
-      "excerpt": "Local residents enjoyed the opportunity to attend ‘The Great Self Driving Exploration’ on June 19 and 20, where they took a closer look at self-driving vehicles, asked questions and even enjoyed a ride. These trials are the first time that self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
-      "originalUrl": "https://www.themanufacturer.com/articles/aurrigo-heads-to-alnwick-for-self-driving-rural-first-for-the-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/06/21005338/Alnwick-Group-PR.jpg",
-          "width": 1100,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "themanufacturer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -412,6 +412,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-20-new-jersey-health-foundation-awards-three-grants-to-kessler-foundation-to-advance-cognitive-and-mobility-research-in-neurological-disabilities.md",
+      "title": "New Jersey Health Foundation awards three grants to Kessler Foundation to advance cognitive and mobility research in neurological disabilities",
+      "excerpt": "This year, grants were awarded to three researchers at Kessler Foundation. “With decreased motor and cognitive abilities, the elderly are at risk for falls when they walk. In addition to old age ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959358",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959358",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1cc71b83-0843-4e9d-972d-6b0095ccd4bf/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
       "title": "Oracle partners with Microsoft to launch database service for Azure",
       "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
@@ -1333,41 +1376,6 @@
         "AI",
         "Microsoft AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
-      "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
-      "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
-      "originalUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

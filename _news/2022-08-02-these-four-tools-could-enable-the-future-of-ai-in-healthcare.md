@@ -83,6 +83,22 @@ related:
         width: 1920
         height: 1800
         isCached: true
+  - title: "Exploring the nuances of AI use in news production"
+    excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
+    publishedDateTime: 2022-08-03T17:37:00Z
+    webUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The future of AI is writing sultry lingerie ads in San Francisco"
     excerpt: "The perfect, purple-loving, wireless bralette for every occasion,” purrs the product description for the lacy Gia Contour lingerie on the Adore Me website."
     publishedDateTime: 2022-08-02T16:29:00Z
