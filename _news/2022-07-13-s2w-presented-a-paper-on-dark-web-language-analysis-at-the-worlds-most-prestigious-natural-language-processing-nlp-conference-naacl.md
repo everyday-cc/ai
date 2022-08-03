@@ -1,29 +1,20 @@
 ---
 category: news
-title: "S2W Presented a Paper on Dark Web Language Analysis at the World’s Most Prestigious Natural Language Processing (NLP) Conference, NAACL"
-excerpt: "Collected and analyzed dark web data to analyze the language used on the dark web and compare it with the language used on the general web to identify linguistic differences Contributed to the promotion of dark web research by creating a model that classifies dark web documents into 10 categories and discloses the learning data used SEOUL,"
-publishedDateTime: 2022-07-13T00:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-265518572f8e5f98fc0bfcc252bce0cd"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-265518572f8e5f98fc0bfcc252bce0cd"
+title: "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL"
+excerpt: "https://s2w.inc/) participated in the world's most prestigious natural language processing society, NAACL 2022 (Annual Conference of the North American Chapter of the Association for Computational ..."
+publishedDateTime: 2022-07-13T00:42:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Mj0xpGXkOlyr4qps9UlR+O/Lqd713WnUUEYPkJzZNWuwuhLgaXdatbbT+7YSdpiUEgpry+yqoROYq5wm3TtraeV0ozRVlwDp41ahukmbsoSE/BGSvshtfKZzQgjnWcHNHSRFYVIMZltJhP5G1GddH73vsQDAkBI1glzr24NJOUJcTgrfSwACHksrOcku2tdeHghoSj0dbntoPwN1p9+2AoywQIsEMH5VnHzWlTVkM/py2DfbrGGHIgsHxtCcBaJy20Htyy0gLdBLwNqkkVJ8RrCK2XN4B34afiDu8RmCOpRKuIZ3pAFYmlwd9CwKARWBIcGlD5rEC4YimDYyQUwBS2toqt8WFCuaBV3SszwAolc=;XujSqBpU2mKfJxNUjte6Mg=="
+secured: "+YwCH67wrhS+K4evFQyrI0JOGNVmRM5OrURJ+l6uBKzZtXIW5iBuFsXqwK1v1AF2tPEqa9zaqaJpjCuXV+e+GI//qUkiDrnOHJCLphsSxEFX+ASFwDq/x0axOwp9CMwHuoxk2QdJz1bp/3NCq5gF2RbHXhjgN4PBIEc2Hq3Lp7EBScFeNypzbtZWm0SFLKiYIoeHzQYFQOWAJ+up6lHgTPIDsYORcCq+JcwmjcFZosoZzxX7W8KbbCnJFd9XbVfTZVD8erh3L8gCL5yvLhFwoCISUIPdbaL39AIl/LNE/BHn9F7PoaASVprSSD1AUxQAriwm+gsVD47e6i57/EISuqbOjZXWlReLQte5qN/EqrE=;5ocqWQwW+u13a0fLu0vLDA=="
 ---
 

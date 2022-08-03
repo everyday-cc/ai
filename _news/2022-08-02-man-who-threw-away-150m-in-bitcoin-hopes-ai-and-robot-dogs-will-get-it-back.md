@@ -2,15 +2,10 @@
 category: news
 title: "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back"
 excerpt: "Computer engineer who accidentally discarded hard drive consults Newport council over scheme"
-publishedDateTime: 2022-08-02T12:58:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?amp;amp;amp"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
+publishedDateTime: 2022-08-02T11:43:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
+webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 type: article
-quality: 71
-heat: 71
-published: true
 
 provider:
   name: The Guardian
@@ -24,12 +19,6 @@ topics:
   - AI
   - AI in Robotics
 
-images:
-  - url: "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "10VLwW+h+KFqm1hU4+lgrbi9TK7lXd1tqAniMUm4EmOGGjZdbmMvvZDbb+/mcCIeLqYhmXeAQT9YPs68lFoyq1llVLuWmdow32/0SkQGr5RSG5XUFj9OTc/xOJLM6NhnrJr2PCgaTpDVvMG6R3OcWV5eqnhMhOmKl/kcXek9flRxUmExuIBMTDYiaEvrxOGNzsA+tS+iP7wsucy4isZBWWbh5qg512Kv35oeTs7aj9rOWF6XAIJuyHndA3ZfhNFUpPfkH9JI3/DgFP7Nf4gz5wfEBsHXtVPM+45OaGvc4DiMWr+RMmyjEd/2GNnhhIDK/mIfM0bbprXrYJH+vx5ARglqdMilTK86VAIostIEt64=;lZTNjHrC1iUXfZur6afTFw=="
+secured: "ZYL49l8pafuL9OPLlKfnRTpqPOB7fnJ4HAly0RSxV56NfpSEmc9UuFqG8qou6sLgD0+v3sDQ6VHlAWE526Oxb63EAYBYJlbjxRVUohCFL9Lel0oX4pTNvTsNBxeCqlOztSZGYfLOwqPXSpdHRRWWNQMxbJk8z+8e+T3zcwHRceL0XxYmaqH8+k6G3XkIMOre6rpdkE3wV1dyb8CnRcU8QtoNJq3RPVCA4ngicp0u9XZkv2eAsJfopNccYwESpdpY3jgE0jliEEHLXGKLCi9obYhOwHTr1N/J9h+7g87VlSvsLgyw9laI+s/C/eH17el2ZiGwvmGkboNlF02ZXsYQHzjDzAW4u3I/JwZK58JWZG0pT+u6RujlciTEpHSKzwpoOY3grFY+6vvsqr4NFoRIuVuwj84KG/3JOMAMmsOTtnYQ15imJQVcNuarkN/sLJFttaYW6Q3dDZse7Rpj+9DR5cwdO3wGmcJQDgvTDmfq0vQ6e89U9c6RNVIWWS/yer8AcjGG80f1p2irmvqIiC9WOQ==;04r7xuXpqPGfvyRflRmLxQ=="
 ---
 
