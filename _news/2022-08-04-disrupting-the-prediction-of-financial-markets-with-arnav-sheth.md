@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T17:50:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28337990/disrupting-the-prediction-of-financial-markets-with-arnav-sheth"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28337990/disrupting-the-prediction-of-financial-markets-with-arnav-sheth"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

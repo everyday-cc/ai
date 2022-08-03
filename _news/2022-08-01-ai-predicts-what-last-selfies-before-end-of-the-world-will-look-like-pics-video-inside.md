@@ -42,22 +42,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AI predicts what 'last selfies' before end of the world will look like - See Photos and Video"
-    excerpt: "Creepy images of what \"last selfies\" taken on Earth may look like have been depicted by an artificially intelligent image generator. See pictures and video:"
-    publishedDateTime: 2022-07-30T02:48:00Z
-    webUrl: "https://www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123"
-    ampWebUrl: "https://www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/viral/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-see-photos-and-video-article-93224123/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 46
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93224123,imgsize-100,width-1280,height-720,resizemode-75/93224123.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ever Wondered How Last Selfies On The Earth Would Look Like? Well, This Is What AI Thinks"
     excerpt: "The account had asked the AI picture generator to display what \"the selfie of the end of the world\" might look like, according to the video published on the short-video hosting website. An AI (DALL-E) was asked what the last selfie on Earth would look like."
     publishedDateTime: 2022-08-01T12:36:00Z

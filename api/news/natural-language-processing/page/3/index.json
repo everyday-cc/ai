@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-07-with-self-learning-models-prediction-can-be-explained.md",
+      "title": "With self-learning models, prediction can be explained",
+      "excerpt": "Self-learning computer models can be of value for speech recognition, fraud detection, and assessing medical risks. However, the benefits scandal, for example, shows that the utmost caution must be exercised: and that is why the law stipulates that there must always be an explanation as to how a model reaches a certain conclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-self-learning.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-self-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/with-self-learning-mod-2.jpg",
+          "width": 650,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-self-learning.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-self-learning.amp",
+      "publishedDateTime": "2022-07-07T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
       "title": "Meta’s new open-source AI is a step towards a universal language translator",
       "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
@@ -1401,49 +1444,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-renesas-and-cyberon-partner-to-deliver-integrated-voice-user-interface-solutions-for-renesas-ra-mcus-supporting-over-40-global-languages.md",
-      "title": "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T18:21:00Z
 originalUrl: "https://www.beckershospitalreview.com/innovation/sanford-health-leverages-patient-data-to-develop-diagnostic-ai-products.html"
 webUrl: "https://www.beckershospitalreview.com/innovation/sanford-health-leverages-patient-data-to-develop-diagnostic-ai-products.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Becker's Hospital Review

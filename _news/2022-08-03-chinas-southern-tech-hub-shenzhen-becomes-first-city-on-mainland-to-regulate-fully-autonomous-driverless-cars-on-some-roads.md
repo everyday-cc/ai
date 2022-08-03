@@ -39,6 +39,15 @@ related:
         width: 810
         height: 577
         isCached: true
+  - title: "U.S. women more concerned than men about some AI developments, especially driverless cars"
+    excerpt: "Women in the U.S. are less likely than men to say that technology has had a mostly positive effect on society (42% vs. 54%)."
+    publishedDateTime: 2022-08-03T18:59:00Z
+    webUrl: "https://www.pewresearch.org/fact-tank/2022/08/03/u-s-women-more-concerned-than-men-about-some-ai-developments-especially-driverless-cars/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 25
 
 secured: "H3Fc7kYbdoyXlWBKagD+1v2Bftesw/IUiwIxVQUsVHGI2KwHlArqxuAR96o1n/3V8SgXnc0/Kd347MBF/Hq3d4rdOzizE3IcjN1EWgewnapWI4NdtlmsFGyUkU9oQvrQX3HkfT7IGaY+Eb1Q5vocZYs5Ko1c8Av2ZjMEDLk/s6nZANsvTde7V2I/Q3OCJGAJZ++rkNtV0EZn28VK6XZPXV74AiwRXC8YV6Xr7+1Sn6wh47M2T8cmWP/YgI/hywQOjw7hRHS3miWBiGvO/DUmfGyNcCSfnSOiRtolO9shxg68h6xgBZq6R2ELw3yaZv0Y0zmYuWxDCNvrCSCS8UExF1fCL1HucERV7gaP51+5EaiFCRTu30HvjCUJJx8vJswJfsQzqURbErLGUi/gxq0uBKFP53rvdcCnb2ILYYbJvVYdPwqc4KkdFEfNKVAy3hdW5vaivoV3/UE1uQ6Ujv+NdPmqiPLQqv7Qxu5wiQA123T2Bip1zDB3ji27yUEzYAoXsTXoURedhde3x479MSrQzg==;2wBGiAWDjmP7SgUF4+nD3A=="
 ---

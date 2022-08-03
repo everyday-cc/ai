@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "CBP’s Facial Recognition Program at Airports Is Expanding but Concerns Remain"
+    excerpt: "The facial recognition program for international arrivals in airports is rolled out in all international airports in the United States."
+    publishedDateTime: 2022-08-03T19:51:00Z
+    webUrl: "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 51
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2022/08/02/How_to_Be_a_Better_manager/292x220.png?1659469433"
+        width: 292
+        height: 220
+        isCached: true
   - title: "Audits of CBP’s Facial Recognition Partners ‘Vital to Building Trust,’ Lawmaker Says"
     excerpt: "The agency has “a ways to go” in auditing facial recognition partners for privacy and security, a watchdog noted."
     publishedDateTime: 2022-08-02T14:16:00Z

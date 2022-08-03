@@ -3,9 +3,14 @@ category: news
 title: "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back"
 excerpt: "Computer engineer who accidentally discarded hard drive consults Newport council over scheme"
 publishedDateTime: 2022-08-02T11:43:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?via=indexdotco"
-webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?via=indexdotco"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&amp;mc_eid=d105d8fee6"
+webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&amp;mc_eid=d105d8fee6"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Guardian
@@ -19,6 +24,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "GzcLvBMLmObiT6uDK+ULMisyHiftzWT7WRmrdKSLdYSsBHVYXBjCHOgR1LlVNMPjxl+Qfg7LrnkZgARhYK8wDHGF+shv1UWSMxDrbjuYv+SyEyCOzBjsEOcehtiWoTr8n8paQ8YvN8sy+mfvfmmWX9c49Yp0kaJ19kQYoU918Zbyln9QXU/oU5m+YxiUdGomZJbwHLxBkgmEGKqdnRGoo6eLo2C2xWL/LrE0WPMYnhP3q3wkVPTdu9qAzGo+oLeUq81VV/ArF8ea9CAzaGvHIeFYRVYbUXW2QhifiAoW4hM7plHl3YAtEgiC1tRsqezEPXb0wGhMZDrf3zGtLGAkg/7S7a6DaVjlgsaSd8exenW1Dvyc7nGbCdDRiZsj8XG1jlvIrfItTczA1n2G0cHb1xjpM3XsIps9XDSLFLOIqUDtJrkf7EMUSaeW5au/4OkLWegZkrNae0usQBAaiL9XBZhbLdEMFL3wrj8S8VzYERzMLAZPnGzJEsYzbhvgWj3l0uQpdLWR07IX0J2QSb5+Hw==;zo1YnK98k4raQAEVI7jQ8Q=="
+images:
+  - url: "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "8Jc+I5JeA+X58zpzsqL5q+13AHhrveHz6x6OfNbbx+mBbBL1XI016O4PnZxJePFpYSLVJBtlNi33gpSmDjCIjgDOej4fisLsNdAy6qE5yEQPM/A6xopuse+83s8pdRRKM56sb3d6qDHVg40ac8LZk6W3LlkneK4Sq4fPy6n25uDEQkm7BbY2FMVcaMVyCd9rp34i2rDSUURs1fSmwS94LZTLUyza+47ZWPUNTNtxKWeuGV1sBVFPR0rTJnBq8Y6tTTLmwj6Qx9DibF6IrvwiJRN0cGXmsEyctSDtbm85RMljS/tix5H8mmRWxgMUlJ9SHjsnL8ghIRA72teDSPyht/4Nqk0UAPQXSk9hL4q6hR8=;H66t6yh+nBkNXb7tc4MyRA=="
 ---
 

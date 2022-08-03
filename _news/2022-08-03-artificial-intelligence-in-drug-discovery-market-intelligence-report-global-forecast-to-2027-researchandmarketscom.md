@@ -1,28 +1,47 @@
 ---
 category: news
 title: "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-excerpt: "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,"
+excerpt: "The \"Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,"
 publishedDateTime: 2022-08-03T14:48:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-3-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-3-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
 type: article
-quality: 13
-heat: 13
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+related:
+  - title: "Global Artificial Intelligence Computing Software Market Analysis 2021-2026"
+    excerpt: "The 'Artificial Intelligence Computing Software: Market Analysis' report has been added to ResearchAndMarkets.com's offering. Market is predicted to grow from $ 6.9B in 2021 to $ 37.6B in 2026 and may become a new sector of the economy."
+    publishedDateTime: 2022-08-02T09:44:00Z
+    webUrl: "https://menafn.com/1104631102/Global-Artificial-Intelligence-Computing-Software-Market-Analysis-2021-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?166236"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Global AI Writing Assistant Software Market Set to Reach USD 1035 Million by 2030, With a Huge CAGR Of 15% | Growth Market Reports"
+    excerpt: "According to a recent market study published by Growth Market Reports, titled, \"Global AI Writing Assistant Software Marketby Types (On-p"
+    publishedDateTime: 2022-08-02T13:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-ai-writing-assistant-software-market-set-reach-/2022/08/02/9648820.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "w4Z+FyVaaMPujrbEDgtwKRPpiiCJ5xmdCLgboIFn4TSA0A4vQm6SP9PsQjVq0cGXzwkJP3OS+u8404a850HdejCvwyeZO08+yKITj2chQd8EXiwCEOAwtvkcRkPUyKLBt4i1+51JxHRDN19M1CboRaCMojyuE+eCwvJ7yur1fxboZGtnxJ577aQTOrd0NNhBQ1/9TdG8NUv8D7BLaYX4dkUbD/4QsC1CWD1r+jNa9ayx7SvytD1M6b+gHCHZzzFt+KqgNN2RftWf9FK+7ymCjwMERdRqD3zW2yT5fEJQ7bawb3HfyLzw1SjXWSkSUM9/j3Vwakrsxe0XV/KDOOxlynPX7uE4vRJm5qBIZAvAV7k=;1GtVjhJLiTvWLXiLASesKA=="
+secured: "AiiAwTC8vxX5mB7DqJ1PKhLoG6YctuILVY4UCkNj/8CYL5VRpP8QeuZq65Yg++/bchYCd+bRAsnN7JdPMjVOdu3hhEp/6SSZJ+BzyHvASORC3h7ITBKH3C//4Gu73cKvDOIDMDFHBWpR+REA67hPxncizlLlpdDRjXhJIqSvRtHVpumyQvqVhlN8OXB7rpDnLn7q55HKG3eTnSjML43ZnoYpiVsALLBQDNBn0ab3EoWYIVx4JhgiU5KbEqmU9yisEIMvIq48RauX6Z53wf32Cw33KVjwLF0YrwGgcpiKq9K9l63EofEi8CfGGe13sePhhcZvauUHmvlorvqtx1rBi3ZJik7odvDC3aTroA5+dhI=;W0SZHc5pXUPjPnXeeh+Vyw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.outsourcing-pharma.com/Article/2022/08/02/blending-hum
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/08/02/blending-human-knowhow-artificial-intelligence-aids-drug-discovery"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 750
     height: 435
     isCached: true
+
+related:
+  - title: "How AI systems can help humans by predicting diseases & discover cures"
+    excerpt: "Stock  The quest to discover how diseases develop in humans has been hamstrung by high costs and access to large enough datasets. Scientists are racing to change that. moment: discovering precisely how the development of diseases is linked to lifestyle,"
+    publishedDateTime: 2022-08-03T17:47:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/how-ai-systems-can-help-humans-by-predicting-diseases-discover-cures/articleshow/93331163.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 17
 
 secured: "2iT3igFfx8fxzsQiY/NSUp+1DemQM+z6bian5GDIoNJXg5PWwTPHJxCDEHvaemzFu/Vv1V9APkG9+FH+raileTKdYmE4GPHxLyLxWC3G9le+jNXtmbVXwNuZOoZrgNAP5shUkxr467SU9VgM87gIDZoAZ2Kq65RFasXogb0HaDKxikpEPtaRbTWAzV7lMEfu3fAK61rSDepFD30XlHlB/2JQR1uYThN7HUJJW5+dx6SndOaYC+GsxU/jzHnwc8579YCyaNCii6rlgrXO2gX5gpshnWDnq10rufyXOmzf4oSxOMOWSaIa6FpNPuVcSuG5evMjB4SJjWhAsZbEem2CmMOvC784sgu7q4QIjGN6NlSAMQSCLw6Bu6SIO2Dz5LemjErFjfpgqJ1/Nv//FbMRd0jaT9p9uyHfohnzgoidd7kBj9csOmeoOHzxEDK3lxzINr2E/rpYXSXvFy111KNtSFH5wl+hH9aNe7rACEYorw26cZJ4mBOnOq3Bz0wb7dPCsmlSK9K+jiJcAILOMjvbGw==;gtQNqEX/oEgOcHCkT2eIug=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T19:49:00Z
 originalUrl: "https://venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/"
 webUrl: "https://venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

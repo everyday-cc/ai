@@ -42,6 +42,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
+  - title: "Synctera Debuts Operational Compliance Support for FinTech Builders"
+    excerpt: "With Ground Control, qualifying FinTech builders can elect to have key compliance tasks managed by Synctera, including ones related to Know Your Customer (KYC), Bank Secrecy Act (BSA) and anti-money laundering (AML) regulations,"
+    publishedDateTime: 2022-08-02T13:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-8097813553b64ced9c740a9fd983e801"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Next Fintech Movement Coming to America"
     excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
     publishedDateTime: 2022-08-01T18:33:00Z

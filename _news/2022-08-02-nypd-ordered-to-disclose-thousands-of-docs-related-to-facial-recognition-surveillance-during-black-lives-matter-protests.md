@@ -57,6 +57,29 @@ related:
         width: 1902
         height: 950
         isCached: true
+  - title: "Facial Recognition Technology Down Under"
+    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
+    publishedDateTime: 2022-08-02T05:55:00Z
+    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 41
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Facial recognition technology down under"
+    excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
+    publishedDateTime: 2022-07-31T21:40:00Z
+    webUrl: "https://www.onlineopinion.com.au/view.asp?article=22077"
+    type: article
+    provider:
+      name: The National Forum On Line Opinion
+      domain: onlineopinion.com.au
+    quality: 19
 
 secured: "50NDuf3rA0+JJ1L0dNycBm9CCeswSKU9fNDYbyw2m58wQ0KdeTFA898LGU0eB8NgffzH9ezxuuzF3jO2nSXZlJ3IM9w/4k9DiT3oPzZhaxh9S5Ov/eKMkZPbOj0all/ebRNh6InuSioRET9igDvVHPIhPqX7fpDLn6v5yC8vN1ZTB6sZlu5WtbNVMyJJHzy7Xv47AdGCGmC8e6Fg3zZcEEznzYgrH3HSz4c7w4++6Fm9AokI1tzArszpmP9l6KrArRzwkkt6Z6pK5arUlCX6a7fcme2w/UROhizirYOe9gNbxi1QwrcldAzZxUJ6Kc6LjdZOJdxWFApq267RVPP0/AxeQZiSXA0WHDluaRMDaA0=;oeav6arNPAy+NsZdggjMbA=="
 ---

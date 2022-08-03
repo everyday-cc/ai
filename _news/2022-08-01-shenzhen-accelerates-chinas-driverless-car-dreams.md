@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-d
 webUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "U.S. women more concerned than men about some AI developments, especially driverless cars"
+    excerpt: "Women in the U.S. are less likely than men to say that technology has had a mostly positive effect on society (42% vs. 54%)."
+    publishedDateTime: 2022-08-03T18:59:00Z
+    webUrl: "https://www.pewresearch.org/fact-tank/2022/08/03/u-s-women-more-concerned-than-men-about-some-ai-developments-especially-driverless-cars/"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 25
 
 secured: "Cq6/il4+O1Qg3vmfsuRVaf6h7lT2BhDg7hPFqzkuZB4M8uENcIh5R19eXqVYGs+4EdgEA86tAKiS/NE98ReQ/9l3GvPBw3mHLMEAbhL3u47mjUDPAiIeSjdN+nVw1EXv7KpUpv43noOzZsGtijnACVeekCHplElVS+PQXkz7A8lGcAETFCjM6dTzXDSoENRE0s8gIVTsfI99RyM7p8RvCKa+cWTss65TJ/eBzn//cJx4ZvPGkc+kFEcCVJLvuVtPGMWkMKplh8Ng1xGOnxk7kLgj8f8vrDEB03aKzQUQht6KyLVNz5WMopRJFmHsZwiDfC1ZodLgTRPdsurEATmifppA2/U+VHp/c3RInxssmo8=;VfWzjHByqVoMmIx7MVJ8ZA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webca
 webUrl: "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "New Insta360 Link webcam uses AI to follow your face"
+    excerpt: "Link paints a true picture of what modern webcams should look and feel like. All around, from hardware to software, the AI-powered webcam makes a bold statement. While most other webcams still focus on the basics,"
+    publishedDateTime: 2022-08-03T19:25:00Z
+    webUrl: "https://knowtechie.com/insta360-link-ai-powered-4k-webcam/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 17
 
 secured: "H7L+RyFQQg5YbXXP15ZWBcRu1KAV+NvYRgDlhnUteH6ev5kWHnA0YWR9DqgpZmYrbJjfRjW3dW0dAtdIAq5UaAGchhTmQ1Q4gHVXKvr2pXEexpj3mIVeAJ6JrU1ddGiDxkrpscsHOp/xmAxurwJEwB0ah9NWjuDbn3Ay7iAHO1KgJHKiyZ9yEPLnLOLVdsFBfgWrKjmRBwb2y34SgkMRm4ofQbR+eKmpLKBQn7zrg+0lzfMK1EpyRR0zjXI1xWirp1TKfTiH/O/xYAVnB/W79+Y8fnrCDlQdj8xQPBPPHW3Qh3a2y6cm4MorgbKL88Xt5IbGttv6x72Y+v+Ym53Wj+IZxGzovvVJWP0tjPzMB1PBvwYrXuZG6lTZn4co+rYj7kB4HRX2YBTow+oK+09gChWHlg7nu6neFgwdUoybLc1djLKEhtHL83/xJqo/K6wRszimMaasTEr2Dbje0VqwN2f09/RWgs/z4WfMx69MYWd6252PgxbGgYnaLf4TOiFTqrWWMXtZocjoHmZ7HO/9mg==;WGbZ0L/w3/zsFDkUuhy/QQ=="
 ---

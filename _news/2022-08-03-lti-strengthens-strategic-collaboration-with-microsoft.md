@@ -49,6 +49,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AWS and Microsoft eye economy in a bid to control cloud cost"
+    excerpt: "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers."
+    publishedDateTime: 2022-08-03T21:33:00Z
+    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 56
+    images:
+      - url: "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
     publishedDateTime: 2022-08-02T16:20:00Z

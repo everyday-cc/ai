@@ -48,6 +48,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "TidalHealth using AI to reduce physician burnout"
+    excerpt: "\"We're excited to help support TidalHealth as they look to empower their network of practitioners and build the future of medicine.\""
+    publishedDateTime: 2022-08-03T20:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/tidalhealth-using-ai-to-reduce-physician-burnout.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "2xUVwb9FbU3T9ERKhXqhDzjey81+aRiQtRjW+ajEG5BgPrgM+sFxHItHoE+LijxyoAqo7BBd8CA1GluDe5IusvPMWshySCRXokrc2CRNCFa1vljqLrnxwp91lHxLRHyT8/8sa0fNMzSSBYnX6ZWmB2A5X4PbMzgcvWIbbJ1PT0DcoK8cuA/Ol4FLtrIxlDs8QBjkOp5ONSyGQP3YH2Ee2QFcNen4h/W3c5QYmUOw47kOQGvCCh80O0RrOO8GqHcqiaC74St81HyIPc04tObiFzjz9JqcLO4S2unCm9kcWmXiuDuoxZMYcAAz3+Aa6W6b6aai/ab6Wyfd8xhHvT9gTFw0GqnRbduxNABVWOqWucY=;dX7w8NfZPrHuyFYjjNkgJw=="
 ---

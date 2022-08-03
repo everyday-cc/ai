@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-03-marion-county-schools-weigh-facial-recognition-for-security.md",
-      "title": "Marion County Schools Weigh Facial Recognition for Security",
-      "excerpt": "A West Virginia school district is in talks with Rank One Computing to install facial recognition software that would create a database of known faces and flag anyone on campus who's not supposed to be there.",
+      "path": "_news/2022-08-04-cbps-facial-recognition-program-at-airports-is-expanding-but-concerns-remain.md",
+      "title": "CBP’s Facial Recognition Program at Airports Is Expanding but Concerns Remain",
+      "excerpt": "The facial recognition program for international arrivals in airports is rolled out in all international airports in the United States.",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security",
-      "originalUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security",
+      "webUrl": "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/",
+      "originalUrl": "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8df9832/2147483647/strip/true/crop/1119x583+0+23/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9c%2Fc3%2F0eddcc5f45b1049402bb3e8fadb2%2Fshutterstock-1385868245.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://cdn.govexec.com/media/img/cd/2022/08/02/How_to_Be_a_Better_manager/292x220.png?1659469433",
+          "width": 292,
+          "height": 220,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/marion-county-schools-weigh-facial-recognition-for-security?_amp=true",
-      "publishedDateTime": "2022-08-03T09:50:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T12:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "Government Executive",
+        "domain": "govexec.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
@@ -140,7 +139,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {

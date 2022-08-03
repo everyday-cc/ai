@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/technology-health-pati
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "TidalHealth using AI to reduce physician burnout"
+    excerpt: "\"We're excited to help support TidalHealth as they look to empower their network of practitioners and build the future of medicine.\""
+    publishedDateTime: 2022-08-03T20:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/tidalhealth-using-ai-to-reduce-physician-burnout.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "817pGoeplz3MJ4xSR/9bwC31/RWvaZg5NIMrugtnZinAnhfdnYFfjIkCKN3Uza9ehdftg8A5NJjS3Eb4s6+N3QyiUQW+1vxGTUqZ6QDpRUAx2DoF7ybWtW8+koRGPXzU6u0xJ1gwCsOIVCIGW4wppctxO/pwFqbWzahlD15Zn3GD5F4PvkBxYs+iZ34hlzA6TyqzjT9Q323l87nGXDiT83XDHruNmHZuG4CVYbSqrTJsG1de2mmOQQ6cL02ZttY2+OibmPi8jQkRbydj31ih2c+r9DxTrCmsGUyuuEfnIn8Rg3QCphmqUggcB6TNBg1mWSaRiAROH/4AffNiBStJjpzqee8t5OtDIBLUlYE6EMk=;H+ASHgN85rQWSrh+Ak0Kag=="
 ---

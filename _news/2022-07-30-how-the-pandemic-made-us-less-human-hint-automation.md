@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Law Firm Automation Will Survive the Pandemic"
+    excerpt: "The COVID pandemic years have brought the world some unforeseen changes—ubiquitous masking, therapy appointments over video, and Uber Eats without any delivery person in sight, to name just a few. However,"
+    publishedDateTime: 2022-08-03T09:02:00Z
+    webUrl: "https://www.law.com/americanlawyer/2022/08/03/law-firm-automation-will-survive-the-pandemic-405-108030/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2022/08/LTN-Automation-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
+
 secured: "HuyDlgKOUjtYhl9nZmJJMZaqXlcGitc8yVVi1FIiNlteHEDYP6HnRRGIg61iLe9CKuDwieaNjZvu2qyIbxCrNvbY7WIplyBewXgq6CeYXtGY2i9siIFo+zg/Bz+eWkqPlCwuxHZMVlDG+UNdgTdURihtEZjCbY5dwDLGrhM2B3YitzdisePITOXkdsOQjfcIEbJzsrVh0or5uxHhlYjADrm3jhdiYgzn4T//7zE2fnytxCLeNKoOCzVLnZvVwJ1VwhKCK3g26RZtkphftdQ/ZDVrn9s5nSs94AHwjwb5dp+IK52R1xTscJ3HkwF8DQB0tawxtwi/Oqv5DgDCh6xn9wnS7pTwXZTlFE50jJZyEkk=;BfHKfmD3w0NMUiw5O0FTuQ=="
 ---
 
