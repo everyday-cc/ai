@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/analytics-data/2022/08/audits-cbps-facial-
 webUrl: "https://www.nextgov.com/analytics-data/2022/08/audits-cbps-facial-recognition-partners-vital-building-trust-lawmaker-says/375246/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GAO Says CBP Needs to Expand Facial Recognition Program Awareness"
-    excerpt: "The Government Accountability Office recently testified that CBP's privacy signs—which inform the public about its use of this technology—weren't always current or available where this technology was being used."
-    publishedDateTime: 2022-07-29T11:24:00Z
-    webUrl: "https://www.hstoday.us/cbp/gao-says-cbp-needs-to-expand-facial-recognition-program-awareness/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/39878173815_7b0b05bbe1_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "CBP’s facial recognition program at airports is expanding but concerns remain"
     excerpt: "The facial recognition program for international arrivals in airports is rolled out in all international airports in the United States."
     publishedDateTime: 2022-08-02T19:33:00Z

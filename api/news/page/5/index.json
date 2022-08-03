@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-27-how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts.md",
+      "title": "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts",
+      "excerpt": "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "publishedDateTime": "2022-07-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv.md",
+      "title": "Southern Co-Op faces legal complaint over facial recognition CCTV",
+      "excerpt": "Southern Co-Op is facing a legal challenge after a privacy rights group filed a complaint that its use of live facial recognition cameras is “unlawful”. Big Brother Watch claims that the group uses biometric cameras which are “infringing the data rights of a significant number of UK data subjects”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "originalUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://497959.smushcdn.com/855165/wp-content/uploads/2022/01/supermarket-949913_1920-e1641895539108-390x220.jpg?lossy=1&strip=1&webp=1",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "cdnAmpWebUrl": "https://www-retailsector-co-uk.cdn.ampproject.org/c/s/www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "publishedDateTime": "2022-07-27T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailsector",
+        "domain": "retailsector.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day.md",
       "title": "AWS: Here's how our cloud-computing infrastructure dealt with Amazon Prime day",
       "excerpt": "Amazon's Prime Day is an online-buying frenzy for consumers. Here's how Amazon Web Services dealt with it. AWS has detailed how its cloud-computing infrastructure supported Amazon's huge Prime Day sales event.",
@@ -1097,82 +1191,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-3-green-flags-for-c3ais-future.md",
-      "title": "3 Green Flags for C3.ai's Future",
-      "excerpt": "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "originalUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "publishedDateTime": "2022-07-26T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-police-can-use-facial-recognition-again-after-ban-in-new-orleans-home-to-sprawling-surveillance.md",
-      "title": "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance",
-      "excerpt": "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "publishedDateTime": "2022-07-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

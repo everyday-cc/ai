@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Outlook, Size, Share, Revenue, Regions & Forecast 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning Market which emphasizes on the la"
-    publishedDateTime: 2022-08-01T07:27:00Z
-    webUrl: "https://menafn.com/1104623600/Machine-Learning-Market-Outlook-Size-Share-Revenue-Regions-Forecast-2031"
+  - title: "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
+    excerpt: "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
+    publishedDateTime: 2022-08-01T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855640"
-        width: 375
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Artificial Intelligence Service Market Analysis by Types, Application, Region and Country, Trends and Forecast to 2028"
+    excerpt: "The global Artificial Intelligence Service Market report focused on a thorough examination of the industry's current"
+    publishedDateTime: 2022-08-02T06:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-service-market-analysis-by-types-application-region-and-country-trends-and-forecast-to-2028-2022-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Server Market Size Comprehensive Analysis, Growth Forecast from 2022 to 2028"
+    excerpt: "The Artificial Intelligence Server market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2022-08-02T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-server-market-size-comprehensive-analysis-growth-forecast-from-2022-to-2028-2022-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "CYk7E3y0t7cljnLXf570fjMki8y/0tOFNi6lmhif+BnbAeYhSeReOYBZeqrJ2NGixPdqeDSTGheWBi9g6JRSBTKSmtvRoBVGjGsbghsQ4Ga9KqLh5dqH08oBQtpF3mQ/7WtPc70jyM9qU3J0zzU5SZ/5WwBYxngfZWAH7Jo+QvQJEYrNR3jcRSQVTt/mbFNx64PfNhOMW5TJa1CBch61aWWwLbKeHZkp36FNyaXMXHUODQVnef/hKabnY8i+u4Z3JZovi9L/R9CiW/M7+UF9Km9DbTFfkxKG8GJOjQ/7CRnMe+VyGY8EwfCS+5G1OZgqPrVI2by6dZalC+K4QNWS6ajvIojaGqOPDo9XEeTNE/k=;W3DldZnt+vjigGSRsLIYPg=="
 ---

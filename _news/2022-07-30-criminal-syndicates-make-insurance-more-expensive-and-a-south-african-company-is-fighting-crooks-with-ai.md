@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why has Swahili not become Africa’s Unifying language?"
-    excerpt: "Abantu AI, a Kenyan firm, has created a deep learning technology for natural language processing (NLP) that translates from major world languages to Indigenous African languages. Currently, the deep learning model translates from most major international ..."
-    publishedDateTime: 2022-07-29T11:50:00Z
-    webUrl: "https://globalvoices.org/2022/07/29/why-has-swahili-not-become-africas-unifying-language/"
-    type: article
-    provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 4
 
 secured: "qXFeNnG5Azr0j+0LGpMV4Ur0gmiFcSQ7idrHIkZYYxnp9YNSSOZPLMl4w2x/th51XbmGGcorehIljw9lTbUbe7MxnRIysmZx4/ZPl85s13//u1AcAtWMjxkTm/OO0C2iriNyDN+QB2THUOxbd0BNWKTU1eaqbkVmu2AY6YhxStYrpmXoP52hQr4qWzs9S/fDHKLxbZvBK8u8wEE6cvrOY252G3/szS5UuspIEe2eSQxotK3WSDSHXG4cFgE/w0Q/gE72labiK3tQwLeYSsZh7L9w7yts9ps6r/BQN6epVpQBZ8gmZzid2LJE9vHiECuV91VCXHhJ1DexMmlE0N4mf5/xWFhxV1enA+uQtbLeNcdj6JCEMRUWnuJRVO1QnXaO6wXaFGmBOhaGdGkWe3QNa013Q5Bw/6CJwAvxNr83bOtoOGAz4Yn2d47gQk9vx5kC7bHa204aAoD8ldJrX5iz4WAPTktQbgLO8QdQ5XbqwGZHgT1bCKdNAMjRdejhtxAkkGZpxwQr7F/JThTgrwAhlQ==;ffTdS0iKxeIIszhAN7ukYg=="
 ---

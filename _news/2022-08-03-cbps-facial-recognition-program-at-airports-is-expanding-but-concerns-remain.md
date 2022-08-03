@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "GAO Says CBP Needs to Expand Facial Recognition Program Awareness"
-    excerpt: "The Government Accountability Office recently testified that CBP's privacy signs—which inform the public about its use of this technology—weren't always current or available where this technology was being used."
-    publishedDateTime: 2022-07-29T11:24:00Z
-    webUrl: "https://www.hstoday.us/cbp/gao-says-cbp-needs-to-expand-facial-recognition-program-awareness/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2020/09/39878173815_7b0b05bbe1_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Audits of CBP’s Facial Recognition Partners ‘Vital to Building Trust,’ Lawmaker Says"
     excerpt: "The agency has “a ways to go” in auditing facial recognition partners for privacy and security, a watchdog noted."
     publishedDateTime: 2022-08-02T14:16:00Z

@@ -24,6 +24,22 @@ images:
     height: 596
     isCached: true
 
+related:
+  - title: "How important is AI to the fintech industry in the Philippines?"
+    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
+    publishedDateTime: 2022-08-03T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+
 secured: "DhzAflZfp+iWeq95XY8tOp+0unsPWxgJRnYFyxzTnkjn4xyfHNf4HHh1P3B95Qa84kvTFNalJ5Fpp1ZG46Ao04j5A10uu2UfD1+T7TLHsomKYbUZR9N2A25DHxEHRiYpmw8aJUwj7KyXz7yxuO4sWtBSwVWNJ9u1Feky1/aUoA5DiaB2FD7DQoFo23UNmRnq6VEReafm7OLNl0BYtTFtmBSS1eDFElhErLpP/d4x1809BCh9nNMHnkED7BzqycfuizWMgyMJlXZ4+m+3pU8MCJQdbjYdhq/VC4VOpbep4gu1DAros66w3M9dc82VNLDTmoHdxL4qVBHFrEU5Yv23EaG/N35y2X+7gNwwvqnQT2dBcsv+PMoJSzJIEP+3s2fyTNRfCstbjM4VKa+yMiR4QsoM0/qPLlF4/awpxgBEaeVMtQc5hJKBWAsQnrxSJo9wQ3MmUAtiXHW2faXzAMKfZJppsfWhRlVjMNVEMe2k1qdQySWIH9HSdaXf08Q8vhgQnC413hXanOG/A+Vrx66bvA==;+9JjckVUerwMiM/ZuoDFzA=="
 ---
 

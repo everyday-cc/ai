@@ -68,20 +68,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AlphaFold: Why DeepMind’s protein-folding AI is transformational"
-    excerpt: "Understanding proteins and their complex 3D shapes is key to understanding life, and especially for developing drugs"
-    publishedDateTime: 2022-07-29T11:29:00Z
-    webUrl: "https://www.newscientist.com/article/2331479-alphafold-why-deepminds-protein-folding-ai-is-transformational/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/29105126/SEI_116909091.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Artificial Intelligence Predicts The Structure of Almost Every Protein Ever Found"
     excerpt: "A new era of biological research has been unlocked, with an artificial intelligence (AI) predicting the 3D shape of nearly every protein known to science – just one year after its first data release."
     publishedDateTime: 2022-08-02T07:39:00Z
@@ -130,15 +116,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
-  - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
-    excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
-    publishedDateTime: 2022-07-29T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/338390-deepmind-ai-breakthrough-allows-prediction-of-more-than-200-million-protein-structures"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 26
 
 secured: "DudRgqY42b+KFI5B5xDMIyflHxMvDopSIvHfzdDMepS77d7UYc5ZwPF2V+Njrbw53NQOLQejA4QnH6YleEFF0AtR4FqBe7lhoRW47uGA2rB/x37wyhkt8Hd1qXK9KUcZ/TESFPunTajuYZxkAUVoxti37WPzpGZ7w2ijYA6YmaJ/xRHjiaorDWmOIw1c5fTqRstJv72zYrjAr7LqhEiBtOJP8z93ReIcA781E7VKsd5/I1eh09sofgpteuxPRgptsmHeAm2Sws/TRk8MtuLPJ88zjlnqAXXTLegUdPui94P2CMPrUgCFXOACPjmSZHwrPJ9YUdA1QdY3dtRbzGfk9r6SBsehcTtYAZGX7476IEY=;e59iowgh0tPg/oq7y3pzPA=="
 ---

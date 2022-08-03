@@ -74,20 +74,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AlphaFold: Why DeepMind’s protein-folding AI is transformational"
-    excerpt: "Understanding proteins and their complex 3D shapes is key to understanding life, and especially for developing drugs"
-    publishedDateTime: 2022-07-29T11:29:00Z
-    webUrl: "https://www.newscientist.com/article/2331479-alphafold-why-deepminds-protein-folding-ai-is-transformational/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/07/29105126/SEI_116909091.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "DeepMind AI has discovered the structure of nearly every protein known to science"
     excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
     publishedDateTime: 2022-07-29T17:23:00Z
@@ -120,15 +106,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
-  - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
-    excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
-    publishedDateTime: 2022-07-29T12:00:00Z
-    webUrl: "https://www.extremetech.com/extreme/338390-deepmind-ai-breakthrough-allows-prediction-of-more-than-200-million-protein-structures"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 26
   - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
     excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI) in Cambridge,"
     publishedDateTime: 2022-07-29T17:37:00Z

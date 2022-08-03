@@ -19,53 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Explained: How Myanmar’s junta is using Chinese facial recognition technology"
-    excerpt: "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents."
-    publishedDateTime: 2022-07-29T11:37:00Z
-    webUrl: "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/"
-    ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
+  - title: "NYPD Ordered to Share Documents Related to Facial Recognition"
+    excerpt: "The New York Police Department must disclose thousands of documents and emails revealing facial recognition surveillance of Black Lives Matter protesters in 2020, a judge has ruled recently."
+    publishedDateTime: 2022-08-02T16:30:00Z
+    webUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 71
-    images:
-      - url: "https://images.indianexpress.com/2022/07/eye-story-faceoff-759-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "Facial Recognition Technology Down Under"
-    excerpt: "The language is far from reassuring. Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia rsquo;s large retail companies have given a meek assurance that they will ldquo;"
-    publishedDateTime: 2022-07-29T11:05:00Z
-    webUrl: "https://www.modernghana.com/news/1174328/facial-recognition-technology-down-under.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1174328/facial-recognition-technology-down-under.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1174328/facial-recognition-technology-down-under.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
+      name: Government Technology
+      domain: govtech.com
     quality: 59
     images:
-      - url: "https://cdn.modernghana.com/images/content/7292022123316-rwnyqdcp53-man-with-facial-recognistion-software-on-face.jpeg"
-        width: 760
-        height: 428
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Myanmar's junta using Chinese face recognition tech to eliminate opponents"
-    excerpt: "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar."
-    publishedDateTime: 2022-08-03T01:48:00Z
-    webUrl: "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
+  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
+    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
+    publishedDateTime: 2022-08-02T21:49:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/25/full/1658732548-7309.jpg?im=Resize,width=480"
-        width: 480
-        height: 267
+      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
+        width: 1902
+        height: 950
         isCached: true
   - title: "Facial Recognition Technology Down Under"
     excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
@@ -81,19 +65,28 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Myanmar's junta using Chinese facial recognition technology to track, eliminate opponents"
-    excerpt: "In order to expand its public surveillance capabilities Myanmar military regime is using facial recognition technology raising fresh concerns about the safe"
-    publishedDateTime: 2022-08-02T23:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272641191/myanmar-junta-using-chinese-facial-recognition-technology-to-track-eliminate-opponents"
+  - title: "Customs and Border Protection expands use of facial recognition"
+    excerpt: "As of July, facial recognition technology is scanning departing travelers in 32 airports and all arriving air travelers."
+    publishedDateTime: 2022-08-01T17:53:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2022/08/customs-and-border-protection-expands-use-of-facial-recognition/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 30
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 19
+  - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
+    excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
+    publishedDateTime: 2022-08-01T23:30:00Z
+    webUrl: "https://www.nydailynews.com/new-york/ny-nypd-ordered-to-disclose-black-lives-matter-documents-20220801-6pohl3v5ebebrl2ac5fpuddr3m-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 14
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1659481653.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.nydailynews.com/resizer/aHR-qw0387gLj8MJLtEW8HaLK6Q=/1200x630/filters:format(jpg):quality(70):focal(2267x1431:2277x1441)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NXIU3UMPVNG3BIEJ6BCVML74RQ.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1vgO5N8T+7ZvW3ttAwHXtg94VIOblLbRfzAz6GT6s6aIsLhbJBERSzbKZTyG1mxik5toNwbk6bbEUDfHnWeOVFgxFrPxF0SkQzf31CEnQK4geI1rtEo2ude7kgD1+9MbJKSpldGjrFuoN0XYPdkzeUiH6RhBXeLTTnhjAZPjcVUVy4fcgPkd3xdItnc34MhFh3zVEJIvu6qX1cT+tn+o55IdZ41pPcGk1iP2kWd1ro9/chVFfNEwMZ+nX4Hmy3NU1gkw4E8ki7uuccm9CVjh32TaFq4yFPLJwyXP5u5h+9LTC9RonGuz0wwpXud72uF7EQl8rMIhltP0IP5BnOSKxZYKyWYqgq9vYpf1pBys83U=;6bkoe28e7/n+5aDEvFsIvA=="

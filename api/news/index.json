@@ -254,7 +254,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1141,20 +1141,20 @@
       ]
     },
     {
-      "path": "_news/2022-08-01-intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips.md",
-      "title": "Intel to Bring a 'VPU' Processor Unit to 14th Gen Meteor Lake Chips",
-      "excerpt": "The 'Versatile Processor Unit' is designed for AI-based workloads, and is possibly Intel's response to the neural engine in Apple's M1 MacBook chips.",
+      "path": "_news/2022-08-02-motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028.md",
+      "title": "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028",
+      "excerpt": "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
-      "originalUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
+      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/01im4mcVvWX1TKbaaXLwKtl-1.fit_lim.size_1200x630.v1659365241.jpg",
-          "width": 1120,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
           "height": 630,
           "title": null,
           "attribution": null,
@@ -1165,14 +1165,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T08:33:00-07:00",
+      "publishedDateTime": "2022-08-01T10:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1188,7 +1188,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Robotics",
         "AI"
       ]
     }

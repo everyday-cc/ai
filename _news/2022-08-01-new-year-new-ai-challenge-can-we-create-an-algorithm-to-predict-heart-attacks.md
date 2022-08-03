@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/new-year-ne
 webUrl: "https://arstechnica.com/information-technology/2022/08/new-year-new-ai-challenge-can-we-create-an-algorithm-to-predict-heart-attacks/"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "How artificial intelligence can create an attractive user experience"
-    excerpt: "This is captured via demographics, purchase history and other details extracted from your CRM or interactions with your support team using text mining — including other clever sources that have been engineered into the user experience (UX)."
-    publishedDateTime: 2022-07-29T12:59:00Z
-    webUrl: "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://images.prismic.io/reuterscustomhubs/fbfac174-cb85-4a45-b4f1-ecaceea9ec82_tbr-Wizeline-main-hero.jpg?auto=compress,format"
-        width: 2306
-        height: 1237
-        isCached: true
 
 secured: "MWySvWWOOP5mdYnLr7JXpnu+Gy93/t5Vl/9Vsx3oK5VlKg0c88rL1AXBCaYFPGvb0LLVCZWbzojXacxwqHn6u4PCG60R6SwjwtdGLT172Ut9JcVkEJwbfFFMCs+6opGkJgkoYVjSStktuVVZmaImcay2mIZMSgRzaThQQqucMbyXftHjwuHMrCqKMyvrjwo1+f3eF7PRkKYGlWRUNlkYyZFcwVwkRiMMfhslhDMhRqJ/UR/4GQWEPW4/CYe/HgXRnqto89Bfg8yPo6giV3cKwPSm9RBcBdXwgx0GjZ9X6pW9QvYkIJQpWBvtv+RDFg4YlU46GUhm+O3AUwiAl1PZxzUowR5+QRc8/k2b1Bdc+UAGK+Mb0lCAqDiS4auAj5xwjjIX/Kpnn31hM2a2Ascek70lHkfGfAWgYrzeMwPXwyHOCjO+3ArYn0xT96uk+1WJ176cHX2Yw0kVylP2qk+NIx11ch9kKZEwNjHuZnsIX2jCK0aKUlF4xyCyzCw+tEeaENeu8mfgzIg/yaA4UebPdQ==;Xy0MO9l1C2GcWrr5RB18Bw=="
 ---

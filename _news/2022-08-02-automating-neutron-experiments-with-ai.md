@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-08-automating-neutron-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 500
     isCached: true
-
-related:
-  - title: "Transforming Customer Service Starts With Voice AI"
-    excerpt: "In the thick of our CX transformation journeys, conversational AI is a means for bridging the limits of automation as well as the gaps in workforce management. Now is the time to explore how voice-based conversational AI is flipping the script for the future of customer experience."
-    publishedDateTime: 2022-07-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/29/transforming-customer-service-starts-with-voice-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "YeFcjH5VbstsR3KeIDjD1pCq7Giw3xzP3ke/4gTqAb3RN3C0Lcli8SR2xPGUwAd65sCQ12rxHcBsc21Pl63C3o6rSw6uwmGKuPDdLQPzMgUHSfFjdFo/utAejclGLGZzbn8XOHng2E8d1rMvZl0TSP0wC22jccjDugoG9tCVH7ago7qk8+uses1L+xXAls235WDct4rDNCMwZsuyPo557YxGfooavgIqK2VGvcfWqHasRVnW5EsqXGcs3ZzMRHXweaIDdF3nx2mGpnmn+J8SvSxYYJaMB/u4towYbJYGKc6LiDrPDq+qDMgCwOh7rHUhB/5/KfmjxIWSk0zb88sBzKhJlAqExm7FfkJBNXaIaRLUJgjt5V5ynYMa/IYf8Ru+xU8Yk537MJejLXyDOh1nCSYi9xF/tGm6IrJDezpW1lGiHX3xn6kqCjLcuWc620viQTslCoihg7NPLei5KXVoLCJUo+h5vHVgvApvJYgUBjtNTW40YnfZLUGlM8hHv1RkpR+lzr1B+YL+jBFE0SYxTQ==;8oudkx/koiTw5fsgIftSSA=="
 ---
