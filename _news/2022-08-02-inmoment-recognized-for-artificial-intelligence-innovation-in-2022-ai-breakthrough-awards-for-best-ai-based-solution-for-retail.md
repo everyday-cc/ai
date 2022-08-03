@@ -2,21 +2,27 @@
 category: news
 title: "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail"
 excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2022-08-02T13:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
+publishedDateTime: 2022-08-02T13:03:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
 type: article
-quality: 6
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Natural Language Processing
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "PHNTM AI Helps Business Owners Through AI-Powered Communication Tools."
@@ -34,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "6dAD3rZaAF901wKI15YG4O/h+ziw4QVsIrShmsRxfflXOiGZb5lo97+6VSHBxCoJ17mVYNebBfzDEub5Y7qOuj7/UDB6QCrxVv64MyzE440m2EQkVNalrHJ0m3sRcZ+o4fePvBu+lamwsYUed7vcTPOczfipyL1yrwqGA6K3WKbHU1RYovOdAP7ZFc+HCtIxyLSjjQuaSSpb1ZUHt5caRoF0Q5UG0tH6v6aOwi5c3xpq983/Cgb9pI4bNFi4qn8OiINGiMCj+CZklBP/OEs24XlNDXqMvAbbNz85CwuVuoSLHMp6GjWfgwH+G2QvHc0th7vdGcN8RzJ9PPLcJ+SHl/kj0se71qUSLaIu39+gKL8=;KjYoRJ2tiw5v7UlbLc0YYg=="
+secured: "Wi8PaDiHuIrlLC4wn1dg4yRKdx7/Hpe0h1xtic9r8Za3altci7qWtPW32fgb86SrmTZ8SFZAurfqCPDFFslVrxWqYDPYBNer5pJkvaljxij7qP3gEwykbHJB/5WouqHoYzeEiqbTKcnMfPm7Sdtphd4cNQDOQjKN3uAW358jdhf7FatRsROttey0BXOnSw8fQ8ALXDFX41lqYrLjDAsfcG+DfbA+mX/8u6rCmoM4DwPymfZCfEmYDvJKRdBibvemG1gQBd5ihf3VbfxAqq2mVpPkWglCzJxCnnMsvm6ncGv1c/yO40rfhqQK98/vkkA4pWwEBaNvOXnIh4zpHuFaEkEB8V9Ke048qFTx1rHbUAY=;sV1F3ncDBi53WmcZ90G07Q=="
 ---
 

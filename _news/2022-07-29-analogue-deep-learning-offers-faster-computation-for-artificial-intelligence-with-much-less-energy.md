@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learni
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
+    publishedDateTime: 2022-07-29T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "Analogue deep learning, a new branch of artificial intelligence, promises faster computation with less energy consumption. The findings of the research were published in the journal ‘Science’. Programmable resistors are the key building blocks in analog deep learning,"
     publishedDateTime: 2022-08-01T13:32:00Z
@@ -43,29 +52,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-93277578/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-    publishedDateTime: 2022-07-29T19:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 40
-  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
-    publishedDateTime: 2022-07-29T08:01:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 10
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "s7L4OZ4ixjUAITSSF2cM/8bCy4b/UF5hxOdixqfIZe5q7f/Jfy+WRXf4y7KVX2mqYtEePJlmmNATZml5G5vcMlraDWDBSYwnAnvv6YadTcBc3T9mq34vg6RmCJMs+rD1rUuZW8FlX9Cy/LJPWarMJIRzc5CRxjWM+0dvXdJYu6/daNjvGqh5/Vi3JReZB7wKwAtZX+MYM2EF3+y2o6Se4Kql8aLidVp10faItc2wFKyoAferQVrIWMgGQX3Pw444YvejngDRdI2NsZHaftWLibrBRmPwwfzJpSzZ0+hi/VE2PJwdGpp7rLmz5lG/E0INPIT2xWSgMYQhsdKiLDYa9bzjDhSKhs+s97/+5JZHZdKq226K/3c2EdZ6Pdd8mK+SA6ZBZU3eFXDEAJJUVtMeAE+OcUQJQGhpJOF3+HfLcya7gAlYA7Zpfm4Z1Ne1yoIyTqXh4GfX9Q+4VH5Lho1uGJle1jogit+WlTJ8vB1AFWSTYds0ylwqFjwE9Blmqrxf/Mgwey+aHphL6Zgq2KMZ6g==;nnljyOwgG/osBRPRvdqYvA=="

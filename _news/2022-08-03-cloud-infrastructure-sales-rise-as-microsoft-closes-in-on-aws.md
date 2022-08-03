@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp"
 type: article
 quality: 93
-heat: 123
+heat: 124
 published: true
 
 provider:

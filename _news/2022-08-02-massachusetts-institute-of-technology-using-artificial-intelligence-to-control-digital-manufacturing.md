@@ -7,7 +7,7 @@ originalUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technolo
 webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-using-artificial-intelligence-to-control-digital-manufacturing/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Massachusetts Institute of Technology: The hub of the local robotics industry"
-    excerpt: "Today MassRobotics works with hundreds of companies of all sizes, from startups to large corporate partners like Amazon, Google, and Mitsubishi Electric, fostering collaboration and advancing the robotics industry by publishing standards,"
-    publishedDateTime: 2022-07-29T08:33:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-the-hub-of-the-local-robotics-industry/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 31
 
 secured: "LllmeYy4sRIPxwFsWXOfhQgR+YoCzMf+UhQWumhEd1Xid5MY6nn7nbfHE4b1aqsAuWybLJQi+r4zvWeubs8HJ+d5DLLkz8dOwFgNQitaikAvvcyQVGuQyCvRE62n5WA0zvJdj9z8GO3tqviKTh68ftrACl3sLw+D0v+R5ncDByNRY1C9g65ybQNYWviC0zSnU/Pu9cUVM5bXrsJ8/JTzmFoU6bQ9XDjAIKvnpwHhVaQ8MgSCQgG1/lBwJKSpD9WHnucTD35nkb8K3e9+0rzndKUivhVd1FEdrlAJ4BspGe3ckkMxi/4Fm/PtAsS+mUa9qQFRRCg+7QhluphsYxnRY3ipsAuxvLw2gS2yCzaBXynXRwM3x1KZmJJs1aX8lqEaUDwM/cgJC7T4PsbCcnYWzqVJk//1AZ+5EoGq7qkLrCzBgv0s1OS5IgQ8+8mT1OWCBhgLE7y95kEq+lDcMxDi2/BGKRQ0FByhBcM9zLrAEFPbFSp6I7ldgldpsQpvqETPCWJV5N5ddKoEXtSB1+lSGA==;X77ASCjrUo8ss2xRSoFGiw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-07-29T19:29:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
-quality: 40
+quality: 44
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
@@ -54,20 +56,6 @@ related:
       - url: "https://static.toiimg.com/photo/msid-93277578/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
-    publishedDateTime: 2022-07-29T08:01:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 10
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "i3lbt1LPFd+hIT4IBXBCo9+dr052jYZkHdsOnA9eLYp/kJNGxuOBEMBEXtLfK0ntcg461bIqg755pMreEh+9+hblXRqQCl4LoYQGDJnb+Fp4FjKkCOLzQq/eW+cRlL10lzQ5cM8vs4CFamwVVqUeAhpwKwXUgPJ7DtQ1SwGmhFFHJSIhHsqMdWV8E9v3mf4jP3rQZVxdOkvE2W4K7NNd0QIASWet9sp1xUGs4Ujfk3z7h7Jkrhrp8Lon30qzlSGp2tsozIyMadxMIYj+e3KyiG71ZBPhrzkJttdQlQxkLe5ruphghd/KMQ2B5l/LMNECjTBmm+H/Pwbya61mMzGdE6glkdpU/7wN800bJyOEK5g=;Del8jisc01HV/teyYEK32A=="

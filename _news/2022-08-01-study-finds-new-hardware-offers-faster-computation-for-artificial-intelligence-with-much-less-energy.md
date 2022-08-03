@@ -51,21 +51,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 40
-  - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
-    publishedDateTime: 2022-07-29T08:01:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 10
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
+    quality: 44
 
 secured: "CvlydbuDYM4wweyZEObnJ/J1qh17HOwOp51ys/yv9JDHO/AKVI7zGMnXagIPkCQ96CkWhHHd4oNvxs9qvK9bclh5Qknx2Hd58UVJUc9qTWazriOJHN8xO5QrRd/UkniddeQ+Ti4iGpRh5+eIXK9e407W8sNqJUaw8HbaxtR9WMiW2SFshbfL25IfOUz7/HaUVjGv4j/btyrdFF5df2xR5daj2cPIiK/ppt9UaT7Xtn8ZybzAtA0KtRlOZj1dCFdz9MiH+wb1xx8vyu3BXlwkead1TfqReY5N7782kYeiIzSTobD/wMoFMfBIR52iejGuqWwkNMIftaUvr7qJmHPSzLQG45DU4OfM+cw1S+iXlHU=;8/E8KLRbXczBlvDv139pdQ=="
 ---

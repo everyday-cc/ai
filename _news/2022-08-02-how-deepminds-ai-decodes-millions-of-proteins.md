@@ -120,34 +120,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 49
-  - title: "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe"
-    excerpt: "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific community,"
-    publishedDateTime: 2022-07-29T08:43:00Z
-    webUrl: "https://scitechdaily.com/deepmind-ai-powers-major-scientific-breakthrough-alphafold-generates-3d-view-of-the-protein-universe/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Q8W3K0.jpg"
-        width: 1800
-        height: 1500
-        isCached: true
-  - title: "DeepMind just predicted nearly all protein structures known to science"
-    excerpt: "DeepMind, an AI firm owned by Google's parent company, ‘Alphabet’, recently announced that its AlphaFold program expanded its open online database to include more than 200 million protein structures."
-    publishedDateTime: 2022-07-29T08:48:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-just-predicted-nearly-all-protein-structures-known-to-science/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/07/3may-2.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind AI Breakthrough Allows Prediction of More Than 200 Million Protein Structures"
     excerpt: "DeepMind has announced that has generated structures for all 200+ million proteins in the centralized UniProt database. This is a big deal for basic biological research as well as for efforts to tackle some of the most important scientific conundrums of our time."
     publishedDateTime: 2022-07-29T12:00:00Z

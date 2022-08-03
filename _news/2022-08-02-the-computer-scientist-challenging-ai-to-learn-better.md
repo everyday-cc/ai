@@ -59,6 +59,15 @@ related:
         height: 1800
         isCached: true
   - title: "Using artificial intelligence to control digital manufacturing"
+    excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
+    publishedDateTime: 2022-08-03T00:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220802175834.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
+  - title: "Using artificial intelligence to control digital manufacturing"
     excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers from MIT and elsewhere avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
     publishedDateTime: 2022-08-02T16:24:00Z
     webUrl: "https://www.eurekalert.org/news-releases/960620"

@@ -41,6 +41,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Most adults with autism can recognise facial emotions, almost as well as those without the condition"
+    excerpt: "Problems identifying and responding to emotions in others is thought of as a core feature of autism. But our research shows there may be minimal differences in this aspect of social interaction."
+    publishedDateTime: 2022-08-03T00:56:00Z
+    webUrl: "https://theconversation.com/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
+    ampWebUrl: "https://theconversation.com/amp/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 29
+    images:
+      - url: "https://images.theconversation.com/files/477075/original/file-20220802-12-wtizjt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "‘AI could trigger fintech revolution’"
     excerpt: "With the emergence of financial technology (fintech), companies are expected to offer more financial services to personalize their customer journey, enhance the overall user experience and generate alternative revenue streams."
     publishedDateTime: 2022-08-02T12:58:00Z

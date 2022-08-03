@@ -7,7 +7,7 @@ originalUrl: "https://indiaeducationdiary.in/heidelberg-university-new-centre-fo
 webUrl: "https://indiaeducationdiary.in/heidelberg-university-new-centre-for-model-based-artificial-intelligence/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "New Centre for Model-Based Artificial Intelligence"
-    excerpt: "New Centre for Model-Based Artificial ... A centre for model-based artificial intelligence has been set up at Heidelberg University to link mathematical modelling methods with information processing in neuronal networks."
-    publishedDateTime: 2022-07-29T10:29:00Z
-    webUrl: "https://idw-online.de/de/news799181"
+  - title: "Western University: New digital lead foresees larger AI footprint on campus"
+    excerpt: "Western University students could soon be plugging into a Netflix-like platform to choose their courses, one of the kinds of changes the school’s first chief digital officer foresees as he steps into the new job."
+    publishedDateTime: 2022-07-30T17:04:00Z
+    webUrl: "https://lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus"
+    ampWebUrl: "https://lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus/wcm/bd72a623-ce82-4826-876b-1d90a9e6b14e/amp/"
+    cdnAmpWebUrl: "https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/local-news/western-university-new-digital-lead-foresees-larger-ai-footprint-on-campus/wcm/bd72a623-ce82-4826-876b-1d90a9e6b14e/amp/"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
-    quality: 39
+      name: London Free Press
+      domain: lfpress.com
+    quality: 55
     images:
-      - url: "https://files.idw-online.de/corona_idw.png"
-        width: 615
-        height: 284
+      - url: "https://smartcdn.gprod.postmedia.digital/lfpress/wp-content/uploads/2022/07/9999-lf-western-2-scaled-e1659123324879.jpg"
+        width: 1000
+        height: 766
         isCached: true
 
 secured: "JTtfPkvxctwx4zVouTUZBhWqwWhBq5B9QKzPLM5eb13mjINrdAF2bw4CMCy6JJSFLXawX5JfxtGvgzaRjyAxvCi9oVubsTMbod2eaVpsFIyfO5fCIxAFV9tLppxeJ/1+1O0JbtRNOMZkuU5oo5JfgQtcfnSkZEAmXTDqejhYgNy9lF9Ep5HntoXRgBlFjl/K7RGSv5/lADLAbyfmBErC9FEHNeZxIKdoktlxRPMP5ITAXDiuvCdZlvmtNplHeV+vwoUMZ4duZwzdUh+YxZt59Tmj/PAdAx3VAu8i1YsSD2ZTzinK5dPw+l2Egjx98Ymqka/4fI/z0u/BDWq/7peL9bz6NFhLUl5cwLX1mxZviEo=;zl57tIAjPYQEpNsTGDPNBg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/region/accenture-acquires-tenbu-to-ex
 webUrl: "https://www.eagletribune.com/region/accenture-acquires-tenbu-to-expand-data-and-ai-capabilities-and-unlock-business-value-across-the/article_dbe6cb39-c658-584f-9e52-e02d195d7609.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture Acquires Tenbu to Expand Data and AI Capabilities"
+    excerpt: "Accenture Acquires Tenbu to Expand Data and AI Capabilities and Unlock Business Value Across the Cloud Continuum"
+    publishedDateTime: 2022-08-03T01:19:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/26630-accenture-acquires-tenbu-to-expand-data-and-ai-capabilities"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/a20e4ea05462641d61ab8bc250ca9ea0.jpg?t=20220803_011153"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Accenture Acquires Tenbu To Expand Data And AI Capabilities And Unlock Business Value Across The Cloud Continuum"
     excerpt: "Accenture (NYSE: ACN) has acquired Tenbu , a cloud data firm that specializes in solutions for intelligent decision-mak"
     publishedDateTime: 2022-08-02T01:54:00Z
