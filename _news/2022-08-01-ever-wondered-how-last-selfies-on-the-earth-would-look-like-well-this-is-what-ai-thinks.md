@@ -18,37 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "Someone Asked an AI to Show the \"Last Selfie Ever Taken\" and Um"
-    excerpt: "An AI image generator made a series of ghoul-filled selfies that feature skeletal, grim reaper-like figures, one captured via smartphone in the mirror."
-    publishedDateTime: 2022-07-29T13:02:00Z
-    webUrl: "https://futurism.com/the-byte/ai-last-selfie-ever-taken"
-    ampWebUrl: "https://futurism.com/ai-last-selfie-ever-taken?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp"
+  - title: "AI predicts how last selfies of Earth before it dies will look like, See photos"
+    excerpt: "The haunting pictures of how the last selfies before Earth dies will look like, were shared by an account named 'Robot Overloads' on TikTok."
+    publishedDateTime: 2022-07-30T08:21:00Z
+    webUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html"
+    ampWebUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
+      name: Mint
+      domain: livemint.com
+    quality: 53
     images:
-      - url: "https://wp-assets.futurism.com/2022/07/ai-show-last-selfie-ever-taken-600x315.jpg"
+      - url: "https://images.livemint.com/img/2022/07/30/600x338/Earth_1659168071219_1659168071477_1659168071477.PNG"
         width: 600
-        height: 315
+        height: 337
         isCached: true
-  - title: "Creepy DALL-E AI asked to predict how it will take over the world and the results are eerie"
-    excerpt: "IF you’re a science fiction fan you’ve probably seen a movie in which artificial intelligence and robots take over the world. One TikToker has taken the concept a bit further by asking"
-    publishedDateTime: 2022-07-29T20:58:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19367115/ai-take-over-world-artificial-intelligence-tiktok/amp/"
+  - title: "AI predicts what 'last selfies' before end of the world will look like. Pics, video inside"
+    excerpt: "A video created by the AI program shows a battered, bruised and disfigured man appears to look around what seems like a post-apocalyptic world before smiling painfully for a selfie."
+    publishedDateTime: 2022-08-01T10:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/ai-predicts-what-last-selfies-before-end-of-the-world-will-look-like-pics-video-inside-8930711.html/amp"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 47
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/07/lm_aitakeover_offplat.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/Collage-Maker-01-Aug-2022-03.56-PM-770x435.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "AI predicts what 'last selfies' before end of the world will look like - See Photos and Video"
     excerpt: "Creepy images of what \"last selfies\" taken on Earth may look like have been depicted by an artificially intelligent image generator. See pictures and video:"

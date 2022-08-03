@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-t
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-30-instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan.md",
+      "title": "Instagram is testing AI that verifies your age with selfie scan",
+      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower ... school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good use of AI. “It’s a worthwhile ...",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
+      "originalUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found.md",
       "title": "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found",
       "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower raised ... and director of the school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good application of AI. “It’s a worthwhile endeavor to try and protect ...",
@@ -1363,59 +1397,6 @@
         "Facebook AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-embedded-ai-rise-of-the-intelligent-device.md",
-      "title": "Embedded AI: Rise of the intelligent device",
-      "excerpt": "For the most part, embedded AI will work behind the scenes, quietly working out system hiccups that would otherwise go unnoticed. It might lend some support to more flashy applications like natural language processing and intelligent analytics,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/",
-      "originalUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1168105746-e1654107730283.jpg?fit=800%2C475&strip=all",
-          "width": 799,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/embedded-ai-rise-of-the-intelligent-device/amp/",
-      "publishedDateTime": "2022-06-06T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

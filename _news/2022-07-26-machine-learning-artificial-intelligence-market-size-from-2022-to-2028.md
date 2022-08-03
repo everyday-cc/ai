@@ -19,6 +19,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

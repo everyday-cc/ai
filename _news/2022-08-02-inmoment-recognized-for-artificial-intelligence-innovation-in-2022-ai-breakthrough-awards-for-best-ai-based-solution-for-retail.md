@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-02T13:03:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

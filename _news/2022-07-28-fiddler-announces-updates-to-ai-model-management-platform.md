@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 related:
   - title: "Fiddler Labs upgrades its AI model monitoring platform to detect new types of bias and drift"

@@ -41,6 +41,22 @@ related:
         width: 480
         height: 267
         isCached: true
+  - title: "Myanmar Military Using Chinese Facial Recognition Tech To Track, Remove Opponents: Report"
+    excerpt: "Military Junta of the nation is reported to be using facial recognition technology to increase its capacity for public monitoring which has been raising worries"
+    publishedDateTime: 2022-08-03T06:23:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/myanmar-military-using-chinese-facial-recognition-tech-to-track-remove-opponents-report-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/myanmar-military-using-chinese-facial-recognition-tech-to-track-remove-opponents-report-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/myanmar-military-using-chinese-facial-recognition-tech-to-track-remove-opponents-report-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 50
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/vbilgueyjr62uwy0_1659506305.jpeg"
+        width: 768
+        height: 438
+        isCached: true
 
 secured: "+YOB6QziL4wB5C+bsD31Q/Q6uZ2oipoJPOCOAFTIVxknBRvDZEDtyPr+vrj473a8JzNSykciaM8h/6NNe5YR4OPqjuR6vslKEjrJiWjVR5lrnrGj2UZ5NgHrdQhxKjEm0wyZVFJo9RzrQu/u0MdJxroaurioe652JgIPRjrbqUK66On+DskQXKU9Qam1r2VgiSGJLHaIRdN6xqEXJae+YYeNOIO//bgywwjtY/4F6jeTZ4WnuqlpN+emJZNQ8ZRRJ+Ogq8hlUXoOONjZfXEXTMEX5NDzrFPa3lGO7jvrIxjNKTsYmkPx4orJSmC2TBnqGavkq3X/C0/1XeP5iMtNgY/ZyFC+k1NPVJSy4izu9Lo=;eNZfmFE9/2dJQBftBcXrHg=="
 ---

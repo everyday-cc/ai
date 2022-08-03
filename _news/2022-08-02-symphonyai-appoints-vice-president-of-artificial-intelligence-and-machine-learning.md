@@ -1,42 +1,28 @@
 ---
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
-excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
-publishedDateTime: 2022-08-02T10:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+excerpt: "Pushpraj Shukla to lead enterprise AI platform development and innovation of next-gen applications as company growth continuesPALO ALTO, Calif.,"
+publishedDateTime: 2022-08-02T10:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
 type: article
-quality: 67
-heat: 77
+quality: 75
+heat: 75
 published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-  - Microsoft AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "In search of AI bias"
-    excerpt: "\"We have built an entire world of bureaucratic legalism and short-sighted monetary incentives that get in the way of actual, compassionate, ethical progress\"—Blake Lemoine. #AI #ethics"
-    publishedDateTime: 2022-07-29T13:18:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/07/29/blake-lemoine-ai-google-fired-workplace-culture.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-
-secured: "yn0I37gk/K9Tze+DcHZ6sA2lMSdgFqPbXynb4LE/xwKDeqZXIOiNpuPSTeRTK6gWAKDnzcFxB5lSWrFNRAbreoOgeIVJDleckNxsr5Iq1ULKVFjJZ5WHrDWSFyPgAI/Ynu/AmW6WNoHAbs9VcV8tDDeyyk0joVzkQCMphwOOuu9TxH28w3LJDDzJleIHnr5hMXMFNhiJ5CAkWR15nsIYOPGlD52xu2skMNybz1wpgakDcRvCrlXil0S+98F+zAMp5lufbrQKqtsPRi1v6ZVTOp66ivvIBwCMOBezvUlhNZG0ChvinWEj9vwErOUxQUNfLC2awtwsxCR9NE3ZeOCa5LgcUz305Bmc4wo8p4+kARE=;c0mjdDpRAP5QzZPEn5zuLQ=="
+secured: "L7CY6CwOa5hwM0QQrfqP/mX8PEo9iGHyJO4lrNwmNO1hrFYwRQx9NkZmtHePdRTdCtepQ0tnqEvZSWyf8KaMwC1g4Lm7PPDxymBqelWZWCnxpvstV7M7phxLQOXgLtTwjsxSHj+YcfXIc36YQLTkAS4drO/fj3AodHyUPMWjkXn4YTdpdkO2lRTiuAW0Z7cHnvho7tarBDOEkPj5CqiMDsUn2Ldks/YNytPWrEzstLF0xGdjViDMBKAQ0NH91jMqRWGJB8Y5IuNiAdcIKCit5d6HvR8CaNbzX99GaYoydvhd8jnMDhkoUI5BbqXWoAjXjiRjm3qF8vJ8/u+WCToMbmpQ73vGMEcK2IoCK7+bbPQ=;0rPanWS2BY3KdJeRmpg0vA=="
 ---
 
