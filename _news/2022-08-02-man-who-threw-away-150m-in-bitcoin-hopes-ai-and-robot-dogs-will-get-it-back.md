@@ -3,12 +3,9 @@ category: news
 title: "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back"
 excerpt: "Computer engineer who accidentally discarded hard drive consults Newport council over scheme"
 publishedDateTime: 2022-08-02T11:43:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
-webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?via=indexdotco"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
   name: The Guardian
@@ -22,6 +19,6 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "ZYL49l8pafuL9OPLlKfnRTpqPOB7fnJ4HAly0RSxV56NfpSEmc9UuFqG8qou6sLgD0+v3sDQ6VHlAWE526Oxb63EAYBYJlbjxRVUohCFL9Lel0oX4pTNvTsNBxeCqlOztSZGYfLOwqPXSpdHRRWWNQMxbJk8z+8e+T3zcwHRceL0XxYmaqH8+k6G3XkIMOre6rpdkE3wV1dyb8CnRcU8QtoNJq3RPVCA4ngicp0u9XZkv2eAsJfopNccYwESpdpY3jgE0jliEEHLXGKLCi9obYhOwHTr1N/J9h+7g87VlSvsLgyw9laI+s/C/eH17el2ZiGwvmGkboNlF02ZXsYQHzjDzAW4u3I/JwZK58JWZG0pT+u6RujlciTEpHSKzwpoOY3grFY+6vvsqr4NFoRIuVuwj84KG/3JOMAMmsOTtnYQ15imJQVcNuarkN/sLJFttaYW6Q3dDZse7Rpj+9DR5cwdO3wGmcJQDgvTDmfq0vQ6e89U9c6RNVIWWS/yer8AcjGG80f1p2irmvqIiC9WOQ==;04r7xuXpqPGfvyRflRmLxQ=="
+secured: "GzcLvBMLmObiT6uDK+ULMisyHiftzWT7WRmrdKSLdYSsBHVYXBjCHOgR1LlVNMPjxl+Qfg7LrnkZgARhYK8wDHGF+shv1UWSMxDrbjuYv+SyEyCOzBjsEOcehtiWoTr8n8paQ8YvN8sy+mfvfmmWX9c49Yp0kaJ19kQYoU918Zbyln9QXU/oU5m+YxiUdGomZJbwHLxBkgmEGKqdnRGoo6eLo2C2xWL/LrE0WPMYnhP3q3wkVPTdu9qAzGo+oLeUq81VV/ArF8ea9CAzaGvHIeFYRVYbUXW2QhifiAoW4hM7plHl3YAtEgiC1tRsqezEPXb0wGhMZDrf3zGtLGAkg/7S7a6DaVjlgsaSd8exenW1Dvyc7nGbCdDRiZsj8XG1jlvIrfItTczA1n2G0cHb1xjpM3XsIps9XDSLFLOIqUDtJrkf7EMUSaeW5au/4OkLWegZkrNae0usQBAaiL9XBZhbLdEMFL3wrj8S8VzYERzMLAZPnGzJEsYzbhvgWj3l0uQpdLWR07IX0J2QSb5+Hw==;zo1YnK98k4raQAEVI7jQ8Q=="
 ---
 
