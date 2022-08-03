@@ -37,7 +37,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc41f5d00afda618d/62e99eda5e83885d445e1fe7/aineuron-ktsdesign-AdobeStock.jpeg"
         width: 6280

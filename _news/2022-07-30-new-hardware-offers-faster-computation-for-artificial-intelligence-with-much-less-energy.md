@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Analogue deep learning offers faster computation for artificial intelligence with much less energy"
-    excerpt: "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,"
-    publishedDateTime: 2022-07-29T09:09:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 62
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Study finds new hardware offers faster computation for artificial intelligence with much less energy"
     excerpt: "Analogue deep learning, a new branch of artificial intelligence, promises faster computation with less energy consumption. The findings of the research were published in the journal ‘Science’. Programmable resistors are the key building blocks in analog deep learning,"
     publishedDateTime: 2022-08-01T13:32:00Z

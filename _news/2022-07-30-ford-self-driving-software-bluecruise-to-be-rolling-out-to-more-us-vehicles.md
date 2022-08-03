@@ -24,22 +24,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "What we're driving: Ford's BlueCruise hands-free highway helper"
-    excerpt: "I've driven a number of vehicles recently with Ford's BlueCruise hands-free highway driving assistant, and here's my takeaway: It's still a work in progress. The big picture: Ford is only the second automaker to offer a true hands-free highway driving system."
-    publishedDateTime: 2022-07-29T10:00:00Z
-    webUrl: "https://www.axios.com/2022/07/29/ford-bluecruise-review"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 24
-    images:
-      - url: "https://images.axios.com/VUWQSalaPxn75RESLQi0XcwAtr0=/0x0:7038x3959/1366x768/2022/07/28/1659039376311.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-
 secured: "dslgNA53lzUfC642dhWT7VBSlNkLjtX5WNQgaCR2J6B/qUg9gEnMXDYrQgqvl2UrHP9pUSRhHxEIogewStUBYySVrCSJLnzEYPMm5dF3LZxhKZk265QdQLOJxM1Ho+7mMe29ukQdkBokASm/ZW+ehsL+zG+ZsWl+dRIOp7q5ohpnk+jYn5jolD2oYZT3tqnyj0BEw7R9JhPrc/6WeHz89u40pSVE88krf5/QU1lJOnAMU7F85ZKOQtkE0M7cEmlWoEBjC0KN0hucutj7RHaCbm3zVwEuRu9fEsrNVRbvBazuO1LX2IkGoKeVFmcgb/8jcUMLEQ26kS7tucpROoZOgtjkpDPMKFSSSfgGYS6M/wpb9Df6vy4XiCyD4XBQTjJ340BO0lLck5pmcujuBDuGQ7v8i4yMQOKURBhzVeSp2KjoR2aVZxOz+M2V3yi+LmoCOTR8RnIBPqHUvRwoMdXRl6XqsNeUkLAVDsk4hdUQDMNieSXGh8n7ZtFd0D21YzQ+ptMYW3EPwxtGbwAbRDDy8A==;UkJ1vUcIE+/r7y/LkOkh9Q=="
 ---
 

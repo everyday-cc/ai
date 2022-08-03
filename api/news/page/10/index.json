@@ -2,6 +2,236 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
+      "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
+      "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-20-at-1.27.44-PM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
+      "publishedDateTime": "2022-07-20T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
+      "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
+      "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
+      "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
+          "width": 1024,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
+      "publishedDateTime": "2022-07-20T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-artificial-intelligence-ai-and-the-risk-of-bias-in-recruitment-decisions.md",
+      "title": "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions",
+      "excerpt": "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
+      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
+      "publishedDateTime": "2022-07-20T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert.md",
+      "title": "Build taxonomy-based contextual targeting using AWS Media Intelligence and Hugging Face BERT",
+      "excerpt": "As new data privacy regulations like GDPR (General Data Protection Regulation, 2017) have come into effect, customers are under increased pressure to monetize media assets while abiding by the new rules. Monetizing media while respecting privacy regulations requires the ability to automatically extract",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/05/citm-solution-overview.png",
+          "width": 1142,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T09:29:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-2082-billion-by-2030.md",
+      "title": "The Worldwide AI in Healthcare Industry is Expected to Reach $208.2 Billion by 2030",
+      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. The growing demand for personalized medicine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-amazon-extends-alexa-to-enable-ambient-intelligence.md",
       "title": "Amazon extends Alexa to enable ambient intelligence",
       "excerpt": "At Amazon's Alexa Live 2022 event, the company announced updates and outlined its general strategy for enabling ambient intelligence.",
@@ -914,241 +1144,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
-      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
-      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
-      "publishedDateTime": "2022-07-19T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-alexa-and-siri-listen-up-uva-collab-is-teaching-machines-to-really-hear-us.md",
-      "title": "Alexa and Siri, listen up! UVA collab is teaching machines to really hear us",
-      "excerpt": "University of Virginia cognitive scientist Per Sederberg has ... Deep Mind, IBM and Microsoft – current artificial intelligence remains a bit hard of hearing. The outcomes can range from comical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959388",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c2378428-c96e-4c30-be14-77079c5756ff/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
-      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
-      "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as – big data, IoT, advanced analytics and cognitive services to scale their products.This ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
-      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
-      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

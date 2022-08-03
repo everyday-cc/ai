@@ -2,6 +2,104 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
+      "title": "Artificial intelligence will help Autodesk expand in the metaverse",
+      "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1371918162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-06-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-opinion-artificial-intelligence-takes-on-a-new-challenge-chemistry.md",
       "title": "Opinion: Artificial intelligence takes on a new challenge — chemistry",
       "excerpt": "Artificial intelligence has changed the way science is done by allowing researchers to analyze the massive amounts of data modern scientific instruments generate. It can find a needle in a million haystacks of information and,",
@@ -1287,108 +1385,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
-      "title": "What AI developers need to know about artificial intelligence ethics",
-      "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "publishedDateTime": "2022-06-13T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
-      "title": "Synthetic Data Is About To Transform Artificial Intelligence",
-      "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

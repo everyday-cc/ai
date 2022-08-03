@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/expla
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.modernghana.com/images/content/7292022123316-rwnyqdcp53-man-with-facial-recognistion-software-on-face.jpeg"
         width: 760
         height: 428
+        isCached: true
+  - title: "Myanmar's junta using Chinese face recognition tech to eliminate opponents"
+    excerpt: "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar."
+    publishedDateTime: 2022-08-03T01:48:00Z
+    webUrl: "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/25/full/1658732548-7309.jpg?im=Resize,width=480"
+        width: 480
+        height: 267
         isCached: true
   - title: "Facial Recognition Technology Down Under"
     excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"

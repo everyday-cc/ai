@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-ottonomyio-raises-33-million-to-expand-network-of-autonomous-robots-for-deliveries.md",
+      "title": "Ottonomy.IO raises $3.3 million to expand network of autonomous robots for deliveries",
+      "excerpt": "Ottonomy.IO, a startup working on solving delivery problems using autonomous robots, has raised $3.3 million in a seed funding round as it looks to expand its market and deploy robots to existing customers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/",
+      "originalUrl": "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
       "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
       "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
@@ -1372,49 +1415,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

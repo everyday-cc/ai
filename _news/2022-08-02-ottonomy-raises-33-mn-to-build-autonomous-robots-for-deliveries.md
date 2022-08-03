@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 57
+  - title: "Article: Deep tech startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "The New York-based tech startup will utilise the capital to scale production and build capacity to address the current pipeline of customers expand its team size with more hiring and expand its presen"
+    publishedDateTime: 2022-08-03T02:15:00Z
+    webUrl: "https://www.peoplematters.in/article/funding-investment/deep-tech-startup-ottonomyio-raises-33-million-in-seed-funding-34796"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1658294089/ad-drezxt5v.jpg"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "IUH0SRMK4Yj51iQ+bkIftNbo7pcq2oC7KD0vBzYOtn9YNUSnmiQ9iuBE2pEscTagIxmTMCuOzHDki5DGn18g/Dp88+amZcL1lyLFnzZDlND7OR+mYEFkcj1txwF1fBzhe5PSPvWEbUxIWQThPp8Cr57Sr0JquDk2dKWNLQ/cf+QwBYbNiicG2N8aJ4xTFi9TGf3UgT+d0QIKvCc1tCttroNSOjvu3mTCiNzL0o1QzQJltrWGmQPlgiXyO1crDyijCd00jPhLzMYcAzcwL0bsBzlt9CU2eI9uth2A27vAJg1k0dEKWVUDYVjMGS3P9JVdk6rksIs4nvnoa9/cJlCMS4DuPYUhcJCZXMMiCZcFGAWZc4iuFj3W6VdjVCYnNC4F5YqeQsJE8zXKNAZCRWY8liUZ/XQ82IUf3zI+7dqK98ovsWyZwSLl7SxqDXWCVa1+fqorwy+UGHmY9MIyIVLz1eDDd/LvmEWpEyl7Zzxrs2vVlzbeP8yDEH73UoW+R7y2eP1C9GtPqMXvGB26qIfw/Q==;Nq81sUpqH2H9+7cnPEvZTA=="
 ---

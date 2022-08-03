@@ -139,15 +139,6 @@ related:
       name: BioWorld
       domain: bioworld.com
     quality: 18
-  - title: "DeepMind just uncovered the 3D structure of almost every protein known to science"
-    excerpt: "DeepMind has been working to uncover one of science’s mysteries - the 3D structure of proteins and how they interact with each other. Using AI, the researchers had previously built a database of nearly one million protein structures."
-    publishedDateTime: 2022-07-29T10:59:00Z
-    webUrl: "https://www.euronews.com/next/2022/07/29/deepmind-just-uncovered-the-3d-structure-of-almost-every-protein-known-to-science"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 14
 
 secured: "QAfbdMYILkRIxEVNgBXb28S7GSoyMX2q3Q8gk5/WZXawbwC/bB++8Ne7hOgKJ8yq3qSPAnZiYVrnHOdqWDpCkQPbyi3gNLZKi4jz49cLtcW/m7qqVHyQyGSEL1Pf1EZFEqodH/uWu7r+XK5LUvHXQa651IhzSzNdEcJSOEAxWr6LjkFWTx7tiOT13+a27t7cL4gPzfYRFiYMluBzLcgoXPgpmhD+CibGi3119XG68eyyWy1D7ZWI4gzuBTNv+bMHjVJ5c39LCdwq3lwW0AJL7lMifOcy0Om852h/ZATJPlfIk4Ec3qKKuZnZ7+qMNSV9cUn5ex3E1fm+Z9dbxqOETRpQyGX2/fO8fwRb6ycQY3Y=;PbrCOAlt+7FuZRLW+1Aq9g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-predict
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
 type: article
 quality: 101
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
       name: BioWorld
       domain: bioworld.com
     quality: 18
-  - title: "DeepMind just uncovered the 3D structure of almost every protein known to science"
-    excerpt: "DeepMind has been working to uncover one of science’s mysteries - the 3D structure of proteins and how they interact with each other. Using AI, the researchers had previously built a database of nearly one million protein structures."
-    publishedDateTime: 2022-07-29T10:59:00Z
-    webUrl: "https://www.euronews.com/next/2022/07/29/deepmind-just-uncovered-the-3d-structure-of-almost-every-protein-known-to-science"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 14
 
 secured: "bVSqmh/0LMjp9ByiSrU6W0wvoHPLuTmSeZxNUplZyqX9dsXFrPYgv5NimqySoaTGTEu4rqQQXGfCQmWYOuaOsrs/uXqN0EoHEpsaW8pb+w2Yt4FDPpuaag/uNY3CZbPCsfmWt+P0AN4aF7LXO0GYHta6RVsPpuUxaxwLVUNR1IEAr09QHiEUlHRX7evmcIlq+ubHjpmJBbQrsbKCP8p1Habj682ckl22Z+IQZkTEW40FdMcn5S3UpD/kS9tY5uRMjjrrJshHH4zBdsx+2nGbsAgjMpHhoibjc9tHa9jlTnM+l122zPFiiRF9/s9unyyniDggquJIfsrctNduKHz4FysiLAive5KclmvbCyGWInO/sXUOCMMSRrP3SJ8LTMDWTb3hTMV31WmjCsGaY3Rfw8VNWsKk9E7eFxpAAAa0qjLbbcr3pyzGjgNkMdxfFNP7BGtAmatGcwgIVf9oED6cv3ph6bJ1TyI6H1vWsK1WvTgq6hXbEVuJmpKr//++ac3G7eepYZVk4Pc+tCMOnUnwmA==;d2/p7AteqfLavaYn1CXEVA=="
 ---

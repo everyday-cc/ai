@@ -1,0 +1,48 @@
+---
+category: news
+title: "Can artificial intelligence better serve African languages?"
+excerpt: "While 2000 of the world’s languages are African, African languages are barely represented in technology. Part of the reason for this is that many of these African languages are classed as 'low-resource'."
+publishedDateTime: 2022-08-03T03:49:00Z
+originalUrl: "https://www.bbc.co.uk/programmes/p0cqq59c"
+webUrl: "https://www.bbc.co.uk/programmes/p0cqq59c"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: BBC
+  domain: bbc.co.uk
+
+topics:
+  - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0930gvl.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Why has Swahili not become Africa’s Unifying language?"
+    excerpt: "Abantu AI, a Kenyan firm, has created a deep learning technology for natural language processing (NLP) that translates from major world languages to Indigenous African languages. Currently, the deep learning model translates from most major international ..."
+    publishedDateTime: 2022-07-29T11:50:00Z
+    webUrl: "https://globalvoices.org/2022/07/29/why-has-swahili-not-become-africas-unifying-language/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 4
+  - title: "Criminal syndicates make insurance more expensive — and a South African company is fighting crooks with AI"
+    excerpt: "Naked Insurance’s use of artificial intelligence plays a big role in how it detects fraudulent claims and keeps clients’ premiums low."
+    publishedDateTime: 2022-07-30T09:10:00Z
+    webUrl: "https://mybroadband.co.za/news/software/454274-criminal-syndicates-make-insurance-more-expensive-and-a-south-african-company-is-fighting-crooks-with-ai.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 0
+
+secured: "0zoFYt7xcAjFZYQ/fKEa4okwHhOEz0KenRM1Ce0Bd2yHnGceM+OZRLbT0AdIS0Iq1mgiOVX1IkBaXxJoeSqvr4hayjx8zN0siLNCpv6cyQ992QhWOySMrPGxD0nrsI8AMCshZGEQbpCDQKiHNC/l8/p5K+w2Q8hZ1/Oj7/36CCC7h2qgypJ7saRui7B8Wv+TleQno/6k6foqDGZ/4zkyxreSylv8YFWfAgauyAO/NuROOLP8ih4Lzsd+kf8J6PP8BqH5Hega+vVVs50V9stKp6vBvEoDHXztyfGdwMZTMXZIKEBgAS/gvo2KCP+Vf2G/KIJJqGZHcpcx7VN3vDmPRX7yCWo6SIWTGkPinv/jNjE=;A7EUlwuCP2UTp5Y6zhixbg=="
+---
+

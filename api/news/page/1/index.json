@@ -437,6 +437,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-ottonomyio-raises-33-million-to-expand-network-of-autonomous-robots-for-deliveries.md",
+      "title": "Ottonomy.IO raises $3.3 million to expand network of autonomous robots for deliveries",
+      "excerpt": "Ottonomy.IO, a startup working on solving delivery problems using autonomous robots, has raised $3.3 million in a seed funding round as it looks to expand its market and deploy robots to existing customers.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/",
+      "originalUrl": "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-7-ways-ai-will-affect-humans-in-our-future.md",
       "title": "7 Ways AI Will Affect Humans In Our Future",
       "excerpt": "The future of AI brings limitless possibilities and applications as the technology moves toward becoming less artificial and more intelligent, which, in turn, will help simplify our tasks in various fields.",
@@ -1146,58 +1189,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-mlops-making-sense-of-a-hot-mess.md",
-      "title": "MLops: Making sense of a hot mess",
-      "excerpt": "Investment in MLOps is both an enterprise must and a hyper-fragmented landscape. A Gartner analyst weighs in on the confusing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1138917075.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "publishedDateTime": "2022-08-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

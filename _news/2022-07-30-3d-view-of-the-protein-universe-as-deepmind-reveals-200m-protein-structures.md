@@ -139,15 +139,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 26
-  - title: "DeepMind just uncovered the 3D structure of almost every protein known to science"
-    excerpt: "DeepMind has been working to uncover one of science’s mysteries - the 3D structure of proteins and how they interact with each other. Using AI, the researchers had previously built a database of nearly one million protein structures."
-    publishedDateTime: 2022-07-29T10:59:00Z
-    webUrl: "https://www.euronews.com/next/2022/07/29/deepmind-just-uncovered-the-3d-structure-of-almost-every-protein-known-to-science"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 14
 
 secured: "DudRgqY42b+KFI5B5xDMIyflHxMvDopSIvHfzdDMepS77d7UYc5ZwPF2V+Njrbw53NQOLQejA4QnH6YleEFF0AtR4FqBe7lhoRW47uGA2rB/x37wyhkt8Hd1qXK9KUcZ/TESFPunTajuYZxkAUVoxti37WPzpGZ7w2ijYA6YmaJ/xRHjiaorDWmOIw1c5fTqRstJv72zYrjAr7LqhEiBtOJP8z93ReIcA781E7VKsd5/I1eh09sofgpteuxPRgptsmHeAm2Sws/TRk8MtuLPJ88zjlnqAXXTLegUdPui94P2CMPrUgCFXOACPjmSZHwrPJ9YUdA1QdY3dtRbzGfk9r6SBsehcTtYAZGX7476IEY=;e59iowgh0tPg/oq7y3pzPA=="
 ---

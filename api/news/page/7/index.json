@@ -2,6 +2,186 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-25-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg",
+          "width": 400,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-rogers-to-invest-10-billion-in-ai-testing-after-massive-outage.md",
+      "title": "Rogers to invest $10 billion in AI, testing after massive outage",
+      "excerpt": "Rogers Communications Inc. said on Sunday it will invest $10 billion over the next three years in Artificial Intelligence, and more testing and oversight, just weeks after the company reported network issues that caused widespread disruptions across the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
+      "originalUrl": "https://www.ctvnews.ca/business/rogers-to-invest-10-billion-in-ai-testing-after-massive-outage-1.6000369",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/7/24/1_5979941.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/24/1_6000369.amp.html",
+      "publishedDateTime": "2022-07-24T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-chips-and-the-china-challenge.md",
+      "title": "Chips and the China Challenge",
+      "excerpt": "Without federal support for semiconductors and other important technologies, the U.S. simply isn’t playing to win.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
+      "originalUrl": "https://www.wsj.com/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-589787/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/semiconductor-chips-senate-china-taiwan-tsmc-smic-subsidy-tech-manufacturing-11658528510",
+      "publishedDateTime": "2022-07-24T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.md",
+      "title": "NZ Fry Up: Internal Affairs renews deal with AWS; $25B in IoT spending",
+      "excerpt": "NZ Internal Affairs signs all-of-government cloud deal with AWS. The New Zealand Department of Internal Affairs has signed an all-of-government agreement with Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
+      "originalUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/1200x800_fridayfryupwithtext-100853181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "publishedDateTime": "2022-07-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-a-huge-wave-of-acquisitions-is-expected-to-hit-the-machine-learning-market-as-giants-like-snowflake-take-advantage-of-discounted-valuations.md",
       "title": "A huge wave of acquisitions is expected to hit the machine learning market as giants like Snowflake take advantage of discounted valuations",
       "excerpt": "Investors and insiders who poured hundreds of millions into machine-learning startups now expect a big wave of acquisitions as the market sours.",
@@ -940,181 +1120,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-african-artificial-intelligence-in-aviation-market-key-players-trends-and-drivers-researchandmarketscom.md",
-      "title": "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com",
-      "excerpt": "The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market. Moreover, the report provides deep insights into demand forecasts,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025",
-      "excerpt": "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
-      "title": "AWS ML engineering manager evaluates the social impact of AI",
-      "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "originalUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "publishedDateTime": "2022-07-22T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
-      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
-      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "publishedDateTime": "2022-07-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://mybroadband.co.za/news/software/454274-criminal-syndicates
 webUrl: "https://mybroadband.co.za/news/software/454274-criminal-syndicates-make-insurance-more-expensive-and-a-south-african-company-is-fighting-crooks-with-ai.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Can artificial intelligence better serve African languages?"
+    excerpt: "While 2000 of the world’s languages are African, African languages are barely represented in technology. Part of the reason for this is that many of these African languages are classed as 'low-resource'."
+    publishedDateTime: 2022-08-03T03:49:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0cqq59c"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p0930gvl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why has Swahili not become Africa’s Unifying language?"
+    excerpt: "Abantu AI, a Kenyan firm, has created a deep learning technology for natural language processing (NLP) that translates from major world languages to Indigenous African languages. Currently, the deep learning model translates from most major international ..."
+    publishedDateTime: 2022-07-29T11:50:00Z
+    webUrl: "https://globalvoices.org/2022/07/29/why-has-swahili-not-become-africas-unifying-language/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 4
 
 secured: "qXFeNnG5Azr0j+0LGpMV4Ur0gmiFcSQ7idrHIkZYYxnp9YNSSOZPLMl4w2x/th51XbmGGcorehIljw9lTbUbe7MxnRIysmZx4/ZPl85s13//u1AcAtWMjxkTm/OO0C2iriNyDN+QB2THUOxbd0BNWKTU1eaqbkVmu2AY6YhxStYrpmXoP52hQr4qWzs9S/fDHKLxbZvBK8u8wEE6cvrOY252G3/szS5UuspIEe2eSQxotK3WSDSHXG4cFgE/w0Q/gE72labiK3tQwLeYSsZh7L9w7yts9ps6r/BQN6epVpQBZ8gmZzid2LJE9vHiECuV91VCXHhJ1DexMmlE0N4mf5/xWFhxV1enA+uQtbLeNcdj6JCEMRUWnuJRVO1QnXaO6wXaFGmBOhaGdGkWe3QNa013Q5Bw/6CJwAvxNr83bOtoOGAz4Yn2d47gQk9vx5kC7bHa204aAoD8ldJrX5iz4WAPTktQbgLO8QdQ5XbqwGZHgT1bCKdNAMjRdejhtxAkkGZpxwQr7F/JThTgrwAhlQ==;ffTdS0iKxeIIszhAN7ukYg=="
 ---

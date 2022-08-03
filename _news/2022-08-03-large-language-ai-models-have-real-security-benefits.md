@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-02T22:03:00Z
 originalUrl: "https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits"
 webUrl: "https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Security
+  - Natural Language Processing
 
 images:
   - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc41f5d00afda618d/62e99eda5e83885d445e1fe7/aineuron-ktsdesign-AdobeStock.jpeg"

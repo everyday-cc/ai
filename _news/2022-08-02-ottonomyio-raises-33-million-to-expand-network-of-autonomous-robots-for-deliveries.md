@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-milli
 webUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechCrunch
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Article: Deep tech startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "The New York-based tech startup will utilise the capital to scale production and build capacity to address the current pipeline of customers expand its team size with more hiring and expand its presen"
+    publishedDateTime: 2022-08-03T02:15:00Z
+    webUrl: "https://www.peoplematters.in/article/funding-investment/deep-tech-startup-ottonomyio-raises-33-million-in-seed-funding-34796"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1658294089/ad-drezxt5v.jpg"
+        width: 990
+        height: 550
+        isCached: true
   - title: "Ottonomy Raises $3.3 Mn To Build Autonomous Robots For Deliveries"
     excerpt: "Autonomous mobility startup Ottonomy has raised $3.3 Mn in a seed funding round led by Pi Ventures, with participation from Kinetic ventures and Branded Hospitality Ventures."
     publishedDateTime: 2022-08-02T13:00:00Z

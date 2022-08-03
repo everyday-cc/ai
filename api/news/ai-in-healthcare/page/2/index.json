@@ -2,6 +2,87 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-16-center-to-support-cell-and-gene-therapy-manufacturing-launches-in-newark.md",
+      "title": "Center to Support Cell and Gene Therapy Manufacturing Launches in Newark",
+      "excerpt": "McKinsey & Company launched a new high-tech learning and innovation facility in the Garden State to support the advancement of cell and gene",
+      "sourceUrl": null,
+      "webUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "originalUrl": "https://njbmagazine.com/njb-news-now/mckinsey-launches-newark-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-15T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Jersey Business",
+        "domain": "njbmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-how-artificial-intelligence-ai-affects-business-executives.md",
+      "title": "How artificial intelligence (AI) affects business executives",
+      "excerpt": "As of this writing, AI has not fully taken over jobs just yet. Business leaders must comprehend the influence of artificial intelligence, such as machine",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "originalUrl": "https://businessday.ng/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/10/Untitled-design-2021-10-08T114926.978.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/research-post/article/how-artificial-intelligence-ai-affects-business-executives/",
+      "publishedDateTime": "2022-07-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "AI in Healthcare",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-data-preparation-the-key-ingredient-in-efficient-ai-algorithms-for-virtual-healthcare.md",
       "title": "Data Preparation: The Key Ingredient In Efficient AI Algorithms For Virtual Healthcare",
       "excerpt": "However, that concept doesn't apply to data processing. Artificial intelligence (AI) and machine learning (ML) can't properly execute without good data preparation. That's an oversimplification, but it helps explain what's going on with the whole ecosystem.",
@@ -1259,93 +1340,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
-      "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
-      "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
-      "sourceUrl": null,
-      "webUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
-      "originalUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/XlXt-tLT2A48ziQkvqnMnVz_XQQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7Q47P474QJD6JIIRH23WO737WA.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-waff-com.cdn.ampproject.org/c/s/www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
-      "publishedDateTime": "2022-07-02T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAFF",
-        "domain": "waff.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
-      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
-      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
