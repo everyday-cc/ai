@@ -26,18 +26,13 @@ images:
 related:
   - title: "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail"
     excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-08-02T13:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
+    publishedDateTime: 2022-08-02T13:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 6
 
 secured: "sddsA2X+16/Eqhy0eEEzlxQHJLUCiDfltg9uwmq0vSYWcrUN2+6KgbLElTNn8lV/fKpn0xVkhyOm6OgyMURzuS9+GynQ3hB/1kYXb0iA21d6VvTCKQ/GXDPaSrm5BMthlf6FYQAayK4qEZPBKALUIAUo1Uv9rkLm1/reAz0jmxQQgN5pt7Zks3gUdpU4D/IO62jRqHxNHSRyA3b5IXLyykua3MUW/10tq0iwHYq/YiDk0UmdykiuoJQjmL+pZSlCRRrcIjkP7zdIAsI73j1V4zlLazlWdS2d2Wki2JUsATTcJL9CgxxdlA61gKiYBNIHVXLTUH8OvDEbGC2/BRI/GEYLjCn5XuID3HymzPk6SC8=;ApgvalR8Eh38cXcDdGFubQ=="
 ---

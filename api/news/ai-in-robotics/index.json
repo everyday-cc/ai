@@ -149,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-man-who-threw-away-150m-in-bitcoin-hopes-ai-and-robot-dogs-will-get-it-back.md",
+      "title": "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back",
+      "excerpt": "Computer engineer who accidentally discarded hard drive consults Newport council over scheme",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?amp;amp;amp",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "publishedDateTime": "2022-08-02T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
       "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
       "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
@@ -254,7 +306,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -306,7 +358,7 @@
       "originalUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -393,6 +445,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-28-diagnostic-robotics-closes-45m-series-b-funding-round.md",
+      "title": "Diagnostic Robotics closes $45M Series B Funding Round",
+      "excerpt": "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
       "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
       "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
@@ -425,58 +520,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-diagnostic-robotics-closes-45m-series-b-funding-round.md",
-      "title": "Diagnostic Robotics closes $45M Series B Funding Round",
-      "excerpt": "Diagnostic Robotics closes $45M Series B Funding Round Jul 28, 2022 (PRNewswire via COMTEX) -- PR Newswire BOSTON, BOSTON, July 28,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/diagnostic-robotics-closes-45m-series-b-funding-round-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1373,58 +1416,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
-      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
-      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Mark Cuban Foundation Selects United Wholesale in Pontiac as AI Bootcamp Site"
-    excerpt: "United Wholesale Mortgage in Pontiac will host a Mark Cuban Foundation AI Bootcamp for high school students in October and November."
-    publishedDateTime: 2022-07-29T15:11:00Z
-    webUrl: "https://www.dbusiness.com/daily-news/mark-cuban-foundation-selects-united-wholesale-in-pontiac-as-ai-bootcamp-site/"
-    type: article
-    provider:
-      name: DBusiness Magazine
-      domain: dbusiness.com
-    quality: 36
-    images:
-      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/07/UWMCuban-800.jpeg"
-        width: 800
-        height: 500
-        isCached: true
-
 secured: "hcZ8sfDNt1pORK35/OH/ctgt7VxNvggzqPDw5emCvphJYBKV9lC8LPQhZQ5L6wiQWa9mrKlk/slqMp9URzP7RMzewfCt9DRBEU+dJTFgZcWOLzlvCzIw/18Jqr2Atkrln4D+BwLK/QdPS63MzxKJJVUauwRVoE4te5585maG+uE2W6KCEtEE7sAJD8VeWlPvSkbdjqqNqywmE/BQHF6oLAlnQhgfCHG6tg4oPen0BviKLNoLIm5x0yhdRcGBYmZvSDfZWEcn+r1Eu5Qble7/gBpGfRYyKYkRrWsIlMuVMNeCMQvRcUY5IxIewSOPoy4KraBcV3TVwaW8mmeF+mTtOjmI6eeCzjZ8uDK8HjleYwtLOs3CSPCTz/JSJFkdJcuLNmQ3BwLU8Hs9NiL4I3hmhAS6pk4FaFq53ZWI+k9etro5XUV4Xy28Km0SK8aVkhytA1r5zfudCeNpn828/Gi5m8I0IhdSCnrQFKmJmob0aEjoTN7qfnmR6YJqAnnP3L1Q8aD/yxxqE0PqunWWGChVUw==;cDVDA/3vUMAQg8nPjtqi3w=="
 ---
 

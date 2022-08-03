@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 339
+heat: 329
 published: true
 
 provider:
@@ -303,15 +303,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A broken Voice is no option: Australia’s moment to unite or fail"
-    excerpt: "On Saturday, the prime minister unveils his plans for a referendum for an Indigenous Voice to parliament. The stakes could not be higher."
-    publishedDateTime: 2022-07-29T17:30:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/a-broken-voice-is-no-option-australia-s-moment-to-unite-or-fail-20220729-p5b5nz.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 19
   - title: "Indigenous voice details to follow referendum, says Australian PM"
     excerpt: "Albanese’s centre-left Labor Party government is seeking a referendum, required to alter the constitution, on recognising indigenous people in the constitution and requiring consultation with them on decisions that affect their lives."
     publishedDateTime: 2022-07-31T04:16:00Z

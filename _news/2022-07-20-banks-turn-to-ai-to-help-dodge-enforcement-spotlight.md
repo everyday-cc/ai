@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.wsj.net/im-586683/social"

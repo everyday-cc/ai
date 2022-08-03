@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Myanmar's junta using Chinese facial recognition technology to track, eliminate opponents"
-excerpt: "In order to expand its public surveillance capabilities Myanmar military regime is using facial recognition technology raising fresh concerns about the safe"
-publishedDateTime: 2022-08-02T23:08:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272641191/myanmar-junta-using-chinese-facial-recognition-technology-to-track-eliminate-opponents"
-webUrl: "https://www.bignewsnetwork.com/news/272641191/myanmar-junta-using-chinese-facial-recognition-technology-to-track-eliminate-opponents"
+excerpt: "Experts believe that the increased access to this technology could have consequences for the safety of anyone opposing Myanmar's military junta. \"This is another threat coming, not just on the ground."
+publishedDateTime: 2022-08-03T10:56:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/World/20220803/3969348.html"
+webUrl: "https://news.webindia123.com/news/Articles/World/20220803/3969348.html"
 type: article
-quality: 30
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1659481653.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Myanmar's junta using Chinese face recognition tech to eliminate opponents"
@@ -58,6 +52,6 @@ related:
         height: 438
         isCached: true
 
-secured: "+YOB6QziL4wB5C+bsD31Q/Q6uZ2oipoJPOCOAFTIVxknBRvDZEDtyPr+vrj473a8JzNSykciaM8h/6NNe5YR4OPqjuR6vslKEjrJiWjVR5lrnrGj2UZ5NgHrdQhxKjEm0wyZVFJo9RzrQu/u0MdJxroaurioe652JgIPRjrbqUK66On+DskQXKU9Qam1r2VgiSGJLHaIRdN6xqEXJae+YYeNOIO//bgywwjtY/4F6jeTZ4WnuqlpN+emJZNQ8ZRRJ+Ogq8hlUXoOONjZfXEXTMEX5NDzrFPa3lGO7jvrIxjNKTsYmkPx4orJSmC2TBnqGavkq3X/C0/1XeP5iMtNgY/ZyFC+k1NPVJSy4izu9Lo=;eNZfmFE9/2dJQBftBcXrHg=="
+secured: "OI7HiA2GPIppoHaVzdfq8bwGVvW0xfRbjurFpjNyvpzx+bD30Xck62AvH8lnKzT5AoXlxh/rgMo7hFMnM0xkDjcr9hHmjD54cH0dyMnjla4k/LdQ6PeB4VClgXm6xKiiCdh29g1UbwOPY/lW6pnFJpg02BqZ8/ZACdIKGnHhWYROfzviVfin1KDcXDwiN8MwIOuhznEjlsD9MHJLSadMjNvkj2B7makxuJbruZLIwm0I3uRKxz5S1MSOw9SKyXoNrc/1LgtKvbI9wjer3xJOZIjXAbifX8kCp4FphWxeCvNqhzp/eHwNkRjhzYxxX2O/T+TSrU+KzohnwU4F0u7AXtSzqAyLdNpjTN/DvmHZFWc=;swEUIS0zetQNeNy+dxra/g=="
 ---
 

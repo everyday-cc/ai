@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/motion-control-software-
 webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
+    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
+    publishedDateTime: 2022-08-03T07:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
     publishedDateTime: 2022-08-01T07:38:00Z

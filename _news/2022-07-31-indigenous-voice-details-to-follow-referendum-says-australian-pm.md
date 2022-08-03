@@ -308,15 +308,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A broken Voice is no option: Australia’s moment to unite or fail"
-    excerpt: "On Saturday, the prime minister unveils his plans for a referendum for an Indigenous Voice to parliament. The stakes could not be higher."
-    publishedDateTime: 2022-07-29T17:30:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/a-broken-voice-is-no-option-australia-s-moment-to-unite-or-fail-20220729-p5b5nz.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 19
   - title: "PM Albanese 'very confident' Australians will adopt Indigenous Voice to Parliament after landmark speech at Garma Festival"
     excerpt: "Prime Minister Anthony Albanese has said he is “very confident” of a successful referendum result on the Voice to Parliament following a landmark speech at the Garma Festival."
     publishedDateTime: 2022-07-30T04:50:00Z

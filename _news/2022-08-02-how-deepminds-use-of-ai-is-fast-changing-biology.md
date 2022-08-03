@@ -27,77 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters"
-    excerpt: "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,"
-    publishedDateTime: 2022-07-29T16:34:00Z
-    webUrl: "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/"
+  - title: "DeepMind's Perceiver AR: a step toward more AI efficiency"
+    excerpt: "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet."
+    publishedDateTime: 2022-08-01T03:46:00Z
+    webUrl: "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
     images:
-      - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science"
-    excerpt: "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen."
-    publishedDateTime: 2022-07-29T18:18:00Z
-    webUrl: "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 98
-    images:
-      - url: "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Predicts The Structure of Almost Every Protein Ever Found"
-    excerpt: "A new era of biological research has been unlocked, with an artificial intelligence (AI) predicting the 3D shape of nearly every protein known to science – just one year after its first data release."
-    publishedDateTime: 2022-08-02T07:39:00Z
-    webUrl: "https://www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science"
-    ampWebUrl: "https://www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science/amp"
-    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/ai-predicts-the-shape-of-nearly-every-protein-known-to-science/amp"
-    type: article
-    provider:
-      name: ScienceAlert
-      domain: sciencealert.com
-    quality: 52
-    images:
-      - url: "https://www.sciencealert.com/images/2022-08/processed/StrandOfmRNA_1024.jpg"
-        width: 1024
-        height: 415
-        isCached: true
-  - title: "DeepMind AI has discovered the structure of nearly every protein known to science"
-    excerpt: "The DeepMind program AlphaFold predicted the structures. The artificial intelligence group DeepMind has unraveled the structures of nearly every protein known to science. Researchers achieved the feat using the program AlphaFold,"
-    publishedDateTime: 2022-07-29T17:23:00Z
-    webUrl: "https://www.livescience.com/alphafold-200-million-proteins"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 49
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/53AezPLcASuSLquLmxy6Mk-1200-80.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind research cracks structure of almost every known protein"
-    excerpt: "The research was done by London-based AI company DeepMind—owned by Google parent Alphabet—which used its AlphaFold algorithm to build the most complete and accurate database yet of the more than 200 million known proteins."
-    publishedDateTime: 2022-07-29T17:01:00Z
-    webUrl: "https://arstechnica.com/science/2022/07/deepmind-research-cracks-structure-of-almost-every-known-protein/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 49
   - title: "How Deepmind’s AI decodes millions of proteins"
     excerpt: "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold."
     publishedDateTime: 2022-08-01T19:33:00Z
@@ -107,15 +50,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 34
-  - title: "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures"
-    excerpt: "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the European Molecular Biology Laboratory’s European Bioinformatics Institute (EMBL-EBI) in Cambridge,"
-    publishedDateTime: 2022-07-29T17:37:00Z
-    webUrl: "https://www.bioworld.com/articles/521165-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 18
 
 secured: "QAfbdMYILkRIxEVNgBXb28S7GSoyMX2q3Q8gk5/WZXawbwC/bB++8Ne7hOgKJ8yq3qSPAnZiYVrnHOdqWDpCkQPbyi3gNLZKi4jz49cLtcW/m7qqVHyQyGSEL1Pf1EZFEqodH/uWu7r+XK5LUvHXQa651IhzSzNdEcJSOEAxWr6LjkFWTx7tiOT13+a27t7cL4gPzfYRFiYMluBzLcgoXPgpmhD+CibGi3119XG68eyyWy1D7ZWI4gzuBTNv+bMHjVJ5c39LCdwq3lwW0AJL7lMifOcy0Om852h/ZATJPlfIk4Ec3qKKuZnZ7+qMNSV9cUn5ex3E1fm+Z9dbxqOETRpQyGX2/fO8fwRb6ycQY3Y=;PbrCOAlt+7FuZRLW+1Aq9g=="
 ---

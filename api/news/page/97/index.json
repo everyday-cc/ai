@@ -2,6 +2,231 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-05-17-investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi.md",
+      "title": "Investing In AI Doesn’t Need To Be A Leap Of Faith: How To Track Your AI ROI",
+      "excerpt": "Against this backdrop, many executives are keenly aware that they need to get a better handle on AI ROI and risk before they commit even more money. However, for all of the investment in AI, this critical need has yet to be addressed in most companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//1160010882/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/17/investing-in-ai-doesnt-need-to-be-a-leap-of-faith-how-to-track-your-ai-roi/amp/",
+      "publishedDateTime": "2022-05-17T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london.md",
+      "title": "Relativity Explores Ethical AI and Unveils New Product Capabilities to Enhance Productivity at Relativity Fest London",
+      "excerpt": "... Translation Relativity will incorporate AI machine translation directly in RelativityOne. Out-of-the-box, users will be able to translate large batches of documents in more than 100 languages and 12,000 language combinations. Relativity is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
+      "originalUrl": "https://www.wsav.com/business/press-releases/cision/20220517SF58032/relativity-explores-ethical-ai-and-unveils-new-product-capabilities-to-enhance-productivity-at-relativity-fest-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAV-TV",
+        "domain": "wsav.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-why-are-we-failing-at-the-ethics-of-ai-a-critical-review.md",
+      "title": "Why are we failing at the ethics of AI? A critical review",
+      "excerpt": "Sometimes the AI ethics conversation appears to be a morass of well-meaning platitudes, without forward direction. A notable article via the Carnegie Council for Ethics in International Affairs brings these issues to a head.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review",
+      "originalUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2015-07/man-in-box.jpg",
+          "width": 1688,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/why-are-we-failing-ethics-ai-critical-review?amp",
+      "publishedDateTime": "2022-05-17T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data.md",
+      "title": "Anthem Looks to Fuel AI Efforts With Petabytes of Synthetic Data",
+      "excerpt": "The idea of synthetic data in enterprises has been around for decades, but it’s picking up steam as companies begin making more use of artificial intelligence and have greater need for faster access to better data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
+      "originalUrl": "https://www.wsj.com/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602?mod=hp_lista_pos4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-545425/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/anthem-looks-to-fuel-ai-efforts-with-petabytes-of-synthetic-data-11652781602",
+      "publishedDateTime": "2022-05-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles.md",
+      "title": "North America is seeing a hiring boom in retail industry machine learning roles",
+      "excerpt": "North America extended its dominance for machine learning hiring among retail industry companies in the three months ending March. The number of roles in North America made up 77.1% of total machine learning jobs – up from 75% in the same quarter last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
+      "originalUrl": "https://www.retail-insight-network.com/analysis/north-america-is-seeing-a-hiring-boom-in-retail-industry-machine-learning-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2022/05/WdKIv-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Verdict Retail",
+        "domain": "retail-insight-network.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-artificial-intelligence-ai-in-healthcare-market-size-forecast-to-reach-usd-64-billion-by-2027-expanding-at-a-compound-annual-growth-rate-of.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Size Forecast to Reach USD 64 billion by 2027, expanding at a compound annual growth rate of 43%",
       "excerpt": "Artificial Intelligence Healthcare Market size is predicted to touch USD 64 billion by 2027, registering a CAGR of 43% over the forecast period (2020-2027), owing to the increasing application of AI in medical imaging,",
@@ -895,230 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030.md",
-      "title": "Asia-Pacific Self-driving Car Market 2022 : Recent Developments, Competitive Landscape and Regional Forecast to 2030",
-      "excerpt": "Self-driving or autonomous car will act as a driving factor to minimize accidents and improve vehicle safety. Autonomous cars have gained enough hype in Asia-Pacific. Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/7f4ec9939f599f648f7fa42abc737a63581e8ed8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-crippling-ai-cyberattacks-are-inevitable-4-ways-security-pros-can-prepare.md",
-      "title": "Crippling AI cyberattacks are inevitable: 4 ways security pros can prepare",
-      "excerpt": "As enterprise companies battle a growing number of major security breaches, they need to prepare for increasingly sophisticated AI-driven cybercrimes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "originalUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1057918132.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/16/crippling-ai-cyberattacks-are-coming-4-ways-security-pros-can-prepare/amp/",
-      "publishedDateTime": "2022-05-16T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-us-cops-kick-back-against-facial-recognition-bans.md",
-      "title": "US cops kick back against facial recognition bans",
-      "excerpt": "In brief Facial recognition bans passed by US cities are being overturned as law enforcement and lobbyist groups pressure local governments to tackle rising crime rates. In July, the state of Virginia will scrap its ban on the controversial technology after less than a year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "originalUrl": "https://www.theregister.com/2022/05/16/in_brief_ai/?td=keepreading-btm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/03/05/facial.jpg",
-          "width": 1000,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/16/in_brief_ai/",
-      "publishedDateTime": "2022-05-16T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-intels-beta-gpu-driver-reveals-full-arc-lineup.md",
-      "title": "Intel's beta GPU driver reveals full Arc lineup",
-      "excerpt": "Arc 3, Arc 5, and Arc 7 series GPUs The latest Intel Beta GPU driver pretty much listed the entire Intel Arc GPU lineup. Although it is meant to be used for Arc A350M and A370M mobile GPUs, the Intel Beta 30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
-      "originalUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/b6951925c8e044dfddcb62308f409b94_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-behavox-research-on-continual-learning-featured-in-international-conference-on-acoustics-speech-and-signal-processing-icassp.md",
-      "title": "Behavox Research on Continual Learning Featured in International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-      "excerpt": "Behavox, which provides a suite of security products that help compliance, HR, and security teams protect their company and colleagues from bad actors, today announced that its academic research paper on artificial intelligence “Continual learning using lattice-free MMI for speech recognition” has been accepted by the International Conference on Acoustics,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-entertainment-canada-montreal-49152eedb71349acafce849f34df073e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,239 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-06-23-einride-gets-go-ahead-for-driverless-electric-trucks-on-public-roads.md",
+      "title": "Einride Gets Go-Ahead For Driverless Electric Trucks On Public Roads",
+      "excerpt": "driverless, electric transport vehicles called Pods on public roads in western Tennessee. Within weeks driverless electric freight transport trucks may be traveling on public roads in western ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b3a72b815fe116257a1f0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
+      "title": "Leading a movement to strengthen machine learning in Africa",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "originalUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62b2f8a5be5a342016037d48_Avishkar%207.jpeg",
+          "width": 384,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
+      "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
+      "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
+      "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
+      "publishedDateTime": "2022-06-22T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
+      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
+      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
+          "width": 580,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars.md",
+      "title": "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars",
+      "excerpt": "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus",
+      "sourceUrl": null,
+      "webUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
+      "originalUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg",
+          "width": 2480,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTurboNews",
+        "domain": "eturbonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
       "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
       "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
@@ -873,229 +1106,6 @@
         "AI",
         "Computer Vision",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform.md",
-      "title": "Sinequa Adds Industry-Leading Neural Search Capabilities to its Search Cloud Platform",
-      "excerpt": "Sinequa customers gain unprecedented search relevance, accuracy at scale, with the industry's most comprehensive native neural search for enterprise use Enterprise search leader Sinequa today announce",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/b27814214/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/b27814214/sinequa-adds-industry-leading-neural-search-capabilities-to-its-search-cloud-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence.md",
-      "title": "Qualcomm Launches Unified AI Stack For Cloud To Edge Intelligence",
-      "excerpt": "The new Qualcomm AI Stack lays the foundation for domain-specific SDK’s . While advances in AI accelerators have improved silicon performance by over a thousand-fold, it’s sof",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab51cdac057dbfb68819cd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/22/qualcomm-launches-unified-ai-stack-for-cloud-to-edge-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation.md",
-      "title": "Sanas Raises $32M for Breakthrough AI Technology for Real-Time Accent Translation",
-      "excerpt": "Record Series A Round Will Be Used to Further Develop the AI-based Technology and Expand Business Within the U.S. and AbroadPALO ALTO, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sanas-raises-32m-for-breakthrough-ai-technology-for-real-time-accent-translation-1031543312",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers.md",
-      "title": "IKEA rolls out an AI-powered interactive design experience for shoppers",
-      "excerpt": "IKEA is launching a new AI-driven interactive design experience called IKEA Kreativ for IKEA.com and the IKEA app. With the new feature, U.S. customers can design and visualize their own living spaces with digitalized furniture on their smartphones instead of traveling to the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "originalUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-13-at-4.35.24-PM.png?w=1024",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/22/ikea-rolls-out-an-ai-powered-interactive-design-experience-for-shoppers/amp/",
-      "publishedDateTime": "2022-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate.md",
-      "title": "Despite iQiyi Denial, Is Baidu Set to Roll Credits on Its Video Affiliate?",
-      "excerpt": "But it could make sense for Baidu to divest from video streaming to sharpen its focus on cloud services, AI and self-driving products Online streaming service iQiyi swiftly denied the report as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27813279",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279",
-      "publishedDateTime": "2022-06-22T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

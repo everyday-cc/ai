@@ -62,6 +62,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
+    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
+    publishedDateTime: 2022-08-03T07:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CYk7E3y0t7cljnLXf570fjMki8y/0tOFNi6lmhif+BnbAeYhSeReOYBZeqrJ2NGixPdqeDSTGheWBi9g6JRSBTKSmtvRoBVGjGsbghsQ4Ga9KqLh5dqH08oBQtpF3mQ/7WtPc70jyM9qU3J0zzU5SZ/5WwBYxngfZWAH7Jo+QvQJEYrNR3jcRSQVTt/mbFNx64PfNhOMW5TJa1CBch61aWWwLbKeHZkp36FNyaXMXHUODQVnef/hKabnY8i+u4Z3JZovi9L/R9CiW/M7+UF9Km9DbTFfkxKG8GJOjQ/7CRnMe+VyGY8EwfCS+5G1OZgqPrVI2by6dZalC+K4QNWS6ajvIojaGqOPDo9XEeTNE/k=;W3DldZnt+vjigGSRsLIYPg=="
 ---

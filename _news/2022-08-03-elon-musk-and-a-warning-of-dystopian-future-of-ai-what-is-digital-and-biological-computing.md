@@ -8,8 +8,8 @@ webUrl: "https://www.dailyo.in/technology/elon-musk-and-a-warning-of-dystopian-f
 ampWebUrl: "https://www.dailyo.in/amp/technology/elon-musk-and-a-warning-of-dystopian-future-of-ai-what-is-digital-and-biological-computing-36836"
 cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/elon-musk-and-a-warning-of-dystopian-future-of-ai-what-is-digital-and-biological-computing-36836"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202208/1200030822122901.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "3jxBHA8DKrQCXZGU9Cf2r3PeHlqqV0WBNFZWGZ+9xKyJ+XJ4pbsGmTmmwWsyE8o7aGDxWQgbJN3Ado7bq0GqJy4Jiik/Wq+l26iSXBwVDekC6y/C6vSpFI3tljgLvqO87CKJSTYnzo35abGTJF7i6kJSYx1sNObIdPIoiwZKqC9Z3afG+BSTTK9D+wr8MY7ZCKPoDtqtFjhlDQixbpjszd4D4K5uEn4XGAdjy6hhaZfsAyKm+MUOEze6eXv6JVORSE9xRXOPM8FpGl6jnAeQk9Wt6G7iTjN4/9JxsftZl3D2m3veZwvTg3QaoFTc+mwW3jiawrOVl2NbsVrvg62zVtAbZBwHPVsBfln4uTlzww0=;RqsfY3GIBaOcPFhOcBOFCQ=="
+secured: "YhJeH/RqPCozk2Oxo9Qq6AT3dhisuKmAevp0PCsc39L0KaR0ZIhJDxQcLdvvDoeFRwx9dTpm73DuB0/jdOa7cOMr0YM/xHSjTbK5lU7+hn61FBEj5UqXxE2rZG/LHhFCFnHRTBVj4Xwc8wKhkGfWo991AnkJfwNHIxfwqoaoNxaW0ezTgwPrPLdexkoUfI/kNK1D3lZ+Vue9aH8Nf3kdZ4S/gIdwCEEVdLfI7AzZMvt55VfJq2Ot+18M51Ap/0+sMZ6ayzqGGxr2l6M5oyr0yJ7CHbRPU/HzSv5dg1SsPNLYGm1JyzRszTUAceEqAj8rEwu4I6Un5Ugp3MagiAjiUQb3LlV5Mu+L2LQgLCj9BV0tJDUzRFvm2ZIwatJJTM7NerOlxtFZsoxucENEuVJVeagOuFc16+mZ6FEphxHApfSVOdmlRTTPdrW0Pok5osJyF5fR5zkDjWlLsqZQiJYcs/g3vFREJbtGa1MpLHsSeSWm+8jFCIi6558IH/hsr7h9yM7MDDcAxrohjs4HCMtLgQ==;kJ4z1SjGpZjccb+JovMBvw=="
 ---
 

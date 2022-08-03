@@ -5,6 +5,8 @@ excerpt: "Learn how a leader in the U.S. banking space is leveraging data, ML, a
 publishedDateTime: 2022-07-20T18:32:00Z
 originalUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
 webUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/"
+ampWebUrl: "https://venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/how-capital-one-is-using-data-and-ai-to-level-up-customer-experiences/amp/"
 type: article
 quality: 47
 heat: -1
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-20-at-2.22.30-PM.png?w=1200&strip=all"
+    width: 1200
+    height: 655
+    isCached: true
 
 related:
   - title: "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?"
@@ -78,6 +87,6 @@ related:
         height: 562
         isCached: true
 
-secured: "mLgFsFvvHOZnpAEOXgNxa0Opp1aKVm6RsnY2gxn+HRIbXqtaaTGehOzIOajWoVJPSXD+h0l77lGxDTq9Q7YoStaGxVXP+Yo+XUQ2Vl9uHJ3RZ0R4wkDQ/arJJIduZWXS5MlSPIf3LcmzA/mLBxOEIJUt0qpLCsJDlLlmfUMBU24ksCk/4gxpGsZ0Ie7oojzb3sUCUhIO0JQ5GsOoQ6pXCSd2Cd2tT+u5HEzN4yrngsX0BCzV0tG2mPAjXTQrNjT75Yy6a0sqWLAmAAVBwfpMn5lMFd23SN7en2iRrTShzGBZN/SzaFifUIVX8ZbHruJk49ppvR2HUaDuERTIwQy8eITFORrEXHprb67SK+J1EPISsPF26oa/+nT7m3BJLdt9jvPZnY8nfEx7/PPa1t/esdFYbwBjcmULjMUoZHrxmoluNQvUYeRQR8blk+UQ4vFmh/6Q6dpYecVghJsZd1x20QMH/B1eC4gAlUBgeYN3oIMy1xClCM19waaHNxLyO22ERSmmsvj2uTxzI2Fyzbs/Jw==;8dLU3udLq/Yopn90ZRE+kA=="
+secured: "UWh33W4YU9KR1X2Ws7nbUGZwpJ6+PKxxUeDz+9qeMDsuBjQIQaTxJcMet1amcB3yRt+1WujiI+xeF29xdcehnyhZbRUvlxD2WUwFarQ4LKOnu75et7xGqCcyiPXEjccSQWGE5G5+2uDBeQu1/ytrq0UbguEG9Gn9/OBDHP7Y/hBbG4kPfyB+GM2ZSAQwSHg6rC9q8Hu53ODyy+dgyg0cQjbyy+etXVuNaLHYSfzl5DXQuID1W95HdHBs7CsffFj4uhKgDL7Gp7LJzEp+aW0CGItUaIDf8ec11XhHewunZ5hWUDLWtb0OUfFBbW48HoEIphntoa5HRlL2+BBl4mwFvyzlZSl4wSpTyEDZSjva9KU=;2lW/DZtQsFlkf08rW4SH0w=="
 ---
 

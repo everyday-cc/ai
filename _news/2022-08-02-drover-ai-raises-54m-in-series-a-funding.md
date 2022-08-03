@@ -52,6 +52,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage"
+    publishedDateTime: 2022-08-03T10:52:00Z
+    webUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Untitled-design-6-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
   - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
     excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
     publishedDateTime: 2022-08-01T22:00:00Z

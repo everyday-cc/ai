@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-d
 webUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,22 @@ images:
     width: 810
     height: 577
     isCached: true
+
+related:
+  - title: "China’s southern tech hub Shenzhen becomes first city on mainland to regulate fully autonomous, driverless cars on some roads"
+    excerpt: "Shenzhen’s new regulations of intelligent connected cars took effect on August 1. Registered autonomous vehicles that function without a human driver can travel on certain roads designated by local transport authorities."
+    publishedDateTime: 2022-08-03T08:30:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/03/chinas-southern-tech-hub-shenzhen-becomes-first-city-on-mainland-to-regulate-fully-autonomous-driverless-cars-on-some-roads"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 27
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/03/1683155.jpg"
+        width: 1240
+        height: 697
+        isCached: true
 
 secured: "Cq6/il4+O1Qg3vmfsuRVaf6h7lT2BhDg7hPFqzkuZB4M8uENcIh5R19eXqVYGs+4EdgEA86tAKiS/NE98ReQ/9l3GvPBw3mHLMEAbhL3u47mjUDPAiIeSjdN+nVw1EXv7KpUpv43noOzZsGtijnACVeekCHplElVS+PQXkz7A8lGcAETFCjM6dTzXDSoENRE0s8gIVTsfI99RyM7p8RvCKa+cWTss65TJ/eBzn//cJx4ZvPGkc+kFEcCVJLvuVtPGMWkMKplh8Ng1xGOnxk7kLgj8f8vrDEB03aKzQUQht6KyLVNz5WMopRJFmHsZwiDfC1ZodLgTRPdsurEATmifppA2/U+VHp/c3RInxssmo8=;VfWzjHByqVoMmIx7MVJ8ZA=="
 ---

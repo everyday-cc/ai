@@ -201,6 +201,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-01-shenzhen-accelerates-chinas-driverless-car-dreams.md",
+      "title": "Shenzhen accelerates China's driverless car dreams",
+      "excerpt": "A safety driver sits on the passenger seat as the car with autonomous driving system by DeepRoute.ai, drives itself on a street in Shenzhen, Guangdong province, China July 29, 2022. REUTERS/David Kirt",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB",
+      "originalUrl": "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220801&t=2&i=1605161075&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI700CJ",
+          "width": 810,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
       "title": "Bam! AI exits the Batcave to confront the jobs market",
       "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
@@ -591,49 +643,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
-      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
-      "excerpt": "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
@@ -654,6 +663,49 @@
       "provider": {
         "name": "Japan Today",
         "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
+      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
+      "excerpt": "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1308,52 +1360,6 @@
         "AI in Autos",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
-      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
-      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

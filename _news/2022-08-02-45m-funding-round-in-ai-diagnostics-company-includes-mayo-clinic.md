@@ -47,6 +47,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage"
+    publishedDateTime: 2022-08-03T10:52:00Z
+    webUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Untitled-design-6-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
   - title: "Drover AI Raises $5.4M in Series A Funding"
     excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
     publishedDateTime: 2022-08-02T05:47:00Z

@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-27-why-machine-learning-in-ad-tech-is-ready-for-liftoff.md",
+      "title": "Why Machine Learning In Ad Tech Is Ready For Liftoff",
+      "excerpt": "Learn more about the incredible scale and complexity of machine learning in ad tech with Yunshi Zhao, ML engineer at Liftoff Mobile. Zhao also part of the diversity, equity, and inclusion (DEI) committee at Liftoff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e03f3a3d45822eb9a0bf5b/0x0.jpg?format=jpg&width=1200",
+          "width": 956,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "publishedDateTime": "2022-07-27T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises.md",
+      "title": "Cybersecurity mesh adds decentralized security and swarm AI for remote-first enterprises",
+      "excerpt": "Naoris Protocol provides remote-first enterprises with decentralized cybersecurity mesh, mitigating attacks across all devices and networks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
+      "originalUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design-e1658931843797.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
+      "publishedDateTime": "2022-07-27T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting.md",
+      "title": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting",
+      "excerpt": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting Jul 27, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, July 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom.md",
       "title": "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com",
       "excerpt": "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,",
@@ -980,204 +1179,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-in-agriculture-another-place-where-medical-techniques-can-help.md",
-      "title": "Artificial Intelligence In Agriculture – Another Place Where Medical Techniques Can Help",
-      "excerpt": "Tools which help to more efficiently manage agriculture are critical. Artificial intelligence is finding its way into an increasing number of agricultural applications, and analysis to minimize the impact of BRD is one of the latest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "publishedDateTime": "2022-07-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-nvidia-announces-general-availability-of-nvidia-ai-enterprise-21.md",
-      "title": "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1",
-      "excerpt": "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
-      "originalUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-considering-the-fine-line-between-ai-democracy-and-autocracy.md",
-      "title": "Considering The Fine Line Between AI Democracy And Autocracy",
-      "excerpt": "We must demystify AI with fairness and responsibility while being competitive to harness its transformative power and potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61892951ad641ca64a264904/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "publishedDateTime": "2022-07-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping.md",
-      "title": "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping",
-      "excerpt": "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping/article_78f137eb-9bc2-5c8d-b012-8da5e367d0a6.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

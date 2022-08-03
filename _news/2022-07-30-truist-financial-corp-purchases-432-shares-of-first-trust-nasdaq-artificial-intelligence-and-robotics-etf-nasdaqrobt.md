@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 20
+  - title: "Prospera Financial Services Inc Sells 103 Shares of Splunk Inc. (NASDAQ:SPLK)"
+    excerpt: "Prospera Financial Services Inc cut its position in Splunk Inc. (NASDAQ:SPLK – Get Rating) by 5.7% in the 1st quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission."
+    publishedDateTime: 2022-08-03T10:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/03/prospera-financial-services-inc-sells-103-shares-of-splunk-inc-nasdaqsplk.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 1
 
 secured: "2fqOAJCjVMfyd3ggAJecUbMiypBxGkQ9ZYpFY9d+fv2iUppU8mnXtRkwJ6ktDtvOmz5hEKycB6THhv05EE/1wPwi03hl6pAFLcKaSWIu6ruY7ZCBJ/lBCyRl0zMuGqNKlbxHMSFa/FaP5PetaClSLgcKJhqdGnhzXrA0BJwdhiPFBa1JIqUgisPVLN5MkmdlTgLLXSBXoPby2XW1lOl6kGIf+7IWDSuDogjUSlgfjcVJ7qlC3UwsRdScLrmdJ1YsYhgv+JGVCRhMMkjR/Ye8RrFk1Vb/9U2odHfzgY2aqSCORGnm5r6D/Mrit1fXBprwpItvJ0b6dJZRcJUgOCa17mpRTrzzWvyQcZkUVA5ilDg=;Rd4DNi60B/8KIrJOdP1NXA=="
 ---
