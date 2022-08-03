@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T11:36:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-health-canada-vancouver-801200e707ae6a48fac765bdbdaae945"
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-canada-vancouver-801200e707ae6a48fac765bdbdaae945"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

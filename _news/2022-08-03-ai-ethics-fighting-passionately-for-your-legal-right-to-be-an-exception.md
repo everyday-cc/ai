@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/03/ai-ethics-fighting-passionately-for-your-legal-right-to-be-an-exception/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/03/ai-ethics-fighting-passionately-for-your-legal-right-to-be-an-exception/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

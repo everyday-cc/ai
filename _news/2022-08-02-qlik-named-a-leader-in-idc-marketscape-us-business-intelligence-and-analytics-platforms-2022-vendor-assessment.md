@@ -33,6 +33,20 @@ related:
         width: 1133
         height: 635
         isCached: true
+  - title: "Geospatial Analytics Market Size Worth USD 134.23 Billion in 2028"
+    excerpt: "USD 53.45 Billion in 2020, Market Growth – at a CAGR of 12.1%, Market Trends – Increase in number of government projects The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12."
+    publishedDateTime: 2022-08-03T14:43:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/11708"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 24
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/August/3/7/9cf90169-4bfb-4dca-830d-2c71775fca8e-sized"
+        width: 800
+        height: 467
+        isCached: true
 
 secured: "iAJlqvYaMRomX/z7iCTVrjUSJxz2i1FOeAbCJVZQzb9S/XPnkGZgfPRHgiNs58sH07KtN+w1NHk8YO14o0EK23k1CxImC2btVuVABQfdeS0y1fhMIN4Ugxyn8J4ZYRMBhZDpvFhwV5PCHmg2gGoAY6KNbnkJ2JWXSgxaa4LE6JtohNRHMnOAOti3pMR1FHKkxYtkit7eIJGMVVuEZ8k4w09ft/qUgB0mlIIX6HrOWfe2u8EDyLIDlhADmXZ40eCjjRy7+urxRu3vFmJh+hGq7kQbhxXqOEaE250eHD23VWVYFn0jF7e1qPrukOxHMXrdYwmq6T8OEAKtrYC0buLXXwlFU/YxTMpMzwTL3XVVZtU=;IUhS3vLcvIqtpGFHZoxFjg=="
 ---

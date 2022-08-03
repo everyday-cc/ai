@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -284,20 +284,6 @@ related:
       name: SBS
       domain: sbs.com.au
     quality: 22
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
-    excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
-    publishedDateTime: 2022-07-29T21:19:00Z
-    webUrl: "https://www.sbs.com.au/news/article/pm-to-outline-proposed-referendum-question-on-indigenous-voice-to-parliament/0hg0tp04m"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
     images:
       - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
         width: 1280

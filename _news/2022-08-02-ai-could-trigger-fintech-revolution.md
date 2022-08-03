@@ -49,22 +49,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Most adults with autism can recognise facial emotions, almost as well as those without the condition"
-    excerpt: "Problems identifying and responding to emotions in others is thought of as a core feature of autism. But our research shows there may be minimal differences in this aspect of social interaction."
-    publishedDateTime: 2022-08-03T00:56:00Z
-    webUrl: "https://theconversation.com/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
-    ampWebUrl: "https://theconversation.com/amp/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/most-adults-with-autism-can-recognise-facial-emotions-almost-as-well-as-those-without-the-condition-187995"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 29
-    images:
-      - url: "https://images.theconversation.com/files/477075/original/file-20220802-12-wtizjt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
 
 secured: "tf8asPsJhjwIHDA9o2IF0bdHLripDbK511Plk1O5/UxDsZelzJaXbubXfZwwWmN1cqqqqIN/TBjuOJEf4AWWeUqk2EOQ78LBuTjnw5MWqtCe6KIl2hGQlDVY56zq2SeLlNISCyo/dtnm8f5S2UFP9lBcXRS3oG3HLA1594AKQxoG18U79DQod7a3PLJR42XTqyp5dti93Q7aIuGT6m5gWDdKObTP+aycxFR1HAsCTEWbzsCu2QWx9o6ifRA4z1o5sxxnvtxvKKgDCGCGjKJZpb5fNAGwY0kRI4aYwsIpR2Vulnm5y2U2jYbPXVs88odWULrjaTIJnzZvXpv5vdP/wSP57LVu89YmnUImt7QqtyM=;5u2nAyEjB8mPbnDPnvrY0Q=="
 ---

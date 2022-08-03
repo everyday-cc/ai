@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-08-automating-neutron-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -40,6 +40,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Smith.ai Announces New Integration with Law Ruler"
+    excerpt: "New legal technology partnership to help law firms deliver superior client service and boost productivity. Los Altos, CA August 03, 2022 --(PR.com)-- Today, Smith.ai, a leader in 24/7 customer engagem"
+    publishedDateTime: 2022-08-03T13:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/r28332275/smith-ai-announces-new-integration-with-law-ruler"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "YeFcjH5VbstsR3KeIDjD1pCq7Giw3xzP3ke/4gTqAb3RN3C0Lcli8SR2xPGUwAd65sCQ12rxHcBsc21Pl63C3o6rSw6uwmGKuPDdLQPzMgUHSfFjdFo/utAejclGLGZzbn8XOHng2E8d1rMvZl0TSP0wC22jccjDugoG9tCVH7ago7qk8+uses1L+xXAls235WDct4rDNCMwZsuyPo557YxGfooavgIqK2VGvcfWqHasRVnW5EsqXGcs3ZzMRHXweaIDdF3nx2mGpnmn+J8SvSxYYJaMB/u4towYbJYGKc6LiDrPDq+qDMgCwOh7rHUhB/5/KfmjxIWSk0zb88sBzKhJlAqExm7FfkJBNXaIaRLUJgjt5V5ynYMa/IYf8Ru+xU8Yk537MJejLXyDOh1nCSYi9xF/tGm6IrJDezpW1lGiHX3xn6kqCjLcuWc620viQTslCoihg7NPLei5KXVoLCJUo+h5vHVgvApvJYgUBjtNTW40YnfZLUGlM8hHv1RkpR+lzr1B+YL+jBFE0SYxTQ==;8oudkx/koiTw5fsgIftSSA=="
 ---

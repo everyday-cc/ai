@@ -300,20 +300,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "PM to outline proposed referendum question on Indigenous Voice to Parliament"
-    excerpt: "Mr Albanese will tell Indigenous leaders, campaigners and advocates gathered at the Garma Festival in northeast Arnhem Land what many have waited decades to hear: the nation is ready for reform. His recommendations ahead of a referendum include adding three sentences to the constitution to establish the voice,"
-    publishedDateTime: 2022-07-29T21:19:00Z
-    webUrl: "https://www.sbs.com.au/news/article/pm-to-outline-proposed-referendum-question-on-indigenous-voice-to-parliament/0hg0tp04m"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 21
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/edbac94/2147483647/strip/true/crop/2000x1125+0+103/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F36%2Fbc%2F897b2e0e49638b4fefae313beaea%2Falbanese-garma-aap.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Indigenous voice details to follow referendum, says Australian PM"
     excerpt: "Albanese’s centre-left Labor Party government is seeking a referendum, required to alter the constitution, on recognising indigenous people in the constitution and requiring consultation with them on decisions that affect their lives."
     publishedDateTime: 2022-07-31T04:16:00Z

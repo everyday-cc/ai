@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/videos/tech/study-finds-new-hardware-offe
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/study-finds-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy/amp_videoshow/93277578.cms"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-    publishedDateTime: 2022-07-29T19:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
 
 secured: "CvlydbuDYM4wweyZEObnJ/J1qh17HOwOp51ys/yv9JDHO/AKVI7zGMnXagIPkCQ96CkWhHHd4oNvxs9qvK9bclh5Qknx2Hd58UVJUc9qTWazriOJHN8xO5QrRd/UkniddeQ+Ti4iGpRh5+eIXK9e407W8sNqJUaw8HbaxtR9WMiW2SFshbfL25IfOUz7/HaUVjGv4j/btyrdFF5df2xR5daj2cPIiK/ppt9UaT7Xtn8ZybzAtA0KtRlOZj1dCFdz9MiH+wb1xx8vyu3BXlwkead1TfqReY5N7782kYeiIzSTobD/wMoFMfBIR52iejGuqWwkNMIftaUvr7qJmHPSzLQG45DU4OfM+cw1S+iXlHU=;8/E8KLRbXczBlvDv139pdQ=="
 ---

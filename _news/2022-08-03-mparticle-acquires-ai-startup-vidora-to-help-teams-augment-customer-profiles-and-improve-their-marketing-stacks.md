@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T12:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-804323971.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-804323971.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: PR Newswire

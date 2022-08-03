@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T02:03:00Z
 originalUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
 webUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Digi Times

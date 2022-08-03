@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech is Set to Take on the ESG Challenge"
+    excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
+    publishedDateTime: 2022-08-03T12:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
     excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
     publishedDateTime: 2022-08-01T13:22:00Z

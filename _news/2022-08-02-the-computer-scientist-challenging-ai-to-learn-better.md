@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI and machine learning are drifting away from the cloud"
-    excerpt: "Cloud computing isn’t going anywhere, but some companies are shifting their machine learning data and models to their own machines they manage in-house. Adopters are spending less money and getting better performance."
-    publishedDateTime: 2022-08-01T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
-    ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 76
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pairing imaging, AI may improve colon cancer screening, diagnosis"
-    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering at the McKelvey School of Engineering at Washington University in St. Louis, has combined optical coherence tomography (OCT) and machine learning to develop a colorectal cancer imaging tool that may one day improve the traditional endoscopy currently used by doctors."
-    publishedDateTime: 2022-08-01T17:35:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/colon.jpg"
-        width: 1920
-        height: 1800
-        isCached: true
   - title: "Using artificial intelligence to control digital manufacturing"
     excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
     publishedDateTime: 2022-08-03T00:13:00Z
@@ -80,6 +48,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4275e2d-14d5-4ca1-ae81-519496509e3c/Rendition/low-res/Content/Public"
         width: 700
         height: 467
+        isCached: true
+  - title: "Meet the artist using AI to imagine better cities"
+    excerpt: "Urban planning advocate Zach Katz cannot only tell you, he can show you — using the AI image-generation platform DALL-E, Alex Fitzpatrick reports. Katz, a 28-year-old Brooklyn-based artist and musician,"
+    publishedDateTime: 2022-08-03T09:45:00Z
+    webUrl: "https://www.axios.com/2022/08/03/artist-ai-dall-e-urban-design"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/m3yad8YhE-zLzWv9YFCvuoihD6o=/0x0:1920x1080/1366x768/2022/08/02/1659460833646.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "qFFUHQuVsxZI2j0Wjdn2qObYn2dlNqnrWYbyZJwPs3PvziKrx1P7sKdb66JfLZkwVrv2QEWJVyHpxVJnRuV0sT8csY8Pe+bHsDGj4S+YrB3aCGhk/21DNhxaua8Oki4tjG7Aw5PMrPdjLY9HaZFtqMWhDQ3EAvH7Wv3g56ve2jtpIYH78OaF4m/DiZXN2m5q1Y6ymn9Zni87QoHr8C1QCgrZF9K6cypSh1WRFaVIc3uLGpFprL7rlrUtdl3vTP8QwRMzCBf0pzZfPv0pa9GXRWPMCVwEMkbuD5b3pQRNIPEzU/ASyrL9Z2KI6KdT1n4p6RSyDqtth6pQAzGOM0k8V6JTvvnabgcsD1fJ+HNLSmCAOtp8Umiu/+gS1coxDn14TOU+VjT9KKpDp8dMFWR/EllXQdwvtYD4fTlLfoOW7iNII3bZuP+5dpF/UTvDENVu0+yrRF6+ZQ7C4qwavZNbgZtWrUMYjj7oiH/V4dvGp+WuBoX7ia0GoTef9rmUIFl/tdACSaXZeVlgwWsDDu0wIw==;mtHjDqSiOQJJn6jYnz+k3A=="

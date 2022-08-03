@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T13:32:00Z
 originalUrl: "https://insideautonomousvehicles.com/pony-ai-and-chinas-sany-partner-on-level-4-autonomous-trucks/"
 webUrl: "https://insideautonomousvehicles.com/pony-ai-and-chinas-sany-partner-on-level-4-autonomous-trucks/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insideautonomousvehicles

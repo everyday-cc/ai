@@ -33,6 +33,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Fintech is Set to Take on the ESG Challenge"
+    excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
+    publishedDateTime: 2022-08-03T12:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "The Next Fintech Movement Coming to America"
     excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
     publishedDateTime: 2022-08-01T18:33:00Z

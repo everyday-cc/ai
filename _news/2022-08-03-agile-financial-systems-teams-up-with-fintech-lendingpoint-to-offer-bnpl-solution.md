@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T12:42:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/08/194340-agile-financial-systems-teams-up-with-fintech-lendingpoint-to-offer-bnpl-solution/"
 webUrl: "https://www.crowdfundinsider.com/2022/08/194340-agile-financial-systems-teams-up-with-fintech-lendingpoint-to-offer-bnpl-solution/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/08/220802175834.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220802175834.htm"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,38 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Why AI and machine learning are drifting away from the cloud"
-    excerpt: "Cloud computing isn’t going anywhere, but some companies are shifting their machine learning data and models to their own machines they manage in-house. Adopters are spending less money and getting better performance."
-    publishedDateTime: 2022-08-01T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
-    ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 76
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pairing imaging, AI may improve colon cancer screening, diagnosis"
-    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering at the McKelvey School of Engineering at Washington University in St. Louis, has combined optical coherence tomography (OCT) and machine learning to develop a colorectal cancer imaging tool that may one day improve the traditional endoscopy currently used by doctors."
-    publishedDateTime: 2022-08-01T17:35:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-pairing-imaging-ai-colon-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/colon.jpg"
-        width: 1920
-        height: 1800
-        isCached: true
   - title: "The Computer Scientist Challenging AI to Learn Better"
     excerpt: "Artificial intelligence algorithms are designed to learn in fits and starts. Instead of continuously updating their knowledge base with new information over time as humans do, algorithms can learn only during the training phase."
     publishedDateTime: 2022-08-02T14:00:00Z
@@ -81,6 +49,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4275e2d-14d5-4ca1-ae81-519496509e3c/Rendition/low-res/Content/Public"
         width: 700
         height: 467
+        isCached: true
+  - title: "Meet the artist using AI to imagine better cities"
+    excerpt: "Urban planning advocate Zach Katz cannot only tell you, he can show you — using the AI image-generation platform DALL-E, Alex Fitzpatrick reports. Katz, a 28-year-old Brooklyn-based artist and musician,"
+    publishedDateTime: 2022-08-03T09:45:00Z
+    webUrl: "https://www.axios.com/2022/08/03/artist-ai-dall-e-urban-design"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/m3yad8YhE-zLzWv9YFCvuoihD6o=/0x0:1920x1080/1366x768/2022/08/02/1659460833646.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "6GsIMdvhdLcab+Vfm3wfzjASgJ7z4j7tunoJzx9Ifdp78zUHVjefc+6SRlBoU120O/vKF4GmKqktHC7dXLFT51AyE2mf7DDW7Wtgukw/VH2tagh4vK8WmxvATm25Hk0XqyMVU62iZCTqNG1dxL7SjO7HmslBbi12YyfWaMtLFU73zHRRM9v+DTkhu6w8GidkYB0UBNQ5kvrLTusP6OnjrJZWKzvoYWCscB5Ly8kctfsuN9BLOC2jb+fB0DcjlhsD6YHhQmWmCgytHKyqOII96sRXfEQ7lGwZGQBm7P9i7mV7iKtWVPUNRAendU0YKb1SQtyAZHQ0/hsEyHzTsFAjq463cQElnFKjyf37s5CSelI=;RdkxURbL/Kwm2289QVJf4Q=="

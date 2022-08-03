@@ -3,18 +3,24 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
-webUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
+originalUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
+webUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
 type: article
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "iP12x1JQqr+l4/+QJLKf0gXig49nBERkEYSORtL0b22cd+5GolDue/snpHO4O+FdtbNbzJjlqHnW6Pfs58d4F2a9Shr3lOsf7V+wixTKVtpsWfELmTFuKrpyCpK+9L9c1biJCOmV+2yy9I14dwAnmj6mRLt2goe9+mTvp66sbR9YWxqGngsRtkjIsRE1dW+oP8+TCkpjhPW8n3AtHTxV6e4/alN+PE0MLDHDnxh4YPy7Nzpo1spkLrjGR7Vod9tqNT+xJcLQmO8K3DZXZ4Zu6Zt3dar5O8Bz2d9WopS+db4xD8oc/utVxQiL5VF4jTbhsG8Gu1azuLR3bOqYMA/rPYCIvZCthnfDFHsSqoKgBmhL0W44xfwTFIGiG8nrA+daBCjtB1VrOFvdvcrSiUkGcBs7r7luXWEesOzH6q7E0NQqyFEiTQJD7FPVYxkUt7Vd/OuVnLD4btXiTPpcKvxXi5e2OK6O2Kigw6FC00Rht9hh/XcArJ3lmtvTym9D9F0xynvlNW5cTjyxTxnDMa6ATQ==;sGvq2rZ9nyRv95RjpFeoMw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+    width: 256
+    height: 256
+    isCached: true
+
+secured: "D7uBIGpniVBv3H89AB/YOkyaK5nFlrEnLu/VO9CsYYMuKjutTLXEOYoaylhjRCnQfEVheJumrfyxjpHZ6YJoXSq6jUbfMVktyj2bR+DXbvNho5ABpqBTB2U86+kclZsLvRPAjC34a5WCsnoqOtPlPyuvQTLJZpcImkRCFPMmKpzMQXqOgZUDFX9aQES7hDBUUL+LSW0/bqzvREnHUw00tFzhRlEEAyY7V6kqyC1QKglWYaezdDy1OWLP1ceIHwaS5QyHK7MVgw6iDQAu5RslTVGoWtBuCiT6U+MftuPNuTjtgRrFKJU4FW5qGIN0/CFloChpZ1Gtd8ALOsXNJd/lFcx8ziBdbeIuqetGowfX4Ks=;oRjFEz2zyjXEIoOFepaiOA=="
 ---
 

@@ -24,29 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Add conversational AI to any contact center with Amazon Lex and the Amazon Chime SDK"
-    excerpt: "Customer satisfaction is a potent metric that directly influences the profitability of an organization. With rapid technological advances in the past decade or so, it’s even more important to elevate customer focus in the following ways: Making your organization accessible to your customers across multiple"
-    publishedDateTime: 2022-07-29T22:11:31Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/add-conversational-ai-to-any-contact-center-with-amazon-lex-and-the-amazon-chime-sdk/"
+  - title: "The Rise of Voice AI; Interview with Skit.ai Co-founder and CEO Sourabh Gupta."
+    excerpt: "Sourabh Gupta is the CEO and Co-founder of Skit.ai, an augmented voice intelligence platform designed to empower contact centers to manage customer inquiries more efficiently. In this interview with TechBullion,"
+    publishedDateTime: 2022-08-01T14:05:00Z
+    webUrl: "https://techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/"
+    ampWebUrl: "https://techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
+      name: Impacts
+      domain: techbullion.com
+    quality: 55
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/lex-chime-sdk.jpg"
-        width: 1326
-        height: 660
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/DSC0385-copy-3-1-scaled.jpg"
+        width: 2560
+        height: 1829
         isCached: true
-  - title: "Business leaders commemorate anniversary of EqualAI and its new leadership role on the National Artificial Intelligence Advisory Committee"
-    excerpt: "LivePerson (Nasdaq: LPSN), a global leader in customer engagement solutions, joined business leaders in congratulating EqualAI on four years of progress fighting unconscious bias in AI. EqualAI is an independent nonprofit organization and movement founded in 2018 to reduce unconscious bias in the development and use of artificial intelligence."
-    publishedDateTime: 2022-08-02T12:51:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-9644d59a0950b1e9f986f24ee8b0932a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "ldmHwSsZiNOC/Um5E+EIBFcQEP7k/y/NId7WPRqk5l3kI1ZpmA0mSNYTvy+Tl1JAXmEibYH1TKPGoA1tIWDAIwca/PnWrEoRHrQFDoZJW4y0o1PwUNvDMsIh3fTOQbLzfHMMAsTYy1IZg4KahZHBbvd6/C4QVmZrek6M/dt1U89rPTJUFSMaNVnL1CKKdJ0WvLPn8m0cTfNv8TMGvPZjnprELhsTyH6NgnFJdKlbIsXxO88wEMy3RkqB0AR7zwxrs/IHTGwPis7IPH72qUAmsUPuBRkvAK+ol2qfpWiInemO/Mnq/cywrfG2AJmiNXDv0S4+WBxxPN0exDgqeejHTCoPo3Vj9B3iSJM1LgGfVFs=;H7ZBUuWVLdU5h7CLVz4GNA=="
 ---

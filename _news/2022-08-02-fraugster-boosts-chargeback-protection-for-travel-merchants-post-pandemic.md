@@ -36,6 +36,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+  - title: "Chargebacks911 Launches Translation Automation Module for Multi-Lingual Merchants"
+    excerpt: "Chargebacks911, the leading dispute technology specialist that powers chargeback remediation for the largest global ecommerce businesses as well as the world’s financial institutions, … Continue Readi"
+    publishedDateTime: 2022-08-03T13:37:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/chargebacks911-launches-translation-automation-module-for-multi-lingual-merchants/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 0
 
 secured: "Ml15NzyXWMh4KQOiUQZqbIArJPrQqyYjG5N/CjVdtWvrUa2x4FYrAxJfn28uHfCGM9ovVQjRFHKXJ5wbNawF8zduYmxOX59Ki/uu61hNIoyVZb7AXi8hRK6adHVRuEWtu5zZjIE4y8NtGYIhwRkJaZEYVHIqrCc7RmrrTr87+r6gsVdpgriVm20z0cqHWZlOpekuYQ7fnh38Cf3TjpDl3ZdScprvd0whWJdIvqrc3x4vZQIzsRS+1rqZkePDRjL8Qt+3wIlWuNjm7Pg+QTpKTWKXiKNyqpxGzs5WXrq65ReaqeoYXo5y505MkK0JUjvDTj+b0A+73I2BRJ7dTkOEDzga6/jGQki9wDs+c2F0cCQ=;GA/u5IIylNJ4S91o7tJKow=="
 ---

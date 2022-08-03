@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-03T09:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-3-parafin-raises-60m-led-by-gic-to-help-every-company-launch-embedded-financial-services-for-small-businesses"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-3-parafin-raises-60m-led-by-gic-to-help-every-company-launch-embedded-financial-services-for-small-businesses"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T11:43:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: The Guardian

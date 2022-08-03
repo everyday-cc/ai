@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/accesswire/technology-health-pati
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Associated Press
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "These four tools could enable the future of AI in healthcare"
-    excerpt: "Craig Rhodes, EMEA Industry Lead, AI for Healthcare and Life Sciences, NVIDIA, argues that just four tools could enable future AI in healthcare"
-    publishedDateTime: 2022-08-02T14:39:00Z
-    webUrl: "https://www.openaccessgovernment.org/these-four-tools-could-enable-the-future-of-ai-in-healthcare/140794/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 56
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_154741318-scaled.jpg"
-        width: 2000
-        height: 975
-        isCached: true
   - title: "Changing the culture in healthcare organizations"
     excerpt: "From its earliest days more than two years ago, the Covid-19 pandemic hit hospitals and healthcare facilities with abrupt and harrowing changes. For healthcare workers, the trauma still reverberates."
     publishedDateTime: 2022-08-01T15:54:00Z
@@ -53,6 +39,15 @@ related:
         width: 820
         height: 312
         isCached: true
+  - title: "Talkie.ai Improving Healthcare Customer Service with AI"
+    excerpt: "Talkie.ai raised $2.6 million from a Polish-Austrian consortium of VC funds and will use the funds to further specialize in creating technology for health care industries."
+    publishedDateTime: 2022-08-02T18:30:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/453087-talkieai-improving-healthcare-customer-service-with-ai.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "817pGoeplz3MJ4xSR/9bwC31/RWvaZg5NIMrugtnZinAnhfdnYFfjIkCKN3Uza9ehdftg8A5NJjS3Eb4s6+N3QyiUQW+1vxGTUqZ6QDpRUAx2DoF7ybWtW8+koRGPXzU6u0xJ1gwCsOIVCIGW4wppctxO/pwFqbWzahlD15Zn3GD5F4PvkBxYs+iZ34hlzA6TyqzjT9Q323l87nGXDiT83XDHruNmHZuG4CVYbSqrTJsG1de2mmOQQ6cL02ZttY2+OibmPi8jQkRbydj31ih2c+r9DxTrCmsGUyuuEfnIn8Rg3QCphmqUggcB6TNBg1mWSaRiAROH/4AffNiBStJjpzqee8t5OtDIBLUlYE6EMk=;H+ASHgN85rQWSrh+Ak0Kag=="
 ---

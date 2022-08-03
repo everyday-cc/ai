@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Silicon Valley AI firm opens Downtown West office, bringing 215 jobs to the region"
+    excerpt: "A San Francisco-based startup that provides technology to help companies and organizations use artificial intelligence has opened a new office in Downtown West that will house 215 employees, a figure expected to more than double in coming years."
+    publishedDateTime: 2022-08-03T13:09:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2022/08/03/scale-ai-opens-st-louis-office.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
+
 secured: "jeJGSIuzyLGmMx7gdfzaTJ+aPNsW/Gs4ghlPneQogSMQlQqDFjvzpuaZ8+Dk43nPJeTtxsAOXCguWtJiJBeF3NmirZezDaW0hDAtidK5Pu4xWCAUHnB2W6okQYlgMq3QrKy7kYKbNqxlyj3YOWoYfTJtJkw4sLOpeukddEFRY21QaUxmb9sWUVAYqT+Geeo+1oRVIs29wY6WRHxJUfI3ilPJtxsAZYKbfZF2Knb+u9BHci+oHasuWx77kiQhwZctPwfKo8NEOy2CnoBGOSFkF33gX2aaEWzr8lwsoOxwDBx6apiDweV7A3RPT+GFEiiWOrR12UqHqi3btIHPfCQBXvHMg6ich4sgqIFPbL814ZispyiTmF4HarDJLQsnc8oF/s1bT5agMtKhRoQAWq0g2YNXQA0OmDzDZ0JYKuFVx6hrId3tCCcET/5ln5hhmofLX2szW3QMBy+pzCvRPnBmiTIsSqraJJapE+tOBjk+Xwqx+40AEmU3sjF5uavpYDOYmU4J/6Uq81wB8Xab3z6g4g==;vQdtGU8FmkL+4ix4GuqaMQ=="
 ---
 
