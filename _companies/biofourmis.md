@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 65
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "bIKZRIc82B/sSuS+CE5CnE381+/HaS78BiriKm/aQF573+jDmuOA6QgWqWtKDe1hDkF4uKXwbK12f5k0oZWbGGOm/NwqBfCnjPjuVX0EoAVsrQzZDwHUZxE7A1a5QuFcxvY1GoJ+qOQUbh1ES3pshVnbammAqQMUtmPAKSF9mzI9k3+1RlICYN5PgSUxhjGGYWF4LIwKzLm2t21WAor39RENoGvBG+gL/LbMVHq0+kjhmtkvXQGxRHiVFKzOgl/qRXXD26Row+Lfh5CdXsJ8V33uw2pYsGUiQ7CmoI4GNR6KEdlE42hWlAElOe2DsMEs5Lg/p846jJQwx9olloGPXtHWeEeE7YDuozRRUrkvo5l29CKvMzQfGYwlFATpDFZYyHONdB1VggT10hkDz8Fp5jbXwO26pHBvJMtsbRm/p6c=;P2cxbMG2y1Xe/qZf4IrMJw=="
+secured: "HPsX0BFaQCITroillQYiHiHbzd48Jy6knnkFgkpixiGIrD7gRgaUdlkaP0ih+NumRR8IxvnHKw3+NMWkLH2qyMANPoIMyFs8rY8EEqgN1Ik4cvtcJaWdwNB49O2DTVPdkgVzQ7ztInOuuQ5evMCbtcyb4QF0fera4h25pHIDtYI2/ExsFAisTm+rRSmSC01rmVHFTHJNC7YxT17IzYrG6/u9eREnysTeS3TJjy1JPSM5oGO9R/ujFyzIx/FgTghwHHVoxWxE3KPAfbHmAmacZN7cd+t59trWNItwwy8oimu9JxSuhG70cqwfaJfJtLKX2dUjHwFw3+11WWd/Tj6agl4uHtE0NuyPj3obYZjE3XPSBeTkaPtmC7PlbTfiXCikyhSeYB78yQPPHafvXkdMkBe6Zl7aOxT43v2cL+ippec=;5Hh5jJW+EiFPdhPlyRN/uw=="
 ---
 
