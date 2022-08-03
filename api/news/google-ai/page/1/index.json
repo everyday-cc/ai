@@ -160,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-28-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
+      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
+      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
+      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ai-predicts-the-shape-of-nearly-every-protein-known-to-science.md",
       "title": "A.I. Predicts the Shape of Nearly Every Protein Known to Science",
       "excerpt": "DeepMind has expanded its database of microscopic biological mechanisms, hoping to accelerate research into all living things.",
@@ -192,6 +244,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-deepmind-found-the-structure-of-nearly-every-protein-known-to-science.md",
+      "title": "DeepMind found the structure of nearly every protein known to science",
+      "excerpt": "DeepMind is releasing a free expanded database with its predictions of the structure of nearly every protein known to science, the company, a subsidiary of Google parent Alphabet, announced today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet",
+      "originalUrl": "https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/WAHqFXrIO4p5GklFOn-1TGTcGjo=/44x1014:1662x1861/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23904842/Protein_CCR4_NOT_transcription__complex_subunit_9.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1323,111 +1427,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
-      "title": "4 AI research trends everyone is (or will be) talking about",
-      "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/AI.GettyImages-1255477158-e1628013733702.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/4-ai-research-trends-everyone-is-or-will-be-talking-about/amp/",
-      "publishedDateTime": "2022-06-28T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
-      "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
-      "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "originalUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
-      "publishedDateTime": "2022-06-24T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "Google AI"
       ]

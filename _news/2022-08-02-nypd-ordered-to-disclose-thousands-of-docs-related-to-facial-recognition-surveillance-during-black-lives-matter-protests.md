@@ -41,6 +41,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
+    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
+    publishedDateTime: 2022-08-02T21:49:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
+    images:
+      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
+        width: 1902
+        height: 950
+        isCached: true
   - title: "Customs and Border Protection expands use of facial recognition"
     excerpt: "As of July, facial recognition technology is scanning departing travelers in 32 airports and all arriving air travelers."
     publishedDateTime: 2022-08-01T17:53:00Z

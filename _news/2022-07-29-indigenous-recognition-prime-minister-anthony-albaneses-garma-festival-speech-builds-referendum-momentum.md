@@ -35,20 +35,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Momentum building for Voice at Garma"
-    excerpt: "Momentum is building for an Indigenous Voice to be enshrined in the constitution, an Uluru Statement from the Heart leader says, as the annual Garma Festival gets"
-    publishedDateTime: 2022-07-29T05:32:00Z
-    webUrl: "https://www.sheppnews.com.au/national/momentum-building-for-voice-at-garma/"
-    type: article
-    provider:
-      name: Shepparton News
-      domain: sheppnews.com.au
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=d3f7d950-d2ad-5614-a376-62bedc316b8c&function=original&type=preview"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "z8HLq4wO1AhPqpFRQRtl+oqsXrsbucWEFdqr379UYlFAoulMp7MKOU1lxuHretfO1U8LFuOj5Q9eOftI1L7kDzsIGaQbL7JjLE0eEpaEuas451AvEVKj8CPuhRWqYvh4a8dyYDYyKb4R8sWIpO2n5WbD16kKtuO/wuF0eRfF0AqDMXZm4vvKhoSplDLn5h+8bKAb9sTQGcKRWsL72zMFMupIhQgpmwK2aeZ2iaZTIUMruQQ96PJLcj2DtvN0FAFoAlRbFBusTMZh6m178ZY864B+Hq8BTbHaNPONiOUM7HGY1Tm7WxSmYDb2XBniDCy2Yy6Mb9zsi8ffzh3M6O/howov4VM+quZaps1ZnjMdomf+SRtEl6YDYyGjBNfVlVhdsAT2dSIexkBNs71FKErpqecK/1AU0JUqTbigfSEtJQGWJ5v7/wKweAjL8j9dUuHmfNpNR3yfmcM8cfGevzdKpE6QNZ/gjs2grIXtMEI1aTRgqunUr9dbqWM0BaedSe68V/DdE4iXXHBLPnItQ8CEAA==;mY7hLQB5CCrtDkauGKx+OA=="
 ---

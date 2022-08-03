@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-28-how-to-approach-ai-decisions-with-eyes-wide-open.md",
+      "title": "How To Approach AI Decisions With Eyes Wide Open",
+      "excerpt": "The fervor around AI is eerily similar to past technology adoption cycles (e.g., the web boom) and follows a predictable pattern. First, there's an exuberant rush by early adopter",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e148d558bd5a2f407e7749/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
+      "publishedDateTime": "2022-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-instagram-and-facebook-feeds-will-display-more-ai-recommended-posts-by-the-end-of-2023-mark-zuckerberg-says.md",
+      "title": "Instagram and Facebook feeds will display more AI-recommended posts by the end of 2023, Mark Zuckerberg says",
+      "excerpt": "Gone are the days when Facebook and Instagram feeds were only filled with the latest updates from friends, family, or favorite pages. These major social media platforms, both owned by Meta, have been showing content",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
+      "originalUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.econotimes.com/assets/uploads/2022072895aeb1c9894a72901_th_1024x0.jpg",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why.md",
+      "title": "A gold-rush of NLP startups is about to arrive — here’s why",
+      "excerpt": "Remember Natural Language Processing? NLP arose several years ago but it was only in 2018 that AI researchers proved it was possible to train a neural network once on a large amount of data and use it again and again for different tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "originalUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Google-Duplex.jpeg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "publishedDateTime": "2022-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
       "title": "GPU as a service market to gain significant momentum across the healthcare sector",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
@@ -996,154 +1142,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
-      "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
-      "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e17341196384f9ea133856/0x0.jpg?format=jpg&width=1200",
-          "width": 936,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-lawmakers-seek-limits-on-facial-recognition.md",
-      "title": "Lawmakers seek limits on facial recognition",
-      "excerpt": "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
-      "originalUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning.md",
-      "title": "Tiny cars and big talent show Canadian policymakers the power of machine learning",
-      "excerpt": "In the end, it came down to 213 thousandths of a second! That was the difference between the two best times in the finale of the first AWS AWS DeepRacer Student Wildcard event hosted in Ottawa, Canada this May. I watched in awe as 13 students competed in a live wildcard race for the AWS […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/deepracerevents.jpg",
-          "width": 1193,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T13:15:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

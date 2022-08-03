@@ -1,24 +1,28 @@
 ---
 category: news
 title: "New hardware offers faster computation for artificial intelligence, with much less energy"
-excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
-publishedDateTime: 2022-07-28T19:08:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage."
+publishedDateTime: 2022-07-28T18:00:00Z
+originalUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
+webUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "adNUE0IjhyoCsXf2zgV6Hq38W8xM9XXpuw8ovf2Yp4ktotZZd9qxD6Qd4MquDdhfhLbxRZuRzdohOJIHN4Km5nxJShHJLGUK088ehpAJPtYc6wkNGnON0osyqK+x1euKP7ngZltthtxuh7iaca9xi6nt6zEv/5tWKwvbQLX5dhncqoLnQAhVIvC/twx6F1ZqRKyYGib6INTdRTnOy4wrqHM/7OQNoFsgjt49WNpL/IWd6bAUnYXNWPru8gUOoG+oBi+bneqy5NT6o18yZS8cp38bQpV0o2AU0Ko+/ooOTyoCBix4DCONGUlRA2OcLPVamYef2mzdVcc2d8NOUkzexbVBV8z8kzjGDhsnmK7R5kY=;QTXQOLapNQgg8R3+g8FkBA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg"
+    width: 2480
+    height: 3507
+    isCached: true
+
+secured: "+j8Npnld/baTPwuSGxf/31XZ65ULsV1Dnmd/xSqwNcKU7z82evsGJvguDv9cMqgO8Dls30zLORy7tIKdZmz4JMdW0JiQnZGzbor/y94O70fc0/zwrfLiDxeNz+Oq3hUl//+hm3IF8TzuwVJ3bwQPx5/6UIdfqZtRi3KpWfMBhQ/xOoxRyVHPrEGCKSohsTybebkFeGjpu4lcJb/Wgs9vF1TAAfNq1x4H6Isf76GC15OH5UezK5vLqoVVUGswhv9cuP+FBgQ9XPmjMUTjpz7qLgQAK6LaP0NmQnIqh47x91iGfUCw0sso0qnYzrkDlMXjJqSaCLQ7UeqmbjDmoV0jzRJaWtSrVnDLb5+qjeffgtg=;soz30DVQxI4bbO/81HirLQ=="
 ---
 

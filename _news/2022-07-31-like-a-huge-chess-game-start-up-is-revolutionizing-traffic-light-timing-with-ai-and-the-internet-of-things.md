@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Learning with the Internet of Things and Artificial Intelligence: harnessing their potential"
+    excerpt: "upGrad are just a few of the EdTech platforms while Microsoft AI School, Apple Education, and IBM Watson Education/ Google AI School are examples of tech giants who offer similar programs."
+    publishedDateTime: 2022-07-30T06:30:00Z
+    webUrl: "https://www.financialexpress.com/education-2/learning-with-the-internet-of-things-and-artificial-intelligence-harnessing-their-potential/2611503/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/learning-with-the-internet-of-things-and-artificial-intelligence-harnessing-their-potential/2611503/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/learning-with-the-internet-of-things-and-artificial-intelligence-harnessing-their-potential/2611503/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 48
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/07/Untitled-design-38.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Like a huge chess game.’ Start-up is revolutionizing traffic-light timing with AI and the Internet of things"
     excerpt: "NoTraffic is an Israeli start-up that intends to revolutionize how traffic can move ... NoTraffic uses sensors and artificial intelligence (AI) to monitor traffic and adjust traffic lights in real time to bring about more efficient movement of people ..."
     publishedDateTime: 2022-07-30T14:00:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops"
 excerpt: "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ..."
-publishedDateTime: 2022-07-31T03:22:00Z
-originalUrl: "https://www.techradar.com/uk/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops"
-webUrl: "https://www.techradar.com/uk/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops"
+publishedDateTime: 2022-07-31T15:01:00Z
+originalUrl: "https://www.techradar.com/au/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops"
+webUrl: "https://www.techradar.com/au/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops"
 type: article
 quality: 60
 heat: 60
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ko+ReBWAro9r6IOuFerPSkQRrqxq0n2t9XZihQDQpRzgai5MUnzE1Hc3s1YoKCPMR4i7cygVNWnpWA/4pZxf0/n+6WpJM8exkKkwgUdQ9YAy2TePgNgfFH2p3YWq7KbQEOxE1VIj0mZGJFuPOeE0Ev10UD5v5X211XgUbprAs2wc+4K0tTyHGX0wuwZd0viXv1FNf2+ye+9JOY/FrUym0mrAmIeSZzzgYqCy/0oQrseFfuNty7pB+phz6c7sYKKQcR97Ri4g8jkbdzt46KOu61MlqSSgXi2zmhMDNg5n9EwQliZwdcQs467iJBzINh0MhyLgCEAcWX/J2CQBPT1GXBDfROrSxYZOXi+lCZsUqbY=;RoF9cO9AqbU4X0STTD9Uqg=="
+secured: "TBnORhBpVveqhDusF89OnaHyCqDNc714wK3FwulpvECkpOp+f+8hggRNpkWi6rKnV16yMJY4vgx73jG4tAnXmej92iEwpyEYuNrQQMB4pi6Ha7FMS3azJUks9ex69CCgRTf1xf3yJuZLvQSxCYmVww/ZSfR+mOn7oS5B5X0nzUA9Q+/7B/7RgPmZQQbaG9P0/0mYOPx4NDdc2Lk+u49G+Q1sqdUd6rVlBI8L68ZCwk9e69flL+OyNEQQxI59zb2kIw3UG2UIl3vw88O5+goJTqs5uvZ70kGWsoBf3bH4Zr/rR36nnIt5EejfA04Hc1vdGsWUjXnY/QTiAGUIETv1gULv9NHfoMPLTVZC2IJFsPM=;SpQ87Wy24Ja2frVCQvx0Ag=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/explained-sci-tech/expla
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Myanmar's junta using Chinese facial recognition technology to track, eliminate opponents"
+    excerpt: "In order to expand its public surveillance capabilities Myanmar military regime is using facial recognition technology raising fresh concerns about the safe"
+    publishedDateTime: 2022-08-02T23:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272641191/myanmar-junta-using-chinese-facial-recognition-technology-to-track-eliminate-opponents"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 30
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1659481653.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Facial recognition technology down under"
     excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."

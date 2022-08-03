@@ -1,22 +1,29 @@
 ---
 category: news
 title: "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin"
-excerpt: "Founder & COO of macami.ai, celebrate the ribbon cutting of their company with members of the Austin community, including"
-publishedDateTime: 2022-08-02T20:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm"
+excerpt: "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based robotic process automation and AI consultancy that demystifies the use of artificial intelligence,"
+publishedDateTime: 2022-08-02T18:22:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
+webUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
 type: article
-quality: 13
-heat: 13
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "CgG86dqXuFCsyYRvBtIpzVHY69Sc6D9xqFEhcE1Drii/vMFZ/yBjoqXdrRM3GIEz9a8I0R0WpWhw7YUUzL5fJF6US1D+drDIi7NOONTlcCMIeOxfqvtzWXt0OJmox84WRogRpcTt4vBc+uX6zReIs5zBp3SgCiZ+dtmTAWRYH6hiy7QzDwavg3c2k8bKMTvaNxZk26ONbq7oSe6F0MOVT2sjZAqPA64dis9KB+ezypCHHEiXstKRYcFzz41GxeQiTstvgmYjEZ/2fgOcRteDVxNnFYrM+3u430Tp+vR5N4ec2brbfT8k3X845Rd7FpYkiRgSiWQDzfho9OOVS2HrW6ITuM3S19qqIcDOMsCirUp3scgPP0R7tQ1yolDtYLaIeLOGS97TCVCTipOuVHUg9lxRsP/Iftr4Uw13WAs5slQUqcBITW6A4ho7Jc0elzNNZKWgCwBLkbiMvqf+HIO5DVJ45tD34ikSw2F76osKuNJMZXOkurQlrpyj7XSVTyC+wFRXkt5tH3s1jXnQU3RpRw==;byvE7iiImOoNfljNXDrvwQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "TKkU79lHfr/1XlWoeULwLxMi9oXhozNzVSakFcvPgnisFBlSF9cPKEMrYuu+RIc52OJ4RJja+KVyDgOc+Kh9kU3zrPAEZFLzukLIVWu3yfNVft48xsOipOxyLfTefhSlVXeyCW8eeES0YC5YJK5zYnPTR4T9/qgtl8BkQW0ySdrQIER+Z3XxIL9tjrq8/5wyn0BfEq3W3A6SicNHz+8HFaRJyHPpRvgkl9e5lq7paI8uuiQmTuI0C1vTvI6aaVNiXeSnIs4GrUvPy85EojSy/UsFukMFPGcpP4cwOXGOPlS8tJjsiTu+npWx8ZsmdCi8mZCOSnJMErZKwbnB3kSnHwiWH2pyoT3cRD1ldeSuz4Y=;DKrgRpHaKBSFsOT7qzxT6w=="
 ---
 

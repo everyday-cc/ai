@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "New Orleans Mayor OKs Police Use of Facial Recognition Technology"
-    excerpt: "Many jurisdictions have banned the technology, but it may be enjoying a comeback because of the crime surge. In New Orleans, the software has raised privacy concerns for years from the New Orleans Council,"
-    publishedDateTime: 2022-07-29T15:05:00Z
-    webUrl: "https://thecrimereport.org/2022/07/29/new-orleans-mayor-oks-police-use-of-facial-recognition-technology/"
+  - title: "Jefferson Mall adds new security system with facial recognition"
+    excerpt: "Jefferson Mall now has a new way of helping keep shoppers safe, and officials believe it could help save lives. The Okolona mall installed an enhanced security system in March to give shoppers extra peace of mind -- and the mall's security director Kenneth Bennett says it provides extensive coverage."
+    publishedDateTime: 2022-08-02T21:00:00Z
+    webUrl: "https://www.wdrb.com/news/jefferson-mall-adds-new-security-system-with-facial-recognition/article_66714a42-128b-11ed-b95c-7fc634889bf9.html"
     type: article
     provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
+      name: WDRB
+      domain: wdrb.com
+    quality: 56
     images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2018/04/facial-by-martin-Jolicoeur-e1524454035839.jpg"
-        width: 720
-        height: 393
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/8/80/88055978-1290-11ed-84f8-f71d9854b565/62e96c554629a.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "9CvlD6+qXCQZyu62FfTZ90+iZdtH4kp+GylgJhjYVm2Jb4DHaW4If5d0lKHfVMUkHBmgQ4HUmCegeuBsJZY8ia3NPg5wsIPY5Gt7g7kfVzY3cZ2tgmid2dW17GrLVSfBSq7kkhqqFa6uwvv/UehTIXkDVCjMB1pKDvH2CbNYk3FwIq3Vd4zBkIe6vnlgiZYylqxPGaqcG8dKdcVOFASdOQWO9IOnMQBe1fLAf5KrDm3SV3gpNIhaWDR/MmAL7xvIKVKV4Up+Oo3xPLtj6lNF63nxU1YgYkBDd/3f90BWWyZAgKJQCY70DRBZfqA1n+gbC+cKWWPCkiHOaR/PUcmZBoQSnaLErIbwHUeSfR6pMUk=;rxwck52eJ6WmA0b0tKfWhQ=="

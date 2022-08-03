@@ -7,7 +7,7 @@ originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/07/can
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/07/can-ai-help-congress-legislate-more-efficiently/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2560
     height: 1706
     isCached: true
+
+related:
+  - title: "AI could help Congress schedule and find unexpected consensus, expert says"
+    excerpt: "Members of the House Select Committee on the Modernization of Congress discussed how artificial intelligence and machine learning could help improve policy outcomes."
+    publishedDateTime: 2022-07-29T16:37:00Z
+    webUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375132/?oref=fcw-skybox-lander"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 37
+    images:
+      - url: "https://cdn.fcw.com/media/img/cd/2022/07/29/072822AIcongressNG/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Xu59nn1T6v+iXiNWgs48nc4ryQXkglqN9OpYXxZHN+V08gPqV5KHYt85fpcvSEyMauvaRlB8DjL1Tb/bWMFQvH3q/W8yCUWoDN/egF8RcBsnXYe5ilfJQyUSxYrAHlFYAymfkq/HUppprp6cBkpb9nzgS/IAIKeN6gM9HL38pCMauHuPEHqsAG4KKzpBSyX19yHFaeYjDivxlZB/ithYyut2MJhQaV0iq1ZpTE6RHG+XfZvDqb0P501PJK5447AEXDjTY8kh3r3lDuMI96y+HhIF1YqTve8kSi4bFrH1eu2PEbiPMbcmacZ+tsuMLinyKqRlW/s1OwUCfa5/an3AjqHkI0TJRS7gz2FpEzxKfeYYOKTkxY/rmOmrox3YJqcWTv6FQYAe/RPVJfpDmZVEUqjzqruAIkULMMhwFa2QSXqlLUfzfmO4fC3p2+zaV6UsfCPTuRumBjZRKjLxrxV0KlL3GQB05ZUmugf7HlA3ZaaUg5iuBjXQO1yny+VcV4JbCvihA/dVq7j5xJFsiUpdxQ==;fX1QkT8i9SGXBhk/UbJ5cw=="
 ---

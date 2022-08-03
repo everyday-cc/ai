@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-02T10:32:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: Associated Press
@@ -18,6 +18,13 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "In search of AI bias"

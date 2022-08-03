@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/analogue-deep-learni
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "New hardware offers faster computation for artificial intelligence, with much less energy"
+    excerpt: "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ..."
+    publishedDateTime: 2022-07-29T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/07/220728142923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 40
   - title: "Massachusetts Institute of Technology: New hardware offers faster computation for artificial intelligence, with much less energy"
     excerpt: "A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage. Programmable resistors are the key building blocks in analog deep learning,"
     publishedDateTime: 2022-07-29T08:01:00Z

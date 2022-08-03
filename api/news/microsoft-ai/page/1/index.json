@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -44,6 +44,51 @@
         "AI",
         "AI in Sales",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning.md",
+      "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
+      "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -780,6 +825,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-16-azure-static-web-apps-introduces-api-backend-options.md",
+      "title": "Azure Static Web Apps Introduces API Backend Options",
+      "excerpt": "Machine Learning, WebAssembley, modern data pipelines, the emerging Staff-Plus engineer path, and more. In this episode, Marco Valtas, technical lead for cleantech and sustainability at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
+      "originalUrl": "https://www.infoq.com/news/2022/07/azure-swa-backend-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/07/azure-swa-backend-apis/en/headerimage/generatedHeaderImage-1657304420868.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-top-10-data-lake-solution-vendors-in-2022.md",
       "title": "Top 10 data lake solution vendors in 2022",
       "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! What is a data lake solution?",
@@ -1274,101 +1362,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-kmworld-ai-50-2022-the-companies-empowering-intelligent-knowledge-management.md",
-      "title": "KMWorld AI 50 2022: The Companies Empowering Intelligent Knowledge Management",
-      "excerpt": "which elevates customer support and self-service outcomes through a unified cognitive platform and suite of next-gen support applications. Hyland—Hyland is a content services provider whose platform enables organizations to augment existing solutions and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-2022-The-Companies-Empowering-Intelligent-Knowledge-Management-153339.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/Editorial/Features/KMWorld-AI-50-2022-The-Companies-Empowering-Intelligent-Knowledge-Management-153339.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/146747-AI50_2022.jpg-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030.md",
-      "title": "Cognitive Computing Market Size Worth USD 305.23 Billion at CAGR of 31.0%, By 2030",
-      "excerpt": "The global cognitive computing market is forecast to reach USD 305.23 Billion by 2030, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-computing-market-size-worth-usd-30523-billion-at-cagr-of-310-by-2030-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

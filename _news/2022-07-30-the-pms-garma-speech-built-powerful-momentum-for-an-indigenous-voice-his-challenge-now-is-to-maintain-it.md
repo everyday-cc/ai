@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Momentum building for Voice at Garma"
-    excerpt: "Momentum is building for an Indigenous Voice to be enshrined in the constitution, an Uluru Statement from the Heart leader says, as the annual Garma Festival gets"
-    publishedDateTime: 2022-07-29T05:32:00Z
-    webUrl: "https://www.sheppnews.com.au/national/momentum-building-for-voice-at-garma/"
-    type: article
-    provider:
-      name: Shepparton News
-      domain: sheppnews.com.au
-    quality: 24
-    images:
-      - url: "https://imengine.public.prod.mmg.navigacloud.com?uuid=d3f7d950-d2ad-5614-a376-62bedc316b8c&function=original&type=preview"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Indigenous recognition: Prime Minister Anthony Albanese’s Garma Festival speech builds referendum momentum"
     excerpt: "Anthony Albanese is ‘optimistic’ a referendum on an Indigenous Voice to parliament will be ‘successful’, he will say in a speech to the Garma Festival in the Northern Territory."
     publishedDateTime: 2022-07-29T12:30:00Z

@@ -35,6 +35,22 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
+    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
+    publishedDateTime: 2022-08-02T21:49:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 52
+    images:
+      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
+        width: 1902
+        height: 950
+        isCached: true
   - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
     excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
     publishedDateTime: 2022-08-01T23:30:00Z

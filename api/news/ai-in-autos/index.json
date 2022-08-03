@@ -261,7 +261,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -332,20 +332,20 @@
     },
     {
       "path": "_news/2022-07-25-uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists.md",
-      "title": "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists",
+      "title": "UAE: 6 times driverless taxis, buses have transported residents and tourists",
       "excerpt": "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists",
-      "originalUrl": "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists",
+      "webUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
+      "originalUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -355,11 +355,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T01:41:00-07:00",
+      "publishedDateTime": "2022-07-25T05:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -754,6 +754,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm ... but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467",
+      "publishedDateTime": "2022-07-21T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-baidu-unveils-production-ready-self-driving-rt6.md",
       "title": "Baidu unveils production-ready, self-driving RT6",
       "excerpt": "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. Save my User ID and Password Some subscribers prefer to save their log-in ...",
@@ -921,49 +964,6 @@
       "provider": {
         "name": "tbsnews",
         "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
-      "originalUrl": "https://www.wdrb.com/news/national/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_422dc828-9234-5bb9-b2f6-bec4d852cde3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png?resize=600%2C600",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDRB",
-        "domain": "wdrb.com",
         "images": null,
         "publishers": null,
         "authors": null

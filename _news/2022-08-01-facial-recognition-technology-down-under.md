@@ -65,6 +65,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Myanmar's junta using Chinese facial recognition technology to track, eliminate opponents"
+    excerpt: "In order to expand its public surveillance capabilities Myanmar military regime is using facial recognition technology raising fresh concerns about the safe"
+    publishedDateTime: 2022-08-02T23:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272641191/myanmar-junta-using-chinese-facial-recognition-technology-to-track-eliminate-opponents"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 30
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1659481653.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "1vgO5N8T+7ZvW3ttAwHXtg94VIOblLbRfzAz6GT6s6aIsLhbJBERSzbKZTyG1mxik5toNwbk6bbEUDfHnWeOVFgxFrPxF0SkQzf31CEnQK4geI1rtEo2ude7kgD1+9MbJKSpldGjrFuoN0XYPdkzeUiH6RhBXeLTTnhjAZPjcVUVy4fcgPkd3xdItnc34MhFh3zVEJIvu6qX1cT+tn+o55IdZ41pPcGk1iP2kWd1ro9/chVFfNEwMZ+nX4Hmy3NU1gkw4E8ki7uuccm9CVjh32TaFq4yFPLJwyXP5u5h+9LTC9RonGuz0wwpXud72uF7EQl8rMIhltP0IP5BnOSKxZYKyWYqgq9vYpf1pBys83U=;6bkoe28e7/n+5aDEvFsIvA=="
 ---

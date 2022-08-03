@@ -7,7 +7,7 @@ originalUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-
 webUrl: "https://fcw.com/digital-government/2022/07/ai-could-help-congress-schedule-and-find-unexpected-consensus-expert-says/375132/?oref=fcw-skybox-lander"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "An Indigenous language could help humans and AI communicate"
-    excerpt: "One of the most challenging problems impeding humans from communicating with Artificial Intelligence (AI) systems could have a unique solution: a language spoken by Indigenous Australians in the NT. Researchers at the University of New South Wales have published a paper explaining how Jingulu - a language spoken by the Jingili people - could be translated directly into commands that both AI and humans can understand."
-    publishedDateTime: 2022-07-29T06:59:00Z
-    webUrl: "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate"
-    ampWebUrl: "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate"
-    cdnAmpWebUrl: "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate"
+  - title: "Can AI help Congress legislate more efficiently?"
+    excerpt: "Lawmakers on the House Select Committee on the Modernization of Congress are interested in exploring just what AI might be able to help them accomplish."
+    publishedDateTime: 2022-07-29T20:08:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/07/can-ai-help-congress-legislate-more-efficiently/"
     type: article
     provider:
-      name: oversixty.com.au
-      domain: oversixty.com.au
-    quality: 59
-    images:
-      - url: "https://oversixtydev.blob.core.windows.net/media/2022/07/indigenous-languages-hero.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "PHNTM AI Helps Business Owners Through AI-Powered Communication Tools."
-    excerpt: "Changing Tech Allows Users To Manage Multiple Communication Platforms And Increase Response Rates Up To 80% <a href ="
-    publishedDateTime: 2022-07-30T05:38:00Z
-    webUrl: "https://menafn.com/1104616424/PHNTM-AI-Helps-Business-Owners-Through-AI-Powered-Communication-Tools"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
     quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?898684"
-        width: 375
-        height: 250
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/03/Virus_Outbreak_Congress_Uninsured_94620-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "+70XpZjBplnuEFCvSdxgqVDBJB616RlHgwogu4RwGdULjq5InMg2cKvVou5jzT2Vt7R+w+V7saq5l9D9y7almvA5/OJ6Osj5uvioSRGkeW3HGndWSXPVvqLyrkgKS1s5E9rsOjqrUFIzJ5Nv7vrIXP1Ekti2orVIdLjoX08FixW4viAhuM+iJx0ljSllghxetSlc8rqgnxD8WvEi8KuPF7u4ZonMmYpwM2iBjc9uRaqRJVMejYU7dxr0gxAPUZTZlE1R/aSuKhg9naq/700hYqK6UST/MB8HLTQIEihUIoJqop47T+nwAvl1OolAGfMfWsvu/Kbvei1z/m6kA+VbCBHUzF62TWsjSMxsYcO59Jtj4+D54EulrfjO5wUTUNonTDsxiGDqqpUmSLCwpwcsvmaAZ/MqicCkzidV05B7SAji1IH+WuMWWyWLw0wWdCWEfHRsQ/z/Ma5k4yvyIaCBt5VsT8Bs9pfSeAizQ5kW9UOahVTLOJs//suNZjv65oU2WT79vdM56xmgVBhkVAAt/A==;8I9oLxK2bqoBIRIZ7Ukauw=="

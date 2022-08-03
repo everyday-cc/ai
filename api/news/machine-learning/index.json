@@ -45,6 +45,51 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning.md",
+      "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
+      "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
       "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
       "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
@@ -106,7 +151,7 @@
       "originalUrl": "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -248,7 +293,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -286,34 +331,34 @@
     {
       "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
       "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
-      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial ...",
+      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220728142923.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220728142923.htm",
+      "webUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg",
+          "width": 2480,
+          "height": 3507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T12:08:00-07:00",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "publishedDateTime": "2022-07-28T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1390,40 +1435,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications.md",
-      "title": "Ghost imaging using human vision and AI opens up novel applications",
-      "excerpt": "In the second phase of the research, the Russian scientists developed two artificial neural networks (ANN). They trained the first one with data to create images from visual \"noise\" in three of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/economy/ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications-1a16856a-29d6-4ee9-a403-63916ae5553c",
-      "originalUrl": "https://www.iol.co.za/business-report/economy/ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications-1a16856a-29d6-4ee9-a403-63916ae5553c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

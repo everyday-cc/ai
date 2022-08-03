@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
+      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-4how-high-frequency-trading-machines-are-taking-billions-of-dollars.md",
       "title": "4How High-Frequency Trading Machines Are Taking Billions Of Dollars...",
       "excerpt": "Moreover, machine learning can analyze gigabytes of data to read and react to financial markets rapidly ... of dollars just to purchase that service. BuyAlerts believes it’s critical to ...",
@@ -1329,59 +1372,7 @@
         "AI",
         "AI in Robotics"
       ]
-    },
-    {
-      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
-      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
-      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
-          "width": 2803,
-          "height": 1936,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
-      "publishedDateTime": "2022-05-10T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 5
 }

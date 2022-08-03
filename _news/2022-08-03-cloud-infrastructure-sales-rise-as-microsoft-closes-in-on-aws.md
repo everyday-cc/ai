@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Software Market to See Huge Growth by 2027 : Microsoft, Nvidia, AWS"
+    excerpt: "New Jersey, USA — (SBWIRE) — 07/30/2022 — Advance Market Analytics published a new research publication on \"Deep Learning Software Market Insights, to 2027\" with 232 pages and enriched with ..."
+    publishedDateTime: 2022-07-30T18:17:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-software-market-to-see-huge-growth-by-2027-microsoft-nvidia-aws"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 68
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/36b3e44f5b351e6825f38164e8f825a292c74244-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
     publishedDateTime: 2022-08-02T16:20:00Z
@@ -48,6 +62,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 19
 
-secured: "X40MVFUOXIBWt9S8Liuhn/45/v+EBDJpjoLDwbrnKIPVrSD6uzrUmg1gRSk4unMYJAPzFwJUrSKi1uXxqcoOdAdajIJReoKQ/80viHU+EgKVytkFNJOSjEQCQTzVkmrqWSeBR68r8wUcdVxZY7JMPZrcQnlcpRlduTcU5OiCKpoNLoi2PlmE7/Kll8Q9cQ/A+e9S4G6rXy8D875R8BlL+XUiVivhNCC1Md5YGfw6FGiPJgOKyLyqYtbV6zxtep6x2AK5SWFl5FeOH0TI+vLrj5EKjuhDj+O/TehXqeqCWWxBvcs/LDwRNLhMEiR15IbIxXqMyi620Bwy1HbAfyL8Jp9fJjh41IQqnYaq7ZDrxvY=;9HqLIiZwefJzgQTsLeffvA=="
+secured: "HN8s3mpN+F9btZ2gq3fz+7Vp9jj4Kj0m43YIwDbPJTDAvPncA3puug+IgfXBt2kcGsC0QS9fRm5naJKnTmoVXAa2YY9xZkvNQX0MldWzazVJ6xPisBn85CH6ZiOnxjjosfwp385LQ+jW5dZTbCy9cuA/UViStjrxDuZkrbaJUZ/xGlJ+cznBORw6FONuqd0+keg3+SmquZHpLsUCxM6BL0Nie9QquYK+IEJGAFAJkarZ8ZvCNIhPMYvCZoDxRoJ34NzIKXkbjUwlF26QTmSs9XG+85I5Ct9QppEQ+g3cIkufEJzCLsmR3sSEH95xUkvwSsAP303gIBUmLXqnyc9UfvitXnLhYQHYCeIAGaCurKEY2CrYlLtCq3sPcUF7EWiIXA3JCeOsf6nkltjrskkbcijKNOeXdIy6Ht/NKryfEmEDVuWIopW4d6Jnsy+E43Jw8x4ihziu4+n6LLxPnoH4yMm6jN1hozkkEaGqag4wmgvHcS/s6l+Y0PjTPhxtZr+RD75opp6MjYTpJ/falOyYRA==;DkuXxu4M62z30cA1+kUgSw=="
 ---
 

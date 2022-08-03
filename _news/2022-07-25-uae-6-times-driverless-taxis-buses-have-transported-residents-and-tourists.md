@@ -1,26 +1,26 @@
 ---
 category: news
-title: "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists"
+title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
 excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
-publishedDateTime: 2022-07-25T08:41:00Z
-originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
-webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
+publishedDateTime: 2022-07-25T12:56:00Z
+originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "vGQqNcAJwNhedLHM1TeKHS+QT7m2lvWWljiGGyndYgGYn+p4qJt6DSOmSsS0c/yuobOTYc2K7JOkiTg3EzJ5zwTiJ4vJSeTTL6hVivy0KfahBdQ9ZOVuAJArnVP1gYg3BWEhccwgK58CtPMBjgG3w9mS6JNasQcezHVcU72UCWhd1nj09V4q3WFepDxicoUpz4V7YQ4pyw84z9k71RYvq6fhbUYnEx6J36ZWS4ALHLYk1V2qzoTSEjxxjeGrNLrdadOSjUojkdTQ1/F2LYp58fRKXJ/FdhPS1NpX4U/7Qe2XQFb/HeO/ZfioHntJvZaPpRVeNz7EWDPsJmhNv25JwyHDMMYok03rQDNxfoMZfBM=;0fTQaOdcuYGQSCgILrjXPA=="
+secured: "xhnFBM2h34eaYTxWMj2vx0wthEmCilAHwWaplqrjWVPtZK9lmNa+dcTQ/KcyZfyqYYRttrVhAxYX/0pvjuK5srpBTblrIOpcJNfo8CkDvhK8Vtl6RFc6HEJgCSMymBP2N2QG2iXT/oxIUSsXuzZxe8XY+j53FgDQP1iDcdOkHUciIEJAj63+cfZozNsOIs18hbPlJlAmhMisMFEWP48cW/vVt2jmxuV3R97j0AzR47GQ+eol6QSjYcnyzTbuYq+7diFeWrffmV7kAeuKfTNLq8GtZDKe2hqCh281HfQMjYsbuAKnHh7yvY0X/ffHiZXzFSK2Jt4n9rh7/1Z+qpc9/9TB1hvawPCauoeuFfmZ+gU=;SDIS6g+KeSSkn/CHF7xwGQ=="
 ---
 

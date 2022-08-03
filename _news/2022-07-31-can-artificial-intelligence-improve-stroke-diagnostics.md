@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improv
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
 type: article
 quality: 59
-heat: 60
+heat: 59
 published: false
 
 provider:
