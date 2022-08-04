@@ -1,26 +1,20 @@
 ---
 category: news
-title: "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists"
+title: "UAE: 6 times driverless taxis, buses have transported residents and tourists"
 excerpt: "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ..."
-publishedDateTime: 2022-07-25T08:41:00Z
-originalUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
-webUrl: "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists"
+publishedDateTime: 2022-07-25T12:56:00Z
+originalUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
+webUrl: "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Khaleej Times
+  domain: khaleejtimes.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "hj7ld9KYZrYaqb4eXfssqtDgD8S384P0SEzuIf4VOTkExPDcNrx5jwl7CayMRiKtYENrp1G+FUqFIefp+EI6IR/ZaeoaY/9LNdcuX0HmL9q1Sl06q5v+gK1nFD1q8wRkWb6deWa8Z5gu8FbV1VLD5XGeBSnmOtU3labirJjF1H0FAhrdpVY0Bp6TfaK6Dxsbd6vnwfzkqHWGa647ah0lbtlmjgn6xcMuSg1Nt+iTC1SCAqSpa6Ms+RflZ6BCehksocyASFcO89IlrQdvPiRqjVjs+cpm0A7VQNuNmGx9Jb+/p7nmn5txQ25+hFkrqmTMnKS7QoVP47qbkC3pdFq+EPJ21FHk4VfSB4LkzR8W5gU=;jHwF1xR3S6FU8UPB0KAffw=="
+secured: "d4lZLFoHfjkn/r+lx3NUFTs0XgX1K323t/lII+WojL3WL+Nt6FmDGD6hau3dmYTF7hOzhnxedW+I6EEjMkpSENskDPVwlo2lemPZpp9dEFecmKvN2gSuRlNkWpsynfxd4/yvG99FFVr1M1AAh4TQdWyBU9MwrhL7z65TpqOZVzo2v77o8wC1ZpIZafKElMWCnUeBMNpVcgfnDSDPvJtASB9zr7eER1uAW00fFA7RphKHrwTTHoBmJiQcDpgqn7WHJRPs4T5XO2pCsiuwEHP6HvYW0yVJQ6TVI0uFkP+gTZv3o+VT0HUPdy4EWu+MpF7OiazjYdWqrMeQx3hfdevZbAlTgaVfacnFhvTlG66/RCA=;3Nz/wFayuWDtseamzOtsLg=="
 ---
 
