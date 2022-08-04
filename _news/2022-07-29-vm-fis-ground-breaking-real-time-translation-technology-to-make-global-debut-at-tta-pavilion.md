@@ -1,19 +1,15 @@
 ---
 category: news
 title: "VM-Fi's Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion"
-excerpt: "Backed by 5G and AI technology, the highly-scalable speech-to-speech translation turnkey solution reduces the MICE industry's dependence on"
-publishedDateTime: 2022-07-29T04:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838"
-webUrl: "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838"
+excerpt: "Effective AI translation technology for MICE events ... instantly breaking language barriers. For those who are unable to attend CES 2022 in person, VM-Fi will be conducting a live online demo ..."
+publishedDateTime: 2022-07-29T03:46:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/cision/20220728HK30844/vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion/"
+webUrl: "https://fox4kc.com/business/press-releases/cision/20220728HK30844/vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Natural Language Processing
@@ -25,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "6OQ9PTS/PyC1mrr8Z3RLuW4eI69eQn2y0E9/yngeJ+DtSqpPbz08S4i4uLPXRcL1G4MTP6EIpXtpQvHkyUKbrS0SJi5jcKW9dXD/flocKc8KWyrd0qDC9nEBObO1kocEEF3JTZH6/PdWOjIGrekKbroTY86+aq9deQkTTKqNLT+F1k2rs+peaXaxDwpDEQO9MKVuH23020uC9QbJnx3WsL/sYshVOz/ksKYlOjeoO0BDQbpFREOk85mR2fMNFQm042qJ7tIqNGjay72rZ/tsPyZ/0zaSPWfMFzji6szMk/51dDB9SFsr4HeTxKfvpc7tSIVx6JBur0/C8kdkDnDUfWMKQDLM6Mdd4mXBBNhX7Ac=;1CpVcw7wqZs9ZpKGV7dKfg=="
+secured: "gaAqBza/29qIw6PnwpFIJEBVN274u363njeUNIWcrMuDrZeQSRPbWR6TjYVhvbX6wFmUQ0sKpijfw8WDBwWRXK7blV55FLBfzQfRLmnNW8VOOfr0lAT75Iss15OfQvOAT0LYCCEhZa6u9Qpwj1xpC6WCokmik3cGxOsMK75H66xv9qSaG7gmFe42CXZqdB2z6ypNzXnPI2NWVSEEochUjZ9X0OGseDnCgHR3cLSBBk9KQqnqYE3xemVk5wzVMaVQyNn6a0dn/pqmvFHAGnpULo3BYS815uIGu5vVBBa0+VxDuLRn4391y/BCMaiLkBnJfg5dLdTiz+ubnoWYSsAgdWQMiR741ZRw97AhX6Fr82Q=;WifVjw0o3HOBBi6k9lbk8g=="
 ---
 

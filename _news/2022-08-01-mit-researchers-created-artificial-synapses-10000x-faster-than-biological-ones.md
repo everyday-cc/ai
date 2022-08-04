@@ -43,6 +43,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "\"Protonic\" artificial synapse runs a million times faster than human ones"
+    excerpt: "Engineers at MIT have developed a new type of artificial synapse that’s extremely energy ... rather than transferring it between different components. Neural networks make use of this principle, but they have their own hardware limitations."
+    publishedDateTime: 2022-08-04T08:24:00Z
+    webUrl: "https://newatlas.com/computers/protonic-artificial-synapse-resistor/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 53
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/b350776/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F97%2Fb8%2F163496654014bde4a2a1d364d5f9%2Fprotonic-synapse.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MIT’s New Analog Synapse Is 1 Million Times Faster Than the Synapses in the Human Brain"
     excerpt: "New Hardware Delivers Faster Computation for Artificial Intelligence, With Much Less Energy MIT engineers working on “analog deep learning” have found a way to propel protons through solids at unprecedented speeds."
     publishedDateTime: 2022-07-31T20:21:00Z

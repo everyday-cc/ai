@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Smith.ai Announces New Integration with Law Ruler"
-excerpt: "New legal technology partnership to help law firms deliver superior client service and boost productivity. Los Altos, CA August 03, 2022 --(PR.com)-- Today, Smith.ai, a leader in 24/7 customer engagem"
-publishedDateTime: 2022-08-03T13:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/r28332275/smith-ai-announces-new-integration-with-law-ruler"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/r28332275/smith-ai-announces-new-integration-with-law-ruler"
+excerpt: "Both, Law Ruler and Smith.ai endeavor to make legal work more productive and efficient. With this integration, any call handled by Smith.ai’s receptionists is visible directly within Law Ruler. Attorneys and staff will be able to understand the work that’s been completed."
+publishedDateTime: 2022-08-03T14:02:00Z
+originalUrl: "https://apnews.com/press-release/prcom/technology-be2161532ad8c94855d629879f866017"
+webUrl: "https://apnews.com/press-release/prcom/technology-be2161532ad8c94855d629879f866017"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Automating neutron experiments with AI"
@@ -49,6 +55,6 @@ related:
         height: 900
         isCached: true
 
-secured: "KgPXEnocY1S3aBYNPly/Xk3tQK6XjXhpdjaagb3ewvXKLtKyRNse3AhwBu+CbcSRvrnO3LyE0qVniFn+72ZYNFLHEcb3MAcIl9P/J/vUc2BjDALSfZuApYpow6V3jxGv68xzFz1cFi2EMTjP0LrcR0C9EqlPkWtW7HHKrAvZ2FbKg1TY4Y6VLBvne88UjGUSnP7Y9cuXE5BAiD1FbnAmKJ4MP85tTtY9OH4DXNYpQzpK1Il6/YojrSQeCPbVYbpDxN+WBtT+ZrxJE4kdjwqwPsCKTfCg8yf6pDy6Md6ug+DFmtR17yzdOai+d0ToPHg5Mki7Fnb6nBYegQXkYTqDE/vyofn9s6viH8vY6lfJFfI=;nuDYMOW/+ibSnUECFZZxXA=="
+secured: "IAKbIG5oBapszUXcCoCfrVN7E8Pu17tvu1IDHtlLS7IdxZgh/zZ1yHHsNhLx+7AQdrbPtaeaC1ZtWxNw0NmHnOVE4wyulDZudzTgxvS7c+UpWE1wa1LdalDQgmH0v0h9TLix9Igv2uxaiWRr1NWgaV11R8P3j/efsa6IfighDiZeKP89VQgCI0XWw9hwhZALEAgwLCaTu2NE+K9Tzl3d0QtmtEdeBOSOnB/kiM3CSm2tVL/Qf3FdaNlVu/AWUUeks4YRVTuwSY0TEnk5C3WlP1vYnVAUO9On49oQEAIsblSzd/HXJIO0ieejX5U48/GnymOgvtAOleJH+pSpJ6Vcug5VaWqsRTfyuyxcTgY/w6A=;rQMiKXdBYZZknpQ+s897Lg=="
 ---
 

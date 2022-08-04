@@ -49,6 +49,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "A|I: The AI Times – DeepMind cracks biology’s biggest problem"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-08-04T09:00:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png"
+        width: 765
+        height: 508
+        isCached: true
 
 secured: "RTVNghHwxjLIYk/giWC6o1GmrCUlVfQepVcuvag4uBw9EM8evzk5bW++5e/jdXyqtK3ELJDfOcPQl7XepfguQ1mvfyA7Jv/w+pGqwV0CMSlCra3YDLxQpRbhEnUvDB4tb8sV11Uwz/+GrdUR77q7FnXXb+xnAqNI/JRnYyF3z0+jw3ELMB0OOI62JfQYEbAb3VfZNrXbrvwYV3wAgCKm+Ym2Z6WYgT2Vtm4aK9yBY8LmoUyyHHFnCGyCApQGum+OSz+ngNf+M3fnYD4vwu4rOZS0k5B0wmjNjnwLcnKWCt/vYabpWWdSBpmnk9BVnG0kCV8pb45pqD8uzt2p1U4UNm0bRWrqtP/AgghnNQ0pDsJWsselq7sjlFuctN+Ur4FPxawlt8F75RL0efjhQaxaJ1LHu+1rJZInxGdQVofpJQRVRM3U4Ej/P4Y6GO5Dyd/m90GM60ScHK8xzzYqhKGAd+VV4OUCo6L/W1Ez07qpBGxm2sAE9hlVEJzILGMONz0iKGgOF4Q0UTmLUZ1kzCZudw==;+JYLhGtq4IHTvJrPFmmaow=="
 ---

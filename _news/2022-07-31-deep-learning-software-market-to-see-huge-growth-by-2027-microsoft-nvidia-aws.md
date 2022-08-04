@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Reltio MDM Solution Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Reltio, the leading cloud-native, SaaS Master Data Management (MDM) company that accelerates the value of data for businesses, today announced the availability of the Reltio Connected Data Platform in the Microsoft Azure Marketplace,"
+    publishedDateTime: 2022-08-03T13:03:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-utah-park-city-data-management-1dd4c4a6ecea4152964f10c93d25dd7c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 69
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS and Microsoft eye economy in a bid to control cloud cost"
     excerpt: "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers."
     publishedDateTime: 2022-08-03T21:33:00Z

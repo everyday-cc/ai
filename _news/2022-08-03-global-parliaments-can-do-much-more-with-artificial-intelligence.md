@@ -41,14 +41,19 @@ related:
         height: 500
         isCached: true
   - title: "Smith.ai Announces New Integration with Law Ruler"
-    excerpt: "New legal technology partnership to help law firms deliver superior client service and boost productivity. Los Altos, CA August 03, 2022 --(PR.com)-- Today, Smith.ai, a leader in 24/7 customer engagem"
-    publishedDateTime: 2022-08-03T13:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/r28332275/smith-ai-announces-new-integration-with-law-ruler"
+    excerpt: "Both, Law Ruler and Smith.ai endeavor to make legal work more productive and efficient. With this integration, any call handled by Smith.ai’s receptionists is visible directly within Law Ruler. Attorneys and staff will be able to understand the work that’s been completed."
+    publishedDateTime: 2022-08-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/prcom/technology-be2161532ad8c94855d629879f866017"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uOIO1s9eL4dL/x9SzTW9N1p0+z8ShTWS7kdKO7BxWsMufmEyvW/NMQvvxbQ266Zd4F1aiA0OWcaMM7fDdRqVj9zpWmm0RrgknjrfPfcTifG/41vpHIB5hC52PYbpkCgBd8rpPjtdQxTrUoekUID/zS8TmZqcbqmTm3rWrooqd41L00OxmNC7S365NuZbajxF8GsfCfjhbbqWe+hXYxKIbvGHII+DIApZgYWjtj6P3VQ8LyysnymAOm2kghFzaf3wgmkcOhtMjKbNuXTJKENNSr7KjyjMjQMc7qLRQG6wbrIhsAzFMjFfPOImS0sDBKfz90BNqSunfFTmMpMLmOlmuuHUgsWYclPaH5txeWcC4nFM19jlExTkThruuFhn40eMQCwICZy6tTuBnsxV/Hx21zWesTlmWCJJc9iHjg7LmEeHe86UCPFZWgy/f0ALESt6Rrqw5E9bDQF4tnImTB4BpEbOGPxcDHkKGOeKvEeUtdaK8+1B8SxxBB9uL2+aDspxX7oAQ0MFZkOxYUkXGwEs7g==;WJvI+T6A+AMWtX71CpDAAQ=="
 ---

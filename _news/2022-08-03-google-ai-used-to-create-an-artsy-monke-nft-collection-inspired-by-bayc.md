@@ -24,6 +24,17 @@ images:
     height: 371
     isCached: true
 
+related:
+  - title: "All 10,000 BAYC NFTs are turned into machine-made art by Google AI"
+    excerpt: "Google Cloud Neural Networks created art using its artificial intelligence (AI) software. Nonfungible token (NFT) art, not just any art. All 10,000 Bored Ape Yacht Club NFTs were turned into machine-made works of art by the AI."
+    publishedDateTime: 2022-08-04T09:14:00Z
+    webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/all-10-000-bayc-nfts-are-turned-into-machine-made-art-by-google-ai/331930"
+    type: article
+    provider:
+      name: Artmajeur
+      domain: artmajeur.com
+    quality: 19
+
 secured: "Z8btRatEqE+/v5lfAqYbhTYceIjL+kuHf6EafYiGI+fKeE2c6hTumd+vXwdaV4nrsvrmvmH8M5TkmQ48Vc318WY8Te5opW33p7uzTY3JoTaMgYpyKZmum8q6683GHxPo7/4P39i/0Z10nQNEHrDT6kDQ/lWqUOBPbAyDDfKGHKlpmtZ+BgbuW9MQEhuqwQOq4afzTS+hCl4sosGMZjfJAhnqyJaUZlnqLIocymnJZdk4yZhCO8vRzFxJOsp+sNjtWlB4N/YsiglvMRmRrOa9SXRG8u1SRDzS3kCbx09UnXknQJ5ox3Uqaxta4hWZ35s3HNuv/8ylW8KzXk+aC9jw7nn+DZXeDhhuAlf1lBA0KRbtgZ8KixKGYes0e4dXNsvIpj9RCwZ3XRaJ6O8HZE5R661eEniqijjIoGToM5vJ/8evhVQPsXXn4aVoVKToNjm40RvlK6HsTAA/4EPTzhmbkkklzBVpRTW/kEyWjuSRw3EJ0m6zVhJDIXgmti93R4/OUF59753LPFdGpzDLlXXrDA==;BG1AnKDtLbqkTontmzizxw=="
 ---
 

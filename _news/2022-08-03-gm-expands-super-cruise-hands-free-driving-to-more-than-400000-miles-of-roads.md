@@ -32,6 +32,20 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 34
+  - title: "GM's hands-free driving tech is set for a massive expansion"
+    excerpt: "No one can buy a self-driving car yet — not even from Tesla, which falsely markets its partially automated, assisted-driving beta feature as \"full self-driving.\" But as cars come equipped with ever more capable assisted-driving systems,"
+    publishedDateTime: 2022-08-04T09:45:00Z
+    webUrl: "https://www.axios.com/2022/08/04/gm-super-cruise-expansion"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/1WGEDbwyZNMag1XNBOo0sFJhIcc=/0x0:1920x1080/1366x768/2022/08/03/1659554884353.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "UszCf8/T5O6C5ERyh/IAP50Np5kGcCEKFVH8j1N48f3SqHqM2epZjbc4R4hgzcHWzuMXMXyQejhwWzS6IfYyZo6rDt8V+mqXQ3NnpPHQkcRIUQEWQNM+fgn9D42NKRY+aFjRPDYQqazl/TICJ8bT1pXo5ityT5zG2EKykvfSFYAPw7ifa++Glh73G42i+Q8heNz6/swTXxILcTQw/EatIs5Kq0vAK3VXtErZCnU7TMVs4uOVNZnWT4kFrVdWvklf/SqMJgb1zEBOnQafP3q93/zwF9On+Eu+jD6+8aewxeeweSdFtt1RmV5xoNH9ziWlojwyGWg9h5CGgC2vmx5NLUWifZabfgup/Kv0HYSlPRRTGEAFtg6UzBRZPqBiFilYDlrPpc8E9t3hd1ZMxorjNd5XA3SksyQvXBe/MbU1hESg8mVKikKPlEGVZW7/tPKtR9QCT9qkxEhjAW1cVZz7uGDYZN4FYayP6CHkRrzVgewgeJC15GVQmqoz1GME6/RvbOgQFUei72bf3ysGXxX4JA==;YGOV2SOjUu1s0V/GicewDA=="
 ---

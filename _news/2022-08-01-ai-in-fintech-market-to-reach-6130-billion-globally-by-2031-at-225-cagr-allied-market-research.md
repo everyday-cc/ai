@@ -3,11 +3,11 @@ category: news
 title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
 excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
 publishedDateTime: 2022-08-01T12:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647909.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9647909.htm"
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "xYJcBBj36soFjxqWKR4dpjJB5X9DaUpnOosA4aBzh/4QTsnld/dvtOTmk0gjM+pfLuEqztKz4swZ7QSbKcX5H64ePhd24RtENf6CKp6+Z9o+6I9MLKKLWe/JLEAW6PzBAax/T5i6DZQJTNP31UagT55jsdMcx19nSjCU3sczcF+XA6A00LbC3XdvzmmPY5OkDZQkUZ44oseRbTLXHWIKr12FKDoA+pfbwZAYXOeVAQcBCCBNr5XKr3iOqKgu6vK2dUPZqrvcLO04W5vTM0Z3V8arC/r+T4MziQL+8oEmGXBb2FZh84MwXzKjFNMrdLBoR02nZJKfTXKfDFuyjFsrtasjsqK9dtv+FOIBGMmNCKE=;PGzYTwa/TTj2ExPf33ZMhw=="
+secured: "gLtNZDZ3AY8ezxgyEC3Qq5AQz2jOvcWUyP3god1yFgLbfv+wcfNMGG7/8fxVc1jYECDzyFp3der9pFQbIgHYfepI4wP5rkZg/UOIbUhco6R3K7BtGWDLq6RzC8Gd+brZ6szIZUqZCrEyQUEuq1JseV1zldK+YT8lhqgkU+ITA5YAoyDGZG3wf1BG8xf62r/MrxPre9o1fzDB0uE33B/L1IqSnAOXeEG9vZ2xsBiRelJTTyyiAHvQn6/KMX50Y7BxWN+kC1uAxtK+fb3qqc8QialX8yC2TecNNS3rrUJPViJWUywjfriKDhKBfPyPfdssuzEJLXr2n14fg0s6De1o4PbYEO9d5agtD94iCxx7LLk=;cYBYCHZFrbvgBXOJkPkRLg=="
 ---
 

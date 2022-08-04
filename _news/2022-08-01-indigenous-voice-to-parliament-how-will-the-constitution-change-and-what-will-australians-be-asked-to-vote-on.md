@@ -138,20 +138,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Australia plans Indigenous recognition"
-    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
-    publishedDateTime: 2022-07-30T16:31:00Z
-    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 24
-    images:
-      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
-        width: 790
-        height: 452
-        isCached: true
   - title: "Australia PM unveils draught Indigenous recognition referendum question"
     excerpt: "SYDNEY: Australian Prime Minister Anthony Albanese on Saturday (Jul 30) unveiled the wording of a draught referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
     publishedDateTime: 2022-07-30T22:59:00Z
@@ -261,15 +247,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
-    excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
-    publishedDateTime: 2022-07-30T13:53:00Z
-    webUrl: "https://www.voanews.com/a/6680249.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 4
 
 secured: "a0K4Mv/zBYNj00S4deKbc+Kt7kRpclKY6hvrKE8f3XioMIYlr+rRvg1ajocWVurSmJTben/FlFUgJaz4imgxperJZj7mCGEaR3fGp00rGgtjy7nx+Nw+TgkcJTnimuRfQm+9V/ncpIbmHoivCkM8pCs2wOAQHbTwSXheVrn3JtEKXF3BCSBOXb400OrMdIZcVcwbTGhfRSWAdP9YtVUTgZO+vXo3ApomfwiqEUNv425gqF94bp1cbfvw/I6EG3OnDksIS4tiVqBOu4UfPWum64YB3V6sk7U/u5yVoSoi+GW34mUfMUIp0Cr6B+NktTk/RUyhcdrb1xqSEqOSZvbyXGb3wCEvWMtdGGVEIxvEb6be+1PyujjtETRRx9stFR3sVqUkLFwCd+W4emC5y6nxayb54Y5hktQZqai6mgh4U9+cB84VX0YHHKXIACIl2NsHjrZfyUej/oUAu4omZNUoHQTD7Lzo100SothsEZksEOcQzdaCplMDM0Nadxmc0deS9B5ZYjA56l5xttExa35OWQ==;AcRF7gSCDcF734DjHH2Gzg=="
 ---

@@ -134,20 +134,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Australia plans Indigenous recognition"
-    excerpt: "Australian prime minister Anthony Albanese on Saturday outlined a draft referendum question in a bid to change the constitution to set up a representative"
-    publishedDateTime: 2022-07-30T16:31:00Z
-    webUrl: "https://www.newagebd.net/article/177199/australia-plans-indigenous-recognition"
-    type: article
-    provider:
-      name: New Age
-      domain: newagebd.net
-    quality: 24
-    images:
-      - url: "https://www.newagebd.com/files/records/default/newage2.jpg"
-        width: 790
-        height: 452
-        isCached: true
   - title: "Australia PM unveils draught Indigenous recognition referendum question"
     excerpt: "SYDNEY: Australian Prime Minister Anthony Albanese on Saturday (Jul 30) unveiled the wording of a draught referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
     publishedDateTime: 2022-07-30T22:59:00Z
@@ -248,15 +234,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australian PM Outlines Draft Indigenous Recognition Vote"
-    excerpt: "It remains unclear how the referendum will take shape but proposing the draft question to Aboriginal Australian leaders and the public would be a first step"
-    publishedDateTime: 2022-07-30T13:53:00Z
-    webUrl: "https://www.voanews.com/a/6680249.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 4
   - title: "Indigenous Voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
     excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
     publishedDateTime: 2022-08-01T16:32:00Z

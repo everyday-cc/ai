@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/americanlawyer/2022/08/03/law-firm-automation-
 webUrl: "https://www.law.com/americanlawyer/2022/08/03/law-firm-automation-will-survive-the-pandemic-405-108030/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 767
     height: 633
     isCached: true
-
-related:
-  - title: "How the pandemic made us less human (hint: automation)"
-    excerpt: "More and more, we interact with machines — not people. Plus, what went wrong at Long Beach Opera and N.Y. galleries in L.A., in our weekly arts newsletter."
-    publishedDateTime: 2022-07-30T15:00:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/newsletter/2022-07-30/how-the-pandemic-made-us-less-human-essential-arts"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 24
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/344ce58/2147483647/strip/true/crop/5418x2844+0+768/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2Fcd%2F2161c11947e889ef4864f0bd9c10%2Fvirus-outbreak-colombia-18257.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "btxSRzq4GqTuuYznwc0pYULctAUhcE0+d5qE6Uq7GkMjKV18L58+m2mymi9OwvJaM97X4rr9sJHViIyqZhqdntobiCEuG3QqyH6lsfXkkAcoZEP8aC7jsDI8hyQj5Ua/ElOWljyJR/DFGDhnnbgTUyQ5uSiaPvgw8Pw6sDHmtcIy8JXYzyGK7RpdU0z7vl4vbROajlLLWmXVe2BXV0p3YjCqTsAFmVxXTXZp1GOsrzI/p87R95Typh3QX1e90qtEbSv25jdCV1t6jTxvgR3cQK2y/szr2RRWGCv7vKi+wuPugAZc0IzPH6d/CIYXqNKBcbhFF5vAbLuvgjLpVfBTHt0cP74u2rKNc0HiX2eTlUg=;TYuDg6j4hx+Fv2IFwSC0Bg=="
 ---

@@ -1,28 +1,30 @@
 ---
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
-excerpt: "Pushpraj Shukla to lead enterprise AI platform development and innovation of next-gen applications as company growth continuesPALO ALTO, Calif.,"
-publishedDateTime: 2022-08-02T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
+excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
+publishedDateTime: 2022-08-02T10:32:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 65
+heat: 65
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Finance
   - AI
   - Machine Learning
-  - AI in Finance
 
-secured: "DTPPEeVDBGoRCqIwMJlquUZQo6CgoIQE6YpwgPS46R4USYd5QWo0Aoq6x8LDbfkSGYg2/Yo9WmBE+3xU0aGlVUOpJEovoQbt8cpGkqKIapckZlCPNxwcekp/G+4InTY0h0d84kQ92/jczinnAVVeYW/5kqNvnFnkQmY7fqqLQLwPd8t8Aiz9x1KZwwDN6hCb5Nuz4i0MH5f6+M055M8ze3QEWdUXBZrFctmqdQK0iA3uzrVcj4fqN3wUkhc0p32nmXZ9X7uxePsfVCoJ0cVpNyte2nHq8/+ZSkWk08MpmhH4fmB8jEpAE9Wng3ZGwe9PlKoGBZjcA7YFJB/VSkFtq2HQ3ubVyYUZ0UN/NU00Nqs=;TnYJxKcCCClwx5BbuUT/JA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "jn74g+6Z/S9NvN3/YKlMJ/Q14aQjrdhAI2eEUYYyJkQtv+cAkjBU2wVZDvwx13noWppPZe2Ez9kdhZIp8PYQbZRb15wj1erNHu/7AlQpMuawLECbAn5/v7a0bRRRo/hxSY9kI/HkkpSvVToqGHV4XKsvnNACu4uJgJjq9MsI5Gdu0G2R1O1AlwmEO2YCa6uvxTl7zBUtIQRVHSkyi8n6CnwaeSUk421NMnrz/hoidzk1r3S9RNou79jaPKV6eo/wwy6N2DrpIcc+LGeOBUj3bvpkgmupPZkfXKUhzUyQPzYjdz4TSOyfuv0B15YWhKaowNruVcZ6LVW2CmsRjx6gJmGEbpeP8MBNskYk7xhu/iY=;PbBGaG1A9vfncf5RrUz5HA=="
 ---
 
