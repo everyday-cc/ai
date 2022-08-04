@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "TuSimple reportedly tried to pass off a self-driving truck crash as ‘human error’"
+    excerpt: "TuSimple is in trouble. Last April, a semi-trailer truck operated by the San Diego-based company that was traveling down I-10 in Tucson, Arizona, suddenly lurched left, slamming into a concrete divider,"
+    publishedDateTime: 2022-08-04T17:01:00Z
+    webUrl: "https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-truck-crash-investigation"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/-K_xNsgAPYNAJe4xUpMLFa2QK18=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13684541/tusimple_truck_ces_2019_1914.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Feds probe crash of TuSimple self-driving truck in Tucson"
     excerpt: "TuSimple, which has tested self-driving trucks from its Tucson terminal since 2015, says a non-injury crash in April was caused by human error."
     publishedDateTime: 2022-08-01T23:40:00Z

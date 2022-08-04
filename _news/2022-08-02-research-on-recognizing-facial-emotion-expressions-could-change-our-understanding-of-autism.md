@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Research on recognizing facial emotion expressions could change our understanding of autism"
+    excerpt: "Adults with autism are only slightly less accurate at reading people's facial emotions compared to their non-autistic peers, according to new research. Recent studies show we may need to revise widely accepted notions that adults diagnosed with autism experience difficulties when it comes to recognizing social emotions."
+    publishedDateTime: 2022-08-04T17:45:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220802105027.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 24
   - title: "Study challenges the perspective that autistic adults cannot read facial emotion expressions"
     excerpt: "There's a common perception that autistic individuals are poor at recognizing others' emotions and have little insight into how effectively they do so."
     publishedDateTime: 2022-08-02T13:26:00Z

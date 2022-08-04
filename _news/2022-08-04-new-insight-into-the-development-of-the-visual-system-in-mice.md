@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How the visual system develops in mice"
+    excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future research into the treatment of congenital blindness."
+    publishedDateTime: 2022-08-04T17:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220804102612.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
   - title: "Deepspatial says it will showcase AI platform for law enforcement at Bureau of Police Research and Development conference in India"
     excerpt: "Deepspatial Inc (CSE:DSAI) has said it is the only artificial intelligence company selected to demonstrate its platform for law enforcement at the Bureau of Police Research and Development (BPRD) conference in India."
     publishedDateTime: 2022-08-04T12:37:00Z

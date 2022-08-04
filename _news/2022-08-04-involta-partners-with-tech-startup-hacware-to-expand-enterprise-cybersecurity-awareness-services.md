@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Involta Partners With Tech Startup HacWare to Expand Enterprise Cybersecurity Awareness Services"
-excerpt: "Partnering with Involta gives us the opportunity to help businesses improve their email security awareness and build up their first line of defense against cyberattacks.\" HacWare's internal risk assessment provides real-time threat intelligence to show internal vulnerabilities."
-publishedDateTime: 2022-08-04T11:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9650531.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9650531.htm"
+excerpt: "Involta, an award-winning data center, hybrid IT, and cloud-forward consulting firm, announces today a partnership with HacWare, an AI-driven cybersecurity awareness and training SaaS (Software-as-a-Service) product that combines threat intelligence with user behavior to help lean IT teams combat today’s most advanced phishing attacks."
+publishedDateTime: 2022-08-04T10:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-email-phishing-89f90b2a2db179d4625b648b1575e9f9"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-email-phishing-89f90b2a2db179d4625b648b1575e9f9"
 type: article
 quality: 9
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1157697/Involta_Logo.jpg"
-    width: 400
-    height: 283
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,7 +40,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CornerstoneAI Announces Strategic Partnership with Carahsoft to Deliver AI Data Bias and Cybersecurity Solutions to Federal Government Agencies"
+    excerpt: "CornerstoneAI, Provider of Ethical and Responsible AI Services and Solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under this agreement,"
+    publishedDateTime: 2022-08-04T16:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-fb7d0628c94039b27cd19d005070c7fe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "uWPVcmS1wIe7W+tfbaKxHuxkSeXXBSqFMwiCS0kXzmPvg98QoskiNlxtG//xX+HDeSdTT4eFAqK24+rygmbcjbi8bhovee9DBZFSgtnOHQPZYbGmVaFFWSqvEAnTxt6ewlB650eotGHoscqKY78HkwhizFptyviKlxsZIO1CFmtCkOMCP566iBtWFC1zWULLrvE6VEp8JLMV+wzuegJvMW/JExSw5G+RoeKa7rwAimYQ+K7iM891I1VpLAgbWaftv+nvx0hBKPt5trPxRqdPVAC3GRhJjlAcForxg1sF+L+rek2eWGKlgdqQu/yBZAmn+C87L4t1Y5eAI84D+5Q2KvKF0TtRs8jIvmEvedVNJXs=;DNo7loLgcvBrNVtpUL0OLQ=="
+secured: "e75W1Cjk6HiZ/wFKfLe9ike8EK5MYRsVEDo/+5WdazFlT1NFU1vUlEruEAJkjhqGMMBpUn5z+g70UxKK2H43Ts8PCKNMmtaXiy+Ee5vH7g5XxVWmM1ZTZ/xD2eMqX9AhZ9uox6ESRkN+Bwh/DJCbbT5ZZCBE1uNCU69OYN3Bb3AP23KBlfTEGLwRr3EFma09RwLAuuQB5tCtg1AwnU16tKpuRGHJChD2AmhikXDAYCL9V6o+1gNqmO8DnoIcS8Vx0JC/TO6M+PaP5HFvrn8YBviPzLklbqnLqOdSnxr1T+kBMqZn/NF06rVgDc74t9SX5Xtoi1N4GqyMKr7AmmIcpUPIYRcdQqTbOlx8FC50Xeo=;UPNdSEIJ5TTRoLADpIsM3w=="
 ---
 

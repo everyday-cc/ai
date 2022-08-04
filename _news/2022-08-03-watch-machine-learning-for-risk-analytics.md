@@ -53,6 +53,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "CAPE Analytics Shows Strong Momentum in 2022, Aims to Mitigate Risk of Property Damage Caused by Climate Change"
+    excerpt: "CAPE Analytics, the leader in AI-powered geospatial property intelligence, is pleased to announce major momentum into 2022 with strong strategic customer validation, the launch of several new products and capabilities,"
+    publishedDateTime: 2022-08-04T16:21:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-4-cape-analytics-shows-strong-momentum-in-2022-aims-to-mitigate-risk-of-property-damage-caused-by-climate-change"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
   - title: "Speech and Voice Analytics Market Recent Trends Analysis: Research During The Ongoing COVID-19 & Research Methodology By Forecast 2022-2032"
     excerpt: "The Speech and Voice Analytics Market incomes were assessed at US$ 1.8 Bn in 2021 and is expected to develop at a CAGR of 22.3% from 2022-2032, as per an as of late distributed Future Market Insights report."
     publishedDateTime: 2022-08-04T13:30:00Z

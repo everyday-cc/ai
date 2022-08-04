@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improv
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-stroke-diagnostics-208123-1.htm"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 1000
     isCached: true
+
+related:
+  - title: "AI Can Diagnose Dementia As Accurately as Experts"
+    excerpt: "According to a recent study by researchers at the Boston University School of Medicine (BUSM), computational techniques (artificial intelligence/AI) may be able to help alleviate some of the challenges associated with delivering dementia care to an aging population."
+    publishedDateTime: 2022-08-04T17:39:00Z
+    webUrl: "https://cacm.acm.org/news/263317-ai-can-diagnose-dementia-as-accurately-as-experts/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "6gZ8iAH4YtVAUNkNLQdTQ4m7x22LdHOP7r58g/wP935a4fEiH35CLlANaXxC9clSoWgiNT1U78nWT1PLvjtOYPUmIGTMIJ9RpkG0U1qzdW9gbVqez+mQ3MU/yPQZzDYNLQNIskV4quMb0L5QD2DZdniB0XjRuCTJUj99RQ0mlJOiBQbEHLPUo60TaAuaHAzR0KYnYMxfvKLhzGweKivfNPHwD9NG2WVwmeeu40cuAprRSVSJD61Ie+520Mw7FQltuG5zYWkIt6vTihH+aE2OaGtIn1W3uy2FxpimEOr16ngh2pa3ql9nzj8DXg4x2VpSqXO1hQccSCBMDZ2HiW1Lxvh41ovLkfGAtyU/wCeHYJk=;vdXntyI1SggyRW7bPHghnA=="
 ---

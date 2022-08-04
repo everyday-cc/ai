@@ -34,6 +34,15 @@ related:
         width: 2127
         height: 1905
         isCached: true
+  - title: "How the visual system develops in mice"
+    excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future research into the treatment of congenital blindness."
+    publishedDateTime: 2022-08-04T17:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220804102612.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "W4aRCAaWwJdicWb7nt1OQoeKocj73PTwNCF3dqA0HkDbHcnNPUPErRiFC7edFR6SpCqoOQ5yWO/umDACFtEF5dH+jgbFm6eobXSTd7Fk4KK7GMBfQZEsussYh4rJPRrCeGakeFLy+S6QLr3P1mJKjMQdTIhNy48pGnny2nrEtSzHV0XJ+UJHo7RwQkr74IifpvLtaBhPD4e+rx6cjCkPGqG52S/KPcBNBX5evPWQl5uKuB8cTl30nP0PK66NuwKbrTzQRO20jkY9s1unntS4G1QbPAehGbsdIZ+ESiV2OPgOO0t0020Bram/B9cm4cNBrgB5okafwpBK+1Ei47GSFi5KnJV4ruAzyBed2MXDPyzG1u5RKo84dRe6l/SV83lwPC/bChNh0y3lf0HEK+mdFdqUOwWPLi7r48ybWqFdlkW1tCqvO8rlPAlTNdKuc8aI7bXrslR3CwxJjRAwsM1HKrBPiA/BRSpdVG48hUlRQMYnKME6Yo1is6RxI67EP6bJU73lw97XYCNzoDmfT5azJA==;wo4wf8l/UxZ+cg0yawYQvw=="
 ---

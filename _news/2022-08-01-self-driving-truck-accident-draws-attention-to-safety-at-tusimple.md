@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-att
 webUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "TuSimple reportedly tried to pass off a self-driving truck crash as ‘human error’"
+    excerpt: "TuSimple is in trouble. Last April, a semi-trailer truck operated by the San Diego-based company that was traveling down I-10 in Tucson, Arizona, suddenly lurched left, slamming into a concrete divider,"
+    publishedDateTime: 2022-08-04T17:01:00Z
+    webUrl: "https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-truck-crash-investigation"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/-K_xNsgAPYNAJe4xUpMLFa2QK18=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13684541/tusimple_truck_ces_2019_1914.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-driving tech outfit TuSimple faces probe after one of its big rigs collides with guardrail"
     excerpt: "San Diego’s TuSimple Holdings, which is developing self-driving technology for semi-trucks, faces a regulatory probe following an April 6 crash in which one of its big rigs suddenly swerved on Interstate 10 near Tucson,"
     publishedDateTime: 2022-08-04T01:07:00Z

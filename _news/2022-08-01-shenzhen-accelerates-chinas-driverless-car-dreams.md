@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-d
 webUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Faction’s right-sized driverless vehicle mission gets a boost"
+    excerpt: "Faction’s right-sized driverless vehicle mission gets a boost by Inside Autonomous Vehicles. Read all about the latest developments, news, analysis, reports and products in the autonomous vehicles space."
+    publishedDateTime: 2022-08-04T16:58:00Z
+    webUrl: "https://insideautonomousvehicles.com/factions-right-sized-driverless-vehicle-mission-gets-a-boost/"
+    type: article
+    provider:
+      name: insideautonomousvehicles
+      domain: insideautonomousvehicles.com
+    quality: 39
+    images:
+      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/08/Faction-D1-driverless-delivery-vehicle-based-on-the-Archimoto-FUV.-00-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "China’s southern tech hub Shenzhen becomes first city on mainland to regulate fully autonomous, driverless cars on some roads"
     excerpt: "Shenzhen’s new regulations of intelligent connected cars took effect on August 1. Registered autonomous vehicles that function without a human driver can travel on certain roads designated by local transport authorities."
     publishedDateTime: 2022-08-03T08:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-secu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/"
 type: article
 quality: 107
-heat: 107
+heat: 108
 published: true
 
 provider:
@@ -32,6 +32,6 @@ images:
     height: 800
     isCached: true
 
-secured: "l2IpblhZMfGAljNULhgEh2/XEp7BWE9L+ph8wmLX52Wt1bd+6I1E0PyCXOuF+aPkWyY3KvkxlsAgpDaTbcZDAEq6SwTQa8CCSv7SO2IQq2WgKULVBaHa9YFB50jXlCoHLUGMBSrLdG1bxVw1Bs1N1N+9ud9iWZ5Kpsjj9blmNPluscjgt6bbvkej6D1gmZhlFHaSwQNpN4dJcy7Tu7kdDTCijs6eoEsut00zNm/480TxZO07W+J9EJKAyxbyCs+wsWOUCWVmAQPgYnpDzxAb/grYk0AHoumiiIYDi0ufpuBvuZ8r1WHiK8eHIT/Uwv9/rkUN+zIkq1OQ65l3bLrJCHF7WMscn/oQqbqpgKl3gtk=;TK/GGs4XIcUILgHuAFAigw=="
+secured: "hoJm6oEE009oGw0psyLovWpwJTEm4VChe1FanpA3eyp55jvJFotRKlpinskwyzgE+np6L5144kMo9vf0k5TOCyD2nHD/C8oqkQ0XrvJiXfTwba4iCUhcr0wW+N92ElG0JWZxRxIL/QSxE2JuJHC2NEgJP/UqnlYWVtwbmS19adbn6AJC/Z1PbfkaOu2/vNyleMaR1tuG/MjG3hf+LNag4bHkjz1c0HDtACPUf7TcKpRVvFwGZqthRBDxzPuMRPBLqh3qB1JMaWK6VklwrFjnZm+x87DmB4El7rZyyaJ3K2f/0ClEdae0eai4eOTrqdQpMjszGpajLe+WrvN+GN0r9YSbm0v0Tq/CRql2GeeuGbyNjsz31ZKGzHjy6S5tmoQUdr/1ssZn4kMf980a0fTA4Nab8RimEZnxW8D7fcAcgQSpb1KUtGfU7ShARuJ23aXUjhvhy7gIOtKxcpfDZd8A7VSfoHYlfB7YiQDMJZIovePa5JJ9lu7Zhia0vyodOWZez7rt6fQ+rhttayE5xn0E5A==;lShbgmu4+HQLdvNCQBWymA=="
 ---
 

@@ -39,6 +39,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Alliance for Artificial Intelligence in Healthcare Adds New Member"
+    excerpt: "The consortium, Alliance of Artificial Intelligence in Healthcare, has over 40 organizations committed to the responsible adoption and use of artificial intelligence and machine learning technology."
+    publishedDateTime: 2022-08-04T17:12:00Z
+    webUrl: "https://hitinfrastructure.com/news/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
+    ampWebUrl: "https://hitinfrastructure.com/news/amp/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
+    cdnAmpWebUrl: "https://hitinfrastructure-com.cdn.ampproject.org/c/s/hitinfrastructure.com/news/amp/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
+    type: article
+    provider:
+      name: hitinfrastructure
+      domain: hitinfrastructure.com
+    quality: 54
   - title: "Talkie.ai Improving Healthcare Customer Service with AI"
     excerpt: "Talkie.ai raised $2.6 million from a Polish-Austrian consortium of VC funds and will use the funds to further specialize in creating technology for health care industries."
     publishedDateTime: 2022-08-02T18:30:00Z

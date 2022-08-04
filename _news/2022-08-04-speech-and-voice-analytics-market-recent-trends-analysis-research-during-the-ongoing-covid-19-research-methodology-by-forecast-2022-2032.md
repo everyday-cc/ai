@@ -61,6 +61,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "CAPE Analytics Shows Strong Momentum in 2022, Aims to Mitigate Risk of Property Damage Caused by Climate Change"
+    excerpt: "CAPE Analytics, the leader in AI-powered geospatial property intelligence, is pleased to announce major momentum into 2022 with strong strategic customer validation, the launch of several new products and capabilities,"
+    publishedDateTime: 2022-08-04T16:21:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-4-cape-analytics-shows-strong-momentum-in-2022-aims-to-mitigate-risk-of-property-damage-caused-by-climate-change"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
   - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
     excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
     publishedDateTime: 2022-08-04T13:25:00Z

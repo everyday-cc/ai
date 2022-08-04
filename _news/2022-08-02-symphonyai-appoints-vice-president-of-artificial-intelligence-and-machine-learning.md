@@ -1,28 +1,23 @@
 ---
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
-excerpt: "Pushpraj Shukla to lead enterprise AI platform development and innovation of next-gen applications as company growth continuesPALO ALTO, Calif.,"
-publishedDateTime: 2022-08-02T12:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
-webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
+excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
+publishedDateTime: 2022-08-02T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
 type: article
-quality: 75
-heat: 75
-published: true
+quality: 43
+heat: 43
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
   - Machine Learning
 
-secured: "r+88KhJC/XnJQV67PTs5ITmJ4j7qpSWHvyh4Bys+NMmyv6KBJZ/UtZLg0BdmgQPeu3tbtTL0Qz/RCi1Ys0r3Efg/Y+VRMEAVb8D/Neo2FRlU/dXxVg1nr59tkxPdCNE+w3vG651Jq5Nq49sb9FSneKvrkOSkHrL3CM+/VzC9XH8oy2XYyDsInnjACyjg3Irz1PlBHAokArQn2tq8Q0MC110wx8bTEih1+eXwYgYG98pNCSPOwDaTMhWCW2FPWVRIZgigzcUE0bsijokN26VL3vM0nUWfvHkcDLLDNguqUwXjf6fDgBlaIbQZmOfnHrQ4ph8mpkgFttkUYJqVlJgCRrtJ3zqmJ7gtrEuWe4F+IC8=;oV8MQ1/1VHsZf+pU6sPhYg=="
+secured: "Yhwe9PP2euuT1t1E2Axom1kcB9NIF/Wxgz71VxRAlBHBZNY7hLEvJ72a9XbAsBi7s3kgRjiKvFpA+bYQdIx/FPxj2F0/8RWILQH9kFzPn1aHWJNllPIN0InzVxHYUfvCeGB9ZRMZ7EkA+U7fSjsrTvULC7RdEFuTv8CLfSOdQGQW1IaORruF5/G/wpQ0xJhvN1IQ9L+lvcylORHLbic3HZFJAD65Ev9uFNLFigkQBBhbbxBCRJysBV2PLsoCVP/gG8mtEK6vP4AA3x+9zWWKogHJOa/1U+ydq6PnfFb4IdeTPePVSAIteufopo989736Yt0Vo3ZYTERBWxldA6KLPNSGFT9tu4O22cHzVGAWlj0=;pXCksJM784C6YAN4frob+A=="
 ---
 
