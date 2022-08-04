@@ -1,23 +1,73 @@
 ---
 category: news
 title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
-publishedDateTime: 2022-08-01T12:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+excerpt: "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode"
+publishedDateTime: 2022-08-01T11:30:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
   - AI
 
-secured: "oBYhADfb6lw5zlBEEHt3S0+72b6NcuRIqmRYv2KhTl6ZjGMala4UrG0wkFrNcUpbd8ms0K+DkTTFx5Gmg0xDwgrRnKDhsPMxV/mwgnDfIUsLf3Mc1qhUdMDJd9eOTKWvazn8OaHNWJbvG51B8jPAG5TLW8TPfe81C7XdDgEPZOCq5itcQEp0GE4KnL8OWJkW7HdfAYnSZnnG0kThNKpdzAzBmQjWvQp6sob/NqoHkoG2CD5FCoNKXi+VIkk9JU88zfhW7C6LnFkYKif4gpRQ/mv+M3U13rf4aGmNA+HveyiGLOB76WDPRCTqy5RyTmv8TUoWhgBtJivlErjNeRBE3YlS62p8eoJhWT9vdIIWLEl8Bduj4NKq9oXT31AFUCeU2J4HpC3bG4zlwC1VI0TbRXUSxy7VKyjEet4uabyR2JUDK1mh6b6FZLL96HMCjnkradcEChV+EUlBK6hCGBsJ/O2IPqWz9eGXFtihNcChwEdfO1wHbusJT3Ut29gQHPNA2p53jeiqc3L6Aa7DjqMe5A==;aAmYa+r3feiSR8tRk11UWA=="
+images:
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1046
+    isCached: true
+
+related:
+  - title: "AI powers Philippine FinTech Revolution"
+    excerpt: "The global FinTech market is expected to reach $332.5 billion by 2028, according to the forecast of the Vantage Market"
+    publishedDateTime: 2022-08-02T09:02:00Z
+    webUrl: "https://manilastandard.net/tech/314248596/ai-powers-philippine-fintech-revolution.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 39
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-02-at-5.01.02-PM.png"
+        width: 875
+        height: 596
+        isCached: true
+  - title: "AI to boost PHL fintech industry"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
+    publishedDateTime: 2022-08-03T15:03:00Z
+    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "How important is AI to the fintech industry in the Philippines?"
+    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
+    publishedDateTime: 2022-08-03T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+
+secured: "m/ATT2Ri+iOn44qUTiry44LD1bM021Nee1fom6jYzfOTGmYZFCi5HSWrKjraPVd5L2lEFAxKTsNYv2p9AQ/VYgSW/AhT7/wlFWZWWmc84gWxkaGTkkcr7qSPWCICoEQ5v5mb815Ncuq7vnDzIuP41MyJJMBdwxYlYc4Po8hhA/qi1LEWk+aDAXC9PNPUFp0aIevBBK1zgjG+y0R5SohrbHHIT6KJkUEIfsSWsQchHoSqrn+W7GuDXtaWxEpeALFRgY1KdlTD7GG9acGfTMXYxudmeAx//GVe9xqaJS23OxmGfFvcHs8pMGXg8VtU/i/MkpkYQiGLynd41vRYT3DYUQAeS38OhD70wYgAEWghj1Y=;b75eJCgFVRu2YeDGxiy+iw=="
 ---
 

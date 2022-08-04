@@ -3,18 +3,15 @@ category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
 publishedDateTime: 2022-07-29T20:52:00Z
-originalUrl: "https://www.wlox.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.wlox.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.wlox.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-wlox-com.cdn.ampproject.org/c/s/www.wlox.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+originalUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
-  name: WLOX
-  domain: wlox.com
+  name: WTOC-TV
+  domain: wtoc.com
 
 topics:
   - AI
@@ -26,6 +23,6 @@ images:
     height: 369
     isCached: true
 
-secured: "y6k3ekpph2r/g5K9aA/1G47CmGBDuYp/0xaTdmNDavF/dfh5MyalAYPJAzxW/lncooAUhCeXqa7BGW9qriqH1iSiPzMPu70WYalyVFvrH8PrJsk+OAYUbOu12w94NwG0yhSs5U6WiYxUM9NfiuxWDylq0g2MA3B4YMku6RqMeKfb2USMdfNUmhJ8aT8p5l7UplLtNV0aTPqT5n7p+G2v/UgzupYnnkNPC5nzL6EWkvfC0CU1MfuIPsivoAmQV3NJ0zBk30yns+9wYr9Vn5551sybf7XALkCn4MQS/7P2SMDja4qIiZFq6x9bD4sjjXzrp/l8cpgmTtPvWxJkIWaIsOWiimO/vZ+9HT+5uNrmpUslIjn9/31/Ub3sz+h4gQ1rRSTKUwMEvJcRpvLKH+71NRJED79e3Ji3aVlrai8rinvSktNOQhgOekhXKqWX02xnQUANtTq16xetpd8Sd37+o/yceUr/U+qGZsVyzAE5+aSAeq+o2UE1rQRAFFhXSPpfURnOFQ17DyqQzst6tpvDEw==;Nw5r76cyLroeY6l3gvJbRw=="
+secured: "SxFjde9jWL/2itlWCp2JNWWVKaBoz73xDKv/00gamMgsc1ZwFdt9PyYwYheDPgRXZgOJzwoFJP0mWjJUvi1dsJNyIATK+cAwphGDUF9DM5cQSA0kkPABcNWTPwqhCJV++13tLpLOTP+ZmrO9mZbSShjhYTZnFsiEeDH96QxSkstCFeciwwKE1bgTt1wd+Fgz7X3WPsAGgtZV2vZZaF/Vz/fV0FcPUWS2JIgzM9GkYCQzx8Vp5rjlWvqjpKCSWNxpc9NDl/mm0mIRqAIyCqBt0HB6eWaAVY/emumYI4M9weygohnkWBuJDiPbVZ55rO+wn1DWRr+0Ab/0eW4Q3rCVxF/zIRGH0uqWO17lrk0KtUo=;5XL5aQuzT+S7jQxbpf0pvg=="
 ---
 

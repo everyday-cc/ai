@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -66,22 +66,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "Creating a constitutional Voice – the words that could change Australia"
-    excerpt: "The type of recognition proposed in this current amendment goes beyond just words on a page. It is no mere formulaic opening recitation."
-    publishedDateTime: 2022-07-30T05:12:00Z
-    webUrl: "https://theconversation.com/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-    ampWebUrl: "https://theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/creating-a-constitutional-voice-the-words-that-could-change-australia-187972"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 44
-    images:
-      - url: "https://images.theconversation.com/files/476767/original/file-20220730-13615-929x0c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
         isCached: true
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"

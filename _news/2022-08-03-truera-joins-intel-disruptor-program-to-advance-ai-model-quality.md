@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-prog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

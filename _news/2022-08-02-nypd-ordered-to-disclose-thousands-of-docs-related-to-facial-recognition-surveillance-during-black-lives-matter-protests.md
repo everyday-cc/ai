@@ -57,6 +57,22 @@ related:
         width: 1902
         height: 950
         isCached: true
+  - title: "Council to consider ordinances requiring greater transparency on facial recognition, police operations"
+    excerpt: "Cantrell admin opposes proposal calling for NOPD to submit raw data on crime, staffing and surveillance usage."
+    publishedDateTime: 2022-08-03T22:41:00Z
+    webUrl: "https://thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
+    ampWebUrl: "https://thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
+    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
+    type: article
+    provider:
+      name: The Lens
+      domain: thelensnola.org
+    quality: 45
+    images:
+      - url: "https://thelensnola.org/wp-content/uploads/2022/01/DSC_5979-2-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
   - title: "Facial Recognition Technology Down Under"
     excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
     publishedDateTime: 2022-08-02T05:55:00Z

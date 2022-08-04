@@ -2,21 +2,27 @@
 category: news
 title: "LTI Strengthens Strategic Collaboration with Microsoft"
 excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
-publishedDateTime: 2022-08-02T16:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/02/9649236.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/02/9649236.htm"
+publishedDateTime: 2022-08-02T15:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-7088eabd6983487dbcd5eebda82a16f7"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-7088eabd6983487dbcd5eebda82a16f7"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Cloud infrastructure sales rise as Microsoft closes in on AWS"
@@ -63,6 +69,20 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "AI in Computer Vision Market Report Covers Future Trends with Research 2022-2030 | NVIDIA, Intel Corp., Microsoft Corp., IBM Corp., Qualcomm, AWS"
+    excerpt: "AI in Computer Vision market report provides a detailed study of global market scope, regional and country-level market size, segmentation, growth, share, competitive Landscape, sales analysis ..."
+    publishedDateTime: 2022-08-01T00:01:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-report-covers-future-trends-with-research-2022-2030-nvidia-intel-corp-microsoft-corp-ibm-corp-qualcomm-aws"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 51
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Pelosi-Taiwan-China-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
     publishedDateTime: 2022-08-02T18:15:00Z
@@ -73,6 +93,6 @@ related:
       domain: indiaeducationdiary.in
     quality: 19
 
-secured: "DeoP49C2NnbDgl5GbbESpymqT63tBQHuhJCWBbP910M6x/JZe4VGCdf0lSFswhmBqlxM75XqmKp5GaViMbCRAm1xCk29QsHbAJtBTJAGqPjkYgyP+1wZwxY177ZiD4sVLSv9IElYzbc80ZbzhSTZblPeu+5WLtQCjmzrrEO6UAsEYK+p7vnlcHpBSD93TBEVGGac2O4kvL5uWM9mIGAYwssouS4IMioTpw3/RrGy0sKIiZlD80fOp32V+UCjmv/mHQFnX8g4MOHFdSw7N/DkzbbYzNB/qlxly2ZFRZhiexNtOdV0WePojBgph8tIR4L1JFNel8LyTjTAR7N25mwwUU1lZYJ7nVbapIK38ypHgNU=;gSF7YO+5voItKNI1mm2WPQ=="
+secured: "rOR8QSCUu5QCxaJolj9aydgKFCCQdp6FOrI292xGvFX4ZJc9NrcK+jlKNNfCaCiv7PIP9HOjzqCFh/+n80PJYCfZYsuaQS9Bk0ek6GpXR6QDabC+A2ctS6YL40uAFNasV62UH7z2NwwUm9JcQ8p1e0AZsQ9QNEguSCio5mO6NgtjM6+0lh01Cp9ScjKPhXM42K0CEWbvoo9Xs75RUhYD3xLuqvqkUll8sDjQecMUvGcRbuimSO0w8t4Tld89kaF7dHnFo98WBy/+O10j7ip8OxQn/8M9H2og269/LcLHojc0QYK2CrvvbEvYkb/S50KKCFisanWMEJ06NAxL9ccxyJ4OB6zMS3X1ylWpjCT9Lys=;l4YLQnOS1f3u7Q7pQgn6yw=="
 ---
 
