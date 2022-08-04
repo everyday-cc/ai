@@ -2,6 +2,232 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
+      "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
+      "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "originalUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars.md",
+      "title": "BGSU professor Qing Tian working on improving safety of self-driving cars",
+      "excerpt": "From BGSU OFFICE OF MARKETING & BRAND STRATEGY. As auto makers continue to explore the possibility of self-driving cars, a Bowling Green State University professor is conducting r",
+      "sourceUrl": null,
+      "webUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
+      "originalUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgindependentmedia.org/wp-content/uploads/2016/10/cropped-BGIN_logo_blue_square_300px-1.jpg",
+          "width": 300,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BG Independent News",
+        "domain": "bgindependentmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
+      "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
+      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3ec8d45601953acdb1ac4/0x0.jpg?format=jpg&crop=1458,971,x134,y0,safe&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-19T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-19-how-ai-and-human-intelligence-will-beat-cancer.md",
+      "title": "How AI and human intelligence will beat cancer",
+      "excerpt": "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
+      "originalUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 588,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/",
+      "publishedDateTime": "2022-06-18T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-18-cruises-san-francisco-robotaxis-seize-initiative-in-race-for-autonomy.md",
+      "title": "Cruise’s San Francisco robotaxis seize initiative in race for autonomy",
+      "excerpt": "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Since Google launched its self-driving car project in 2009, it has been leading the way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
+      "originalUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cca8ad2-f2ae-4729-ac51-0826be2a4e99.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-18T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
       "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
       "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
@@ -1068,233 +1294,6 @@
       "provider": {
         "name": "CAR Magazine",
         "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
-      "title": "AWS with Intel launches DeepRacer Student League",
-      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "publishedDateTime": "2022-06-14T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
-      "title": "The Artificial Intelligence We Fear Is Our Own",
-      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv.md",
-      "title": "Self Driving Cars Market to Witness Massive Growth from 2022 to 2030 | Audi AG, Stomach muscle Volvo, Aptiv",
-      "excerpt": "Central members working in the worldwide self-driving car market incorporate Audi AG, Stomach muscle Volvo, Aptiv, BMW AG, Baidu, Mainland AG, Apple Inc., Mainland AG, DiDi Chuxing, Daimler AG ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-jidu-auto-to-begin-sales-of-l4-robocar-this-year.md",
-      "title": "Jidu Auto to begin sales of L4 robocar this year",
-      "excerpt": "CEO Xia Yiping said the production model shares 90% of its content with the Robo-01 concept car and would be equipped with a Level-4 autonomous driving system developed by Baidu which does not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
-      "originalUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/07/2017-06-20-13-21-continentalautonomousdriving2_cropped_90.jpg",
-          "width": 424,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-jidu-auto-steps-up-to-roll-out-mass-produced-robocars.md",
-      "title": "Jidu Auto steps up to roll out mass-produced robocars",
-      "excerpt": "Smart electric vehicle company Jidu Auto, a joint venture established by Chinese tech giant Baidu Inc and carmaker Geely Holding Group, plans to launch its first mass-produced robocar model in the coming autumn and open the first self-owned store in the fourth quarter of this year.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202206/14/62a7f247a310fd2bec8f427f.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

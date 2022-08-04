@@ -56,20 +56,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Deep Learning Software Market to See Huge Growth by 2027 : Microsoft, Nvidia, AWS"
-    excerpt: "New Jersey, USA — (SBWIRE) — 07/30/2022 — Advance Market Analytics published a new research publication on \"Deep Learning Software Market Insights, to 2027\" with 232 pages and enriched with ..."
-    publishedDateTime: 2022-07-30T18:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-software-market-to-see-huge-growth-by-2027-microsoft-nvidia-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 68
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/36b3e44f5b351e6825f38164e8f825a292c74244-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI in Computer Vision Market Report Covers Future Trends with Research 2022-2030 | NVIDIA, Intel Corp., Microsoft Corp., IBM Corp., Qualcomm, AWS"
     excerpt: "AI in Computer Vision market report provides a detailed study of global market scope, regional and country-level market size, segmentation, growth, share, competitive Landscape, sales analysis ..."
     publishedDateTime: 2022-08-01T00:01:00Z

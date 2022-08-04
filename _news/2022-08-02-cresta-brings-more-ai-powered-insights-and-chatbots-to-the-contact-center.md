@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise of Voice AI; Interview with Skit.ai Co-founder and CEO Sourabh Gupta."
-    excerpt: "Sourabh Gupta is the CEO and Co-founder of Skit.ai, an augmented voice intelligence platform designed to empower contact centers to manage customer inquiries more efficiently. In this interview with TechBullion,"
-    publishedDateTime: 2022-08-01T14:05:00Z
-    webUrl: "https://techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/"
-    ampWebUrl: "https://techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-rise-of-voice-ai-interview-with-skit-ai-co-founder-and-ceo-sourabh-gupta/amp/"
+  - title: "The innumerable avantages of conversational AI in chatbots"
+    excerpt: "Conversational AI (CAI) has revolutionised how businesses interact with their customers. Companies include Conversational AI into their omnichannel experiences—often in their messaging applications—whether they are utilising text-based or speech-based chatbots to increase sales and"
+    publishedDateTime: 2022-08-04T11:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-innumerable-avantages-of-conversational-ai-in-chatbots/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-innumerable-avantages-of-conversational-ai-in-chatbots/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-innumerable-avantages-of-conversational-ai-in-chatbots/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 55
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/08/DSC0385-copy-3-1-scaled.jpg"
-        width: 2560
-        height: 1829
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/kau.png"
+        width: 378
+        height: 439
         isCached: true
 
 secured: "ldmHwSsZiNOC/Um5E+EIBFcQEP7k/y/NId7WPRqk5l3kI1ZpmA0mSNYTvy+Tl1JAXmEibYH1TKPGoA1tIWDAIwca/PnWrEoRHrQFDoZJW4y0o1PwUNvDMsIh3fTOQbLzfHMMAsTYy1IZg4KahZHBbvd6/C4QVmZrek6M/dt1U89rPTJUFSMaNVnL1CKKdJ0WvLPn8m0cTfNv8TMGvPZjnprELhsTyH6NgnFJdKlbIsXxO88wEMy3RkqB0AR7zwxrs/IHTGwPis7IPH72qUAmsUPuBRkvAK+ol2qfpWiInemO/Mnq/cywrfG2AJmiNXDv0S4+WBxxPN0exDgqeejHTCoPo3Vj9B3iSJM1LgGfVFs=;H7ZBUuWVLdU5h7CLVz4GNA=="

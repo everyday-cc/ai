@@ -34,6 +34,15 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Discord bot AI image generator predicts the 'last selfie ever taken'"
+    excerpt: "Barren landscapes form a solemn backdrop here to the Midjourney (opens in new tab) AI's prediction of what the \"last selfie ever taken\" will look like. The scenes are bestrewn with untamed fires, and thick,"
+    publishedDateTime: 2022-08-04T10:57:00Z
+    webUrl: "https://www.pcgamer.com/discord-bot-ai-image-generator-predicts-the-last-selfie-ever-taken/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 17
 
 secured: "fkKmOadJ/x+tXCmCvkG57966LzLjNULSMd7uMm8/A9pjXAZ6HAycfQ7MwM6SYHECZlxHA/Djr53QsuZ9981La8OTmDyHXsnL6AfgZ3B6eweynaqAZkbc/khBEtL2eTjzJD0a69EZlgbMS1b0oIm0N7+uLrm8QYEuvzG0cpEBsL17OZFtQg4s4U24S+VO+jekU4JqYVhnf1fcOBWpMit5LypNl+riY5Cw3rEifiL+DcRJY+BpaQIEvs7Yka6YDBhpf0DHAqGLSN3B+CyBG8MHxcm2OEpY9dsbW/q+7HANyIQ+YkNKiYIbtnuWItrjfunEpTdCYqcky77YCEy9U/OH3ym9GuX4Oa5IGH9jNaetfQ4=;qBPML+quNmUYPP1qD7ANVg=="
 ---

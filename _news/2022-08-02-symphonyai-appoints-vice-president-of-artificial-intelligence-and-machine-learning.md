@@ -1,30 +1,28 @@
 ---
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
-excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
-publishedDateTime: 2022-08-02T10:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+excerpt: "Pushpraj Shukla to lead enterprise AI platform development and innovation of next-gen applications as company growth continuesPALO ALTO, Calif.,"
+publishedDateTime: 2022-08-02T12:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
+webUrl: "https://markets.businessinsider.com/news/stocks/symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning-1031638990"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 75
+heat: 75
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "jn74g+6Z/S9NvN3/YKlMJ/Q14aQjrdhAI2eEUYYyJkQtv+cAkjBU2wVZDvwx13noWppPZe2Ez9kdhZIp8PYQbZRb15wj1erNHu/7AlQpMuawLECbAn5/v7a0bRRRo/hxSY9kI/HkkpSvVToqGHV4XKsvnNACu4uJgJjq9MsI5Gdu0G2R1O1AlwmEO2YCa6uvxTl7zBUtIQRVHSkyi8n6CnwaeSUk421NMnrz/hoidzk1r3S9RNou79jaPKV6eo/wwy6N2DrpIcc+LGeOBUj3bvpkgmupPZkfXKUhzUyQPzYjdz4TSOyfuv0B15YWhKaowNruVcZ6LVW2CmsRjx6gJmGEbpeP8MBNskYk7xhu/iY=;PbBGaG1A9vfncf5RrUz5HA=="
+secured: "E8/LTzeY2hoDKmYKtCzFCmkun0NSuYYEqG9DUFbcXu0TM0fJcs3Ah1ekh6xgS7Jgzw2iT8cHh1tZT6pzXwuaKTuswiPNCzqGUC6cX1MP9NVEAsdHfEcHkZ6GabXLrrF7w0v32hNNjAycZmE8+JjP43RjnWo2jFtOZEP8QO2t8bnsq9zjMxc3rxj+qwDR8DD8Z65wKgI3AHpYAr4ysNfxgfOpxzetOxV6mMW/5JyT3EpXjXvpuiwnxn7O9T9I920MTRTsReU0dio8JYEgK/Ao6ElYvo1AQmBH7C7yCxRQ4Ex+xg1O3v+X5a5cjCnSeo0WM2IOdzsjDiFYQWTn7bQuZXACweb5i/3KYhL1wW3DeKM=;j2xoaz79+Jltbq3fbfArHA=="
 ---
 

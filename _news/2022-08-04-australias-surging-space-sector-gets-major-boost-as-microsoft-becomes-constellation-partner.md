@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft becomes Australian space hub's first 'Constellation Partner'"
+    excerpt: "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use"
+    publishedDateTime: 2022-08-04T11:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "Australia’s space industry is moving rapidly; Microsoft has joined forces with the National Space Industry Hub (NSIH) NSIH was delivered by Sydney-based incubator Cicada Innovat"
     publishedDateTime: 2022-08-03T14:26:00Z

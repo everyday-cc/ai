@@ -9,7 +9,7 @@ ampWebUrl: "https://stockhead.com.au/tech/australias-surging-space-sector-gets-m
 cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/?amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft becomes Australian space hub's first 'Constellation Partner'"
+    excerpt: "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use"
+    publishedDateTime: 2022-08-04T11:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
     publishedDateTime: 2022-08-04T02:31:00Z

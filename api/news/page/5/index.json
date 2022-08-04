@@ -2,6 +2,309 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-28-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
+      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
+      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
+      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-ai-predicts-the-shape-of-nearly-every-protein-known-to-science.md",
+      "title": "A.I. Predicts the Shape of Nearly Every Protein Known to Science",
+      "excerpt": "DeepMind has expanded its database of microscopic biological mechanisms, hoping to accelerate research into all living things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.html",
+      "originalUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/07/28/science/28alphafold-promo/28alphafold-promo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/07/28/science/ai-deepmind-proteins.amp.html",
+      "publishedDateTime": "2022-07-28T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-can-fintech-turn-around-our-collapsing-economy.md",
+      "title": "Can Fintech Turn Around Our Collapsing Economy?",
+      "excerpt": "Empowering small business owners to flourish via fintech is vital in an era of unrivaled uncertainty and fear. Intrepid entrepreneurs don’t just create unprecedented jobs and sometimes, unprecedented industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/",
+      "originalUrl": "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e1bc0f32894645ff133856/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 892,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelashley/2022/07/28/can-fintech-turn-around-our-collapsing-economy/amp/",
+      "publishedDateTime": "2022-07-28T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-diagnostic-robotics-closes-45m-series-b-funding-round.md",
+      "title": "Diagnostic Robotics closes $45M Series B Funding Round",
+      "excerpt": "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
+      "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
+      "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1867128/KEENON_Brand_Day.jpg",
+          "width": 400,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-deepmind-found-the-structure-of-nearly-every-protein-known-to-science.md",
+      "title": "DeepMind found the structure of nearly every protein known to science",
+      "excerpt": "DeepMind is releasing a free expanded database with its predictions of the structure of nearly every protein known to science, the company, a subsidiary of Google parent Alphabet, announced today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet",
+      "originalUrl": "https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/WAHqFXrIO4p5GklFOn-1TGTcGjo=/44x1014:1662x1861/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23904842/Protein_CCR4_NOT_transcription__complex_subunit_9.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups.md",
       "title": "ARTPARK Foundation Sets Up $100 Mn Venture Fund To Back 10-15 AI, Robotics Startups",
       "excerpt": "ARTPARK will invest in 10-15 early and growth-stage AI and robotics startups over a period of three years from the VC fund",
@@ -876,283 +1179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028.md",
-      "title": "AI In Computer Vision Market Product Type Hardware,Software Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028",
-      "excerpt": "Pre and Post Covid is covered and Report Customization is available. As the global economic trends, the growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028-2022-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-india-bets-big-on-emerging-technologies.md",
-      "title": "India Bets Big on Emerging Technologies",
-      "excerpt": "Indian defense minister Rajnath Singh spoke about the growth of emerging technologies in India. He referred to Russian president Vladimir Putin’s admonition that “whoever becomes the ruler of the sphere will rule the world.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
-      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-automatic-content-recognition-market-size-is-projected-to-reach-usd-48795-million-by-2028-at-a-cagr-of-174-valuates-reports.md",
-      "title": "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports",
-      "excerpt": "The global Automatic Content Recognition market size is projected to reach USD 4879.5 million by 2028, from USD 1543.8 million in 2021, at a CAGR of 17.4% during 2022-2028. Major",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-why-machine-learning-in-ad-tech-is-ready-for-liftoff.md",
-      "title": "Why Machine Learning In Ad Tech Is Ready For Liftoff",
-      "excerpt": "Learn more about the incredible scale and complexity of machine learning in ad tech with Yunshi Zhao, ML engineer at Liftoff Mobile. Zhao also part of the diversity, equity, and inclusion (DEI) committee at Liftoff,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e03f3a3d45822eb9a0bf5b/0x0.jpg?format=jpg&width=1200",
-          "width": 956,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
-      "publishedDateTime": "2022-07-27T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises.md",
-      "title": "Cybersecurity mesh adds decentralized security and swarm AI for remote-first enterprises",
-      "excerpt": "Naoris Protocol provides remote-first enterprises with decentralized cybersecurity mesh, mitigating attacks across all devices and networks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
-      "originalUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design-e1658931843797.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
-      "publishedDateTime": "2022-07-27T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting.md",
-      "title": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting",
-      "excerpt": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting Jul 27, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, July 27,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

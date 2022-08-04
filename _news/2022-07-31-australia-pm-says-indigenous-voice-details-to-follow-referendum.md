@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
         width: 2048
         height: 1812
-        isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum question"
-    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
-    publishedDateTime: 2022-07-30T17:41:00Z
-    webUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
-    ampWebUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/w6tn4l/article65704579.ece/alternates/LANDSCAPE_615/2022-07-12T023542Z_598879111_RC2Z9V9FBDW0_RTRMADP_3_ASIA-ENERGY.JPG"
-        width: 615
-        height: 383
         isCached: true
   - title: "Australian Indigenous language used in AI breakthrough"
     excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"

@@ -2,6 +2,233 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
+      "title": "AWS with Intel launches DeepRacer Student League",
+      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
+      "publishedDateTime": "2022-06-14T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
+      "title": "The Artificial Intelligence We Fear Is Our Own",
+      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv.md",
+      "title": "Self Driving Cars Market to Witness Massive Growth from 2022 to 2030 | Audi AG, Stomach muscle Volvo, Aptiv",
+      "excerpt": "Central members working in the worldwide self-driving car market incorporate Audi AG, Stomach muscle Volvo, Aptiv, BMW AG, Baidu, Mainland AG, Apple Inc., Mainland AG, DiDi Chuxing, Daimler AG ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
+      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-cars-market-to-witness-massive-growth-from-2022-to-2030-audi-ag-stomach-muscle-volvo-aptiv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-jidu-auto-to-begin-sales-of-l4-robocar-this-year.md",
+      "title": "Jidu Auto to begin sales of L4 robocar this year",
+      "excerpt": "CEO Xia Yiping said the production model shares 90% of its content with the Robo-01 concept car and would be equipped with a Level-4 autonomous driving system developed by Baidu which does not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
+      "originalUrl": "https://www.just-auto.com/news/jidu-auto-to-begin-sales-of-l4-robocar-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/07/2017-06-20-13-21-continentalautonomousdriving2_cropped_90.jpg",
+          "width": 424,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-jidu-auto-steps-up-to-roll-out-mass-produced-robocars.md",
+      "title": "Jidu Auto steps up to roll out mass-produced robocars",
+      "excerpt": "Smart electric vehicle company Jidu Auto, a joint venture established by Chinese tech giant Baidu Inc and carmaker Geely Holding Group, plans to launch its first mass-produced robocar model in the coming autumn and open the first self-owned store in the fourth quarter of this year.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202206/14/62a7f247a310fd2bec8f427f.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-googles-artificial-intelligence-has-a-conscience-experts-say.md",
       "title": "Google's Artificial Intelligence has a conscience, experts say",
       "excerpt": "Google's Artificial Intelligence seems to have reached a new level, at least in the case of the LaMDA project, which impressed its workers. Google's Artificial Intelligence is probably one of the most advanced technologies in this field and we know that well.",
@@ -1130,230 +1357,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa.md",
-      "title": "Timnit Gebru and the fight to make artificial intelligence work for Africa",
-      "excerpt": "This encompasses everything from self-driving cars to automatic translation and facial recognition programs. The ultimate prize is a concept known as Artificial General Intelligence — a computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
-      "originalUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.mg.co.za/wp-media/2022/06/3b4747bd-gettyimages-1028811892.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
-      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
-      "publishedDateTime": "2022-06-09T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mg.co.za",
-        "domain": "mg.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-car-will-target-tesla-model-y-executive.md",
-      "title": "Baidu’s first car will target Tesla Model Y: executive",
-      "excerpt": "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "originalUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
-      "publishedDateTime": "2022-06-08T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-ai-based-traffic-management-system-in-delhi-soon-officials.md",
-      "title": "AI-based traffic management system in Delhi soon: Officials",
-      "excerpt": "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency vehicles such as ambulances and fire tenders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2017/12/RTX3LJGB.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
-      "publishedDateTime": "2022-06-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
-      "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
-      "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "originalUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

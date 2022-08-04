@@ -57,20 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Deep Learning Software Market to See Huge Growth by 2027 : Microsoft, Nvidia, AWS"
-    excerpt: "New Jersey, USA — (SBWIRE) — 07/30/2022 — Advance Market Analytics published a new research publication on \"Deep Learning Software Market Insights, to 2027\" with 232 pages and enriched with ..."
-    publishedDateTime: 2022-07-30T18:17:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-software-market-to-see-huge-growth-by-2027-microsoft-nvidia-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 68
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/36b3e44f5b351e6825f38164e8f825a292c74244-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AWS and Microsoft eye economy in a bid to control cloud cost"
     excerpt: "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers."
     publishedDateTime: 2022-08-03T21:33:00Z

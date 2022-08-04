@@ -18,6 +18,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.wabe.org/app/uploads/2022/07/AP19316792829102-scaled.jpg"
