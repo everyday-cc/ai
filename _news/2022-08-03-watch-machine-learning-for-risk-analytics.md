@@ -53,7 +53,25 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Speech and Voice Analytics Market Recent Trends Analysis: Research During The Ongoing COVID-19 & Research Methodology By Forecast 2022-2032"
+    excerpt: "The Speech and Voice Analytics Market incomes were assessed at US$ 1.8 Bn in 2021 and is expected to develop at a CAGR of 22.3% from 2022-2032, as per an as of late distributed Future Market Insights report."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/speech-and-voice-analytics-market-recent-trends-analysis-research-during-the-ongoing-covid-19-research-methodology-by-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
+    excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
-secured: "Yf6vzapILAhY91jYwMJTElZRdC72FqiQyXvU+k6FMpDb3M74aVlVVJB72WVvTeKAEv7kzWAHofCRYU0UHU7pEpjMB2ce6O8CkonToqlKzeeBuJ+e4OqePKGhMMGxbZvZUVFTilogJ/1hjOmQyLrOo9gL4p9iROFYsjITBIwg7gG78mFfuf1ZvBuff0bRCCTyfY3TP2qizb/ipmVIddt+JcJlQUXtGBV0xhy7gvjoalulp3Gx/kxIZuMDWBEES8zbGLr+vnr8jbAu/hMS5p/7zZye6RQalhjRg8CYNsRSylIyahFeC22iyTSuhoJQ7ibPj7z0JpQDaowLC9S8WqwieR006LI4ZhFCB6IPUw609dE=;6V7jX+BHshm4fYQQduxDgw=="
+secured: "QjRltcdoawzS0aVZWpl1fIM4OPMSpD8Kd0ySZmIszJhmNgUYivEARZI6vPxJ3qa+52S4qX+Tw7jTpoJd4eSzWWSU3lgAZ7PiKdFXh+psov419ndXxrcjsovklwYHVqBxIGB5iGf3LyUJdkd4ZpbTNObe3NCXvXHHHc4WxYLmjDuw2wFywXHsiLzSnm95XaCtGAQ182QkCIsr2ge7M7XMhstS983YijJGtu1MNf/FEE7SbwKw5K1fflTwA67j5++vhqAcQ+2GQMclwtbVz9jJoa6M6VghFiXX5PFjZXnzWjIyTGj/0N1Q3+sqMT01Zr1/CZbXUCIsnyWm65bCusCfnSR4JTf/G04GJLSKD8D1KNstKgPZIk8w/yURhMdNCJFL9UQ51Ti3GygYtxSt18wfjNxMF27GhwDZBCFON5wnCsndmooF1p5HI9f2f5oqqzZaSQBOBQxzWxXoEupu1koE+KTvh6j+WzYHGRpZX96A2ZyXHjx+Zv/is2wJLiw3ZvbSp2zEhsUkQZYfAQgFkPGHTw==;uN4x1s2nzk5RrV4LYDzKCQ=="
 ---
 

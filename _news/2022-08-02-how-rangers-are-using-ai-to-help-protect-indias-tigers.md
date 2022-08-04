@@ -3,18 +3,22 @@ category: news
 title: "How rangers are using AI to help protect India's tigers"
 excerpt: "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink."
 publishedDateTime: 2022-08-01T23:07:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-61824904?at_campaign=KARANGA&at_medium=RSS"
-webUrl: "https://www.bbc.co.uk/news/business-61824904?at_campaign=KARANGA&at_medium=RSS"
-ampWebUrl: "https://www.bbc.co.uk/news/business-61824904.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-61824904.amp"
+originalUrl: "https://www.bbc.com/news/business-61824904"
+webUrl: "https://www.bbc.com/news/business-61824904"
+ampWebUrl: "https://www.bbc.com/news/business-61824904.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -43,6 +47,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PjawgJJmpHvXiApDz/tOQIULUFvh8PfTVVsyhm3pdueAn5/7I5UKgyqlZvVumXnN9lm77gb347/sl9ABFfvh/vNLCXkshOR9voByQSl+QhASgeHsH27pIzzkuNh36Cv71lXxvrjel8Wk0+78+kdqQTbwHgYCBRy6FefTF+dj11iUpoE0xOJe7KrbemrZsv13j819uuQ7IX6BHSxVLqNHrDLAxEoDo6E+VUa+wAqPeeWNCPPlSiTyMiayu4K6fyOq/ezLY2vjs/T6ObT81N7JZQqx17QgGPKQ4dw9sr8XL9VzjK1xMkccLvvvJyS9CF3EQY1j5ZIfHlXQIS4OHUscM4GOnWhFU4IR7VnCeR20vwzgcsOmVoo1bxzN4+7mkYya/PgIcqR+AArL2q3KMh+RqsKy/9VrK/BSF8o0BoqEy2/BRqmEDxmrQEsu67LO5Itt7R1ZhgSaPYQ/gUUP5RQTpbdAhOkb2TcAfJr2RXFACFu+Zftdk4pFz+hcpbX1sBSWe9YV7J3IMGPmPS4Rryw38w==;61Pp7vAI+2MQ9+xDeMbuZw=="
+secured: "voGz42x+SbG2nO0JVryM9Eqdb3uurBudUGVoBENGPrzipcs0cljMYTZzBH9KLcnVe4AFpdB3f4URtxAVTzPWvX31hTJ0JDApyYUIcy4MzMAc++sKq5cZzxljD/0GOEUJ7Se4WZAihACjD3qqcOxfVl8Cy/E32xfddPcwI5tf/rXcEOYwI+AyTPjl/IScL+dzZOj/TX7q+AApVgNQhQg5flTbo6ASzOuzT5DYDD/Lkmffkyc99YwVF0pEVBLJjJflQUGwYxhiIrYcaFIZxGE6d3FemxAEUWCmoU9Mkrj287okj02xFJtvtPCzFAIVGWz/hWgYLxYIBoc6ivzEs2ysgd54oTUZR+ML7NnPRZu8N7Y=;ALH3IWlfzb5WoF0LndRx7A=="
 ---
 

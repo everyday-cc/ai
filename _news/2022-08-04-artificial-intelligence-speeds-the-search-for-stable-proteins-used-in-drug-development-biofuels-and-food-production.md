@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T13:47:00Z
 originalUrl: "https://www.rutgers.edu/news/artificial-intelligence-speeds-search-stable-proteins-used-drug-development-biofuels-and-food"
 webUrl: "https://www.rutgers.edu/news/artificial-intelligence-speeds-search-stable-proteins-used-drug-development-biofuels-and-food"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Rutgers University

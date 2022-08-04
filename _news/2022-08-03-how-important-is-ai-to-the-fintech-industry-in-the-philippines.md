@@ -53,6 +53,15 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 2
 
 secured: "Vr6DePgkNXPb5fBGjh9BNp31ovXn7hH8XSWqTaOjoLK/oyBR1739LtkriujZ22RbtMe9ffxUkQkW0IRDI9jUxvBFj7aZ/C96RzZwcHH/jY8f3zdUSDnac1WRzCv40EGPtjM7mtqJTVAItc2qDmT0ZIx/F3m9l9JT6DwoKcrF75yln8xn+iE2PqjWcOuXAYdb5kxs94sp2PsRTP8o+5IS/mFWoaSOCuUh0f9rJaOQLVDDRlkcc8ofvctZfiLv1fpHKJUGa8TVcnPqCMx22g7RrvRPo989NfhEoaFuUzKa4bsYOVSgnszE6w+W/qmbM8+ZMKSQDOhlInF/ux7FRdrqEbjU32j1Aw3aqgLczfNYK82zk3awSokM3Jkdz97mDxW4EaVxn9yaW0isFprNqRCujdn3MfelGEvSOeD261Bui52Ia4pDlM93cmFh/hU6d5gtitGrZHFbtRkDUAFLW2hCXbrWy36T1f4vBW7nvFNDEwxGuNHLmXT6duttZ7m7Rks4fti5BFfI/XyHrOU1k4Lx6A==;YQpsUVrModXvjDHHcIw58w=="
 ---

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-21-googles-deepmind-sued-for-illegally-using-confidential-medical-data.md",
+      "title": "Google’s DeepMind Sued For Illegally Using Confidential Medical Data",
+      "excerpt": "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
+      "originalUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/05/VRG_ILLO_1777_AK_body_data.0.0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
+      "publishedDateTime": "2022-05-21T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
       "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
       "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",

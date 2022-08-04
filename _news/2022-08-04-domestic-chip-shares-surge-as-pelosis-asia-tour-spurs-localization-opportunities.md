@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T12:20:00Z
 originalUrl: "https://www.shine.cn/news/in-focus/2208048827/"
 webUrl: "https://www.shine.cn/news/in-focus/2208048827/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SHINE

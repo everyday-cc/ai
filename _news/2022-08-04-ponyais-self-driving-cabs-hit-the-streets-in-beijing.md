@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T12:49:00Z
 originalUrl: "https://www.caixinglobal.com/2022-08-04/ponyais-self-driving-cabs-hit-the-streets-in-beijing-101922297.html"
 webUrl: "https://www.caixinglobal.com/2022-08-04/ponyais-self-driving-cabs-hit-the-streets-in-beijing-101922297.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Caixin Global

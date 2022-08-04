@@ -28,14 +28,14 @@ images:
 
 related:
   - title: "Involta Partners With Tech Startup HacWare to Expand Enterprise Cybersecurity Awareness Services"
-    excerpt: "Agreement to Provide AI-powered Solutions, Saving Businesses Up To 40% CEDAR RAPIDS, Iowa, Aug. 4, 2022 /PRNewswire/ -- Involta, an award-winning"
-    publishedDateTime: 2022-08-04T10:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/involta-partners-with-tech-startup-hacware-to-expand-enterprise-cybersecurity-awareness-services-1031649912"
+    excerpt: "Partnering with Involta gives us the opportunity to help businesses improve their email security awareness and build up their first line of defense against cyberattacks.\" HacWare's internal risk assessment provides real-time threat intelligence to show internal vulnerabilities."
+    publishedDateTime: 2022-08-04T11:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9650531.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
     images:
       - url: "https://mma.prnewswire.com/media/1157697/Involta_Logo.jpg"
         width: 400

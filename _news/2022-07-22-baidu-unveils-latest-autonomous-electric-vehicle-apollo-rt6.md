@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-22T04:00:00Z
-originalUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=latest"
-webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=latest"
+excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+publishedDateTime: 2022-07-21T20:15:00Z
+originalUrl: "https://www.newsandsentinel.com/wire/?ID=221294"
+webUrl: "https://www.newsandsentinel.com/wire/?ID=221294"
 type: article
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: Parkersburg News and Sentinel
+  domain: newsandsentinel.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "MpAJsiaR/5b3U/4PvOgri+pEiL5YEI5FLsmPVYedPbJE8Wjc9hoG9rjukkL/8Z9nDfFuFClqphJAE2LhKRyZGLw3fcnF6UuZ24+RLMOpyK5oBlMLU+HzvhM4Y7cpfriQA2fVsJ00S655cZ1Gc5RN2tqoP8scg0JdkiNur1tGKLj9z9e7pPipzPPfsDzOQQLmIWaP5yGTGBNAoElZzwrRZEnmt6q5WrKAf+uEfXSrDa5pfR05iSjYv39oZvXB7E8w3gYQJT06ueRNFjzw8odNzSJKeHVDV5gm0jrZLxSTXxI6eNllAnHcqSrZZD6fcaAS0be5x77d+6FPPdOYrKXWIOGxep9FK8iiXSPtl16OyLk=;MrBcJrLDk2Ybnx00yPoz4g=="
+images:
+  - url: "https://d14e0irai0gcaa.cloudfront.net/www.newsandsentinel.com/images/2016/09/15131213/ns-fb.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "LDQD6sswqHiWLfCLhH2lOP+euPFg34q/WLGGmokmTfzSnNV/B2YSo4L+vPS658jK2p4zmOOg9LoCaOn4q6V4Xy6gpMyjQo9yXy1SXv9FnQnKsAJ8RSCgdKOrJDCTKt7yQQt+Y1ALVi1GHVciNDEbMXepmhwOqPz5vGYpOasNkABikbTQ1qiEFqGsue9liPjYrSn3EbgoDyIK3KhVHan1wS0DqtQYOgafqjZYoo+osBr+bSzGL34w7U5j52yQYxKFiiD3Gs5ILQJyhsSxPF/pSC15FtVlw/f+uEwroPwtWQ1F0K27u1BKy3iIMx4YaX9Mf99MIAdbmt4SwlAfCC9eIzl3XRb4dQZtoBmofnxB8pA=;eBMWX1PS3GYnO7I38OKnZQ=="
 ---
 

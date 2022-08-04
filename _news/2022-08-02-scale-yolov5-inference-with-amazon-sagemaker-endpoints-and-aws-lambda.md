@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inferen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/"
 type: article
 quality: 104
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Optimal pricing for maximum profit using Amazon SageMaker"
+    excerpt: "This is a guest post by Viktor Enrico Jeney, Senior Machine Learning Engineer at Adspert. Adspert is a Berlin-based ISV that developed a bid management tool designed to automatically optimize performance marketing and advertising campaigns. The company’s core principle is to automate maximization of"
+    publishedDateTime: 2022-08-04T15:53:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-maximum-profit-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/02/ML-10420-image001-1260x587.png"
+        width: 1260
+        height: 587
+        isCached: true
   - title: "Promote feature discovery and reuse across your organization using Amazon SageMaker Feature Store and its feature-level metadata capability"
     excerpt: "Amazon SageMaker Feature Store helps data scientists and machine learning (ML) engineers securely store, discover, and share curated data used in training and prediction workflows. Feature Store is a centralized store for features and associated metadata, allowing features to be easily discovered and"
     publishedDateTime: 2022-08-03T17:51:15Z

@@ -91,6 +91,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
+    publishedDateTime: 2022-08-04T13:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
 
 secured: "7pw8ajwxCWGaG6A5oeIYVyycq8PKumWmGpCVfQ4lXuhZibfN5FXpBfU0/tIp8TaKAUb+as8HeEAX7kqcXlhtf2glv5CJcOJGlzrs+GU8WG5tuntxvvHiVxArNTZszb5bL6qFj2y3Ug445XcDoALBTO8AUbnHf83XRoeeu0RMg/0Mk54Cr/l+lhLeOTRNDQlERJmUfK/L+IAQ9pXAi4ninl1Nzl0Y9Vg0IrcjtxGYahoGkOwshb1E0u7lsNuvAYLk0Ipl6HNX9G8XfBfQsueksDJml384VCEfc2CjM7I+Ubc9UOuoJuKEqf0yPZHm/puTpYG11mnbQvT93/0vlAeWJP1zPw8Ufii6QPu/oZGbE0k=;iKT0jWs15CX6QY8qLt0Ubg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T13:23:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/08/04/industry-leader-in-machine-learning-and-ai-to-the-uk-offshore-wind-industry-collaborates-with-weatherquest"
 webUrl: "https://bdaily.co.uk/articles/2022/08/04/industry-leader-in-machine-learning-and-ai-to-the-uk-offshore-wind-industry-collaborates-with-weatherquest"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Bdaily Business Network

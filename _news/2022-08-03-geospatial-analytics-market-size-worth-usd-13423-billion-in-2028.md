@@ -53,6 +53,24 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Speech and Voice Analytics Market Recent Trends Analysis: Research During The Ongoing COVID-19 & Research Methodology By Forecast 2022-2032"
+    excerpt: "The Speech and Voice Analytics Market incomes were assessed at US$ 1.8 Bn in 2021 and is expected to develop at a CAGR of 22.3% from 2022-2032, as per an as of late distributed Future Market Insights report."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/speech-and-voice-analytics-market-recent-trends-analysis-research-during-the-ongoing-covid-19-research-methodology-by-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
+    excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "MhgzXQswJsFdaBBLGJTsewfZ1UvLbs9m+VdrkKrZMMnw/9f09VGK8myeCdF0MLQWNFQbQ6IhoyHDVkNSruArYOTGMNvn6U4QfRr0ciF1hKIuChpyKubX/9LjdW4dSuP7jlvEbBlj6jwMuRl7qD+6442un3Xip02wVVyE0/S83+jWYmpnkXGIvT0i0Gv0EiEe1S3AZt4ZRbhhp14i+BFzClR6LVSysFWYoHXODCB+NPUHEldSPQ65seuVpacHyLWBd+y6+APImDzfvz2qID85qrjo9zJJ5oe//Vhppa30ojfrKFS8MhcCTMnMOTTZkJQFRaZwRF1cuyYGCK9qL8Z/2l3muTFecahwkJmQgpYXPOQ=;/PkBqdQOWr9aezuwWRUAQA=="
 ---

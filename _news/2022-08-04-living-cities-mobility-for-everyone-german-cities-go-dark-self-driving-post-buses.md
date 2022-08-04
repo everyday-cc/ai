@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T13:00:00Z
 originalUrl: "https://www.politico.eu/newsletter/global-policy-lab/living-cities-mobility-for-everyone-german-cities-go-dark-self-driving-post-buses/"
 webUrl: "https://www.politico.eu/newsletter/global-policy-lab/living-cities-mobility-for-everyone-german-cities-go-dark-self-driving-post-buses/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Politico Europe

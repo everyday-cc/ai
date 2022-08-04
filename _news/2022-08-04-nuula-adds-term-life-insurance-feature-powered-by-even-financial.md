@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T12:08:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nuula-adds-term-life-insurance-feature-powered-by-even-financial-1031650636"
 webUrl: "https://markets.businessinsider.com/news/stocks/nuula-adds-term-life-insurance-feature-powered-by-even-financial-1031650636"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

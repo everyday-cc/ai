@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/08/04/doctors-find-artificial-intelligence-is-the-best-prescription-for-expert-assistance-and-patient-care/"
 webUrl: "https://insidebigdata.com/2022/08/04/doctors-find-artificial-intelligence-is-the-best-prescription-for-expert-assistance-and-patient-care/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: insidebigdata.com

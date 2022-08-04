@@ -43,6 +43,20 @@ related:
         width: 934
         height: 630
         isCached: true
+  - title: "Optimal pricing for maximum profit using Amazon SageMaker"
+    excerpt: "This is a guest post by Viktor Enrico Jeney, Senior Machine Learning Engineer at Adspert. Adspert is a Berlin-based ISV that developed a bid management tool designed to automatically optimize performance marketing and advertising campaigns. The company’s core principle is to automate maximization of"
+    publishedDateTime: 2022-08-04T15:53:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-maximum-profit-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/02/ML-10420-image001-1260x587.png"
+        width: 1260
+        height: 587
+        isCached: true
 
 secured: "ncdvYUREmpgV72lzYH8TTETqSyYcBQVtqTQTjsQU2O3oeJL6UrrIB+O5o1Nn+OFPTCg8eoYp/ChPM9cYbGYwypCfxgQ7BRSjHLonVkTXgZ3QfDMix60iz/DmoJ0Y9gOwGmPCd5Jpe6APOA2M591gtbA2bymvz/BXsJ1siN6plMpUs2B8g0i7dGDCVae7ac+UMySXWVlLW8bYkVcYvTAdp1cTKUGOdwHVjIMlizBmgLuXAxX8XgLCANbL6eaWbRZIVDgIq6s5TL3kuenyAyDRp725ZE+eSWWfiMb46h9PD+dMfXvqBVn/7MQC5r/smvNNdK7Zd6uIA/HGfeF2WVtezgfvCLK6bc2pFjI2+6uH7AI=;cIbwxhqImxRwXeZ1Z8F36Q=="
 ---

@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Involta Partners With Tech Startup HacWare to Expand Enterprise Cybersecurity Awareness Services"
-excerpt: "Agreement to Provide AI-powered Solutions, Saving Businesses Up To 40% CEDAR RAPIDS, Iowa, Aug. 4, 2022 /PRNewswire/ -- Involta, an award-winning"
-publishedDateTime: 2022-08-04T10:08:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/involta-partners-with-tech-startup-hacware-to-expand-enterprise-cybersecurity-awareness-services-1031649912"
-webUrl: "https://markets.businessinsider.com/news/stocks/involta-partners-with-tech-startup-hacware-to-expand-enterprise-cybersecurity-awareness-services-1031649912"
+excerpt: "Partnering with Involta gives us the opportunity to help businesses improve their email security awareness and build up their first line of defense against cyberattacks.\" HacWare's internal risk assessment provides real-time threat intelligence to show internal vulnerabilities."
+publishedDateTime: 2022-08-04T11:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9650531.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9650531.htm"
 type: article
-quality: 39
+quality: 9
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -45,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "htLzEH75m03oR7ORlUANEXYc/WvOMDXRnb64WOS56RW1c3VA52IK/n0O6uLX04NpFcJ2ZpfwA6V+2WjCDvYtXRwytKIlU/ABzSK85f9PGmGC7+5aHEvfOO43jZIvMkd4ZD51vS1jztwcEyF+vXQBpRokX4vJ6Td4SNKSMzeeEMml7O/COnQmSc8GIKxP5tYNaNpDb/CJRAJm1Txdbr9T6MUtF+JuXR+5n+vWuAqwrcnA0NN2BWcMuN2lXgRr6qo32x1nq+ULuK+/1ZrDjP0DRUTG7zT/hJhWXWm3CHho7HOKXs1Bhjqb3mykulhlwjG8bVw0UPNwr4KL6Vxu3posYf6NW0MUppUWnEXcxldviMr7qqMCHjsaf4OKtnune1qjllYT1Ka2jpA6Hyjq3uJV3ICi+N1UppSOINevUlmFc7GDiIz4oXCRKOBm81I2lW5hguDhNC907k7ZufVGu+KY7VypQEkz4J2WB5T59pSaqWhO5tGPyxNnFOJDx2C4QpuF90/tNfanyoYCffy6zyfcSw==;Cyro8Oam+kk0Qdd7y8rHtw=="
+secured: "uWPVcmS1wIe7W+tfbaKxHuxkSeXXBSqFMwiCS0kXzmPvg98QoskiNlxtG//xX+HDeSdTT4eFAqK24+rygmbcjbi8bhovee9DBZFSgtnOHQPZYbGmVaFFWSqvEAnTxt6ewlB650eotGHoscqKY78HkwhizFptyviKlxsZIO1CFmtCkOMCP566iBtWFC1zWULLrvE6VEp8JLMV+wzuegJvMW/JExSw5G+RoeKa7rwAimYQ+K7iM891I1VpLAgbWaftv+nvx0hBKPt5trPxRqdPVAC3GRhJjlAcForxg1sF+L+rek2eWGKlgdqQu/yBZAmn+C87L4t1Y5eAI84D+5Q2KvKF0TtRs8jIvmEvedVNJXs=;DNo7loLgcvBrNVtpUL0OLQ=="
 ---
 

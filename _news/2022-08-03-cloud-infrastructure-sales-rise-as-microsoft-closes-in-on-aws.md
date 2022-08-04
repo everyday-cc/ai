@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp"
 type: article
 quality: 93
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
+    publishedDateTime: 2022-08-04T13:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
     publishedDateTime: 2022-08-02T18:15:00Z
