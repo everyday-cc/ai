@@ -52,20 +52,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum"
-    excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
-    publishedDateTime: 2022-07-30T11:42:00Z
-    webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Australian Indigenous language used in AI breakthrough"
     excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"
     publishedDateTime: 2022-08-04T03:11:00Z

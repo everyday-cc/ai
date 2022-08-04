@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-04-greg-gutfeld-long-trump-derangement-syndrome-is-driving-the-medias-polarization.md",
+      "title": "Greg Gutfeld: Long Trump derangement syndrome is driving the media's polarization",
+      "excerpt": "Greg Gutfeld weighed in on the media's polarization, amid a new study from UPenn claiming cable news is more polarized today than in the last ten years on 'Gutfeld!'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ae5d7b-a67e-4409-9128-cd2bc403c463/a523bff2-9c5c-418a-9652-b7d079fda2fc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "publishedDateTime": "2022-08-03T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-tesla-applies-to-patent-more-precise-gps-antenna-for-self-driving-and-navigation.md",
       "title": "Tesla applies to patent more precise GPS antenna for self-driving and navigation",
       "excerpt": "Tesla has applied to patent a new multi-band GPS antenna that it believes will be more precise for self-driving and navigation applications. The automaker describes the new device in the abstract of the new patent application: A multi-band antenna system is provided.",
@@ -463,6 +515,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-30-how-artificial-intelligence-is-changing-the-way-we-write.md",
+      "title": "How Artificial Intelligence is Changing the Way We Write",
+      "excerpt": "Is AI changing the way we write? This post looks at some of the ways AI can affect how we communicate with others.",
+      "sourceUrl": null,
+      "webUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
+      "originalUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2022/06/Huddle-blog-AI-for-writing.png",
+          "width": 1170,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Test Environment",
+        "domain": "eurostarsoftwaretesting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
       "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
       "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
@@ -503,6 +598,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-how-artificial-intelligence-can-create-an-attractive-user-experience.md",
+      "title": "How artificial intelligence can create an attractive user experience",
+      "excerpt": "This is captured via demographics, purchase history and other details extracted from your CRM or interactions with your support team using text mining — including other clever sources that have been engineered into the user experience (UX).",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
+      "originalUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.prismic.io/reuterscustomhubs/fbfac174-cb85-4a45-b4f1-ecaceea9ec82_tbr-Wizeline-main-hero.jpg?auto=compress,format",
+          "width": 2306,
+          "height": 1237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -622,6 +769,49 @@
       "provider": {
         "name": "The National Interest",
         "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -896,40 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular",
-      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
       "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
       "excerpt": "Chinese tech giant Baidu Inc unveiled its next-generation fully autonomous vehicle Apollo RT6 on Thursday, which will be put into operation on Apollo Go, the company's autonomous ride-hailing service,",
@@ -1059,6 +1215,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsandsentinel.com/wire/?ID=221294",
+      "originalUrl": "https://www.newsandsentinel.com/wire/?ID=221294",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d14e0irai0gcaa.cloudfront.net/www.newsandsentinel.com/images/2016/09/15131213/ns-fb.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Parkersburg News and Sentinel",
+        "domain": "newsandsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-baidu-unveils-production-ready-self-driving-rt6.md",
       "title": "Baidu unveils production-ready, self-driving RT6",
       "excerpt": "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. Save my User ID and Password Some subscribers prefer to save their log-in ...",
@@ -1156,17 +1355,17 @@
     {
       "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
       "title": "Driverless vehicles on course in Chongqing",
-      "excerpt": "Ruan said the company had recently realized fully driverless operation in a ... like the high-speed railway,\" Li Deyi, an artificial intelligence expert and academician at the Chinese Academy ...",
+      "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
       "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
+      "webUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://img2.chinadaily.com.cn/images/202207/21/62d8a09aa310fd2bec977493.jpeg",
+          "url": "https://img2.chinadaily.com.cn/images/202207/21/62d8a09aa310fd2bec977493.jpeg",
           "width": 720,
           "height": 479,
           "title": null,
@@ -1178,193 +1377,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T01:40:00-07:00",
+      "publishedDateTime": "2022-07-21T00:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",
         "domain": "chinadaily.com.cn",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-be-the-first-to-know.md",
-      "title": "Be the first to know",
-      "excerpt": "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html",
-      "originalUrl": "https://www.stltoday.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/27/b2700883-2471-525d-9575-4bcde9856099/62d8d2d8b5db0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Baidu-unveils-latest-autonomous-electric-vehicle-17318776.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/53/45/22722940/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T22:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidu-unveils-autonomous-vehicle-without-steering-wheel.md",
-      "title": "Baidu unveils autonomous vehicle without steering wheel",
-      "excerpt": "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
-      "originalUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/07/21/baidu.png?itok=OsQDVE1m",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/baidu-unveils-autonomous-vehicle-without-steering-wheel-462234?amp",
-      "publishedDateTime": "2022-07-20T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030.md",
-      "title": "Self-Driving Car Market 2022 Insights on Size, Share, Application and Forecast Assumptions 2030",
-      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or robotic car uses a combination of, cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-insights-on-size-share-application-and-forecast-assumptions-2030-2022-07-21?mod=search_headline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

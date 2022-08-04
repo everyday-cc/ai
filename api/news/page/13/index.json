@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-19-bytedance-forays-into-ai-chips.md",
+      "title": "ByteDance Forays into AI chips",
+      "excerpt": "China Visual. BEIJING, July 19 (TMTPOST) – Tiktok’s owner ByteDance has joined other tech giants in China to design c",
+      "sourceUrl": null,
+      "webUrl": "https://www.sohu.com/a/569356439_116132",
+      "originalUrl": "https://www.sohu.com/a/569356439_116132",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p4.itc.cn/q_70/images03/20220720/ef43458916a7416ea55704913b440e40.jpeg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "搜狐",
+        "domain": "sohu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-phaidra-which-sells-ai-tech-to-industrial-customers-raises-25m-from-deepmind-co-founder-others.md",
+      "title": "Phaidra, which sells AI tech to industrial customers, raises $25M from DeepMind co-founder, others",
+      "excerpt": "The startup, led by alum from Alphabet’s AI research hub DeepMind, launched in Seattle in 2019 and focuses on creating AI-powered tech that is both scalable and repeatable. This allows it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies.md",
+      "title": "Can Tom Siebel Fulfil His Vision To Make C3 AI One Of The World’s Next Great Software Companies?",
+      "excerpt": "Founded in 2009 long before the wide adoption of either the Cloud or AI by legendary Silicon Valley entrepreneur and billionaire Tom Siebel, C3 provides an open model-AI architecture that simplifies data science and application development to offer an end-to-end platform for deploying AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d6c84fe0962dd880f269bb/0x0.jpg?format=jpg&crop=500,282,x0,y11,safe&width=1200",
+          "width": 500,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/07/19/can-tom-siebel-fulfil-his-vision-to-make-c3-ai-one-of-the-worlds-next-great-software-companies/amp/",
+      "publishedDateTime": "2022-07-19T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
       "title": "Gmail is getting a machine learning boost for smarter searches",
       "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
@@ -966,134 +1103,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-how-is-ai-impacting-the-automobile-industry.md",
-      "title": "How is AI impacting the Automobile Industry?",
-      "excerpt": "When we talk about Artificial Intelligence (AI), they are not specific to certain industries. Their adaptability has made them the favorites in all the industries and sectors that you can name or think of.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
-      "originalUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/07/Automobile-Industry.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-ai-impacting-the-automobile-industry/amp/",
-      "publishedDateTime": "2022-07-19T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-natural-language-processing-nlp-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2030.md",
-      "title": "Natural Language Processing (NLP) Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2030",
-      "excerpt": "The growing demand for Natural Language Processing (NLP) has provided a major boost to the Global Natural Language Processing (NLP) Market as more people are shifting their preferences to this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/monkeypox-hospital-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-digi-yatra-using-facial-recognition-to-begin-in-august-at-bluru-varanasi-airports-scindia.md",
-      "title": "Digi Yatra using Facial Recognition to begin in August at B'luru, Varanasi airports: Scindia",
-      "excerpt": "Digi Yatra is proposed to be rolled out at two airports, Varanasi and Bengaluru, in August and at five airports, Pune, Vijayawada, Kolkata, Delhi and Hyderabad, by March next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "originalUrl": "https://www.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/717947/jyotiraditya-scindia.png?w=570&h=322",
-          "width": 570,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/digi-yatra-using-facial-recognition-begin-august-bluru-varanasi-airports-scindia-850527",
-      "publishedDateTime": "2022-07-19T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

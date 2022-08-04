@@ -168,7 +168,7 @@
       "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -300,10 +300,10 @@
     {
       "path": "_news/2022-07-29-vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion.md",
       "title": "VM-Fi's Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion",
-      "excerpt": "Effective AI translation technology for MICE events ... instantly breaking language barriers. For those who are unable to attend CES 2022 in person, VM-Fi will be conducting a live online demo ...",
+      "excerpt": "Backed by 5G and AI technology, the highly-scalable speech-to-speech translation turnkey solution reduces the MICE industry's dependence on",
       "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220728HK30844/vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220728HK30844/vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -322,12 +322,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T20:46:00-07:00",
+      "publishedDateTime": "2022-07-28T21:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

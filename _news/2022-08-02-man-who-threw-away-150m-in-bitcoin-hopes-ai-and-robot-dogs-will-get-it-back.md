@@ -3,8 +3,8 @@ category: news
 title: "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back"
 excerpt: "Computer engineer who accidentally discarded hard drive consults Newport council over scheme"
 publishedDateTime: 2022-08-02T11:43:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&amp;mc_eid=d105d8fee6"
-webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&amp;mc_eid=d105d8fee6"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
+webUrl: "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "MQnF3PzVivmXwYB2PIpbMP80uCEjAWaz6QLR4Mq02klXGIphihwYNHXYYHYAf3T4MTF9Wai6eoMk8KnIcU2VUm4yiTXUyYnf9zB/rPUGGPuQM+o8ryijtRMzk9wgcaUBQ/fQUrnpL0fboByGM9Kh41DefGiXmLhGEuYtYxvBZNqVWOf+nKoRQ1HyYa44CfpI47DBKKKY700KJ1dndPJJ9byGoRXc+s2lx2nJz6Df/iw9Hk2EbIGYjF/H8Ziydgu5KYT6n6/dLro6nZpWMnrtC0jjSHB/B90yp5YyhHSLDIt6rMKrreMJ6NmFBYhroAuJDd/SMShrkTR5oU4SboMEbrlhh7GGsFKWVGHx37ClI6Bm4IRMQhMXZ23P+N/eMQWkxQ8QGsT1VO1VTpxTiOwCQd6UuhG5cMM2UkMUoS7+SCHlsSP3tgYM9dHCBMOGpewEzTe7ZPOZbBRn2h0fJDufzjJajWdxbUeHssr53+g/ZF2eSgjin7hk4vksN4lEzJ5LgYX9Vsy5fFtRGnyqLr88vA==;hzxppruwO1dZ+T7+izJl7w=="
+secured: "4CmJjzV+h7mPv6kdA8EE19NPSD4a7WC5xKEAniMijKEYRcQjEpAgRVjMvuqusOHkBOs2p3OOeE3BzQESKjv/h0Lk7Zri3k0kpHrCS6l3lgj4hGrDlKdGpI1X6xvEWM+oKXa15mUMBandilRstKscX2WEMD+6kwQI7KSv/McjA0o2QLEW98PUvP2rUwTWGxrkM/jZq0ylhO/xpt3ClnueCQWd2RygcSKnz37CerTFQ0WIkZZ1dhXRtaTHd1f9CxKAtKurxwd7i4VOz2OtWQQwPWmQm/jWMbIUl1sLASEFV/THOh35aXwoCBvNFdufCbX1670GFCyiHexD6Ns/a3JZ6HMX2MWEpsqFj43CnXe1ADk=;XX8VqMYUw1JMRvKKFyB8vQ=="
 ---
 

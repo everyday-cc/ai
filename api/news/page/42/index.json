@@ -2,6 +2,145 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-06-24-improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker.md",
+      "title": "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker",
+      "excerpt": "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg",
+          "width": 1245,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:33:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
+      "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
+      "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marietta Daily Journal",
+        "domain": "mdjonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-an-ai-learned-to-play-minecraft-and-its-actually-pretty-good.md",
+      "title": "An AI Learned to Play Minecraft, and It's Actually Pretty Good",
+      "excerpt": "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "originalUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google.md",
       "title": "Artificial Intelligence (AI) in Higher Education Market May See a Big Move | Major Giants Cerevrum, IBM, Google",
       "excerpt": "Artificial Intelligence (AI) in Higher Education Market, Global Outlook and Forecast 2022-2028 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
@@ -984,144 +1123,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
-      "title": "Some People Do Better on Cognitive Tasks while Walking",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "originalUrl": "https://www.govexec.com/workforce/2022/06/some-people-do-better-cognitive-tasks-while-walking/368508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.govexec.com/media/img/cd/2022/06/23/062322walking/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Executive",
-        "domain": "govexec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-ai-writing-assistants-are-they-worth-using-in-2022.md",
-      "title": "AI Writing Assistants: Are They Worth Using In 2022?",
-      "excerpt": "AI assistants can assist copywriters by providing writing prompts, offering suggestions, identifying trends and checking for plagiarism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//615382e277b406d68cb8398a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 882,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2022/06/24/ai-writing-assistants-are-they-worth-using-in-2022/amp/",
-      "publishedDateTime": "2022-06-24T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws.md",
-      "title": "Artificial Intelligence In Fashion Retail Market is Thriving worldwide by 2027| Top Key Players Microsoft, IBM, Google, AWS",
-      "excerpt": "utm_source=dj&utm_medium=46 The major players covered in Artificial Intelligence In Fashion Retail Markets: Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe, Oracle, Catchoom, Huawei ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-fashion-retail-market-is-thriving-worldwide-by-2027-top-key-players-microsoft-ibm-google-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/7c85f8a109a88478f7c881b77157ec52afd8ef79-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

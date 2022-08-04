@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
         width: 2048
         height: 1812
-        isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum"
-    excerpt: "Rough Cuts Australia PM unveils draft Indigenous recognition referendum. Posted . Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum"
-    publishedDateTime: 2022-07-30T11:42:00Z
-    webUrl: "https://www.reuters.com/video/watch/australia-pm-unveils-draft-indigenous-re-idOV542530072022RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20220730&i=OV542530072022RP1&r=OV542530072022RP1&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"

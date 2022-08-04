@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-04-greg-gutfeld-long-trump-derangement-syndrome-is-driving-the-medias-polarization.md",
+      "title": "Greg Gutfeld: Long Trump derangement syndrome is driving the media's polarization",
+      "excerpt": "Greg Gutfeld weighed in on the media's polarization, amid a new study from UPenn claiming cable news is more polarized today than in the last ten years on 'Gutfeld!'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ae5d7b-a67e-4409-9128-cd2bc403c463/a523bff2-9c5c-418a-9652-b7d079fda2fc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "publishedDateTime": "2022-08-03T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
       "title": "FedEx to expand robotics technology, artificial intelligence",
       "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
@@ -1158,58 +1210,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.md",
-      "title": "Robot cooks are rapidly making their way into restaurant kitchens",
-      "excerpt": "Restaurants are looking to robotics to help solve staffing problems as well as alleviate repetitive tasks. It's becoming easier as the tech is now cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964440-1634903029064Team_Member_Next_to_Flippy_ROAR_at_the_Fryer.JPG?v=1659454911",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "publishedDateTime": "2022-08-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

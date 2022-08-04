@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Dr. Jeanne Ng appointed Chief Sustainability Officer for ESG fintech leader, BlueOnion"
-excerpt: "HONG KONG SAR - Media OutReach - 4 August 2022 - BlueOnion, a leading global ESG modeling and analytics platform, is pleased to announce the appointment of Dr. Jeanne Ng as"
+excerpt: "HONG KONG SAR - Media OutReach - 4 August 2022 - BlueOnion, a leading global ESG modeling and analytics platform, is pleased to announce the appointment of Dr. Jeanne Ng as Chief Sustainability Officer with immediate effect."
 publishedDateTime: 2022-08-04T02:45:00Z
-originalUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/08/04/dr-jeanne-ng-appointed-chief-sustainability-officer-for-esg-fintech-leader-blueonion-/154184"
-webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2022/08/04/dr-jeanne-ng-appointed-chief-sustainability-officer-for-esg-fintech-leader-blueonion-/154184"
+originalUrl: "https://www.asiaone.com/business/dr-jeanne-ng-appointed-chief-sustainability-officer-esg-fintech-leader-blueonion"
+webUrl: "https://www.asiaone.com/business/dr-jeanne-ng-appointed-chief-sustainability-officer-esg-fintech-leader-blueonion"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: malaymail
-  domain: malaymail.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/tmp-6a0f07b7-7bb4-4db0-8e0c-f0f3_0.jpg?h=bde28bee&itok=rQnz0TqX"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "NDVP2UoE2a1EnEwK8I5sIBuhsBZFv7U4noeusjLZTLJorl1xW5YgXVSId3wn5LF+wRi2Z4MdGxWTYO87rnnmYKXMC4Z35PyaBGtxHa6dRprh9M7VdZMdcirqOJ1iIHWpOkssDSznGQfoCrucF583iK95nC2xF13R3v1Qp9frlBSDpCEQb4K4b9CSjlhhi2LqRjKeYqgWYiFp7ztnBv61KLGiT3EVvljh0CXuVKkBFCWmaVjbT6Uc0D//5rvgQAtN8H/zwzFrhsu21eD25IIFBhQYR5FK89uczM2tCt75SBFhSnBesw3rYVzfJczPHsMrrIe7qiUmm4t9m8bzob33JZmuzFL2eaEyYvGI9LNPuTw=;nDNQbfD32JLX7hHfSqeEmg=="
+secured: "rROIlVWL0HanghbJlC+1PQ0iuvuDQT7Cu/5cU21AKBIR4N/eGwZhwKwDZx8R0ge3eMniuKyzoP+1Aiw22QpBjmpVJKyVYuFCN++EmLqEaEdovXcpJkgGedsG/HYJ0chclnsy5AqUY6Qlth0vVtk7LhBx8vY0G8a4wnKiCsiKRV/7ysb3ma/ox8YnRcglG0al5QsNb/4rqtNHXa2SYU11Md0ioHsZndllT5IsZepTEYSuier3oManhnag5Qaqpyv0NvZwDu4Rds+Sy+Oog8EVpixnPI8y7QoIeLgZxlXLsBnnSwMsFd6TbDkJYimkW5ES7O8ZTGMZKz6QYXlnzS9e1zs6sOpL/PjuBje4iWbSbeE=;C5G+4fJVwVy9REjvxHRmpg=="
 ---
 

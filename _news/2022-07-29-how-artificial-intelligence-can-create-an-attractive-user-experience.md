@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.prismic.io/reuterscustomhubs/fbfac174-cb85-4a45-b4f1-ecaceea9ec82_tbr-Wizeline-main-hero.jpg?auto=compress,format"

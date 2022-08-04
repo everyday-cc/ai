@@ -53,20 +53,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode"
-    publishedDateTime: 2022-08-01T11:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
 
 secured: "Vr6DePgkNXPb5fBGjh9BNp31ovXn7hH8XSWqTaOjoLK/oyBR1739LtkriujZ22RbtMe9ffxUkQkW0IRDI9jUxvBFj7aZ/C96RzZwcHH/jY8f3zdUSDnac1WRzCv40EGPtjM7mtqJTVAItc2qDmT0ZIx/F3m9l9JT6DwoKcrF75yln8xn+iE2PqjWcOuXAYdb5kxs94sp2PsRTP8o+5IS/mFWoaSOCuUh0f9rJaOQLVDDRlkcc8ofvctZfiLv1fpHKJUGa8TVcnPqCMx22g7RrvRPo989NfhEoaFuUzKa4bsYOVSgnszE6w+W/qmbM8+ZMKSQDOhlInF/ux7FRdrqEbjU32j1Aw3aqgLczfNYK82zk3awSokM3Jkdz97mDxW4EaVxn9yaW0isFprNqRCujdn3MfelGEvSOeD261Bui52Ia4pDlM93cmFh/hU6d5gtitGrZHFbtRkDUAFLW2hCXbrWy36T1f4vBW7nvFNDEwxGuNHLmXT6duttZ7m7Rks4fti5BFfI/XyHrOU1k4Lx6A==;YQpsUVrModXvjDHHcIw58w=="
 ---
