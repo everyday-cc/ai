@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 57
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "HPsX0BFaQCITroillQYiHiHbzd48Jy6knnkFgkpixiGIrD7gRgaUdlkaP0ih+NumRR8IxvnHKw3+NMWkLH2qyMANPoIMyFs8rY8EEqgN1Ik4cvtcJaWdwNB49O2DTVPdkgVzQ7ztInOuuQ5evMCbtcyb4QF0fera4h25pHIDtYI2/ExsFAisTm+rRSmSC01rmVHFTHJNC7YxT17IzYrG6/u9eREnysTeS3TJjy1JPSM5oGO9R/ujFyzIx/FgTghwHHVoxWxE3KPAfbHmAmacZN7cd+t59trWNItwwy8oimu9JxSuhG70cqwfaJfJtLKX2dUjHwFw3+11WWd/Tj6agl4uHtE0NuyPj3obYZjE3XPSBeTkaPtmC7PlbTfiXCikyhSeYB78yQPPHafvXkdMkBe6Zl7aOxT43v2cL+ippec=;5Hh5jJW+EiFPdhPlyRN/uw=="
+secured: "ZHS+FONk0eq4bT4Fx2fMUp0mWX/3uiqFvH1LbzU9s6V0GtbZ0MJCKF9b0TmRaUAANMblZ8j5T5+5TIKmL1S3eggN1BsrjGKV3d+FJzg0Nt0rGZmN/GBZh451ILgBCY6HtPO/hTlZGnklzHPTjAdRc+16cp/WCRJ1XKAD5JcYQV2Q0O6zg8rWvGIGUD/+Vvu8+14CdXWmguRhg4nPPgPgjOAduBhd3ke7boZ4EW9cPW0zhge93HogqxrtcBt6sA6P+6riDk4ekgr4KAjFwFEj8ij4N76jW7A1xiwHyeDg/m66Y39E+iAmkHFWW+Xuq40n3uaQEumMwjE5+BPUbJ5RsZ98Q3b809rgEMfDhyXnnNNfaP4jWGUuXk7kshkRisBHEkwFZHUIcUb1PsOTMGbuyjWirGKKHFNNfQrep2CRLyA=;v4WBnUh3QnpV5fKpPWO0pQ=="
 ---
 

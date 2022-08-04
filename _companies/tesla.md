@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 573
+heat: 555
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 16570546
+  followers: 16571062
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "H9jnuj/l9AZCnIWbfInqjO3pZKirinG9lprQcEonliAkcM25GPRBjSRp8cCWR0UiLbBncZSmKtxWd2l/R+xSPil0lodu4tG5rDSJnd7WNmMsuL19QPvnqNyn+uk8UpMWKLxR+bVsjTeFbF61PlB0llu6kvZkyAvJy/ivthmU/phbKT1AGe7nHeQq/gC+cHJle8viffi2E5xFt3GXh7y+DmDk0xT4C14Suhw5GNIONvTyioR9qo+k2OtuzcS30L4khLUWvlG8iGV2E/22YauUXUV0fEKwqVl6gapvNGSHf6CG/3MRHE2HyLS8A2pq0zyKfsCSs0V8PdCo30BaFgyjz5PYDToQVFy7XYA/ESQYy5hLk7adsGOZJt+RKLd57qxyCJuHO09bfb1tW40gCoN1CUoaAjGuFrZnpsECSUDWnLQ=;gjpw3Mllcjf9Qc0SbgZFBQ=="
+secured: "Iw69ajEfzjQsvlG7l5Bz1fBTToLrIUnoOaIWpL/4YeZzlV0r50WGMO2LxKg5h9GvBrXDL7EcYWSO4f2MCSvImHsdxgW1i4SVe8nN1BUWj32UTyzs2PFk7Mmyfbk9EI61yFGBYX3/UkEKtLNwuS5j/YXobQspcYIdlQc2+3N+wbgXrbgJmhUcWfn3oDfyrV+3lH1Ontx37Y5YW4tpCBjVMwAik/pV8SourZSyeB/AaIwv30mEfKl+cKSmO8vTavvhnwX6tZA+h/P6udmZPzeLl26H/iK8iO5rGZNfFr0rKWiQO2lVqUXjwX9/nftQExxQqMcjZSZxuDMq3766G/7JnaNRsu6wo0kTefaeeYPGwt26Ywyp2OxPIzdPFBFIJLOBKLvpKcCSUJSF87lOMN/McJtAx9bhMOn0NqHFQmHiCG0=;8I2unP052/V9wuD5nsWqJw=="
 ---
 
