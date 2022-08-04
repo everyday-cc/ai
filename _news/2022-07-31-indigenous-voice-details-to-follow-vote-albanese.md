@@ -80,6 +80,20 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Australian Indigenous language used in AI breakthrough"
+    excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"
+    publishedDateTime: 2022-08-04T03:11:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-used-in-ai-breakthrough.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/australian%20outback.jpg"
+        width: 999
+        height: 562
+        isCached: true
   - title: "Australia PM says Indigenous voice details to follow referendum"
     excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
     publishedDateTime: 2022-07-31T20:59:00Z

@@ -23,17 +23,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Criminal syndicates make insurance more expensive — and a South African company is fighting crooks with AI"
-    excerpt: "Naked Insurance’s use of artificial intelligence plays a big role in how it detects fraudulent claims and keeps clients’ premiums low."
-    publishedDateTime: 2022-07-30T09:10:00Z
-    webUrl: "https://mybroadband.co.za/news/software/454274-criminal-syndicates-make-insurance-more-expensive-and-a-south-african-company-is-fighting-crooks-with-ai.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 0
-
 secured: "0zoFYt7xcAjFZYQ/fKEa4okwHhOEz0KenRM1Ce0Bd2yHnGceM+OZRLbT0AdIS0Iq1mgiOVX1IkBaXxJoeSqvr4hayjx8zN0siLNCpv6cyQ992QhWOySMrPGxD0nrsI8AMCshZGEQbpCDQKiHNC/l8/p5K+w2Q8hZ1/Oj7/36CCC7h2qgypJ7saRui7B8Wv+TleQno/6k6foqDGZ/4zkyxreSylv8YFWfAgauyAO/NuROOLP8ih4Lzsd+kf8J6PP8BqH5Hega+vVVs50V9stKp6vBvEoDHXztyfGdwMZTMXZIKEBgAS/gvo2KCP+Vf2G/KIJJqGZHcpcx7VN3vDmPRX7yCWo6SIWTGkPinv/jNjE=;A7EUlwuCP2UTp5Y6zhixbg=="
 ---
 

@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Be the first to know"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, has unveiled its latest electric autonomous driving vehicle. The company says the Apollo RT6 will be soon be part of its"
-publishedDateTime: 2022-07-21T03:51:00Z
-originalUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
-webUrl: "https://omaha.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_a161d8fd-ca01-571e-b121-6b559677de74.html"
+excerpt: "Chinese search engine and artificial intelligence firm Baidu on Thursday ... lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix ..."
+publishedDateTime: 2022-07-21T07:01:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
+webUrl: "https://www.stltoday.com/lifestyles/technology/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6/article_ea0503fa-4c7c-5813-bfe9-4b468edf4458.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/8/50/850650c9-1900-540c-8528-0c82f739043a/62d8d2e741cb5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/27/b2700883-2471-525d-9575-4bcde9856099/62d8d2d8b5db0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "A7oS9uFPE5iztyddTc/DbpHql+F5wKNkFomAID67Z45bgYySwDAuSO2rdx3jwX8wb1Hg0bkXx5c10NXg5fVtEN81m1Re9gHv1oBlllc8dTsqOMI6vw4inm98ytEBTzXDFP3EjWpfMdMhgh1WWIKPiaIDgNvCLcNbjqA/MDNvlbKtIoiJYKQTA4bq8173o+wMAFr2sVUVBlpaQh6rdtV7q2D9VF0GkwmMgWcsMheypXaXBHqst5qaRoHi+4oDi8xI15LKfu3mg0xb6ouCWcaQryPI/Zt4dhazCYnPgJPB6NF6XQVOQQjQ2RbCo6nFHDti9fLo9+1hyclNHxorZsoftvD91h2M1/LAjedyG/ReehCojlWYpK2KcBtKpgw7yBmS2KkU6og3gDdzoiKoReLrzK19ogKBCA9O2r7TI90GrCyvU0HR2W7nzzqL1RMG2lqpNPBh/9XSpRytTnZSnbGVoSwkaSvUtmxuo2aK857VDjGLU3t12WUAAs++qrbkPVfat7hEW19XD8cn27b7ExrfRg==;l2LLH4F6bQnHFE+PYCorZA=="
+secured: "Aw2ud/+BQF+0ifAFIoFoaaqJlNb4N/yxJ/cVku/9/rL6NGWfjap7YmRGYStmWy0Pri/GBxCj+mOZ/0at8aAdqfBHGOv8QorbE7yqUOqSkmMDstD2cJ6citdl/sZ6Jbuo32Xx/aUkSPVyPNl0FqffoZKXk9kqNgzF701kMR6hBqLAUhrpLV/gIOA5l5CKpf0GmO5EURfjS/IsJBmKGsAeGHqJfDgi4K2AbufILohfm8ECj8gVbqnvXbTLeL6IZZfkBY65Xk/7z2lqk66uM7rD0iutXnmVhiWNf7ALemF/l5/m67LIZeU4suK1CQTU8TQ+ko2poyY7JQm10xDKQDEXP1RyQN8Fx/8qHggdOvNWgnw=;Hfz1UrMkY41p9z0Y/BonnQ=="
 ---
 

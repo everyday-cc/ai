@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-02-self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.md",
+      "title": "Self-driving car companies' first step to making money isn't robotaxis",
+      "excerpt": "For now, the money for self-driving tech is in software sales. Investment analysts from Goldman Sachs and Nomura point to opportunities in auto software itself, from in-car entertainment to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107068866-1653982556326-gettyimages-1322451139-vcg111333371752.jpeg?v=1653982672",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "publishedDateTime": "2022-06-01T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco.md",
       "title": "Cruise can finally charge for driverless robotaxi rides in San Francisco",
       "excerpt": "Cruise, the autonomous vehicle unit of General Motors, has finally been given the green light to start charging fares for its driverless robotaxi service in San Francisco. The California Public ...",
@@ -1295,50 +1347,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-google-leads-in-negative-media-perception-around-ai-ethics.md",
-      "title": "Google Leads In Negative Media Perception Around AI, Ethics",
-      "excerpt": "The marketplace for artificial intelligence is worth billions ... Nvidia with 202, Baidu with 144, Waymo with 90, C3.ai with 87, Tesla with 68, Argo AI with 39, Cruise Automation with 26, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/05/24/googlehq_alAC7dL.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

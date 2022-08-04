@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-22-self-driving-trucks-could-be-on-us-highways-by-2023.md",
+      "title": "Self-Driving Trucks Could Be On U.S. Highways By 2023",
+      "excerpt": "Self-driving trucks could be on Texas highways as early as 2023 due to lax autonomous vehicle regulations in the Lone Star State. The Texas Department of Transportation is taking a collaborative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/06/22/f9d39a0d05ca7d786b3af2fbc0ab988e.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/06/self-driving-trucks-could-be-on-u-s-highways-by-2023/amp/",
+      "publishedDateTime": "2022-06-21T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-perimeter-medical-imaging-ai-appoints-artificial-intelligence-leader-anantha-kancherla-to-board-of-directors.md",
       "title": "Perimeter Medical Imaging AI Appoints Artificial Intelligence Leader Anantha Kancherla to Board of Directors",
       "excerpt": "His pioneering experience applying artificial intelligence and machine learning software ... Mr. Kancherla led the Level5 software team responsible for building the self-driving car. Mr. Kancherla previously worked on Windows at Microsoft focusing on ...",
@@ -1332,49 +1375,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-the-dream-of-edge-ai.md",
-      "title": "The Dream of Edge AI",
-      "excerpt": "While we don’t have that, clearly artificial-intelligence (AI ... And while we might not all have self-driving cars, we’re keenly aware of the developments in that space and the potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/AI_dreamstime_l_142816613.62ab73d43c26a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
