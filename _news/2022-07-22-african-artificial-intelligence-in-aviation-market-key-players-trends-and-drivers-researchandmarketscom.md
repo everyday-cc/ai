@@ -1,10 +1,10 @@
 ---
 category: news
 title: "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com"
-excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027” report has been added to ResearchAndMarkets.com’s offering. The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market."
+excerpt: "The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market. Moreover, the report provides deep insights into demand forecasts,"
 publishedDateTime: 2022-07-22T11:58:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "VXW5ueqPuIGZON7BuibEeF/ozek37GGAr9ZLig6oXqjy2Dt9PV2HAPMBRC5odc1Z9MnI/elnDTTHoOvDtEJXMb0Bmp1Bh7iBI7iXGQuYScxoUFwd9WCEiyTmSbyNhuvZ/jEPZyLLfkJpjxVaeeWa8whB5aLhJH+ZZQixlCP4d8+lbtCEPMZTV9Q0z4yAnmXcQJsOBHVrF7XWGQeoerfnP8gQSRF/7vuJAS4akJLD8s7L05/VXehp/wFU3FS3j1QGVFnDc1mozcDCPDx3gJI9lPuQRUrhyse65ncngvYFWuE8Sr9yq9ylkL7crvmd8W1l4bTuiP1OEFxZmB/Sy19GJCk2cF0OSVNYqbMT5Rya6pM=;Pxj3jpdhW41DnCFKwpTHBQ=="
+secured: "2ihvin27k3qmbzfELcA3e0STjUHqhqFObYHCkUFvtoNE2FyJEp3yePIijFyzxtRYfX7sDuoB5kglYOYUzHmZ8e9PH1q7UYAfspw9v1W9dQaqWmWzssJbh34fRo698wb7jcjbQS2tnFWrFUzSB2BzzsTSyTE8jpr0np575uVKfUPdk/7YQHUEKD54hIddjrJDDyB9XbsTyDtMRF1eVdayvlPpdQtwe7Bbartz3UVVBzygfBJW6ynTwRRt+2s+zyI7Y32vgH+BZw5b9g7ZkdrNHNu9KJX45S6saKb9i7FGvAhHP6C9Ch4nyoBMHzaMxZk3tjzXTkpY7eFZWX2GIGxat4UU2xtfXP2ZpT3248zI0CM=;tF9716c9q6RcAwB00Qp1uQ=="
 ---
 

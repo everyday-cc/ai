@@ -15,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1868803/image_5019932_6176121.jpg"
-    width: 297
-    height: 400
-    isCached: true
-
-secured: "HQHIYNe0YqMdSzNnUMu3L85enriOhHfBqZgcoFt7LlWRzu7A1hO/vB4WeN5WITwTG8sKIUgx8xATlqwTnScbSwzHpz3HbWx6zuntFYihyZVasvkDf28+ZUAiySZXu2Da/QCpFCxkjk4U4QcI94+1hQhApqXCUr/SHnM4dTiU1nhPjLkxk7hhdMk6A56HaAuZJYYm8+CzEA2CIhFUxIXMpPttFaSt6X3tG6KNfqQ0JNsQAiKpOlah2CVZQkxrG+8GbySWdG8W+3I97QUHlxPsjkBOmx2wbXVNePQb9OK3rLMQRt36704LjOyXPFoZvtwzuoPX4hC7XCEWZAM6Pcqtfg44ZEXW9U11WtecYQqtZbQ=;GPNz3f5HYWlSlVQnXnpPHw=="
+secured: "Ys5rYbRXZQJ4EEt+HkLOuIvOTLDkaEpS0j4c/hDGR7OdUVVcGoCW2cig/EVZOagkGTueFECyrurT9ukiG2gjIqf9F/knQd2ulGqbb60VLIkj1f0lUTVMUFQk58V44hyUWjDPN9R9VI1VIgxi97QhlI/NPJ7wIoNtbthNFpkce2/i+Z4v+8celdvYt02XuWv9mMr0eEJlP1ABXn+4eimoMRNQRTbVegBBtd1P0Zst5ZorT3lcaiZLVMBrTe010VmFpA56rWvHL5a0hforDzMoG2ly1fhFJd4iy0sz9KCFOWZiDjPDJ9CGhpMMMqEmG+pudJ44FKBHdbXlTe+nwlhvOyFpbAm7Yu2NbC+Bqtv445s=;ESv8uDHqDBV0fqkvXes41g=="
 ---
 
