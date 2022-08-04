@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T10:12:00Z
 originalUrl: "https://www.medscape.com/viewarticle/978471"
 webUrl: "https://www.medscape.com/viewarticle/978471"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Medscape

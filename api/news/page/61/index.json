@@ -2,6 +2,58 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
+      "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
+      "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3d955ea7f4b3cb1876076/0x0.jpg?format=jpg&crop=1260,709,x0,y96,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/06/13/churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers/amp/",
+      "publishedDateTime": "2022-06-13T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-amds-ai-strategy-comes-into-view-with-xilinx-gpu-software-plans.md",
       "title": "AMD’s AI strategy comes into view with Xilinx, GPU, software plans",
       "excerpt": "Analysis After re-establishing itself in the datacenter over the past few years, AMD is now hoping to become a big player in the AI compute space with an expanded portfolio of chips that cover everything from the edge to the cloud.",
@@ -1088,51 +1140,6 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-engineers-build-lego-like-artificial-intelligence-chip.md",
-      "title": "Engineers build LEGO-like artificial intelligence chip",
-      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don't have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest sensors and processors that would snap onto a device's internal chip—like LEGO bricks incorporated into an existing build.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/engineers-build-lego-l.jpg",
-          "width": 1434,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-lego-like-artificial-intelligence-chip.amp",
-      "publishedDateTime": "2022-06-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
         "Machine Learning"
       ]
     }

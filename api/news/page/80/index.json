@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-05-31-amazon-to-develop-new-consumer-robotics-software-development-centre-in-india.md",
+      "title": "Amazon To Develop New Consumer Robotics Software Development Centre In India",
+      "excerpt": "The Indian centre will help support Amazon's international Robotics division, which launched its first robot Astro last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "originalUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/05/Astro.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazon-to-develop-new-consumer-robotics-software-development-centre-in-india-5425347/amp/",
+      "publishedDateTime": "2022-05-31T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-a3-robot-sales-in-north-america-continue-record-increase-into-2022.md",
       "title": "A3: robot sales in North America continue record increase into 2022",
       "excerpt": "VP Alex Shikany to discuss latest on how companies solve labor shortages with robotics at Automate June 6 in Detroit",
@@ -1066,40 +1109,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
-      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
-      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

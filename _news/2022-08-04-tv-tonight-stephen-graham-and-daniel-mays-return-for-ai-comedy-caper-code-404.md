@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T04:20:00Z
 originalUrl: "https://www.theguardian.com/tv-and-radio/2022/aug/04/tv-tonight-code-404-the-undeclared-war?share=pinterest&nb=1"
 webUrl: "https://www.theguardian.com/tv-and-radio/2022/aug/04/tv-tonight-code-404-the-undeclared-war?share=pinterest&nb=1"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Guardian

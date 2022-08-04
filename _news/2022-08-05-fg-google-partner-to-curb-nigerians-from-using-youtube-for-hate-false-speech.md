@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T18:16:00Z
 originalUrl: "https://www.vanguardngr.com/2022/08/fg-google-partner-to-curb-nigerians-from-using-youtube-for-hate-false-speech/"
 webUrl: "https://www.vanguardngr.com/2022/08/fg-google-partner-to-curb-nigerians-from-using-youtube-for-hate-false-speech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Vanguard

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T17:34:00Z
 originalUrl: "https://www.theguardian.com/australia-news/audio/2022/aug/05/is-an-indigenous-voice-to-parliament-achievable-with-lenore-taylor"
 webUrl: "https://www.theguardian.com/australia-news/audio/2022/aug/05/is-an-indigenous-voice-to-parliament-achievable-with-lenore-taylor"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Guardian

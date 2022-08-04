@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-22-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
+      "title": "Here’s what it looks like to ride a Chinese robotaxi with no steering wheel",
+      "excerpt": "Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese tech giant, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
+      "originalUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel 3000",
+        "domain": "channel3000.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
+      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
+      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "publishedDateTime": "2022-07-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q13 FOX News",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-baidu-unveils-what-it-says-is-a-37000-self-driving-car-with-no-wheel.md",
       "title": "Baidu unveils what it says is a $37,000 self-driving car with no wheel",
       "excerpt": "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year.",
@@ -1206,101 +1283,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Washington, DC (CNN)Andrej Karpathy, Tesla's director of artificial intelligence ... including Alphabet's Waymo and General Motors' Cruise. \"Is that person distracted and on their phone?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220713183352-andrej-karpathy-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/business/tesla-karpathy-ai/index.html",
-      "publishedDateTime": "2022-07-14T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi.md",
-      "title": "Artificial Intelligence In Insurtech Market Type, Application, Key Players, Region-Forecasts Over 2022-2028 |Latest Research By IBI",
-      "excerpt": "and self-driving vehicles, speed up the artificial intelligence (AI) insurtech market development. The expansion deprived to offer customized protection administrations and reception of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-insurtech-market-type-application-key-players-region-forecasts-over-2022-2028-latest-research-by-ibi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/b2256bb83490cc83e3b7c4897085f5d61ac37c00-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

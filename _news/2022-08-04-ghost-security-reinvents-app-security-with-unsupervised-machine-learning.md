@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-secu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/"
 type: article
 quality: 107
-heat: 108
+heat: 109
 published: true
 
 provider:

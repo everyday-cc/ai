@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T14:39:00Z
 originalUrl: "https://statetechmagazine.com/article/2022/08/motor-vehicle-departments-transform-tech-document-management"
 webUrl: "https://statetechmagazine.com/article/2022/08/motor-vehicle-departments-transform-tech-document-management"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Statetechmagazine

@@ -45,21 +45,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
-      "title": "FedEx to expand robotics technology, artificial intelligence",
-      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
+      "path": "_news/2022-08-03-fedex-to-invest-further-in-artificial-intelligence-robotics-technology.md",
+      "title": "FedEx to invest further in artificial intelligence, robotics technology",
+      "excerpt": "Per the new agreement, FedEx will purchase up to $200 million in services from a Massachusetts-based technology company, in exchange for warrants for 25 million shares of its stock.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox43.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.fox43.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "webUrl": "https://dailymemphian.com/section/business/article/30114/memphis-fedex-investment-artificial-intelligence-robotics",
+      "originalUrl": "https://dailymemphian.com/section/business/article/30114/memphis-fedex-investment-artificial-intelligence-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://thememphian.blob.core.windows.net/sized/84694_1200",
+          "width": 1199,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,13 +67,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox43.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "cdnAmpWebUrl": "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "publishedDateTime": "2022-08-03T16:22:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX43",
-        "domain": "fox43.com",
+        "name": "dailymemphian",
+        "domain": "dailymemphian.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -83,6 +83,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]
@@ -1232,7 +1233,8 @@
         "AI in Robotics",
         "Facebook AI",
         "AI in Healthcare",
-        "AI in Autos"
+        "AI in Autos",
+        "Natural Language Processing"
       ]
     },
     {

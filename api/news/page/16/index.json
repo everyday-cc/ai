@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-07-18-advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in-growing-category.md",
+      "title": "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category",
+      "excerpt": "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in/article_437cd413-38ed-5555-be65-18da82093aba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/4/d6/4d60f869-f8b0-5477-8cfc-ea5baf18a455/62d54c4386f67.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-laivly-adds-ai-ml-and-automation-to-improve-cx.md",
       "title": "Laivly adds AI, ML and automation to improve CX",
       "excerpt": "Forrester predicts that companies will continue to leverage and accelerate AI programs, particularly when it comes to agent-facing use cases. As they do so, they must also address agent burnout, advocate for agent career development,",
@@ -1091,58 +1134,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
-      "title": "The imperative need for machine learning in the public sector",
-      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
-      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
-      "publishedDateTime": "2022-07-17T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

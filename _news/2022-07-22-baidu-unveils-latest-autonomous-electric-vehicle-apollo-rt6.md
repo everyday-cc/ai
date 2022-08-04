@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ..."
-publishedDateTime: 2022-07-22T05:55:00Z
-originalUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
-webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric ... globally but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-22T04:00:00Z
+originalUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular"
+webUrl: "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6?comment-order=popular"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "mxfJt/qdoxHY/1FQvN7V77V4yP56PvuGD2TUqrtSnYmCCIUB9dJwsqSV4r2za48+E+WxQmOTY7ia9oBjws7QhVPIjZImVbDs1nwR0mLUleZNGZR2w/zYF0FLpWNXSxujkKu2Bb36RFlQO2m0Q7YQbcTwB8fpIo6/VepF5VcxMHnnXTmyYYw50+9AEPig63ft9vw7SQEBmD8eq//9+XOSobnl2dUssjo5jcpaAKlrS0ERj3TsqGUHXOGWtIZ17/PC5AqQooP2ah0zZsVouKqRSZZwdR7nyoRHbxiLlWNm+82JINAdPurB4eoMcDIlSd/hEd+spzAzgSDEWfI0Rja/f+9RudYIjOcSQ/igDDeYa4k=;Xm/D6GdaF0U+wjscS0/2Kg=="
+secured: "d/0kZSZCblWObL5bOTXXI34JKdC4a14TctUZPoa5Ez2+JRsJHc/C7HLV7yIyRKfb5oAhYy4DG/K0cGM1atFXQMOuB1BErT+LgpyZo4AjRdMnCDFfK8cN08pA7xIPLgo34C7cQ3UTYWhsgLEnDnI57VZ3aU3pwgW8wxSuM7oWGr+HtXvsUo7ohqp971SU3HhsGyt4UYZB1ikcRr9Jwj08AyEHBjhm/zoALV8NsMVuudLtC00X0ZN+c3SviGci5vbwECTm26FReCGNaR9bgjwC+v3ziF4x/8Tc7Plrb7E9UIHjwkxP9w62p6mJVqk4M7AWIUFAxSYqr/o5txfXySam1GaDnU+TZRgy8JA9sVG8ssA=;2wfrH6NBleuJFgNzGNJ1SA=="
 ---
 

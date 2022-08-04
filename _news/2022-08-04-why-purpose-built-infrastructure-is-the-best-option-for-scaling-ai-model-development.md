@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T16:09:00Z
 originalUrl: "https://www.cio.com/article/404275/why-purpose-built-infrastructure-is-the-best-option-for-scaling-ai-model-development.html"
 webUrl: "https://www.cio.com/article/404275/why-purpose-built-infrastructure-is-the-best-option-for-scaling-ai-model-development.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: CIO

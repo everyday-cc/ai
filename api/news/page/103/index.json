@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
+      "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
+      "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-germany-robotics-stuttgart-1379d550151bb0bf179fe934141a93f8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
       "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
       "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
@@ -1102,58 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like.md",
-      "title": "Intel dishes new details on its Arctic Sound-M GPUs - and there's plenty to like",
-      "excerpt": "to virtual desktop infrastructure and AI inference. During the day one keynote, the lineup was characterized by Raja Koduri, the brain behind Intel’s GPU efforts, as “a media supercomputer on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
-      "originalUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rXP4bgaDnxxZz5TbNu3Z5n-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T15:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

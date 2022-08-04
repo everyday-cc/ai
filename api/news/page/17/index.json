@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-17-the-imperative-need-for-machine-learning-in-the-public-sector.md",
+      "title": "The imperative need for machine learning in the public sector",
+      "excerpt": "Today’s public agencies must adopt digital transformation efforts to reduce data backlogs, improve response times and drive better outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "originalUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1353768853-2d-illustrations-and-photos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/the-imperative-need-for-machine-learning-in-the-public-sector/amp/",
+      "publishedDateTime": "2022-07-17T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-17-ai-art-is-challenging-the-boundaries-of-curation.md",
       "title": "AI Art Is Challenging the Boundaries of Curation",
       "excerpt": "The AI art movement rides on the coattails of technical progress in computer vision, a research area dedicated to designing algorithms that can process meaningful visual information. A subclass of computer vision algorithms,",
@@ -1113,58 +1165,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-government-launches-defence-centre-for-ai-research.md",
-      "title": "Government launches Defence Centre for AI Research",
-      "excerpt": "The MoD and Alan Turing Institute announce the project as part of a wider plan to make the UK a world-leader in AI research",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368558/government-launches-defence-centre-for-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1657881116/itpro/Dstl-logo_upscale.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T18:46:00Z
 originalUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/08/04/austin-a-list-winners-2022.html"
 webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/08/04/austin-a-list-winners-2022.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

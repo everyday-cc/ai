@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 209
+heat: 179
 published: true
 
 provider:
@@ -81,22 +81,6 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Australia's Prime Minister Anthony Albanese says details on indigenous voice in Parliament will follow referendum"
-    excerpt: "Australia's indigenous people have toiled for generations to win recognition for injustices suffered since European colonisation."
-    publishedDateTime: 2022-07-31T04:54:00Z
-    webUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum.amp.html"
-    type: article
-    provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 38
-    images:
-      - url: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum/_jcr_content/par/image.dynimg.768.q75.jpg/v1659242029590/Anthony-Albanese-election-eve-CREDIT-getty-200522.jpg"
-        width: 768
-        height: 438
-        isCached: true
   - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
     excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"
     publishedDateTime: 2022-08-01T11:12:00Z
@@ -156,29 +140,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/fa7de657cfac7be0d2a9713648ed8a6c9c7e4585/0_0_3969_2641/master/3969.jpg?width=620&quality=85&auto=format&fit=max&s=0ee561ddf626a1223d5457bd01933187"
         width: 620
         height: 413
-        isCached: true
-  - title: "Indigenous voice details to follow referendum, says Australian PM"
-    excerpt: "Albanese’s centre-left Labor Party government is seeking a referendum, required to alter the constitution, on recognising indigenous people in the constitution and requiring consultation with them on decisions that affect their lives."
-    publishedDateTime: 2022-07-31T04:16:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2022/07/31/indigenous-voice-details-to-follow-referendum-says-australian-pm/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
-  - title: "Indigenous Voice referendum question 'simple' enough to pass, Anthony Albanese says"
-    excerpt: "Prime Minister Anthony Albanese says the proposed referendum question has been carefully composed to make it easier for Australians to see the core issue."
-    publishedDateTime: 2022-07-31T01:35:00Z
-    webUrl: "https://www.sbs.com.au/news/article/indigenous-voice-referendum-question-simple-enough-to-pass-anthony-albanese-says/ii71fmm1w"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 18
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/fecd2dc/2147483647/strip/true/crop/1999x1125+0+68/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1b%2Fbd%2F29fa65484d0084f1873daf7eb8e6%2Fpm.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Peter Dutton tells MPs many Australians don’t understand the Voice to Parliament proposal"
     excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."

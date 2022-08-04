@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp"
 type: article
 quality: 93
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
+    excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
+    publishedDateTime: 2022-08-04T18:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/next-pathway-partners-with-microsoft-to-migrate-customers-to-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
   - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
     excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
     publishedDateTime: 2022-08-04T13:18:00Z

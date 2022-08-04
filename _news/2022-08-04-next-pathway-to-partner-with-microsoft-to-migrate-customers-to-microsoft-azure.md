@@ -91,6 +91,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
+    excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
+    publishedDateTime: 2022-08-04T18:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/next-pathway-partners-with-microsoft-to-migrate-customers-to-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
     publishedDateTime: 2022-08-02T18:15:00Z

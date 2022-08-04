@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-20-banks-turn-to-ai-to-help-dodge-enforcement-spotlight.md",
+      "title": "Banks Turn to AI to Help Dodge Enforcement Spotlight",
+      "excerpt": "Regulators increasingly expect banks and other entities to use smarter systems to help thwart potential criminal activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "originalUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-586683/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
+      "publishedDateTime": "2022-07-20T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-ai-generated-faces-are-taking-over-the-internet.md",
       "title": "AI-generated faces are taking over the internet",
       "excerpt": "When Google fired an AI ethics researcher, Timnit Gebru, in 2020 for publishing a paper that highlighted bias in the company’s algorithms, a network of bots with AI-generated faces, who claimed ...",
@@ -1128,49 +1180,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-deepmind-gave-an-ai-intuition-by-training-it-like-a-baby.md",
-      "title": "DeepMind Gave an AI ‘Intuition’ by Training It Like a Baby",
-      "excerpt": "Similar to babies, the AI expressed “surprise” when shown magical situations that didn’t make sense, like a ball rolling up a ramp.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "originalUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/DeepMind-AI-PLATO-baby-intuition.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/19/deepmind-gave-an-ai-intuition-by-training-it-like-a-baby/?amp=1",
-      "publishedDateTime": "2022-07-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

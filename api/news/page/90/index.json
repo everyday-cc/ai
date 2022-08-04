@@ -2,6 +2,58 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-05-24-cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028.md",
+      "title": "Cognitive Analytics Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Value,Opportunity Forecast to 2028",
+      "excerpt": "May 24, 2022 (The Expresswire) -- Global Cognitive Analytics Market Research Report is an In-Depth Analysis of the Latest Developments, Market Size, Status, upcoming technologies, industry drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
       "title": "Why Mastercard's new face recognition payment system raises concerns",
       "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
@@ -1057,49 +1109,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
-      "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
-      "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "originalUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "publishedDateTime": "2022-05-23T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

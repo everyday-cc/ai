@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-07-09-ford-and-vw-backed-self-driving-company-shuts-down-dc-operations.md",
+      "title": "Ford and VW-backed self-driving company shuts down DC operations",
+      "excerpt": "Argo AI, the self-driving company backed by Ford and Volkswagen, is shutting down its Washington, DC operation as part of a broader round of layoffs impacting about 150 people across the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220708115526-ford-argo-ai-car-washington-d-c-file-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/08/business/argo-ai-ford-vw-layoffs/index.html",
+      "publishedDateTime": "2022-07-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
       "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
       "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
@@ -1084,48 +1136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-artificial-intelligence-based-cybersecurity-market-rapid-increase-in-the-use-of-mobile-and-other-connected-devices-to-boost-growth-technavio.md",
-      "title": "Artificial Intelligence-based Cybersecurity Market| Rapid increase in the use of mobile and other connected devices to Boost Growth | Technavio",
-      "excerpt": "Do you know the Artificial Intelligence-Based Cybersecurity Market size is expected to grow by USD 18.94 billion at a CAGR of 22.27% during the forecast period? Technavio's latest report on the artificial intelligence-based cybersecurity market is segmented by End-user and Geography is curated by covering all market trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-rapid-increase-the-/2022/07/08/9635750.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-rapid-increase-the-/2022/07/08/9635750.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1855189/IRTNTR44001.jpg",
-          "width": 400,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,20 +2,22 @@
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
 excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
-publishedDateTime: 2022-08-02T10:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+publishedDateTime: 2022-08-02T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
   - AI
   - Machine Learning
 
-secured: "Bzhrhh9V5pgV908T8kCTE066tNPvg6Ds/clPUTJz5WZXDSDmJDVggZ8dSPB4z1roGIn3DLhjbSaZMcVKp/zjBoYmVtBaihtzbJz1qYlBRscb+XZ2FKhWULb1SxE6Iiz23UKBpSEfNiYYdqbryaIhHbU/fXLR995zSFjDt/Jm2pROfcBW/X2rL+r5tel05q4GjhIwqKUiwpOgx/JGvsBVGjtZKuwX3uanG/kESnXt4dWetg8DG29tPGsP6BruZdW4fk9/tbkxnkesKD4Usq7/g45iTKyODy+i+bT8i5vQRXC8LMOU+wlHT04U5a/elmxVnppgluprzOe/YHUsSpGU3/efSaJ4P+Xn4ImQETDusAk=;QOA3uKUcasFn2i6dizHmHQ=="
+secured: "FUp2m1bOtMqT03oTpXoWkeed7n/yXGncqWGMpgV+lU9tob/6oFhHwfdTt3LhOCvc1Que7kE81fNzV+3VgmdjtzyPLKVcwZjkRDhEGcUrB8/hTAR9f1Qh2x5CrIErnR/0vDjohv8h1DHD4cK6KupaWEpmtjbwlBKu3GIqYtqjikHf9Xn1Y6/iIe7rgAzzuB9mH+v/XBdPmF2gW0i2qGgjisVwSY6cvtVT1SKk6IzhvaTnwetQfw4xRSEEoQa6x8vDyEJ0em0hK7V0IErdc4k3LXMJc6A45jlUgJWo43J7qYFa2vynKHzGlNJOWR5y4+BN8O+CMjvBN0ykYepp8Q2CaEuMV+SCt/VEqqd2z7p+B80=;lskDb2XeUUcAzdexf1czjg=="
 ---
 

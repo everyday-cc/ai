@@ -3,8 +3,8 @@ category: news
 title: "How rangers are using AI to help protect India's tigers"
 excerpt: "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink."
 publishedDateTime: 2022-08-01T23:07:00Z
-originalUrl: "https://www.bbc.com/news/business-61824904"
-webUrl: "https://www.bbc.com/news/business-61824904"
+originalUrl: "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D"
 ampWebUrl: "https://www.bbc.com/news/business-61824904.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 450
         isCached: true
 
-secured: "voGz42x+SbG2nO0JVryM9Eqdb3uurBudUGVoBENGPrzipcs0cljMYTZzBH9KLcnVe4AFpdB3f4URtxAVTzPWvX31hTJ0JDApyYUIcy4MzMAc++sKq5cZzxljD/0GOEUJ7Se4WZAihACjD3qqcOxfVl8Cy/E32xfddPcwI5tf/rXcEOYwI+AyTPjl/IScL+dzZOj/TX7q+AApVgNQhQg5flTbo6ASzOuzT5DYDD/Lkmffkyc99YwVF0pEVBLJjJflQUGwYxhiIrYcaFIZxGE6d3FemxAEUWCmoU9Mkrj287okj02xFJtvtPCzFAIVGWz/hWgYLxYIBoc6ivzEs2ysgd54oTUZR+ML7NnPRZu8N7Y=;ALH3IWlfzb5WoF0LndRx7A=="
+secured: "gOID6sQQsGh6i19xaz2Du5u4xQQ0f8A6+AxRc9jH0qCkLsFTCguwV/GCMojENkZKoZ0oUwIQvrzaPhl6RCIRxNY9f+WRhAJQaESsMljxTYa9X1POiMeokzKcypoq6AO3jGXTDWWWroAYQHVmZijkYq/iUlwgd4fjJrxjopFN8vWX/oPuV5IwMXTSBk0VxJ0F5T9YJPv2MJbwmZYSLLDZIU7OlH9LuExC+WaUzaGgRj2caqfppiRVgYLK+KCqgBMORMY4S8jFb8mx0weePoyWh9EtpiF7Iyjvq8zLvrldCYhU71r82ch1srqNi1K4zqyKKo4bn8xdtogl4IsDK9IJrNK9WqifOmgHmIJkb8tWcyE=;2rfhZXUPMfpm47NcYP/DsA=="
 ---
 

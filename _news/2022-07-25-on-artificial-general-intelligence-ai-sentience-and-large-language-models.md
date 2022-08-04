@@ -27,6 +27,7 @@ topics:
   - Facebook AI
   - AI in Healthcare
   - AI in Autos
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62db485e94b10276a09391bd/0x0.jpg?format=jpg&crop=768,432,x0,y0,safe&width=1200"

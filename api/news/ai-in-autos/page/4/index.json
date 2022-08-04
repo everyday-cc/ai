@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-01-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "originalUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
+      "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
+      "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... The technology is similar to the self-driving systems that high-tech companies, such as Waymo and Otto, and traditional automakers, such as General Motors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "originalUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2018/04/016/_jcr_content/teaser.img.512.auto.jpg/1555958190888.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-einrides-driverless-electric-pod-approved-for-us-public-roads.md",
       "title": "Einride's Driverless Electric Pod Approved for US Public Roads",
       "excerpt": "Swedish transport company Einride got the green light to operate autonomous electric trucks without a driver present on US public roads. The National Highway Traffic Safety Administration approved ...",
@@ -1178,110 +1255,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
-      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
-      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
-      "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
-      "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107079691-16559907261655990722-23902419088-1080pnbcnews.jpg?v=1655990725&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

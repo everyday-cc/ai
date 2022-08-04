@@ -24,6 +24,17 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "1 big thing: SonderMind CEO talks M&A"
+    excerpt: "As SonderMind CEO Mark Frank mulls his behavioral health company's future capital strategy, his mind is on acquisitions. \"We’re a natural consolidator,\" Frank tells Erin."
+    publishedDateTime: 2022-08-04T15:34:00Z
+    webUrl: "https://www.axios.com/pro/health-tech-deals/newsletters/2022/08/04/health-tech-veritas-two-part-deal"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 4
+
 secured: "H5EdjLJKuTrRlA5sbS0+c2vdIPc+3+Gaz1VZ3E8F3MRd771qAVyRAosONVkTIJIG3XYd70vfthqYAcS+V2o/pKti5ySp36p1XaXgkxfEUJunUEub50xxSdA057dgCasZEDA66Ud9szwsShnSiNL2X3r/d2Y1NFWV1CllMOftBrMBTo9i9WNG7YgADwJkSBDj5FRTHJ3tMi0+/cvFxkcaEYr4lmEps4hyx8XFcTEuSeEUx8PhsepeK+2p0To8Bj4Iu+/K/rwr3b6u9P/ZrmWHG2K3sFGKCUHvhkkypF5BS9Q6dy+s98LKCy2pCJ30TZH3BEVL1TZPf23yx+ZgRLka9JWhpwQIUO7/ZTRlttqnEklauPLBDM9t+dkV2P/GCHpZgI7w8+LNFwCoylWQAZPLEnVTQQtYNza52yg0paoyi7PVGnjQNRBHPnJMI0FlwSPLnskOwVmTdBX3vLe5DUzxcKc/o66OsXzH2JeqfdpgbWIoeUpkwZmx1EuntMR9Xx7zfm43lpsHzZDW9SujLyxTSw==;0IYIkbF94BXBUgNNqUERJQ=="
 ---
 
