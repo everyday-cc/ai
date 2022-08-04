@@ -2,6 +2,59 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-06-27-machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030.md",
+      "title": "Machine Learning as a Service Market Report 2022 Market Size by Key Players, Types, Applications, Countries, Forecast by 2030",
+      "excerpt": "financial summary, business strategy and planning, SWOT analysis and current developments. The Machine Learning as a Service Market is segmented on the lines of its component, organization size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
       "title": "Why synthetic data makes real AI better",
       "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
@@ -1120,58 +1173,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-one-day-ai-will-seem-as-human-as-anyone-what-then.md",
-      "title": "One Day, AI Will Seem as Human as Anyone. What Then?",
-      "excerpt": "From here on out, the safe use of artificial intelligence requires demystifying the human condition. If we can’t recognize and understand how AI works—if even expert engineers can fool themselves into detecting agency in a “stochastic parrot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "originalUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b632dd403df153e6760345/master/pass/ideas-ai-intelligence.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/lamda-sentience-psychology-ethics-policy/amp",
-      "publishedDateTime": "2022-06-26T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

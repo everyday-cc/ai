@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
-excerpt: "Qlik ® was recently named a Leader in the IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment (Doc# US48061021, July 2022). IDC MarketScape is the IT industry’s premier vendor assessment tool,"
-publishedDateTime: 2022-08-02T12:33:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-a1c96ada01b31fbe1fad089d5847a10c"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-a1c96ada01b31fbe1fad089d5847a10c"
+excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
+publishedDateTime: 2022-08-02T12:49:00Z
+originalUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
+webUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2016/12/jail-prison-cells-generic_37930951_ver1.0-2.jpg?w=2000&#038;ssl=1"
+    width: 640
+    height: 360
+    isCached: true
 
 related:
   - title: "Watch: Machine Learning for Risk Analytics"
@@ -48,6 +54,6 @@ related:
         height: 467
         isCached: true
 
-secured: "iAJlqvYaMRomX/z7iCTVrjUSJxz2i1FOeAbCJVZQzb9S/XPnkGZgfPRHgiNs58sH07KtN+w1NHk8YO14o0EK23k1CxImC2btVuVABQfdeS0y1fhMIN4Ugxyn8J4ZYRMBhZDpvFhwV5PCHmg2gGoAY6KNbnkJ2JWXSgxaa4LE6JtohNRHMnOAOti3pMR1FHKkxYtkit7eIJGMVVuEZ8k4w09ft/qUgB0mlIIX6HrOWfe2u8EDyLIDlhADmXZ40eCjjRy7+urxRu3vFmJh+hGq7kQbhxXqOEaE250eHD23VWVYFn0jF7e1qPrukOxHMXrdYwmq6T8OEAKtrYC0buLXXwlFU/YxTMpMzwTL3XVVZtU=;IUhS3vLcvIqtpGFHZoxFjg=="
+secured: "P6RJhjqfaOrStBockVVgkzhVLrkXhtP0JXAfCdG7zYOhWCntor4BLnCf4rz+NzRSuvxgtCAeEfJejDkv8K0NuFFbPAzY5IHRltYijpsq/yUctE9BGnlL1P0OGdOcvBAO/vKlaVfnQYc749Oy6jtehi2R591A3aIcQb4FsFgc3j0yjEbBq14m0kdrIyqKIBhSOE1x7R49budT21M5raJa3/xTSCwdHp2RUMiRDT3AG/z+UI1bDhO2Ts67Xepzb877/8qAtKmtf6kZGU05056Cu9gsZAya9bnheHW2k5RijlA5a/ryZ136HVY0RMO94prCLoJQLuuTK1Kqq/aapEHi2YJutwyiuFnmZbSOka2i3EI=;zaW3u0BJZD8nFwPhMOAaNw=="
 ---
 

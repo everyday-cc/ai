@@ -7,7 +7,7 @@ originalUrl: "https://www.wdrb.com/news/jefferson-mall-adds-new-security-system-
 webUrl: "https://www.wdrb.com/news/jefferson-mall-adds-new-security-system-with-facial-recognition/article_66714a42-128b-11ed-b95c-7fc634889bf9.html"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "State lawmakers seek restrictions on facial recognition technology"
-    excerpt: "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects."
-    publishedDateTime: 2022-07-30T08:50:00Z
-    webUrl: "https://www.newburyportnews.com/news/state-lawmakers-seek-restrictions-on-facial-recognition-technology/article_97b60efb-38e2-5a5d-be83-a474149b8ced.html"
-    type: article
-    provider:
-      name: The Daily News of Newburyport
-      domain: newburyportnews.com
-    quality: 19
 
 secured: "Lz89/GCY5tnpyW5UtfbSZ3h/8xhpp6EI2eYdHiZbqcKtSLYXlNt41HuIVvN/Ewg8imY8dv3SQaamtLaApwn+DznOE2Pj4uUuXtRs4XeqzdSEAZJYJXch8zJrJJncZI9na4My9Nvu24i62wp1B/efL65OQK3HbU1sfzY/cxxe23U8UFdLHTqqFjGHa177VZf+80iPfAeo+TF14a+OO4iS3jdm9QMKBji/MvDTaHAx9Y3g62vkMGWeh+m0L66/MiTTdKx4+yxCGmu5nOvG/p73dE1JpvIHice2vpYFYcrpUDtdaqQqPMZDSIurOkf9IbXDTUWar08bUS2lr6nkr4itZckx01rispkeVLia4CgD7AoN+/mknh5gv7NcCtHgJRtfY315pet9a162+1AAW96BqXu76mTFDksYx7OS5FbeIBO0TOQwqvbIciEov0rKNRMuj0+1NFrvpcMBjeM/5CWuw5SP3uZkttHuAGobDuTMy7upm1azBFE567h77qIBLmDumNsVv2YD4q5PsZ6Bd/8GmQ==;WJelz5b+7pVrUpeikBc55Q=="
 ---

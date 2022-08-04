@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220723-google-cc-0100a-a0662f.jpg"

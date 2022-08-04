@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Jio Platforms, Subex Partner on AI Orchestration Platform for 5G"
+    excerpt: "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms announced a partnership for its AI Orchestration Platform, HyperSense,"
+    publishedDateTime: 2022-08-04T01:34:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/26660-jio-platforms-subex-partner-on-ai-orchestration-platform-for-5g"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/1c93f87c59d9528243c4b94b5036f29a.jpg?t=20220804_012232"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "usUQjz+PV0noqL22ZDVMBrttNLnUPiKrxmUdB3u7v1u2tAdrYVK5mg61ehDyBYMSELxZiv18CExVLqNeuILKnbFIMkQQU8/UvdLPze0wsae6t4DRhg72cTMawH5eujt6GEJdU7lyeO4eMnJDq+7+GoXvaVcUctTNr/deRog9wd7cbqnLHFNJFTXEfsoQd5nWj900EQt9iGjbUMPYaH/B+gi5u0h7Xpf3bpviIz2H2nJCdME27HNgxAWcK7f1ca1vIz1Wa2we5LALqcwrGgM33IWs+52ztItV1zAnNIo/g4n3Vvgcm8R0hOI6frMf8Z0e19bO9Q/LM9lq5o0XKJ+WJYs1jnyPmsdQkTBU6yKOqNQ=;FjhTk8e9KDfOuLkM+twJ6A=="
 ---

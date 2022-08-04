@@ -40,14 +40,19 @@ related:
         height: 467
         isCached: true
   - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
-    excerpt: "Qlik ® was recently named a Leader in the IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment (Doc# US48061021, July 2022). IDC MarketScape is the IT industry’s premier vendor assessment tool,"
-    publishedDateTime: 2022-08-02T12:33:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-a1c96ada01b31fbe1fad089d5847a10c"
+    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
+    publishedDateTime: 2022-08-02T12:49:00Z
+    webUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: WTNH
+      domain: wtnh.com
+    quality: 3
+    images:
+      - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2016/12/jail-prison-cells-generic_37930951_ver1.0-2.jpg?w=2000&#038;ssl=1"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Yf6vzapILAhY91jYwMJTElZRdC72FqiQyXvU+k6FMpDb3M74aVlVVJB72WVvTeKAEv7kzWAHofCRYU0UHU7pEpjMB2ce6O8CkonToqlKzeeBuJ+e4OqePKGhMMGxbZvZUVFTilogJ/1hjOmQyLrOo9gL4p9iROFYsjITBIwg7gG78mFfuf1ZvBuff0bRCCTyfY3TP2qizb/ipmVIddt+JcJlQUXtGBV0xhy7gvjoalulp3Gx/kxIZuMDWBEES8zbGLr+vnr8jbAu/hMS5p/7zZye6RQalhjRg8CYNsRSylIyahFeC22iyTSuhoJQ7ibPj7z0JpQDaowLC9S8WqwieR006LI4ZhFCB6IPUw609dE=;6V7jX+BHshm4fYQQduxDgw=="
 ---

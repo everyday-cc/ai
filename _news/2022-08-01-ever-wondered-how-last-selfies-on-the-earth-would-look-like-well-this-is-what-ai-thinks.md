@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI predicts how last selfies of Earth before it dies will look like, See photos"
-    excerpt: "The haunting pictures of how the last selfies before Earth dies will look like, were shared by an account named 'Robot Overloads' on TikTok."
-    publishedDateTime: 2022-07-30T08:21:00Z
-    webUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html"
-    ampWebUrl: "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 53
-    images:
-      - url: "https://images.livemint.com/img/2022/07/30/600x338/Earth_1659168071219_1659168071477_1659168071477.PNG"
-        width: 600
-        height: 337
-        isCached: true
   - title: "AI predicts what 'last selfies' before end of the world will look like. Pics, video inside"
     excerpt: "A video created by the AI program shows a battered, bruised and disfigured man appears to look around what seems like a post-apocalyptic world before smiling painfully for a selfie."
     publishedDateTime: 2022-08-01T10:30:00Z
@@ -49,20 +33,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/08/Collage-Maker-01-Aug-2022-03.56-PM-770x435.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "How the last Selfie ever taken on Earth would look like: This is what AI \"thinks\""
-    excerpt: "TikTok account “Robot Overloads” used OpenAI's DALL-E AI to generate what it thinks the last selfie ever taken on Earth would look like."
-    publishedDateTime: 2022-08-01T05:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-the-last-selfie-ever-taken-on-earth-would-look-like-this-is-what-ai-thinks/articleshow/93265219.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 32
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-93265291,width-1070,height-580,imgsize-6030,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
         isCached: true
 
 secured: "fkKmOadJ/x+tXCmCvkG57966LzLjNULSMd7uMm8/A9pjXAZ6HAycfQ7MwM6SYHECZlxHA/Djr53QsuZ9981La8OTmDyHXsnL6AfgZ3B6eweynaqAZkbc/khBEtL2eTjzJD0a69EZlgbMS1b0oIm0N7+uLrm8QYEuvzG0cpEBsL17OZFtQg4s4U24S+VO+jekU4JqYVhnf1fcOBWpMit5LypNl+riY5Cw3rEifiL+DcRJY+BpaQIEvs7Yka6YDBhpf0DHAqGLSN3B+CyBG8MHxcm2OEpY9dsbW/q+7HANyIQ+YkNKiYIbtnuWItrjfunEpTdCYqcky77YCEy9U/OH3ym9GuX4Oa5IGH9jNaetfQ4=;qBPML+quNmUYPP1qD7ANVg=="

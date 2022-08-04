@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-07-05-chinese-researchers-claim-they-have-ai-capable-of-reading-minds.md",
+      "title": "Chinese researchers claim they have AI capable of reading minds",
+      "excerpt": "A new report has claimed the Chinese government is now implementing cutting edge artificial intelligence to monitor the minds of dozens of Communist party officials.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
+      "originalUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/mind-reading-02.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/04/chinese-researchers-claim-they-have-ai-capable-of-reading-minds/amp/",
+      "publishedDateTime": "2022-07-04T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-voice-and-speech-recognition-software-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
       "title": "Voice And Speech Recognition Software Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
       "excerpt": "The \" Voice And Speech Recognition Software Market Research Report \" and Industry Analysis examine the Voice And Speech Recognition Software industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,",
@@ -1045,49 +1087,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
-      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
-      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
-      "sourceUrl": null,
-      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
-      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
-          "width": 610,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid City Journal",
-        "domain": "rapidcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

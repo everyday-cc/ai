@@ -2,6 +2,49 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-05-14-dan-odowd-senate-campaign-targeting-teslas-self-driving-cars.md",
+      "title": "Dan O'Dowd Senate campaign targeting Tesla's self-driving cars",
+      "excerpt": "Over the past month, there's a fairly good chance you have the video. It is clip after clip, essentially bashing Tesla's self-driving technology for a full minute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
+      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/14/76c4f476-4221-4814-a16b-e6a49ec1e08d/thumbnail/1200x630/48ee44ca76aba5e3d6a5235e63e3df5c/tesla-ad.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/dan-odowd-senate-campaign-targeting-teslas-self-driving-cars/",
+      "publishedDateTime": "2022-05-14T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc.md",
       "title": "CISCE to introduce robotics, AI, others as subjects in ICSE, ISC",
       "excerpt": "IIT Delhi’s tech innovation hub to help design CISCE curriculum in robotics, AI, machine learning and data science",
@@ -1111,58 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research.md",
-      "title": "Artificial Neural Networks Market Industry Share, Size2022 Market Research with Growth, Manufacturers, Segments and 2027 Forecasts Research",
-      "excerpt": "Global Artificial Neural Networks Market (2022-2027) includes Precise company profiling of leading players of the Artificial Neural Networks market. All of the segments studied in the report are analyzed based on different factors such as market share,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/business/subex-hypersense-ai-augment-ji
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Al Bawaba News
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jio Platforms, Subex Partner on AI Orchestration Platform for 5G"
+    excerpt: "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms announced a partnership for its AI Orchestration Platform, HyperSense,"
+    publishedDateTime: 2022-08-04T01:34:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/26660-jio-platforms-subex-partner-on-ai-orchestration-platform-for-5g"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/1c93f87c59d9528243c4b94b5036f29a.jpg?t=20220804_012232"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Jio Platforms partners with Subex HyperSense AI to augment its 5G product line"
     excerpt: "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms Limited (JPL) a leading Indian Technology Company (subsidiary of RIL [NSE: RELIANCE]),"
     publishedDateTime: 2022-08-03T05:55:00Z

@@ -55,20 +55,6 @@ related:
         height: 1812
         isCached: true
   - title: "Australia PM unveils draft Indigenous recognition referendum question"
-    excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament."
-    publishedDateTime: 2022-07-30T08:11:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Australia PM unveils draft Indigenous recognition referendum question"
     excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to enshrine an Indigenous voice in parliament. The government is seeking a referendum,"
     publishedDateTime: 2022-07-30T17:41:00Z
     webUrl: "https://www.thehindu.com/news/international/australia-pm-unveils-draft-indigenous-recognition-referendum-question/article65704064.ece"
@@ -127,22 +113,6 @@ related:
       - url: "https://www.newshub.co.nz/home/world/2022/07/australia-s-prime-minister-anthony-albanese-says-details-on-indigenous-voice-in-parliament-will-follow-referendum/_jcr_content/par/image.dynimg.768.q75.jpg/v1659242029590/Anthony-Albanese-election-eve-CREDIT-getty-200522.jpg"
         width: 768
         height: 438
-        isCached: true
-  - title: "Senior Liberal urges Albanese Government to provide more detail on proposed Indigenous Voice to Parliament referendum"
-    excerpt: "The Coalition has demanded the Labor Government provide more concrete details on the proposed Indigenous Voice to Parliament following Prime Minister Anthony Albanese’s landmark address at the Garma Festival."
-    publishedDateTime: 2022-07-30T07:23:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/senior-liberal-urges-albanese-government-to-provide-more-detail-on-proposed-indigenous-voice-to-parliament-referendum/news-story/f3403e309ecdeb841abb96b870bd215c?amp"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 36
-    images:
-      - url: "https://content.api.news/v3/images/bin/4636b3f5a1b396c94ebdb83d14a6a7e6"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
     excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"

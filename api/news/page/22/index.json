@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-07-12-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
+      "title": "Soon AI-based mandarin translation devices for troops on LAC",
+      "excerpt": "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
+      "publishedDateTime": "2022-07-12T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-oaic-concerns-spark-facial-recognition-investigation.md",
       "title": "OAIC concerns spark facial recognition investigation",
       "excerpt": "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores.",
@@ -1076,48 +1119,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-argo-ai-lays-off-150-closes-washington-dc-operation.md",
-      "title": "Argo AI lays off 150, closes Washington D.C. operation",
-      "excerpt": "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/",
-      "originalUrl": "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

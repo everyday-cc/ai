@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/08/03/commonwealth-equity-servic
 webUrl: "https://www.defenseworld.net/2022/08/03/commonwealth-equity-services-llc-buys-29745-shares-of-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Prospera Financial Services Inc Sells 103 Shares of Splunk Inc. (NASDAQ:SPLK)"
+    excerpt: "Prospera Financial Services Inc cut its position in Splunk Inc. (NASDAQ:SPLK – Get Rating) by 5.7% in the 1st quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission."
+    publishedDateTime: 2022-08-03T10:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/03/prospera-financial-services-inc-sells-103-shares-of-splunk-inc-nasdaqsplk.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 1
 
 secured: "UsckKKmg+Zsrdy1QQ3S7Jg6vdcDjS+vVFuPc7eB3fppUKXF7amiLH2aXh3gghB9UH5sstPsJGglRGiyrMLuAxRbarFkf97hQKzTs81bfBTiyrIFFsrde8AS3C49TprMY7/28H3su7oRz0jZ4gPBrkzMeC5wNQ36pKkNrkMVkT1SuAVJQ/9vRDkoTAUayToJ2my4lBeyjRfVu4AtHIrV5LoXZ8V2n3truJxJ99fNQbLEj32zylsB4/MrUMMdabWEuhKSL8MpW9ykHea/ZGM8H2z7PxI6xXQrq0wRONeGXDkEX8hDGQoU+k4S3uv2fy+eeb/ichvsDpX+cn7N1CCLHU7TuR2iKl8neufmURg9Iv8gUuyE+2yFBUl6O7YdWHGyDcOCrTLzFVtUsd081PXFnFjvDb9ueOmxZnAetdj7gYHpY1sYhPDu2Aw62/vi1uaa8Rw018PTf92YKluxLbFj/1hpZd7mc07DHqi+0fKkmTzkKvL4iW9z6/Ai3jebZuBMHTtahuLbBevoZ9B1OtDc2iQ==;xQ6ygry3juXm5MLB4he/CA=="
 ---

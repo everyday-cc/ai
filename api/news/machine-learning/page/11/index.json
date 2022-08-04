@@ -2,51 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
-      "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
-      "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "originalUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/462366/original/file-20220511-22-g63bhm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=210&fit=crop",
-          "width": 320,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "publishedDateTime": "2022-05-11T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-05-12-racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning.md",
       "title": "Racing tiny cars using only Artificial Intelligence and Machine Learning",
       "excerpt": "It's called the Amazon Web Services DeepRacer League, where small 1/18th scale cars are being trained to complete a racetrack as fast as possible, by themselves. “It has major components in ...",

@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving tech outfit TuSimple faces probe after one of its big rigs collides with guardrail"
+    excerpt: "San Diego’s TuSimple Holdings, which is developing self-driving technology for semi-trucks, faces a regulatory probe following an April 6 crash in which one of its big rigs suddenly swerved on Interstate 10 near Tucson,"
+    publishedDateTime: 2022-08-04T01:07:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-03/self-driving-tusimple-probe"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-03/self-driving-tusimple-probe?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-08-03/self-driving-tusimple-probe?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 47
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/46349b5/2147483647/strip/true/crop/5400x3611+0+103/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fzbk%2Fdumberto%2FJ%2FData01%2FUTPhotos%2F2014%2F20140624%2FASMT339323%2FUTI1782602.JPG"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Feds probe crash of TuSimple self-driving truck in Tucson"
     excerpt: "TuSimple, which has tested self-driving trucks from its Tucson terminal since 2015, says a non-injury crash in April was caused by human error."
     publishedDateTime: 2022-08-01T23:40:00Z

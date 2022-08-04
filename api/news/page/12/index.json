@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
+      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
+      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-3-chip-stocks-to-buy-ahead-of-earnings.md",
       "title": "3 Chip Stocks to Buy Ahead of Earnings",
       "excerpt": "T he world's top chip manufacturer Taiwan Semiconductor Manufacturing's , better known as TSMC, second-quarter 2022 earnings report indicates chip spending is still very healthy,",
@@ -1136,41 +1179,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-kami-vision-grows-by-350-percent-as-demand-for-ai-services-in-security-safety-industry-surges.md",
-      "title": "Kami Vision Grows by 350 Percent as Demand for AI Services in Security & Safety Industry Surges",
-      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to SMBs and consumers, announced today the company has grown 350 percent since its launch in August 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/19/9640967.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],
