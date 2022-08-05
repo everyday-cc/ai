@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-02T10:30:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
 type: article
-quality: 68
-heat: 128
+quality: 70
+heat: 130
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

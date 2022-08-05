@@ -100,6 +100,24 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
+    excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
+    publishedDateTime: 2022-08-05T13:44:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-onenotes-new-dictate-feature-supports-ai-powered-voice-commands"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 32
+  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
+    publishedDateTime: 2022-08-05T12:41:00Z
+    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 28
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
     publishedDateTime: 2022-08-02T18:15:00Z
@@ -108,6 +126,15 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
+    quality: 19
+  - title: "Microsoft developing software to identify cardiovascular risk"
+    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
+    publishedDateTime: 2022-08-05T13:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 19
 
 secured: "cR0A+mP5oh/SSO2G5HNrGA2lMC7SzX0fiBxvqTgcujvssC/ENBeEEg02HJ9LKg3/HuCW1UNDoRsiDksgRtGQP+LjUkbooljCq6IQ+U84da/cA3mOGkTfcdRmzWCi34GCs387lJZhByFBSEnZ+kmO5GRIsO6GD8D9+Qkbjsl0OSD87ZiBLbLyoTCssRiZcyxDeOnSjrdxVuTGM6q436/jPRVeE6L6C0gqT/rvPdz0ylHqxKxAjMpLKD4Y6wBAKy11dbn9NwJZSXuy9SmvvvpKyy9dlrfz6wAHWxkv3yKe4RryJJtCwtfbU4fLYYdK8cwRUM8tOnBTtKn4XoDNJXscKcM4Ae/MVrLiY396OLYJhWo=;kIkcO9mET9rE7C2kCB+N/g=="

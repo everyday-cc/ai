@@ -9,8 +9,8 @@ ampWebUrl: "https://www.csoonline.com/article/3668568/why-uniondigital-bank-inve
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: CSOonline
@@ -27,20 +27,26 @@ images:
     isCached: true
 
 related:
-  - title: "Involta Partners With Tech Startup HacWare to Expand Enterprise Cybersecurity Awareness Services"
-    excerpt: "Involta, an award-winning data center, hybrid IT, and cloud-forward consulting firm, announces today a partnership with HacWare, an AI-driven cybersecurity awareness and training SaaS (Software-as-a-Service) product that combines threat intelligence with user behavior to help lean IT teams combat today’s most advanced phishing attacks."
-    publishedDateTime: 2022-08-04T10:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-email-phishing-89f90b2a2db179d4625b648b1575e9f9"
+  - title: "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities"
+    excerpt: "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,"
+    publishedDateTime: 2022-08-05T14:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities"
+    ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
+  - title: "Saint Leo University Opens a New Interactive Robotic & AI Lab by RobotLAB"
+    excerpt: "The implementation of the Robotics & AI lab will provide students with real world experience as they pursue their bachelor's degrees in robotics and artificial intelligence and increase their marketability upon graduation."
+    publishedDateTime: 2022-08-01T21:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648065.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "CornerstoneAI Announces Strategic Partnership with Carahsoft to Deliver AI Data Bias and Cybersecurity Solutions to Federal Government Agencies"
     excerpt: "CornerstoneAI, Provider of Ethical and Responsible AI Services and Solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under this agreement,"
     publishedDateTime: 2022-08-04T16:03:00Z

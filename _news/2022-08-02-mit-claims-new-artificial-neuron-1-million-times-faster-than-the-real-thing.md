@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/mit-claims-artificial-neuron-1-million-times-fa
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2022/08/MIT-PhotonicResistors-01-press_0.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "MIT’s New Analog Synapse Is 1 Million Times Faster Than the Synapses in the Human Brain"
-    excerpt: "New Hardware Delivers Faster Computation for Artificial Intelligence, With Much Less Energy MIT engineers working on “analog deep learning” have found a way to propel protons through solids at unprecedented speeds."
-    publishedDateTime: 2022-07-31T20:21:00Z
-    webUrl: "https://scitechdaily.com/mits-new-analog-synapse-is-1-million-times-faster-than-the-synapses-in-the-human-brain/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 33
-    images:
-      - url: "https://scitechdaily.com/images/Analog-Deep-Learning-Processor.jpg"
-        width: 2000
-        height: 1334
         isCached: true
   - title: "MIT’s New AI Chip Is 1 million Times Faster Than The Synapses In Human Brain"
     excerpt: "A team of researchers with the Massachusetts Institute of Technology (MIT) has been working to push the speed limits of a type of a previously developed"

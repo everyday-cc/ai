@@ -2,6 +2,188 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-07-future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person.md",
+      "title": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person",
+      "excerpt": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
+      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
+      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
+      "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
+      "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
+      "originalUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2022/07/Xiaomi-Car-.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
+      "publishedDateTime": "2022-07-07T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
+      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
+      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
+          "width": 690,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
+      "publishedDateTime": "2022-07-06T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-artificial-intelligence-in-the-transportation-market-2022-in-depth-research-with-emerging-growth-trends-till-2030.md",
       "title": "Artificial Intelligence in the Transportation Market 2022 In-depth Research with Emerging Growth Trends till 2030",
       "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
@@ -1096,171 +1278,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
-      "title": "Tesla Stock Split Seen Drawing AI Investors",
-      "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
-      "publishedDateTime": "2022-06-28T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-self-driving-cars-do-you-trust-them-poll.md",
-      "title": "Self-driving cars: Do you trust them? POLL",
-      "excerpt": "More info The Transport Select Committee announced that it had launched an inquiry into the development and deployment of self-driving vehicles. They will assess safety issues and consider the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
-      "originalUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/Driverless-car-safety-trust-1632238.jpg?r=1656685782440",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1632238/self-driving-cars-poll-trust-safety-mps-inquiry-spt/amp",
-      "publishedDateTime": "2022-06-28T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-mps-launch-investigation-into-self-driving-vehicles.md",
-      "title": "MPs launch investigation into self-driving vehicles",
-      "excerpt": "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
-      "originalUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show.md",
-      "title": "AI-AI-O: The first driverless robot tractor unveiled to farmers at show",
-      "excerpt": "Capable of a multitude of farm tasks using normal farm implement attachments, the AgBot 5.115T2 is a 156hp dual tracked driverless tractor which is now available to buy from Angus-based precision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "originalUrl": "https://www.scotsman.com/country-and-farming/ai-ai-o-the-first-driverless-robot-tractor-unveiled-to-farmers-at-show-3745900",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scotsman.com/webimg/b25lY21zOmExMDliNTViLTAzMzMtNDRhYi04MTQ2LTI0ZjVkMGI3YmQ1MzplZmMyNDY0Yi01N2JiLTQwOTMtYmNlOS0yZjFkYjlhYzlmYzQ=.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-26T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Scotsman",
-        "domain": "scotsman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

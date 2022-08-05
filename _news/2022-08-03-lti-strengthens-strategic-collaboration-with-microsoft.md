@@ -100,6 +100,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
+    excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
+    publishedDateTime: 2022-08-05T13:44:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-onenotes-new-dictate-feature-supports-ai-powered-voice-commands"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 32
   - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
     excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
     publishedDateTime: 2022-08-04T13:18:00Z
@@ -109,6 +118,24 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 30
+  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
+    publishedDateTime: 2022-08-05T12:41:00Z
+    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 28
+  - title: "Microsoft developing software to identify cardiovascular risk"
+    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
+    publishedDateTime: 2022-08-05T13:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "7pw8ajwxCWGaG6A5oeIYVyycq8PKumWmGpCVfQ4lXuhZibfN5FXpBfU0/tIp8TaKAUb+as8HeEAX7kqcXlhtf2glv5CJcOJGlzrs+GU8WG5tuntxvvHiVxArNTZszb5bL6qFj2y3Ug445XcDoALBTO8AUbnHf83XRoeeu0RMg/0Mk54Cr/l+lhLeOTRNDQlERJmUfK/L+IAQ9pXAi4ninl1Nzl0Y9Vg0IrcjtxGYahoGkOwshb1E0u7lsNuvAYLk0Ipl6HNX9G8XfBfQsueksDJml384VCEfc2CjM7I+Ubc9UOuoJuKEqf0yPZHm/puTpYG11mnbQvT93/0vlAeWJP1zPw8Ufii6QPu/oZGbE0k=;iKT0jWs15CX6QY8qLt0Ubg=="
 ---

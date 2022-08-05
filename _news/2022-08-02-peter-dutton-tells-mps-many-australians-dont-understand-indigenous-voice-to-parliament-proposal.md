@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia PM says Indigenous voice details to follow referendum"
-    excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
-    publishedDateTime: 2022-07-31T20:59:00Z
-    webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
-    images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Indigenous voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
     excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
     publishedDateTime: 2022-08-01T20:04:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/fa7de657cfac7be0d2a9713648ed8a6c9c7e4585/0_0_3969_2641/master/3969.jpg?width=620&quality=85&auto=format&fit=max&s=0ee561ddf626a1223d5457bd01933187"
         width: 620
         height: 413
+        isCached: true
+  - title: "Establishing a Voice to Parliament could be an opportunity for Indigenous Nation Building. Here’s what that means"
+    excerpt: "Australian Governments must embrace Indigenous Nation Building if the Uluru Statement is to lead to effective structural reform and self-determined government for First Nations peoples."
+    publishedDateTime: 2022-08-04T04:11:00Z
+    webUrl: "https://theconversation.com/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
+    ampWebUrl: "https://theconversation.com/amp/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 23
+    images:
+      - url: "https://images.theconversation.com/files/477036/original/file-20220801-22-l30rib.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
   - title: "Peter Dutton tells MPs many Australians don’t understand the Voice to Parliament proposal"
     excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."

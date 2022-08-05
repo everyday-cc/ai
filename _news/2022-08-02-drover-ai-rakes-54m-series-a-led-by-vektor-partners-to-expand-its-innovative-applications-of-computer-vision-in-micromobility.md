@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
-    excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety"
-    publishedDateTime: 2022-08-02T04:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
+    excerpt: "\"We are very fortunate to have secured the support of Vektor Partners on our mission to leverage computer vision and artificial intelligence for the benefit and long term success of micromobility ..."
+    publishedDateTime: 2022-08-02T04:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28303358/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28303358"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28303358"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 25
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg?p=facebook"
-        width: 1279
-        height: 670
+      - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg"
+        width: 400
+        height: 319
         isCached: true
 
 secured: "GFcRtSV3h2S8y3WNEaj7z9+PY7hAihE2keHGB7NWAxgSceVtUehLnQP4QaXIz6OW8rXXj9D9ZMKphjBiBQTVnY96J9HlK2yJHELle+v4vhPrlIz7Db5kSUQIfNHcRdKxZf9VZvdI0E4l2AEp9/PgXkYtvRiDkTAfycqK95j8ifCEYQ9ApkfEYlg4lVnEWk+Me9t+CUcaYG6csEi9SQHNP3dg7/7+e3cOJHhfh58xyTrX+h0BfDAZR9VfVQ3vbG7KqVkiLP4uLANEO6/owbZxByHqwoI598m/Hk5ARnD/3CFoBIvujBLKgWNfzFJMwVovpqJEmcZLaYQbLZZTMivxs3Ob/q72QJL6ozg29XsXHy4=;nPoDUh4Y0K0z+y8hGik/3g=="

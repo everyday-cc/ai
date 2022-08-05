@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/08/05/1056903/download-experimental-embryos-human-organ-harvesting-us-monkeypox-emergency-cases-virus/"
 webUrl: "https://www.technologyreview.com/2022/08/05/1056903/download-experimental-embryos-human-organ-harvesting-us-monkeypox-emergency-cases-virus/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MIT Technology Review

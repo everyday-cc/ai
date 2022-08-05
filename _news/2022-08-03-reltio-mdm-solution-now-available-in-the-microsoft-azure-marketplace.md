@@ -92,6 +92,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
+    excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
+    publishedDateTime: 2022-08-05T13:44:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-onenotes-new-dictate-feature-supports-ai-powered-voice-commands"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 32
   - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
     excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
     publishedDateTime: 2022-08-04T13:18:00Z
@@ -101,6 +110,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 30
+  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
+    publishedDateTime: 2022-08-05T12:41:00Z
+    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 28
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
     publishedDateTime: 2022-08-02T18:15:00Z
@@ -109,6 +127,15 @@ related:
     provider:
       name: India Education Diary
       domain: indiaeducationdiary.in
+    quality: 19
+  - title: "Microsoft developing software to identify cardiovascular risk"
+    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
+    publishedDateTime: 2022-08-05T13:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 19
 
 secured: "aDAkHbv8OLAqE/2uDAaTfXkDqK+KCk6A3U03S+R9OEQyaevV7FJ2a/IXCj17IZ6BdG6o9REVBxm5WEdtxxKFySkhV26Jbseh8EfmqJQ0p1uOqqdcT8//zz1UtCMxzWgc2uQgbESDtZ/I0tWIZhCLGSlXUzOyM6CHFmjHHwJQdCFs5Azz6VIIFMaxoZsl+UJgVVlvU6dnG+hrmR5n8DCt7RJHiWvABjuy55X9e7GC8sgZJyQF3If4jXkHq2H/Cn9ux5hWCA9//+leLZGoLUlwCaG4wdc7uBmV/+wMWdGIgSztl1Mf0kfeDwoTizRIJjqCgcW36P49ziIlSeTEJsnu+ChlxuLNKb3XWBLgq0HDxIY=;uWaI+Kok5Ywdek26/8LRSw=="

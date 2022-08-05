@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/stanford-ai-experts-dispute-claims-goo
 webUrl: "https://thenextweb.com/news/stanford-ai-experts-dispute-claims-google-lamda-language-model-is-sentient"
 type: article
 quality: 64
-heat: 84
+heat: 75
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
-    excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
-    publishedDateTime: 2022-08-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/02/cresta-brings-ai-powered-insights-chatbots-contact-center/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/Crestas-AI-Coaching-Software-Integrates-with-Amazon-Connect-to-Provide-Real.jpg"
-        width: 2300
-        height: 1300
-        isCached: true
   - title: "Is Google’s AI sentient? Stanford AI experts say that’s ‘pure clickbait’"
     excerpt: "Though skeptic of Google engineer Blake Lemoine’s claims that the AI chatbot “LaMDa” is sentient, Stanford experts raised questions on the debate around artificial intelligence sentience and"
     publishedDateTime: 2022-08-03T02:36:00Z

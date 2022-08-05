@@ -14,6 +14,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 secured: "t8QYggFv95R+t+aGQa1jbkEF3rR/0fcoTdthcQ17tCR1dvTuUyOwghx+4iAa0Ly5NpjtgwZwzp8LN4d72BdGZTVcIkdyMfEBTK77k65U7wu+KjcniSbFgcjHlNkfM/biHxBfL/VoqNvxEgV1akNzPs04Q/bQCeHfLQxPKCVtR3wT1XMsY9B0HwRDX0OwuPqAgQZVtfbJzlsyJraeOe40NFyHE5LKUXrUsoHtR80CTGAQAQbPNJCR7vNwBqLYg8pvalaklXiGlqvzR2oYrWKf20sKYD4H7v4Aawde9/YH6JZ17pvUc6IgnWN4sXe8PZUKIVA2BaRORohatEzm+x9cvjOz8BybhjH4oSCO0J59J20=;Sh7Ue2iWIcXl+0YIXUKxlg=="
 ---

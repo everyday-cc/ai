@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T12:20:00Z
 originalUrl: "https://venturebeat.com/2022/08/05/with-great-machine-learning-comes-great-responsibility/"
 webUrl: "https://venturebeat.com/2022/08/05/with-great-machine-learning-comes-great-responsibility/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

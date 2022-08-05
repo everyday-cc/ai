@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T11:59:00Z
 originalUrl: "https://metro.co.uk/2022/08/05/ai-driven-political-party-in-denmark-eyes-running-for-parliment-17133621/"
 webUrl: "https://metro.co.uk/2022/08/05/ai-driven-political-party-in-denmark-eyes-running-for-parliment-17133621/"
 type: article
+quality: 15
+heat: -1
+published: false
 
 provider:
   name: Metro
@@ -13,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Danish AI-driven political party eyes parliament"
+    excerpt: "A new political party in Denmark whose policies are derived entirely from artificial intelligence (AI) hopes to stand in the country's next general election in June 2023."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
 
 secured: "1R/aNhlsIYe5CBRC2yAkofp4+6RemoK+zDmNraAmblR8GvurPu4y8YlGNoQJWfcDRpBl5EdEKYwP3dA/uNkMVxe+SpMGhvxV2u+BMFBy71oFxau77gtGAUkQJ7I1WxTz4rhNiVyEGks2WvSVgC5ddHoUqaCj14bkp/LE0ErPsVq5NjGhttRPlHl0UnXxVtfjmi0SYZrMvoipsBdDVkG9GR/K5kxZc7PHoQD7TrbTm8Qz2v+Q8eUy9vTWKR5M4njWuhQn/H7ve5Rqr6S68qb0r4bMt8l1qhBYPyV/EDIAkyQVGDLF50LWiKOcTH5lwVr72ydhSwROU8LTE4UiKkCXpDQdQOraKbysXfz3ARUXNfpawuSK4rDZZeItEy+7uG1xGFW7W0iZOCwB0JxX2d0R92m1smcNv6/4cPw0tw4mxc+fwxeUFvRIgSGipRyCe4lS3OI82KuV/5+YUrw/OxYQp9866ACXGv8zzM+2OaGZFCPPU+8n1FXbDPexJsgMUfvGO7XrruXXmharRvhIeAeIZQ==;IkLDetllwVF7Sz0oor0UWw=="
 ---

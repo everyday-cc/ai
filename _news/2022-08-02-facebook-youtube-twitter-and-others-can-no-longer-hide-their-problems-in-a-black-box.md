@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Let's open Facebook's black box"
-    excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
-    publishedDateTime: 2022-08-02T21:00:00Z
-    webUrl: "https://www.bangkokpost.com/opinion/opinion/2359851/lets-open-facebooks-black-box"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "YLHdypfCYRee7YTntKpPUI37jQHPgML368N7pvESIZTEqdPQ4gXXDH6cu71bE5AvKLiDul9RNCKc5urNVv/AxuOUOmDzZZ+LWd+a6IPkcf8ZyXjHAMRMKyUgXaryuoz7kRielbL7p26AljMyE/g/jgfATak0VwKgBz+qCFHK/ulSBOwQxicr+n2IGZSfd1LvMGrvaR8gtTYgR2wTyM0dGYwbyTZVliTejhSLZPqlRFY2hCOD5nS0bIuIw3uFZuh5cuasY+6mdazpCNkD7jc+mePq7Jhi3STjuOwB2kxcxITqinZ/okJywqOLMn9DyfeMVdTbIMgnHsHeFD2amIzy7KYd97HW3gS9MXgHPi18ie0=;d7Mrqd/M/w8QkQO3EQHWKg=="
 ---

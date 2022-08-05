@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-02-why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.md",
-      "title": "Why UnionDigital Bank invests in an AI-driven approach to cybersecurity",
-      "excerpt": "UnionDigital Bank’s CISO Dominic Grunden and CDO Dr. David R. Hardoon lift the lid on why the new digital bank has fully embraced an AI-focused approach to cybersecurity.",
+      "path": "_news/2022-08-02-breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring.md",
+      "title": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring",
+      "excerpt": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR",
       "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.html",
-      "originalUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.html",
+      "webUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2022/07/hardoon-grunden-uniondigital-100930811-large.jpg?auto=webp&quality=85,70",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 800,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html",
-      "publishedDateTime": "2022-08-02T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

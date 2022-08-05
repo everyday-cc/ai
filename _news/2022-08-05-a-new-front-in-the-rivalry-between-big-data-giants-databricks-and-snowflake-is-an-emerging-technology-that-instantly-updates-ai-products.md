@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T12:30:00Z
 originalUrl: "https://www.businessinsider.com/snowflake-and-databricks-are-building-streaming-data-pipelines-2022-8"
 webUrl: "https://www.businessinsider.com/snowflake-and-databricks-are-building-streaming-data-pipelines-2022-8"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Business Insider

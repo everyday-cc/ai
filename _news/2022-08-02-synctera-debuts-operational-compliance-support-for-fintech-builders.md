@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How fintech is opening the door for alternative retirement investments"
+    excerpt: "The digital age has influenced every industry and especially finance. With fintech, alternative retirement investors are finally getting the chance to explore investment opportunities that weren’t available until recently."
+    publishedDateTime: 2022-08-05T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90773656/how-fintech-is-opening-the-door-for-alternative-retirement-investments"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 4
 
 secured: "+JxZIZTLvAsIZpttiIMip7+9au9uErFGjRKVm4qsz93C5TAS7GLi85Fwt2XtvEGwVY58lVFqeYAZ4xORiaHzjI/9AgTlVd3h4eQMWEue33VwKLmBlkgooKtu4h6LRQnyN/dYPEoI6qGeMutj69eVylH0usDhit6g4Gd5oDfJDL5lF+KCYU3HgaEqNRC883q9iNhtZuPywD2FJYpkbnVPDxi4SvcktVpSsMAoRzJ6aM0KKE9dYf9IKiJ/oe+xHy9B1RjDTIcHs/w1QWhvY6LaGuE+5pbgXIAqTlSi0z8uCoNJQx4ZjhCJ2jSyPwTohtJimwi/W2yj1PrOtqsCQ7KoDlAN8VpXpjIuNaJ3YPhgdyQ=;KTE8szVs6UGhRXuP9CE9bA=="
 ---

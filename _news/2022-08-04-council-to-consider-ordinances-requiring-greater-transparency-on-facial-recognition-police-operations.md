@@ -74,15 +74,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Facial recognition technology down under"
-    excerpt: "Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of Australia's large retail companies have given a meek assurance that they will \"pause\" their use."
-    publishedDateTime: 2022-07-31T21:40:00Z
-    webUrl: "https://www.onlineopinion.com.au/view.asp?article=22077"
-    type: article
-    provider:
-      name: The National Forum On Line Opinion
-      domain: onlineopinion.com.au
-    quality: 19
   - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
     excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
     publishedDateTime: 2022-08-01T23:30:00Z

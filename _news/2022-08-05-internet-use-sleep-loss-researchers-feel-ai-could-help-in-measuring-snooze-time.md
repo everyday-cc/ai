@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T13:40:00Z
 originalUrl: "https://economictimes.indiatimes.com/magazines/panache/internet-use-sleep-loss-researchers-feel-ai-could-help-in-measuring-snooze-time/articleshow/93375178.cms"
 webUrl: "https://economictimes.indiatimes.com/magazines/panache/internet-use-sleep-loss-researchers-feel-ai-could-help-in-measuring-snooze-time/articleshow/93375178.cms"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: India Times

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/breaking-wave-deutsche-b
 webUrl: "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "How fintech is opening the door for alternative retirement investments"
+    excerpt: "The digital age has influenced every industry and especially finance. With fintech, alternative retirement investors are finally getting the chance to explore investment opportunities that weren’t available until recently."
+    publishedDateTime: 2022-08-05T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90773656/how-fintech-is-opening-the-door-for-alternative-retirement-investments"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 4
 
 secured: "aUEzzD7tNt4xtUrJGNRAtAuNXKUviq46JDVZfMiTbDDkmC67WaVAfjVoVwG1VNqxmIH828ry/KxvFKSdM7f8UEGXYSM3w/FkPERZ9Eif5qUESfXsANC7J5T7oaNvcUPCvsSum/RmqjgwyO8IyHT7rU2C8hWfZa0mFtwO06ykhrM4O1uxn7ISqX8TWJmIRzs+wmkqml62M6vbiPTMk9iYGca/iPr+VUAxKx2/htk5f7BrgJzu+27aTlhxwlGzg1gAR/F94rbe3RZpDY0eP41KgQFncWiipkGQKjJjQdLYCaFdBU8wd51grF3TfUN9oK9GuRkl2pqNvUzoZRN7CAdqeI26CQkzdy35REcuaR8K75g=;8kRi/Lp9R1dFb8uXWET0Sg=="
 ---

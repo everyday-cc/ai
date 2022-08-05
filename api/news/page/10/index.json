@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
+      "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
+      "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "publishedDateTime": "2022-07-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-visualcortex-and-university-of-wollongong-partner-to-drive-computer-vision-innovation-and-industry-research-collaboration.md",
+      "title": "VisualCortex and University of Wollongong partner to drive computer vision innovation and industry - research collaboration",
+      "excerpt": "VisualCortex – the Video Intelligence Platform connecting computer vision's potential to real-world business outcomes – has partnered with the University of Wollongong (UOW), joining its research and development hub for Artificial Intelligence of Things (AIOT) Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-visualcortex-university-wollongong-partner-drive-computer-vision-innovation-/2022/07/24/9643901.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-visualcortex-university-wollongong-partner-drive-computer-vision-innovation-/2022/07/24/9643901.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-google-fires-engineer-who-called-ai-model-sentient.md",
       "title": "Google fires engineer who called AI model 'sentient'",
       "excerpt": "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ...",
@@ -739,6 +816,40 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-omaha-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
       "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
       "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
@@ -920,6 +1031,58 @@
       ]
     },
     {
+      "path": "_news/2022-07-22-meet-the-top-8-lawyers-helping-startups-patent-artificial-intelligence-and-comply-with-rules-on-privacy-and-safety.md",
+      "title": "Meet the top 8 lawyers helping startups patent artificial intelligence and comply with rules on privacy and safety",
+      "excerpt": "Artificial-intelligence startups are continuing to ... and its self-driving car program, Waymo — which he previously represented in a high-profile trade-secrets dispute against Uber Technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7",
+      "originalUrl": "https://www.businessinsider.com/top-lawyers-artificial-intelligence-startups-tech-companies-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d6bd42f7ae650018341273?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-virginia-governor-glenn-youngkin-attends-empower-ai-ribbon-cutting-ceremony-at-new-richmond-location.md",
       "title": "Virginia Governor Glenn Youngkin Attends Empower AI Ribbon-Cutting Ceremony at New Richmond Location",
       "excerpt": "Virginia Governor Glenn Youngkin (center left) joined Empower AI President and CEO Paul Dillahay (center right) to celebrate the opening of Empower AI's new facility in Richmond, Va., on July 20. The facility supports federal government customers using artificial intelligence and other technologies to help agencies make faster,",
@@ -960,181 +1123,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-african-artificial-intelligence-in-aviation-market-key-players-trends-and-drivers-researchandmarketscom.md",
-      "title": "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com",
-      "excerpt": "Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d945f3ba-4c4b-5d8e-bf9a-6270198b145e.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d945f3ba-4c4b-5d8e-bf9a-6270198b145e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T04:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size Future Scope, Demands and Projected Industry Growths to 2025",
-      "excerpt": "The global Artificial Intelligence (AI) in Education market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of % in the forecast period of 2020 to 2025 and will expected to reach USD million by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2022-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
-      "title": "AWS ML engineering manager evaluates the social impact of AI",
-      "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "originalUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/",
-      "publishedDateTime": "2022-07-22T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
-      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
-      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
-      "publishedDateTime": "2022-07-22T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

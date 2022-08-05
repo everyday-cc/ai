@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
+      "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
+      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "publishedDateTime": "2022-08-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
       "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
       "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
@@ -1399,49 +1451,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
-      "title": "The Metaverse in 2040",
-      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
-      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pew Research Center",
-        "domain": "pewresearch.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

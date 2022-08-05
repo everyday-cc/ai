@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities"
+    excerpt: "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,"
+    publishedDateTime: 2022-08-05T14:13:00Z
+    webUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities"
+    ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
   - title: "Why UnionDigital Bank invests in an AI-driven approach to cybersecurity"
     excerpt: "UnionDigital Bank’s CISO Dominic Grunden and CDO Dr. David R. Hardoon lift the lid on why the new digital bank has fully embraced an AI-focused approach to cybersecurity."
     publishedDateTime: 2022-08-02T09:00:00Z
@@ -41,20 +52,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Involta Partners With Tech Startup HacWare to Expand Enterprise Cybersecurity Awareness Services"
-    excerpt: "Involta, an award-winning data center, hybrid IT, and cloud-forward consulting firm, announces today a partnership with HacWare, an AI-driven cybersecurity awareness and training SaaS (Software-as-a-Service) product that combines threat intelligence with user behavior to help lean IT teams combat today’s most advanced phishing attacks."
-    publishedDateTime: 2022-08-04T10:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-email-phishing-89f90b2a2db179d4625b648b1575e9f9"
+  - title: "Saint Leo University Opens a New Interactive Robotic & AI Lab by RobotLAB"
+    excerpt: "The implementation of the Robotics & AI lab will provide students with real world experience as they pursue their bachelor's degrees in robotics and artificial intelligence and increase their marketability upon graduation."
+    publishedDateTime: 2022-08-01T21:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648065.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 9
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "DFW2Je+As76PWP4ooQhGm0fUHARR+gY/WdJ13BgTE2wu7/fsD1wtfxA5NXDkydSi7HkVvY8MdEF7PXOWrXj36hUl/dFxlBUazoBs77WaTGgJVvnmZ33FaEXZ5IpAuYldED0un1EUmTdsZrFaL2cUfQkGymYQi9rLhMvxeNP4srLuKY8k0RflTtxjOiEnK4FFkqCtUtBU3ghk/40LQztKx30kule3yTXyilrgIl1ILp6czqr5aQEoAsJq/Iux+q4iEl4anyarScvYBVIMG2ITBB1Rw6jkY5+Cm4lQzRSOj6oObjvSh+ISipb92RaXm2LjG6T5LvZTK2WNS/TSI0Z33vXy5ZzWNOoiswCVC8S98Pg=;0ujZJ9EvHIlVFgkrNADUew=="
 ---

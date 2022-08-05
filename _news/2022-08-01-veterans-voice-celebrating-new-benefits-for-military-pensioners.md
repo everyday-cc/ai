@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "What happens next for the Voice?"
+    excerpt: "This article was first published in the print edition of The Saturday Paper on August 6, 2022 as \"What happens next for the Voice\". A free press is one you pay for. Now is the time to subscribe."
+    publishedDateTime: 2022-08-05T14:18:00Z
+    webUrl: "https://www.thesaturdaypaper.com.au/opinion/topic/2022/08/06/what-happens-next-the-voice"
+    type: article
+    provider:
+      name: The Saturday Paper
+      domain: thesaturdaypaper.com.au
+    quality: 24
+    images:
+      - url: "https://www.thesaturdaypaper.com.au/sites/default/files/styles/opinion/public/albanese_voice_megan_davis.png"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "BCm82x+yJCZQHKaQ+DeXy0U5nQQ5q6YvHcp/33hXYBLmhynFPWSdNSk7cvTTfbajvropB98kROnlJSMdg6eiUq5c6/P+d8f0nCCILWxF9/1nT4okkM1LfBp5O9a3+uBC40hlZfZq4vTfe3r8VvVO6g4cIpP7MF1FZFUDZ7mA3pW2nY17OjT8HTzIqnVDxD2BrHEHxqfppJ7RSnVRXhyqcZoKq5oWMKXdeum4mT+Qy8XXK/y9SlaMA64cRJjwfh5dbworL4T0mG8vGyAyLrWvtcTmMzHxN3HIxBktqRTUpPf/CQmLTF/k4hn8XPWQo764UbIXtp0HoQasLTuCFfoLHqFBQRWx8IyMlX33JGHbEic=;5lEfgrseRDXxqtVF0jn4lg=="
 ---
 

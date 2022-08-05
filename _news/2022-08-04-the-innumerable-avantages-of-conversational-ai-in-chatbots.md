@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-innumerable-ava
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-innumerable-avantages-of-conversational-ai-in-chatbots/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,68 @@ images:
     width: 378
     height: 439
     isCached: true
+
+related:
+  - title: "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot"
+    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
+    publishedDateTime: 2022-08-05T15:00:00Z
+    webUrl: "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BlenderBot 3: An AI Chatbot That Improves Through Conversation"
+    excerpt: "Our new AI research chatbot is designed to improve its conversational skills and safety through feedback from people who use it."
+    publishedDateTime: 2022-08-05T15:00:00Z
+    webUrl: "https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/"
+    ampWebUrl: "https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/amp/"
+    type: article
+    provider:
+      name: Facebook Live
+      domain: fb.com
+    quality: 57
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2022/08/BlenderBot-3.0_Header.gif?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
+    excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
+    publishedDateTime: 2022-08-02T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/08/02/cresta-brings-ai-powered-insights-chatbots-contact-center/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/Crestas-AI-Coaching-Software-Integrates-with-Amazon-Connect-to-Provide-Real.jpg"
+        width: 2300
+        height: 1300
+        isCached: true
+  - title: "Let's open Facebook's black box"
+    excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
+    publishedDateTime: 2022-08-02T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/opinion/opinion/2359851/lets-open-facebooks-black-box"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "AsQBAM+IkFiJT5T2WqwK4rAyfy7hRC3zSXctezfUPOSiAiubY8QbynrcXxCvXw+QY7xYS7paeTYWTsJJReBz7dEtBhVWSQYPkAPiLxkTUSa1hheFBZXwsAjMU2K27b0oRkRd7JReGlKx9e1du3Pz0SwqKRpelGtHNAGYnKU3X1jPRHHjCN7hp71TVt6UjLcb1CwdAbbpA1lYSmBSWSSMW3c0xRgAp7Yx5JHcWfe0ujkkv59d20lfb/iuq33EH/hveoVEq4zzi+m+vXhDbP99dLU9irA4MI73JSHDkfmLS08eKmIRbmJiRszWMhfAlr8IrFEnmf6G84nju5t5Ti86gFl9KfWflF/cVVMAvpu2ixYEPqRg3rg8LH+3YAklxaLv/puuUvqfp1TUNr7Qt8DjOOmtPQDPKyQ/fzvGNaeWJJuZJ5bQBFrf5OqVn9k12iLqicZU5Gan187VR4piI2lUOIJcJAS/pEh5SHEU2enG70qM9SHHEymNUOuGO7bEiaur+07JiVNCczRI/PUltj/+vQ==;GkXdNIp+7ot1naCbp4zVig=="
 ---

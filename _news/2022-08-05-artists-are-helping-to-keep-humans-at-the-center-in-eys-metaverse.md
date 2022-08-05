@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ethics in The Metaverse: Why Data Concerns Needs to be Resolved Now, Not Later"
+    excerpt: "Most of the ethical concerns are issues we have been experiencing in our non-digital life, such as privacy, social-economic inequalities, accessibility, identity control, freedom of creative expression,"
+    publishedDateTime: 2022-08-05T12:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/ethics-in-the-metaverse%3A-why-data-concerns-needs-to-be-resolved-now-not-later"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
 
 secured: "nHM3i926MLcQQifohxVJuEnBIJPMxJ544WY2jsXoxXx+eaUARqx28CC1BOlayJHX/MwEw7bOaLJoC+MpDpaVslj1OnDcslPLmq34MUgH1mlynm5QVQXBRahXzIpIFprOeizJvSaaEBftG4aVDPS22ZhOVBQecz+C0+VF15vBKDeNn9cyj0Zxr/PXW123wV8AcFgGFMAd2aWrTYDFXmVYxq761ls/VC6aSkwsw1zZKuFWDxWYvjvkOOwkFOBEp0eAiH+al2VRHxoRW4d15H1LwXtvYGyRZKDjjqmBXLyWrB87I1cBuzdYZBItBwEPyii7GeMiVZdCazM4A6TRQ7Jn3kkd3aPS7gqyp50VS5/Ehxh8WNbCc0b5koa6e6I/Ys9yK6YaP/VxV0YTPEZ07placpkQkErE8+F0RNAdZZ0+QWx/i516dEo1P+53tcJ+ncvpWkJ/ErYgyp6x5PbPs1yncO6W+7M13zQxJPKF0cmmrpwFbAcRr6Ku5i/a6d+kogdsJBNPyLKroQQBK54C0zwyCw==;AX53OM1AV5coNIdtBbVUXw=="
 ---

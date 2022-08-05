@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T10:06:00Z
 originalUrl: "https://www.marketwatch.com/press-release/luftcar-and-neurobotx-sign-paid-partnership-to-bring-its-flying-car-to-market-with-xrai-2022-08-02"
 webUrl: "https://www.marketwatch.com/press-release/luftcar-and-neurobotx-sign-paid-partnership-to-bring-its-flying-car-to-market-with-xrai-2022-08-02"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: MarketWatch

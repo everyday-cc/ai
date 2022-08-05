@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intell
 ampWebUrl: "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:

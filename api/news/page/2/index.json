@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-03-mercedes-benz-stadium-launches-pilot-for-facial-recognition-ticket-entry.md",
+      "title": "Mercedes-Benz Stadium launches pilot for facial recognition ticket entry",
+      "excerpt": "ATLANTA — Mercedes-Benz Stadium is testing out some new technology that could change the way fans enter the stadium. It's experimenting with \"a frictionless entry pilot.\" The technology would allow fans,",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "originalUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WXIA/images/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
+      "publishedDateTime": "2022-08-03T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-truera-joins-intel-disruptor-program-to-advance-ai-model-quality.md",
+      "title": "TruEra joins Intel Disruptor program to advance AI model quality",
+      "excerpt": "TruEra has been selected for the Intel Disrupter Initiative, which brings technical partnership and go-to-market support for participants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
+      "originalUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/machine-learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
+      "publishedDateTime": "2022-08-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-delivery-robotics-startup-ottonomyio-raises-33-million-in-seed-funding.md",
       "title": "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding",
       "excerpt": "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage",
@@ -295,7 +389,7 @@
       "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -435,7 +529,7 @@
       "originalUrl": "https://futurism.com/the-byte/mit-claims-artificial-neuron-1-million-times-faster-real-thing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -478,7 +572,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -656,6 +750,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring.md",
+      "title": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring",
+      "excerpt": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -926,7 +1072,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -966,7 +1112,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Sales",
+        "AI in Autos"
       ]
     },
     {
@@ -1009,49 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.md",
-      "title": "Why UnionDigital Bank invests in an AI-driven approach to cybersecurity",
-      "excerpt": "UnionDigital Bank’s CISO Dominic Grunden and CDO Dr. David R. Hardoon lift the lid on why the new digital bank has fully embraced an AI-focused approach to cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.html",
-      "originalUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/07/hardoon-grunden-uniondigital-100930811-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html",
-      "publishedDateTime": "2022-08-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -1107,83 +1211,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
-      "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
-      "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "originalUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "publishedDateTime": "2022-08-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI star Appen flags first-half loss, shares plunge",
-      "excerpt": "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "originalUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "publishedDateTime": "2022-08-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

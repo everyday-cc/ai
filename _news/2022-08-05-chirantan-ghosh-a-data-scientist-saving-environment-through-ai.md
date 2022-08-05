@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T11:37:00Z
 originalUrl: "https://www.theweek.in/news/sci-tech/2022/08/05/chirantan-ghosh-a-data-scientist-saving-environment-through-ai.html"
 webUrl: "https://www.theweek.in/news/sci-tech/2022/08/05/chirantan-ghosh-a-data-scientist-saving-environment-through-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Week

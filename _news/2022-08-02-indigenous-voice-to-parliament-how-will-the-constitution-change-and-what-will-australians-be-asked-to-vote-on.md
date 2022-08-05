@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Australia PM says Indigenous voice details to follow referendum"
-    excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
-    publishedDateTime: 2022-07-31T20:59:00Z
-    webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
+  - title: "Establishing a Voice to Parliament could be an opportunity for Indigenous Nation Building. Here’s what that means"
+    excerpt: "Australian Governments must embrace Indigenous Nation Building if the Uluru Statement is to lead to effective structural reform and self-determined government for First Nations peoples."
+    publishedDateTime: 2022-08-04T04:11:00Z
+    webUrl: "https://theconversation.com/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
+    ampWebUrl: "https://theconversation.com/amp/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/establishing-a-voice-to-parliament-could-be-an-opportunity-for-indigenous-nation-building-heres-what-that-means-187534"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
+      name: The Conversation
+      domain: theconversation.com
+    quality: 23
     images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
-        width: 620
-        height: 355
+      - url: "https://images.theconversation.com/files/477036/original/file-20220801-22-l30rib.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
   - title: "Peter Dutton tells MPs many Australians don’t understand the Voice to Parliament proposal"
     excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."

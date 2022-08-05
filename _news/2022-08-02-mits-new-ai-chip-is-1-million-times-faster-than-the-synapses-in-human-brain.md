@@ -66,20 +66,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "MIT’s New Analog Synapse Is 1 Million Times Faster Than the Synapses in the Human Brain"
-    excerpt: "New Hardware Delivers Faster Computation for Artificial Intelligence, With Much Less Energy MIT engineers working on “analog deep learning” have found a way to propel protons through solids at unprecedented speeds."
-    publishedDateTime: 2022-07-31T20:21:00Z
-    webUrl: "https://scitechdaily.com/mits-new-analog-synapse-is-1-million-times-faster-than-the-synapses-in-the-human-brain/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 33
-    images:
-      - url: "https://scitechdaily.com/images/Analog-Deep-Learning-Processor.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
 
 secured: "RAN4M04DdjTYyP4gBd3BTwqoYslwAkLs9KbZOla1zuL+XuXSzHAnqXVSwiHtTTBmh4q77V1KBxU6+zl/xXt0mEWaLkMwoB1+AaddL6RwnFlyplNEjG+ayE95vXxIBdoYVV034Rb4tAeUvPzSnvf2vztBOhC6FC48+K3bvMJoceBXD4nGrMZA8bXjYilK17A4xEQ73eNyuSonA5DkZjM+gTmoPe6Lx6BazbeLlv/1dLJDQch4rS4lqEUAE0CoGEWGJFoWTKAOaBHTSRee7sCSe89SmRvgcLLQrfmL/nTX8/cuhC1ckrXWJWQmCAjFImDJ2vd00YBZxGekKdO6QefjkF3jwLI0q47Bio+mwzm6jzV/aodnw6L+33Aqp5T0hObXmermE7pjQVrrfRtzjHRHBInOxq/liqPgC8uP2BUbdTPecodfNqKlulq4as3QK6IMF6zjY5gqJnpmVmXyA22FN+Wleg2HULx7sFR2XyCUaphJv559fZSmox1MP5v7zc8VZ9Y+Sj/nwr8NConbZBU5tA==;JvvYTVdhvHJYL/Z+FEyjuQ=="
 ---

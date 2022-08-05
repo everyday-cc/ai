@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-07-26-aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications.md",
+      "title": "ARYABHAT-1, IISc Bangalore’s Analog Chipset for AI Applications",
+      "excerpt": "With ARYABHAT we have a learning paradigm, the problem of analog chips being prone to noise or small variations in voltage that causes errors can be compensated here by learning and overcoming,” Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/07/markus-winkler-f57lx37DCM4-unsplash-1-e1658740792279.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
+      "publishedDateTime": "2022-07-26T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-navigating-data-literacy-in-the-world-of-augmented-analytics.md",
+      "title": "Navigating Data Literacy In The World Of Augmented Analytics",
+      "excerpt": "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62def46c309ce98e9087f3de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/",
+      "publishedDateTime": "2022-07-26T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-innovative-smartphone-and-artificial-intelligence-based-tests-featured-at-the-2022-aacc-annual-scientific-meeting.md",
       "title": "Innovative Smartphone and Artificial Intelligence-Based Tests Featured at the 2022 AACC Annual Scientific Meeting",
       "excerpt": "Test With Smartphone App May Predict Blood Clot Risk People who take the blood-thinning medication warfarin to prevent blood clots—which can lead to heart attacks—need frequent blood testing to ensure that the drug is working.",
@@ -1060,92 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
-      "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
-      "excerpt": "Insight Enterprises (NASDAQ:NSIT), a Fortune 500 solutions integrator helping organizations accelerate their digital journey, has won the 2022 Microsoft Partner of the Year Award as the U.S. Manufacturing Partner of the Year for excelling at providing innovative and unique services or solutions based on Microsoft technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-4418891824784292ac45a06b86debece",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-4418891824784292ac45a06b86debece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-chess-playing-robot-breaks-young-boys-finger-during-match-in-moscow.md",
-      "title": "Chess-playing robot breaks young boy's finger during match in Moscow",
-      "excerpt": "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "originalUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg",
-          "width": 2500,
-          "height": 1691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39784",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784",
-      "publishedDateTime": "2022-07-25T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

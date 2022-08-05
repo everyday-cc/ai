@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

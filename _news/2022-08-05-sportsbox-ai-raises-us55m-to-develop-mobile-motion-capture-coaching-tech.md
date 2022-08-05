@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T13:46:00Z
 originalUrl: "https://www.sportspromedia.com/news/sportsbox-ai-seed-round-golf/?blocktaxonomy=news"
 webUrl: "https://www.sportspromedia.com/news/sportsbox-ai-seed-round-golf/?blocktaxonomy=news"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: SportsPro

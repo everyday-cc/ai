@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
+      "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
+      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
+      "publishedDateTime": "2022-08-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-cybersecurity-cloud-and-ai-robotics-the-new-digital-utilities.md",
+      "title": "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities",
+      "excerpt": "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
+      "publishedDateTime": "2022-08-05T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-smart-microrobots-learn-how-to-swim-and-navigate-with-artificial-intelligence.md",
       "title": "Smart microrobots learn how to swim and navigate with artificial intelligence",
       "excerpt": "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,",
@@ -10,7 +96,7 @@
       "originalUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -41,7 +127,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -53,7 +140,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -105,7 +192,7 @@
       "originalUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -199,7 +286,7 @@
       "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -294,7 +381,7 @@
       "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -348,7 +435,7 @@
       "originalUrl": "https://thenextweb.com/news/stanford-ai-experts-dispute-claims-google-lamda-language-model-is-sentient",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -643,17 +730,17 @@
     {
       "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
       "title": "FedEx to expand robotics technology, artificial intelligence",
-      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
+      "excerpt": "Memphis-based FedEx will be using more robots and artificial intelligence. This comes after the company announced an expanded relationship with Berkshire Grey, a Massachusetts-based company that develops robotics technology and AI software for logistics businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "webUrl": "https://www.wfmynews2.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "originalUrl": "https://www.wfmynews2.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
+          "url": "https://media.wfmynews2.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
           "width": 1140,
           "height": 641,
           "title": null,
@@ -663,13 +750,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "ampWebUrl": "https://www.wfmynews2.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "cdnAmpWebUrl": "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
       "publishedDateTime": "2022-08-03T16:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Local 24 News",
-        "domain": "localmemphis.com",
+        "name": "WFMY News2",
+        "domain": "wfmynews2.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -679,8 +766,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1047,7 +1134,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1142,100 +1229,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-mercedes-benz-stadium-launches-pilot-for-facial-recognition-ticket-entry.md",
-      "title": "Mercedes-Benz Stadium launches pilot for facial recognition ticket entry",
-      "excerpt": "ATLANTA — Mercedes-Benz Stadium is testing out some new technology that could change the way fans enter the stadium. It's experimenting with \"a frictionless entry pilot.\" The technology would allow fans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
-      "originalUrl": "https://www.11alive.com/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.11alive.com/assets/WXIA/images/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9/ecb44ef0-d722-49b8-bdd3-8ad0f170b8c9_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
-      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6",
-      "publishedDateTime": "2022-08-03T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "11Alive",
-        "domain": "11alive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-truera-joins-intel-disruptor-program-to-advance-ai-model-quality.md",
-      "title": "TruEra joins Intel Disruptor program to advance AI model quality",
-      "excerpt": "TruEra has been selected for the Intel Disrupter Initiative, which brings technical partnership and go-to-market support for participants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "originalUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/machine-learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "publishedDateTime": "2022-08-03T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

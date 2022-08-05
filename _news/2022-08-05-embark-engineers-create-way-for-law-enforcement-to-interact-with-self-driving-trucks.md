@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T12:55:00Z
 originalUrl: "https://www.fleetowner.com/technology/article/21248112/embark-engineers-create-way-for-law-enforcement-to-interact-with-selfdriving-trucks"
 webUrl: "https://www.fleetowner.com/technology/article/21248112/embark-engineers-create-way-for-law-enforcement-to-interact-with-selfdriving-trucks"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fleet Owner

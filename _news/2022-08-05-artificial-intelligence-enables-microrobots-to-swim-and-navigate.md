@@ -36,7 +36,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/smart-microrobots-lear.jpg"
         width: 1140

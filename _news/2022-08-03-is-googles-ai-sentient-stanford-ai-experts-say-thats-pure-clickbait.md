@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
-    excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
-    publishedDateTime: 2022-08-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/02/cresta-brings-ai-powered-insights-chatbots-contact-center/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/Crestas-AI-Coaching-Software-Integrates-with-Amazon-Connect-to-Provide-Real.jpg"
-        width: 2300
-        height: 1300
-        isCached: true
 
 secured: "+HJL88sy0j2ODy3eehVmlyXiI57PULuCQwxVcnA/61jiupdaMvb9Q9QP8Qmr3FGL/sHsmvIGLWmQ8X9pwM8Xo8HFFyEdOSsCfwl53GI9ThFTarjjyZWZ3vmReC3oM75Q1TQDWRgzLCydqsQ4m40SJ0elTKvMAGc5+AHVZfDYxKpBCJ8f+M1hRgUTA8a9MjLYjn+rfdmwNvvEZSEHq0Lv1jWcHdtPmQ7oU8NWqIg7r0G5TUE0fB9QLqxk9M73TS5EogkdAaQlcY5Ppf2J1FLrmy3M3SbhGB2TroR+6Trc88Ibgyj/6727lYbHRMAyW3h2GSkFGUjHpkR8mbY6Owsq+mBZORbT7CkKjrrldflJs7/eOkDQdrgsS0wHzPFz9XxzXudCcscUzKMAfeUlR/WJt3f1KxjpwOm9LAVhT6+918K5HtPE1N0uhdCW72cOAJ/00y2yvIU0xj+AdY1isGxrpt4sIVkUPPDBYC/V3YpN+2gT38gy+sYFb5KpTA58e8mtEss8F0bZ4Myc7NzyU9Fcog==;2SiKtju1p4qOnNS5SL9fvA=="
 ---

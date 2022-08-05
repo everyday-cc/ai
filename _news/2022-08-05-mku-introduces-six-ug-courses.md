@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T13:12:00Z
 originalUrl: "https://www.thehindu.com/news/cities/Madurai/mku-introduces-six-ug-courses/article65731073.ece"
 webUrl: "https://www.thehindu.com/news/cities/Madurai/mku-introduces-six-ug-courses/article65731073.ece"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Hindu

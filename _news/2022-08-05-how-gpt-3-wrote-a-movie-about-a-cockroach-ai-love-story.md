@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T12:48:00Z
 originalUrl: "https://www.wired.com/story/ai-artist-miao-ying-qanda/"
 webUrl: "https://www.wired.com/story/ai-artist-miao-ying-qanda/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired
