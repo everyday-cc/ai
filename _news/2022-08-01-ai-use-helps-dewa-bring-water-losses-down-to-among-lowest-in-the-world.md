@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/technology/ai-use-helps
 webUrl: "https://www.arabianbusiness.com/industries/technology/ai-use-helps-dewa-bring-water-losses-down-to-among-lowest-in-the-world"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How DEWA uses AI to monitor cyberattacks, leaks and faults"
-    excerpt: "Dubai: Dubai Electricity and Water Authority (DEWA) has developed several innovations using Artificial Intelligence (AI) to improve the efficiency of operations in Dubai’s water network, monitor cyberattacks,"
-    publishedDateTime: 2022-07-31T05:43:00Z
-    webUrl: "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    ampWebUrl: "https://gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/03/31/STOCK-DEWA--_17fe08691f3_medium.jpeg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "DEWA uses AI to improve efficiency of water network"
     excerpt: "The initiative enhances the competitiveness of Dubai and supports DEWA’s continuous efforts to reduce carbon dioxide emissions. DEWA uses AI to improve efficiency of water network. artificial intelligence,"
     publishedDateTime: 2022-08-01T13:37:00Z

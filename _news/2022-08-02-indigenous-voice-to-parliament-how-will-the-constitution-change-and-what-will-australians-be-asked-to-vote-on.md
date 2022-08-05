@@ -114,20 +114,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Australian government reveals draft Indigenous recognition question"
-    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
-    publishedDateTime: 2022-07-31T06:21:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 24
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
-        width: 1050
-        height: 789
-        isCached: true
   - title: "Calls for formal recognition in Indigenous Voice"
     excerpt: "The Uluru Leadership Group has backed Noel Pearson's call for the preamble to the Voice to Parliament to formally recognise Australia's First Nations people. Australians will vote in a referendum to enshrine the Voice in the Constitution before the end of the Albanese government's first term."
     publishedDateTime: 2022-08-01T21:55:00Z

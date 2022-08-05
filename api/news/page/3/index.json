@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
+      "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T10:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028.md",
+      "title": "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028",
+      "excerpt": "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips.md",
+      "title": "Intel to Bring a 'VPU' Processor Unit to 14th Gen Meteor Lake Chips",
+      "excerpt": "The 'Versatile Processor Unit' is designed for AI-based workloads, and is possibly Intel's response to the neural engine in Apple's M1 MacBook chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
+      "originalUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01im4mcVvWX1TKbaaXLwKtl-1.fit_lim.size_1200x630.v1659365241.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-mlops-making-sense-of-a-hot-mess.md",
       "title": "MLops: Making sense of a hot mess",
       "excerpt": "Investment in MLOps is both an enterprise must and a hyper-fragmented landscape. A Gartner analyst weighs in on the confusing landscape.",
@@ -513,7 +670,7 @@
       "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1071,144 +1228,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
-      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
-      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "publishedDateTime": "2022-07-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
-      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
-      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "publishedDateTime": "2022-07-29T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
-      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
-      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T11:28:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

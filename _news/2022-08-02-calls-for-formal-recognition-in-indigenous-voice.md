@@ -108,20 +108,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "Australian government reveals draft Indigenous recognition question"
-    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
-    publishedDateTime: 2022-07-31T06:21:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 24
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
-        width: 1050
-        height: 789
-        isCached: true
   - title: "Indigenous voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
     excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
     publishedDateTime: 2022-08-01T20:04:00Z

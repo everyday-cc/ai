@@ -3,24 +3,24 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
-webUrl: "https://www.wiscnews.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_68a31474-1d9b-56e3-a8ae-fc7a8bc9cfb9.html"
+originalUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
+webUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
 type: article
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/6/e8/6e87cb79-87f3-5001-b1e5-bab59be4df05/62dad7d53d039.image.jpg?crop=600%2C315%2C0%2C75&resize=600%2C315&order=crop%2Cresize"
-    width: 600
-    height: 315
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+    width: 256
+    height: 256
     isCached: true
 
-secured: "3b8Fy4SK8i6tBBgbllFb31lg0nOLfZ2ZMgchYLbgdS/IAfdaEHJfs+Z+n68vWjL8gKJ5QBRm/C/ehzqApggEJNWlame59YmyvMMyDbv+i/zkciVheD9mZ/aveWrlXC9hqevCm+B6nFnmz1+DcE2voGY+5P6AQmHMImeXjIYQLtqoNy9yFccU2TV9DF/ISCGhVEevgzOc9m0yDyHf6hO1qAhv3o4ZShrAgRGiulrmiXHKG834WgDR2D3cFGCgEsOmP4uaq3OmaIgg8+GKApzIwv1i/esKG4IWZyJt7WdNI4OBeXY2LsfE9Lfjm5UoBDndcqToujU8YI1Upe7XzF14SbIHC1vS0JAPtE+CGxNix9I=;AGGoCzgTNOYFuq4CF2C4sQ=="
+secured: "PmhJbE8wI+LRVqVsgl/k/OpYssH47SZsSbCgkZifjCj9Tfr4KVUxZ7iXHosv41/CNN4UCsEleEb85ZyN/TcAEmX4rNkEKUI7wHGJx39uAGFxT9ahQT98KbSmTp/21R1oIkiRnhTfMDCgCTmpLPREv+XgF1jtBm5Uk8SnVsI1LcBAUDyR/04BNrjKMyT976BnWRa2FQjt5DbM4RPbphkkTqBpI6/559U9klJZOP+nek+4OYqaXq0LEh/r6uQOR8msTbIkI/Vwryz85460+Nyg5P7U+PeAA9ZR86vTyv6Wz92X8b+gQrGdztOQoYKwBv+HsuIFY8dGkM9g+TomLYM5CpVP5/oF6qc97ir/FIEc8ZI=;3XAu3Rj6ixFQ6U3+Pkl3PQ=="
 ---
 

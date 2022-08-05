@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:

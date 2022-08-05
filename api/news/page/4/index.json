@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
+      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
+      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "publishedDateTime": "2022-07-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
+      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
+      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "publishedDateTime": "2022-07-29T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
+      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
+      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T11:28:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
       "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
       "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
@@ -1074,117 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-united-wholesale-mortgage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
-      "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
-      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg",
-          "width": 2480,
-          "height": 3507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
-      "publishedDateTime": "2022-07-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
-      "title": "Specialized brain regions recognize vocal cues that don't involve speech",
-      "excerpt": "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inferen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/"
 type: article
 quality: 104
-heat: 125
+heat: 124
 published: true
 
 provider:

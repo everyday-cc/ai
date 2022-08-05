@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
       "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
       "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
@@ -97,7 +150,7 @@
       "originalUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -149,7 +202,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1382,40 +1435,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-accenture-acquiring-robotics-integrator-eclipse-automation.md",
-      "title": "Accenture acquiring robotics integrator Eclipse Automation",
-      "excerpt": "Accenture is acquiring robotics integrator Eclipse Automation for an undisclosed amount to help build the factory of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
-      "originalUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

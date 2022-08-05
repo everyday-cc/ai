@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
+    publishedDateTime: 2022-08-04T22:28:00Z
+    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 23
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
+        width: 835
+        height: 396
+        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
     publishedDateTime: 2022-08-04T02:31:00Z

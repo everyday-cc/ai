@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-20-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
+      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
+      "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as – big data, IoT, advanced analytics and cognitive services to scale their products.This ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
+      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
+          "width": 1000,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
+      "publishedDateTime": "2022-07-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
+      "title": "Gmail is getting a machine learning boost for smarter searches",
+      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-localize-content-into-multiple-languages-using-aws-machine-learning-services.md",
       "title": "Localize content into multiple languages using AWS machine learning services",
       "excerpt": "Over the last few years, online education platforms have seen an increase in adoption of and an uptick in demand for video-based learnings because it offers an effective medium to engage learners. To expand to international markets and address a culturally and linguistically diverse population, businesses",
@@ -1297,84 +1393,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm.md",
-      "title": "DataRobot Named a Leader in AI/ML Platforms by Independent Research Firm",
-      "excerpt": "According to the report, “DataRobot’s customers appreciate the company’s rise from a niche automated machine learning (AutoML) player to a full-lifecycle AI platform in short order through a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220711005931/datarobot-named-a-leader-in-aiml-platforms-by-independent-research-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-global-machine-learning-as-a-service-market-to-garner-30266-billion-by-2030-states-the-report-by-allied-market-research.md",
-      "title": "Global Machine Learning as a Service Market to Garner $302.66 Billion by 2030, States the Report by Allied Market Research",
-      "excerpt": "Surge in demand for cloud computing, increased deployment of technologies including artificial intelligence and cognitive ... Amazon Web Services, Yottamine Analytics, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-machine-learning-as-a-service-market-to-garner-302-66-billion-by-2030-states-the-report-by-allied-market-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/1059dde080fa534afb8066121ae5641880dfe65c-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
+    publishedDateTime: 2022-08-04T22:28:00Z
+    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 23
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
+        width: 835
+        height: 396
+        isCached: true
 
 secured: "7pKSG+/KWzdr0ObpbVLT1MFn2L1Cvp6yuIj3mkw0JCd2KG8BoyY5HPSeZNiIK9vhR9Ms0Pz0GR4yWC+Jg+XvOXzz+kNCuQMZUtnwrAZFl1RFr/OWH0DEcKtPkoqY4oqs3QyWKe6/UySHCj0lBRqcHJycXZ8NjMVJMmKmsLvGeFzcUFEjc8ezcKU/OaSaeK407nCgtYq9JhOK4di6RLlKZNKDSJnrCIr2J40y8saiCQnE+oASvE9dGGFqpRQG6gJMFa4Ih3c2+DtRtQ62nEXAF3QCjqL1i30kz+uqdjBapf8mrdvbtbf/dVzPSmVKqBRrkY0eHOs9npIA9apczP/wArsQi6wwl9KdLo+DT6Lirs3mmvhrFqxURKXLNYPoGpU+seAg0yaAexrHjPQv2PKbKd+Ut4f9O1pIHaAjw2S+w8uI6ZiJpNdDsqP1XBEkV7DaI/xPT/bPghtxdBgeGxH2UrhlufNUYiynwJAFZQR5/qQL/mt0UppzZ+ECFlXO+4FN7NAIXa/kj4d+FZcCsDU9PA==;FNJZHoyDF5foau3WSY2Utg=="
 ---

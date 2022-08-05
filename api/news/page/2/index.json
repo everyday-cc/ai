@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-03-cloud-infrastructure-sales-rise-as-microsoft-closes-in-on-aws.md",
+      "title": "Cloud infrastructure sales rise as Microsoft closes in on AWS",
+      "excerpt": "Google Cloud, AWS and Azure collectively account for 63% of global cloud infrastructure expenditure, according to a new report from Canalys.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
+      "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/08/iStock-504455240-3.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
+      "publishedDateTime": "2022-08-02T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
+      "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
+      "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
+      "sourceUrl": null,
+      "webUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
+      "originalUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.demandgenreport.com/media/k2/items/cache/99c309f8b22ccf674ef513c2b1fdd8b5_L.jpg",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
+      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
+      "publishedDateTime": "2022-08-02T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Demand Gen Report",
+        "domain": "demandgenreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator.md",
+      "title": "HPE Adds Support For Qualcomm Cloud AI 100 Inference Accelerator",
+      "excerpt": "HPE’s endorsement for the Qualcomm Technology Cloud AI 100 is a huge step for most efficient and high-performance AI inference engines in market today. When I was working at AMD to get the first generation EPYC server SoC added to HPE servers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e94d880666a02770b6862e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
+      "publishedDateTime": "2022-08-02T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-mit-claims-new-artificial-neuron-1-million-times-faster-than-the-real-thing.md",
       "title": "MIT Claims New Artificial Neuron 1 Million Times Faster Than the Real Thing",
       "excerpt": "Think and you’ll miss it: researchers at MIT claim to have successfully created analog synapses a million times faster than those in our human brains.",
@@ -190,7 +330,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -242,7 +382,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1033,163 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
-      "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
-      "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T10:58:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028.md",
-      "title": "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028",
-      "excerpt": "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips.md",
-      "title": "Intel to Bring a 'VPU' Processor Unit to 14th Gen Meteor Lake Chips",
-      "excerpt": "The 'Versatile Processor Unit' is designed for AI-based workloads, and is possibly Intel's response to the neural engine in Apple's M1 MacBook chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
-      "originalUrl": "https://www.pcmag.com/news/intel-to-bring-a-vpu-processor-unit-to-14th-gen-meteor-lake-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01im4mcVvWX1TKbaaXLwKtl-1.fit_lim.size_1200x630.v1659365241.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

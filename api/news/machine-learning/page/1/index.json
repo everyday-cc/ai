@@ -162,6 +162,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-03-review-snowflake-aces-python-machine-learning.md",
+      "title": "Review: Snowflake aces Python machine learning",
+      "excerpt": "Snowpark for Python gives data scientists a nice way to do DataFrame-style programming against the Snowflake data warehouse, including the ability to set up full-blown machine learning pipelines to run on a recurrent schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-494707502-100632557-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
       "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
       "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
@@ -1081,6 +1133,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-23-machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail banking industry rose in June 2022",
+      "excerpt": "Retail banking sector hiring for machine learning related positions kept relatively steady in June 2022 compared with June last year",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/07/oJp5H-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailbankerinternational",
+        "domain": "retailbankerinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-aws-ml-engineering-manager-evaluates-the-social-impact-of-ai.md",
       "title": "AWS ML engineering manager evaluates the social impact of AI",
       "excerpt": "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology.",
@@ -1350,102 +1446,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
-      "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
-      "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as – big data, IoT, advanced analytics and cognitive services to scale their products.This ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "originalUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2016/08/shutterstock_210979942.jpg",
-          "width": 1000,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/microsoft-accelerator-10-batch/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-gmail-is-getting-a-machine-learning-boost-for-smarter-searches.md",
-      "title": "Gmail is getting a machine learning boost for smarter searches",
-      "excerpt": "Searching for emails in Gmail is due to get “more accurate and circumstantial… suggestions.\" Previously, search results have relied on things like chips, filters, and operators to help you find that elusive email,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "originalUrl": "https://www.techradar.com/in/news/gmail-is-getting-a-machine-learning-boost-for-smarter-searches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DCGf3dzE8orHnvpuGghh4m-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

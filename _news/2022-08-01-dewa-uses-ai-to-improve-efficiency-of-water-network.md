@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How DEWA uses AI to monitor cyberattacks, leaks and faults"
-    excerpt: "Dubai: Dubai Electricity and Water Authority (DEWA) has developed several innovations using Artificial Intelligence (AI) to improve the efficiency of operations in Dubai’s water network, monitor cyberattacks,"
-    publishedDateTime: 2022-07-31T05:43:00Z
-    webUrl: "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    ampWebUrl: "https://gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/03/31/STOCK-DEWA--_17fe08691f3_medium.jpeg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "AI use helps DEWA bring water losses down to among lowest in the world"
     excerpt: "DEWA now uses AI to improve the efficiency of operations in its water network, monitor cyberattacks, leaks, and find faults and isolate and repair them immediately AI use helps DEWA bring water losses down to among lowest in the world Artificial intelligence,"
     publishedDateTime: 2022-08-01T11:40:00Z

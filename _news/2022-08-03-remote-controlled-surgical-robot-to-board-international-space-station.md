@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/remote-controlled-surgical-robo
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

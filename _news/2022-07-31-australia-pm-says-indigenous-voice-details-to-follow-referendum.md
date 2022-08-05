@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-s
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://gdb.voanews.com/1F7DF6CE-90C0-46C5-8C96-CE7112CBE3F4_w1080_h608_s.jpg"
         width: 1080
         height: 608
-        isCached: true
-  - title: "Australian government reveals draft Indigenous recognition question"
-    excerpt: "A draft referendum question on whether the Australia constitution should recognise the country's indigenous peoples has been revealed by the Australian PM."
-    publishedDateTime: 2022-07-31T06:21:00Z
-    webUrl: "https://www.rnz.co.nz/news/world/471939/australian-government-reveals-draft-indigenous-recognition-question"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 24
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--oR_GhgOv--/c_scale,f_auto,q_auto,w_1050/4LNSC0T_000_SAHK980407219970_jpg"
-        width: 1050
-        height: 789
         isCached: true
   - title: "Calls for formal recognition in Indigenous Voice"
     excerpt: "The Uluru Leadership Group has backed Noel Pearson's call for the preamble to the Voice to Parliament to formally recognise Australia's First Nations people. Australians will vote in a referendum to enshrine the Voice in the Constitution before the end of the Albanese government's first term."

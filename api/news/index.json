@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-argo-ai-announces-autonomous-vehicle-safety-council.md",
+      "title": "Argo AI Announces Autonomous Vehicle Safety Council",
+      "excerpt": "The Pittsburgh-based self-driving car developer has launched the Argo Safety Advisory Council meant to advise on matters of autonomous vehicle safety and build public trust around the rapidly emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/argo-ai-announces-autonomous-vehicle-safety-council",
+      "originalUrl": "https://www.govtech.com/fs/argo-ai-announces-autonomous-vehicle-safety-council",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/4dc53c7/2147483647/strip/true/crop/922x481+0+67/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F02%2F94%2Faf7c3b33a2a8c8fc0741cd807ec3%2Fs5a5904.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/argo-ai-announces-autonomous-vehicle-safety-council?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/argo-ai-announces-autonomous-vehicle-safety-council?_amp=true",
+      "publishedDateTime": "2022-08-04T16:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
       "title": "Ghost Security reinvents app security with unsupervised machine learning",
       "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
@@ -115,7 +210,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -902,6 +997,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-03-review-snowflake-aces-python-machine-learning.md",
+      "title": "Review: Snowflake aces Python machine learning",
+      "excerpt": "Snowpark for Python gives data scientists a nice way to do DataFrame-style programming against the Snowflake data warehouse, including the ability to set up full-blown machine learning pipelines to run on a recurrent schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-494707502-100632557-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-fedex-to-invest-further-in-artificial-intelligence-robotics-technology.md",
       "title": "FedEx to invest further in artificial intelligence, robotics technology",
       "excerpt": "Per the new agreement, FedEx will purchase up to $200 million in services from a Massachusetts-based technology company, in exchange for warrants for 25 million shares of its stock.",
@@ -997,7 +1144,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1049,7 +1196,7 @@
       "originalUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1089,146 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-cloud-infrastructure-sales-rise-as-microsoft-closes-in-on-aws.md",
-      "title": "Cloud infrastructure sales rise as Microsoft closes in on AWS",
-      "excerpt": "Google Cloud, AWS and Azure collectively account for 63% of global cloud infrastructure expenditure, according to a new report from Canalys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/08/iStock-504455240-3.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "publishedDateTime": "2022-08-02T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
-      "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
-      "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
-      "sourceUrl": null,
-      "webUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "originalUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.demandgenreport.com/media/k2/items/cache/99c309f8b22ccf674ef513c2b1fdd8b5_L.jpg",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "publishedDateTime": "2022-08-02T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Demand Gen Report",
-        "domain": "demandgenreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator.md",
-      "title": "HPE Adds Support For Qualcomm Cloud AI 100 Inference Accelerator",
-      "excerpt": "HPE’s endorsement for the Qualcomm Technology Cloud AI 100 is a huge step for most efficient and high-performance AI inference engines in market today. When I was working at AMD to get the first generation EPYC server SoC added to HPE servers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e94d880666a02770b6862e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
-      "publishedDateTime": "2022-08-02T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

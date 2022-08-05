@@ -2,6 +2,177 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
+      "title": "This AI image generator lets you type in words and get weird pictures back",
+      "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220711163147-craiyon-rainbow-lion-eating-pizza-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/14/tech/craiyon-dalle-mini-ai/index.html",
+      "publishedDateTime": "2022-07-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson.md",
+      "title": "What’s in a name? Buffalo’s link to IBM Supercomputer, Watson",
+      "excerpt": "Most folk are aware of IBM’s Watson, the deep-thinking supercomputer that won jeopardy and launched an artificial intelligence bonanza. Watson is not the fastest supercomputer in the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "originalUrl": "https://www.buffalorising.com/2018/03/whats-in-a-name-buffalos-link-to-ibm-supercomputer-watson/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo Rising",
+        "domain": "buffalorising.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-the-best-post-amazon-prime-day-deals-on-robot-vacuums-you-can-still-get-roomba-samsung-jet-bot-more.md",
+      "title": "The best post-Amazon Prime Day deals on robot vacuums you can still get: Roomba, Samsung Jet Bot, more",
+      "excerpt": "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/robot-vacuums-deals-amazon-prime-day-2022/?intcid=CNI-00-10aaa3a",
+      "originalUrl": "https://www.cbsnews.com/essentials/robot-vacuums-deals-amazon-prime-day-2022/?intcid=CNI-00-10aaa3a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/robot-vacuums-deals-amazon-prime-day-2022/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-deals-amazon-prime-day-2022/",
+      "publishedDateTime": "2022-07-14T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched.md",
+      "title": "UAE: First BA Philosophy and Ethics programme in Arab region launched",
+      "excerpt": "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "originalUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
+      "publishedDateTime": "2022-07-14T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-blacksky-wins-44-million-iarpa-contract-to-provide-advanced-artificial-intelligence-for-space-based-dynamic-monitoring.md",
       "title": "BlackSky Wins $4.4 Million IARPA Contract to Provide Advanced Artificial Intelligence for Space-Based Dynamic Monitoring",
       "excerpt": "BlackSky Technology Inc. (NYSE: BKSY) received a $4.4 million award from the Intelligence Advanced Research Projects Activity (IARPA) to support the second phase of the multi-year Space-based Machine Automated Recognition Technique (SMART) Program.",
@@ -957,212 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028.md",
-      "title": "Global AI In Computer Vision Market Insights, Growth Analysis, Growth Rate, Forecasts 2022-2028",
-      "excerpt": "Jul 13, 2022 (Market Insight Reports) -- New York, US, Zion Market Research has recently added the latest report, named \"AI In Computer Vision Market By Key Players Based on 2020 COVID-19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-insights-growth-analysis-growth-rate-forecasts-2022-2028-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge.md",
-      "title": "Red Hat’s new CEO to focus on Linux growth in the hybrid cloud, AI and the edge",
-      "excerpt": "Red Hat announced that long-time engineering leader at the company, Matt Hicks, will now be the company's president and CEO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/red_hat_mainlobby-e1657725975271.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/red-hats-new-ceo-to-focus-on-linux-growth-in-the-hybrid-cloud-ai-and-the-edge/amp/",
-      "publishedDateTime": "2022-07-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity.md",
-      "title": "Salesforce's AI Economist research wants to explore the equilibrium between equality and productivity",
-      "excerpt": "Economic theory is known to be constrained by a number of inefficiencies in its modeling. Salesforce researchers claim AI can help address that, leading to more robust economic policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "originalUrl": "https://www.zdnet.com/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/25ec13c6fd6b909c20e9f957229fc13c548877fe/2021/09/21/14983cc7-2431-4227-a32c-4886b5005490/salesforce.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforces-ai-economist-research-wants-to-explore-the-equilibrium-between-equality-and-productivity/",
-      "publishedDateTime": "2022-07-13T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages.md",
-      "title": "AI In Computer Vision Market Worth USD 43620 Mn by 2028 at CAGR of 26.5% – Report Spread across 100 Pages",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 13, 2022 (The Expresswire) -- [100 Pages] \"AI In Computer Vision Market\" Insights 2022 By Types ( Hardware Software), Applications ( Healthcare Automotive Agriculture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-usd-43620-mn-by-2028-at-cagr-of-265-report-spread-across-100-pages-2022-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
