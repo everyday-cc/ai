@@ -263,7 +263,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 33886
+        "followers": 33885
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -471,7 +471,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 42939
+        "followers": 42938
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -574,7 +574,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 9331
+        "followers": 9332
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -726,7 +726,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 17669
+        "followers": 17668
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -829,7 +829,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 26977
+        "followers": 26979
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -1280,7 +1280,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 83,
+      "heat": 82,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1544409404153499649/ufReMTvQ_400x400.jpg",
@@ -1319,7 +1319,7 @@
       "twitter": {
         "username": "h2oai",
         "url": "https://twitter.com/h2oai",
-        "followers": 23442
+        "followers": 23443
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -1680,7 +1680,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 16094
+        "followers": 16095
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
