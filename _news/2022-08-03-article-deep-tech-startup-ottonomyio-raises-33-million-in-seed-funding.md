@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage"
+    publishedDateTime: 2022-08-03T10:52:00Z
+    webUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Untitled-design-6-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
   - title: "Ottonomy.IO raises $3.3 million to expand network of autonomous robots for deliveries"
     excerpt: "Ottonomy.IO, a startup working on solving delivery problems using autonomous robots, has raised $3.3 million in a seed funding round as it looks to expand its market and deploy robots to existing customers."
     publishedDateTime: 2022-08-02T13:00:00Z

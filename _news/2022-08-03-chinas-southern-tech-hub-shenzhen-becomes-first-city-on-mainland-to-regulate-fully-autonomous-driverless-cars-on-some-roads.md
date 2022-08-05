@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Shenzhen accelerates China's driverless car dreams"
-    excerpt: "A safety driver sits on the passenger seat as the car with autonomous driving system by DeepRoute.ai, drives itself on a street in Shenzhen, Guangdong province, China July 29, 2022. REUTERS/David Kirt"
-    publishedDateTime: 2022-08-01T08:16:00Z
-    webUrl: "https://www.reuters.com/news/picture/shenzhen-accelerates-chinas-driverless-c-idUSKBN2P70KB"
+  - title: "Watch DeepRoute.ai’s Driverless SUV Successfully Navigate Through The Traffic Chaos Of Shenzhen In China"
+    excerpt: "The driverless prototype was tested in the city of Shenzhen in China under heavy traffic conditions, showing how well it reacts to challenging real-life scenarios. The video shows a 14-mile route in the Central Business District roads of Shenzhen which was completed in one hour."
+    publishedDateTime: 2022-08-05T01:11:00Z
+    webUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220801&t=2&i=1605161075&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI700CJ"
-        width: 810
-        height: 577
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/DeepRoute-Autonomous-Car-Video-main-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
-  - title: "Faction’s right-sized driverless vehicle mission gets a boost"
-    excerpt: "Faction’s right-sized driverless vehicle mission gets a boost by Inside Autonomous Vehicles. Read all about the latest developments, news, analysis, reports and products in the autonomous vehicles space."
-    publishedDateTime: 2022-08-04T16:58:00Z
-    webUrl: "https://insideautonomousvehicles.com/factions-right-sized-driverless-vehicle-mission-gets-a-boost/"
+  - title: "Shenzhen accelerates China's driverless car dreams"
+    excerpt: "ALSO READ: Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise Baidu Inc's Apollo unit, Toyota Motor Corp-backed Pony, Nissan-backed Weride, Alibaba-backed Auto X and ..."
+    publishedDateTime: 2022-08-01T06:32:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/01/shenzhen-accelerates-china039s-driverless-car-dreams"
     type: article
     provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
+      name: The Star
+      domain: thestar.com.my
     quality: 39
     images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/08/Faction-D1-driverless-delivery-vehicle-based-on-the-Archimoto-FUV.-00-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/01/1680192.jpg"
+        width: 1240
+        height: 884
         isCached: true
   - title: "U.S. women more concerned than men about some AI developments, especially driverless cars"
     excerpt: "Women in the U.S. are less likely than men to say that technology has had a mostly positive effect on society (42% vs. 54%)."

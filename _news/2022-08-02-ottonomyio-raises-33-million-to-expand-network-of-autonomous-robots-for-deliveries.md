@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-milli
 webUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage"
+    publishedDateTime: 2022-08-03T10:52:00Z
+    webUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Untitled-design-6-1300x650.png"
+        width: 1300
+        height: 650
+        isCached: true
   - title: "Article: Deep tech startup Ottonomy.IO raises $3.3 million in seed funding"
     excerpt: "The New York-based tech startup will utilise the capital to scale production and build capacity to address the current pipeline of customers expand its team size with more hiring and expand its presen"
     publishedDateTime: 2022-08-03T02:15:00Z

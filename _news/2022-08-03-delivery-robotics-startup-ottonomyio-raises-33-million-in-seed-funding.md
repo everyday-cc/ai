@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-i
 webUrl: "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: Analytics India Magazine
@@ -25,57 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Diagnostic Robotics Raises $45M In Series B Funding Round"
-    excerpt: "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round."
-    publishedDateTime: 2022-07-31T08:52:00Z
-    webUrl: "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/"
+  - title: "Ottonomy.IO raises $3.3 million to expand network of autonomous robots for deliveries"
+    excerpt: "Ottonomy.IO, a startup working on solving delivery problems using autonomous robots, has raised $3.3 million in a seed funding round as it looks to expand its market and deploy robots to existing customers."
+    publishedDateTime: 2022-08-02T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 69
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg"
-        width: 1500
-        height: 757
-        isCached: true
-  - title: "Diagnostic Robotics raises $45M Series B"
-    excerpt: "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round."
-    publishedDateTime: 2022-08-01T19:59:00Z
-    webUrl: "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 57
+  - title: "Article: Deep tech startup Ottonomy.IO raises $3.3 million in seed funding"
+    excerpt: "The New York-based tech startup will utilise the capital to scale production and build capacity to address the current pipeline of customers expand its team size with more hiring and expand its presen"
+    publishedDateTime: 2022-08-03T02:15:00Z
+    webUrl: "https://www.peoplematters.in/article/funding-investment/deep-tech-startup-ottonomyio-raises-33-million-in-seed-funding-34796"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 69
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg"
-        width: 770
-        height: 500
-        isCached: true
-  - title: "Drover AI Raises $5.4M in Series A Funding"
-    excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
-    publishedDateTime: 2022-08-02T05:47:00Z
-    webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
+      name: People Matters
+      domain: peoplematters.in
     quality: 37
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/08/image.jpeg"
-        width: 500
-        height: 399
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1658294089/ad-drezxt5v.jpg"
+        width: 990
+        height: 550
         isCached: true
-  - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
-    excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
-    publishedDateTime: 2022-08-01T22:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/45m-funding-round-in-ai-diagnostics-company-includes-mayo-clinic.html"
+  - title: "Ottonomy Raises $3.3 Mn To Build Autonomous Robots For Deliveries"
+    excerpt: "Autonomous mobility startup Ottonomy has raised $3.3 Mn in a seed funding round led by Pi Ventures, with participation from Kinetic ventures and Branded Hospitality Ventures."
+    publishedDateTime: 2022-08-02T13:00:00Z
+    webUrl: "https://inc42.com/buzz/robotic-mobility-startup-ottonomy-raises-seed-funding-to-ramp-up-hiring-strengthen-partnerships/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: inc42.com
+      domain: inc42.com
+    quality: 34
 
 secured: "I7XaZm5e8NUXRmphM3xl9u+3RmPVCT0TBSccQ3DskUVXmiTum1TCjFOLZcyXhCDO3paZRL/XBMh81AwiFkrBsPDQi1neESPbbJd335Uzo4Ik+Q9nGDgZPA7a26fhzgxmkHensBWE8QzhfHF8n0iVL40JZ6IMVkzXFLHzLwN7dpAWRN6qRV1yHoLM5AhbiGdVKf2Ie6D5h5gD5m8T/h6WoBzly85UNJRr+oUstGSZHQ2mZSvWLMx39seEXHaGXg1cfZtQcOU/o47DsZWu/PJFhtf/UiWITFUCrgka0u4AMra14aAe/F84l0PU8gjxqLkhPkQjZ62WpUSkg/w6oyYn5iaOjfy3mVQRau2MzJKjXNhYxPRQhnlqRZh7+enJhKbzg5ycd3++ex/Ak4riCytaKSVXY6qmwgV7iZ4iAzP11/ZjWKDvf6cym+YlBrW5QZ2eyv/sJd7HPozK/7QESmu9mo5WASPXwIwHLgVpVSOWWy0HJzrr94tR58Gee/wPnSzPwXVVRdWDbS8SfwagneVE+A==;p6fxyZbwfBJ3YU9ccW8CmQ=="
 ---

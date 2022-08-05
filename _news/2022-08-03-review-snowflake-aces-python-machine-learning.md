@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-03T10:00:00Z
 originalUrl: "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html"
 webUrl: "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.techhive.com/images/article/2015/12/thinkstockphotos-494707502-100632557-large.jpg?auto=webp&quality=85,70"
@@ -44,6 +45,6 @@ related:
         height: 485
         isCached: true
 
-secured: "3BYqULHl3IU+gG0JIs1GfL4WIoH34uyChyC946aH2fMCTBnjWgCtoE2wl/IoupopRKoQ8Px4ytlcMTCiPP9AvrWPEL7Zi/s2bz5F2Q5tuQoZuyIQ+YPI8QtSiTZFGpLMYwxZMsMXeagJkxmBjzMMF6JXNP2TNM5XSuS1lW/iaWFTa1pQIcvcEtY/6Mq0Iy7E+1tIf4Hnt4wQSN2EAwbnS4oZo6g1mb0c0MK+bLkH/W9k8RqPKVB5rLMDMfek5ytss9mtaCs9TIoQq5MoxAD1uGUXB5b84gnMI1zhYl3JWUWzHZVxrmXfckvxWWFMbuShyi3Z7f4et7CkrGTFoeL1h4PQ89eSQOOUCqk2toGP/NM=;NarvKh6v8U36BvEnieyxNA=="
+secured: "BgX4krARK5dcujqN8zsMTIiU06tUKBn27fUnkxdwqW/kUegMAr6YTJR+XHWxLf/WMXJ1DrIn9UvTvTcQYyyvVORQpkkqpQiSUhhr4NcVlypHmNcalt5RTypb9cs2NFZm89mxHg7LXrkc2oElyruCsRth4aW7V68VVFbicLgDgxiNgE1UZrrdID0h3AaE8AN0xaG4k6hcGdVv1LfUKsXAif+ItbJAJDdVVwguFZ4keaoNON22CaZlkOZ8lS3lNrkvmrJMZUPjYrA1cXM7Fez7rYjb0zjIUZYED+0Cmrcqzz92PGMZHLGu6bDD1jeKZFwBLOzU4sF02rjK0pf5ESjGs0BKjHabEiYYIsq6ai5ieWK1MS8H9UGgZtpzzCsFYVJOD2KogkST27NIu+wt+omMVsk9Ks/YTRZ3wYQ1p8nTi+WjJ5Bg7uftscxfDTcM5SGAXvDgY1XsKF9JamwjHnRkSI3NXToehkS+v4Zxo9I2MeEGYV1eAJeeWgkSWx1QqkupBKlibig3b2xSpTGvBxzN6w==;z/MCl8uur3dWnfpFMLu12Q=="
 ---
 
