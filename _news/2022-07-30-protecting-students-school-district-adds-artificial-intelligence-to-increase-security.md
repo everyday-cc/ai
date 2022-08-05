@@ -2,28 +2,19 @@
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T19:52:00Z
-originalUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+publishedDateTime: 2022-07-29T20:52:00Z
+originalUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
 type: article
 
 provider:
-  name: KHNL
-  domain: hawaiinewsnow.com
+  name: WTOC-TV
+  domain: wtoc.com
 
 topics:
-  - AI in Autos
   - AI
   - AI in Security
 
-images:
-  - url: "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png"
-    width: 604
-    height: 369
-    isCached: true
-
-secured: "5DsZte2V269Hz/bdd0hP5DrvMckqsQn+W9yQd+pMu3nhx7Ck0ox4fJ2qTMsZRhzJMbK4NRdMBrpYXGCi1+GsMIr+6zcwy/gmy3DNnySFqzNmofJ1RY/8ni4vuMppiLXiHKxnnr4u/5RvAE8cWxqVXOWZUXHMHM1y1fDLDbNpGpya5pijJW6iQecYHIOWjAxaB4khpEhAVK5+/ND+rUZdvd1bJFKHV35N2ZWA/FaakvztiV59HzJ+jK5k0Men9xuqD/KegMsStuuzzh8REsUVdVwt8N91wseLtEHuXpqG14ig3+TQIUrAXo3scSHgXIZxjQA3xV0Hx4E/aY/q/SelJe/HUnwxxP3iNH76rJu0bKI=;xmvWpllyc+5WRjYxN+GgsA=="
+secured: "30aNa9qo7fxQzTgREYd/x4DaRETG6yGMTKqW+PukVvg2FMKqOXZmY/hvXav8V5T/KGMKCV7AQXj5UiNb2lXRJCUoAhytZGKEr0EjxgKjYt3r1FnBJ3/usQIggBgk7XK2d3+6JLLjs4EqFWeV4FKUfkPK1B/qD9X2DlzB+hNLj3cJxgeZst/oR+kvCOXSz+j/MJgPSlI2iN6FYgHQBgLurvUpV8/Qy5ZG3+WeI6BemwJZiTgY6JFTj968t6xiNVBwzBaZLz0cVIE/7OmXy//Wpc0dWCo+pDJpcRV0oygUE5cgPebYqYzhjI9EARbTJYKvjybI0DzhZIIGLtvpVJxjkAUgmZJxmHll2foKvoyK+TDPUuEkWEK0tyJg1WerL81UoynRL69I+pcLD7JM/r//pLC0z40MMQaxd5HJ0GI2AUVV1MPR1fqGxQVBSm8ce4ICigfLwt0fFEFYvtjBavdX8ESr4nikqmxHSLvy7JfCLKm7vXHlGlvxaDjmHBJcS6880rEXMJQYiGHLfK/LcKeCqA==;FSOo4P/T+r9WbTA+0cgDRw=="
 ---
 

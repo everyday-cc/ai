@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Specialized brain regions recognize vocal cues that don't involve speech"
-excerpt: "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh."
-publishedDateTime: 2022-07-28T18:00:00Z
-originalUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
-webUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
+title: "Specialized brain regions recognize vocal cues that don’t involve speech"
+excerpt: "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,"
+publishedDateTime: 2022-07-28T18:03:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/959561"
+webUrl: "https://www.eurekalert.org/news-releases/959561"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/specialized-brain-regi.jpg"
-    width: 2146
-    height: 790
-    isCached: true
-
-secured: "xdbVtWtBt4Rtg1hmEDKKLHalGh06wQ0AVM6RDrcjObmS9hmJVRhD6RSnxaGw1rwaZR7v+PGze6RKCC2HwVaWTbRAgfOMjz+HbMtK/HzhG8Pyit+CX9+fpa3Qi9Luvbc1i8tvUJDOuozt3j2uLEXJXPRVy5fUWRWwqJF3q8kTCVHM2VXHMqyzf0gNNNHqdxvRx/GbWxcdTLce8GjVR2zYFMc/7BtMWBfQl+8hl1WAO7b8YGo15JknozmkeFFz/qcnVDa977LqAJb2lnYVXIfkI6jnihjQgT/dG2PNOJCojQ7tWTDt/zDlQoJnhpe5Kya10OYCtvRL7MHCbSHX+VK429/NQ3paMk5u7U3aZ0zbiWU=;LMNr6J49pOQBWxytxgjFvA=="
+secured: "XKIBlAVcNm94tyZby6D+sualLM0HgiT5yYN3qn8yQ7gh9H7r7zDN0Kpf5CdgGm4fIq3DS2iNMGJTB4yDE76nTZ1Nk3u79LiyytKVWzx2ylu+iskH79buhlJEe5okBRpClVrfeTjB+ewC6OofNByG1lNDnXzWoym02/Nbe4kXcYtndkrNsVAlbWLwCM7aozvKAt7zJAioy9DCzsFWsBZjBs0OkbxSOzr7dyoVFlvEH4LsAsIq0aiWRQodDfT9ydsPnczqXjKpXgVm/PK4sFbZpwOPazkAV1EMDHgmxfgBhacKyOgWaMUrLKu7prsU+clDpQqD84wZdrTcmZpCmhCJW8H1Sl28551qvkWAhT05pmQ=;5Of2qrg/qy84Sn+x44YLQA=="
 ---
 

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/smart-microrobots-lear.jpg"
@@ -42,6 +43,6 @@ related:
         height: 350
         isCached: true
 
-secured: "BOAGiHWJd27DryEhnBPF7pZLOxygSqqHeyLcCUZBMoNu8qSW9r9izLSQLqSU9LPbu7iDvcC20OLqCLxcmU659cb2yh0EZd1HscviKDLNZM6fSd2QJAIFFoiBvTsGutgKpX/DAdyh0ED3xhP38DSSnxo7+P6jfXoLDlD5PkOA9Xqwz2Xs2aD7NGE9umchNHtxSacJK/N53GSpndu9lBrAwJNcP2crcxdFaOBPEYdHr40VfLJx72XkKuN10ZInJdzdSwfjFkHO1AgO3AkVEQZL1U3sb5kVJVxLbeRV8ECcTVGevFGUXutgCJVXU1Qm18XK6YwBowUZvnG5UQMoGP/PXkhV8+OEppmlY9IG8ReyDWM=;R6pkqKaPkvJnbfrDp5nZ7Q=="
+secured: "LEMDupO+0wZa3YQaSfEUdjXvdANBBPH2C8AVMKMDdW5KaoJG30413DLvuIXw+3byulsJSsZklqVHxadCKFA5Ruiyb9JcK6Di0qQUXEumsgvo80wXEdyGBvUdpdgq3/ze1+MaNW0KuptNF7tdTs1sneLYBfucnDIMLyHmSU4xPXGkW/Nw3/1btML+mMWTnW6SBt0ToS6LTglUYUlAjcdtzFm2+cpLwBM4BWq3OZGMv7+D9lyNgBV7iBC7OEPvG+Nfqfj0NhB4nXMlqN0X/ulRmK/eMihw3m7ee2uKUnay2v5kQGXGZqu/mKijZoFOyeO6+i5KLIDkHprAJjnhGMYzEvKF6pefcZxPxtlKJWJU3bBjz1AgfzML/H53akmBm5VoANeznuaFfQy9IUJc4XPiIrXoBStQZ33kDSc6sjP4M+VT7fcrz0AdHyqwSSdfawqVI00BHPz2+w03uJubB/+mO25pD9sd6X4bOA/GMi3WkBU3flcrSQ6EQS4M83TglM9OOEvi23hLLbCOSZJbqmBDyQ==;im/CT0iFRLWt0rax/dJ8sg=="
 ---
 
