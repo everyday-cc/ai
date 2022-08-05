@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-p
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:

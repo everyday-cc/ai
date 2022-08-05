@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-04T00:00:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/961026"
 webUrl: "https://www.eurekalert.org/news-releases/961026"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3b2ab944-6120-4018-a0d6-7b511511d022/Rendition/low-res/Content/Public"
@@ -23,6 +24,6 @@ images:
     height: 467
     isCached: true
 
-secured: "v0++No3apsPhDgLDeSl6dhFsDEt/pimmGlbhi3lpcuILlReJ3zDofnD6Vdb+l7+RZmx5YcKJX2XJPItkLIajbpp0fuG325rDrk226oYXcSlEXh+5Kp3Dz7keUNrtYNknoCIKYrX11aD644vu0MM8zknpxjTXYUUIDb21aTcN0TDCHbDfo9pWdnZ3iySoeR9Qvn3T9DU4owRfvhTfTaed3Lf9vEjHQwJ/Oym3OkNwt7/kzRu+62mwhu2hURav8fWy4y4E7OsFw4EhpcywVL4lwdzHftTtBU9ILwS6HrreJJfOg8dDZPmpiXbmShfvTntF5nf+H9+y5WRs4rx7n4XxrzDXTzk+5S15l11yqv6EyfE=;rDE98Y/uJ2KXfdTXvE9HLw=="
+secured: "N6/2LzGdfXhhRQHLFS2HXjgTi0X6JLd69HzMmusvmNh0egX7szQBXUWdorzH9kZD6FHIJbbve9sFhwyzhfvg1j/EXrURxlOepz4Lr3674sZH8pCmJ3HF2QggA6HD3pC9JgaciaCUiLud6KkPIakD3IshnkuPhCkKYuNPz8fkulNiRxuXVsgndUft559zQa78zD++1Y1uqsbEqOJAKyxELyMQyahrS+VyBMopXvnga3goNjv7MkHsDFnwA/axgwwnhwcyhkME3SaSMvS2ej9gpW3xOjAFgMCt6ddF8y16yG4Jmsen63Vs0m67ANUJz8QoC0kxlGKifnLkZOOY70wvxhSUCYhtppr7OPyy+tCEP0jqZVDVEdOj3EMf+kRqd2zURPFOaibOHrvngirakHF3hD6/Dfi2svAwV2u9CaLZ1iQFxOu+yz7S7+cqW9O+IlIekQN0U4lZU567ZVCSUmJlY3c35JxJUmNsH59wLuF7/YZRWlhgvHuy6BamVehRWXy3AUbKjtClD9WILvc3sW7iuQ==;AhohZqj1tc50LoqnCiP/DA=="
 ---
 

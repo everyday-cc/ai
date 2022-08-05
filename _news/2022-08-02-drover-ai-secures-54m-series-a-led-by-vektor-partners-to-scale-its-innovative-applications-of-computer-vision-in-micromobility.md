@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
-excerpt: "\"We are very fortunate to have secured the support of Vektor Partners on our mission to leverage computer vision and artificial intelligence for the benefit and long term success of micromobility ..."
-publishedDateTime: 2022-08-02T04:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28303358/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-com"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28303358/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-com"
-ampWebUrl: "https://www.benzinga.com/amp/content/28303358"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28303358"
+excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety"
+publishedDateTime: 2022-08-02T04:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg"
-    width: 400
-    height: 319
+  - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg?p=facebook"
+    width: 1279
+    height: 670
     isCached: true
 
-secured: "Bl4dBqasJK1c2GjxfmkedQSKDj6gU5xWlaFYpngyI2V+gce26oIeOz26EXBHZ0K8glqzK952MUuNgblgjML5ArPhD276Y1WqMbbB4gtJwYMOy3rP1dUwrEAp+cMJR88WUlGyTygV6xkrHbIgOn+QE+SZjpAKcJpB/LPsbft4s7ePy5Zh0/2Pwrim/oL1imh1V7g+VgGSLFXvGR2dobC72Lh2nwKVLfXKwlaHAXgmO0J0nbyH+hp/hgHkT3ScHrVdqaIpOEokyhntWL4r0loc+X1P0p9n0K35QoxGtt5fQo0BeG813TjZnzSf07QYvSrBwjqTNdkqKfn5e1TrRPsspxRvH8QeqUbLjBJo5NZQEnE=;t8fhr/uhh/Msrag3mX3dyw=="
+secured: "IU7G8YFDEEYoNc9pvydiAh7SL8vefV0o8P1hR13SzdojOc/HBfC3YUBnCpqOtpVu+39cqYz+1NFsngDFVsWY4MwMZCWKKVesLmKouzX+DFIi2invqKQFCGcggWjEmEtnpZ0hHga1h1UW/gwQD3XdO1mSgV/60fi+HNBPLIKDwPNr6VW2VKO/IuxKgOSxYmScMeWIs/bdz4dMdCKmvuEEI9nJtGyMeWP+K0FSJyZ+/FfY2l/WjKVm8oxyr5uICGVFYL5hsE25zZQNC52kXxiuea8tx/PKiEGJ89xOz3mXBVwfnZL4LsQggmCbiWLDFVAPZkgmoNwHGDVf8TbTQo/HnJYIRCV7LsWV1CcQAVovVUM=;NFGpPzEe6JZAMVpN5OMmVQ=="
 ---
 

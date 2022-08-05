@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "W.Va. school district considers implementing facial recognition"
-    excerpt: "Program would check faces against databases made by Marion County Schools to ensure individuals approaching campus are expected or known"
-    publishedDateTime: 2022-08-03T21:15:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21276282/wva-school-district-considers-implementing-facial-recognition"
+  - title: "City Council: NOPD must have court warrant prior to using facial recognition software"
+    excerpt: "City leaders are putting some checks in place on the New Orleans Police Department’s use of facial recognition technology."
+    publishedDateTime: 2022-08-05T03:59:00Z
+    webUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/"
+    ampWebUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: WGNO
+      domain: wgno.com
+    quality: 52
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/08/bigstock_Face_Recognition_Technology_Co_354149738.62eadfe55500b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/08/GettyImages-1161938833.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "GAMc7yfPjD7tEkqlc8B20GCz0Nxn/2IE+buRj+P7BMuqOYJ/XaQLimWDyrpPtvBot0Hw8oGLjpUmM9jDi9KEImi8iFALs/m0uLCeSMePjimzg5uKkxH2VTIo0V/3+KpN4aWn50N1vs4x4J9V4PbBI989dTrLGFBvE4b0NA6Vwbcm7wrpdn0clZ9kOq0xq9DrE32cd4VOQEvPC1L/ncIynYUtCQrFYZUAISad82U7B1GxbwrR95RdiTJMqhN9X+xl8q7GH4pl2ZAeNMh3IyxYwjHD7LJbruhcx/8MDWWuNc5nNkbd583CsYms533yVcwp+MFQok8XMOL2ikLaWwrLq0m52scoILfmpY3afP9XB4w=;lJrZHo+o/ylJXFfqb3tZyg=="
