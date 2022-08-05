@@ -42,31 +42,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Why AI and machine learning are drifting away from the cloud"
-    excerpt: "Cloud computing isn’t going anywhere, but some companies are shifting their machine learning data and models to their own machines they manage in-house. Adopters are spending less money and getting better performance."
-    publishedDateTime: 2022-08-01T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
-    ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 76
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Realizing The Potential Of AI And Machine Learning In Clinical Research"
-    excerpt: "Artificial intelligence and machine learning now have an opportunity to provide positive value and impact in the life sciences industry."
-    publishedDateTime: 2022-08-03T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/03/realizing-the-potential-of-ai-and-machine-learning-in-clinical-research/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Exploring the nuances of AI use in news production"
     excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
     publishedDateTime: 2022-08-03T17:37:00Z

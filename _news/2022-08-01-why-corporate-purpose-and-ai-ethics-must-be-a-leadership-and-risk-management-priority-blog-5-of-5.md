@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog Series 2 Of 5)"
-    excerpt: "This blog will provide more context on what the field of AI is doing to advance corporate purpose in light of AI ethical frameworks, principles or guidelines that are shaping our"
-    publishedDateTime: 2022-07-31T14:55:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e67f60e9decdef7d5398d2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 960
-        isCached: true
 
 secured: "g9ONMsjW6LdYQMUMyRVCjIagkjhDHxWL5NkA7ksDViyms7gfcd2/XKd1EOHZI+mpf8mGFHDzLRkOZI5OvpxXtrfYLQIMhEYNS3Z/N6FdCrlM7q5EUBjjwBVm40d80LqF+IElF1HWnwrj6XK7qOyLXfuhZDRgU2Hkv6VA/YeSBzBpWQatGQ6foGSGkbP1iAdshvYpGzRC9dZ1lbAv0cAj2LPlxjbYv9PiJu9AkbIrUoaSTb3qswWIMlz3frQrexgOSiD7dkjmN0LX1SIAI7Nyg2q7quhyBlUjIIpRGwZuWUboMEdlkI7MOkKDhLRxSXldznj7ykEl4xJuMKgY0zoqDWLx1f/GPN/ArWMTfx3Dn5BU50hyzePh6s700SiEdxcLhgEZ/ur/0/YK88v2Qv7iXz3x9/Vq8Pb18642NrK2JUwFb+sj+LfrhW5y4RxGoS/oy131il3/vh2WPQ8tKQAs7r26N6iEat+PjlaLTqzsxj4MJVt+yVc6bnCXiUny0uAGU/i7zePht/z010S870V9rA==;N7sNLy/OHbrY7o+FMpoqaw=="
 ---

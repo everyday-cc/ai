@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Stream High-Quality, Immersive, GPU-Powered 3D Experiences On Demand With PureWeb and CoreWeave"
-excerpt: "PRNewswire/ - PureWeb, the leading platform for streaming interactive, web-based 3D content, has now partnered with"
-publishedDateTime: 2022-08-02T14:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave-1031640390"
-webUrl: "https://markets.businessinsider.com/news/stocks/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave-1031640390"
+excerpt: "By empowering creators and innovators with access to the GPU resources they need ... Machine Learning and AI, Batch Processing, and Pixel Streaming - that are up to 35x faster and 80% less ..."
+publishedDateTime: 2022-08-02T14:45:00Z
+originalUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
+webUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 type: article
-quality: 57
-heat: 57
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KXAN
+  domain: kxan.com
 
 topics:
   - AI Hardware
@@ -28,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "5vCjPpqszMrR4j+JQWF9IB0MZdM5OSynW5cU4VGWr11PoFMnMZ+DrD0K44qdFtHCUlfWEskp7sR8rmoE5rl1o7cIJF4Dwvk1fLxxxkD+UtTxR7A+5zp1hLMn/sMYU62s3+dMvdM67wv/MGINAJ7KUJ0Rp5QERlpvTRxIkr7e2/rcmgXpKiSsTQTosuYYkiB8xvRR9/ErdXy41WYGA4m34jmmAMtEiNppja9gl1fvVLkxX9zFIPmjc3cMjPLirVOD36wfbLMR2siTo9GokvFzpiuRo0BJKE6IBlNTjEecliBPz2IaZoeSIWSLh/7VgULjz33XUo+L+l9X5KSW/ClDriHNa1cEAFhpofCW+a1W+JVdR5aMI6o8UOnSjuKCSxUQ17JunGJjns4mUpN7DUS1sQypn50c5xpXkZtcoBFW2O2z9iECJ4UXPZSlLjr0fy/9y7bkwhvMXDimVagh4w/qfEpiwtqR0K617n9MgOjLFt0rRSJMkpSMAdaZDi/AhlZlhM8greFTyW74VmX4fXMAFg==;TzGcJL517yAc/cJfFVgi5Q=="
+secured: "2PNUJYg8M5mknXZdhWZ76yR5h/Aavoe8aWSFirHQMN+gyL4XM/CadI5YFxZIl81G9PzL5iTrlRb0oHr+/o2586LdkZ/Y+1aWEtV5+uaE149zyiSIxZ8tj8PVkj67W7Pns7AVeOJoECOHQoo7xNjjq/IGrcLXiA0dAO7AygFoGwCHI94dKrf1lhMDGrvUUznzL5Td9X51F/FmDLMh8wzKWXkHfuORsoAab5UxwM/A3fjKZhRCTo+lYbpdhqotRiG4bRflEGYocRSacs3AGreKAQ4jDASYliYPLlghBhbBjlnuxZ9e27hLphRjHFZIbUNd1MLJOQxZrHNLw9oMhiQgasBkVt/3haieuNWRtCy70nQ=;dYmwGdi1LwompDzE62hA7g=="
 ---
 

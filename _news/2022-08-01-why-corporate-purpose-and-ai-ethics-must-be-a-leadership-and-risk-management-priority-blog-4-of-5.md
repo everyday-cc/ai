@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-pu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/"
 type: article
 quality: 90
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 851
-        isCached: true
-  - title: "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog Series 2 Of 5)"
-    excerpt: "This blog will provide more context on what the field of AI is doing to advance corporate purpose in light of AI ethical frameworks, principles or guidelines that are shaping our"
-    publishedDateTime: 2022-07-31T14:55:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-series-2-of-5/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e67f60e9decdef7d5398d2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 960
         isCached: true
 
 secured: "3Bvpfg9HAsw4Mr0nZbVAgcLDWKYjIbKduIHz2oNHraN846aPXZeMMjliJj/YfL6ZLmk3drW8VGp0hs114PfbsvTp38tIE0GkZzOvQXcCzdrR+ilKRtbXceuTBG3/BkOvRkSuLKGWfDk3HgvNj/AU+nsIaE6e2IQJEJIiTqSBEtW7FYayNeEV191jxspl6wr1TFeK5YQH2IvqVEUsjRn2P1E2Mqe5hKPIlrxk4TxX8OTmluMXSCeACWbP/3LmAKxDkF/8YqRbt84/I/8dawFCGNto6Qnezgfh2AFcc97FuMA8nN21MSO2IQh/C3MC9xcaY0LQRVxMsuj936lptXIcj/Jf5euyhn1ZDovLJ9mO00VpFV70uS4nLmX6eZu5/0bQAYGX5pMZXCi02dHGTEzKfozch00f1PfVZ36TK+GF/3hMZfK+wZfywMtO5x4ZtY0O2C2qiNiJG4/OIS2AATFe4euo8Ju2lmgPGrkmnIW3XjiOzMsfwOYubFECWgawviDINtNePQ/4UqdU8qQxVMq/Og==;oQp3G5i6ig69/FgnelBInA=="

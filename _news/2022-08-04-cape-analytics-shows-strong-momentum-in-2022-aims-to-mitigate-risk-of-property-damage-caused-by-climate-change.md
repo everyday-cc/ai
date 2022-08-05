@@ -47,20 +47,29 @@ related:
         width: 800
         height: 467
         isCached: true
-  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
+  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 ..."
     excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
-    publishedDateTime: 2022-08-02T12:49:00Z
-    webUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
+    publishedDateTime: 2022-08-02T12:52:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022/article_a4c38108-c7d3-5009-8b5b-01d86ccc6f29.html"
     type: article
     provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 3
+      name: The Bakersfield Californian
+      domain: bakersfield.com
+    quality: 10
     images:
-      - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2016/12/jail-prison-cells-generic_37930951_ver1.0-2.jpg?w=2000&#038;ssl=1"
-        width: 640
-        height: 360
+      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
+  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
+    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
+    publishedDateTime: 2022-08-02T13:32:00Z
+    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
+    type: article
+    provider:
+      name: FOX4 Kansas City
+      domain: fox4kc.com
+    quality: 0
   - title: "Speech and Voice Analytics Market Recent Trends Analysis: Research During The Ongoing COVID-19 & Research Methodology By Forecast 2022-2032"
     excerpt: "The Speech and Voice Analytics Market incomes were assessed at US$ 1.8 Bn in 2021 and is expected to develop at a CAGR of 22.3% from 2022-2032, as per an as of late distributed Future Market Insights report."
     publishedDateTime: 2022-08-04T13:30:00Z

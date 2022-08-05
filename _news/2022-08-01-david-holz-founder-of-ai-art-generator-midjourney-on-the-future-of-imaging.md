@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/08/01/david_holz_midjourney/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/08/01/david_holz_midjourney/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 1024
     isCached: true
-
-related:
-  - title: "AI art tool Midjourney has all the answers to ‘what if’"
-    excerpt: "Midjourney founder David Holz talks about the text-to-image AI tool, Midjourney, how it empowers imagination and why AI isn’t replacing artists just yet."
-    publishedDateTime: 2022-07-31T15:00:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-art-tool-midjourney-answers-what-if-8062647/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai-art-tool-midjourney-answers-what-if-8062647/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ai-art-tool-midjourney-answers-what-if-8062647/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/07/midjourney-featured.png"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "SpVGRjLFoBDsYQftOFIO02Zag+0Uk3bnaMr2LBIbD6BLN8/KpyFjap0CLqg2O0Eo6rqWWrOPkTeILqRTzDGcrrRKpR1uyNz2mXInlidYlX0sxg2e2oNUu4j8YV1EoTtPn4C2Nyg5TpIKHaJ563g5Zse7+tS/KlShgouY3AxJGSsW9QesIMYju49Bm28ELxkVcTZhZme57lrsfs96OWMPE/73eCFaxIEAnx3RXnzhQj7GPhxmuhWhObJB+Bdm0bl3G0DHLkYwDr08HzAWbNu4tYlLq7FTd2mwMxMQPL3UrqrLtIoEi3/HTtSt2TW7t0l5tSM+nGg+wiaHq+CbPqr+CLmv0ULCQeY2GK9Px8mdTdU=;/QaSakP2rHyf4NDc17aUOg=="
 ---
