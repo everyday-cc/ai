@@ -87,6 +87,22 @@ related:
         width: 2000
         height: 975
         isCached: true
+  - title: "White Paper: The Future of Self-Driving Technology in Trucking"
+    excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."
+    publishedDateTime: 2022-08-04T16:00:00Z
+    webUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking"
+    ampWebUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/08/ImageWithTitle.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How the secrets of ancient cuneiform texts are being revealed by AI"
     excerpt: "Much of the world’s first writing, carved into clay tablets, remains undeciphered. Now AI is helping us piece together this ancient Mesopotamian script, revealing the incredible stories of men, women"
     publishedDateTime: 2022-08-03T15:44:00Z

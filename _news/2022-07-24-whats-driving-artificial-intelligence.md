@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2020/08/artificial-intelligence-3382507_960_720.jpg?fit=960%2C640&ssl=1"
@@ -41,6 +42,6 @@ related:
         height: 811
         isCached: true
 
-secured: "aYzaQd5y5Yb9s7G2yTU4mMIwA+bqsOsEHXUcynGMMZPkOWFGS0duVKUNI0rZrBGOzYpiY5qmCaHeYC54U+Yv5v3+gVTPnmBd/zr7+qqfdvqDu6agdQg6MMLUZEiUbSbE8+QDhccQTvASkte/UDq0zWBK/eFjHfw2A6vce3HphMxWpoMtgQ7CEDS55gA9FiLbLg5dxpijw7K21gtiJUogi2Ipp4+1aGmAEr7cvqiBmuQ1mSe1I8os3OWM3Z77ZoDJrHmrVVUGdXHFHFwEnDBVBdXzkAOf8qScsADEBehfMKact3RuZYo1WI88DIJJPO1bupxuabRPNcj61rwJ1LtoH2G2QaE2Y3sSSC3/v+DBHKo=;WvRQqIsqVBruL3RGxSGYoQ=="
+secured: "WUm47TP0qdV04GcuJNG0DvOB0nKTYw/+lSFzJ2CA4nif33OLTTzoKZ9LRj1/VSk/SZ4MUAwVD7oxJqHbxg/IWNXXX+mWjnxeyEFVe1IfiXUo6bwYZOzsPrBEACqP7mc40MD1CEGEtVWl9H2HrS0lUvFkmGXY8MVjN5mC+ea4ymUY0nwwymf2P/iFi23IOuHuWAFT+cICoQ4HZn1Wz7ddc7nxxRtUkysTQa3Mnx2pWQXekeBh+sDUc3FiIONnRnpleVbSoYqByxHrNZmHYGN3GqLsYFDmLwtPYrhcED2SHrGb08BwXrde25bYCiwhu4rh1FrjQXnjBUYzoHWn3xKkSdxYfuuw4bH9TsoHVuzyAcFsXOdHBaI9aOt/YsRKCx+7oElOv21NYMzVzMNsod2fj7mp2oX8rfOOa85z8qwprMoP2kMZ+BsRNVU1lgO8ONJ/YXC8bEnI1d9YdkhmDcQIkqOvqagCUc7e0aW4XjEnDvMNDmHSP0fHWnH7sfvVA2s8INCNEQYpHSG3vrissLWw7Q==;8YqyuLbde5iHnIxQs8tEbg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-face-recognition-
 webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -29,57 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
-    excerpt: "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
-    publishedDateTime: 2022-08-01T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01"
+  - title: "Cardiovascular Devices Market Size Share Demand Growth Opportunities Insights | DataM Intelligence"
+    excerpt: "DataM Intelligence\"The Europe market is anticipated to generate the second-largest revenue of USD million by the end of 2030. The market is further segmented by country into the"
+    publishedDateTime: 2022-08-01T22:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28302116/cardiovascular-devices-market-size-share-demand-growth-opportunities-insights-datam-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28302116"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28302116"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence Service Market Analysis by Types, Application, Region and Country, Trends and Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Service Market report focused on a thorough examination of the industry's current"
-    publishedDateTime: 2022-08-02T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-service-market-analysis-by-types-application-region-and-country-trends-and-forecast-to-2028-2022-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Server Market Size Comprehensive Analysis, Growth Forecast from 2022 to 2028"
-    excerpt: "The Artificial Intelligence Server market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2022-08-02T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-server-market-size-comprehensive-analysis-growth-forecast-from-2022-to-2028-2022-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
-    publishedDateTime: 2022-08-01T07:38:00Z
-    webUrl: "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031"
+  - title: "Artificial Intelligence In Sports Market Growth Factors Along With Recent Trends & Demand 2030"
+    excerpt: "Artificial Intelligence in Sports Industry Increase in demand for real-time data analytics positively impacts the growth of the artificia"
+    publishedDateTime: 2022-08-04T08:20:00Z
+    webUrl: "https://menafn.com/1104643050/Artificial-Intelligence-In-Sports-Market-Growth-Factors-Along-With-Recent-Trends-Demand-2030"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 9
+    quality: 25
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855640"
-        width: 375
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-08/04/EP_4e0a9image_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Estimated to reach US$ 25.4 Billion by 2032"
+    excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
+    publishedDateTime: 2022-08-01T11:22:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/01/mobile-speech-recognition-software-market-estimated-to-reach-us-25-4-billion-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 12
 
 secured: "r3YtSq7/rzpZSNgAr2xxJZ4GITJlC6KNMfm9hanxSFVDpEJE4vwsBp+evn4BmsZOOENB9gHcjDU5w0K3dGwtuiWklOHbohUJK28woS5We3GSwZTWZrPKEDTPj9zE5uu/cuo5Sdu+/3LRnL5za1O//kwYlmeOULENnPo2oMfNlvjs87VYCh6B5Accj0u/OphB4tpMmGc7ZxL3KEieVULp3sr8I33KGMdWRrOf57vPjtQR7evNOWqDWZ5rAJpJqJu//WjLIg+cV+HIbzG4KarFxB9rHTBir9O3hAnJaou23g2kbeEOJ3OcSmoWs8wbUifnPHIAxGKObyvWoeTD20IxJaxgu8osbBZbUBEYxFwAauI=;pHGWPptcEV1MxiOIaC33AQ=="
 ---

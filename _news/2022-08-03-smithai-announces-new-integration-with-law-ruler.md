@@ -40,6 +40,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Automating neutron experiments with AI"
+    excerpt: "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,"
+    publishedDateTime: 2022-08-01T12:00:00Z
+    webUrl: "https://www.ornl.gov/news/automating-neutron-experiments-ai"
+    type: article
+    provider:
+      name: Oak Ridge National Lab
+      domain: ornl.gov
+    quality: 37
+    images:
+      - url: "https://www.ornl.gov/sites/default/files/styles/main_image_style/public/2022-07/acquisition.jpg?h=c6980913&itok=2r9YbUA5"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Global Parliaments can do much more with Artificial Intelligence"
     excerpt: "The world is using AI to enhance the performance of its policymakers. India, too, has launched its own machine learning system NeVA, which at the moment is not fully implemented across the nation. How can we learn and adopt from the advancement in the Parliaments around the world?"
     publishedDateTime: 2022-08-03T11:30:00Z

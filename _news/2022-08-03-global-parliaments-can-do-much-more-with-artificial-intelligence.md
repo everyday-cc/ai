@@ -40,6 +40,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Automating neutron experiments with AI"
+    excerpt: "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,"
+    publishedDateTime: 2022-08-01T12:00:00Z
+    webUrl: "https://www.ornl.gov/news/automating-neutron-experiments-ai"
+    type: article
+    provider:
+      name: Oak Ridge National Lab
+      domain: ornl.gov
+    quality: 37
+    images:
+      - url: "https://www.ornl.gov/sites/default/files/styles/main_image_style/public/2022-07/acquisition.jpg?h=c6980913&itok=2r9YbUA5"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Smith.ai Announces New Integration with Law Ruler"
     excerpt: "Both, Law Ruler and Smith.ai endeavor to make legal work more productive and efficient. With this integration, any call handled by Smith.ai’s receptionists is visible directly within Law Ruler. Attorneys and staff will be able to understand the work that’s been completed."
     publishedDateTime: 2022-08-03T14:02:00Z

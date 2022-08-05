@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 851
         isCached: true
+  - title: "How Computer Vision Is Transforming the Sports Industry"
+    excerpt: "The growing influence of computer vision in sports has made today’s athletes' fitter, stronger, faster, and more resilient to injuries than ever before."
+    publishedDateTime: 2022-08-01T18:38:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-computer-vision-is-transforming-the-sports-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Computer_Vision_Is_Transforming_the_Sports_Industry.jpeg"
+        width: 1000
+        height: 657
+        isCached: true
 
 secured: "NHj3sw6jkcHXhcZnVISA2D49/3j/bSsw/MdjecJl4Ua4sSnvAGkPHi3Q3GIqEEzmh8wo6NeEioTuFh5vErZta18CUz3AcEXEAoKxyArIXAcg9hN4bJuwLKwUi8t/25YToltZb+EB/x2G4WG66YJ1CA8W6zbMRdtcZNvJ9gdEzq9hQLcYaLGMf59l49SZBYRwdZO85NDcRRv8zisPH6zOojSkkuWo3jvD/Rn+yTPeyUBz3nL1Hu7b7eIsH/r5FRp2mN/qJy4uROgXJU4Ydvgv065L6PSjnzXGA+GxwNr9gzdmOQu9hpR7z+sdzEWjSGo20gdZY0bZFXCBc60WOKVbomBwU1RfUcEBr4ZDqaQejXz5NZ+bbNzA2/MuwQSTVl3H0G6ufaXtgsfum7Jw+UUgDCEhsOw+QZYJCWdM6/aSjE17PrD7tlQpWNnNFAVIXq0tLz5iESXvtFpYy0B7gbY0Bvc3rQL8rBfu+uWSMCgyZ7nsTawaRJyNcO4WLOnSoJafny3VhoiAAcOiRZTQVYuczQ==;DscXsdqs8ANdf8iEP3TAzA=="
 ---

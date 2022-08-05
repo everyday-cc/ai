@@ -72,6 +72,22 @@ related:
         width: 2000
         height: 975
         isCached: true
+  - title: "White Paper: The Future of Self-Driving Technology in Trucking"
+    excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."
+    publishedDateTime: 2022-08-04T16:00:00Z
+    webUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking"
+    ampWebUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/08/ImageWithTitle.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The future of AI is writing sultry lingerie ads in San Francisco"
     excerpt: "The perfect, purple-loving, wireless bralette for every occasion,” purrs the product description for the lacy Gia Contour lingerie on the Adore Me website."
     publishedDateTime: 2022-08-02T16:29:00Z

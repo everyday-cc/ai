@@ -495,6 +495,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
+      "title": "FedEx to expand robotics technology, artificial intelligence",
+      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox61.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "originalUrl": "https://www.fox61.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox61.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "publishedDateTime": "2022-08-03T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 61",
+        "domain": "fox61.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
       "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
       "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
@@ -806,7 +849,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-record-healthy-cagr-over-the-study-period-2022-2027-2022-08-03?tesla=y",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -910,7 +953,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1185,50 +1228,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-fedex-to-invest-further-in-artificial-intelligence-robotics-technology.md",
-      "title": "FedEx to invest further in artificial intelligence, robotics technology",
-      "excerpt": "Per the new agreement, FedEx will purchase up to $200 million in services from a Massachusetts-based technology company, in exchange for warrants for 25 million shares of its stock.",
-      "sourceUrl": null,
-      "webUrl": "https://dailymemphian.com/section/business/article/30114/memphis-fedex-investment-artificial-intelligence-robotics",
-      "originalUrl": "https://dailymemphian.com/section/business/article/30114/memphis-fedex-investment-artificial-intelligence-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thememphian.blob.core.windows.net/sized/84694_1200",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailymemphian",
-        "domain": "dailymemphian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

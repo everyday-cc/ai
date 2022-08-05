@@ -1,26 +1,26 @@
 ---
 category: news
 title: "African Artificial Intelligence in Aviation Market: Key Players, Trends and Drivers - ResearchAndMarkets.com"
-excerpt: "The country research report on Africa artificial intelligence in aviation market is a customer intelligence and competitive study of the Africa market. Moreover, the report provides deep insights into demand forecasts,"
+excerpt: "Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2022-07-22T11:58:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-52bc9c844c364bdf9aa38f13bb9a5d30"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d945f3ba-4c4b-5d8e-bf9a-6270198b145e.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d945f3ba-4c4b-5d8e-bf9a-6270198b145e.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "b0AVFVpOnQiucqkzfr6YFFot2vatmk0Jp6dYDZCyzzOM3dYhazy1aKY0R/etSf+t5ew/Z1iRaMgOwqrscmpR8MX0pGostgFHz2KqCIudc0ZhUcDCxtkZsXxBQnThBFenUGNk4tXeKYVgTwbRVmKWFUJZfpSl+ytIaepJ4LLEUo7sS9zd1bE0zde3Nnic4uLo8pSDho5h/0eZRF6hN29dMALg18Yi8KAcnUSWu12S3lRUkzn2VmJm8aW+ABXpt8lTO2afjh/cOINDjxReO1pLdwfneO3PK6xH+tMS+1J6YDtezNqrHsVWetgKTtlIT4JLrwBBSCziTXi5X4QSt2iD5nAJ2c+nbeFKGJqfWAewymw=;OYgh+xyQUbDn7F/5uBviaA=="
+secured: "qDSZ4+OObuzI4zJyRhUo9vFzo+3RHFTEel4kvwwHeI41OuAHGYQ5tV6GLBRXoX+ystcD1sywVa23808492S1xgmzmEBNKL5rlwvV2TJ+10hbYeT+JJhDM/Sx+BnAANKvjQ5Wkz6EveYxILfk682d4aP63PQfNAK8FZ90MnGtEyMCttQHnTFmvjGCnDo497dN/wNW65O+gnVYqorsmS9rSDOTuDTk6E2r4KY7tl9LifSBUq7u4yb7Js29r5F0565ScyJL6RYLFnz4GiM9R5+QNYqKDlOgZli1wCVeoXfHo8qdepalylTlejfgr0nLXrGI1QoumBBKfsqRFk63UBnJvNmrPT++VxtiAmkMQjddim0=;gCAZiKMjYegrwzU15ydt+w=="
 ---
 

@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Speakers Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "This new report by Report Mines provides a comprehensive summary of the new developments within the \" Artificial Intelligence (AI) Speakers market \" across the global regions which includes ( North America: United States,"
+    publishedDateTime: 2022-08-02T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
     excerpt: "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
     publishedDateTime: 2022-08-01T17:30:00Z
@@ -51,20 +65,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
-    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
-    publishedDateTime: 2022-08-03T07:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+  - title: "AI Virtual Assistants Market Size Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
+    excerpt: "The AI Virtual Assistants market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
+    publishedDateTime: 2022-08-02T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-virtual-assistants-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-08-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 28
   - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
     publishedDateTime: 2022-08-01T07:38:00Z
@@ -79,6 +88,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 2
 
 secured: "tiCtsUR528JgShZVpn9l3yfdmiinTW14pC2X9VCv7FA4MgWR7EIAsb1Ix9OsH/kqq5Ltlie10bVJ+gAfC6nKiyMIjdQorS0VWC/FI7LHMxbFidq+ow6PKxMCWht1mArh/ZYdWYaK3wzxWoDO7lJUlQpIa0FhySEa0peunFZPLzh7Ed61p8WxhK/ae+WbYzrxh9vwUhgAiqXJ8y46oem221GBFqkbxxWi31BbD8rHaHj+QcPZpaV2Kfd4itvigAez2vhOevPX/SZ8OLRuap9u4Flo52BfsFEsRA2A+uy2G4OwS92D3ivX553DEB0GT56ojrFQch5R3OnIDI55eMOrh/5ywYt465lc9PLa67R6ZhA=;6GvsN2MlPFcUM24/zyJB+w=="
 ---

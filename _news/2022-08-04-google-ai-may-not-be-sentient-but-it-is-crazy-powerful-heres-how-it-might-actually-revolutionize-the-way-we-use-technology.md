@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-04T09:00:00Z
 originalUrl: "https://www.businessinsider.com/google-ai-sentient-revolutionize-tech-2022-8"
 webUrl: "https://www.businessinsider.com/google-ai-sentient-revolutionize-tech-2022-8"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.insider.com/62eade57c6987600183c802c?width=1200&format=jpeg"

@@ -3,26 +3,24 @@ category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
 excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
 publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc30.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-ampWebUrl: "https://abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-cdnAmpWebUrl: "https://abc30-com.cdn.ampproject.org/c/s/abc30.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 
 provider:
-  name: ABC30 Action News
-  domain: abc30.com
+  name: WTVD
+  domain: abc11.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg"
-    width: 1280
-    height: 720
+  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg?w=1600"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "xx+Vh67DYM7FnmvVi8tVQPlZmBSIcDRfwh7GTrqyS/VeyECCoJ6oAMNaYEYfGQAfxjz+G24uLT5p13kC31qK50lo+6YnyF7MsMXruCQXVIEiUB+d9LkP6jc86xTvzYgn19Iz8/0snL4L4RDb+7Sv3uC1rPYzoa5eivxma81g/eFJ0/kko7QjgshmegrFPsNmvZeV9MTZtucyaR9Wq/OFIjPX9t+M+ocha24V0iQkghldKzM0An34wf8mEAzwDlrB8hJjSOaR8vefkUx0OwQ1MRalVD9ATsGpCZWsy2Qa1an6spXb6hq4UjIO/SHgvsaAbrQuskuhY9dYJYzQ0Fe81+uWtkqptamvqMdihSuhMh8=;f8oZqiQOBl2rIt7yevOknw=="
+secured: "8uvygP1ZJXBPmT7EtGxc1E7J+iDtZj5anqxfQL5VHgoBXlaGcZwjd4KKKMV82YBzFnEXf8tfRWf9HW2MsQqgGhkXfhsP6ecNyjpEQsci+8T/zm5VdbqQesgKGMDM/RX9Nn3FyYkBk/TgaQRexaP7ZUttK6azD+k9LW4fLcKP9NyazvzSdZSkgN/FVVQTQCAhw4HLl6PPp4zJ/IIwyXhtPh4xj0rwXa0sKUs0V+SWIfZ7SM0zhX42fuj8tSSEnrhbolES4d5UyqmHOauv/MXJqsguttd7W6gfTj4bxVg66efL5NI9PBAcfB/6WSaZXKinzEf/S20PwRRB7+9W8PDSB3Xtt4sd1beZkxEBgo6z/rk=;XToqK6bSLgVh1gLcszBshA=="
 ---
 

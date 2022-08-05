@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/motion-control-software-
 webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01"
 type: article
 quality: 65
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Speakers Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "This new report by Report Mines provides a comprehensive summary of the new developments within the \" Artificial Intelligence (AI) Speakers market \" across the global regions which includes ( North America: United States,"
+    publishedDateTime: 2022-08-02T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Service Market Analysis by Types, Application, Region and Country, Trends and Forecast to 2028"
     excerpt: "The global Artificial Intelligence Service Market report focused on a thorough examination of the industry's current"
     publishedDateTime: 2022-08-02T06:38:00Z
@@ -52,20 +66,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
-    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
-    publishedDateTime: 2022-08-03T07:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+  - title: "AI Virtual Assistants Market Size Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
+    excerpt: "The AI Virtual Assistants market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape, sales analysis,"
+    publishedDateTime: 2022-08-02T10:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-virtual-assistants-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-08-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 28
   - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
     publishedDateTime: 2022-08-01T07:38:00Z
@@ -80,6 +89,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 2
 
 secured: "oZG49AH7Gt/0Bqc83n50BASI6grfGY/lRsya3Zw0VkXLGoXNMVsMJ1awOh6II64qGRqGuAwC80hq/bZ+OiFl5VudseRcbgNGtlYOxzETxbl+5wrIDMWglO6siFjbFDJh8dE/82muK6NqPybToa0Qr/fGcHERKN6XcDqpLpKAcob2u7UKnsD4lkAdVGin2IsMRb8xUUzfHYCGHWZK1426UXrCSBbZtQpb8G9TGzUEZ47A4VjdfSojRhPO44qe0EGPt8VYpQbcEKBoyqlU0lg4EjAFDNx85GShZKGg/UOXX0gtVvRNhY8vUv9NLyQApSkHBCCRp914JXO2gsX4lKCP1zfo604eSK7oqCqZCdrfsIQ=;aVIbF8/7usj3LcWiD2JJqQ=="
 ---
