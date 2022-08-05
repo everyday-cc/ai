@@ -41,6 +41,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Mindtronic AI, Mahindra & Mahindra, Hyundai each explore vehicle biometrics"
+    excerpt: "Three manufacturing companies in automotive sector have stepped up efforts in developing and integrating biometric and AI technology in their products."
+    publishedDateTime: 2022-08-05T21:47:00Z
+    webUrl: "https://www.biometricupdate.com/202208/mindtronic-ai-mahindra-mahindra-hyundai-each-explore-vehicle-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/07123606/automotive-biometrics-large-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "Eowk7of3NskOfjstVGsIxtbN3TV44OL71X1KZwkIkczVztlijPburOjWFycD5i9UV7yjzvUm0V1wPeLgdxlmNvJI8NYrzcHjm7YWZ0qV3V2nv2eVJraxnxW9XO8aCYVrHkTVfo03GLDLMcO1UTFTibjOwIAWrmNcc9XXlusQnLeuOJK7KW9hyFTWNTphhDD4kYTUvZa9Tx3guRb0EgsjtUuuafW1AQMTuk6itPYGf6y2toyU+Bcx0wFAAGnQaP1ysVEqNEXMRqcJnVFEwL+/ZsmesmIDZL4oFiuRUJNAg93sZ4EgbOuBZXbdKAvxR/NdBxj0kq2UwhDLR4qb9d+UHqclmBgPUTb7UsmXi2nJF0Q=;EjXHFFoemqrCki0TUfvr/A=="
 ---

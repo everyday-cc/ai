@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-02T14:45:00Z
 originalUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 webUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: KXAN
@@ -15,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "ofcBrXjtyI7beuu8Ps6Oq++yo3D2GEV5D/PzInopbTXmfWas3wyKfraVd36cdz8f6YAkA1D7DMk9TA1qJco8Co6M3KtFB+pw33lxeaESczFTupHEuzEQt5s6npwUNmYM2rIm1qyoj3mm6heZ8UlSkh5TkGU4fB3bQkG13bb3V/UIpSw1WCDWxbyRO257qwLYEyKkcs/Zi2KjZEUjjQAUIZlO8EN0ydXlwio8BncqV4GWCW8FqlnJZmUQe2DdE8nt8KoBltJs3HTk3Ml4vQU5rdibXUc9n/Ei4j9P/VIEJZITbWMblYPlenUSoUx8iIsd/AmSeJhnPRnfbkgs5aLF4b9kXNoGOrisgWMLDKIVGo0=;gfpWElW5/2oPKdKyM6RdcQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1868506/PureWeb__Stream_High_Quality__Immersive__GPU_Powered_3D_Experien.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "IeK0nKXkT15H6QCFZeF6/jE4PpN2QHsHL1UcO5VjVs91aJ2Xq5FdbvVzSuM600dIhpocLrj/5+Acct2UupfqGMy1qauUq9uCItQlFGkotTZCHAhF3KEsB9gSpPmOiPUXj/7pRcnYA13BKnPp/bIxV3vsJwrNR5Lko6MyEdD9C8qTsyfGr1pBBAejj0z3GytDGmw9N8DEzIZbZQWMJCfNi5mwT/Dgzpb2MFd8Ytr3o69wTcBGJnhU9PV/DyzVdFSR7sgQYUHbDKSlTjP3H7CSBAiv0fApJE+p08sXYXerhUe3X7yX20OdMMi0NfL/2voVxaQ0HwJWnFk6dq2jlzSLOd1lZXcaNMlUkmUHE3V4O+4=;JGaPZ57h+eP+B86CRo/1xw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T18:24:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/08/05/falling-gdp-and-missed-earnings-expectations-from-alphabet-microsoft-and-meta-forbes-ai-newsletteraugust-5th/"
 webUrl: "https://www.forbes.com/sites/qai/2022/08/05/falling-gdp-and-missed-earnings-expectations-from-alphabet-microsoft-and-meta-forbes-ai-newsletteraugust-5th/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: Forbes

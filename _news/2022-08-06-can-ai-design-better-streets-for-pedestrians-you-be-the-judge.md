@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T18:31:00Z
 originalUrl: "https://thenextweb.com/news/can-ai-design-better-streets-for-pedestrians-dalle-2"
 webUrl: "https://thenextweb.com/news/can-ai-design-better-streets-for-pedestrians-dalle-2"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Next Web

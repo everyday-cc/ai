@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports"
-excerpt: "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,"
+excerpt: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports Jul (PRNewswire via"
 publishedDateTime: 2022-07-28T14:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
-secured: "XwvDwXf5hotkxAYa8YlylBXO6C9KPLKVRcWyN/teSL4NTBfkDOMCDpxsFGPM2nHUaHVnbZISGS6GA8QeTmTl6xa2tdBwX89/s0QKz8MJQUc0HvgJrrS2TMRVYQj99m9TVTczBcLc7Hp1arLNY8a9aTC6won8cKcF3vXfsvhwGW4REAqAk3UWeAkF9wzKchIQxmrdD+3/wv62Y9NZCrFpMqyvlweoEhSjIjWkoeUGufLj+YhdR0MS9lkWd+h9fWw4qPEoip7s8A+/okr2fN5L7XnhkMyp4sYMEBIqe9TksFSE9IqYALTheGQAWn+YiQk7GYrMbZELvcbIMlQIwANErhx6E+CAmVUkW82+H6149eXqHRaTo5cOQV4wkOi9kPI7ZgzEFVYs5g07ftFetOXrZYeCCkAmw9a8j+iQnMA9YZ34Gh8Q+f2gvG377O8C8cGNpi1aAQoFnrfS4hwC0PT0Xps5BuIEMZHxbiInQJcNithKZcclJOJYqfsZFRFyRqBjql4IH1DJDedZm0A0vs9iBQ==;x6X1zxPsYXwBlApc8YOeeA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "zT1r4eRbaMXBfF+Cf0EFMkjJD2+WuV0uKhyiMATQ8YX3nEXXkVyf/KcmidNe3FCXcDbtW6+W5Qg7DBpe0/vC4NoI4Mrv2nsm9mqVtbTCskYMF+iErNpM6ek0AR9OvT9ZZFZmznwTdOSYb7hqQNJAwrBL5ets3FsfoKFVee13XyX/6fW4tRlMfZDvBNmL2GdSpk4XHKP/5X6hcaBbVOq8ghl5/gmk7cOmjoHU9CMSzHwNVCGbbWyQw3SHIcOX0mefsePtkfQdnmR2/SMJ3EUOfGJM+8d+QesG8QUFOZuvwdfeyg/dYPSewuAagd+U0obGB/4Q41QyrU64PDzHr9+OD7NYW0PovSw608ac1qYmads=;03zW3shPKnxjx9TW4m2D1Q=="
 ---
 

@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "UaEsdEbn2x3ItkV9rb3pmr756ucgm1Er24zPifDQuZ5LCUTl9xah2sgBbynNMd+fWdbXYfPTUC5TGrdh4LSx29g8lGwEnxfXOX+nSaXPL0sVvYEz7RNF3kD5SGMglIBD8Z5NQBUXSWR2sSh1QupxstFFfY9ccAoRNd/9FuHGfXy+8F8xiKfMEUTLWqX3Z7cKgO0gf5qtlRo7gv4IgJUyjoNb7IaDQpm1t4D0Ra/0wart1aseFzQzWsK0NVEL1CVoEl5XfbWL1ugLaGWeP7F2Df+uqI+jGyo/vR+l9R2r8PKaSo958vI8fwrvshrBCRvKEA77abvHD3SW+nNbSdWgr0QX/aaNdKYBXGBT2ftnUAw=;S5fYVBVuyr2QQTNUcNo4Vg=="
+images:
+  - url: "https://i.insider.com/62d6bd42f7ae650018341273?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "nkapU0OfGJ+zkVhnR//6bRSYG8eZQu0Uk+gPN528H7C08EkJtyke59LjFaXT8uS61aVYsG/37hn+SfqLhHWbaqDSmjs3WteLi0yER5wvQkEbu+Pc/wyiZolRav23tC7i+yJvDQpbjlyOYqbffEBJcLp3WBAWonMU+eIi9iD/ODssLMTjfUCB01qGzsuZJBnWzob/U9MDCMMH/mTGHGUFkkHMDFJI3/QocxKxcEn9jTi/x7Jwu6N4arAg5rYMjR7rKL+7LIE9FBHP69EHF5yjchwY2EHe02P3KhPbmTku5D6lA9iQRpDBimFSzoLZWHjruR+Ud2vLHC0qZ5Esrqv9ILuSemi4agjZt0qQEVT4RL0=;WCKdg6ZiH76iH9rOfZoUCA=="
 ---
 

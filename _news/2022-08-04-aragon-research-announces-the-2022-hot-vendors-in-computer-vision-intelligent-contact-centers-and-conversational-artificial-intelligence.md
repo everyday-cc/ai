@@ -27,6 +27,17 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "New Partnership Will Scale Up Investment in Ethical AI Research and Innovation"
+    excerpt: "Kenneth R. Fleischmann, Will Griffin, Mikel Rodriguez and Alice Xiang at the 2022 Good Systems Symposium. Credit: Stacey Ingram Kaleh. The University of Texas at Austin and the MITRE Corporation, a nonprofit dedicated to solving problems for a safer world,"
+    publishedDateTime: 2022-08-05T13:08:00Z
+    webUrl: "https://cns.utexas.edu/news/new-partnership-will-scale-up-investment-in-ethical-ai-research-and-innovation"
+    type: article
+    provider:
+      name: The University of Texas at Austin
+      domain: utexas.edu
+    quality: 30
+
 secured: "WiVrav28To76pBxkIN8/L+9p/mmNscHokZwEO7BgWlWYYSC0kmDdSubX1X+d/dEU/GHxa0Ov2bhs2+cSKnt2kMH2JrxF/NciVcmgFmafRuxMfQRBaiswCVI82l/VjH94vCgB/Yyc50v1lS/b0Q9NDIbwQ1SRXyaRGBMiUfCvDmoJtim8UMc8a7BrJ3VkUjAuBwyE4AA6KUt4/3TZ6sgT/8hetesDaqd0xAgI+davIrcVxtTEO6Jf9ZwSa4dzAJDGrycNtTsVWkemMjZNt2C5oHgP4bxoy33tog54EUhNKrNkgtIA0Me8hav9/EKl/qKSOHWzqB1TjgtJTdkn2leEk3GerybbVXIAsaFe/YPhwMc=;tAdKqcdhggoG5kiL7lZ6Uw=="
 ---
 

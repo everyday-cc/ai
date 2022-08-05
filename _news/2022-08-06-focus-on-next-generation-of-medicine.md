@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T19:15:00Z
 originalUrl: "https://www.thehansindia.com/hans/young-hans/focus-on-next-generation-of-medicine-756615"
 webUrl: "https://www.thehansindia.com/hans/young-hans/focus-on-next-generation-of-medicine-756615"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Hans India

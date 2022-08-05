@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems"
-excerpt: "Physicists at the Flatiron Institute’s Center for Computational Quantum Physics and their collaborators have created a new way to simulate quantum entanglement between interacting particles. Their approach involves adding extra,"
-publishedDateTime: 2022-08-03T20:13:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960814"
-webUrl: "https://www.eurekalert.org/news-releases/960814"
+title: "Neural networks and 'ghost' electrons accurately reconstruct behavior of quantum systems"
+excerpt: "Physicists are (temporarily) augmenting reality to crack the code of quantum systems. Predicting the properties of a molecule or material requires calculating the collective behavior of its electrons."
+publishedDateTime: 2022-08-03T20:19:00Z
+originalUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
+webUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
+ampWebUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
 type: article
-quality: 10
-heat: 10
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "9zK92rXNtJvpShgaopyKYe99uis2yD2nKJwGpEPnQgIba/DbuwQPZNwd84viXKuh6PRcfjPQBritNLJ6XSUJJh7z1FdH4RvkSW8DTwYUIKf31Y0RVjRiDBMt7Q18LvHCZtFpaY5MYEAImgQ4aAy6jcr4t7J3B18+iJdc7uLCn+j14OpfHX7sw1na/4TgOANEj23MHstvsXi1U0vj+g8alDXgoPznFHWaqjUUzyCBAuhL1fTcQ2hDO9CpWWMEvQ8edWSzCNXpT9tnVbmvyk4FAOGACFGoNVxzvprYXTXQMXnDKklTFzlZQVPAPIQNdyQ/idpXtTGUl1+oARmvVAez9biNBFdIPrP4XjZr9pGIF6nh2TCwoHA/ZQnWVTpEIQgUtMXyrUpxKOzYUKnou2juhIzxnBH4TUMGtr0r0QkT1JozFj3Lmc+EeMb3CLAR3wObfdQmlVvR8WgvsqsXzaxeWLOczXz1QbVXXEgw4rEXTxEXRYzMyAyetaZRhZ7BxkyQKdJX0PB9V3YDVSWpTe6DIQ==;aDpGMTfnMYlAdJxsoSlGcQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/neural-networks-and-gh.jpg"
+    width: 1391
+    height: 1075
+    isCached: true
+
+secured: "W0Zbp6VxhbjG/QyMzu1FAOXlrvKoOeTPbLL95SiMu9APYWP0pPCcEV7uDFV3LizdpCKP/ByiZ0wFZeL+iM6TgbV6dA3HMy+ZlSUeAxlfmFKJIAx06WW7S9WUfdPbBKzgy0oKwQIO6pGya7g1KtjHvptTqav5d56nC+rUBz7/2uAyOeA7l4125ompc+GxIrrKo6VFmmgqPx0PRbv2EqrTRa1Odb94RmLrf0TtiKcmgp4PoRoMc7j+0M9X+KF3Lzn6yxgWdVZLs4iQexEW6OOJriQF8dMw+W846OV3hbgAFITyAPPZUViKAg0RhjF1xbLOjWZmwIM/BOhMwZILLYrDc5RvLMfFl6Pf7kDlDlJmb5Q=;CApIbgWwQixS9LqUzXTDSw=="
 ---
 

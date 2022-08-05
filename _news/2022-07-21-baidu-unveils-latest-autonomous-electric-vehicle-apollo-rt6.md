@@ -5,6 +5,8 @@ excerpt: "Baidu, a Chinese search engine and artificial intelligence firm ... bu
 publishedDateTime: 2022-07-21T13:00:00Z
 originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "mfTzqtXYD6qNo8sRo2ELEIcdxnKhnLUodsaZyNFdbLWJLplBLf0yRlZ/mHnhViQ7OCS1d09BAnSy7h7CyKGd2OOd6h54ejMN+tLS76MTnRQHf7RfI1K4NXf711Y6gxPcmwvCjCFYWlRosLkTGtOKuZCXNYFLYpkwsY/b4D0wgNn8LtTbO0felBnUE71DNI2Xx4VMyb8uLqEb+fSPAAkeRadTQ2tslZBuUJnzE2lSn73Av8o7Q7CnDwAUDl9jIM8euIIK/RedGhWwRoUfFMksxdQ4RoukQYoubLb0i07EqjUC+WUNvQtD2mxS92Vs33GaIQTf+MMCG6BFaxPms38NMbP1nMGZZi0ggO3Pq2mkU3I=;jH0zROPXGphftw1zTDwIeA=="
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "ontYGdEjdZ/CrufX1IOfLjgaHgWdJ+NJiMCNPHLVsHM1nqgy8KDD3pJNtmJEyE9N5FNofzjC+cXA0ZK85EvgyDETi7H6we7C0GcNFo2tYXbZmUmD/jsb75KnO8MmGATi5V1fyaAKJop+criVHZC97kE8LoOrHLPZXOwZqmw129BJ/e6fUXhcIruW1Y7tOTrrpO3BlP9kzclKo7uU+GWjiMcgQ1I653NwCOlF+W459+sI8renjJLd+EEHF5qiucJTFW05ppM5c86mDu6YY10sw4/Qli4HTcWpHnyctk7hS7Jft5DgAcUwzXhVn5TxvmgXs2HTWg0bWQX4t4nUhBgBb/LJ3jEsJ9ldwWZy+BtoeVw=;HyBFUA1MkBpc9yKMs9DXrQ=="
 ---
 

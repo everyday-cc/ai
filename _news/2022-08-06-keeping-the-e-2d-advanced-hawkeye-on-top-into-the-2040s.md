@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T19:28:00Z
 originalUrl: "https://www.thedrive.com/the-war-zone/keeping-the-e-2d-advanced-hawkeye-on-top-into-the-2040s"
 webUrl: "https://www.thedrive.com/the-war-zone/keeping-the-e-2d-advanced-hawkeye-on-top-into-the-2040s"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Drive

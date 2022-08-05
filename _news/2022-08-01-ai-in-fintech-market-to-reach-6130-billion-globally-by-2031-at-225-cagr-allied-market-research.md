@@ -26,7 +26,7 @@ images:
 
 related:
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth Of 17.7% Expected Through 17.7%'"
-    excerpt: "DUBLIN, Aug. 5, 2022 /PRNewswire/ -- The 'Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and ..."
+    excerpt: "Fintech firms have been transformed in recent years as a result of the computational arms race. Additionally, near-endless volumes of data are altering AI to unprecedented heights, and smart contracts may simply be a continuation of the current market ..."
     publishedDateTime: 2022-08-05T17:20:00Z
     webUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
     type: article
@@ -35,8 +35,8 @@ related:
       domain: menafn.com
     quality: 17
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?395058"
-        width: 444
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122713"
+        width: 375
         height: 250
         isCached: true
 

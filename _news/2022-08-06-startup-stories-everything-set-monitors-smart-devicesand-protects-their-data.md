@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T18:05:00Z
 originalUrl: "https://som.yale.edu/story/2022/startup-stories-everything-set-monitors-smart-devices-and-protects-their-data"
 webUrl: "https://som.yale.edu/story/2022/startup-stories-everything-set-monitors-smart-devices-and-protects-their-data"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Yale Environment 360

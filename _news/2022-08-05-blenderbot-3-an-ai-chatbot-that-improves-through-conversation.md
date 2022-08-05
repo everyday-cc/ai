@@ -58,6 +58,31 @@ related:
         width: 378
         height: 439
         isCached: true
+  - title: "Meta's New AI Chatbot Is Next-level"
+    excerpt: "Meta has a new AI-powered chatbot named Blenderbot 3. You're able to have conversations with it and it's pretty good."
+    publishedDateTime: 2022-08-05T20:57:00Z
+    webUrl: "https://www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html"
+    ampWebUrl: "https://www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html?amp"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 57
+    images:
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/01/Meta-Logo-metaverse.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
+    excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
+    publishedDateTime: 2022-08-05T18:43:00Z
+    webUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
     excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
     publishedDateTime: 2022-08-02T13:00:00Z
