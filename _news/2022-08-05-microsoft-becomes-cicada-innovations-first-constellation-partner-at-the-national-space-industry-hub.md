@@ -39,6 +39,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Facial recognition plays a role in 5-year National Australia Bank partnership"
+    excerpt: "The Australian banking company is working on a proof of concept demonstrating the promise of using an ATM without a debit card."
+    publishedDateTime: 2022-08-01T21:04:00Z
+    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-plays-a-role-in-5-year-national-australia-bank-partnership"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 55
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "Australia’s space industry is moving rapidly; Microsoft has joined forces with the National Space Industry Hub (NSIH) NSIH was delivered by Sydney-based incubator Cicada Innovat"
     publishedDateTime: 2022-08-03T14:26:00Z
@@ -54,6 +68,22 @@ related:
       - url: "https://stockhead.com.au/wp-content/uploads/2022/08/Microsoft-has-joined-forces-with-National-Space-Industry-Hub.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
+    excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"
+    publishedDateTime: 2022-08-01T11:12:00Z
+    webUrl: "https://www.voanews.com/a/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    ampWebUrl: "https://www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 34
+    images:
+      - url: "https://gdb.voanews.com/1F7DF6CE-90C0-46C5-8C96-CE7112CBE3F4_w1080_h608_s.jpg"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"

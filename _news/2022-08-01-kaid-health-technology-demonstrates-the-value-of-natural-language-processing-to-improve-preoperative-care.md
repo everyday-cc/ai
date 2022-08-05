@@ -1,31 +1,30 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
-publishedDateTime: 2022-08-01T14:01:00Z
-originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
+excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
+publishedDateTime: 2022-08-01T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
 type: article
-quality: 57
-heat: 57
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Natural Language Processing
+  - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "SBJPfTPa5hwjB+zmLmm/eR/5yegMNmws/t34U3OtcxpxfFbPp1xyTgBE7TW7/1FNsjvN8XRAssYBRXmbZjIqDSPhguOUAmCBIfI7VPQeWheeIi84VxTYPv5G8HcaatGwh2xFOaJe96Brdlx0XNPpt9Oz9sjI/581WgRi2N1Q7Bnh4h204Wo65d+1JkebfPdkP/1BghjcALgI5+pnVKcUn+kKTN0jT9/w6E9DCaGlJ2PB13yH41HeBRZjy45+KSRYhq3AeBU5J3AHUcMtl1xelbsvrhb3OPF3adUagRvuhpuzrAZXgzsnGn0KySoqsmVxttdYwlSdFLtq0dFBBYvaXZGAK2FB4ePgOuc98186QhdGXMRSVydu9/dhl27nnptQxXMuFcFMWUY9tE7b2CXmUbzOe5MyE54LbV8+OyxzK5/TGXth/GWOkbDMDO3FhcZNFQqY6/EsVUbbSWk2t69mrKfRcRL/FVNWRzh7mf85prMm4eUNoAUCTNhXb8mTa/cK+nJIgD1Lo1FZ7NUev6wEDQ==;FPLMsUjh9pyOjACR6kGBxw=="
+secured: "OlQzKK9bK5pYArt+cTILxEuh5qXkThsYPBaSoDzk5WcurJ24flc8X+6IhxJem5MYzNo/vJClAMKW6ARXAJ18pmZuwUCNgRXfRCrj3r5nknogHMI6uz2Y0zqdj/f3i3lEIwQZ7ZTvWcUAInVm4CqCTaGTG4kvUamOXaKTvbA5asqz+0paIA8M+Q6SZAQMb1DchDOgSLSNKVNdf7lWOBgw2iQbkzvFhdgnjc7xp1PJKy2+OvlCaehxAR+2skFEGJRdntz4h87xAjx7DWrETl7k3dEiXyxPjH2RGSANU+UUbIDh5xxKEu8XCp2FhjNDXCeOGVlAnVe2qjI6yy2nVthGAdkZi07IcRwan6+CEI0+MFw=;ALpoQeAyB01tZljMpPmViQ=="
 ---
 

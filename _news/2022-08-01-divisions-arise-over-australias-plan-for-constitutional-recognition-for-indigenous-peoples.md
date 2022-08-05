@@ -27,17 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Australia PM Says Indigenous-Voice Details to Follow Referendum"
-    excerpt: "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided."
-    publishedDateTime: 2022-07-31T10:08:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp"
+  - title: "Microsoft becomes Australian space hub's first 'Constellation Partner'"
+    excerpt: "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use"
+    publishedDateTime: 2022-08-04T11:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 69
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Facial recognition plays a role in 5-year National Australia Bank partnership"
     excerpt: "The Australian banking company is working on a proof of concept demonstrating the promise of using an ATM without a debit card."
     publishedDateTime: 2022-08-01T21:04:00Z
@@ -52,115 +55,45 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Australian Indigenous language used in AI breakthrough"
-    excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"
-    publishedDateTime: 2022-08-04T03:11:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-used-in-ai-breakthrough.html"
+  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
+    excerpt: "Australia’s space industry is moving rapidly; Microsoft has joined forces with the National Space Industry Hub (NSIH) NSIH was delivered by Sydney-based incubator Cicada Innovat"
+    publishedDateTime: 2022-08-03T14:26:00Z
+    webUrl: "https://stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/"
+    ampWebUrl: "https://stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/?amp"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 47
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/australian%20outback.jpg"
-        width: 999
-        height: 562
-        isCached: true
-  - title: "Indigenous voice details to follow vote: Albanese"
-    excerpt: "Details for giving Australia’s indigenous people a voice in parliament would follow a national referendum on the question, Australian Prime Minister Anthony Albanese said yesterday. Albanese’s Labor Party government is seeking a referendum,"
-    publishedDateTime: 2022-07-31T16:00:00Z
-    webUrl: "https://taipeitimes.com/News/world/archives/2022/08/01/2003782786"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+      - url: "https://stockhead.com.au/wp-content/uploads/2022/08/Microsoft-has-joined-forces-with-National-Space-Industry-Hub.jpg"
         width: 1200
-        height: 1200
+        height: 675
         isCached: true
-  - title: "Australia PM says Indigenous voice details to follow referendum"
-    excerpt: "Details for giving Australia’s Indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said yesterday."
-    publishedDateTime: 2022-07-31T20:59:00Z
-    webUrl: "https://www.gulf-times.com/story/722003/Australia-PM-says-Indigenous-voice-details-to-foll"
+  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
+    publishedDateTime: 2022-08-04T22:28:00Z
+    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 23
     images:
-      - url: "https://www.gulf-times.com/Content/Upload/Slider/520222205240450595814.jpg"
-        width: 620
-        height: 355
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
+        width: 835
+        height: 396
         isCached: true
-  - title: "Calls for formal recognition in Indigenous Voice"
-    excerpt: "The Uluru Leadership Group has backed Noel Pearson's call for the preamble to the Voice to Parliament to formally recognise Australia's First Nations people. Australians will vote in a referendum to enshrine the Voice in the Constitution before the end of the Albanese government's first term."
-    publishedDateTime: 2022-08-01T21:55:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/13999300"
+  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
+    excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
+    publishedDateTime: 2022-08-04T02:31:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/news-story/aa17209006ce69910902ff500a76c6c4"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/73a85901522a8e96ea7122cc5cb4bed5?impolicy=wcms_crop_resize&cropH=364&cropW=647&xPos=0&yPos=16&width=862&height=485"
-        width: 647
-        height: 364
-        isCached: true
-  - title: "Indigenous voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
-    excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
-    publishedDateTime: 2022-08-01T20:04:00Z
-    webUrl: "https://www.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
-    ampWebUrl: "https://amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 24
-    images:
-      - url: "https://i.guim.co.uk/img/media/fa7de657cfac7be0d2a9713648ed8a6c9c7e4585/0_0_3969_2641/master/3969.jpg?width=620&quality=85&auto=format&fit=max&s=0ee561ddf626a1223d5457bd01933187"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Peter Dutton tells MPs many Australians don’t understand the Voice to Parliament proposal"
-    excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."
-    publishedDateTime: 2022-08-02T07:55:00Z
-    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-tells-mps-many-australians-dont-understand-the-voice-to-parliament-proposal/xbpxhiwpp"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 15
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/cae5c41/2147483647/strip/true/crop/1999x1125+0+3/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb7%2Fb5%2F23aa56be45469bad0a699838535b%2Fdutton-parliament.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Peter Dutton tells MPs many Australians don’t understand Indigenous Voice to Parliament proposal"
-    excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."
-    publishedDateTime: 2022-08-02T08:13:00Z
-    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-tells-mps-many-australians-dont-understand-indigenous-voice-to-parliament-proposal/xbpxhiwpp"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 11
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/cae5c41/2147483647/strip/true/crop/1999x1125+0+3/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb7%2Fb5%2F23aa56be45469bad0a699838535b%2Fdutton-parliament.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Indigenous Voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
-    excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
-    publishedDateTime: 2022-08-01T16:32:00Z
-    webUrl: "https://theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 7
 
 secured: "qdWiij6eeur85akUoCuHltq9XjYkoNvRI0pXBsiZElAENtS5WPu9J8QYQ3C80KQgtg9ElgO+9MLVcr8+QWCdCzeKm6pd6CvG+X5h3NWC6bfuiTIHX78c3882HpmMdaenndranvwW5pIKHSYVO0M3AvToR/9Y2IPTtP1VfTIAaVpWo9Njjx5hvFX2qc6uKrTtGuaxU1FIEACOWS6pIWNDCVdgSYR5CMU3OBbt0ZEGi6BmkjgYmE0TezE9e9u3YDHxPk19dZKQRDeZkS0dnSsAlAT0wvZWjLKimoUcEmDEbVUCcYb7vH4Gty98yv6si9+qRqW8aJb11jCcujLTRzhi7h05Zt4O+fOzaH0KKyzLFmF2jmj463hP2ygl7fF4f7i1KwxcxuJYX63j8dtomY3He/nWqdaKktOIIF4cMfK8tWQp9XoZDaHPJoKc2Kw9nyCDZh9q/4IsnZ0AsDugl+EwlDxREMu5TEFeM8ok3UyERXTEBIMhiSZcCnCJNa7cYSr9RhvFXOSBi0WbPV/Q7RKRfw==;ACLKyTv7IfZnZi7AU04y6A=="
 ---

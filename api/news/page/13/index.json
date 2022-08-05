@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu.md",
+      "title": "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu",
+      "excerpt": "ViableEdu will leverage Fusemachines’ AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "originalUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazoncom-inc.md",
       "title": "Machine Translation Market Is Expected to Boom- Alibaba Cloud, AppTek LLC, Amazon.com Inc.",
       "excerpt": "Machine translation uses artificial intelligence (AI) to automatically translate content between languages without the intervention of human linguists. Google Translate, Bing Translate ...",
@@ -1116,49 +1150,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-phaidra-which-sells-ai-tech-to-industrial-customers-raises-25m-from-deepmind-co-founder-others.md",
-      "title": "Phaidra, which sells AI tech to industrial customers, raises $25M from DeepMind co-founder, others",
-      "excerpt": "The startup, led by alum from Alphabet’s AI research hub DeepMind, launched in Seattle in 2019 and focuses on creating AI-powered tech that is both scalable and repeatable. This allows it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
-      "originalUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

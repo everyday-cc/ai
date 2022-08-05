@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Australian Indigenous language used in AI breakthrough"
+    excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"
+    publishedDateTime: 2022-08-04T03:11:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-used-in-ai-breakthrough.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/australian%20outback.jpg"
+        width: 999
+        height: 562
+        isCached: true
   - title: "“Shell-shocked”: Australian AI marketing firm Metigy has entered administation, losing 75 employees"
     excerpt: "ASIC data states the Sydney-based firm has entered external administration, leaving staff \"heartbroken\" by the news."
     publishedDateTime: 2022-08-02T02:17:00Z

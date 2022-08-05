@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-07-12-brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it.md",
+      "title": "Brad Pitt Believes He Has Rare 'Face Blindness' Disorder -- What Is It?",
+      "excerpt": "It can be caused at birth from damage in a part of the brain called the fusiform gyrus, which is considered a key structure for high-level visual interpretation like facial and object recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/health-news/articles/2022-07-12/brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it",
+      "originalUrl": "https://www.usnews.com/news/health-news/articles/2022-07-12/brad-pitt-believes-he-has-rare-face-blindness-disorder-what-is-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
       "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
       "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
@@ -1060,57 +1103,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-meta-ai-researchers-develop-model-for-verifying-wikipedia-citations.md",
-      "title": "Meta AI researchers develop model for verifying Wikipedia citations",
-      "excerpt": "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
-      "originalUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png",
-          "width": 583,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

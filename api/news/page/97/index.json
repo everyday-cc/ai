@@ -2,6 +2,40 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-05-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel.md",
+      "title": "Artificial Intelligence Market is expected to reach $115 billion by 2027 – An exclusive market research report by Lucintel",
+      "excerpt": "Trends, opportunities and forecast in artificial intelligence (AI) market to 2027 by end use industry (media and advertising, security, automotive, healthcare, retail, fintech, manufacturing, and others),",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-5-18-artificial-intelligence-market-is-expected-to-reach-115-billion-by-2027-an-exclusive-market-research-report-by-lucintel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-mastercard-tests-new-facial-recognition-pay-app.md",
       "title": "Mastercard Tests New Facial Recognition Pay App",
       "excerpt": "The Payface App will allow consumers to pay for goods using the same facial recognition technology that unlocks smartphones.",
@@ -1099,39 +1133,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-c3ai-stock-is-close-to-becoming-a-buy.md",
-      "title": "C3.ai Stock Is Close to Becoming a Buy",
-      "excerpt": "Artificial intelligence (AI) has already made an impact on the world. From AI-powered robots to AI-driven cars, it is already changing our lives and work. C3.ai’s (NYSE:AI) AI algorithms can optimize an organization’s operations by bridging the gaps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-stock-is-close-to-becoming-a-buy?amp",
-      "publishedDateTime": "2022-05-17T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

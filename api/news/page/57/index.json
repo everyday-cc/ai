@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
+      "title": "Insect-inspired AI for autonomous robots",
+      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
+      "publishedDateTime": "2022-06-15T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
       "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
       "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
@@ -1019,49 +1062,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-australian-retailers-deploy-facial-recognition-as-privacy-laws-stall.md",
-      "title": "Australian retailers deploy facial recognition as privacy laws stall",
-      "excerpt": "Australia’s privacy watchdog will consider investigating Bunnings, Kmart and The Good Guys after a consumer group uncovered the retailers’ use of facial recognition technology on customers and said it will make a formal complaint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "originalUrl": "https://www.innovationaus.com/australian-retailers-deploy-facial-recognition-as-privacy-laws-stall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovationaus.com/wp-content/uploads/2022/06/CCTV_Camera_800x600.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Innovation",
-        "domain": "innovationaus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

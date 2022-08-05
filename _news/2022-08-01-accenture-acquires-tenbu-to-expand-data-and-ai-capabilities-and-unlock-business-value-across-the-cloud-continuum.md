@@ -38,6 +38,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Only 12% of AI Users Are Maximizing It, Accenture Says"
+    excerpt: "A new study from Accenture says just 12% of firms have figured out how to deploy AI to “achieve superior growth and business transformation.” In other"
+    publishedDateTime: 2022-08-05T01:10:00Z
+    webUrl: "https://www.datanami.com/2022/08/04/only-12-of-ai-users-are-maximizing-it-accenture-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/data-science-dream-team.png"
+        width: 569
+        height: 383
+        isCached: true
   - title: "Accenture Acquires Tenbu To Expand Data And AI Capabilities And Unlock Business Value Across The Cloud Continuum"
     excerpt: "Accenture (NYSE: ACN) has acquired Tenbu , a cloud data firm that specializes in solutions for intelligent decision-mak"
     publishedDateTime: 2022-08-02T01:54:00Z

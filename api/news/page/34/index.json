@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-07-01-nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales.md",
+      "title": "NVIDIA Share Price Slump Inconsistent With Chipmaker’s Robust Sales",
+      "excerpt": "According to the note, the company serves the most “resilient” industries, including cloud computing and artificial intelligence, industrial, electric vehicle, and driverless technology sectors. It adds: “In prior times, only a single end-market ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.investing.com/analysis/nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales-200525090",
+      "originalUrl": "https://uk.investing.com/analysis/nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales-200525090",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
       "title": "China's Baidu races Waymo, GM to develop self-driving cars",
       "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ...",
@@ -1032,49 +1076,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
-      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
-      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

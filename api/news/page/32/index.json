@@ -2,6 +2,48 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-07-03-can-ai-address-americas-post-pandemic-medical-time-bomb.md",
+      "title": "Can AI Address America’s Post-Pandemic Medical Time Bomb?",
+      "excerpt": "There are trillions of untried chemical molecule combinations that have not been discovered by lab technicians in white coats using century-old human trial and error methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "originalUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/13/laboratory-56014351920.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/can-ai-address-americas-post-pandemic-medical-time-bomb-3560346?amp=1",
+      "publishedDateTime": "2022-07-03T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-03-an-ai-model-predicted-crime-in-us-cities-a-week-before-it-happened-it-was-right-nine-times-out-of-10.md",
       "title": "An AI model predicted crime in US cities a week before it happened. It was right nine times out of 10.",
       "excerpt": "The predictive model created by professors at the University of Chicago identified types of crime within a two-block radius with 90% accuracy.",
@@ -1065,58 +1107,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
-      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
-      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
-      "publishedDateTime": "2022-07-01T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
