@@ -54,15 +54,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Mobile Speech Recognition Software Market Estimated to reach US$ 25.4 Billion by 2032"
-    excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
-    publishedDateTime: 2022-08-01T11:22:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/01/mobile-speech-recognition-software-market-estimated-to-reach-us-25-4-billion-by-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 12
 
 secured: "yJcnGYUfkNnwJplgGFl9P1ET6E+C7QukSCrP9xFW6jThud0gPCzCoXDMLf98eQBzb35Z1ooIeG46a0sE1/S4EmcC4kW4XgZOYWhfLLFFM1jQ8+FJLw7troIuRw8V5LplXewTXRj8fAOzTgpobHnNX3v/wi/fUBmbaM2VENOXyRjrGd87InMt3f9TRGqcY4Bc52RPrLWm+Fg5Unx72EwQnLnWt55DrtyodIEL/4oOLwrUFqs5BLIl4BrKA1+yN7+PwhquGK17hlxlVL9lmKgbZi1iQYCghjR5PHq+xl85QC+VJtM1Zx8fanqwkPf0eMsxaMCEqCF8kUrLVFWbI1/ySDjoLjHUzjxcF/zHg5+YTqY=;kUjbn/sF67/uNsoi9P68eA=="
 ---

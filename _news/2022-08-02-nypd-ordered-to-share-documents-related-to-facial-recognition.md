@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-document
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -27,37 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
-    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
-    publishedDateTime: 2022-08-02T21:49:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
+  - title: "First, they banned facial recognition. Now they're not so sure"
+    excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
+    publishedDateTime: 2022-08-05T12:20:00Z
+    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
+    excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
+    publishedDateTime: 2022-08-05T17:30:00Z
+    webUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952"
+    ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+  - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
+    excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
+    publishedDateTime: 2022-08-05T17:34:00Z
+    webUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "City Council: NOPD must have court warrant prior to using facial recognition software"
+    excerpt: "City leaders are putting some checks in place on the New Orleans Police Department’s use of facial recognition technology."
+    publishedDateTime: 2022-08-05T03:59:00Z
+    webUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/"
+    ampWebUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
     quality: 52
     images:
-      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
-        width: 1902
-        height: 950
-        isCached: true
-  - title: "Council to consider ordinances requiring greater transparency on facial recognition, police operations"
-    excerpt: "Cantrell admin opposes proposal calling for NOPD to submit raw data on crime, staffing and surveillance usage."
-    publishedDateTime: 2022-08-03T22:41:00Z
-    webUrl: "https://thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
-    ampWebUrl: "https://thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
-    cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
-    type: article
-    provider:
-      name: The Lens
-      domain: thelensnola.org
-    quality: 45
-    images:
-      - url: "https://thelensnola.org/wp-content/uploads/2022/01/DSC_5979-2-scaled.jpg"
-        width: 2560
-        height: 1709
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/08/GettyImages-1161938833.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Facial Recognition Technology Down Under"
     excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
@@ -73,20 +100,52 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
-    excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
-    publishedDateTime: 2022-08-01T23:30:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-nypd-ordered-to-disclose-black-lives-matter-documents-20220801-6pohl3v5ebebrl2ac5fpuddr3m-story.html"
+  - title: "Marion County School Board considers implementing facial recognition software"
+    excerpt: "Marion County Schools could soon take advantage of facial recognition software. Monday night, the Marion County School Board heard a presentation from Rank One Computing, a Denver-based security company whose East Coast headquarters are located in the Mountain State."
+    publishedDateTime: 2022-08-02T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-board-considers-implementing-facial-recognition-software/article_a0ef622e-11e8-11ed-b944-c3cc38fbdb05.html"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 14
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 36
     images:
-      - url: "https://www.nydailynews.com/resizer/aHR-qw0387gLj8MJLtEW8HaLK6Q=/1200x630/filters:format(jpg):quality(70):focal(2267x1431:2277x1441)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NXIU3UMPVNG3BIEJ6BCVML74RQ.JPG"
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/0/15/015e72ce-11fa-11ed-bfb8-cb52f477853c/62e870905c531.image.jpg?crop=1476%2C775%2C0%2C314&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
+  - title: "Marion Co., West Virginia, BOE hears presentation on potential facial recognition software for schools"
+    excerpt: "The Marion County Board of Education heard a presentation Monday evening on \"ROC Watch,\" facial recognition software designed to help schools boost the safety and"
+    publishedDateTime: 2022-08-02T00:30:00Z
+    webUrl: "https://www.wvnews.com/fairmontnews/news/marion-co-west-virginia-boe-hears-presentation-on-potential-facial-recognition-software-for-schools/article_1c76d6e4-1193-11ed-aba5-bf0a1cb318e2.html"
+    type: article
+    provider:
+      name: wvnews
+      domain: wvnews.com
+    quality: 23
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/4/cf/4cf3da2e-11f2-11ed-9b79-3b8213e64408/62e862e0401fa.image.jpg?crop=1769%2C929%2C0%2C121&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mobile Speech Recognition Software Market Estimated to reach US$ 25.4 Billion by 2032"
+    excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
+    publishedDateTime: 2022-08-01T11:22:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/01/mobile-speech-recognition-software-market-estimated-to-reach-us-25-4-billion-by-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 12
+  - title: "Most adults with autism can recognise facial emotions almost as well as those without the condition"
+    excerpt: "Difficulties with social communication and interaction are considered core features of autism. There is a common perception autistic people are poor at recognizing others' emotions and have little insight into how effectively they do so."
+    publishedDateTime: 2022-08-03T12:50:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-adults-autism-recognise-facial-emotions.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 0
 
 secured: "DXv63+nz2vLVHjbDMe8Imy8tJIL7pIZ2pS1u0qVNREaXC8JV1G1vZysU/l/pWfp9w/+VuHNfiUlo09EinM4ZRHfw2U0UvRSrljpEMCzNZ4GX9CsI5+SswJAPRJQbQJTzhgPc0NGjt6berYHwTAq04ygv4dUjS2peS12fTlg+9eIcOsKEzvIqjac7fiRPPFONmbnz+w20ZGoEzHGNkdc0QzVs/mkMor5SiMRg8xuxjHZ7QqYJZLW0Nk4iiGeSu5GkXmnrtfDNERcKNAPOuESy4w/l83zU/yU/FEG2ao1oHy1k3oDyBMnSS5OIDfrAv6nIlp4/se3xvQ/b1sOqo5pRqEn9+jVryrVossfX2piqN1IwUNcyU3/94cbcBioiL4+36NlIBjwvXgVndXbIIFiQeXp+YvcatMRbsD/Oh5fgbt94Ve/FIEDe2C8PSQ1k7QyA3QRYhSpVLCRF9YhKX8lFvbLLKpr81Ey8kTr/i8v/eHcshBVJloDH3bfbrrylg3UENzl71nKT6hNUKyr8/ibRkg==;4qmuJ/QUnAumB64w1t3dHQ=="
 ---

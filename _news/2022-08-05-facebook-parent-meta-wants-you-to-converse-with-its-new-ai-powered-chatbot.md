@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
         width: 2300
         height: 1300
         isCached: true
+  - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
+    excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
+    publishedDateTime: 2022-08-05T15:03:00Z
+    webUrl: "https://siliconangle.com/2022/08/05/meta-ai-unveils-blenderbot-3-advanced-chatbot-gets-smarter-time-learning-previous-interactions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
+        width: 1063
+        height: 595
+        isCached: true
   - title: "Let's open Facebook's black box"
     excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
     publishedDateTime: 2022-08-02T21:00:00Z
@@ -91,7 +105,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
+    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
+    publishedDateTime: 2022-08-05T16:08:00Z
+    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 23
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
+        width: 1024
+        height: 504
+        isCached: true
 
-secured: "6igjCD+jfFSn8L4AzSsZYeFiSXsM3OLGTj6T8Egg7dLgNEGm9txZCd96waCyTT6AgJlfufDHjsX2JrCOsElEwcAiSEkpucd2GxkxCn0mLE5vR/HgOV1ZQ0Snnuqd4TpH653pKb02H3BH2QlaDTaWORUP9vZc1PDJMJrP7ql31i2uaD7mBRjOXWAT3LSkkzEJpx1X/NEsTUai5Esiibu0uzB+1Zx4du63W6/KZCds696Rd8iu0B6gxuQJOrTJA+K4ceP0SOy6+1A8tBRDBJMhxSLHESmxtpS/IXX3/iIdPmR2wMikmzOADSJxQo7AzF3dtPYpnsYfp4UP/wlcS3RSLIJAKheFjOJB4LImmL4jEFg=;HY91rYoTgyDY5Xb8g73a+Q=="
+secured: "Y0c1noZMV0V4R9XBeFTjEKUsoyJnXVD0XWcDpEkZo+eLmA+jNaJskMsWvfnX5TZg/0QDOdvFibbWZCtiMpg+30CyEiJ6jWD+sSZGUcSKZF/eqs+v8KttUL7FeitnJAt/8UdPAoavJBy16x/bAkpHTBAA1Cqc7QBlZGleC/caae+nOI+xN+OgY8RkkK9yB3SFkVCq1aptnIEMqkgZvzawz+qQi2sk+cDJsdexAcepb+GBx9A8wwZMWJ5tL7NjvdgJVYs0+4oEYQGXz7Rkc0j7vilYIQ0cFsBkwcKC5OJZtk7DK9VzkUtVUu9qClU2ZhYjiwH77No36d6/+GLfS6NELEKFo0K/SVulrBP0T7ZZdYXzt9Twl/CgFty6UQwgaNFkFL0dLS+Xj3TMtCfJmyph94QlyxrMHPa4B3RBIW6vQTVjRMm6LRZZepCpAyjWP8DccKfrMN/RUFyNW96oBVqvcWSQVScnlSa3kwof0w9uzmiXA5URPA49K2sHdCtXBrv0buDATpjWiPq+lUlFpYp4wA==;kiRL8ihkJNiYiRWraCRB2A=="
 ---
 

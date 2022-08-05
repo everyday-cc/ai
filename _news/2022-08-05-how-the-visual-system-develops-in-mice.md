@@ -53,6 +53,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "The eyes have it - New insight gained into how the visual system develops in mice"
+    excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future"
+    publishedDateTime: 2022-08-04T04:43:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223789"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 34
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
+        width: 286
+        height: 229
+        isCached: true
   - title: "Deepspatial says it will showcase AI platform for law enforcement at Bureau of Police Research and Development conference in India"
     excerpt: "Deepspatial Inc (CSE:DSAI) has said it is the only artificial intelligence company selected to demonstrate its platform for law enforcement at the Bureau of Police Research and Development (BPRD) conference in India."
     publishedDateTime: 2022-08-04T12:37:00Z

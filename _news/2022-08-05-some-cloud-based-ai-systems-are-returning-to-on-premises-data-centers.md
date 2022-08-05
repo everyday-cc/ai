@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-system
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "7 ways health systems are utilizing AI, machine learning to improve patient care"
+    excerpt: "Hospitals are using AI, data analytics and machine learning to improve health outcomes, produce predictive clinical insights and improve patient care. Here are seven artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Rochester,"
+    publishedDateTime: 2022-08-05T16:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 31
   - title: "4 health systems moving to the cloud"
     excerpt: "The following hospitals and health systems have moved their digital infrastructures to the cloud: Tufts Medicine selected Amazon Web Services as its preferred cloud provider. The health system moved its entire digital ecosystem,"
     publishedDateTime: 2022-08-04T21:20:00Z

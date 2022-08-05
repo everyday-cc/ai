@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "7 ways health systems are utilizing AI, machine learning to improve patient care"
+    excerpt: "Hospitals are using AI, data analytics and machine learning to improve health outcomes, produce predictive clinical insights and improve patient care. Here are seven artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Rochester,"
+    publishedDateTime: 2022-08-05T16:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 31
 
 secured: "0Pt1slTxDErLjXq6c86UI3b219KOz8KqzoI8OQohSrw2xdMYMTftfGhSYuGofnaNJW9G6Jd9BoWrXmeBo7+k+QPcawc4wtiO1MiyucnBh6qSCMeSBM60GYizOH8jUOHXAcMo0HPNWBDfWvAOKxnPKarTf7Ehwlc/vMD2BDF2/Be45cQ0vRuCUxn5g6/jSEyKjF7bLK7yEG++Deus27y5bnyvwWwe7fZ7DXdI8nXf2Ua7nndWfOp9xNOVawK/DBBKeTGiWeLewEKSbaiCUTKg/8FQm6sa2obPFBV1ffY58aL6KJ5WJNaigWcFYUDS0/RjQCxSJN2qAVhAN6mZ9Fcnf59yhMJQooe1aPV+8ZvIJBY=;MnYTMiOmKaefbeJqa3OBqA=="
 ---

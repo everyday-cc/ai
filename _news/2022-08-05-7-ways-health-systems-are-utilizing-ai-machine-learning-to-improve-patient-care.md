@@ -1,0 +1,56 @@
+---
+category: news
+title: "7 ways health systems are utilizing AI, machine learning to improve patient care"
+excerpt: "Hospitals are using AI, data analytics and machine learning to improve health outcomes, produce predictive clinical insights and improve patient care. Here are seven artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Rochester,"
+publishedDateTime: 2022-08-05T16:28:00Z
+originalUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
+webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
+
+topics:
+  - AI in Healthcare
+  - AI
+  - Machine Learning
+
+related:
+  - title: "Some cloud-based AI systems are returning to on-premises data centers"
+    excerpt: "AI/ML model training and knowledge-based storage and processing are more costly on a cloud than many thought, and prices for compute and storage equipment have fallen."
+    publishedDateTime: 2022-08-05T10:03:00Z
+    webUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2017/10/cloud_computing_by_rawpixel_cc0_via_pexels_3x2-100740699-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "4 health systems moving to the cloud"
+    excerpt: "The following hospitals and health systems have moved their digital infrastructures to the cloud: Tufts Medicine selected Amazon Web Services as its preferred cloud provider. The health system moved its entire digital ecosystem,"
+    publishedDateTime: 2022-08-04T21:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/4-health-systems-moving-to-the-cloud.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 24
+    images:
+      - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
+        width: 2640
+        height: 1080
+        isCached: true
+
+secured: "0p/aOLVYmTUwswA7yRAiTKT38zdyPu7LrQFvL74qepRJKdXxRWeRGr82Ig+XxLw0ZjSs/PvFkBma10OhWgHMGHw4YtaNH5d//aKcXk6FFn7vX/lDq3RH5nv2uySR4IHfC6fDy79czJZna7cQs9n5HhjfaWpPMRZ73+Aph0wglXvtkbmdr9ebC25ReBWunL58zRL/v7GtFjBN5x1fJwRvTHLIHVFt0BnSgS3pm+yj5b3Tn13fGWQpfGSRzMlSUh+ozxFIkpjQ/3fWg+WmtAieuy9xHg5GzYDE2E0eH+Ycb+AAcTHBLtxww0u9k04pS+axn/kwNb7/DPJn0FDOHZeP+DPTOKeN96+QbOIHeUJXi80=;/QpGwA1fb+xjfO/6Lb6TcA=="
+---
+

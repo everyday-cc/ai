@@ -19,50 +19,132 @@ topics:
   - AI
 
 related:
-  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
-    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
-    publishedDateTime: 2022-08-03T07:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+  - title: "First, they banned facial recognition. Now they're not so sure"
+    excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
+    publishedDateTime: 2022-08-05T12:20:00Z
+    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
+    excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
+    publishedDateTime: 2022-08-05T17:30:00Z
+    webUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952"
+    ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
+  - title: "NYPD Ordered to Share Documents Related to Facial Recognition"
+    excerpt: "The New York Police Department must disclose thousands of documents and emails revealing facial recognition surveillance of Black Lives Matter protesters in 2020, a judge has ruled recently."
+    publishedDateTime: 2022-08-02T16:30:00Z
+    webUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
+    excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
+    publishedDateTime: 2022-08-05T17:34:00Z
+    webUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "City Council: NOPD must have court warrant prior to using facial recognition software"
+    excerpt: "City leaders are putting some checks in place on the New Orleans Police Department’s use of facial recognition technology."
+    publishedDateTime: 2022-08-05T03:59:00Z
+    webUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/"
+    ampWebUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 52
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/08/GettyImages-1161938833.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Facial Recognition Technology Down Under"
+    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
+    publishedDateTime: 2022-08-02T05:55:00Z
+    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 41
+    images:
+      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Marion County School Board considers implementing facial recognition software"
+    excerpt: "Marion County Schools could soon take advantage of facial recognition software. Monday night, the Marion County School Board heard a presentation from Rank One Computing, a Denver-based security company whose East Coast headquarters are located in the Mountain State."
+    publishedDateTime: 2022-08-02T04:00:00Z
+    webUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-board-considers-implementing-facial-recognition-software/article_a0ef622e-11e8-11ed-b944-c3cc38fbdb05.html"
+    type: article
+    provider:
+      name: Times West Virginia
+      domain: timeswv.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/0/15/015e72ce-11fa-11ed-bfb8-cb52f477853c/62e870905c531.image.jpg?crop=1476%2C775%2C0%2C314&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cardiovascular Devices Market Size Share Demand Growth Opportunities Insights | DataM Intelligence"
-    excerpt: "DataM Intelligence\"The Europe market is anticipated to generate the second-largest revenue of USD million by the end of 2030. The market is further segmented by country into the"
-    publishedDateTime: 2022-08-01T22:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28302116/cardiovascular-devices-market-size-share-demand-growth-opportunities-insights-datam-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28302116"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28302116"
+  - title: "Marion Co., West Virginia, BOE hears presentation on potential facial recognition software for schools"
+    excerpt: "The Marion County Board of Education heard a presentation Monday evening on \"ROC Watch,\" facial recognition software designed to help schools boost the safety and"
+    publishedDateTime: 2022-08-02T00:30:00Z
+    webUrl: "https://www.wvnews.com/fairmontnews/news/marion-co-west-virginia-boe-hears-presentation-on-potential-facial-recognition-software-for-schools/article_1c76d6e4-1193-11ed-aba5-bf0a1cb318e2.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
+      name: wvnews
+      domain: wvnews.com
+    quality: 23
     images:
-      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
+      - url: "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/assets/v3/editorial/4/cf/4cf3da2e-11f2-11ed-9b79-3b8213e64408/62e862e0401fa.image.jpg?crop=1769%2C929%2C0%2C121&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence In Sports Market Growth Factors Along With Recent Trends & Demand 2030"
-    excerpt: "Artificial Intelligence in Sports Industry Increase in demand for real-time data analytics positively impacts the growth of the artificia"
-    publishedDateTime: 2022-08-04T08:20:00Z
-    webUrl: "https://menafn.com/1104643050/Artificial-Intelligence-In-Sports-Market-Growth-Factors-Along-With-Recent-Trends-Demand-2030"
+  - title: "Most adults with autism can recognise facial emotions almost as well as those without the condition"
+    excerpt: "Difficulties with social communication and interaction are considered core features of autism. There is a common perception autistic people are poor at recognizing others' emotions and have little insight into how effectively they do so."
+    publishedDateTime: 2022-08-03T12:50:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-adults-autism-recognise-facial-emotions.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/04/EP_4e0a9image_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 0
 
 secured: "fumEhS2ic0bqCKeoRgRqjkUrIlo75hqHsDmg9WqSJPpU9cbZ7SL9E9nIXiVSqHlPiBs+Yxz/E6JSUi6xPNK7m6kgF/X2lI+sZIFQx2cEYT3RVWY/VmoGXHIkAz2HWpOcQCOncAp1CgmA5Ud6oeNhCwnp8eF8cWuxNT5oRKZyqlLG3AadjE7jKMLOqrANGmnPs+RKOGUQEePdiJA96taWksnCtIznhl08K0f5TVkVfZTUQ/6Ob9Z6InyzX5Tz1uZGM7ReLXOYy9bhvn9iv891al64Z55un+8FxwWZJ+6MTJ+Ar6bu/1vm8svkHMuanJigtnNYpw1iFxfGPrnSUS44+BO1Dbm7pmwQydXNYvpC5/s=;Aqw4nHF4qgIuy5u/NI2etw=="
 ---

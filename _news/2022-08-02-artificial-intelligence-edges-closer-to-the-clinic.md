@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-edges
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-edges-closer-clinic.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1600
     height: 1200
     isCached: true
-
-related:
-  - title: "Artificial intelligence edges closer to the clinic"
-    excerpt: "TransMED analyzes patient data from similar diseases across multiple sources to understand COVID-19 patient outcome risk factors."
-    publishedDateTime: 2022-08-01T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/960542"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b1314ed8-4326-4f0b-a1c9-831bb67186ed/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "7ulIuK5els5w5WbQwA8fHi60LdDQeNNMqD4kFzBNpnjsGUlfurWwbSw4yX6/fLHkyRGvY23CnCIhTxKZ8zpgo8LZeeeRG8KzFAVo+6kepU/PFQotfpIViM+XoAthmAW8b/Kuw5F/xI474Tyrh5jGCe5by4H29XdXUupKOVf/mwG7lo4QujQdhDGtxpKQ/NpS6pTFANxLjYBAkzyXZBOurg0zHxsk0AT+6vsSW0Wp70WcgOygbfFdm7IgxsBmMdRH9cg8TQU4qdKpEm5/bBtiR9pMk6fLmNZuTLDsGaksUEFyZsYlpda2UbLs7QD9rvuXVIR37bKH64jP7soZTps8soUFxWdHj82e+bqoOs7FaZhtvwWCLcMOGiUUjqE1+s1FGoAkyxfdG+c+uaJbXRRToM2fAe+iot8zDskpxjczfAYm1fH/CFXPL8bzC/1Yl2z5B93lvOB3ceSIVrCDRgKaoiD+TAElXjfVEe6tvgn5L5CvvUxy1RBdy7ymg0YPPLkr+WglMfKxIPX0nbLQPthftg==;zAtAODDreRZ0lHs/DMU11g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thelensnola.org/2022/08/03/council-to-consider-ordinances-re
 cdnAmpWebUrl: "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2022/08/03/council-to-consider-ordinances-requiring-greater-transparency-on-facial-recognition-police-operations/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -28,66 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "NYPD Ordered to Share Documents Related to Facial Recognition"
-    excerpt: "The New York Police Department must disclose thousands of documents and emails revealing facial recognition surveillance of Black Lives Matter protesters in 2020, a judge has ruled recently."
-    publishedDateTime: 2022-08-02T16:30:00Z
-    webUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
+  - title: "W.Va. school district considers implementing facial recognition"
+    excerpt: "Program would check faces against databases made by Marion County Schools to ensure individuals approaching campus are expected or known"
+    publishedDateTime: 2022-08-03T21:15:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21276282/wva-school-district-considers-implementing-facial-recognition"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "NYPD ordered to release documents on facial recognition use during 2020 BLM protests"
-    excerpt: "A judge ruled that the NYPD must disclose documents detailing its use of facial recognition during the BLM protests in 2020."
-    publishedDateTime: 2022-08-02T21:49:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-tactics-blm-protests/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-    images:
-      - url: "https://uploads.dailydot.com/2022/08/nypd_facial_recognition.jpg?auto=compress&fm=pjpg"
-        width: 1902
-        height: 950
-        isCached: true
-  - title: "Facial Recognition Technology Down Under"
-    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
-    publishedDateTime: 2022-08-02T05:55:00Z
-    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 41
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "NYPD ordered to disclose thousands of docs related to facial recognition surveillance during Black Lives Matter protests"
-    excerpt: "The case, brought by Amnesty International, confronted the NYPD’s denial of a Freedom of Information Law request for 2,700 documents pertaining to its monitoring of protestors across the city."
-    publishedDateTime: 2022-08-01T23:30:00Z
-    webUrl: "https://www.nydailynews.com/new-york/ny-nypd-ordered-to-disclose-black-lives-matter-documents-20220801-6pohl3v5ebebrl2ac5fpuddr3m-story.html"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 14
-    images:
-      - url: "https://www.nydailynews.com/resizer/aHR-qw0387gLj8MJLtEW8HaLK6Q=/1200x630/filters:format(jpg):quality(70):focal(2267x1431:2277x1441)/cloudfront-us-east-1.images.arcpublishing.com/tronc/NXIU3UMPVNG3BIEJ6BCVML74RQ.JPG"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/08/bigstock_Face_Recognition_Technology_Co_354149738.62eadfe55500b.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true
+  - title: "Only transparency can save Indigenous recognition"
+    excerpt: "While Australians want appropriate constitutional recognition of Indigenous Australians, they will not give politicians a blank cheque. Nor should they."
+    publishedDateTime: 2022-08-02T17:30:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/only-transparency-can-save-indigenous-recognition-20220727-p5b549.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 4
 
 secured: "yvylhz6aMi3eDgeSH+drwykpfZJYqrRDG0i3PvAtwasbjq3gC84ZOt5J4XmMNO0wRNG43wa0MvHQ+yAKrWKhp0we5ZAtoLYlOTcOZ55y8XfEngn9wzvdCXL9E1y0EgsfftRc+D66wR/EuvvSg/b5m5jIE/KVeO1GNg7Acot/Po7S8k69B6JFyYP4HON/qAN0moTXvX8qCh+5U8b8ZvYgF6/c0mFzss05YyQocZyNb37nvw2bTKUWGnHWv8cI6Q3hUPQdEG0cfEW3TRavux8FTuCKDzBqvsBVLR6pZlquup/tm+E+TG8rVIiVK/L9TA1cI8KdA5Msl2Ei/SJUyzHM+ZNICE/nIwtPwsIaLyVguVX7+1ibI27rQm2CtmMdLmo2ejUToSTS0r/yDzMXoAHzSJaKxIfEHzw+UeweF1hrVyRvgf1Rys4TwZ4EN3ih6sdhb7FuJ9Dl/4Al+IG7QrmgtCyBwsA4Qd93W2let0EsvG4Xfu1TzmgsJj+PACUtDX2i8tjdkXji3QkGs+WKz2DWZg==;ftQ5DUIxHPCF48KCSwvTJA=="
 ---

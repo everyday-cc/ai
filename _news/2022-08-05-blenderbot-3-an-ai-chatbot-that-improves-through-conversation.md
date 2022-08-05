@@ -72,6 +72,20 @@ related:
         width: 2300
         height: 1300
         isCached: true
+  - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
+    excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
+    publishedDateTime: 2022-08-05T15:03:00Z
+    webUrl: "https://siliconangle.com/2022/08/05/meta-ai-unveils-blenderbot-3-advanced-chatbot-gets-smarter-time-learning-previous-interactions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
+        width: 1063
+        height: 595
+        isCached: true
   - title: "Let's open Facebook's black box"
     excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
     publishedDateTime: 2022-08-02T21:00:00Z
@@ -86,7 +100,21 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
+    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
+    publishedDateTime: 2022-08-05T16:08:00Z
+    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 23
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
+        width: 1024
+        height: 504
+        isCached: true
 
-secured: "Bk2FK6tKGDbZZ5c+ZgtKzVGZuHQeBcXWczjbc+Xlwo6iREvCiLHxGQ/XwIJm1o4x0SRSAKCQ9Y/xb42Mu7TcUf3QvAyWdt2cCIfKFfaMd1ThGOAVEuIcBqIquFoHcKY1mL7NgcoYggt6PpccM9Ua0aJ8pzGnFKpXBOkrIGiXNtr+7TjNvHO0cujSmQTnUQQOc+Ugsiul6TKV+f0sQ2VDwbKXNIOZRA+99fO+R2VmFN2fEMJ8jiOrKtv0bAsnf7VLRNiM2HSrk76SCZs3YBPOXIRLWe/guVx/2Q6i5Sy31qWhn56pS+qh6H8zqsVnQNc3TW/+83ABOkF7kI09K2wN6FJeUv/pvFNbwmYPhrU9A6M=;rIpd7S5YmnAokD+wRaEBwQ=="
+secured: "Cb/2OcPhkc0Z9XqDxRGp8S7Yr0Gl/enoAZidPZ3cgscHhfQvJv6BGZSLrcsN/UPewO7Gxt2O6ytTW7WBj0holdOOPo7xVIe0RW73ledhXdoDUX2dyalK7XCYC0x7LemdV/JtpZODzn2f0M2Kt0uPHxJikcQz78VMUwCuv5BEgsvgrJyB+x6TrIWrA1vXgBTI1tw2v/qksdq2FyzVeXLoTXTCzm76i/EygJByPpVuqLHvCxDzoP+qnwfs6iYTId6e+5AoJjO0Fh8FQcynakvq7VoFl2xAia+uJJjx9cYPFGGqsJbPo1VE4psGdDHQ4ZJfzZZfBu3R09zzn146juG0SPfF7iLYJzY2K9ftNcequmARcBByqc0TnPSwEaRqc+ePfEb3ry49uJ9Hyxf8yzw/5XFYzIR9t6w7uYtRe1MJFneBsMva9uDbRnjgOQQ3quJhVwc3QXe71AVaNSSHIxv+oW6hjZohEbYcryt7fgFVmj9HBPfEjrTDjf51ERcnsVparrGNc1SyeKKN683wHaMDRw==;U4k0vD7Mah1C7cw2Ud22cQ=="
 ---
 

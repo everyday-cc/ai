@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
+    excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
+    publishedDateTime: 2022-08-05T15:03:00Z
+    webUrl: "https://siliconangle.com/2022/08/05/meta-ai-unveils-blenderbot-3-advanced-chatbot-gets-smarter-time-learning-previous-interactions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
+        width: 1063
+        height: 595
+        isCached: true
   - title: "Let's open Facebook's black box"
     excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
     publishedDateTime: 2022-08-02T21:00:00Z
@@ -85,6 +99,20 @@ related:
       - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
         width: 620
         height: 413
+        isCached: true
+  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
+    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
+    publishedDateTime: 2022-08-05T16:08:00Z
+    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 23
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
+        width: 1024
+        height: 504
         isCached: true
 
 secured: "ldmHwSsZiNOC/Um5E+EIBFcQEP7k/y/NId7WPRqk5l3kI1ZpmA0mSNYTvy+Tl1JAXmEibYH1TKPGoA1tIWDAIwca/PnWrEoRHrQFDoZJW4y0o1PwUNvDMsIh3fTOQbLzfHMMAsTYy1IZg4KahZHBbvd6/C4QVmZrek6M/dt1U89rPTJUFSMaNVnL1CKKdJ0WvLPn8m0cTfNv8TMGvPZjnprELhsTyH6NgnFJdKlbIsXxO88wEMy3RkqB0AR7zwxrs/IHTGwPis7IPH72qUAmsUPuBRkvAK+ol2qfpWiInemO/Mnq/cywrfG2AJmiNXDv0S4+WBxxPN0exDgqeejHTCoPo3Vj9B3iSJM1LgGfVFs=;H7ZBUuWVLdU5h7CLVz4GNA=="

@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-05T14:40:00Z
 originalUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
 webUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
 type: article
-quality: 7
+quality: 9
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "How Today’s More Agile Financial Services Sector Is Helping Employers Maintain a Competitive Edge"

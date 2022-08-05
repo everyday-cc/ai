@@ -69,20 +69,6 @@ related:
         width: 770
         height: 364
         isCached: true
-  - title: "AI in Computer Vision Market Report Covers Future Trends with Research 2022-2030 | NVIDIA, Intel Corp., Microsoft Corp., IBM Corp., Qualcomm, AWS"
-    excerpt: "AI in Computer Vision market report provides a detailed study of global market scope, regional and country-level market size, segmentation, growth, share, competitive Landscape, sales analysis ..."
-    publishedDateTime: 2022-08-01T00:01:00Z
-    webUrl: "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-report-covers-future-trends-with-research-2022-2030-nvidia-intel-corp-microsoft-corp-ibm-corp-qualcomm-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 51
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Pelosi-Taiwan-China-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
     excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
     publishedDateTime: 2022-08-04T18:39:00Z

@@ -28,16 +28,14 @@ images:
 
 related:
   - title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
-    excerpt: "\"We are very fortunate to have secured the support of Vektor Partners on our mission to leverage computer vision and artificial intelligence for the benefit and long term success of micromobility ..."
-    publishedDateTime: 2022-08-02T04:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28303358/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-com"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28303358"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28303358"
+    excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety and regulatory compliance while also ..."
+    publishedDateTime: 2022-08-02T04:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56699185-drover-ai-secures-dollar-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-008.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 25
     images:
       - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg"
         width: 400
