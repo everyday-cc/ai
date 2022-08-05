@@ -25,47 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "ACCA Thinks – Episode Five: Fintech – The State of Play for Finance Professionals"
-    excerpt: "In this episode, host Lloyd Powell, Head of ACCA Cymru, talks to Narayanan Vaidyanathan, Head of Business Insights in ACCA’s Professional Insights Team"
-    publishedDateTime: 2022-08-02T04:47:00Z
-    webUrl: "https://businessnewswales.com/acca-thinks-episode-five-fintech-the-state-of-play-for-finance-professionals/"
+  - title: "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring"
+    excerpt: "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR"
+    publishedDateTime: 2022-08-02T14:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02"
     type: article
     provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://businessnewswales.com/wp-content/uploads/Ep-5-Narayanan.jpg"
-        width: 600
-        height: 360
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fintech is Set to Take on the ESG Challenge"
-    excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
-    publishedDateTime: 2022-08-03T12:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
-  - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
-    excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
-    publishedDateTime: 2022-08-01T13:22:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fintech-stocks-getting-hammered-amid-economic-weakness-1054744/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 4
-  - title: "The Next Fintech Movement Coming to America"
-    excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
-    publishedDateTime: 2022-08-01T18:33:00Z
-    webUrl: "https://www.thinkadvisor.com/2022/08/01/the-next-fintech-movement-coming-to-america/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 4
 
 secured: "+JxZIZTLvAsIZpttiIMip7+9au9uErFGjRKVm4qsz93C5TAS7GLi85Fwt2XtvEGwVY58lVFqeYAZ4xORiaHzjI/9AgTlVd3h4eQMWEue33VwKLmBlkgooKtu4h6LRQnyN/dYPEoI6qGeMutj69eVylH0usDhit6g4Gd5oDfJDL5lF+KCYU3HgaEqNRC883q9iNhtZuPywD2FJYpkbnVPDxi4SvcktVpSsMAoRzJ6aM0KKE9dYf9IKiJ/oe+xHy9B1RjDTIcHs/w1QWhvY6LaGuE+5pbgXIAqTlSi0z8uCoNJQx4ZjhCJ2jSyPwTohtJimwi/W2yj1PrOtqsCQ7KoDlAN8VpXpjIuNaJ3YPhgdyQ=;KTE8szVs6UGhRXuP9CE9bA=="
 ---

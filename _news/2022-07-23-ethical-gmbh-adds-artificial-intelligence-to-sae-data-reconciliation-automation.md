@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation"
-excerpt: "Ethical GmbH releases a new version of eReconciliation® that uses artificial intelligence (AI) to improve the performance of the software automation engine. This third version of eReconciliation® continues to optimize time spent on SAE data reconciliation and reduce the risk of errors and omissions,"
-publishedDateTime: 2022-07-23T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-7-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation"
+excerpt: "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs."
+publishedDateTime: 2022-07-23T14:09:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7"
+webUrl: "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Autos
   - AI
   - AI Ethics
 
-secured: "iGzhWDSihRnvT/xNTlXswm1forVizg3mRjkmZdJk+62py06Cay4RMIdeNQsmRWD6Hg6lALL1KeOZ57AoPXQArsC+rGoEgQdSvclqOU707foRh2bwiRSV2SkhyT26HJamA/DVJ1gw9c9T++6xrdUzN9TMuX3r9rQ9nGzjjSU5qlchYRQg6Jfh/nzngUD2vhsat5FniZsfCieWqBSjxDmcefAqLkJ6/iTUwQXisDC3JkB6CkiXx1NEEy6w8hBbknQ/0xGP3a0hCbOQr+FMqggGE2A+L5XeOE9psSuFtqJcauknEmt16qysPgNqSTVJpy099PqEESBe8n4qM2Hj+Fwzzy4imaycy+nGAY/2/9cv+BJg2jkrEDmR5sA6JwsrSrCvRqroADlGNvIkCH2T3ukcQiEKM5I1cujSwySNYrASMxcThKCGNYh9/Tfo58f/kqumBp67MH0lpfxNzzhFI/2mdBqy7Rd2IKnDDZVVNLFeDZj2cO5Ai0sXkAGBqHZA7AU5OUhCtc8gjr5MvHM7dbJIDg==;qOUVdqF2FKltaOO+Ssmyyg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "p/YKfSAWGrzigaCvmLhJjeqrZ6oVd+EeX8dCY42KkiclKjBUzXNUsh1rkBxXfTrZtTV3qhC/pMH05CN5YcUMgj653ma6xRzV4PFi8uwJu3UK1opWBJLS4jgaiKGRE2bGbi30MN/GKJAVL12Zlp/ZTIIQ8OAb2UvmgfbnZpr2nJtZDNzl51ImPt0sa6tVuBudffynT4alM1CTZuLjZZS36z28j61Ou4NKrQ2mLj/zo+3h5cdKe1XvpLYBXmC3cNaOd67ZDhKsL9NKw8aSvxVAenqtgz4OEspxaKxdlJMBZ+hxzrMmTsMcyjthXzJs7gWo3PZCyaZ2FY1WwgAMNUUdy+14IeR+5zj+8c0PIpaTzqU=;jJr53PxCXgXHSeRLMe4nNA=="
 ---
 

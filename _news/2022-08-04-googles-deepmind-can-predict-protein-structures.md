@@ -2,9 +2,9 @@
 category: news
 title: "Google’s DeepMind Can Predict Protein Structures"
 excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence"
-publishedDateTime: 2022-08-04T08:46:00Z
-originalUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
-webUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
+publishedDateTime: 2022-08-04T07:06:00Z
+originalUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
+webUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 659
     isCached: true
 
-secured: "tbCrO+wV+Ny2th8u5N/7I2CRXUfOfe7vU2HF8Dii4MjZQtRNMEkUja+zEkJ6LB8r4nIiu9KiSPPhqNqaaMEk8p7TLJZl+ZMOXEGmGAlzzVWv7LLs3a59hP7J8yX/IGmUATFwcJMVxbZ41EcFGAm10kLvE9CpMzMA2Z5+uIQLAo/xkU/vPJpQ/f2Pwgl8UtKM8XC4AGJbwUyWb7yjidiDGmxrm2D1leHq7PdsAdGvu/MBWAxnslD9ZPXFxIJ9xd5GV0+Xw1NgWe9cCwXG+dxU0FfJGM3ShnfFrta+sL4ijlg9v3DiQAPEM5xQeBcgvp6vRotFk83lrKNkbif4BQIMGOfV4Zl+LefucRbu86zvIN8F709SEY5KpYANgIAMvFefgtT0GWFA/LxW1RPFu5QVHHVMsYS62eMICEr+2nMrMf1Ru5Ebsx0QNdiidObLkjoaN/L878xErtpMg1Aaeet6rAV64cspc2aDAmzFus8MY17FkryD9XmlVEIOJru0qZKj8KF8GCYNRh2wG1JuHHIjHA==;EGpdRlmWUSwumcUQEBtrHQ=="
+secured: "3oEIemOPERc5QaOMdo+toWKaPDhe9TxWGw7/rT/8S0iPQrxu2fHCfzwwUL+ZTLFFfDTrxOlD0J6faO/YuFH5ackJT0mwxFEzJ92cAeBWyipq7noSzGv+Sn2UqLK5A0BD3ktT2N7YVxm2TXIQyIGxuu+bGjnUgyOEDp5iOqdALYB+fWNwpIsu2nmkQVdXbO15GWpF+iCOZg2y1jXIMM0LE1yP5ud3OUSRFezYnL2VsL1UiK2GbzITxTd0q9X4ZDc77GdIBsfm/YI/ffvUU/LaOXvZUwM4JRR10iC1P1aWyYmrwvTTKDxsI7XhC2Bc1BGU69AEezmKN1FZyIHYcZ+zmq8iYq29L53J9/Dh9IjrUtY=;DLM+SBxD3JF4ckkhnDicWA=="
 ---
 

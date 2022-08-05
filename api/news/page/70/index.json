@@ -2,6 +2,186 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-06-08-datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation.md",
+      "title": "Datarobot updates AI cloud platform with enhanced bias mitigation",
+      "excerpt": "DataRobot today updated its AI Cloud platform with enhanced bias mitigation, code experimentation and MLOps capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/",
+      "originalUrl": "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cc9cf1dd-062b-48eb-9b71-9332024facbf-e1654611675352.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/datarobot-updates-ai-cloud-platform-with-enhanced-bias-mitigation/amp/",
+      "publishedDateTime": "2022-06-07T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto.md",
+      "title": "This AI attorney says companies need a chief AI officer — pronto",
+      "excerpt": "As the use of artificial intelligence proliferates across the enterprise, the importance of appointing a chief AI officer is clearer than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/",
+      "originalUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1344913071.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/this-ai-attorney-says-companies-need-a-chief-ai-officer-pronto/amp/",
+      "publishedDateTime": "2022-06-07T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022.md",
+      "title": "Sharp NEC Display Solutions Debuts NaViSense Computer Vision at InfoComm 2022",
+      "excerpt": "NaViSense is launching a cost-effective computer vision solution for gathering anonymous customer attributes using off-the-shelf or existing camera sources and processing them through a variety of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_029fb2b6-0cea-5211-b35b-5268b3a73763.html",
+      "originalUrl": "https://www.eagletribune.com/region/sharp-nec-display-solutions-debuts-navisense-computer-vision-at-infocomm-2022/article_029fb2b6-0cea-5211-b35b-5268b3a73763.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/2d/62d2bb23-7e35-5e95-8f1a-7103a5c7f257/629fba635c2c4.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-video-sleep-depression-age-can-predict-future-cognitive-impairment.md",
+      "title": "VIDEO: Sleep, depression, age can predict future cognitive impairment",
+      "excerpt": "Keil S, et al. Longitudinal sleep instability contributes to cognitive decline and Alzheimer’s pathology: findings from the Seattle Longitudinal Study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "originalUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up.md",
       "title": "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up",
       "excerpt": "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks.",
@@ -951,188 +1131,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-the-best-robotic-lawn-mowers-for-2022.md",
-      "title": "The best robotic lawn mowers for 2022",
-      "excerpt": "You can control this lawn care device through your ... it's an excellent mower for small projects. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads//2021/02/81avkxoa8rl-_ac_sl1500_.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
-      "publishedDateTime": "2022-06-07T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-expertai-brings-additional-powerful-natural-language-capabilities-to-qlik.md",
-      "title": "Expert.ai Brings Additional Powerful Natural Language Capabilities to Qlik",
-      "excerpt": "Technology partnership with expert.ai extends Qlik's analytics and existing artificial intelligence, natural language processing capabilities Organizations can easily add information extracted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/expert-ai-brings-additional-powerful-natural-language-capabilities-to-qlik/article_9c24627f-7565-5a02-a92d-46dadfb16cb7.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/expert-ai-brings-additional-powerful-natural-language-capabilities-to-qlik/article_9c24627f-7565-5a02-a92d-46dadfb16cb7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a0/ca070ed3-e27c-5afc-9ec9-443b4c7fedbe/605225774b161.image.jpg?crop=1042%2C547%2C229%2C0&resize=1042%2C547&order=crop%2Cresize",
-          "width": 1042,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the-year.md",
-      "title": "Open Systems Recognized as a Microsoft Security Excellence Awards Winner for Security MSSP of The Year",
-      "excerpt": "Open Systems, the only cybersecurity services provider with Mission Control, today announced it has won the Security MSSP of the Year award at the Microsoft Security Excellence Awards 2022. The company’s achievements have helped it rise to the top of the Microsoft Intelligent Security Association (MISA) – an ecosystem of independent software vendors and services that have integrated their security products and services with Microsoft’s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/open-systems-recognized-as-a-microsoft-security-excellence-awards-winner-for-security-mssp-of-the/article_c3ec7f11-315b-5d50-924f-4223057486ec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience.md",
-      "title": "Bengaluru Airport Introduces AI Robots For Enhanced Passenger Experience",
-      "excerpt": "Currently at the trial stage, these 10 robots have been deployed at the airport to help guide passengers and answer basic queries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "originalUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2022/05/bengaluru-airport.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/karnataka/bengaluru-airport-introduces-ai-robots-for-enhanced-passenger-experience-5439508/amp/",
-      "publishedDateTime": "2022-06-07T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

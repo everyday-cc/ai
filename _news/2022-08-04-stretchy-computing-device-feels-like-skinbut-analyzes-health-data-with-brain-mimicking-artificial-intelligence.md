@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/stretchy-computing-dev.jpg"
         width: 1200

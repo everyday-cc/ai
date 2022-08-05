@@ -34,20 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "Synctera Debuts Operational Compliance Support for FinTech Builders"
-    excerpt: "With Ground Control, qualifying FinTech builders can elect to have key compliance tasks managed by Synctera, including ones related to Know Your Customer (KYC), Bank Secrecy Act (BSA) and anti-money laundering (AML) regulations,"
-    publishedDateTime: 2022-08-02T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-8097813553b64ced9c740a9fd983e801"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
     excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
     publishedDateTime: 2022-08-01T13:22:00Z

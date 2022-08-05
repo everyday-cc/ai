@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-03-delivery-robotics-startup-ottonomyio-raises-33-million-in-seed-funding.md",
+      "title": "Delivery robotics startup Ottonomy.IO raises $3.3 million in seed funding",
+      "excerpt": "York based company produces autonomous robots for contactless delivery for services such as transportation, logistics, supply chain, and storage",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/",
+      "originalUrl": "https://analyticsindiamag.com/delivery-robotics-startup-ottonomy-io-raises-3-3-million-in-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Untitled-design-6-1300x650.png",
+          "width": 1300,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-subex-hypersense-ai-to-augment-jio-platforms-5g-product-line.md",
+      "title": "Subex HyperSense AI to Augment Jio Platforms' 5G Product Line",
+      "excerpt": "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms Limited (JPL) a",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110",
+      "originalUrl": "https://www.albawaba.com/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/shutterstock_1794503293.jpg?itok=BvMdg2w3",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110",
+      "publishedDateTime": "2022-08-03T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-review-snowflake-aces-python-machine-learning.md",
+      "title": "Review: Snowflake aces Python machine learning",
+      "excerpt": "Snowpark for Python gives data scientists a nice way to do DataFrame-style programming against the Snowflake data warehouse, including the ability to set up full-blown machine learning pipelines to run on a recurrent schedule.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-494707502-100632557-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-myanmars-junta-using-chinese-face-recognition-tech-to-eliminate-opponents.md",
       "title": "Myanmar's junta using Chinese face recognition tech to eliminate opponents",
       "excerpt": "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar.",
@@ -383,7 +521,7 @@
       "originalUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1046,153 +1184,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers.md",
-      "title": "MGC Pharma takes 40pc stake in ZAM, an AI healthcare platform ‘ahead of market peers’",
-      "excerpt": "MGC Pharma believes tech platform ZAM, in which it now has a stake, is a game-changer and has the possibility of personalising medication - not just with cannabis-based drugs, but with all pharmaceutical drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "originalUrl": "https://www.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsapi.com.au/image/v1/7959ea2120a57eaa321b53394d728d58",
-          "width": 1280,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e",
-      "publishedDateTime": "2022-08-01T16:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-how-rangers-are-using-ai-to-help-protect-indias-tigers.md",
-      "title": "How rangers are using AI to help protect India's tigers",
-      "excerpt": "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
-      "originalUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F506/production/_126062726_gettyimages-967577270.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-61824904.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp",
-      "publishedDateTime": "2022-08-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-automation-tech-company-uipath-acquires-ai-startup-reinfer.md",
-      "title": "Automation Tech Company UiPath Acquires AI Startup Re:infer",
-      "excerpt": "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "originalUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-595225/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "publishedDateTime": "2022-08-01T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

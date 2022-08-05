@@ -2,6 +2,215 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-05-11-understanding-the-world-through-language.md",
+      "title": "Understanding the world through language",
+      "excerpt": "Language is at the heart of how people communicate with each other. It’s also proving to be powerful in advancing AI and building helpful experiences for people worldwide.From the beginning, we set out to connect words in your search to words on a page so we could make the web’s information more accessible",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
+      "originalUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_hero1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/understanding-the-world-through-language/amp/",
+      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-these-ai-powered-robot-overlords-are-here-to-keep-your-warehouse-workers-safer.md",
+      "title": "These AI-powered robot overlords are here to keep your warehouse workers safe(r)",
+      "excerpt": "Voxel raised $3 million to make warehouses safer through AI-powered security cameras. It just raised $15M more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
+      "originalUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Voxel-Team.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/voxel-series-a/amp/",
+      "publishedDateTime": "2022-05-11T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-immersive-view-now-in-maps-plus-more-updates.md",
+      "title": "Immersive view now in Maps — plus more updates",
+      "excerpt": "Google Maps helps over one billion people navigate and explore. And over the past few years, our investments in AI have supercharged the ability to bring you the most helpful information about the real world, including when a business is open and how crowded your bus is. Today at Google I/O, we announced",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
+      "originalUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_-_I_O_Geo_.max-1300x1300.png",
+          "width": 1300,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-google-translate-learns-24-new-languages.md",
+      "title": "Google Translate learns 24 new languages",
+      "excerpt": "For years, Google Translate has helped break down language barriers and connect communities all over the world. And we want to make this possible for even more people — especially those whose languages aren’t represented in most technology. So today we’ve added 24 languages to Translate, now supporting",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/translate/24-new-languages/",
+      "originalUrl": "https://blog.google/products/translate/24-new-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_heroes_translate-11.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/translate/24-new-languages/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/",
+      "publishedDateTime": "2022-05-11T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
       "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
       "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
@@ -954,188 +1163,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
-      "title": "The problem with self-driving cars",
-      "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "originalUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/shutterstock_635238704.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/14/the-problem-with-self-driving-cars/amp/",
-      "publishedDateTime": "2022-05-10T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "IBM has set a new goal for propelling the ... the company's \"error\" predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in healthcare and ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91481989,imgsize-28942,width-1200,height-628,overlay-etcio/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close/91481989",
-      "publishedDateTime": "2022-05-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-launches-new-ai-chips-challenging-nvidias-market.md",
-      "title": "Intel launches new AI chips, challenging Nvidia's market",
-      "excerpt": "as the chip manufacturer makes a bigger push into the AI chip market currently dominated by Nvidia Corp (NVDA.O). Gaudi2 is the second generation processor by Habana Labs, an Israeli AI chip startup Intel bought in late 2019 for about $2 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "originalUrl": "https://www.reuters.com/article/intel-ai/intel-launches-new-ai-chips-challenging-nvidias-market-idUSKCN2MW1F9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T19:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-intel-unveils-new-ai-5g-technologies-at-texas-conference.md",
-      "title": "Intel unveils new AI, 5G technologies at Texas conference",
-      "excerpt": "Many of the artificial intelligence semiconductor technologies aim to boost productivity, cybersecurity and public health outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "originalUrl": "https://www.kgw.com/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kgw.com/assets/KGW/images/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c/f1eaef6e-5cc5-4d8a-a70a-96ef65f5c60c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/local/technology/intel-ai-computer-chip-5g-texas-conference/283-19ade404-e23c-4d22-bc94-a7e99cf64521",
-      "publishedDateTime": "2022-05-10T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KGW8",
-        "domain": "kgw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

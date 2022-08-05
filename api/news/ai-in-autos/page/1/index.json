@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-05-5-moral-dilemmas-that-self-driving-cars-face-today.md",
+      "title": "5 Moral Dilemmas That Self-Driving Cars Face Today",
+      "excerpt": "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8dc41e31cb7d5797b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "publishedDateTime": "2022-08-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-watch-deeprouteais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china.md",
       "title": "Watch DeepRoute.ai’s Driverless SUV Successfully Navigate Through The Traffic Chaos Of Shenzhen In China",
       "excerpt": "The driverless prototype was tested in the city of Shenzhen in China under heavy traffic conditions, showing how well it reacts to challenging real-life scenarios. The video shows a 14-mile route in the Central Business District roads of Shenzhen which was completed in one hour.",
@@ -645,6 +697,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-30-protecting-students-school-district-adds-artificial-intelligence-to-increase-security.md",
+      "title": "Protecting students: School district adds artificial intelligence to increase security",
+      "excerpt": "A school district in Illinois has approved a new security system officials say should better protect students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
+      "originalUrl": "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png",
+          "width": 604,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
+      "publishedDateTime": "2022-07-29T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHNL",
+        "domain": "hawaiinewsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-how-artificial-intelligence-can-create-an-attractive-user-experience.md",
       "title": "How artificial intelligence can create an attractive user experience",
       "excerpt": "This is captured via demographics, purchase history and other details extracted from your CRM or interactions with your support team using text mining — including other clever sources that have been engineered into the user experience (UX).",
@@ -794,34 +890,25 @@
     },
     {
       "path": "_news/2022-07-29-united-wholesale-mortgage-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
+      "title": "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
       "excerpt": "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e",
+      "webUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T12:07:00-07:00",
+      "publishedDateTime": "2022-07-28T13:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -832,8 +919,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1139,20 +1225,20 @@
     },
     {
       "path": "_news/2022-07-25-uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists.md",
-      "title": "UAE: 6 times driverless taxis, buses have transported residents and tourists",
-      "excerpt": "Dubai is just months away from launching its first driverless taxi and e-hail services. By 2023, Dubai will be the first city in the world to commercially operate Cruise self-driving vehicles outside the US.",
+      "title": "UAE: 6 Times Driverless Taxis, Buses Have Transported Residents And Tourists",
+      "excerpt": "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ...",
       "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
-      "originalUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
+      "webUrl": "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists",
+      "originalUrl": "https://menafn.com/1104585203/UAE-6-Times-Driverless-Taxis-Buses-Have-Transported-Residents-And-Tourists",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
+          "url": "https://menafn.com/updates/pr/2022-07/25/KT_740c5image_story.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1162,11 +1248,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T03:16:00-07:00",
+      "publishedDateTime": "2022-07-25T01:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1281,21 +1367,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
-      "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
-      "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
+      "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
+      "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
+      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721145214-baidu-apollo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1303,56 +1389,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "publishedDateTime": "2022-07-22T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few.",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T08:44:00-07:00",
+      "publishedDateTime": "2022-07-23T07:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1363,59 +1406,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidus-latest-robotaxi-has-a-removable-steering-wheel.md",
-      "title": "Baidu's latest robotaxi has a removable steering wheel",
-      "excerpt": "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "originalUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "publishedDateTime": "2022-07-22T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

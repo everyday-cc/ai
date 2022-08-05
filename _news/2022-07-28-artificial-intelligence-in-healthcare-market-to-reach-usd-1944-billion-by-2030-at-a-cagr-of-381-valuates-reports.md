@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports"
-excerpt: "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports Jul (PRNewswire via"
+excerpt: "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,"
 publishedDateTime: 2022-07-28T14:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28"
+originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
     isCached: true
 
-secured: "oPnrp5e+erjrS9BaCMjGYOIoYBYnQOsi6nV5xzm/wW8LtymEqSuELN7kUhW6Mzr4PZZW/WIEGhMEFjW4FAcVOXGsu4m26RphbewjVEhmfFdIPawpEZUiTFdfdf0y8cA5fStg2mcKi+sr1ywOrtjxdIzj8qoaBva7O1sf6LFhFKwJFyTT2aVIFe4B77ZPXd/SzyPDCyGKfIfthS2Khthp0rgjoWMBCjDeBZoyCH/+++XGXPgU5cRIaYisR58yfWfSjNq7k3flf0vDuKNkgQCpBTqdWns/xelaeESew+i+uX8FMP5Z23TKgaFWZHKjKLo6v2x02Xaoko7f3RvY+cR4r9sYFaa2GJICoGw9xU41qZ8=;BvZjvV5WbL2GYXbs7at4Uw=="
+secured: "7prSSKYOel/rgbv01RqT6rJJxx7ceOQEpTEqCqPvoEotiA/qoYlOc8kO12In7KcNXocwHnoNgux7ZrwzbQilV9s1mdPXYyCS9cZImf0LFNRdPWnUsGVO+XRQ/MazPfosLH/tEd4y/U8MgjqmUmk1aQkrE24DaeVw2QkFrwPIlbTcZuOifQzhg++ktuTnT/2Uy6FiS0p2Ur6URBgEJ5NGFJ4yB+wyUFokVStMLcpXg0EPKU/xw9vGgic9mJO2HySsZFze6X3cfM1buRwhui9eIIiFapqG0J6E4ohZLKDUg2VM2GXEH4pECqPR53mav0cm+PC73vFHhNqABTQKSmpiYoZG6w75xLLt0OqEFLNdpqk=;EVNQA0vsTvjL1o0XwJER+Q=="
 ---
 

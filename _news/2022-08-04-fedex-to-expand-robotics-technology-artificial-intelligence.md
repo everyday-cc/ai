@@ -3,22 +3,22 @@ category: news
 title: "FedEx to expand robotics technology, artificial intelligence"
 excerpt: "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the"
 publishedDateTime: 2022-08-03T23:22:00Z
-originalUrl: "https://www.fox61.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-webUrl: "https://www.fox61.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-ampWebUrl: "https://www.fox61.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+originalUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+webUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+ampWebUrl: "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+cdnAmpWebUrl: "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
 type: article
 quality: 89
 heat: 99
 published: true
 
 provider:
-  name: FOX 61
-  domain: fox61.com
+  name: Local 24 News
+  domain: localmemphis.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg"
@@ -42,6 +42,6 @@ related:
         height: 799
         isCached: true
 
-secured: "wFgSZV0D4IJNPFURT2XefGiBmQbzN1gyq/TadasSzZYkQzO2a6lYAG9ZmYDqBHesAmEYb4AGNlomJuepqdBHWbRfOOSDF8akRS9O2QupPR91AEUXrcSBZhCK79RTD6v1upeAjNctbBbhXAMMuiv7Jbh8VctZxrUI54mO2Eqql+vrn0sOjjHrDqA75Ai8UoCV7KG4gd4bgo+527cqc2WixWLOUdpyCoV1G7y8LxKZz33yO8VnVs2xO62THSqtbSPIVypZK28Kz6SJWVK63sAOG94uGWDVc2IqYRmHsmn7Oirys6xHZHGf2V7CFHOnSIqcFe30c0OnNFXwWN7H2PxPjVTM1doJLTAc1/cRB+sD+hQ=;KF0aBtPmQ7hRx+4xvz/dEg=="
+secured: "ylrb/z8l5QAyYXT4cEGsP0Iau+SIw77P72+ASHSmMLhYfL4xJbCVO0Mb9wBtGdrfkh1zxES7AWqcWYEywMokcLblfqkUhbbp5sa5yD9AhHTiIwrzJkxjJH34Sg7ObTgR3IpfTR/4ton9yKbZvbfdyx2Xk1t8XVBo/chOJasecvlpV9rEVizMk9G1f2Gf0BA2RYnNoGAQU1Oksnvj1CGEFLx1SrA7TX3wJhLRm3/hvD8Xfawb7Mh2bwL66wAx+pUVuZ4zXOlb0SDt33W59H39i6Jvg1TRXZ77bKYyYiMoeVW+z6sBATKJe/vJ3Dq59oqtXk5yrZ9Xn+tfGC1DOe6gWjosPhKyyJ2eOklGdEdkB6g=;3ZFIh6Q7thLTEaP/6wRWiw=="
 ---
 
