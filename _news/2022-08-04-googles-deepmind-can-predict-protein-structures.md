@@ -74,6 +74,6 @@ related:
       domain: economist.com
     quality: 19
 
-secured: "yqdbcUOwl+qF3UIfAaTR89sEHZERBcyC3MFyGXouBGbmllF3hjkExx7dgE9FDVOUqc1mXQRW8g4QBtb4FX+8ys/pFWwFtl1CggLR7daiFaarbfksaO4cbcHe1fecrS/5jssOpumw1WsEuSRYZyvSVe92pnJZOKY3euF5ji85+YPxbyojVWO5v1jWTdSA7AQslghrPanhcOqrIWRXtmg395WV1XuXK8rDTwEzel0XWwhJhJY2yqz1LTooDtHZwYpXSx1rfmicOayLhLWsft4y+3X1Y8g8u2RZkTR3OlMcMsYi6a1mRIKD4cTyGsrdK6ulUkdGdoeEgQbOzhV2b4+oK7bjku+L94BR/gpcEshsrY8=;BoxOOnsHcGZrOEM4bjuqig=="
+secured: "n+gx5mY0DkTzghEv+2K6F+40wuFRPBpPo+aPNSJfGB91INebDTvgbbEitajgYtWCGMfek15qh9srzT/l2LiBndy+xI3ekFCP95U+HJWxu38Udm6hw9jJaglRSWq6W02tXtpzCnT0uaaUufAdAmMrCPSNdpHQV4im36pGPZsOS0K3kaegGA0viW+V/y4phU3DxNdf44crRogd/MthlMLaSQ3hLtR1Lx5R0WacrOOlwcWvS1CBa5g0cyTCbsLsqzfwsjrc0vc/YvG+AwGiFF0Z/upFTe+ts/5ZcsuIwXQvDWxYuG+BkujzT3zz2HeBfLxtLufCIopdcE5ofmFszphTf7wkC/H26btU1JJUyGMkP9U=;5ch1/0/ucKia81/vNKIakg=="
 ---
 

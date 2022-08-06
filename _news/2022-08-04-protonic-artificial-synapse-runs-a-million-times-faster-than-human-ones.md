@@ -45,22 +45,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "MIT Researchers Created Artificial Synapses 10,000x Faster Than Biological Ones"
-    excerpt: "By building chips whose components act more like natural neurons and synapses, we might be able to approach the efficiency of the human brain."
-    publishedDateTime: 2022-08-01T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/"
-    ampWebUrl: "https://singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 40
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/08/MIT-PhotonicResistors-01-press_0.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "MIT’s New AI Chip Is 1 million Times Faster Than The Synapses In Human Brain"
     excerpt: "A team of researchers with the Massachusetts Institute of Technology (MIT) has been working to push the speed limits of a type of a previously developed"
     publishedDateTime: 2022-08-02T12:36:00Z

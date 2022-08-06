@@ -7,7 +7,7 @@ originalUrl: "https://www.power-technology.com/dashboards/patents/machine-learni
 webUrl: "https://www.power-technology.com/dashboards/patents/machine-learning-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year-2/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1038
     height: 778
     isCached: true
+
+related:
+  - title: "Machine learning innovation among railway industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the railway equipment supply, product and services sector has declined in the last year."
+    publishedDateTime: 2022-08-05T05:00:00Z
+    webUrl: "https://www.railway-technology.com/dashboards/patents/machine-learning-innovation-among-railway-industry-companies-has-dropped-off-in-the-last-year/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 43
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/P34iT-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Machine learning innovation among military industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in machine learning in the military equipment and technologies sector has declined in the last year."
+    publishedDateTime: 2022-08-05T05:00:00Z
+    webUrl: "https://www.army-technology.com/dashboards/patents/machine-learning-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 27
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/Fqxkq-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
 
 secured: "L1zWsxbMxD0935NFEEPhSEcshrtK+16Vfk2KClHpubuHUkKqGnxuqKOrALUZq9Hf2R4Wr1bTJqNrKX6rDiWW39CuIndshu/lvDvptFXE88xl1I3z/XIcciQoauqTQ6Wo5IFdXiDlNAMPWQRkCc3KJCrHC9CsOFTblRmesP8OZdWVIYMqmv2pWZBhqgRTzGkTCGcAZayCHloke/cQ251Anv3T3Tc84ecRHvR3VV/lbOhEWYGnoMY6Uyelfd+S9kflyDLt5gWlf5rlfezaop+6LO6B1A5zHiIz5Q3lg3bfmEyLGOEY9pDv3RQmENtTIQcrSYzxySMA0aldG3M6usdkgCl7co2WbOzPdgVjvGeUnJdwYdt7LrpCFhwajynnKpkXZX/aF1s2aeQ2waGFjrlzQ0kUnSTPNfZYgKE8D36jZR20EAr4WhzM1c1AILSP/ZPwYFVVGZBOBx7ImCNKZojJclglBNRXncel1yo/g2Bkv0B+H22shFT9ypGjT0ncpTrU3rgrjh1GAZXBgBbv8h9Sww==;zROPXm+azjguTPOrN3b7Pg=="
 ---

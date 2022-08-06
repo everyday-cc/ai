@@ -23,17 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "DEWA uses AI to improve efficiency of water network"
-    excerpt: "The initiative enhances the competitiveness of Dubai and supports DEWA’s continuous efforts to reduce carbon dioxide emissions. DEWA uses AI to improve efficiency of water network. artificial intelligence,"
-    publishedDateTime: 2022-08-01T13:37:00Z
-    webUrl: "https://www.constructionweekonline.com/projects-tenders/dewa-uses-ai-water"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 17
-
 secured: "wOPNOyPotkR+i0tdmcj9K5ejZFVW4mbl1w2TRutI5aioPdrjAknKx/eJgSoY5B12RPG88bfU3kIwlpJMHcCiMQzcq0xw4W2O0SxUqlEVwtt/cggokwhzj/VLmWIS+oZvdOaufczFouBrxNasHwSdEZZWbUrLpWU0Jo2QTa9lATNd5li1A23SERQXq6oO3roXert6Ey4Cl//S8dYuarr2TEcsWfaFioORnodECqpBwqvkzZUtZDQTiKuio8UwcJV7WysXu65YG1TBdrhqjImyF4r9QUxvxHKZETrv+uOBMNlXoQkyA4+dhRzAdeO3/GFNfA0GXxDfBl02kB2VRfO5v2ca0f3TlbLSLx/um0GWpGY1tHLuhxGKg4SwFp+0rBzN477YmpbNcLRzcDJRyZ7Ju5viKxFoXBQ1gGLs3erzWiRSIkfAOOaHmAvM3AzXYmntaHML8+lO0sTO+YB/MhEVO6STTfbqm5ThKH4uT5lKoR9fcSW5iGl8eub0FzpQBOVl7p0ra5pax20+YFEd++8W5g==;XX1pdfSo3UHUb+oSLgTSNQ=="
 ---
 

@@ -34,15 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "10 Fintech Stocks Getting Hammered Amid Economic Weakness"
-    excerpt: "In this article, we discuss 10 fintech stocks getting hammered amid economic weakness. If you want to see more stocks in this selection, check out 5 Fintech Stocks Getting Hammered Amid Economic Weakness ."
-    publishedDateTime: 2022-08-01T13:22:00Z
-    webUrl: "https://www.insidermonkey.com/blog/10-fintech-stocks-getting-hammered-amid-economic-weakness-1054744/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 4
   - title: "The Next Fintech Movement Coming to America"
     excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
     publishedDateTime: 2022-08-01T18:33:00Z

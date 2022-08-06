@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/mit-claims-artificial-neuron-1-million-times-fa
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/b350776/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F97%2Fb8%2F163496654014bde4a2a1d364d5f9%2Fprotonic-synapse.jpeg&na.image_optimisation=0"
         width: 1200
         height: 630
-        isCached: true
-  - title: "MIT Researchers Created Artificial Synapses 10,000x Faster Than Biological Ones"
-    excerpt: "By building chips whose components act more like natural neurons and synapses, we might be able to approach the efficiency of the human brain."
-    publishedDateTime: 2022-08-01T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/"
-    ampWebUrl: "https://singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/01/mit-researchers-created-artificial-synapses-10000x-faster-than-biological-ones/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 40
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/08/MIT-PhotonicResistors-01-press_0.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "MIT’s New AI Chip Is 1 million Times Faster Than The Synapses In Human Brain"
     excerpt: "A team of researchers with the Massachusetts Institute of Technology (MIT) has been working to push the speed limits of a type of a previously developed"

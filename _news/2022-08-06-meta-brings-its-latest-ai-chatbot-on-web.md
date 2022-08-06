@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Meta brings its latest AI chatbot on web"
-excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to"
-publishedDateTime: 2022-08-06T04:31:00Z
-originalUrl: "https://telanganatoday.com/meta-brings-its-latest-ai-chatbot-on-web"
-webUrl: "https://telanganatoday.com/meta-brings-its-latest-ai-chatbot-on-web"
+excerpt: "\"We are committed to publicly releasing all the data we collect in the demo in the hopes that we can improve conversational AI,\" Kurt Shuster, a resea.."
+publishedDateTime: 2022-08-06T06:19:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Meta-brings-its-latest-AI-chatbot-on-web.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-93386233,imgsize-45202,width-1200,height-628,overlay-ettelecom/meta-brings-its-latest-ai-chatbot-on-web.jpg"
     width: 1200
-    height: 650
+    height: 628
     isCached: true
 
 related:
@@ -170,6 +172,6 @@ related:
         height: 504
         isCached: true
 
-secured: "4aC482KALD41G1R0mQG5aFnnlauXeF8EX8280qGXyNlXPSf5bpJgAV0VKOj4Gaz1+iUiPIsvNJykVXVxTvekUVLOeg9k0cr6LozPBax6DH/IKXt4aJyPlAEzCqgJoGxsJhACcJJQk/j31/S96chaq1/niJktw5EXqQuvShX+zAW7qUNyln+CJGE8UvwySyOh11ijNMa4YFz7kmI192gb+OfnjHEi2cbHM/Xdqf/WP7L3CTrjL/DtP8PbDMhq/eUekPhE3Dq8OvCKpO6EOfRJXxX4GAhQIxSCtblvlQCgcG+kGi29gDeG6zD/LjLRH4qh2SitVxcf8f6bRfjfSTYkdOep8asqPSnRewFUcziQuns=;RQoUi0gvPRICCA6+sliSQw=="
+secured: "ljyfELkXyaLhXGtHlFWkOMgN/IHFYGtMRZF+Qb5JNnZ/ylhwGEkKCwmMBkX8xNu9HwoSJDIZUfCPM0VCgaz1Ro/2OUM32IO2l5HxpeGbZv+fO1ZH9jPw22xfbV2Ais4mc/HFRC/8lwlOO1IcZS+jFwWZaEHfeO9vAK+BY357hCkTHiGIFcAShJCN5hUrfCEbVTbtUEqqzFLxgT2JEKX9J7mzvbSt5+CJfUMxOv5j8Ro0CcpCKCj/lU3VLaVKinBjSAQgba1W5uEcxh1/y0C4XOO58xbCev0sKLrVlHYLVmGOz7H7qKRsi8upddSMKXFSjqcBySvNNHsRjTvSz/7BoHJllN3na0j/n6bWtY5PrDM=;SiPyfMAbuFB1+61RKfnbcg=="
 ---
 

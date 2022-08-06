@@ -35,15 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "UiPath acquires London-based NLP startup Reinfer"
-    excerpt: "Robotic process automation (RPA) company UiPath has acquired Reinfer, a London-based startup that’s developing natural language processing (NLP) tools for enterprises. Terms of the deal were not disclosed."
-    publishedDateTime: 2022-08-01T13:47:00Z
-    webUrl: "https://techcrunch.com/2022/08/01/uipath-acquires-london-based-nlp-startup-reinfer/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 49
   - title: "UiPath acquires Re:infer to expand its AI capabilities"
     excerpt: "UiPath announced the acquisition today. Re:infer previously raised $11.2 million in funding from investors. New York-based UiPath is a publicly traded provider of robotic process automation, or RPA, software."
     publishedDateTime: 2022-08-02T12:19:00Z

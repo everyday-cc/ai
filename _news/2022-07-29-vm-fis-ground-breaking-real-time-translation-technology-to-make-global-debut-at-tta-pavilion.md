@@ -1,26 +1,30 @@
 ---
 category: news
-title: "VM-Fi’s Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion"
-excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution – Smart 5G Blazing Fast AI Speech Translation System – on the global stage at CES 2022 from Jan 5-8, 2022."
-publishedDateTime: 2022-07-29T02:49:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-artificial-intelligence-7b8eaf19fbaeeaea70723018504d267e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-taiwan-taipei-artificial-intelligence-7b8eaf19fbaeeaea70723018504d267e"
+title: "VM-Fi's Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion"
+excerpt: "Backed by 5G and AI technology, the highly-scalable speech-to-speech translation turnkey solution reduces the MICE industry's dependence on"
+publishedDateTime: 2022-07-29T04:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838"
+webUrl: "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1868803/image_5019932_6176121.jpg"
+    width: 297
+    height: 400
     isCached: true
 
-secured: "rT08Wlgl9m1dKmyMt7vIAPkpc/jYDYo9IOTVNHwe2bltyRUdiGwf/z8x9lHmkxDSmy392GbDhPISMtuANQGc8sP0U09n9aH32l1fAXbiXToccCupvN7ieQIn1nASPNMhlM9OhF9BCRXYO3MPmZKmPtySEpipwRnDan8zZa44PLS6FPI7JJj64ckBbOBCFCEGpiZR7Usc3U6bMSm9XcSsTEb8bcbQcOMfHEExYDfou891RV4vkCpBIiNN6mG/46j3ZJ+XxKJB5d6+co3hxU2PvEBecz6yzynZro/EfebKWVKIZoLW+Y1GqfVlYlRT0p0UC0iAVr9r+Hhw9+wySo4q2ge5L4BaXNYSGvNDeJc4brc=;LDaThbescQBQraXGjDsWTA=="
+secured: "Q8/U5z5oCIu7zxYYJihpTrTYJuJk46vlXqIJj6HqQcCAw3/in7P9mhweLOL4WZJIDwOCulQ9+FDdXLZ9A6rhW0lUEILUIHcAYszokLYR8VFYg8VdwQAKjX/QgiHf5nzuTikAYFNKrN+xlC+qV8ViCU/PmSD+sql2uCSiKEh6mTn73O9Neu/wt/8CD9zV3Pwgy4lmcvWeC5I9aFEERZVwx57AqTtRvLPacs4L8oPBlRh7IS9GtqWccDCwFFoo9wp17I5NQ8T8t/S38wOTHVuuunjwpJVxEtSutAV+uJwjWdhGmBCU2izIVtF+lIZOcGM7aU0wQ/MNS5Pu8VhYQ8i/qD+dw0wjPK4JX6n6C1dB3cM=;1n+nAsk4O5mMLll4AZVnKQ=="
 ---
 

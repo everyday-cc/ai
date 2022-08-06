@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/google-ai-sentient-revolutionize-t
 webUrl: "https://www.businessinsider.com/google-ai-sentient-revolutionize-tech-2022-8"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI is not sentient. Why do people say it is?"
+    excerpt: "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s"
+    publishedDateTime: 2022-08-06T07:10:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uyunK9KqMWVf7kgUDSjKv5GMPqitDAPW53YKU/KWmlpYoAMc+1k2rKnhvSqS9tD1K5HWuTgAfyq3PUITCm6LJrX25MB4kHtzMzMf/FYrnWIyR0/GXog5ubedXIApwEvwOSvVFA6Y7aqxX5MAAgGDR+jIQ1Atvqpjp8XLfG8fKJ1r4k2GHWxy1omYb8/Fz/Yfrld7gHIeMza9LTK73jYuKl8b91jjQvdnTWBZkbC7aTZzKIB/JijA/mvlLqKVHL2J9RWlB8js78kgn4EUQkfQcqIGlLadGtvo2cIoE1AFHjDHL5xSM6zj/wEsHRtepDN4wG9dK1YTVzax/UHa4rYNoGItg/9m98XzIEoR8qdRdyHhL/OEH9dlvUlHM2kDB3faBW0MNDSLbKxXAE9GGUjOW29sfDSvK1MIJIZiRtvST8t1OUw5e7HHUvkNIAABz7V+A8uazHbRiFJi69OXeW5QAzQsCYAwmhrJaM2sJSLZUpKbodpldAsybTDtEl5Ar7R2a+rnR6qVo8XRQ4yZGMO2oA==;Yq9V8yhVnS5g5uJk1kS3/g=="
 ---

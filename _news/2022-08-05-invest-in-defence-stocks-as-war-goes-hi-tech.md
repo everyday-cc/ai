@@ -26,19 +26,6 @@ images:
     height: 710
     isCached: true
 
-related:
-  - title: "Artificial Intelligence roadmap for all defence PSUs put in place: Govt"
-    excerpt: "A roadmap for application of Artificial Intelligence has been finalised for each of the defence public sector undertakings (PSUs), the government said in Rajya Sabha on Monday. Minister of State for Defence Ajay Bhatt,"
-    publishedDateTime: 2022-08-01T14:32:00Z
-    webUrl: "https://theprint.in/india/artificial-intelligence-roadmap-for-all-defence-psus-put-in-place-govt/1064556/"
-    ampWebUrl: "https://theprint.in/india/artificial-intelligence-roadmap-for-all-defence-psus-put-in-place-govt/1064556/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/artificial-intelligence-roadmap-for-all-defence-psus-put-in-place-govt/1064556/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 37
-
 secured: "4YO3/nQbGqtVER5ksHEXQkxkxvsPUAGoTjrC4Tstuk+SFv9ERzAeSCftdsOSsDrfoBRkiWVw21REXpY5WmiIvJtVFTnDwBEkZEHkhj2c8mFPpAGKBjEMlD+E2f/BNQpgqxCDQtWuGO1dKxtADHxZFTofd3TIFUv+hE8g1NSQ+z1TBRI8vDvJKUxn8pYRSzpAKmnqncOYHm4FX8YJlSnKnO055NXwl2/nDF5Xm/A+2gUrB8k90t1sqtlQsFThTAUfRNW2M9QB6vmhRLHu3xSIbV5V8jYjYDP7YCQNpJV83OUeIDxYUTiWZaF5fvQ4O6t7etxEW04lngQqRU8BeQlIvO3Hbi+dVPG7QwuG7BC32TE=;+SWzkmmLpayXj0QeDQoTZg=="
 ---
 

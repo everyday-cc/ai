@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Lender Toolkit's AI Underwriter™ Transforms the Mortgage Process by Generating a Loan-Level Needs List in 90 Seconds or Less"
-    excerpt: "With loan officers and processors traditionally having to rely on educated guesswork during the origination process, Lender Toolkit's AI Underwriter™ has emerged as a transformative solution for the laborious underwriting process."
-    publishedDateTime: 2022-08-01T14:04:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-1-lender-toolkits-ai-underwriter-transforms-the-mortgage-process-by-generating-a-loan-level-needs-list-in-90-seconds-or-less"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-
 secured: "V+67/3Z4DT0/wChF2p6fMsqlAkwrvV54qy3+myiUdXxwpqVxKxdbOjVAuy16PckcplueZEJ4OGjuVeUaUVYRHLu40/izmFn0nwVo1rBXkfqmZtblwzqpduS/lY7OiJs39zoltKakz1lEtGsjC6MQc3goQAZdkuj9T3CJFDcSVIoUwIGzemByHHAbkfL9Vq4lZ3jH4Te8CstE2SISw0u9ZTLZCX5S9pXHm4yAlHDXZe1SjTPOIHUx2cb0yail5tox94QPdnVf+P8jsTpSNNkLA3Y4AsQ9mGOuBxA4ggrbL4WIGvEFF6sCfK3TU0lP2PGJ8drlUbmnC2lc4mT6ax3BIEq0kqdkPjSbnImqsWEphVA=;mSeDsrzFh1FxShcOlri7NQ=="
 ---
 

@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta brings its latest AI chatbot on web"
+    excerpt: "\"We are committed to publicly releasing all the data we collect in the demo in the hopes that we can improve conversational AI,\" Kurt Shuster, a resea.."
+    publishedDateTime: 2022-08-06T06:19:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93386233,imgsize-45202,width-1200,height-628,overlay-ettelecom/meta-brings-its-latest-ai-chatbot-on-web.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta research labs bring latest AI state-of-the-art chatbot on web"
     excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to the system to collect feedback on its capabilities."
     publishedDateTime: 2022-08-06T03:56:00Z
@@ -113,20 +129,6 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Meta brings its latest AI chatbot on web"
-    excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to"
-    publishedDateTime: 2022-08-06T04:31:00Z
-    webUrl: "https://telanganatoday.com/meta-brings-its-latest-ai-chatbot-on-web"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Meta-brings-its-latest-AI-chatbot-on-web.jpg"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
     excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
     publishedDateTime: 2022-08-05T15:03:00Z
