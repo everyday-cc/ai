@@ -20,6 +20,8 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI Ethics
+  - AI Hardware
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"
@@ -27,6 +29,6 @@ images:
     height: 435
     isCached: true
 
-secured: "r9l6+5Ein5a9EOhKSeR/a2e7PI/cT/eECz3FVlDq8AFDhuKJuV3NZFYJtpP2t8rj61HY1g3G03qcVWpfPorI/C9CkAeP1YFfBcWwliNJJQYDUs8AqECa26z63p/NBApDdpI85SJQhJ9YgE4ZhudFAAGPYBdDFnABOjn/DFQMp8bDbR1YCj57czFOdlxc+fevYnwd5yMsuoy0eFhKYig5eEn1xpAlg1d1kUnS75gcRJeXfnyXMeLxY+C4Ug5BV+O1bG+5hMe8XJGE2JQC6uL5x8VZFl9+CWDHiVgRd318oy72MmEWAYhc55aBV7lKnvdSVTV2xdAW7pAm05Wy7CUWBIarRipmUCBC4uLvLu2gXzM=;fHir8qXqTz+KW91iC+Eo5w=="
+secured: "fiX34dSTgp0wkSYMrM7z8g4KHg42VKKxe/qHecmgZ4mK9BkuvF5ySTBeQ5NBIFr1uY0Yd2dEiJ3RSnua2bkOJcKxsUXm1/Aol+AD4xPSdY4EA9bYEErIPR65KYiuo5Vws/xFybvQTDeRJCpDsxmwTgSFtu8S+KFotCMLELJhKni0oVggDdz+NtVWDrB2UMa93tMbz0rK/FcHQLYa6KOKXfDgzolvLOCUsYzQD16ctOTzAPywjVXQ2lDquWTdPEipUy7hGpb6HheODE66jVppbQoCzcE12HN+zmoXTTnzhqND7CA6RRjL5+B3RZgGwNS9OycJb+0n8oQx6YBB68Piy+3lJf2N3tVf1S6dm/Gcn3Zp6V+gwuCKHCvCb/4i4PSxDXZKCNLQQUdEVfjJi6LNV1EkwyzwswllcFsHyTSl0pJl2mCtrnMSlKD0/0w4j+rGoIU3avvfwVBJM797wZTnTBCd/dLsmbWlEDSPknzE/nWKpByBa/a54HLd36rfIzHWYDf/tOsZ+nDEzPFk8EgMjA==;07i/hRBn17CiH4isv9Kl+w=="
 ---
 
