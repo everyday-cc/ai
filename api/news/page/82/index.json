@@ -2,6 +2,102 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-05-31-one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects.md",
+      "title": "One AI Raises 8M USD to simplify natural language processing projects",
+      "excerpt": "One AI Inc., a startup that helps firms add natural language processing functionality to their apps, has emerged from stealth mode",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/One-AI-Raises-8M-USD-to-simplify-natural-language-processing-projects.png",
+          "width": 1945,
+          "height": 1112,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
+      "publishedDateTime": "2022-05-31T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-healthcare-can-employ-robotics-to-address-patient-immobility.md",
+      "title": "How Healthcare Can Employ Robotics To Address Patient Immobility",
+      "excerpt": "AI and robotics in healthcare are proving to be instrumental in assisting officials detect diseases and abnormalities in time. Robotics is a boundless field of which a subset consists of physically-assistive robots that can help an immobile patient move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628dcd2d2c5efb4c18ef1da5/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/05/31/how-healthcare-can-employ-robotics-to-address-patient-immobility/amp/",
+      "publishedDateTime": "2022-05-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-inveniai-and-kyowa-kirin-announce-achievement-of-milestone-in-research-collaboration.md",
       "title": "InveniAI and Kyowa Kirin Announce Achievement of Milestone in Research Collaboration",
       "excerpt": "InveniAI® LLC, a global leader in applying Artificial Intelligence (AI) and Machine Learning (ML) to transform drug and target discovery and development, and Kyowa Kirin Co., Ltd. (Kyowa Kirin, TSE:4151),",
@@ -988,92 +1084,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-ms-patients.md",
-      "title": "Signal detection theory may serve as a novel tool to understand cognitive fatigue in MS patients",
-      "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220531/Signal-detection-theory-may-serve-as-a-novel-tool-to-understand-cognitive-fatigue-in-MS-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution.md",
-      "title": "The Amazon Echo Was Just The Beginning Of Alexa's Voice-First Revolution",
-      "excerpt": "With 47 very high quality voices in 23 languages. Finally Amazon Rekognition will allow Alexa projects to also use image recognition to add visual decoding to Alexa-like solutions. These tools are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/530109090/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2016/12/14/the-amazon-echo-was-just-the-beginning-of-alexas-voice-first-revolution/amp/",
-      "publishedDateTime": "2022-05-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

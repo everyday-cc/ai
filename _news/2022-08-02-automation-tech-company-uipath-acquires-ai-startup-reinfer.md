@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acqu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "UiPath Acquires Natural Language Processing Company Re:infer"
-    excerpt: "UiPath today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured"
-    publishedDateTime: 2022-08-01T15:52:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-acquires-natural-language-processing-company-reinfer/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "WrU1gdSkx9lbaY2ps862LeMiR30NBEdzgr3SBQuG6urzgZanQerjo8uMnEEJZRYTcFJFXCUHUuLTxDkO1JlDLY9ODF2xyhHC2H7qvmTb8TH+FG9oT2VHcrl1vRpmjc/27MvsVA2zYqhiWZAI+HuaQiQmbq9zomCEMO0J+Ep4xXEWclrZcKFooEAXOBbqq/+8lv4p3kjwcxs37YFk93kVfFoqBWSdffMxwzWqmQs7p+D8tuXUFOX0iva9QKgdYhGOAVAu/rPynxB3qRlj4U3bIdNWcpSn5ur6g4NOjLveeEXxfxTcKTI+7qpFxqGBAbsiTbVpB6XlVMbEJvc3aM/133Kzk8HvqvlBIRBQy7ZpCJxJFHTBF4MTNk+TBpJyPPpMFZfe6j0YXT66p+5lqf7ZPw11a8kVL/1d8E39/t3nLSSCt6vyRIRHtgzbfu/8GxKnWTFxgwoWvaBOApX9x3LKcxpGXxWCRqsxh0uJMs6ikjcNlGfl6DTLHLSAI2tcIA8BzzEuU3ueDAKZRJkP/QWCFw==;DEYgSQYzcShoJp4C12jeUA=="
 ---

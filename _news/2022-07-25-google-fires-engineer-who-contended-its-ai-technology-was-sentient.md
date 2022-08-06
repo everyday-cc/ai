@@ -2,9 +2,9 @@
 category: news
 title: "Google fires engineer who contended its AI technology was sentient"
 excerpt: "By Ramishah Maruf, CNN Google has fired the engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies. Blake Lemoine,"
-publishedDateTime: 2022-07-25T02:53:00Z
-originalUrl: "https://kvia.com/news/2022/07/24/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
-webUrl: "https://kvia.com/news/2022/07/24/google-fires-engineer-who-contended-its-ai-technology-was-sentient/"
+publishedDateTime: 2022-07-25T16:10:00Z
+originalUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
+webUrl: "https://kvia.com/news/business-technology/cnn-social-media-technology/2022/07/25/google-fires-engineer-who-contended-its-ai-technology-was-sentient-2/"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg"
-    width: 1280
-    height: 720
+  - url: "https://kvia.b-cdn.net/2022/07/hypatia-h_8da5d951d422b8ac6fd01710aada6e11-h_ebfd1759e4ec32c74d3df4ef3960b773-300-scaled.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
-secured: "QWCZXDlscX6FoGoIv1BEIN+24wkyzGl0AIqp9M3F9LcxHkpLrU+8vauiaRRNUjul9cbHaDT/u8jR6QJFqCJuaOF4aKkKU4J8kfsSl878HIcBNla42yzxNusSBpofLLdhriMnFJLF6vQwgsp4gTjhELv3nCRPUCI1P4A58va8NoBKowmQdJBDvnyHjGdxr+ZBY0kEe60pSYVG80PUCoxrw4QWbxJ/yIUI7HAi/NlNv/VGtXjzbw9ODLShuOetcSB0NV//sDwKIRUrmU48CcuVHDYPH11g833Vu0I4pNH7X9DBiblknfqWeSAhLgJsduNggzhsfoBcUDWppGYNLKzPWbnVz91pvnXe6to2WWxetWTPfUYG24UPTRGnu254M+6y4E2KfpT80PHOidKXylVll+GkRa5AVPwLyjQYVDW/77GaIEdHuLCYWmuLLW1TXLIgHLjxwiCPC4OiLglRlSH3XgCLXafdJ5l1oNH8KqWjZhwuDd80IXAT6cGJ0P2lylAkxrneoUTIffRQJzXYGSY9fA==;Fj3wkSPxkC4t6fzBBdvc3Q=="
+secured: "rjM2AGWFaXDiFNV++EbEfqt9eW95Ot+dhQN8v0aWpu0k0xX1GdwtH/VNzTKhh2rMUao+qRhZFlePJ7pUF9Dl8/oog5yc2bQO7txNujEa7YpHsvGTj0L22ChgPcEJq4InuWs7wY42Svq/60NmGPaooOsAQlBx9QxdhDDScLPSl2JAuI7zX1ppLZQbopa2DQolSW8ayh//mIyWxs1F5vtPofIUbZMr1vWQKxvfHKibxKP6cMxjFUKknaWP0GxJkh75iiXoqF7z2q7ema4Auby7u42ulFo3w4zQAkif2EeTWaBIVsyzas/UpGoI5tZeicjfJngJY98UIT1Y1SorA3zeSSS9jqPPHS7Ho/yXYemecAc=;MZz8Vl/+LNRtorRiZ0sWgA=="
 ---
 

@@ -39,7 +39,7 @@ related:
     provider:
       name: moneycontrol.com
       domain: moneycontrol.com
-    quality: 59
+    quality: 65
     images:
       - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg"
         width: 1280

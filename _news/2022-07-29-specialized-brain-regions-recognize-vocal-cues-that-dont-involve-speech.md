@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Specialized brain regions recognize vocal cues that don't involve speech"
-excerpt: "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh."
-publishedDateTime: 2022-07-28T18:00:00Z
-originalUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
-webUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp"
+title: "Specialized brain regions recognize vocal cues that don’t involve speech"
+excerpt: "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,"
+publishedDateTime: 2022-07-28T18:03:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/959561"
+webUrl: "https://www.eurekalert.org/news-releases/959561"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/specialized-brain-regi.jpg"
-    width: 2146
-    height: 790
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/74379d6e-29bc-4bab-85b3-7be3291c25a3/Rendition/low-res/Content/Public"
+    width: 700
+    height: 258
     isCached: true
 
-secured: "DGm9K8wZDHGYNrNDnED8m6xrBLdTRUMclOqSN0kY9n9omrFP3105OMhBosgVmaVyABbWwLtHsF3I3rx47uiL/V8zSN08F/XESOYrH2FB13s+EVRQDIClyKqBKj1tVEHRx7oxQvZjWVCgmAThb5fytooCIhFN+ynJAxYpbgh7gk8Gxz14yH14HPdEjk72Dw08mPMhBkViokfhgs8W0eNcwst1im4RPKIDVdWXAqxx2uEkba3DDdwnoI6V4EDbON7de+nqHJXvft7lc8ImTEZI4CuuMuL0uXeu+L1i1fWGYuVZGTt0ZHkDjlX70NA1XkrToW7EW9s+/yW8Bf53rqnnHxYrLSN7/7f4OzH5/UWopIk=;LX3Xfns/UTEuNrWdBitHDw=="
+secured: "21sk39GK3XydXuYKwWe8TkT0WpaZ1zspIFDfL+mk1ZfChywR4NpHp2mTB3V/kH/Mzikq4dd36IYAxeE5G63q3fQvBuMSv+WEAmNUs5MTioVSE6GDyJvUomWdOgbl33PUZs4/+JoU1klqcaWtXAHBH7SkmocWTTfhValGU/mRbn24TKmY2bCTBOS0CjG7mFHrgwSr1sB1eDB+l7lSMARNEza07REHx/wJ6v9VJfGJpwcmuzUO0DIlF5FuJxFA3W45zUqCv9GYQFsBbxFDtTIdx6+cV22z3O4DlO8FSbx8JLCAZwwmh8pFQYWl47lsQdZnH8I5yvBeupHaqtMwGVxuMiKesiL76l5bewRVOKe9NXY=;VKtKliZ2gouSO1zIeL/uTw=="
 ---
 

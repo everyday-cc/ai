@@ -75,15 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Indigenous Voice to parliament: how will the constitution change and what will Australians be asked to vote on?"
-    excerpt: "The idea of recognising Indigenous Australians in the constitution has gone through many iterations. Here’s what the government is proposing"
-    publishedDateTime: 2022-08-01T16:32:00Z
-    webUrl: "https://theguardian.com/politics/2022/aug/02/indigenous-voice-to-parliament-how-will-the-constitution-change-and-what-will-australians-be-asked-to-vote-on"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
 
 secured: "zAO9p2uwiy9GGE06nLyFI+wX3W1gSS+2MR22IUlrWxbf8ZrNaTKLsRdbcJdDGi6K0BDR9vfOgU5TpkCNH61KCYGmcuusNxxI2yI97cSMXlXFXpEmsz381xrOs2WGzyfC1dP5J2ugMD9ENTOhYJ1ZiK07QCVuz32G7wTICrir1TWHiHQqEEIqvAs9CLaM3kJlwNaMorRiPovRKcI9BWHakW0EYJdaGynaHdk/GDPl0HRqHuS1S/qAhcHu2a+lb63l63MR/OgZQNla+K+mDBgBzSxzQgJKrDLWOYfpTmnIPjfx8qfBFLx/xmmZu/njjEhy0iMipNftVRWIXEO+xGYxMzuOVoqP+mOw02rBimtsJGU=;3ENUMnFRFmCmy6k5SOyI9w=="
 ---

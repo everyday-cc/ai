@@ -8,9 +8,9 @@ webUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-peopl
 ampWebUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
   name: moneycontrol.com
@@ -19,6 +19,9 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
+  - AI Hardware
+  - Natural Language Processing
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg"
@@ -42,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ewhtdT2hF0VpyAtCwOD60adSvryypJCz9EGuN+gmXVWi8oWDWXcWl9nYsmi4xtgde00pRBbLBJYxL5YSYWQUc8fVePJRSmaxdWx/gli5i7Wxgtd8gYw8tMjSkCXH7wJZdm6v5RdnVKGDSs+hpHqPDylVxFZWT8Yz41/2OwsIRDz9ma7kHeZqTa4MUV8MDNk2r2UodwTYZkqWT5jSCnqSWE0y16PMxv6GaPHGJ8ubE7q2NL8UsVmizYhsHIMyO8Fn36ws97OMLC48G2KzZbGDKBmrdiS6yP9NVBZddpacmzfMvdy1FJvxdLntCoToTuTrBl+DDj4Tvw3PJuj7/SacTfdalt0PqWhmKEJvSoPMBXc=;Ur/cbxDpVJ43WL85OM04Fw=="
+secured: "3BHfWUpvSqyAcA2M5FFvXqV8aSW46Yxc/g2rsvsUTp7cS5RhO/fUoDdGJ4Rkcl9i/dOTRFF+kVWNM+da8BUjBKJKdmFc/Bza3IrYOIDecIFAkXQs2QzA7iAEYbQxrJRNwfgOTfGFKVZJdbdi5JluZTPujhmfzf82DWrxVU3QIhY6vTjJ3VIvh1k+L2WlGzumHb2Hsnx0PUCpDWjGZItHvdzlxsCen9nkR4BY3xRse249Ll52Y0j08OM+5Bit9fkak/4960SKyj3n0gndgevy52y/T0fw/HpRImrL1QXIf+62Z8BcceakGbJ91Lnp2vcLt+Rje9LEo6cUJIRsa4XKAzTk1At2yhGcPqGd0YRkC9PtPHZUVHSHW+Vsf7sqFbIV4YesXxvuar2gTMSKc3jb8HcwZIcEbnTjmkazITmeOCU/IFLlcLdDuuRYAiiFv0V9ub1lxpHof0ZSn+hKbzEdjqF3Qu84ZwIIbZ7nDpChHdclhyM8LhtS2tn3/tC342aQfcP83dF1OkfJ4/M68E0lKg==;oWHNqU1+DrnzY6lnlj4k1Q=="
 ---
 

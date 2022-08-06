@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/business-61824904.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
+    excerpt: "To enhance capabilities, the Indian Army has been deploying Artificial Intelligence (AI) based surveillance systems on Northern and Western borders. Sources in the Defence establishment have confirmed that apart from deploying AI-based surveillance systems at borders,"
+    publishedDateTime: 2022-08-06T09:44:00Z
+    webUrl: "https://theprint.in/india/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders/1071926/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 8
 
 secured: "gOID6sQQsGh6i19xaz2Du5u4xQQ0f8A6+AxRc9jH0qCkLsFTCguwV/GCMojENkZKoZ0oUwIQvrzaPhl6RCIRxNY9f+WRhAJQaESsMljxTYa9X1POiMeokzKcypoq6AO3jGXTDWWWroAYQHVmZijkYq/iUlwgd4fjJrxjopFN8vWX/oPuV5IwMXTSBk0VxJ0F5T9YJPv2MJbwmZYSLLDZIU7OlH9LuExC+WaUzaGgRj2caqfppiRVgYLK+KCqgBMORMY4S8jFb8mx0weePoyWh9EtpiF7Iyjvq8zLvrldCYhU71r82ch1srqNi1K4zqyKKo4bn8xdtogl4IsDK9IJrNK9WqifOmgHmIJkb8tWcyE=;2rfhZXUPMfpm47NcYP/DsA=="
 ---

@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
+      "title": "AI is not sentient. Why do people say it is?",
+      "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "publishedDateTime": "2022-08-06T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-features.md",
       "title": "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features",
       "excerpt": "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control.",
@@ -384,8 +430,8 @@
       "title": "First, they banned facial recognition. Now they're not so sure",
       "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "webUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed",
+      "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed",
       "featuredContent": null,
       "highlight": null,
       "heat": 169,
@@ -822,6 +868,57 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-torchai-tapped-to-deliver-ai-ecosystem-for-warfighting-naval-forces.md",
+      "title": "Torch.AI Tapped to Deliver AI Ecosystem for Warfighting Naval Forces",
+      "excerpt": "The new artificial intelligence ecosystem will provide AI and machine learning capabilities for Warfighting Naval Forces. The ecosystem is designed to equip the Navy to better operate and maintain their operational fleet across a complex,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/torch-ai-tapped-to-deliver-ai-ecosystem-for-warfighting-naval-forces-1031649931",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/torch-ai-tapped-to-deliver-ai-ecosystem-for-warfighting-naval-forces-1031649931",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1872277/Torch_AI_US_Navy.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
       "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
       "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
@@ -1111,109 +1208,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
-      "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
-      "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "originalUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Cera-frontline-2.jpg?w=799",
-          "width": 799,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "publishedDateTime": "2022-08-03T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-tesla-applies-to-patent-more-precise-gps-antenna-for-self-driving-and-navigation.md",
-      "title": "Tesla applies to patent more precise GPS antenna for self-driving and navigation",
-      "excerpt": "Tesla has applied to patent a new multi-band GPS antenna that it believes will be more precise for self-driving and navigation applications. The automaker describes the new device in the abstract of the new patent application: A multi-band antenna system is provided.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/",
-      "originalUrl": "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2018/10/Tesla-Autopilot-navigate-mad-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/",
-      "publishedDateTime": "2022-08-03T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

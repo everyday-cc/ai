@@ -3,8 +3,8 @@ category: news
 title: "First, they banned facial recognition. Now they're not so sure"
 excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
 publishedDateTime: 2022-08-05T12:20:00Z
-originalUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+originalUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed"
+webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
@@ -142,6 +142,6 @@ related:
       domain: medicalxpress.com
     quality: 0
 
-secured: "FbFyeDHL8B5GNrL+cKaBPoMdOguWWOqpT6hctU3recGYqLXrdwIEd2Kl/6Fyr+jf7RRVvCQVb6YDs2N4AvA3HLXEBo57/btenfE6xriQaFlO3bDv9I1rT2P3okJypU3G3g4SywF1chGM0garRKDe56EGWk8RfQqklyBp+ezfvCORlRb6kaHc1Ql6RHBnjZjL5y2oF2J0sQEUc5a2oqRi5M8JVOP3vYjYdlxPYO7MYFord8qvb7GPQ07KhL2hGlTvJKwsSmdz3jP+Mrt9bP4PTh4kALUqqW+EYwFfc5efB9921OtSt1eYEaZ8ABs/f44j1XgxifzgH0fp6Zfb8LNF87xogeHaUYoAV99Y0b/7YrSBN/zIPdbB+iCsCXJ/2V75HETWCy5njkOx7Pw2fkbjM/U3rDDcuN1abihj7IqXqfJDaxcsirZIQRfNl5cXGgguJ0r/gKvUjWIbnXTXwB/t7Tspa29F/7rhf7vq/rYtKr8RE5WuoI/MD/Yalo6XBjvj7B1n+naV7oMC8k5otKDAAg==;wQvVEvwWyg8M5TXMm052PQ=="
+secured: "s+TDRAfI9o0fHp56oBfU1gxqRrKEdNqlzBIRyWMLTapIN/SnNY00p21PfsoNWGqgR8KNbE4tG7GlOG8OBg7a++OX/8CKF5s/LTxogdtxWcEfArH+J7xUmbOFwRBXkyMd61pfIGom3AWDnqNvO0v4fbtOEfhZqh7d/pTRkdCuH2E7zWHjSqrBr9+SCWdQUue0qjNgVkQ7LVT301ifq5ZqgEJne2XvO3q68T+jRPxHDqP7HOssRV2I6iK3G6K3lFN1SEzfVQdy6Vbb7q+CUInQKaaTxcXvPdNeQkfF0xOBorCL74O8bFLxzyuGJXPX1Sv95FoseuJwSNvKk/s4GFQxaSki0m+wsrzjKqlgcYbgxmc=;hHtEy+xRmicxQTqyY3kGIA=="
 ---
 

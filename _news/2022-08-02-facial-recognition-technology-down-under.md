@@ -29,7 +29,7 @@ related:
   - title: "First, they banned facial recognition. Now they're not so sure"
     excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
     publishedDateTime: 2022-08-05T12:20:00Z
-    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     type: article

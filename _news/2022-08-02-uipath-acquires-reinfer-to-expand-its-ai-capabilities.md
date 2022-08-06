@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "UiPath Acquires Natural Language Processing Company Re:infer"
-    excerpt: "UiPath today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured"
-    publishedDateTime: 2022-08-01T15:52:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-acquires-natural-language-processing-company-reinfer/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "CSogkNcyfQ8R4I2CJNF+Z5GUmKBwCrmkHSDnlmkxG1T3EzeMjkkqUZqw/apKL54YkG/UXs+FkFNVKunheNAiJhwp3/15keRBFgWXSewPhDmSz0XU3TTq336KYs5UDEPpBJnWiAd0j/O359Sg4yRLdePchgipuNfbJkhwjBn2ZZcXWvMqmyLWpEmQgGx5uhIbF13tHBu8wx5YfoPQqN6yqie4gOpbXkdlWsI9t4nQBDq4rJUegWHewzvRx8YK6geXuYhaGhrovGOjOvafLEqiqz2wAhBmyBvDzjNBbQF+Yq9Gal+BKkvu69ba/HfcWCGVQJ70Hs0NXheNcb9ZzYERtLgCxxmLPRtRZhLGXwCVSQI+ZbbWwb+THKQhOKyTn1ZGGMzPKuKlhDi+oFTfop9exTekjUi+rVhA1veJWxR4bCD742Xyd0isaaMcH0QNOhbxS0BaFCsBCcfn4T9woy4vsH+8wRI16CTaVoJBV82FNvs2yz5CVfFj/+6Ci4eum7hy8q6fOp9GNFS1OmeZ1ktT+A==;hKjkmRieM/Pqdw0G3F4ASA=="
 ---
