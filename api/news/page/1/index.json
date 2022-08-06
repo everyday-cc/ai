@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-06-army-deploys-ai-based-solutions-to-augment-real-time-surveillance.md",
+      "title": "Army deploys AI-based solutions to augment real-time surveillance",
+      "excerpt": "Separately, the Army is preparing to exploit the 5G spectrum for communication for troops conducting operations at the forward edge of the battlefield",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/nzgi6p/article65738445.ece/alternates/LANDSCAPE_615/IMG_Indian_Army_soldiers_2_1_S190KADS.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/",
+      "publishedDateTime": "2022-08-06T09:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help.md",
+      "title": "Customer and employee experience mistakes to avoid and how AI can help",
+      "excerpt": "Pushing boundaries, using AI and letting go of legacy systems can have a significant impact on customer and employee experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/",
+      "originalUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/business_challenge.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/",
+      "publishedDateTime": "2022-08-06T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-california-dmv-tesla-falsely-advertised-autopilot-full-self-driving.md",
       "title": "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving",
       "excerpt": "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,",
@@ -496,7 +589,7 @@
       "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1122,101 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
-      "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png",
-          "width": 765,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
-      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
-      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

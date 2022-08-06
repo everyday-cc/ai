@@ -55,22 +55,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Feds probe crash of TuSimple self-driving truck in Tucson"
-    excerpt: "TuSimple, which has tested self-driving trucks from its Tucson terminal since 2015, says a non-injury crash in April was caused by human error."
-    publishedDateTime: 2022-08-01T23:40:00Z
-    webUrl: "https://tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.html"
-    ampWebUrl: "https://tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/ee/beea2a24-11e9-11ed-a6ce-8bb90e45b4ba/61faae1675fb3.image.jpg?crop=1752%2C988%2C156%2C52&resize=1024%2C577&order=crop%2Cresize"
-        width: 1024
-        height: 577
-        isCached: true
 
 secured: "JcjwYynL6acuis/vQRcQGIXP5W1Lwes6c6xoM8j/FrLpZ+6/VgEBQjszzMv6icfm+CJm1ST5SFAXdvIXGZ3EFRwyFjfA6NPuRYvh9rpmuOmG41LZNJHYo4Ih1XztDwvacI2gRirn7iHpfMfs/MM8uRgxGOo2Rlnzs3PsLl88i3h+wpLdFTBRvDF2YE28/chtrlC5Y0UVKKmOFW2N+rL4VEC5UCwshYd5nUlu3bKfTzl7NkhuyuSEemSbpjax1tk8zZBK9MauDMtkVufHURA+NGODdU6ZLT3ZoJuoQVP6guf5JBxkAos/NXQUDYq0N6lVPpjpXhB6+KNeOuIP8xtsZGUc+je6OiVarz0FPmL9yYU9EoePcJokZXNjbc0cwJUIDtXrF1JHQA4lYz0kK5IUo6R6FlFID+6fDtZ5AzZZDK44T4kpZ7wG128IXAzLesm6ht40oVAzI+Ki+XIQQmwxET5dLw9jASH7X+dy2lVNB36l8yWKhbZbcQNr3QvlHssrLK7CxmFzQY6AWMMin5HZ3w==;68bHXGKjZ6GAeh0bGeRUvA=="
 ---

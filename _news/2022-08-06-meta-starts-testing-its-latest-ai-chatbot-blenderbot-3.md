@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
-excerpt: "Meta has introduced a new AI called BlenderBot 3 that is supposed to be able to hold a conversation with pretty much anyone on the internet without becoming a jerk in the process. \"BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it,"
+excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
 publishedDateTime: 2022-08-06T15:28:00Z
-originalUrl: "https://au.pcmag.com/news/95512/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
-webUrl: "https://au.pcmag.com/news/95512/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
+originalUrl: "https://www.pcmag.com/news/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
+webUrl: "https://www.pcmag.com/news/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
 type: article
 quality: 67
 heat: -1
@@ -22,9 +22,9 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/m/meta-start/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3_6kxt.1200.jpg"
-    width: 1200
-    height: 675
+  - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -215,6 +215,6 @@ related:
         height: 504
         isCached: true
 
-secured: "qu4KKc+aIrJUGnX4FaXmATL/baC5iRHj18ZIgvYu2CEGlu0nElp9yW/edbr5qyrbCJ2VMbGyQDGrUlGJYBRgNOKD0s1ikBF5wJpQup/aUn+Eq8FxjTC3oUWvLqfAeyIZDNYOSc46hCwqkM1MZKAooNOFPcmGbHbEVrejviJ4vFAk3WWG6FB7GQMFxZmEDa4CuS0Wga9U1GRERrPOiUBwrcUX7e69/MRp61hOvYw8dHpY4mQJtN+SSlctYuV/xu2gPwyWXYVQIZH2GCmrHfmYB9tI+5JGSbC4ovwcqlz3AuvRKcglokjWHYmRH1AGfdDF9xnQwii9O8jhN1xdhRPWaJ9ysfrMlvOWI4W3pyCzKKs=;o35KllyDg/hQ3PC3dL9KSQ=="
+secured: "bs/ZWAAf4hB1DouVRR3rshuGY/1/JC59OajQV47ag38TCraUbK+WRiTAH905PoGQDLA5TUYjMbhJAwceu+ocVGkmIiwWPXh/FCqcHtKVhe174H7iF9Pp8WJ/y+Vcl/ym1F10gVDvyWien6r02zV33+17soxRxy6p3e3j+ZU2G7B/dNbDO9SpRcAfZiLecU/Tcb1d+mo7hg4IAIPKJxfzQIeFuuSGBTbsTqdKTZoYrIX9nwem8M+QvNkpV1BSwmhClbQU61pxfn66IlC3+TQ5ke1L2YpX9BrCHVu/Vh5wGo05lUOYIUsIYVBqlu+qxGreLiPMXJWWoSYgwDFnthNlADK2aDj3hHko/HsOIlqsApc=;yH+aPvo5XWFuBDmtlbg/LQ=="
 ---
 

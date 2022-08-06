@@ -45,22 +45,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Feds probe crash of TuSimple self-driving truck in Tucson"
-    excerpt: "TuSimple, which has tested self-driving trucks from its Tucson terminal since 2015, says a non-injury crash in April was caused by human error."
-    publishedDateTime: 2022-08-01T23:40:00Z
-    webUrl: "https://tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.html"
-    ampWebUrl: "https://tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/news/local/business/feds-probe-crash-of-tusimple-self-driving-truck-in-tucson/article_e37b6d6c-11e4-11ed-84d4-93d14a32fc7a.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/b/ee/beea2a24-11e9-11ed-a6ce-8bb90e45b4ba/61faae1675fb3.image.jpg?crop=1752%2C988%2C156%2C52&resize=1024%2C577&order=crop%2Cresize"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "TuSimple’s Self-Driving Semi Truck Crash Veers Into Renewed Scrutiny"
     excerpt: "Following a recent crash, the self-driving truck company TuSimple has come under fire for ignoring safety measures."
     publishedDateTime: 2022-08-03T17:46:00Z

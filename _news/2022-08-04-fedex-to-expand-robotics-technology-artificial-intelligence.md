@@ -3,18 +3,18 @@ category: news
 title: "FedEx to expand robotics technology, artificial intelligence"
 excerpt: "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the"
 publishedDateTime: 2022-08-03T23:22:00Z
-originalUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-webUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-ampWebUrl: "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-cdnAmpWebUrl: "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+originalUrl: "https://www.fox43.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+webUrl: "https://www.fox43.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+ampWebUrl: "https://www.fox43.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
 type: article
 quality: 89
 heat: 99
 published: true
 
 provider:
-  name: Local 24 News
-  domain: localmemphis.com
+  name: FOX43
+  domain: fox43.com
 
 topics:
   - AI in Robotics
@@ -42,6 +42,6 @@ related:
         height: 799
         isCached: true
 
-secured: "L1Vg3b64IVFIA+UGrjODrgMUgUmKaPmSk67igAPYT/O9BigO8hHtqtG7r7BeF9NuERCviD6oCli+u/NBO5u8HtOzFbgkSh+cndbBC7+Ps7VLltAtb4POQf2Jihn34OokRmtSu7xX4YbYsuYojIucsIdYsXWA41/4UGUhc3Klv3nr5Gq68487VWKLKyUP9mDjILpZjlk8XoYu1FGc5ns+tZw6sL7QjgATL7s9hK3mfer3t1q6I99gLcKDV7aU9bRab1bJZTS0fcKZMSGmzv4oKNvJk1trW90XDJG1rrVzkJiAG7kSQOTaLi3OzNf9oX22vXDVnWQ2A3BOhV1Z3Ku1IUVDK7qa5Jr5fjNAcZBSPHX1JIX8+MDZ9tH8SNsdE1+0cImgOO9YxDk6AMT8Lb3FSr0XDKVsGpgAdTmRpu7AhxPd3G10vuz1PHNq6nxxHbH0TwbGKOVq52rxaAkA0lyqllIMT0H6pDm1QHHuaKwlwFZEpZlwAyxh9YSpoclwE499iqC3pEVEkAW810xv658njg==;p9d28+Wl5rkGd2R3YJyfsA=="
+secured: "xbNy58sl+nKS0J0xaySNYwqL3tj6/KZjM+aESeJ7sFWASvzFp80FJCcx3ksYaA7Trjau3cGnGXUAQMxxXP+pt6Kx5SrsXcIsEFBnTkH3VID5msP0taIYdKf0TCZJtXqT1Fot1LzICQ+tv/1cgQnA5u/mxHwm1PuXYpM2dm1OXoGkGyQWx5uM97om+vY1NeT0O6YBHqvXjTgTswoTqMg9aFnEvqaWwAw0C541cZoQKyUgYrGs/NCfLc2sCZC+nxtez5XVnAnpUXplALHPI+smPnx8tadi68ln49jA/HnQmBaBZpH6jmbx9apLAcykWXGw1qfvctw2u2XmFzA92c/cZUTO9LcTGgQ1FW5RuvjEAkc=;aZbhmCAJ4O9F4ihT5EA4Dg=="
 ---
 

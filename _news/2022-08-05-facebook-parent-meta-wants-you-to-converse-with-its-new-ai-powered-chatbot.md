@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
-    excerpt: "Meta has introduced a new AI called BlenderBot 3 that is supposed to be able to hold a conversation with pretty much anyone on the internet without becoming a jerk in the process. \"BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it,"
+    excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
     publishedDateTime: 2022-08-06T15:28:00Z
-    webUrl: "https://au.pcmag.com/news/95512/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
+    webUrl: "https://www.pcmag.com/news/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/m/meta-start/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3_6kxt.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "The innumerable avantages of conversational AI in chatbots"
     excerpt: "Conversational AI (CAI) has revolutionised how businesses interact with their customers. Companies include Conversational AI into their omnichannel experiences—often in their messaging applications—whether they are utilising text-based or speech-based chatbots to increase sales and"

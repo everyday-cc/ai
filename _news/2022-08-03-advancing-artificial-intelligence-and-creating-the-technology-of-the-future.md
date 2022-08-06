@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_154741318-scaled.jpg"
         width: 2000
         height: 975
+        isCached: true
+  - title: "The evolving cyberthreat landscape and the benefits of AI and Machine Learning"
+    excerpt: "Derek Manky, Chief, Security Insights & Global Threat Alliances, FortiGuard Labs; and Jonas Walker, Security Strategist with Fortinet’s FortiGuard Labs, discuss the changing threat landscape and the role of Artificial Intelligence and Machine Learning in fighting today’s cyberthreats."
+    publishedDateTime: 2022-08-05T08:04:00Z
+    webUrl: "https://www.intelligentcio.com/north-america/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 50
+    images:
+      - url: "https://i0.wp.com/www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
+        width: 1000
+        height: 450
         isCached: true
   - title: "White Paper: The Future of Self-Driving Technology in Trucking"
     excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."

@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/telehealth-and-ai-are-top-pri
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/telehealth-and-ai-are-top-priorities-for-indian-healthcare-leaders-reveals-philips-future-health-index-india-2022-report/1068812/?amp"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,35 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "How rangers are using AI to help protect India's tigers"
-    excerpt: "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink."
-    publishedDateTime: 2022-08-01T23:07:00Z
-    webUrl: "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D"
-    ampWebUrl: "https://www.bbc.com/news/business-61824904.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp"
+  - title: "TidalHealth using AI to reduce physician burnout"
+    excerpt: "\"We're excited to help support TidalHealth as they look to empower their network of practitioners and build the future of medicine.\""
+    publishedDateTime: 2022-08-03T20:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/tidalhealth-using-ai-to-reduce-physician-burnout.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F506/production/_126062726_gettyimages-967577270.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
-    excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"
-    publishedDateTime: 2022-08-06T10:07:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272645226/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders"
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
+  - title: "Former Hims and Hers exec launches pediatric telehealth startup backed by Sequoia, Lux"
+    excerpt: "Health, a telehealth startup that delivers pediatric care via text messaging, launched last week with $7.5 million in seed funding. The seed round was led by Alfred Lin at Sequoia Capital and Deena Shakir at Lux Capital."
+    publishedDateTime: 2022-08-02T20:31:00Z
+    webUrl: "https://medcitynews.com/2022/08/former-hims-and-hers-exec-launches-pediatric-telehealth-startup-backed-by-sequoia-lux/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 28
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 14
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1659780490.jpg"
-        width: 630
-        height: 420
+      - url: "https://medcitynews.com/uploads/2022/08/Ellen-high-res-2-scaled.jpg"
+        width: 2560
+        height: 1703
         isCached: true
 
 secured: "oUP8FxZfP5n7siPh7D827iQo5UpPzBQCVfove4wfjhU7YigVy09NMa34fQUqzjGKClcEzGlLpUS3iwAvQ79L9mauKDmQr6BoG/6wP+LliWJRGtAtzv/AeccxdsSLS7/kYk7sH2GTZUmZiJpPn+URdzlwVFgGPluPy3UYuzsOZMzGKgGhdghf1j+ZCTLsYAD8xOzFofZSi9CeQvWDO2LhYOnmTCjQW8ZqBIIO7g5Cl1a3KpC4/HxT9tbSY2QFRCvA6suSndJnydPWRUhuPzCdJeNyskTHmM0ddUfyApaFtzvEQq9dfgE/GxVm9qCZEpaiKIXJS2tNfmNvGdTTwabFlkgyxQOJ/vtt8E1R5sWAwAo=;YO+hL7z/vY8Rg575Ii2pgw=="
