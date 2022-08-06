@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 555
+heat: 568
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 16581799
+  followers: 16582607
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Iw69ajEfzjQsvlG7l5Bz1fBTToLrIUnoOaIWpL/4YeZzlV0r50WGMO2LxKg5h9GvBrXDL7EcYWSO4f2MCSvImHsdxgW1i4SVe8nN1BUWj32UTyzs2PFk7Mmyfbk9EI61yFGBYX3/UkEKtLNwuS5j/YXobQspcYIdlQc2+3N+wbgXrbgJmhUcWfn3oDfyrV+3lH1Ontx37Y5YW4tpCBjVMwAik/pV8SourZSyeB/AaIwv30mEfKl+cKSmO8vTavvhnwX6tZA+h/P6udmZPzeLl26H/iK8iO5rGZNfFr0rKWiQO2lVqUXjwX9/nftQExxQqMcjZSZxuDMq3766G/7JnaNRsu6wo0kTefaeeYPGwt26Ywyp2OxPIzdPFBFIJLOBKLvpKcCSUJSF87lOMN/McJtAx9bhMOn0NqHFQmHiCG0=;8I2unP052/V9wuD5nsWqJw=="
+secured: "EGy+uBotp4FuM7K/cEVftX1BzAoSApN0oM35Is0+KTKmeC5Is287fFabFKKJXPntKVgdxRgTRBea+ld2+68hG4l458Es6Jl/HOrMaImp+reY/WzVuLHdQ16F22faQolZKyMopHqJ1MebZhjdnO+gPwwLoo8u2fe8C3iQ5nTduQV/BTxcGo/kMk3F7sCNLc6TfIdDXiRN1GwgzSYzT0jGrzPwMvVuKED7XBudcQ9938m5Vwv12laLMqTdiymf+p9UabMhwprTF6TUCGNa3NuyieBkUToUMnMNQc/5lCUVLxzDJfVMXS+eitOy7j8758CCVdzyaIR5uhX5OdV1bQlF4TlIMAHMpO9ZYR8AzIKTiOGz4r+fwtjt/SlA0w6wLRovoEzJ9YejsNP0FF/V1yLWNnNziOzpoLLbPjKASMC/9kk=;u6252o90Kt+bAKoUpoRxDA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "ActiveCampaign"
 overview: "ActiveCampaign is the Customer Experience Automation (CXA) category leader."
 type: "profile"
-heat: 87
+heat: 71
 
 website: https://www.activecampaign.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ActiveCampaign"
   url: "https://twitter.com/ActiveCampaign"
-  followers: 12592
+  followers: 12591
 
 locations:
   - Chicago, IL
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "ActiveCampaign"
 
-secured: "IemzszOqqjQoyN9gNGWU4pllMAiZBQ5BtlYozwYkqpT5ca5GTpQPOVAXUKxFYEcrplK+NR5XcPWsukq/GpHr6rhQAkPyeJ58ygtL3UEyd+qBm/6zivcIEMQHZ32VPVbTfa625BYSwQbULOjRE+lseYyIvzRIIpaFrgc0Ino03RRCNsZ93ppIc0lgYaTpeuARZ1dakmk191B+rxLxEHh7Tm9lXN13cvIFEddVOtVIja5ub7lzkOIDfHVh9IaYTXsUHGN0Abb3VN2h8Wpys1dPWJ+tW4RkAWFEt5hoN8aO+u+kntCDbMn/AxDJT+1+SjEqr0AkooHGsZJcX3BoSYBCv1lMdA++ASAYGEI/che/V/4OxgIlkds2PBs/EHguIUR93Y7oQJ9s7wIPZHsGubBiYI72f97lHK6AesPJKmsfAPc=;n4EkJHjdT7a5H0VrJH2dTw=="
+secured: "+YVAmycsRcxBSOECWMRjbk6DbZJZw/DTENyR4iSaoxoh5UHE2Xo5ukTHrMPA4Hm6ADwdGXSlrTSwTGh8myohX14brp2KCNK2I13g5MlU06TAyYQ15+6fz19I81O0HwbKeALhasVzD6Shta5KxR4kDtRGmCUCvlMiMnmQr0KBb//S+9O9L2XY+kaXXJYwkUjePCTa1dMTY0C2WIWsN8Pv1EpYPs4360Nxpwf/Unhf5CB//RWG5HR2T2L196oWIpHr/uXAD6aJtzUHH+AxBvEMdG14wLUAS3eTKH4kGGuOMLdb2qt7rDZp1q2BRlIihzagwl7c34A45f2TKW93GSWHUG16b1ywUE71aunwEzRwd3/aQx2Tt0t+ckCqt36lfiOEtjfssmochTWURFOUCtObvg8hknA6Zcse0eYnFVsJH64=;xOPrgeA1OkupMvygkMYmog=="
 ---
 

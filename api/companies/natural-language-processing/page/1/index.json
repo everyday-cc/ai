@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 101908
+        "followers": 101924
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -42,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 291,
+      "heat": 296,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 220079
+        "followers": 220081
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -91,7 +91,7 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 245,
+      "heat": 212,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1498490075444760576/Myon7HID_400x400.jpg",
@@ -119,7 +119,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 13420
+        "followers": 13422
       },
       "yearFounded": 0,
       "locations": [
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
         }
       ],
-      "heat": 118,
+      "heat": 115,
       "tags": [
         "Natural Language Generation"
       ],
@@ -153,49 +153,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/taskus.md",
-      "title": "TaskUs",
-      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/taskus/index.json",
-      "webUrl": "https://everyday.cc/ai/company/taskus/",
+      "path": "_companies/conversica.md",
+      "title": "Conversica",
+      "excerpt": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/conversica/index.json",
+      "webUrl": "https://everyday.cc/ai/company/conversica/",
       "type": "profile",
-      "name": "TaskUs",
-      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
-      "website": "https://www.taskus.com/",
+      "name": "Conversica",
+      "overview": "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ",
+      "website": "https://www.conversica.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/taskus",
-        "followers": 42675
+        "url": "https://www.linkedin.com/company/conversica",
+        "followers": 15771
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/taskus"
+        "url": "https://www.crunchbase.com/organization/conversica"
       },
       "twitter": {
-        "username": "taskus",
-        "url": "https://twitter.com/taskus",
-        "followers": 4898
+        "username": "myconversica",
+        "url": "https://twitter.com/myconversica",
+        "followers": 12393
       },
-      "size": "10,001+ employees",
-      "yearFounded": 2008,
+      "size": "201-500 employees",
+      "yearFounded": 2007,
       "locations": [
-        "Los Angeles, CA",
-        "Santa Monica, CA"
+        "San Francisco, CA",
+        "Foster City, CA"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
+        "AI in Sales",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
+          "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
         }
       ],
-      "heat": 77,
+      "heat": 96,
+      "tags": [
+        "Natural Language Generation"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1554045089315721217/BnsaMeTK_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/887468833916600320/8nOhBX6V_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "TaskUs",
+          "title": "Conversica",
           "isCached": true
         }
       ],
@@ -242,7 +249,7 @@
           "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
         }
       ],
-      "heat": 71,
+      "heat": 96,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1534247453800554496/AIuH9Fkd_400x400.jpg",
@@ -255,40 +262,49 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/liulishuo.md",
-      "title": "Liulishuo",
-      "excerpt": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/liulishuo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/liulishuo/",
+      "path": "_companies/chumenwenwen.md",
+      "title": "Mobvoi",
+      "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/chumenwenwen/index.json",
+      "webUrl": "https://everyday.cc/ai/company/chumenwenwen/",
       "type": "profile",
-      "name": "Liulishuo",
-      "overview": "Founded by Yi Wang, Hui Lin and Ben Hu in 2012, Liulishuo is the world's leading \"AI + Education\"​ company. The Company has developed the world's first “AI English Teacher” based on deep learning, which provides a personalized and adaptive learning path for every learner. It is proven to triple the learning efficiency (reduce the required learning time to one third) compared to human teachers by CEFR (Common European Framework of Reference for Language) standards, according to a study using the TOEIC Bridge Test from ETS.",
-      "website": "https://www.liulishuo.com/",
+      "name": "Mobvoi",
+      "otherNames": [
+        "出门问问",
+        "Chumenwenwen",
+        "北京羽扇智信息科技有限公司",
+        "Beijing Yushanzhi Xinxi keji youxian Gongsi",
+        "chumenwenwen.com"
+      ],
+      "overview": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
+      "website": "http://www.chumenwenwen.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/liulishuo/",
-        "followers": 3501
+        "url": "https://www.linkedin.com/company/3773376",
+        "followers": 2571
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/liulishuo"
+        "url": "https://www.crunchbase.com/organization/mobvoi"
       },
       "twitter": {
-        "username": "lingochamp",
-        "url": "https://twitter.com/lingochamp",
-        "followers": 1471
+        "username": "Mobvoi_Official",
+        "url": "https://twitter.com/Mobvoi_Official",
+        "followers": 52395
       },
-      "size": "1,001-5,000 employees",
+      "size": "501-1,000 employees",
       "yearFounded": 2012,
       "locations": [
-        "Shanghai, Shanghai"
+        "Beijing, 北京"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Education",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
+          "url": "https://www.youtube.com/watch?v=z-H_xsUFD68"
         }
       ],
       "heat": 71,
@@ -297,18 +313,11 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1326830321157898240/14TzFVZF_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1050206936006709250/K-KzEDii_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Liulishuo",
+          "title": "Mobvoi",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG5rLftUNFeCA/company-logo_200_200/0?e=1594857600&v=beta&t=1f3B0p4jXCfxQiBgnrTzY2DtsjjW_ilKP5msAKeTB2A",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -347,7 +356,7 @@
           "url": "https://www.youtube.com/watch?v=sQwbipcFPYg"
         }
       ],
-      "heat": 71,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1420855210755330050/GcIPxskU_400x400.jpg",
@@ -360,223 +369,53 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/persado.md",
-      "title": "Persado",
-      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/persado/index.json",
-      "webUrl": "https://everyday.cc/ai/company/persado/",
+      "path": "_companies/textio.md",
+      "title": "Textio",
+      "excerpt": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/textio/index.json",
+      "webUrl": "https://everyday.cc/ai/company/textio/",
       "type": "profile",
-      "name": "Persado",
-      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
-      "website": "https://www.persado.com/",
+      "name": "Textio",
+      "overview": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "website": "https://textio.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/persado",
-        "followers": 13074
+        "url": "https://www.linkedin.com/company/textio",
+        "followers": 13867
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/persado"
+        "url": "https://www.crunchbase.com/organization/textio"
       },
       "twitter": {
-        "username": "persado",
-        "url": "https://www.twitter.com/persado",
-        "followers": 5209
+        "username": "textio",
+        "url": "https://twitter.com/textio",
+        "followers": 8075
       },
-      "size": "201-500 employees",
-      "yearFounded": 2012,
+      "size": "51-200 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Fremont, CA",
-        "New York, NY",
-        "New York, New York"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ig4B5roBgao"
-        }
-      ],
-      "heat": 64,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359197249838874628/avr1lbZ-_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Persado",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/armorblox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 415
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
+        "Seattle",
+        "Seattle, WA",
+        "Seattle, Washington"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542639048489058306/oHa1H67L_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/dialogflow.md",
-      "title": "Dialogflow",
-      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dialogflow/index.json",
-      "webUrl": "https://everyday.cc/ai/company/dialogflow/",
-      "type": "profile",
-      "name": "Dialogflow",
-      "otherNames": [
-        "Speaktoit",
-        "Api.ai"
-      ],
-      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
-      "website": "https://dialogflow.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/1443713/",
-        "followers": 3083
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/api-ai"
-      },
-      "twitter": {
-        "username": "Dialogflow",
-        "url": "https://twitter.com/Dialogflow",
-        "followers": 12171
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "topics": [
-        "AI",
         "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+          "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
         }
       ],
-      "heat": 57,
-      "tags": [
-        "Speech Recognition"
-      ],
+      "heat": 64,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1542948003496882177/lLJJ-bLb_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Dialogflow",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativa.md",
-      "title": "Narrativa",
-      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativa/index.json",
-      "webUrl": "https://everyday.cc/ai/company/narrativa/",
-      "type": "profile",
-      "name": "Narrativa",
-      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "website": "http://www.narrativa.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/9329868",
-        "followers": 341
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-visualization"
-      },
-      "twitter": {
-        "username": "NarrativaAI",
-        "url": "https://twitter.com/NarrativaAI",
-        "followers": 1342
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Shipping worldwide",
-        "Madrid, Boadilla del Monte"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
-        }
-      ],
-      "heat": 57,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542800193611071488/r_KZv_b7_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrativa",
+          "title": "Textio",
           "isCached": true
         }
       ],
@@ -622,7 +461,7 @@
           "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
         }
       ],
-      "heat": 57,
+      "heat": 64,
       "tags": [
         "Speech Recognition"
       ],
@@ -632,6 +471,223 @@
           "width": 400,
           "height": 400,
           "title": "Trint",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kadaxis.md",
+      "title": "Kadaxis",
+      "excerpt": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kadaxis/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kadaxis/",
+      "type": "profile",
+      "name": "Kadaxis",
+      "overview": "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis.",
+      "website": "https://kadaxis.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kadaxis",
+        "followers": 50
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kadaxis"
+      },
+      "twitter": {
+        "username": "kadaxis",
+        "url": "https://twitter.com/kadaxis",
+        "followers": 28557
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "New York, NY",
+        "New York, New York"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3ELoLhZNxb0"
+        }
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000400606775/857c753a4104fa5ecb94afd6f6e2a5bc_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kadaxis",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lilt.md",
+      "title": "Lilt",
+      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lilt/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lilt/",
+      "type": "profile",
+      "name": "Lilt",
+      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
+      "website": "https://lilt.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lilthq/",
+        "followers": 2681
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lilt"
+      },
+      "twitter": {
+        "username": "lilthq",
+        "url": "https://twitter.com/lilthq",
+        "followers": 5750
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1502382287664467975/cgHAbejo_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lilt",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/notable.md",
+      "title": "Notable",
+      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
+      "webUrl": "https://everyday.cc/ai/company/notable/",
+      "type": "profile",
+      "name": "Notable",
+      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
+      "website": "http://notablehealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/notablehealth/",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/notable"
+      },
+      "twitter": {
+        "username": "notablehealth",
+        "url": "https://twitter.com/notablehealth",
+        "followers": 352
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing"
+      ],
+      "heat": 57,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1453056506136457220/c-Q9gn3h_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Notable",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/verbit.ai.md",
+      "title": "Verbit",
+      "excerpt": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/verbit.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/verbit.ai/",
+      "type": "profile",
+      "name": "Verbit",
+      "overview": "We're using smart AI technology to disrupt transcription and captioning with automation and speed.",
+      "website": "https://verbit.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/verbit/",
+        "followers": 6214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/verbit-ai"
+      },
+      "twitter": {
+        "username": "verbit_",
+        "url": "https://twitter.com/verbit_",
+        "followers": 1517
+      },
+      "size": "51-200 employees",
+      "yearFounded": 0,
+      "locations": [
+        "United States",
+        "New York, NY",
+        "New York, New York"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=C8AG8eTC8D0"
+        }
+      ],
+      "heat": 57,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1543514474644217858/N3b8z2IL_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verbit",
           "isCached": true
         }
       ],
@@ -772,58 +828,6 @@
           "width": 400,
           "height": 400,
           "title": "Tetra",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/automatedinsights.md",
-      "title": "Automated Insights",
-      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/automatedinsights/index.json",
-      "webUrl": "https://everyday.cc/ai/company/automatedinsights/",
-      "type": "profile",
-      "name": "Automated Insights",
-      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
-      "website": "https://automatedinsights.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2708220",
-        "followers": 3336
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/automated-insights"
-      },
-      "twitter": {
-        "username": "AInsights",
-        "url": "https://twitter.com/AInsights",
-        "followers": 4581
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "San Francisco, CA",
-        "Durham, NC"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ziizj6u1f6M"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1158846406498668545/zDApgLbP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Automated Insights",
           "isCached": true
         }
       ],
@@ -1102,6 +1106,62 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/dialogflow.md",
+      "title": "Dialogflow",
+      "excerpt": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/dialogflow/index.json",
+      "webUrl": "https://everyday.cc/ai/company/dialogflow/",
+      "type": "profile",
+      "name": "Dialogflow",
+      "otherNames": [
+        "Speaktoit",
+        "Api.ai"
+      ],
+      "overview": "People should do the work they care most about. Robots can do the rest. 🤖  Meet our robot @moxirobot.",
+      "website": "https://dialogflow.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/1443713/",
+        "followers": 3083
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/api-ai"
+      },
+      "twitter": {
+        "username": "Dialogflow",
+        "url": "https://twitter.com/Dialogflow",
+        "followers": 12171
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ADD-rvsS5z4"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880147119528476672/S7C-2C6t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Dialogflow",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/eigentech.md",
       "title": "Eigen Technologies",
       "excerpt": "",
@@ -1284,6 +1344,52 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/iris.ai.md",
+      "title": "Iris.ai",
+      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/iris.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/iris.ai/",
+      "type": "profile",
+      "name": "Iris.ai",
+      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
+      "website": "https://iris.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/iris-ai"
+      },
+      "twitter": {
+        "username": "theirisai",
+        "url": "https://twitter.com/theirisai",
+        "followers": 2937
+      },
+      "yearFounded": 0,
+      "locations": [
+        "London, England"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1478649780565852161/yB7I2FU1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Iris.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/just-ai.md",
       "title": "Just AI",
       "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
@@ -1368,103 +1474,6 @@
           "width": 400,
           "height": 400,
           "title": "Klarity",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lighttag.io.md",
-      "title": "LightTag",
-      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lighttag.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lighttag.io/",
-      "type": "profile",
-      "name": "LightTag",
-      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
-      "website": "https://www.lighttag.io/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lighttag"
-      },
-      "twitter": {
-        "username": "LabeledData",
-        "url": "https://twitter.com/LabeledData",
-        "followers": 179
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "LightTag",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lilt.md",
-      "title": "Lilt",
-      "excerpt": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lilt/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lilt/",
-      "type": "profile",
-      "name": "Lilt",
-      "overview": "Lilt builds intelligent software to augment translation for businesses and translators. We combine artificial intelligence with human power to optimize speed, quality and cost.",
-      "website": "https://lilt.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/lilthq/",
-        "followers": 2681
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lilt"
-      },
-      "twitter": {
-        "username": "lilthq",
-        "url": "https://twitter.com/lilthq",
-        "followers": 5750
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1502382287664467975/cgHAbejo_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lilt",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGCR2u9hpuFNQ/company-logo_200_200/0?e=1594857600&v=beta&t=nS4hm-ccE5SHhkOzP7HZ5deOv04vGZON7lH6nno0j4c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
           "isCached": false
         }
       ],

@@ -4,47 +4,95 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/rul.ai.md",
-      "title": "Rulai",
-      "excerpt": "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rul.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/rul.ai/",
+      "path": "_companies/rockmetric.md",
+      "title": "Rockmetric",
+      "excerpt": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rockmetric/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rockmetric/",
       "type": "profile",
-      "name": "Rulai",
-      "overview": "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai.",
-      "website": "https://rul.ai/",
+      "name": "Rockmetric",
+      "overview": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "website": "https://www.rockmetric.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/rulai-inc/",
-        "followers": 1793
+        "url": "https://www.linkedin.com/company/rockmetric",
+        "followers": 816
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/rulai"
+        "url": "https://www.crunchbase.com/organization/rockmetric"
       },
       "twitter": {
-        "username": "rulaiinc",
-        "url": "https://twitter.com/rulaiinc",
-        "followers": 213
+        "username": "rockmetric",
+        "url": "https://www.twitter.com/rockmetric",
+        "followers": 245
       },
       "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2015,
       "locations": [
-        "Campbell, CA"
+        "Mumbai, Maharashtra"
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OZ7_tIGZXus"
+        }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/876928853771403265/jykiSP8O_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1110881175193546759/RQHj5B0z_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Rulai",
+          "title": "Rockmetric",
           "isCached": true
-        },
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/roobo.md",
+      "title": "ROOBO",
+      "excerpt": "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/roobo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/roobo/",
+      "type": "profile",
+      "name": "ROOBO",
+      "otherNames": [
+        "北京儒博科技有限公司",
+        "儒博"
+      ],
+      "overview": "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。",
+      "website": "http://www.roobo.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%99%BA%E8%83%BD%E7%AE%A1%E5%AE%B6%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/",
+        "followers": 140
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/roobo"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "北京, 北京"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFiJrA9xb7Bbg/company-logo_200_200/0?e=1594857600&v=beta&t=VcxOJqNMbtsSQKE2M9nKikownqE67bDXh0xuoh9TUs0",
+          "url": "https://www.youtube.com/watch?v=isl6-citSqY"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_200_200/0?e=1594857600&v=beta&t=yIXpJ_peaQf9qKaSoqLRjULuwPf44GRmmGQPuP8h9H4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -97,63 +145,6 @@
           "height": 400,
           "title": "Semantic Machines",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentifi.md",
-      "title": "Sentifi",
-      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentifi/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sentifi/",
-      "type": "profile",
-      "name": "Sentifi",
-      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "website": "https://parashift.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sentifi/",
-        "followers": 11489
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentifi"
-      },
-      "twitter": {
-        "username": "sentifi",
-        "url": "https://twitter.com/sentifi",
-        "followers": 4743
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Zurich, Switzerland",
-        "Zurich, Zurich"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sentifi",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -262,52 +253,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sightmachine.md",
-      "title": "Sight Machine",
-      "excerpt": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sightmachine/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sightmachine/",
-      "type": "profile",
-      "name": "Sight Machine",
-      "overview": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "website": "https://sightmachine.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sight-machine/",
-        "followers": 2817
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sight-machine"
-      },
-      "twitter": {
-        "username": "sightmachine",
-        "url": "https://twitter.com/sightmachine",
-        "followers": 1180
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sight Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/signal-ai.md",
       "title": "Signal AI",
       "excerpt": "Media monitoring, reputation management, regulatory compliance and market intelligence solutions powered by AI. Get a demo: https://t.co/mz2HzMdJ4v.",
@@ -355,6 +300,64 @@
           "height": 400,
           "title": "Signal AI",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/signifyd.md",
+      "title": "Signifyd",
+      "excerpt": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signifyd/index.json",
+      "webUrl": "https://everyday.cc/ai/company/signifyd/",
+      "type": "profile",
+      "name": "Signifyd",
+      "overview": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "website": "https://www.signifyd.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/signifyd/",
+        "followers": 5779
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/signifyd"
+      },
+      "twitter": {
+        "username": "signifyd",
+        "url": "https://twitter.com/signifyd",
+        "followers": 1853
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "San Jose, CA",
+        "San Jose, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1350199853297516544/9IO3KMbB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Signifyd",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_200_200/0?e=1594857600&v=beta&t=d5nVuxYDlWXRV8erw1R_nD-nbnBqUMRx98uSu4AbfO8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -455,49 +458,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/skychain.global.md",
-      "title": "Skychain Global",
-      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/skychain.global/index.json",
-      "webUrl": "https://everyday.cc/ai/company/skychain.global/",
-      "type": "profile",
-      "name": "Skychain Global",
-      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
-      "website": "https://skychain.global",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skychain-global"
-      },
-      "twitter": {
-        "username": "skychainglobal",
-        "url": "https://twitter.com/skychainglobal",
-        "followers": 2501
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=npQklriczNA"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Skychain Global",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/smartenspaces.md",
       "title": "Smarten Spaces",
       "excerpt": "Smarten Spaces is a new age technology company which has built the first AI and IOT end to end platform with a host of integrated micro services to disrupt a $217 Trillion+ industry of built up and new spaces. Our mission is to create the world's largest smart community not limited by spaces but making spaces easy to work, explore or live in.",
@@ -530,66 +490,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C510BAQFi606oKvzlvg/company-logo_200_200/0?e=1594857600&v=beta&t=71vdvqbv7NEgkKHBScyCC477PPspd0WONW006m0-klo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/socure.md",
-      "title": "Socure",
-      "excerpt": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/socure/index.json",
-      "webUrl": "https://everyday.cc/ai/company/socure/",
-      "type": "profile",
-      "name": "Socure",
-      "overview": "Socure provides a real-time predictive analytics platform that combines the newest forms of machine learning and artificial intelligence with digital, offline and social identity data to deliver the most accurate and robust KYC, identity verification and fraud risk prediction solution in the market.",
-      "website": "https://www.socure.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/socure",
-        "followers": 4096
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/socure"
-      },
-      "twitter": {
-        "username": "socureme",
-        "url": "https://twitter.com/socureme",
-        "followers": 7149
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "New York, NY",
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech",
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410652005442412546/hvkEaWDP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Socure",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXFhTs-POYFA/company-logo_200_200/0?e=1594857600&v=beta&t=8nQZUu_J4aQyL9WTxtza5GwWcumb2YhXPUhfWeMP91c",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -638,6 +538,55 @@
           "width": 400,
           "height": 400,
           "title": "SoundHound",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/speechmatics.md",
+      "title": "Speechmatics",
+      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/speechmatics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/speechmatics/",
+      "type": "profile",
+      "name": "Speechmatics",
+      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
+      "website": "https://www.speechmatics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/speechmatics/",
+        "followers": 2744
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/speechmatics"
+      },
+      "twitter": {
+        "username": "Speechmatics",
+        "url": "https://twitter.com/Speechmatics",
+        "followers": 1470
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Cambridge"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544233130164453376/NV6AAFMr_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Speechmatics",
           "isCached": true
         }
       ],
@@ -732,6 +681,62 @@
           "height": 400,
           "title": "Starsky Robotics",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/suki.ai.md",
+      "title": "Suki",
+      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/suki.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/suki.ai/",
+      "type": "profile",
+      "name": "Suki",
+      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
+      "website": "https://www.suki.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/SukiHQ",
+        "followers": 14481
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sukihq"
+      },
+      "twitter": {
+        "username": "SukiHQ",
+        "url": "https://www.twitter.com/SukiHQ",
+        "followers": 1688
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Redwood City, CA",
+        "Redwood City, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Suki",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -934,6 +939,55 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/taskus.md",
+      "title": "TaskUs",
+      "excerpt": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/taskus/index.json",
+      "webUrl": "https://everyday.cc/ai/company/taskus/",
+      "type": "profile",
+      "name": "TaskUs",
+      "overview": "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology.",
+      "website": "https://www.taskus.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/taskus",
+        "followers": 42675
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/taskus"
+      },
+      "twitter": {
+        "username": "taskus",
+        "url": "https://twitter.com/taskus",
+        "followers": 4898
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Santa Monica, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=W1V6Id1VrqU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1554045089315721217/BnsaMeTK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TaskUs",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/tnh.health.md",
       "title": "TNH Health",
       "excerpt": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
@@ -978,62 +1032,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdPzVaJWQMKQ/company-logo_200_200/0?e=1594857600&v=beta&t=yG7oyEeE3jwVztdO67qY21-DVWPyDIifkT1jpTZvq6g",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/tusimple.ai.md",
-      "title": "TuSimple",
-      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
-      "type": "profile",
-      "name": "TuSimple",
-      "otherNames": [
-        "图森未来"
-      ],
-      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
-      "website": "https://www.tusimple.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/tusimple/",
-        "followers": 7150
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/tusimple-llc"
-      },
-      "twitter": {
-        "username": "tusimpleai",
-        "url": "https://twitter.com/tusimpleai",
-        "followers": 5387
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Diego , CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1461090067867312133/0KghKTjM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "TuSimple",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1314,6 +1312,67 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/viz.ai.md",
+      "title": "Viz",
+      "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/viz.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/viz.ai/",
+      "type": "profile",
+      "name": "Viz",
+      "otherNames": [
+        "Viz.ai Inc."
+      ],
+      "overview": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
+      "website": "https://www.viz.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/viz.ai",
+        "followers": 4660
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/viz"
+      },
+      "twitter": {
+        "username": "viz_ai",
+        "url": "https://twitter.com/viz_ai",
+        "followers": 2066
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=y3P9aVwDOig"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544757222051291136/t6_fi0V0_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Viz",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQECPWOsd6AcBg/company-logo_200_200/0?e=1594857600&v=beta&t=F79EbLklely70ypxhAuvR6eGKKtViXJYcwuCZhvlbx4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/voicebox.md",
       "title": "VoiceBox Technologies",
       "excerpt": "A pioneer in Natural Language Understanding and #ConversationalAI with roots in #connectedcars, now extending our experience to #IoT #virtualshopping #NLU #AI",
@@ -1356,60 +1415,6 @@
           "width": 400,
           "height": 400,
           "title": "VoiceBox Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
-      "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
-      },
-      "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 10393
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Voyage",
           "isCached": true
         }
       ],
