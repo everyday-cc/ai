@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Saint Leo University Opens a New Interactive Robotic & AI Lab by RobotLAB"
-    excerpt: "The implementation of the Robotics & AI lab will provide students with real world experience as they pursue their bachelor's degrees in robotics and artificial intelligence and increase their marketability upon graduation."
-    publishedDateTime: 2022-08-01T21:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648065.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
 secured: "DFW2Je+As76PWP4ooQhGm0fUHARR+gY/WdJ13BgTE2wu7/fsD1wtfxA5NXDkydSi7HkVvY8MdEF7PXOWrXj36hUl/dFxlBUazoBs77WaTGgJVvnmZ33FaEXZ5IpAuYldED0un1EUmTdsZrFaL2cUfQkGymYQi9rLhMvxeNP4srLuKY8k0RflTtxjOiEnK4FFkqCtUtBU3ghk/40LQztKx30kule3yTXyilrgIl1ILp6czqr5aQEoAsJq/Iux+q4iEl4anyarScvYBVIMG2ITBB1Rw6jkY5+Cm4lQzRSOj6oObjvSh+ISipb92RaXm2LjG6T5LvZTK2WNS/TSI0Z33vXy5ZzWNOoiswCVC8S98Pg=;0ujZJ9EvHIlVFgkrNADUew=="
 ---

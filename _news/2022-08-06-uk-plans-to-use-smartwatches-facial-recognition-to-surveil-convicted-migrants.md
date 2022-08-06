@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition software spreads across India but regulation is slow"
+    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
+    publishedDateTime: 2022-08-06T13:40:00Z
+    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 21
   - title: "Most adults with autism can recognise facial emotions almost as well as those without the condition"
     excerpt: "Difficulties with social communication and interaction are considered core features of autism. There is a common perception autistic people are poor at recognizing others' emotions and have little insight into how effectively they do so."
     publishedDateTime: 2022-08-03T12:50:00Z

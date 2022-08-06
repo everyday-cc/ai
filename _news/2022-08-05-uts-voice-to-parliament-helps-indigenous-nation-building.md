@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Calls for formal recognition in Indigenous Voice"
-    excerpt: "The Uluru Leadership Group has backed Noel Pearson's call for the preamble to the Voice to Parliament to formally recognise Australia's First Nations people. Australians will vote in a referendum to enshrine the Voice in the Constitution before the end of the Albanese government's first term."
-    publishedDateTime: 2022-08-01T21:55:00Z
-    webUrl: "https://www.abc.net.au/radionational/programs/breakfast/13999300"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 24
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/73a85901522a8e96ea7122cc5cb4bed5?impolicy=wcms_crop_resize&cropH=364&cropW=647&xPos=0&yPos=16&width=862&height=485"
-        width: 647
-        height: 364
-        isCached: true
   - title: "Indigenous Voice is make or break for Albanese"
     excerpt: "Offering a simple referendum question and three proposed additions to the Constitution, Indigenous recognition is a make-or-break moment for Anthony Albanese’s first term."
     publishedDateTime: 2022-08-05T02:01:00Z

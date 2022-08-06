@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T10:54:00Z
 originalUrl: "https://www.cnbc.com/2022/08/06/ai-powered-drug-hunters-are-nearing-a-pivotal-stage-in-their-development-.html"
 webUrl: "https://www.cnbc.com/2022/08/06/ai-powered-drug-hunters-are-nearing-a-pivotal-stage-in-their-development-.html"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: CNBC

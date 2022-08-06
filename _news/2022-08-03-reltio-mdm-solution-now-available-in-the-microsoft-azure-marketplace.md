@@ -55,6 +55,15 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
+    excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
+    publishedDateTime: 2022-08-04T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Reltios-MDM-Solution-Is-Available-in-the-Microsoft-Azure-Marketplace-154253.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 49
   - title: "LTI Strengthens Strategic Collaboration with Microsoft"
     excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
     publishedDateTime: 2022-08-02T15:02:00Z

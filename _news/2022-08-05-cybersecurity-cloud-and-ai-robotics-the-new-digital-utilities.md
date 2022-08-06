@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Saint Leo University Opens a New Interactive Robotic & AI Lab by RobotLAB"
-    excerpt: "The implementation of the Robotics & AI lab will provide students with real world experience as they pursue their bachelor's degrees in robotics and artificial intelligence and increase their marketability upon graduation."
-    publishedDateTime: 2022-08-01T21:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648065.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "CornerstoneAI Announces Strategic Partnership with Carahsoft to Deliver AI Data Bias and Cybersecurity Solutions to Federal Government Agencies"
     excerpt: "CornerstoneAI, Provider of Ethical and Responsible AI Services and Solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under this agreement,"
     publishedDateTime: 2022-08-04T16:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-const
 webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition plays a role in 5-year National Australia Bank partnership"
-    excerpt: "The Australian banking company is working on a proof of concept demonstrating the promise of using an ATM without a debit card."
-    publishedDateTime: 2022-08-01T21:04:00Z
-    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-plays-a-role-in-5-year-national-australia-bank-partnership"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 55
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "Australia’s space industry is moving rapidly; Microsoft has joined forces with the National Space Industry Hub (NSIH) NSIH was delivered by Sydney-based incubator Cicada Innovat"
     publishedDateTime: 2022-08-03T14:26:00Z

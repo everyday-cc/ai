@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/california-regulator-cl
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-features/article65735350.ece/amp/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
+    excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
+    publishedDateTime: 2022-08-06T14:39:00Z
+    webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
     excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
     publishedDateTime: 2022-08-06T04:59:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
+    excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
+    publishedDateTime: 2022-08-06T14:39:00Z
+    webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features"
     excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T05:22:00Z

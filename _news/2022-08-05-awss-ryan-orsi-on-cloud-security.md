@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T15:43:00Z
 originalUrl: "https://www.eweek.com/security/aws-cloud-security/"
 webUrl: "https://www.eweek.com/security/aws-cloud-security/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: eWeek

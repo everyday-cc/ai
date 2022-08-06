@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-04T20:04:00Z
 originalUrl: "https://www.marinetechnologynews.com/news/nauticus-robotics-announces-contract-621583"
 webUrl: "https://www.marinetechnologynews.com/news/nauticus-robotics-announces-contract-621583"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: marinetechnologynews.com

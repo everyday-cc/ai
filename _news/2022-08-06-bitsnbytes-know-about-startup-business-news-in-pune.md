@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T13:32:00Z
 originalUrl: "https://www.hindustantimes.com/cities/pune-news/bitsnbytes-know-about-startup-business-news-in-pune-101659792770683.html"
 webUrl: "https://www.hindustantimes.com/cities/pune-news/bitsnbytes-know-about-startup-business-news-in-pune-101659792770683.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Hindustan Times

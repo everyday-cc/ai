@@ -24,29 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Diagnostic Robotics raises $45M Series B"
-    excerpt: "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round."
-    publishedDateTime: 2022-08-01T19:59:00Z
-    webUrl: "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/"
+  - title: "Drover AI Rakes $5.4M Series A Led by Vektor Partners to Expand its Innovative Applications of Computer Vision in Micromobility"
+    excerpt: "Drover AI announces that it has closed on a $5.4M Series A funding round, led by Vektor Partners and with follow-on participation"
+    publishedDateTime: 2022-08-02T10:24:00Z
+    webUrl: "https://enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/"
+    ampWebUrl: "https://enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/amp/"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 69
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 46
     images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg"
-        width: 770
-        height: 500
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/08/Drover-AI-Rakes-_5.4M-Series-A-Led-by-Vektor-Partners-to-Expand-its-Innovative-Applications-of-Computer-Vision-in-Micromobility.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "$45M funding round in AI diagnostics company includes Mayo Clinic"
-    excerpt: "With the move, the startup becomes a Mayo Clinic Platform portfolio company. Diagnostic Robotics uses predictive models to help reduce avoidable emergency room visits, stave off serious heart disease and diagnose mental illness."
-    publishedDateTime: 2022-08-01T22:00:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/45m-funding-round-in-ai-diagnostics-company-includes-mayo-clinic.html"
+  - title: "UiPath acquires Re:infer to expand its AI capabilities"
+    excerpt: "UiPath announced the acquisition today. Re:infer previously raised $11.2 million in funding from investors. New York-based UiPath is a publicly traded provider of robotic process automation, or RPA, software."
+    publishedDateTime: 2022-08-02T12:19:00Z
+    webUrl: "https://siliconangle.com/2022/08/01/uipath-acquires-reinfer-expand-ai-capabilities/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/37360756_1890231374612077_7331828311816929280_n-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
+    excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety"
+    publishedDateTime: 2022-08-02T04:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 5
 
 secured: "9l/oy6bDUETDYAKgqU7RH7Thov4RaOa03GpFUfcwNyTh96Hh35SOd8IZHW0SJ5JbdbuzLp9D20lZkmd6t8xjLtABxGGtidv6Bctfmczql3vtFSaD+x9e5BF5jCMe8XBlTs7ihU1Qlgjmtk15VuehTSiOk8UkJZzxn6jTT70z16D0Tv95cbZiw5OLEHS1xXUZRHdl3gItZShsIOdi11R+LOUjv7rPCxQHl9jD09K3zBs2WNNNsorpNwmdQoH6YOeDQ+J2pX+vAAibl1nzFEfEjPchpu1tQa+601WN3hxC5v+tsWEhLQ7t1hDq6BL0tAgMTqc/gfQH+RvTrTCc61N1QDDckftGNee4KHimSpll2OaI7YY80p0SQib46hd3cGwMFFMQOYY1em6aE/EKSG+mUjk+S9eKHXxdgPXjojfsEAAp1TrdugK6gaf8FRMhlStyFsL5QwsjMqY3a/fGdrg+vcKdmCHTH4wOUUH3AwD84kR2oqbL4kVH1PER8NzFfE3yjrX6NwrupJdtEsAo5mSsSg==;mCIJk25VfHPDRB06zcE40w=="
 ---

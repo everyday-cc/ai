@@ -1,40 +1,26 @@
 ---
 category: news
 title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
-publishedDateTime: 2022-08-01T12:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+excerpt: "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode"
+publishedDateTime: 2022-08-01T11:30:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+    width: 2000
+    height: 1046
     isCached: true
 
-related:
-  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
-    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
-    publishedDateTime: 2022-08-05T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "AUGqfB7Vqhkiw5s/NEJ5l94gw/rY/gHQTkGAIx1qTC+e+63ww0x1UYCm+/FE/w1u1QC1AOKVL/z+Yxh/XVJ1G+4Zd1GxzsFxR9A8zGJ5r2VSOxHIG5KPSdq5WgG/zlC2TU2yfcg6/zlP7Z64BCGwRIKnHjyvOZG3oAaTyUaSSMq2g21IXtZc/dkFYBzbMuxPiGA6Jv7zOE85xueVZsqwhp/xad5adEhieY9JVlxdZ8ipeSYUadhbKQ9X5LeGzVhzrhG245P/lkFS9KXQDL27dVFw/VKwt05Wz+GYNa7l7agoIqBJViwbXY8rpURIKfmrX1uwGSiygYGeFa2eGz6oFAbDd+ou2aIld3DEGz1Z9vWeTzE72loMGRjqvmdIMS68g6AzcfknEnE9ob+jBnV9IE3uO1EGBx9B/o+j7RfkpL0C5iMIiQYZASZK/ZQAk7Xa324+u0Dakzp9fgV9Gc7W4ImBtoNsfVysaeHGHc75+fsCGyZub4MWTLMrbT21hw9+YmozFJ/5f+Oj8gpTGVLSdA==;KpjJLnD7M8lO0GU5PT7GFQ=="
+secured: "u1MHIW2kdCS5k0WY6yFnoov/ZokmF93LxSplpf3eipvKv41nP/AKnmVvn99DIXD86vcEY73CjXH4fIvzjiw7YkUoCGq0zm/PIZo5TnT1paLrLaQfqiMrILbKLyqYKQYPYstdNtxQZGXXYZicixD/fwrZy8QicSTz+30hMVrqPzLkFdFdf3krTE4la+O4NXJ6zFdUf/+OUl35MulrAf2gx/udDEjM6IRKZDp0db8DYiHda+nzVdOUv9MG+ISy4JvE2a0riGeQKProgQEAFFcPWdxD/TIe5pdfFVRvCz/+859vuedGmCEa2YJWTIn68HlY4LpnoKHms2ZOZmZ/jyFaKhuyPUlToo3ZvHojUiOmEZg=;cdweIvaGMyks4mTfAglYkw=="
 ---
 

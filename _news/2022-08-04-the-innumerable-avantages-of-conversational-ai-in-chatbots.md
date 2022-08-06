@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
+    excerpt: "Meta has introduced a new AI called BlenderBot 3 that is supposed to be able to hold a conversation with pretty much anyone on the internet without becoming a jerk in the process. \"BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it,"
+    publishedDateTime: 2022-08-06T15:28:00Z
+    webUrl: "https://au.pcmag.com/news/95512/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/m/meta-start/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3_6kxt.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "BlenderBot 3: An AI Chatbot That Improves Through Conversation"
     excerpt: "Our new AI research chatbot is designed to improve its conversational skills and safety through feedback from people who use it."
     publishedDateTime: 2022-08-05T15:00:00Z
@@ -122,6 +136,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta's New AI Chatbot Loves Anti-Racism and Mean Girls"
+    excerpt: "On the surface, Meta’s BlenderBot 3 looks similar to any other simple chatbot out there. Users can type in a question or a statement and have BlenderBot gargle out some relatively generic response. The bot is a prototype based on Meta’s past work,"
+    publishedDateTime: 2022-08-06T12:00:00Z
+    webUrl: "https://gizmodo.com/meta-facebook-new-ai-chatbot-blenderbot-racism-misinfo-1849378666"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
   - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
     excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
     publishedDateTime: 2022-08-05T18:43:00Z

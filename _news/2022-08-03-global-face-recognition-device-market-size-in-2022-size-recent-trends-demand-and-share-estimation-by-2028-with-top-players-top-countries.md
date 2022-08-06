@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cardiovascular Devices Market Size Share Demand Growth Opportunities Insights | DataM Intelligence"
-    excerpt: "DataM Intelligence\"The Europe market is anticipated to generate the second-largest revenue of USD million by the end of 2030. The market is further segmented by country into the"
-    publishedDateTime: 2022-08-01T22:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28302116/cardiovascular-devices-market-size-share-demand-growth-opportunities-insights-datam-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28302116"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28302116"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-    images:
-      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence In Sports Market Growth Factors Along With Recent Trends & Demand 2030"
     excerpt: "Artificial Intelligence in Sports Industry Increase in demand for real-time data analytics positively impacts the growth of the artificia"
     publishedDateTime: 2022-08-04T08:20:00Z
