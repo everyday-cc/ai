@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-04-cbps-facial-recognition-program-at-airports-is-expanding-but-concerns-remain.md",
+      "title": "CBP’s Facial Recognition Program at Airports Is Expanding but Concerns Remain",
+      "excerpt": "The facial recognition program for international arrivals in airports is rolled out in all international airports in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/",
+      "originalUrl": "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.govexec.com/media/img/cd/2022/08/02/How_to_Be_a_Better_manager/292x220.png?1659469433",
+          "width": 292,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Executive",
+        "domain": "govexec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
       "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
       "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
@@ -307,7 +350,7 @@
       "originalUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1024,7 +1067,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1161,58 +1204,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-man-who-threw-away-150m-in-bitcoin-hopes-ai-and-robot-dogs-will-get-it-back.md",
-      "title": "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back",
-      "excerpt": "Computer engineer who accidentally discarded hard drive consults Newport council over scheme",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
-      "publishedDateTime": "2022-08-02T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

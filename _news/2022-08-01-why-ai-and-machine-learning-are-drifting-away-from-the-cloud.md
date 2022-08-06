@@ -53,20 +53,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Researchers Partner With NIH and Google to Develop AI Learning Modules"
-    excerpt: "Supplemental grant will help researchers develop cloud-based learning modules focused on using artificial intelligence and machine learning in biomedical sciences."
-    publishedDateTime: 2022-08-01T05:21:00Z
-    webUrl: "https://news.uark.edu/articles/60519/researchers-partner-with-nih-and-google-to-develop-ai-learning-modules"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 39
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2022-07-29_01-39-10-PMcomputer.jpg"
-        width: 674
-        height: 450
-        isCached: true
 
 secured: "Ebz2lA3+lHb7Ex0hzHtz7pche77RR7MrfcuVOZB7jqU4fNKuzu7mUnvDWCDkWYzvoIodWbOE/IDDCdZWoI86j8ZQzR6XaW3v+2cQZ6V9Izxv+UWu/HeDL1On2TfT3sJU2JWu4g/+iH14OZmW+IjAmkPVIf2CBHiNPmaJi2+HVajTV1NR5+ee1/obK5/bLfr5lt0fhW1NmqnJMIYAVoS8xkR93MgvZ7Gg8PmWILrcvgPG4l+mfYg2fat6U1U4uHoR9Jc6LiuisV9ZXLEpZxQwvF9m0NPYUlf871D/0L+4T7icFmyi3zGC5ET4zhEz0F2W/evpxGeM8jmHZD5yq9uJw2u+5v/LzXT9oyBn+C2yjRJx2Zki/D2yGILlXb6Ahaad/D3wizRw7oMPyj7h32fgqaoStmC0oFlKIwRiUN2n3i/iCUBdU2sTYZEXSeQdrmDSptnVkZiew7xcGCLK55/vywDCXSuiwMhCIYfAZ4JWmo3TyD6ZwIkbLgcIiiiX6DVyb24CtGSAaAQX5IQLaH67qw==;Y3ZdZt0NO5u0nB2ixHcBRw=="
 ---

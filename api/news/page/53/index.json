@@ -2,6 +2,136 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
+      "title": "How Artificial Intelligence is revolutionising healthcare",
+      "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
+      "publishedDateTime": "2022-06-20T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo.md",
+      "title": "Speech Recognition Software Market Is Booming Worldwide with IBM, Dolbey, Voxeo",
+      "excerpt": "The latest study released on the Global Speech Recognition Software Market by AMA Research evaluates market size, trend, and forecast to 2027. The Speech Recognition Software market study covers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-recognition-software-market-is-booming-worldwide-with-ibm-dolbey-voxeo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Abortion-rights-supporters-AFP-1K-02-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence.md",
+      "title": "5G and AI use cases – how 5G lifts artificial intelligence",
+      "excerpt": "G and AI use cases. Next-generation cellular network will accelerate artificial intelligence but which business sectors will it affect most?",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
+      "originalUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/5G-AI.jpeg.optimal.jpeg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-could-low-latency-5g-boost-your-business.md",
       "title": "Could low latency 5G boost your business?",
       "excerpt": "Hypothetically, instant responses – those approaching the hallowed single millisecond mark, for example – would increase the effectiveness and dependability of driverless cars ... use cases – how 5G lifts artificial intelligence – 5G will unleash ...",
@@ -1004,153 +1134,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-cruises-san-francisco-robotaxis-seize-initiative-in-race-for-autonomy.md",
-      "title": "Cruise’s San Francisco robotaxis seize initiative in race for autonomy",
-      "excerpt": "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Since Google launched its self-driving car project in 2009, it has been leading the way ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
-      "originalUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cca8ad2-f2ae-4729-ac51-0826be2a4e99.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry.md",
-      "title": "A celebrated AI has learned a new trick: How to do chemistry",
-      "excerpt": "A protein databank training set and multiple sequence alignments enable AlphaFold2 to “think” like chemists. What could it do for us?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry",
-      "originalUrl": "https://thenextweb.com/news/a-celebrated-ai-has-learned-a-new-trick-how-to-do-chemistry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fshutterstock_1733742608-Protein-folding-hed.jpg&signature=f90a8fd366d297eded59735236f227ae",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
-      "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
-      "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-566755/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "publishedDateTime": "2022-06-17T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

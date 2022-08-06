@@ -55,20 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Researchers Partner With NIH and Google to Develop AI Learning Modules"
-    excerpt: "Supplemental grant will help researchers develop cloud-based learning modules focused on using artificial intelligence and machine learning in biomedical sciences."
-    publishedDateTime: 2022-08-01T05:21:00Z
-    webUrl: "https://news.uark.edu/articles/60519/researchers-partner-with-nih-and-google-to-develop-ai-learning-modules"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 39
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2022-07-29_01-39-10-PMcomputer.jpg"
-        width: 674
-        height: 450
-        isCached: true
 
 secured: "fRj4KMye22jUThAQVFYCSrqYLnVX+lxO3OFA6q5ESSAsEXBiFj/ajH75q0ZUPgXGSKQ68pH2/Qx89hmHBDXwpWQQ/mUFFkR/HJvdvdT4I5l07cptARR67HIXKW/4cWniBPQY1x9f7gcZuA/9d2kv24AnZZI8vVNgM/PGqhnpKMJavjpR1KiuDngebaqxgYYOEwTLOPT3XjZl8KRKS9+f0ZammTgjjqade2Kb+8s/m96hNUw1IeTNBeISKujFM5iPf/VGsZYf0exPRz8XZ6guE01iXeZgBeRghI+ZPMfb0/iiQN6KSFwpywoFH8H1QdAqdyIPUrbRMgNYYLeqHs8A9FZUjjnoPjEPM/symt5KR+s2a5j4dBHDkBd33ZohW+BHHEgz76yvW8GxDYmISQGxWd/1Eq5LvWS/TaMYmE+S1fuHw5u+k6WJVX3x8s25IUiNJEJB1E11qvC17vAqRwCIu0XJrLNFSHlTbffJe8GmJIEFuZf9KgpyM8fizPcKYz46WEh/dbxaTFyY0aEOBikBsA==;Z1/lE79CWCHqQeemKDmYpw=="
 ---

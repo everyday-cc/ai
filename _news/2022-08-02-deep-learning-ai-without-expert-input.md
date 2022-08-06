@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Researchers Partner With NIH and Google to Develop AI Learning Modules"
-    excerpt: "Supplemental grant will help researchers develop cloud-based learning modules focused on using artificial intelligence and machine learning in biomedical sciences."
-    publishedDateTime: 2022-08-01T05:21:00Z
-    webUrl: "https://news.uark.edu/articles/60519/researchers-partner-with-nih-and-google-to-develop-ai-learning-modules"
-    type: article
-    provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 39
-    images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2022-07-29_01-39-10-PMcomputer.jpg"
-        width: 674
-        height: 450
-        isCached: true
 
 secured: "out8WMxKmx/SPlrLmC4nN32HWnkmHj68SscEnszd0y91sGvZmm8MCMUVr+y4uTZZJzC6G3xHI1pc015arqlOQVc5ZgZQo8wZT9oSRluHtkoSBH9a+pX0zjmm2/qsTTPEjlu9Lcqn20fPNEN+nwUTjHE23MwbFpr5+vWZzpwmIxVtvMmnZk7itDg+T0NKdabyCIcuToVKocNKRH0TVPzJdgCkGU1W3bdz5nre5yGGVCPLFnYccNgmlyWyj6hhN7RQs2rX2PHNosHyUfaIFwfe4X8An5W2E9yh1kJMfG0eJroepqEw3UkpUNOaUtKdaL/tElIHbuVzs1Ufjsh9xGb3nkTb/7jRi+nh5B1d75PC+2c=;C67fx6jQvxh7i9880wZ8Tg=="
 ---

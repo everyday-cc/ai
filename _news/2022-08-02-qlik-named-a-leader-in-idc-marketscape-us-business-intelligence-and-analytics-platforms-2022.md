@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why retailers are upping their investments in data infrastructure and advanced analytics"
+    excerpt: "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics."
+    publishedDateTime: 2022-08-05T18:20:00Z
+    webUrl: "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/"
+    ampWebUrl: "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-89320698.jpg?w=1200&strip=all"
+        width: 1200
+        height: 661
+        isCached: true
   - title: "Watch: Machine Learning for Risk Analytics"
     excerpt: "With multiple layers of suppliers, artificial intelligence and big data can help companies get clean and useful information, says Jim Hayden, chief data scientist at Everstream Analytics."
     publishedDateTime: 2022-08-03T05:11:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/0-images/Jim-Hayden_1.png?height=635&t=1659502313&width=1200"
         width: 1133
         height: 635
-        isCached: true
-  - title: "Geospatial Analytics Market Size Worth USD 134.23 Billion in 2028"
-    excerpt: "USD 53.45 Billion in 2020, Market Growth – at a CAGR of 12.1%, Market Trends – Increase in number of government projects The global geospatial analytics market size is expected to reach USD 134.23 Billion in 2028 and register a CAGR of 12."
-    publishedDateTime: 2022-08-03T14:43:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/11708"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 24
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2022/August/3/7/9cf90169-4bfb-4dca-830d-2c71775fca8e-sized"
-        width: 800
-        height: 467
         isCached: true
   - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
     excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."

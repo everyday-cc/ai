@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Neural networks and 'ghost' electrons accurately reconstruct behavior of quantum systems"
-excerpt: "Physicists are (temporarily) augmenting reality to crack the code of quantum systems. Predicting the properties of a molecule or material requires calculating the collective behavior of its electrons."
-publishedDateTime: 2022-08-03T20:19:00Z
-originalUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
-webUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
-ampWebUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
+title: "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems"
+excerpt: "In the new approach, the behavior of the added electrons is controlled by an artificial intelligence technique called a neural network. The network makes tweaks until it finds an accurate solution ..."
+publishedDateTime: 2022-08-03T19:41:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960814"
+webUrl: "https://www.eurekalert.org/news-releases/960814"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/neural-networks-and-gh.jpg"
-    width: 1391
-    height: 1075
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/432c7da3-5b39-47a8-84ff-9801ec2fd018/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 232
     isCached: true
 
-secured: "W0Zbp6VxhbjG/QyMzu1FAOXlrvKoOeTPbLL95SiMu9APYWP0pPCcEV7uDFV3LizdpCKP/ByiZ0wFZeL+iM6TgbV6dA3HMy+ZlSUeAxlfmFKJIAx06WW7S9WUfdPbBKzgy0oKwQIO6pGya7g1KtjHvptTqav5d56nC+rUBz7/2uAyOeA7l4125ompc+GxIrrKo6VFmmgqPx0PRbv2EqrTRa1Odb94RmLrf0TtiKcmgp4PoRoMc7j+0M9X+KF3Lzn6yxgWdVZLs4iQexEW6OOJriQF8dMw+W846OV3hbgAFITyAPPZUViKAg0RhjF1xbLOjWZmwIM/BOhMwZILLYrDc5RvLMfFl6Pf7kDlDlJmb5Q=;CApIbgWwQixS9LqUzXTDSw=="
+secured: "XWqyaE9FwAv48HfY1BxCwp2O0VVJqdgRX4BK0XPHyW2Sk0EUx68nsFDCX9l3PfLCBZNsQLbh94NlRcOWpi863HQpKVXDZBsG1/Kfz9T+/zl0bIq6psb/ib2gNd6nqBKMJktUI5bVcB6vRZhVLdqLb8uLKgMvK3GJyqA4u+A/fGNYoD23aFcPwDLCXXVQgR5kh0jcxNAWF1nBwJEdhHkuygk/evYl+ebyBHlOmM4ANuJvpBdS0k0/taxczZOsSxFHC8w9NwON0pCdwFPi5J1xZq8JWSPMdAoMh89eHAiyyaw74OtZjWTwjj8nqCqcEdL4dAeUq49dEZxxCJi0Y+ylnmV+Zkl+izgg4tTKIvMmISE=;k+Ix/mSNhcvNoVxALEZMYw=="
 ---
 

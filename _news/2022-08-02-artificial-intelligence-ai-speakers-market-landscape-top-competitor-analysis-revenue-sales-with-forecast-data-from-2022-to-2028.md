@@ -86,8 +86,8 @@ related:
       domain: menafn.com
     quality: 9
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855640"
-        width: 375
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?813140"
+        width: 445
         height: 250
         isCached: true
   - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"

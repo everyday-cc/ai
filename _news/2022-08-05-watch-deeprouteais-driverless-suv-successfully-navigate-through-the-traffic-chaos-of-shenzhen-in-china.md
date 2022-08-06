@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shenzhen accelerates China's driverless car dreams"
-    excerpt: "ALSO READ: Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise Baidu Inc's Apollo unit, Toyota Motor Corp-backed Pony, Nissan-backed Weride, Alibaba-backed Auto X and ..."
-    publishedDateTime: 2022-08-01T06:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/01/shenzhen-accelerates-china039s-driverless-car-dreams"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/01/1680192.jpg"
-        width: 1240
-        height: 884
-        isCached: true
   - title: "China’s southern tech hub Shenzhen becomes first city on mainland to regulate fully autonomous, driverless cars on some roads"
     excerpt: "Shenzhen’s new regulations of intelligent connected cars took effect on August 1. Registered autonomous vehicles that function without a human driver can travel on certain roads designated by local transport authorities."
     publishedDateTime: 2022-08-03T08:30:00Z

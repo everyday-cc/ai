@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Shenzhen accelerates China's driverless car dreams"
-    excerpt: "ALSO READ: Musk backed a boast of zero 'self-driving' Tesla crashes, but data show otherwise Baidu Inc's Apollo unit, Toyota Motor Corp-backed Pony, Nissan-backed Weride, Alibaba-backed Auto X and ..."
-    publishedDateTime: 2022-08-01T06:32:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/01/shenzhen-accelerates-china039s-driverless-car-dreams"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/01/1680192.jpg"
-        width: 1240
-        height: 884
-        isCached: true
   - title: "U.S. women more concerned than men about some AI developments, especially driverless cars"
     excerpt: "Women in the U.S. are less likely than men to say that technology has had a mostly positive effect on society (42% vs. 54%)."
     publishedDateTime: 2022-08-03T18:59:00Z

@@ -53,6 +53,15 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "‘AI could trigger fintech revolution’"
+    excerpt: "With the emergence of financial technology (fintech), companies are expected to offer more financial services to personalize their customer journey, enhance the overall user experience and generate alternative revenue streams."
+    publishedDateTime: 2022-08-02T12:58:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/02/ai-could-trigger-fintech-revolution/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 19
 
 secured: "Vr6DePgkNXPb5fBGjh9BNp31ovXn7hH8XSWqTaOjoLK/oyBR1739LtkriujZ22RbtMe9ffxUkQkW0IRDI9jUxvBFj7aZ/C96RzZwcHH/jY8f3zdUSDnac1WRzCv40EGPtjM7mtqJTVAItc2qDmT0ZIx/F3m9l9JT6DwoKcrF75yln8xn+iE2PqjWcOuXAYdb5kxs94sp2PsRTP8o+5IS/mFWoaSOCuUh0f9rJaOQLVDDRlkcc8ofvctZfiLv1fpHKJUGa8TVcnPqCMx22g7RrvRPo989NfhEoaFuUzKa4bsYOVSgnszE6w+W/qmbM8+ZMKSQDOhlInF/ux7FRdrqEbjU32j1Aw3aqgLczfNYK82zk3awSokM3Jkdz97mDxW4EaVxn9yaW0isFprNqRCujdn3MfelGEvSOeD261Bui52Ia4pDlM93cmFh/hU6d5gtitGrZHFbtRkDUAFLW2hCXbrWy36T1f4vBW7nvFNDEwxGuNHLmXT6duttZ7m7Rks4fti5BFfI/XyHrOU1k4Lx6A==;YQpsUVrModXvjDHHcIw58w=="
 ---

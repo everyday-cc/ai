@@ -2,6 +2,108 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-29-coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletter-july-23rd.md",
+      "title": "Coinbase Cost Cuts, Netflix Earnings And Factor Investing: Forbes AI Newsletter - July 23rd",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fbf02d8df711259932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "publishedDateTime": "2022-07-29T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
+      "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
+      "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-944464846.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
+      "publishedDateTime": "2022-07-29T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030.md",
       "title": "Deep Learning Market 2022 Key Facts, Dynamics, Segments and Forecast Predictions Presented 2030",
       "excerpt": "Deep Learning Market Size, Share & Trends Analysis - Global Opportunity Analysis And Industry Forecast 2022- 2030, Covid 19 Outbreak Impact research report added by Quadintel, is an in-depth analysis of market characteristics,",
@@ -926,40 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
-      "title": "Specialized brain regions recognize vocal cues that don’t involve speech",
-      "excerpt": "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959561",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
       "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
       "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
@@ -999,6 +1067,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
+      "title": "Specialized brain regions recognize vocal cues that don't involve speech",
+      "excerpt": "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/specialized-brain-regi.jpg",
+          "width": 2146,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp",
+      "publishedDateTime": "2022-07-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1103,109 +1214,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions.md",
-      "title": "How AI is improving warehouse performance and easing supply chain disruptions",
-      "excerpt": "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
-      "originalUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/12/supply_chain1-e1659022314267.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
-      "publishedDateTime": "2022-07-28T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
-      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
-      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
-      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

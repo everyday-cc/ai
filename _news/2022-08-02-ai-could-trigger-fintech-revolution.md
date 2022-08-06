@@ -19,35 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "AI can revolutionise medical research, but a cautious approach is needed"
-    excerpt: "One week social-media users are generating and sharing amusing images using AI, the next we hear AI can predict the structure of over 200 million proteins."
-    publishedDateTime: 2022-08-01T06:40:00Z
-    webUrl: "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html"
+  - title: "AI powers Philippine FinTech Revolution"
+    excerpt: "The global FinTech market is expected to reach $332.5 billion by 2028, according to the forecast of the Vantage Market"
+    publishedDateTime: 2022-08-02T09:02:00Z
+    webUrl: "https://manilastandard.net/tech/314248596/ai-powers-philippine-fintech-revolution.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "AI promises to revolutionise medical research"
-    excerpt: "AI is particularly well placed to revolutionise medical research. The technology helps in two vital ways: it optimises research, and it can make discoveries that humans have not. AI is unshackled from the limitations that come with human researchers: it can trawl deep datasets exponentially faster,"
-    publishedDateTime: 2022-08-01T06:59:00Z
-    webUrl: "https://www.theweek.in/news/health/2022/08/01/ai-promises-to-revolutionise-medical-research.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
+      name: Manila Standard
+      domain: manilastandard.net
     quality: 39
     images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/May/doctor-medical-AI-artificial-intelligence-system-deep-learning-hospital-shut.jpg"
-        width: 760
-        height: 443
+      - url: "https://manilastandard.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-02-at-5.01.02-PM.png"
+        width: 875
+        height: 596
+        isCached: true
+  - title: "AI to boost PHL fintech industry"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
+    publishedDateTime: 2022-08-03T15:03:00Z
+    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "How important is AI to the fintech industry in the Philippines?"
+    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
+    publishedDateTime: 2022-08-03T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "tf8asPsJhjwIHDA9o2IF0bdHLripDbK511Plk1O5/UxDsZelzJaXbubXfZwwWmN1cqqqqIN/TBjuOJEf4AWWeUqk2EOQ78LBuTjnw5MWqtCe6KIl2hGQlDVY56zq2SeLlNISCyo/dtnm8f5S2UFP9lBcXRS3oG3HLA1594AKQxoG18U79DQod7a3PLJR42XTqyp5dti93Q7aIuGT6m5gWDdKObTP+aycxFR1HAsCTEWbzsCu2QWx9o6ifRA4z1o5sxxnvtxvKKgDCGCGjKJZpb5fNAGwY0kRI4aYwsIpR2Vulnm5y2U2jYbPXVs88odWULrjaTIJnzZvXpv5vdP/wSP57LVu89YmnUImt7QqtyM=;5u2nAyEjB8mPbnDPnvrY0Q=="
