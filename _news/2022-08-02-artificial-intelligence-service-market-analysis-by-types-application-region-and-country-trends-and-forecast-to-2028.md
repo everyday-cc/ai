@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Motion Control Software in Robotics Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
-    excerpt: "The \" Motion Control Software in Robotics Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
-    publishedDateTime: 2022-08-01T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/motion-control-software-in-robotics-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-08-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Server Market Size Comprehensive Analysis, Growth Forecast from 2022 to 2028"
     excerpt: "The Artificial Intelligence Server market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2022-08-02T10:31:00Z

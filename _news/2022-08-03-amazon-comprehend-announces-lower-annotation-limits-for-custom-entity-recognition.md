@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-an
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Customs and Border Protection expands use of facial recognition"
-    excerpt: "As of July, facial recognition technology is scanning departing travelers in 32 airports and all arriving air travelers."
-    publishedDateTime: 2022-08-01T17:53:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2022/08/customs-and-border-protection-expands-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 19
 
 secured: "jchi20DbRiCm74CqtxU6q3EKf919IvsuWSt+Jyud83HLj0osc62vfpndjeRZKx2F9dWitaeWHXANaWQERNGav2rfvX51JdSzUNoEvMcMPG7tN8pBxKUY2qwKDnDmXMb7dANQ/FehaxOJjhYn5mqUXIqSz6DvJ8am5KSsU8SDsAio9skWnn89463OrvRqJO7uAhPmzwtbJRzzLzFtfxjMMpIUI8FuzSp0JR8tP74wgOIE1YQiUZ9W21dpFoopMzwssll9fajyDzDYyFRuNBSzt4p8uspMtFd42QllhU8nC+cDrvFsEcECWJCVx9Jz4ZV1mvAyYCPaU2qUZe5lbH1qJjkXOZ2n5cKcH9T8M2vcd34=;w5zR5G+z5YN93XFbFr4OHw=="
 ---

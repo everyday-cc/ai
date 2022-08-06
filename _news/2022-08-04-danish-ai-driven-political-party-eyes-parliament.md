@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-08-danish-ai-driven-political-party
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Parliaments can do much more with Artificial Intelligence"
+    excerpt: "The world is using AI to enhance the performance of its policymakers. India, too, has launched its own machine learning system NeVA, which at the moment is not fully implemented across the nation. How can we learn and adopt from the advancement in the Parliaments around the world?"
+    publishedDateTime: 2022-08-03T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/global-parliaments-can-do-much-more-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ai-and-parliament.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "New AI driven political party eyes running for the Danish parliment in 2023"
     excerpt: "To stand in the 2023 election, the party needs 20,182 signatures but currently has just four (Picture: AFP) A new political party in Denmark whose policies are derived entirely fr"
     publishedDateTime: 2022-08-05T11:59:00Z

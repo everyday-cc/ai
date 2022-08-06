@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
+    excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
+    publishedDateTime: 2022-08-06T10:27:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
     excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
     publishedDateTime: 2022-08-05T18:43:00Z

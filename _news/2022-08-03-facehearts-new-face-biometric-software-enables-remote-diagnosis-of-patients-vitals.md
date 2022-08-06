@@ -34,20 +34,6 @@ related:
       name: Biometric Companies
       domain: biometricupdate.com
     quality: 19
-  - title: "Leak reveals Western companies with face biometrics licenses from Russia’s NtechLab"
-    excerpt: "Intel, SpaceX, Philip Morris, and several other U.S. companies were spotted in a leaked database of companies that obtained a license to use FindFace."
-    publishedDateTime: 2022-08-01T17:17:00Z
-    webUrl: "https://www.biometricupdate.com/202208/leak-reveals-western-companies-with-face-biometrics-licenses-from-russias-ntechlab"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Morocco tenders for face biometrics to deploy throughout updated airport"
     excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."
     publishedDateTime: 2022-08-05T19:38:00Z

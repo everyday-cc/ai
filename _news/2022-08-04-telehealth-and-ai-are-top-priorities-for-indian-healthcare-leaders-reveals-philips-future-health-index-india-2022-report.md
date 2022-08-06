@@ -44,14 +44,19 @@ related:
         height: 576
         isCached: true
   - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
-    excerpt: "To enhance capabilities, the Indian Army has been deploying Artificial Intelligence (AI) based surveillance systems on Northern and Western borders. Sources in the Defence establishment have confirmed that apart from deploying AI-based surveillance systems at borders,"
-    publishedDateTime: 2022-08-06T09:44:00Z
-    webUrl: "https://theprint.in/india/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders/1071926/"
+    excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"
+    publishedDateTime: 2022-08-06T10:07:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272645226/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 8
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 28
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1659780490.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "oUP8FxZfP5n7siPh7D827iQo5UpPzBQCVfove4wfjhU7YigVy09NMa34fQUqzjGKClcEzGlLpUS3iwAvQ79L9mauKDmQr6BoG/6wP+LliWJRGtAtzv/AeccxdsSLS7/kYk7sH2GTZUmZiJpPn+URdzlwVFgGPluPy3UYuzsOZMzGKgGhdghf1j+ZCTLsYAD8xOzFofZSi9CeQvWDO2LhYOnmTCjQW8ZqBIIO7g5Cl1a3KpC4/HxT9tbSY2QFRCvA6suSndJnydPWRUhuPzCdJeNyskTHmM0ddUfyApaFtzvEQq9dfgE/GxVm9qCZEpaiKIXJS2tNfmNvGdTTwabFlkgyxQOJ/vtt8E1R5sWAwAo=;YO+hL7z/vY8Rg575Ii2pgw=="
 ---

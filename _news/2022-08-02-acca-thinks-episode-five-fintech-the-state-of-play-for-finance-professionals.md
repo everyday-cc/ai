@@ -34,15 +34,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "The Next Fintech Movement Coming to America"
-    excerpt: "Plus, he adds, there are “more and more private equity and venture capital investors focused on the U.S. wealth tech space that they can tap into for growth capital to expand their businesses beyond their relatively much smaller home markets."
-    publishedDateTime: 2022-08-01T18:33:00Z
-    webUrl: "https://www.thinkadvisor.com/2022/08/01/the-next-fintech-movement-coming-to-america/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 4
 
 secured: "WHlPisJsVdG8AoTqwmI5qa+XVVz7oKAZxHRQnUEPn2VcV79eRCc/J3IQLlyvjCHlzysUPw2yU23Oy6LWmyxOZ1+b6LpCecONAcyM51YE1W3IANjRoRqGQ7/08AySJy3u06x3yHkyJJ16Yx8tNtRHOXW7vjkoikuOB9cVIHKDwSSknpFT/oCJxBXjjDF9mErqsvxGyTTJ0gAHz42M5QoM5RBoU2t2ernTrFFmobeV7itr+4lxWmK/HoQ8SOOm+GCAxVvPRqH5ptIUhbmowrzVxm6EmhDfjN3kA/3ZvabwiSq3MIzTqAFrR4zZKfPvdaLbF8ltzcTRWYMBsVDQJBrecXlhaA1GpE0qOiMXbcMr4iA=;bnPz5bZHPxcmO6cSReo3aA=="
 ---

@@ -42,15 +42,6 @@ related:
         width: 1119
         height: 560
         isCached: true
-  - title: "Customs and Border Protection expands use of facial recognition"
-    excerpt: "As of July, facial recognition technology is scanning departing travelers in 32 airports and all arriving air travelers."
-    publishedDateTime: 2022-08-01T17:53:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2022/08/customs-and-border-protection-expands-use-of-facial-recognition/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 19
 
 secured: "JHzJ1L0EvQILZOsga5SG86VsejjyebgtFasTtwgUVVlheWr+FgMX8JtkdgW89/dEyNbRtDaij1XIXhCwRn/34be6nT9j1qnjTLWXlbMbRNfQIOLwmU8BU9iMRNJv7Q7HYh/M1YUnw1jxgeUYmx2cUgBKH5b4yISeL3hq2wQ5i/CNdsOuQuN8QMXOqC1c08gCI3WIikrmdOJ1vhOze9m8Mt8Z/lo3E02RzY89iHQGCUqpBRzVEVZp4zqHZHkNNSLF6c4+D5iRzqHsro56BHABwb2QSRcFzrhH7E+T/UjPy8fWbdxvMeyU3nu5G4hVQ4XEhzrmGaJ87xaYzT3lD8nbemKgs4OwF2z6MizeqgiHxE3NOLdGvxV5IsqDUu505jlyJoMn7rCjnL//lXQIhxP2jJQV8GDs3GqYq0WnE5yWd02GVaLOcq+2d3R8FjzXJzq6SsJn0hw7HR1D7eBJvi9tWW1IpVOODCBLIaCXmXUD6WJuyHgeqo333jSTzZIhTFN1oQFk9k9NcVmgB1/epq5BVA==;16PODok59D21VcMId/a/DQ=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -203,7 +203,7 @@
       "originalUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -868,6 +868,48 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-danish-ai-driven-political-party-eyes-parliament.md",
+      "title": "Danish AI-driven political party eyes parliament",
+      "excerpt": "A new political party in Denmark whose policies are derived entirely from artificial intelligence (AI) hopes to stand in the country's next general election in June 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg",
+          "width": 1920,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp",
+      "publishedDateTime": "2022-08-04T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-torchai-tapped-to-deliver-ai-ecosystem-for-warfighting-naval-forces.md",
       "title": "Torch.AI Tapped to Deliver AI Ecosystem for Warfighting Naval Forces",
       "excerpt": "The new artificial intelligence ecosystem will provide AI and machine learning capabilities for Warfighting Naval Forces. The ecosystem is designed to equip the Navy to better operate and maintain their operational fleet across a complex,",
@@ -1022,6 +1064,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
+      "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
+      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
+      "originalUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png",
+          "width": 765,
+          "height": 508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
       "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
       "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
@@ -1103,101 +1188,6 @@
       "provider": {
         "name": "air cargo",
         "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-greg-gutfeld-long-trump-derangement-syndrome-is-driving-the-medias-polarization.md",
-      "title": "Greg Gutfeld: Long Trump derangement syndrome is driving the media's polarization",
-      "excerpt": "Greg Gutfeld weighed in on the media's polarization, amid a new study from UPenn claiming cable news is more polarized today than in the last ten years on 'Gutfeld!'",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
-      "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ae5d7b-a67e-4409-9128-cd2bc403c463/a523bff2-9c5c-418a-9652-b7d079fda2fc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
-      "publishedDateTime": "2022-08-03T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
-      "title": "FedEx to expand robotics technology, artificial intelligence",
-      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
-      "sourceUrl": null,
-      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "publishedDateTime": "2022-08-03T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 24 News",
-        "domain": "localmemphis.com",
         "images": null,
         "publishers": null,
         "authors": null

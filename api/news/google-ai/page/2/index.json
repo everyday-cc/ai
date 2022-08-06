@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-03-sound-and-word-recognition-for-android.md",
+      "title": "Sound and word recognition for Android",
+      "excerpt": "This tutorial shows you how to use TensorFlow Lite with pre-built machine learning models to recognize sounds and spoken words in an Android app. Audio classification models like the ones shown in this tutorial can be used to detect activity, identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "originalUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-mahima-pushkarna-is-making-data-easier-to-understand.md",
       "title": "Mahima Pushkarna is making data easier to understand",
       "excerpt": "Five years ago, information designer Mahima Pushkarna joined Google to make data easier to understand. As a senior interaction designer on the People + AI Research (PAIR) team, she designed Data Cards to help everyone better understand the contexts of the data they are using. The Data Cards Playbook",
@@ -1404,49 +1456,6 @@
         "Google AI",
         "TensorFlow",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression.md",
-      "title": "DeepMind’s Meta-Learning Sparse Compression Networks Set New SOTA on Diverse Modality Data Compression",
-      "excerpt": "Data representation is a core aspect of deep learning. While researchers have typically represented images or 3D shapes as multi-dimensional arrays, the use of implicit neural representations (INRs) has emerged as an attractive alternative.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
-      "originalUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
-      "publishedDateTime": "2022-05-24T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

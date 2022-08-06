@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-02-insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal.md",
+      "title": "Insta360 Link Is an AI-Powered 4K Webcam With a 3-Axis Gimbal",
+      "excerpt": "Insta360 today revealed its first dedicated webcam called the Link (Opens in a new window). Rather than simply producing a webcam capable of competing with the best Logitech or Ra",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
+      "originalUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01tyvzFA9n0CtmJireFbnRo-1.fit_lim.size_1200x630.v1659456459.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
+      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
+      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "publishedDateTime": "2022-08-02T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring.md",
       "title": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring",
       "excerpt": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR",
@@ -313,7 +416,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -365,7 +468,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1116,101 +1219,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
-      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
-      "excerpt": "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-591288/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-computer-vision-market-size-insights-2022-report-presents-revenue-share-by-manufacturers-future-scope-and-demand-forecast-to-2031.md",
-      "title": "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031",
-      "excerpt": "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
-      "originalUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?910167",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

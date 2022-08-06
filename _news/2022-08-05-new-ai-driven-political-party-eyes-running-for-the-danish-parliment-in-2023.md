@@ -34,6 +34,20 @@ related:
         width: 1920
         height: 1285
         isCached: true
+  - title: "Global Parliaments can do much more with Artificial Intelligence"
+    excerpt: "The world is using AI to enhance the performance of its policymakers. India, too, has launched its own machine learning system NeVA, which at the moment is not fully implemented across the nation. How can we learn and adopt from the advancement in the Parliaments around the world?"
+    publishedDateTime: 2022-08-03T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/global-parliaments-can-do-much-more-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ai-and-parliament.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "1R/aNhlsIYe5CBRC2yAkofp4+6RemoK+zDmNraAmblR8GvurPu4y8YlGNoQJWfcDRpBl5EdEKYwP3dA/uNkMVxe+SpMGhvxV2u+BMFBy71oFxau77gtGAUkQJ7I1WxTz4rhNiVyEGks2WvSVgC5ddHoUqaCj14bkp/LE0ErPsVq5NjGhttRPlHl0UnXxVtfjmi0SYZrMvoipsBdDVkG9GR/K5kxZc7PHoQD7TrbTm8Qz2v+Q8eUy9vTWKR5M4njWuhQn/H7ve5Rqr6S68qb0r4bMt8l1qhBYPyV/EDIAkyQVGDLF50LWiKOcTH5lwVr72ydhSwROU8LTE4UiKkCXpDQdQOraKbysXfz3ARUXNfpawuSK4rDZZeItEy+7uG1xGFW7W0iZOCwB0JxX2d0R92m1smcNv6/4cPw0tw4mxc+fwxeUFvRIgSGipRyCe4lS3OI82KuV/5+YUrw/OxYQp9866ACXGv8zzM+2OaGZFCPPU+8n1FXbDPexJsgMUfvGO7XrruXXmharRvhIeAeIZQ==;IkLDetllwVF7Sz0oor0UWw=="
 ---

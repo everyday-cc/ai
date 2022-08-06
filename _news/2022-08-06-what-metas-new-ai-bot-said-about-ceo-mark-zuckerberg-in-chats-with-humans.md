@@ -1,25 +1,30 @@
 ---
 category: news
-title: "We Interviewed Meta’s New AI Chatbot About … Itself"
-excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
-publishedDateTime: 2022-08-05T18:43:00Z
-originalUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
-webUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
+title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
+excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
+publishedDateTime: 2022-08-06T10:27:00Z
+originalUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
+webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
+ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
+  - Facebook AI
   - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot"
@@ -118,22 +123,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
-    excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
-    publishedDateTime: 2022-08-06T10:27:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+  - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
+    excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
+    publishedDateTime: 2022-08-05T18:43:00Z
+    webUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
     excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
     publishedDateTime: 2022-08-02T13:00:00Z
@@ -191,6 +189,6 @@ related:
         height: 504
         isCached: true
 
-secured: "jP71q3ZbLTCFFfyaJufcQafirY6kxoxGRAkvsyFmlZGsggAP7d3hOBBEha1LcpAwATmrlxcD6CfzPNQPC4SKVar9f2OuPUwIqiwB6w2fwU44qyoCCT+aDBLkQfDakXkGsY+qnfu3eevvHxlvwiTIrSkHjTxKLV4a5PC+KPnVmyHSmg7CFa+Uz5ojCUSVHDInGhNkjEjU6Z8C21hE6pTrHLheHeH7x28I1zXK+bLuW9L2Vvqj9YWXFBZHMZ81fm6l7WfpCBa9PBRMgAeek2Klf538tUtdTrWJW84CLbb5aNWU4YxPh/CFQfGo11hbcZY8/wq3ez03EDECYZoVTfeEy3D2XJtI8mC1D5BrcdO2IYyKxZ4XtahNVCNKfd0u4/JtREqDRDA9sAUnK3zhjFKXu7ECjpK/UXwVfS5aFi3mQrWOD/tX1O/kwaV2UxafDuZIMh0S1TLmArWCV9h/EqlMirKS1hXBH1ADksapNQg3RU6QKZxmysID7rVSC9QFPMhOJYBN+DWXT06k36raiIJcDQ==;+5PuaWw84G/uyKRwACnXtw=="
+secured: "sROkVmfH25LtoK30YxcvosutKWEtUuvL+lj/E5mtFT/VWuq2Knl6b15k1gykGFgcYFwY9OrERI9/405b8Obij+e4jfhWnfmXTVgI1nTf7wZwi42E1bDMZw4K7DzVtZDIQK+2llCinKowD2PtPtKKQemjObWivYYrkNzQjQQF7M/E8XA8Tko27d17PMP+hF48St52ThTcVniXWv2zQOqjF9hgpjuSnY7rTn1Cau16BixurzLELZAPIVfcfM5B/he8wnI52WImS0b2PZWd0UZfmsq4/S0gnrbKP/j56dNwZ4zM0INQaR7lqQukghrhNk/c7499KOrJeincHe90Cy6JEzcFVSS5rY6v2XP/YAVB0xw=;tJ3t3XvtEOUdCT1/d8lrAQ=="
 ---
 

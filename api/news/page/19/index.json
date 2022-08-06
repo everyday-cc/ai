@@ -2,6 +2,104 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-07-16-bacteria-based-biohybrid-microrobots-on-a-mission-to-one-day-battle-cancer.md",
+      "title": "Bacteria-based biohybrid microrobots on a mission to one day battle cancer",
+      "excerpt": "Scientists add artificial components to bacteria for better control and an extra therapeutic effect in seeking and destroying tumor cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/07/220715142115.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-16T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-16-perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos.md",
+      "title": "Perceptron: AI that solves math problems, translates 200 languages, and draws kangaroos",
+      "excerpt": "In this edition of Perceptron, TechCrunch's AI research roundup, we look at new language models from Microsoft and Meta as well as a Google system that can solve quantitative reasoning problems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "originalUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.png?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/16/perceptron-ai-that-solves-math-problems-translates-200-languages-and-draws-kangaroos/amp/",
+      "publishedDateTime": "2022-07-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Math for AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-16-crash-test-dummies-nascar-used-robotics-to-crash-test-next-gen-car.md",
       "title": "Crash Test Dummies: Nascar Used Robotics To Crash Test Next Gen Car",
       "excerpt": "NASCAR’s Next Gen car features a lot of new tech. The testing of that car also featured new ways of testing that included crash testing with not only crash test dummies, but AI and robotics as well.",
@@ -1082,84 +1180,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text.md",
-      "title": "Meta's Make-A-Scene uses AI to create digital imagery from text",
-      "excerpt": "Meta, formerly known as Facebook, has developed a new Artificial Intelligence (AI)-based research concept that will let people use text and simple sketches",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/articleshow/92898964.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/92899003.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/metas-make-a-scene-uses-ai-to-create-digital-imagery-from-text/amp_articleshow/92898964.cms",
-      "publishedDateTime": "2022-07-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-global-automated-machine-learning-automl-market-analysis-and-forecasts-2022-2027-researchandmarketscom.md",
-      "title": "Global Automated Machine Learning (AutoML) Market Analysis and Forecasts 2022-2027 - ResearchAndMarkets.com",
-      "excerpt": "The Global Automated Machine Learning Market (henceforth referred to as the market studied) was valued at USD 665.63 Million in 2021, and it is expected to reach USD 5,406.75 Million by 2027, registering a CAGR of 42.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
-      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-artificial-intelligence-18e3007529be4a1598d02ced31cdcc71",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

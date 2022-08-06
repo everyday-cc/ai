@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-04-greg-gutfeld-long-trump-derangement-syndrome-is-driving-the-medias-polarization.md",
+      "title": "Greg Gutfeld: Long Trump derangement syndrome is driving the media's polarization",
+      "excerpt": "Greg Gutfeld weighed in on the media's polarization, amid a new study from UPenn claiming cable news is more polarized today than in the last ten years on 'Gutfeld!'",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "originalUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25ae5d7b-a67e-4409-9128-cd2bc403c463/a523bff2-9c5c-418a-9652-b7d079fda2fc/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp",
+      "publishedDateTime": "2022-08-03T21:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
+      "title": "FedEx to expand robotics technology, artificial intelligence",
+      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
+      "sourceUrl": null,
+      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "publishedDateTime": "2022-08-03T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local 24 News",
+        "domain": "localmemphis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
       "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
       "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
@@ -165,7 +260,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -504,7 +599,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1025,7 +1120,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1109,109 +1204,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal.md",
-      "title": "Insta360 Link Is an AI-Powered 4K Webcam With a 3-Axis Gimbal",
-      "excerpt": "Insta360 today revealed its first dedicated webcam called the Link (Opens in a new window). Rather than simply producing a webcam capable of competing with the best Logitech or Ra",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
-      "originalUrl": "https://www.pcmag.com/news/insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01tyvzFA9n0CtmJireFbnRo-1.fit_lim.size_1200x630.v1659456459.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
-      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
-      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "publishedDateTime": "2022-08-02T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

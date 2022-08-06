@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Automating neutron experiments with AI"
-    excerpt: "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,"
-    publishedDateTime: 2022-08-01T18:43:00Z
-    webUrl: "https://phys.org/news/2022-08-automating-neutron-ai.html"
-    ampWebUrl: "https://phys.org/news/2022-08-automating-neutron-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp"
+  - title: "Danish AI-driven political party eyes parliament"
+    excerpt: "A new political party in Denmark whose policies are derived entirely from artificial intelligence (AI) hopes to stand in the country's next general election in June 2023."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-danish-ai-driven-political-party-eyes.amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: techxplore
+      domain: techxplore.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/automating-neutron-exp.jpg"
-        width: 800
-        height: 500
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
+        width: 1920
+        height: 1285
         isCached: true
-  - title: "Smith.ai Announces New Integration with Law Ruler"
-    excerpt: "Both, Law Ruler and Smith.ai endeavor to make legal work more productive and efficient. With this integration, any call handled by Smith.ai’s receptionists is visible directly within Law Ruler. Attorneys and staff will be able to understand the work that’s been completed."
-    publishedDateTime: 2022-08-03T14:02:00Z
-    webUrl: "https://apnews.com/press-release/prcom/technology-be2161532ad8c94855d629879f866017"
+  - title: "New AI driven political party eyes running for the Danish parliment in 2023"
+    excerpt: "To stand in the 2023 election, the party needs 20,182 signatures but currently has just four (Picture: AFP) A new political party in Denmark whose policies are derived entirely fr"
+    publishedDateTime: 2022-08-05T11:59:00Z
+    webUrl: "https://metro.co.uk/2022/08/05/ai-driven-political-party-in-denmark-eyes-running-for-parliment-17133621/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Metro
+      domain: metro.co.uk
+    quality: 15
 
 secured: "uOIO1s9eL4dL/x9SzTW9N1p0+z8ShTWS7kdKO7BxWsMufmEyvW/NMQvvxbQ266Zd4F1aiA0OWcaMM7fDdRqVj9zpWmm0RrgknjrfPfcTifG/41vpHIB5hC52PYbpkCgBd8rpPjtdQxTrUoekUID/zS8TmZqcbqmTm3rWrooqd41L00OxmNC7S365NuZbajxF8GsfCfjhbbqWe+hXYxKIbvGHII+DIApZgYWjtj6P3VQ8LyysnymAOm2kghFzaf3wgmkcOhtMjKbNuXTJKENNSr7KjyjMjQMc7qLRQG6wbrIhsAzFMjFfPOImS0sDBKfz90BNqSunfFTmMpMLmOlmuuHUgsWYclPaH5txeWcC4nFM19jlExTkThruuFhn40eMQCwICZy6tTuBnsxV/Hx21zWesTlmWCJJc9iHjg7LmEeHe86UCPFZWgy/f0ALESt6Rrqw5E9bDQF4tnImTB4BpEbOGPxcDHkKGOeKvEeUtdaK8+1B8SxxBB9uL2+aDspxX7oAQ0MFZkOxYUkXGwEs7g==;WJvI+T6A+AMWtX71CpDAAQ=="
 ---

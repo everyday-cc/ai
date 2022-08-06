@@ -1,21 +1,27 @@
 ---
 category: news
 title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
-excerpt: "To enhance capabilities, the Indian Army has been deploying Artificial Intelligence (AI) based surveillance systems on Northern and Western borders. Sources in the Defence establishment have confirmed that apart from deploying AI-based surveillance systems at borders,"
-publishedDateTime: 2022-08-06T09:44:00Z
-originalUrl: "https://theprint.in/india/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders/1071926/"
-webUrl: "https://theprint.in/india/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders/1071926/"
+excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"
+publishedDateTime: 2022-08-06T10:07:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272645226/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders"
+webUrl: "https://www.bignewsnetwork.com/news/272645226/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1659780490.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "How rangers are using AI to help protect India's tigers"
@@ -51,6 +57,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lgZqEGxxJIMIoO4folhcwuSZq093Jwur+1tD2A2q7pHz2xA9nRDIIutMm1TLLyWIVi4EwUbRvbE0oapYOb977g7N3WuvjVXU1KrEAX9ow0Bwh3G9uj/9fvz1iHlMSUr3VORIjb6DLP+/BhNkBTfRUgO6m1XznIv+VMSaDv/x9mTpTe4j/oFQP8GoVeTpbUJ5W/ksVi9TCZEuaL4H0ZNtuCfh08/scwgkx7Ze4hrMfwdu7Qc9Z1AXc0R35zCSXmsXQ2swUdyJoYqgQ+Pz+yWCJMShYbzCwAI3XqL42Ocdh7rXN3Qy/g7GWs98xUx+cKIZQAAwOVInz+rFOXerAAJXTNE1d/ffL6yZOY75WMRNLLM=;QWRtT+an+arH5l/02jMQtw=="
+secured: "6EybTxxvuCC5K5RRIc4WUGgjjqZgSSWaCGxxIMspPZvgS7mC7gm9WziuYVeUGW1WPcJ3k5Jt/h42G89+uyqgxm4fYvPyrqaALdCZTA+I6RLZShkdrnNLGppucZBRvThfkx3bCnUCefanVlfUL+7NZGguthubL36ey4EGNUjtg34Ic2n6ZatPrGCGSmCgP64IrbaGQUSGW8ToQ2HuczwokDBkCqZtZfe8KhQe2bveL7CDGSUVddRMdNKcJ+F6rz2akyJdiMt5faxJYnP0kDEohXHuCQigqh/YST2+kX5jdKVLwrfXVQeAiyHmM+QsZT+rN6dznM1D5psD78ZjHWFTSLIVbjmXRZR7c3lWiyA6JMk=;Bj70JrWsKJuz8X2Mwz8hAw=="
 ---
 
