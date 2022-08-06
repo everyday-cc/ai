@@ -38,20 +38,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Accenture Acquires Tenbu To Expand Data And AI Capabilities And Unlock Business Value Across The Cloud Continuum"
-    excerpt: "Accenture (NYSE: ACN) has acquired Tenbu , a cloud data firm that specializes in solutions for intelligent decision-mak"
-    publishedDateTime: 2022-08-02T01:54:00Z
-    webUrl: "https://menafn.com/1104628797/Accenture-Acquires-Tenbu-To-Expand-Data-And-AI-Capabilities-And-Unlock-Business-Value-Across-The-Cloud-Continuum"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?233022"
-        width: 443
-        height: 250
-        isCached: true
 
 secured: "lr8qvGQBqLuzTGsEea+FrmXg3nuV2RiCw7uuTkpsusVwV7xlSkK1a4hkBqCIWdwHEinGhC06jthFMZlor8MdlBHaDWxHdaeGhq/7CDP4b/CGfNRS81tGWGy91GL+K+eRPKBojZun9jBV5g+H+LoJJloxNRPgooNc8XTwZoitUoKfqqX3RkvH1qzPTMnKJKGGW6M6ngW4XGZDJDGVQrgQaNtOWIbBL47rkLkpT04dgXzXHw/w8FgqrAitbaaMl8G0P/bEhfGuSKHQDLhi0Az9pyyoc+GJF49aRUaQG7xm79RWPqxUezO4aoebjSRwK26wvbtoJ0VSTmEQjvSiRu3O14MpXZZF10Bl3T8dqM9X2Jc1kv+Hf++SoVsK3uyQAryBzhCBlV891CFL+kSReF92208VtCN7PFkJtkqduXHe06qFwO3TOaBdCK6OzGxhuQ9vobWJQle6PnkkHqfmpUdnd+lTHTHH+RcDA19Skf8MXpsaTbq5XyjZkggof7lNUFNb2DKXktsbEGWqXHbTJpBNQA==;FB+DddOx9p4oz0YAmWfoSw=="
 ---

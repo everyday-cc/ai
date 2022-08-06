@@ -57,6 +57,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims"
+    excerpt: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims, which the agency believes are deceptive. The company has two weeks to respond to the inquiry or it risks temporarily losing its licenses to operate as a vehicle manufacturer and auto dealer in California."
+    publishedDateTime: 2022-08-06T18:55:00Z
+    webUrl: "https://electrek.co/2022/08/06/tesla-hot-water-california-dmv-autopilot-self-driving-claims/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 57
 
 secured: "nquk8o/sBdxbWRUagt82aqfoNKsIM55sFEnNgBasuLlK8XW06xO9717fDirExP2uxUSxeKeXq9tmnHgMC9h4EgErF2zgisurVXVH/wDgXUFcsLCzLk2oy2Dvsnh3W7tTJ0DBgxI33sx14fC4u4aWgB0Ev67xRHYwIK9akWIE9hfLerbVpQOXFYK6K8D1wFLr7m27Y0v3fLpe3J2Zo4V0izvnGXMlvVRTW1F66JHSeUqeC7JLuXeFBGBmuGY3gGBA0MJMrMiJZK2ewJJD10c9qDXFm4j7qpZbqJZHefp5ynCnGjYJPZtP8JX7LjIpX6R9orxf6TUEYMbl41G35BKkwLnsi4GAhfL7oTt5aj42ipntvNrmNtfRqVqVZ0frSzsbu9KabWI8mDOjQYBtAs4W+ZZL42qW4H1zSbGlc5la8laMWrOyI39Rf4P6M145f1eLRaQp8waCgingTc+NNI+QDClLfzwt7HVaXssWWsajFofucg+coLvPXEniqj9C5RaMucU9bpITq7AoJw2rllv6ZQ==;7oZv8q4GlR2PtS+UTT+07g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/industry/telecom/trai-floats-paper-on-le
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trai seeks views on Big Data & AI adoption to improve telecom services in future"
+    excerpt: "The 5G spectrum auction that happened recently is a big step towards the launch of new internet and telecom experience in India. 5G will take India's telecom services to the next level and bring it at par with countries like China,"
+    publishedDateTime: 2022-08-06T18:46:00Z
+    webUrl: "https://www.indiantelevision.com/iworld/telecom/trai-seeks-views-on-big-data-ai-adoption-to-improve-telecom-services-in-future-220806"
+    type: article
+    provider:
+      name: Indian Television Dot Com
+      domain: indiantelevision.com
+    quality: 12
 
 secured: "t0AFSmcE1MGWx3H4WgB3K7IcPlxyZVkaoagHcnu6TD3U8ilxLzr/VtFVcz7rXVeV59TbzH8c+FmyW7MRrkTWCGrVKKMe3fIPXOFkd6bo/SbzlUqIdh0yTRo+FwZnryGTOm1VjzBsH2sHZ6XrQHGmcZpV5Z+5MZU+Zx8+PwUOCjBTqt1sqnCeSJ+nQQ4IhjVsqi+bHsS0jdbfND0m8PNz+zUKgO/kkWPfaxl1I/k2P3WGCPr6LhLJmK/oES1PkhlQcntwRNGdIhKYttZI5s8r0k6h4Cs1Cbs67AzxWjPOFrZFjerGgGmpkWHiL0jUNhRFfCbCgTK2/P4MBCef47P8OY9Fs2yAYwcQnjVBqkmels0=;0+3/8x9BpvrX9cQHcPVy5Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-
 webUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-used-in-ai-breakthrough.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,30 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Australian AI star Appen flags first-half loss, shares plunge"
-    excerpt: "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,"
-    publishedDateTime: 2022-08-02T03:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
-    ampWebUrl: "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp"
+  - title: "Peter Dutton tells MPs many Australians don’t understand Indigenous Voice to Parliament proposal"
+    excerpt: "The federal Opposition leader has made his first remarks on the proposed referendum question on an Indigenous Voice to Parliament, which was outlined by the prime minister over the weekend."
+    publishedDateTime: 2022-08-02T08:13:00Z
+    webUrl: "https://www.sbs.com.au/news/article/peter-dutton-tells-mps-many-australians-dont-understand-indigenous-voice-to-parliament-proposal/xbpxhiwpp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "“Shell-shocked”: Australian AI marketing firm Metigy has entered administation, losing 75 employees"
-    excerpt: "ASIC data states the Sydney-based firm has entered external administration, leaving staff \"heartbroken\" by the news."
-    publishedDateTime: 2022-08-02T02:17:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/metigy-australia-tech-sme-marketing-administration/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 40
+      name: SBS
+      domain: sbs.com.au
+    quality: 11
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2018/10/DF-presenting.jpg"
-        width: 681
-        height: 335
+      - url: "https://images.sbs.com.au/dims4/default/cae5c41/2147483647/strip/true/crop/1999x1125+0+3/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb7%2Fb5%2F23aa56be45469bad0a699838535b%2Fdutton-parliament.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "7xyL+uLuIGHQxu8b0jR19e0X/heoOQ0aTUvfQl3QzQ4rKho+OLZoUJfkLJ9vX3SeWCNTg8Sl7+zMKn5MOA3jzNf1iAsNXvJrxVv+JqhrBRsHWJKb4KioHkPU6yOIf7C6OidG6XRopkWc/jW7oITbW7F5/f3MylipY+cbmDZdLh2eTLjMqscBkkNHoX5axYNPxvwrM0FWqW2G8pqJP7hwdDTn398AWVyhSfFJiUPgTJz7r5bvF7ONj67UE+6hYIOxcVEz2oc1TP4IvqZz5mNMqBgMnlViq+SuNNydjBTEqEPfCWMmWZUHrivynpdGEdEs0SSFSfaxjzRNRSusw5vaiRHRblCOSHAtctGBHrHru/E=;kQSZJYS7PExxkX0D43wFmw=="

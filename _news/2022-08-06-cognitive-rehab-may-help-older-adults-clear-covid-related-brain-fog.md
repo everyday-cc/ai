@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T07:29:00Z
 originalUrl: "https://www.salon.com/2022/08/06/cognitive-rehab-may-help-older-adults-clear-related-brain-fog_partner/"
 webUrl: "https://www.salon.com/2022/08/06/cognitive-rehab-may-help-older-adults-clear-related-brain-fog_partner/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Salon

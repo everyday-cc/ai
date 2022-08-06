@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "CFA Institute to host Asia Pacific Fintech Month in August"
-    excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
-    publishedDateTime: 2022-08-03T20:23:00Z
-    webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
-    type: article
-    provider:
-      name: The Daily Mirror
-      domain: dailymirror.lk
-    quality: 24
-    images:
-      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_17164950cc.jpg"
-        width: 550
-        height: 310
-        isCached: true
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
     publishedDateTime: 2022-08-05T15:45:00Z

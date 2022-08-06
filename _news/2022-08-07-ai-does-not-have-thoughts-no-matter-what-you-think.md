@@ -8,8 +8,8 @@ webUrl: "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-
 ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp"
 type: article
-quality: 61
-heat: 61
+quality: 65
+heat: 65
 published: false
 
 provider:

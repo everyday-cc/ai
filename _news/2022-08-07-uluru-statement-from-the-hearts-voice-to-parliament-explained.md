@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T18:00:00Z
 originalUrl: "https://thewest.com.au/features/the-sunday-times-long-reads/uluru-statement-from-the-hearts-voice-to-parliament-explained-c-7733654"
 webUrl: "https://thewest.com.au/features/the-sunday-times-long-reads/uluru-statement-from-the-hearts-voice-to-parliament-explained-c-7733654"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The West Australian

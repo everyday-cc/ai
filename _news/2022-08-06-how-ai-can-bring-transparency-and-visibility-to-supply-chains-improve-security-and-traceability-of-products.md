@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Traceable AI adds eBPF to security platform for deeper API observability and visibility"
-    excerpt: "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges."
-    publishedDateTime: 2022-08-02T04:01:00Z
-    webUrl: "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html"
-    ampWebUrl: "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 66
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Traceable AI First API Security Company to Add eBPF to its Security Platform for Deeper API Observability and Visibility"
     excerpt: "Capability provides a comprehensive view of APIs without additional instrumentation or latencySAN FRANCISCO, Aug. 2, 2022 /PRNewswire/ -- In a"
     publishedDateTime: 2022-08-02T13:18:00Z

@@ -108,20 +108,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Marion County School Board considers implementing facial recognition software"
-    excerpt: "Marion County Schools could soon take advantage of facial recognition software. Monday night, the Marion County School Board heard a presentation from Rank One Computing, a Denver-based security company whose East Coast headquarters are located in the Mountain State."
-    publishedDateTime: 2022-08-02T04:00:00Z
-    webUrl: "https://www.timeswv.com/news/tuesday_news/marion-county-school-board-considers-implementing-facial-recognition-software/article_a0ef622e-11e8-11ed-b944-c3cc38fbdb05.html"
-    type: article
-    provider:
-      name: Times West Virginia
-      domain: timeswv.com
-    quality: 36
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/timeswv.com/content/tncms/assets/v3/editorial/0/15/015e72ce-11fa-11ed-bfb8-cb52f477853c/62e870905c531.image.jpg?crop=1476%2C775%2C0%2C314&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition software spreads across India but regulation is slow"
     excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
     publishedDateTime: 2022-08-06T13:40:00Z
@@ -130,6 +116,15 @@ related:
     provider:
       name: RFI
       domain: www.rfi.fr
+    quality: 21
+  - title: "Facial recognition software spreads across India but regulation is slow"
+    excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
+    publishedDateTime: 2022-08-06T18:07:00Z
+    webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"
+    type: article
+    provider:
+      name: Modernghana.com
+      domain: modernghana.com
     quality: 21
 
 secured: "hf0GFwn3JqzYU0RMvwA5RDho/AA31nVmkLT8uYs36KsFWZ0SRB9h5w4WvEuotj1/HksUT8LeYd6PgZ5L5caXB9IM3AiQGNnYxtqec/MGmqMyTTNaFOSMl7qNV7bJZQJk1p36A8/Ixr61rVfF2W8Fme+W61kEZoKYIyzEm6iCgU0T1/bU9YCILmOxzx/BU1dSwnRmYNbvHBEG5NKBfXHa33nIEoHpa1vVIiyliEyhPm3gtlBK8rcPyMzo1Aa7AbrV3gK2SCUchccyc2bjsCoClI25WJglGttD1Ipo6wn+rpyPN6eGPrSZuO5X259wNp1iaV/bGN6yjIvVSWCRmIrIlXX7VF2WiI/rE6SEgLLCSSV2FvNoSoLnIRV5Ti3in1rAbNRtUQr3ygp1r343UJ/pz45UB66B72hDsPGT6nCoVwpq3DfAlDaIPGCEriaRCeNo9h4DxwQbHS89EEGTOG3wLIwSZRVS4rPbaLMMuWkHTFOuwJt0f+KqFbFzFbZFTu7GtR4EFeycvSRqFyUPtYmxqw==;xjKyPIKAWyJIUDoYGcDIWw=="

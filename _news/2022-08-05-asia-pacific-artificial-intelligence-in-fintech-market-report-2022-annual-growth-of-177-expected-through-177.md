@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28378306/asia-pacifi
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28378306/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-annual-growth-of-17-7-expected-"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "CFA Institute to host Asia Pacific Fintech Month in August"
-    excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
-    publishedDateTime: 2022-08-03T20:23:00Z
-    webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
-    type: article
-    provider:
-      name: The Daily Mirror
-      domain: dailymirror.lk
-    quality: 24
-    images:
-      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_17164950cc.jpg"
-        width: 550
-        height: 310
-        isCached: true
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
     publishedDateTime: 2022-08-05T17:05:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T06:01:00Z
 originalUrl: "https://www.digitaljournal.com/world/op-ed-the-trouble-with-ai-what-if-all-the-cliches-and-expectations-are-wrong/article"
 webUrl: "https://www.digitaljournal.com/world/op-ed-the-trouble-with-ai-what-if-all-the-cliches-and-expectations-are-wrong/article"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Digital Journal

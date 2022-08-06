@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Three evil geniuses and AI"
-    excerpt: "By Melissa Martin Syndicated Columnist It sounds like a sci-fi film, but 3 evil geniuses (referred to as EG’s in this commentary) want to hack our brains and bodies: Klaus Schwab, Yuval Noah Harari, Albert Bourla."
-    publishedDateTime: 2022-08-02T01:23:00Z
-    webUrl: "https://www.citizensjournal.us/three-evil-geniuses-and-ai/"
-    type: article
-    provider:
-      name: Pros
-      domain: citizensjournal.us
-    quality: 39
-    images:
-      - url: "https://www.citizensjournal.us/wp-content/uploads/2022/07/HeadshotsColumbus-1-Melissa-Martin-7335-scaled.jpg"
-        width: 1707
-        height: 2560
-        isCached: true
   - title: "Ambitious Researchers Want to Use AI to Talk to All Animals"
     excerpt: "A group of animal lovers is looking to use machine learning to translate animal \"language\" into something humans can understand."
     publishedDateTime: 2022-08-04T13:36:00Z

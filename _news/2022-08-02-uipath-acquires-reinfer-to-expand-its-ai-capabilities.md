@@ -55,15 +55,6 @@ related:
         width: 500
         height: 399
         isCached: true
-  - title: "Drover AI Secures $5.4M Series A Led by Vektor Partners to Scale its Innovative Applications of Computer Vision in Micromobility"
-    excerpt: "Drover AI has pioneered the use of onboard computer vision and machine learning in the large and growing micromobility sector, enabling enhanced safety"
-    publishedDateTime: 2022-08-02T04:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/drover-ai-secures-5-4m-series-a-led-by-vektor-partners-to-scale-its-innovative-applications-of-computer-vision-in-micromobility-888412623.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 5
 
 secured: "CSogkNcyfQ8R4I2CJNF+Z5GUmKBwCrmkHSDnlmkxG1T3EzeMjkkqUZqw/apKL54YkG/UXs+FkFNVKunheNAiJhwp3/15keRBFgWXSewPhDmSz0XU3TTq336KYs5UDEPpBJnWiAd0j/O359Sg4yRLdePchgipuNfbJkhwjBn2ZZcXWvMqmyLWpEmQgGx5uhIbF13tHBu8wx5YfoPQqN6yqie4gOpbXkdlWsI9t4nQBDq4rJUegWHewzvRx8YK6geXuYhaGhrovGOjOvafLEqiqz2wAhBmyBvDzjNBbQF+Yq9Gal+BKkvu69ba/HfcWCGVQJ70Hs0NXheNcb9ZzYERtLgCxxmLPRtRZhLGXwCVSQI+ZbbWwb+THKQhOKyTn1ZGGMzPKuKlhDi+oFTfop9exTekjUi+rVhA1veJWxR4bCD742Xyd0isaaMcH0QNOhbxS0BaFCsBCcfn4T9woy4vsH+8wRI16CTaVoJBV82FNvs2yz5CVfFj/+6Ci4eum7hy8q6fOp9GNFS1OmeZ1ktT+A==;hKjkmRieM/Pqdw0G3F4ASA=="
 ---

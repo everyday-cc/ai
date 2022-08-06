@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Computer Vision Market 2022 2028 : High Demand For AI In The Computer Vision Market"
+    excerpt: "Rising demand for computer vision systems in automotive applications and increasing demand for emotion AI are key factors driving revenue growth in the AI in computer vision market. AI is the ..."
+    publishedDateTime: 2022-08-04T13:39:00Z
+    webUrl: "https://menafn.com/1104646331/Artificial-Intelligence-AI-In-Computer-Vision-Market-2022-2028-High-Demand-For-AI-In-The-Computer-Vision-Market"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/04/EP_ca6efimage_story.jpeg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Artificial Intelligence Server Market Size Comprehensive Analysis, Growth Forecast from 2022 to 2028"
     excerpt: "The Artificial Intelligence Server market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2022-08-02T10:31:00Z

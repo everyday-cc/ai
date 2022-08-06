@@ -7,7 +7,7 @@ originalUrl: "https://tulsaworld.com/lifestyles/health-med-fit/cognitive-decline
 webUrl: "https://tulsaworld.com/lifestyles/health-med-fit/cognitive-decline-linked-to-ultraprocessed-food-study-finds/article_8e46ed86-5402-5aa4-b3d3-c6a661a5b8e6.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Ultra-processed foods linked to cognitive mental decline, new study finds"
-    excerpt: "Scientists say that many foods we eat for pleasure contain such high amounts of potentially harmful substances that they damage critical brain functions."
-    publishedDateTime: 2022-08-02T01:56:00Z
-    webUrl: "https://www.fox13now.com/news/national/ultra-processed-foods-linked-to-cognitive-mental-decline-new-study-finds"
-    ampWebUrl: "https://www.fox13now.com/news/national/ultra-processed-foods-linked-to-cognitive-mental-decline-new-study-finds?_amp=true"
-    cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/ultra-processed-foods-linked-to-cognitive-mental-decline-new-study-finds?_amp=true"
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 43
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/07c9e3f/2147483647/strip/true/crop/3388x1906+69+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F5b%2F21%2F3ddf8f304a59b150c1230834db89%2Fscreen-shot-2022-08-01-at-10.44.30%20PM.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "gs2O5VsLtEBNGS0PNnvKYN/Rizvbd9z4a1xhWPmYxlDbDdzkO8J5iqDJm1RAST90HKZSfgxRIQ1rZC0akVNg3/QphQGVcLtnEg/Y/W0bV/h/HhqG2qLaEPHovBmOpZToLlU+6WO5o+ZbSxndncEzFzNo4hmkPZfIR86WqDEBA68fwFodzo9h08X9ls+zk25lEyA73xddqgqHbPuI1PnJhjkgLuhTv2JFB0FXBJiqjQxjhxcTkH2gO+2bh5jd1k/CGT6JD13DcLEonIHLDrTYO2Cdfs9agF5zJ7I9azYAhIltssmLP8/g3AzedIjKVBKNOsBPQ0WhlrcC29KxkGWYApau0BQUnBhzusSR33kXxe8=;w8OogLYf7vcZJWT+JKr0/Q=="
 ---

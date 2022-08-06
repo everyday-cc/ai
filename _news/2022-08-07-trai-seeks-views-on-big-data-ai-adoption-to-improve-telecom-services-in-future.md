@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T18:46:00Z
 originalUrl: "https://www.indiantelevision.com/iworld/telecom/trai-seeks-views-on-big-data-ai-adoption-to-improve-telecom-services-in-future-220806"
 webUrl: "https://www.indiantelevision.com/iworld/telecom/trai-seeks-views-on-big-data-ai-adoption-to-improve-telecom-services-in-future-220806"
 type: article
+quality: 12
+heat: -1
+published: false
 
 provider:
   name: Indian Television Dot Com
@@ -13,6 +16,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Trai floats paper on leverage AI, big data for sector"
+    excerpt: "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,"
+    publishedDateTime: 2022-08-05T15:52:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83810,msid-93377421/dot-floats-consultation-paper-on-need-for-new-legal-framework-for-sector.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "TRAI seeks views on AI, big data adoption to improve services"
+    excerpt: "The regulator has sought opinion on risks in the adoption of AI and BD, such as unethical use, bias in data and algorithms, privacy, model instability, regulatory and legal non-compliance, as well as ways and mechanisms to mitigate risks."
+    publishedDateTime: 2022-08-06T06:04:00Z
+    webUrl: "https://www.businesstoday.in/latest/economy/story/trai-seeks-views-on-ai-big-data-adoption-to-improve-services-343936-2022-08-06"
+    ampWebUrl: "https://www.businesstoday.in/amp/latest/economy/story/trai-seeks-views-on-ai-big-data-adoption-to-improve-services-343936-2022-08-06"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/economy/story/trai-seeks-views-on-ai-big-data-adoption-to-improve-services-343936-2022-08-06"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 57
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202208/communication-5050339_1280-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eOB/n++dmL9gj/k92QkAigALxt3QtrYqqAHAD+sgo0lx0vNmmRLF00KbAV9OYWI3PyBYINGORp+aPqXjhfsfGsJxvZPQXOhiXB8tMmbV9vDSL/zewRYTQ8vMZx7yUAFYVn+d2M3nW3HuO3GYRbxHItO4fDZCCJA7TI6m3vCcC1V2HeIK3pJK3u4Nv4yx+Xb3nwyQA7Qc7YbFBRgvdUEPCJIC95o0BuRR2XT2W1KhIsUDkApTW2jtFl6L2J6ovsMB4Y7SjECmeUfWLDxAUuWK3JYk7lQ7zI5q30DbdJXpBrZE+dQS+hK/x0SZxi5kCZriSyIGrR0sXahU78fnKm2uFmEVMCZSulzAVXf1yFEglqak2ImCJtyi1HnXfP97ua9D/b2jfG7Z8TsDHidmuiLROVLilRareVooibk9FuLgie6R7xh3/X7caYRfso5OhbdmakSX/NVTZvMyvqiJcrYWaBhYR7we9HeU5vxj8ByCSWq7LXimrPEvw1p1I7OoXkYb1il/e0A5v0vIMikyh7/Ggw==;7Azlx1XTqlx+w85EAvzRlQ=="
 ---

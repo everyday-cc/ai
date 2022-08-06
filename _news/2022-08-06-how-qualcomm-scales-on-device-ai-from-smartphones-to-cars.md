@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-06T11:00:00Z
 originalUrl: "https://www.axios.com/sponsored/content-item/qualcomm-how-qualcomm-scales-on-device-ai-from-smartphones-to-cars"
 webUrl: "https://www.axios.com/sponsored/content-item/qualcomm-how-qualcomm-scales-on-device-ai-from-smartphones-to-cars"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.website-files.com/5fd2779d2b3b475aafb5a3b5/628802e6c632492456089268_Snap%20Dragon%20Square.png"

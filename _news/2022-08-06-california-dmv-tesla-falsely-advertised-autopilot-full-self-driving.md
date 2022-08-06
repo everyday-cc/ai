@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised
 webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims"
+    excerpt: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims, which the agency believes are deceptive. The company has two weeks to respond to the inquiry or it risks temporarily losing its licenses to operate as a vehicle manufacturer and auto dealer in California."
+    publishedDateTime: 2022-08-06T18:55:00Z
+    webUrl: "https://electrek.co/2022/08/06/tesla-hot-water-california-dmv-autopilot-self-driving-claims/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 57
   - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
     excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
     publishedDateTime: 2022-08-06T04:59:00Z

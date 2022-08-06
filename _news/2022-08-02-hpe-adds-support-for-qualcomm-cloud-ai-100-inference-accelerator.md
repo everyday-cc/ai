@@ -39,7 +39,7 @@ related:
     provider:
       name: Axios
       domain: axios.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets.website-files.com/5fd2779d2b3b475aafb5a3b5/628802e6c632492456089268_Snap%20Dragon%20Square.png"
         width: 500

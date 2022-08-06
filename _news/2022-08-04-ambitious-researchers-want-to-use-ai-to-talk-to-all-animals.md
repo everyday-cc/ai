@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Three evil geniuses and AI"
-    excerpt: "By Melissa Martin Syndicated Columnist It sounds like a sci-fi film, but 3 evil geniuses (referred to as EG’s in this commentary) want to hack our brains and bodies: Klaus Schwab, Yuval Noah Harari, Albert Bourla."
-    publishedDateTime: 2022-08-02T01:23:00Z
-    webUrl: "https://www.citizensjournal.us/three-evil-geniuses-and-ai/"
-    type: article
-    provider:
-      name: Pros
-      domain: citizensjournal.us
-    quality: 39
-    images:
-      - url: "https://www.citizensjournal.us/wp-content/uploads/2022/07/HeadshotsColumbus-1-Melissa-Martin-7335-scaled.jpg"
-        width: 1707
-        height: 2560
-        isCached: true
   - title: "The five best books to understand AI"
     excerpt: "Also in the past ten years, a lot of books have been published that aim to explain what AI is, where it’s going and why it matters. Books by AI academics do well at explaining the technology but are less robust at foreseeing the implications."
     publishedDateTime: 2022-08-04T15:30:00Z

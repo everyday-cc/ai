@@ -5,7 +5,12 @@ excerpt: "In the new approach, the behavior of the added electrons is controlled
 publishedDateTime: 2022-08-03T20:29:00Z
 originalUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
 webUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
+ampWebUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Phys.org
@@ -15,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "299ZP/V4Kv1f/A6tZPySTaKUnP6g4VdUl+wdW/bQdrTzA7hEbcVqX0YeNrhpdz4A6dFAXaXGaT3BsqZQZSJKaqb5K5nLiBOQHOGPc23dbdAlrEKnsMzn111tUcsKFYPiRZUkIEcjkuW1GOH2L6/3vfpv9VWv6PTZ1obCLeVa5A83488VQDZblEWL/xfjdX2MG/vrg7kI0Qont9NizjALrXBhY/hThjl77A2af/aKLrcknefTcnhXhQ3aMyNikbnRBNwtp8Sbdee0qu3Fo7mos54F5+paC4gnGHpmKJCrk/c2MblBZs7o5LzxkN2PxvGtp74kzFt5NmkiC/FmndpRY6KWNMwBfdqEuE7hH+tJG1Y=;+T1OGuBzJ7JK2dbSP/t1Mw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/neural-networks-and-gh.jpg"
+    width: 1391
+    height: 1075
+    isCached: true
+
+secured: "JZq9riI2Wp7cmweANAr1+HaQDGJD0VOaZU5ADyx3m7sOZQA5iM3imb2MgLIk7xyiXXvm8waRVo5PX3xz6zgh5H61TgZOJRPYne+y6DDP4jEegZtUtvOFbeYLA9uduKr8leG+u22dltnnZhSm+DigmpNnrWo++s8nCvdeTQhzGyXMZYuj8165FyUfbkRflK4GQdaKUu2eaKPCxchR5lWRTqRQgS69pmryKrbzf76m9k8pYb5Hs5gtLLajs9KIhkdymmos1WWlvhYwePyA4TEEtmo9OoDdhlk5Zl+dwA2jD3Mh79P6NbSLeotK4aPjvlRXAWJTh+3F2bZxrtVYENuJ5B+tD9gkvvNCnRuu7s0Jbd4=;JqN42NAl8aSgumtWf0HqkA=="
 ---
 
