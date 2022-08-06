@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg?w=1600"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "pMMUzMc67UbCoRVfG7XXifhECiZR95t8bREOU8A8OWgcG3WhYjsR1ck6RGrRF3Nu/AtxVyK9IK5z840vkbsu4q2asqVlxydSYK3mnSvt3OdYZr4U4oIiQaHzfk+A/KEMSav8yj6I227eSFmr3kZbXpLELvIrheGN+u8OQmjyRxTmQERiWDTSqfP985PSjKvSSX3L4M0ZoRpepN17YpslHFXHNPdndPsNPxlO74tfM4RZMBFtK17QbgelnN4cjbwZJeZCMBQg2e62s6lBWRrANPKbaHfiTmhQxVI7DxMUAhGHLtIw0PkucvqDhlff17o0KH37cp27cHkj1x0X8XAgr/YlDSjS9l8dq9eLDTDZRuQ=;fZa+U9791ZJe91LI6eyGqA=="
+secured: "5Va059iBjxgmAqDrxaHUFnT2Oe/ZR1+8Wikmlprq4Z08AZJscvTcOcQQ1Ab+gc+M48AuSC7XBkCtJGRPLlcR3HJOpogvmW+eMaOUkYoIU8l1FPzez6D4i6ZpGSnDaBOabihPxuFHbALhBadgmTOLOcKJI+qRUz0ZylPqGARrxeVbONo8ksgD29EHxUFchvYKyTg0+f8hMrv3I3+hzrqKIVSceBCPYeM7nBx3ObZ2vvYX9aiQBi27NoVldkWsELrDXzbZ3tZoJWm0TImBgrhI/bzzMuRYsn0/TO1RGeu8MJdpQ+MliqtGF+RYdKs559kY+yVhBu0yGjSvFKrrBEpUHwF4m6G++dwORL/9PAZUR7M=;V5Tav3rPkBe1/qA0Qr98lQ=="
 ---
 

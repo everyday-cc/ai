@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday."
-publishedDateTime: 2022-07-21T07:33:00Z
-originalUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
-webUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
-ampWebUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm ... but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona ..."
+publishedDateTime: 2022-07-21T13:00:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baidu-unveils-latest-a.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
-
-secured: "zx9OlHrkODR63PyTPClV1SNkPUN2WsmpnM8z7QdrmsjANO/Su1sgNx0m+jjgIxpsxD6+e+6BkryIX/mNXIWxr5aE73x8IdSyGDkFzsao8a5b3X4Nu8LX4oEwtAzRDu3LjA0oYhpC4Mow+BLQ78bYD1GIQTvt688Kiy/BOZcbN9FZt30HLwsy0KgMoYnMCqPr4gWuvMq0qeoMWvUXXTAZ1ExAIbG8HHKDWFcyEFnw9iDHThG78XD3JFjvfeQAkSe/ws2ak5TeMeKhVlUMlfBWjQ7tgl2TDPDOsNcRCZoQVM8M/qgMKEDgtbiiFPsaHzQWeG+SII0kGfXIDVr/gz9yjRCRBez7M21ib8s9f2Usv38=;du5BORakbINWak6GdZgtrw=="
+secured: "beS4ItLCKHGr8x+psTbzdzDI4Af7wzdQGkgPW7DoTov1O1KmiJRNtv1cagPnsVkJBqWvkrX2Yta8fBG72xQvuTTQxAcBKuzEgvIJp7u06yfUS8SFdwNVfZzYVdrkImrI1suBxqOHu/uTGoeCzDoSUU39IPz/buSbrmzVFp9JcZnCRw7t4Dg7ka19xQSdicp5hDeDQVH0UbTf3MYTlVl18gm+XDKP5YTGCboU4Ivk0AaREZu8AFl4Dtr00Sek9w8LayzJzSvXT+4/4K9oMDpzzzmfJEJ16u6xseiKfuT26AOoialJTQfTnzfabc602eMt2pvYN49Ky4L8NjiR9T1n0Dscxh4wPwrzaWuGzrUDRY8=;6GCvLSaPL7lZkRRs4yDoCQ=="
 ---
 
