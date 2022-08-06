@@ -7,8 +7,8 @@ originalUrl: "https://apnews.com/press-release/accesswire/technology-health-pati
 webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sanford Health, Sharp HealthCare Join Clinical AI Development Collaboration"
+    excerpt: "Sanford Health and Sharp HealthCare have partnered with Dandelion Health to launch a new product development platform for clinical artificial intelligence."
+    publishedDateTime: 2022-08-03T17:05:00Z
+    webUrl: "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 72
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Alliance for Artificial Intelligence in Healthcare Adds New Member"
     excerpt: "The consortium, Alliance of Artificial Intelligence in Healthcare, has over 40 organizations committed to the responsible adoption and use of artificial intelligence and machine learning technology."
     publishedDateTime: 2022-08-04T17:12:00Z
@@ -36,33 +52,10 @@ related:
       name: hitinfrastructure
       domain: hitinfrastructure.com
     quality: 54
-  - title: "Changing the culture in healthcare organizations"
-    excerpt: "From its earliest days more than two years ago, the Covid-19 pandemic hit hospitals and healthcare facilities with abrupt and harrowing changes. For healthcare workers, the trauma still reverberates."
-    publishedDateTime: 2022-08-01T15:54:00Z
-    webUrl: "https://www.healthleadersmedia.com/clinical-care/changing-culture-healthcare-organizations"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "Talkie.ai Improving Healthcare Customer Service with AI"
-    excerpt: "Talkie.ai raised $2.6 million from a Polish-Austrian consortium of VC funds and will use the funds to further specialize in creating technology for health care industries."
-    publishedDateTime: 2022-08-02T18:30:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/453087-talkieai-improving-healthcare-customer-service-with-ai.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "TidalHealth using AI to reduce physician burnout"
-    excerpt: "\"We're excited to help support TidalHealth as they look to empower their network of practitioners and build the future of medicine.\""
-    publishedDateTime: 2022-08-03T20:49:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/tidalhealth-using-ai-to-reduce-physician-burnout.html"
+  - title: "Sanford Health leverages patient data to develop diagnostic AI products"
+    excerpt: "Dandelion Health will make the health systems clinical patient data available to AI developers in healthcare to improve patient care via AI, according to an Aug. 2 press release. Sanford Health is one of two health systems to partner with Dandelion,"
+    publishedDateTime: 2022-08-03T18:21:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/sanford-health-leverages-patient-data-to-develop-diagnostic-ai-products.html"
     type: article
     provider:
       name: Becker's Hospital Review

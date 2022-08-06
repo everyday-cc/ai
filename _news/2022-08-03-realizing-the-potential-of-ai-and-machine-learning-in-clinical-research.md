@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Why AI and machine learning are drifting away from the cloud"
-    excerpt: "Cloud computing isn’t going anywhere, but some companies are shifting their machine learning data and models to their own machines they manage in-house. Adopters are spending less money and getting better performance."
-    publishedDateTime: 2022-08-01T09:30:00Z
-    webUrl: "https://www.protocol.com/enterprise/ai-machine-learning-cloud-data"
-    ampWebUrl: "https://www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    cdnAmpWebUrl: "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ai-machine-learning-cloud-data-2657762812"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 76
-    images:
-      - url: "https://www.protocol.com/media-library/less-than-p-greater-than-in-the-end-the-transition-could-be-a-sign-of-sophistication-among-businesses-that-have-moved-beyond-merely-dipping-their-toes-in-ai-less-than-p-greater-than.png?id=30319375"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "fRj4KMye22jUThAQVFYCSrqYLnVX+lxO3OFA6q5ESSAsEXBiFj/ajH75q0ZUPgXGSKQ68pH2/Qx89hmHBDXwpWQQ/mUFFkR/HJvdvdT4I5l07cptARR67HIXKW/4cWniBPQY1x9f7gcZuA/9d2kv24AnZZI8vVNgM/PGqhnpKMJavjpR1KiuDngebaqxgYYOEwTLOPT3XjZl8KRKS9+f0ZammTgjjqade2Kb+8s/m96hNUw1IeTNBeISKujFM5iPf/VGsZYf0exPRz8XZ6guE01iXeZgBeRghI+ZPMfb0/iiQN6KSFwpywoFH8H1QdAqdyIPUrbRMgNYYLeqHs8A9FZUjjnoPjEPM/symt5KR+s2a5j4dBHDkBd33ZohW+BHHEgz76yvW8GxDYmISQGxWd/1Eq5LvWS/TaMYmE+S1fuHw5u+k6WJVX3x8s25IUiNJEJB1E11qvC17vAqRwCIu0XJrLNFSHlTbffJe8GmJIEFuZf9KgpyM8fizPcKYz46WEh/dbxaTFyY0aEOBikBsA==;Z1/lE79CWCHqQeemKDmYpw=="
 ---

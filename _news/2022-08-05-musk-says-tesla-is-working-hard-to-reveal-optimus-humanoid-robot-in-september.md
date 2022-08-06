@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day"
+    excerpt: "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,"
+    publishedDateTime: 2022-08-05T14:45:00Z
+    webUrl: "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
 
 secured: "MQq+YMNgd3lqDGZCIrJnB7VAMWN3SSdKMCBKSYmrb4ny6N1+Ggl1RURoeR0V1IxET7rAwcvz4eWCMyzwgn9PBxa3MZSMqo9KApgCMTfVgvq01WjBXoCgolsTZQ72tY+wkP2ijmGJ4DsaKrQXsfmzucQmD2ZUWTsBNFovJJtCkqT7qt5gF3KxrQFyTaJAVEvxpcCZ2BtfQCCl2nFlpaRS2zKnePr4OyY2vtdB1VfAgZnxufEGQUbtJCjqa0mLzOeZ6qbeHqAX0mDXti5un0Nfe9YYjkIB10i6/SmZoKHa31G+4viY9eRNNLqQ0qyzEVb/NooeN7yTcnZya+WUA+YsoM3id+otVKfteFtAcGvwU3mBlpPKJAUmLVwlyLssaU6N4bcWF3+UnfbghtGTsXW9fWXi7PDivhGHlZJKI8VQcKOZl04YkJVdchZRttFErkopZAWYaBU7CdffFXidjVerdTFptNOc+Z/3+D8MCl4V8sxW7i2VezBsPhJg+9Rv0IK+1f4VlF6zTrHwJcNQThY+Hg==;DvsL4l1P0IgP2R3OpXjbtA=="
 ---

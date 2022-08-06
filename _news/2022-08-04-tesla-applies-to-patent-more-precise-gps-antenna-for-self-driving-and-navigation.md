@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "California DMV accuses Tesla of falsely advertising Autopilot and Full Self-Driving features"
+    excerpt: "The California DMV has accused Tesla of false advertising in its promotion of the company’s signature Autopilot and Full Self-Driving technologies"
+    publishedDateTime: 2022-08-06T03:21:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 48
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c8621e/2147483647/strip/true/crop/5116x3421+185+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F17%2F24d8c4f14825fcf0ddac0ea1baf9%2Fimg-la-photos-1staff-463-2-1-vj5po8pm.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Tesla accused of false autopilot, full self-driving advertising"
     excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
     publishedDateTime: 2022-08-06T01:49:00Z
@@ -45,6 +61,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Tesla accused of falsely advertising self-driving features"
+    excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
+    publishedDateTime: 2022-08-06T02:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "SCPFMRbQO9EmAOUhJyKP7xrdseMJ+HGVpve0HBfaYNLjBfGCqThVgDyH/meyOCnq26wrTf+CvEUBxdqHxYYay/J6d7nUPsmxGs4P/yfwcIhF0R1OotNRQBoDGzm9rGEpXs1emv/VqvaOVMx4rBhfPwXehSK+5Z16s4iw+BMuwij+aDNfCrUiDYX7rT0NbeRq9LruwYsZ7lRxvJzUKUMLdvLOKy8pO/iRhUpEbLOT0Wxb8Dr9fmwG2XbBW9g8XIRfdRL50zJdR3hktXxVL9jwGmZoGG9qW0lRjOV2e4r3CcuGkYRnlwJC/i9wKHrNMiPAwdmokROKeC7XeE9mLdHnQZsGlIG8k+48Bsk9fEwZZsLVMkSpJpXmqzYS/E3Mg7ZIxOVuxG9dJ6GfzXbWidggBDkUYOhDXKy2BA52i1oQl32nHf/eEByAOLK3zUD/mE3rVH5H5pVcHOVXIve8ApvGU5eYI1WB7wvIhIPC80u8kMuhxB557y2eIDOtytWzd8Y8BIncBlxYXX+O6OfhW0VxQQ==;f+rDvKHnC1K3FHSanM6Uiw=="
 ---

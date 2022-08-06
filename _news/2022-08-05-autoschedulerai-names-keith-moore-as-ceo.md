@@ -38,6 +38,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AutoScheduler.AI names Keith Moore CEO"
+    excerpt: "All of these executives are trailblazers in their respective fields and bring impressive leadership and strategic skills to their new positions.” Keith Moore was previously the chief product officer at AutoScheduler."
+    publishedDateTime: 2022-08-05T20:06:00Z
+    webUrl: "https://www.scmr.com/article/autoscheduler.ai_names_keith_moore_ceo"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 37
+    images:
+      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
+        width: 444
+        height: 333
+        isCached: true
 
 secured: "Gh5N1wDtozSLEcyR2otU6s2Hxe+eYXUmxNAU5X933C5cMAtcEkpWW0MIEYbZsG9w29cA2KRwu79SDJKZB+c/A9UD+6AerN0uV3XvgpduQUA1VfEhbcXzqGHL/apL49iK5BsOxcNZWxdpD/dYPvq9plyjA/v08u4sSSBcV21AZBlSDq2UEc++OpWVeMzWU7qnfXE6d+RlCkUvDV4w77olFttWOcaSRzXdRhXmJskCFSKkRuGrqbZt729uYLxlGJTfGaprwagwqyAnEiesmhcC/8oR3bnXvBe92uzgfiOMhCc4izQPW78z+GsDnH2fCRaRyYJNsbnj+lsSPnNTfmsxqOS9DdMwHs7caoK4LTL7hpw=;FEK9XKnR62a58cVErGTzow=="
 ---

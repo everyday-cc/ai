@@ -28,6 +28,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Talkie.ai Improving Healthcare Customer Service with AI"
+    excerpt: "Talkie.ai raised $2.6 million from a Polish-Austrian consortium of VC funds and will use the funds to further specialize in creating technology for health care industries."
+    publishedDateTime: 2022-08-02T18:30:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/453087-talkieai-improving-healthcare-customer-service-with-ai.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "T0BhZE66Ai/YPIpy1h+/SXuNzf+THivJUJ/8S+fPc0MYCbMp2CzvfcCO+e2V1ba4C5iD6JK5WjXfbs4mUPNJdAuPUCkpLQZC9o87HCAsmczfptNUdwwemY9axq7Y33LjV0R44S+luepW7KLaZ1NZPrLe3VBOJtykztrwxcPsAjLuCkt8Zjs4WkEpGS+SEE+K6z8VbnHEdM/rzZyEYW4Dib55wM8LW3GnL1Xog7n1YYMTzhF+s8HFyVEX3I4fTWW1XeWmrpsZl+Nl6LJbVu4eJvrEx9rA/nHEIplJSl+FUTC9TvrlQfguWl70iozuDkrjnT0EeLr6uqDDyikBzY0CzmquFyGOW4WCmdKwTRb6Uy8NwoiMJ7J/Wj6dVpdA+aovVvlX0z+iyaNjE3s/gRAer1LtH9+GMzhZbyJbODEkU+wcGHdLUxSYaYFPaeW2i2gZfcpci3ZAhQ+cJuInAmtuicn+FuFmSTG+1ReiddFWX2x9LF2hOSEkLR0opyYTOVgz5bOdKfIBqrHOSHvT41DxLg==;GASyYzFpD3nE7W9A0yO0oA=="
 ---

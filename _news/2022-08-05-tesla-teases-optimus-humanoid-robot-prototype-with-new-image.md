@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-p
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
 type: article
 quality: 106
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -32,6 +32,17 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day"
+    excerpt: "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,"
+    publishedDateTime: 2022-08-05T14:45:00Z
+    webUrl: "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
   - title: "Musk says Tesla is working hard to reveal Optimus humanoid robot in September"
     excerpt: "Elon Musk once again teased Tesla's humanoid robot prototype, Optimus, and announced that it will finally be revealed at AI Day: Part II on September 30th."
     publishedDateTime: 2022-08-05T15:03:00Z

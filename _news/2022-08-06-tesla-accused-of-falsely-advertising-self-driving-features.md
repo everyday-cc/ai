@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Tesla accused of false autopilot, full self-driving advertising"
-excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
-publishedDateTime: 2022-08-06T01:49:00Z
-originalUrl: "https://www.straitstimes.com/world/united-states/tesla-accused-of-false-autopilot-full-self-driving-advertising"
-webUrl: "https://www.straitstimes.com/world/united-states/tesla-accused-of-false-autopilot-full-self-driving-advertising"
+title: "Tesla accused of falsely advertising self-driving features"
+excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
+publishedDateTime: 2022-08-06T02:50:00Z
+originalUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
+webUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: Free Malaysia Today
+  domain: freemalaysiatoday.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/06/md_teslacars_06082022.jpg?VersionId=tgpFuCpThcHRY13JcDe91jGOgh3blOTu"
-    width: 860
-    height: 573
-    isCached: true
 
 related:
   - title: "Tesla applies to patent more precise GPS antenna for self-driving and navigation"
@@ -57,16 +51,21 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Tesla accused of falsely advertising self-driving features"
-    excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T02:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
+  - title: "Tesla accused of false autopilot, full self-driving advertising"
+    excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
+    publishedDateTime: 2022-08-06T01:49:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/tesla-accused-of-false-autopilot-full-self-driving-advertising"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/06/md_teslacars_06082022.jpg?VersionId=tgpFuCpThcHRY13JcDe91jGOgh3blOTu"
+        width: 860
+        height: 573
+        isCached: true
 
-secured: "CSPZG/L8Qio/WO7co4kN7h4duuPzmX2u1xB1aTDaMAcQXK9Zck/MNkVk82XhBmD7snmJZZghy0X3cJEI4YWPPtpLAXwng0DpSW/utNOfa6vr2nypkX9BrYkzzPwbtB0Lj1VBFq4i49F3Ipe1kRYKH+y0ZkwnOtXJH7pV0aXyeOdCIKQtfY0Mm8QngHT0hPbqjnOLJ2Ntgr+xIk1g+U4Olv3KPik8/aDWObk+W/fW7N7wXsK7PibcHys4hk1lO9/QhB9TaTA6IFxgGpkF7p4IZdZQaQPsCRuVoj5SlFzDhyc6nHNoVHksmt2bA+SOkd/OHjeZ9cnlEcdpoIDxJ/ra3x2z6nAX0hL8MGbmBsSKpseaqro5XJWtT4UQOzJUD7vg4A5bzP2+MXmlUZY6DATRa3H1O/OmRRi/1r1auhQ73x1aBUipNgoVZ8xyJ+/6WevOG54JXwJb3301cJ1OHqHJI++XoCx/jz/VX2eGwjyWKPz55zWn7ffZJZZMQ+QIfKGMOc6RUvWtK3V+/N+1nJZRew==;hM087qH9NHRbTwpWpNm/lQ=="
+secured: "PJ4tQL2jT7dzBtcYpHL9rHTpvEYnNNwBAKK3jG0uamikXg4K5JZCACLqk6hGuS+3SEsxyilypDWAjSAIyugCtCfkgRVpOCRH74IMuuuAofF3GwMkqZSPWWlVdCIaZ0PoFYEvotR+V6FmlX51t3BYkv9xVP/Mw4UVM1CXimH09yJC/dH0VeUoidA0WP8z7XRtweC1f/PyEjfaMyu+JAwNHQD7jRhK1J/ZyLwpFpfVLOEJRUfObS/+23ReO7cnjd5V8eO2NSxa1/CZvynbgvis8TcVuG2peSJs5ScTXtxLsJDsBowxLRs+Vds4mieXcvW9ZlLv0nGNKpjn3bl2y9YoXAUVP7U+KiXtut1f7eM3gGWId/ZjgRQ+bnpz6CQhltHV5xj72p6Cd5I+EXEHwJwHZaciHOaP8HJWFD+3MMvXnFxOws5OrkhcnxYGOiwliTI99N1z2Ts0/7fanztHkKpLHmhmCmbpvMaE/nAY75CPEI/ufYT+psZ2ZcU8GLHsuI0X9y62NuN7i/BaulNXeZucsQ==;j9cjAD0dopvgh1aPmnF66A=="
 ---
 

@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Talkie.ai Improving Healthcare Customer Service with AI"
+    excerpt: "Talkie.ai raised $2.6 million from a Polish-Austrian consortium of VC funds and will use the funds to further specialize in creating technology for health care industries."
+    publishedDateTime: 2022-08-02T18:30:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/articles/453087-talkieai-improving-healthcare-customer-service-with-ai.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "‘Service experience’ startup Aisera raises $90M to help enterprises go AI-native"
     excerpt: "Aisera has created what it says is a proactive, personalized and predictive AI-based Service Experience Platform that automates key processes around customer service, employee service desk and information technology ticketing."
     publishedDateTime: 2022-08-03T12:14:00Z
