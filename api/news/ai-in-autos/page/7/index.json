@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
+      "title": "Baidu again reported to be considering selling iQiyi stake",
+      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "publishedDateTime": "2022-06-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure.md",
+      "title": "Driverless Car Market Size Report 2022 Analysis Report by Industry Segmentation, Region, Manufactures, Cost Structure",
+      "excerpt": "Jun 16, 2022 (The Expresswire) -- Driverless Car Market report gives inside and out investigation of the Driverless Car market, market size and total yearly development rate CAGR for the figure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
       "title": "Baidu tipped to roll credits on iQIYI stake",
       "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
@@ -1204,101 +1299,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030.md",
-      "title": "Artificial Intelligence in the Transportation Market to Reflect a Holistic Expansion during the Assessment Period 2022-2030",
-      "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-chinese-automakers-want-to-bring-assisted-driving-to-the-masses.md",
-      "title": "Chinese automakers want to bring assisted driving to the masses",
-      "excerpt": "While regulators have yet to allow full self-driving cars on most roads en masse, companies like DeepRoute.ai, Baidu and others are building data records through their robotaxi operations. Liu said such data can help improve algorithms for self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "originalUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107073288-1654767192766-4047ba3f7h82a5b1ecd9ff0bacfe7ff1.JPG?v=1654767276",
-          "width": 5232,
-          "height": 2632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "publishedDateTime": "2022-06-12T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

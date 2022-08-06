@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
-    publishedDateTime: 2022-08-01T07:38:00Z
-    webUrl: "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?813140"
-        width: 445
-        height: 250
-        isCached: true
 
 secured: "+F6SGn6iBidnEfEdygB5Y+WyCHta9nfoCyIh+OLhUwzH4LrQYXeHV+yIg9gmjxU3CfdZcGHSvNQnow08K9+kJJ5NT5DjFr3lsT/B5rLTGcuOMwsY4BCJ+2QFB9kzKECYFizNvM1lRm7U3PDvwtSRdPyUNzLAmrnoScjZVTKBrK0gVWbXQnOInBWn5hMlm67fOO4dIpifFlq0L0mGRjO3ePHRF3xdiltFiM+kfBMEUcAcp3D+UAPJ3usxgI/Fg+7qDt5RJ3tWWrCPbw4FuAEpOsiacRaTYOZ41K/SbRm2u1/yxgWN5J1l5VJP4o5GU74mf26EbXpTJ2H3BRmydRrmu4CxxrokX8Fnn48bAu54Lsg=;JLchQdcZ5NWqJajD+e0Ohg=="
 ---

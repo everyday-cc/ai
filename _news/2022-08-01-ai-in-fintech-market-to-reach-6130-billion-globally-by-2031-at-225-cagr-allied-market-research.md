@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth Of 17.7% Expected Through 17.7%'"
-    excerpt: "Fintech firms have been transformed in recent years as a result of the computational arms race. Additionally, near-endless volumes of data are altering AI to unprecedented heights, and smart contracts may simply be a continuation of the current market ..."
-    publishedDateTime: 2022-08-05T17:20:00Z
-    webUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
+  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
+    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
+    publishedDateTime: 2022-08-05T17:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122713"
-        width: 375
-        height: 250
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "AUGqfB7Vqhkiw5s/NEJ5l94gw/rY/gHQTkGAIx1qTC+e+63ww0x1UYCm+/FE/w1u1QC1AOKVL/z+Yxh/XVJ1G+4Zd1GxzsFxR9A8zGJ5r2VSOxHIG5KPSdq5WgG/zlC2TU2yfcg6/zlP7Z64BCGwRIKnHjyvOZG3oAaTyUaSSMq2g21IXtZc/dkFYBzbMuxPiGA6Jv7zOE85xueVZsqwhp/xad5adEhieY9JVlxdZ8ipeSYUadhbKQ9X5LeGzVhzrhG245P/lkFS9KXQDL27dVFw/VKwt05Wz+GYNa7l7agoIqBJViwbXY8rpURIKfmrX1uwGSiygYGeFa2eGz6oFAbDd+ou2aIld3DEGz1Z9vWeTzE72loMGRjqvmdIMS68g6AzcfknEnE9ob+jBnV9IE3uO1EGBx9B/o+j7RfkpL0C5iMIiQYZASZK/ZQAk7Xa324+u0Dakzp9fgV9Gc7W4ImBtoNsfVysaeHGHc75+fsCGyZub4MWTLMrbT21hw9+YmozFJ/5f+Oj8gpTGVLSdA==;KpjJLnD7M8lO0GU5PT7GFQ=="
 ---

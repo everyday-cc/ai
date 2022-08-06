@@ -1,23 +1,31 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
-publishedDateTime: 2022-08-01T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
+excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
+publishedDateTime: 2022-08-01T14:01:00Z
+originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
+webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
+ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "qguAmCCtxYFAS7i3wde1bwOAjLnEYLTVclE+9z1wjf2dTIA1c913eFOMRxnGwarceM2M6EyfOnXKsAUGvVA9dOoLSZLiukNIHoCje95z5gD3bGVYnui3VYxJg44Lndra+rFhCdrUM9yzgpr5MuHfIKTYsSTF5ZotLeiTPG0pUX8UURqYMSANI2Jyyhku1KNIkQgGAt2qFcdzXZhYUb0ck74m1CE5WmhAS5lAawlxeL47W6Pcd8jEJ1bdowELbnw8hBF+F72vJGVSogJdw0GShxnLGOZ1rI8Rec7zNK5wAyKao+DOGs7Qw8kgO69R4pcXQjQD3DL93iStneou53dJlNFeZXTvDNFmmBqa1/1oteM=;0WpMRQ+JSWPNuFdyiKsv2g=="
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
+
+secured: "FWvkv7gHBVAbtmkNuGf+wlLzucijTsmhoymflhR+JjDtYhsDvlvVSBNE1YDDQoBxnh3E63CHYpTW+l2r8Qm9+JgWRZqfjWzoy6t/5QBZ3dl70D1jr/FUOEKNr04Eak0lRnlam4AptZjR0aQkGTmW1rQbRfJhxX/F7GjXIOEsf2Rxw9ZDxZQLmkpx3UE5w3Txslvs19zPayXqmTwYXUjxYM2AVxNgNmxucX9v3MpP/PP1vvgF/mPkb6keWEU/0ektsJQg3cqTH01RrRPRHWXmPnzXWZ6F9Rojqtx1r8GlxK9UHBN+44EWq1jjiGBJZfWzMwgt2ujOnGRi3MWU4FjIvTzsOOCZAYU2v907AI0OG3w=;6Wp6jUxb5LliGdnapITkqA=="
 ---
 

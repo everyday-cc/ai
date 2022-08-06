@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google’s DeepMind Can Predict Protein Structures"
-excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence"
-publishedDateTime: 2022-08-04T08:46:00Z
-originalUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
-webUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
+excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence is used for medical research. AI has come a long way ..."
+publishedDateTime: 2022-08-04T07:38:00Z
+originalUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
+webUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
 type: article
 quality: 39
 heat: -1
@@ -74,6 +74,6 @@ related:
       domain: economist.com
     quality: 19
 
-secured: "hBPiJ4Pw5fGk85UweNrgxCe5wEL+KXL64m4u0e7wGD+IIkG7eq5d+ME23qCL21H7nqtjOV59hfHJ0RdLARKMse/OYKgOgv+h4Y9tWq9BESifONofJOs+NSBODl8UocoaYqj2otHmpjRZOI5lPLJ8RNDEmZDP6avJn4xZRd4W8Yms8sD0qetxhDm+Nu+JfA+KT3QlOui4qKRx62ymKIX8W7kqf0lG2N2Xzc+gGPeyscSFuLn+DaBoH32wCtpMQiv701PKe04c5xS8LjjGer3WXnEbjhkWLQC4VP3MINvTOKhVlScm45g+W6hxmXSvOxNjBWdC7WCUmEu6ffLBpWWwU4W6JRJO6cPf3QfoGrrDVwcQTf//xB1CA9d0ccbHxW2zRuoFNr9FNSJUp7n87/Qccd5q0DFruFq0NZeZwt0it+g85LEYuf/XB4A8tWntU9dIA1obmD4GPkTenrMe6Xj8GlD2Hob4ZzDFEiwytk90z70LkLwPY1Vy3HUAZbaOzJTWdsaSBFTleKM5o6NgMadtGA==;AybTIJj2nnDjgz+J9Pulag=="
+secured: "2PnUlHc8fpA4869++CAzjRx6xSQR0lAJqDG+ltk9BtMwgNo2IQnqHOIUB0QSkxeHKdioVpZJU0vt14iH2tgoA/SMGFxFDx0cmxtSXb1vQQEVR4IDS2KrS2lgWwi1uBZeOLaacWrgHors7hmTvMqupGkpWIEW+v5BmmAMtOO8xPXSpGGAs5k3BgnWcsS6sYL9lQ6wYtm/CZ/fzV6wqXABRY+c9SlyBQQtrpldJZf5lXxOBMMAfOjp06EldFZsrFFD8sYtIsszNxH1w8rCFXKPHOElSijgd9FKEYUVVFBP+mU6hUWOeauX4ChNmkz81Gn1ZHnVptq/di2aDJOSWyYmA4Jy7m2TJzC79AAwaYIrFFs=;mEk2Eiay/FT5NUS2/8iRlw=="
 ---
 

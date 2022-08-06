@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
 type: article
 quality: 70
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat"
-    publishedDateTime: 2022-08-01T07:38:00Z
-    webUrl: "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?813140"
-        width: 445
-        height: 250
-        isCached: true
   - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
     excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-08-04T13:30:00Z

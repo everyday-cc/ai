@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-t
 webUrl: "https://www.theverge.com/2022/8/4/23288794/tusimple-self-driving-truck-crash-investigation"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Accident Draws Attention to Safety at TuSimple"
-    excerpt: "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating."
-    publishedDateTime: 2022-08-01T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-591288/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Self-driving tech outfit TuSimple faces probe after one of its big rigs collides with guardrail"
     excerpt: "San Diego’s TuSimple Holdings, which is developing self-driving technology for semi-trucks, faces a regulatory probe following an April 6 crash in which one of its big rigs suddenly swerved on Interstate 10 near Tucson,"
     publishedDateTime: 2022-08-04T01:07:00Z

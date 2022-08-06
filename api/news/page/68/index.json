@@ -2,6 +2,93 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2022-06-09-fintech-integration-and-the-unique-value-of-cxm.md",
+      "title": "Fintech Integration And The Unique Value Of CXM",
+      "excerpt": "Done right, CXM functions as a framework for managing tasks, goals, obligations and outcomes across an enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a0a99bcd45e6dbcf39aea1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/fintech-integration-and-the-unique-value-of-cxm/amp/",
+      "publishedDateTime": "2022-06-09T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and-machine-learning-projects-in-teradata-vantage-with-amazon-sagemaker.md",
+      "title": "Teradata Accelerates Enterprise Scalability of Artificial Intelligence and Machine Learning Projects in Teradata Vantage with Amazon SageMaker",
+      "excerpt": "Introduction of Teradata Vantage with Amazon SageMaker gives organizations ubiquitous use of advanced analytics to unlock the full power of their data Teradata (NYSE: TDC) today announced the integration and general availability of the Teradata Vantage ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/06/09/teradata-accelerates-enterprise-scalability-of-artificial-intelligence-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-stmicroelectronics-and-sensory-collaborate-to-enable-mass-market-adoption-of-embedded-voice-control-through-stm32cube-software-ecosystem.md",
       "title": "STMicroelectronics and Sensory collaborate to enable mass-market adoption of embedded voice control through STM32Cube software ecosystem",
       "excerpt": "STM32 MCUs pair with Sensory’s VoiceHub technology to streamline development of voice-baseduser interfaces on wearables, IoT, and smart-home applications Geneva, Switzerland; Santa Clara, California – June 9,",
@@ -1006,102 +1093,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him.md",
-      "title": "Shakira Says Her Father Is Home Following Hospital Stay, Practices 'Cognitive Stimulation' with Him",
-      "excerpt": "The three-time Grammy Award winner showed the pair practicing some \"cognitive stimulation\" at home as she stood opposite him with large note cards with words in Spanish for him to read aloud.",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/",
-      "originalUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B1290%2C46%5D&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2022%2F06%2F08%2FShakira.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/?amp=true",
-      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/music/shakira-says-her-father-is-home-following-hospital-stay-practices-cognitive-stimulation-with-him/?amp=true",
-      "publishedDateTime": "2022-06-08T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-ai-data-are-transforming-healthcare-three-key-trends-that-could-change-the-face-of-medicine.md",
-      "title": "How AI, data are transforming healthcare: three key trends that could change the face of medicine",
-      "excerpt": "The Stat Health Tech Summit in the United States put inventors with some great ideas for changing healthcare into the spotlight. We take a look at three highlights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "originalUrl": "https://www.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/b9326f2e-f80e-45be-bac9-18ac2f181fff_205e9f0b.jpg?itok=Lb076e6s&v=1654657778",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/health-wellness/article/3180813/how-ai-data-are-transforming-healthcare-three-key-trends",
-      "publishedDateTime": "2022-06-08T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

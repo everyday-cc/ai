@@ -2,6 +2,83 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
+      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
+      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
+      "title": "WATCH: AI objectives increasingly involve marketing",
+      "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "originalUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tSMl4zFEp3h4YUwB7nlte-8DPk1bI0ZTY9j96GC1ooO2MyFMThSXt85Yp8e0xRbLqP6_1G_YGSCsfhja6sSPMuWm291T4PrSyLwgKrtR67oG-w=s750",
+          "width": 750,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "publishedDateTime": "2022-07-06T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-covid-19-showed-financial-institutions-fast-change-is-possible.md",
       "title": "Covid-19 Showed Financial Institutions Fast Change Is Possible",
       "excerpt": "Covid moved financial services forward very rapidly, and showed that with cloud, it could handle tech change much faster than it had thought",
@@ -1078,93 +1155,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
-      "title": "How to quickly deploy TinyML on MCUs",
-      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
-          "width": 470,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
-      "title": "Designing next generation analog chipsets for AI applications",
-      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
-          "width": 1000,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "publishedDateTime": "2022-07-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

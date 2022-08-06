@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence startups from around the world partner with Mayo Clinic"
 excerpt: "Mayo Clinic Platform Accelerate, an immersive program for health tech startups, launched its initial cohort of participating companies in March."
 publishedDateTime: 2022-07-27T02:32:00Z
-originalUrl: "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/"
-webUrl: "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/"
+originalUrl: "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/?cat=10151"
+webUrl: "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/?cat=10151"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "ppAE3wB8E+NUs1//+Vq3Q7i3vQWhmcudCw0YHsklQFxXGPX5qiYjE57YAsRm5+MVUFfJuTtk172RFdJr3FliDl2abz+W+wmI4wCyii3vtjLeLe5SnJvmbSVkEuTnNdvWbddG7xc0h96hgmphEBY+TaM0dISbwRPjfME+c9yeNTa12x/GQ31GdJscyC/R0I54C5r9u0Rj2D2Sy1664RBQ93HjNPbaNtnuIB5oo7iAwJ8qWSFJhb8lyhfgFQ8pd6du/itVKybRt7+xubBVbTPH9m1sj++ZoDktkg5t8w769Wn2BBd0WUDEBb1TDXySE5XTTttPlMSoIX90W56yFXCcNJvMItraTEOa1BTP4TRjSs9WF13ZlHJkL9pCFJ3reTxBsrHfH0AC32FBlHzChRvTseS/LQoL1dspzWR4CKfkE6kEGu5RKlhCjetjJrRPLcBzUXF4US4ime76sLD6GrfDzQeWq7Kz4qSNnQqXR4MAFQcM0DeD/lHp2SmEWyTCZeafKqJiQNm+9cM1Or3BM6jxhA==;HDFBlBWZ3d9kYp90doy0JQ=="
+secured: "U2Xhxj5xKv7K1H6AmXPFDGK5gakEpXToWxD6wtPwTKy99nAaSPELTN8vTXKi+BQKXSiKoZhPl9BAzp+CssPrsuNE8RCBp0wPLFfzwb00Ri0hcVCXJIv8+u0JDSsETsbW0W0jZ4vKInpH8YhOkWZ4ReazlQiOAlrIl/hbcr2dFwjpc7i+vzSDVNvWapoFGJJn7xBXGO8Zq4IjzBWLjm7LpVjfXC3sgJSeaaCrFaGYxVEZo4HSdRmyi5+9ILLhiISlqptE2XNH6rYcZdzfVJ8dnr8LEKHMeSCLxn8hf8s23a9gic5vcNtNigDjdBH8kELupGDoFt4oWsZdDAyYdpIPYKXf3SWmN9YCdlPrwM09spI=;EOJz//qMwOPHseDIN2A82Q=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-29-high-contrast-talks-true-colours-20th-anniversary-edition-remixes-and-ai-in-dance-music.md",
+      "title": "High Contrast Talks ‘True Colours (20th Anniversary Edition + Remixes)’ And AI In Dance Music",
+      "excerpt": "High Contrast is one of the most famous artists within the drum and bass scene. The early 2000s drum and bass and jungle royalty, formally known as Lincoln Barrett, is celebrating 20 years of his debut album,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
+      "originalUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fd7ae80266075d5398d2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
+      "publishedDateTime": "2022-07-29T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletter-july-23rd.md",
       "title": "Coinbase Cost Cuts, Netflix Earnings And Factor Investing: Forbes AI Newsletter - July 23rd",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -1028,6 +1079,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
+      "title": "Specialized brain regions recognize vocal cues that don’t involve speech",
+      "excerpt": "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/959561",
+      "originalUrl": "https://www.eurekalert.org/news-releases/959561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/74379d6e-29bc-4bab-85b3-7be3291c25a3/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
       "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
       "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
@@ -1067,49 +1161,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
-      "title": "Specialized brain regions recognize vocal cues that don't involve speech",
-      "excerpt": "Specific parts of the brain recognize complex cues in human vocal sounds that do not involve speech, such as crying, coughing or gasping—found researchers from the University of Pittsburgh.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/specialized-brain-regi.jpg",
-          "width": 2146,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-specialized-brain-regions-vocal-cues.amp",
-      "publishedDateTime": "2022-07-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1162,58 +1213,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business.md",
-      "title": "Seven Factors To Consider Before Purchasing A Machine Learning Tool For Your Business",
-      "excerpt": "How Will It Empower The Sales Team?’ First, emphasize the point that machine learning does not replace sales reps; it simply gives them tools and data to maximize results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/600b3fa8db806e046793a1bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
-      "publishedDateTime": "2022-07-28T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth Of 17.7% Expected Through 17.7%'"
-excerpt: "Fintech firms have been transformed in recent years as a result of the computational arms race. Additionally, near-endless volumes of data are altering AI to unprecedented heights, and smart contracts may simply be a continuation of the current market ..."
-publishedDateTime: 2022-08-05T17:20:00Z
-originalUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
-webUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
+title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
+excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
+publishedDateTime: 2022-08-05T17:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
 type: article
-quality: 17
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?122713"
-    width: 375
-    height: 250
-    isCached: true
 
 related:
   - title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
@@ -40,6 +34,6 @@ related:
         height: 400
         isCached: true
 
-secured: "mz0IBtPaCKZEyEYzMbMeDT9ooHwnvvDutjir6rWW4u2TBEat1363UciVkwYwzc3LhIU8xTSgmI9gFWB3dpl6WlChhf+3TNXDYiFwXxwVsO3sUOT8X7g/e//a8ffkBZ6GVsF0PU4owIdprfEIFODFe7qhq4bwrweVIPi82isrB8IgDt/Rfbc8lCCKtS8ByBCFNLIvEClrLCVgUuY7F8c18fG8TJytKmo6lHfAnqR8LuNkxY7aPnowQX0ewg3ws0Q/1PsBU7FQc0V2gN9L4uibZBarHVhk0x7W0TqQmiDT0ITzKvOvjatiifU8XIfNBW+v0yeVwotVDU7TmzjdTUWdV+l4oNuKvy95lQsEVv7AQNo=;G+Ce02BwEMsAJ/M9oGGnNA=="
+secured: "slBW9Kepl2CLQvxyy9AGI6bXJr7Ih2lhzY/RYi/QlkMy5a7E+iQrhAfRv5fiR1cFTEWBW6ry9kloIXK8UZZyOsawkoefIhMnozxSjIJKRJGuLaLr8Irt3jCVEzzhQ9g6vl5iW6kjGrQL3W/18LMi3VsbbM9EWo1Ryi1d6nT0+NHn22X1URJUhO8PCcAqaePiRrA0+hi0QDDGG7/2io7JRL0HD2wUJcV7e+mW3mufLKlNoHADcrfR7EYE0IllUGcjXgOSt/leZX8U3gzt9OXrFdbc8mJrHNcSkck7lyXaCf50ZS3P9lwcnSzLOd5W13BrZ07CUC2ieYsF1uEXy3uYTLeGs+2fLgHoIrbBcjel5BM=;ZkyhWwaAY8uhpWgNwPhaaw=="
 ---
 

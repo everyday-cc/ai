@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Truck Accident Draws Attention to Safety at TuSimple"
-    excerpt: "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating."
-    publishedDateTime: 2022-08-01T08:30:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-591288/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "TuSimple reportedly tried to pass off a self-driving truck crash as ‘human error’"
     excerpt: "TuSimple is in trouble. Last April, a semi-trailer truck operated by the San Diego-based company that was traveling down I-10 in Tucson, Arizona, suddenly lurched left, slamming into a concrete divider,"
     publishedDateTime: 2022-08-04T17:01:00Z

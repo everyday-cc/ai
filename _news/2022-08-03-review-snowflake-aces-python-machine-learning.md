@@ -7,7 +7,7 @@ originalUrl: "https://www.infoworld.com/article/3668629/review-snowflake-aces-py
 webUrl: "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 855
     isCached: true
-
-related:
-  - title: "‘Stray’ review: Cats, death, and robots"
-    excerpt: "It starts a little slow but the game's story and lore featuring AI 'Companions' in a post-human world eventually reel you in"
-    publishedDateTime: 2022-08-01T07:04:00Z
-    webUrl: "https://www.rappler.com/technology/reviews/stray-review-cats-death-robots/"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
-    images:
-      - url: "https://www.rappler.com/tachyon/2022/08/stray-4.jpg"
-        width: 871
-        height: 485
-        isCached: true
 
 secured: "BgX4krARK5dcujqN8zsMTIiU06tUKBn27fUnkxdwqW/kUegMAr6YTJR+XHWxLf/WMXJ1DrIn9UvTvTcQYyyvVORQpkkqpQiSUhhr4NcVlypHmNcalt5RTypb9cs2NFZm89mxHg7LXrkc2oElyruCsRth4aW7V68VVFbicLgDgxiNgE1UZrrdID0h3AaE8AN0xaG4k6hcGdVv1LfUKsXAif+ItbJAJDdVVwguFZ4keaoNON22CaZlkOZ8lS3lNrkvmrJMZUPjYrA1cXM7Fez7rYjb0zjIUZYED+0Cmrcqzz92PGMZHLGu6bDD1jeKZFwBLOzU4sF02rjK0pf5ESjGs0BKjHabEiYYIsq6ai5ieWK1MS8H9UGgZtpzzCsFYVJOD2KogkST27NIu+wt+omMVsk9Ks/YTRZ3wYQ1p8nTi+WjJ5Bg7uftscxfDTcM5SGAXvDgY1XsKF9JamwjHnRkSI3NXToehkS+v4Zxo9I2MeEGYV1eAJeeWgkSWx1QqkupBKlibig3b2xSpTGvBxzN6w==;z/MCl8uur3dWnfpFMLu12Q=="
 ---
