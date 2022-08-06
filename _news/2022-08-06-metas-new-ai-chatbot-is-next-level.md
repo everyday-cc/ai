@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta research labs bring latest AI state-of-the-art chatbot on web"
+    excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to the system to collect feedback on its capabilities."
+    publishedDateTime: 2022-08-06T03:56:00Z
+    webUrl: "https://www.business-standard.com/article/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/25/full/1650910571-1674.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
     excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
     publishedDateTime: 2022-08-05T18:43:00Z
@@ -83,6 +99,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Meta brings its latest AI chatbot on web"
+    excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to"
+    publishedDateTime: 2022-08-06T04:31:00Z
+    webUrl: "https://telanganatoday.com/meta-brings-its-latest-ai-chatbot-on-web"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Meta-brings-its-latest-AI-chatbot-on-web.jpg"
+        width: 1200
+        height: 650
+        isCached: true
   - title: "Cresta brings more AI-powered insights and chatbots to the contact center"
     excerpt: "Cresta has created an artificial intelligence-powered platform for contact centers that’s designed to guide customer service agents on what to say and do at each turn of a customer conversation. For instance,"
     publishedDateTime: 2022-08-02T13:00:00Z

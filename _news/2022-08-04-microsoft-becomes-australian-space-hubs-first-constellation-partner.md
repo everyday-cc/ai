@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-const
 webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://stockhead.com.au/wp-content/uploads/2022/08/Microsoft-has-joined-forces-with-National-Space-Industry-Hub.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Divisions Arise Over Australia's Plan for Constitutional Recognition for Indigenous Peoples"
-    excerpt: "Center-left government says the plane will “uplift our whole nation” but critics fear deep-seated social problems will persist"
-    publishedDateTime: 2022-08-01T11:12:00Z
-    webUrl: "https://www.voanews.com/a/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
-    ampWebUrl: "https://www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/divisions-over-australia-s-plan-for-constitutional-recognition-for-indigenous-peoples-/6681818.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 34
-    images:
-      - url: "https://gdb.voanews.com/1F7DF6CE-90C0-46C5-8C96-CE7112CBE3F4_w1080_h608_s.jpg"
-        width: 1080
-        height: 608
         isCached: true
   - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
     excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"

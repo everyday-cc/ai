@@ -9,7 +9,7 @@ ampWebUrl: "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
         width: 400
         height: 244
+        isCached: true
+  - title: "How AI can bring transparency and visibility to supply chains, improve security and traceability of products"
+    excerpt: "Modern AI algorithms such as Deep Learning can help organizations to sense the demand accurately. At first glance, demand sensing might seem entirely unrelated to accomplishing transparency."
+    publishedDateTime: 2022-08-06T05:41:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/how-ai-can-bring-transparency-and-visibility-to-supply-chains-improve-security-and-traceability-of-products/articleshow/93385448.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/how-ai-can-bring-transparency-and-visibility-to-supply-chains-improve-security-and-traceability-of-products/amp_articleshow/93385448.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/how-ai-can-bring-transparency-and-visibility-to-supply-chains-improve-security-and-traceability-of-products/amp_articleshow/93385448.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-32750,msid-93385552/istock-1359263600.jpg"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "oIrtTH7/bSt5vBwDiMbK658bUl8vqJT6FLRGxzJekQm57Cd/Nd/nYLKD2qjIHgjGxIqDmjkPAdAk9h+XXIyDtzquAjKFE/KvUAHLqiGfZOPWYN1A78yD5c50z/oxD7Qj7Gu8FyIG77k4PT3bZBCE8qdkrEtTvQezREsR5YZG43+N1bMUyynxhFvzVgfSYIsp+2T0VLCzUmegzpnU5l6l8U6rCyRvPZoOhguQbgaMUgXeRrPlBcIrQauqzZvhHRlGgv2OYsLAAG8NZ1bFujRdHkoMzS+Fgt75OracJOtRUxtCy3xtV6tnuGXc+PySPGbytlKbbXdn50dzSiHm432DhoA3YYba8KQpBrK11kzIeZtL50sFp9XlyqThmQv7cSVS2/IUbSJgC82N15qgnULy6exRrFSCwJRrB2LU8a7ULI8WmwHZS3l0/eAid7gKBjQ4tDyIqkt9u916ZeYbXDbsiy0Jzbhild1IC7JQa1Q/A14zU6JHzB4LkwEM9Aaa6DQrpl+crQTnZWtvJvxiiyk26g==;RTUCzylCO3RPnM1+aE1Spg=="

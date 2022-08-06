@@ -1,39 +1,45 @@
 ---
 category: news
-title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
-excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
-publishedDateTime: 2022-08-05T17:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
+title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth Of 17.7% Expected Through 17.7%'"
+excerpt: "Fintech firms have been transformed in recent years as a result of the computational arms race. Additionally, near-endless volumes of data are altering AI to unprecedented heights, and smart contracts may simply be a continuation of the current market ..."
+publishedDateTime: 2022-08-05T17:20:00Z
+originalUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
+webUrl: "https://menafn.com/1104653129/Asia-Pacific-Artificial-Intelligence-In-Fintech-Market-Report-2022-Annual-Growth-Of-177-Expected-Through-177"
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?939833"
+    width: 374
+    height: 250
+    isCached: true
+
 related:
-  - title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
-    publishedDateTime: 2022-08-01T12:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+  - title: "CFA Institute to host Asia Pacific Fintech Month in August"
+    excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
+    publishedDateTime: 2022-08-03T20:23:00Z
+    webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: The Daily Mirror
+      domain: dailymirror.lk
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_17164950cc.jpg"
+        width: 550
+        height: 310
         isCached: true
 
-secured: "slBW9Kepl2CLQvxyy9AGI6bXJr7Ih2lhzY/RYi/QlkMy5a7E+iQrhAfRv5fiR1cFTEWBW6ry9kloIXK8UZZyOsawkoefIhMnozxSjIJKRJGuLaLr8Irt3jCVEzzhQ9g6vl5iW6kjGrQL3W/18LMi3VsbbM9EWo1Ryi1d6nT0+NHn22X1URJUhO8PCcAqaePiRrA0+hi0QDDGG7/2io7JRL0HD2wUJcV7e+mW3mufLKlNoHADcrfR7EYE0IllUGcjXgOSt/leZX8U3gzt9OXrFdbc8mJrHNcSkck7lyXaCf50ZS3P9lwcnSzLOd5W13BrZ07CUC2ieYsF1uEXy3uYTLeGs+2fLgHoIrbBcjel5BM=;ZkyhWwaAY8uhpWgNwPhaaw=="
+secured: "42gTmEPTZV9e74OYc8jsTAIyOfztY+GJ/yuZH3JZCb/TNfD2h7rbBm/nvVVTLmVRrFoy2vfmEPwjjLYNslUcK64D6o/i4izlo6+DIBIHoH52cqXUrEDSoLCpHaSi6gox4y7TIfxWBc2EET2Nr8LcrhF2uoPdbZgOT+5DynzV/1+12t2peWCQUCvK8JO/X5MIE/FTe4u0GY7J04KpVUCoAqNLywCicFQFdwx4263xXKajN+QowOp10snMM0QzR3DtVeUp9WD18GBtZwy5x2G5e+oNHWK5WLBBbrAp0r0NI7ctehEqL1sNqfNz1ZIEdW4gAFm1ZTQBRm2QXggMcAT6C7iyNR9fdGi//w7ra4IMUxk=;t13H6dRL96zLDzyyWSxS0A=="
 ---
 

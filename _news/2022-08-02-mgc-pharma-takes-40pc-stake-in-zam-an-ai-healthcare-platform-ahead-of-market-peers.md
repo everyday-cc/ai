@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/stockhead/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-ahead-of-market-peers/news-story/3098a3f69a6cdf31651da0888a05f20e"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Australian
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 721
     isCached: true
-
-related:
-  - title: "MGC Pharma takes 40pc stake in ZAM, an AI healthcare platform that’s ‘ahead of market peers’"
-    excerpt: "MGC Pharma (ASX:MXC) believes ZAM is a game-changer and has the possibility of personalising medication for patients."
-    publishedDateTime: 2022-08-01T11:08:00Z
-    webUrl: "https://stockhead.com.au/health/mgc-pharma-takes-40pc-stake-in-zam-an-ai-healthcare-platform-thats-ahead-of-market-peers/"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 23
 
 secured: "+Jr6NrjNuX/ESMCjPy+3G7N5TIXbQrii5liQ65LiBb4Ad+Odni1NoychEtm9KhHt/9C6NUpXuNUuhd/GDqfuBCfGxW0Bnyv04d/yGY91rC59qogvCZTO8IDnhwb0yS28QJQeJIaq6hL+6IZ35Xi8jDODNS1yagR2Hq5L6Jzh/1pjOm4XEV5ApQ9GiuZNjx1wabPAN5Aiosiz9DUgtHmQPzxMAlNxWZeYI1vTOcV3fbS9rLhivmcEvAV89CbuvqcdUKNPglp9KmBxea8QoXWI2jA80u3VMDddwQhLkUBeu4QfpiLU7DIJug3bmQqsRMH9XHgCfe1GTBa1TmZMxRAPdEIbXRPeBMFNw/xraOvK2Og=;0gETefHGLyoy8z1xf5VNCg=="
 ---
