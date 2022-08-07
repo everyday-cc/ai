@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-06T11:57:00Z
 originalUrl: "https://tribune.com.pk/story/2369841/how-pakistan-is-slowly-progressing-in-machine-learning"
 webUrl: "https://tribune.com.pk/story/2369841/how-pakistan-is-slowly-progressing-in-machine-learning"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: The Express Tribune

@@ -3,23 +3,17 @@ category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
 excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "AESKahZlsxBtiIysUvFcIvedXPPQK0nWVYVzhEuPjs5kG9XBKCrJop3iSwKmtVF3pg8ah1SXoCfnuFvFfbP+bbDdfRGoP0KFT2XRZXL0/GtniZFCpCz9xceM1d+iJx5PwvFkCMxX7nNKPfMw0zavGlkSgBkBLKMJpunNuFaBx6k0HtwofNUHc7Q1OeBK4RRnVEU7dd+o2X3GPZ+tCyMthT1tcf81tICwa7vmdvQQf/VRu4VDgaqcIuJf9+zL9JQxle8BaczcdUUh5fH8p9FOUGKPMuaS/ime5XCqNuBLeKwAtcU4vZOqarjOQ32WeWzdKdQjQrwgvEv5uhCz4LZqXq4V9xLiVoqDXPOxkxnIovg=;S1mX5ODPHiMS7r8JDdoJbQ=="
+secured: "m1ZLg7KVX3XSDSQ0Pyleu0Wl4tq0OfeX3XEMqhMeOyWr7vDxAuBMDh0ydVhDNCnW88SgoSiJJoBhWIgfVRxsV07lfSBYzwGMN1Nq1Y09I/Gt2vHruz2+LwdE8DOq3y8hzQIzgtpnVRgSBHG1uIPj8NULZK0qvR2eoDLMNqsiOd4pWXo4pMmA/ffRlMc5CDlYLFVl/fVtzDIVLa7uHZGr3Gqs/yZYRFnEEw1PyLl/A+dh6XxLbFEOGx5uEfvpavoCickwdw8pFy1oPrdXwdgAbBOcF8JXr8jJAQx3pxHFBxeeVFPNfDt3qL/+3y0UIFgY4cSxHcGVYilw2iZo0kJ0ANXK1v9EAEYfqMkj8xgi/Hg=;9pFefT5QeZVIU/vdldMg2w=="
 ---
 

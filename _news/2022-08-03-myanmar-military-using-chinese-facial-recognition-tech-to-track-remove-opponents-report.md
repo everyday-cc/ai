@@ -9,7 +9,7 @@ ampWebUrl: "https://www.republicworld.com/amp/world-news/rest-of-the-world-news/
 cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/rest-of-the-world-news/myanmar-military-using-chinese-facial-recognition-tech-to-track-remove-opponents-report-articleshow.html"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Myanmar's junta using Chinese face recognition tech to eliminate opponents"
-    excerpt: "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar."
-    publishedDateTime: 2022-08-03T01:48:00Z
-    webUrl: "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/25/full/1658732548-7309.jpg?im=Resize,width=480"
-        width: 480
-        height: 267
-        isCached: true
   - title: "Myanmar's junta using Chinese facial recognition technology to track, eliminate opponents"
     excerpt: "Experts believe that the increased access to this technology could have consequences for the safety of anyone opposing Myanmar's military junta. \"This is another threat coming, not just on the ground."
     publishedDateTime: 2022-08-03T10:56:00Z

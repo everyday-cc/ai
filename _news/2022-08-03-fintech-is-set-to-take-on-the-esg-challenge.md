@@ -33,20 +33,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "How important is AI to the fintech industry in the Philippines?"
-    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
-    publishedDateTime: 2022-08-03T05:00:00Z
-    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "CFA Institute to host Asia Pacific Fintech Month in August"
     excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
     publishedDateTime: 2022-08-03T20:23:00Z

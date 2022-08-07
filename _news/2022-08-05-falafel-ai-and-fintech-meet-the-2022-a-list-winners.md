@@ -33,20 +33,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "How important is AI to the fintech industry in the Philippines?"
-    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
-    publishedDateTime: 2022-08-03T05:00:00Z
-    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Fintech is Set to Take on the ESG Challenge"
     excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
     publishedDateTime: 2022-08-03T12:49:00Z

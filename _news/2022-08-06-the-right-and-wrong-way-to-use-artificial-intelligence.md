@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-06T09:00:00Z
 originalUrl: "https://www.nydailynews.com/opinion/ny-oped-the-right-and-wrong-way-to-use-artificial-intelligence-20220806-txybtmlcwfgddnfdozvynz5u64-story.html"
 webUrl: "https://www.nydailynews.com/opinion/ny-oped-the-right-and-wrong-way-to-use-artificial-intelligence-20220806-txybtmlcwfgddnfdozvynz5u64-story.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - IBM AI
+  - AI in Autos
 
 images:
   - url: "https://www.nydailynews.com/resizer/lQhU7tZEUNaVDcSDsRF3YtLSnXs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/JT4YMLHE75EBVIMVJMCZG4BHQU.jpg"

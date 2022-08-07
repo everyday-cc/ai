@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday."
-publishedDateTime: 2022-07-21T07:33:00Z
-originalUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
-webUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm ... but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona ..."
+publishedDateTime: 2022-07-21T13:00:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: ABCNews
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "u7R91lOAfjzZHTV2LZvsKtRb2DcEWRVxayCHfwkrC/sYSLWorl/PxAuA+qYN9vrxCUWN2GABmdT39h03ces2niIWB7KIMxLcEskno0gwfb5d70wB+H0EMILL6YHit7+WK72yakfRxiea3cxFIyIsQlycDgu6H0FPQC33ctWR2ldMlDE8CN1tyf2m+YlBtvYWmDDPg2DrgZTEJusDndtrutIKxOtvhQIk4os9rGh1RSkqbntQUowrbm31alKEcQwVaYGEmgqCxTDg6RTOS6ZxcZvl7+3aKbPgQcRF1pdBARjrmOwvNPBvJl0goMV9y2m7NEsxyNdWRZ1Fz8+jZ5GZwE4lKobVzUFlljcVXyyXtoS3XEM2ho7M9FatirxtMzNuTLAkamBZEsxy5H1yUbmG0mi0JHcKBt9iN23Qfn19lvnMcYER8mUoYQtoHTUOIgk6SCwhhDkz/gJDlHIktmo9XVvouaBqqT/FpW03lKDw2JGne17vfKaxVQR49E7gp6qvaX1Fxp5UrN6KSTG6qHpFwg==;DdGeP5RRT8ED2JO4C3WF/Q=="
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "GGIIWjn6WOQeKlbXep4O1N7osLetvJRlAwg5y6G+aRs+rnWScRm+XbTcffmtXY0LCmfnCcydPyVUmATaUUWyQJ965wrNEMG9TTsAVGWpwNcaNiHY/eSZ5+lpKecpHjH2p0uRrOhqo7rrIFg5CA5UJ9h4+uxqX3R5FJxGjwuU+JxcryQWSsumTxubfhWRDc1DBNjAABGRaF+hbl30fhVdXTcztD5T9EV/RiC7xBEJQIRoLpnFDKzmlfKEa+wjLzZOrI1QDWw/ELz6wY7g4iFUFsotK5q/vL5rbZljrEScZYQC6uS1M27UlA8YlHcVH7Sc/ADhQzm9zZ4uca21RxlZDagXusYC9F+tiFJ8VLG+Ryk=;lcV0SP0+KsV6HT4KZzBylA=="
 ---
 
