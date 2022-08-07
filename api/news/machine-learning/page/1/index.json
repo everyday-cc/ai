@@ -162,7 +162,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -290,49 +290,6 @@
       "provider": {
         "name": "Demand Gen Report",
         "domain": "demandgenreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-mit-claims-new-artificial-neuron-1-million-times-faster-than-the-real-thing.md",
-      "title": "MIT Claims New Artificial Neuron 1 Million Times Faster Than the Real Thing",
-      "excerpt": "Think and you’ll miss it: researchers at MIT claim to have successfully created analog synapses a million times faster than those in our human brains.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/mit-claims-artificial-neuron-1-million-times-faster-real-thing",
-      "originalUrl": "https://futurism.com/the-byte/mit-claims-artificial-neuron-1-million-times-faster-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/08/mit-claims-artificial-neuron-1-million-times-faster-real-thing-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp",
-      "publishedDateTime": "2022-08-02T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1466,6 +1423,41 @@
         "Machine Learning",
         "AWS AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-cybersecurity-ceo-enlisting-machine-learning-to-combat-fraud.md",
+      "title": "Cybersecurity CEO: Enlisting Machine Learning to Combat Fraud",
+      "excerpt": "With regards to using artificial intelligence, we use machine learning very heavily, and that's just because of the sheer volume of traffic we're looking for adversaries and their trends can be quite low volume compared to the aggregate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-ceo%3A-enlisting-machine-learning-to-combat-fraud?amp",
+      "publishedDateTime": "2022-07-22T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

@@ -39,24 +39,6 @@ related:
         width: 1300
         height: 650
         isCached: true
-  - title: "Ottonomy.IO raises $3.3 million to expand network of autonomous robots for deliveries"
-    excerpt: "Ottonomy.IO, a startup working on solving delivery problems using autonomous robots, has raised $3.3 million in a seed funding round as it looks to expand its market and deploy robots to existing customers."
-    publishedDateTime: 2022-08-02T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/08/02/ottonomy-io-seed-round-3-3-million-funding-pi-ventures-autonomous-delivery-robot-business-market/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 57
-  - title: "Ottonomy Raises $3.3 Mn To Build Autonomous Robots For Deliveries"
-    excerpt: "Autonomous mobility startup Ottonomy has raised $3.3 Mn in a seed funding round led by Pi Ventures, with participation from Kinetic ventures and Branded Hospitality Ventures."
-    publishedDateTime: 2022-08-02T13:00:00Z
-    webUrl: "https://inc42.com/buzz/robotic-mobility-startup-ottonomy-raises-seed-funding-to-ramp-up-hiring-strengthen-partnerships/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 34
 
 secured: "ss3TFI+3tHIeRBrUfCUGQPfA88pBQ/rDoE2mCBx17vBdQybad3l8jz7GZejrzjJsaTHFRBa6aEdsEkN3Y+OcRDDmQFsnQXsce/noMi8w7uH1tThLbEh4jqlKlXYTx9xptiwMFI3AHbx+dgQZwIrUEmvk+5PnK2twvd18ir0sjWvkeFJ4uMEIsXm2WO3MLVef0/HmR+FTqAYCahrs1xLMi2a6QUg3eXQDHRAe5rvb8GV3BuFQkwzgpM3qjbEjFyINWhorj4MXsa8Ovmh9DlH0N12nuPvJj8E6djOoewuS+mDRxZGBX9EyB8AAQrVA0uLlo9gculQkHxIYcMm8YqJNYNHayLtkrEFibv11nkFKYt4jdhbguPCXhCHNycKMe/Vnbe139dKt4AgavskMHrTXrXrDDCGtl/+KpZ9AsUf0Tgz1QlAPQaPCbMyvtnyaI2B8KG5myp7yqDNE36ILEFekiBrek3DaJjwmGe8RWXHO7hguCdJ1WdEzIxzZSJRRo0wwDnAkc3ZQCzT0OkstFtL84w==;66v6bAJtxASCY7C8NPxLxg=="
 ---

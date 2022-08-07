@@ -115,20 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Massachusetts Institute of Technology: Using artificial intelligence to control digital manufacturing"
-    excerpt: "MIT researchers have now used artificial intelligence to streamline this procedure. They developed a machine-learning system that uses computer vision to watch the manufacturing process and then correct errors in how it handles the material in real-time."
-    publishedDateTime: 2022-08-02T11:21:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-using-artificial-intelligence-to-control-digital-manufacturing/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 24
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "Z9Ce9l/cLsv6pu9lPiYeU+Fzo7QSEjHAX7cKXpGpp2+JHZntJT5q4kQKbzHDN/MsixTEeIq6bU1xq+AYytxcyb/wZ6woNZ/uin77YHnkgOlxUUeE+ojNcNtvhsadPHG5stiNQ/sUcBVujNeitn9u/RfBfq1U8yu+MGIfed4gwXNwOfnUeqwkpzrpQJmo2NiByI44gS8nN8dYAWsT2jgiGyw/X1CVfML+kGX3rres6jTw3sSF7CxL7sHosSYs4Iv3oOtxI3GAE5QZ1nGoW/9ct6oNrQvXgYbQAzWgeE4CaTRO/vFs67kNKf0K+oKmSz+lMVYYLHoxlLdKWWT80L7Rt2VzcqtuM5w0OXhNlXYBa3E3LI9cRi0RyWpn68s/xktbv6Q96plXkofgmueu8bWeJvFzKsRQUddTCdpHwoX+T0o3GcaBD1MCgUq/dyxY74bsAaOSbxfBdPYEosvxlvUmoSmQOSaWiR/a6IHMawQ5KsTTPPArzcarW+hA/tpyvPKx7uin4e+f/bl6NlLs0xwApg==;DZ/PGGucke8Lb7v2YPsm9Q=="
 ---

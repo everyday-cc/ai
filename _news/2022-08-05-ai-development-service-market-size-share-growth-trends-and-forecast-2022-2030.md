@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-development-service-m
 webUrl: "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05"
 type: article
 quality: 62
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size: Global Trends, Share, Growth, Opportunity 2022-2031"
+    excerpt: "Natural Language Processing Market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
+    publishedDateTime: 2022-08-02T17:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

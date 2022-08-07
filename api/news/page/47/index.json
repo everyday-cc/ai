@@ -2,48 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2022-06-23-russias-yandex-opens-public-access-to-ai-large-language-model.md",
-      "title": "Russia's Yandex Opens Public Access to AI Large Language Model",
-      "excerpt": "Russian technology company Yandex said on Thursday it had made a large language model for artificial intelligence research open to the public, hoping to spawn faster and deeper development of certain AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "publishedDateTime": "2022-06-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
       "title": "Amazon Robots Will Join Its Warehouse Workforce",
       "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
@@ -1120,6 +1078,57 @@
         "AI in Finance",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-esg-book-arms-investors-with-ai-powered-insights-on-sustainability.md",
+      "title": "ESG Book arms investors with AI-powered insights on sustainability",
+      "excerpt": "With new funding, the company aims to scale its platform while ensuring that its tech offers ESG data that is \"accessible, consistent and transparent.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1248500292-e1655932214325.jpg?fit=800%2C525&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/esg-book-arms-investors-with-ai-powered-insights-on-sustainability/amp/",
+      "publishedDateTime": "2022-06-22T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

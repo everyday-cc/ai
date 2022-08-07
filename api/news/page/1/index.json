@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-07-tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-complaint-alleges.md",
+      "title": "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges",
+      "excerpt": "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "originalUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "publishedDateTime": "2022-08-06T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-army-deploys-ai-based-solutions-to-augment-real-time-surveillance.md",
       "title": "Army deploys AI-based solutions to augment real-time surveillance",
       "excerpt": "Separately, the Army is preparing to exploit the 5G spectrum for communication for troops conducting operations at the forward edge of the battlefield",
@@ -91,58 +134,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-california-dmv-tesla-falsely-advertised-autopilot-full-self-driving.md",
-      "title": "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving",
-      "excerpt": "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving",
-      "originalUrl": "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-06T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -306,7 +297,7 @@
       "originalUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -503,7 +494,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -631,7 +622,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {

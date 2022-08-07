@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104654111/UAE-Based-G42-Healthcare-Collaborate
 webUrl: "https://menafn.com/1104654111/UAE-Based-G42-Healthcare-Collaborates-With-Amazon-Web-Services-To-Offer-Global-Genomics-Proteomics-And-Biobanking-Service"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI in Healthcare
   - AI
   - AWS AI
-
-related:
-  - title: "UAE-based G42 Healthcare collaborates with Amazon Web Services"
-    excerpt: "G42 Healthcare, an Abu Dhabi-based leading health tech company and a subsidiary of artificial intelligence and cloud computing company G42, has announced a partnership with Amazon Web Services (AWS) to develop new global genomics,"
-    publishedDateTime: 2022-08-02T12:30:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/uae-based-g42-healthcare-collaborates-with-amazon-web-services-a1zo2q80"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
 
 secured: "T2Yf2ykUV80VLjobFFzPkQvZ3QclwEgL69vh882lCj6QiLKq0MkBDlUGR1QaOE+Bzrmdu4GsBYUPnB/bhVs/qly4cTCuMtwgora+XYuKV+STDErDfoNQKlmRg0Dpao4lmHIN1yAmXKM8uFR9Gh0H9ovIEhMAtJcZoTH1BOfvB9xJnS6QCCHazC/n1Cx2DrqZsttuGZKvjBagmsswNiEBkyiK0Xm9la2Ugpx7ExJnLiLSHYg56LYH4sTK36ifzw/p7Y8IM6gs40zMHZs59pFpPpA4t0awwmKWvQpjpMME29lveXm507UGv1nm7MjY7fxHW4BoIImownU9N3iKsQUKrdEz2XXSNHVfWIjdn/AGGZeoeko1Fipb3RhOqsyqG/E1nmOlkRcpnpBUNmz+wC7Dc1cckqnQp5UTFOi4w6CnKR2uGUlZogrW2YuxJ7WNhLRfTX9hgxklnxpHQTGegHcEiNb4rVw/DOygIY+1jBQ2/QIXYw6t4i/c7cl5VYhn5AGzLpJHKhd7FWYH5JPf6zzXuA==;KVkt2bU0qpMolAtKuaWLDg=="
 ---

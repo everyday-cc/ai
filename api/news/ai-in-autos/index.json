@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-06-california-dmv-tesla-falsely-advertised-autopilot-full-self-driving.md",
-      "title": "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving",
-      "excerpt": "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,",
+      "path": "_news/2022-08-07-tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-complaint-alleges.md",
+      "title": "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges",
+      "excerpt": "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving",
-      "originalUrl": "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving",
+      "webUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "originalUrl": "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-06T07:39:00-07:00",
+      "ampWebUrl": "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/",
+      "publishedDateTime": "2022-08-06T20:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -358,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1197,7 +1188,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {

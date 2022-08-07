@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
+    excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
+    publishedDateTime: 2022-08-07T03:44:00Z
+    webUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 77
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
     excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
     publishedDateTime: 2022-08-06T14:39:00Z

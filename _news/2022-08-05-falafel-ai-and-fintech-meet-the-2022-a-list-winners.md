@@ -70,15 +70,6 @@ related:
         width: 550
         height: 310
         isCached: true
-  - title: "‘AI could trigger fintech revolution’"
-    excerpt: "With the emergence of financial technology (fintech), companies are expected to offer more financial services to personalize their customer journey, enhance the overall user experience and generate alternative revenue streams."
-    publishedDateTime: 2022-08-02T12:58:00Z
-    webUrl: "https://businessmirror.com.ph/2022/08/02/ai-could-trigger-fintech-revolution/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 19
   - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
     excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
     publishedDateTime: 2022-08-03T12:42:00Z

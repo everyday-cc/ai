@@ -1,48 +1,32 @@
 ---
 category: news
-title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
-excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
-publishedDateTime: 2022-08-06T04:59:00Z
-originalUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
-webUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
-ampWebUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
+title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
+excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
+publishedDateTime: 2022-08-07T03:44:00Z
+originalUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+webUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 77
+heat: 117
+published: true
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2022/08/06/600x338/TESLA-INDIA-0_1654921278675_1659761858053_1659761858053.JPG"
-    width: 600
-    height: 338
+  - url: "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
-    excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
-    publishedDateTime: 2022-08-07T03:44:00Z
-    webUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 77
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
     excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
     publishedDateTime: 2022-08-06T14:39:00Z
@@ -82,7 +66,23 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 57
+  - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
+    excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
+    publishedDateTime: 2022-08-06T04:59:00Z
+    webUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
+    ampWebUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2022/08/06/600x338/TESLA-INDIA-0_1654921278675_1659761858053_1659761858053.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "nquk8o/sBdxbWRUagt82aqfoNKsIM55sFEnNgBasuLlK8XW06xO9717fDirExP2uxUSxeKeXq9tmnHgMC9h4EgErF2zgisurVXVH/wDgXUFcsLCzLk2oy2Dvsnh3W7tTJ0DBgxI33sx14fC4u4aWgB0Ev67xRHYwIK9akWIE9hfLerbVpQOXFYK6K8D1wFLr7m27Y0v3fLpe3J2Zo4V0izvnGXMlvVRTW1F66JHSeUqeC7JLuXeFBGBmuGY3gGBA0MJMrMiJZK2ewJJD10c9qDXFm4j7qpZbqJZHefp5ynCnGjYJPZtP8JX7LjIpX6R9orxf6TUEYMbl41G35BKkwLnsi4GAhfL7oTt5aj42ipntvNrmNtfRqVqVZ0frSzsbu9KabWI8mDOjQYBtAs4W+ZZL42qW4H1zSbGlc5la8laMWrOyI39Rf4P6M145f1eLRaQp8waCgingTc+NNI+QDClLfzwt7HVaXssWWsajFofucg+coLvPXEniqj9C5RaMucU9bpITq7AoJw2rllv6ZQ==;7oZv8q4GlR2PtS+UTT+07g=="
+secured: "IXk+ZTe6gWlCJEO9FErLG2K6g8k9eBH7+tcegV91bSGKG/q/V+IrI1OXc9o9s0kc0Wvvp52rVF//HOXq271MXq015C5lUAtcE7wqI2MjAMCTdOzEg+bXMwskCEDRHryyelv/nmDNO9N8MV8C/06g0FDR/tXvvXvl3wWni4qxmgBPYV5+b9kOdhdxgbTmqdifNr6POAwyf8oT4C9w16NLigY7n53w1luZADe3oDwNNYB/G8P5LxiADYL8kVIsV3tPLpwsSxM5XI8QmNlXwyTSpYGYQwk0r3aNp3Ljif8nWGb7DI5uavcMftHjyqsEYfkTcNjRI21PZ8IluR63BPIYsErMYnKZAKxuxr4WcbVF1jQ=;XEIaJa0Xno5zz38WhN19ig=="
 ---
 

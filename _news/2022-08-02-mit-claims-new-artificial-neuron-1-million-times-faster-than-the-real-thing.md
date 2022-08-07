@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/mit-claims-artificial-neuron-1-million-times-fa
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/mit-claims-artificial-neuron-1-million-times-faster-real-thing?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Futurism
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MIT’s New AI Chip Is 1 million Times Faster Than The Synapses In Human Brain"
-    excerpt: "A team of researchers with the Massachusetts Institute of Technology (MIT) has been working to push the speed limits of a type of a previously developed"
-    publishedDateTime: 2022-08-02T12:36:00Z
-    webUrl: "https://www.techworm.net/2022/08/mit-ai-chip-faster-synapses-human-brain.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 33
 
 secured: "XqbbAO8sh0ARxgSuIiK4i6t+XDZYcGC83amMrF070r2EiE7uNE4EmJpVecmRmCe/+YtJ54Zh+YI3g4teblQo7fb5ANV7LRMUSrGYXMQWC1DnhdIxIDunhcTf8h3tDzx4+QI+HMZzeWAm0O7gZUix+v3VTcQQMDX3y2WBKPteo9w/NX+ySUP3dMaj6UydhuGdmgt0hmi5QHxnWoiSY5aSykyBcbdDchxDFIkQbCOfOFePbgkgrw8LVTzxQmP+f/qnSDn5pIVWSu4QQMcp9IHNGVuthYNOGeYSNV7mUCan9IRqvhcReIVcRLa8rYk9wnhanm+a6IvYfmE3tYVLG7UKdcnRJjJI4jrb1XzfI3X65G8=;MiWJ8UFTcuncZpGL9mVvvw=="
 ---

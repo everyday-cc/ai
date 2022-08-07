@@ -62,15 +62,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 34
-  - title: "‘AI could trigger fintech revolution’"
-    excerpt: "With the emergence of financial technology (fintech), companies are expected to offer more financial services to personalize their customer journey, enhance the overall user experience and generate alternative revenue streams."
-    publishedDateTime: 2022-08-02T12:58:00Z
-    webUrl: "https://businessmirror.com.ph/2022/08/02/ai-could-trigger-fintech-revolution/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 19
   - title: "Falafel, AI and fintech: Meet the 2022 A-List winners"
     excerpt: "See a list of finalists and winners at the bottom of this story. They range from falafel maker Afia to the artificial intelligence experts at Kungfu.AI. The A-List Awards focus on innovative companies on strong growth trajectories."
     publishedDateTime: 2022-08-04T18:46:00Z

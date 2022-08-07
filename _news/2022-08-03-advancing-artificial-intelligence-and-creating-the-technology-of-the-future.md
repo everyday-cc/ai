@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/08/02105321/SEI_117548982.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Massachusetts Institute of Technology: Using artificial intelligence to control digital manufacturing"
-    excerpt: "MIT researchers have now used artificial intelligence to streamline this procedure. They developed a machine-learning system that uses computer vision to watch the manufacturing process and then correct errors in how it handles the material in real-time."
-    publishedDateTime: 2022-08-02T11:21:00Z
-    webUrl: "https://indiaeducationdiary.in/massachusetts-institute-of-technology-using-artificial-intelligence-to-control-digital-manufacturing/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 24
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "cQk27z2mmABS8E3C0/CdQEFx0js7RToyvAmE03M7yA8PNUbN8wm7hlpFU/Es5igo3CACsnYWAFVAZESHTwixhCRaanIjLV5W750B28fGDCkWF61DExB4aZPqsf/mdOzTiKyUDY2Aw2NoZ9LPNj5ar/LXxjNbzl3HGOUpyNS/VBbevMptbLtm0dGbK5P7SRBktoKvLpc//0AjL3IYWq/yrpesUIDhDVICUyUulEl6f1VMSqr+d3CoI7ttrDU48p60Lbbh3szxwaLexdCycGwpH55c3ECrepZqTGVoZxDOUSyYiaf3Qe9+bh+hVoR+BAFPetzCnXl31pL8nn+3vlYPiFUlZ+SkRNtwTOQM7h6H6PlB0GSB+XgiIVbyrE8TfPYaYGO/Cz3O/B4RVCjAzHPCst0kMSy3x+dzNO3U+PQHI75/LIAoJ4L07bjFOqkHgJxpW6j04OSr0+FfpA+rsg+/yuRptZ/K3/NzWWYuEBj4gZANnWqnBva+ABf5boQy8zk8s5EqHPqWqPsecCmAY7wZyw==;xAbmd2GXDPx+Qjr5LuKnzA=="

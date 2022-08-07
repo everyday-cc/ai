@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/"
 type: article
 quality: 80
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/0-images/Jim-Hayden_1.png?height=635&t=1659502313&width=1200"
         width: 1133
         height: 635
-        isCached: true
-  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 ..."
-    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
-    publishedDateTime: 2022-08-02T12:52:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022/article_a4c38108-c7d3-5009-8b5b-01d86ccc6f29.html"
-    type: article
-    provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
-        width: 600
-        height: 315
         isCached: true
   - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
     excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."

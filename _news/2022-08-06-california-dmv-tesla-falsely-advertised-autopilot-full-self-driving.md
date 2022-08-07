@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised
 webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
+    excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
+    publishedDateTime: 2022-08-07T03:44:00Z
+    webUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 77
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features"
     excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T05:22:00Z
