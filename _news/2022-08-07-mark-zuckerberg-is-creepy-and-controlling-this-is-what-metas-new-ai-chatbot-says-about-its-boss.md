@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
+    excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
+    publishedDateTime: 2022-08-07T16:22:00Z
+    webUrl: "https://hothardware.com/news/metas-ai-chatbot-calls-zuckerberg-creepy-manipulative-unethical"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59303/content/meta-chatbot.jpg"
+        width: 708
+        height: 425
+        isCached: true
   - title: "Meta’s Latest AI Chatbot Has Mixed Feelings About CEO Mark Zuckerberg"
     excerpt: "Meta on Friday unveiled its most advanced chatbot to date, called the BlenderBot 3 (BB3) with model weights, code, datasets, and model cards. This"
     publishedDateTime: 2022-08-06T14:28:00Z

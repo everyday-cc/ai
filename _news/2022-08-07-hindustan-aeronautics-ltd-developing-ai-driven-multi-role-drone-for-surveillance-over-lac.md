@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "HAL developing AI-driven long-endurance drone for vigil over China border"
+    excerpt: "The HAL has set a target of conducting the maiden test-flying of the unmanned aerial vehicle (UAV) by the middle of next year and plans to produce 60 such platforms in the first phase of the project."
+    publishedDateTime: 2022-08-07T15:57:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 56
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/7/w600X390/drones-pti.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Telehealth and AI are top priorities for Indian Healthcare Leaders, reveals Philips Future Health Index India 2022 Report"
     excerpt: "Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced the India findings of its flagship Future Health Index (FHI) India 2022 report titled ‘Healthcare hits reset: Priorities shift as healthcare leaders navigate a changed world’."
     publishedDateTime: 2022-08-04T09:50:00Z

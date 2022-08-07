@@ -1,32 +1,47 @@
 ---
 category: news
-title: "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”"
-excerpt: "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,"
-publishedDateTime: 2022-08-07T10:16:00Z
-originalUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
-webUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
-ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
-cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
+excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
+publishedDateTime: 2022-08-07T16:22:00Z
+originalUrl: "https://hothardware.com/news/metas-ai-chatbot-calls-zuckerberg-creepy-manipulative-unethical"
+webUrl: "https://hothardware.com/news/metas-ai-chatbot-calls-zuckerberg-creepy-manipulative-unethical"
 type: article
-quality: 102
-heat: 162
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
+  - Facebook AI
 
 images:
-  - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg"
-    width: 619
-    height: 374
+  - url: "https://images.hothardware.com/contentimages/newsitem/59303/content/meta-chatbot.jpg"
+    width: 708
+    height: 425
     isCached: true
 
 related:
+  - title: "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”"
+    excerpt: "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,"
+    publishedDateTime: 2022-08-07T10:16:00Z
+    webUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
+    ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 102
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
     excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
     publishedDateTime: 2022-08-06T10:27:00Z
@@ -42,20 +57,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
-    excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
-    publishedDateTime: 2022-08-07T16:22:00Z
-    webUrl: "https://hothardware.com/news/metas-ai-chatbot-calls-zuckerberg-creepy-manipulative-unethical"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59303/content/meta-chatbot.jpg"
-        width: 708
-        height: 425
         isCached: true
   - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
     excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
@@ -116,6 +117,6 @@ related:
         height: 650
         isCached: true
 
-secured: "V0aYVBzVgsXi8dMo5m1l2mQYFlAPEEKvG0O43+CSE3eX9PXluxuE25h0ebcIpsO09gA7CYPuv5vb0U7aaxmyuGeKPtX9U+YUNtcxFthQCvg2ComTij5wKBx04J0zI99vPAgSwI2i4TdsDuRSw83VpB6b4KREKCPwz1UpdwFR2EX0S2JcDBLMP/SZfNf/jYNvXqKIQPFPYO11vABEFCPMVRI5VZlzTK46KvwmMSwkVF0Q2DSLnbdfhywJgun1BGdNFbcYaOLX3shXjImP4dBtwxKykVfQnwTxmDoMwq5oysZIc4XkG8kWLYetF3aBNmG4qDk3gogHNWJp9RPJLeb98YX+q3sWNe5704wbIqKx4Iz5M53p9jbJKWj5JECY1bFRRh4pLWmChF9Bd+riOvJgBCB6d/SUtfO8dYqs1IgYkbFethlMs88jSLkprRTkjehLb/ZWn/JNGzHpOhVyUaw9ElWGu0iX6YzrMaDmpMh3+3iRvfslpq84eofIsIyFhr9P+kbGidR1wbvcQkJlSNxfGQ==;OMgEK4XOrThyATvqn9LgnA=="
+secured: "kipAOp9UxvBe1Eo/xgLBAADkbow2elyr6S+URvBuz1es9FhtnvN2G6lwFcKsZoJ8weCg4CNQc0UYx9swqndDOiz7eb9Gh/p7dGne+ShPAzW1wAjl+qJUOiD2Ezz1XlcAO17CY1coc3LcfoDBETU4JtRXa1F6GycTMusjzHKOPC3nU5dswFiXP2pa1LYF3vOVIWqGFZ4xEkAK1z3cH8rIXMGdDjGqMqMdlGKedVVECmgsMxfzFsyU8lBlWHuU1sjeDek9EI1f1nYbh9i4kIYL8RzjJ6c3s911gSzUObCmWw25cdd05TaQQF3ODI2GwDglrcr8n6faTQKfoXS63Qi5afdQPLlzWA7t7ZK4kwFxyU4=;z0KrcPGpDa5IhIz4koyZ3A=="
 ---
 

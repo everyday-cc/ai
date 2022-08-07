@@ -1,46 +1,46 @@
 ---
 category: news
-title: "For vigil over LAC, India develops AI-driven drone. Read here"
-excerpt: "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro"
-publishedDateTime: 2022-08-07T11:16:00Z
-originalUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html"
-webUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html"
-ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
+title: "HAL developing AI-driven long-endurance drone for vigil over China border"
+excerpt: "The HAL has set a target of conducting the maiden test-flying of the unmanned aerial vehicle (UAV) by the middle of next year and plans to produce 60 such platforms in the first phase of the project."
+publishedDateTime: 2022-08-07T15:57:00Z
+originalUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.html"
+webUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.html"
+ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
 type: article
-quality: 57
-heat: 107
-published: true
+quality: 56
+heat: -1
+published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg"
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/7/w600X390/drones-pti.jpg"
     width: 600
-    height: 338
+    height: 390
     isCached: true
 
 related:
-  - title: "HAL developing AI-driven long-endurance drone for vigil over China border"
-    excerpt: "The HAL has set a target of conducting the maiden test-flying of the unmanned aerial vehicle (UAV) by the middle of next year and plans to produce 60 such platforms in the first phase of the project."
-    publishedDateTime: 2022-08-07T15:57:00Z
-    webUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.html"
-    ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/07/hal-developing-ai-driven-long-endurance-drone-for-vigil-over-china-border-2485092.amp"
+  - title: "For vigil over LAC, India develops AI-driven drone. Read here"
+    excerpt: "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro"
+    publishedDateTime: 2022-08-07T11:16:00Z
+    webUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html"
+    ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 56
+      name: Mint
+      domain: livemint.com
+    quality: 57
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/7/w600X390/drones-pti.jpg"
+      - url: "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg"
         width: 600
-        height: 390
+        height: 338
         isCached: true
   - title: "Telehealth and AI are top priorities for Indian Healthcare Leaders, reveals Philips Future Health Index India 2022 Report"
     excerpt: "Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced the India findings of its flagship Future Health Index (FHI) India 2022 report titled ‘Healthcare hits reset: Priorities shift as healthcare leaders navigate a changed world’."
@@ -93,6 +93,6 @@ related:
       domain: proactiveinvestors.com
     quality: 0
 
-secured: "vOjNHJkW85HzfwSJpNYHkZ1jBDxCaqNu7mMYqD2wQq1ljWoWF2MQ2GYTSOwAbIXyVgW120B0T7dqYTjZbw/kADCvPHPOHJX3Ah15RsAyLiFSLll9wm7oIvOdAn8oQ4ForzmYlAIQQ8q8X/Y2W6CXAYltUCWu29LCEyiAnl37wV7G1NWBg9cHD8jLXsT7bzhULe10aiS/rYeGCNgZqaFUFTVjPn+ZqEdA+iPCC1wZMQ9t86zKrxkaI7R1FDvL5FCT9+aBYUrVJWSUz05cXjljh/rqRhaR1/y8G9Sn10sxgV4li7iBXAHcqPhXGfSPhVKlPJI6sVVhqqoGgeFcmyqeCUfvQnCnUQO0kGV5uoALvFLwDB1Rwx5oGQ7iZq13PDxLkC3B+BBJT2oChxMaZ4/K4yfbUC+bnFTAbhjTqDUPvvcJ1UHYUZn+Uvb+N9w5b2eE1e4A5O+YdLDK9Qv9w6Y30cuySNMlQDmbbYv/FZQ70vOMo8W+WTKkNLStkDFAQXVWEbgw2WtiIoyTy55augYiZw==;bLSyjxrbu/3niEoNBOKOZw=="
+secured: "zoCKW0bMtcHnHvOoxmYjqhc90+gOQyxRE6+CdijpzrgH2OWrBmzobfC986hqyUlgfJsf/TqOCxP26imLlRgv+0ppqrd3tgK3v524h34+g05EZIQsXxbx7xVTvXxEQfrQ1n9QEQ86V2BV/DoRrBH2Qn70xB16i7JcNG+QlOnHYdIPcgRDuALokjfhK/AZWcSQoWu7MgDopTpa7/NkN4NP8vCwqZG4m4/2l8GXqRz7b3+/ScqxRgBZlm88b8aff1kpdEciek4BHWQ9WDkjM4y3nr+IO3DMgT70WL65H5wMx6eLdGgdjMhkKXitNxqFpI6SiijbHIxFv5qWnsE/6C9NhJ4lzHb+hCrUIun2E+j/xzQ=;d4k2dHLZkoCsuzAQMl54kQ=="
 ---
 
