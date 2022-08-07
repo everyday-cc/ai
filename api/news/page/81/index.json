@@ -2,6 +2,91 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-the-race-to-hide-your-voice.md",
+      "title": "The Race to Hide Your Voice",
+      "excerpt": "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
+      "originalUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg",
+          "width": 2401,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
+      "publishedDateTime": "2022-06-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
       "title": "Microsoft Dev Box: Your development workstation on Azure",
       "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
@@ -989,101 +1074,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
-      "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
-      "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "publishedDateTime": "2022-05-31T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
-      "title": "PMIs Beat, Technology Leads Gains",
-      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "publishedDateTime": "2022-05-31T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

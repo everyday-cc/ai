@@ -7,7 +7,7 @@ originalUrl: "https://www.techworm.net/2022/08/meta-ai-chatbot-feelings-ceo-mark
 webUrl: "https://www.techworm.net/2022/08/meta-ai-chatbot-feelings-ceo-mark-zuckerberg.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     isCached: true
 
 related:
+  - title: "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”"
+    excerpt: "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,"
+    publishedDateTime: 2022-08-07T10:16:00Z
+    webUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
+    ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 102
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
+  - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
+    excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
+    publishedDateTime: 2022-08-06T10:27:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
+    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
+    publishedDateTime: 2022-08-05T16:08:00Z
+    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 23
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
+        width: 1024
+        height: 504
+        isCached: true
   - title: "It is funny that he has all this money and still wears the same clothes: Meta’s latest AI chatbot about Zuckerberg"
     excerpt: "Hyderabad: Meta, on August 5, unveiled its most advanced chatbot to date, the BlenderBot 3 (BB3), which includes model weights, code, datasets, and model"
     publishedDateTime: 2022-08-07T08:46:00Z

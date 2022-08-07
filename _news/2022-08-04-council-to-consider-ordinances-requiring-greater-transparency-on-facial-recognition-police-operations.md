@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Only transparency can save Indigenous recognition"
-    excerpt: "While Australians want appropriate constitutional recognition of Indigenous Australians, they will not give politicians a blank cheque. Nor should they."
-    publishedDateTime: 2022-08-02T17:30:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/only-transparency-can-save-indigenous-recognition-20220727-p5b549.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 4
 
 secured: "yvylhz6aMi3eDgeSH+drwykpfZJYqrRDG0i3PvAtwasbjq3gC84ZOt5J4XmMNO0wRNG43wa0MvHQ+yAKrWKhp0we5ZAtoLYlOTcOZ55y8XfEngn9wzvdCXL9E1y0EgsfftRc+D66wR/EuvvSg/b5m5jIE/KVeO1GNg7Acot/Po7S8k69B6JFyYP4HON/qAN0moTXvX8qCh+5U8b8ZvYgF6/c0mFzss05YyQocZyNb37nvw2bTKUWGnHWv8cI6Q3hUPQdEG0cfEW3TRavux8FTuCKDzBqvsBVLR6pZlquup/tm+E+TG8rVIiVK/L9TA1cI8KdA5Msl2Ei/SJUyzHM+ZNICE/nIwtPwsIaLyVguVX7+1ibI27rQm2CtmMdLmo2ejUToSTS0r/yDzMXoAHzSJaKxIfEHzw+UeweF1hrVyRvgf1Rys4TwZ4EN3ih6sdhb7FuJ9Dl/4Al+IG7QrmgtCyBwsA4Qd93W2let0EsvG4Xfu1TzmgsJj+PACUtDX2i8tjdkXji3QkGs+WKz2DWZg==;ftQ5DUIxHPCF48KCSwvTJA=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 765
         height: 508
         isCached: true
-  - title: "How artificial intelligence cracked biology’s biggest problem"
-    excerpt: "Our podcast on science and technology. This week, we examine how DeepMind’s AI system predicted the structure of virtually every known protein—and what the breakthrough means for both science and mach"
-    publishedDateTime: 2022-08-02T18:36:00Z
-    webUrl: "https://www.economist.com/alphafold-pod"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
 
 secured: "w0s+oGGEzbsEtCv7hrifJIXckYZCEhMwjevrjTN3m5MqSPtWq/t/BcTYPgLyZmSTgPL4KRLmCjxoU1ahGhHaDKpL2H2qTkVNiXdRgEnJfWEFQlKIGS2L79Nd5/GHfqX57T4Qq1WHaMy9rz2symPq/bKqOGWb9hBXRVWl4WXXv0YMfXQKFN3Ph8u6u2FkEBO68A8rMe3JDVG4p1JCAsQY/LI2N7HCq57S3nwo02ga212MaaipwN0R3lL/mwQrAYA13UiDUSwxnJi9PR4yRCorAtAHkNHgWBfUfTW2zZF6LPERoizqTpaQeAnP22Xfp/p1Jn5648gDJv5pU/jC1gzrYtCmWyXyGUOEHoNoZQYd/gAtS0hKtG53tClzIYSSdVTij7XNjMrgW0V5SVaQhXSz7Zmsu4phDAaKfozFl9gh4gtnTqmGcsAOh/gUN5NAbewur+aZbitEypQAL/appXjkbsAIeJQreJj+aqS1ZpnNV9c2vKhIkG+/Q7WZQSnlGkDHXUh1ZSnpm2nAunZbn9oI+Q==;M7yshMwmtHwbXghR+olHNQ=="
 ---

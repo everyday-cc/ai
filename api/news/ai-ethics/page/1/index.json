@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
+      "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
+      "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
+      "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
+      "publishedDateTime": "2022-08-07T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
       "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
       "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
@@ -1425,49 +1468,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh.md",
-      "title": "India must be ready to face upheaval due to AI, says Rajnath Singh",
-      "excerpt": "The defence minister further said the arrival of a technology is just like the movement of a clock because once it moves forward, it is not possible to walk it back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
-      "originalUrl": "https://www.businesstoday.in/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202207/ezgif-sixteen_nine_142.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/story/india-must-be-ready-to-face-upheaval-due-to-ai-says-rajnath-singh-341062-2022-07-11",
-      "publishedDateTime": "2022-07-11T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

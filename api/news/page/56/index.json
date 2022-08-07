@@ -2,6 +2,101 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-06-17-ai-is-driving-hyperautomation-and-autonomous-factory-systems.md",
+      "title": "AI is driving ‘hyperautomation’ and autonomous factory systems",
+      "excerpt": "The hyperautomation approach allows organizations to automate as many of their processes as possible with tech such as RPA and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/data-observability-e1655328076213.jpg?fit=800%2C526&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-is-driving-hyperautomation-and-autonomous-factory-systems/amp/",
+      "publishedDateTime": "2022-06-16T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey.md",
+      "title": "Maruti Suzuki invests in AI startup with eye on enhancing digital sales journey",
+      "excerpt": "Maruti Suzuki has taken a 12.09 per cent stage in Sociograph Solutions Private Limited under its MAIL initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey-41655442728485.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/06/17/600x338/AI_1_1655443322967_1655443329077.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/maruti-suzuki-invests-in-ai-startup-with-eye-on-enhancing-digital-sales-journey/amp-41655442728485.html",
+      "publishedDateTime": "2022-06-16T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-how-ai-powered-pricing-improves-margins-and-protects-consumers.md",
       "title": "How AI-powered pricing improves margins and protects consumers",
       "excerpt": "AI-powered pricing done right means consumers will enjoy personalized offers and prices set squarely in their comfort zone.",
@@ -1036,101 +1131,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
-      "title": "Why Artificial Intelligence remains a distant dream?",
-      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
-          "width": 1100,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "publishedDateTime": "2022-06-16T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "americanbazaaronline.com",
-        "domain": "americanbazaaronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage.md",
-      "title": "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage",
-      "excerpt": "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
-      "publishedDateTime": "2022-06-16T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

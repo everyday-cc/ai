@@ -132,21 +132,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
-    excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
-    publishedDateTime: 2022-08-06T10:27:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
+  - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
+    excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
+    publishedDateTime: 2022-08-07T11:47:00Z
+    webUrl: "https://www.digit.in/news/machine-learning-and-ai/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing-64601.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
+      name: Digit
+      domain: digit.in
+    quality: 50
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
+      - url: "https://static.digit.in/default/c0271e9d0ac9850c0a8905f3d5a4e03a833add3d.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Meta AI's BlenderBot 3: 5 things to know about the chatbot that learns from interactions"
+    excerpt: "Meta AI, the New York City-based artificial intelligence laboratory of Meta Inc, has built and released a new state-of-the art chatbot, called BlenderBot 3 (BB3), and is letting members of the public interact with the system to get a feedback on its capabilities."
+    publishedDateTime: 2022-08-07T08:30:00Z
+    webUrl: "https://www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 48
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/07/1600x900/Meta_1659859088677_1659859093109_1659859093109.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
     excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
@@ -184,20 +200,6 @@ related:
       - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
         width: 620
         height: 413
-        isCached: true
-  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
-    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
-    publishedDateTime: 2022-08-05T16:08:00Z
-    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 23
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
-        width: 1024
-        height: 504
         isCached: true
 
 secured: "y/58Rv3IyB2OdMUiFkWcotecOVVGvyxL2H/erVmCI6ik+v3z8fcvGmp9mDyjmgj443+AX7bojVjeeL5FooGRl9mGwXmmcKKsFsm4KrqTgWDebB6RrRAEI/LVJ98MdHr6c4bK2Y2SR9sWT+9sCDPbX6ELE2zp38GJlJrgAtY93r66sEqUMrZsA50drnq2D1X36Fa8cotCAr2GMX8la0VDLIj0uPtwInhzz//2HqxrsQvhfKPVPEwLk5/9ybxXM94g8sSutfJQ+307OG60n7/kSPkgpeajmsi9z+iQQJeglZNVyx2qgQd9qOKsyM9hYTJebOluHxT2FMfaI/p5lHsAJvFKo+nmmfX9ZQDBp8jErUn4/aUKsKqyqvW8baBGJPD2YwZIajI/vDm/xbZ9axIjRCtmv3sUgs4A6j0IaqzTYCpdJhhMAw5BfNGwGTSvHyF6VfVnCMiS8s5N9TdkWjQqMnGIcecLYBiK7eBOEJcjeL8POjZEeuwKdf1qOs6lPh3FOHjpRcynP9raAZgrmkZsZg==;BTOHo0lMyKaspPvOGKzfCQ=="

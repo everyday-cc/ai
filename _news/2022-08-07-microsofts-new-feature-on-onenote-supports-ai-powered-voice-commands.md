@@ -142,15 +142,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 28
-  - title: "LTI Strengthens Strategic Collaboration with Microsoft"
-    excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
-    publishedDateTime: 2022-08-02T18:15:00Z
-    webUrl: "https://indiaeducationdiary.in/lti-strengthens-strategic-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
   - title: "Microsoft developing software to identify cardiovascular risk"
     excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
     publishedDateTime: 2022-08-05T13:20:00Z
@@ -161,6 +152,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "Vk3amOEK1BwNJP3991LjD1KLfFawi52pCCUVwlr1ep0cquL6IPfNT70TPG1OtmfJVyAFnX2NMm9uLZ8V0vDbadnxqqfR5BLuatSi+vLzhy9CCusQZVMf/k44/hIYp1h816RV3ywSmx+W8m44xjw9RDLh/2IsSQE6rVQlhXZqmkuiSQOcDmQadRTIfQNm1zy2SGCmY7q5bsjorUqueFAqF375zqyIbaIfoK8/yNrSYmwgO0Fuw5OQxXQU4ng1C6fMkcWQSxW7RsJ3ogQCKYkeoXxrUQcxxcHZjxVt/9jiMkvNwbxAbKeVuFoAY/fSiKNXO0P/Wnw+3udUIZfSOLhk3s/v9K8az2pp5icN6b3cqa0=;8CoE9WSi5pICLiczd3V2aA=="
+secured: "IpVBJi0spKybfmNYtSqZt2iutkGNKn2pSG1L0yUsXq0zM6+Lfec4cL/khdvXQxLZyBu67ODGVgvXELlD57VkofH3vltS7yhbKEoknNCwDq+WAtEwk+FL0GMHhL4FgwTrbgniAuS+o+tiSBe7935OLyXl4lgFuGa4QIL0dphNhe2AeG2eaaBq8TLublpK7pAK/UUNTGKzBkkK/kkYpRXicpBHgEKOjgxIVcLVoy8SIPcB3LawMjo3bEkSN0Xgps5mCqmeWhJwnamr/ZoumX3wTNexApgU+AALEcDWmAaxYo8FCSx76myeL2d8nZ4q1CCgYRkRj4QWOqV4nU5vsFHJNqF4tJk+uPP5OqbuAuTsAgyLJzOwJr7hZhpjH+nFJCK1n0yEK0RDfJ7SxanB/R8iL5H70TmF9hmbbVcCO2+JFKk2u5GYj2exzHHBXgI19wjAE+deyJYJR+tm/N1yLK+UvcrFipPiAJrTQAaTlZqRpfjxMr0rBovlgP1cwcslkjt19QSpltUdXtT+FEMlRkOikw==;JlK+EiQcXJO5OExobLgN8A=="
 ---
 

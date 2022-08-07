@@ -150,15 +150,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 28
-  - title: "LTI Strengthens Strategic Collaboration with Microsoft"
-    excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
-    publishedDateTime: 2022-08-02T18:15:00Z
-    webUrl: "https://indiaeducationdiary.in/lti-strengthens-strategic-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
 
 secured: "+Jqh07TkQWVqf0YT20Dui9eVOJuCAqxwsD+D6jc82YC9sn6J2L+gQPmUY6Fn6H9FVKUeI+Y3IG9cGH2++iBzLdoMkY6bb9gUdE7z5j8sOeDGVESk3/RiQxAvPj7ijZKdsm+aVB6KI/DsiHlFaZvGsfl1+NEq92hbIM1cCNOABsuJcAKAbKLAv21JzETgRXWjLyoxx91EtwzodZf6DQDXVWgubvWteizOWUkirrMysddj0ME2orPv+k5yXwuKrHw/I02XMBLJo6KGfj//z5KoDoePMksKOfGfY2JxgB0bwQK7PN0cKJiF3CzYugWW4n1VQ1rGZJMahWp0+RiNSATt6j/z+15U5376vkAQbFZwAe0=;istWFqqlhWq7mbcp8+bGhw=="
 ---

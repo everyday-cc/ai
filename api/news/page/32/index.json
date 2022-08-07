@@ -2,6 +2,112 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
+      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
+      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
+      "publishedDateTime": "2022-07-06T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-an-outsiders-view-into-healthcarewhat-ai-can-and-cant-do.md",
+      "title": "An Outsider’s View Into Healthcare—What AI Can And Can’t Do",
+      "excerpt": "As most physicians are only beginning to become familiar with AI and understand its use cases, what can AI currently do in medical settings, and where is more time and innovation needed?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c44a474428774f0742918d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/",
+      "publishedDateTime": "2022-07-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-facebooks-ai-translator-now-works-with-200-languages.md",
       "title": "Facebook's AI translator now works with 200 languages",
       "excerpt": "Details: The technology, dubbed NLB-200, is part of Facebook's \"No Language Left Behind\" initiative. A prior version could translate among 100 languages. Meta will use the system to help with more than 25 billion translations a day,",
@@ -1059,102 +1165,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-natural-language-processing-market-development-and-opportunities-with-forecast-2024.md",
-      "title": "Natural language processing market Development and Opportunities with Forecast 2024",
-      "excerpt": "Various industrial sectors today including healthcare, manufacturing, BFSI, automotive, and advertising are growing adoption of different advanced technologies in order to offer superior quality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-development-and-opportunities-with-forecast-2024",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-development-and-opportunities-with-forecast-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-6-1-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-microsoft-is-scrapping-some-bad-ai-facial-recognition-tools.md",
-      "title": "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools",
-      "excerpt": "As an outspoken proponent to properly regulate facial recognition technology, Microsoft﻿ announced it would get rid of its A.I. tools in this space. The tech giant is ending its role in the potential for facial recognition technology abuse,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
-      "originalUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/1139859542/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
-      "publishedDateTime": "2022-07-05T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -142,15 +142,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 28
-  - title: "LTI Strengthens Strategic Collaboration with Microsoft"
-    excerpt: "Larsen & Toubro Infotech (BSE: 540005, NSE: LTI ), a global technology consulting and digital solutions company has announced the expansion of its collaboration with Microsoft to focus on developing high-value cloud solutions for enterprises."
-    publishedDateTime: 2022-08-02T18:15:00Z
-    webUrl: "https://indiaeducationdiary.in/lti-strengthens-strategic-collaboration-with-microsoft/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
   - title: "Microsoft developing software to identify cardiovascular risk"
     excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
     publishedDateTime: 2022-08-05T13:20:00Z

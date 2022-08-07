@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
-      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
-      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "publishedDateTime": "2022-07-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-03-sound-and-word-recognition-for-android.md",
       "title": "Sound and word recognition for Android",
       "excerpt": "This tutorial shows you how to use TensorFlow Lite with pre-built machine learning models to recognize sounds and spoken words in an Android app. Audio classification models like the ones shown in this tutorial can be used to detect activity, identify ...",
@@ -1453,6 +1410,52 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
+      "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
+      "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI",
+        "TensorFlow",
+        "Computer Vision"
       ]
     }
   ],

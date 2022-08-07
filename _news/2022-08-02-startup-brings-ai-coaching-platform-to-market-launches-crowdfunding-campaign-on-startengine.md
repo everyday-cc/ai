@@ -3,26 +3,17 @@ category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
 excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "+F8DXM94xaREElKlxfOK4nOy3O/DgJZALT16TqVfYSuqrPfTQ0gcPEXOrw0bTihMlu2VvgVvE7X0ELFdae2mC0D6NqNTBGqMYiywJ9H/TKgdo3a7NGymwnMZX4fmanJyXRcB6FDZJ9xJeEotdInu3IFfPW6/gmXgiOlMaIYJ3Kpew2Zn6X9VaDqixeEbUa0VB2aErCveSUWNcAqaTE/9brJz4UfD0parhqFPXlR5GoNUCuAMsUkY0HUsV8IP+bU+SegS6hcFCpyuKyPDZ2ieswebrFdyMYJUqoyQzvEun7H7ngRYTeMluTCtafueAs5JlVrkkz6D10CGZPECZyefKVlMdYlnb+lPxRWVa6Tyw9g=;t/sF1PMZXSGCW2p5ddaz8g=="
+secured: "Fbq9DgDEd36JYguDSZaC83oSFiVL7ZYq1JmKDPIJ7CjpS2XG4e6XOmiPunWkBkSb0Z/6DZldmjc1HoO3+xZ6om36ixaxrqQMP72hSA0FP9jinGD4noMMCsdUrqARi0u9SJaZLcKnF+EABR3n526hOyK8cZIGEt671GpwU3eDDwRDODt3pineUcbXqLthvsot/I+OnO+O6qDU+BiWD6CmxY5FXvcsUZ2OXkEV0DGH7zx6K6fQy4J/B9cEqYz6ew4GE9Q8FzHxo5CmSFQS7I1gHJ319qttjVq54U4H4GKMnvbOxsh3KVGmYxgturef7iOsSgZEMwxjqXPUB9F9gl6U+16n4fMCeEfP/OEW9k2CKws=;cJ7watVUvXRP7ecHhYMZfQ=="
 ---
 

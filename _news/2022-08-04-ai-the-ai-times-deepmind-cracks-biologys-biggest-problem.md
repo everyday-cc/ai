@@ -7,8 +7,8 @@ originalUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-bigge
 webUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: BetaKit
@@ -39,15 +39,6 @@ related:
         width: 900
         height: 659
         isCached: true
-  - title: "How artificial intelligence cracked biology’s biggest problem"
-    excerpt: "Our podcast on science and technology. This week, we examine how DeepMind’s AI system predicted the structure of virtually every known protein—and what the breakthrough means for both science and mach"
-    publishedDateTime: 2022-08-02T18:36:00Z
-    webUrl: "https://www.economist.com/alphafold-pod"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
 
 secured: "BZnokOhupLYfWf1OkIl2ARNbtf8IvRexf797pg5eAJnM0mxJgfYsKcySyGwSQWiUVl7ghWxYCnfHP4CwrWLd+dQYVPey5PCmNzbJUsnr8PYCgCGdB4+eScl3/DhPa7ooz/QZ2A6LduWim5K+4Wg4bevfH5S12PaMA72umlEopvPrpB1kuAMt+JHsgIMRXs4y5EFP8HWeAw4qBIuXzXwQAqTAmYS6q2Ra1Ddew/l8LJX8PyxV1Y8oQVvFELWeEEh1J5aI3oFE6Wb4GWxmBw2MVSw8Q20GMi8CX6luo0AG731HuXdnRSbOCgaIv1z4zjYjJlqM8WRsx/RqljYSWP0vfStUlvWaFEYYG+fCPdbVnHZXdrBSHPlj97jowCpNYu9buF9SQCfMq8So9lxS72PQx5ODOvv3uRlsf+LXFLykvf3u73/yQfHMBKO5IBDEhZ7gsuKdDvnmxRgmlhEPI2B8ccOncXIBHBm6HlhlEz9EbYGghd0vmmMJMJJQn+pjD5sV8v4509jnHAcTkJiayTxxjA==;hL3hiFEzU12DdFOH2u/sSg=="
 ---
