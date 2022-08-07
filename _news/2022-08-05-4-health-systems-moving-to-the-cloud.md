@@ -50,6 +50,20 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 31
+  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
+    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
+    publishedDateTime: 2022-08-07T00:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 31
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
+        width: 700
+        height: 406
+        isCached: true
 
 secured: "0Pt1slTxDErLjXq6c86UI3b219KOz8KqzoI8OQohSrw2xdMYMTftfGhSYuGofnaNJW9G6Jd9BoWrXmeBo7+k+QPcawc4wtiO1MiyucnBh6qSCMeSBM60GYizOH8jUOHXAcMo0HPNWBDfWvAOKxnPKarTf7Ehwlc/vMD2BDF2/Be45cQ0vRuCUxn5g6/jSEyKjF7bLK7yEG++Deus27y5bnyvwWwe7fZ7DXdI8nXf2Ua7nndWfOp9xNOVawK/DBBKeTGiWeLewEKSbaiCUTKg/8FQm6sa2obPFBV1ffY58aL6KJ5WJNaigWcFYUDS0/RjQCxSJN2qAVhAN6mZ9Fcnf59yhMJQooe1aPV+8ZvIJBY=;MnYTMiOmKaefbeJqa3OBqA=="
 ---

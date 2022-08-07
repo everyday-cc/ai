@@ -32,20 +32,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Deep Learning Software Market Insight Manufacturers Analysis, Revenue, COVID-19 Impact, Supply, Growth, Upcoming Demand, Regional Outlook till 2029"
-    excerpt: "Global \"Deep Learning Software Market\" 2022: - Deep Learning Software Market report thoroughly scrutinizes the effects of"
-    publishedDateTime: 2022-08-02T07:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-insight-manufacturers-analysis-revenue-covid-19-impact-supply-growth-upcoming-demand-regional-outlook-till-2029-2022-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice User Interface Market Leading Global Companies And Regional Average Pricing Analysis By 2030"
     excerpt: "Voice User Interface Market Increase in voice user interface-based biometric security applications has driven the growth of the market.</"
     publishedDateTime: 2022-08-05T08:27:00Z

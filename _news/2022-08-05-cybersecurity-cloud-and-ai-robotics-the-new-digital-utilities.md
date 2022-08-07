@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Why UnionDigital Bank invests in an AI-driven approach to cybersecurity"
-    excerpt: "UnionDigital Bank’s CISO Dominic Grunden and CDO Dr. David R. Hardoon lift the lid on why the new digital bank has fully embraced an AI-focused approach to cybersecurity."
-    publishedDateTime: 2022-08-02T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.html"
-    ampWebUrl: "https://www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668568/why-uniondigital-bank-invests-in-an-ai-driven-approach-to-cybersecurity.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/07/hardoon-grunden-uniondigital-100930811-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "CornerstoneAI Announces Strategic Partnership with Carahsoft to Deliver AI Data Bias and Cybersecurity Solutions to Federal Government Agencies"
     excerpt: "CornerstoneAI, Provider of Ethical and Responsible AI Services and Solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under this agreement,"
     publishedDateTime: 2022-08-04T16:03:00Z

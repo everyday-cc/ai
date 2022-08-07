@@ -55,6 +55,20 @@ related:
         width: 835
         height: 396
         isCached: true
+  - title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
+    publishedDateTime: 2022-08-07T01:42:00Z
+    webUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/06/CNG_b5701image_story.png"
+        width: 696
+        height: 464
+        isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
     publishedDateTime: 2022-08-04T02:31:00Z

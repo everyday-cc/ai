@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-system
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 31
+  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
+    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
+    publishedDateTime: 2022-08-07T00:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 31
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
+        width: 700
+        height: 406
+        isCached: true
   - title: "4 health systems moving to the cloud"
     excerpt: "The following hospitals and health systems have moved their digital infrastructures to the cloud: Tufts Medicine selected Amazon Web Services as its preferred cloud provider. The health system moved its entire digital ecosystem,"
     publishedDateTime: 2022-08-04T21:20:00Z

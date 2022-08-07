@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
-excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
-publishedDateTime: 2022-08-04T22:28:00Z
-originalUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
-webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
+excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
+publishedDateTime: 2022-08-07T01:42:00Z
+originalUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
+webUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: SpaceRef
-  domain: spaceref.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
-    width: 835
-    height: 396
+  - url: "https://menafn.com/updates/pr/2022-08/06/CNG_b5701image_story.png"
+    width: 696
+    height: 464
     isCached: true
 
 related:
@@ -55,19 +55,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
-    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
-    publishedDateTime: 2022-08-07T01:42:00Z
-    webUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
+  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
+    publishedDateTime: 2022-08-04T22:28:00Z
+    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: SpaceRef
+      domain: spaceref.com
     quality: 23
     images:
-      - url: "https://menafn.com/updates/pr/2022-08/06/CNG_b5701image_story.png"
-        width: 696
-        height: 464
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
+        width: 835
+        height: 396
         isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
@@ -79,6 +79,6 @@ related:
       domain: theaustralian.com.au
     quality: 7
 
-secured: "y9Y+FpWYGlx9P8FGHuEycRF8UzpIDVFM3/gUhHn8JOrTnngsn0vzxkDVdk55WL/AbZXNFrQjXmhszVr+z/VVDSSzNxH9GR6JPwROunZapGQk/xk9czxoOu00cv7oySYi643C0SJzBIKIHY/ioNAH+GkqOTZYgGkC3cc+Hx9EbTOkIG4pYFhfGSpqPe0eQog76W7KavLlJaApXb7ywHST6pZvbSFBWvyx23FPgkORo2MtsXkE3hLSx54yIuqVepkVxsYebkzcRsedUmrQfpWQLWt1qgTdzB447a71WpZMwOr1larffl7NE8kkyOMR+WdgrvbOvisjhdmk/KGMC99/ybUbL3tffuC4XpmGT3aZlVNaNJ12y0H67BPlE/uY2O84MdIvqLFVI0qH/2P/MMObtt3XjxKy4l4cC8VRPJAejRvJFFYaZ53Eaw7nnVoZXcSwE1kZTT34ZP4oJ06D9Jt46aX5aJouiH3pRsqVLsCfd79y5lb4RCoLCjrLdmYAevN9A9Y9I8u+TkCeSt3yTXYl0w==;gcOyfalfPPP+97EyZxU2XA=="
+secured: "38+uDF9UaE2dzx/kYR7TNAD5VbeRfnjFk2edsAepq5YMkVZCjfODjkSOfBSGsHRCHrqLLEj63hXFnuxsnRo/2XdsCWx5mhL0h5f0XVPfP5euymS50BNrHp51jvN3YibxeXYUVaYAUdrQFbwB/DbsEX4amDP7ojpdf+z3m0Xgq9Cl1HCZ412m8TDcLHn4+bUp2HBIkSkzZwBC/HLAcWco9QDjdLMkuwSBNrt6n/cJ5Qg6b2a5UZgHhRI5T97sOVaobn5hdliQlaxuFwQmys4Wkd8n8SDwvzE7vWtCpd9aUf6jmZfFlF3aFbGec5DdYAcynm0mz2Jpk7ysB+vTFBE7xdQqNYEAXM1UNoH6e8/SLjs=;WaI0TdgdtmCqxDeWNWuepg=="
 ---
 

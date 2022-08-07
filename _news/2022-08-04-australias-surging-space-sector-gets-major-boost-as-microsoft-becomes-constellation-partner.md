@@ -63,6 +63,20 @@ related:
         width: 835
         height: 396
         isCached: true
+  - title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
+    publishedDateTime: 2022-08-07T01:42:00Z
+    webUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/06/CNG_b5701image_story.png"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "7pKSG+/KWzdr0ObpbVLT1MFn2L1Cvp6yuIj3mkw0JCd2KG8BoyY5HPSeZNiIK9vhR9Ms0Pz0GR4yWC+Jg+XvOXzz+kNCuQMZUtnwrAZFl1RFr/OWH0DEcKtPkoqY4oqs3QyWKe6/UySHCj0lBRqcHJycXZ8NjMVJMmKmsLvGeFzcUFEjc8ezcKU/OaSaeK407nCgtYq9JhOK4di6RLlKZNKDSJnrCIr2J40y8saiCQnE+oASvE9dGGFqpRQG6gJMFa4Ih3c2+DtRtQ62nEXAF3QCjqL1i30kz+uqdjBapf8mrdvbtbf/dVzPSmVKqBRrkY0eHOs9npIA9apczP/wArsQi6wwl9KdLo+DT6Lirs3mmvhrFqxURKXLNYPoGpU+seAg0yaAexrHjPQv2PKbKd+Ut4f9O1pIHaAjw2S+w8uI6ZiJpNdDsqP1XBEkV7DaI/xPT/bPghtxdBgeGxH2UrhlufNUYiynwJAFZQR5/qQL/mt0UppzZ+ECFlXO+4FN7NAIXa/kj4d+FZcCsDU9PA==;FNJZHoyDF5foau3WSY2Utg=="
 ---
