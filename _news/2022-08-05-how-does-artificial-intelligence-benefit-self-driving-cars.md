@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Nanogirl on how self-driving cars might need a gender setting"
+    excerpt: "This week we are talking self-driving cars and how they might need a gender setting on them!  Anyone who has bought a new car will notice more and more tec"
+    publishedDateTime: 2022-08-06T23:20:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-michelle-dickinson-nanogirl-on-how-self-driving-cars-might-need-a-gender-setting/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 24
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/14198122/475056080.jpg?rmode=crop&rnd=133043438860730000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
+        isCached: true
 
 secured: "4aW3w/If4F49jwJFT9eKMiB4may3MTOTBNF/VkNnajtidaThI6akMlpjns7PCFis7ujuo1Ea4whSEN75CB3xJWeqeYg6fmtl1i3XO8fyJsTChNl4YuJm9NCs43HPtF+H4SV5cl+5HFD3k6g64qPOYi69v4QUwI7oeDdmer1dnpGJGVaySL6QSs+ENPzc7Qeh6xy4j6v7wFpMTurPJskTN9QhSTOD7rlJT1wrdEMt0NYfhCvv2YgqQPHpzPWW7hCFHMEzrartDHfZwnVpfapqN0EvbQtwce+aaAo2mO5tNP7BQcLvLEHiV4Nfl6yFtM22QuKcw3O6OZ7/DqimSYOOzf7eYyHLKyz8sVCPvHmSKkY=;WB7SOkPx446lWWnpjkkwwQ=="
 ---

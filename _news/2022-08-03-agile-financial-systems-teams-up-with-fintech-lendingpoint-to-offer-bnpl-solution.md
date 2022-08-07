@@ -56,20 +56,6 @@ related:
         width: 550
         height: 310
         isCached: true
-  - title: "Kickstart Selects 12 Fintech and Insurtech Startups, 4 of them are Swiss"
-    excerpt: "In its 7th year Kickstart is one of the largest European Innovation Platforms, bridging the gap between startups, corporations, cities, foundations and universities to accelerate partnerships and deep tech innovation."
-    publishedDateTime: 2022-08-02T06:43:00Z
-    webUrl: "https://fintechnews.ch/fintech/kickstart-selects-12-fintech-and-insurtech-startups-4-of-them-are-swiss/54182/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 23
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Kickstart-2022-Cohort-Announced.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
 
 secured: "o66jIemFcI2Day7wRpVWM7bM2sJbkJ/hRPEn8SdokTs+C1StHkrGp/VyACGkP9Y6yo0262ETjBWZGHvPWCwZDuIUjdNR2ScqJd15DcnqtENYdI9O5UTbMR1MDqz95fJ7YOcfV62ABGuGfdGeDqD12hNLUxLIH9boFgP1IFWmBSIzFjw+NL3BTmStgK0rYsPYe/ZL8qSHxiG/aicoQAfYargZ1SoY+j5O69XMxEtm8PqZqkO3d3HfnyhXKy2AFqHJNPy7ZzZwoUjoqg2aDatiijHl3P/xOtZuf1ZxXI0sNOhqYtJYl7uZ3xKTpM6CAu7symnQq76BoHaD+ISsUVum66N6YeJX0+84YAkn4Nryd+I=;azKUlp2ug1Egt5KT7tDM1A=="
 ---

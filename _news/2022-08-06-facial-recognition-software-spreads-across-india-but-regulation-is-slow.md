@@ -95,20 +95,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Facial Recognition Technology Down Under"
-    excerpt: "The language is far from reassuring.  Despite being caught red handed using facial recognition technology unbeknownst to customers, a number of"
-    publishedDateTime: 2022-08-02T05:55:00Z
-    webUrl: "https://www.counterpunch.org/2022/08/02/facial-recognition-technology-down-under/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 41
-    images:
-      - url: "https://www.counterpunch.org/wp-content/uploads/2022/08/tim-mossholder-DZcZ4Kskq6U-unsplash.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Facial recognition software spreads across India but regulation is slow"
     excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
     publishedDateTime: 2022-08-06T18:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02"
 type: article
 quality: 70
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-08/04/EP_ca6efimage_story.jpeg"
         width: 750
         height: 350
-        isCached: true
-  - title: "Artificial Intelligence Service Market Analysis by Types, Application, Region and Country, Trends and Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Service Market report focused on a thorough examination of the industry's current"
-    publishedDateTime: 2022-08-02T06:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-service-market-analysis-by-types-application-region-and-country-trends-and-forecast-to-2028-2022-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence Server Market Size Comprehensive Analysis, Growth Forecast from 2022 to 2028"
     excerpt: "The Artificial Intelligence Server market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"

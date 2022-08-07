@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Nanogirl on how self-driving cars might need a gender setting"
+    excerpt: "This week we are talking self-driving cars and how they might need a gender setting on them!  Anyone who has bought a new car will notice more and more tec"
+    publishedDateTime: 2022-08-06T23:20:00Z
+    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-michelle-dickinson-nanogirl-on-how-self-driving-cars-might-need-a-gender-setting/"
+    type: article
+    provider:
+      name: Newstalk ZB
+      domain: newstalkzb.co.nz
+    quality: 24
+    images:
+      - url: "https://www.newstalkzb.co.nz/media/14198122/475056080.jpg?rmode=crop&rnd=133043438860730000&height=395&width=635&quality=95&scale=both"
+        width: 635
+        height: 395
         isCached: true
 
 secured: "AXZa6ZmaydG5soNHRuu2q3K0hfaiVJPb5+1X6eGL35PHJOJSTasbRVOz66U3VqgOrPOeimVwerbXsX+YkHKkvFJoIVG+EIDswrq15AQjPzLxTDf7UQSEznK9oL7ej+QZqVs96tZtXRiNjKACzGyM3TziSvYQ4RNJFG9TDgCSZGyxdwK4fzUF5kHIQVMdi6i2ebZ6B8XssLIM5Wye7mnJMSOb4AiyTMTOMT2XDbTtzITxt5SlNuffHiRc7pVdggEUV1Ejyczny4wjLuQzELw6YZnA4gWJqPcAbGC+Qk0Ein6t92+Dxxs29miTz0weq0Kkcp8MGwGOq0C2QWr/h/mmVsdIHk2jmRIrjytGQ25+bIWklfn6vFwwSxICi/+12up/1yd3i+1aDNxto+fKWyEuvW2wZVn04j+mLj8jKMZJ47iB6eoxX9mXqwmsqpuj/wx7GR+5vIMt8QvW/l0W82IdFSXENFZsdJw7rFj4aAQA/L/73+I/GbfXJdBv0GvfOrbTsjUUP+l3Vti9uvFGKn7u/Q==;qyo5zCdUbJ7bAC1irlAdyw=="

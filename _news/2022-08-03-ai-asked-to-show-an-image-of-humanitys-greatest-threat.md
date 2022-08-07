@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-03T06:02:00Z
 originalUrl: "https://www.tweaktown.com/news/87736/ai-asked-to-show-an-image-of-humanitys-greatest-threat/index.html"
 webUrl: "https://www.tweaktown.com/news/87736/ai-asked-to-show-an-image-of-humanitys-greatest-threat/index.html"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "AI asked to show an image of the most closely held secret on Earth"

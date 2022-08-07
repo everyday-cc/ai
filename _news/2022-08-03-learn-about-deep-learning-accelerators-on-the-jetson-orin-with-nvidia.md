@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jetson Emulator Gives Students A Free AI Lesson"
+    excerpt: "Obviously it can’t actually run GPU-accelerated code without a GPU ... that shows a dozen people the basics of NVIDIA’s AI workflow, jetson-emulator will allow everyone in attendance to ..."
+    publishedDateTime: 2022-08-03T23:59:00Z
+    webUrl: "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/jetsonemu_feat.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Sequitur Labs First to Provide Chip-to-Cloud Embedded Security in Support of New NVIDIA Jetson Orin Platform"
     excerpt: "As the first chip-to-cloud embedded security solution to provide support for the Jetson AGX Orin module, EmSPARK provides developers with trusted applications supporting tools needed to protect advanced robotics and edge AI applications."
     publishedDateTime: 2022-08-03T13:43:00Z

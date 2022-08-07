@@ -26,7 +26,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 17
+    quality: 19
 
 secured: "tevHFCNoZDUOZdOJLMECQG1VRspglNWiKAnGiaDJ+PdPf8g6XZ+L5TNiOI2pLC7aMHpK1eT2FGmc8D87IgFLUbFxMTu/RR9assdNMXKYNXYsDmxRQ/i+YeBZbdsaJLUofIqPmdey3HxrJbBT3mH1/33/SfwnARZk3l56f+dTwy9Z1jM+mObNQuU0pGQfbTzeU7ENa09vwj0cps/FuV3xKheXzlMLN+jJggSEapvgRA3NkObdXsqOl1yx7/M4USIZRQCJ6B1Md+W4oWmY9RLohpxJMo3l7vYR2fl2i9771BgL5E8lWvZwUztKKXDkAtrrng6Jl1DrqCA74PO73MbqGlbjUsp0+ZynMXGJHqBOqmc=;lLoCrn68LtRmMrvccJQCsw=="
 ---

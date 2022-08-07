@@ -34,6 +34,20 @@ related:
         width: 700
         height: 409
         isCached: true
+  - title: "Jetson Emulator Gives Students A Free AI Lesson"
+    excerpt: "Obviously it can’t actually run GPU-accelerated code without a GPU ... that shows a dozen people the basics of NVIDIA’s AI workflow, jetson-emulator will allow everyone in attendance to ..."
+    publishedDateTime: 2022-08-03T23:59:00Z
+    webUrl: "https://hackaday.com/2020/10/26/jetson-emulator-gives-students-a-free-ai-lesson/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2020/10/jetsonemu_feat.png"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "/F7TcqYiYsP4MpYOlSPcGUxK2wWDNVrL1eKJVSJwqzOUsaXpZrjmfq+6ex7OyYfLQl/cJBawbGEPLLH+eLRqCiDF4epXGn9NSbmwn5mcSymsvlwvGSMJ/gr2Eoqc1391mU5a571KvDCwDss5id19JjNuLHP8u6kX71FHOYMWUlcQbENCYygsmUDXgAENWZagJdCqH/liRuxtfKxJTDsaRisTDt7uUyVk7xKS18JJVh562ILzryBnrWt5W4KS/6Pr03W3VOTeOHpAcd7Jm21wC7RuQUOAnGhD/eUppueAxSdE4OEL0vb1TOGB8KMCQTTQZaUpZZv8nnmry3kFMHPtGmjdYUsq3cpC1SI/Ls2Hrb8=;rTEUvD1QFguowgVq4FS9Zw=="
 ---

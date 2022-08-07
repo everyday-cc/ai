@@ -3,8 +3,8 @@ category: news
 title: "The evolving cyberthreat landscape and the benefits of AI and Machine Learning"
 excerpt: "Derek Manky, Chief, Security Insights & Global Threat Alliances, FortiGuard Labs; and Jonas Walker, Security Strategist with Fortinet’s FortiGuard Labs, discuss the changing threat landscape and the role of Artificial Intelligence and Machine Learning in fighting today’s cyberthreats."
 publishedDateTime: 2022-08-05T08:04:00Z
-originalUrl: "https://www.intelligentcio.com/north-america/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
-webUrl: "https://www.intelligentcio.com/north-america/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
+originalUrl: "https://www.intelligentcio.com/eu/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
+webUrl: "https://www.intelligentcio.com/eu/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
 type: article
 quality: 50
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
+  - url: "https://i0.wp.com/www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
     width: 1000
     height: 450
     isCached: true
@@ -130,6 +130,6 @@ related:
         height: 400
         isCached: true
 
-secured: "LkS4qlcvRce4BDd031XbU4V5lGR2EIZQbDOOL0F/PtYBlTRbh/Ar7dMY/H8wSGmg3+eDz3gknmQlXKIIjGlgOlnKMUClq3RbSTFX8muOZj79B53TIjccbyjsox0b61bDvMwLgjwvy5a5R5v5GMhJwzD1VrAHlndekdFUku2rqP/U+z7eK4Nfst/Tj86N4EX3hWNIrxw2zppN1qTzXqaUlqlG2DZ1GGfozrAp8Ttt93EmcJoDdiJTZe0AeK9ezbPnn+jFVpoCeHMV4JG8LWEy2bZsPTTtnR2N0fpWp73iUsU3MKWjRgqUqibmrOZYrRXHbvRZjtdqjx4PkEcQNzdeTs64RYVzfoX3uXvYziEtlTqIiq55sht6BDmZqFLUUIOO3hUtJoGCaxj/VZrySbHBUHaTZuY9Ox7Lu9lrFQ63VrH8Wor90aNxr/deDi7nMneZzz6qRDn2mqI5WvDO7dTMUERKgXzT7qjtcX5G4aWYNzUfQF5mxnIW2eFch/pr7XYc+AxivLWn44FdTPifTj+gvg==;y25WQZoUWDfctueUvJlFeQ=="
+secured: "BJaWibj09uZkqpJ0Z1F01o0wrkp98olQNDeFTEoc2gYmb3igySUNax9VpPfp12bKwxjD1nAOxjq/9c7KLp8mjTL90uqzB2bsXwHSOnTxyH5z4d+oNJlGsNhhOssrZULoSezFR1MbwsMZiGCaOSY1syefuNOKY0GWM6uAXwiAC61Qrbk7vGOY252TimpNhABzJ0VUCEANfPmDbvYyXgaIEPxCEqZBvRV/zj5xeDKzccCc0qhE0n0JHJuyG3WYRHJcyJabDQdg3VhxkzFHYWf2g+WIVQGUrga87KdgVthQRmblF0OGAWKu93RRw19RIfPBaBfeYzcmt+Ndh66nzdrJIWl/QO3d2w0JSGdwalRB74s=;mJPNRPNMAfilTQZvEmuctQ=="
 ---
 

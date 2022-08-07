@@ -41,20 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Drover AI Raises $5.4M in Series A Funding"
-    excerpt: "Drover AI, a Big Sky, Mont.-based provider of advanced AI-based IoT solutions for last-mile transportation, closed on a $5.4M Series A funding round"
-    publishedDateTime: 2022-08-02T05:47:00Z
-    webUrl: "https://www.finsmes.com/2022/08/drover-ai-raises-5-4m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/08/image.jpeg"
-        width: 500
-        height: 399
-        isCached: true
 
 secured: "CSogkNcyfQ8R4I2CJNF+Z5GUmKBwCrmkHSDnlmkxG1T3EzeMjkkqUZqw/apKL54YkG/UXs+FkFNVKunheNAiJhwp3/15keRBFgWXSewPhDmSz0XU3TTq336KYs5UDEPpBJnWiAd0j/O359Sg4yRLdePchgipuNfbJkhwjBn2ZZcXWvMqmyLWpEmQgGx5uhIbF13tHBu8wx5YfoPQqN6yqie4gOpbXkdlWsI9t4nQBDq4rJUegWHewzvRx8YK6geXuYhaGhrovGOjOvafLEqiqz2wAhBmyBvDzjNBbQF+Yq9Gal+BKkvu69ba/HfcWCGVQJ70Hs0NXheNcb9ZzYERtLgCxxmLPRtRZhLGXwCVSQI+ZbbWwb+THKQhOKyTn1ZGGMzPKuKlhDi+oFTfop9exTekjUi+rVhA1veJWxR4bCD742Xyd0isaaMcH0QNOhbxS0BaFCsBCcfn4T9woy4vsH+8wRI16CTaVoJBV82FNvs2yz5CVfFj/+6Ci4eum7hy8q6fOp9GNFS1OmeZ1ktT+A==;hKjkmRieM/Pqdw0G3F4ASA=="
 ---

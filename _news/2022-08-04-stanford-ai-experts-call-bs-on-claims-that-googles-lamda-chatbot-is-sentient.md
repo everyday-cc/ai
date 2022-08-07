@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/stanford-ai-experts-dispute-claims-goo
 webUrl: "https://thenextweb.com/news/stanford-ai-experts-dispute-claims-google-lamda-language-model-is-sentient"
 type: article
 quality: 64
-heat: 75
+heat: 74
 published: true
 
 provider:

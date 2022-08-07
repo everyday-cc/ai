@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google’s DeepMind Can Predict Protein Structures"
-excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence is used for medical research. AI has come a long way ..."
-publishedDateTime: 2022-08-04T07:38:00Z
-originalUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
-webUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
+excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence"
+publishedDateTime: 2022-08-04T08:46:00Z
+originalUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
+webUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
 type: article
 quality: 39
 heat: -1
@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "A|I: The AI Times – DeepMind cracks biology’s biggest problem"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2022-08-04T09:00:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/"
+  - title: "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution"
+    excerpt: "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ..."
+    publishedDateTime: 2022-08-02T13:41:00Z
+    webUrl: "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 54
+      name: Time
+      domain: time.com
+    quality: 77
     images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png"
-        width: 765
-        height: 508
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
-  - title: "How artificial intelligence cracked biology’s biggest problem"
-    excerpt: "Our podcast on science and technology. This week, we examine how DeepMind’s AI system predicted the structure of virtually every known protein—and what the breakthrough means for both science and mach"
-    publishedDateTime: 2022-08-02T18:36:00Z
-    webUrl: "https://www.economist.com/alphafold-pod"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 19
 
-secured: "v7yeFKl0CGmDd/mybnnBGVmHHA0xhgzFBu2T30Z0a8/6ZIM7pbZps/hXvMPDBzfmPaD958oBYw9pP1oGNaVuSKljdSKiara/uW60eXTynNGlGrmIzlu0ug/JFjUW53xuovnZYC56zpUOubEnfhLU+Uiqe10r2lg4BnbNbUJt7wAAGs1d8XjNYUv4gfEywvNiUN3hy44uEyu6Cc1SzhMx0I54uFmxMrWXQRMN/xWA96AOShLNjTEW7f6/fkAU4FE395OkBOZxNapw3QguQlmy/zaOkjkrVfIxK1UmsP4t1CyCZ4+15gcLM4xEHEpMUAnRNDAzyvoaIVwtm8wma7k7Bd5yei8M+ebX9auUfzJrEO4=;N+DoeBKCdGJzJGdbB495Xg=="
+secured: "LiCXnLJbTt9E5GWU9yfzmPArOv0VqQhh0/sRfhBsqNnqniShuJS+dAyBuoieGZ8ugDX98aUN4IewjxkjnBnvE1vw1zjYgAUlAp0VkA8+7+8uwb4f6ZYynOO+5mefjKTQjq95H8MUIAHSGt/UTi6GfLTer+BGMAQb0u/kz2vTUaoV1H/7jOt3LN+CW7mksL1TizAsPVJsSgm5hICc96HSDDWfXNBQQC1RqpeZESWw5W9OyZyz4x4etXOjA5paWbrDBuShjgzkn/BUWAy9N4+LqtcxY2MfOf8NUmq1KxivyfEhe73GtxG+DQY2NQOAEw1pz5vvt97+IxkhhiKvMDFTXfGsKo/BdpO/MAUavsi7nlI=;gWUIWy9HfBr+tBbkvM5omQ=="
 ---
 

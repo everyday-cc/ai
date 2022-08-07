@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-system
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

@@ -48,20 +48,6 @@ related:
         width: 550
         height: 310
         isCached: true
-  - title: "Kickstart Selects 12 Fintech and Insurtech Startups, 4 of them are Swiss"
-    excerpt: "In its 7th year Kickstart is one of the largest European Innovation Platforms, bridging the gap between startups, corporations, cities, foundations and universities to accelerate partnerships and deep tech innovation."
-    publishedDateTime: 2022-08-02T06:43:00Z
-    webUrl: "https://fintechnews.ch/fintech/kickstart-selects-12-fintech-and-insurtech-startups-4-of-them-are-swiss/54182/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 23
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Kickstart-2022-Cohort-Announced.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
     excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
     publishedDateTime: 2022-08-03T12:42:00Z
