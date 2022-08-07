@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/EBwmqg9bw0/istock-1307534443.jpg"

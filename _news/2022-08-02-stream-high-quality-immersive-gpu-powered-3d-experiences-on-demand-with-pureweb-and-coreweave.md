@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1868506/PureWeb__Stream_High_Quality__Immersive__GPU_Powered_3D_Experien.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "lVoiwrQn1JzGMfybs0DR8XOsllDYtozS9zdpK99I+ywSBJD/A9Ca8tp2NDfClM1RSlbLJCCK2h7X15BVqagSXj4FUIM2X4roHCYSuIuroFNF8zA/uCWdzEmb9w1nF92jGLpiXg0jE5h5hkp6TqaIyXt59uagVfeDAFeiBLOD8Wd95ZsWAnc6q1LjURQ9QD/iljEXTQQp4zEPq9X/CPr8GrS+/EpQP+LdiIOCviwDmwcfXzO3T0WsfRp1bN67CoyRAm/KD/tcyB7kO9Z9xmQCqElvoqtBOVKC5G5yMm0cuU8b27ZlmIXXEirzKQJryMR6d8+yTRzqcOj/cntX1yzA9JWCH9pGjvysHjmuiWHNztM=;QVF5KqOSTEEm+Qyv0h1wsA=="
+secured: "OZblXJ4dq9d3MdaybKtQ9KQh3C9WStp8JUIf+WLfIu1GEmc238a4TZC4J5Ll5JEAmNSGmNAZPRYBREQpWmxZafmaJVR884l5Ok+BSCmIqxqSlLNjcQPD/MDc0rhH6NiWm269lRKmPNtmC132Zq/MkXkJtkJpqijFUMoAto8o/xIM4EgVoWPd5ne46z9HbX5pmn36WS3Bd/pu45l/SMCd7SNjno5fZsmj5d7ih8T4JcUxk3GmFVNzmsbfBgOfLtn+GoiiHnm4EXnnJUNE50yIPykGQrwZV3+nnjF8wDiS40Dyf8+TlabIp5YnHra0brgVqHoWsnDU2ODCT/mYKHrKG2HEyUS3vslrh2fW0///KV4=;N/JOjbX+u138SsBQ1JKaAg=="
 ---
 
