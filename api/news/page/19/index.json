@@ -2,6 +2,102 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-07-18-basics-of-the-python-programming-environment.md",
+      "title": "Basics of the Python Programming Environment",
+      "excerpt": "Related: Coders, Software Engineers Find Work with Right Skills One of the appealing aspects of Python is its applications in technologies like AI ... language, not a compiled one. An interpreted language uses an interpreter to translate the instructions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-software/basics-python-programming-environment",
+      "originalUrl": "https://www.designnews.com/design-software/basics-python-programming-environment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/AdobeStock_375072598_1540-800.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-forsight-sees-a-world-without-cataracts-with-its-surgery-robot.md",
+      "title": "ForSight sees a world without cataracts with its surgery robot",
+      "excerpt": "It leverages cutting-edge technologies (pun intended) in microsurgical robotics, computer vision and machine learning. The platform aims to automate ophthalmic surgeries that treat diseases ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/ForSight-Robotics.jpg?w=1024",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/here-comes-the-scalpel/amp/",
+      "publishedDateTime": "2022-07-17T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-how-ibms-watson-can-help-cut-your-tax-bill.md",
       "title": "How IBM’s Watson Can Help Cut Your Tax Bill",
       "excerpt": "H&R Block has “hired” IBM’s Watson--a powerful artificial intelligence system--to act as a cyberguide in preparing taxes. To study for the job, Watson digested the federal tax code (more ...",
@@ -1077,92 +1173,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-16-phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions.md",
-      "title": "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions",
-      "excerpt": "The $25M Series A will help Phaidra accelerate its mission of increasing Fortune 100 profitability while reducing emissions with artificial intelligence and deep reinforcement learning. Company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.goskagit.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_c3400315-ad41-5fbf-9a40-0f009a37b6c9.html",
-      "originalUrl": "https://www.goskagit.com/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/article_c3400315-ad41-5fbf-9a40-0f009a37b6c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/custom/image/e1586314-89a9-11e7-be8f-ef31f934c462.png?resize=600%2C293",
-          "width": 600,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skagit Valley Herald",
-        "domain": "goskagit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions.md",
-      "title": "Phaidra Uses AI to Boost Industrial Profitability and Reduce Emissions",
-      "excerpt": "\"At DeepMind, my co-founders and I saw first-hand how deep reinforcement learning was creating breakthroughs in multiple real-world applications. We started Phaidra to bring the benefits of this ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/",
-      "originalUrl": "https://fox8.com/business/press-releases/cision/20220715NY16089/phaidra-uses-ai-to-boost-industrial-profitability-and-reduce-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-15T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

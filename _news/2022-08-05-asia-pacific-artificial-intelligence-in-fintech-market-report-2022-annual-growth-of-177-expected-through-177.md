@@ -19,113 +19,84 @@ topics:
   - AI
 
 related:
-  - title: "AI development service Market Size, Share, growth, Trends and Forecast 2022-2030"
-    excerpt: "The global AI development service market size was US$ 31.1 billion in 2021. The global AI development service market is forecast to grow to US$ 705.1 billion by 2030, registering a compound annual growth rate (CAGR) of 36."
-    publishedDateTime: 2022-08-05T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05"
+  - title: "AI to boost PHL fintech industry"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
+    publishedDateTime: 2022-08-03T15:03:00Z
+    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Retail Market Size Is Likely to Experience a Tremendous Growth by 2031 Covid-19 Analysis"
-    excerpt: "Market Overview The Artificial Intelligence in Retail Market was valued at USD 1.80 billion and is expected to reach USD 10.90 billion, at a CAGR of 35% over the forecast period. AI will drive faster business decisions in marketing,"
-    publishedDateTime: 2022-08-03T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-is-likely-to-experience-a-tremendous-growth-by-2031-covid-19-analysis-2022-08-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size: Global Trends, Share, Growth, Opportunity 2022-2031"
-    excerpt: "Natural Language Processing Market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
-    publishedDateTime: 2022-08-02T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Size, Scope and Forecast Till 2028"
-    excerpt: "The Global Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market ..."
-    publishedDateTime: 2022-08-04T10:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-scope-and-forecast-till-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: BusinessWorld
+      domain: bworldonline.com
     quality: 39
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Alzheimer-Dimentia-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
+        width: 1080
+        height: 720
         isCached: true
-  - title: "Global Face Recognition Device Market Size in 2022 | Size, Recent Trends, Demand and Share Estimation by 2028 with Top Players | Top Countries Data"
-    excerpt: "Global Face Recognition Device Market [2022-2028] research report offers the breakdown of the industry by market size,"
-    publishedDateTime: 2022-08-03T07:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-in-2022-size-recent-trends-demand-and-share-estimation-by-2028-with-top-players-top-countries-data-2022-08-03"
+  - title: "How important is AI to the fintech industry in the Philippines?"
+    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
+    publishedDateTime: 2022-08-03T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Artificial Intelligence In Sports Market Growth Factors Along With Recent Trends & Demand 2030"
-    excerpt: "Artificial Intelligence in Sports Industry Increase in demand for real-time data analytics positively impacts the growth of the artificia"
-    publishedDateTime: 2022-08-04T08:20:00Z
-    webUrl: "https://menafn.com/1104643050/Artificial-Intelligence-In-Sports-Market-Growth-Factors-Along-With-Recent-Trends-Demand-2030"
+  - title: "Fintech is Set to Take on the ESG Challenge"
+    excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
+    publishedDateTime: 2022-08-03T12:49:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
+  - title: "CFA Institute to host Asia Pacific Fintech Month in August"
+    excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
+    publishedDateTime: 2022-08-03T20:23:00Z
+    webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
+    type: article
+    provider:
+      name: The Daily Mirror
+      domain: dailymirror.lk
+    quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2022-08/04/EP_4e0a9image_story.jpeg"
-        width: 790
-        height: 466
+      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_17164950cc.jpg"
+        width: 550
+        height: 310
         isCached: true
-  - title: "New Technology Developments in Artificial Intelligence Data Labeling Solution Market to Grow during Forecast year 2022-2028"
-    excerpt: "Amazon SageMaker,Appen,CloudApp,Cogito Tech,Summa Linguae,DataTurks,Deep Systems,Kotwel,LightTag,Playment. The report lists the major players in the regions and their respective market share on ..."
-    publishedDateTime: 2022-08-03T11:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/new-technology-developments-in-artificial-intelligence-data-labeling-solution-market-to-grow-during-forecast-year-2022-2028"
+  - title: "Falafel, AI and fintech: Meet the 2022 A-List winners"
+    excerpt: "See a list of finalists and winners at the bottom of this story. They range from falafel maker Afia to the artificial intelligence experts at Kungfu.AI. The A-List Awards focus on innovative companies on strong growth trajectories."
+    publishedDateTime: 2022-08-04T18:46:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/08/04/austin-a-list-winners-2022.html"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/342e5d851229114e0b3ab1d7f6c28baa7a024099-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-08-04T13:30:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
+    excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
+    publishedDateTime: 2022-08-03T12:42:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194340-agile-financial-systems-teams-up-with-fintech-lendingpoint-to-offer-bnpl-solution/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
+  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
+    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
+    publishedDateTime: 2022-08-05T17:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "6MFkT6QoqgwV/o0f5QT0JQ7Pde2VpKS2phHa3+V+OZhbcRarKs0ctV0CM8oIDuNVk897KZIqrTi4fRjAfOf74AG0noW6qO/ieTDgzbDm3xT0TQY1Sehi+aBH4HwCSVt2Xefm/yumRVfJpFB0cLkehyktzTRzXzRc+pTT8e1vBNYo78VJfsysYW7SxFbUj19RGViXb0H/TZqPt7OnmBsjedREX7lfSbBDAoOcuzEI0vad36YTCpeSOXvVbH2WIGrdTbblyuIO9UgeNcWtxJbnRnazzLZ1dI36f9DJqsa0EIlrQUGr/AhcsRq8R/FLLVIKxPc3NntNWRzbEWir0Pw3fCyOzv8wKclkRVrQ8V8Rozc=;D2pCqUfMNcADzAH8q4VBMw=="
 ---

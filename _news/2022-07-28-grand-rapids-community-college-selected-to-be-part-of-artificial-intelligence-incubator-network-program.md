@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/476ff08/2147483647/strip/true/crop/1200x675+0+63/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1f%2F20%2F680cfe6946dd84b25f04acba4f15%2Fgrcc-cis-class.jpg"

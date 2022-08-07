@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Using artificial intelligence to control digital manufacturing"
-    excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers from MIT and elsewhere avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
-    publishedDateTime: 2022-08-02T16:24:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/960620"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a4275e2d-14d5-4ca1-ae81-519496509e3c/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Meet the artist using AI to imagine better cities"
     excerpt: "Urban planning advocate Zach Katz cannot only tell you, he can show you — using the AI image-generation platform DALL-E, Alex Fitzpatrick reports. Katz, a 28-year-old Brooklyn-based artist and musician,"
     publishedDateTime: 2022-08-03T09:45:00Z

@@ -34,20 +34,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
-    excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
-    publishedDateTime: 2022-08-02T16:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Alliance for Artificial Intelligence in Healthcare Adds New Member"
     excerpt: "The consortium, Alliance of Artificial Intelligence in Healthcare, has over 40 organizations committed to the responsible adoption and use of artificial intelligence and machine learning technology."
     publishedDateTime: 2022-08-04T17:12:00Z

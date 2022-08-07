@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market To Record healthy CAGR Over The Study Period 2022-2027"
-    excerpt: "Global Machine Learning as a Service (MLaaS) Market is by Application (Marketing and Advertisement, Predictive Maintenance, Automated Network Management, Fraud Detection, and Risk Analytics), Organization Size (Small and Medium Enterprises,"
-    publishedDateTime: 2022-08-03T15:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-record-healthy-cagr-over-the-study-period-2022-2027-2022-08-03?tesla=y"
+  - title: "Artificial Insemination Market will Grow At a CAGR of 7% by 2026- Exclusive Report by Fact.MR"
+    excerpt: "As per detailed industry analysis by Fact.MR, a market research and competitive intelligence provider, the global artificial insemination market is"
+    publishedDateTime: 2022-08-05T16:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28378767/artificial-insemination-market-will-grow-at-a-cagr-of-7-by-2026-exclusive-report-by-fact-mr"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28378767"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28378767"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Artificial Insemination Market Will Grow At A CAGR Of 7% By 2026- Exclusive Report By Fact.MR"
+    excerpt: "A method of assisted reproduction known as artificial insemination involves injecting live sperm into the fallopian tubes, cervix, or uterus of a female. Animal breeding routinely uses artificial insemination to increase reproductive success and protect rare and endangered species."
+    publishedDateTime: 2022-08-05T17:18:00Z
+    webUrl: "https://menafn.com/1104653159/Artificial-Insemination-Market-Will-Grow-At-A-CAGR-Of-7-By-2026-Exclusive-Report-By-FactMR"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?395058"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "e32z/wXtJ85G8On2sumErDGaFzD48g3b/SugAa2F8fnJgW0l7D6KTWXV6+k9VZp+Ph2qIHK9V1vz+A/TsWD+LcPuXqPs1Iy2JZS2UE/AUfRu27cv6NoGKW/rqucnGxfjNSB6UNoRA6W0MLBJKz4u3hNWnaDLpUtr7l2D+AQHFMXi6CoVgjb3Tx37VzNgNp8qc1oIHVBTVRjy6gjJlDcd2jGOrMqTa+4nT4r17h+D+dEa6Ey3q0sZjYIWyOFGIO5jKcDDQKUtU5/rf7aqpjqkM2mqsB8BW0YbydwcBomfVIVCvbypMjlQ9UVcWy3k/jtAOa+aeSimsoclI7phySdG42Ctpy11kBKfK/vwdnmuA5I=;4460WsrFP+z3gNbF0HHi+g=="

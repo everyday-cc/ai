@@ -37,20 +37,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
-    excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
-    publishedDateTime: 2022-08-02T16:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 56
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Sanford Health leverages patient data to develop diagnostic AI products"
     excerpt: "Dandelion Health will make the health systems clinical patient data available to AI developers in healthcare to improve patient care via AI, according to an Aug. 2 press release. Sanford Health is one of two health systems to partner with Dandelion,"
     publishedDateTime: 2022-08-03T18:21:00Z

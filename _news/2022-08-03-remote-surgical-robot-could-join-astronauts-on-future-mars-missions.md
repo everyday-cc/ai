@@ -47,22 +47,6 @@ related:
         width: 4240
         height: 2832
         isCached: true
-  - title: "Remote surgical robot to be tested on International Space Station"
-    excerpt: "A robot meant to perform surgery remotely will be tested aboard the International Space Station in 2024, the company behind the miniaturized in vivo robotic assistant said on Tuesday."
-    publishedDateTime: 2022-08-02T15:43:00Z
-    webUrl: "https://www.upi.com/Science_News/2022/08/02/remote-surgical-robot-test-international-space-station-NASA/2051659452120/"
-    ampWebUrl: "https://www.upi.com/amp/Science_News/2022/08/02/remote-surgical-robot-test-international-space-station-NASA/2051659452120/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2022/08/02/remote-surgical-robot-test-international-space-station-NASA/2051659452120/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 59
-    images:
-      - url: "https://cdnph.upi.com/svc/sv/upi_com/2051659452120/2022/2/2873110fa3354c8fb35c9e9a8368fa30/Remote-surgical-robot-to-be-tested-on-International-Space-Station.jpg"
-        width: 645
-        height: 429
-        isCached: true
 
 secured: "CYBqcdlbGKfhscz310G1q9F8TrQi0J3RJDWHWA7KfreeEQPghrEWR3q9bqqiTFhhhdoEU1SXKC3ixFbbT3RIjQeIdaZPd9xRVhf3i+65x6yjxkrNGbEbUs6ufjfea/skQZTzLQwcVUxu//zPZS3DhoYOk1LbDnhq55lBx7JhKthy7Vp01dJm4ZqHhysAIBoZksFMRwRsCEjeVY7Q5ZCKGyzYnNlxREu7eL2QIOTKvlXT7OrHvPg3RJAmK8BcbtddzX2T53XN5k12RNvlzQFWOJMl2d4/oeFhNHHLXXCYAeLr5VWLNTysMizqwXYNdkUjJJvlh5edvON38MlhyfIZyPo/Tc0pofCVRFaReRrZUogo6acBhJTZx4Rd6HbwApVLmuQZyzKuKFGiyi8/Ln6jelv3Y1oCU384v0TzRp0/zUG08sZuqUewyIRlGx4SdbX0zlUOfEJzrNzFIn9Hk47NOrW/RfgjAR/MUDMf9ltAb5qesCJgwMDW+LNFBuBePq6GpHfkGULY5z2dNG5P75VbwA==;BhZBUbnHj1W3uLkWl/vUdA=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "NYPD Ordered to Share Documents Related to Facial Recognition"
-    excerpt: "The New York Police Department must disclose thousands of documents and emails revealing facial recognition surveillance of Black Lives Matter protesters in 2020, a judge has ruled recently."
-    publishedDateTime: 2022-08-02T16:30:00Z
-    webUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/nypd-ordered-to-share-documents-related-to-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/b791158/2147483647/strip/true/crop/1080x563+0+33/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fd0%2F83%2Fda255d3292cf0c2573a8328d5e3c%2Fshutterstock-1179297574.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
     excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
     publishedDateTime: 2022-08-05T17:34:00Z

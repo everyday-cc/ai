@@ -77,6 +77,34 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
+    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
+    publishedDateTime: 2022-08-07T07:00:00Z
+    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 54
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=226753"
+        width: 959
+        height: 538
+        isCached: true
+  - title: "Microsoft’s new feature on OneNote supports AI-powered voice commands"
+    excerpt: "Tech giant Microsoft is rolling out a new Dictate feature to OneNote that supports AI-powered voice commands to control dictation, such as"
+    publishedDateTime: 2022-08-07T08:00:00Z
+    webUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-supports-ai-powered-voice-commands"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 54
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Microsofts-new-feature-on-OneNote-supports-AI-powered-voice-commands.jpg"
+        width: 1200
+        height: 670
+        isCached: true
   - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
     excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
     publishedDateTime: 2022-08-04T04:00:00Z
@@ -86,20 +114,6 @@ related:
       name: Destination CRM
       domain: destinationcrm.com
     quality: 49
-  - title: "LTI Strengthens Strategic Collaboration with Microsoft"
-    excerpt: "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,"
-    publishedDateTime: 2022-08-02T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-7088eabd6983487dbcd5eebda82a16f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
     excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
     publishedDateTime: 2022-08-05T13:44:00Z

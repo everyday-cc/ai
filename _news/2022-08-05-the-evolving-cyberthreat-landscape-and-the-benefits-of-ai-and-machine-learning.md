@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The future of AI is writing sultry lingerie ads in San Francisco"
-    excerpt: "The perfect, purple-loving, wireless bralette for every occasion,” purrs the product description for the lacy Gia Contour lingerie on the Adore Me website."
-    publishedDateTime: 2022-08-02T16:29:00Z
-    webUrl: "https://www.sfexaminer.com/news/the-future-of-ai-is-writing-sultry-lingerie-ads-in-san-francisco/article_d836dbfc-11f4-11ed-a375-53a4463dec38.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/ef/2efa5e14-11ff-11ed-8d67-b7c36ba02312/62e87878237d6.image.jpg?crop=1895%2C995%2C0%2C49&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How the secrets of ancient cuneiform texts are being revealed by AI"
     excerpt: "Much of the world’s first writing, carved into clay tablets, remains undeciphered. Now AI is helping us piece together this ancient Mesopotamian script, revealing the incredible stories of men, women"
     publishedDateTime: 2022-08-03T15:44:00Z
