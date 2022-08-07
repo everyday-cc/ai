@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/01/uipath-acquires-reinfer-expand
 webUrl: "https://siliconangle.com/2022/08/01/uipath-acquires-reinfer-expand-ai-capabilities/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Drover AI Rakes $5.4M Series A Led by Vektor Partners to Expand its Innovative Applications of Computer Vision in Micromobility"
-    excerpt: "Drover AI announces that it has closed on a $5.4M Series A funding round, led by Vektor Partners and with follow-on participation"
-    publishedDateTime: 2022-08-02T10:24:00Z
-    webUrl: "https://enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/"
-    ampWebUrl: "https://enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/drover-ai-rakes-5-4m-series-a-led-by-vektor-partners-to-expand-its-innovative-applications-of-computer-vision-in-micromobility/amp/"
+  - title: "Accenture Acquires Tenbu to Expand Data and AI Capabilities"
+    excerpt: "Accenture Acquires Tenbu to Expand Data and AI Capabilities and Unlock Business Value Across the Cloud Continuum"
+    publishedDateTime: 2022-08-03T01:19:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/26630-accenture-acquires-tenbu-to-expand-data-and-ai-capabilities"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 46
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/08/Drover-AI-Rakes-_5.4M-Series-A-Led-by-Vektor-Partners-to-Expand-its-Innovative-Applications-of-Computer-Vision-in-Micromobility.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.thefastmode.com/media/k2/items/src/a20e4ea05462641d61ab8bc250ca9ea0.jpg?t=20220803_011153"
+        width: 752
+        height: 408
         isCached: true
 
 secured: "CSogkNcyfQ8R4I2CJNF+Z5GUmKBwCrmkHSDnlmkxG1T3EzeMjkkqUZqw/apKL54YkG/UXs+FkFNVKunheNAiJhwp3/15keRBFgWXSewPhDmSz0XU3TTq336KYs5UDEPpBJnWiAd0j/O359Sg4yRLdePchgipuNfbJkhwjBn2ZZcXWvMqmyLWpEmQgGx5uhIbF13tHBu8wx5YfoPQqN6yqie4gOpbXkdlWsI9t4nQBDq4rJUegWHewzvRx8YK6geXuYhaGhrovGOjOvafLEqiqz2wAhBmyBvDzjNBbQF+Yq9Gal+BKkvu69ba/HfcWCGVQJ70Hs0NXheNcb9ZzYERtLgCxxmLPRtRZhLGXwCVSQI+ZbbWwb+THKQhOKyTn1ZGGMzPKuKlhDi+oFTfop9exTekjUi+rVhA1veJWxR4bCD742Xyd0isaaMcH0QNOhbxS0BaFCsBCcfn4T9woy4vsH+8wRI16CTaVoJBV82FNvs2yz5CVfFj/+6Ci4eum7hy8q6fOp9GNFS1OmeZ1ktT+A==;hKjkmRieM/Pqdw0G3F4ASA=="

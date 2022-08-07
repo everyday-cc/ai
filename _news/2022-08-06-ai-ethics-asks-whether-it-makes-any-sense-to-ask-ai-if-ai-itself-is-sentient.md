@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-wh
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Religions want moral-ethical guardrails as Artificial Intelligence heads towards sentience"
-    excerpt: "In view of fast emerging Artificial Intelligence (AI) with the possibility of artificial sentience, the world needs to seriously and urgently address"
-    publishedDateTime: 2022-08-02T10:24:00Z
-    webUrl: "https://menafn.com/1104630387/Religions-want-moral-ethical-guardrails-as-Artificial-Intelligence-heads-towards-sentience"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 59
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/02/pr_9389_ef91fc3e_image_story.jpg"
-        width: 3398
-        height: 1808
-        isCached: true
 
 secured: "0xBxKDhgc6HzfCR1EeCgrsyi5ZhC3glIcY723KoN/shFrLHNZyZFqHLK7gddEfiTSZr1x6pNVgHxNs4TsDYPovkrFCH3LJte/HXngEf7okXoROxLXV3hCW6PGhh9g3bq+q+CVCacFL9iEQyH3MosluD76HSujyI8H314dsbzVA5nTOJuIIrJh7Sx/2C0KwKWKX9sggJZyfwCp95WVdDtUpMd1xDXDV7QA9FQEslJovkTOJ9FoB/NF6zhstLQ89m/45sVKk2BrRbu1iNqH9gOxbAKKd6+/an9dmvJADBDJaI6IPrnZawO3T09tyJcb1nihw/R3uAtpEDktE9uy8XgNrmnfJEkeDkZ7H+S1/JYCnZBOk3cUxCZvRCs8ywZZyDl6JGXz1VBv8GO/hAW7uFe5OSK8yBUMpZsxHw0aCMw8nOhQjE9csRZmJJh3f6C5YJf+hbWsTMrASj8flkafG4VDA4zuc1J/cjClVcsNZMC/70sJ4nI2Ddqh9U0J+SzB77UTjyVo39ZSvz/Y6XM9U4p5g==;ulYA5eiH1fNlo77imvFImw=="
 ---

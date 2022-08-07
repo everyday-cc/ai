@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-
 webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Dr. Jeanne Ng appointed Chief Sustainability Officer for ESG fintech leader, BlueOnion"
-    excerpt: "HONG KONG SAR - Media OutReach - 4 August 2022 - BlueOnion, a leading global ESG modeling and analytics platform, is pleased to announce the appointment of Dr. Jeanne Ng as Chief Sustainability Officer with immediate effect."
-    publishedDateTime: 2022-08-04T02:45:00Z
-    webUrl: "https://www.asiaone.com/business/dr-jeanne-ng-appointed-chief-sustainability-officer-esg-fintech-leader-blueonion"
+  - title: "AI to boost PHL fintech industry"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
+    publishedDateTime: 2022-08-03T15:03:00Z
+    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 31
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/tmp-6a0f07b7-7bb4-4db0-8e0c-f0f3_0.jpg?h=bde28bee&itok=rQnz0TqX"
-        width: 600
-        height: 316
+      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "How important is AI to the fintech industry in the Philippines?"
+    excerpt: "Incorporating AI and efficient data management into business processes could lead to a revolution in the Philippine fintech industry."
+    publishedDateTime: 2022-08-03T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/how-important-is-ai-to-the-fintech-industry-in-the-philippines/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1065252818-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "CFA Institute to host Asia Pacific Fintech Month in August"
     excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
@@ -47,6 +61,24 @@ related:
         width: 550
         height: 310
         isCached: true
+  - title: "‘AI could trigger fintech revolution’"
+    excerpt: "With the emergence of financial technology (fintech), companies are expected to offer more financial services to personalize their customer journey, enhance the overall user experience and generate alternative revenue streams."
+    publishedDateTime: 2022-08-02T12:58:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/02/ai-could-trigger-fintech-revolution/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 19
+  - title: "Falafel, AI and fintech: Meet the 2022 A-List winners"
+    excerpt: "See a list of finalists and winners at the bottom of this story. They range from falafel maker Afia to the artificial intelligence experts at Kungfu.AI. The A-List Awards focus on innovative companies on strong growth trajectories."
+    publishedDateTime: 2022-08-04T18:46:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/08/04/austin-a-list-winners-2022.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
     excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
     publishedDateTime: 2022-08-03T12:42:00Z
@@ -55,6 +87,15 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
+    quality: 0
+  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
+    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
+    publishedDateTime: 2022-08-05T17:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "3oArv/ka55s1kryaej7b7qAwq9zUMjDgb/NsoMoNnrzYncvPil9dTwSs7lC9ut3SyZfthuh02qNWXrBgNDkGtg8FL1wydp+yIJELrh98Efm6IOsiXhmbd2Ptyj4uLpsTyzJUIcQtx4ZyFplwUdv5OyeNJjIqyH0aI6CW4KQCZr1nUebLH5TZeHfz05s8mG3/HYOBEAhlTTR35NudTIJqFD1KeMbACPc2cTeZlEcElh/Ob/uHRRx5UL9QWan2Y8WOZg6BA+ty3G6Lhx5gXdClSoQYeDyptb3Kw1nst5/lAxfW67HsrK//0pDzbba/YdAT7ATdjg59gxb+iiRc2ijR7cFRADLI9XNrhsIdmQ/wkAs=;fLpIDifNiLIXVT7U3YEtoQ=="
