@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-maximum-profit-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scale YOLOv5 inference with Amazon SageMaker endpoints and AWS Lambda"
-    excerpt: "After data scientists carefully come up with a satisfying machine learning (ML) model, the model must be deployed to be easily accessible for inference by other members of the organization. However, deploying models at scale with optimized cost and compute efficiencies can be a daunting and cumbersome"
-    publishedDateTime: 2022-08-02T21:11:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/22/ML8827_image_01-934x630.png"
-        width: 934
-        height: 630
-        isCached: true
   - title: "Promote feature discovery and reuse across your organization using Amazon SageMaker Feature Store and its feature-level metadata capability"
     excerpt: "Amazon SageMaker Feature Store helps data scientists and machine learning (ML) engineers securely store, discover, and share curated data used in training and prediction workflows. Feature Store is a centralized store for features and associated metadata, allowing features to be easily discovered and"
     publishedDateTime: 2022-08-03T17:51:15Z

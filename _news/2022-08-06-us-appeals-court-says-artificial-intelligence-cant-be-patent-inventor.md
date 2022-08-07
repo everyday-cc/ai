@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/us
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 668
     isCached: true
+
+related:
+  - title: "CAFC ‘Unambiguously’ Backs USPTO in AI as Inventor Fight"
+    excerpt: "The U.S. Court of Appeals for the Federal Circuit (CAFC) ruled today in Thaler v. Vidal that an artificial intelligence (AI) machine does not qualify as an inventor under the Patent Act."
+    publishedDateTime: 2022-08-05T16:32:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/08/05/cafc-backs-uspto-ai-inventor-fight/id=150680/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 17
 
 secured: "YTsfAy//yBtrShNiM0i85ziAN4NWxMP9F/xvjZ4xTR4Q7QbvmdMtIR/uDiSOMpjgXkOwDL/6gqdTh6DG2W6PUIqRiNdEr239ZkYkcWtKg4HHv2xTC89XEwfpQHFIF3zSWzi7yIDvrIelTwu7NMykw16DROCl5QjKRuBiNiKHB7T5oepx1S1JT5/+wxAjZ9lcgq7UgEX1Fcu4wZyDOrlBpcm+d6odXf4eBKIGJH4OFQqCRfXrPENHcarWnYbvb3KjV7adGIQ3Sw34y+9CkWEfxCSh2OIVNL7dlABVA3HI8abw822Mn2iFLKG3h92wlHpqyNFRO0RPY/89Cb9X7xjTtzoYsDn6ewcBGU7+N1X6PY0bEJ97PtrJ5NNx45wIkg9499cPdFPSx1DOfuZaaAbjjgC7MIULIVnMh5Nw+rW1LylkGGdqTydvWTowcdGttcS/OfQSYH9miZs/V6Q7su6QxhjXeHo7+X0qWU+EvqCaqdrs1rZ+ZrvJhsaIrFoDkGQfvDcNGv9F+rpAuSO0r+GIBw==;bgbM01uKapntMG0JpeySng=="
 ---

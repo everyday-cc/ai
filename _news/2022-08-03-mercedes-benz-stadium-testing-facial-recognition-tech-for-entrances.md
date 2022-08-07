@@ -35,20 +35,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Mercedes Drive Pilot Moves a Big Step Closer to True Autonomous Driving"
-    excerpt: "Mercedes-Benz Drive Pilot is the latest in a growing number of technologies moving the automotive world toward an autonomous driving future. Find out more at TheDetroitBureau.com."
-    publishedDateTime: 2022-08-02T20:00:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/08/mercedes-drive-pilot-moves-a-big-step-closer-to-true-autonomous-driving/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 24
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/08/Mercedes-Drive-Pilot-Interior-v1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "UNjaTmzv6/MoaBMHeBD/fOC1YVx1Y1PIElsAhmpXlxWlaYEaPoGYono0KQEowty9ZkqI85OXh1ZWI4CW/W4AK5jJAmFJ4iPpOSzSei/OctI+daGUa4QwMBYHkglVhf/iySg86C6Zt76WryNA33/zdnvhaoDcLLSUVAYWqPkrK24tF8l7QYM21yttxqGVTaeXD9R4iDpnbPlKsAtwaz62wGIxgaWTENdXKJdzmzEDg/6RXavRwtE6p0YPORgxtjRUSHtnQYqxnsQRVGsW7jfPd7Zh26kBr0FXl+fmrRoqrtRBFX3zHgVmQCeDXErKeb7w7HOeQEpxcZDHgbLWsNE9iAsiC77unqTEexJaCKgEOsQ=;1M1GMf58LRibsuYHKVbXLQ=="
 ---

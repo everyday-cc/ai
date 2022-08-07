@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-05T17:05:00Z
 originalUrl: "https://interestingengineering.com/innovation/ai-understand-human-goals"
 webUrl: "https://interestingengineering.com/innovation/ai-understand-human-goals"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:

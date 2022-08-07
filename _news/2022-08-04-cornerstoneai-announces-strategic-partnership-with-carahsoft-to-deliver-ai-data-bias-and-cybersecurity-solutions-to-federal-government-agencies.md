@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
+  - title: "Eye on AI: Taking over cybersecurity"
+    excerpt: "The world is getting more and more digitized with each passing day, especially with the augmentation of hybrid working spaces. Millions of lines of data are being processed and stored online with an increasing"
+    publishedDateTime: 2022-08-07T14:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "DFW2Je+As76PWP4ooQhGm0fUHARR+gY/WdJ13BgTE2wu7/fsD1wtfxA5NXDkydSi7HkVvY8MdEF7PXOWrXj36hUl/dFxlBUazoBs77WaTGgJVvnmZ33FaEXZ5IpAuYldED0un1EUmTdsZrFaL2cUfQkGymYQi9rLhMvxeNP4srLuKY8k0RflTtxjOiEnK4FFkqCtUtBU3ghk/40LQztKx30kule3yTXyilrgIl1ILp6czqr5aQEoAsJq/Iux+q4iEl4anyarScvYBVIMG2ITBB1Rw6jkY5+Cm4lQzRSOj6oObjvSh+ISipb92RaXm2LjG6T5LvZTK2WNS/TSI0Z33vXy5ZzWNOoiswCVC8S98Pg=;0ujZJ9EvHIlVFgkrNADUew=="
 ---

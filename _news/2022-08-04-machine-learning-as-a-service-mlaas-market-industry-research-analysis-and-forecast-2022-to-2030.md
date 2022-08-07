@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04"
 type: article
 quality: 73
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-08/04/EP_8078bimage_story.jpeg"
         width: 290
         height: 290
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,"
-    publishedDateTime: 2022-08-03T14:48:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "JkQrnyeeg8NE4WsyuPZ6qY7qwtnX8RAyB9j1Lq1286UtcGNOjXlIPAnv5jk1ZeERJ407SDXcIyYUoX9J3mFq+sfgjvcJbdyuY9MQ8PFgWERR7RP7n9hYsHfJOXS7e+kygztBzomTd+Oc6UI09ySaS5ygNydqgpbBIzy+727ThSLGxSfUw3lmaOZhw/JZc8uvlQV19Ymrvmq+JvJ16SsPxem5+jHkjMDsXlbgQkiNh2rv7smjiqz9427TGCb0vJ89Vj9gKxkBONXC2mh+3oSteIDjWfaf9WMcybpxm9iORZ0qc3h4MjQaxiZHBRO5S2WiD8xvVxyBT3yp6Ng/D0nGvvGZrmC5EI0bS4f7ji6UQdI=;3YjMkjl9Zkhqn2JAkHeMGA=="

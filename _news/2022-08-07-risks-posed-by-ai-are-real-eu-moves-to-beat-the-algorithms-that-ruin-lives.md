@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-07T11:43:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives"
 webUrl: "https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Guardian

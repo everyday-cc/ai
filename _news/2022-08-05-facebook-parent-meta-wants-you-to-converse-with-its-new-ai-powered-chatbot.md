@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -188,20 +188,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
         width: 1063
         height: 595
-        isCached: true
-  - title: "Let's open Facebook's black box"
-    excerpt: "There's a perfectly good reason to break open the secrets of social-media giants. Over the past decade, governments have watched helplessly as their democratic processes were disrupted by misinformation and hate speech on sites like Meta Platforms Inc's Facebook,"
-    publishedDateTime: 2022-08-02T21:00:00Z
-    webUrl: "https://www.bangkokpost.com/opinion/opinion/2359851/lets-open-facebooks-black-box"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/opinion/images_opinion_editorial_1.jpg?v=0.1"
-        width: 620
-        height: 413
         isCached: true
 
 secured: "Y0c1noZMV0V4R9XBeFTjEKUsoyJnXVD0XWcDpEkZo+eLmA+jNaJskMsWvfnX5TZg/0QDOdvFibbWZCtiMpg+30CyEiJ6jWD+sSZGUcSKZF/eqs+v8KttUL7FeitnJAt/8UdPAoavJBy16x/bAkpHTBAA1Cqc7QBlZGleC/caae+nOI+xN+OgY8RkkK9yB3SFkVCq1aptnIEMqkgZvzawz+qQi2sk+cDJsdexAcepb+GBx9A8wwZMWJ5tL7NjvdgJVYs0+4oEYQGXz7Rkc0j7vilYIQ0cFsBkwcKC5OJZtk7DK9VzkUtVUu9qClU2ZhYjiwH77No36d6/+GLfS6NELEKFo0K/SVulrBP0T7ZZdYXzt9Twl/CgFty6UQwgaNFkFL0dLS+Xj3TMtCfJmyph94QlyxrMHPa4B3RBIW6vQTVjRMm6LRZZepCpAyjWP8DccKfrMN/RUFyNW96oBVqvcWSQVScnlSa3kwof0w9uzmiXA5URPA49K2sHdCtXBrv0buDATpjWiPq+lUlFpYp4wA==;kiRL8ihkJNiYiRWraCRB2A=="

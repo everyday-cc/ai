@@ -66,6 +66,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
+    excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"
+    publishedDateTime: 2022-08-07T12:05:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/hal-developing-ai-driven-multi-role-long-endurance-drone-for-vigil-over-lac-report-101659869340346.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 10
 
 secured: "W4aRCAaWwJdicWb7nt1OQoeKocj73PTwNCF3dqA0HkDbHcnNPUPErRiFC7edFR6SpCqoOQ5yWO/umDACFtEF5dH+jgbFm6eobXSTd7Fk4KK7GMBfQZEsussYh4rJPRrCeGakeFLy+S6QLr3P1mJKjMQdTIhNy48pGnny2nrEtSzHV0XJ+UJHo7RwQkr74IifpvLtaBhPD4e+rx6cjCkPGqG52S/KPcBNBX5evPWQl5uKuB8cTl30nP0PK66NuwKbrTzQRO20jkY9s1unntS4G1QbPAehGbsdIZ+ESiV2OPgOO0t0020Bram/B9cm4cNBrgB5okafwpBK+1Ei47GSFi5KnJV4ruAzyBed2MXDPyzG1u5RKo84dRe6l/SV83lwPC/bChNh0y3lf0HEK+mdFdqUOwWPLi7r48ybWqFdlkW1tCqvO8rlPAlTNdKuc8aI7bXrslR3CwxJjRAwsM1HKrBPiA/BRSpdVG48hUlRQMYnKME6Yo1is6RxI67EP6bJU73lw97XYCNzoDmfT5azJA==;wo4wf8l/UxZ+cg0yawYQvw=="
 ---

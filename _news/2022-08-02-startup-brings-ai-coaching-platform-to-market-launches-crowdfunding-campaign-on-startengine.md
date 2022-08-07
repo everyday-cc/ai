@@ -3,17 +3,17 @@ category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
 excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "MRaxp6N/3D4VXI0AyrBE5IOJoqaQgPqK//hl4sGX2ZIZo4ocStrqa9gRMPjHBj86q8lfw9RX++IMbo6cpcqeOTIXem3J+ztawvftr7EKPLBBedcfQlJWltsAW1Q7u8x1hOpf+STEU6Ot1TrhR7Ca18mC8fbZmyNnwQImjoMlnVtEasUNv/FQJMEjxQdiB6t5IHf0pQCwLOG0Lv37CRU5AFf9ks7oBLHyb/NvlsRWXLNVP2fy4alr5Ntvv8yPT07MXyJfLSBRsj+KuzwQEfcsfPNJVRvn9/dMd0r5JaFq/+ORbYfzYt0I+amUm8ucWRyqeKS0+A6E9pVwXceWzuUWBUIrITeBsB4sHkXEHl7i23Y=;PcfQ3oenQIfl7Q/KJkLfCQ=="
+secured: "VVshA9avaPUbGaQox485hntthpIJPpART6/qPU/PVAakE0PuIe7QMjGott0W8u7iNUdrym+rr2LkXR0Eh1kPmr9m08vQtfFtsUcTuHHXXdXOmtCTU9Wlu9IQ6blCortPhp+w5wWEou4NhK4AX/1B0cJHUNvLYPqJN8CN2QbeEQrWEQrSJb1JC2AEXQ9YNm/hMyKk1czXtsioJtAWCxG85j7OMGRLu1PBNCNgg0+72eOXVbk6ZVdjMQWTjyMc4lQd/DStwfgDW620ef8laTDbTJnHZSnfQRtMLiXi4UB77dwSgiFN+NcmSHgdV86BmMUs1KZ63+N3jfOj3xJlcgGBcsOWYv+3Nj6mAHBzOqv3rMc=;lc/0/FyaTh+8/U8f2XQz9w=="
 ---
 

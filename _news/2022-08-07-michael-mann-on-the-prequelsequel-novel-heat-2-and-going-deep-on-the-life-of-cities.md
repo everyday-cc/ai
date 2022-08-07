@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-07T13:40:00Z
 originalUrl: "https://www.cbsnews.com/news/michael-mann-on-the-prequel-sequel-heat-2/"
 webUrl: "https://www.cbsnews.com/news/michael-mann-on-the-prequel-sequel-heat-2/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: CBS News

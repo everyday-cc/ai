@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-07T11:45:00Z
 originalUrl: "https://www.theaustralian.com.au/business/media/voice-debate-is-crowded-but-not-informed/news-story/0273a26f15331874e44f9c1e8af3625d"
 webUrl: "https://www.theaustralian.com.au/business/media/voice-debate-is-crowded-but-not-informed/news-story/0273a26f15331874e44f9c1e8af3625d"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

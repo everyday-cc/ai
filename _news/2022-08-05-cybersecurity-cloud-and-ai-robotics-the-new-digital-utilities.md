@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Eye on AI: Taking over cybersecurity"
+    excerpt: "The world is getting more and more digitized with each passing day, especially with the augmentation of hybrid working spaces. Millions of lines of data are being processed and stored online with an increasing"
+    publishedDateTime: 2022-08-07T14:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "CornerstoneAI Announces Strategic Partnership with Carahsoft to Deliver AI Data Bias and Cybersecurity Solutions to Federal Government Agencies"
     excerpt: "CornerstoneAI, Provider of Ethical and Responsible AI Services and Solutions, and Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced a partnership. Under this agreement,"
     publishedDateTime: 2022-08-04T16:03:00Z

@@ -84,20 +84,6 @@ related:
         width: 290
         height: 290
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,"
-    publishedDateTime: 2022-08-03T14:48:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Ild8r4hsgx6NUXrbOhC2SuZEv/rERKOxDkS0+AzyhSevvusswwUFTZ78i9M5YXmZ6xc24sDMlTKqzEl6iUjUTC1J7LXZlE5sIND87fD7XnwmLv7YnyBKphWrO8SClpAcG5pcZgIvZsXqQB8AQDjliAXlOZ4Z30NwT6rmOn5HIARULqQczSECCHzi0UPxTT6oWCVe+MIuc5CbvAkgs0XRkdGyhJz89AD8WURu2T0TQz50sN3SR8iQR7o80blDHqGH+blOsKG3C313ApTD5d4hM8lbMB7myUU+WJHfFlKm/Noo0GqyurJE4XUDYfztACyJcn/okTDmTKqJ4c37QuaJYUJovZX6xzbpS4IymvSEPhI=;MbvXeJxkHel+I4rt6OsjSg=="
 ---

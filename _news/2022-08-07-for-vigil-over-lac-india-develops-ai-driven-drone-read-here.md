@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
+    excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"
+    publishedDateTime: 2022-08-07T12:05:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/hal-developing-ai-driven-multi-role-long-endurance-drone-for-vigil-over-lac-report-101659869340346.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 10
   - title: "Deepspatial says it will showcase AI platform for law enforcement at Bureau of Police Research and Development conference in India"
     excerpt: "Deepspatial Inc (CSE:DSAI) has said it is the only artificial intelligence company selected to demonstrate its platform for law enforcement at the Bureau of Police Research and Development (BPRD) conference in India."
     publishedDateTime: 2022-08-04T12:37:00Z

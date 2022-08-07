@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-aut
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
 type: article
 quality: 77
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/m0fq56/article65735365.ece/alternates/LANDSCAPE_615/2022-08-04T171955Z_1047279609_RC2SPV9BM8Q2_RTRMADP_3_TESLA-AGM.JPG"
         width: 615
         height: 383
+        isCached: true
+  - title: "Tesla falsely advertised Autopilot, Full Self-Driving, says California DMV"
+    excerpt: "Vehicles equipped with Autopilot and Full Self-Driving technology \"could not at the time of those advertisements, and cannot now, operate as autonomous vehicles.\""
+    publishedDateTime: 2022-08-07T14:52:00Z
+    webUrl: "https://www.autoblog.com/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 57
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
+        width: 1062
+        height: 597
         isCached: true
   - title: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims"
     excerpt: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims, which the agency believes are deceptive. The company has two weeks to respond to the inquiry or it risks temporarily losing its licenses to operate as a vehicle manufacturer and auto dealer in California."

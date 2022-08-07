@@ -9,8 +9,8 @@ ampWebUrl: "https://www.11alive.com/amp/article/tech/mercedes-benz-stadium-facia
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/tech/mercedes-benz-stadium-facial-recogintion-tickets/85-34214e93-7c79-4147-b995-65d904a364e6"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: 11Alive
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes Drive Pilot Moves a Big Step Closer to True Autonomous Driving"
-    excerpt: "Mercedes-Benz Drive Pilot is the latest in a growing number of technologies moving the automotive world toward an autonomous driving future. Find out more at TheDetroitBureau.com."
-    publishedDateTime: 2022-08-02T20:00:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/08/mercedes-drive-pilot-moves-a-big-step-closer-to-true-autonomous-driving/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 24
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/08/Mercedes-Drive-Pilot-Interior-v1-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Mercedes-Benz Stadium testing facial recognition tech for entrances"
     excerpt: "Mercedes-Benz Stadium will test technology that eventually could give Falcons and Atlanta United fans the \"option to enter the gates and shop the concession stands based on facial recognition,\" according to Tim Tucker of the ATLANTA JOURNAL-CONSTITUTION."
     publishedDateTime: 2022-08-03T16:27:00Z

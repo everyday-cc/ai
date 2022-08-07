@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-07T12:28:00Z
 originalUrl: "https://www.mirror.co.uk/news/weird-news/terrifying-ai-generated-selfie-images-27607699"
 webUrl: "https://www.mirror.co.uk/news/weird-news/terrifying-ai-generated-selfie-images-27607699"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Mirror
