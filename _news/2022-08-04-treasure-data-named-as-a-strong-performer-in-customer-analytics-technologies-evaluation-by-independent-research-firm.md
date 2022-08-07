@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
-excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
+excerpt: "Treasure Data's superior product roadmap focuses on trust through data and model lineage, and democratization through automated machine learning (AutoML). A cash infusion of $234 million from ..."
 publishedDateTime: 2022-08-04T13:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
+originalUrl: "https://ktla.com/business/press-releases/cision/20220804LA35948/treasure-data-named-as-a-strong-performer-in-customer-analytics-technologies-evaluation-by-independent-research-firm/"
+webUrl: "https://ktla.com/business/press-releases/cision/20220804LA35948/treasure-data-named-as-a-strong-performer-in-customer-analytics-technologies-evaluation-by-independent-research-firm/"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: KTLA
+  domain: ktla.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1760133/Treasure_Data_Logo.jpg"
+    width: 357
+    height: 400
+    isCached: true
 
 related:
   - title: "Why retailers are upping their investments in data infrastructure and advanced analytics"
@@ -49,15 +55,6 @@ related:
         width: 1133
         height: 635
         isCached: true
-  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
-    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
-    publishedDateTime: 2022-08-02T13:32:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
-    type: article
-    provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
   - title: "CAPE Analytics Shows Strong Momentum in 2022, Aims to Mitigate Risk of Property Damage Caused by Climate Change"
     excerpt: "CAPE Analytics, the leader in AI-powered geospatial property intelligence, is pleased to announce major momentum into 2022 with strong strategic customer validation, the launch of several new products and capabilities,"
     publishedDateTime: 2022-08-04T16:21:00Z
@@ -77,6 +74,6 @@ related:
       domain: fmiblog.com
     quality: 0
 
-secured: "GDRRlBJwFrzotTPOerJLBKfgAIfCumWIjjtcrQAy5BkHF0p8F5gj3NfbnoqBsUEETyQHercv+9A37UzaEoFVu49XSXBpni4uPUZaMYyo+m4n4YzjM1iX7rVUtlEmt/Jnv2U7Y7hMYWdkXWn1UjvFKXvWnjMKFgMhnNtZy517vd5Oon/Fg2V/WuooeSJyRCJNUBE4g1+mSX5MrAWCz7R0zagexb8qpFqOL14e4D/rDcaUy3UJnR/TVDhRc4lwWj5J97NibuimQWj2MFuzUoD9hBzwU68MAJ8cg0bJONKWQ+f+/M1L82WBmj3EbxSc3RYPGfB0mZQI24xrled8gAp1gHvnPqf7umgpDLfMgl91hgw=;BflwJVKfwRZbWooOKCqdPQ=="
+secured: "tdeUwJ49iG0JOWubAxFHCfHLOidA8FUZkToDnzy5codPR7ufYgbFW1bCYqMYSEIHKk14Zr0dwimUumR5UGrRMGPND+t/rTUjygsOLC9rQvCs4LgMNAwn2zTPUft0ekzIE2PziYvHYw/RtSLH5LczU2MhYJNPTmPEZyoRdY14TZp9g1d9jZhlowlR2xGVdaMM0zHdUYDIDuyZ9mgiKw64N3U5n7RG3U7QwieCjA2q1iypNivD3PtYFxt0kGTM6ZZrXLz+CH5f4BNPr/+p4riKL2JizfGtgGc7Efs8hqn20uLeSM5d1xTfjcSUCyc0JgpItsiCX3kvaMrA1eBjcuBgg/QOE+5D3mAVwYZPWMUspIE=;Xo1zj8KXtploCp9zkwaNCw=="
 ---
 

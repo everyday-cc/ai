@@ -7,8 +7,8 @@ originalUrl: "https://www.govexec.com/technology/2022/08/cbps-facial-recognition
 webUrl: "https://www.govexec.com/technology/2022/08/cbps-facial-recognition-program-airports-expanding-concerns-remain/375340/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Government Executive
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Audits of CBP’s Facial Recognition Partners ‘Vital to Building Trust,’ Lawmaker Says"
-    excerpt: "The agency has “a ways to go” in auditing facial recognition partners for privacy and security, a watchdog noted."
-    publishedDateTime: 2022-08-02T14:16:00Z
-    webUrl: "https://www.nextgov.com/analytics-data/2022/08/audits-cbps-facial-recognition-partners-vital-building-trust-lawmaker-says/375246/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/08/02/080222cbpfacialrecognitionNG/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "CBP’s facial recognition program at airports is expanding but concerns remain"
     excerpt: "The facial recognition program for international arrivals in airports is rolled out in all international airports in the United States."
     publishedDateTime: 2022-08-02T19:33:00Z

@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-02T14:45:00Z
 originalUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 webUrl: "https://www.kxan.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
   name: KXAN
@@ -24,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "RIhD0ecrtDu5iwTbidZ6VyYimPb4Gu6FBYY5Qjjp2oHZaEDT5d8Th3PhhOsjiqAFtFmlvNEmbPjexRmuPHS8eZxQhm6ydeKiMrjmeLODtZ8Pz7+gs36lHO6LgGpPYB99+tpHYMdSZffMif+e1CxhViaw3lwT956RjBCy2SfNQIxzgXJHBC8yzHLrY8t2iNZ1sGhvl4oEV1e5wIxZmlEWr8loQ/yprghuUM/aY8NKzSz3hukVGWm1FfF5CqZ0+5yCi49o3tyfeJrbDY7WzSlELw5cbpZDMoMhnikOXLtxNTUo3r7UDeAAmWEbEU98tVAF4XEoodug+rzCEampZ2V0WwxEO/2elAe8DJesidUhjJQ=;6yPKQ3xS1kd/JXxtNaYvBQ=="
+secured: "FMETL9G14j6gJLWz921xdl9eJUF4/GHXQBbZTwXpX6tL8gValL56x1qfK5KzjQRD6U6S2camHrlSk16VBUHO9nnhspx4E86FUDWV4eTgQSaNs/aXzKoWu2PbW+/PKJJl3neS9ecDqmndyL7ZObuppfnToBSjT2JS6evEv6O9ClsVt6ABoxFs7HxoTPmAKm8KbMOfzvR01n0KSI/tPZrlqCOiFoPnnum9UstCAmhiq0S2dmg13K3dYMqRWXzBXL2hIIkD/KNW9FL0NDRmd7f6JeSXi/l7tKMyJ36MURvwEZxlhNJi4qjWIgB4HUQsHVS6k2hZD09l60nS3nWh5WOTRNPG1t5n/a15pU9d5fJ/t9s=;esS9/8IxJVxgxSSIyk5V5g=="
 ---
 

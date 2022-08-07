@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/how-ai-can-bring-tr
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/how-ai-can-bring-transparency-and-visibility-to-supply-chains-improve-security-and-traceability-of-products/amp_articleshow/93385448.cms"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 600
     height: 450
     isCached: true
-
-related:
-  - title: "Traceable AI First API Security Company to Add eBPF to its Security Platform for Deeper API Observability and Visibility"
-    excerpt: "Capability provides a comprehensive view of APIs without additional instrumentation or latencySAN FRANCISCO, Aug. 2, 2022 /PRNewswire/ -- In a"
-    publishedDateTime: 2022-08-02T13:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-first-api-security-company-to-add-ebpf-to-its-security-platform-for-deeper-api-observability-and-visibility-1031640212"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
-        width: 400
-        height: 244
-        isCached: true
 
 secured: "qEz4PoX3LCYg7Nxy3ZflrPnYTzqSp7g7qW+d2+7ZDA6dVt6d240sFe4k4T2CVW3xC3n3mtbAdPdQDwAHTO/zdwmm7dQ9yUqWAoVlHak/tN/Z/k49NiBGDi/WaaGy5LBoWM4YOhZ3IpPNpexJjCY851OLrBeOouNPfUU06Sf3FDUyw+52pjNnMpdGlTE2WFqPuPoAG+SPdlkBeSd1+W/AdbdjmVSqCOleQr85hgvJcRHLyd04BWA56IbGfMihHNmrtfOkEGYlGmPITr1n+pKFIDRfyRrR0akkciq0pLz2Pte4wW1ABfr5qy/I09Wp4ozPjNm+7abPjjPsSyY2DoSA0r34mCYrPL1ggvA4IDzzrMk=;xjckzuINV3aX/uaFVXXE7w=="
 ---

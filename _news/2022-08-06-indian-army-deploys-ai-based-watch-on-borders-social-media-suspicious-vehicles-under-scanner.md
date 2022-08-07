@@ -96,20 +96,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail"
-    excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-    publishedDateTime: 2022-08-02T13:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "mxUD7DbRkwCDemIfb+AwlpBJJIw2cpw0Eq6FFz13XCpgpL71f0FJYJlLGJDaZBiRfX++hCfjFwYopjzoCgtYHkFipm3j85KpD4MSWz5tiI+dAu0IWCYQb95XT15pjesqQZNyy1TZtnlfH7XrEVUbLv7PyQ9ZtnheIvV680LKJox36TTYEWfjcSduiOsrWBjbsH5xU/Saham04y6rq4IijU046Kn8QgHy8msLxi/jIGDWdC+05+OCEsa/P9+ImtxFAj3mlySD924zKISytP7DYM6YF/+yY8f/Oah/gBgimJfkzJGo7EVzsdJ+Z4ykPl6enNS9v5GLKFyfKyHq9XxWuvO5PGlKKaBNaOFujWqsQF4GoQZNpydAAOqWFoiVa25h7IWR5/aIa/kQD+vYcRCYBDsgnfdfIQIPaUh8ATqDruEMtveeyZyvvsKblJ4zLmShSYMR4YVs9/Z3E1tiQ8b5vLaNQbyhHsPjJpYdJMaBEFG9Yd4E/EgqeuDSL3aA4njM+Q8OtlfIhPg25vtXQAengw==;JXimx55E812Bj2adTPFD4w=="
 ---

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The Computer Scientist Challenging AI to Learn Better"
-    excerpt: "Artificial intelligence algorithms are designed to learn in fits and starts. Instead of continuously updating their knowledge base with new information over time as humans do, algorithms can learn only during the training phase."
-    publishedDateTime: 2022-08-02T14:00:00Z
-    webUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 41
-    images:
-      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
-        width: 520
-        height: 292
-        isCached: true
   - title: "Using artificial intelligence to control digital manufacturing"
     excerpt: "A new computer vision system watches the 3D printing process and adjusts velocity and printing path to avoid errors. Training the system in simulation, researchers from MIT and elsewhere avoid the costly trial-and-error associated with setting 3D printing parameters for new materials."
     publishedDateTime: 2022-08-02T16:24:00Z

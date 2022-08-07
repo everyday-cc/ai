@@ -7,7 +7,7 @@ originalUrl: "https://www.watoday.com.au/national/what-would-the-voice-look-like
 webUrl: "https://www.watoday.com.au/national/what-would-the-voice-look-like-under-albanese-s-preferred-model-20220804-p5b75o.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Indigenous Voice is make or break for Albanese"
+    excerpt: "Offering a simple referendum question and three proposed additions to the Constitution, Indigenous recognition is a make-or-break moment for Anthony Albanese’s first term."
+    publishedDateTime: 2022-08-05T02:01:00Z
+    webUrl: "https://www.afr.com/politics/federal/indigenous-voice-is-make-or-break-for-albanese-20220804-p5b77z"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2859%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_466%2C$y_125/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/3fde408197c062c61b8ce3002a1ed4bdf0947438"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4dHm0diu7bXf/AEr3hhLCVVp6bj9TXEUYsjz+mRRA9ioc8TuRqp48QM8S82cqTnUl1jTmlTlNzSJSPB2kbnJX8F9quJ4RWlCRmyD+rfJJWRjGgu0WPCKXQRswphJ+1U524KKRuBYZDqPjGmvIp0LIoUivaHoc5sh8bDB5wlTarZ3qpxDyqVVtarPd08nkVxbJMR+dyUCf0iiHUYPWKGlTdArTMoL+EqqoVgZJSD6ge1awLnSuQCdGVrh2P05N1A6oIB/bVW6qe01/3s2gxJ0+IImwOS2vRdxvU+eUToqdEns4rs5GKmVKnirTDCo4qFp11KcCTtfchfo48I6VoYqwrZO16gx34PJ+95FpBKzxeHy3uoxj9VTDJWLbcaUHHMLFQVlRYStHgbmCsVSN4bwO388A9zR3ifpjLcnc9Q/X7SpkMrX4bPGea1ZuSc9HFnslO2eVo7KwYUcAfNcIXkBLxXRIzyYHROJwHliAK1N6t7GBrGDDX0rkcEne3u2U9Cx9xeNqBIpBNidQcKfPVeEXQ==;pJxcOmZhWX7QTEA+MShemg=="
 ---

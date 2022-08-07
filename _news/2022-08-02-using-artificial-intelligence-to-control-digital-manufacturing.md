@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "The Computer Scientist Challenging AI to Learn Better"
-    excerpt: "Artificial intelligence algorithms are designed to learn in fits and starts. Instead of continuously updating their knowledge base with new information over time as humans do, algorithms can learn only during the training phase."
-    publishedDateTime: 2022-08-02T14:00:00Z
-    webUrl: "https://www.quantamagazine.org/the-computer-scientist-trying-to-teach-ai-to-learn-like-we-do-20220802/"
-    type: article
-    provider:
-      name: Quanta Magazine
-      domain: quantamagazine.org
-    quality: 41
-    images:
-      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/08/Christopher_Kanan_520x292.jpg"
-        width: 520
-        height: 292
-        isCached: true
   - title: "Meet the artist using AI to imagine better cities"
     excerpt: "Urban planning advocate Zach Katz cannot only tell you, he can show you — using the AI image-generation platform DALL-E, Alex Fitzpatrick reports. Katz, a 28-year-old Brooklyn-based artist and musician,"
     publishedDateTime: 2022-08-03T09:45:00Z

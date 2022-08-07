@@ -23,14 +23,14 @@ topics:
   - AI
 
 related:
-  - title: "Study challenges the perspective that autistic adults cannot read facial emotion expressions"
-    excerpt: "There's a common perception that autistic individuals are poor at recognizing others' emotions and have little insight into how effectively they do so."
-    publishedDateTime: 2022-08-02T13:26:00Z
-    webUrl: "https://www.news-medical.net/news/20220802/Study-challenges-the-perspective-that-autistic-adults-cannot-read-facial-emotion-expressions.aspx"
+  - title: "Research on identifying facial emotion expressions may alter how we view autism"
+    excerpt: "Adults with autism are only slightly less accurate at reading people's facial emotions compared to their non-autistic peers, according to new research. Recent studies show we may need to revise widely accepted notions that adults diagnosed with autism experience difficulties when it comes to recognizing social emotions."
+    publishedDateTime: 2022-08-07T07:59:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20220807/3970802.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "lKiAE9u4DLkJaXia1Qe3lBPv8lhHHvH1b2/cGdqvFz82l/X1Dym5xARhalPzLIKTcDumKqGOesUDrAT3/uxC3qfHngkh596PnnBYN3/gme3GRxLH4DnyYsEFtCJ8iDQBbggmxpLVY4YdA1pW+/M7Nc5Gb+z0FHo1ENbOl85E5PQ5evGbBRWXqQQYl2yHfly2/MB3w/KXkfREdRJLTNsdt7kmfjFgmyV1XGhNmOZpDAg1jFXZvWURMyuvUi52AaP5cmfpJSattLt20zgZPYrfUICDcDCAjqFMa510awAkXbYN2glSvjjMkHizTXNdYTE7Fw88FMyY5xuEzbdyzNob9/azQO6YKWBO36LDOZojEL4=;eGBZuqfpiA6NBKBoizaXLg=="

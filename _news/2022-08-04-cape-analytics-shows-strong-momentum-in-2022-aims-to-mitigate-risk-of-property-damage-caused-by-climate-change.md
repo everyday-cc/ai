@@ -49,15 +49,20 @@ related:
         width: 1133
         height: 635
         isCached: true
-  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
-    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
-    publishedDateTime: 2022-08-02T13:32:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
+  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
+    excerpt: "Treasure Data's superior product roadmap focuses on trust through data and model lineage, and democratization through automated machine learning (AutoML). A cash infusion of $234 million from ..."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220804LA35948/treasure-data-named-as-a-strong-performer-in-customer-analytics-technologies-evaluation-by-independent-research-firm/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
+      name: KTLA
+      domain: ktla.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/1760133/Treasure_Data_Logo.jpg"
+        width: 357
+        height: 400
+        isCached: true
   - title: "Speech and Voice Analytics Market Recent Trends Analysis: Research During The Ongoing COVID-19 & Research Methodology By Forecast 2022-2032"
     excerpt: "The Speech and Voice Analytics Market incomes were assessed at US$ 1.8 Bn in 2021 and is expected to develop at a CAGR of 22.3% from 2022-2032, as per an as of late distributed Future Market Insights report."
     publishedDateTime: 2022-08-04T13:30:00Z
@@ -66,15 +71,6 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 0
-  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
-    excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
-    publishedDateTime: 2022-08-04T13:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 0
 
 secured: "g2InrEGCF4dyFldIF63qZa3xrkczO1lSM9/QYhndHLbtMnpb1LYDAMr1/q4qQYgm92dF6px23psWtOwGrloO9CmD/XSW1TBXcZteeCCb6fpEAwxu+3gL/EH+WdnIPKc8DMlMhXKGFlVGtY0D/XHqxt+OGYMHgLqEmi53ZGdOSzor8Cv9zaJZM3uS3sMB4nqjDk6odDPK1o7WWuqd5SDeB5gz0LMJLwwneGhcpEib6j2uecG2krJByqM/UqCIGF2U4uhPgLxBu29zJsYgrd3YLNJsO8B5QYtbIip1cHA+rlMQd6rDDnQCOMP9Fl7DMkWgwKS/UK0AmerVMtrDlwbfpYGnNc8/dFBPfnD5Qnz7TDw=;0zOGRARjcf4Mib3s+Sv2Rg=="

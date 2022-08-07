@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Realizing The Potential Of AI And Machine Learning In Clinical Research"
+    excerpt: "Artificial intelligence and machine learning now have an opportunity to provide positive value and impact in the life sciences industry."
+    publishedDateTime: 2022-08-03T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/03/realizing-the-potential-of-ai-and-machine-learning-in-clinical-research/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Exploring the nuances of AI use in news production"
     excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
     publishedDateTime: 2022-08-03T17:37:00Z
@@ -58,20 +67,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "These four tools could enable the future of AI in healthcare"
-    excerpt: "Craig Rhodes, EMEA Industry Lead, AI for Healthcare and Life Sciences, NVIDIA, argues that just four tools could enable future AI in healthcare"
-    publishedDateTime: 2022-08-02T14:39:00Z
-    webUrl: "https://www.openaccessgovernment.org/these-four-tools-could-enable-the-future-of-ai-in-healthcare/140794/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 56
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_154741318-scaled.jpg"
-        width: 2000
-        height: 975
         isCached: true
   - title: "The evolving cyberthreat landscape and the benefits of AI and Machine Learning"
     excerpt: "Derek Manky, Chief, Security Insights & Global Threat Alliances, FortiGuard Labs; and Jonas Walker, Security Strategist with Fortinet’s FortiGuard Labs, discuss the changing threat landscape and the role of Artificial Intelligence and Machine Learning in fighting today’s cyberthreats."

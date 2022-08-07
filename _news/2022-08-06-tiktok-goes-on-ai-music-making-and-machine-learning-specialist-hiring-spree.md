@@ -1,10 +1,10 @@
 ---
 category: news
 title: "TikTok goes on AI music making and machine learning specialist hiring spree"
-excerpt: "Bandlab, meanwhile, the social music-making platform that recently raised $65 million, has an AI-powered app called SongStarter that, it claims, can “generate royalty-free music in seconds”. Could TikTok and its parent ByteDance be one of the sector’s next major players?"
+excerpt: "Bandlab, meanwhile, the social music-making platform that recently raised $65 million, has an AI-powered app called SongStarter that, it claims, can “generate royalty-free music in seconds”. Could TikTok and parent ByteDance be one of the sector’s next major players?"
 publishedDateTime: 2022-08-05T21:34:00Z
-originalUrl: "https://www.musicbusinessworldwide.com/tiktok-goes-on-ai-music-making-and-machine-learning-specialist-hiring-spree/"
-webUrl: "https://www.musicbusinessworldwide.com/tiktok-goes-on-ai-music-making-and-machine-learning-specialist-hiring-spree/"
+originalUrl: "https://www.musicbusinessworldwide.com/tiktok-goes-on-ai-music-making-and-machine-learning-specialist-hiring-spree1/"
+webUrl: "https://www.musicbusinessworldwide.com/tiktok-goes-on-ai-music-making-and-machine-learning-specialist-hiring-spree1/"
 type: article
 quality: 52
 heat: 52
@@ -15,8 +15,8 @@ provider:
   domain: musicbusinessworldwide.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.musicbusinessworldwide.com/files/2022/02/shutterstock_1945379527-scaled.jpg"
@@ -24,6 +24,6 @@ images:
     height: 1707
     isCached: true
 
-secured: "vZy9R3nfVrdQmv7Ud7uDDYICbf7IZPWQKo1T5O5EfFDtDpOSvGszrIv+RN3cm13lmIMq/Jj5XpVK4BkDjvmKYG9VQWdZvhohc/KpG4cJLy+5f+PLE+GZWgKAMPHjyJuVfQJ+ktuUMvVWRedhmaoBtL0/S+/lQVWtru39W/S8BjeCCQ4MYY1H5k2LXDPoTqBxxXUsxF8gJxXq21en/ftKTmxWIG347lYo7W++cbzpMaO4sG977OGPEA5Q8k1+ohCCvhSVMbXmC+YKICVCKSlc/2PbFqD4DMBE8j1MazzhB3BEghdih5SDgIK+DZ/DXRQobVNgl+Y4hBjfgsPqtCjZ2Bz1s6KvruJ3kyyBgvE+sDm1GPv8bBKgziW7DBmk8muIvWSBl+ly74h2FxbLkiOALkj74dDCTFSrr7E4z5AAzYrk+RRsW7ufInP3RNfc0A+0d5+uJwKj0WyYUHjA0mABWH8exAXmEPTmyyaS3uimkBd7WZL0ymESZCo1pK2xZkdpsNt1GsswmnZAo51/wZGXnA==;JUA469B2vPaeJ/DVRcOv8A=="
+secured: "CkZ8zdPLwX1hBh8jA+D8V7D0v6U7w9ArCtPeH8MaImla+Sh0MoznPJLxFmZJ8dwmLxJ8STMSIGJjD2u3Dx1j666SheIKapatLN411hBvFZyysCK3rypxEdAJDPh8wOFqCjdL5s/N5l9KZlE89+mnhldREokY22Kp5zB0skM63ofmjZeMvjvVqz30FKa5xUJ9eRueVotjXPeyCMAFk5676qalgUuVvdZn7B6EeZFYHncsdBJpGwzfZbNfd4Ei+I2xT5Z9MG12O5PSq7RhILglgZlhh9OR/ANZRbKQ9I8vPe7Iy0T5QG255WDCVV/i/9bBQI/Sl7ng30IhTyEaPH3ysdx2cgmrMeNbawNU135ki1Q=;E9/pJea82x5jSRxjSmKU3Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/windriver/2022/08/04/the-second-wave-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/windriver/2022/08/04/the-second-wave-of-digital-transformation-the-new-intelligent-machine-economy-calls-for-modern-ways-of-development/amp/"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Natural Language Processing and Digital Health Transformation"
+    excerpt: "Healthcare is transitioning to value-based care and one of the critical success factors in this transition is patient experience. A medical virtual as.."
+    publishedDateTime: 2022-08-07T07:15:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/natural-language-processing-and-digital-health-transformation/93405475"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/natural-language-processing-and-digital-health-transformation/93405475"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/natural-language-processing-and-digital-health-transformation/93405475"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93405475,imgsize-17072,width-1200,height-628,overlay-ethealthworld/natural-language-processing-and-digital-health-transformation.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "NHj3sw6jkcHXhcZnVISA2D49/3j/bSsw/MdjecJl4Ua4sSnvAGkPHi3Q3GIqEEzmh8wo6NeEioTuFh5vErZta18CUz3AcEXEAoKxyArIXAcg9hN4bJuwLKwUi8t/25YToltZb+EB/x2G4WG66YJ1CA8W6zbMRdtcZNvJ9gdEzq9hQLcYaLGMf59l49SZBYRwdZO85NDcRRv8zisPH6zOojSkkuWo3jvD/Rn+yTPeyUBz3nL1Hu7b7eIsH/r5FRp2mN/qJy4uROgXJU4Ydvgv065L6PSjnzXGA+GxwNr9gzdmOQu9hpR7z+sdzEWjSGo20gdZY0bZFXCBc60WOKVbomBwU1RfUcEBr4ZDqaQejXz5NZ+bbNzA2/MuwQSTVl3H0G6ufaXtgsfum7Jw+UUgDCEhsOw+QZYJCWdM6/aSjE17PrD7tlQpWNnNFAVIXq0tLz5iESXvtFpYy0B7gbY0Bvc3rQL8rBfu+uWSMCgyZ7nsTawaRJyNcO4WLOnSoJafny3VhoiAAcOiRZTQVYuczQ==;DscXsdqs8ANdf8iEP3TAzA=="
 ---

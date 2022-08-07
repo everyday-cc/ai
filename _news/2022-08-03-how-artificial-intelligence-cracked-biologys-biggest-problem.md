@@ -33,6 +33,20 @@ related:
         width: 765
         height: 508
         isCached: true
+  - title: "Google’s DeepMind Can Predict Protein Structures"
+    excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence"
+    publishedDateTime: 2022-08-04T08:46:00Z
+    webUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+    images:
+      - url: "https://www.business2community.com/wp-content/uploads/2022/08/3dmodels-900x659.jpg"
+        width: 900
+        height: 659
+        isCached: true
 
 secured: "iQPz01ClyQwShL6tjoa0+VDfA9DUP+z6e63hKaFb0BkQP7ajXx6VHa+vdMSP796EP0DHpAclX1JMvycDF1alrwNRqraGwtXOpj56kvEVcAvbPalJFZLc4ltoML5tGPSkjOk+BHCNYo59meWG0I44Wk52aXlDlIoD25lyUHSchCbJhTYk6rv48hrdnNyOTPwny9Et+SsK0r+HlPUjT9JE1oeEKOLGf+iq7xMRHiY6xpbFLnAQLhhGQiUKJw3imSrEYmms189VNuSaZ7wPvd3Ea6Elyy+dSew3nco1P2kadOP+D1LInGVJdxelhpVVuzQ0VX3j51hSWZ4OncZ/FxDtkBjM5uofcMZHFCw6Df/atPc=;u/zsJ8XX1Xct1eXriONVag=="
 ---

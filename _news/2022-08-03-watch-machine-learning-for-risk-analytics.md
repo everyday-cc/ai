@@ -41,15 +41,20 @@ related:
         width: 1200
         height: 661
         isCached: true
-  - title: "Qlik Named a Leader in IDC MarketScape: U.S. Business Intelligence and Analytics Platforms 2022 Vendor Assessment"
-    excerpt: "And with AI-generated analysis and insights, automated creation and data prep, search and natural language, and AutoML and predictive analytics baked directly into the experience, employees from ..."
-    publishedDateTime: 2022-08-02T13:32:00Z
-    webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8609810/qlik-named-a-leader-in-idc-marketscape-u-s-business-intelligence-and-analytics-platforms-2022-vendor-assessment/"
+  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
+    excerpt: "Treasure Data's superior product roadmap focuses on trust through data and model lineage, and democratization through automated machine learning (AutoML). A cash infusion of $234 million from ..."
+    publishedDateTime: 2022-08-04T13:25:00Z
+    webUrl: "https://ktla.com/business/press-releases/cision/20220804LA35948/treasure-data-named-as-a-strong-performer-in-customer-analytics-technologies-evaluation-by-independent-research-firm/"
     type: article
     provider:
-      name: FOX4 Kansas City
-      domain: fox4kc.com
-    quality: 0
+      name: KTLA
+      domain: ktla.com
+    quality: 1
+    images:
+      - url: "https://mma.prnewswire.com/media/1760133/Treasure_Data_Logo.jpg"
+        width: 357
+        height: 400
+        isCached: true
   - title: "CAPE Analytics Shows Strong Momentum in 2022, Aims to Mitigate Risk of Property Damage Caused by Climate Change"
     excerpt: "CAPE Analytics, the leader in AI-powered geospatial property intelligence, is pleased to announce major momentum into 2022 with strong strategic customer validation, the launch of several new products and capabilities,"
     publishedDateTime: 2022-08-04T16:21:00Z
@@ -67,15 +72,6 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 0
-  - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
-    excerpt: "This report evaluated customer analytics technology providers along 32 criteria segmented into three primary categories: current offering, strategy, and market presence. According to the report, “Treasure Data fully embraces the next-best-experience ethos."
-    publishedDateTime: 2022-08-04T13:25:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-109ece2005704d22b36230fb731c7fef"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
     quality: 0
 
 secured: "QjRltcdoawzS0aVZWpl1fIM4OPMSpD8Kd0ySZmIszJhmNgUYivEARZI6vPxJ3qa+52S4qX+Tw7jTpoJd4eSzWWSU3lgAZ7PiKdFXh+psov419ndXxrcjsovklwYHVqBxIGB5iGf3LyUJdkd4ZpbTNObe3NCXvXHHHc4WxYLmjDuw2wFywXHsiLzSnm95XaCtGAQ182QkCIsr2ge7M7XMhstS983YijJGtu1MNf/FEE7SbwKw5K1fflTwA67j5++vhqAcQ+2GQMclwtbVz9jJoa6M6VghFiXX5PFjZXnzWjIyTGj/0N1Q3+sqMT01Zr1/CZbXUCIsnyWm65bCusCfnSR4JTf/G04GJLSKD8D1KNstKgPZIk8w/yURhMdNCJFL9UQ51Ti3GygYtxSt18wfjNxMF27GhwDZBCFON5wnCsndmooF1p5HI9f2f5oqqzZaSQBOBQxzWxXoEupu1koE+KTvh6j+WzYHGRpZX96A2ZyXHjx+Zv/is2wJLiw3ZvbSp2zEhsUkQZYfAQgFkPGHTw==;uN4x1s2nzk5RrV4LYDzKCQ=="
