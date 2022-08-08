@@ -2,7 +2,7 @@
 name: "Recursion Pharmaceuticals"
 overview: "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City."
 type: "profile"
-heat: 77
+heat: 64
 
 website: https://www.recursionpharma.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RecursionPharma"
   url: "https://twitter.com/RecursionPharma"
-  followers: 5556
+  followers: 5557
 
 size: 51-200 employees
 yearFounded: 2013
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
 
-secured: "3KeD4Ir7DXLUZudVlwF7wYdvNW3bTu2dCZXlWsjb5MadLfVgSNvrqXKwc3bUx9Dn5NZpyKL53LBAj8JjmIZIUBiNj/OJbOsNilmgxIAYYvHOaDwArm+xqAnkYxPbupMQJet3IguW9v80mj5Z0VdyxM2xkkZW38INUZXNLVGDg21nRQJVsuVP/5oIrZJcHs9+hI1EYlWZmvZ7oNAo0Y6yUOHJDmTdgfQUdcO1VYqmpUfL8oX+ccMozZjl1Jsjl9PoISOr7kkas56MXssybTNo1/iy17omJBQiNxe3lVf9Q0H/B9n45PZDdbZbxo1jN2nk4OY9sihhsMtDJRCPCAqoLMxnR5TXFxy9gr+5CfSBdIbO3154ZTke6PDhD9EM12TaEHDgGYHBTxfbdNeZ+opXTE7YJXSFoV2rAU0HyMiryrE=;4MPLGBFG8qGRPYy+J2l/4g=="
+secured: "jXfRT0m+Ynm3MY1zPo1fM8T1zcbATR0jReArG4cEZzrzLz/7WToPDblTXOsLU629b5mrx6a/UdbV5xR5rBTLHLa/G6UHFkciZ/47ySsgOxInubeRwRkSMBJwn+Qmtyd766lqp7YvDXD/0nxxY6ElAhXoh/mw3GKZkbw2+j82J2KpOkCE2qrRgl5sdiz2ZQ0p+Zh5nGXCVLBobGD5KwpoScUINRcBRQRSAe6RkIsZe+wGlNXWVjyJ+L7/JShq829VpM6tgVfm21aigy9ZmLcEK4fUCAZUgtpbVhI/wKi2R29QbOPYi8Jaur69P12SKGJ84dqurH5IoF2Y/n24q6OKVmpKwyqF/2NwDNg7t4yvZj5q1wBBUKloQ7YQTKTPBIEJ2VJXf75G0ehM1eSEDV1L13Oreix8a5lcF7nslSCKlss=;urjQlse/3AqKuoQ5Jucv7g=="
 ---
 

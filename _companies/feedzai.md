@@ -2,7 +2,7 @@
 name: "Feedzai"
 overview: "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices."
 type: "profile"
-heat: 71
+heat: 57
 
 website: https://feedzai.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "feedzai"
   url: "https://twitter.com/feedzai"
-  followers: 3170
+  followers: 3171
 
 size: 201-500 employees
 yearFounded: 2009
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tWrlVTNtyE0c4lAHGjkHQE26SQfTuucjEo24yDBTFBJUfcaiGGr1WjL7/YtiuvzvsLWHGA6XrHoZHTJUcA3Yw+jMSOTRVNZkiE3exXkT/DlV4ZsrmpF7o5NwjanpyZPja8QgalwE6ie5lxOoPHx/ybD5fCTCKubViWN6W3Vazbzl/iYwLvi12/Rw9dgsbJWzWhPdWTCUN9YRMebuUVO2ozX0KGKTytP+QKjxBkgbXMTlMEFI5F2IBaVeKyuTc+YOafP+oXneGj8ZP2s5h1Cwh90+VOkadSoltVtgHaQPyS/jPUXQ6rXoevGJeKX9PQHaRXUSmVbgCf/F9TIXJQGOovC+ijVrfbvpMF9zLQ+mAYfkhnkHNSVlKhPAivRgrGdY3W9FZzdr6/CC7wxVeWj82kT07Z4EBquXgTBYP6+bv0U=;WREOcKwJ17Ylc1ZAKVgHBQ=="
+secured: "doPEsSdGUn50LkmGDHt1kjLCORw+8uXFRZpzqdKJtHWS1CRYjsbET/v82D82C1mNwptfgvlP1D/H3jopY4Id+LQgw7IO6jb8qafDIJk7SAGH9L1Cb0vwvEzbtgrCElcWYu5tAdXghO7p6NyaKeUR5P+3cgkMyuttLPBOopP+Pd88BCirdBm9bnpx2CWnBudNxA8mVc00x+RLyF0/rzSNW1xC7iiiJG0GvbJFlTNWvqBMCBNIC8q/VCrgnfrmdLEw9Og7bjlWnZOBDAmfenH0bephaMRISar7NVZhAghQGW6MEccPPnaP1lMOwmqTEnYVVoFhY5fXTna/atlfJ67954Ls/z8ypzJ/NO9ZOUgHBdTxedpVTkIImtVDEdTI4/mFOw+fexhySHAlIdsSauDVRVMBvpEWNMFcaeCjnfRnceA=;djWC/7JC5NGf8qyLPITh6A=="
 ---
 

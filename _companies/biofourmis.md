@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 57
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "gfAqaLcPmem0rxjSaymS9VN5pFsOwrAySIodVjPF6BAYpTiX67cKMHb8PBC/77xDDWwHGW733oI2tM6Be1o/7LYVLI/Y3wqOE5acFb1JL46Urklqx7rIQVjC8v28s4m90E4wr6My+y8Q2rU4Lr6gOjrvY406kZDr0bzqGvZH6lO2KfssrEwM9o7FNDqhm0DHvEJpoqr4a1B5guWx0RgxDOlioIXp9BgTlxKUmcUEOWJtyBff7QkVNPvfFZ4fUwo4NsQGtiUUPUe8jhi8EcZqm7GQoWk5SBHn2LwyiPMbjDPeIsPuO3jZqhtzAREUJFHAgP/icz6yllZvEg3yprMdlzvmHKMM3tgTa4/pTcy4b8eJjiUkgtFQJ5cUDhYEpfs24XLDXOyQYsemWWNzumU67GeC4rze+RBifSwDPqGJf+8=;dBAD1Q5/x4o1FilphAJYmg=="
+secured: "TZZWgvEZ0IKrZPvuuGheQIN+edchT+BwKcHiVeTCeVj8ZHfkx6MoS/VMHsekrvoSewYXTpNv3s0G77Nntppv7JL5dmbF4dEKbbDBoO4a6iZeWvn0U3aqHvh1Vo9E7QALgFiH2GsjI9A5A8mABic+s+XfveYNp/D4q8I+lZfBMr9tNnjLbGWe3LLtQpZgpmUWo7fONH718zp5mE2ZZLLhp83ghO+cEEwURu20DfACquXysp0WCLTFnJOchiBcP9rW1NR8+SxL/7jLRFx9ut6EUFDN6IRIVfzm0Ri1j/U5ZyoTtUNDITKHUgCq41Vi5sWM0HL5uie1ACYGYha+LNNcyVHdW/T+J5O8dXeJ5x66GYd7Ot7KdprvLagEWHSvUPWt1klODZZI51+zkZAvmhR6GkcTHL6lmYkHW2QMW50EPhI=;gr4gXK7FAC4gy79JerTT7A=="
 ---
 
