@@ -19,6 +19,8 @@ topics:
   - AI
   - AI in Robotics
   - Natural Language Processing
+  - AI Ethics
+  - Machine Learning
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/3/9a/39a77c4a-9cee-5e70-ab99-391b59a805fb/628c4051629d6.image.jpg?resize=400%2C302"
@@ -44,6 +46,6 @@ related:
         height: 435
         isCached: true
 
-secured: "r+fz0MnG2ythzNkoiHneSXLDAhHaRzGulDHdXSG1aSC4Uq6bYLYvStK7Ob95LAPCv6gyUyfEB3pZ++hxoTmuo2VW5P5E1HkoNpJQ+J/n4RjilNbHjFrmsDUKhLnjI7TGNkX2U55jmsK12YJM5Fkc8KtQ4Etmg7r19pT7J8G5sB/FCtyAgtl0qcqiXwIK8wvVfL+hbkKlKVzAzwEXa/eAdqU1atixcRVJX9smo8kl2fgut88WAvCdPEUj1tZfR2zK1EEoCGFbok8FjprLwlakLJUhF1cwwcQZhBNpNMCvPXVdW5Ds8Kh9SXM3W5lrmJkr7er6yJNvc2+nNA1M1jGXm8bS7rZ9upoXXjP6D8ee6wU=;dYX6mm7ntReG8Oi7cp7Bmg=="
+secured: "tsx9fJoWHzQc3XDpCJzLWrKiNEL80GuBHUn0h8+JFb4BMslRv0abBcNg3RDjfdWAwxXf1Ggmi1z4q6OHuyPzLGwRLvQoIbrcMl+iWF9lwLIVHmqTa5+V7qh3bV3pdCQcZww1oiC0bQg+m8b8mmgSHEElZh7+vi8d3djNyvAdjp9EhPOxMeWFwc3gt8BOJciPzmExKUUMhA4zG0XyjnrQX1rypIZ/YLCrl0ac3zzuAUWHQvdh5qADFGuObo6QpAaldAJQSFcA/pJbh0yP+Pc3YVLCWk0f75Dq1ED/McLE+jg48sQ7kCClD8ZqgqYgfAv2WFnWSpNlO5+Owm+iAm5LDrg+H0jR1JqXDdUr0WXsx3BX8xze/kZMq528Tz3njp+G7z2CyYG/AyDFLQEqfvLTAJ8gjxLbmGcpA9cz3y27Ffxf8REUeN4Lwx6LmIf22q/xWZj7sBl1dw23yMf8nXJQgfpTClYW+NM3bMSYcD2QxHKPFb3usFm4yhjn87Mo5RmKaJyLo7VrVEv7bakwqywlfQ==;toh6NGnC1pDseX6bEsCV5g=="
 ---
 

@@ -1,23 +1,20 @@
 ---
 category: news
-title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
-excerpt: "Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store providing applications, and services for use on Azure. Botminds' customers can now take advantage of the productive and trusted Azure cloud platform,"
-publishedDateTime: 2022-07-25T14:48:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-botminds-document-ai-now-available-the-microsoft-azure-/2022/07/25/9644238.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-botminds-document-ai-now-available-the-microsoft-azure-/2022/07/25/9644238.htm"
+title: "Botminds Document AI Is Now Available In The Microsoft Azure Marketplace'"
+excerpt: "Microsoft Azure customers worldwide now gain access to Botminds Document AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
+publishedDateTime: 2022-07-25T13:42:00Z
+originalUrl: "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace"
+webUrl: "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "GubbkrE07j+ZRnguue1Lrm/TNpXNT8Nw/DZx9zHEhZ1qH+lAysj1hKHGPvNxMc8UCogLocNaw67q3O/Xc6TiX7IY1OzfKLsMWJ5iC34dCoUdgF2qFJ0KZL1jOF8RJrmKQXgUBgr2f1T31xyW+MuBv8T3olI+euDRD7VDjWlmo1sOBJaj5RuEpOxH3nviOf7c2E6+ut214AKRL3Dq0+5h7eJX/YLmzRHeX8vtYhTJEDqnV6YOBOtBN9+KNhVs2rk6iSFrA89ATlhnT1I6dqmi/8ElDvyrXd4R2yaUlbow4AZgsKCnpPV2wWCrJpRuTzNpLJdsN/BN+6TU8Olnnt5/gHeCS925CRc612WrByS4EbckbZnXoXlgR3i32aWcMx0NYPOJRfvONw2wOb/0C8CnPsekWfH+wYC77xQHMlyM+yxqSjPIBZDDVRngzOEyLpIAkzxYoUalBIlfbcICojLzRmgTHhTG5NRvhTTvzDJ+ZKy5700ACv9cA+fc1icuiqeQg/E8FB3OKQwd0Z8lj54u1w==;kA2j3m/IIJjAdZmX01AUUQ=="
+secured: "tEHCsL5k4jizG0GWwG3fm6rOAouVZ3nnxoScbQ5QrUfJPp3r9TV7sE9BpGB2qhNUkG/khWb2xM4Yt/uYHhfTerhF46OgYluC3zNgUMQ+VD07Amy1FC7X9eHy4P0ozg91cRsg5hEHOnctK00s3QZQ9RnaEbHagS6dpaWKI6z4TWp4Z54BYDAP8CyqHyt5//9YmpFzxSPpsqOSTrlqmprFc61q0Za5f0GmDrWD4seVR4Da37HKIcxip/AWMkoWyPqZ6l6885G8/tl4sO05q8Fm3EtJertyOy1GasXFmM1IPaJZp7AUtEMC1ubAu3+59zwkGYcs5PW0liAEiwPffIAUJ2HJME7YE8wio5Sj/CkynjA=;0HEgxaHSnwCQaRfUogWtXg=="
 ---
 

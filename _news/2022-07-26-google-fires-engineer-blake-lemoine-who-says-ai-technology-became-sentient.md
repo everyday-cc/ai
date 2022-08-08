@@ -2,25 +2,19 @@
 category: news
 title: "Google fires engineer Blake Lemoine, who says AI technology became sentient"
 excerpt: "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ..."
-publishedDateTime: 2022-07-25T18:17:00Z
-originalUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
-webUrl: "https://abc11.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+publishedDateTime: 2022-07-26T05:58:00Z
+originalUrl: "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
+webUrl: "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/"
 type: article
 
 provider:
-  name: WTVD
-  domain: abc11.com
+  name: 6abc News
+  domain: 6abc.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg?w=1600"
-    width: 1600
-    height: 900
-    isCached: true
-
-secured: "zsOjEtJ4sOLcPZA/F9hKPAgQ6onWo46TjW9FuWEqQje7wK7fRdCH4dnDBUBrfem5HNTvrapdP2y71ChLcjPlmn1EoROrs3LRaPBk2BOuD/CFhnEaxNp1BptD6UiJ5QRaggB3PK5eeBYPBtoyu90ZHegs1kvgjZbL9Q5Gj8x0WCUJNaolpIdLhUBmnLr2qaWv99Z+EKsP+GeSBRDdQvfQiQ3zJs5vXz1xVPlSKAp6bVPqHY819jTmwp8krpumVtANl0iETfIjJMGFIJgdsgk8AVvpP4Uiqp+kD+F2kk/dEZ7XABSNsyNwxhlISTcJaXH6HQR/Yok5EI8RFoALfsk8d+kAiTtKiiNGtoKrhYBoFfI=;lKnFb8z4hIODSKnDd7xNFg=="
+secured: "16wyNspv9x2mTrGbTFh1c81ybN/9JDCtO6XGzs1zZJVqODhbBhlqaoBZrtr7K6erbQmc0X49+pEH13XBlyhFbXMWenteJMGGl2AkTI+zXrzzPDdRjBTBTOd5aR8S8ZzMBAe00plSZOjVjfrRtnqec3NAMiDqzuY8ylzoOvf+p/YD/neB9JEmi2NvwmRhHfuKnTQWBokIgUx7q7MIRCRbbeoVKL9xUK40ZBdrVTE1ccT6F6B54CkXAuZjayhOIRy3XQhBr1OF5lk2Q7gWQTl7r+CRvNiq9nRy9Pwu/ZC1GihMR0HErdMv7iW2lWvoGL7vIwnY8fEinGjPEk7JoQQrH7BbswNUz+D10QyBO3wh1XY=;eXT6iIVM3fPniRseetZpmg=="
 ---
 
