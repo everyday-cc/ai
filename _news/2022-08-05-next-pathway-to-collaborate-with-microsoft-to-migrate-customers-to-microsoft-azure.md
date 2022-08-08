@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS and Microsoft eye economy in a bid to control cloud cost"
-    excerpt: "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers."
-    publishedDateTime: 2022-08-03T21:33:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
-    images:
-      - url: "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
-    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
-    publishedDateTime: 2022-08-07T07:00:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=226753"
-        width: 959
-        height: 538
-        isCached: true
   - title: "Microsoft’s new feature on OneNote supports AI-powered voice commands"
     excerpt: "Tech giant Microsoft is rolling out a new Dictate feature to OneNote that supports AI-powered voice commands to control dictation, such as"
     publishedDateTime: 2022-08-07T08:00:00Z
@@ -61,15 +33,6 @@ related:
         width: 1200
         height: 670
         isCached: true
-  - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
-    publishedDateTime: 2022-08-04T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Reltios-MDM-Solution-Is-Available-in-the-Microsoft-Azure-Marketplace-154253.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 49
   - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
     excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
     publishedDateTime: 2022-08-05T13:44:00Z
@@ -79,15 +42,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 32
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "tczFrjTbw06uNw+H/zD8DiX6ZlThIiyBaMjxOMmTWBb6gpiX36ZOGX0vptwrjbzclINd4X2fYpsQ3N7w6RxKR8PsSyHi6bPn0ogOU6+YYDy8SInQrR6uk3uiT/rJfxGtGehN9AU3WklGiFLi2gBUSgfDSL3D0VPlH+UK551mrkxWI4leA9aUFRxDM0emllChzjroeZDYykarEjSbS+j8YHqv/icI+RyYr8xiorvczYQQBxAogR1QBQ3ZLOFhjIxgo/FWlgvORnp/sHRm8ZCthGv2YhdabbV4MEeRCw8l8WHyvdrebWBW2I7APnp7rOuMTunWAR6GJ1gvrScWQzyYEv+Gvyqo5HLxICc5zoD/RxdTQwuU8ybeyoQZlXjjkv/OQHs5+eDexIyeoKtWIMHYHIG+LpaqAivohLi03ByJZ+IFqLFsPWbDCZfwGSa5M/9Nq8PitPitqOvIGy6sJu3ElEBLPMt7aXfI7cjG3OeUdeqm/N+jaWtFezs4FlEdSXvYDr3duzApkigHU5qYWzFy8Q==;I9mUN1ELNkDYSzj3KMUTcQ=="
 ---

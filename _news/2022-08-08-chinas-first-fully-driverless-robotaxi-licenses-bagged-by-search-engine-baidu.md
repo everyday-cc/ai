@@ -131,13 +131,13 @@ related:
         height: 900
         isCached: true
   - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
-    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive"
+    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
     publishedDateTime: 2022-08-08T08:34:00Z
-    webUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+    webUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
     type: article
     provider:
-      name: WHBL
-      domain: whbl.com
+      name: KFGO
+      domain: kfgo.com
     quality: 54
     images:
       - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
@@ -153,6 +153,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
+    excerpt: "Baidu has also secured a permit to run driverless cars on open roads in Beijing but here, the permit still requires a human operator in the front passenger seat."
+    publishedDateTime: 2022-08-08T12:09:00Z
+    webUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 34
   - title: "Baidu wins permits to operate fully driverless robotaxis in China"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
     publishedDateTime: 2022-08-08T10:41:00Z

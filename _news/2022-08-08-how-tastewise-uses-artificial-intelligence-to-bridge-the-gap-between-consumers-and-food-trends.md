@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T13:23:00Z
 originalUrl: "https://www.fooddive.com/news/tastewise-food-trends-artificial-intelligence/628677/"
 webUrl: "https://www.fooddive.com/news/tastewise-food-trends-artificial-intelligence/628677/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Food Dive

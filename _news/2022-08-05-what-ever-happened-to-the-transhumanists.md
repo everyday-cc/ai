@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-05T00:39:00Z
 originalUrl: "https://gizmodo.com/what-happened-to-transhumanism-in-2022-life-extension-1849199492"
 webUrl: "https://gizmodo.com/what-happened-to-transhumanism-in-2022-life-extension-1849199492"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Gizmodo

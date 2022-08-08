@@ -24,17 +24,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "VisualCortex and i-PRO Collaborate on Enterprise-Wide Computer Vision Tech Deployments"
-    excerpt: "PRO, a global leader of advanced sensing technologies for Intelligent Surveillance and Public Safety, to streamline end-to-end deployment for enterprise-wide video analytics solutions within the Asia Pacific region and around the world."
-    publishedDateTime: 2022-08-03T19:26:00Z
-    webUrl: "https://www.datanami.com/this-just-in/visualcortex-and-i-pro-collaborate-on-enterprise-wide-computer-vision-technology-deployments/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 11
-
 secured: "xf8l2oafc++CEOQXbqdRW0XLPc6HpmLKXDRCSAfV7pJyh+HMlZnaKW3OJ7H1phNExDmMQn6HQDZa2o3KPwu00tSOtti9O11GD5qAhoRnipu9+/tDFrRD12HCpBML4KMBCWKgUkmDtU7ZPM6EMjoNtgtt/rkKT9KgLIz158qc69VVWGWhErgFH+B4vQb3gQSK6vFOJtud3TgqdWF6sN0S4QjH5glkhXqFq8XQQ0lLrPm/inFH1i+Ccd8RxiXm9BgiTBf63ViuJKfOnaOV2DyjEoz8PFTlBmp80rTYtPzOUUihS5ZdSPmIDziC/CZDfX0ru9/Aj2C86xdwp3/BDr6Ffy1WLY7BSyCxbpa4KPJuNBxdfeqzzz9YesC3mD1/nmzIsPmHfR9XNYvaxHWjCcnZe0U1tqy3UVKmTPcrvSYuuIGGdPBw2StJSul3PqMpKBrKhC7n4T1EdUVGJIuV+8BR/JihuINz51DCPsCRjeuLw8Z96aiqXTQGv/Mhv/3/P0tCpSCcrlbPSzzEQO+iqjrtgQ==;BaWDWj9Rh6exBmABl59cMA=="
 ---
 

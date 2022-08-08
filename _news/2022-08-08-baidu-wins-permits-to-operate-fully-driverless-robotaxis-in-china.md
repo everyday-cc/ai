@@ -139,13 +139,13 @@ related:
         height: 900
         isCached: true
   - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
-    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive"
+    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
     publishedDateTime: 2022-08-08T08:34:00Z
-    webUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+    webUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
     type: article
     provider:
-      name: WHBL
-      domain: whbl.com
+      name: KFGO
+      domain: kfgo.com
     quality: 54
     images:
       - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
@@ -161,6 +161,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
+    excerpt: "Baidu has also secured a permit to run driverless cars on open roads in Beijing but here, the permit still requires a human operator in the front passenger seat."
+    publishedDateTime: 2022-08-08T12:09:00Z
+    webUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 34
 
 secured: "X6wpZS3LfZlE9TJGIV62YyX2cb8vD43DR0ZaeRPDOtIxb5EiiojbW/mZ77TB9WI3N9HSo029wP43Z4hPIg2Y7/D/+Fi3iT2nALiPV4kItQld6FTwCuq2Es3EX7uJ6lYFW1cUSLUBw+k9znscJqa3kKJJmiduSWmOreQh6x2idJa/D/oGPYjjkZ8SOoE1QNPD/Rc60Gw3c3N2SizaMTQTgAsuTCmEk5EWxuPhZMBgzF6odszS+lqxerYHTFTO2HvGk8VfTkD0c8aGZKUBZK/8YW0DKZwSOBKomZu5y0aHTDT2HCkaVz6R2iAfXvlOUErd9URk5Cn56kniPWlMTkDd7U7sneioyqmj98lSXcnr505pq6eLpAZe8DhVK/Z0GM/fEOGa+VWhDdlm0/hBw/PAovdEOPWvmQ8xbBhuP1zzk9kOl/cBqMwvyDKYIFUNC3uxpQAVGP8+mYiL4EvSevIfOygCBTsMjmFWEKIi5VeufIyqCfXEjx0X2zE5C+PxI4mv1uRbWn6gaAg3a9rUm8MeRQ==;YhIlRYo19SZhYivCIFWtlg=="
 ---

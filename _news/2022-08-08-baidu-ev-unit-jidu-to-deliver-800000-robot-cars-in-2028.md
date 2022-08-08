@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
-excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive"
+excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
 publishedDateTime: 2022-08-08T08:34:00Z
-originalUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
-webUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+originalUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+webUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: WHBL
-  domain: whbl.com
+  name: KFGO
+  domain: kfgo.com
 
 topics:
   - AI in Robotics
@@ -153,6 +153,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
+    excerpt: "Baidu has also secured a permit to run driverless cars on open roads in Beijing but here, the permit still requires a human operator in the front passenger seat."
+    publishedDateTime: 2022-08-08T12:09:00Z
+    webUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 34
   - title: "Baidu wins permits to operate fully driverless robotaxis in China"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
     publishedDateTime: 2022-08-08T10:41:00Z
@@ -163,6 +172,6 @@ related:
       domain: ft.com
     quality: 34
 
-secured: "7u69awuC5p4KEOksRK1YRyWvBGL93CYCN5mGyAUXOWtWs7gyRP4P1u+w6xNgBbamj7mkUeZ/RobOvYN/U4CsrmNk8GorfGy90tGIyP30M1nqm9d7Fkbx7sHZA3FXUS4hSqjL0J6yRdteuFdrXqweDbcAF2ea/61lgZnpS9FIE9CnbJWb0oNbOeXxgnn8djdXTUMq8mE8Q4fS8/6uctCaQNuqQKcr8DM77z+JtUv9VX7p7ch7SurBS4amUMhqLbGNNqA5AYWRcsBRdaRCcpDYW75BzNxkqRljKekNEMSvbsR6nVUZAoTliw/YS22XWcm6+tGndx4HSNOUXmle4ARSJw61c8Z+kYjlKsi1zZKAbo6xuy08RNeTrlUwk6+hfUwOALz0J8/wwM37SBhTGsH74tgNtrjKJWg8lxbRDoecADq5IBV6kbZe4uk1rg5y8X/II4MIBgomJJqtHCoiuhi1TcTdblRMHtCo1aN/Q2paomDhfJyB+23g1n8Y0Rxr5RT0hNRaIuil8xHu32rzMj6DbQ==;gcFfYEsq96SUalNTPZp2Sw=="
+secured: "8CoFXVqc8y4nBuXrUTzYlD5zDNOi68XMXxiGNhJ+9uwcqb7Yy6dM5nx6K0c92aVbf8nTGFlC5CFn0Zz8X9ysrMcfKM0n0g8oG9kzqV4blg0oSKPKQOzSU0uHFmN0DEV73uKEwSSjH7HUqZm1LTZAJzzA0gdQDDEych+L5CBmJHO+QXRR6eKFlXY2Ekr/YHxWYkRLFPqII733ErLoKhkT23bnrRYmxsnzmzm8rPeQdbNTxTtwmzaNcqwuSD/oWQy0V9lHv6Hr/MxLMVS/2UvB3oBKL69XVM8EUr6mWisq8FvsKePnVgWul5lDS0A61Me1p3xstHUc9pB2WSeoWZ+5Wx/Oh+FhDxj/wEyXkMX9els=;iJMGvjEfEnx3v6+SOkc6bQ=="
 ---
 

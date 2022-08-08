@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-const
 webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
 type: article
 quality: 69
-heat: 119
+heat: 89
 published: true
 
 provider:
@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
-    excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
-    publishedDateTime: 2022-08-04T18:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/next-pathway-partners-with-microsoft-to-migrate-customers-to-azure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
-    publishedDateTime: 2022-08-04T13:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
-    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
-    publishedDateTime: 2022-08-04T22:28:00Z
-    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
-    type: article
-    provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 23
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
-        width: 835
-        height: 396
-        isCached: true
   - title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
     excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
     publishedDateTime: 2022-08-07T01:42:00Z

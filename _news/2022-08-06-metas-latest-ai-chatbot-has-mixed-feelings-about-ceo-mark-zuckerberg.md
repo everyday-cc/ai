@@ -114,6 +114,15 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "'He’s too creepy': Meta’s new AI chatbot shares its all too honest opinion of Mark Zuckerberg"
+    excerpt: "Meta has released its latest AI chatbot to the world. And of course, people immediately started asking what it thinks about Mark Zuckerberg."
+    publishedDateTime: 2022-08-08T10:44:00Z
+    webUrl: "https://www.euronews.com/next/2022/08/08/hes-too-creepy-metas-new-ai-chatbot-shares-its-all-too-honest-opinion-of-mark-zuckerberg"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 8
 
 secured: "LWmSsU0J9usOozlLby/d+TfhR5UBFOTq+t0u/AIfjlU5YO7fvuUfyqoYOJuF3G26DRB+tcVAjIzTCFGk95mOGfdjjGPGDSzQ9AJbMVPwWA2oObdtcl5JgoDPEeeOYu5EYtLKlYLnE9JJ8Y7HFFVZ+PX1B+vfmYDoZZaCJH9DgeWHSaj4wAqMYv72MnxLip3cSCUyQp/8t45x+klwIUSBIt67VmptH2twaAuJ5tDArWo89ANu2T0ql+aQb4eyEQotlfgx9i0K6Ywpx6dnuzHpTSCJozlL9A41EDwLmFbL24Ro91x9g2BwfUVPorOJRFtqbJkmSfbB8oD7MD4791JPk+axz5l31AVJ+ybVWHH/j8IUMRk8I6q/ziLiqDhjDVba/Wp4sL4yQ552p33R3ZHtw+LX709yTLLc8rBOmWL7CwIbQSEkbg8G01aMiPUxrIskclOp7vc0yNmkeNQKB2cMWWBKQPADI0jOoRaky2BDNA8xRaAQfeI09iwQsWfzdyBRB3wa8U0vntZaR3YctKdlQQ==;ONkYsTZliCjylautXEkqxg=="
 ---

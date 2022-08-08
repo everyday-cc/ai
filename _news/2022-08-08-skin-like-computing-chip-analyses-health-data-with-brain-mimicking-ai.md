@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "This skin-like computing chip uses AI to monitor health data"
+    excerpt: "Researchers at the University of Chicago are developing a wearable chip that could monitor heart data and detect diseases."
+    publishedDateTime: 2022-08-08T13:45:00Z
+    webUrl: "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-monitor-health-data"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2FUntitled-design-95.jpg&signature=1b19bed795c33d8b44aa31f2a926ed69"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
     excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
     publishedDateTime: 2022-08-05T08:27:00Z

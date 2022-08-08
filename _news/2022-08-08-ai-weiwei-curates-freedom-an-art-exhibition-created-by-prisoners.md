@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T12:49:00Z
 originalUrl: "https://fadmagazine.com/2022/08/08/ai-weiwei-curates-freedom-an-art-exhibition-created-by-prisoners/"
 webUrl: "https://fadmagazine.com/2022/08/08/ai-weiwei-curates-freedom-an-art-exhibition-created-by-prisoners/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: FAD AGENCY - FAD Magazine

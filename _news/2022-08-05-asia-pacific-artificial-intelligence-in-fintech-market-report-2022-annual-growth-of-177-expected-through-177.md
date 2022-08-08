@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "CFA Institute to host Asia Pacific Fintech Month in August"
-    excerpt: "To help unlock the power of disruptive technologies and to enable digital transformation in business models, customer experiences, and skills of investment professionals, .."
-    publishedDateTime: 2022-08-03T20:23:00Z
-    webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
+  - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
+    excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
+    publishedDateTime: 2022-08-08T12:58:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194564-fintech-report-financial-tech-firms-raised-24-1b-in-vc-funding-across-1103-deals-in-q2-2022/"
     type: article
     provider:
-      name: The Daily Mirror
-      domain: dailymirror.lk
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 29
     images:
-      - url: "https://bmkltsly13vb.compat.objectstorage.ap-mumbai-1.oraclecloud.com/cdn.dailymirror.lk/assets/uploads/image_17164950cc.jpg"
-        width: 550
-        height: 310
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
+        width: 1024
+        height: 1024
         isCached: true
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."

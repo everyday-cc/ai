@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T13:10:00Z
 originalUrl: "https://www.pakistantoday.com.pk/2022/08/08/pakistani-it-parks-provide-best-opportunities-for-investment-in-artificial-intelligence-business/"
 webUrl: "https://www.pakistantoday.com.pk/2022/08/08/pakistani-it-parks-provide-best-opportunities-for-investment-in-artificial-intelligence-business/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Pakistan Today
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How Pakistan is slowly progressing in Machine Learning"
+    excerpt: "Despite a slow start, Pakistan too is shaping to take off in the field of machine learning What do humans do to improve their accuracy and speed of work? They get the knowledge their brain uses to respond,"
+    publishedDateTime: 2022-08-06T11:57:00Z
+    webUrl: "https://tribune.com.pk/story/2369841/how-pakistan-is-slowly-progressing-in-machine-learning"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 21
 
 secured: "NuGfIXBOiqPD+r3tacdvA/Dt9aR9aXxY7uPgpxDI1WTt/c0jvCYtczC8nggteo0k+R4lkydqQrGEfeTh+Wa70J/JwBN18zEODMsDH/cg4ytIzj0YvkpiGicMZDJ33IA6yW8gb5m6kRoPmRNSVelTZoDKtvGdMiN2j9LypsKIimfN4006S2E2aMldC9HE/gyWb1pMk0oJI47sB0VY6JS0nIWiTPZ6sxSdH3cf0DUN2tw0DJs2a3m52gCJMcakD9NKofXRNky2bxSLiNTEj4QCy1eOeG7PNyde1QqlLDHFJ2TgTj0wvP0o2XsDhcay1uQebBriAdxwO97J6CJq6G5EnXxHA4KwUD84+SKUdIzCGXY20x7M6zAVCO4vBUhS0IbkQKa/qBavvs8hJJKqWyzrc6oUE5WfIO/VflH9qNL2QX3+eSxR+utR+WiZmXLou/2KCsS97vAx6n9hkXoRWoXgNwCwY32O0x3h9Wbn9UckaK9C9gtw0KQWT/FaX7h1wrtKpdH9J1nB1qp/WTY6Rw/K9g==;JF0apF+ZwChJOG7ukm58Dg=="
 ---

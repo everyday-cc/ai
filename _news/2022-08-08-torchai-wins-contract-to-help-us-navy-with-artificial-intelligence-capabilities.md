@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T12:52:00Z
 originalUrl: "https://www.bizjournals.com/kansascity/news/2022/08/08/torch-ai-wins-navy-contract-digital-warfare.html"
 webUrl: "https://www.bizjournals.com/kansascity/news/2022/08/08/torch-ai-wins-navy-contract-digital-warfare.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: The Business Journals

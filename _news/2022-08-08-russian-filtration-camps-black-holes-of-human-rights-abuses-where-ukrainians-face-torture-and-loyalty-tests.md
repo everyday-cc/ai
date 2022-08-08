@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T13:05:00Z
 originalUrl: "https://www.grid.news/story/global/2022/08/08/russian-filtration-camps-black-holes-of-human-rights-abuses-where-ukrainians-face-torture-and-loyalty-tests/"
 webUrl: "https://www.grid.news/story/global/2022/08/08/russian-filtration-camps-black-holes-of-human-rights-abuses-where-ukrainians-face-torture-and-loyalty-tests/"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: grid
@@ -14,6 +17,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Ukraine says AI report plays into Russian propaganda"
+    excerpt: "The head of AI’s Ukraine office, Oksana Pokalchuk, and her team have distanced themselves from the study published Thursday and insisted her team was not involved in the writing of the report, which was prepared by international researchers from AI’s global office."
+    publishedDateTime: 2022-08-05T11:32:00Z
+    webUrl: "https://www.laprensalatina.com/ukraine-says-ai-report-plays-into-russian-propaganda/"
+    ampWebUrl: "https://www.laprensalatina.com/ukraine-says-ai-report-plays-into-russian-propaganda/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/ukraine-says-ai-report-plays-into-russian-propaganda/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 57
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2022/08/19b866feb517a529ff07fb073a61e50b8e4feaa7w-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "dtWw1qKgSS+3Z99gZBIi5Xw4ijezAmgpzyWW79jcNu8LVr8lzkpLSjHEa/7QrfGo+KYJUaezp2P0sCdkaOyT5G/gdQrD+7VEXj1VD/Tx3b49krgjR+afMRlkCMcshTCPXLAy9kOyPvuyuS7l18UA+tosh49WOf8WDgSlFDdmOpBwnoRnx7XwtNuMfTqlVhhleNu3BB+/iKaJqbn3y75gHUKEnJyItGZaYMC9TV4i4o6nSIYd0JP3CzNc0juq2GoQp0mLXUQhxdlpmva9sQvAUrzc+1sK2fYt3waqGMkgiBpfuyTivmLSBcoMKw/q2PQXA8pudGeJuahnuszxnOB7fUCfrroruWr0whAUzk5wMHKV1tdZwFvRCRxacahSlF2eCb7n/yEx/MnVbJpQ2so2VHMTz7KCilhG8fxuCacGckPSUMLG4BA97wsqkZNh3KMB6y1cn4oqeW57+YUqfjqdVlXDQdZMMv3mkVIWuPVcyUZMKtP4B5dRx0BVkgWqiKL7GMj5s7kBqPtTaALLKIizNw==;Wy4u9/I/frNbLOavlMws6w=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T12:15:00Z
 originalUrl: "https://www.outlookindia.com/business-spotlight/bitalpha-ai-reviews-2022-is-bit-alpha-ai-legit-or-scam-bitcoin-robot--news-215021"
 webUrl: "https://www.outlookindia.com/business-spotlight/bitalpha-ai-reviews-2022-is-bit-alpha-ai-legit-or-scam-bitcoin-robot--news-215021"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Outlookindia

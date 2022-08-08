@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-accused-of-falsely-advert
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
 type: article
 quality: 88
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla applies to patent more precise GPS antenna for self-driving and navigation"
-    excerpt: "Tesla has applied to patent a new multi-band GPS antenna that it believes will be more precise for self-driving and navigation applications. The automaker describes the new device in the abstract of the new patent application: A multi-band antenna system is provided."
-    publishedDateTime: 2022-08-03T20:40:00Z
-    webUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/"
-    ampWebUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
+  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
+    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
+    publishedDateTime: 2022-08-08T14:28:00Z
+    webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+    ampWebUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 84
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 82
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2018/10/Tesla-Autopilot-navigate-mad-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+        width: 1024
+        height: 766
         isCached: true
   - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
     excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
@@ -76,6 +76,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
+    excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
+    publishedDateTime: 2022-08-08T15:42:00Z
+    webUrl: "https://driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving"
+    ampWebUrl: "https://driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving/wcm/7ab79e04-c2d0-4f35-8c20-4ce11e2f5e7b/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving/wcm/7ab79e04-c2d0-4f35-8c20-4ce11e2f5e7b/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 69
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-1.jpg"
+        width: 1800
+        height: 1200
         isCached: true
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features"
     excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
@@ -194,6 +210,15 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
+    excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
+    publishedDateTime: 2022-08-06T20:39:00Z
+    webUrl: "https://www.ksl.com/article/50453378/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 29
   - title: "Tesla accused of falsely advertising self-driving features"
     excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T02:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zucker
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
 type: article
 quality: 102
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "'He’s too creepy': Meta’s new AI chatbot shares its all too honest opinion of Mark Zuckerberg"
+    excerpt: "Meta has released its latest AI chatbot to the world. And of course, people immediately started asking what it thinks about Mark Zuckerberg."
+    publishedDateTime: 2022-08-08T10:44:00Z
+    webUrl: "https://www.euronews.com/next/2022/08/08/hes-too-creepy-metas-new-ai-chatbot-shares-its-all-too-honest-opinion-of-mark-zuckerberg"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 8
 
 secured: "V0aYVBzVgsXi8dMo5m1l2mQYFlAPEEKvG0O43+CSE3eX9PXluxuE25h0ebcIpsO09gA7CYPuv5vb0U7aaxmyuGeKPtX9U+YUNtcxFthQCvg2ComTij5wKBx04J0zI99vPAgSwI2i4TdsDuRSw83VpB6b4KREKCPwz1UpdwFR2EX0S2JcDBLMP/SZfNf/jYNvXqKIQPFPYO11vABEFCPMVRI5VZlzTK46KvwmMSwkVF0Q2DSLnbdfhywJgun1BGdNFbcYaOLX3shXjImP4dBtwxKykVfQnwTxmDoMwq5oysZIc4XkG8kWLYetF3aBNmG4qDk3gogHNWJp9RPJLeb98YX+q3sWNe5704wbIqKx4Iz5M53p9jbJKWj5JECY1bFRRh4pLWmChF9Bd+riOvJgBCB6d/SUtfO8dYqs1IgYkbFethlMs88jSLkprRTkjehLb/ZWn/JNGzHpOhVyUaw9ElWGu0iX6YzrMaDmpMh3+3iRvfslpq84eofIsIyFhr9P+kbGidR1wbvcQkJlSNxfGQ==;OMgEK4XOrThyATvqn9LgnA=="
 ---

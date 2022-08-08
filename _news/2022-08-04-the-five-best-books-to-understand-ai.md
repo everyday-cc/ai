@@ -47,6 +47,15 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 19
+  - title: "How to Use AI in Video Workflows"
+    excerpt: "Ethan Drellinger of IBM Watson, Carlos Hernandez of SSIMWAVE, and Gordon Brooks of Zixi talk about how the key to effectively applying artificial intelligence in video workflows is knowing the differe"
+    publishedDateTime: 2022-08-08T13:00:00Z
+    webUrl: "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx"
+    type: article
+    provider:
+      name: Streaming Media Magazine
+      domain: streamingmedia.com
+    quality: 19
 
 secured: "LykTaDaVyq7icSdPGaKZKex7lNSBjm9JEH14upf7iMJ+xuW5bETHVF6sqR2h95VcMVL/0vk8F91Kzzg277Bg40wUwDitMyaLyZD2t3ov9biM19AOO8FojDYQ0gSzhKzdm+LT7ApchDfkwLvvbbHNDUv0edT4jrNWVZ84hu77fVLqCNjjRpWqlAE9oO+T7RFmVb3Lqh/NlAaV5VnnCXo52K/wAgHROLdqjIk/RnL7x8iSagfALXuQ0lawcFDuJJn+DJgtI2ko/0lCJvbcZsS7xjgbVipjBhYR5MdlI1QLramO6PL+59dRBhUrxRYrOYYVs8cCNhtJ8Fw98AZAr8bDgK46Ot12UyGp3AYQo2NNBBw=;RnfKrLP3dphFwyP90jHglA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T12:00:00Z
 originalUrl: "https://www.grid.news/story/technology/2022/08/08/how-ai-image-generators-like-craiyon-see-our-world-its-not-all-funhouse-mirrors-and-elves-in-bikinis/"
 webUrl: "https://www.grid.news/story/technology/2022/08/08/how-ai-image-generators-like-craiyon-see-our-world-its-not-all-funhouse-mirrors-and-elves-in-bikinis/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: grid

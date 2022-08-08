@@ -38,6 +38,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 4
+  - title: "Valley National Bancorp invests $25m in a FinTech-oriented Israeli VC"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-08-08T11:43:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/valley-national-bancorp-invests-25m-in-a-fintech-oriented-israeli-vc/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 4
 
 secured: "ftFq9Z8ODuLLmogJ4Myfve6FrXa7Y8Ffg99efAb0dre9p31JbyWEqYpXGHjHLtl/6UwY4uZuCj3KyP32GL2CwKgpeswK/3s6DoszNi48fwJpWRSvjjIu6IcnBIF1TzzM76KWL21WVlHk5uxrF+xbK/mKpqPZsaAcU5KLYFeXI8Fkb6MVUZwjWG5WyrN5rnym7IQH/PuoWtiS9zu+1PwMXJiRERFhEqNBfakzcLQwZelD/cA8vvZuC5Zs2gPV3zI6rGgnyMDJM0TAmMDmy/JBWrnyYNwgM1+wcxojIHZZEide4vt9XG4jCA9qU4Zwzjy6SWx6GDVbfLuOGxe52In6JzQhnpik2hKJB0phCg6CO7U=;EoEUuDnHoTeQA6G9jwezFw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T12:40:00Z
 originalUrl: "https://www.news-medical.net/news/20220808/Human-intestine-on-a-chip-for-modeling-intestinal-injury-associated-with-a-pediatric-inflammatory-disorder.aspx"
 webUrl: "https://www.news-medical.net/news/20220808/Human-intestine-on-a-chip-for-modeling-intestinal-injury-associated-with-a-pediatric-inflammatory-disorder.aspx"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: News Medical

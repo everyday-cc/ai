@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta develops conversational AI chatbot: Concern for data-sharing?"
+    excerpt: "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot."
+    publishedDateTime: 2022-08-08T15:46:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z
@@ -189,6 +205,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
+    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
+    publishedDateTime: 2022-08-08T14:22:00Z
+    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 36
+    images:
+      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
     excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
     publishedDateTime: 2022-08-05T15:03:00Z

@@ -26,6 +26,17 @@ images:
     height: 405
     isCached: true
 
+related:
+  - title: "Dubai’s RTA launches contest focused on self-driving buses"
+    excerpt: "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively Dubai's RTA launches contest focused on self-driving buses Artificial Intelligence Self Driving Cars,"
+    publishedDateTime: 2022-08-08T14:01:00Z
+    webUrl: "https://www.arabianbusiness.com/latest-news/dubais-rta-launches-contest-focused-on-self-driving-buses"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+
 secured: "Rg+ZUoDcM3uHwYgx5AOnVnGdwxDWFzC7uZpqk2OXSj9y3FoEBQasBwLn10V8hMWlaPGmcCCPy9UfVr1JqHOlj3SStPAJrBwEVaUFHhEwAS3M3RutL/8lXwwqSF5tIrVaJOgYShvZP7BbEz8rSh5yMdJNR/l2tt2kdpdosbD7PPM9iCwscLWzufz/+iwKKv/eJEegp40Sx9RIIIrGTtEZkxIIgaffPwenUU6l9rPBP0HEFu21rAjLyppnICB+Zx0rUhsF0nhzh95Ix6SQcTQh+RYHMwR/S/fMeEkqsxuoNVHRYEb4B4nvQ8DCLPMdF5lwYtOsSrzpjQAThFZwTb3Q8/mEPN7vEX0hPugb8S8gCCM=;9n7efoVsWnSvSalHGFATqQ=="
 ---
 

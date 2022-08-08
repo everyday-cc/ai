@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta develops conversational AI chatbot: Concern for data-sharing?"
+    excerpt: "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot."
+    publishedDateTime: 2022-08-08T15:46:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z
@@ -201,6 +217,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
+    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
+    publishedDateTime: 2022-08-08T14:22:00Z
+    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 36
+    images:
+      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "wl3tdE81KMde+xGWC01xFfWpDMj9462rukeIdYP/pJz8fp2+VsDlRk7J4y6VOrfQZfffQebMI7zc9oJQNSrR9h+viNXMuxE11qwPjqv8qvs92t2owaJk3e7ZrNHrwPBjUSvHsmVKNjQvvZmYJGhk6H7yYNqxflKeKLviZZohaPpZb9qHylkLDsa8EN4RKfWNbW7HRzP6ngeu8m3eK/eBb9ibqeBdCgDKqltCMeyDC244mrYKtGo9TnPAwWhHLLMLEwtQ+oaS5UiFhXJqpcAbsjU0eMMLXZET59OPoMICmCjWMwBYrTPxiVcJgoZ5UNjXVdfkcWEPg8JiRbas1daodnnp5HSX2y1PW99HIEdsGJF+opPoDFaT4yJt15PpxdymX0qsAksTbHxztcjxCynBe0WAx90xfJiZWYt/EuKKIiOALhLrp+hnPt1pA0xIJy5jyY8xSUkQ8pl2V2dxgOgDi34yHdMi3LOhlKWRzVSKjhI0ztm+wd6qXWiXXwl8tCXrDzyUEywPQ6mkDmJNvDFJvQ==;ImBg1EHfw+tWAhqpnVW5JQ=="
 ---
