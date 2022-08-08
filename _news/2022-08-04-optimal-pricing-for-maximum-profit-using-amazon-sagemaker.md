@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimal-pricing-for-maximum-profit-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 1260
     height: 587
     isCached: true
+
+related:
+  - title: "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass"
+    excerpt: "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build"
+    publishedDateTime: 2022-08-08T16:48:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg"
+        width: 1325
+        height: 662
+        isCached: true
 
 secured: "2SXPyN1oJdF9G28/BQUXBvFCAVJLYHIp+3Yl6VwFfkOQbYSwz7s4MCWJSfcsSHKDXhHCWj3TSRtpUV/fgB/CYXf6nc09arCj6wHOHEcuYulA6XbY6jAWUjMCJbI+FnmONCPDbwjdjuhIaKpbswE/enKVkWtcqy7MSkjR86/nChinGEAePEMLg5+aoPeq8P+N4HINSYJkls6dIPVM/L+LLSpszTooOIycfntHgJ+n6HANwkVBWMGK06/dzuAPmKF7EFbB7BHAa6uxBnabMJE1U8afo12/vHcP1CES3BcVlDPjCSf8u496K0E2lSAan3XJE6vE4yC6+54/4itdbCYLxFIkMcrM4guym8ZiOrll4Ac=;5uSMKwBXPmo1pENrlu4ZfA=="
 ---

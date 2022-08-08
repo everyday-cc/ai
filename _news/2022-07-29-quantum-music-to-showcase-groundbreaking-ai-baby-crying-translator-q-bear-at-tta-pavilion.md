@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion"
-excerpt: "LAS VEGAS, July 29, 2022 /PRNewswire/ -- Leading algorithm programmer company in Taiwan, Quantum Music, will be exhibiting the AI Baby Crying ... and processes GPU pre-training mode through ..."
-publishedDateTime: 2022-07-29T04:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28260036/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion"
-webUrl: "https://www.benzinga.com/pressreleases/22/07/n28260036/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion"
-ampWebUrl: "https://www.benzinga.com/amp/content/28260036"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28260036"
+excerpt: "Q-bear uses artificial intelligence technology to help parents understand their newborn baby's needs and track physiological condition.LAS VEGAS,"
+publishedDateTime: 2022-07-29T06:24:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -23,6 +25,6 @@ images:
     height: 267
     isCached: true
 
-secured: "RjylxJ5hCn5Q9FM81bnPyAqSiprDCAuVjaXQITkITgHAYKyllBivHw/ijALjng5WF5lEUbFm9Bze/B7fHukzfYdh1dkGye+WjEWlcGC1v1k9FDsQjOsfulyxRQUDEQ7iOxeEU1rFRIv/oXZX2pbaAq+S6TB5BLfmeRIY5jIXzCBKRmVTeOvVeI54RqeczRqRzaYhSQYKaDbl3P/KQBiQNB/q0lO+ki+4Z/9ByU1GBDBq9Ops+nLwAR0xUNzWWAk4sIBBB8V1pi3f8hWQTo/sGUDbO33Bvbw1mjT4O5LM9fdHPX41oGsc1VZHuFVarUp2Vnvvk6uyWUBGarx4lknXFUqQaZeRoc8zgMwKMl6F52g=;buGvTEU8bYVJ8gnh8DJM/w=="
+secured: "uKG4O59Zg5ZqCdoNdHmIqKEueX4qkkuuy6llTdgsU2B1dOkxeCm4hxWzOk4fjQyLZR14QaIUKrG/vFnYsqae+p+io0+Xzj/F9TO/LVSHn+0LxbOTrp1xX49xqNw3ZKQ+QnKIsYtZGQsZcE8E/FIKs+AERydK58LVsMPxjuvx2YXO0vkHyzjLshVpNd5W5UyL9Y1i0U3HIF7WFXf5S03e30a5PVkTFLpe/JCoqiShU0h7CKEp81zTk+T8ZhxYhAHVQVdMDi6k0VJuAzQl8Fou2qQt6i+bHk3IdHSjMq5lkSUSwPo5ognFnVQqH1dM00ocbc4OMoOPqJdw/I2284LJABT3v7M5J2tPRvhRbS6/nxw=;TPPU/i88fw9KRqnr5ZmRDQ=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 1140
         height: 600
         isCached: true
-  - title: "Smart microrobots learn how to swim and navigate with artificial intelligence"
-    excerpt: "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,"
-    publishedDateTime: 2022-08-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/960945"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bfc6ce59-d29f-4b3f-8a5e-4518b0a9d416/Rendition/low-res/Content/Public"
-        width: 700
-        height: 317
-        isCached: true
 
 secured: "5plK03aMm+YedBQ6dne0urdIk1zTiwXaTAn1s7NHmpYFdAfQcf1rcYuRbceUOn05FbD4WDYr1s7k0x7t3a3Gny0y8Rq5uJoAfbIixTE+qK7kuVNRc4kS50xIllxvhbuijrLl+9yvIlqzsVoJM6vpQ2YOGGlBuJeh2PhmNgw5QJBx6lOrkJZHqgYO8+ExQB5tLYvoJ/i5I+lOMlgL6CsKNOooRf5HSiaB8i1ASMZCrlbfOs8dnXqz18GexqtlAqpRWJRTqos0zrjFshtZ14+4g4umQYMEF1BXBpQDSQublgbkdI7Xo4bZ5gFkVbJlbiMm/yZ9rnVEYY/aSc7qek+1IJmZ8KpVuuxGWTjTgSt17TQ=;Wv+mQU5dNZeTSItABGq0Cg=="
 ---

@@ -91,20 +91,6 @@ related:
         width: 690
         height: 460
         isCached: true
-  - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
-    excerpt: "Researchers at the University of Chicago’s Pritzker School of Molecular Engineering (PME) have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."
-    publishedDateTime: 2022-08-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961026"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3b2ab944-6120-4018-a0d6-7b511511d022/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
     excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed."
     publishedDateTime: 2022-08-07T13:00:00Z
@@ -115,6 +101,6 @@ related:
       domain: canindia.com
     quality: 34
 
-secured: "yK+KGFdXqZ6A12vMzOKDwlpoZaEwMzPieqh7/RcvT8oBOhWZ6gnLYabYJs8nGT+zaBDoypQdpIzn2jL4IRMcJj7QCZ4AH5AevVkLfy0qeItlAK35gIWCY94p1mMGjRr/e0BpBdBZSncdnoI1+FsMRxB1oeJrY4f1cLpwgtQkctzz4xcWtRD7pRxBQ/ZHT1rXs/N6/Ghc4A5WkHxmtuyEMdxxvIBmgh1H7O0lI0A+/1UPKUNvYOM2D8DCK/01e8IcGtMbvsET5Y9hcYt60hNFQfqVOgYsrSKeyKhNLUGl9WDO6FsKXa9ILnhBR7p3g0OqV+bBTeGm5wVi4jCo7PrezAeEF3X62Jz4jf7MVr7PMdM=;Vz8ZVQ5Y5W1CSI/S00G5ww=="
+secured: "dhMmIezJbwoqCytc5pnenuQVxQKnYl+OTCuAa6Vhnffp4Zyb6bVVN6JKz+3k0PkRfIDbcg6bLCX+GBK4zkzaFsvjU1hESaj+LUVNFxd/KhaeyPSdt6ZgB4q6wyL8ZewM4arkFlZSFB07h0Cq+zPVnBuPEia4OzXZ5ediZH8aRE9oJXf+UPgC1HaiR0+eH7e5SWRT4nb+aaEQ++CQ79f1OCX2XV9jLt3YQmOpxoLEiuKR+SpUYI9LARoq0mEMiSmJ7x2+gCy3Cp6A0VA5gHzP/FNzzFcNf2/fdp1HVVqeOhW9kkWzUUYJEXnKBe4rGgZCNPBNPpqIfqU6AUVW3CJdKa2ES1StxhK0S9s0wJxiT9VJpOXwcEIGUxzI7BGyPCpqo7kHJ4C9MQgu8e8kWwUOa4FGkAgiNTL+WWwnsjC9HRJ1qr7yJhpaLI7Ehw54y4jKdLTpcdvPXn3CGwVi2JS9CDB7nIBBxMAL8EZrUZHhRK/Mtay9V5UT9N0LBsiwR2PSQ+ZGNgrmU3qy4W7r6GhpCw==;vUZSZeQ+jWSIZLvA0HJ01A=="
 ---
 

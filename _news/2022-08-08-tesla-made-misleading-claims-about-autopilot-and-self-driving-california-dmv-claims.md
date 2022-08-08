@@ -206,6 +206,31 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
+    excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
+    publishedDateTime: 2022-08-08T16:28:00Z
+    webUrl: "https://knowtechie.com/tesla-accused-of-false-advertising/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/06/tesla-logo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla is Lying About its Autopilot and Self-Driving Features: California DMV"
+    excerpt: "Tesla ’s autopilot and self-driving claims are getting investigated yet again, and this time the California Department of Motor Vehicles is leading the charge. That’s according to a complaint that was filed at the end of July."
+    publishedDateTime: 2022-08-08T17:10:00Z
+    webUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773"
+    ampWebUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 36
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
     excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T20:39:00Z
@@ -225,6 +250,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "erlOu2UhK7W74nh795AoKxGVuva4u0zqk6dbYWmtWNZ+whTB72vB1cYkAFitXXEP3+9QvlgE+zabdQT/A93dESrqRUCWxLFkiNfj5Q7oJKvph0i/X9eHat59azlal0DdFU9TkYHyc1Oza2QBvDZ+GADvZBL8LY+5fxWZB6Meo/5dokrGM5EZH5ZnlLeGuAubk0AJb13ctaFXUbdGovRCI8upxDrGgaFKiubeH3cnyGF22yWjEaO6MREDu3ZAYTVztTN0NCm9gLrVXRbK59XmB/p/uvV6jn5ogfbgCwzwR2CeF+RRaeYd3dcoqLxwsWBHpRysQZH0w/LWtnfFFMQis3NZmUzb4z3aaLx2BuC/EdE=;UZCONEeWitBwy0zBu1Byqw=="
+secured: "RqhEqqTcyPA11Ik1zoRK64IgVztNWxtHUyrwxbcPlRcYBYnOhsR8gnOMtaP7rHo1NbziZK1ne7dZ2n6QhMV7wii6c2RUr0m1eda/9xQrLfTTBJRKT0MiO/SGxz1asZ2HZ6B4xiWtE/lAWrPa27WMPjqgjWr+d97FTjO5Koh3B8YH9+9WoWz2DhKoZrdwwJnrtZJjwO7JH295Xyn5W5PQHnFPj0/s6JnYAfBh4g907T2fP0dK1bLB5BsEhBD+Zp+TmUwGkAFdi9Y5GSx5JKUPHw4HCWV5AjawF8nZxl6qGJ3hv13N4mnD/IoZ3zmY5r2tNY4NyXGxtKe33PnNxiWDmCEhcYJ5At7ZuNX/9dfUzStU2V00lDsuwlZ4OEV7nLbnrLFFbJWs6AvHbfXx4GiVyPADjWv3eDfm1Ge1ejTC5NFon89PiwrSnXH5fk4qJ6SJx5Jl4L8VAC69frnIROyzJIAzwiTQgf6oSyROLwwEFu8eKqkgam2nucl/IhLX0pPgZX7XtWWpTuhLaeznmlkoMw==;AAG8Dx5jZQPSy2efMigs4g=="
 ---
 

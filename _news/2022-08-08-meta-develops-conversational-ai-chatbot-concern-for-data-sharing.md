@@ -230,7 +230,21 @@ related:
         width: 1063
         height: 595
         isCached: true
+  - title: "What will Facebook do?"
+    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
+    publishedDateTime: 2022-08-08T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
+        width: 1008
+        height: 529
+        isCached: true
 
-secured: "FQylCw1rvRSYJGHq7Wc/iCt/KmpNctpwyluwGYrrxhzzvMeOo9I1xNi/E+ZnV4p1pkU+Bl26I6b2Mrt869DYMp7B0qRtagtWIJj83pWrOi+ni3O6poBskMlMjWwFB9UVyrj15nZUDjxrvph0/z+o1CNGKedAvglzUW07NgOEFxTdPXQzi+i87/HvxQB/2k9pk+3qoRRSrDte1xqI7/YmiX9TKLGhoT8h4cVHt/qXmeEcZJUj76FOTBnhRQyf2hpMsnulhW4X5Sh6Oqnijmz2ALZZBh8EGdk6NCk7kZWg27FM/ebRD8Hd/sf2WPHhk2evagfatQ2kjz8Z4f+r/3IL+7hGk4YV9FvyJCVIqA3R8UQ=;mwxE8To+0GX6dhV7kiHpYg=="
+secured: "34Gg0TGtWDZHgLubCjRPF1lZv7PKu3zRTwhlW0P0X61v6BymCFUglgbfMNY3QgB2LwcIptSOMyUFSmos6b5D4tQZ/VCZRgiht6wjXmCO2twddb6cK+uAGCZAwtkGKWgXWDTyyWfF1u/+S9J5j6whO01xQoHuY85S+KEHiFGvJzX/ZsErO1SrYed6OYYEKK0Cj9sZwPBJpN8pyWjUHhW7mfYMzH9OKszIfUMqCqOHESrjlnD8Ssrs/9iXI9KpaPO8VQcfssqbWTbDfv55hC6GM9l6UchVyFpj4URx0T5LbRUdzTvICo0mAszhO5DTsey7CKsoT62n1ohk0BEOY0HQDeD5cxaA/+wOiOGy1z+xC/M+KFncohI1q2BzKaLTm6DOUMhrPY051wsyLC+yI5jv5uugYsDZ/oq5yur2fES71SdODjGSAVyiJVDcN0pH74wJVX4PwLhtyDoLXEfzDxsDIMzOBw5PjjmX+XrlRxxnxwr1XZ6TZ13jqF1qU/cB3KC3IT/+fKx0+ccUIc8AKQYrhA==;mq5RGUFyl1oTmSqr00Zo7A=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoin
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -39,6 +39,20 @@ related:
       - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/mike%20prins-main_i.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Yoodli Announces $6M Funding for AI Platform to Overcome Fear of Public Speaking"
+    excerpt: "Yoodli, a startup building an artificial intelligence platform to help people communicate more effectively, announced that it has raised $6 million in a seed round co-led by Madrona Venture Group and Cercano Management (formerly Vulcan Capital)."
+    publishedDateTime: 2022-08-08T16:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-artificial-intelligence-43ffb8106af2eff8352cc87f5c406eab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "iP9rDQcwENUFRfI92jbT0aNSEvdgPTM4/tjd9RNmyQbVPX1cany3TmrvzElBhyTu+9QG9QNIuZ9DckUSE2P9MmgteSVa0MsQOdg1b7MKXyNYSPgjGiC+uDPSgRdsGeTDjpUGOUmjpXtY64FU1r98YsmFB3U6rzwkeQuJRNwRl/BO9JYMZPY6hG5woKlqFuahiQGSMPmeoIvwmwJcqod+jfNswwYpqUpZyW/FPt7oPOK1PCp25uZwA9uB6tJKLqBCi90vA5Bcz4mDiqr/LegpAf89zZZrMJMAXuPKlY7o2ulfNbbXwlwAcBksOGrMc8gK34FoRx3mMYw7R88rWuFSr+qtuzOEPVyz0U9qK/97gIs=;0RGx77S9BfpHAr4QY7L5/w=="

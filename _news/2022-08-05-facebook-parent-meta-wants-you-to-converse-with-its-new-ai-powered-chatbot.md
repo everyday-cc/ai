@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -234,6 +234,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
         width: 1063
         height: 595
+        isCached: true
+  - title: "What will Facebook do?"
+    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
+    publishedDateTime: 2022-08-08T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
+        width: 1008
+        height: 529
         isCached: true
 
 secured: "Y0c1noZMV0V4R9XBeFTjEKUsoyJnXVD0XWcDpEkZo+eLmA+jNaJskMsWvfnX5TZg/0QDOdvFibbWZCtiMpg+30CyEiJ6jWD+sSZGUcSKZF/eqs+v8KttUL7FeitnJAt/8UdPAoavJBy16x/bAkpHTBAA1Cqc7QBlZGleC/caae+nOI+xN+OgY8RkkK9yB3SFkVCq1aptnIEMqkgZvzawz+qQi2sk+cDJsdexAcepb+GBx9A8wwZMWJ5tL7NjvdgJVYs0+4oEYQGXz7Rkc0j7vilYIQ0cFsBkwcKC5OJZtk7DK9VzkUtVUu9qClU2ZhYjiwH77No36d6/+GLfS6NELEKFo0K/SVulrBP0T7ZZdYXzt9Twl/CgFty6UQwgaNFkFL0dLS+Xj3TMtCfJmyph94QlyxrMHPa4B3RBIW6vQTVjRMm6LRZZepCpAyjWP8DccKfrMN/RUFyNW96oBVqvcWSQVScnlSa3kwof0w9uzmiXA5URPA49K2sHdCtXBrv0buDATpjWiPq+lUlFpYp4wA==;kiRL8ihkJNiYiRWraCRB2A=="

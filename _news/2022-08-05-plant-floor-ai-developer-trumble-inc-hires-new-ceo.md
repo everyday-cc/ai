@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Yoodli Announces $6M Funding for AI Platform to Overcome Fear of Public Speaking"
+    excerpt: "Yoodli, a startup building an artificial intelligence platform to help people communicate more effectively, announced that it has raised $6 million in a seed round co-led by Madrona Venture Group and Cercano Management (formerly Vulcan Capital)."
+    publishedDateTime: 2022-08-08T16:05:00Z
+    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-artificial-intelligence-43ffb8106af2eff8352cc87f5c406eab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "8Yl1djAG7PSwMsvGewoAvfNvNYNy8P5vmrltE2v1ny6mVbxoHoyBR4JhDVdativG0NtUciC0BeOvRDNHYoX+8ceHsRqIpcPYVSwFlqkK4FYJ4odCeB09bxauEgWQ13cMw8LFUFbNvae2D5ImGeJSBenisPE6UCfWfp0IcQ9rAN8Zalev5Agj9yHk7jStlOBKLHfHcVTBAmMgYHo69T5knFV7goh1DOWaNar2VQl+CQvt2kqyeiYLtEJRO5AGBVzKzSs0o0swuKxNWUQc3VbAamHdwYpK/R379iGgIinAYm0deTGrnGdCddEO00HF9yxXttLqNJZdnoET+X3BsdXjdljkWYh8aHhb798p7L2DI9M=;jYrLGY/bQhc0rPnOUQwSFA=="
 ---

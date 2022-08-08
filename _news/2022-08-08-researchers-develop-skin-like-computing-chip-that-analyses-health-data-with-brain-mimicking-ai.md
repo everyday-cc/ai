@@ -87,20 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
-    excerpt: "Researchers at the University of Chicago’s Pritzker School of Molecular Engineering (PME) have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."
-    publishedDateTime: 2022-08-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961026"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/3b2ab944-6120-4018-a0d6-7b511511d022/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
     excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed."
     publishedDateTime: 2022-08-07T13:00:00Z

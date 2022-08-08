@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/greg-gutfeld-long-trump-derangement-syndrome-driving-medias-polarization.amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Fox News
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Fox News’ Greg Gutfeld uses study about self-driving cars to make transphobic comments"
-    excerpt: "I'm worried about a transphobic car because if you have a gender setting, and yet you have chosen a different gender than your biology, what will the car do? And if the car says, \"Look, I can only identify with your biology,"
-    publishedDateTime: 2022-08-03T23:36:00Z
-    webUrl: "https://www.mediamatters.org/greg-gutfeld/fox-news-greg-gutfeld-uses-study-about-self-driving-cars-make-transphobic-comments"
-    type: article
-    provider:
-      name: Media Matters for America
-      domain: mediamatters.org
-    quality: 16
-    images:
-      - url: "https://cloudfront.mediamatters.org/static/D8Image/2022/08/03/the_five_-_05_00_02_pm_8.jpg?VersionId=Scm83Gw5.bM4eB3Rf9sEY3ji77P9B_JH"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "vk1czTw8oEGBdQ0S5L9Os3Eqbr6FcmJWPwu6/iS7VeCbzwxbR0QPLIP86UUSCDd/oojUuB1/zBxPBIsRVvGk3DKI04eDBsKHXoSR2sG0s8t9dJK5jr3+TViSHoA2jSb2nhGJqodhdKJocJfVWCxXV66yoyjqnlvkIygz+VeIEHr5uiBTADxNpGsXQDlE48IUeEHc7Q0U+OZk0w/w07qWWjJObaA8q7n2bbS96w406C+eLRZo2JdyrladSS4xhR/2DUgNjEXT14grAE228haLFidsZpkFCVkWFZHuHPA1uYIz0P/crmBwHY6YzPTpOIhhPSlShrrpQ9Qq8bK/51bKmNIl+5o9SolPTRD+dOYnX881sWCxBjzkdFcmZZG2j+YGbuY/IFMZSAufRFO+IAPo/QUlmmF71pNIewhVLfAURxN34s/KMOeQLK9XnW8LysLbUwFQGsfRACDQZ6B/tNjiXSQyWww4EvNEEhpwK50pqZ8Zh+w8h20mMDXwzQmm4MBlKuQp8+ruu9yt2V+i3q6R/A==;2RViAEigo2RA1CgsNDmssA=="
 ---

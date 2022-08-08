@@ -1,8 +1,8 @@
 ---
 category: news
 title: "As Meta’s new AI translation tools make waves, these language learning systems are still the best"
-excerpt: "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course."
-publishedDateTime: 2022-07-25T14:51:00Z
+excerpt: "Some people may seem to have an aversion to learning other languages. For Americans, this could be because English is by far the most popular second language worldwide. When traveling, there’s a ..."
+publishedDateTime: 2022-07-25T16:03:00Z
 originalUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
 webUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/"
 ampWebUrl: "https://kdvr.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/"
@@ -23,6 +23,6 @@ images:
     height: 585
     isCached: true
 
-secured: "9/urXalf665AgkKoluuGxSmY5Fcq3s1HfwreGkYndrHW40tLUc2jvv6PHAf2tgw7Fip4Y7B+RHEhAoVhARA0fH6fwNiXTtP7+Ph3n2oHyLrbeLIVZ7juZeL4/RC13f1ZRO+KcTM1cmzVygpj07rzi3H3biLiNfwIJfYZpj0C29+37Yb+EBAWIT5dUxOh3O1BtFpvxM1N+nTDKxJoQAr539whcKD1ObMbEPFwLfF0ipPh/g+Nka9iwZyBX9FcmnBCx4XZtnDjqvd6agoLKY2WhZ8wSRS9D9vqBrq85xwlijZUiJD+qIpAdXo3qxN2Qw237Wmjzyg1jOaR3YkZpIIwJBQ9Q2WbyeHPZu+JGe3g4xRG42yGatbv+y6vpbbcghDyTRSKRsED9aJcsy57seVk3Q86cecwnXPcvCuwYPjkWQ0pu/b8qsxwWLpby9oyMiwIGrzzkrl0URyX+BVJrp9rg2zZp0MxZ0tcOdlr/7BB/otWqAZZGHUujIG+/5BkRTppiIqIJshWcqjioJ6YxXWcNA==;dq/Eyaxd4xv5xXEY/PZhOw=="
+secured: "dRVoKMSTsYkbfAa4P4R8QE/G9ESvt+9dGixYEdwmzSpWkGcgrc5GVWkTWt7tkBcTLAam8Cha1XAgOk2jLQp03ZpkV6aOF+9E8MCXXD5cA5Y92jbvESne48R1DiLseKGpyr3agp3RA2IKmhAhCZg7RBMUYJTnVsGul87uj5tGMVTEY3CW1jAtYlodoUsv5X+L+Fsc57hqssI0K+mjydXgbwN/em9bZFbI8H97D6IvPRFnAgw96ns5WfJ/641IKO9Y18u0lEtAfZffZwXCBocxRFB733xcQcPhKha00Dagdjz8SL7dnIIkl0ANCATnkJH5ny5Um+Bgd3buFz0Ds9s5lAtq2C2LpeuVPmdEDHgWM24=;lEyvMACVp3jToVBZAf3iwA=="
 ---
 

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
-excerpt: "Baidu, a Chinese search engine and artificial intelligence firm ... but lags the U.S. in introducing such services. Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona ..."
-publishedDateTime: 2022-07-21T13:00:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-webUrl: "https://abcnews.go.com/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6-87161467"
+title: "Baidu Unveils Latest Autonomous Electric Vehicle: Apollo RT6"
+excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
+publishedDateTime: 2022-07-21T03:58:00Z
+originalUrl: "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+webUrl: "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
 type: article
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_ca22ebabc89a4f47ab85249b632b8608_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "Qg/Kncm6M04siWw4TP/DGpYj8m4T+RqciWCF5yoXSaW8uFVIowsySojuszzZ9pT75HSuw7fjaJMjPqemnGbJaEWcHv0F94vjeqMQi+d1mLcRbFvCbk/1yiNL5LaBDYZaWvE5qzVKhaR4ymhcmYHZpBWvyK9TzWzadqUA6JSlCscpncK2plsrmyAQq7XMrT0M7LzFXUyg52z1fNtgd1Rp7QcjTiHMXIOTHZZp77BCKfIdzUZefWfvMNGCqnvUosepf1aIqW+2yqnZW4mD2OOGcwoLeCNAGycFRz6oJsAtu37v0M/0D/Dcserw1zz9yVAC/kforslL57I/mUTPq82YenPk9KQvzEARJJUZpIY3tDE=;2sUkqE4NEIv43J+cF6gqzw=="
+secured: "RkIFwxl8d2QPZr/e5dw8KTbmEpYA3/kmYczcEvfw3hSXuBLVR3X7pUxIM9y4sFUMn3CzVzLuRtNi/cEd6+UJ6G/tJkqGUXune27OZ3E32UzOISHdbGoEV3/n47TKL8G535f6F6vbLNf6t7H7x06IKqN3HtOFNB93XTFI0vnWtV7GYx/0ph5M3KmPADlEmBaSbVgCiXbphQoT+iIPRJ0MgHsX810EluwS0D9d/+ZxBcVaR0zfyTIblvYXjLcP6U4INprLGuCPWelkz/bnNBMBloWnp/gztRqCkQ+wMKJEyDrDdO9INZohRAKM04Q7Gb5ZzwVXOaBUp6yCJ+GVEkNKowl7Q1EF4fUPuiQH6eghx2s=;Vhd7HJvDwg9tnHT+6O3dpQ=="
 ---
 

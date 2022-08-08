@@ -214,6 +214,31 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
+    excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
+    publishedDateTime: 2022-08-08T16:28:00Z
+    webUrl: "https://knowtechie.com/tesla-accused-of-false-advertising/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/06/tesla-logo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla is Lying About its Autopilot and Self-Driving Features: California DMV"
+    excerpt: "Tesla ’s autopilot and self-driving claims are getting investigated yet again, and this time the California Department of Motor Vehicles is leading the charge. That’s according to a complaint that was filed at the end of July."
+    publishedDateTime: 2022-08-08T17:10:00Z
+    webUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773"
+    ampWebUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 36
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
     excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T20:39:00Z

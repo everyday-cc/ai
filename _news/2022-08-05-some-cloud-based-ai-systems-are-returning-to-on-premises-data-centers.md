@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-system
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Government Leaders Are Turning to AI"
+    excerpt: "Artificial Intelligence has empowered government employees to deliver on the mission. Today, agency IT leaders are turning to AI to extract data from growing mounds of records, address higher demands on social services and rethink outdated tools and processes for scale."
+    publishedDateTime: 2022-08-08T16:00:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2022/08/why-government-leaders-are-turning-ai/368708/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/28/iStock_609072850/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "7 ways health systems are utilizing AI, machine learning to improve patient care"
     excerpt: "Hospitals are using AI, data analytics and machine learning to improve health outcomes, produce predictive clinical insights and improve patient care. Here are seven artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Rochester,"
     publishedDateTime: 2022-08-05T16:28:00Z

@@ -1,0 +1,26 @@
+---
+category: news
+title: "Seattle AI startup that helps professionals improve public speaking by analyzing speech raises $6M"
+excerpt: "Yoodli, a Seattle startup with an AI-enabled software platform that analyzes speech to offer tips for improving communication skills, raised $6 million. The founders: The startup was co-founded… Read"
+publishedDateTime: 2022-08-08T16:24:00Z
+originalUrl: "https://www.geekwire.com/2022/seattle-ai-startup-that-helps-professionals-improve-public-speaking-by-analyzing-speech-raises-6m/"
+webUrl: "https://www.geekwire.com/2022/seattle-ai-startup-that-helps-professionals-improve-public-speaking-by-analyzing-speech-raises-6m/"
+type: article
+quality: 33
+heat: 33
+published: false
+
+provider:
+  name: GeekWire
+  domain: geekwire.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "x4eHmXpmi/qp5Y1RdTikhsfy5pGyYhqQOgemz0eIb3hQmtL4TEX2G/pSP7e1R6djqbpda5yWqGI96+WwfMewPU+J/CnQlPtxTqeNBtBbtZYIDEs8LsNMpYOSyAP+O1Z0gQfa63aIoK/TKvzG4lKKI/9FQeK+XglZwtwiFjSa3eJjrtH762yK5RkCx9FNQToFc66A743FgB0C1yQGrx3nXBdmKjRt0FZJm+BevKEFH4M15ND8+Na++Wu6WXL6hbjww6FWJ+6oqadMVmf5//UYxB9I2M3vqCII3eyKH7UI49W9q0BXO8Akvil0oDL/VNtUviNSJfGGdHK/n6tEF8Q/4cJATAkDtbJ5gp+x+owebqNLZbTAkWd7eE0Pz3N+LYwRExPRPgTuUKf6g4VA8LHT4TfshGN+vgwOglK+Xhf3aBsDpy89WypHTSutllo3o5W2gMwPwMZtwtG+W142p0cxWtHN2BqEkAVspbXtvTEa+rBLtiCv4XhjgRox7VjwdH6ehGKJ2L7mDuFSCgcoONClqw==;pnSWgH3kUagv9S70vUWnMw=="
+---
+

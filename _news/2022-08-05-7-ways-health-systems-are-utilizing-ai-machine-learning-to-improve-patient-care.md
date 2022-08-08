@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Government Leaders Are Turning to AI"
+    excerpt: "Artificial Intelligence has empowered government employees to deliver on the mission. Today, agency IT leaders are turning to AI to extract data from growing mounds of records, address higher demands on social services and rethink outdated tools and processes for scale."
+    publishedDateTime: 2022-08-08T16:00:00Z
+    webUrl: "https://www.nextgov.com/sponsors/2022/08/why-government-leaders-are-turning-ai/368708/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/28/iStock_609072850/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
     excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
     publishedDateTime: 2022-08-07T00:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-smart-microrobots-artificial-int
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2016/03/77D_1.jpg"
         width: 465
         height: 350
-        isCached: true
-  - title: "Smart microrobots learn how to swim and navigate with artificial intelligence"
-    excerpt: "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,"
-    publishedDateTime: 2022-08-04T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/960945"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bfc6ce59-d29f-4b3f-8a5e-4518b0a9d416/Rendition/low-res/Content/Public"
-        width: 700
-        height: 317
         isCached: true
 
 secured: "LEMDupO+0wZa3YQaSfEUdjXvdANBBPH2C8AVMKMDdW5KaoJG30413DLvuIXw+3byulsJSsZklqVHxadCKFA5Ruiyb9JcK6Di0qQUXEumsgvo80wXEdyGBvUdpdgq3/ze1+MaNW0KuptNF7tdTs1sneLYBfucnDIMLyHmSU4xPXGkW/Nw3/1btML+mMWTnW6SBt0ToS6LTglUYUlAjcdtzFm2+cpLwBM4BWq3OZGMv7+D9lyNgBV7iBC7OEPvG+Nfqfj0NhB4nXMlqN0X/ulRmK/eMihw3m7ee2uKUnay2v5kQGXGZqu/mKijZoFOyeO6+i5KLIDkHprAJjnhGMYzEvKF6pefcZxPxtlKJWJU3bBjz1AgfzML/H53akmBm5VoANeznuaFfQy9IUJc4XPiIrXoBStQZ33kDSc6sjP4M+VT7fcrz0AdHyqwSSdfawqVI00BHPz2+w03uJubB/+mO25pD9sd6X4bOA/GMi3WkBU3flcrSQ6EQS4M83TglM9OOEvi23hLLbCOSZJbqmBDyQ==;im/CT0iFRLWt0rax/dJ8sg=="

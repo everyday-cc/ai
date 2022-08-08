@@ -2,18 +2,19 @@
 category: news
 title: "Protecting students: School district adds artificial intelligence to increase security"
 excerpt: "A school district in Illinois has approved a new security system officials say should better protect students."
-publishedDateTime: 2022-07-29T20:52:00Z
-originalUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-webUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
-ampWebUrl: "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
-cdnAmpWebUrl: "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+publishedDateTime: 2022-07-29T19:52:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+webUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp"
 type: article
 
 provider:
-  name: WTOC-TV
-  domain: wtoc.com
+  name: KHNL
+  domain: hawaiinewsnow.com
 
 topics:
+  - AI in Autos
   - AI
   - AI in Security
 
@@ -23,6 +24,6 @@ images:
     height: 369
     isCached: true
 
-secured: "90+Njv8zehSIykR69qmiVo7s6FL5VN9l/vdOXzr9D3mRdbJqWcO7APl8mwm5JRi3yM+AN+Wve4yKvj9jyvoh9GoVUa1dc788JJcand9Zd3Pg5vVQHfUP6UPXHTiKFJExCLqxHo2ZqrSsgAU0gMvcmlwYLHqTTfcd3ScFBSRykHp61AXbpMA6X9qLkUWEfCx5PmLlUpoDVpZtEfrJGUsR324nDwr0jugjPxMR/WMbQQumHUkcPMZAizRnM9jRARtaanVPM1LXBGLMi9HQnyNdRYfsyrS3TnFz74kf1qzq/SV4xZfl2Htw4Og0hDSdwE6znd14dcI+Zbv2X4J8MNwCBzpJkzxW6/vc0SdpHkGoWFo=;2sSi83mV1Va5PMD+d+SivA=="
+secured: "g+uMZn2hfHriIY8n7Ox3rI8vPbcTazjy0CYW/Sbjg1/NEABQ1I0/3c2PpCcoT82xjyjiWISrSlLNtRvmpgIpPCyYPdu2qDi5XdSJBaCNkXVcdXUFODcOwfioE9v2XMh0s9m+1uxZKz/btafTKEEic5dgtgx5XCsyK97FMNkuR8u402/fimGbCt60/OCt8+0xqdtcUhzmetoiXayIhjpHKBueW1O+48cIVTaUO1aScKA5ZwdWC1HMzQv3b7a0NTT8Jrtct2pK2YtQnlpIvSMhFLZ/e0wchXNpZO5/B3zHmcomHz+W4pnph+GGtZexg3oxCZkcANCpVxL+Z0offgN5ghRSD76UTqIvETVrY6kNStY=;7D33HnOPOab1l6WuFd82dg=="
 ---
 
