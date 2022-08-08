@@ -1,29 +1,31 @@
 ---
 category: news
-title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
-excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
-publishedDateTime: 2022-08-04T12:09:00Z
-originalUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-webUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-ampWebUrl: "https://news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
+excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
+publishedDateTime: 2022-08-08T04:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-granted-china-s-first-ever-permits-for-commercial-fully-driverless-ride-hailing-services-1031658157"
+webUrl: "https://markets.businessinsider.com/news/stocks/baidu-granted-china-s-first-ever-permits-for-commercial-fully-driverless-ride-hailing-services-1031658157"
 type: article
-quality: 59
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
-    width: 1600
-    height: 900
+  - url: "https://mma.prnewswire.com/media/1873706/Baidu_s_fully_driverless_robotaxi_providing_service_public_open_roads.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -54,20 +56,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
-    excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
-    publishedDateTime: 2022-08-08T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-granted-china-s-first-ever-permits-for-commercial-fully-driverless-ride-hailing-services-1031658157"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://mma.prnewswire.com/media/1873706/Baidu_s_fully_driverless_robotaxi_providing_service_public_open_roads.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-08T03:35:00Z
@@ -114,6 +102,22 @@ related:
         width: 3027
         height: 2018
         isCached: true
+  - title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
+    excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
+    publishedDateTime: 2022-08-04T12:09:00Z
+    webUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    ampWebUrl: "https://news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
     excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
     publishedDateTime: 2022-08-04T06:36:00Z
@@ -124,6 +128,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "2m3TQ4qk4Pq9xcTJoKWu/a/EQourJqPXRP7Our/RQTO0mhcWm6wK3AtqS9DqViDiEdJgWP7BvoPSZBPRuenEryJg4geciW0vKUGPN7FB5//t0ik4aWu6L0zwxy/IH+PsT9ArsU84zz5vONxZJh1JUWFt17I57PgNBzmwazYxNq6zjRL1RoJUmHFqfWLNMQyIP3di1GTXm0iO360weYzNX2DFMNx6a21wlTdrgg5ar1q1+1264yjxMbv+epDalBRhhPb00MR+B0YlZ1u/+PEiTgSVlGQooM91rDK5FWiiElG0h5akD7wHMVNoSs4akRSQ9ZqfVVyz5UdI1FjyOBpu5RsQQ5qzwCy3Kpmnj0h/DYY=;1iSo/+FphXwAuy6bcv8PSQ=="
+secured: "I2eXv5kD4yW5Rpgihcr8Attm6dYv3UflQhCe2RzbrhKalidSq5xSmU+3hCbkkGGF4z3QpziyE/2tis4jUHgvPMKO1Unw83e0HmSFQiKLIy1pla8Tgwu/eU6gpTQwScpPBMagKrZqh5YRwN/BVFhXjbxhE80LpsQHenIFeIhciTgdHWWr8T78PNvaX0Qj0fXNFeE4Dl/9M3EKVi6wTcL7ggZc0tMy0Q7RawgXfOKwBSZskigskc6tB8km/RHJP42yWqEiqU5U2g/HxKet/UQYhzFgXvVQAWUlJdg80mmbdVz7hupHMOE6ws6FQ/mI65HZbKgyaqg+mRtrE6EU4LeKx5rG2PO7cYiK8tOiiI/4P2g=;6xlIHkO2pI3WgPCsqXfkHg=="
 ---
 

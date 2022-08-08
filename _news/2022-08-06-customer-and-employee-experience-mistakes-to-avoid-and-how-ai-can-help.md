@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/06/customer-and-employee-experience-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -46,24 +46,6 @@ related:
         width: 1024
         height: 477
         isCached: true
-  - title: "How AI and Data Science Can Modify the VC Industry"
-    excerpt: "In this contributed article, Jonathan Serfaty, Head of Data Science, Telstra Ventures, discusses how Venture Capital (VC) is one of the most powerful mechanisms in modern society for catalyzing innovation – particularly in technology – however,"
-    publishedDateTime: 2022-08-03T13:00:00Z
-    webUrl: "https://insidebigdata.com/tag/vc/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
-  - title: "‘Service experience’ startup Aisera raises $90M to help enterprises go AI-native"
-    excerpt: "Aisera has created what it says is a proactive, personalized and predictive AI-based Service Experience Platform that automates key processes around customer service, employee service desk and information technology ticketing."
-    publishedDateTime: 2022-08-03T12:14:00Z
-    webUrl: "https://siliconangle.com/2022/08/03/ai-powered-service-experience-startup-aisera-raises-90m-help-enterprises-go-ai-native/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
 
 secured: "rH4dfa0BiQIj7PJYwrzyQo8FPFAymjbc0YqmURWEbaRWk/yGqPTXQiKmWLHuoVrlTBDSDCn0nx+oX1jFriNJyZ1+P0botFEHgEkqxSsfsf+kIv5iy/SHsMCXHsMoIbI97MTeR5TCbVXWKeAGFIbZmLfZCn+yXyzIhwqf/9KjKYrkiJtgcdLxMAQYOLbMCHSRudOwMUIcHGvm0/6d666pgaEPKGNQ0oU7Y0Hk7KhMb+fl4UrJNLNJK/Szcv2jmqcEyde6VpTmLa/ojviBYPopCzaCU1j9G8FheSQFMaKQE/xpxCir51iCEJ3gqOLrhyaE9EOUJTITIaLbILcrm8+QVKv0BX0qbBxfwJVZ+aSkrxKDOIggVmOaRsHjU5Aih5SO9FAHSb+mdHG7KRw99yT4ifXhFoYrd31gQ37ahNxFls6DS5rff0VwHI+L9pUBxjp0fVPvLjaCE+WxEnBQGgspISvZNvHFlVrhAEJHfC/E/9mVU/ljo1PuivQARTO9/uqPu8JRhH6T8TGJL6s3dGNMZg==;HX1v/rf3+w3R/t/bY4NezA=="
 ---

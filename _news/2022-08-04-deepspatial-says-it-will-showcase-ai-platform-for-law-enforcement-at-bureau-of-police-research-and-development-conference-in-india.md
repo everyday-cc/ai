@@ -82,6 +82,22 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "HAL Working To Develop AI-driven Drones For Strategic Missions At Border Areas Along LAC"
+    excerpt: "Hindustan Aeronautics Limited is said to have in working on AI-driven drones for strategic missions in high-altitude areas including LAC at border areas."
+    publishedDateTime: 2022-08-08T04:11:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 48
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uzduqwwkhsaklaiz_1659930564.jpeg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
     excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"
     publishedDateTime: 2022-08-07T12:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
       name: Modernghana.com
       domain: modernghana.com
     quality: 21
-  - title: "Most adults with autism can recognise facial emotions almost as well as those without the condition"
-    excerpt: "Difficulties with social communication and interaction are considered core features of autism. There is a common perception autistic people are poor at recognizing others' emotions and have little insight into how effectively they do so."
-    publishedDateTime: 2022-08-03T12:50:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-adults-autism-recognise-facial-emotions.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
 
 secured: "s+TDRAfI9o0fHp56oBfU1gxqRrKEdNqlzBIRyWMLTapIN/SnNY00p21PfsoNWGqgR8KNbE4tG7GlOG8OBg7a++OX/8CKF5s/LTxogdtxWcEfArH+J7xUmbOFwRBXkyMd61pfIGom3AWDnqNvO0v4fbtOEfhZqh7d/pTRkdCuH2E7zWHjSqrBr9+SCWdQUue0qjNgVkQ7LVT301ifq5ZqgEJne2XvO3q68T+jRPxHDqP7HOssRV2I6iK3G6K3lFN1SEzfVQdy6Vbb7q+CUInQKaaTxcXvPdNeQkfF0xOBorCL74O8bFLxzyuGJXPX1Sv95FoseuJwSNvKk/s4GFQxaSki0m+wsrzjKqlgcYbgxmc=;hHtEy+xRmicxQTqyY3kGIA=="
 ---

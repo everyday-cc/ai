@@ -56,6 +56,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
+  - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
+    excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
+    publishedDateTime: 2022-08-08T04:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-granted-china-s-first-ever-permits-for-commercial-fully-driverless-ride-hailing-services-1031658157"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://mma.prnewswire.com/media/1873706/Baidu_s_fully_driverless_robotaxi_providing_service_public_open_roads.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-08T03:35:00Z
@@ -71,6 +85,22 @@ related:
       - url: "https://c.ndtvimg.com/2022-08/l9l3scho_reuters-image_625x300_08_August_22.jpg"
         width: 4409
         height: 2939
+        isCached: true
+  - title: "Search engine giant Baidu bags China's first fully driverless robotaxi license"
+    excerpt: "Baidu has received driverless robotaxi permits from southwestern municipality of Chongqing and the central city of Wuhan."
+    publishedDateTime: 2022-08-08T05:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license-41659931095499.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 70
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/08/08/1600x900/Baidu_Self-driving_car_1658373939915_1659935096826_1659935096826.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
     excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
@@ -98,6 +128,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "QFTE5fjA9dn4JysDgQ/m/C6pasAB2WHC4HwGfov6/dxJ+l03LNnL0FudoIw6ll4FZ/lmMyG7a7d0p2S5gXdShju9K65CtK+LU9/M4XCt1MP+Hju+2AluRKRo6i6qM6FCSkmf2dtFpxHAVs1R1oQ+V/GHgXAQZwchoYKunRmkmYl4ujQD5dZLocE44FvrXVYIdyF5M0+hc+MPPLtrHtSuLx+cgvDpTOrxP7IQeQbj8BU6AjYs/lMUXAF0mPh1VemrNqdT72JTUMe8KRSNAC9BbLEKIq+gwKmkVBnDS5cyOuhHIUb6WvNRgmlG7SLTmJpPrvd3Bf6jv2MqCmGocwqVgexFFex3EOHDXkJ5GI66NIo=;EuJeXOeBgKMihBgNxlBuFA=="
+secured: "FGkCTFf99mtdVHUXGhFLhINxZoAgR0mwhewT+l4j0l9ah9ZWgOoicb+3mE7uoGyUggdhfAJ8aBZuyxJEAE2LEdmyfnloeX4sK0REh9JaR2xMJXQvH6+tkJEKugsBWD+wVzUWeQFQrnu9JArl7uzGRevaAnpXSkLXL5oF/dXkw4NfeTonkzq6tejjpeDXCNln/NdDz5O2ILVQDfosSJqbfIM0OvQwYKwMXePoFcf5RXlTAG1vCG/YBLspm9eyCRO5rmwESGB5RnD/GXWrr/7En9f5Kbkv0MopIAPXocNynSFtAO95VvmEpYfUZ/XIHngI+UNbJMYuBl2KsODMRMW5/KWBDuHGeAHi0KZ3WrFlxYom5ER1/NlYE9LY0qQ3nZ1sjD9qiPoWAjEc517FEhzrYqQd84c+oHsVKT3/CzoMvMm7lNaVmj6TUdppiECQ2cH7GZvQW7HfqandZ7WLdbNQQ1hMtfoywypZNnRNt2FmFxV+V/FQoPNNzl9Ot000tCS3NTwsE9kO+5twrAWkO6xHug==;0pMZW/1QHW7JmlBZR3LSKw=="
 ---
 

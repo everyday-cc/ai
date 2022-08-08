@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2021/09/drone-land.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "HAL Working To Develop AI-driven Drones For Strategic Missions At Border Areas Along LAC"
+    excerpt: "Hindustan Aeronautics Limited is said to have in working on AI-driven drones for strategic missions in high-altitude areas including LAC at border areas."
+    publishedDateTime: 2022-08-08T04:11:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/hal-working-to-develop-ai-driven-drones-for-strategic-missions-at-border-areas-along-lac-articleshow.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 48
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uzduqwwkhsaklaiz_1659930564.jpeg"
+        width: 768
+        height: 438
         isCached: true
   - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
     excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"

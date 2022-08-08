@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-produc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,77 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Advancing Artificial Intelligence And Creating The Technology Of The Future"
-    excerpt: "Tesla has applied an effective approach to building the innovation capital needed to win resources, then deliver on its overall vision."
-    publishedDateTime: 2022-08-03T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e93f7794c5319e0f7b70bb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Realizing The Potential Of AI And Machine Learning In Clinical Research"
-    excerpt: "Artificial intelligence and machine learning now have an opportunity to provide positive value and impact in the life sciences industry."
-    publishedDateTime: 2022-08-03T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/03/realizing-the-potential-of-ai-and-machine-learning-in-clinical-research/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "The evolving cyberthreat landscape and the benefits of AI and Machine Learning"
-    excerpt: "Derek Manky, Chief, Security Insights & Global Threat Alliances, FortiGuard Labs; and Jonas Walker, Security Strategist with Fortinet’s FortiGuard Labs, discuss the changing threat landscape and the role of Artificial Intelligence and Machine Learning in fighting today’s cyberthreats."
-    publishedDateTime: 2022-08-05T08:04:00Z
-    webUrl: "https://www.intelligentcio.com/eu/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "White Paper: The Future of Self-Driving Technology in Trucking"
-    excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."
-    publishedDateTime: 2022-08-04T16:00:00Z
-    webUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking"
-    ampWebUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/08/ImageWithTitle.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How the secrets of ancient cuneiform texts are being revealed by AI"
-    excerpt: "Much of the world’s first writing, carved into clay tablets, remains undeciphered. Now AI is helping us piece together this ancient Mesopotamian script, revealing the incredible stories of men, women"
-    publishedDateTime: 2022-08-03T15:44:00Z
-    webUrl: "https://www.newscientist.com/article/mg25533981-400-how-the-secrets-of-ancient-cuneiform-texts-are-being-revealed-by-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 39
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/08/02105321/SEI_117548982.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "RcenTFQqqX7j56UBJ4R2WtG5mXGZO1p5y48oanPq8VPn970jNwtCKjwsk6FeAQLjP0cWM5VQNYnxKIwmC9RDSf+Hz5GQ7xprzP7lBMHML5buPUHDajgItINrXOe0eFW/0lr0WVb7N+8SdgSGzsMo1KJLb2Jy0ujqTg4J0bYQDYtSp22SgBw4raEF8r5PNU6K84TETn/zDQaI/AZAku3+Mp5wrm2DGnN7rLrsd0C8s/bwXP2s0+wrC7kj+lNum6TWA953EH36LlmvMb/Dq73ZSMXwsbP12VhuQfh43MwARmWYAkdRUIs/UlYwCZIvDTVYTTKLbR06rrEO1hyH403JxbjF4u2oY1H5Jj8MsxMvNRS2pdA9cwBu5JkV9OJGW/WlJz06w+l4meA0E/098YRPmlWbMBgMQ+CELc5Ap1m52jHupvleUUyfMwM7+xpPhZIY28eN3HC+U78NsfWd2cJO/+8b2xO9RYfb//tyvEujEtik1U1cfBBTM+3fuvTQZF0cEEPEJzqk9EM4vIfFu4lYsA==;97ovN9g1k+szw3f9uh7SJg=="
 ---

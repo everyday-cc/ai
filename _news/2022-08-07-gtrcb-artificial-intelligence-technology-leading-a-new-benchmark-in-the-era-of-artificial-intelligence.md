@@ -18,15 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "GTRCB artificial intelligence technology is the industry leader in e-commerce"
-    excerpt: "The GTRCB e-commerce artificial intelligence system was established in 2013. Up to now, its business scope has covered many countries and regions such as Europe, America, Asia, Oceania, Africa, etc.,"
-    publishedDateTime: 2022-08-07T13:04:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-7-gtrcb-artificial-intelligence-technology-is-the-industry-leader-in-e-commerce"
+  - title: "From AI to voice search, how new-age innovations are defining the future of digital marketing"
+    excerpt: "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,"
+    publishedDateTime: 2022-08-08T04:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png"
+        width: 434
+        height: 474
+        isCached: true
+  - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
+    excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
+    publishedDateTime: 2022-08-05T14:40:00Z
+    webUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 9
 
 secured: "+WHrWsA5uz4Gziq2mQI4amkb1ijhMFCH5kDmcLLwhG/JJIBhEfmefD2Alh/FUzfD5bc+JrNP2e/bxadv3ODjzGOjt6+FTA5p7K+crJ0JYnUXUQIqhopJTgAOEq94xFj0sM2rNMo1vGFzVXFbgYaRvIuCfnDQ8BTaLztMydsYQnPqD1kfAMZzYXvmKGj5z85gNpRl1/rK2xjJWPsn/LZbLNK4JAfBvvjHWvjlJV09nd91NpAAhgXNY/kB3Vve07NJTOFj0hmqc873PHmcCEqna+8ExH/HC0kqYA6EUgzxEIfCl6IhkLiTjo7zUZd9Zi2ZUJu2OMy7+U0afhCrzIjlMYSC3uD6UMMY8e3pC+JdueE=;59U9x+TQtMR3HVAxZfNoFA=="
 ---

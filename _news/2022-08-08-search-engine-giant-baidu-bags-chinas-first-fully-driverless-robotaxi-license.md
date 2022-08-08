@@ -1,27 +1,27 @@
 ---
 category: news
-title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
-excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
-publishedDateTime: 2022-08-04T12:09:00Z
-originalUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-webUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-ampWebUrl: "https://news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+title: "Search engine giant Baidu bags China's first fully driverless robotaxi license"
+excerpt: "Baidu has received driverless robotaxi permits from southwestern municipality of Chongqing and the central city of Wuhan."
+publishedDateTime: 2022-08-08T05:24:00Z
+originalUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license-41659931095499.html"
+webUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license-41659931095499.html"
+ampWebUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
+cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
 type: article
-quality: 59
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Sky
-  domain: sky.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
+  - url: "https://images.hindustantimes.com/auto/img/2022/08/08/1600x900/Baidu_Self-driving_car_1658373939915_1659935096826_1659935096826.jpg"
     width: 1600
     height: 900
     isCached: true
@@ -84,22 +84,6 @@ related:
         width: 4409
         height: 2939
         isCached: true
-  - title: "Search engine giant Baidu bags China's first fully driverless robotaxi license"
-    excerpt: "Baidu has received driverless robotaxi permits from southwestern municipality of Chongqing and the central city of Wuhan."
-    publishedDateTime: 2022-08-08T05:24:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license-41659931095499.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 70
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/08/08/1600x900/Baidu_Self-driving_car_1658373939915_1659935096826_1659935096826.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Baidu's robotaxis can now operate without a safety driver in the car"
     excerpt: "Baidu says its robotaxis have multiple safety measures to back up the core autonomous driving functions. Those include monitoring redundancy, remote driving capability and a safety operation system. This is a notable step forward for Baidu as it looks to offer robotaxi services at a large scale."
     publishedDateTime: 2022-08-08T02:33:00Z
@@ -114,6 +98,22 @@ related:
         width: 3027
         height: 2018
         isCached: true
+  - title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
+    excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
+    publishedDateTime: 2022-08-04T12:09:00Z
+    webUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    ampWebUrl: "https://news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
     excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
     publishedDateTime: 2022-08-04T06:36:00Z
@@ -124,6 +124,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "2m3TQ4qk4Pq9xcTJoKWu/a/EQourJqPXRP7Our/RQTO0mhcWm6wK3AtqS9DqViDiEdJgWP7BvoPSZBPRuenEryJg4geciW0vKUGPN7FB5//t0ik4aWu6L0zwxy/IH+PsT9ArsU84zz5vONxZJh1JUWFt17I57PgNBzmwazYxNq6zjRL1RoJUmHFqfWLNMQyIP3di1GTXm0iO360weYzNX2DFMNx6a21wlTdrgg5ar1q1+1264yjxMbv+epDalBRhhPb00MR+B0YlZ1u/+PEiTgSVlGQooM91rDK5FWiiElG0h5akD7wHMVNoSs4akRSQ9ZqfVVyz5UdI1FjyOBpu5RsQQ5qzwCy3Kpmnj0h/DYY=;1iSo/+FphXwAuy6bcv8PSQ=="
+secured: "9EkdjZVvPn5pFCEU8/naDaYASLnblWi2rJcf8oQQc78RQaFUaLsFqzkesm9zZ0fsqjThsJ1Y4dLCjVKmfB4csYqA9rRvBpUpXtKLe0vOcxTmOpFbzIdNS5LHly3PzQP+//GhyCd5fd36f8iqrCalz3l4cxYykPsXu3ADf3B3imoULoNbk5wAhMXEqGGykfSQqRhpwiouO9squ/xX83Dx1W6w5Z2FPUI/DV5d5r/oASnBvTj6W3lPStrH+NVVwmG6qvpXrDDuLZNtyJSHdD4mALochcdXnrrbtG0Oo/5qLEm1euQvfMYbG9HZsS+/YIsUqjAwr2A6s6kbYxATK9wEnNzSlC0tSn33Z02o+ZArCqo=;6/T0Fp1HymuAJ7CO6RcsOQ=="
 ---
 

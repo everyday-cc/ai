@@ -39,15 +39,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "Fintech is Set to Take on the ESG Challenge"
-    excerpt: "Fintech innovation is poised to deliver another societal breakthrough as it helps money managers and investors unlock the complexities of ESG investment obligations, following its success in liberating many of the global unbanked through mobile payments and inclusive finance programs."
-    publishedDateTime: 2022-08-03T12:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-is-set-to-take-on-the-esg-challenge"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Falafel, AI and fintech: Meet the 2022 A-List winners"
     excerpt: "See a list of finalists and winners at the bottom of this story. They range from falafel maker Afia to the artificial intelligence experts at Kungfu.AI. The A-List Awards focus on innovative companies on strong growth trajectories."
     publishedDateTime: 2022-08-04T18:46:00Z
@@ -57,15 +48,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
-    excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
-    publishedDateTime: 2022-08-03T12:42:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194340-agile-financial-systems-teams-up-with-fintech-lendingpoint-to-offer-bnpl-solution/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
     publishedDateTime: 2022-08-05T15:45:00Z

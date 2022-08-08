@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Baidu wins approval for China’s first full driverless taxis"
-excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-publishedDateTime: 2022-08-08T02:23:00Z
-originalUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
-webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
+excerpt: "Baidu Inc has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc and XPeng Inc."
+publishedDateTime: 2022-08-08T04:47:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
-    width: 506
-    height: 337
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
+    width: 1240
+    height: 827
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bvoOvizAvgyb7g2yWm7qsdAVRkCp6nmezqUlXswCu3pZegTlVCjAkr9STf13lDSVmKaBxYMxaJKk25zVJGpWo/s11KGgl+xZhioG1eVMf7LOCvvpQTgkOsuuHtmMwizcfJxjMWLRV8KYJxgoaPQr1CdlE8UaTcX/o588uWRzDn1o1raXLo1nVt7KVYqiUsrGhNcTj88ifJkXVqCEkZkl4Ug2AfhjMzdoON5FuEiEyPmkOIeXOXQ9Od8twh5AhhcQb7FYqOkb5HMCCRsJWarYa1bR+SwqTchAYU7rGMZDggUa82OXAOGyruoXKaYNlJINYajo56GNzAfn52d/Pep7GOBaJZcaz32nt9otJ72uYXg=;QsZtCEFlGs62ofT/TZyaVA=="
+secured: "J3FVRywqdpnA7YGnBfqLDF2Sc9HJLLqJGc0wnIDSGTp68QxYHX5BRWW1YHIqIaGR9m7HgRcP0W1LdCxA4gT67Z37d9UiJNuSrukP1HTpzeoYudABBhDbsILjZbJ7Do9kpvzcfAZDKuFABhSFarZziVpWH1W6yX2VoMigDdMETYKMAKbNQVZ1FIkDFJKo3+QzchiLUB6t/HXcQx3GEbc5Nsf1e8aLBqjrmxqICRcQl9o2ESKl8KceY7VObMaxOJcFt343ouFa8HPE0eXub5CPk56UnwBEXuSDhv5ZAq+ENSc0R+iSNfMp5qpOb8hDYWOGcLiHGyvQprBTHKjWqC9+3lAn78IY177fXVwdxErlDGs=;GyXuhvxk4wQZtk00z2ca9g=="
 ---
 

@@ -160,6 +160,22 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "White Paper: The Future of Self-Driving Technology in Trucking"
+    excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."
+    publishedDateTime: 2022-08-04T16:00:00Z
+    webUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking"
+    ampWebUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/08/ImageWithTitle.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
     excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
     publishedDateTime: 2022-08-05T14:51:00Z

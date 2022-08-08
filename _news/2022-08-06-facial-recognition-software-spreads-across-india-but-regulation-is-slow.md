@@ -88,15 +88,6 @@ related:
       name: Modernghana.com
       domain: modernghana.com
     quality: 21
-  - title: "Most adults with autism can recognise facial emotions almost as well as those without the condition"
-    excerpt: "Difficulties with social communication and interaction are considered core features of autism. There is a common perception autistic people are poor at recognizing others' emotions and have little insight into how effectively they do so."
-    publishedDateTime: 2022-08-03T12:50:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-adults-autism-recognise-facial-emotions.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 0
 
 secured: "khtTJV2HkfWSCUDbayXimCpPTAfAev+4X2Sb/+MXzPr4LAdbMSHpYAdU9/cLdJm2DEx+Kkrt0qGDUuLbcA7m0HGeGHa6FDlv/v4ETuVgbVy245zpwV8iKyv346VqC5wRKZcoLd39PnGOLH2ML0FsFm7x9KsCYoSDmkKP11XMhltxzV68tIJOwAUpfp13/5WN2JdQjF8qmE8tYzmz6gbS4yV/qPgYZ9W7OwzBFf9gQ+HKu5jfZfi/MAWcCKoBk3txhKSVt2JL4NSP8qaguBzN9J8Fa7TyCITp6/7jN47kUk43xF/1eBJ9h56nSNmWb09rhVo9myJkLgE39uH++ml5ESoJpD/IpWt7CjlZs8ghfq2HWZrwb7eJu8owtU5SWiCQImi0c1vRtiGAlyBOo/4PGBOx2Ubj+3A04jTiT8Dkae6VyJVMzT2D6SCZ9ui+oN7dNfmlNSzfpf/pnTc/HKiHPzmXlLu6j4qAPr0tgZwKoz5CLMHf1DjFDersDzkccHkIu9Q/NSymp201MeQKXRkeOg==;JOL9w4X4sMl+mi1OrB2I1w=="
 ---

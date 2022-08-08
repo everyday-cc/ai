@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How Deep Instinct uses deep-learning to advance malware prevention"
-    excerpt: "Security provider Deep Instinct announces the launch of a new deep learning anti-malware tool designed to stop known and unknown malware."
-    publishedDateTime: 2022-08-03T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/08/03/deep-instinct-deep-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 34
-  - title: "Deep Instinct debuts a low resource malware scanning tool for data in-transit"
-    excerpt: "Threat protection-focused startup Deep Instinct Ltd. announced a new offering today called Deep Instinct Prevention for Applications, claiming that it can safeguard any web application or cloud storage service from malicious content."
-    publishedDateTime: 2022-08-03T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/03/deep-instinct-debuts-low-resource-malware-scanning-tool-data-transit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 21
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/07/3825943.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale"
     excerpt: "Agentless approach meets the attacker earlier to protect financial services and other large enterprises from an underserved attack vector."
     publishedDateTime: 2022-08-04T13:26:00Z
