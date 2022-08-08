@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
-excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
-publishedDateTime: 2022-08-04T06:36:00Z
-originalUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
-webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
+excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+publishedDateTime: 2022-08-08T03:35:00Z
+originalUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973"
+webUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973"
+ampWebUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
 type: article
-quality: 47
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NDTV
+  domain: ndtv.com
 
 topics:
+  - AI in Autos
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://c.ndtvimg.com/2022-08/l9l3scho_reuters-image_625x300_08_August_22.jpg"
+    width: 4409
+    height: 2939
+    isCached: true
 
 related:
   - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
@@ -50,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
-    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T03:35:00Z
-    webUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973"
-    ampWebUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 70
-    images:
-      - url: "https://c.ndtvimg.com/2022-08/l9l3scho_reuters-image_625x300_08_August_22.jpg"
-        width: 4409
-        height: 2939
-        isCached: true
   - title: "Baidu's robotaxis can now operate without a safety driver in the car"
     excerpt: "Baidu says its robotaxis have multiple safety measures to back up the core autonomous driving functions. Those include monitoring redundancy, remote driving capability and a safety operation system. This is a notable step forward for Baidu as it looks to offer robotaxi services at a large scale."
     publishedDateTime: 2022-08-08T02:33:00Z
@@ -96,7 +84,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
+    excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
+    publishedDateTime: 2022-08-04T06:36:00Z
+    webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
-secured: "2E7IhhqPT8IRU2GOnpAvc5ck7AuwuSjS73Dp0x+5ciwAqTkbIjhgrVT2Yv71A96EulRCY5zF2SjcNUnmEZNRG1Ox2VPx5G4okbbnG5J5SsKVSod4/Ba600wZEqd6yzrgvKS4OuTwUe3esZe/LsT3SfbxtPamPyNImgLIRHz6634mXpgo2oXDVpg7Ji8UVqUeT4B8DwHOqFmlPEIgZIk0q5zsiQYnd27gXMpxXY6HbfQ9ejL7df0JBWG2iNWa1ujUt/dADRbq4UENP/zhEiCBz2G1lIHibUgg62gCmPC2rAbuvFHlZR07mzckf5uIQDADWEL7/7jACdJexlwmfAkUZIVzXIT3Ep2v5+4TNVrRg9Jv6AlrPZW4ZXIdDFWOj4tpP7aTqYtr6PP0hJOWZxrwPWYH3bkV8PJB/4PDSWO4ndkuMkvC6S0zdMhKlo+EkBn9Jvr2vHkVAVQOwPYFbC81i5+Xdw5NG1/l5t17M2INNTlhzpSNQPr/eQNE8wEPk84AxSVDG/vVSQXL9JVH302Xlw==;fTKq0DiQJksyPD51ssGBrQ=="
+secured: "FVX38xiD3HkkqmxlfjWkbTO2+WIQBjp7AOa+EWrLV+Rrxf3/GETQJRCdhMgZ4nziBdh9KhVS5O3XGrZTDm1OycEGl3K+zoD+OwgQbZ5cUytkw/PD5ORKvxY7Y+axSr/XmqHvjzMG6QRWsBlG0cmcFpgDaOoNqphZVxZtRF+l+QEmDJ8SBb+jMtJFAb03RbfhBUAPwb5HCs72LaRFbjL+AO+Ox8sQ2lE2cL/1xoJCaJMeYq75nJcoWFbSe/NCcUBSvEYp1yFP3tAou0ol14FGoRkjRFBP4wHPC0u+QiCmTv7SWp84ckleJ/LQwqjAktDCxj7NfeJRByfW6FKdwXrkdXENX4IvD163cHgiJCEnh6c=;RDwj1tmIAo1AQDUl9qCCrw=="
 ---
 

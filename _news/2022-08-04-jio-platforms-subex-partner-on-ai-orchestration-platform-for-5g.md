@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/26660-jio-platfor
 webUrl: "https://www.thefastmode.com/technology-solutions/26660-jio-platforms-subex-partner-on-ai-orchestration-platform-for-5g"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "Subex HyperSense AI to Augment Jio Platforms' 5G Product Line"
-    excerpt: "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms Limited (JPL) a"
-    publishedDateTime: 2022-08-03T10:33:00Z
-    webUrl: "https://www.albawaba.com/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110"
-    ampWebUrl: "https://www.albawaba.com/amp/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/subex-hypersense-ai-augment-jio-platforms-5g-product-line-1486110"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 57
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/shutterstock_1794503293.jpg?itok=BvMdg2w3"
-        width: 1000
-        height: 668
-        isCached: true
 
 secured: "fNtLaRkCD3J0WvwoTR+CQJBgUqPe7fVge68q6vQxHGZnNxpZibZZR5zXtiHNEChfUNogTG5BzQyP4BUHnvriubwiiGal3xwh3RFpSGz/ilTOPo3vOdHMugfmbGVN/w0i5PzHM4Rwrn0Dw8SVkecoxA0XBOI652pgXLyUDS8HnATqtlD5kQ065xs5vm+tU69ET8htIrbbjlz66DSpRMsssHAWxM/c3SrNJhcDEkwkvD+rPWEy2IUIxZ3ljwfN2PqbYDVkkNgu4jkUEZsrTxeMPBvs6dBxDNlGtAkE0wkE8npkHYGenaAkLsmimJaM82zqXpzayYUDQhMFyuOM9keij5rzMxEMCs8orkyly0THXEs=;H6b70FUHCcBeKMBYrpqNtA=="
 ---

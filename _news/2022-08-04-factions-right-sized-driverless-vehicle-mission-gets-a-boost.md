@@ -7,7 +7,7 @@ originalUrl: "https://insideautonomousvehicles.com/factions-right-sized-driverle
 webUrl: "https://insideautonomousvehicles.com/factions-right-sized-driverless-vehicle-mission-gets-a-boost/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Baidu wins approval for China’s first full driverless taxis"
+    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
+    publishedDateTime: 2022-08-08T02:23:00Z
+    webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 54
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
+        width: 506
+        height: 337
+        isCached: true
 
 secured: "rPYOgxh2JqlyEcHeI+aEpwR92gp4gt2WTboedPuESmJrfTZKYlEWVrPaewhlpqdvNZNmyYnTpQ72R9K9aXMhQa1TsLTtwQDxxlDP/nvf3qLe5yLc9moVo/n3JcBrbbNxo7nvjn4cn2usy3uuCSOEjOPLTfhPOoKSK2jq4jmG4Ya3yqH6/FAEK5dwRM+FomEB4tnM30hi7a4LR5B1xwJFhgYVjjd30ABzAmb8B5i9avX2ScMRS6YaN7tFZPAAXT2fZVtwVZQyuzdE6O25cOhLvhJr+BoK4YzTSGVA3RIsrOV2FedCEggexmALNQ+DHQai8d2rYzBFUmsQyCRY1bEXfJtWgN7j3uIQF73jPQszheIZwOy29VmSuuN+REaqAiNH59k9NKEIlws0PJJb0WFsGSgcaP/4SGYGIdf3OMR6M/jmMMjEP/Uf/maC98J438AxHMe3sRmVW4exhelaONSTYZOiMucwuVYIb+pBx6Wa7UyOsO/AQRAJYwJ0ULwi2SvjLkTo1cl5M0j/nKCxHnDY4Q==;g/wysCPiRB/vcLNhLypf9w=="
 ---

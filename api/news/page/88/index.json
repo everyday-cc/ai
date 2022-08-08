@@ -2,6 +2,40 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
+      "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
+      "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
+      "originalUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
       "title": "Researchers build world's smallest remote-controlled walking robot",
       "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
@@ -1061,40 +1095,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-microsoft-msft-azure-extends-limited-access-to-openai-models.md",
-      "title": "Microsoft (MSFT) Azure Extends Limited Access to OpenAI Models",
-      "excerpt": "Microsoft Corp. MSFT recently launched a service for Azure Cognitive Services, expanding its long-running relationship with the artificial intelligence (AI) research outfit, OpenAI Inc. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
-      "publishedDateTime": "2022-05-25T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

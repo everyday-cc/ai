@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
-excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
-publishedDateTime: 2022-08-04T06:36:00Z
-originalUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
-webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+title: "Baidu's robotaxis can now operate without a safety driver in the car"
+excerpt: "Baidu says its robotaxis have multiple safety measures to back up the core autonomous driving functions. Those include monitoring redundancy, remote driving capability and a safety operation system. This is a notable step forward for Baidu as it looks to offer robotaxi services at a large scale."
+publishedDateTime: 2022-08-08T02:33:00Z
+originalUrl: "https://www.engadget.com/baids-robotaxi-safety-driver-china-autonomous-self-driving-020024214.html"
+webUrl: "https://www.engadget.com/baids-robotaxi-safety-driver-china-autonomous-self-driving-020024214.html"
 type: article
-quality: 47
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
+  name: Engadget
+  domain: engadget.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI in Autos
   - AI
-  - AI Ethics
+
+images:
+  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/1a4080c0-14e3-11ed-9dbf-73f0d7386878"
+    width: 3027
+    height: 2018
+    isCached: true
 
 related:
   - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
@@ -66,20 +72,6 @@ related:
         width: 4409
         height: 2939
         isCached: true
-  - title: "Baidu's robotaxis can now operate without a safety driver in the car"
-    excerpt: "Baidu says its robotaxis have multiple safety measures to back up the core autonomous driving functions. Those include monitoring redundancy, remote driving capability and a safety operation system. This is a notable step forward for Baidu as it looks to offer robotaxi services at a large scale."
-    publishedDateTime: 2022-08-08T02:33:00Z
-    webUrl: "https://www.engadget.com/baids-robotaxi-safety-driver-china-autonomous-self-driving-020024214.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/1a4080c0-14e3-11ed-9dbf-73f0d7386878"
-        width: 3027
-        height: 2018
-        isCached: true
   - title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
     excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
     publishedDateTime: 2022-08-04T12:09:00Z
@@ -96,7 +88,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
+    excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
+    publishedDateTime: 2022-08-04T06:36:00Z
+    webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
-secured: "2E7IhhqPT8IRU2GOnpAvc5ck7AuwuSjS73Dp0x+5ciwAqTkbIjhgrVT2Yv71A96EulRCY5zF2SjcNUnmEZNRG1Ox2VPx5G4okbbnG5J5SsKVSod4/Ba600wZEqd6yzrgvKS4OuTwUe3esZe/LsT3SfbxtPamPyNImgLIRHz6634mXpgo2oXDVpg7Ji8UVqUeT4B8DwHOqFmlPEIgZIk0q5zsiQYnd27gXMpxXY6HbfQ9ejL7df0JBWG2iNWa1ujUt/dADRbq4UENP/zhEiCBz2G1lIHibUgg62gCmPC2rAbuvFHlZR07mzckf5uIQDADWEL7/7jACdJexlwmfAkUZIVzXIT3Ep2v5+4TNVrRg9Jv6AlrPZW4ZXIdDFWOj4tpP7aTqYtr6PP0hJOWZxrwPWYH3bkV8PJB/4PDSWO4ndkuMkvC6S0zdMhKlo+EkBn9Jvr2vHkVAVQOwPYFbC81i5+Xdw5NG1/l5t17M2INNTlhzpSNQPr/eQNE8wEPk84AxSVDG/vVSQXL9JVH302Xlw==;fTKq0DiQJksyPD51ssGBrQ=="
+secured: "QFTE5fjA9dn4JysDgQ/m/C6pasAB2WHC4HwGfov6/dxJ+l03LNnL0FudoIw6ll4FZ/lmMyG7a7d0p2S5gXdShju9K65CtK+LU9/M4XCt1MP+Hju+2AluRKRo6i6qM6FCSkmf2dtFpxHAVs1R1oQ+V/GHgXAQZwchoYKunRmkmYl4ujQD5dZLocE44FvrXVYIdyF5M0+hc+MPPLtrHtSuLx+cgvDpTOrxP7IQeQbj8BU6AjYs/lMUXAF0mPh1VemrNqdT72JTUMe8KRSNAC9BbLEKIq+gwKmkVBnDS5cyOuhHIUb6WvNRgmlG7SLTmJpPrvd3Bf6jv2MqCmGocwqVgexFFex3EOHDXkJ5GI66NIo=;EuJeXOeBgKMihBgNxlBuFA=="
 ---
 

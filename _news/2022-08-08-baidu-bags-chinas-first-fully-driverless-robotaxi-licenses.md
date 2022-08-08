@@ -1,26 +1,24 @@
 ---
 category: news
-title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
-excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
-publishedDateTime: 2022-08-04T06:36:00Z
-originalUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
-webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+title: "Baidu bags China's first fully driverless robotaxi licenses"
+excerpt: "China search engine giant Baidu Inc BIDU.O said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+publishedDateTime: 2022-08-08T02:17:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
+webUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
 type: article
-quality: 47
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
+  - AI in Autos
   - AI
-  - AI Ethics
 
 related:
   - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
@@ -39,17 +37,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Baidu bags China's first fully driverless robotaxi licenses"
-    excerpt: "China search engine giant Baidu Inc BIDU.O said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T02:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-08T03:35:00Z
@@ -96,7 +83,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
+    excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
+    publishedDateTime: 2022-08-04T06:36:00Z
+    webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
-secured: "2E7IhhqPT8IRU2GOnpAvc5ck7AuwuSjS73Dp0x+5ciwAqTkbIjhgrVT2Yv71A96EulRCY5zF2SjcNUnmEZNRG1Ox2VPx5G4okbbnG5J5SsKVSod4/Ba600wZEqd6yzrgvKS4OuTwUe3esZe/LsT3SfbxtPamPyNImgLIRHz6634mXpgo2oXDVpg7Ji8UVqUeT4B8DwHOqFmlPEIgZIk0q5zsiQYnd27gXMpxXY6HbfQ9ejL7df0JBWG2iNWa1ujUt/dADRbq4UENP/zhEiCBz2G1lIHibUgg62gCmPC2rAbuvFHlZR07mzckf5uIQDADWEL7/7jACdJexlwmfAkUZIVzXIT3Ep2v5+4TNVrRg9Jv6AlrPZW4ZXIdDFWOj4tpP7aTqYtr6PP0hJOWZxrwPWYH3bkV8PJB/4PDSWO4ndkuMkvC6S0zdMhKlo+EkBn9Jvr2vHkVAVQOwPYFbC81i5+Xdw5NG1/l5t17M2INNTlhzpSNQPr/eQNE8wEPk84AxSVDG/vVSQXL9JVH302Xlw==;fTKq0DiQJksyPD51ssGBrQ=="
+secured: "Y53vC3TFbjprH+bkKS65JHrM3WMoAh9U7ci6QL8Y80hUrHFskiG9OH30IWHlXdxoshVJ9cm4KF+5Rayq6PYNKRzS67hTDDpit0pDnfPeFNRk3qay/FjIoXT/DX7NZGiYQlnI49xieJdebhVfVSFOchRFp4OfS3hFDZgoPWuG6vUxWbYKBkC5nUMjEqcP+hODhxh93IeteLW4ndFPQKePVnXBgCvkaWiJIsKb+OXYGFrvu3hKO/cxODsB93Fu9n2kzzg39RZKosAMzVazJ0WSYEXfRE4syO8vMZ0CeEwr+kVknwhflTOnhCaPIIgKQwH5KCD1Y0qAnCOLRuhXHMhUBG1zQaN8gIB/wHFRp+fymb56RQ0flWiyLI1gz68dPNm3lwHiPa1MgyI9JZVMPdUDPRPu9o6PHUWcZjr83WDJxruibl7VPxqatzDzZ2pyYZubv6I1aUNtNEMYDSJkfxBOzptHXuu4rwCU/4pM4y8ndJ6R1pPYR0NzrSOWYiP38bf6GJcQwa5ad9fN8EqBV/PGJw==;X0vgKELDOZG2SZVtwrbcXg=="
 ---
 
