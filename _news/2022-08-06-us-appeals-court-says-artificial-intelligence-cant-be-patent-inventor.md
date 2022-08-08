@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/us
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Indian Express
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "US court plants seeds for robot uprising by confirming that AIs can't patent their own inventions"
+    excerpt: "The ruling came in response to one of many cases brought before the court by Doctor Stephen Thaler, who has repeatedly tried to file patent applications for the creations of his AI, named the \"Device for the Autonomous Bootstrapping of Unified Science\","
+    publishedDateTime: 2022-08-08T11:22:00Z
+    webUrl: "https://www.pcgamer.com/us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-their-own-inventions/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6NUaGCgbqYKWcznzBBqhza-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CAFC ‘Unambiguously’ Backs USPTO in AI as Inventor Fight"
     excerpt: "The U.S. Court of Appeals for the Federal Circuit (CAFC) ruled today in Thaler v. Vidal that an artificial intelligence (AI) machine does not qualify as an inventor under the Patent Act."
     publishedDateTime: 2022-08-05T16:32:00Z

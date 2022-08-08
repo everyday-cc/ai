@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Eliron%20Ekstein%2C%20Ravin%20AI%20900x540.jpg"

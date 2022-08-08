@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 668
         isCached: true
+  - title: "US court plants seeds for robot uprising by confirming that AIs can't patent their own inventions"
+    excerpt: "The ruling came in response to one of many cases brought before the court by Doctor Stephen Thaler, who has repeatedly tried to file patent applications for the creations of his AI, named the \"Device for the Autonomous Bootstrapping of Unified Science\","
+    publishedDateTime: 2022-08-08T11:22:00Z
+    webUrl: "https://www.pcgamer.com/us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-their-own-inventions/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/6NUaGCgbqYKWcznzBBqhza-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pYR3FHsqJ0DZdrawEU3DD1Uhp6zAV8HRRMS1CcQIs28rz5oJUXFhTDO+HoXy1UZvYg3rbNrfO+kQCY10jg2DcjqyMpkbTPUZeGwoWX5FA7szCwEheMQ35gBLkEYT7gsp5k8QB7nMN7Sh1/Ai9zibuaB+zNHbEqwjtlEEygu2Whh4JrgWCr9I325825DlEhnH3OQ5+VJPHYY/Pwox+RwdB5f7DiLZK4bgcbBu2Fj1KKNcvz8T+otnpsKv0aJ4/0+01U4qh0Hj8FyfdG/Q6p/4RQihM93xAzdGV6Cp2CgSDK7PDA5rsf7X8RK9DIbHNoXoF3mQMGOBHGR81FkHdKeYD4wtHeitMYRgYLLak7jFt9TKwjUWV8Dl+EkNhw0fPLmT64BPEMsSPiqMhpSvmKPrebWm8XiI5PSxwufFGQCWUHsLYEX30dH+9vlNQQhilgcbG46SRCy7OODres58qhzdHkejf5qaQIA4lQapBBEe/BpO+El4zD9dfz3u8GK1BpVllW/eSsoxfpnDS7pG2VhYPg==;+HDygSHfRUMFev0Mpmnf/g=="
 ---

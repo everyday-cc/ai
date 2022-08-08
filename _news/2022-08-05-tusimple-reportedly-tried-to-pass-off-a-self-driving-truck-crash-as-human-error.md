@@ -45,20 +45,6 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "TuSimple’s Self-Driving Semi Truck Crash Veers Into Renewed Scrutiny"
-    excerpt: "Following a recent crash, the self-driving truck company TuSimple has come under fire for ignoring safety measures."
-    publishedDateTime: 2022-08-03T17:46:00Z
-    webUrl: "https://www.thedrive.com/news/tusimple-self-driving-trucks-are-ignoring-safety"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 24
-    images:
-      - url: "https://www.thedrive.com/uploads/2022/08/02/TuSimple-2-of-2.jpg?auto=webp"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "wiz6ywGyLZ30Of+BCRa1UmyEcnuWqAzEc/PeCTJ0M2s9X9OddzHSEmmSAmKHtxnDJjoxAaMisvZwH3cDvzE3yxX8p4MXM/eV6K6Xidd2RwVwhqL72qwJ/OtE7Mj/fCVR6BFxc4ihR6NK5D22DCbX8ltjotZPVoFvMoHrNtujhx/9/AGdtWe0U131ngZKaUlxnloKs1jpgP8abrwTB4JtBiinwPZYUt3Nbd8FdsT7zwaDkr3fvtow/Hv61OguhANxb4N1Jr/L68MvFVt3y+UlXUI8TRU5re08WrGDDZ453rcyphm2Jc4RSe3LeWnAyKxym7VO9cM/HxzOxEvDh+FPEc2uwjeeu11u0ajYmLkgL4ww7oK8n1rEoLwmxcPzfymUxmBTemGhvD5FS+jmRM0u3lRwXIBTbOhwZufRUEXJIBXqFB1SkR9w2hpg1tgHp8NlCOojV4RSZ1lY7Tvbdd4BpwVW4J0/mUqdiioQBLsoNMl7VSDhtPUNvc+nWzhbGX/ZCj2qM0VESXTsMWkKB/hrxw==;+1It//JTMQT1WsU/ar1m2Q=="
 ---

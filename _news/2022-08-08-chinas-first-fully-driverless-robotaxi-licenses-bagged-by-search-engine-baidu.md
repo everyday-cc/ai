@@ -153,6 +153,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu wins permits to operate fully driverless robotaxis in China"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
+    publishedDateTime: 2022-08-08T10:41:00Z
+    webUrl: "https://www.ft.com/content/22583bbe-29c2-4348-aac9-29f5d7c75bea"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "FVX38xiD3HkkqmxlfjWkbTO2+WIQBjp7AOa+EWrLV+Rrxf3/GETQJRCdhMgZ4nziBdh9KhVS5O3XGrZTDm1OycEGl3K+zoD+OwgQbZ5cUytkw/PD5ORKvxY7Y+axSr/XmqHvjzMG6QRWsBlG0cmcFpgDaOoNqphZVxZtRF+l+QEmDJ8SBb+jMtJFAb03RbfhBUAPwb5HCs72LaRFbjL+AO+Ox8sQ2lE2cL/1xoJCaJMeYq75nJcoWFbSe/NCcUBSvEYp1yFP3tAou0ol14FGoRkjRFBP4wHPC0u+QiCmTv7SWp84ckleJ/LQwqjAktDCxj7NfeJRByfW6FKdwXrkdXENX4IvD163cHgiJCEnh6c=;RDwj1tmIAo1AQDUl9qCCrw=="
 ---

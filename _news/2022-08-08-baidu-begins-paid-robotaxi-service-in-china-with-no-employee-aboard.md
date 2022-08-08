@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-paid-robotaxi-service-in-china-with-no-employee-aboard/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -157,6 +157,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Baidu wins permits to operate fully driverless robotaxis in China"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
+    publishedDateTime: 2022-08-08T10:41:00Z
+    webUrl: "https://www.ft.com/content/22583bbe-29c2-4348-aac9-29f5d7c75bea"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
 
 secured: "vLrVfzU19hiuGld1brYbJO/0DNWYnXcXHKW8FXCViiFGatteArXEpfSu5GWhE61Rtx7w32KBYn/k5Df+8uIwp8Vn9dENf2ROS1649PJLhXyZzaiZqt4MynYNgW8xgApc6vKyjKvXTKAxjISDNRksdpzgpQwrtZSeM3M/kw9qs9DrcYlWeq5PY7zVPkn2AYnrF10cO9rXgxz8uc1jYCatJVWDI/1c/Q3cnCs4TSBCmIPxFhcGxWWmRebkl5tBSVbXIb1kSC4e/fD8nyPcOVtEToc08ZzqRXy1ckXXpBgz8wCxYnCBBipQONlS8ig1Ur0jUaRw0iUWakH2fVk9Gfk/BGrS7VxJXzlBXLULnY4MqzeVelZaFauXcQdsqUx9D3sg/PtZDL7G5GMDJUpHG2A5gxBOl2BAd1E9aJWtnzyekqiHjZtYu112SvuN9DGwzgcOyaupQ0vcsOmKVW7yTxIVdc8X28q6prd19E8GAxqo2iFKGPBZmr6htbk26ZcznqyI+KuRN1auI/TGqTYwDc8zSw==;OrUyr3WdBl4AG/0lnTVWHA=="
 ---

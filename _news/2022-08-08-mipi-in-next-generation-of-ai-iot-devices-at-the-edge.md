@@ -7,7 +7,7 @@ originalUrl: "https://www.design-reuse.com/articles/52448/mipi-in-next-generatio
 webUrl: "https://www.design-reuse.com/articles/52448/mipi-in-next-generation-of-ai-iot-devices-at-the-edge.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,23 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the nuances of AI use in news production"
-    excerpt: "Throughout the course of history, technology has continually transformed the news media industry—telegraph, radio, television and then the internet. Yet despite these evolutions, technology remained the medium and human journalists the messengers."
-    publishedDateTime: 2022-08-03T17:37:00Z
-    webUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-exploring-nuances-ai-news-production.amp"
+  - title: "Focus on next generation of medicine"
+    excerpt: "Pharmacy students have to focus on the next-generation medicines, like biologics, biosimilars, cell and gene therapy, triple A (Advanced accelerator applications, which deal with our"
+    publishedDateTime: 2022-08-05T19:15:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/focus-on-next-generation-of-medicine-756615"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/man-or-machine.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 4
 
-secured: "b/k19BhCTdYTb1R83k6S/c848tAe1gwX0sYw2e1o0cy3+KARHMb4qd70rN5uc1hStly2o7RUNm0ECv+z85GoPtZTqMURf5JomvBZPTeDRqoywXquCoeiRxJg9FTg/b9DCoODPoRe+jt96KWsNveAmMBTurFn0bpn8zcDNZnZPHZhSASRghz+ic5D7/rYRD3ShpqixsaZCP291zh1RtrG5vdPyu17nii5fJ2ZFa8newbGvRFuC3MBZUCZlhKXPjds8/1NDx1puNBNYG/PnbcvqS8i10yaCCbCmo/Kk5Tt/IJBlaEKKyGMSi+T6nKaxXSCKGRIjNxQ9WV+a4emj2zplMvNcoYTBMAS5qZpj3GF1u0=;DNLVxlixP7e9Im7OcAqTOg=="
+secured: "0hFIap+EbsfhD1tZrvN9JWlx2NbdF2CGXqjPdC0XircU5lHLOW/4Te78C36f2kREA2JlIMMWxeyQiSr3aAWKU9+8DHPs9jYJwTf9PnBMsm80k5nZTa47I/cTm4n671565b8r68yKVHhGZ5Bxi96GaOdqFHKUs2Ed2jTLHeRLpPdkq0lvx8U+V4jBApUDqTFN9b8+FYcE3/kQ6039TIwRauPU8Q5Fzv34ZUb1Lg10J20LZN3cyLEP0gZuXHgAy8xL/KTIH6/7JAQNywE5/x12gGut//lpCDDgn2B9BvMre9Xl8kEtSJciVYfJFMcody1KrQynwCV7kXUVwaDIJZhxfmvaNJ+Lb/9j4mqSdjqv3C20FJK14KvsAiMB1JpCQVmIrBDVzu+6rU+IVz9O8vjXmStySy5E5YNJ59BFRK2Q3j/lIj2nmU1CKwDQnsAVKeJFx/DC4xkcrT7i0RZvATnKf03vOFZahQd7aYOGKRlzLa0oukhf2TWR4htWc2SF/n/fvd3i+5++idjRmMipXLE5bQ==;RNXQImNVYJSkdSTo7oucvA=="
 ---
 

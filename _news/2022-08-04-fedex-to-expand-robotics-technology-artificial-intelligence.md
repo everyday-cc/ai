@@ -3,29 +3,29 @@ category: news
 title: "FedEx to expand robotics technology, artificial intelligence"
 excerpt: "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the"
 publishedDateTime: 2022-08-03T23:22:00Z
-originalUrl: "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-webUrl: "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-ampWebUrl: "https://www.wltx.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+originalUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+webUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+ampWebUrl: "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+cdnAmpWebUrl: "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
 type: article
 quality: 89
 heat: 89
 published: true
 
 provider:
-  name: WLTX19
-  domain: wltx.com
+  name: Local 24 News
+  domain: localmemphis.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://media.wltx.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg"
+  - url: "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
 
-secured: "hzBuEYmLXDavVu/6rJjF596UeS5QXFoD7zuGFuYZ7/Vqrr/G3hYr/Ma2LfExXNJy2H9bSVmdZYFnW/VoqRzxt3ErCrcP6048OoxyinHZwq4P1nBbSdvZGN+PsrkUrAOl29xqyyhPrDSwyGYKFKCniFoy8sV11HEoOFLQMQC5UXlYYEUXG4+ZXAho9R6ZFZDBpo93n870m6VoqFNC3bvaMhwJG8nnrrnS0vuWcYXV5HlVJGdAiM03OmKBS7h/m/8MdWtBK+dVorN2rsDDIJ9e7/3oWK4bz4J8b8Dc3wDLEAzkJRhBKz/n+2kP4imhKXFvtLEBGtzq65oyrMhsoahMIokVLsHAiCL2Y/D2ZXLMtbU=;Vv+OvTR/wG3UCkdv1Dm6cw=="
+secured: "DVvF42+y6xIuUCAEePjhWrbUAl9suJq5gC2jOgxNzBO047CVEgpB3sEGb6dm5gOezuW86lUyTfeibdMC3KZNIstxHnocyJeO3gBoQqabYid/wFHmP1OF35SFbEdU3utAgtKcao6/x3Vil/uSSyDVVFMjf5ac/ONMemzOF2j4X8hBNgXFzYi867S/Km5nbPJnE+cVG/MSiZbVMaI3lBhaxfkR0/NSpyhmabjghjsJvfQP6XDZEcvcfR1CyuA7xGpNtKT3XX1/gqGwwrPMmPYSvoSPSM2waHBN7HDfG+6YD+QJpMHmaL8cF2S+XzqEyh2GX4NIBV4Dz9AwCurx6UwDhEgiFb6OTzwye4UqVWwI2Ic=;SChxGYy21E/IU33uIi47AQ=="
 ---
 

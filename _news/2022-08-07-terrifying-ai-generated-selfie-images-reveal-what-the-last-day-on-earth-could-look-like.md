@@ -7,7 +7,7 @@ originalUrl: "https://www.mirror.co.uk/news/weird-news/terrifying-ai-generated-s
 webUrl: "https://www.mirror.co.uk/news/weird-news/terrifying-ai-generated-selfie-images-27607699"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI asked to create an image of what death looks like"
+    excerpt: "An artificial intelligence has been asked to produce an image of what death looks like, and it has created a few different images."
+    publishedDateTime: 2022-08-08T10:25:00Z
+    webUrl: "https://www.tweaktown.com/news/87825/ai-asked-to-create-an-image-of-what-death-looks-like/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "aiOBxDTvX395gEdl2PzQ2VJZ5bxJ2WcXfDlS/b2to5aOVXhz3AKPtgzeEXBv9gHLvzPVpAuaNXoAOVK8qqr1/q53oO3K3ge2lvPh719OjjhaMRqJtbCgzUya5/j8MYsdyf+bc5CKimFXnA7A+P21SPT1v2MSiMxCjzlFlMWuCvZ0zL1L6omA5qEVZDmjT269aagFvoAbsD/uBirhArAJzid0Rakfk0MgNyQqknJreG1mZANfHwg/bh8S0AUphXtDCFcpTRMS6IMrrAg77Ryp0yTz4k8lYOkenP7JWsUtfZQrh3E3A6+05vq9WXcs13ZeKyDoJfXls2alz/ugFxljIYtHIrI3G6AHnT+IaAFou90=;1jtb30AU8kaeSfO4tFxTHw=="
 ---
