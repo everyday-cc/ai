@@ -39,15 +39,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
-    excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
-    publishedDateTime: 2022-08-04T02:31:00Z
-    webUrl: "https://www.theaustralian.com.au/business/stockhead/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/news-story/aa17209006ce69910902ff500a76c6c4"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 7
 
 secured: "ygRxRq+0nEsGq2FMzRZLbdDnqS+XOss7hPmLME9MpMvKiWC6mOqnSrx55vFhqHIKTvVThUODcOgPcZ46Wwq5Hg72WJbkyqEIErt5R4ueqTRhosXTrY4T7jMpttoAPlJ0daSIvrIuaS5gWwuAS0X4RHMckgKV3lOBd9I+5fBt0NTg4yLdphUHcS23hOdCKMArK9LDqNPlTcnuBDkSUUvDQxW7yIUow0lzVPWYupUjAf0KDJ/MgOdcSIT8X5JXuBUGf8e6h0m5I8P+1USkN4dl2kQ4kLqJRe/xtXFix0PIfz7FpdOCFtZoSfWYnDI6WPXBeu0RJrNyH/PWIujqs8YFZTEzjq940Kuqpvg//xwHLIyORzrpKwJ101863o2719AMdO9101db3/kJbNHgIRf8CxEaclwffNkHJjPEu5PT9zSo0zLAgmqgH7KU2ylAoUVRZ03rQAeU9oL2jxLDMrEAMHuVmcR7y+kGDlaMl9TcoMowLGvPgUtqc3iLZh+ODMFDXyY9YeN4qM6wWPZPXAfqEg==;rSlITyoDzP+628jkzAQ/oA=="
 ---

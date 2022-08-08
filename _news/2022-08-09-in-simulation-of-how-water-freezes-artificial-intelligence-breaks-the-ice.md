@@ -1,19 +1,67 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
-publishedDateTime: 2022-08-08T19:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960990"
-webUrl: "https://www.eurekalert.org/news-releases/960990"
+excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+publishedDateTime: 2022-08-08T19:00:00Z
+originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "aGD+lsBn22ouuQcQL9y+WiC5O/E+NGcPTvOi5rzUp2iImzngC19vR68tjDjKR/Q0EXJ4Yz1Yz8HcLuejd4GI26Ml/dIJ7nX9rr9SLKIb0MlBcIWRRpFuVdwBi2Eue37CpW+SRSyJjtZ4ISMSuCp/FD+au2iqWtJ1OF9QhA1CVq0KLVG6Kp+TTL9/Yk7+JV6YNnXT7vQ/OqGhY5NkdQcJbsFX694O2xXO6zmJ8H5gxfQN0SK8yblC8QK6XyZTub9N0c0TgjGowACljzIb32239YjfE1b+8rG8HJtXod6nDKZGRrgsm6IsoSR0I/mcoe1gfxU5V4Xp3LP38oAW+4pHzrngYCM4jyv43CXAvyHc75A=;7jvlTs7NY/nYHWDCR8KlLg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+    width: 2560
+    height: 1440
+    isCached: true
+
+related:
+  - title: "From AI to voice search, how new-age innovations are defining the future of digital marketing"
+    excerpt: "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,"
+    publishedDateTime: 2022-08-08T04:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png"
+        width: 434
+        height: 474
+        isCached: true
+  - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
+    excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
+    publishedDateTime: 2022-08-05T14:40:00Z
+    webUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 9
+  - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
+    excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
+    publishedDateTime: 2022-08-07T13:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-7-gtrcb-artificial-intelligence-technology-leading-a-new-benchmark-in-the-era-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+
+secured: "WE/1/HU/ULGBaNaKTwdKFJ5TFy+HjF7F+m6m5nXeuM1usSAyP5eu9CfZFGnj30R+qvHbAj7D2MsRrjMjr1Qa8ry4EWqBMOHlG+oUo1eDXqvAxdJcaobi99eOXWDjbvkrVRANvVF9ezJcMPkTIisI4onPz3KnDZieCQtEZfAZEZcUxtcc7fNYrHysa/mLJSDLo7Y02ZPSWb132g+umgv8FZz9yvYVmuOJkLlvKuZfvaHiyL2acuyLDVC4ggR44Z4aVbHQ0IplH5iYNZCgksCJSspE7+7zfzk22DtgSRAusDaizM9Tsp6D2uus9ERQsq9IcxvIFbaI1CyXIh05dVwgYh/9kY92ezkbRLixRa9eVX8=;YEAo958Lovl83UVsrfh7PA=="
 ---
 

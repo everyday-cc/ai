@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/aug/09/guardian-esse
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/aug/09/guardian-essential-poll-most-australians-support-an-indigenous-voice-but-they-dont-know-too-much-about-it"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -31,34 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Australian Indigenous language used in AI breakthrough"
-    excerpt: "Its characteristics allow it to be easily translated into AI commands, potentially helping to solve some of the most challenging communication problems between humans and AI systems. Although other Indigenous languages could offer the same potential,"
-    publishedDateTime: 2022-08-04T03:11:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/australian-indigenous-language-used-in-ai-breakthrough.html"
+  - title: "‘We are not a separate entity, we are all just Australians’: Senator defends her opposition to the Voice"
+    excerpt: "Loading PF: But is not the starting point of reconciliation, recognition of what has happened and how it ... You’ve been a very prominent voice howling us down. JP: Yes. The reason why I think I’m in this position I’m in now is because that’s ..."
+    publishedDateTime: 2022-08-07T05:00:00Z
+    webUrl: "https://www.theage.com.au/national/we-are-not-a-separate-entity-we-are-all-just-australians-senator-defends-her-opposition-to-the-voice-20220805-p5b7i9.html"
+    ampWebUrl: "https://amp.theage.com.au/national/we-are-not-a-separate-entity-we-are-all-just-australians-senator-defends-her-opposition-to-the-voice-20220805-p5b7i9.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/we-are-not-a-separate-entity-we-are-all-just-australians-senator-defends-her-opposition-to-the-voice-20220805-p5b7i9.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/australian%20outback.jpg"
-        width: 999
-        height: 562
-        isCached: true
-  - title: "Oosto brings facial recognition to Australian Turf Club’s CCTV system"
-    excerpt: "Oosto has revealed details about a deployment of its facial recognition software to enhance security and identify VIPs at the Australian Turf Club."
-    publishedDateTime: 2022-08-08T17:03:00Z
-    webUrl: "https://www.biometricupdate.com/202208/oosto-brings-facial-recognition-to-australian-turf-clubs-cctv-system"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
+      name: The Age
+      domain: theage.com.au
+    quality: 7
 
 secured: "mPcId3IgZd09I2U6eUYYOvmOrw3HPbe5u0CunBTa2quUb2QJ2Jc9TrYyG5wv5vnoJr0TP/3rx5ubgSepv9YukqeflCfNFvL2Vc3NoG9P8Q+DGDpaUYJuef9juDH1Ki167tLlLP9vFJzaUFcDCG29eDrBjUtjDgnmc8N7blehb1SLjX1SdSXRAIryCSKwlCgkJWv2vDHMvoTbUfQZfBl4DayfWUH+Bn+tGZ9It+FcnzJY/fMv/ytx/ejTtI4s62s8e2JPNP1WlwulRqcdG7h1sMOuhXs812lx8brLHny3/93ghBMSIyaQI0Z/nPueEGV6oeWRcJDexrRF+Rql8knxLvUO/bvI1uGDYE2lYOKCnu7yZyENFOjpZx9sUPnvk2Ut1grebNZYDRI3UgdHz7R6zET+fHekHPTeAYeLYy+9PiGa5KRVrHtsyKI7kz+SYvs8Mx7EuS3aGX+ilEajel2WBqBV1dxBU14g3ZASzeVMuF1e6StxgN7gdiZA2W6eCG3/ZdzVGis7XiLwx97jKF5L7g==;FpH0lnXCxs20pu4jrTiK7A=="
 ---

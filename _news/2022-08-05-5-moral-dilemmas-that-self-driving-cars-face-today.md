@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "Where’s my self-driving car?"
+    excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"
+    publishedDateTime: 2022-08-08T09:00:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/wheres-my-self-driving-car"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 4
 
 secured: "AXZa6ZmaydG5soNHRuu2q3K0hfaiVJPb5+1X6eGL35PHJOJSTasbRVOz66U3VqgOrPOeimVwerbXsX+YkHKkvFJoIVG+EIDswrq15AQjPzLxTDf7UQSEznK9oL7ej+QZqVs96tZtXRiNjKACzGyM3TziSvYQ4RNJFG9TDgCSZGyxdwK4fzUF5kHIQVMdi6i2ebZ6B8XssLIM5Wye7mnJMSOb4AiyTMTOMT2XDbTtzITxt5SlNuffHiRc7pVdggEUV1Ejyczny4wjLuQzELw6YZnA4gWJqPcAbGC+Qk0Ein6t92+Dxxs29miTz0weq0Kkcp8MGwGOq0C2QWr/h/mmVsdIHk2jmRIrjytGQ25+bIWklfn6vFwwSxICi/+12up/1yd3i+1aDNxto+fKWyEuvW2wZVn04j+mLj8jKMZJ47iB6eoxX9mXqwmsqpuj/wx7GR+5vIMt8QvW/l0W82IdFSXENFZsdJw7rFj4aAQA/L/73+I/GbfXJdBv0GvfOrbTsjUUP+l3Vti9uvFGKn7u/Q==;qyo5zCdUbJ7bAC1irlAdyw=="
 ---

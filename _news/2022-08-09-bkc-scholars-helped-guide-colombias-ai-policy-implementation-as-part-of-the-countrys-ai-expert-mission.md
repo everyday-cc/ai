@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T18:16:00Z
 originalUrl: "https://cyber.harvard.edu/story/2022-08/bkc-scholars-helped-guide-colombias-ai-policy-implementation-part-countrys-ai-expert"
 webUrl: "https://cyber.harvard.edu/story/2022-08/bkc-scholars-helped-guide-colombias-ai-policy-implementation-part-countrys-ai-expert"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Harvard Medical School

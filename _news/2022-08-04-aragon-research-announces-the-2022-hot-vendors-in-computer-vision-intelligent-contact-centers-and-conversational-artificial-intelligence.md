@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Partnership Will Scale Up Investment in Ethical AI Research and Innovation"
-    excerpt: "Kenneth R. Fleischmann, Will Griffin, Mikel Rodriguez and Alice Xiang at the 2022 Good Systems Symposium. Credit: Stacey Ingram Kaleh. The University of Texas at Austin and the MITRE Corporation, a nonprofit dedicated to solving problems for a safer world,"
-    publishedDateTime: 2022-08-05T13:08:00Z
-    webUrl: "https://cns.utexas.edu/news/new-partnership-will-scale-up-investment-in-ethical-ai-research-and-innovation"
-    type: article
-    provider:
-      name: The University of Texas at Austin
-      domain: utexas.edu
-    quality: 30
   - title: "PureSoftware and TFI Research release 'The Global Report on Conversation AI for Banks 2022'"
     excerpt: "PureSoftware, a global software products and services company, together with TFI Research, a global leader in market surveys and integrated insights have"
     publishedDateTime: 2022-08-08T07:04:00Z

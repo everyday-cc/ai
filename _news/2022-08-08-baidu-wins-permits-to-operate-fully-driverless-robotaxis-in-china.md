@@ -138,20 +138,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
-    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
-    publishedDateTime: 2022-08-08T08:34:00Z
-    webUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
     excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
     publishedDateTime: 2022-08-04T06:36:00Z
@@ -170,6 +156,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 34
+  - title: "Baidu's self-driving taxis deliver rides without safety driver in China"
+    excerpt: "Baidu has become the first company in China granted a permit to run a commercial self-driving taxi service without the need for a safety driver. Baidu's service, known as Apollo Go, has been up and running in parts of China since 2021,"
+    publishedDateTime: 2022-08-08T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1136759_baidu-s-self-driving-taxis-deliver-rides-without-safety-driver-in-china"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 19
 
 secured: "X6wpZS3LfZlE9TJGIV62YyX2cb8vD43DR0ZaeRPDOtIxb5EiiojbW/mZ77TB9WI3N9HSo029wP43Z4hPIg2Y7/D/+Fi3iT2nALiPV4kItQld6FTwCuq2Es3EX7uJ6lYFW1cUSLUBw+k9znscJqa3kKJJmiduSWmOreQh6x2idJa/D/oGPYjjkZ8SOoE1QNPD/Rc60Gw3c3N2SizaMTQTgAsuTCmEk5EWxuPhZMBgzF6odszS+lqxerYHTFTO2HvGk8VfTkD0c8aGZKUBZK/8YW0DKZwSOBKomZu5y0aHTDT2HCkaVz6R2iAfXvlOUErd9URk5Cn56kniPWlMTkDd7U7sneioyqmj98lSXcnr505pq6eLpAZe8DhVK/Z0GM/fEOGa+VWhDdlm0/hBw/PAovdEOPWvmQ8xbBhuP1zzk9kOl/cBqMwvyDKYIFUNC3uxpQAVGP8+mYiL4EvSevIfOygCBTsMjmFWEKIi5VeufIyqCfXEjx0X2zE5C+PxI4mv1uRbWn6gaAg3a9rUm8MeRQ==;YhIlRYo19SZhYivCIFWtlg=="
 ---

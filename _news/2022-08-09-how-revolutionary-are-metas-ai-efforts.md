@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T18:46:00Z
 originalUrl: "https://www.itbusinessedge.com/business-intelligence/meta-ai/"
 webUrl: "https://www.itbusinessedge.com/business-intelligence/meta-ai/"
 type: article
+quality: 21
+heat: -1
+published: false
 
 provider:
   name: IT Business Edge
@@ -14,6 +17,25 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
+
+related:
+  - title: "How Artificial Intelligence is Revolutionising Healthcare"
+    excerpt: "With the advent of digitalization, cutting-edge technology has become an essential part of our daily lives. The way we live and work has shifted"
+    publishedDateTime: 2022-08-08T07:04:00Z
+    webUrl: "https://www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html"
+    ampWebUrl: "https://www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html/amp"
+    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html/amp"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 76
+    images:
+      - url: "https://www.thestatesman.com/wp-content/uploads/2022/08/mr-1024x427.jpeg"
+        width: 1024
+        height: 427
+        isCached: true
 
 secured: "KChTJOURMD1xT51otNtIjXxdPvxhk1iSzeR1HJyXDmRnPrHFKCP1xg6+ao5arBNnZvkQNsTJnIxvEmF8UAXougvrm4f8chJyxm2DdffRJ/ClPT6+wGeLkSR7q2tcJ6IX145k6ACL0IG2WB9J1rGr16O4438m9IkR0t0PtXCMRl8o8U+TbR3AdF+e+2sDRZ+ToBQ8HP4DMHO71pKRhdQBO/AsxHI4LKpdhHJQ7wKYG24EghEuf4W32pDqTbm4O2+cmOnlcl0xRwZ+/b4Guq+Zlk59vx2+VGnxS7zCDJ06X9mZdI5tLKKU5RnhO6JcbrFr2VvFrFNg932imjnl9ldFBy+Av+0zOgHfd7QaATNvnQU=;+Pdf7OAgJvJn7EHjgKGI8g=="
 ---

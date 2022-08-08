@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-08T16:21:00Z
 originalUrl: "https://www.sfexaminer.com/news/business/ai-does-not-have-thoughts-no-matter-what-you-think/article_f74d5d7f-1625-5930-984e-09d7c7973f2e.html"
 webUrl: "https://www.sfexaminer.com/news/business/ai-does-not-have-thoughts-no-matter-what-you-think/article_f74d5d7f-1625-5930-984e-09d7c7973f2e.html"
 type: article
-quality: 43
+quality: 47
 heat: -1
 published: false
 

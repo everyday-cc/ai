@@ -85,6 +85,20 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Fully self-driving taxis approved for two major Chinese cities"
+    excerpt: "The vehicles, operated by parent company Baidu, are the first-ever fully driverless licensed robo-taxis in China, FT reports."
+    publishedDateTime: 2022-08-08T21:12:00Z
+    webUrl: "https://www.axios.com/2022/08/08/fully-self-driving-taxis-approved-for-two-major-chinese-cities"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/F5RrwDQd6ngp6qkTrR2HSfE_3u0=/0x0:5526x3108/1366x768/2022/08/08/1659982453558.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "UGgiBrlCkDH5HWUMP4XjI8IwRpW7maJ/RVIGWBIZtTwZcq3vOFXWuDDLrS6JaPstw0A33TseiVcVrEszlMo++gngMI6MjDJNbHncMmiWRkUTKRqHdyNVaTxJxNIKWD6Skdmw8xGkl/uPVBJwEXKNES1SIkIs3J0h311rObD7b3Is4kqpuIaisA8Q+vveDQ4zuWCNwqQ65C0+hCOKZpeUD9/U3ObGpTwhY/qvP1c4ZQuEjq5LUcivd55SBDfJi7eYrw6s8X0oQxNFzJq6cTcYzh+RH1yJO+NtoRWALe4XNDRb0SZIZG8nuRHVAsyiQOgF3ioDYpg7P5/xfANyXqA3I5QfTeulobeDYU+IWMHv0uAtXFmWbI3ic1N2zJRi26jmKv4ftMWH8HwHcvYlwep2de8KqyZJ4/hKPhtDAJQcJdwBLVLLVpbzQnA1s2HAyvOHYRzb75GcDzHBcJUm4dqUf0ejb/YvVvmby/gRG9N+10zaY/U08TYaMEDxvGlDERQ7WKAUj7AuKS2fhYXJ6Z5wOw==;ja/6Z8gKkJZSQzUq81uHgA=="
 ---

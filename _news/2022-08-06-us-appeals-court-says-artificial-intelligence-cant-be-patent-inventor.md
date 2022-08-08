@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/us
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: IPWatchdog
       domain: ipwatchdog.com
     quality: 17
+  - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
+    excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
+    publishedDateTime: 2022-08-08T16:00:00Z
+    webUrl: "https://www.abajournal.com/news/article/ai-system-cant-be-an-inventor-under-us-patent-law-federal-circuit-rules/"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 16
 
 secured: "YTsfAy//yBtrShNiM0i85ziAN4NWxMP9F/xvjZ4xTR4Q7QbvmdMtIR/uDiSOMpjgXkOwDL/6gqdTh6DG2W6PUIqRiNdEr239ZkYkcWtKg4HHv2xTC89XEwfpQHFIF3zSWzi7yIDvrIelTwu7NMykw16DROCl5QjKRuBiNiKHB7T5oepx1S1JT5/+wxAjZ9lcgq7UgEX1Fcu4wZyDOrlBpcm+d6odXf4eBKIGJH4OFQqCRfXrPENHcarWnYbvb3KjV7adGIQ3Sw34y+9CkWEfxCSh2OIVNL7dlABVA3HI8abw822Mn2iFLKG3h92wlHpqyNFRO0RPY/89Cb9X7xjTtzoYsDn6ewcBGU7+N1X6PY0bEJ97PtrJ5NNx45wIkg9499cPdFPSx1DOfuZaaAbjjgC7MIULIVnMh5Nw+rW1LylkGGdqTydvWTowcdGttcS/OfQSYH9miZs/V6Q7su6QxhjXeHo7+X0qWU+EvqCaqdrs1rZ+ZrvJhsaIrFoDkGQfvDcNGv9F+rpAuSO0r+GIBw==;bgbM01uKapntMG0JpeySng=="
 ---

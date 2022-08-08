@@ -17,6 +17,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_PDP503.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "A|I: The AI Times – DeepMind cracks biology’s biggest problem"

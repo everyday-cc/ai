@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Fully self-driving taxis approved for two major Chinese cities"
+    excerpt: "The vehicles, operated by parent company Baidu, are the first-ever fully driverless licensed robo-taxis in China, FT reports."
+    publishedDateTime: 2022-08-08T21:12:00Z
+    webUrl: "https://www.axios.com/2022/08/08/fully-self-driving-taxis-approved-for-two-major-chinese-cities"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 24
+    images:
+      - url: "https://images.axios.com/F5RrwDQd6ngp6qkTrR2HSfE_3u0=/0x0:5526x3108/1366x768/2022/08/08/1659982453558.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Chonqqing, Wuhan kick off commercial operation of unmanned auto-driving business"
     excerpt: "Technology giant Baidu on Monday announced it has secured the first permit in China to offer commercial fully driverless robotaxi service to the public on open roads. Apollo Go, Baidu’s autonomous ride-hailing service,"
     publishedDateTime: 2022-08-08T06:44:00Z

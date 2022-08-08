@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"

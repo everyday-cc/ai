@@ -53,20 +53,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The eyes have it - New insight gained into how the visual system develops in mice"
-    excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future"
-    publishedDateTime: 2022-08-04T04:43:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/223789"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 34
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/5b0734a3-6976-477e-bed0-0d6ea2bf08b8-viedo20logo.jpg"
-        width: 286
-        height: 229
-        isCached: true
 
 secured: "/ciXw8GUNDvncZwyVWJMNBHZuL1fghn0TxazBfh86frobV8AQyzlR1+kep8lgMXWElYf6arTX2oe2Zk2etNIbmzPivfkNSgxcuawpaLCWs9zzU4+LuzXB6MWWfm+aH+TE/X5VcaQ2h4QViKsIbze63sd2IWKBbdFG5POfVJ3tTGGwh0ZtGlUqrNZZmOA/paCcTjRXeCa9KYK0mG5XwzZGpGP6a9KU/f70R+rZ8EY9Oh4YqSjgzJVJGKsjM4hcMhDDHYlbTxT0JyJQFAaI+ahGbyeT+UZVfkyTL/bBJxWh+lt7biATWiJyskghZbndKljisERKUHz9CUnXkBRrH9+qObT2r8vVd4+Hb9iUVoh5hU=;DP7y/g8zn/77Zx9Wfjz8fA=="
 ---

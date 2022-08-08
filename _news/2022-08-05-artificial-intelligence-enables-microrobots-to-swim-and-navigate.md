@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/whats-new/artificial-intellig
 webUrl: "https://www.electronicsforu.com/news/whats-new/artificial-intelligence-enables-microrobots-to-swim-and-navigate"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -27,21 +27,14 @@ images:
 
 related:
   - title: "Smart microrobots learn how to swim and navigate with artificial intelligence"
-    excerpt: "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,"
-    publishedDateTime: 2022-08-05T11:48:00Z
-    webUrl: "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp"
+    excerpt: "Researchers have been able to successfully teach microrobots how to swim via deep reinforcement learning, marking a substantial leap in the progression of microswimming capability."
+    publishedDateTime: 2022-08-04T21:50:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220804130621.htm"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 73
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/smart-microrobots-lear.jpg"
-        width: 1140
-        height: 600
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 46
 
 secured: "5plK03aMm+YedBQ6dne0urdIk1zTiwXaTAn1s7NHmpYFdAfQcf1rcYuRbceUOn05FbD4WDYr1s7k0x7t3a3Gny0y8Rq5uJoAfbIixTE+qK7kuVNRc4kS50xIllxvhbuijrLl+9yvIlqzsVoJM6vpQ2YOGGlBuJeh2PhmNgw5QJBx6lOrkJZHqgYO8+ExQB5tLYvoJ/i5I+lOMlgL6CsKNOooRf5HSiaB8i1ASMZCrlbfOs8dnXqz18GexqtlAqpRWJRTqos0zrjFshtZ14+4g4umQYMEF1BXBpQDSQublgbkdI7Xo4bZ5gFkVbJlbiMm/yZ9rnVEYY/aSc7qek+1IJmZ8KpVuuxGWTjTgSt17TQ=;Wv+mQU5dNZeTSItABGq0Cg=="
 ---

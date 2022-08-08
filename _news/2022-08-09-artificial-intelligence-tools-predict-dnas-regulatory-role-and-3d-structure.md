@@ -1,19 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence tools predict DNA's regulatory role and 3D structure"
-excerpt: "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics. These tools ..."
-publishedDateTime: 2022-08-08T19:21:00Z
-originalUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
-webUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
+excerpt: "Newly developed artificial intelligence (AI) programs accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to recent studies."
+publishedDateTime: 2022-08-08T21:28:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220808162100.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162100.htm"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "cjKsUPXYgVA1JfM3kIugsrtnxJXjxA6O6xAEnWJy1IbvA1TVC6wi+gwkCyYTDWRY90n56AD2XYVNh4EIkhG7J5H6o6zu8XD/QxgJczqDPdPEkuAKziDhHQYnRH4U6WbqCkJq7hTDoT5m59mEaUb6hIjqxK5MYWm1ONPXI4LH9PLvCg6oJM+qTfzpMGQ0rLAlryxVcIRm4YC5w+3uTtoCpaqDJOnrWA3l3w4LYcEl3+3D5ir558+uh4u5YVaI+LzPndMHo05js1lXjh2KQKvxsFeAsjHpI6VYF4CkY8ZmEOM6dtNg/cpoYiglr6E0uoz4mriGgYF0ZZwgtlFT2iuqM3I/KrhPkUpzJoPrmIRVBbY+I44wbNJc7a1FKrNcERVoskMvtqoeQQcpTnKRDeb6NSocsLwthfNgVLVH2Imb8q0c7Z3exnrHqYTh1UgZZUw0oDKDlclN9zJ/pwMskkKTgiG7BdlDqDInaKZ3cOskFXMfhqctRJhbJv2MUSfyNDIjPc7zBwMKfXVl8cztFiAlOg==;2vhbNiFOYIk6u74faUk46A=="
+secured: "7+OmU0vo4oTe0DcK8w5n8ueZgEkdh+wv7SAl3xbnWqRqY2/0Wy4zSp2N8j1MGvarhNdSkzjIADIWJB44H+IKNbNfVyWBWJkMCw/3tEPsKWX2Tnnl2Y5f0NESUcyEBFvYV6gTbgI4MM3kPMqNxt3twPGahWjNxFi8h+5hO7RdT//XS8wLydX8v1kERaq6HTQ10Bn9LAoOvwusVZpeS53CmPz2hSaSbI/tExcMVNz2oyb2zmLpbrLsMgy8BKP+aRZ287fGFklNfyfsdBRxc3jX3XrmlLkNY9W/mNq/VniPg3/V2DT75MjQ6vg3mNU7RSnvTCkEbFFbEZYvGPA1jETIWk9O4to7xqoV8R09r6LMCxo=;YlQVAq4q3D72lRKN5aLKIg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T18:00:00Z
 originalUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
 webUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Campus Technology

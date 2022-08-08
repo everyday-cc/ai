@@ -34,15 +34,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
-    publishedDateTime: 2022-08-04T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Reltios-MDM-Solution-Is-Available-in-the-Microsoft-Azure-Marketplace-154253.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 49
   - title: "Falling GDP And Missed Earnings Expectations From Alphabet, Microsoft And Meta: Forbes AI Newsletter - August 5th"
     excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
     publishedDateTime: 2022-08-05T18:24:00Z

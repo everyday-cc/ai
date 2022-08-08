@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "China drafts rules on use of self-driving vehicles for public transport"
+    excerpt: "China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry.The ministry will encourag"
+    publishedDateTime: 2022-08-08T21:21:00Z
+    webUrl: "https://www.channelnewsasia.com/business/china-drafts-rules-use-self-driving-vehicles-public-transport-2866811"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2-2j-aJY--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-08t092122z_1_lynxmpei770b7_rtroptp_3_china-autonomous-regulation.jpg?itok=xSBRee7Z"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Dubai’s RTA launches contest focused on self-driving buses"
     excerpt: "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively Dubai's RTA launches contest focused on self-driving buses Artificial Intelligence Self Driving Cars,"
     publishedDateTime: 2022-08-08T14:01:00Z

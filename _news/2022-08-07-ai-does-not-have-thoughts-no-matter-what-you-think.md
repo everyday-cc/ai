@@ -38,7 +38,7 @@ related:
     provider:
       name: San Francisco Examiner
       domain: sfexaminer.com
-    quality: 43
+    quality: 47
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/3/9a/39a77c4a-9cee-5e70-ab99-391b59a805fb/628c4051629d6.image.jpg?resize=400%2C302"
         width: 400

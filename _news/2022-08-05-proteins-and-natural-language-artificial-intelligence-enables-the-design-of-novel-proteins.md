@@ -28,7 +28,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 49
+    quality: 51
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg"
         width: 2835

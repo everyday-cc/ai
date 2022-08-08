@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Where’s my self-driving car?"
+    excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"
+    publishedDateTime: 2022-08-08T09:00:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/wheres-my-self-driving-car"
+    type: article
+    provider:
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 4
 
 secured: "ckGO7xNo5MMCukSsn+Wi9k+xIY8QpmA9tb3w9f47G7odIiMNK65oVLGSOKUaDR00nTIeS/Q7ONJ7dy6rhkd00h171SHZvLvck5dr1j2xh7Vr3zCbH+WtbMmWnf3O+ewsNGsqlStGRxCnFWXUrdSvpILGojkPzWt+O/NxUog9fF/oyz77anlHw+pIBneArwpLtIxeb8MCQ9UY1T3U4GuQ1CXSupto0nET3jMj5eN5uLbDlMD0Tq01eMNBvwl58UVVoyb0rNGfrYkGLf7fJXq377bm5G0OGZvs5hNzFtYrPmYd4Td3EicIWgulguKjnA/tIjrgEaaGdJKlQHQKAAFB8te+yDRA4guABu4oFp24Ns0=;GwtiErPmAAK5nWLSa7vGzw=="
 ---

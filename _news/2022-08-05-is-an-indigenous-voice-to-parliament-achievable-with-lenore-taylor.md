@@ -22,6 +22,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "UTS: Voice to Parliament helps Indigenous Nation Building"
+    excerpt: "Prime Minister Anthony Albanese has announced the wording of the referendum question to enable a constitutionally enshrined Indigenous Voice to Parliament. It would seem Albanese has made a solid start on his election night promise to embrace the 2017 Uluru Statement from the Heart."
+    publishedDateTime: 2022-08-05T13:08:00Z
+    webUrl: "https://indiaeducationdiary.in/uts-voice-to-parliament-helps-indigenous-nation-building/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 4
+
 secured: "1Fg1MD94tnaBkMIr+QM0Jmsll27BXr89hsi+JlcC4MCDOgmTYJJtPhF4FDD1COCvXhsjaH8XNWcXRG99blbHMY4V3X9gWSu9Wx/oELsq7KCpbzPAj0rfzQgdj+wAHnCjc4edtj85FdM7By9XYlPi9XGl2evAHILXndZD5VGoxwjBbMvuiyhVFpN0nEoKZLKNLcpk4fCDBZZqqpy4iYjO9MJLQILJ3h2H4WKagfzrOnSScjjvS2AinJZKW1q7DWeE57DLCEKcYrQCpNbz7Lwd/SfAUNl6LHoHN18usJDK/udWAyIF1DT+Eu7UxvlaJuVCCLajfx+AnlDKKpBxq0vRa51BMjIuXyewwL8CXgNV2GPtkZMyrPxbksTZwIzm08EX0yg1S8u2G0cyHsrs4VEcU6Yv/GGsECowrt8bM4Z+r1E45ZNuqoQhOjgm0T31VQektpSRxxtOXnHsT4wTRFFP2zMGoI4uBuRN3UqpDx6hbDG/xm6Z3ZchEfTedHGPLDujwk7kvUXbC0P4bNrSB/LO4Q==;0NeN/iH6HMvUp28AoFGBhg=="
 ---
 

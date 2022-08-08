@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/business/how-artificial-intelligence-is
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html/amp"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 427
     isCached: true
+
+related:
+  - title: "How Revolutionary Are Meta’s AI Efforts?"
+    excerpt: "The company formerly known as Facebook has a long history of controversy, so can we expect more of the same from its Meta AI efforts?"
+    publishedDateTime: 2022-08-08T18:46:00Z
+    webUrl: "https://www.itbusinessedge.com/business-intelligence/meta-ai/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 21
 
 secured: "dpE267Uxs8ift7Ne1mz4ekBoch85XXbIL9ntitaiRAH7lomd19Al/ikLSXrL3cdX8tEarQ+y/LXCuE1XrbZj3pEb++1LvznuX6IIFWzX5upflraHReK9JDDtrCHYIw4T0aUsa61PB+2Vy0znFW80Msf4P8vcUHHGE2im3ImWzRArAHdIo/EbE547UjjRhr8QIZ6FbEBnq9nv9PQ8hiJR/YajsbbeBgGNcQJK6Ncnhr7CgPu+9FLe/ZYPkQItxJBJYaLiaDOxfiFua/tvS87gIz+30rbJ9wsmplOBOWtt5SoP97YMTER7P11/p8yS+pJQtkIlPTQyj5Cg6mDlPDg3o2esMW+9Y4HNFJvGP3XjdKnpPzdfRbGfeD+2JK3LY7h0eRovQHZJeR4HJMNOXeOLKa4kjspSOLk51y4I0VHK53tOMULM4Ues/ZNQ91+eUYQ158/TcCkcmY4GSssKwABNZ2APAZZmNMzOjtvGraiPkF7xzGPcPWLGGlVpE8Ew9FxHzuawb3H05CLuJJSyaFgA+Q==;IhtxuUL3nSh7cajhTWfmvQ=="
 ---

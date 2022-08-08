@@ -35,6 +35,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "China drafts rules on use of self-driving vehicles for public transport"
+    excerpt: "China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry.The ministry will encourag"
+    publishedDateTime: 2022-08-08T21:21:00Z
+    webUrl: "https://www.channelnewsasia.com/business/china-drafts-rules-use-self-driving-vehicles-public-transport-2866811"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--2-2j-aJY--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-08t092122z_1_lynxmpei770b7_rtroptp_3_china-autonomous-regulation.jpg?itok=xSBRee7Z"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "d4Nl1owNw4pDspf/fHjswbFcNxw74WJacQYlbcb78CZBGUGsne0I8JB4L4vsqZXQl6k+7QQh8s6FCgCvXm8GYraWv3WALAirRuwchiOgcPH6j7p6MnysSTzs3nrpKWpBLPZ1YBpCNiOVpLCYD4Ru0twfAtQYZEDWybhbsSDdxS4acbaOQsUpuGqG8gI3yXEb9z6Q41/ucS7Lv7OfAI6/U9WqnrHPwCGw+iRRKBqt3j7P9JbJiqO+Qp3wm1DScpkRZmB1H+deDqcC/AUmusKPrGLTwbs7TZiojin5G9yNLmOCd4hvZOdE4Yv3v9cEAmgXamTPuAJpNhORZkWomtEJm1FaEaJsvLSXrxlo7VIcsDLX4IWoOnUY1vSk5POHgp7dob3jZPZVH0gj6j4Lq5v6XMjd5niZpoBNZHfIYsNeF1djN6hbyrQudpycePEfJiIka2nKyjLhkd/MwoIvdfPb8U2XblzosSegP/xw88mzBUJPd1gX7zUVAsHH/3eNNue7Bq1xMEFaAAoOr6mrAH2nag==;DeV0zYg6/anqbI6AxGjIYA=="
 ---

@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/photo/75433510.cms"

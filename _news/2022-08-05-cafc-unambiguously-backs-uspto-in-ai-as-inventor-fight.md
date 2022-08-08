@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
+    excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
+    publishedDateTime: 2022-08-08T16:00:00Z
+    webUrl: "https://www.abajournal.com/news/article/ai-system-cant-be-an-inventor-under-us-patent-law-federal-circuit-rules/"
+    type: article
+    provider:
+      name: ABA Journal
+      domain: abajournal.com
+    quality: 16
 
 secured: "pYR3FHsqJ0DZdrawEU3DD1Uhp6zAV8HRRMS1CcQIs28rz5oJUXFhTDO+HoXy1UZvYg3rbNrfO+kQCY10jg2DcjqyMpkbTPUZeGwoWX5FA7szCwEheMQ35gBLkEYT7gsp5k8QB7nMN7Sh1/Ai9zibuaB+zNHbEqwjtlEEygu2Whh4JrgWCr9I325825DlEhnH3OQ5+VJPHYY/Pwox+RwdB5f7DiLZK4bgcbBu2Fj1KKNcvz8T+otnpsKv0aJ4/0+01U4qh0Hj8FyfdG/Q6p/4RQihM93xAzdGV6Cp2CgSDK7PDA5rsf7X8RK9DIbHNoXoF3mQMGOBHGR81FkHdKeYD4wtHeitMYRgYLLak7jFt9TKwjUWV8Dl+EkNhw0fPLmT64BPEMsSPiqMhpSvmKPrebWm8XiI5PSxwufFGQCWUHsLYEX30dH+9vlNQQhilgcbG46SRCy7OODres58qhzdHkejf5qaQIA4lQapBBEe/BpO+El4zD9dfz3u8GK1BpVllW/eSsoxfpnDS7pG2VhYPg==;+HDygSHfRUMFev0Mpmnf/g=="
 ---

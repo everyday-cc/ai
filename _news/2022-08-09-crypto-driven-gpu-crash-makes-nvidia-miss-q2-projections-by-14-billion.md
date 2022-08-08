@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T18:14:00Z
 originalUrl: "https://arstechnica.com/gaming/2022/08/crypto-driven-gpu-crash-makes-nvidia-miss-q2-projections-by-1-4-billion/"
 webUrl: "https://arstechnica.com/gaming/2022/08/crypto-driven-gpu-crash-makes-nvidia-miss-q2-projections-by-1-4-billion/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Ars Technica

@@ -1,22 +1,25 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
-publishedDateTime: 2022-08-03T17:12:00Z
-originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
-webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
+publishedDateTime: 2022-08-03T17:26:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - AI
 
-secured: "R9olJnVsECuQOCLaOGas1bq/CFdV5mUxqAZ60j7Le3kWcM3DCoWespl8mVkGOGkbUQYdgqIm6+vnjKlqCKY6PwTDd05g1U9kzNNJ6QFr+P6q224CxGiDQyVRkfX6AiLKSuOXNueakJmRUjFyR0oNTm1Ff0aLoMXQEnFc9GDBhj+Kl7rbaCaadpAH1aPfV5xfnrGlwiks6ir9ndByZPjo0UlmSBv/zaa13NMA8NBkPm+Tg00JM+ACNXpPaT0TfmquYt5dsdjZ4uHYpaL8JGVZtbMzDmXRn1ZzkTDSd/uEKpyId4RR8vOEPwI/Trbw5DexMxwWosSI92PF/vNDZpSmIjaO1+2LwBW2myd4VV9v6Wc=;zDTbvJAK7G9aOtbLHbgHSQ=="
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
+
+secured: "oCMhe9CTdDqo2qVboZf+7C/+I+pvv0uvGNfePl+hbpFA4+hE9j6BBWnZFlAPohZqs52vR8RXS41nP4mNY2tWILmVpc4IuWr7SG0zSQKGez5oUTGVTj7wv2P6Rqp1Q2nHYy4CGs1znxkT3uib2EbRdZrM1QrE2GPYvLRpUWM3y4QNP5NlaIpCrLO/SA/ZrGhp0/jxBGO9lybWo/ruuwTgzf7X3Xn0DpJR6E8HMWGTW2Ogp2ruhmxrVl6tD3tP4CFaFyuDdU3FLh9QNfBH+jkv7wGg0YsLEH26usTP80dJpfXiB8EgFaod84EBU24XPZ9b3kFHXBRJcGBPghdM1Jg7jEiXDon3aVaFZthBl6Teo9g=;dnJwHLP+2CsT+VOAVbCrsw=="
 ---
 

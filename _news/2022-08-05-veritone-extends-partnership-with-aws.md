@@ -41,12 +41,12 @@ related:
         isCached: true
   - title: "InvestorNewsBreaks – Veritone Inc. (NASDAQ: VERI) Announces Continued Support for AWS Media & Entertainment Initiative"
     excerpt: "Veritone (NASDAQ: VERI), creator of aiWARE(TM), a hyper-expansive enterprise artificial intelligence (“AI”) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (“AWS”) to support its Media & Entertainment (“M&E”) customers."
-    publishedDateTime: 2022-08-08T17:32:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/nnwire-2022-8-8-investornewsbreaks-veritone-inc-nasdaq-veri-announces-continued-support-for-aws-media-and-entertainment-initiative"
+    publishedDateTime: 2022-08-08T19:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-8-8-investornewsbreaks-veritone-inc-nasdaq-veri-announces-continued-support-for-aws-media-and-entertainment-initiative"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 10
 
 secured: "mPK0T/Qe9ZpvYxpsHS44qHrHX6TniGcw5wx1MriUSL2OFLiBdj+ADuQ5nBeiQhDl61qDsEoKgjHekNKZDMy2AUZgyISQZQ77P+BeMGvZBLBjTEBp+claKnJirPshEArrmWI+FJ+bU5EEiAtk6ZmO09gp3S9u2qI43cfginRTxM7/g4ZAaPu7TFK14Q3xQu5J7Fm+ria03FJFre+xOkRseQYZzodyn4ZjMZ/2KLr0cN3x6dyVsO3ySpyXCc/qCHBjbVOGUk0xcomUkdg272o/M0ISf2rlKqjNOavkmPpP5ncpnLECxsxOnFHAty59MwhxoUudn3mY+hURj+m/lT3qZy2Rh1/FrNyQxhBTrneXhnE=;dj0C4PtrXP9+7aWolHyUYA=="

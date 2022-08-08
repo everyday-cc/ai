@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-const
 webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 696
         height: 464
         isCached: true
-  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
-    excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
-    publishedDateTime: 2022-08-04T02:31:00Z
-    webUrl: "https://www.theaustralian.com.au/business/stockhead/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/news-story/aa17209006ce69910902ff500a76c6c4"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 7
 
 secured: "c0WREk1MvwyVtJGso+LYvPIikgNTczrMXAPUDN1eG9lRxjp8zODqv4Gg0hJPqQ5quKifWK0ik/LXd9CJZ+bQ826VXXyZ8t5KplKtEL8gH3Q4UVJcr2UtFY/XWfUuhQPKpTBGLRE7/lQMbRLpPsW0PIGkl+6Ds8JmWrptjUNUH7vmtmoiDqhtAgrMWfCMEUhPHGEbopOjcw3hx24IQjkZ5NIb3ef7XVQYwq+QDJAVDtOGyyoWtKoYk3iW1d3VVZA+FEbktJYdTI/8ZeH74QIChZ7ehhFbdc36p1Bmwio8GzQ17BmKW+62VSKeqDxPhsnXaz9Y9amPXQLpWGqf7E17HNcijdfbjy7mofZhh5K8aH86TFdFeszKwBKp8C/vdvEgMBZBEUuLYMzRrlkIG9tiNubjW6P28c0yLGAH4yfZ+jDILkIGXCo7Zuu9l4pv2HHJ+I4BG1e64c5uyQMYkiZwmTXo6OscCBX7G6YT0nDDNZ3bFRlCZjagnSy2S2f85Q2l7yI7GGqjwRZNEWl3XjzMOg==;d6tZrbqYIZCQKL+JeFZihQ=="
 ---
