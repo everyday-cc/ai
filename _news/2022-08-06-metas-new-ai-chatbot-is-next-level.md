@@ -120,6 +120,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Meta puts its latest AI chatbot to test"
+    excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
+    publishedDateTime: 2022-08-08T07:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/pj6una/article65745007.ece/alternates/LANDSCAPE_615/2022-08-03T124454Z_1298068913_RC2ZOV9F01JA_RTRMADP_3_INDIA-PRIVACY.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z

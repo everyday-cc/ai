@@ -44,16 +44,21 @@ related:
         height: 533
         isCached: true
   - title: "Baidu bags China's first fully driverless robotaxi licenses"
-    excerpt: "China search engine giant Baidu Inc BIDU.O said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T02:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
+    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+    publishedDateTime: 2022-08-08T07:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/dcm2x3/article65744612.ece/alternates/LANDSCAPE_615/2022-08-01T010022Z_1809726800_RC2HLV92ACD2_RTRMADP_3_CHINA-USA-TECH-ROBOTAXI.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
     excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
     publishedDateTime: 2022-08-08T04:13:00Z
@@ -124,6 +129,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "9EkdjZVvPn5pFCEU8/naDaYASLnblWi2rJcf8oQQc78RQaFUaLsFqzkesm9zZ0fsqjThsJ1Y4dLCjVKmfB4csYqA9rRvBpUpXtKLe0vOcxTmOpFbzIdNS5LHly3PzQP+//GhyCd5fd36f8iqrCalz3l4cxYykPsXu3ADf3B3imoULoNbk5wAhMXEqGGykfSQqRhpwiouO9squ/xX83Dx1W6w5Z2FPUI/DV5d5r/oASnBvTj6W3lPStrH+NVVwmG6qvpXrDDuLZNtyJSHdD4mALochcdXnrrbtG0Oo/5qLEm1euQvfMYbG9HZsS+/YIsUqjAwr2A6s6kbYxATK9wEnNzSlC0tSn33Z02o+ZArCqo=;6/T0Fp1HymuAJ7CO6RcsOQ=="
+secured: "GxwolDik76cg1wM/DGuc2mTaVzAuTGcw8lACNcEZbPAdY2o90+F1o8WKWwcWEqw4NOY/9TyoAfgmkNWZbJn+3SDsAFAyOtD+yOEBpLJlRr4V6OUHa0P2HhVJpr/2JHbb3FvpNppQOlOH9ewEs1eDPTce+pbtu6DwWCmwkcQScVNULkouEfycPK2kfZHsk3CtxK4xaBUU6P1FJNIKVXRtetSpFfrjxA23HJURYwZQ9tycoc2UtRxnXkhok2z0dhujP9AioCeY2QUYln0V8xUrNj2kbut1Sq4fhd/oTBGiXEOsG8wItM60nSXB+H5ZbTbYtERrnAlVw8M5TgZmgm5A7qicEXorkxwiRorPfs3KGb7572GMV+rVBHYOoNKL/ZKYYFvv98V1CYtmfv1cYgn3rWr4CLp1fjK1sfJKdI6/XJse61ceJlXGh9VpOURjB81OOqPzBDyQyjQRxlyBnhG9HXYWp100mtUSrLOYYYlh12zdI8hihMWZoayUu4aMui7wdIfE1r99BBbDMpLS8VPjxA==;VCFk0dYGxdmijUi3pX2Yyg=="
 ---
 

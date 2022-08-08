@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-accused-of-falsely-advert
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
 type: article
 quality: 88
-heat: 208
+heat: 209
 published: true
 
 provider:

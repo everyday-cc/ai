@@ -7,8 +7,8 @@ originalUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-bigge
 webUrl: "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: BetaKit
@@ -27,7 +27,21 @@ images:
 related:
   - title: "Google’s DeepMind Can Predict Protein Structures"
     excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence"
-    publishedDateTime: 2022-08-04T08:46:00Z
+    publishedDateTime: 2022-08-04T07:06:00Z
+    webUrl: "https://www.business2community.com/crypto-news/googles-deepmind-can-predict-protein-structures-02531401"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 39
+    images:
+      - url: "https://www.business2community.com/wp-content/uploads/2022/08/3dmodels-900x659.jpg"
+        width: 900
+        height: 659
+        isCached: true
+  - title: "Google’s DeepMind Can Predict Protein Structures"
+    excerpt: "Google’s DeepMind AI can predict the structure of all known proteins, potentially revolutionising the way in which artificial intelligence is used for medical research. AI has come a long way ..."
+    publishedDateTime: 2022-08-04T22:55:00Z
     webUrl: "https://www.business2community.com/tech-gadgets/googles-deepmind-can-predict-protein-structures-02531401"
     type: article
     provider:

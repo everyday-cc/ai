@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Reltio MDM Solution Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Reltio, the leading cloud-native, SaaS Master Data Management (MDM) company that accelerates the value of data for businesses, today announced the availability of the Reltio Connected Data Platform in the Microsoft Azure Marketplace,"
-    publishedDateTime: 2022-08-03T13:03:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-utah-park-city-data-management-1dd4c4a6ecea4152964f10c93d25dd7c"
+  - title: "Microsoft becomes Australian space hub's first 'Constellation Partner'"
+    excerpt: "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use"
+    publishedDateTime: 2022-08-04T11:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 69
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
-    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
-    publishedDateTime: 2022-08-07T07:00:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=226753"
-        width: 959
-        height: 538
-        isCached: true
-  - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
-    publishedDateTime: 2022-08-04T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Reltios-MDM-Solution-Is-Available-in-the-Microsoft-Azure-Marketplace-154253.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 49
   - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
     excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
     publishedDateTime: 2022-08-04T18:39:00Z
@@ -80,15 +57,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 30
-  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
-    publishedDateTime: 2022-08-05T12:41:00Z
-    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 28
   - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
     excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
     publishedDateTime: 2022-08-04T22:28:00Z
@@ -103,15 +71,15 @@ related:
         width: 835
         height: 396
         isCached: true
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
+    excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"
+    publishedDateTime: 2022-08-04T02:31:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/news-story/aa17209006ce69910902ff500a76c6c4"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 7
 
 secured: "ygRxRq+0nEsGq2FMzRZLbdDnqS+XOss7hPmLME9MpMvKiWC6mOqnSrx55vFhqHIKTvVThUODcOgPcZ46Wwq5Hg72WJbkyqEIErt5R4ueqTRhosXTrY4T7jMpttoAPlJ0daSIvrIuaS5gWwuAS0X4RHMckgKV3lOBd9I+5fBt0NTg4yLdphUHcS23hOdCKMArK9LDqNPlTcnuBDkSUUvDQxW7yIUow0lzVPWYupUjAf0KDJ/MgOdcSIT8X5JXuBUGf8e6h0m5I8P+1USkN4dl2kQ4kLqJRe/xtXFix0PIfz7FpdOCFtZoSfWYnDI6WPXBeu0RJrNyH/PWIujqs8YFZTEzjq940Kuqpvg//xwHLIyORzrpKwJ101863o2719AMdO9101db3/kJbNHgIRf8CxEaclwffNkHJjPEu5PT9zSo0zLAgmqgH7KU2ylAoUVRZ03rQAeU9oL2jxLDMrEAMHuVmcR7y+kGDlaMl9TcoMowLGvPgUtqc3iLZh+ODMFDXyY9YeN4qM6wWPZPXAfqEg==;rSlITyoDzP+628jkzAQ/oA=="
 ---

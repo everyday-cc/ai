@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-08-how-artificial-intelligence-is-revolutionising-healthcare.md",
+      "title": "How Artificial Intelligence is Revolutionising Healthcare",
+      "excerpt": "With the advent of digitalization, cutting-edge technology has become an essential part of our daily lives. The way we live and work has shifted",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html",
+      "originalUrl": "https://www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestatesman.com/wp-content/uploads/2022/08/mr-1024x427.jpeg",
+          "width": 1024,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html/amp",
+      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/how-artificial-intelligence-is-revolutionising-healthcare-1503096668.html/amp",
+      "publishedDateTime": "2022-08-08T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Statesman",
+        "domain": "thestatesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-you-need-to-stop-doing-this-on-your-ai-projects.md",
       "title": "You Need To Stop Doing This On Your AI Projects",
       "excerpt": "One of the biggest reasons for AI project failure is that companies don’t justify the use of AI from an return on investment (ROI) perspective. Simply put, they’re not worth the time and expense given the cost,",
@@ -1333,58 +1377,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-experts-establish-the-north-star-for-domestic-robotics-field.md",
-      "title": "AI experts establish the “North Star” for domestic robotics field",
-      "excerpt": "Stanford researchers have released BEHAVIOR, a catalog of the details of 100 everyday household tasks to help guide embodied AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1329808534-metamorworks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/ai-experts-establish-the-north-star-for-domestic-robotics-field/amp/",
-      "publishedDateTime": "2022-07-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

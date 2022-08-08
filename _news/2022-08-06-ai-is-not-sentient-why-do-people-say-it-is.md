@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-pe
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence is not sentient. Why do people say it is?"
+    excerpt: "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s"
+    publishedDateTime: 2022-08-07T01:12:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google AI may not be sentient but it is crazy powerful. Here's how it might actually revolutionize the way we use technology."
     excerpt: "A former engineer at Google called AI sentien. It's not, but here's how it might actually change the way we interact with technology in the future."
     publishedDateTime: 2022-08-04T09:00:00Z

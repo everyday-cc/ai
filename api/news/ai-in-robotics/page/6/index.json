@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-22-what-would-a-sentient-conscious-robot-mean-for-humans.md",
+      "title": "What would a sentient, conscious robot mean for humans?",
+      "excerpt": "A Google engineer claimed an AI software of theirs became sentient. Now there is debate on if these sentient machines have a place in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
+      "originalUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsy.com/images/videos/m/1655851252_oKWgGT.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
+      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
+      "publishedDateTime": "2022-06-21T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "7News and TheDenverChannel.com",
+        "domain": "thedenverchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
       "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
       "excerpt": "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ...",
@@ -1254,58 +1297,6 @@
         "name": "The Conversation",
         "domain": "theconversation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-introducing-ziggy-an-autonomous-robot-that-saves-you-a-parking-spot-then-charges-your-ev.md",
-      "title": "Introducing ZiGGY: An autonomous robot that saves you a parking spot then charges your EV",
-      "excerpt": "Charging technology provider EV Safe Charge has unveiled ZiGGY – a mobile robot that can charge an EV wherever it’s parked. Through its ability to recharge itself via different energy sources and its summoning feature,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
-      "originalUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/06/robot-charge-EV.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/14/ziggy-autonomous-robot-charges-ev/amp/",
-      "publishedDateTime": "2022-06-14T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

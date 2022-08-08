@@ -46,16 +46,21 @@ related:
         height: 533
         isCached: true
   - title: "Baidu bags China's first fully driverless robotaxi licenses"
-    excerpt: "China search engine giant Baidu Inc BIDU.O said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T02:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?amp"
+    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+    publishedDateTime: 2022-08-08T07:42:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/dcm2x3/article65744612.ece/alternates/LANDSCAPE_615/2022-08-01T010022Z_1809726800_RC2HLV92ACD2_RTRMADP_3_CHINA-USA-TECH-ROBOTAXI.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-08T03:35:00Z
@@ -128,6 +133,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "I2eXv5kD4yW5Rpgihcr8Attm6dYv3UflQhCe2RzbrhKalidSq5xSmU+3hCbkkGGF4z3QpziyE/2tis4jUHgvPMKO1Unw83e0HmSFQiKLIy1pla8Tgwu/eU6gpTQwScpPBMagKrZqh5YRwN/BVFhXjbxhE80LpsQHenIFeIhciTgdHWWr8T78PNvaX0Qj0fXNFeE4Dl/9M3EKVi6wTcL7ggZc0tMy0Q7RawgXfOKwBSZskigskc6tB8km/RHJP42yWqEiqU5U2g/HxKet/UQYhzFgXvVQAWUlJdg80mmbdVz7hupHMOE6ws6FQ/mI65HZbKgyaqg+mRtrE6EU4LeKx5rG2PO7cYiK8tOiiI/4P2g=;6xlIHkO2pI3WgPCsqXfkHg=="
+secured: "s11NH1pkqs1R6cMPIykdvmyitxc+33IexxR1wWwPSD4ZkMrddSrlpk38gn4fFhV8s2XMhypZ0poy8b+hgBLD/M4YqEB6swIfbJRiG9V8vz6jYaT4/c2518sFZsFERFDAIoLp4fa6UXrpV5Y218pqQdAOrbZaWoAi+zsOrU/ivycyjOTgpKkATCx8/x/QVT8vDmd2EgHZAMtVEVIVfOjio8GlaFSRHDzrTejNL7iSvj9UCVs4EsdRUzatjAEu5OY3n719gQPVUx1LWZSNDlC/0T4GGQpBVlVYhi+U7MNOp7i/8O4zUxP3GrgLcprxIlKtZL/t6NsGAKKF8koWzq1b6c5AwJZKCmV1+nOa5YnyiBPWUocNr4JV/oHRM2Y1vec9YuolSewrFfDCTK0UlQrU3m8poCnFKwMcd6M0wYxH6JtwTl5CeTmzXRLXx2Yk6iOtrDp+EV90z8NniY8VnqLKBTsHAAIi5mNqVSSNyr8KHL7xeOFaJBy1n7KJNn8aj3P+rEmPXqJO2+nUu9fki43oig==;ovwnlbb1TDClc2shefMirw=="
 ---
 

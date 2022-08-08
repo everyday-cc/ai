@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse"
-    excerpt: "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users."
-    publishedDateTime: 2022-08-03T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd8dddcb14c77f8af660ab3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ethics in The Metaverse: Why Data Concerns Needs to be Resolved Now, Not Later"
     excerpt: "Most of the ethical concerns are issues we have been experiencing in our non-digital life, such as privacy, social-economic inequalities, accessibility, identity control, freedom of creative expression,"
     publishedDateTime: 2022-08-05T12:51:00Z

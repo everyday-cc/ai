@@ -39,6 +39,29 @@ related:
         width: 770
         height: 364
         isCached: true
+  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
+    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
+    publishedDateTime: 2022-08-07T07:00:00Z
+    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
+    type: article
+    provider:
+      name: The Malta Independent
+      domain: independent.com.mt
+    quality: 54
+    images:
+      - url: "https://www.independent.com.mt/file.aspx?f=226753"
+        width: 959
+        height: 538
+        isCached: true
+  - title: "Reltio's MDM Solution Is Available in the Microsoft Azure Marketplace"
+    excerpt: "Reltio, a cloud-native master data management (MDM) company, has made its Reltio Connected Data Platform available in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft's Azure cloud environment."
+    publishedDateTime: 2022-08-04T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Reltios-MDM-Solution-Is-Available-in-the-Microsoft-Azure-Marketplace-154253.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 49
   - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
     excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
     publishedDateTime: 2022-08-05T13:44:00Z
@@ -48,6 +71,24 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 32
+  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
+    publishedDateTime: 2022-08-05T12:41:00Z
+    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 28
+  - title: "Microsoft developing software to identify cardiovascular risk"
+    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
+    publishedDateTime: 2022-08-05T13:20:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "IpVBJi0spKybfmNYtSqZt2iutkGNKn2pSG1L0yUsXq0zM6+Lfec4cL/khdvXQxLZyBu67ODGVgvXELlD57VkofH3vltS7yhbKEoknNCwDq+WAtEwk+FL0GMHhL4FgwTrbgniAuS+o+tiSBe7935OLyXl4lgFuGa4QIL0dphNhe2AeG2eaaBq8TLublpK7pAK/UUNTGKzBkkK/kkYpRXicpBHgEKOjgxIVcLVoy8SIPcB3LawMjo3bEkSN0Xgps5mCqmeWhJwnamr/ZoumX3wTNexApgU+AALEcDWmAaxYo8FCSx76myeL2d8nZ4q1CCgYRkRj4QWOqV4nU5vsFHJNqF4tJk+uPP5OqbuAuTsAgyLJzOwJr7hZhpjH+nFJCK1n0yEK0RDfJ7SxanB/R8iL5H70TmF9hmbbVcCO2+JFKk2u5GYj2exzHHBXgI19wjAE+deyJYJR+tm/N1yLK+UvcrFipPiAJrTQAaTlZqRpfjxMr0rBovlgP1cwcslkjt19QSpltUdXtT+FEMlRkOikw==;JlK+EiQcXJO5OExobLgN8A=="
 ---

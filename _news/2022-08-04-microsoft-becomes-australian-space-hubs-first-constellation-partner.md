@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-const
 webUrl: "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub"
 type: article
 quality: 69
-heat: 89
+heat: 119
 published: true
 
 provider:
@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
-    excerpt: "Australia’s space industry is moving rapidly; Microsoft has joined forces with the National Space Industry Hub (NSIH) NSIH was delivered by Sydney-based incubator Cicada Innovat"
-    publishedDateTime: 2022-08-03T14:26:00Z
-    webUrl: "https://stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/"
-    ampWebUrl: "https://stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/australias-surging-space-sector-gets-major-boost-as-microsoft-becomes-constellation-partner/?amp"
+  - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
+    excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
+    publishedDateTime: 2022-08-04T18:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/next-pathway-partners-with-microsoft-to-migrate-customers-to-azure/"
     type: article
     provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 47
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
+    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
+    publishedDateTime: 2022-08-04T13:18:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 30
+  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
+    publishedDateTime: 2022-08-04T22:28:00Z
+    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 23
     images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2022/08/Microsoft-has-joined-forces-with-National-Space-Industry-Hub.jpg"
-        width: 1200
-        height: 675
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
+        width: 835
+        height: 396
+        isCached: true
+  - title: "Microsoft Becomes Cicada Innovation's First 'Constellation Partner' At The National Space Industry Hub"
+    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicad"
+    publishedDateTime: 2022-08-07T01:42:00Z
+    webUrl: "https://menafn.com/1104657153/Microsoft-Becomes-Cicada-Innovations-First-Constellation-Partner-At-The-National-Space-Industry-Hub"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/06/CNG_b5701image_story.png"
+        width: 696
+        height: 464
         isCached: true
   - title: "Australia’s surging space sector gets major boost as Microsoft becomes ‘Constellation Partner’"
     excerpt: "While NASA still remains the world’s best-funded space agency, billions are pouring into the private sector, making it one of the hottest investment opportunities out there. According to Morgan Stanley,"

@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence"
-excerpt: "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,"
-publishedDateTime: 2022-07-27T12:25:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488"
+excerpt: "Company recognized for its recent AI breakthrough, Gran Turismo Sophy™, at the 31st Annual International Joint Conference on Artificial"
+publishedDateTime: 2022-07-27T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
+webUrl: "https://markets.businessinsider.com/news/stocks/sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence-1031620124"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "K7Z5t7GyCh6/KNj7Ah8/mAoXFw8eLLwvJjWnbujSPIZPxofFIZh5PMQlIb18gqghu9ZASIkW8JwcsRoRgxnbmK1BPFs0U5msUN+6RLTJ4rN3AL+SGFdwAf5KtRB02tmm3+IabjpJClkJRZpnNqWmd4mEIJgffqtfIzHhxkxpsD7fEAZCIUAKY6YXtuJ8G7TREEn9PwFMq6bboMob3A0GhLmcunk+2T7fEES2AAOD/A5WeMNkOLOdTVOHsbDhQAwYt7Vsh6Mi/1J7R3QaBtZLOgAkkq88/xOhHZ/X+eheJCYv+T5rtmEDSZybplkJF1oMEzOhH5npLg6GkcjgXONZYzNuUfRODd/r6zLqf9esusM=;l39KQgdIblfXGZ+xiyOB3A=="
+secured: "+LRivPqDwNYCU7oszTjIXLN1Fx8kutWmv1zvBfHyOuDjPQ1Ultb3WPJCEEAqdGWMBHr8MDl5s5r3cfdgQFUGOORrZ9S797HmgSqGABnRvECOEb5GUNpP9Dxjb9Oo57PDlwxjUp4ygjEQV1aC/5jeai/5S6mZjQNfyaUBcEoaTlPPxAUWvWbedq/7dBfa6IO613xVR0DrbWoh1jGPA4WjqYLy1y4qNmgpuIPyFxm273WqSpdJWWHeV8VVlzbPkY6Fv/tzB4P7lSmChI9E2gGAHqPr2IN1Sbp+ENueh4aKibClgb1f3ZTc6DZ26CjP+KBw/Fp1LgLm4oNGdXb4MhpuwfrX99HxQOZY/FElTSv7leU=;5x/acJeZmQ3XgehMhm3N2w=="
 ---
 

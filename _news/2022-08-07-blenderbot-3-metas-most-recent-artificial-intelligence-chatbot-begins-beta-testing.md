@@ -136,6 +136,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta puts its latest AI chatbot to test"
+    excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
+    publishedDateTime: 2022-08-08T07:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/pj6una/article65745007.ece/alternates/LANDSCAPE_615/2022-08-03T124454Z_1298068913_RC2ZOV9F01JA_RTRMADP_3_INDIA-PRIVACY.JPG"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Meta AI's BlenderBot 3: 5 things to know about the chatbot that learns from interactions"
     excerpt: "Meta AI, the New York City-based artificial intelligence laboratory of Meta Inc, has built and released a new state-of-the art chatbot, called BlenderBot 3 (BB3), and is letting members of the public interact with the system to get a feedback on its capabilities."
     publishedDateTime: 2022-08-07T08:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 117
+heat: 118
 published: true
 
 provider:

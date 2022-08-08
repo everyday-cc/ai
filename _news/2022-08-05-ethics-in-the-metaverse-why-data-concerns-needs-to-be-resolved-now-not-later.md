@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse"
-    excerpt: "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users."
-    publishedDateTime: 2022-08-03T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 100
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5fd8dddcb14c77f8af660ab3/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse"
     excerpt: "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse."
     publishedDateTime: 2022-08-04T19:57:00Z

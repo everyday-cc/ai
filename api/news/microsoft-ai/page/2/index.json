@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-19-irelands-eclair-group-acquired-by-finnish-automation-company.md",
+      "title": "Ireland’s Eclair Group acquired by Finnish automation company",
+      "excerpt": "Eclair provides enterprise clients with automation services through its cognitive platform Eve. Founded in 2017, the Dublin-based company has clients in Ireland, the UK and the US across a variety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.siliconrepublic.com/start-ups/eclair-digital-workforce-services-merger",
+      "originalUrl": "https://www.siliconrepublic.com/start-ups/eclair-digital-workforce-services-merger",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.siliconrepublic.com/wp-content/uploads/2022/07/AdobeStock_313526459.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconRepublic",
+        "domain": "siliconrepublic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
       "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
       "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
@@ -1330,40 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-the-global-edge-analytics-market-size-is-expected-to-reach-283-billion-by-2028-rising-at-a-market-growth-of-248-cagr-during-the-forecast.md",
-      "title": "The Global Edge Analytics Market size is expected to reach $28.3 billion by 2028, rising at a market growth of 24.8% CAGR during the forecast period",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Edge Analytics Market Size, Share & Industry Trends Analysis Report By Component, By Type, By",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27944178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27944178",
-      "publishedDateTime": "2022-07-04T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.asmedia.epimg.net/resizer/WDO0saV0PJSinb1hmJG3JVD23Jk=/644x362/filters:focal(705x205:715x215)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/XGBXJYJCI5KTTOKAXELMIF5M3M.jpg"

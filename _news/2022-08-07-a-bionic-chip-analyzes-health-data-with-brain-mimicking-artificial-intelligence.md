@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyze
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
+    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able t.."
+    publishedDateTime: 2022-08-08T06:00:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/medical-devices/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93421879"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/medical-devices/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93421879"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/medical-devices/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93421879"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93421879,imgsize-13062,width-1200,height-628,overlay-ethealthworld/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
     excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
     publishedDateTime: 2022-08-05T08:27:00Z
