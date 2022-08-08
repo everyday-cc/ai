@@ -65,15 +65,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-08-04T13:30:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
   - title: "Agile Financial Systems Teams Up with Fintech LendingPoint to Offer BNPL Solution"
     excerpt: "Agile Financial Systems, a financial technology company specializing in payment processing, announced that it has teamed up with LendingPoint."
     publishedDateTime: 2022-08-03T12:42:00Z

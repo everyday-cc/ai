@@ -3,8 +3,8 @@ category: news
 title: "The evolving cyberthreat landscape and the benefits of AI and Machine Learning"
 excerpt: "Derek Manky, Chief, Security Insights & Global Threat Alliances, FortiGuard Labs; and Jonas Walker, Security Strategist with Fortinet’s FortiGuard Labs, discuss the changing threat landscape and the role of Artificial Intelligence and Machine Learning in fighting today’s cyberthreats."
 publishedDateTime: 2022-08-05T08:04:00Z
-originalUrl: "https://www.intelligentcio.com/north-america/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
-webUrl: "https://www.intelligentcio.com/north-america/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
+originalUrl: "https://www.intelligentcio.com/eu/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
+webUrl: "https://www.intelligentcio.com/eu/2022/08/05/the-evolving-cyberthreat-landscape-and-the-benefits-of-ai-and-machine-learning/"
 type: article
 quality: 50
 heat: -1
@@ -15,11 +15,11 @@ provider:
   domain: intelligentcio.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://i0.wp.com/www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
+  - url: "https://i0.wp.com/www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/08/AdobeStock_513326117-Web.jpg?fit=1000%2C450&ssl=1"
     width: 1000
     height: 450
     isCached: true
@@ -97,6 +97,6 @@ related:
         height: 800
         isCached: true
 
-secured: "9SQtfjo4quG4PaT7aG3jKwlVMBO8Y02JH3i/gQtjS0tMRIrE5I8opXCXiG+Q84owTXbVfjDUew3Navmf0VEJkhCnWpXVNpIkM8+xGYT8DKwE1lzfm6ajNzrZ0lFUplvuPAxu1zKdzLuo6xk2zenfa2ZR2wx+j6ogIIiYFDjO/dJTMICh18YK5jcB0Wif9voT+mg7D7I4eEPwQNkCfNd2FCdl6gGu+qQhqrnu+XwNsZoBNIO1ZV148pv8RbMYSu+LoaU9cGvU6qGoTfrDfM6EOUV0XmTAVo11VOyStpPK6/TdQmVb3T34hxBNcodrg7YIEPy1YDE6ivj0eNNxCWGkw5QRin5JHxhSnH9lg50AV1A=;3a72PESjdAozl0sn0fgGjQ=="
+secured: "j3/IB2Uho5rD7TAoJuu6ysiDT268BPFIXHAmxfN2o7lziXfpeBMJ9hKzUn7EEWo77EEF+Wm2TcYeR5brYO4p8PUiuY2h/KTyo2F3wgc0lzZSOMcgdwKefYBLdiftrG3D/LPJ+JHrRnXtBKTDjA31FOy5gFEfqz+/J1xOhfy8eWrSgvMeUV0kNGaE0DPl1wDs5aDlm83AGa5JBd/cEDgRRyJEsaHjhE1uPpiiCjnjuXtWROhrMuzsYK9B0UCONU9N7qXKSx9zoW1Rc9Zx9ow2W96W8cWC3RnvdwK32ojWdmnP4tH88n4du7TQJcrYrh2VOrHiMQ7sBPm1l4X6TikV9prCitwoU34XdOVAnFGewus=;057DTgShVg2kPv9suZUIEA=="
 ---
 

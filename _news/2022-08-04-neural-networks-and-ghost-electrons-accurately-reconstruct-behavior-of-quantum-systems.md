@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Neural networks and 'ghost' electrons accurately reconstruct behavior of quantum systems"
+title: "Neural networks and ‘ghost’ electrons accurately reconstruct behavior of quantum systems"
 excerpt: "In the new approach, the behavior of the added electrons is controlled by an artificial intelligence technique called a neural network. The network makes tweaks until it finds an accurate solution ..."
-publishedDateTime: 2022-08-03T20:29:00Z
-originalUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
-webUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.html"
-ampWebUrl: "https://phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-neural-networks-ghost-electrons-accurately.amp"
+publishedDateTime: 2022-08-03T19:41:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960814"
+webUrl: "https://www.eurekalert.org/news-releases/960814"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/neural-networks-and-gh.jpg"
-    width: 1391
-    height: 1075
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/432c7da3-5b39-47a8-84ff-9801ec2fd018/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 232
     isCached: true
 
-secured: "RpuVnyzOCvE5zKjHzVIv66t4/ccahs3uHiDubu8Rpj0x8wHV4dz5tlMMUKS6pXzmtiH/5nGpkwGIlDhfoPhZgVdux1sG/Y/BjJIMX6EjjYXGGBO88gKwKw+WenF5xqmx6AqR7WWnjdH1Kqsj22PzUnvVQta8kCk4LZo84H+7jlZMEQblnTvI+fXvWktOYd9ag7bzwG8QAOHfzwwwIiN/jxFgSkZNe2xUBGeYdPjEwndFVHcM4/oJR5Kl8SuQC9VJkIF3yta/YDq3cW2zwyQXSa3BAn7MA5GLDQFNcejR6//pzFil6ckV/w1Dtt0ds8adOrXarFmkSGkScDOMBinFkiCWMt4z1ELO4L1UsRVw+qg=;AfpIhRkCPQYoD8xYTWfx9A=="
+secured: "yGn25wHkHFfCjAK56apQs7N7iC4aO4h6QDENvVxkxtwjSRXMaEHFo6FgVx052zJZJUJ8az/3lySfl2fhfuMLPkKJW5IZ/hX6U7IVB5r2j5BKgfS3Akf8JZCq2u978Dr/nBYTlxjPP8DUj7VdJw4Pt/autzN11dABkNA6gA6oJW8e4Rig+5XOwvEuLsv7nzrYKGYnPgQpcGuY7CnSsYN2xS7qoAh9ttAbZYlzTWDORc2fC2uMR2fo6y/8c7SBFEDpqH7rQSXS/lxvklQ3zvn2okn8Za6e+TkAIB1Uxhhwa03Nr4N7ihuM3RkxMh5X9+QSFh7/2tw9iqOTq3NTRHcBZNlTGhVCNk6O1RfY3erZJVg=;JX00YbVTINQyGcqB4pJxSQ=="
 ---
 

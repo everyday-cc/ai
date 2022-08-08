@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-pe
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp"
 type: article
 quality: 65
-heat: 76
+heat: 75
 published: true
 
 provider:

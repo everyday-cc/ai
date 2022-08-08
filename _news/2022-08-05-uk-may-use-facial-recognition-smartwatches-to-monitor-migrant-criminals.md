@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migran
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
 type: article
 quality: 89
-heat: 112
+heat: 109
 published: true
 
 provider:

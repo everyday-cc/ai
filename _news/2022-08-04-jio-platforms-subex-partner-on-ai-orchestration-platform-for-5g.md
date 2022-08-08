@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Jio Platforms partners with Subex HyperSense AI to augment its 5G product line"
-    excerpt: "Subex, a provider of Telecom Analytics Solutions and AI-led Digital Trust products to communication service providers, and Jio Platforms Limited (JPL) a leading Indian Technology Company (subsidiary of RIL [NSE: RELIANCE]),"
-    publishedDateTime: 2022-08-03T05:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jio-platforms-partners-with-subex-hypersense-ai-augment-/2022/08/03/9649554.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/1822606/Subex_Logo.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "fNtLaRkCD3J0WvwoTR+CQJBgUqPe7fVge68q6vQxHGZnNxpZibZZR5zXtiHNEChfUNogTG5BzQyP4BUHnvriubwiiGal3xwh3RFpSGz/ilTOPo3vOdHMugfmbGVN/w0i5PzHM4Rwrn0Dw8SVkecoxA0XBOI652pgXLyUDS8HnATqtlD5kQ065xs5vm+tU69ET8htIrbbjlz66DSpRMsssHAWxM/c3SrNJhcDEkwkvD+rPWEy2IUIxZ3ljwfN2PqbYDVkkNgu4jkUEZsrTxeMPBvs6dBxDNlGtAkE0wkE8npkHYGenaAkLsmimJaM82zqXpzayYUDQhMFyuOM9keij5rzMxEMCs8orkyly0THXEs=;H6b70FUHCcBeKMBYrpqNtA=="
 ---

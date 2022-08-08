@@ -3,17 +3,23 @@ category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
 excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "m1ZLg7KVX3XSDSQ0Pyleu0Wl4tq0OfeX3XEMqhMeOyWr7vDxAuBMDh0ydVhDNCnW88SgoSiJJoBhWIgfVRxsV07lfSBYzwGMN1Nq1Y09I/Gt2vHruz2+LwdE8DOq3y8hzQIzgtpnVRgSBHG1uIPj8NULZK0qvR2eoDLMNqsiOd4pWXo4pMmA/ffRlMc5CDlYLFVl/fVtzDIVLa7uHZGr3Gqs/yZYRFnEEw1PyLl/A+dh6XxLbFEOGx5uEfvpavoCickwdw8pFy1oPrdXwdgAbBOcF8JXr8jJAQx3pxHFBxeeVFPNfDt3qL/+3y0UIFgY4cSxHcGVYilw2iZo0kJ0ANXK1v9EAEYfqMkj8xgi/Hg=;9pFefT5QeZVIU/vdldMg2w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ZXk+Mtot0c8bPABI6eWKh1Qg6xVdF6ppeuascQKDlHk6BRTayzFr/yCgGRXKSDCwFJpuxt6AdTmhpKboZUB1kr94JL4LamXJ3Bt4Ws0Ej8oLaQwvkS7NYYQWgkrLYUA2gWd/MV+CLMa/x37S8+Jynqs/8+Mh6Iglu1zewzzzoivZxOzWpt2c7xUvQGatY/Hl7JXtzbkLDMt6rI7Ae/nyi1VJ8QEC8wTn2iO9rQC1/TdNPr5Gim1CMsQnDykgp6SnKhWjFisba/CaMS5BfAkDgu+R6+3QuO3HNTGQKnfqiZbJp6A+WmIYmxIlsoKeWZd5mFCV7BUilEQqGdn7OckmumSYyWdPX9MeJOHtxK5BQ8s=;Mefz7VlOm8QGP5J3DR8mAA=="
 ---
 

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 661
         isCached: true
-  - title: "Watch: Machine Learning for Risk Analytics"
-    excerpt: "With multiple layers of suppliers, artificial intelligence and big data can help companies get clean and useful information, says Jim Hayden, chief data scientist at Everstream Analytics."
-    publishedDateTime: 2022-08-03T05:11:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35384-watch-machine-learning-for-risk-analytics"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/Jim-Hayden_1.png?height=635&t=1659502313&width=1200"
-        width: 1133
-        height: 635
-        isCached: true
   - title: "Treasure Data Named as a Strong Performer in Customer Analytics Technologies Evaluation by Independent Research Firm"
     excerpt: "Treasure Data's superior product roadmap focuses on trust through data and model lineage, and democratization through automated machine learning (AutoML). A cash infusion of $234 million from ..."
     publishedDateTime: 2022-08-04T13:25:00Z

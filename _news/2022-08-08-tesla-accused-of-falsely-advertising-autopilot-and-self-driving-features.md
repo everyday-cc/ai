@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Tesla applies to patent more precise GPS antenna for self-driving and navigation"
-excerpt: "Tesla has applied to patent a new multi-band GPS antenna that it believes will be more precise for self-driving and navigation applications. The automaker describes the new device in the abstract of the new patent application: A multi-band antenna system is provided."
-publishedDateTime: 2022-08-03T20:40:00Z
-originalUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/"
-webUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/"
-ampWebUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
+title: "Tesla Accused of Falsely Advertising Autopilot and Self-Driving Features"
+excerpt: "Tesla has been accused of by California's Department of Motor Vehicles of falsely advertising in promoting its Autopilot and Full Self-Driving features as providing autonomous vehicle control. The DMV alleges the electric-carmaker misled customers with advertising language that exaggerated the technologies' capabilities."
+publishedDateTime: 2022-08-07T23:01:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
+webUrl: "https://www.cnet.com/roadshow/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 88
+heat: 198
+published: true
 
 provider:
-  name: Electrek
-  domain: electrek.co
+  name: CNET
+  domain: cnet.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - AI
 
 images:
-  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2018/10/Tesla-Autopilot-navigate-mad-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  - url: "https://www.cnet.com/a/img/resize/4954d0695db303430f030fc0f4480c1a4dadedad/2021/08/27/d458a3d5-531c-488d-aca5-5c4f1afcab61/2021-tesla-model-y-03.jpg?auto=webp&fit=crop&height=630&width=1200"
     width: 1200
-    height: 628
+    height: 630
     isCached: true
 
 related:
-  - title: "Tesla Accused of Falsely Advertising Autopilot and Self-Driving Features"
-    excerpt: "Tesla has been accused of by California's Department of Motor Vehicles of falsely advertising in promoting its Autopilot and Full Self-Driving features as providing autonomous vehicle control. The DMV alleges the electric-carmaker misled customers with advertising language that exaggerated the technologies' capabilities."
-    publishedDateTime: 2022-08-07T23:01:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-accused-of-falsely-advertising-autopilot-and-self-driving-features/"
+  - title: "Tesla applies to patent more precise GPS antenna for self-driving and navigation"
+    excerpt: "Tesla has applied to patent a new multi-band GPS antenna that it believes will be more precise for self-driving and navigation applications. The automaker describes the new device in the abstract of the new patent application: A multi-band antenna system is provided."
+    publishedDateTime: 2022-08-03T20:40:00Z
+    webUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/"
+    ampWebUrl: "https://electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/03/tesla-applies-patent-more-precise-gps-antenna-self-driving-navigation/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
+      name: Electrek
+      domain: electrek.co
+    quality: 84
     images:
-      - url: "https://www.cnet.com/a/img/resize/4954d0695db303430f030fc0f4480c1a4dadedad/2021/08/27/d458a3d5-531c-488d-aca5-5c4f1afcab61/2021-tesla-model-y-03.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2018/10/Tesla-Autopilot-navigate-mad-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
   - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
     excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
@@ -188,6 +188,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "SCPFMRbQO9EmAOUhJyKP7xrdseMJ+HGVpve0HBfaYNLjBfGCqThVgDyH/meyOCnq26wrTf+CvEUBxdqHxYYay/J6d7nUPsmxGs4P/yfwcIhF0R1OotNRQBoDGzm9rGEpXs1emv/VqvaOVMx4rBhfPwXehSK+5Z16s4iw+BMuwij+aDNfCrUiDYX7rT0NbeRq9LruwYsZ7lRxvJzUKUMLdvLOKy8pO/iRhUpEbLOT0Wxb8Dr9fmwG2XbBW9g8XIRfdRL50zJdR3hktXxVL9jwGmZoGG9qW0lRjOV2e4r3CcuGkYRnlwJC/i9wKHrNMiPAwdmokROKeC7XeE9mLdHnQZsGlIG8k+48Bsk9fEwZZsLVMkSpJpXmqzYS/E3Mg7ZIxOVuxG9dJ6GfzXbWidggBDkUYOhDXKy2BA52i1oQl32nHf/eEByAOLK3zUD/mE3rVH5H5pVcHOVXIve8ApvGU5eYI1WB7wvIhIPC80u8kMuhxB557y2eIDOtytWzd8Y8BIncBlxYXX+O6OfhW0VxQQ==;f+rDvKHnC1K3FHSanM6Uiw=="
+secured: "tR//mR2iQ5tJPlXKylLvLrKiT7Oh9TJof8WWGKmQvdQkSMZSML+P+uPrA1tSyT9VY5wTUwShl0iez51HP9szT4rKSpIfZDlJsv3IasZRb229tS1MCSKdMgJrG00ZpitjRslzJoNQEcdgyEvN1oNNju9sHmm70bBFdpsEUd+ezAMTOskwPblP63Hla+qnAMM8dcJSOw2M3EdU5srjudsUCh67nZJpFgUmisEoSdCAcv4loR0Jq//MMU2Vjmj1P+pewxy4iLp8lV9/WY4zAaMcn18cODA7c/9ePd1Y6mxfPbj0NWbEVCvLA0N8Ka2lysPA5E4f2z1CYcgsf9RvN5ML8Xx17NSEeE9swwUob8i4R0A=;lEzn4OIXyZ78Rk1BqC+Iig=="
 ---
 
