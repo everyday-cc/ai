@@ -35,6 +35,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "PureSoftware and TFI Research release 'The Global Report on Conversation AI for Banks 2022'"
+    excerpt: "PureSoftware, a global software products and services company, together with TFI Research, a global leader in market surveys and integrated insights have"
+    publishedDateTime: 2022-08-08T07:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56748411-puresoftware-and-tfi-research-release-the-global-report-on-conversation-ai-for-banks-2022-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1873288/PureSoftware_Conversational_AI.jpg"
+        width: 400
+        height: 214
+        isCached: true
 
 secured: "GPBmj+1kBbOm8Tlk6LVYcJzMP151NS8d3pNIX/hOoKXg4AYHVXu7EzkjgVLCyyyZyn5gFf4gPKUfBtWah6UXiGipJghYJwFf24mqaYJqbZAgrMXV11TfQU/75d0GKy0J2Uo/fObn/GERHwLMTG9GbZ+wtdWhvKsrV7ALcZz47D7CaJMzuLUD+M1qeLWu4cozAsV3nGlEDEdpJ+i99L5GciUygOSZCFvN/nul+1kAJGASO3S1rtvuJGyAyr0iyQdqTqv2nZtBpsDMKcFPhO7zS1gY7CXwuLlukkOoPPEeW0A576sBsHKvibitTkjBHmRGnRbNGuqmtFNITs4apmlbPuPyqTxVUM9rpEWOPZm8pHTSgHqNDHvRQsRtqAUKS08sduHEpKkLSFolJ+Ha6X05r2s1hc6MXR1TjhT33rSVdWuAU4haDgkBJbn9nrKEr11Fc/MbWg72zgJYde+L6lMckr8+8wtCwJmFvgDk1hOgZD8Ij7b6GLkre1MC6tQi4IehVIpPvYcNzacmaIr0a1zGmw==;XT+BVD/sIDHF2jCtmedaiQ=="
 ---

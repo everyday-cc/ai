@@ -7,7 +7,7 @@ originalUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asi
 webUrl: "https://www.dailymirror.lk/business-news/CFA-Institute-to-host-Asia-Pacific-Fintech-Month-in-August/273-242377"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,29 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI to boost PHL fintech industry"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) and efficient data management in business operations will boost the Philippine financial technology (fintech) industry, according to AI-powered platform Provenir."
-    publishedDateTime: 2022-08-03T15:03:00Z
-    webUrl: "https://www.bworldonline.com/technology/2022/08/04/465816/ai-to-boost-phl-fintech-industry/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2022/08/banking-financial-technology-with-currency-symbols-background.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Falafel, AI and fintech: Meet the 2022 A-List winners"
-    excerpt: "See a list of finalists and winners at the bottom of this story. They range from falafel maker Afia to the artificial intelligence experts at Kungfu.AI. The A-List Awards focus on innovative companies on strong growth trajectories."
-    publishedDateTime: 2022-08-04T18:46:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/news/2022/08/04/austin-a-list-winners-2022.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
     publishedDateTime: 2022-08-05T15:45:00Z

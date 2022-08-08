@@ -39,6 +39,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu To Offer China's First-ever Commercial Fully Driverless Robotaxi Services"
+    excerpt: "Monday that it has secured China's first-ever permits for commercial fully driverless ride-hailing services. With the new permits, Baidu's autonomous ride-hailing service, Apollo Go, is now authorized to offer fully driverless robotaxi services in Chongqing and Wuhan,"
+    publishedDateTime: 2022-08-08T09:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 80
   - title: "Baidu bags China's first fully driverless robotaxi licenses"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-08T07:42:00Z
@@ -130,6 +141,20 @@ related:
       - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
+    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive"
+    publishedDateTime: 2022-08-08T08:34:00Z
+    webUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+    type: article
+    provider:
+      name: WHBL
+      domain: whbl.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "2E7IhhqPT8IRU2GOnpAvc5ck7AuwuSjS73Dp0x+5ciwAqTkbIjhgrVT2Yv71A96EulRCY5zF2SjcNUnmEZNRG1Ox2VPx5G4okbbnG5J5SsKVSod4/Ba600wZEqd6yzrgvKS4OuTwUe3esZe/LsT3SfbxtPamPyNImgLIRHz6634mXpgo2oXDVpg7Ji8UVqUeT4B8DwHOqFmlPEIgZIk0q5zsiQYnd27gXMpxXY6HbfQ9ejL7df0JBWG2iNWa1ujUt/dADRbq4UENP/zhEiCBz2G1lIHibUgg62gCmPC2rAbuvFHlZR07mzckf5uIQDADWEL7/7jACdJexlwmfAkUZIVzXIT3Ep2v5+4TNVrRg9Jv6AlrPZW4ZXIdDFWOj4tpP7aTqYtr6PP0hJOWZxrwPWYH3bkV8PJB/4PDSWO4ndkuMkvC6S0zdMhKlo+EkBn9Jvr2vHkVAVQOwPYFbC81i5+Xdw5NG1/l5t17M2INNTlhzpSNQPr/eQNE8wEPk84AxSVDG/vVSQXL9JVH302Xlw==;fTKq0DiQJksyPD51ssGBrQ=="

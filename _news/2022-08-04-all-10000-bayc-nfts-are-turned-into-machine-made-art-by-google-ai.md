@@ -7,7 +7,7 @@ originalUrl: "https://www.artmajeur.com/en/magazine/2-art-news/all-10-000-bayc-n
 webUrl: "https://www.artmajeur.com/en/magazine/2-art-news/all-10-000-bayc-nfts-are-turned-into-machine-made-art-by-google-ai/331930"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Google AI used to create an Artsy Monke NFT collection inspired by BAYC"
-    excerpt: "These abstract paintings created by Google AI take the shape of apes resembling the popular BAYC collection by Yuga Labs. The project dubbed Artsy Monke was designed using advanced AI and image diffusion techniques."
-    publishedDateTime: 2022-08-03T16:41:00Z
-    webUrl: "https://insidebitcoins.com/news/google-ai-used-to-create-an-artsy-monke-nft-collection-inspired-by-bayc"
-    type: article
-    provider:
-      name: Inside Bitcoins
-      domain: insidebitcoins.com
-    quality: 39
-    images:
-      - url: "https://insidebitcoins.com/wp-content/uploads/2019/04/google.jpg"
-        width: 660
-        height: 371
-        isCached: true
 
 secured: "l+NHiXi41UWZ2geJ7VDhiSjxzBuBUwhQs15WWY91v9cBRmfrQx0Jbq8xNpIEAs/3WmbsTin/XxvN5Mi5O/BWzYY15t/WuhicRaT6rjpgfw6oWIjACEy1AtR0PFhLLuFdpbhgxqbgN2CPSjQH2RtUWq2uYzfcLcQzDNdyo/t+LraxV4f50H1PHkvDhUFxDAzNdGEA88rjTUj/4hwGgWXkGuFM3umTovReMjQ6dLtAW9Kv5VqI5vKRj9sSBByXbwPT+gZ4EnH47LpL3Zgf7/Nkk4nvzPZkS7hcx/HawU2Pr7gQPhaJEJto54iWD587ccKrsePu6sgNHT4Rb6LoxLVDgBzwMO7S1Ipznw3IZEDsM44=;vOiL4MG0nuA3PqiH46HTbA=="
 ---

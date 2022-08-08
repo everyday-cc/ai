@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-u
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,36 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu allowed to launch driverless taxis in China"
+    excerpt: "Chinese tech giant Baidu Inc. announced on Monday that authorities have approved the company's plans to launch driverless taxis in Chongqing and Wuhan in what could be a significant milestone for"
+    publishedDateTime: 2022-08-08T09:37:00Z
+    webUrl: "https://www.teletrader.com/baidu-allowed-to-launch-driverless-taxis-in-china/news/details/58392455"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/58392455"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/58392455"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/265870.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Baidu fully driverless taxis get green light in two Chinese cities"
+    excerpt: "The permits in Chongqing and Wuhan mark the first time fully driverless taxis will be in commercial service in China, according to Baidu."
+    publishedDateTime: 2022-08-08T07:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/baidu-fully-driverless-taxi-apollo-go-chongqing-wuhan-china"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Baidu wins approval for China’s first full driverless taxis"
     excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
     publishedDateTime: 2022-08-08T02:23:00Z
@@ -60,6 +90,6 @@ related:
         height: 575
         isCached: true
 
-secured: "XcVxzfaatRbIP9GIxozTTD6iSoHwttn17JHwV46O7pyihg7WqFJsb0OjD+UfQBYCicKQSiGLjbEE4IVztIPiJvdJ7Gco+LhOLSGmtrlczj3iiRNXAHIdN8cD2RfZB6O+F5ZwkgSn3Q5AGIW1eLt33UdmGfsyFS2Ir7IHyjrdBeXrmbvnz9zCzixJLVXCWBRNtXJacqbBnUncaRl+3pftvhgLjT/2zsLHkndBUwjfXxxZK2zC6QBsIKSs7ybwfAs13MjFRTpjkIUk9UHEqzfauiUXXicoQY4yMVWjsO6GdGgqSGTUwryI0AUOM+Spd80lFktbik2ZbL7iphFXgECVNAJii/JyzNkDUX1nQ5b46Mg=;rveulDczdBThp+I59XIE0Q=="
+secured: "VkeCsWKWz6nfqWIKO8rQyQ5g8H9gLippH85xtj/fF+LBAUy5TolRu7LzHYYVblDDR0XV+DL6sYlJcLz1EzWRi6LtoinuB7ku6qoEUvAWDgaP8FSHc8SZ+JYF1C28RnlWsAsP2w/cw749v/kVpX01rTdqSxzerqxSz3bYcCkYHIW5u04ZYGBPF5ffEId4eWyFp4v2fAZltbrPv9yV1S6PEl0mhpIyL6r9q6hKOowExyK8usf7m2CAyrIUTIFaBOcaB6HytKiZF2GaUP8W008IuGR6t9ZG1MoGlFr+rXSVIGmZK5A+ehA4wih1fraUaweNqRUst4tl7UIGT8SG32wwQFwnAczVyjLu8dZWy3gkFVEfo7AQUzfIyYUMo/ecqKlI6EnYtSawzD4FdMBQQ+u6mitdvG1QUtWpR5Pnl3VHn4R9irLht6Xaae2TSVo3CgIu7V+R13UYCg38FTV0UymCc9uXwGFF24n6w5sLSIfol4Ao2qDnnq3M/+TEUuaTyhAylyLqBYqtY8xWsRjRsCQeQw==;XYHyeVwejrWnuPWGnOjlRg=="
 ---
 

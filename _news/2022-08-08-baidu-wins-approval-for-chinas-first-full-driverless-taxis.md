@@ -41,6 +41,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu allowed to launch driverless taxis in China"
+    excerpt: "Chinese tech giant Baidu Inc. announced on Monday that authorities have approved the company's plans to launch driverless taxis in Chongqing and Wuhan in what could be a significant milestone for"
+    publishedDateTime: 2022-08-08T09:37:00Z
+    webUrl: "https://www.teletrader.com/baidu-allowed-to-launch-driverless-taxis-in-china/news/details/58392455"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/58392455"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/58392455"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/265870.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Baidu fully driverless taxis get green light in two Chinese cities"
+    excerpt: "The permits in Chongqing and Wuhan mark the first time fully driverless taxis will be in commercial service in China, according to Baidu."
+    publishedDateTime: 2022-08-08T07:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/baidu-fully-driverless-taxi-apollo-go-chongqing-wuhan-china"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chonqqing, Wuhan kick off commercial operation of unmanned auto-driving business"
     excerpt: "Technology giant Baidu on Monday announced it has secured the first permit in China to offer commercial fully driverless robotaxi service to the public on open roads. Apollo Go, Baidu’s autonomous ride-hailing service,"
     publishedDateTime: 2022-08-08T06:44:00Z
@@ -56,6 +86,6 @@ related:
         height: 575
         isCached: true
 
-secured: "vx21bSVhHv4ln7nK0jbOrl+1mLxBOtN/eQz9fwmagFEbyFT3UDU6qvicNBgPUZijZIMlhnKLlFRWlDnvKH7pBj8Mz6N+UurvUVag8lD9StRcyjk3uHKcr1qyXlQX+dSTzRGaLLpQWvyMPBOmPeO/842k1SqfwSS/bEoOTHN5Kn8nCI7Y5saoqskbdUBpKVwpJreEGZE52I19yZBal9sxC5FMMfSTjwL1i3/LZwLVR6KGR+8ogLM1Krdaxy/cgSr8yhQdoyi90oL0psUDzh1y33lwgbjjfwa4i8v9G0+rie1cDDYST08CW+B0LoLp0bdd385JisthbAaylIMuGwNAZZ+jNebJ2GvHt+K42z1IAY8=;2AweE6pbB3XBF8MaIBDh+Q=="
+secured: "+AvCLosX5f4sLsZFLHi6pbsAJTOlBuenOCAl8Gap5xUNQqDKHcB3UphjW9pwtMEUwfAi7VC1XA0AAWnpueYCIn9O1aG33rWZ/Iq4bNopw4EA7GK02HuMdn+NJmUjWQdlh1jUWeL7mRwkxlqupTUlqarb5TJZzt8aCojIRLYK698eHZZoZH3BU3oskVCu1E96neSDQ5OPdFJ8lAUq7+b/V8N3ksjqyLDjpm/NsJjv2gJ1eApH7w6eBIH59M0kzv/aPNuQEqqGA2O6gbR6Je1MFVKzaoWmqAwxuo5w+qgS/zgIFCPKldbG4xbU2jark+TE7a6hC5MsUTuQ9y6GvD5bOYD2S9S5d4KAAumkFYRThfc8nwcYvJ8J9CVbEIuE90ilfyYm4EH+2UtQShJqL4BrHH2L2Awo32oDjAyKgezfSyXYeC/gRaGHcfXxEugn9BvKmyeXYkB9QW7K+sowoxfbOzchLr6dS6n58fLnY0okvQwCLAyqTjo10yFIDo1cSZhkS4SwPQPGeMYMqEvHDy0yrQ==;vEjyH+vRDA5+2CgfKRGy5A=="
 ---
 

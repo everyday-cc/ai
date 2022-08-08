@@ -43,6 +43,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu To Offer China's First-ever Commercial Fully Driverless Robotaxi Services"
+    excerpt: "Monday that it has secured China's first-ever permits for commercial fully driverless ride-hailing services. With the new permits, Baidu's autonomous ride-hailing service, Apollo Go, is now authorized to offer fully driverless robotaxi services in Chongqing and Wuhan,"
+    publishedDateTime: 2022-08-08T09:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services"
+    ampWebUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 80
   - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
     excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
     publishedDateTime: 2022-08-08T04:13:00Z
@@ -118,6 +129,20 @@ related:
       - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
+    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive"
+    publishedDateTime: 2022-08-08T08:34:00Z
+    webUrl: "https://whbl.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
+    type: article
+    provider:
+      name: WHBL
+      domain: whbl.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
+        width: 800
+        height: 533
         isCached: true
   - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
     excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"

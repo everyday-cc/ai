@@ -8,7 +8,7 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-ch
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://th-i.thgim.com/public/incoming/pj6una/article65745007.ece/alternates/LANDSCAPE_615/2022-08-03T124454Z_1298068913_RC2ZOV9F01JA_RTRMADP_3_INDIA-PRIVACY.JPG"

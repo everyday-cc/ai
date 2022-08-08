@@ -41,6 +41,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Baidu allowed to launch driverless taxis in China"
+    excerpt: "Chinese tech giant Baidu Inc. announced on Monday that authorities have approved the company's plans to launch driverless taxis in Chongqing and Wuhan in what could be a significant milestone for"
+    publishedDateTime: 2022-08-08T09:37:00Z
+    webUrl: "https://www.teletrader.com/baidu-allowed-to-launch-driverless-taxis-in-china/news/details/58392455"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/58392455"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/58392455"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 74
+    images:
+      - url: "https://cdn.ttweb.net/News/images/265870.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Baidu fully driverless taxis get green light in two Chinese cities"
+    excerpt: "The permits in Chongqing and Wuhan mark the first time fully driverless taxis will be in commercial service in China, according to Baidu."
+    publishedDateTime: 2022-08-08T07:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/baidu-fully-driverless-taxi-apollo-go-chongqing-wuhan-china"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Baidu wins approval for China’s first full driverless taxis"
     excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
     publishedDateTime: 2022-08-08T02:23:00Z
@@ -56,6 +86,6 @@ related:
         height: 337
         isCached: true
 
-secured: "N79kfwouACrXDL8S5BaD+ubH+RE3waIwdBcjKjXGx8dM9Lk5BwiC5214wS5vRuWrXiPRNDB96Rs6z5/Au87Jh9QgAOfgIK74cIlEtUB88TeVI0H9g0X73ahVH3tkZS3p/QmIFc+fy7w9CwmLA2L8raPhS3lLWHHTpEKxg6vPnwy5gZtsqFVhjG5+n0ckAGtIqpQefo8yYsCRkBwNEMZBrRyq5j7jml/HPGomkMdUsdWzSisGln04MjU/UtFNm7CFNcx+p4rBJGd/izP02cb2I3/PIfUPdpfog8cG+ULszGwuwEVlkH4ShXFseu5QRCWeLIdmZuBvzEhY1PcME7qol0xfEL0V84Ds43+cU878u7c=;MUO16ZfX8qGyojXXNxpS8g=="
+secured: "UGgiBrlCkDH5HWUMP4XjI8IwRpW7maJ/RVIGWBIZtTwZcq3vOFXWuDDLrS6JaPstw0A33TseiVcVrEszlMo++gngMI6MjDJNbHncMmiWRkUTKRqHdyNVaTxJxNIKWD6Skdmw8xGkl/uPVBJwEXKNES1SIkIs3J0h311rObD7b3Is4kqpuIaisA8Q+vveDQ4zuWCNwqQ65C0+hCOKZpeUD9/U3ObGpTwhY/qvP1c4ZQuEjq5LUcivd55SBDfJi7eYrw6s8X0oQxNFzJq6cTcYzh+RH1yJO+NtoRWALe4XNDRb0SZIZG8nuRHVAsyiQOgF3ioDYpg7P5/xfANyXqA3I5QfTeulobeDYU+IWMHv0uAtXFmWbI3ic1N2zJRi26jmKv4ftMWH8HwHcvYlwep2de8KqyZJ4/hKPhtDAJQcJdwBLVLLVpbzQnA1s2HAyvOHYRzb75GcDzHBcJUm4dqUf0ejb/YvVvmby/gRG9N+10zaY/U08TYaMEDxvGlDERQ7WKAUj7AuKS2fhYXJ6Z5wOw==;ja/6Z8gKkJZSQzUq81uHgA=="
 ---
 

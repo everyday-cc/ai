@@ -24,20 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Healthcare Market 2022 Research Report With Revenue, Gross Margin, And Future Prospects Till 2030"
-    excerpt: "Aug 03, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ..."
-    publishedDateTime: 2022-08-03T15:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-08-03"
+  - title: "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence"
+    excerpt: "In its second Hot Vendors report of the year, Aragon Research recognizes noteworthy, visionary, and innovative vendors in three markets: Computer Vision, Intelligent Contact Centers, and Conversational AI."
+    publishedDateTime: 2022-08-04T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28357613"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28357613"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
+  - title: "New Partnership Will Scale Up Investment in Ethical AI Research and Innovation"
+    excerpt: "Kenneth R. Fleischmann, Will Griffin, Mikel Rodriguez and Alice Xiang at the 2022 Good Systems Symposium. Credit: Stacey Ingram Kaleh. The University of Texas at Austin and the MITRE Corporation, a nonprofit dedicated to solving problems for a safer world,"
+    publishedDateTime: 2022-08-05T13:08:00Z
+    webUrl: "https://cns.utexas.edu/news/new-partnership-will-scale-up-investment-in-ethical-ai-research-and-innovation"
+    type: article
+    provider:
+      name: The University of Texas at Austin
+      domain: utexas.edu
+    quality: 30
 
 secured: "PbURJmiTU7delvYO2vLFEs7v7Z1crbLBOdNMizEWGSYGz6/T8p3NirWdgTHv7AHT5p5e8im+/5Q/VZCTtV/Q0GJc2vp2a4WShvYAU5hzwSDWIQz/snBD4si+ht+bd0+A7q8P4G/wUPGscygEcC3MMkGuWwX+5LgkbMGDNIr4xpvvMkLIZryMXVsW+U7uzKJt7g/UeIDV2SvtywmNcowTU+NjRfNnvq2x1KowPsl35KCQIiDk7xQgvfZzwat/9qW2yfYeeBLZ5NQX3OC1viim3Vbp/PlG01QSEzN2bm3XXkrBRk7UWpRdsfFLj5Hj9CzP8JdGDzFLcWwBGMe18gX39M7A7WO2YaWmu5bwm5TCoOY=;3RsfuYJdN1NSHpUFEcYbBg=="
 ---

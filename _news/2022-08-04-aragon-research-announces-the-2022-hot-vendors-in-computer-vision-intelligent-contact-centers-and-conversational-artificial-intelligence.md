@@ -37,6 +37,20 @@ related:
       name: The University of Texas at Austin
       domain: utexas.edu
     quality: 30
+  - title: "PureSoftware and TFI Research release 'The Global Report on Conversation AI for Banks 2022'"
+    excerpt: "PureSoftware, a global software products and services company, together with TFI Research, a global leader in market surveys and integrated insights have"
+    publishedDateTime: 2022-08-08T07:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56748411-puresoftware-and-tfi-research-release-the-global-report-on-conversation-ai-for-banks-2022-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1873288/PureSoftware_Conversational_AI.jpg"
+        width: 400
+        height: 214
+        isCached: true
 
 secured: "WiVrav28To76pBxkIN8/L+9p/mmNscHokZwEO7BgWlWYYSC0kmDdSubX1X+d/dEU/GHxa0Ov2bhs2+cSKnt2kMH2JrxF/NciVcmgFmafRuxMfQRBaiswCVI82l/VjH94vCgB/Yyc50v1lS/b0Q9NDIbwQ1SRXyaRGBMiUfCvDmoJtim8UMc8a7BrJ3VkUjAuBwyE4AA6KUt4/3TZ6sgT/8hetesDaqd0xAgI+davIrcVxtTEO6Jf9ZwSa4dzAJDGrycNtTsVWkemMjZNt2C5oHgP4bxoy33tog54EUhNKrNkgtIA0Me8hav9/EKl/qKSOHWzqB1TjgtJTdkn2leEk3GerybbVXIAsaFe/YPhwMc=;tAdKqcdhggoG5kiL7lZ6Uw=="
 ---
