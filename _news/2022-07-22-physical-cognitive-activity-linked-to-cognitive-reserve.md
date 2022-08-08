@@ -3,18 +3,24 @@ category: news
 title: "Physical, Cognitive Activity Linked to Cognitive Reserve"
 excerpt: "Self-reported physical and cognitive activities are associated with cognitive reserve, especially among women, although the associations are attenuated by APOE4, according to a"
 publishedDateTime: 2022-07-22T15:41:00Z
-originalUrl: "https://herald-review.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_1aee42a7-154d-5aa7-9cfb-2d009a75cb9a.html"
-webUrl: "https://herald-review.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_1aee42a7-154d-5aa7-9cfb-2d009a75cb9a.html"
+originalUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
+webUrl: "https://napavalleyregister.com/lifestyles/health-med-fit/physical-cognitive-activity-linked-to-cognitive-reserve/article_b6262a1b-50b2-57ec-ac0c-8aeca03b8967.html"
 type: article
 
 provider:
-  name: Herald & Review
-  domain: herald-review.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "D0+nbY0R9rD8dZEO27iPMsxUjCML/u9EnIuC0UqiRryCLdghvi3WyWNv2Un9WlEf5u+oroTSPBVZD0UHktM6CqhkdvpX+qZLsXr5VGNWVyY+b7yOAoXNDYrOxAXZyh0O8cE+0qUM7j+c8VL8u6h15M7l/BZeVDgyRyoGuiPs34+EssudtPmoXeWinnrOrJ0BWhDqVeMvN99oaRaqwCHgYWMpcjFkpiNTEvD9rMExsAZyjqgK0tEwte/V5tjpNVnDhCdlIggPsD9vVa8h1lpV2QF7obd32pCXxr3oQ744p7y0RbbpGkhd+i3a51QO2A92ax0vTB9lAzPR/N4HH/vEkc2h6tT4z4TWelRj8JwtmP8cjT5mUoCz6H5AW9ZjmAY8W7cYT7glP5RY3LdHet2NktmwD69S1njVu0MqU5NuOJTa+ggdq5+Y3prgVz7fto0uWDaRHqjmM3cfwApzB/g2XYakEFt+zE9+Wpo3oizPSwTCk+WdalYqMBA23bsfMpL1yaGAc0DH6jdstg+RigkEeQ==;RHqsOWH+k8340wT8k9ChYw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+    width: 256
+    height: 256
+    isCached: true
+
+secured: "eeQAlPMrR81C5z+Z3BncfQgLXgheb/DhQHxLw9LIR4wpaHvmVanLJv37ET6vOYc28yEdRI+sG/3QIq1Nsb4ce3TH7+QjFNzlbDUly5bzjTm8IBhb54oMxPVclgrhiLBMT6ncX6J7OAa+6jl1uTrCL+n/U8OXR9E8dLqAI8u/1BGYQ5BM8NcNxGQ4JX79PIwUlk1Fh6sIZfRq9s6HMXxefOuzuH4zm4kQTQlnuyUqofk8j54E4Z7Nl3Q85JAu7Nz5f8ROac8W8U8qYf9rXFrPd5U6IO0okOAM5hpjSx/i7W/7oxQvw6ihGvADBVv/bxoOVMSZOXeWUu5jnen5pMK44r+gEbC3bA+mqkknFcOEZGI=;b7/UTIvhXBfdPFX+vtAlPg=="
 ---
 

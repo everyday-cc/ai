@@ -24,33 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market In-deep Analysis And Experts Review Report 2022-2028 – Microsoft, Intel, AWS, NVIDIA, TFLearn"
-    excerpt: "The Neural Network Software Market is expected to grow at a CAGR of 9.0% during the forecast period 2022-2028. Top Companies in the Global Neural Network Software Market: GMDH, Artificial Intelligence Techniques,"
-    publishedDateTime: 2022-08-03T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03"
+  - title: "Machine Learning as a Service (MLaaS) Market Industry Research Analysis and Forecast 2022 to 2030"
+    excerpt: "Machine Learning as a Service (MLaaS) Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast 2030, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics,"
+    publishedDateTime: 2022-08-04T09:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS and Microsoft eye economy in a bid to control cloud cost"
-    excerpt: "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers."
-    publishedDateTime: 2022-08-03T21:33:00Z
-    webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/"
+  - title: "Machine Learning as a Service (MLaaS) Market To Record healthy CAGR Over The Study Period 2022-2027"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market is by Application (Marketing and Advertisement, Predictive Maintenance, Automated Network Management, Fraud Detection, and Risk Analytics), Organization Size (Small and Medium Enterprises,"
+    publishedDateTime: 2022-08-03T15:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-record-healthy-cagr-over-the-study-period-2022-2027-2022-08-03?tesla=y"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg"
-        width: 770
-        height: 364
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI development service Market Size, Share, growth, Trends and Forecast 2022-2030"
+    excerpt: "The global AI development service market size was US$ 31.1 billion in 2021. The global AI development service market is forecast to grow to US$ 705.1 billion by 2030, registering a compound annual growth rate (CAGR) of 36."
+    publishedDateTime: 2022-08-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Size, Scope and Forecast Till 2028"
+    excerpt: "The Global Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are related to the same. The in-depth data on the development of the market ..."
+    publishedDateTime: 2022-08-04T10:24:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-size-scope-and-forecast-till-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Alzheimer-Dimentia-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Deep Learning Chipsets Market [+PORTER's Five Force Analysis] | Statistics And Forecast To 2031"
+    excerpt: "Market.us NEW YORK CITY, NEW YORK, UNITED STATES, August 4, 2022 /EINPresswire.com / -- The latest data and statistics 2022 from the worldwide Deep Learning Chipsets market are now available on ..."
+    publishedDateTime: 2022-08-04T11:43:00Z
+    webUrl: "https://menafn.com/1104645103/Deep-Learning-Chipsets-Market-PORTERs-Five-Force-Analysis-Statistics-And-Forecast-To-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/04/EP_8078bimage_story.jpeg"
+        width: 290
+        height: 290
         isCached: true
 
 secured: "bsP3alweCoxLbWRlDpd1iksm/X/DKFtZP6Sw3yu46KArc6qMtkR62elHdkRWmjGx/eFPtBzBDzTpbMtcS4dy4xOqlCRSsd+jEVllAvefa8UEClprWO5Mulf6/Ue0HTGq6uGO5uk1XVBhfAhs52Y2Mi5XfHl2X49NEClQB60Cdsvx+4a7cR9v7SFTKDw+/dWfMYp1JlpXvir/lKi+yD2MxMRshsA+Qrot4FG27BJZ/fPPlhYCs63r4RLt1IW6ltAnP8iW9TVp+j9lhnMCPPSgmvyCFi5m5kWhlT1iedkgASHfCeBapboq1t6pY70/6GeglLAievpaDKc2AK1I1IAbAkG2xBDAhd+pPXoLj8naaVI=;r1psdKi3obmkZZjDxW5oLg=="

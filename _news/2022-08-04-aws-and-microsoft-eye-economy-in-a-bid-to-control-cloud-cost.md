@@ -7,8 +7,8 @@ originalUrl: "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823
 webUrl: "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: CIO Dive
@@ -26,34 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market In-deep Analysis And Experts Review Report 2022-2028 – Microsoft, Intel, AWS, NVIDIA, TFLearn"
-    excerpt: "The Neural Network Software Market is expected to grow at a CAGR of 9.0% during the forecast period 2022-2028. Top Companies in the Global Neural Network Software Market: GMDH, Artificial Intelligence Techniques,"
-    publishedDateTime: 2022-08-03T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03"
+  - title: "Microsoft’s new feature on OneNote supports AI-powered voice commands"
+    excerpt: "Tech giant Microsoft is rolling out a new Dictate feature to OneNote that supports AI-powered voice commands to control dictation, such as"
+    publishedDateTime: 2022-08-07T08:00:00Z
+    webUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-supports-ai-powered-voice-commands"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Microsofts-new-feature-on-OneNote-supports-AI-powered-voice-commands.jpg"
         width: 1200
-        height: 630
+        height: 670
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,"
-    publishedDateTime: 2022-08-03T14:48:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f"
+  - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
+    excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
+    publishedDateTime: 2022-08-05T13:44:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-onenotes-new-dictate-feature-supports-ai-powered-voice-commands"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 32
 
 secured: "d42c5C94Qo8hy3laeRA0r87QEpSdAl4x9Q1VWzgfv40XHUopqQGs860Tms77rruvXUWR6kTPoeY8ODaTto9qg9Rqdo25i9ET5Qvh69Wxiz6mnJTaKgfG4wwYjT+mkO1o47sItFvzXa3tFadmOlqx3iAcFA62OouNZLray+u1NHDq6bBtX4BB0Svd3dXRfR2k5rZtm3mL3wyQVYR1zGF0ANSigPxW85BheNlkrM5HG8DbWyi6s+wHexYdwGPYFSb/b2J5p14ORLpr6h+C1GuY1RY03SLLtI46YCCLetCkZcQhWNPwSSn1kCJyZdpQusV8WrcLSaklCCQrlIkPMDGXXHkBElEVOReJCZynBXcCSjqVhA3zbxd5O4PmWHWBEyE5+U+LSq/vh0FGSyPFRSdL/0QdAFScGyP6CAe5ykHWY2EFoXTKhRlQSxl7xsVLvYiguMqQqQRPJZJxkFxIrT/keDpG9rqIhI6ugg9994J1rofFqqGYht716kMgFoTM3+wTjL8UuBHU7zplDsU6efKThQ==;hpDshOeMSi/rInEJp6l3pw=="
 ---

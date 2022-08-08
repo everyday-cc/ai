@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Carscoops
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s southern tech hub Shenzhen becomes first city on mainland to regulate fully autonomous, driverless cars on some roads"
-    excerpt: "Shenzhen’s new regulations of intelligent connected cars took effect on August 1. Registered autonomous vehicles that function without a human driver can travel on certain roads designated by local transport authorities."
-    publishedDateTime: 2022-08-03T08:30:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/03/chinas-southern-tech-hub-shenzhen-becomes-first-city-on-mainland-to-regulate-fully-autonomous-driverless-cars-on-some-roads"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 27
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/03/1683155.jpg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "U.S. women more concerned than men about some AI developments, especially driverless cars"
     excerpt: "Women in the U.S. are less likely than men to say that technology has had a mostly positive effect on society (42% vs. 54%)."
     publishedDateTime: 2022-08-03T18:59:00Z
