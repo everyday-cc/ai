@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 10
-  - title: "Deepspatial says it will showcase AI platform for law enforcement at Bureau of Police Research and Development conference in India"
-    excerpt: "Deepspatial Inc (CSE:DSAI) has said it is the only artificial intelligence company selected to demonstrate its platform for law enforcement at the Bureau of Police Research and Development (BPRD) conference in India."
-    publishedDateTime: 2022-08-04T12:37:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/989261/deepspatial-says-it-will-showcase-ai-platform-for-law-enforcement-at-bureau-of-police-research-and-development-conference-in-india-989261.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 0
 
 secured: "vOjNHJkW85HzfwSJpNYHkZ1jBDxCaqNu7mMYqD2wQq1ljWoWF2MQ2GYTSOwAbIXyVgW120B0T7dqYTjZbw/kADCvPHPOHJX3Ah15RsAyLiFSLll9wm7oIvOdAn8oQ4ForzmYlAIQQ8q8X/Y2W6CXAYltUCWu29LCEyiAnl37wV7G1NWBg9cHD8jLXsT7bzhULe10aiS/rYeGCNgZqaFUFTVjPn+ZqEdA+iPCC1wZMQ9t86zKrxkaI7R1FDvL5FCT9+aBYUrVJWSUz05cXjljh/rqRhaR1/y8G9Sn10sxgV4li7iBXAHcqPhXGfSPhVKlPJI6sVVhqqoGgeFcmyqeCUfvQnCnUQO0kGV5uoALvFLwDB1Rwx5oGQ7iZq13PDxLkC3B+BBJT2oChxMaZ4/K4yfbUC+bnFTAbhjTqDUPvvcJ1UHYUZn+Uvb+N9w5b2eE1e4A5O+YdLDK9Qv9w6Y30cuySNMlQDmbbYv/FZQ70vOMo8W+WTKkNLStkDFAQXVWEbgw2WtiIoyTy55augYiZw==;bLSyjxrbu/3niEoNBOKOZw=="
 ---

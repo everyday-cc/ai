@@ -128,22 +128,6 @@ related:
         width: 3027
         height: 2018
         isCached: true
-  - title: "China's Baidu unveils 'robotaxi' with detachable steering wheel"
-    excerpt: "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. The service has operated over one million ..."
-    publishedDateTime: 2022-08-04T12:09:00Z
-    webUrl: "https://news.sky.com/story/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-    ampWebUrl: "https://news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/chinas-baidu-unveils-robotaxi-with-detachable-steering-wheel-12655985"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/22/07/1600x900/skynews-baidu-china-driverless_5841065.jpg?20220721042623"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Baidu bags first fully driverless robotaxi licence"
     excerpt: "BEIJING: China search engine giant Baidu Inc say it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-09T01:12:00Z

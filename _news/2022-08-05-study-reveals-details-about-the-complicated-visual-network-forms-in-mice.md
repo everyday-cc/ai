@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220805/Study-reveals-details-a
 webUrl: "https://www.news-medical.net/news/20220805/Study-reveals-details-about-the-complicated-visual-network-forms-in-mice.aspx"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New insight into the development of the visual system in mice"
-    excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future research into the treatment of congenital blindness."
-    publishedDateTime: 2022-08-04T11:08:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-insight-visual-mice.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-insight-visual-mice.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-insight-visual-mice.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/new-insight-into-the-d.jpg"
-        width: 2127
-        height: 1905
-        isCached: true
   - title: "How the visual system develops in mice"
     excerpt: "A new study in mice has revealed never-before-seen details about how the complicated visual network forms in them. This research could inform future research into the treatment of congenital blindness."
     publishedDateTime: 2022-08-04T17:15:00Z

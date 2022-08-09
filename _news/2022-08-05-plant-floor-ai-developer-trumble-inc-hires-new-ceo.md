@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "AI, 5G breathing new life into appliances"
+    excerpt: "\"5G offers technological support for the adoption of 8K, while 8K is one of the best application scenarios for superfast wireless technology,\" said Wu Wei, chief engineer at Skyworth Group, adding that 5G has the advantages of high speed,"
+    publishedDateTime: 2022-08-09T02:10:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202208/09/WS62f1c216a310fd2b29e711e3_2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202208/09/62f1c216a310fd2bec9b2deb.jpeg"
+        width: 518
+        height: 345
+        isCached: true
   - title: "Yoodli Announces $6M Funding for AI Platform to Overcome Fear of Public Speaking"
     excerpt: "Yoodli, a startup building an artificial intelligence platform to help people communicate more effectively, announced that it has raised $6 million in a seed round co-led by Madrona Venture Group and Cercano Management (formerly Vulcan Capital)."
     publishedDateTime: 2022-08-08T16:05:00Z

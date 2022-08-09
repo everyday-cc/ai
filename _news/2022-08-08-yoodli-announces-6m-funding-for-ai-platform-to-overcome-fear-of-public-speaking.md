@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "AI, 5G breathing new life into appliances"
+    excerpt: "\"5G offers technological support for the adoption of 8K, while 8K is one of the best application scenarios for superfast wireless technology,\" said Wu Wei, chief engineer at Skyworth Group, adding that 5G has the advantages of high speed,"
+    publishedDateTime: 2022-08-09T02:10:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202208/09/WS62f1c216a310fd2b29e711e3_2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202208/09/62f1c216a310fd2bec9b2deb.jpeg"
+        width: 518
+        height: 345
+        isCached: true
   - title: "Plant floor AI developer Trumble, Inc. hires new CEO"
     excerpt: "Farmington Hills-based Trumble, Inc., a plant floor intelligence and software company, has hired Mike Prins as its new CEO. Prins previously worked in market diversification, inorganic growth, product commercialization,"
     publishedDateTime: 2022-08-05T14:36:00Z

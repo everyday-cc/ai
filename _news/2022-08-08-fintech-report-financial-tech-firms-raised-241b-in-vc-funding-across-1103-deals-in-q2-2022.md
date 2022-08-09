@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Valley National Bancorp invests $25m in a FinTech-oriented Israeli VC"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-08-08T11:43:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/valley-national-bancorp-invests-25m-in-a-fintech-oriented-israeli-vc/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 4
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
     publishedDateTime: 2022-08-05T17:05:00Z

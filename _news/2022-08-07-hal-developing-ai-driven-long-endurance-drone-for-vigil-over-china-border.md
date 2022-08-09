@@ -83,15 +83,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 10
-  - title: "Deepspatial says it will showcase AI platform for law enforcement at Bureau of Police Research and Development conference in India"
-    excerpt: "Deepspatial Inc (CSE:DSAI) has said it is the only artificial intelligence company selected to demonstrate its platform for law enforcement at the Bureau of Police Research and Development (BPRD) conference in India."
-    publishedDateTime: 2022-08-04T12:37:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/989261/deepspatial-says-it-will-showcase-ai-platform-for-law-enforcement-at-bureau-of-police-research-and-development-conference-in-india-989261.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 0
 
 secured: "3xKezsmsm9MveWP+c7yzDLltR4UhvfBTlaW3xhbsXFX0raLBZr3gTGVphga/5lSNya8zA4yEQKRROucKRrJPdBtTbRZfRCly0oTLUZacC7BZoA0BHbZqB1EQxGVICmjNnY9StPXTUHuXKROmW4T9wT9SVnqrzatfIZ8cc9RXtIddqc99g90gFSeE7hBfXSrRL8d62DB3D1SPmVgDc/sBQ4z8/cu83l7/xlkMa44SISOjru20/c6BUbG2PMEnQPwi9BjgLUy1MIA9M1gC/BCwFe3jakHxuk6mIXlyJbZaKQkef+breQliqufj7YWHiR7E6CjoZA1Ccg8h/IGob6aFtF/b//5lu/Nco8xYWaMu3MCnHe4/k8iqnf+kAIy1lPX+JyjwIKtJC32DUC6XMeXa9BRKvZcNvUoJMUZldE5zLP13hMBPMGKp4grAu2y5+/fuGWlUbjbtZelKlFzP/akrdt/1J6X+U4uo6r07Z66ZPZyD8F4NxJJ7dg8rCjO4rVWhCG6G0Xw2WVBK1yropYkw6g==;6zjh3DCsKm3vEOl03OydDQ=="
 ---

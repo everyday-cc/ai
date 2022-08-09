@@ -26,17 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Pony.ai’s Self-Driving Cabs Hit the Streets in Beijing"
-    excerpt: "Passengers can now place orders via Caocao for Pony.ai’s self-driving taxi services in a designated 60-square-kilometer area of south suburban Beijing, according to a Tuesday statement (link in Chinese)."
-    publishedDateTime: 2022-08-04T12:49:00Z
-    webUrl: "https://www.caixinglobal.com/2022-08-04/ponyais-self-driving-cabs-hit-the-streets-in-beijing-101922297.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 19
-
 secured: "ICqNPfA9HKKcZg3sOjb6EGZCCsDXf8EyyYdZmt5SVC06bzyApuUGjS8QLCiBP4oN2AQeJsYHX/3aNVVHsbWqjMT0tibXYS8O5xnckvxM1S7MqwjgMKgzmDvbq/Nj5BtwxU4ZLmf22dyrgskTgEmEKi4C+ytZu+6uLzQBZyuyPoWJK2RwjSfPy/VQOKGvL6K109WKLg8Ws82pXGsu7e5ggVOdej6At3PrcFcc9VjRWE9ewRxWESlgCc/sP4qLnwP3J9FHuWlz88QEz+HQHc7qYqNul7FCbbDn53ZNL81ZNMrsye7csWLJG5od3G7Kyz3NyTAP9+qQ5K5pn+8M5/NSWqHjQ06GlLEcAMkrMZzV+4e/gvHcNKx1MF0rZXwfzxcPxSo9UBf+7FkBAxbCW/oPFPo73yuzy/uspG5+lMZHIqcFD9F4fL0pj7Gww5hDACxjTbU8H5/x1TE037sb7czir5U1zk4FyluEYWyUbZ5hlRRzWWNVrRe3x8E8N1vh82e+oPr3LYVrgKSs1W3rJzC4kA==;VnQs2r1/i4q9sAXO0r1Tpw=="
 ---
 

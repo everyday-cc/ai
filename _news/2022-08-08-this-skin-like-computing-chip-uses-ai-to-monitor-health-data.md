@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
+    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."
+    publishedDateTime: 2022-08-09T05:08:00Z
+    webUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162"
+    ampWebUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 73
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93445162,imgsize-100,width-1280,height-720,resizemode-75/93445162.jpg"
+        width: 1278
+        height: 720
+        isCached: true
   - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
     excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
     publishedDateTime: 2022-08-05T08:27:00Z

@@ -1,24 +1,26 @@
 ---
 category: news
 title: "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure"
-excerpt: "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of deep learning hardware technology based on in-memory computing structure."
-publishedDateTime: 2022-08-02T12:33:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37"
+excerpt: "Scientists from WIMI Hologram Academy of WIMI Hologram Cloud Inc.(NASDAQ: WIMI), discussed in detail the deep learning hardware technology from general-purpose to in-memory computing structure."
+publishedDateTime: 2022-08-02T12:49:00Z
+originalUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8610314/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/"
+webUrl: "https://www.wtnh.com/business/press-releases/globenewswire/8610314/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WTNH
+  domain: wtnh.com
 
 topics:
   - Machine Learning
   - AI
-  - Natural Language Processing
 
-secured: "SmxH2TpTWPrk/iIpmHFklnZC0/cDhKHyFDn0vt+geuWHI3mP6C4XM4uQhRVOTSrBAmTXJD95A1AmXpsI3m9LRTDdeeIeMuW6lawZKT319QR8oKQ3fDDMq0VQOgGEtDFTHM+kHm8rg6mLOOFa71akkoy9ocBK1kKhwhYPmYrc2MGiA7wj8jMScCOgq8jLh8GGOd2+q4xwuehFww6oMjiOZUnlRrHOC/NwDgQwn3FKck+CsNczoN8oUPkWK21emhgGZybg26ClhRCNJZz44TXJvEY4oEXHfybHz/fuaIoAe6d9dYkQnLR+w73btTpqzM08DMMDNGYHTNbWCnSsyI841o/feg+d5VAUQC1/kS9Feiw=;CRnj1QEomNk6GMeZh0dudQ=="
+images:
+  - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2022/08/Thumbnail-7.jpg?w=2000&#038;ssl=1"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "l8rEhjVrqr2UztulLX98W2LKh8hlqCDYvSs6UvHZb1tr6hF9Tb2cT//jJQX0PjmfseWjO0RQA9c2ObYr06gIO53sU7LBTJJWXilodaoHndQ1vL8/iH+R+xIb9I7o2H4QaU8zKbZuVudjx5q9m082YgoQdOYZHrUsbG76zO6bMU8CBuKAcu3UfH5ZiO9uKFjGF/afSyJSWCTStCVpwC+dz8bFerGU5G39Qd2EJpYF4h1Bo6IwIbJY1ABBZ2xvvTVKG2Upst6AGaa+ARigs2H7CgXv4JGFf2jIpSK0UaJLABNu0bvdQeAEW9+E2kH/71noS2uMWHlsmVsHn8zI//NGU/uhLWa+c/fdaBZZVONcdBI=;CCYj0FUp5O1gKi1Zr9jzVg=="
 ---
 

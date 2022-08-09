@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "How fintech is opening the door for alternative retirement investments"
+    excerpt: "The digital age has influenced every industry and especially finance. With fintech, alternative retirement investors are finally getting the chance to explore investment opportunities that weren’t available until recently."
+    publishedDateTime: 2022-08-05T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90773656/how-fintech-is-opening-the-door-for-alternative-retirement-investments"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 4
+
 secured: "Waqmk1tLUWtFft5hQtDjwR1d1IqWu3d5fHmqhFHdDiszE5v4avL2eV88RGQtdJW5UqBts3nPKOQzzDl3E4VVLTUoSSKoC9q4E+S1aC09ZF6Cd+TPhei5ZJQoElXYoJZYFZglt7yxv2bWu4SRtEpca3cpphBMu6hD4GM6+XURMgbcsHOMZIxLd6eeDEnI7S6OCBAWRtjNx4I/MzQIQ7rDUKXuEQHDYabuwPcpuhax1nUX8ntvaWrQbfo2f1xVsAvqde18teqfSBcJpsjYt1xdjPXO4lZ8CA8GyjfO/ZdgfSl00EThOC1NE23AmX+Xz4PWI6q+Vm4gLQiuaU8A206E7aNAMx4JYY1RUeP+QboCyAg=;5vgJA03ZTD+xp6YoVbHqCg=="
 ---
 
