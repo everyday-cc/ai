@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 2262
         isCached: true
+  - title: "UCLA researchers use artificial intelligence tools to speed critical information on drug overdose deaths"
+    excerpt: "Fast data processing of overdose deaths, which have increased in recent years, is crucial to developing a rapid public health response. But the system now in place lacks precision and can take months."
+    publishedDateTime: 2022-08-08T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/961030"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
 
 secured: "HavQ8kUbYt/TNsEvaM8BFOjlOvEa34B8dRJ6kXE668S5gC3z8AnodUTcZCeV+3cFtBWg1gdq2y4nuFaeA9cJ9W/8C1KM4qlqYZQK9Mj28c2XUuo/sZu9qNhuOyOpOscJT4j5ZY6TQQAcbXcW0KwIm8gyMB4cy6dW3Qy9GQveWpmfB+96T0UJ/h9Mw55XPJD2Zm65LR4EvceZnzKAycSu3209H+SWdq+GjIrWkBeanlHTDbVvK+Kunh9RvITYcgm1gKyBHU/gicb6DIYjz2JJRkKUR17aNzGNm/NFNbWnoWsJjewVFhmeQVuPnii/h5ZQd8fVsd6r8MfW/j7bvPDR3UGBeqVsU/HyIU7p5BcLfMw=;nOI155eT/Q1uJ8sp2jhq9A=="
 ---

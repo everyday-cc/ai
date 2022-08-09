@@ -66,15 +66,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
-  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
-    publishedDateTime: 2022-08-04T13:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
   - title: "Microsoft developing software to identify cardiovascular risk"
     excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
     publishedDateTime: 2022-08-05T13:20:00Z

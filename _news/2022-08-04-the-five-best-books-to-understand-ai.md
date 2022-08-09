@@ -38,15 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Ambitious Researchers Want to Use AI to Talk to All Animals"
-    excerpt: "A group of animal lovers is looking to use machine learning to translate animal \"language\" into something humans can understand."
-    publishedDateTime: 2022-08-04T13:36:00Z
-    webUrl: "https://futurism.com/the-byte/machine-learning-animal-translator"
+  - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
+    excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
+    publishedDateTime: 2022-08-08T18:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-9-enumerateai-announces-the-launch-of-its-ai-powered-interviewing-platform-for-qualitative-and-quantitative-insights"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 19
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "LykTaDaVyq7icSdPGaKZKex7lNSBjm9JEH14upf7iMJ+xuW5bETHVF6sqR2h95VcMVL/0vk8F91Kzzg277Bg40wUwDitMyaLyZD2t3ov9biM19AOO8FojDYQ0gSzhKzdm+LT7ApchDfkwLvvbbHNDUv0edT4jrNWVZ84hu77fVLqCNjjRpWqlAE9oO+T7RFmVb3Lqh/NlAaV5VnnCXo52K/wAgHROLdqjIk/RnL7x8iSagfALXuQ0lawcFDuJJn+DJgtI2ko/0lCJvbcZsS7xjgbVipjBhYR5MdlI1QLramO6PL+59dRBhUrxRYrOYYVs8cCNhtJ8Fw98AZAr8bDgK46Ot12UyGp3AYQo2NNBBw=;RnfKrLP3dphFwyP90jHglA=="
 ---

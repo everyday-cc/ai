@@ -52,15 +52,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
-  - title: "Next Pathway to Partner with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "PRNewswire/ - Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to Microsoft Azure."
-    publishedDateTime: 2022-08-04T13:18:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-1a89ea00ee5f360acbf9b39405192c44"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
   - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
     excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
     publishedDateTime: 2022-08-04T22:28:00Z

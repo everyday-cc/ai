@@ -26,20 +26,6 @@ images:
 related:
   - title: "AutoScheduler.AI Names Keith Moore as CEO"
     excerpt: "All of these executives are trailblazers in their respective fields and bring impressive leadership and strategic skills to their new positions.” Keith Moore was previously the Chief Product Officer at AutoScheduler."
-    publishedDateTime: 2022-08-04T13:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/executive-changes-board-of-directors-acb8452442c29a558f3cfc983e1d5148"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AutoScheduler.AI Names Keith Moore as CEO"
-    excerpt: "All of these executives are trailblazers in their respective fields and bring impressive leadership and strategic skills to their new positions.” Keith Moore was previously the Chief Product Officer at AutoScheduler."
     publishedDateTime: 2022-08-05T14:35:00Z
     webUrl: "https://www.dcvelocity.com/articles/55221-autoscheduler-ai-names-keith-moore-as-ceo"
     type: article

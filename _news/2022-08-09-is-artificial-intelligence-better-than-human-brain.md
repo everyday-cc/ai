@@ -1,0 +1,31 @@
+---
+category: news
+title: "Is Artificial Intelligence better than human brain?"
+excerpt: "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI)."
+publishedDateTime: 2022-08-09T06:31:00Z
+originalUrl: "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556"
+webUrl: "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556"
+ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556"
+type: article
+quality: 74
+heat: 74
+published: true
+
+provider:
+  name: Gulf News
+  domain: gulfnews.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg"
+    width: 540
+    height: 405
+    isCached: true
+
+secured: "WPLuCX0VJ5FROjBTe3w5qnYgWd6mO1t7Nvyyk9jzk8hEGgOKH/K9zGXhYbR3t4nhF6t/qGWYHg1MvdmkGPcuL16HogAliIbLysRVYc3LW+ps8glUKRVgRVLI5Y9ji6SeprAeMMZRMSly4tva8/vvPJTG0EmInsum7Wu25fi98Lrn2h3CPCxU8tAMUreSvIfNWIw9w5gQI/J9XJY+e+9iqRzJAswUn9XYLaqi4Xgi1rcUdz0iQ3su7bMAMPAQBkdZZcvHnw5kOtAGOsw6yQ0GQkGHWJAVxqL8j6O5VVDz5xTdLzW45ag0mEPaJyqpi29XBRyO0E17UqcExzlUeyEz2cKjG99T/JvFPVLPDoygyOM=;C7bev2z3KxY5DcwoYdaGyg=="
+---
+

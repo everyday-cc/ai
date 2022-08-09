@@ -18,31 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "Pitbull House is an artificial intelligence-powered purchasing platform."
-    excerpt: "\"The Best Products Reviewed on The Internet\"A new affiliate website powered by AI has been launched. Pitbull House is the most current generation of affiliate websites, claiming to make affiliates and"
-    publishedDateTime: 2022-08-05T01:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28368679/pitbull-house-is-an-artificial-intelligence-powered-purchasing-platform"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28368679"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28368679"
+  - title: "The right and wrong way to use artificial intelligence"
+    excerpt: "For decades, scientists have been giddy and citizens have been fearful of the power of computers. In 1965 Herbert Simon, a Nobel laureate in economics and also a winner of the Turing Award (considered “The Nobel Prize of computing”),"
+    publishedDateTime: 2022-08-06T09:00:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-the-right-and-wrong-way-to-use-artificial-intelligence-20220806-txybtmlcwfgddnfdozvynz5u64-story.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 43
     images:
-      - url: "https://www.abnewswire.com/uploads/1659601220.png"
-        width: 500
-        height: 500
+      - url: "https://www.nydailynews.com/resizer/lQhU7tZEUNaVDcSDsRF3YtLSnXs=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/JT4YMLHE75EBVIMVJMCZG4BHQU.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Tiny Electronic is an AI-powered shopping platform"
-    excerpt: "Tiny Electronic is a new kind of affiliate website that promises to make life simpler for both affiliates and merchants. Users are drawn in by Tiny Electronic's use of cutting-edge technologies to improve their experience."
-    publishedDateTime: 2022-08-04T17:46:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-5-tiny-electronic-is-an-ai-powered-shopping-platform"
+  - title: "The five best books to understand AI"
+    excerpt: "Also in the past ten years, a lot of books have been published that aim to explain what AI is, where it’s going and why it matters. Books by AI academics do well at explaining the technology but are less robust at foreseeing the implications."
+    publishedDateTime: 2022-08-04T15:30:00Z
+    webUrl: "https://www.economist.com/the-economist-reads/2022/08/04/the-five-best-books-to-understand-ai"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 17
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_BLP509.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "hlV2eRFYAAHYXUin8GKwDbUT69rz3Tt/HGwV+60i/TZqlax+iXof+5DY8pYV2f2k18ApIPYHPs2BuHaOcPktCmzt6PycWj80G5OoWn89JiRG0C28j1LzUbfFJn8nFVH1s7pGeKSaca9VOvplSRwH0D8USKYKBreGeayjEbAAUJE3Lg2gkMKcHoIM00knbxoVjlgyVpuSSpg16Ry069mgk3Ah5hP96Gc2kU1m0lEoYwSQvJjx6ggJNQVY9Rn0b6lVYqwNEX3mEHI2hOuhocWEUSK/86GR3TMDbnsNRZ2El5nZT32rEogO+OBz/MXLUtXyfkeL+8tjqVK6yY1fVdf+AP3VjoHpNxIFG4FrgGDZN6wVNyM2wmnneSrtGe0gNYQFspqMcRnLYd+4o0D6TF3tdDihJDuZ6sg+ODAOmiQvni7z0U9NcpFzEAvCkiSjbSzH28NEYicqZh6pUrH0OelyPFwL2UBgSdidz67CwGZq0v5fQUq23lEEWgSBrjZSc7IXdq052Sl2T2kA6PlbFIgXuw==;rXlioQ5jIiowRSuyLRiR+Q=="
 ---

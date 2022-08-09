@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Brain-robot therapy reroutes motor pathway in stroke patients"
-excerpt: "Brain-robot interfaces—apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb—show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,"
-publishedDateTime: 2022-08-08T17:01:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.html"
-webUrl: "https://medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.amp"
+excerpt: "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,"
+publishedDateTime: 2022-08-08T17:03:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960933"
+webUrl: "https://www.eurekalert.org/news-releases/960933"
 type: article
-quality: 91
-heat: 111
+quality: 71
+heat: 91
 published: true
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Robotics
@@ -22,9 +20,9 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/brain-robot-therapy-re.jpg"
-    width: 750
-    height: 423
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public"
+    width: 700
+    height: 395
     isCached: true
 
 related:
@@ -57,6 +55,6 @@ related:
         height: 480
         isCached: true
 
-secured: "XKdnNnd22QXUlv6eMdY4w+3j1snfFOGDOyKcGovtW8mHa4NPMlXNwi7Zqgf8xmqur83lik5KNHN46BGZELSsyT3MJJz15SVFixrL6jaT6lecMGwJ6MxqbJ7lfWSJ5W4Op/8X+Yj4NZNfyAwNWJp6OXqdTgGUFszKFjfAPelo2L+iRRrMVWxV5USFqOjSx7XhKLGQY6c+Snvd88n5mo5mThqrGq7uv9TlWIYNu2E6+/ZMrpr569qoeXm+Clq0hKxgBJHmJOmTuEnWEhXyA9Aro+hgjGq1hYyP6QxXu//YNE3ECf5SF20PyewINUILPzTVjXsJMsXXHJ1/6d8xtZkaqoYuXUCQX+HcshfSwMc7dQI=;v2TBMQx8IvLUP+V3AEXpUQ=="
+secured: "bSGbc7cbabD2z5FCYlgA0KYYE4b+/yWNpJ3Y/aiIocDDulodpWuasY+NlTG6AQOnXY5TtlcP6wIyh5AT/4oxTIt16OBPImjlxs0b4CWe7w7wzr+QiKzAvU8dzgOg7xwXZQnDqqa7ke9nwPgR+TkyoeFRCG5BRycoECSbMcuJ/HFFzTq1aUIezB/oU0A2fuORpDtd6MhgdQg/31iljAWN6XRYNxhntvDZMJ2TEVt8UVjwRYCPWxuYkx2dQhq+tioAdwCcJQu5p/E6Qzoiag412LGlh4oLBi5x6URZrpZNQdHaUTkgQ8IhGCZChyPqCzJiIAyula472ZV5+Tsv4JbiqQKy6d50ZT81+ff/TTrW9/U=;uSXG53fp/S30PNO5/CFlbw=="
 ---
 

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
+    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able t.."
+    publishedDateTime: 2022-08-09T07:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93447456,imgsize-13062,width-1200,height-628,overlay-etcio/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
     excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."
     publishedDateTime: 2022-08-09T05:08:00Z

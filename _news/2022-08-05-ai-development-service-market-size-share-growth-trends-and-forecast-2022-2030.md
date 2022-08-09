@@ -56,15 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
-    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-08-04T13:30:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+  - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
+    excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
+    publishedDateTime: 2022-08-09T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-size-share-latest-technology-cagr-value-challenges-future-expansion-strategy-drivers-and-forecast-till-2029-2022-08-09"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
     publishedDateTime: 2022-08-05T15:45:00Z

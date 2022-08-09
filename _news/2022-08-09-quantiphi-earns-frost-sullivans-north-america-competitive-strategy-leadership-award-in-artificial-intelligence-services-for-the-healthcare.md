@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Quantiphi Earns Frost & Sullivan's North America Competitive Strategy Leadership Award in Artificial Intelligence Services for the Healthcare Industry"
-excerpt: "Quantiphi Recognized For Continuous Innovation In Healthcare Technologies MARLBOROUGH, Mass., Aug. 8, 2022 /PRNewswire-PRWeb/ -- Quantiphi, an AI-first digital engineering company, has been awarded th"
+excerpt: "Quantiphi Recognized For Continuous Innovation In Healthcare Technologies MARLBOROUGH, Mass. (PRWEB) August 08, 2022 Quantiphi, an AI-first digital engineering company, has been awarded the Frost & Su"
 publishedDateTime: 2022-08-08T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28403614/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28403614/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
-ampWebUrl: "https://www.benzinga.com/amp/content/28403614"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28403614"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28403666/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/p28403666/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
+ampWebUrl: "https://www.benzinga.com/amp/content/28403666"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28403666"
 type: article
 quality: 34
 heat: 34
@@ -17,8 +17,8 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
@@ -26,6 +26,6 @@ images:
     height: 250
     isCached: true
 
-secured: "m61bZ28m8oU+xO4aYNcj3Ma1/AjMExxHtjbu/Gowds2UOEskxCasKLQIqVfoJEcbohAZJIqKZSuRuDZZBzarjBnp3MXIjPXkxrkU9PaKfFY9sAIEnOK92thlocpU8oRCbmXMmKIw3PNQAG0DZTj6mAeMD+g0Ym4G48MudtwQuWJv663MaCWwqAo93vi+an8D/SgaXQmiD5tNNlWdCPMSccfmGoOPcBlXf+UpyJNx3166+M0wcXv8/xic3Bd8s2/UViWUDm2pgHIsO3P86/PxlMhCcJQr5fntPj+wLh90GVrMtE5l04AeXhPhIJIb0IaXWpXCv4BP0gmICmI5KjxR/F6oPMWYAk7js2jkWIpSVE8=;dcT9ZSL7Arpjd0YyD0TwZQ=="
+secured: "zysTRsq3lXauUAJ8yWjuHSQVlSIHIXFKiHg/fM9RpG9/BSyqQAW4ZA4OGKQDxIFkk1xtSjfWaNvm8I2YCmGKN6AmLxFHz6INjTStnNn50xS/Zkbo6Rhe5JnLJxc1dkLtb8fCsNsMzj4YhhWl25Al59Xb4xW2Rx0vW3WUqmcf//j3hX4/SpJ2khNspRCXnQr8IZLuWmJsS9whjXavwThtFM+99RPUTyYWF9F0gPzQ6NIJov6okEx+F2pkxQTRiqvZt1tqXBvSekOvw05dVO7q0pEs+tNWEw2FWnYhx+zAzXuoYei+TBP4BCUb+JGU0eUsM9gVq0geH5KRkiMdWwaSHY7POl2dmdVr5To9Vp9v9R0=;aH1jcOEi5I33srGEdt2hfA=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
+    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able t.."
+    publishedDateTime: 2022-08-09T07:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/93447456"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93447456,imgsize-13062,width-1200,height-628,overlay-etcio/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
     excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
     publishedDateTime: 2022-08-05T08:27:00Z
@@ -113,6 +129,6 @@ related:
       domain: canindia.com
     quality: 34
 
-secured: "dzdNxvgchJJxvpLoko4Di/5f3ZmVxn/kb75xoQgWQOU84kvv4+aUIt0+oIczQNhUpn3rmi6T7X5fOjzNHvP+KOEZyZUnpzJ25kVpbh/mqvzmZsF7ReVQmCMMojCk/+enozUCuDWwqnW8yGoUpjHCpUDTgWkOLDFD2LDJYAROXDR39uBTbBNlceG2ivJyz6xFo8Ov0OwYuAet+6Ny76+8x3PZrmkiJF4+d7YxM3EPcTD53eclWoPDIq+Ue+TV6/VNS7oVWsrQM/ipXJ7ispeSUBSdwUWJ/IEX4Fifnus9ypjFDTsZkf2zii9/X1oK+B8MAhy+t2MCxDtltRZ2ZZsswBQ8Wvk9FM1mCDlmvTDuoRo=;2/6rc+e3UxyWSh7fCAYrZQ=="
+secured: "WcA98Q45+QrUP3K10pEDwPYTjLoPRLNovOnF1bk2JG+uEGiW3iE8IjV72KO2YQ4m1Kz7ZbMOXiC4QnfTh0BScu7GfPtT/vF6XpqwEmuQFfwmO3sXJT/vKQ0LhZlFKf7GF6vMD2GVDQdq60+ugiB3QQNkjd44fUIi3tfDityy6TCAWq5g6LllSNzBz6DrITB9AjUeNz9bEG6T5Lz8DzGXtoikGnIAFvQG0pmC0Lc9Lu9qCEyWRc4iQJ0xrrwBCk854VXkwiV9SizbilHrp9x0ua8cqqa/mNsk7+lEsgMCVsdEDPIGQFY6jUgiHURCGGzavclhd2t2RoIGsGJmS0qrMkb0QARIWO14LWWsenOX5w5fe4+Fzkrm5uuIY+TaIsmK0+p7vT8deZzG4M7JOFwkVB7F+//f+Ivxqhhk/gckW6cSS8d/fPrDJ3fYLR+OOw+qk0CqihTjND8oIVQIg9ydycAWck9A/pWvfhFcOKFgU2K8rNuMsHs1zzL4ETdD9lSfrWU55UTZlONySZYMFAJBzw==;CXkrRvITp7VtjEqPcWsrzw=="
 ---
 

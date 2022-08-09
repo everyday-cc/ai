@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/medtronic-launches-ai-driven-end
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/medtronic-launches-ai-driven-endoscopy-module-to-detect-treat-colorectal-cancer/amp-11660024032215.html"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "Optical coherence tomography combined with machine learning to develop colorectal cancer imaging tool"
-    excerpt: "A research team from the lab of Quing Zhu, the Edwin H. Murty Professor of Engineering in the Department of Biomedical Engineering at the McKelvey School of Engineering at Washington University in St."
-    publishedDateTime: 2022-08-04T13:38:00Z
-    webUrl: "https://www.news-medical.net/news/20220804/Optical-coherence-tomography-combined-with-machine-learning-to-develop-colorectal-cancer-imaging-tool.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 24
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Colon_cancer_-_Sebastian_Kaulitzki_277dbee2959349bbbd2680e383db4864-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
-secured: "AMBv7CkA4a2ExXNAR9sttav8MxKDv2FoxaJKrYo33HbUtt4+WkDY60mvGO8OnF9T9tn20O/R9y2D4Hmpk61D+KQhtHGprPnJSdVRBKUG2e7zEWbawJYYaLEyroPxGLsylSE/Jgm9gV9pWR5vQkHWtCNLjLTgM+uPKk9wZrJEl+gv1b9vJP6C123cI2YIPpFhrzMMJXteQJKR6Grv7YZXI1CQJaJ3HYgmS9ivmX/oZHBUmXsIsxEZxIUOUEaN74sw9mav12+cktk2eSLKpIb88DRhUR+Gv7SKBTRoXIulcYCfAN8mCoIMYb+A83/NKWgFUFJjk0j0F8oNppS9O88TX/rQ/QyuBmr6AtuUYP8/jlQ=;EQSVPFAZviuKe4cmNxVbJQ=="
+secured: "E3tG6WZlXTmfd6RLDtz2Qbp8kSi4kfW4prGm2A1UBIbxWyNy+ShebQJRduNQuXTiU2T5rEScDWLcpVPhFGH0STvBOy97shWMePKOUjp/dRJnJI3yrmHJJBiUuafhtUYxu6EF4dvulW755OJUS7hD/2DufdzicbWc/jbzaf4STFcRciEDLqz+VHqKUbqWlezY8AjcRNRCDDSdcmQysBlU+p9Pc0AXs2rQaSdBxyjI0FVxhTkShiuE8YlUcGXJETv8F6PlSMpyO4GxYlS5nQB3+54Oy8km3ojI82CD69IgY8cCWb8HrOoA92N3xyjE4dvzA+cUm7PrAf1hMRVrtc+pP9EfOJxhQzMlg9iXv9Tu1owj8Spsx4KJjIzNtP7zbrjUEW8shUty6PJlPqfiFETM6AI68QyTosqa+DhvZSmZCO6w66cB52dmgXYvv8/MpeV9Kln8LQ0zWrOQV7xjSo8q337e8OjrymVi0q1yH/1prpiV5JJ0WuDmCUflEEtx9OEkg/kHcPKjJuiiKRBCE54bNQ==;8DXeUmo1lElELESNfeDycw=="
 ---
 
