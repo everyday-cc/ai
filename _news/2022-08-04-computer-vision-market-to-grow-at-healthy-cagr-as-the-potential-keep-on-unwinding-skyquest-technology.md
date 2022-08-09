@@ -5,8 +5,6 @@ excerpt: "Westford, USA, Aug. 04, 2022 (GLOBE NEWSWIRE) -- Computer vision marke
 publishedDateTime: 2022-08-04T08:24:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
-ampWebUrl: "https://www.benzinga.com/amp/content/28352684"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28352684"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "p/5qRSPfAg5Au/Usg7iuwcBIXVuhxqKCyK7uMY0K5QIYAy8b0wusMtW9BFtWSTqGlTKJUfB9IQFkUgXymOsghe4K1nLtnjcYZOS8K2EFtzBaValJMrEeYpxDuZCQ6fV9rT5Lrw3CkqLif0RBmeKbdLpAcAyj54XdyR0YXcnSDfaWbSVnbrujcwJBJH54rFCYjOyu9v+BMO7bHvlzzbBfhPg/7N7AOeOPinMALrPbHSQcjMrsYXZ5H/QAEY4lJ4ehq9FGc3tueJZcUe/I0dIjgLuI0ww+Wr8VVo4xQ7XbQF2pfwhGhpTleF9LocBULMunPZHvR8ULehVRbRtUSi5CM1eu7rnAZ04VTqo2Mo/4h8E=;w76VydsfyzOCSBSFi3CQQg=="
+secured: "yQ/lmSb1HyMOuY9sQr6m9tk6hpD0cfG6f7z2vWQtLXBRW2U3t9iEQ5czOaA0OE0UKvUB5RDkQubTZ6JAVxBi2inGr3AimJAMsQhPptBOUPncD0j4eM44xv+sGpkHhdc4T8xVE9nRN0cNDEgTktV8dYBVvlnlyNAl8no0UHqnV+OYAdLPRFxEipAkyFaCSkW1D17GDvFpUzpeIwVGmY0G6ISRE4Qg7LPHvLxFFbzLe9mH2MPy9hnhb9qLvgmYOX08C7ZFR3waLqCxXXMQkPz5szj/SzlEsgWqZecHbBv39D1SNL/9aGtVibxDJKm79GCwt6v3AJF3krPFDZ72Vu/KdBY23dkr8u62P1R5pmTN8Ek=;Vg0GBZYX6EIYbeFbHWhD3Q=="
 ---
 

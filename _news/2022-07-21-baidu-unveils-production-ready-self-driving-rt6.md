@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils production-ready, self-driving RT6"
-excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. Save my User ID and Password Some subscribers prefer to save their log-in ..."
-publishedDateTime: 2022-07-21T10:51:00Z
-originalUrl: "https://www.digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html&chid=10"
-webUrl: "https://www.digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html&chid=10"
+excerpt: "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. With a regular SUV look, RT6 is able to self-drive on any of the highways in ..."
+publishedDateTime: 2022-07-21T03:01:00Z
+originalUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?mod=0&chid=13"
+webUrl: "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?mod=0&chid=13"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img.digitimes.com/newsshow/20220721vl200_files/3_b.jpg"
-    width: 640
-    height: 427
-    isCached: true
-
-secured: "qfk5CiDaRajqKyWC3TwI0kGi/fVPmCkweYYy70RqGG19AD8YnTmTxY4I5j/xIIUR20Z1udb4suqec5agpyJvkA9olBT+g8JHlK8LztM8im1OtAGiT6y6Fj+g+Sju2CGoo/mQoyFN3fCONr/akKSNZjKJF7tw2IGSLCEADXKiAy8oi7ubx6uMhQoK3ESBSWJlWOnQ7hyJE5zFtrqcpCfCowD1YCHW7WwROlwD90iqzsmSGRbdQWvLyw0rFXZ6fetwHDkVhdNzAf+SeZ/U8QQjTQM2NYsu2Nh+zse5hecyQHFdfN74W55dUalqv0guBTy+0TSYOH3esXmEBZulWXC2nRSSw6OiKYy6ScSQSupURoM=;mxGpVWLn3YbF3/T0tqtjDQ=="
+secured: "MibBfRv6+03tQAmWoAMhw5So+8+YvtY4M4xKukvjCh6U0XMpHDMeXSPpzHUHfD37awDHbfgA6mF1JKGwDcrLte7GzG3izZNZk8OOYdhLuj/LhRmosIrP+ZmpUKXe44URIS+0VneccEkFb2lOBxnAGY6GhAxM0KCjztQKb6gTLZTpBh7c21zgamia3N2g1SgxcTkZ7MxuhBsCF//xIvk/UntMjzgZJMs8cyYrBq3Df9q6Oe69j00u51GDr0Br3rltcXCN3fS6wp8y6npKEoYcfX+Z0gxNo+UBBHP+C72nVSXqlTwIc8f/b/Dn4pv1M7XtQGbSmKJPe71ffxfOsD1gdWyKZ/UQotjAhBUzV9PbUIM=;m3u9JVDvh88Mkraq2qsJRA=="
 ---
 

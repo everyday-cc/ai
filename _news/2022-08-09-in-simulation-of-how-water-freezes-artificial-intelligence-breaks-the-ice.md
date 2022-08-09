@@ -1,28 +1,20 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
-publishedDateTime: 2022-08-08T19:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960990"
-webUrl: "https://www.eurekalert.org/news-releases/960990"
+excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+publishedDateTime: 2022-08-08T19:00:00Z
+originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
-    isCached: true
-
-secured: "5NAqmkITMP7P0xhWWEWDPxc42K5hQiK2ISgj5rHvqDukLHcsjD+ENlIAgtlXhn9D7ChjfETzXjB16UfuYjNPfDdoyL9bAU7PFJjfSMzZ0GKqyoN8sgoAaV+sNR9pgegDQU/RoGl5BTUS6aKnNZETkwQlitzjYvlLGtx/UdP/Mpax5XGHVkBTsVjewkBnse6BTlt9myRxRumYxrLtjn/1r6yeVnK91Y2y0eqkN6svxmkhol2h6aukbE4hvwBB3q3CGbDaporgiG33quCJBibBuOLx1eR/Gxej7WAi2BXpGxNk9vsqT8j/dy4H7XTPh3PQcEGBoA8urpd0mzeTBYTYC+Z6yzywPiPwwv23+ZpEaD4=;eP/8in2THSqO1XSpL4/2Mw=="
+secured: "VVG5hO3bh6aStnf8YUIPB/JBN0whUsZq736DeiQb2cya/ktaZVex3Xp7PFTmPQvRRUeN/ToehbYUEsfoHhuKTjeVZMLSUxM8CGINPkl8zd7FQZetT/4QKWfNk6gK9/GSNTJTsvlRdOU6R5mTXIhCJw9hSpZrrsKLiR6kjGsmKfC0YKJupDrh3agZFqEjpRKfOk7zQd8O2WJKc++mpmkgtMQfHafQlFnb8JJVcn6hXVOsW2d8NWc9s6MdIbDP47pe5XzfFmJ6khwIfj/2C/voGsryQVjZpIyHpNtW0g/r3Gaae0kbW4FsnXVuAC1mh1+qHJ7kElz/UapN6aVAvo3D+Su5hQzzbMRExKkAveb29QHkJlcbHwDTwAbZ6YzSTEWOua3NHaEQz1dL8vDnDzmO3s7BWtSbQx2Una5vvw7GZMJq4M3RC8LwHxJ1aoZhwIyHMddbmkhTnDA5JbqCfEQ7D1L1ujrm3cLaPQjsnJVBVNxklznj8Zkl9K5wZHDNUsQOlN4Pl64EMM7eVJu32nXeAA==;ZivDjJIJ85hc1zvN55VlpQ=="
 ---
 

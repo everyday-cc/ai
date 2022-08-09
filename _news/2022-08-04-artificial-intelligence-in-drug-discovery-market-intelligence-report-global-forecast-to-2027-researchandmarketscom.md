@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
-    isCached: true
-
-secured: "bTN33snez8ieLP0ItC7sir5YXzWvJmGX35/9JzEYW5i8+goX17Ly5Lb1iBiIWXmKYW88VGaaMn+qs0GbjutktwLXyX1I7IvIzDdLd+BiTavhn6x6YARtvGLD8RhbG0uO5Esr3Mubh5fZOHgbgPcPd7J8KPl7J3FLwIHeZTcq1qblvNIXW1LGMBcVBSrXOzIaPWqTO0wbqtdEFGT3kMKXEai4LXg7y8OqoDrSisqPYDNto7b6sACkXZq3YY4Dg1stnL+o5AqS5oQqzTezdCLAE1dwhPrZnp8lKrSpS7D1gT8gw+BS45LYQavN4x6HFMamL1lst7+Ki6cD4vxakZ8Fa8JD2BBseVEkCKaenwFKhZ8=;JHccDcTHrbB12axpXPNXwA=="
+secured: "vQLoV6xqHnMF0GNFA97Bip/G3t3rgX0uAWb1aLMhYoGnUtSdi+alDDPnAiTAGAzoBviWAunkaL2r+XtixaZe31vBPmE7EMop9NWoX+uHzD35OpEdjnUDQ2BkELlB68rM6JbsxS4Mx7+3p798mTMVrK4nFATQf3DffbdEG0omKYI9C+5bgCF+EDNEuko3/BoMEHpLqBneyXgwYlGBfpP2I5EWC7Olbdih9AZKY5LQpaN09V5lJ53tOdFQjuPEUJGGeWg3Vf0975RfnVIu7eh9IkosJ+g2qa9CnfJykmtSf6NrLbSkEBmnwh7SVBNuqe6TfL4Pa0HsVKWoGJSR7IhSBREYTorn4oSZ6qxaJHJBiYQ=;1WCDvEDaBOoNrzVs4lsouA=="
 ---
 
