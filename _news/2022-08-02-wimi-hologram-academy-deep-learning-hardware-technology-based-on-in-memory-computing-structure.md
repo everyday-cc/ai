@@ -15,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2022/08/Thumbnail-7.jpg?w=2000&#038;ssl=1"
-    width: 800
-    height: 450
-    isCached: true
-
-secured: "XbpCZ14g7JBHwxP3G6JaaqiK9FwfQh8DjpvhS/1GIYWzrtC6tz0ODbWndT6YpyTs7/m1iDjvRFBSqfNlTw3PqS0VXJ9eLCwgXSp4Hm5lLaSi4Onjmx0XCUwEaL0+IWZEfsk9j2X7CmRESjL/mLagd7+DFjy1GrZuHFzCJhKSwWFGCDtKcj7cv8PKt9KbqSkGy+P5m4qXqGHL6+c5Xz/uDln84U47mKd9rFv11mgqPs6V4DK04SD0lAkh20y3E7MKvN/fzzpCuinkOc5G0ovfudgdrLoC6fLSZP33U81+LgIcxSpnR74G3U0C6wbiAZpOjJDJ+2ZGFiSV+FVZt6Jqgx6PtlfiSY06CnN3RpenBS4=;QqaJcOGznI3scdQMfVD3Yw=="
+secured: "s4g37TBF54G1HV+dif/AaVGAigu7hnYS2G3Ypogqko1g6qBIsZHYAG8L/yOO7T6rJuZ30GgfMaGn27AG5Jj1jOrIsCrz8PMXhCz+e3M6qeX81soZs9vACt2Shmqs1D2CIUz+LGd4oz20ZE8GQm4azCCEtKamEya77cvdmIs/t/GOBsQTiComY0SEDPLOkqnGE4qmDL4iIrq7uOZzrqh+p8VLKiommBB7XsXluZKIHhuA+FuheNdQFL6IFwxV7gJ7/hLhC7r2N7peElmxVRkD5ldIH5Gr9BVwisEfXHkXQIpLAZzrxm+MYZiGd9/hBRoyJN0k+IZxDFjYT6AmI6wr2Ql/OOQu54DUqDv5hJfhzfE=;lvnJD4OTCEYlVA6yIWOMkA=="
 ---
 
