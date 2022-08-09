@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robo
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Carscoops
@@ -22,21 +22,19 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Tesla teases Optimus humanoid robot prototype with new image"
-    excerpt: "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19."
-    publishedDateTime: 2022-08-04T23:23:00Z
-    webUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/"
-    ampWebUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
+  - title: "What to expect from Tesla AI Day 2022"
+    excerpt: "By the looks of the promotional campaign, we can assume that the Optimus humanoid robot will be the highlight of this year's Tesla AI day"
+    publishedDateTime: 2022-08-09T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-to-expect-from-tesla-ai-day-2022/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 106
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/TeslaDay_AIM.jpg"
+        width: 1050
+        height: 590
         isCached: true
   - title: "Musk says Tesla is working hard to reveal Optimus humanoid robot in September"
     excerpt: "Elon Musk once again teased Tesla's humanoid robot prototype, Optimus, and announced that it will finally be revealed at AI Day: Part II on September 30th."

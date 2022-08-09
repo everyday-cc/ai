@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
+  - title: "Cybersecurity Startup Timus Networks Offers Solutions for the Modern Workplace"
+    excerpt: "Timus Networks, which recently launched its operations with the motto of ‘Your Business’s Immune System,’ offers a platform designed to meet the network security needs of the modern workplace, thanks to its cutting-edge ZTNA and SASE technologies Amid mounting concerns about cybersecurity due to today’s increased reliance on remote work,"
+    publishedDateTime: 2022-08-09T15:49:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/technology-ff20bff82988905650ca92461fe0ea81"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VATH91fRGKwPGMdZVqm/riTWTB8ND6xdqRAjtoVPDX4RXNsILw4oEAxyoEjH2G/z57v9MAB6fiHEmrUa7J3ULUO9Kb+3G8NEvKTnXp5nLm1+sYZUdZQ6QeMvOzeiVjwyaJmMxj+8fMp56nyTV92VqsolpMqnHS7p6K9rD3R6jOBWkAYqu+BQ9aXPRnfZaw+Y2IKnERjT5x6cQRVTF34g11ckEtifxUU2HDRdEIduMPsSfKC2MSXBPL5sWiCq+Q4tMv2a7/0s4yyCOP4Ewz0nc4Infqj7cDNYFdsMbqP8pX1DEQnYalyBCO/XMeP4Nst2Uh8oCArIeZSSMiittJJC8stt/crzcK8ZhaYR38gyaPw=;uc7reDQciTuyB9NVdQRXAQ=="
 ---

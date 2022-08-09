@@ -3,25 +3,25 @@ category: news
 title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
 excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
 publishedDateTime: 2022-08-08T14:28:00Z
-originalUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+originalUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+ampWebUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+  - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
     width: 1024
     height: 766
     isCached: true
@@ -136,6 +136,22 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-1.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
+    excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
+    publishedDateTime: 2022-08-09T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 69
+    images:
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb"
+        width: 620
+        height: 372
         isCached: true
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features"
     excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
@@ -277,6 +293,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "VHURT1wJVjuuVkZ5i5cOZiXjHTe/NM27wmoYTWfTQzEwk+VnA6bZx1Wu3mIK46zZ5uRXmXk7BRp2oByMoASY+GL/5fgmfUUX565qdJKBhg6MRhg2NLeA47ovyz4KttXWbkm+UZmRdS6l5fcS20LKiBQSjHrX6R5qoTSTE+mIk57wTWr8WIoBi9iWUgr3jey83YRDO2s9muk9MkPMJoREUbAX+eEDfA8bilXYJ0D9H5l9mnr+vCnSzTTXt2ea+jKVqe9betz9PMf/Tm4SagBGE/jBwEBHJcjQUKlXxafsgXSNHSWCRjTctOy4/J12ay7FKRqYRwMjEGkkRFRqy//nyQXn9lp+UQXxg4kVrR6btDUF2vxtR33G1cfnfsd9v8xvSESjK5XQ4AMTcEyjk7fLolrPf/aSopR9mu+XaygG0b9Rw8Z0COjO2FjKLWIozD6oxCoL9UYxTSx9yJlzT2VTloQkizw5kKg1Gw1peII+NoAhianBc6CwRNGdyIQV60+zXE4TICq04P9I9EeGMbZvOQ==;GljTk7T6nvIPcPAREWwC8g=="
+secured: "xLU0DGzBbt+u4zSgAIZp+pLXClpFopA8Z0A1D2KBab7w+O+HUtGnoLASFQS2uqOiroDb1eYFn+KUJ35ss5M8zU2xH3HkvAYabwKcc4e7Wskz1Q6X4tPTDsv7HTbOPT66iV4treZHPywbXfsvf2pSq3OaIAlCntNHHLkCw4bnEsPdPEdbvNs+BCkuQN7JSVaVZAQFqyKDU7DkqrDxlMJ4Pj/BEDs0MrVsFtDWc3+od5tS8q448mmcyL5ZtTMMn0gJL1qQcN12vROPfCOn/gS6R1QJS9Hyabkk2w8JuC+u2Vm7AP9k9Aj6342RHIybK0vQmdXML2hSOQew9eNzPWZ5qn9PQqEJE36FB/HYr/0oPZY=;o7yP+1WawrVGpjlCsfHmYA=="
 ---
 

@@ -62,16 +62,16 @@ related:
   - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
     excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
     publishedDateTime: 2022-08-08T14:28:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+    webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+    ampWebUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 82
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+      - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
         width: 1024
         height: 766
         isCached: true
@@ -152,6 +152,22 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-1.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
+    excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
+    publishedDateTime: 2022-08-09T16:08:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 69
+    images:
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla falsely advertised Autopilot, Full Self-Driving, says California DMV"
     excerpt: "Vehicles equipped with Autopilot and Full Self-Driving technology \"could not at the time of those advertisements, and cannot now, operate as autonomous vehicles.\""

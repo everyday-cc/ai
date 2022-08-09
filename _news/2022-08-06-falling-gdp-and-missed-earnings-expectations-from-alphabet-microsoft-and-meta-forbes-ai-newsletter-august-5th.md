@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2022/08/05/falling-gdp-and-missed
 webUrl: "https://www.forbes.com/sites/qai/2022/08/05/falling-gdp-and-missed-earnings-expectations-from-alphabet-microsoft-and-meta-forbes-ai-newsletteraugust-5th/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -21,49 +21,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major"
-    excerpt: "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for"
-    publishedDateTime: 2022-08-08T08:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
-  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
-    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
-    publishedDateTime: 2022-08-07T07:00:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=226753"
-        width: 959
-        height: 538
-        isCached: true
-  - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
-    excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
-    publishedDateTime: 2022-08-09T13:34:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/game-engine-unity-partners-with-microsoft-azure-for-cloud-based-development/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "UjJFMPQK2IWWR4lbBfy5r8Q4TSC6oXJQm/wUN3voi/adgp/kabQuOAQpQnLQ9zePjYAQopJqsJkgZRUJxhtA9Pf6VXTgnIKQxKsTWkcE6UpI1QsJr1f3isegJxnRj60Whfc1gDxZt8YJC9jDrzAld4O3SJX3ULA1Grk66QS0SKsXzF5I6vMyqSP2xlSu1qPDgW9leCf1gabCgUXDCFNzhpDrZKutwJ8x2dI20NQh3L5o3A6LnfDRZIoNI0qBhHHk95sXIAWHcmRIj8lcfcOpPgmdN7iwb+gBXMkdLedlvgpbwR90XraekyVBYqlVdKfV040KNXD132FuThm7FlmhVHGOgn5TAC43xF0TsU+fXE+iErA1DkMRmJIHCCVSNzbTCaQaBHSK0Y4WZwDjFodm/d4qyDbtA3ltQcQBc5hzHKNSUW5CxOJ7PeRDsQC5IP//IPhZITy89GhKzM9Lu/0zEYdFG1784uEysP4FC2BBL/3NgW1yxRx8VxmxvWc0ayAY0WGx4IYOyt+KhHB+UHhVGA==;BurROlfdTrrIJrwW0XaurQ=="
 ---

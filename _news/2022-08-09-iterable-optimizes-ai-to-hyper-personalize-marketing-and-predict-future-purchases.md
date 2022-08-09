@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-pe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/"
 type: article
 quality: 101
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 800
     isCached: true
 
-secured: "IYcUsQNh8su1RGRI5mML03zN/CdNwXxhiiTKVEC0d575NY44kmBYAwxv7aKyvIj1mkqeN0Im/jbCKj9vO5SSDw5/fQv3h5FAXzfflzliI6D6LSCOsmx+yuNpFG2AYS1FM9QpATHWcpRSoCXSnYphWzr1jofNQpLIwUmhZ/VLg6jBVFvXTBvuKacJg8WDLC6sdk8MYVI5P7U0UBQ1J2XoSwgw64mYHG+PdmxiyA/q0/0BCfNFUfsOY3ysV/BmkxlZX0sPn+/sc1xU8WLIQhaO6tI/+/kRw0T4I6WvaTyBf+U5DPQdke1AdUCJRCvpBGKKgU4qXI6kMoayzUhR60Fe6reZw9jdAhr8q/g4hBaAi0g=;khcW3wnjx97gMOlGBPwTRQ=="
+related:
+  - title: "Wearable AI Sensor Supports Personalized Health Data Processing, Analysis"
+    excerpt: "Researchers at the University of Chicago have created a wearable computing chip, which can analyze a person’s health data in real time using artificial intelligence."
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 58
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2019-09-30-GettyImages-974742772-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
+
+secured: "8oPiIbJzmmOyj/PiHnF0IGw6rKa5J6DgriLWCzS6zSD+cayekDf9oz0CYHkF5RIixJ5FnCPsGEQ4kFWK+XrpAochYQ25ZhOaNwsq8OztfKR42NtXAwOZ733B8Bfi7yFxAlPPQejMqllYygY+lY2XqeeZbrlCPuv7QpXRqQgQnSPY0BIeOQaTmmO6emEpq/n73T3e+5unxQQsJMUEHorjScH3WXYuRNGwW7bobx4pdrfc0FlaOCPKujzL4OTaBI1IH/QxJ5itidV3f7ec8eHxJwyaGCJBQK3i8dOdZO0/NVQSgDVZnfVt6OOjq8T0jKVktRDS+/SBd2keSdDDyRDfFC21UjTK+2ub9xgDVJUk9a6fbJkxzgrUNXzdxoxYO5vuRSTUrXbfOz7xhFMgl9CWtw/SC2wc3w7+2pdBL1w8zdQZCDYKELtO970c/UnzrOp+IOnUGWRYsCY3GU6lM3K5NuIRFw1wd4a86tFvgj15I2rPExQBr89GS8BNPYyTdx716Cq6qtM7Pml+RgImRO5O1A==;Ft6GjLveLkUaXHyQ5wY1+g=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-devel
 webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services"
+    excerpt: "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”."
+    publishedDateTime: 2022-08-09T10:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png"
+        width: 739
+        height: 768
+        isCached: true
   - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
     excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
     publishedDateTime: 2022-08-07T07:00:00Z
@@ -37,15 +51,6 @@ related:
         width: 959
         height: 538
         isCached: true
-  - title: "Falling GDP And Missed Earnings Expectations From Alphabet, Microsoft And Meta: Forbes AI Newsletter - August 5th"
-    excerpt: "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend."
-    publishedDateTime: 2022-08-05T18:24:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/08/05/falling-gdp-and-missed-earnings-expectations-from-alphabet-microsoft-and-meta-forbes-ai-newsletteraugust-5th/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
     publishedDateTime: 2022-08-09T13:34:00Z

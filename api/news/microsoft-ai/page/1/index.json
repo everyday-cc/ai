@@ -108,22 +108,31 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-3-ways-azure-speech-transforms-game-development-with-ai.md",
-      "title": "3 ways Azure Speech transforms game development with AI",
-      "excerpt": "With Azure Cognitive Services for Speech, customers can build voice-enabled apps confidently and quickly with the Speech SDK. We make it easy for customers to transcribe speech to text (STT) with high accuracy, produce natural-sounding text-to-speech (TTS) voices, and translate spoken audio.",
+      "path": "_news/2022-08-09-microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
+      "title": "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services",
+      "excerpt": "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 137,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png",
+          "width": 739,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T02:00:07-07:00",
+      "publishedDateTime": "2022-08-09T03:00:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -146,27 +155,27 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-08-08-bluware-and-microsoft-azure-develop-osdu-enabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major.md",
-      "title": "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major",
-      "excerpt": "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for",
+      "path": "_news/2022-08-09-3-ways-azure-speech-transforms-game-development-with-ai.md",
+      "title": "3 ways Azure Speech transforms game development with AI",
+      "excerpt": "With Azure Cognitive Services for Speech, customers can build voice-enabled apps confidently and quickly with the Speech SDK. We make it easy for customers to transcribe speech to text (STT) with high accuracy, produce natural-sounding text-to-speech (TTS) voices, and translate spoken audio.",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/",
-      "originalUrl": "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/",
+      "webUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/3-ways-azure-speech-transforms-game-development-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T01:00:07-07:00",
+      "publishedDateTime": "2022-08-09T02:00:07-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

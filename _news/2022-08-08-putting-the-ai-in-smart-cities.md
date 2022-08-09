@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/integrators/article/21275074/put
 webUrl: "https://www.securityinfowatch.com/integrators/article/21275074/putting-the-ai-in-smart-cities"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "HKBU launches Turing AI Orchestra as next milestone in human-AI art co-creation"
-    excerpt: "HONG KONG SAR - Media OutReach - 9 August 2022 - Hong Kong Baptist University (HKBU) has announced the launch of the world’s first “Turing AI Orchestra” today (9 August) as the next milestone in its visionary plan to broaden the scope"
-    publishedDateTime: 2022-08-09T10:35:00Z
-    webUrl: "https://www.asiaone.com/business/hkbu-launches-turing-ai-orchestra-next-milestone-human-ai-art-co-creation"
+  - title: "Citi's stocks to play the biggest themes of our time like automation and AI"
+    excerpt: "As markets remain saddled with short-term turmoil and recession fears, one top strategist recommends investors start seeking out stocks with long-term structural growth stories. Citi's Scott Chronert believes stocks that play into the biggest trends of our time,"
+    publishedDateTime: 2022-08-09T15:17:00Z
+    webUrl: "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 13
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106906180-16252398672021-07-02t100213z_1512409415_rc2aco9klsci_rtrmadp_0_usa-mining-gm.jpeg?v=1625239934&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "rsL+7/psu5N85k0uLA6bQmZRn/vwzhSXL+F35p4XoWm9+oTnBrySNdIAodGcZcpAUULwEjxMGp8KkJl3aScgQgrI6XNkrRzgn31qeezyhWcrXsHoV8x/fR2yyvrFWmGGyGUE/Mzyw7Saxg/NkvbtqhPvAZ5R1kXgU73NB5oQsNDOT/qDpRimxfOoZ4a+AdSU6VSLZmbJ5GoUPtq1nwyLvh1a5FhOYkX6bzV+RkaoIAPoSv/JY5UB/ecFH61NeqWunxmu7KOSct2M3PllNeMHsPonMZFWmldSohFW2qCdWQ/dpXu3pQEoDW0ND9WCPHns29u9vdjdyLhMcX550Ldj46Z0zc+n/f/nQ6CgoINbZK0=;oNYDoGi9F8qmIuUFp2SKbA=="
 ---

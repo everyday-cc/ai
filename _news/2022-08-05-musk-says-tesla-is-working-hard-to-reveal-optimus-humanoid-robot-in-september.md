@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla teases Optimus humanoid robot prototype with new image"
-    excerpt: "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19."
-    publishedDateTime: 2022-08-04T23:23:00Z
-    webUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/"
-    ampWebUrl: "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 106
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day"
     excerpt: "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,"
     publishedDateTime: 2022-08-05T14:45:00Z
@@ -53,6 +37,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 71
+  - title: "What to expect from Tesla AI Day 2022"
+    excerpt: "By the looks of the promotional campaign, we can assume that the Optimus humanoid robot will be the highlight of this year's Tesla AI day"
+    publishedDateTime: 2022-08-09T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-to-expect-from-tesla-ai-day-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/TeslaDay_AIM.jpg"
+        width: 1050
+        height: 590
+        isCached: true
 
 secured: "MQq+YMNgd3lqDGZCIrJnB7VAMWN3SSdKMCBKSYmrb4ny6N1+Ggl1RURoeR0V1IxET7rAwcvz4eWCMyzwgn9PBxa3MZSMqo9KApgCMTfVgvq01WjBXoCgolsTZQ72tY+wkP2ijmGJ4DsaKrQXsfmzucQmD2ZUWTsBNFovJJtCkqT7qt5gF3KxrQFyTaJAVEvxpcCZ2BtfQCCl2nFlpaRS2zKnePr4OyY2vtdB1VfAgZnxufEGQUbtJCjqa0mLzOeZ6qbeHqAX0mDXti5un0Nfe9YYjkIB10i6/SmZoKHa31G+4viY9eRNNLqQ0qyzEVb/NooeN7yTcnZya+WUA+YsoM3id+otVKfteFtAcGvwU3mBlpPKJAUmLVwlyLssaU6N4bcWF3+UnfbghtGTsXW9fWXi7PDivhGHlZJKI8VQcKOZl04YkJVdchZRttFErkopZAWYaBU7CdffFXidjVerdTFptNOc+Z/3+D8MCl4V8sxW7i2VezBsPhJg+9Rv0IK+1f4VlF6zTrHwJcNQThY+Hg==;DvsL4l1P0IgP2R3OpXjbtA=="
 ---

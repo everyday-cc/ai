@@ -39,6 +39,34 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
+    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
+    type: article
+    provider:
+      name: Army Technology
+      domain: army-technology.com
+    quality: 22
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
+    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
 
 secured: "LVdcqatIjdQCdYuVh8JlGOfKL1OSeQ0/0RwkHC1KsEh/kGdS9Z7MfIyyS/Ntr7AJBU1llvRhYPjiiWZCyeSJUh7Y0/UpEiwA6VAUDtTtiPVVKZIvvB5uu624+SGuw2sjkuVISqAWs+zUUhk2NCf1N96ai9bUrF4qTCS3EnoxwyVX4GKHUmbjddxiyfRedokQt7iGVHwsVZPrnbIK2GxTMbzApc6r64tkvgty9jEpOrT1ZNuWZ+Eacc2oNKyexH/UmtnpmG+Au2hh9+KmUjJfFuTLEvLmBp4gLzJ4T/QRIul7OlaLAdvTv9ZpcG8Rj0coUEvG00J4UyjEPxP5huXzywZtjQRuoKsT9Ewu3+FWf4GFeE3i+kqkzYd58KiUufqxlaw7q5Wo+2e8kFjgvjbJjGvOqHX1+Q/dzSYmVE12D58YVPr9yHkrKo8po26TKwXs6E1GK9fwoyRCeECk5XQ7/mKm3bKrHX5kw7yY/IWDXq39ryDWcj9LWCVo1SlYIWjbBHuxirlFMLJM+F6FD8biGg==;ik5frvRAaw/wAN9J/qiwtQ=="
 ---
