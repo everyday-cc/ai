@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "China drafts national guidelines for commercial driverless robotaxis"
+    excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
+    publishedDateTime: 2022-08-09T10:48:00Z
+    webUrl: "https://technode.com/2022/08/09/china-drafts-national-guidelines-for-commercial-driverless-robotaxis/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/08/IMG_2-e1660039195363.jpg?fit=1335%2C705&ssl=1"
+        width: 1335
+        height: 705
+        isCached: true
   - title: "Up and Down the River: Mindful driving"
     excerpt: "What was more important than paying attention to our driving? I’m just as guilty as the person in the lane next to me, especially when we drive the same route to work or wherever on a regular basis. We might as well have self-driving cars, because ..."
     publishedDateTime: 2022-08-08T09:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-devel
 webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Next Pathway Partners with Microsoft to Migrate Customers to Azure"
-    excerpt: "Next Pathway Inc., the Automated Cloud Migration company, today announced a collaboration with Microsoft to accelerate the"
-    publishedDateTime: 2022-08-04T18:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/next-pathway-partners-with-microsoft-to-migrate-customers-to-azure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
     excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
     publishedDateTime: 2022-08-04T22:28:00Z

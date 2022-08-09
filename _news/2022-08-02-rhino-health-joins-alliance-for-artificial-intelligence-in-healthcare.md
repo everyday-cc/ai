@@ -1,68 +1,20 @@
 ---
 category: news
 title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
-excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
-publishedDateTime: 2022-08-02T16:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
-webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
+excerpt: "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ..."
+publishedDateTime: 2022-08-02T16:09:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
 type: article
-quality: 56
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Healthcare
   - AI
-  - AI in Autos
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Sanford Health, Sharp HealthCare Join Clinical AI Development Collaboration"
-    excerpt: "Sanford Health and Sharp HealthCare have partnered with Dandelion Health to launch a new product development platform for clinical artificial intelligence."
-    publishedDateTime: 2022-08-03T17:05:00Z
-    webUrl: "https://healthitanalytics.com/news/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/sanford-health-sharp-healthcare-join-clinical-ai-development-collaboration"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 72
-    images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-1169990180-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
-        isCached: true
-  - title: "Alliance for Artificial Intelligence in Healthcare Adds New Member"
-    excerpt: "The consortium, Alliance of Artificial Intelligence in Healthcare, has over 40 organizations committed to the responsible adoption and use of artificial intelligence and machine learning technology."
-    publishedDateTime: 2022-08-04T17:12:00Z
-    webUrl: "https://hitinfrastructure.com/news/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
-    ampWebUrl: "https://hitinfrastructure.com/news/amp/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
-    cdnAmpWebUrl: "https://hitinfrastructure-com.cdn.ampproject.org/c/s/hitinfrastructure.com/news/amp/alliance-for-artificial-intelligence-in-healthcare-adds-new-member"
-    type: article
-    provider:
-      name: hitinfrastructure
-      domain: hitinfrastructure.com
-    quality: 54
-  - title: "Sanford Health leverages patient data to develop diagnostic AI products"
-    excerpt: "Dandelion Health will make the health systems clinical patient data available to AI developers in healthcare to improve patient care via AI, according to an Aug. 2 press release. Sanford Health is one of two health systems to partner with Dandelion,"
-    publishedDateTime: 2022-08-03T18:21:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/sanford-health-leverages-patient-data-to-develop-diagnostic-ai-products.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 17
-
-secured: "817pGoeplz3MJ4xSR/9bwC31/RWvaZg5NIMrugtnZinAnhfdnYFfjIkCKN3Uza9ehdftg8A5NJjS3Eb4s6+N3QyiUQW+1vxGTUqZ6QDpRUAx2DoF7ybWtW8+koRGPXzU6u0xJ1gwCsOIVCIGW4wppctxO/pwFqbWzahlD15Zn3GD5F4PvkBxYs+iZ34hlzA6TyqzjT9Q323l87nGXDiT83XDHruNmHZuG4CVYbSqrTJsG1de2mmOQQ6cL02ZttY2+OibmPi8jQkRbydj31ih2c+r9DxTrCmsGUyuuEfnIn8Rg3QCphmqUggcB6TNBg1mWSaRiAROH/4AffNiBStJjpzqee8t5OtDIBLUlYE6EMk=;H+ASHgN85rQWSrh+Ak0Kag=="
+secured: "vt894t4OPvdgS5iV/7MH1eE+ZpXGY/5RF6/GnSFrpwd+98vZkjOzNFoHL0ndKKO5jkmk9z9XIJpTJ3bKEa76pvN4R3ClXg40QM/BMVGCvKXoVnSqUtRtp+Xh9gPR9rkmfrVhw66z0v+Xt8bdzfki2oXTNgSJ9E5AFsGrk63fuqDwfOotF43m/NhUqiA4ZfH1pJNw27TEmkraeQGrfeJ/MetAW1bOi6K6tMgBbW3viDezv5CFdKlu2XPff48LMnpLgs6jl5Ty4eWgU3HM8pRR06Mysv/MrZX85GVIqYXWnodQUGMpft3P8h3TGBaHq2STv6vkiSF+027NJBI0Z9I97lNMWbZFp3oJutdMovXUXuc=;E1aqE/69sS2o6okp62yuuQ=="
 ---
 

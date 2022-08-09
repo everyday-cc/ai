@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/DeepRoute-Autonomous-Car-Video-main-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "China drafts national guidelines for commercial driverless robotaxis"
+    excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
+    publishedDateTime: 2022-08-09T10:48:00Z
+    webUrl: "https://technode.com/2022/08/09/china-drafts-national-guidelines-for-commercial-driverless-robotaxis/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/08/IMG_2-e1660039195363.jpg?fit=1335%2C705&ssl=1"
+        width: 1335
+        height: 705
         isCached: true
   - title: "Self-driving air taxis coming to Australia"
     excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"

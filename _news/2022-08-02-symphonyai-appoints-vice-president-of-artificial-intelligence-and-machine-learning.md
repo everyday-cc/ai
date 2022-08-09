@@ -2,26 +2,20 @@
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
 excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
-publishedDateTime: 2022-08-02T10:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+publishedDateTime: 2022-08-02T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hfFyF6gd3GsY/QnfNc/DG2W3+JlEe+xc6niddmgoE8DVUzGBBs2nwFDwQcjVlj/hgoD6GEEMvVjy12pMHbIwjlILewWU1dHE/EkQhL9qtV3MUm0BRXQhD9lRl5KuJd6L31/5lqDV6rhaUvxz1O0LfNKZhylpViX/6qhq9ZyTo3A38RGKsyvxMuEZkBw+0XNkBiED4GS8RSri4U47x9UAPssLxDqxfAtWFyW/FWMyWJaeevsa273L/M/ABuLXWjgG8GWjDjJs3XOhC6fgiZICKfZm1THdQam7Vabc1qxUYEttozCBV1fJQbOzTB72r+jyEzMGci7Fl//iq3Fp18Z6ajtg1sfOx5J19i+Yb1tgqWI=;e7wK3OjB14+erhRwUgiS6w=="
+secured: "QVHH8bgZlFYGvsMjD+3E4CXJ6r0JYX1HfRevd34o5PR4TPWn2rhdKrBhjF9xSOVu2OcQyTR0or0GeJDf1HzwNhg0iGLYyB/xWQRKZhO0krMNlzbOSsC4Bg86KUD417tAAO/MpIM5lfnurImuvy5qkWytYX77kh9C1MnSG1acS5YvWHxIq5FbbPB/ETATiC3xdKR4iaOcryWbkuvCs7LwOPbWbrXR8HPI5suvRd47VXEw6Z8O4b6iuyteNkgkNGKeHRoA9m20zmOPJz4ojhmHm1Ao0BT1DhBcFle3yLXipkdksZPlY9skeRRTfZka2HnPD8F1tWfmB8JqasbZkUECSTbBcGDi3S3yTuwqkIOJEws=;bO7YCbzE5LuRyrSyRtZRFw=="
 ---
 

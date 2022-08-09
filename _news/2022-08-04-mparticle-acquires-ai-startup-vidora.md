@@ -1,25 +1,19 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
-publishedDateTime: 2022-08-03T17:26:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
+publishedDateTime: 2022-08-03T17:12:00Z
+originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
 type: article
 
 provider:
-  name: Destination CRM
-  domain: destinationcrm.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI
 
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
-    width: 480
-    height: 610
-    isCached: true
-
-secured: "301Z45t/QQ92y6l7AuxDhtIqiidnfylrGdOESIGg0/+K4pD72WgE/D5puCuK6EzuPR4zBpRV5MxHluZhulQ05TbdRzqDPMaq2B0iS5q3uLv4A3ttmzcTcLB0WeyO23ukiH7YfSPm5UMjL7Pzo/GSfJcIXnnIBL+L7dnL1n0Bpka/72Z6b/Kbc0QuApMIB8RfMS0MgC6norioelxNGBhcL9tQJP3oiiwEVdnax84/3Nz3MERKEXml2oXK8+Jf+Hq8TJi7k0IF91eYXtyRQKJkTzA6Nsh6emrLj4ti84r0b5LSHbcFi6siVZxLyRJpcDDGJV3SuRaott/RInIhLGG4HQdbyrvOE4JSnUOJP48uuKY=;UmhGmV614ZoUTSBP04nd3Q=="
+secured: "CD92Oq5j13AuT19SaElZWdJLWXRmC1LKmFUbPhS/HTy1nkn6Hx9rHZ7XvyTBn5rLUS8dEvVDOB6w4OMnZ9cyaiQ9SSbHCyqd+wQtM9AVU/0mRNNw1YZ87pBt7g5pOy4gfkPo1NsXv2NXCs8PY+V9ri69FzwUobzUhiOoOzwwoQ85SwIebXx/2rttxtCi3d/Z+NsvePKP3DdZbRosL+A0jw+az+hcDC+WDidXTtjxgmtmJlYDO37actnV8bzidWKlZqnGJKskfRJHDduNDN8g+gU2Bz+D6ZCAI9RLainggNqUyyNfTotPVW4cgl7KVS+JIdUWtAIOGC6lLEimqbUwt0QYoq304ne9ePhaGvf97qc=;XzVMOxliXgL68mBpKsi63Q=="
 ---
 

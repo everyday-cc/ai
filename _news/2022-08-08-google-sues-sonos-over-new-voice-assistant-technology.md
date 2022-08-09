@@ -42,7 +42,7 @@ related:
   - title: "Google and Sonos are now fighting over voice assistant patents"
     excerpt: "Google has sued Sonos, alleging that its new voice assistant violates seven patents related to its own Google Assistant technology.."
     publishedDateTime: 2022-08-09T09:51:00Z
-    webUrl: "https://www.engadget.com/google-sues-sonos-over-seven-google-assistant-related-patents-091023307.html?src=rss"
+    webUrl: "https://www.engadget.com/google-sues-sonos-over-seven-google-assistant-related-patents-091023307.html"
     type: article
     provider:
       name: Engadget

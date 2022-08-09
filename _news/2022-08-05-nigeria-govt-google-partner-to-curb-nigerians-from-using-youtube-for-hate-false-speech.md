@@ -24,17 +24,6 @@ images:
     height: 664
     isCached: true
 
-related:
-  - title: "FG, Google partner to curb Nigerians from using YouTube for hate, false speech"
-    excerpt: "The federal government has met with Google to prohibit outlawed groups and their affiliations from using YouTube channels with a view to broadcasting information."
-    publishedDateTime: 2022-08-04T18:16:00Z
-    webUrl: "https://www.vanguardngr.com/2022/08/fg-google-partner-to-curb-nigerians-from-using-youtube-for-hate-false-speech/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 0
-
 secured: "cH255uPQOvBOvvzuIHfYQf6MCWSyUph4N0bTCdJZxbDQEcQtxBz2NHVL4x902O81UXxBy+kwxniYMNhlpMjEIYuJuyAoL4xqAoL+BRNMKOq+KZqDB85v71teT6N2Eq1iiV4lB0DvN9TohvieI4CpAZGamcyHaE9ZnzLXUhCe2hQLW/g6wDeuWHNqggMS5bC+lCsOi5rT7FxjPw1uagAtmF/NxswoXC3xYMWA67nzJhTNR8/ZjU6zbu4dSHPMLaTzIHMHewHnrnV/oDaCFmpQmG/AVwMgsxuINJmlIVmnid2d6FJEnPvf7aCyCLv8qZbBmrXMRhGJAPaeWz7b6LZwECmPFxXkeu2L+6n9xkIzjrA=;H0ZaW8kkXYCgwuPxKLnPoA=="
 ---
 
