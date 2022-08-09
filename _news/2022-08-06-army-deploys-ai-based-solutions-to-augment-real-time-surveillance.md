@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/army-deploys-ai-based-solutio
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/"
 type: article
 quality: 57
-heat: 118
+heat: 117
 published: true
 
 provider:

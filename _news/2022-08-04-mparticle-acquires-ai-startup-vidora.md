@@ -1,25 +1,19 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
-publishedDateTime: 2022-08-03T17:26:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
+publishedDateTime: 2022-08-03T17:12:00Z
+originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
 type: article
 
 provider:
-  name: Destination CRM
-  domain: destinationcrm.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI
 
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
-    width: 480
-    height: 610
-    isCached: true
-
-secured: "oCMhe9CTdDqo2qVboZf+7C/+I+pvv0uvGNfePl+hbpFA4+hE9j6BBWnZFlAPohZqs52vR8RXS41nP4mNY2tWILmVpc4IuWr7SG0zSQKGez5oUTGVTj7wv2P6Rqp1Q2nHYy4CGs1znxkT3uib2EbRdZrM1QrE2GPYvLRpUWM3y4QNP5NlaIpCrLO/SA/ZrGhp0/jxBGO9lybWo/ruuwTgzf7X3Xn0DpJR6E8HMWGTW2Ogp2ruhmxrVl6tD3tP4CFaFyuDdU3FLh9QNfBH+jkv7wGg0YsLEH26usTP80dJpfXiB8EgFaod84EBU24XPZ9b3kFHXBRJcGBPghdM1Jg7jEiXDon3aVaFZthBl6Teo9g=;dnJwHLP+2CsT+VOAVbCrsw=="
+secured: "jDTC9KJ/dTE9i49CHbg8cjVR+0Lwo68YH4m51+eENTiLoaOjfb/gycN0DZijSXMdkNo44FdDzx8mNnbdVNABlwLZ/3z7vU0HxgCWMyqhS7aG2pkzPjStKbo8pxF6n3uLbXxcVD+oKc3juNixZhySpEN7uu7kCslPfu5OC5Fgki6qF/YwenA8tVqyS9QaLJR0Y6rYWqPVbq20f9r2C5BGeTiovHBk5bTlpYO8VYLPQu+fuxcGtkOYS2h+wsimPLuECy1eZJfPyA6gZeT9glPlQ3IZtIraDm3bbob9Ry5p/lU577yefug6HjX4/2J90uxkHYJE9Xa8Ag/zD83Y2f1u58nYWYnmO2uKuP6cZNMXFjA=;NmMkmG6hc1dc5SyY9ssz+w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
+    excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
+    publishedDateTime: 2022-08-05T14:51:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Nanogirl on how self-driving cars might need a gender setting"
     excerpt: "This week we are talking self-driving cars and how they might need a gender setting on them!  Anyone who has bought a new car will notice more and more tec"
     publishedDateTime: 2022-08-06T23:20:00Z

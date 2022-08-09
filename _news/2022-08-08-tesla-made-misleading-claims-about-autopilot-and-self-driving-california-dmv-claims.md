@@ -3,30 +3,46 @@ category: news
 title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
 excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
 publishedDateTime: 2022-08-08T14:28:00Z
-originalUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-ampWebUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+originalUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
     width: 1024
     height: 766
     isCached: true
 
 related:
+  - title: "California DMV accuses Tesla of deceptive practices in marketing Autopilot and Full Self-Driving options"
+    excerpt: "In a pair of July 28 filings with California's Office of Administrative Hearings, an official and lawyers for the DMV wrote that Tesla's \"Autopilot\" and \"Full Self-Driving\" marketing suggest the ..."
+    publishedDateTime: 2022-08-06T10:58:00Z
+    webUrl: "https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107085719-1657210528486-gettyimages-1405480830-img_3725_6d4a036e-8bb1-49dd-9c3e-205b6d95f622.jpeg?v=1657210654"
+        width: 3991
+        height: 2807
+        isCached: true
   - title: "Tesla Accused of Falsely Advertising Autopilot and Self-Driving Features"
     excerpt: "Tesla has been accused of by California's Department of Motor Vehicles of falsely advertising in promoting its Autopilot and Full Self-Driving features as providing autonomous vehicle control. The DMV alleges the electric-carmaker misled customers with advertising language that exaggerated the technologies' capabilities."
     publishedDateTime: 2022-08-07T23:01:00Z
@@ -147,50 +163,20 @@ related:
         height: 338
         isCached: true
   - title: "California DMV accuses Tesla of falsely advertising Autopilot and Full Self-Driving features"
-    excerpt: "The California DMV has accused Tesla of false advertising in its promotion of the company’s signature Autopilot and Full Self-Driving technologies"
-    publishedDateTime: 2022-08-06T03:21:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
+    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in its promotion of the company’s signature Autopilot and Full Self-Driving technologies. The agency alleges ..."
+    publishedDateTime: 2022-08-05T21:45:00Z
+    webUrl: "https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 48
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/6c8621e/2147483647/strip/true/crop/5116x3421+185+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F17%2F24d8c4f14825fcf0ddac0ea1baf9%2Fimg-la-photos-1staff-463-2-1-vj5po8pm.jpg"
         width: 320
         height: 214
-        isCached: true
-  - title: "White Paper: The Future of Self-Driving Technology in Trucking"
-    excerpt: "Self-driving technology has evolved over the past decade, and autonomous vehicles (AV) have hit the road. This technology will benefit the trucking industry and become a vital part of supply chains while offering better working conditions for drivers."
-    publishedDateTime: 2022-08-04T16:00:00Z
-    webUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking"
-    ampWebUrl: "https://www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/white-paper-the-future-of-self-driving-technology-in-trucking/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/08/ImageWithTitle.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
-    excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
-    publishedDateTime: 2022-08-05T14:51:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Tesla accused of false autopilot, full self-driving advertising"
     excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
@@ -250,6 +236,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "RqhEqqTcyPA11Ik1zoRK64IgVztNWxtHUyrwxbcPlRcYBYnOhsR8gnOMtaP7rHo1NbziZK1ne7dZ2n6QhMV7wii6c2RUr0m1eda/9xQrLfTTBJRKT0MiO/SGxz1asZ2HZ6B4xiWtE/lAWrPa27WMPjqgjWr+d97FTjO5Koh3B8YH9+9WoWz2DhKoZrdwwJnrtZJjwO7JH295Xyn5W5PQHnFPj0/s6JnYAfBh4g907T2fP0dK1bLB5BsEhBD+Zp+TmUwGkAFdi9Y5GSx5JKUPHw4HCWV5AjawF8nZxl6qGJ3hv13N4mnD/IoZ3zmY5r2tNY4NyXGxtKe33PnNxiWDmCEhcYJ5At7ZuNX/9dfUzStU2V00lDsuwlZ4OEV7nLbnrLFFbJWs6AvHbfXx4GiVyPADjWv3eDfm1Ge1ejTC5NFon89PiwrSnXH5fk4qJ6SJx5Jl4L8VAC69frnIROyzJIAzwiTQgf6oSyROLwwEFu8eKqkgam2nucl/IhLX0pPgZX7XtWWpTuhLaeznmlkoMw==;AAG8Dx5jZQPSy2efMigs4g=="
+secured: "FxDztaEwtrVAYneDvEp8HaKv/L7DCfT9fyw2DjV0Zo0breUmWso9BYLdFYtYT7rbZc7sa4P5Lcqf5KfrqQmMdWNzOqDLjFNjqTbEUu0wAQsLgpwjhOjcGNauFs69bRyIyEAWzVnIWe02Yc0BQL8oDprfMLYmG0EctKt4W1wkNiKt21JJDl2RPw9UwgpCBim2Fe49NZNgpYWht23jojK1OSh8x/tUrQE8MOHrh9clfdBEZaPDz3cC5ZmHBnvXuuW9EtXyp26iW3VCq+DHsiviMd+kzHH+u8Vhm78bJ2y377ybCvP0qh85bnavJpTWAwSAgWwdNgSdI93j7LkmQqu0HY5Hd8MRmjSTGxwfv8mTiDU=;HuVSkTkoM4gHcC8N1U86bg=="
 ---
 

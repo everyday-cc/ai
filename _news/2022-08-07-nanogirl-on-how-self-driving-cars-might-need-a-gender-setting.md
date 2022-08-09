@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
+    excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
+    publishedDateTime: 2022-08-05T14:51:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Where’s my self-driving car?"
     excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"
     publishedDateTime: 2022-08-08T09:00:00Z

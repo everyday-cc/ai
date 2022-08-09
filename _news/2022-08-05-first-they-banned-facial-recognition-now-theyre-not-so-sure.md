@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "New Orleans City Council Regulates Facial Recognition"
+    excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
+    publishedDateTime: 2022-08-08T23:40:00Z
+    webUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition"
+    ampWebUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "Facial recognition software spreads across India but regulation is slow"
     excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
     publishedDateTime: 2022-08-06T13:40:00Z

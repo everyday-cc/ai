@@ -138,15 +138,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Toyota-backed robotaxi unicorn Pony.ai sues ex-employees over trade secrets"
-    excerpt: "Pony.ai, a Chinese autonomous vehicle company valued at $8.5 billion as of late, has sued two former employees over alleged trade secret infringement. The lawsuit is arriving months after Frank (Zhenhao) Pan and Youhan Sun,"
-    publishedDateTime: 2022-08-04T06:36:00Z
-    webUrl: "https://techcrunch.com/2022/08/03/pony-ai-sues-qingtian-trucking/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Baidu wins permits to operate fully driverless robotaxis in China"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
     publishedDateTime: 2022-08-08T10:41:00Z
