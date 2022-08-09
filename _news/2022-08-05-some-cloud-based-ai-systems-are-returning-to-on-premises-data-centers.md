@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-system
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
         width: 700
         height: 406
-        isCached: true
-  - title: "4 health systems moving to the cloud"
-    excerpt: "The following hospitals and health systems have moved their digital infrastructures to the cloud: Tufts Medicine selected Amazon Web Services as its preferred cloud provider. The health system moved its entire digital ecosystem,"
-    publishedDateTime: 2022-08-04T21:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/4-health-systems-moving-to-the-cloud.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
-        width: 2640
-        height: 1080
         isCached: true
 
 secured: "CbAECEEMvVFjHt3S2rksF4vtQkK4EnisRUBoJAvr1U+X5v1b3bD8stNM78XbnIc8LWjNvwVWisEUMLuUUcRBxkomS211LoZJNMdIMXmvlysFW8v5paldkH8nALfCrJPaZxgjRtnTH8OkfNiM61uVtspZdQiFNkptYUTzK0v9xpCL7JHtYblwdwm9WX/sOB6fHcP/bBB3LrKeAG5BV29ptPtaVbMSlunk7n7qdGmsNzny8HFAht8aYb8a5JMqViHxAle3FU8od3PCl0D6BKIz3IVIcrrAiL+0PB8AJfYxua90Bpa0XYedlN0y84bIXg2KAXbOQbQfW+QwPaSjop98zvyRetGA30YnRJwCqpG+831hEpi0oGDC882PNsOe7smE0jmvgWgl7JUeZRdr8evTivPF1QffZhd7ctep9puHXRCys5pVm8507/2GPWs6CIJkZYODbNpTogFc5cG+i3qMq5eO827yNPI4Xf4jXCKmMIkpoViVrXvOrHEH2tBH/nD9TYaXY2V6Ru1RRb2qzB6PMQ==;WsiVWQRMx2Kh/Dgmm/D+0g=="

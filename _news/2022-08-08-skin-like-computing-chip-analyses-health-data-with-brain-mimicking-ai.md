@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI"
+    excerpt: "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details."
+    publishedDateTime: 2022-08-09T15:27:00Z
+    webUrl: "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 74
+    images:
+      - url: "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
     excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."
     publishedDateTime: 2022-08-09T05:08:00Z

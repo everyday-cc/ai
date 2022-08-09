@@ -51,20 +51,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
-    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
-    publishedDateTime: 2022-08-04T22:28:00Z
-    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+  - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
+    excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
+    publishedDateTime: 2022-08-09T13:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/game-engine-unity-partners-with-microsoft-azure-for-cloud-based-development/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 23
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
-        width: 835
-        height: 396
-        isCached: true
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
 
 secured: "+Jqh07TkQWVqf0YT20Dui9eVOJuCAqxwsD+D6jc82YC9sn6J2L+gQPmUY6Fn6H9FVKUeI+Y3IG9cGH2++iBzLdoMkY6bb9gUdE7z5j8sOeDGVESk3/RiQxAvPj7ijZKdsm+aVB6KI/DsiHlFaZvGsfl1+NEq92hbIM1cCNOABsuJcAKAbKLAv21JzETgRXWjLyoxx91EtwzodZf6DQDXVWgubvWteizOWUkirrMysddj0ME2orPv+k5yXwuKrHw/I02XMBLJo6KGfj//z5KoDoePMksKOfGfY2JxgB0bwQK7PN0cKJiF3CzYugWW4n1VQ1rGZJMahWp0+RiNSATt6j/z+15U5376vkAQbFZwAe0=;istWFqqlhWq7mbcp8+bGhw=="
 ---

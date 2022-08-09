@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI"
+    excerpt: "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details."
+    publishedDateTime: 2022-08-09T15:27:00Z
+    webUrl: "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 74
+    images:
+      - url: "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
     excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
     publishedDateTime: 2022-08-05T08:27:00Z

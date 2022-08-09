@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/09/can-ai-allow-more-direct-and-democratic-decisions-in-the-boardroom/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/09/can-ai-allow-more-direct-and-democratic-decisions-in-the-boardroom/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

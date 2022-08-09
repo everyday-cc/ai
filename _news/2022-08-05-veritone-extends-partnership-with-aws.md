@@ -62,6 +62,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 10
+  - title: "Veritone and U.S. Department of Justice Expand Relationship with Antitrust Division Contract"
+    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today announced, through its partnership with AITHERAS, a new contract that will enable the Department of Justice (DOJ) Antitrust Division's (ATR) eDiscovery and litigation groups to use Veritone's aiWARE platform transcription,"
+    publishedDateTime: 2022-08-09T13:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/09/9652553.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mPK0T/Qe9ZpvYxpsHS44qHrHX6TniGcw5wx1MriUSL2OFLiBdj+ADuQ5nBeiQhDl61qDsEoKgjHekNKZDMy2AUZgyISQZQ77P+BeMGvZBLBjTEBp+claKnJirPshEArrmWI+FJ+bU5EEiAtk6ZmO09gp3S9u2qI43cfginRTxM7/g4ZAaPu7TFK14Q3xQu5J7Fm+ria03FJFre+xOkRseQYZzodyn4ZjMZ/2KLr0cN3x6dyVsO3ySpyXCc/qCHBjbVOGUk0xcomUkdg272o/M0ISf2rlKqjNOavkmPpP5ncpnLECxsxOnFHAty59MwhxoUudn3mY+hURj+m/lT3qZy2Rh1/FrNyQxhBTrneXhnE=;dj0C4PtrXP9+7aWolHyUYA=="
 ---

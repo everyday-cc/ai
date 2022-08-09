@@ -159,6 +159,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Baidu bags China's first fully driverless robotaxi licences in two cities"
+    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+    publishedDateTime: 2022-08-09T13:20:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/baidu-bags-chinas-first-fully-driverless-robotaxi-licences-in-two-cities-303165"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 33
 
 secured: "qeKM9FuaUgKbJy5u+DFkPo2D+1cOp6co83rKl9fiMnsBeDXTegyA1hfjuXl/hYDVBTtWCsdM7V49sdz1hE6nRPoD5jR3iWnXdvV6APIZzHaKqS8fW9KLn0e9pUfqIe7QtmFCVfAX8BwnMl3tcpgog8anDmFHsO55+iMLIQN+SnZseHiflRB/tILpUM5IZsuwnwFuIozK1XbCBQJs5hq76ocU3NInvr4xsHK20nQ7Z8gNPB1htzABelkyuV23c4BQ2bI4w+WkQWBE/QDuTbPURgSylcAa1Uy6bPthLrxx2mNWoD78mvuKZ2XP5f/x/5tuNLT39QZRrxpJuf9cuJdgxXjL6Bu5Hs2XqgV0YmvRrgj7TuOqm9jq4K37YLGKZHUgAJ/M7cuCpXXgx3bQ1+EtemJME8Aafy8Bun/7Up8TWtxSLof1cyNmxwYcqeaiCjNrVNftXvleP9VxhJMbjJj3qauch9dFqh4D7D1+Y6eTwWwwsrx23OKjYEcscPTwAwS4cv3Eiy2T9CiygPdlPLsaKA==;YK0Vl4TnpSw/jA7teNYybg=="
 ---

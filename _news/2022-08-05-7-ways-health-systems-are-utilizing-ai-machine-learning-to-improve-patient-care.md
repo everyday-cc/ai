@@ -64,20 +64,6 @@ related:
         width: 700
         height: 406
         isCached: true
-  - title: "4 health systems moving to the cloud"
-    excerpt: "The following hospitals and health systems have moved their digital infrastructures to the cloud: Tufts Medicine selected Amazon Web Services as its preferred cloud provider. The health system moved its entire digital ecosystem,"
-    publishedDateTime: 2022-08-04T21:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/4-health-systems-moving-to-the-cloud.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 24
-    images:
-      - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
-        width: 2640
-        height: 1080
-        isCached: true
 
 secured: "0p/aOLVYmTUwswA7yRAiTKT38zdyPu7LrQFvL74qepRJKdXxRWeRGr82Ig+XxLw0ZjSs/PvFkBma10OhWgHMGHw4YtaNH5d//aKcXk6FFn7vX/lDq3RH5nv2uySR4IHfC6fDy79czJZna7cQs9n5HhjfaWpPMRZ73+Aph0wglXvtkbmdr9ebC25ReBWunL58zRL/v7GtFjBN5x1fJwRvTHLIHVFt0BnSgS3pm+yj5b3Tn13fGWQpfGSRzMlSUh+ozxFIkpjQ/3fWg+WmtAieuy9xHg5GzYDE2E0eH+Ycb+AAcTHBLtxww0u9k04pS+axn/kwNb7/DPJn0FDOHZeP+DPTOKeN96+QbOIHeUJXi80=;/QpGwA1fb+xjfO/6Lb6TcA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T13:45:00Z
 originalUrl: "https://www.metroweekly.com/2022/08/viktor-orban-receives-standing-ovation-for-anti-gay-speech-at-cpac/"
 webUrl: "https://www.metroweekly.com/2022/08/viktor-orban-receives-standing-ovation-for-anti-gay-speech-at-cpac/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Metro Weekly

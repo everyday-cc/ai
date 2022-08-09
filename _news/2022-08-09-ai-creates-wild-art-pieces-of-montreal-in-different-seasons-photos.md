@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T13:43:00Z
 originalUrl: "https://dailyhive.com/montreal/ai-art-montreal-midjourney"
 webUrl: "https://dailyhive.com/montreal/ai-art-montreal-midjourney"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Hive

@@ -24,6 +24,26 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Morocco to deploy face biometrics throughout updated airport"
+    excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."
+    publishedDateTime: 2022-08-05T19:23:00Z
+    webUrl: "https://www.biometricupdate.com/202208/morocco-to-deploy-face-biometrics-throughout-updated-airport"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+  - title: "Morocco tenders for face biometrics to deploy throughout updated airport"
+    excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."
+    publishedDateTime: 2022-08-05T19:38:00Z
+    webUrl: "https://www.biometricupdate.com/202208/morocco-tenders-for-face-biometrics-to-deploy-throughout-updated-airport"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+
 secured: "at5Kka8v6GHC65XjGHAtBUUhkHAq8qo8uNkRfabqz8qQ2jlhGlBjV7+5or3UfFXKAo3XjXpFGuh+lWYaCbjbP/itDMjjSzZ1GXjRAivNwwKhG1xPBgfX78T4xnURxoy0PIr0d9KjG4M78p3+NbvfLZqqSvWudZLXTiikgGK0huXBVd7ncavoJTFiD1QqQHkxyk8NNyVBZbUVLuLiCyc8VuLZNFJCwhwcdWaQCAJLhtcLrZach+Xo2N05V07Pgw26KJr6YeeWBxUT/yAm4dQK9eTzhVNCVr7YZo4TJYLvxYqwZmcIR9zp9yWyAkPERH56yLD6qgn/TxwggQmrc1dpWan+4PYgjGmff/T7algtSi7k2Nb79wbooTu/OhxDX4laVieD1l9nH9V7u/XIDlNIKSF7y+kuj8lA+EJBZqwGSO983fNyFworlUMrVjjba9AI1xkmlER5EtBOhCcp/QrO+0hGScc70WQtTnuosgv3xqXOWLK38d4sep1sASiUstdJl0HrADsDbpqKI2Pl5Vep9w==;rKsGfIgKVvTZe1QcJXMeLw=="
 ---
 

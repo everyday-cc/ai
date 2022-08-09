@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
+    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
+    publishedDateTime: 2022-08-09T14:22:00Z
+    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "New Orleans City Council Regulates Facial Recognition"
     excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
     publishedDateTime: 2022-08-08T23:40:00Z
@@ -99,6 +113,15 @@ related:
       name: Modernghana.com
       domain: modernghana.com
     quality: 21
+  - title: "Face-recognition software that lifts the veil"
+    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
+    publishedDateTime: 2022-08-09T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "ROuyWwjuNu8m/5jWyyYjYsgf9f2vT8EmGGacxkBTdTqyZClPN27p6NuheaqVtVlmqS9C6Qjq58XS0T777Jib0d5AxH9Z2khuizEzq4DE7eCdMmtFM/oGPzm5POF1Ex0KhULLMc0IQ3Vjr/qnU6cwrDI8bVi3h4h7pG8KTK2a3htH/f9gv/hmNmBe5B8HjYNYf1eQmpnO4mR9E0BQaViBp87dtmP++X/CScYDWRTFJ3b3K2hoa5UlIvR0obYMqzVBtaqGntXYr/AuXD4vrbCFXscbvkzpwX0AwzfTGsw0k1v9SSz3yKBciDI7M63SvfUE0H2g/8ykwuHQzqMbh/wz2jTKc2zMZkmrB5qn96gX1NIYNXZzyN/jwUcC1GK+Wfj1AgKDnvCTV8ziaDXkuNj1z3goq1qW7f7Z2JLnvTp28ZMjzalq0Ht8pXtLwKFuyzcAekG1LhqaJENWfCB9MJf1hbPytLarJYMY9c61aEeQgleRo8tCMSoK8RvYkqTKhkrLzscSfOk0L0pr5H6KdprxQw==;qzMGEJuFjZHy2Kav/mP6BA=="
 ---

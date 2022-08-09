@@ -46,20 +46,15 @@ related:
         width: 959
         height: 538
         isCached: true
-  - title: "Microsoft becomes Cicada Innovation’s first ‘Constellation Partner’ at the National Space Industry Hub"
-    excerpt: "Microsoft has been announced as the first 'Constellation Partner' at the National Space Industry Hub (NSIH) delivered by Cicada Innovations"
-    publishedDateTime: 2022-08-04T22:28:00Z
-    webUrl: "https://spaceref.com/space-commerce/microsoft-becomes-cicada-innovations-first-constellation-partner-at-the-national-space-industry-hub/"
+  - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
+    excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
+    publishedDateTime: 2022-08-09T13:34:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/game-engine-unity-partners-with-microsoft-azure-for-cloud-based-development/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 23
-    images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/04182823/Microsoft.jpg"
-        width: 835
-        height: 396
-        isCached: true
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
   - title: "Microsoft developing software to identify cardiovascular risk"
     excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
     publishedDateTime: 2022-08-05T13:20:00Z

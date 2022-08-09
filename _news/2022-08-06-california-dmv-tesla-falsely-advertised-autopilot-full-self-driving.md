@@ -262,6 +262,15 @@ related:
       name: KSL
       domain: ksl.com
     quality: 29
+  - title: "California's DMV files complaint against Tesla for misleading self-driving advertisements"
+    excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
+    publishedDateTime: 2022-08-09T00:44:00Z
+    webUrl: "https://www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 25
   - title: "Tesla accused of falsely advertising self-driving features"
     excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-06T02:50:00Z

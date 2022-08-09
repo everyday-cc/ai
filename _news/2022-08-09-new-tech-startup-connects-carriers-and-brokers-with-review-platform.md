@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T13:02:00Z
 originalUrl: "https://www.ccjdigital.com/technology/article/15295336/former-g2-employees-launch-tech-startup-carriersource"
 webUrl: "https://www.ccjdigital.com/technology/article/15295336/former-g2-employees-launch-tech-startup-carriersource"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: CCJ

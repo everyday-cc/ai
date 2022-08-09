@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reve
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
+    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
+    publishedDateTime: 2022-08-09T14:22:00Z
+    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "New Orleans City Council Regulates Facial Recognition"
     excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
     publishedDateTime: 2022-08-08T23:40:00Z
@@ -103,6 +117,15 @@ related:
       name: Modernghana.com
       domain: modernghana.com
     quality: 21
+  - title: "Face-recognition software that lifts the veil"
+    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
+    publishedDateTime: 2022-08-09T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "s+TDRAfI9o0fHp56oBfU1gxqRrKEdNqlzBIRyWMLTapIN/SnNY00p21PfsoNWGqgR8KNbE4tG7GlOG8OBg7a++OX/8CKF5s/LTxogdtxWcEfArH+J7xUmbOFwRBXkyMd61pfIGom3AWDnqNvO0v4fbtOEfhZqh7d/pTRkdCuH2E7zWHjSqrBr9+SCWdQUue0qjNgVkQ7LVT301ifq5ZqgEJne2XvO3q68T+jRPxHDqP7HOssRV2I6iK3G6K3lFN1SEzfVQdy6Vbb7q+CUInQKaaTxcXvPdNeQkfF0xOBorCL74O8bFLxzyuGJXPX1Sv95FoseuJwSNvKk/s4GFQxaSki0m+wsrzjKqlgcYbgxmc=;hHtEy+xRmicxQTqyY3kGIA=="
 ---

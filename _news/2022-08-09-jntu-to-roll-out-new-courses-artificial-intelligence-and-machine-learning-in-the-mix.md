@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T13:40:00Z
 originalUrl: "https://www.edexlive.com/news/2022/aug/09/jntu-to-roll-out-new-courses-artificial-intelligence-and-machine-learning-in-the-mix-30422.html"
 webUrl: "https://www.edexlive.com/news/2022/aug/09/jntu-to-roll-out-new-courses-artificial-intelligence-and-machine-learning-in-the-mix-30422.html"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: edexlive

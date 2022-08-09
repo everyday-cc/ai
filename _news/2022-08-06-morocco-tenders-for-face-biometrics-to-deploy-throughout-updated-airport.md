@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Ethical AI and biometrics move forward. More industry, academia effort needed"
-    excerpt: "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction."
-    publishedDateTime: 2022-08-04T21:25:00Z
-    webUrl: "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed"
+  - title: "Fintechs gain global traction with facial biometric payments"
+    excerpt: "In markets such as India, China, the United Arab Emirates and Brazil, more consumers and merchants are testing or deploying facial recognition as a way to authenticate transactions."
+    publishedDateTime: 2022-08-08T14:51:00Z
+    webUrl: "https://www.americanbanker.com/payments/news/fintechs-gain-global-traction-with-facial-biometric-payments"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 51
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg"
-        width: 2048
-        height: 1280
-        isCached: true
-  - title: "Mindtronic AI, Mahindra & Mahindra, Hyundai each explore vehicle biometrics"
-    excerpt: "Three manufacturing companies in automotive sector have stepped up efforts in developing and integrating biometric and AI technology in their products."
-    publishedDateTime: 2022-08-05T21:47:00Z
-    webUrl: "https://www.biometricupdate.com/202208/mindtronic-ai-mahindra-mahindra-hyundai-each-explore-vehicle-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/07123606/automotive-biometrics-large-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://arizent.brightspotcdn.com/dims4/default/363dc32/2147483647/strip/true/crop/1038x545+0+20/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3a%2Fee%2F956a06cc4ff29ecc6a174d8a19d2%2Fcropped-paybyface.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Morocco to deploy face biometrics throughout updated airport"
     excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."

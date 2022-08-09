@@ -58,6 +58,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The UK will use smartwatches and facial recognition to monitor migrants convicted of crimes"
+    excerpt: "The Guardian reports that plans from the UK's Home Office and the Ministry of Justice involve smartwatches installed with facial recognition software scanning the faces of"
+    publishedDateTime: 2022-08-08T11:55:00Z
+    webUrl: "https://www.techspot.com/news/95552-uk-use-smartwatches-facial-recognition-monitor-migrants-convicted.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 39
 
 secured: "DfbrvOBecgBzwpEy7qw+t0/R+XLGz/vq3A+QuIu8mPTxX0tPvd3hGOx4eKrvJtV2g8D0DW4WpYaKSrMqvYMYb+xokkFbQ/035QXn3jhJqcAWthjD1mk5wgigZ36NCAch5AFfReO15/KUWB+BOCvNgD7CEDyf7rBTm7dH+lf1TE+RPwDqgQhbyFmVXxR2GSUpFq1zh3DOF6OpoMPx8mNPB318g/45gn9rwg8Xs6HFLrS8oS94U7xrIt7k++UpaZJKOLKdmNhAiT4M4xxREj/9zBBCoZXxCOumZvDWlkF/0n+4eAtoSG0oN+H+9s0t+ksfoDyO3UIFybQOQQUQbdr8b0+Etr+y7QzTvimgnpjg/4HT3NLAxJRLuAmKZ1GCitZo7uzumxTIrvxMsYK8M2BsyBhwsTb62SI46Bm29CWg/uGo98Cvw9tv7wdCXXkM/cCvzZ8WDpB8ezsfRVXvgT5dUGhDO8P8VB93AIJYlbdb/hehOWLAbUr+AhxzAgNFkPhXsjwRAgY9+ZPYrfsSTWl7Eg==;vzsWbHYKAWW+xu7gp+SuqQ=="
 ---

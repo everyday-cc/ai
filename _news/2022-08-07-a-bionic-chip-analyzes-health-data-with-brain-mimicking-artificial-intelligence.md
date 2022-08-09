@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyze
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence"
 type: article
 quality: 85
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-93447456,imgsize-13062,width-1200,height-628,overlay-etcio/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI"
+    excerpt: "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details."
+    publishedDateTime: 2022-08-09T15:27:00Z
+    webUrl: "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    type: article
+    provider:
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 74
+    images:
+      - url: "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
     excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."

@@ -228,6 +228,15 @@ related:
         width: 1008
         height: 529
         isCached: true
+  - title: "Meta’s new AI chatbot thinks Trump is still US president"
+    excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
+    publishedDateTime: 2022-08-09T12:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/blenderbot-3-meta-ai-chatbot-facebook-donald-trump-fake-news-elections"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
 
 secured: "34Gg0TGtWDZHgLubCjRPF1lZv7PKu3zRTwhlW0P0X61v6BymCFUglgbfMNY3QgB2LwcIptSOMyUFSmos6b5D4tQZ/VCZRgiht6wjXmCO2twddb6cK+uAGCZAwtkGKWgXWDTyyWfF1u/+S9J5j6whO01xQoHuY85S+KEHiFGvJzX/ZsErO1SrYed6OYYEKK0Cj9sZwPBJpN8pyWjUHhW7mfYMzH9OKszIfUMqCqOHESrjlnD8Ssrs/9iXI9KpaPO8VQcfssqbWTbDfv55hC6GM9l6UchVyFpj4URx0T5LbRUdzTvICo0mAszhO5DTsey7CKsoT62n1ohk0BEOY0HQDeD5cxaA/+wOiOGy1z+xC/M+KFncohI1q2BzKaLTm6DOUMhrPY051wsyLC+yI5jv5uugYsDZ/oq5yur2fES71SdODjGSAVyiJVDcN0pH74wJVX4PwLhtyDoLXEfzDxsDIMzOBw5PjjmX+XrlRxxnxwr1XZ6TZ13jqF1qU/cB3KC3IT/+fKx0+ccUIc8AKQYrhA==;mq5RGUFyl1oTmSqr00Zo7A=="
 ---

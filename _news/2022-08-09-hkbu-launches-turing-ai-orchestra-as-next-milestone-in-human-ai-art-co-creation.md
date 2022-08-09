@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T10:35:00Z
 originalUrl: "https://www.asiaone.com/business/hkbu-launches-turing-ai-orchestra-next-milestone-human-ai-art-co-creation"
 webUrl: "https://www.asiaone.com/business/hkbu-launches-turing-ai-orchestra-next-milestone-human-ai-art-co-creation"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: Asia One
@@ -13,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Putting the AI in Smart Cities"
+    excerpt: "Three less-traveled paths where security integrators might break into smart city deployments (Security Business Cover Story, Aug. 2022)"
+    publishedDateTime: 2022-08-08T15:08:00Z
+    webUrl: "https://www.securityinfowatch.com/integrators/article/21275074/putting-the-ai-in-smart-cities"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/08/head_2.62e7e56be7c4c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Gu6JlGY7RJZ3gEWpXj5GUpu/0qd5X2SCJmPO0mJs32TDgpQ7IliUeKMszNSTq1dGzwSSAOZOi28+ahcs4Je5VHbFIS0z6SwUDZXfi/n1xPfkl1Z4HYKHuLoEKo8OKaEdMZLPHuS54zj4RYYjwwjrczw0tc/c6hXQCrTdfmZ2YRFB5rFN6omwA8lSx6JSJN9Zc3a7etjBaustPigiJir8aQHxHbw+rklOe4vhx6unLwM1xBDLNZhTE+qRGj9RPtTUsNv64DMzsyFGiBKjxE6ZXwm4X0LnS6oTk19ldtyU06XFU0VQnTQCkWQm/VqsSwrC0Gly0+fAGdxOF9hwbYv4ejuEmpdEC1z/lIg/xwn2Q9Cv0JfW+i7GgmnhfKvZ7cc+CFBHyVrJuK6ORm89yNa07mEQlBJBEOwSzICYOS9bJfUQLelDFWinRv5Xm2/LccPb+Z1Q70Rgt0roDxntJH2wwf9CiExaj9Q9pHAvkVSgWbH84jQDlP+assh2evvW7yj1HjFgUlhHPUkQpYhFMUcY8Q==;OS8BEI1zG9ajxCYIPM4pJA=="
 ---

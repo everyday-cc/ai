@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T11:43:00Z
 originalUrl: "https://www.theweek.in/news/biz-tech/2022/08/09/blockchain-vc-the-bitcoin-man-goes-big-into-artificial-intelligence-with-solidus-ai-tech.html"
 webUrl: "https://www.theweek.in/news/biz-tech/2022/08/09/blockchain-vc-the-bitcoin-man-goes-big-into-artificial-intelligence-with-solidus-ai-tech.html"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: The Week

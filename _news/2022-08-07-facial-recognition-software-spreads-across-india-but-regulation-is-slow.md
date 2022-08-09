@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
+    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
+    publishedDateTime: 2022-08-09T14:22:00Z
+    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "New Orleans City Council Regulates Facial Recognition"
     excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
     publishedDateTime: 2022-08-08T23:40:00Z
@@ -99,6 +113,15 @@ related:
       name: RFI
       domain: www.rfi.fr
     quality: 21
+  - title: "Face-recognition software that lifts the veil"
+    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
+    publishedDateTime: 2022-08-09T13:30:00Z
+    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
 
 secured: "+WPVDHhKn6eFhBuj36n2jsDxaY71Dtj3D8EWmL/c/R0iwseWV3S0FILUVoIUQGBwb3mtf2KDxEQFS8UpytpQEwDwHi5Uu/rhKzgaikq9gyAc4WGvnPoAv99j0ac9EOAU+kNdB8NCN3Bzd0gIoVGF8PBP4jozjN47eoqINaVsYIVGvJ6JGPRzIMBUDmnzWFhKbl7iXHgn+bST7TfY7UKqgP6Au+0WLmOTMxeDILATEvFe3FYK3x+rGyifmXlgGWXdEK8a7XEa69f2Qs2YawAr+ay2T7so6Sc35r3tgWcAxtcWuX+rN8wBYScBM1lvGFgHzmusInKEzQXgdJfDzdkn+Ua9oeCzpcTdHWZ1roKogke+jup2TGU2CFgNrAWWkTRQ8Vif0/TrV97IfHsikHN6s6InTE6wvvrZD/bDDLkbhxRaQgBdNJHeHHkVqecwaUjGu8nBOgu4POz1/VFQk59NJdYzFlzWo0uZNRpVmmJctEzU7uJ/VaCMGnTPmHGNplSGiVQA9np762FaWhbI+G0MlQ==;IAgBQE1Iz0d19zg6UQIYfg=="
 ---

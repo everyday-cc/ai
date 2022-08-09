@@ -65,6 +65,38 @@ related:
         width: 708
         height: 425
         isCached: true
+  - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
+    excerpt: "BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback"
+    publishedDateTime: 2022-08-09T14:16:00Z
+    webUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/"
+    ampWebUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 53
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Too Creepy And Manipulative’: Meta AI Chatbot on Mark Zuckerberg. What It Said About Donald Trump"
+    excerpt: "According to Meta, BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback while avoiding learning from unhelpful or dangerous responses."
+    publishedDateTime: 2022-08-09T13:18:00Z
+    webUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/"
+    ampWebUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 45
+    images:
+      - url: "https://static.india.com/wp-content/uploads/2022/08/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
+        width: 304
+        height: 288
+        isCached: true
   - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
     excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
     publishedDateTime: 2022-08-07T14:39:00Z
@@ -109,20 +141,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
-    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"
-    publishedDateTime: 2022-08-09T10:45:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-757054"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 31
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/08/09/1307143-meta.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
     excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
     publishedDateTime: 2022-08-05T16:08:00Z
@@ -151,6 +169,15 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "CEO Mark Zuckerberg is 'creepy and manipulative', says Meta's new AI Chatbot"
+    excerpt: "The chatbot iteration may be new but there is nothing special that it delivers. It gleans information from the internet and adds nothing more."
+    publishedDateTime: 2022-08-09T12:26:00Z
+    webUrl: "https://interestingengineering.com/culture/ceo-mark-zuckerberg-is-creepy-and-manipulative-says-metas-new-ai-chatbot"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 14
 
 secured: "oDWy22jItQhxq+jdigCTnw/3I9iX8EbblGJ+6IV90SwiNe4oa+rXGrQcbbli7muFFgvz/J5k3dAXmH8M0FhAMb+gJwffZznjk2Xkxv2kI1Tmuv9BoHMWGOcM/UIwzLiPSdG/eHT4t0JRPSu0v6oL5GJGfIrRt3SxJk1vYEx73B9+XkkFiwydg4dIxaxn6UoxfiG6tF8XfrCmIQuJ0QsJE+h5LuvUZWO3acgzLN5/rm+GLqZ/lqn8p11CmTYL+XmQaVmf34v2CwVSijK3SLm3/3aKHMMfnmRhM79phIfdWjIY4xnReIGNZ59HwFnm/4rlYhjmZAumpcg+MieVVztBJMydrgPqhggUV5gNKVSpewvG42FTLAv6e1TH7ofn1I0puLWfUQLCVYLUJaYn2Nv6jjKrCj/yPdUsBiEQ6m546jnfyQoqSCx/DIMCvWnOp2wdcis5InpGPdeo/Z0WS4z6+qSP/2nbjJdaAeAOVRAMjL4hLPbh0rFjhCQgqipT2ALHu3M/T0H5Xkh+VkjGDItWEA==;scSCYFvkjNX7YUXqmEE8Nw=="
 ---

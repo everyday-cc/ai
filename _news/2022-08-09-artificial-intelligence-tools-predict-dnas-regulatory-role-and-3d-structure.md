@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-08T19:21:00Z
 originalUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
 webUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Phys.org

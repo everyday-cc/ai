@@ -266,6 +266,15 @@ related:
       name: KSL
       domain: ksl.com
     quality: 29
+  - title: "California's DMV files complaint against Tesla for misleading self-driving advertisements"
+    excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
+    publishedDateTime: 2022-08-09T00:44:00Z
+    webUrl: "https://www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 25
 
 secured: "PJ4tQL2jT7dzBtcYpHL9rHTpvEYnNNwBAKK3jG0uamikXg4K5JZCACLqk6hGuS+3SEsxyilypDWAjSAIyugCtCfkgRVpOCRH74IMuuuAofF3GwMkqZSPWWlVdCIaZ0PoFYEvotR+V6FmlX51t3BYkv9xVP/Mw4UVM1CXimH09yJC/dH0VeUoidA0WP8z7XRtweC1f/PyEjfaMyu+JAwNHQD7jRhK1J/ZyLwpFpfVLOEJRUfObS/+23ReO7cnjd5V8eO2NSxa1/CZvynbgvis8TcVuG2peSJs5ScTXtxLsJDsBowxLRs+Vds4mieXcvW9ZlLv0nGNKpjn3bl2y9YoXAUVP7U+KiXtut1f7eM3gGWId/ZjgRQ+bnpz6CQhltHV5xj72p6Cd5I+EXEHwJwHZaciHOaP8HJWFD+3MMvXnFxOws5OrkhcnxYGOiwliTI99N1z2Ts0/7fanztHkKpLHmhmCmbpvMaE/nAY75CPEI/ufYT+psZ2ZcU8GLHsuI0X9y62NuN7i/BaulNXeZucsQ==;j9cjAD0dopvgh1aPmnF66A=="
 ---

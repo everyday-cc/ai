@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsforu.com/news/whats-new/artificial-intellig
 webUrl: "https://www.electronicsforu.com/news/whats-new/artificial-intelligence-enables-microrobots-to-swim-and-navigate"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 465
     height: 350
     isCached: true
-
-related:
-  - title: "Smart microrobots learn how to swim and navigate with artificial intelligence"
-    excerpt: "Researchers have been able to successfully teach microrobots how to swim via deep reinforcement learning, marking a substantial leap in the progression of microswimming capability."
-    publishedDateTime: 2022-08-04T21:50:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220804130621.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
 
 secured: "5plK03aMm+YedBQ6dne0urdIk1zTiwXaTAn1s7NHmpYFdAfQcf1rcYuRbceUOn05FbD4WDYr1s7k0x7t3a3Gny0y8Rq5uJoAfbIixTE+qK7kuVNRc4kS50xIllxvhbuijrLl+9yvIlqzsVoJM6vpQ2YOGGlBuJeh2PhmNgw5QJBx6lOrkJZHqgYO8+ExQB5tLYvoJ/i5I+lOMlgL6CsKNOooRf5HSiaB8i1ASMZCrlbfOs8dnXqz18GexqtlAqpRWJRTqos0zrjFshtZ14+4g4umQYMEF1BXBpQDSQublgbkdI7Xo4bZ5gFkVbJlbiMm/yZ9rnVEYY/aSc7qek+1IJmZ8KpVuuxGWTjTgSt17TQ=;Wv+mQU5dNZeTSItABGq0Cg=="
 ---
