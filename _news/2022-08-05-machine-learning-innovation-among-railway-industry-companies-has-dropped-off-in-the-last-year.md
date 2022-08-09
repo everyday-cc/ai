@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning innovation among power industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in machine learning in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of related patent applications in the industry stood at 203 in the three months ending June – down from 228 over the same period in 2021."
-    publishedDateTime: 2022-08-04T09:00:00Z
-    webUrl: "https://www.power-technology.com/dashboards/patents/machine-learning-innovation-among-power-industry-companies-has-dropped-off-in-the-last-year-2/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 29
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/08/cMwlT-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Machine learning innovation among military industry companies has dropped off in the last year"
     excerpt: "Research and innovation in machine learning in the military equipment and technologies sector has declined in the last year."
     publishedDateTime: 2022-08-05T05:00:00Z

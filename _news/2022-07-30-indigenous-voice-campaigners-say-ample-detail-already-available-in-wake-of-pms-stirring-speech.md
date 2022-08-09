@@ -1,14 +1,13 @@
 ---
 category: news
 title: "Indigenous voice campaigners say ample detail already available in wake of PM’s stirring speech"
-excerpt: "Uluru Statement from the Heart advocates praise Anthony Albanese’s Garma festival speech but Coalition wants more details"
-publishedDateTime: 2022-07-30T10:39:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech?amp;amp;amp"
-webUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech?amp;amp;amp"
+excerpt: "Albanese reveals wording of referendum question on Indigenous voice – video Leeser ... the 2018 joint select committee on constitutional recognition with the Western Australian Labor senator ..."
+publishedDateTime: 2022-07-30T08:03:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech"
+webUrl: "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech"
+ampWebUrl: "https://amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech"
 type: article
-quality: 7
-heat: 7
-published: false
 
 provider:
   name: The Guardian
@@ -22,6 +21,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "15qM3fwKILG6Tl09v5/AA//qR5MTfcL53PmIS/kNiDYR7Pjgw2nKj2NrQU6Kas9t7MUM11na7yv9J0jhXtQORL4GYtxsh04WIdjRYNgWvgGrhcEQIL9wt9d3N0FalrlPX6T+zl7eIgsJP3EQE7sYqA1aGHSVo+SBKOKjEGnlC4pksk674prY0wRhlqU8NJ06wUdJkviaaE0jIwtLeynkgJcMz7V2W28TkErTusGmYGQjxpYMYVgcwkkrgN+6wyUA1cCiAj42j/XjyYW/1Ix7IQQbYsYw/xDfiiY2c2+/vzx6bwrn+VjRJmAU3DKC7BZ0VwoQ7e8/OvoZgI5JxngWZuSYUnD6wkIfrWYDXFYA3i6EszcwI7VccNyz2HsYB4O9O5IakxrMrojN1NWjpk3yq8V6emG4q5d661Q0v52tFoN7oQvqcDKqyIN7nhqTZ/EzvIC/Ip49EbI0El9fQI7weGlSpsF4sPXLjOgZvCDAxSb/yryt9pjxRPq97pPvChAVkQ2FCTgBpwchb0oUOsmttg==;4bPhMiCaGcAGsT3Qoh1CLA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/f21b8344f39eaac44f8627ff2468da44eef23473/0_0_3877_2580/master/3877.jpg?width=620&quality=85&auto=format&fit=max&s=161191fdb468d9b343e97f9a356678d5"
+    width: 620
+    height: 413
+    isCached: true
+
+secured: "ZtkiqPawXB/hjOQVKEFZtepr3daShAZaRdhPAccM3ki7CiiRHK20YvJfjSrYshCoivZtvb7lZGP4Bw5ZarVJacgh4ty/By12ZwR9M3APOEwR1f2NfxMmvc3FVj0OqF2lvevayClVkOjncfS/L+Y2tbH9+RyGLwzak8uAxUbnKn7rpHPAGc5F8n/ZbmwlchNjLNyc++NplRi/tFCmpdnjjHHUG+8VXb1JMBwuuHlF+IEjRCughNvloepBJAdVwbILdPa6EbErlWLu+xZ0NayXL0uT2AsaxOih91FAqB8iLNrFKpUwXHzBTjBGpMjStzoNRtXSnOo7nmnvA+YCI516i2FfULCIPQ1kcDxi08P1hkw=;H4jHLExSvI1N2tpDHdW6xQ=="
 ---
 

@@ -75,6 +75,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "California DMV Goes After Tesla Over Self-Driving Claims"
+    excerpt: "The agency alleges the electric carmaker misled customers with advertising language on its website describing Autopilot and Full Self-Driving technologies as more capable than they actually are."
+    publishedDateTime: 2022-08-09T00:17:00Z
+    webUrl: "https://www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims"
+    ampWebUrl: "https://www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/f23d5d6/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc7%2Fb5%2F1c4c2cd944e48434a2e3442caa0f%2Fshutterstock-1901397307.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "DMV files complaint against Tesla for misleading self-driving advertisements"
+    excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
+    publishedDateTime: 2022-08-09T00:30:00Z
+    webUrl: "https://www.ktvu.com/news/dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements"
+    ampWebUrl: "https://www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 71
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/06/932/470/Tesla.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
     excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
     publishedDateTime: 2022-08-06T14:39:00Z
@@ -236,6 +268,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "FxDztaEwtrVAYneDvEp8HaKv/L7DCfT9fyw2DjV0Zo0breUmWso9BYLdFYtYT7rbZc7sa4P5Lcqf5KfrqQmMdWNzOqDLjFNjqTbEUu0wAQsLgpwjhOjcGNauFs69bRyIyEAWzVnIWe02Yc0BQL8oDprfMLYmG0EctKt4W1wkNiKt21JJDl2RPw9UwgpCBim2Fe49NZNgpYWht23jojK1OSh8x/tUrQE8MOHrh9clfdBEZaPDz3cC5ZmHBnvXuuW9EtXyp26iW3VCq+DHsiviMd+kzHH+u8Vhm78bJ2y377ybCvP0qh85bnavJpTWAwSAgWwdNgSdI93j7LkmQqu0HY5Hd8MRmjSTGxwfv8mTiDU=;HuVSkTkoM4gHcC8N1U86bg=="
+secured: "VHURT1wJVjuuVkZ5i5cOZiXjHTe/NM27wmoYTWfTQzEwk+VnA6bZx1Wu3mIK46zZ5uRXmXk7BRp2oByMoASY+GL/5fgmfUUX565qdJKBhg6MRhg2NLeA47ovyz4KttXWbkm+UZmRdS6l5fcS20LKiBQSjHrX6R5qoTSTE+mIk57wTWr8WIoBi9iWUgr3jey83YRDO2s9muk9MkPMJoREUbAX+eEDfA8bilXYJ0D9H5l9mnr+vCnSzTTXt2ea+jKVqe9betz9PMf/Tm4SagBGE/jBwEBHJcjQUKlXxafsgXSNHSWCRjTctOy4/J12ay7FKRqYRwMjEGkkRFRqy//nyQXn9lp+UQXxg4kVrR6btDUF2vxtR33G1cfnfsd9v8xvSESjK5XQ4AMTcEyjk7fLolrPf/aSopR9mu+XaygG0b9Rw8Z0COjO2FjKLWIozD6oxCoL9UYxTSx9yJlzT2VTloQkizw5kKg1Gw1peII+NoAhianBc6CwRNGdyIQV60+zXE4TICq04P9I9EeGMbZvOQ==;GljTk7T6nvIPcPAREWwC8g=="
 ---
 

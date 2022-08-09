@@ -47,6 +47,20 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Veritone Synthetic Voice Gets an Audition"
+    excerpt: "CEO Chad Steelberg said on an earnings call this year that in addition to the iHeart agreement, the AI company is inking deals ... phase” of using voice cloning to translate podcasts from English to multiple other languages. Conal Byrne The audio company ..."
+    publishedDateTime: 2022-08-05T11:01:00Z
+    webUrl: "https://www.radioworld.com/news-and-business/headlines/veritone-synthetic-voice-gets-an-audition"
+    type: article
+    provider:
+      name: Radio World
+      domain: radioworld.com
+    quality: 24
+    images:
+      - url: "https://www.radioworld.com/wp-content/uploads/2022/08/Veritone-AI.jpg"
+        width: 725
+        height: 549
+        isCached: true
 
 secured: "afP8OUZA4OPXo6Kfj9gXL3t3jYeTe4ZpT/ATLAd5XNDCHqihDR6/UBvSYIQRY4Ox+N5yOyqSQgmTIe846be1BlKOH2481LlcU9cF7E1Iyx1e3pQ/r+CVe1osLpu5eH/5GhU3bIBe4N9oC1o/tCjyF2QbKjWzrimgfPcfqmue932G7VbgMoZSUBIAq9BGj9huDTJwJrB1/LdCiHLwuoCoie++4mlK8ArXpS0FbEGS/NJktC2jUYlYC/ZJEk7TfKxBylAkdY5BX7S2w2OLRExDPYgwAoR++Gr4WxeSKcEdY9cUA0Z5iqO8sFIoD+wMNPFlikVba/M3bk+4dgNw4r2hYQkAB5Kw5WPh8vPUj9CuDic=;qOlidZ++XONSeYDKI8bgxA=="
 ---

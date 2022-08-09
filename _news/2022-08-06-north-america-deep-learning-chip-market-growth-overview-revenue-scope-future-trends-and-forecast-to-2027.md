@@ -25,22 +25,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "North America is seeing a hiring boom in pharmaceutical industry machine learning roles"
-    excerpt: "North America extended its dominance for machine learning hiring among pharmaceutical industry companies in the three months ending May. The number of roles in North America made up 63.9% of total machine learning jobs – up from 62."
-    publishedDateTime: 2022-08-04T08:00:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/analysis/north-america-is-seeing-a-hiring-boom-in-pharmaceutical-industry-machine-learning-roles/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 31
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2022/07/0yEkl-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-
 secured: "ywTrEwMXUGPF1J/FJftkhuCkfaYv4MHuB8xBbvLChuCeHuHW7db+Hcq26fWQ5nXQmGg/ccEQ05PF2OK5Ykruea+mnSA+i2ejJhpXGsdjT2+QfSs3LA0a/fd1eriL1BE8Ih5a4LTPuJeJ4wIXGN9mP/1yoXmckkqOxUNOyErBOg1+cflZERL7EsGDduuBqCOTO97QCm4tIQ3QWvxIS5g3Sld7i55S6BGY25B2kB9/sAoD90KyHon9WJbINYHabY6w4yA1vyhZ0lkjPJONz9VWRNOqol6xw44B8tCjuKgv/yJPU+oaBGkUtQR00Wb7uN0RPSCFodpMb9mOfI6EgPCjko4LjU9L0LvNtLXztXswMH8=;R4EdVcOFzcyvnZl9T9Ny8A=="
 ---
 

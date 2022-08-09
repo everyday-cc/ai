@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/08/Faction-D1-driverless-delivery-vehicle-based-on-the-Archimoto-FUV.-00-1.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Self-driving air taxis coming to Australia"
+    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
+    publishedDateTime: 2022-08-09T00:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
+        width: 1125
+        height: 633
         isCached: true
   - title: "Up and Down the River: Mindful driving"
     excerpt: "What was more important than paying attention to our driving? I’m just as guilty as the person in the lane next to me, especially when we drive the same route to work or wherever on a regular basis. We might as well have self-driving cars, because ..."

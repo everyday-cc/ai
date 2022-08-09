@@ -1,20 +1,28 @@
 ---
 category: news
-title: "Botminds Document AI Is Now Available In The Microsoft Azure Marketplace'"
-excerpt: "Microsoft Azure customers worldwide now gain access to Botminds Document AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ..."
-publishedDateTime: 2022-07-25T13:42:00Z
-originalUrl: "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace"
-webUrl: "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace"
+title: "Botminds Document AI is Now Available in the Microsoft Azure Marketplace"
+excerpt: "SEATTLE and CHENNAI, India, July 25, 2022 /PRNewswire/ -- Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store ..."
+publishedDateTime: 2022-07-25T13:24:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace"
+webUrl: "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace"
+ampWebUrl: "https://www.benzinga.com/amp/content/28186895"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28186895"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "tEHCsL5k4jizG0GWwG3fm6rOAouVZ3nnxoScbQ5QrUfJPp3r9TV7sE9BpGB2qhNUkG/khWb2xM4Yt/uYHhfTerhF46OgYluC3zNgUMQ+VD07Amy1FC7X9eHy4P0ozg91cRsg5hEHOnctK00s3QZQ9RnaEbHagS6dpaWKI6z4TWp4Z54BYDAP8CyqHyt5//9YmpFzxSPpsqOSTrlqmprFc61q0Za5f0GmDrWD4seVR4Da37HKIcxip/AWMkoWyPqZ6l6885G8/tl4sO05q8Fm3EtJertyOy1GasXFmM1IPaJZp7AUtEMC1ubAu3+59zwkGYcs5PW0liAEiwPffIAUJ2HJME7YE8wio5Sj/CkynjA=;0HEgxaHSnwCQaRfUogWtXg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1865614/Botminds_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "683fI9MwmJk8+MRT251XQ8l5fynqEnSK93bW+DGGPsh52GDWq77p8JSyNdhY4yeADbYSDOT19b1UVmZQ1xLjJYytZ1N11uJ3J3O26EkOKf93iCeVVoVcu39oIljbFWbwY8vYerIkgkktR0lJc2Pgy1C3RZxJ+xqVWk6yaZTI7ihnpJUiKA94VMpHoSpSMjtincNBF1ionEFHjVuWw1OTDuOqHHsiKhOhFdbhMhfpiMh0vtMqsuIO4zpPrspXRNW8A9XOmFG6csfsiPkUgzVbo15kIHaXeO6S+WBKW88bqba0btNV5dpYw/Sc4YMdJQtuHkwj8ASmaWF3fkZbQuwxzNf8WwSZQfXh5nwpGT6F7F4=;8wvBANJU+ZQ2ChZbcklxXA=="
 ---
 
