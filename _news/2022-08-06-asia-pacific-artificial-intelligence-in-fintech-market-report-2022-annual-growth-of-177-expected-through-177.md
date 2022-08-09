@@ -42,6 +42,15 @@ related:
       name: IBS
       domain: ibsintelligence.com
     quality: 4
+  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
+    excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
+    publishedDateTime: 2022-08-05T15:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28378306/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-annual-growth-of-17-7-expected-"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "moUs+wosur9rrYzPVC7C3mJqPxbYnN9Ce0Ylmp/VWf7MV8ZrsoNPIrqgcusTPK/wg+Y7zl4fqMdPWMR4H1mbALq0sL9YKSHw+KjjUu3TGAMycM8rAWybZrEN7ikHl5I8AIEApN2oxRMQ3LkC1ZMZZWFwTZvZAeAfUvv6m0KRvobI7gWnqAEpQY3Az0WzRRuED1WtYmHBNRlDrEMATc1G6jUFlekyOAp9BUA+iZM8W2M/tggHNMTJqUEWYwrwmlwVR0zS5P9sf8c0HPFPtac8bxKMzTxabGZB2M75HgfvtibyQydSUAu+0QdlQeAPZanjbUpFFxpGjlYUnS9yPMUVa+P1sfClsvsEgZ7YuMkHa2Q=;Hy/vzQHI+QdWuF1+fyi3lQ=="
 ---

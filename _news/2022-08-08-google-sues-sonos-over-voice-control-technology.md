@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-sues-sonos-over-voice-co
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google and Sonos are now fighting over voice assistant patents"
+    excerpt: "Google has sued Sonos, alleging that its new voice assistant violates seven patents related to its own Google Assistant technology.."
+    publishedDateTime: 2022-08-09T09:51:00Z
+    webUrl: "https://www.engadget.com/google-sues-sonos-over-seven-google-assistant-related-patents-091023307.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/24edc6a0-02cc-11ed-af77-f846cf750865"
+        width: 3820
+        height: 2547
+        isCached: true
   - title: "Google sues Sonos over new voice-assistant technology"
     excerpt: "Alphabet's Google escalated its legal war with Sonos Inc on Monday, filing lawsuits in California federal court that said Sonos' new voice-assistant technology violates several Google patents."
     publishedDateTime: 2022-08-08T10:54:00Z

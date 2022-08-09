@@ -1,14 +1,11 @@
 ---
 category: news
 title: "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles"
-excerpt: "Drivers can keep their hands of the wheel and eyes on the road using this new conversational voice control built into LG's infotainment systems."
-publishedDateTime: 2022-07-28T11:30:00Z
-originalUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
-webUrl: "https://www.pcmag.com/news/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
+excerpt: "SoundHound's voice recognition technology will be integrated with LG's in-vehicle infotainment (IVI) system, allowing drivers to control key functions using natural language commands. Just as you ..."
+publishedDateTime: 2022-07-28T11:32:00Z
+originalUrl: "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
+webUrl: "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles"
 type: article
-quality: 67
-heat: 87
-published: true
 
 provider:
   name: PC Magazine
@@ -19,39 +16,15 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05AnrQ1s3lGJFx1rDzlWqNY-1.fit_lim.size_1200x630.v1659001654.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-related:
-  - title: "The hype around artificial intelligence"
-    excerpt: "Gabriella Kereszturi, Senior Lecturer in Marketing at University of Law Business School, walks us through the hype of artificial intelligence"
-    publishedDateTime: 2022-07-29T08:32:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-hype-around-artificial-intelligence-ai-law-ancient-languages/140394/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/07/dreamstime_xxl_137795257-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "LG Partners With SoundHound To Bring Voice AI Technology to its Next-Gen Ivi Systems"
-    excerpt: "LG Electronics (LG) has signed a memorandum of understanding with SoundHound AI, Inc. (SoundHound), a global player in voice artificial intelligence (AI), to"
-    publishedDateTime: 2022-07-28T12:17:00Z
-    webUrl: "https://www.impulsegamer.com/lg-partners-with-soundhound-to-bring-voice-ai-technology-to-its-next-gen-ivi-systems/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 12
-
-secured: "fkv7zT52iBUh1LyBL1JWWHjtZAEYsoUjrVk1+mI5CnxABLklqmDKbH14FStg9UUcF+fHVaJzeq0iNZPaap7Fbz9wNOBtHjz0z1DPbEbsuKUe0V3GZnwd3iGsT9dgMaIn82uSpHL2DJ+HYQYMSra1qX6vt78nVT6fCOwPymKqkYTw/XRfNXHkuwISL5wScttSb4tS9CBK9iVvxhJLFGUPVV6KchdJKDSN7oeJPb7V3zRM8xPo4fsrIRf9O+7h6LtxniJfxTpUziR2p0MuO3BJD6orvAKbYacoqt+qlT+xFNRSgM5BfzOXIKeHp6h/qbcht13BtsDqp3B8wwKkagfgVIU1HKx3RJQIboe7MDfOkJ8=;+zEhBkzUZKqkoftzBNPQBg=="
+secured: "I9Lx4bFavm26XUnSaG5Uv9Snt+hJsPdzDEBp9cvXoKqCqoGLsmTGtepjbXF6zQtOtwrqviXB0r1GQ8ZKDQ3QRh+Z5imQoh/D9OPDrBlOLH66KkE2ym/ADVAx5DNjC4JYOiqQujNzDghtxSo8aOEUW6hNP4qn9s5dzJNNhA7Mz1vFp20Car1h6MpDPSy70F9QtMa8E9Aynm//DFPD951kzuDELQ7AZWRlvXSuWTsd4OdN+H0JRqwK1Dt12PEIxlcbb0Zx3Zo2ZQ1i6XYEQg9PYe3uRd85yoJhJtyEUhDucNdbiZcZ2k84EmPyG7zmAaYM4bncDipUt4JRtHeQS9elTJnxnWuovjuLtlFwSTh66qs=;M46mno5wvtv5jsj2+cCkIw=="
 ---
 

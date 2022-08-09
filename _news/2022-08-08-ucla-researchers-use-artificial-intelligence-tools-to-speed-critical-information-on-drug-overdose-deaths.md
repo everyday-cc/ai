@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence tools to speed critical information on drug overdose deaths"
+    excerpt: "According to a new UCLA research, an automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection"
+    publishedDateTime: 2022-08-09T03:45:00Z
+    webUrl: "https://medicaldialogues.in/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
+    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
+    type: article
+    provider:
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 51
+    images:
+      - url: "https://medicaldialogues.in/h-upload/2022/08/09/182905-ai.jpg"
+        width: 1500
+        height: 960
+        isCached: true
   - title: "Researchers use artificial intelligence tools to speed critical information on drug overdose deaths"
     excerpt: "An automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection of overdose deaths—which in turn can ensure a more rapid public health response time than the system currently used,"
     publishedDateTime: 2022-08-08T15:00:00Z

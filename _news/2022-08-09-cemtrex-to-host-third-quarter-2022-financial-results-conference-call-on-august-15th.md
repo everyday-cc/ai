@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "POET Technologies Reports Second Quarter 2022 Financial Results"
-    excerpt: "SPX added two new customer engagements in China with module companies designing their transceivers to use the Company’s 100G, 200G and 400G optical engines, bringing the total number of active customer engagements for both SPX and POET to 10."
+    excerpt: "POET Technologies Inc. (“POET” or the “Company”) (TSX Venture: PTK; NASDAQ: POET), the designer and developer of the POET Optical Interposer™ and Photonic Integrated Circuits (PICs) for the data center and tele-communication markets,"
     publishedDateTime: 2022-08-08T21:47:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
     type: article
     provider:
       name: Associated Press

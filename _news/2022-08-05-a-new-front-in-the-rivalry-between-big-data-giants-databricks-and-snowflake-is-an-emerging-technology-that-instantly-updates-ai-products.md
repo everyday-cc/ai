@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/snowflake-and-databricks-are-build
 webUrl: "https://www.businessinsider.com/snowflake-and-databricks-are-building-streaming-data-pipelines-2022-8"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Accelerating Azure Databricks Runtime for Machine Learning"
+    excerpt: "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ..."
+    publishedDateTime: 2022-08-05T22:58:00Z
+    webUrl: "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
+    images:
+      - url: "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "aJUHMUPzsTZHjp4g2ZqOqunvoW7kJI6YsnHLKzMZeSvagLH2Qjoa9zBZZB6Lee4tO2IdWLTbcFCRqT+Ni8Z6PZyxfiNIlcmzvSMXr2O9MH67l/7r1N3qZr5VG0o36KfLByRAemPxLaW9O8suOSNzeZnpTiXzLRMKzJDHLK97jSgMY9/R8b6mblPm+d656EZCM1p/EYaP3/Qxib4+XSqVc4FuaeHylFoYG+RRGU+vr80WDUlQ6GaHP2qdfppIwBOWCUt5n3+T5+I1OG9qt5T6PRFM14wtlYyshKlvpU7RU9KAeRv5cUuwtJj2WQqhHggNTduLigHjj3bD86ewdSByxC3nmqFJ4TOeKWh9uWWSeQIN5EemhKjenSohlgfZQnLgdbz3z/4tlNkGnGWUImdgSIPlrDOpS0sgNzbRvabqazcZr0tugPH6aQyAZY2ZsqRe+SP2TQLVDp90pUPYGGgCoY8gWPb5RoRi0P3SomKaSu9nR2tT2HSUuzZee7IsMusDIyeTLh0y+vfw9A5Kuw/s8w==;slGEWjQRUQ/2q3L+o1pbLA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "POET Technologies Reports Second Quarter 2022 Financial Results"
-excerpt: "SPX added two new customer engagements in China with module companies designing their transceivers to use the Company’s 100G, 200G and 400G optical engines, bringing the total number of active customer engagements for both SPX and POET to 10."
+excerpt: "POET Technologies Inc. (“POET” or the “Company”) (TSX Venture: PTK; NASDAQ: POET), the designer and developer of the POET Optical Interposer™ and Photonic Integrated Circuits (PICs) for the data center and tele-communication markets,"
 publishedDateTime: 2022-08-08T21:47:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-canada-toronto-united-states-29cace85e6382381fbe8aac43f9640e2"
 type: article
 quality: 24
 heat: 24
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lloZ0oAFVuLEBMKTv7o5NLmiE0pc7j1XTVNQe1A0Aq9oVpJ1e2Fo2b04etjxWCnJRsDMK8hWkK9zCx+/ZHGSrhBF50Cdi2kS3Zq6xU7OgoshAVeCdFh3qEvDpJRWuwStYjPALQX/bQTKwYGjIJ8H2MbOdPd9xdHZzhg2oFOcGLXvlBsLLKoICWIZ4+WTX2CG4VCgKMOzzSuCRHF2D8ufmo6ksuB/s7+mP2JKyuqm/upUPzOkXdbym7Dhb0RWLje4CB/cXSEOP5BzisspF+QE4rtB4ANSPQuSPEiwvNP+uMzZ62SaR5MiP5xwrrkLFC3Trd4yZ3SFLuWVXtK/fYJ+b8h6SKgCreBbWFCnhxu2Dvs=;qWf+Ra5vUVWemDds2E2A5g=="
+secured: "4HxeGL/QWOazkf3f+bqFwTCdbnd90JNwDtlTcTEW9e5YKnZ7oO6BNY8JECSZwuGAV6/qPhJXCMz5K5cCJsS1Yck7ZsH4NQFRYzbBAh4O5qqGKK50X0kesgRnLKeuZpJA9SBhmTGWfk/n/avqv7JbYfzjKM+sgt4qSD0gLsDK6z1UHcxd5dwWepIsm6TAVzJJ88C5yUMGKK+XoO8uXaNKUHYZpK/PM1T+BwHUh+c8z7D5iajg4qFjFHD0yyj0qEkzrzXmrJPJAgZ/9g9fD+7rvGqkLimwOohRzA1K3IQhl21t6/hAFEiVP+82f/aNE+kCSm8RfdvqKDDpEIyLnoAKu14l9uKSrFUSeSCPDtCEKa0=;+0yIOkwHO2lnEdImNCNKEQ=="
 ---
 

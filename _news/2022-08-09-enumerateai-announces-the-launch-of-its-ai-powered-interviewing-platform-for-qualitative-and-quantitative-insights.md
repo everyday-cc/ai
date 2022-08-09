@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The five best books to understand AI"
-    excerpt: "Also in the past ten years, a lot of books have been published that aim to explain what AI is, where it’s going and why it matters. Books by AI academics do well at explaining the technology but are less robust at foreseeing the implications."
-    publishedDateTime: 2022-08-04T15:30:00Z
-    webUrl: "https://www.economist.com/the-economist-reads/2022/08/04/the-five-best-books-to-understand-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_BLP509.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "hlV2eRFYAAHYXUin8GKwDbUT69rz3Tt/HGwV+60i/TZqlax+iXof+5DY8pYV2f2k18ApIPYHPs2BuHaOcPktCmzt6PycWj80G5OoWn89JiRG0C28j1LzUbfFJn8nFVH1s7pGeKSaca9VOvplSRwH0D8USKYKBreGeayjEbAAUJE3Lg2gkMKcHoIM00knbxoVjlgyVpuSSpg16Ry069mgk3Ah5hP96Gc2kU1m0lEoYwSQvJjx6ggJNQVY9Rn0b6lVYqwNEX3mEHI2hOuhocWEUSK/86GR3TMDbnsNRZ2El5nZT32rEogO+OBz/MXLUtXyfkeL+8tjqVK6yY1fVdf+AP3VjoHpNxIFG4FrgGDZN6wVNyM2wmnneSrtGe0gNYQFspqMcRnLYd+4o0D6TF3tdDihJDuZ6sg+ODAOmiQvni7z0U9NcpFzEAvCkiSjbSzH28NEYicqZh6pUrH0OelyPFwL2UBgSdidz67CwGZq0v5fQUq23lEEWgSBrjZSc7IXdq052Sl2T2kA6PlbFIgXuw==;rXlioQ5jIiowRSuyLRiR+Q=="
 ---

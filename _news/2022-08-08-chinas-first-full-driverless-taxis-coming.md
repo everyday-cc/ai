@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/DeepRoute-Autonomous-Car-Video-main-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Faction’s right-sized driverless vehicle mission gets a boost"
-    excerpt: "Faction’s right-sized driverless vehicle mission gets a boost by Inside Autonomous Vehicles. Read all about the latest developments, news, analysis, reports and products in the autonomous vehicles space."
-    publishedDateTime: 2022-08-04T16:58:00Z
-    webUrl: "https://insideautonomousvehicles.com/factions-right-sized-driverless-vehicle-mission-gets-a-boost/"
-    type: article
-    provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
-    quality: 39
-    images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/08/Faction-D1-driverless-delivery-vehicle-based-on-the-Archimoto-FUV.-00-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Self-driving air taxis coming to Australia"
     excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The five best books to understand AI"
-    excerpt: "Also in the past ten years, a lot of books have been published that aim to explain what AI is, where it’s going and why it matters. Books by AI academics do well at explaining the technology but are less robust at foreseeing the implications."
-    publishedDateTime: 2022-08-04T15:30:00Z
-    webUrl: "https://www.economist.com/the-economist-reads/2022/08/04/the-five-best-books-to-understand-ai"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 37
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_BLP509.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
     excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
     publishedDateTime: 2022-08-08T18:20:00Z

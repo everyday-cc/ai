@@ -1,19 +1,25 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
-publishedDateTime: 2022-08-03T17:12:00Z
-originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
-webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
+publishedDateTime: 2022-08-03T17:26:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
 type: article
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - AI
 
-secured: "jDTC9KJ/dTE9i49CHbg8cjVR+0Lwo68YH4m51+eENTiLoaOjfb/gycN0DZijSXMdkNo44FdDzx8mNnbdVNABlwLZ/3z7vU0HxgCWMyqhS7aG2pkzPjStKbo8pxF6n3uLbXxcVD+oKc3juNixZhySpEN7uu7kCslPfu5OC5Fgki6qF/YwenA8tVqyS9QaLJR0Y6rYWqPVbq20f9r2C5BGeTiovHBk5bTlpYO8VYLPQu+fuxcGtkOYS2h+wsimPLuECy1eZJfPyA6gZeT9glPlQ3IZtIraDm3bbob9Ry5p/lU577yefug6HjX4/2J90uxkHYJE9Xa8Ag/zD83Y2f1u58nYWYnmO2uKuP6cZNMXFjA=;NmMkmG6hc1dc5SyY9ssz+w=="
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
+
+secured: "301Z45t/QQ92y6l7AuxDhtIqiidnfylrGdOESIGg0/+K4pD72WgE/D5puCuK6EzuPR4zBpRV5MxHluZhulQ05TbdRzqDPMaq2B0iS5q3uLv4A3ttmzcTcLB0WeyO23ukiH7YfSPm5UMjL7Pzo/GSfJcIXnnIBL+L7dnL1n0Bpka/72Z6b/Kbc0QuApMIB8RfMS0MgC6norioelxNGBhcL9tQJP3oiiwEVdnax84/3Nz3MERKEXml2oXK8+Jf+Hq8TJi7k0IF91eYXtyRQKJkTzA6Nsh6emrLj4ti84r0b5LSHbcFi6siVZxLyRJpcDDGJV3SuRaott/RInIhLGG4HQdbyrvOE4JSnUOJP48uuKY=;UmhGmV614ZoUTSBP04nd3Q=="
 ---
 
