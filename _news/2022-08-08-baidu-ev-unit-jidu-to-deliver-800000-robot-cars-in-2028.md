@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu Claims Its Autonomous Tech Is Ahead Of Tesla"
+    excerpt: "Baidu, the Chinese search engine giant, says its electric vehicle firm Jida Auto is going to be one step ahead of Tesla in the development of advanced autonomous driving technologies. Soon after Baidu unveiled its new Apollo RT6 minivan,"
+    publishedDateTime: 2022-08-09T12:03:00Z
+    webUrl: "https://www.carscoops.com/2022/08/baidu-claims-its-autonomous-tech-is-ahead-of-tesla/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 34
 
 secured: "8CoFXVqc8y4nBuXrUTzYlD5zDNOi68XMXxiGNhJ+9uwcqb7Yy6dM5nx6K0c92aVbf8nTGFlC5CFn0Zz8X9ysrMcfKM0n0g8oG9kzqV4blg0oSKPKQOzSU0uHFmN0DEV73uKEwSSjH7HUqZm1LTZAJzzA0gdQDDEych+L5CBmJHO+QXRR6eKFlXY2Ekr/YHxWYkRLFPqII733ErLoKhkT23bnrRYmxsnzmzm8rPeQdbNTxTtwmzaNcqwuSD/oWQy0V9lHv6Hr/MxLMVS/2UvB3oBKL69XVM8EUr6mWisq8FvsKePnVgWul5lDS0A61Me1p3xstHUc9pB2WSeoWZ+5Wx/Oh+FhDxj/wEyXkMX9els=;iJMGvjEfEnx3v6+SOkc6bQ=="
 ---

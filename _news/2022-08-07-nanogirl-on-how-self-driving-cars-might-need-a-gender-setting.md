@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Tech Company Testing Remote Operators as Self-Driving Car Backups"
+    excerpt: "That self-driving car you're riding in could be controlled by a teleoperator. It seemed like science fiction back in January when we excerpted The Holy Driver: When Virtual Meets Reality, a story about a driving game champ who learns he's been piloting actual cars in another country,"
+    publishedDateTime: 2022-08-09T19:42:00Z
+    webUrl: "https://www.motortrend.com/news/mira-self-driving-car-remote-control-car/"
+    ampWebUrl: "https://www.motortrend.com/news/mira-self-driving-car-remote-control-car/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/mira-self-driving-car-remote-control-car/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: "https://www.motortrend.com/uploads/2022/08/Mira-teleoperation-remote-driver-tech-3.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
     excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
     publishedDateTime: 2022-08-05T14:51:00Z

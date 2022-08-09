@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T18:58:00Z
 originalUrl: "https://asia.nikkei.com/Business/China-tech/China-s-new-iron-chefs-Robots-and-AI-dish-out-4-menus-in-Shanghai"
 webUrl: "https://asia.nikkei.com/Business/China-tech/China-s-new-iron-chefs-Robots-and-AI-dish-out-4-menus-in-Shanghai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NIKKEI

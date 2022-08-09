@@ -8,7 +8,7 @@ webUrl: "https://www.popsci.com/technology/artificial-intelligence-fly-planes/"
 ampWebUrl: "https://www.popsci.com/technology/artificial-intelligence-fly-planes/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/artificial-intelligence-fly-planes/?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.popsci.com/uploads/2022/08/05/cody-fitzgerald-O0Tr0mrzXLA-unsplash.jpg?auto=webp"
@@ -56,6 +57,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI pilot can navigate crowded airspace"
+    excerpt: "Researchers have developed an AI pilot that enables autonomous aircraft to navigate a crowded airspace. The artificial intelligence can safely avoid collisions, predict the intent of other aircraft, track aircraft and coordinate with their actions,"
+    publishedDateTime: 2022-08-09T20:04:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220809101737.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI pilot can navigate crowded airspace"
     excerpt: "A team of researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace. The artificial intelligence can safely avoid collisions,"
     publishedDateTime: 2022-08-08T00:00:00Z

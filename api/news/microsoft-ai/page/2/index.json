@@ -366,34 +366,25 @@
     },
     {
       "path": "_news/2022-07-25-botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Botminds Document AI is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "SEATTLE and CHENNAI, India, July 25, 2022 /PRNewswire/ -- Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store ...",
+      "title": "Botminds Document AI Is Now Available In The Microsoft Azure Marketplace'",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Botminds Document AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
+      "webUrl": "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace",
+      "originalUrl": "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865614/Botminds_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28186895",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28186895",
-      "publishedDateTime": "2022-07-25T06:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T06:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -674,6 +665,49 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft.md",
+      "title": "Content Analytics Discovery and Cognitive Software Market Is Booming Worldwide with Facebook, Google, Microsoft",
+      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. by Type (Test Softwares (in Multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Markets-Srore-shopping-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1298,40 +1332,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-whats-the-better-passive-income-tech-stock-ibm-or-verizon.md",
-      "title": "What's the Better Passive Income Tech Stock: IBM or Verizon?",
-      "excerpt": "It has built on that move by acquiring over 20 smaller companies since the former head of the cloud and cognitive software ... a CAGR of 52% for the global 5G services market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
-      "originalUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/whats-the-better-passive-income-tech-stock%3A-ibm-or-verizon?amp",
-      "publishedDateTime": "2022-07-18T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

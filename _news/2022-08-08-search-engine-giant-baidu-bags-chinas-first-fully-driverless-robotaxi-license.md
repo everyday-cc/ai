@@ -43,6 +43,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu Bags China's First Fully Driverless Robotaxi Licenses"
+    excerpt: "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ..."
+    publishedDateTime: 2022-08-08T02:45:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 84
   - title: "Baidu To Offer China's First-ever Commercial Fully Driverless Robotaxi Services"
     excerpt: "Monday that it has secured China's first-ever permits for commercial fully driverless ride-hailing services. With the new permits, Baidu's autonomous ride-hailing service, Apollo Go, is now authorized to offer fully driverless robotaxi services in Chongqing and Wuhan,"
     publishedDateTime: 2022-08-08T09:09:00Z
@@ -54,22 +65,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 80
-  - title: "Baidu bags China's first fully driverless robotaxi licenses"
-    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T07:42:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/dcm2x3/article65744612.ece/alternates/LANDSCAPE_615/2022-08-01T010022Z_1809726800_RC2HLV92ACD2_RTRMADP_3_CHINA-USA-TECH-ROBOTAXI.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
     excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
     publishedDateTime: 2022-08-08T04:13:00Z

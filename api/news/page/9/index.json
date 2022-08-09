@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
+      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
+      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "publishedDateTime": "2022-07-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
+      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
+      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "publishedDateTime": "2022-07-29T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
+      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
+      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T11:28:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
       "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
       "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
@@ -1083,135 +1221,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat was set up as an initiative of IIT Madras to build open-source language AI for Indian languages ... including state of the art models for machine translation and speech recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/ttgilo/article65692509.ece/alternates/LANDSCAPE_615/IMG_IMG_Indian_Institute_2_1_SBA1N307.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "publishedDateTime": "2022-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences.md",
-      "title": "What Are Ontologies and How Are They Creating a FAIRer Future for the Life Sciences?",
-      "excerpt": "In this article, Dr. Jane Lomax provides an overview of ontologies and describes how they can help to overcome big data challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
-      "originalUrl": "https://www.technologynetworks.com/tn/articles/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363371/what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences-363371-640x360.jpg?cb=20220801",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
-      "title": "Build Your Own Remote Control Robot And Car For 50% Off",
-      "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "originalUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4012653-robot%281%29.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
-      "publishedDateTime": "2022-07-28T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

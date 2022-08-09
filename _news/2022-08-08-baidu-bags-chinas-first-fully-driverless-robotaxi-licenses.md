@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Baidu bags China's first fully driverless robotaxi licenses"
-excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-publishedDateTime: 2022-08-08T07:42:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses/article65744609.ece/amp/"
+title: "Baidu Bags China's First Fully Driverless Robotaxi Licenses"
+excerpt: "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ..."
+publishedDateTime: 2022-08-08T02:45:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
 type: article
-quality: 74
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://th-i.thgim.com/public/incoming/dcm2x3/article65744612.ece/alternates/LANDSCAPE_615/2022-08-01T010022Z_1809726800_RC2HLV92ACD2_RTRMADP_3_CHINA-USA-TECH-ROBOTAXI.JPG"
-    width: 615
-    height: 383
-    isCached: true
 
 related:
   - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
@@ -170,6 +168,6 @@ related:
       domain: motorauthority.com
     quality: 19
 
-secured: "JChrP8ehbxG58+C+WQeBBfwQi+FA3HMvtIAa41OtSdDp/Xb1RlIAC6scApQjXwha4FtJCIVKvTeqRRPS6TUHIxZ5YEgd5b9ntklBLc/GqpeIv8jQ2mUf6Jh3jFE+Vqg0Jr9oP75BJZepirprjUGql87BoGUy73BqwHhf2DyGuj9W0Oydr9v1073372uXqhUY8lZOulLHlfmEl7vldKhN1AJv8TnMMGIRMoKR9MGnGGRE5okyQLKL3XluRPMt0UxDa83+BEZ1aCCEp4ejVF8F3RpX7FzSOvnNZnDrUnvW/z0jon+4KR5ckAp1ZazL/bygnt4ngWWz/r/B4iZg2/0RzWSSK+VC2Alc6BZx9TbDlpg=;dfPwOLZEeKdVjmQpvbSsbw=="
+secured: "5xQwh+hO0NjYmOM+aBEd/mQ/VbqRsZsuylSju1UXgrWESbcBlNq8lkNgZ4HPMuYMR/XH9+MemWgBXSjxmOnWsvvF3dQLsJOkoMbtqqFg/HwM37OlwRu8c2qm1ne33NAsZjOTOEp5UfddU11JisGx7tCJKNdiWZlBVEXY4F/1eA7M/S5UEp3Dmjjg7YHoedysE9pyoSMkKAEemlDsyRsW976t8KMKUPLbpNI9BwGK1tnL7VLE60ect537XgkKjNFLndct6kWg6C6WSxTehgIXy09FMDmjc7A/bcDlEK3lnw0sbyT0ktRTNtgbS1CuSQOCyf4jgECxm2Tj5x3l8nzq+hWs6pP3kQiXEPgmrWMQanw=;8xNTO8nQAcxpQOFb7t+aBw=="
 ---
 

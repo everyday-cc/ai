@@ -7,7 +7,7 @@ originalUrl: "https://www.nextgov.com/emerging-tech/2022/08/vha-launches-new-pla
 webUrl: "https://www.nextgov.com/emerging-tech/2022/08/vha-launches-new-playbook-outlining-digital-health-care-needs-patients/375550/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "VHA Unveils Digital Health Playbook to Improve Patient Care"
+    excerpt: "Looking for the latest Government Contracting News? Read about VHA Unveils Digital Health Playbook to Improve Patient Care."
+    publishedDateTime: 2022-08-09T20:45:00Z
+    webUrl: "https://executivegov.com/2022/08/vha-unveils-digital-health-playbook-to-improve-patient-care/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 24
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/08/09/31/a6/da/6e/6b/3d/7b/14/00P4y000017uXHhEAM.png"
+        width: 272
+        height: 270
+        isCached: true
 
 secured: "niD7HHJh/zg68czdPBHAS/cJEWyI7IJQcr1+YQ3IQqqf0UzXoLovSEp8ki/qaOTlLQsf6hu3LvaUvynK1zS/c5Qlbfpj8PsWbBANqc2BSlcgEmgtUhcmrG2PwSK9UelEZQ/tVL0vGmqLlvAw5QWsPj1pQUaS8+jDdAOyPIU9QEjCpzNO6eGd0WDBtJep7KSHIhZLFUBrqWtMNKdUq7RknzlpIeYsjNKDy1dMOWhsS58JxtGu74Hjc5BFMhIeccvcaDnVJgIUG8T15qoQiS7yS99vNO1ZXckbDN9TrLeE8cbO54p1x55MnJb0tCIR66IIPOiYQ79qQDxNSyagU0yEn3v2saznhV/KDQqVm3OvPcpeqI2QjpYGz1+7B0qwh4zvIQl1+UfiKQvlWdWgXHSh0OtNQ66TonTcDP9eE1mqc7uou+F5q3syHaQO1rPgQiGBbt4IVR5nWxFaemVP8KaED/TUZD/hRMIwCwfplfeAFhiPESN96u0AEhluReCmz+n3Am7b6V3Z5pO636SeOdcjiA==;kCYiQwpPM942qSQgvwq+Gg=="
 ---

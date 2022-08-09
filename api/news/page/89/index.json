@@ -2,6 +2,229 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-05-31-one-ai-launches-with-8m-in-funding-to-ease-natural-language-processing-projects.md",
+      "title": "One AI launches with $8M in funding to ease natural language processing projects",
+      "excerpt": "Startup One AI Inc. today launched from stealth mode with $8 million in funding to help companies add natural language processing features to their applications. The funding was provided by a ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/30/one-ai-launches-8m-funding-ease-natural-language-processing-projects/",
+      "originalUrl": "https://siliconangle.com/2022/05/30/one-ai-launches-8m-funding-ease-natural-language-processing-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/unsplash.png",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-insights-on-the-gesture-recognition-touchless-sensing-global-market-to-2027-rising-importance-of-gesture-recognition-in-virtual-reality-presents.md",
+      "title": "Insights on the Gesture Recognition & Touchless Sensing Global Market to 2027 - Rising Importance of Gesture Recognition in Virtual Reality Presents O",
+      "excerpt": "The \"Gesture Recognition & Touchless Sensing Market Research Report by Technology (2D, 3D, and Capacitive), Product, Type, Industry, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=671721",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=671721",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
+      "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
+      "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
+      "originalUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1283648497-e1653671703268.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
+      "publishedDateTime": "2022-05-30T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-the-rise-of-ai-is-pushing-patent-laws-to-their-limits.md",
+      "title": "The rise of AI is pushing patent laws to their limits",
+      "excerpt": "It was a machine learning program. One compound has been patented under the name Halicin in homage to HAL, the artificial intelligence (AI) in Arthur C Clarke’s classic 2001: A Space Odyssey.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
+      "originalUrl": "https://thenextweb.com/news/artificial-inventors-pushing-patent-law-to-its-limits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-c3ai-ai-to-report-q4-earnings-whats-in-the-offing.md",
+      "title": "C3.ai (AI) to Report Q4 Earnings: What's in the Offing?",
+      "excerpt": "C3.ai AI is set to report fourth-quarter fiscal 2022 results on Jun 1. For the quarter, C3.ai expects revenues between $71 million and $72 million. The Zacks Consensus Estimate for revenues is currently pegged at $71.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
+      "originalUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-ai-to-report-q4-earnings%3A-whats-in-the-offing?amp",
+      "publishedDateTime": "2022-05-30T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-aws-introduces-new-p4de-instance-for-ai-training.md",
       "title": "AWS Introduces New P4de Instance for AI Training",
       "excerpt": "which is included in the company’s EC2 Inf1 instances, is designed for inference workloads and can execute up to 128 trillion operations per second. AWS showed off AWS Trainium, a second AI processor tailored for AI training, in November.",
@@ -878,241 +1101,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-microsofts-new-execs-helping-win-at-azure-ai-devices.md",
-      "title": "Microsoft’s new execs helping win at Azure, AI, devices",
-      "excerpt": "Marco Casalaina, Ajith Thekadath and Ashley Hart are just some of the new faces at the tech giant as it invests to accelerate its market position in cloud, artificial intelligence, devices and other areas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
-      "originalUrl": "https://www.crn.com.au/news/microsofts-new-execs-helping-win-at-azure-ai-devices-580620",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220531071319_crn-14_microsoft_iStock-1191485295.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-ai-based-traffic-management-system-in-delhi-soon-say-officials.md",
-      "title": "AI-based traffic management system in Delhi soon, say officials",
-      "excerpt": "To reduce congestion and facilitate faster vehicular movement, Delhi Traffic Police is planning an Integrated Traffic Management System which works on machine learning and artificial intelligence and",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html",
-      "originalUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials-11653821388311.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/05/29/600x338/traffic_1653823598585_1653823598703.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/aibased-traffic-management-system-in-delhi-soon-say-officials/amp-11653821388311.html",
-      "publishedDateTime": "2022-05-29T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-ai-the-pattern-is-not-in-the-data-its-in-the-machine.md",
-      "title": "AI: The pattern is not in the data, it's in the machine",
-      "excerpt": "No, the patterns computers create are not an inherent property of data, they are an emergent property of the structure of the program itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "originalUrl": "https://www.zdnet.com/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/111f895dc65607d9760070c5a72e57b282be8139/2022/05/29/7ffbd514-63f1-44f3-ba9e-bfc036f716a0/b21c7d8b-5465-4ff6-ad1e-a3aa0de5af4e.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-the-pattern-is-not-in-the-data-its-in-the-machine/",
-      "publishedDateTime": "2022-05-29T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-tenda-cp3-smart-ai-security-camera-launched-in-india-for-rs-2999-39.md",
-      "title": "Tenda CP3 smart AI security camera launched in India for Rs. 2,999 ($39)",
-      "excerpt": "Tenda has announced its CP3 smart AI camera in India with an Rs. 2,999 (~$39) price tag. The Tenda CP3 comes with artificial intelligence (AI) capabilities and a 1080 pixel sensor for FHD footage. The Tenda CP3 also offers several features that make it a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/",
-      "originalUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/05/Tenda-CP3-smart-AI-security-camera.jpg",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/05/29/tenda-cp3-smart-ai-security-camera-launched-india/?amp=1",
-      "publishedDateTime": "2022-05-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-29-traffic-jams-just-a-maths-problem-says-israeli-ai-firm.md",
-      "title": "Traffic Jams Just A Maths Problem, Says Israeli AI Firm",
-      "excerpt": "ITC, or Intelligent Traffic Control, was one of the artificial intelligence players at Tel Aviv's recent EcoMotion showcase where high-tech and AI firms hope to make transport more efficient and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
-      "originalUrl": "https://www.ibtimes.com/traffic-jams-just-maths-problem-says-israeli-ai-firm-3524768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/05/28/yoav-elgrichi-ceo-and-co-founder-of-rider.jpg",
-          "width": 768,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-28T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

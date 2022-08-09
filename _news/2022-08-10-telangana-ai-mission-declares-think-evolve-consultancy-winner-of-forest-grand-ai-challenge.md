@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:34:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272648595/telangana-ai-mission-declares-think-evolve-consultancy-winner-of-forest-grand-ai-challenge"
 webUrl: "https://www.bignewsnetwork.com/news/272648595/telangana-ai-mission-declares-think-evolve-consultancy-winner-of-forest-grand-ai-challenge"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Big News Network.com

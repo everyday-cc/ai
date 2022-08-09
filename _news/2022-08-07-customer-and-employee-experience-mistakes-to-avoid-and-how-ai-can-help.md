@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Avaya’s Karen Hardy on AI, Cloud, and Customer Experience"
+    excerpt: "Avaya’s Global VP of Products discusses how the company is modernizing its platform to meet new customer demands."
+    publishedDateTime: 2022-08-09T17:09:00Z
+    webUrl: "https://www.eweek.com/networking/ai-and-cloud-customer-experience/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 47
 
 secured: "Y4bd0WN67Yy8zML+1km2cSDQeyOTkwxGx0Coo1zgHz4RzsQ4tHw+y1RxILYqkV1SPnLolHUrkzYxT4XYm2i5Mal970z+Zcr1ek0f1HsNqjVcRFavBqeJ5DLrSaYj1b519UQCsIF0NmYZAo3HePavv6JrQhqUKvlm7jDj1LS1//Y3CuddkMsyWmvGEA++2iHu1efTk4Llbnjpv20DzDnSTPjCy2gooSH1FGXF9EjKnAjg5pXVK6O6G5lc6VQ/NOLly+gvjiDy35JI3oWhMkO7uLMqI3XEgkWrxOPYYwzCaNW++wpMSyEQcz3JLuVQBRwya/WZgMzXasP9Ixd8Il7mKv+g/TyBMpHl43IRou0ASgg=;oSQ+YQhqWcpf2eftG0LVQw=="
 ---

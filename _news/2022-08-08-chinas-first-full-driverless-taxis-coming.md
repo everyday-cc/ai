@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch DeepRoute.ai’s Driverless SUV Successfully Navigate Through The Traffic Chaos Of Shenzhen In China"
-    excerpt: "The driverless prototype was tested in the city of Shenzhen in China under heavy traffic conditions, showing how well it reacts to challenging real-life scenarios. The video shows a 14-mile route in the Central Business District roads of Shenzhen which was completed in one hour."
-    publishedDateTime: 2022-08-05T01:11:00Z
-    webUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/DeepRoute-Autonomous-Car-Video-main-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "China drafts national guidelines for commercial driverless robotaxis"
     excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
     publishedDateTime: 2022-08-09T10:48:00Z

@@ -3,12 +3,9 @@ category: news
 title: "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape"
 excerpt: "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality."
 publishedDateTime: 2022-08-03T02:03:00Z
-originalUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
-webUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
+originalUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13"
+webUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
   name: Digi Times
@@ -18,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "zdHNOTSuJaZVycO5yYLaO30HyO6aIqsstooz1NAPi2Y6CkECRRsfiaP84P2QwHfQBHUJN6/xtF1wwPkZbdfUXarfZkb+BXcZoJHHI+kQuafVyoHgQG6yKeEW3c2r92g7qzHbWgO0LcnthNKJVISnQni0Dccd48M2nSra+R1JR6Q38cudvm0Jbw0yH0AM2922Ye37IpYj0J23qhH/LhFeAXPcfSVvdB2L0Lu0Rki9DcTtdchN7icSOTfQRzlIFooqGx+x7OCVaZj4wIVFdqL4s3fEGTb4q8tUHmmpJbo1k7KdqPsEcDF/Cf5HeJHslGTkJNVI2geQS65JQ+LX6rAONlX7wYcLGRSKtCSg813+3ZrYG/8Ztm73YNVi3KfEj5XODHjOCx5KhUAeVaQLO/vcG2hRiRF5lwiRLVruxS3C5v5Sb/NeLCXSREs1rUkyjxHBFbBAhAemOBXWKofTbc9Ea1jn5UWY7vMu+tDatchKZKLNgVTbC86Yba4hALka1LTjcRvI4QTf+Gmrup0rknw84g==;GJJzxuE26l/Rr2VTu4nVZg=="
+images:
+  - url: "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "2JfGVu0PzyAelX6JQz8+SOHSi0P6atItagmdmfpT55Sw039CrDMU1ssQ+yoqLfMs/zqz9pkmcJBKGqMr90GkP7Z+fK+91cTGZvR2WV3f/9Bp0VvzUvmXtNXdC9SkpbhaFjLQMPUbbuantwsZLww1GXPC9VfjpE1xhQ4+Hm62KRYKmiRgtk46k8/IxWgjh+rZq67Ix4AecKnneBIe1mSORTbT6+8pOKI36rIW20u4kK/TpPIZDHbIhvUwsZ8x/V+uGfYjZQXn2I8jbQRDBGPOJUmIjshbGWFcjk2tV69LwXh3enMdxpLRI+kcePaWnTwAtUK75pZp++yCgJDDw+yZbpI64gS2P00rZsSGUtLmo/8=;/LUREw3IaLjyBwpkLdd32Q=="
 ---
 

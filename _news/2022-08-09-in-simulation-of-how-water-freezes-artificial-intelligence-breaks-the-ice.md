@@ -1,20 +1,39 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-publishedDateTime: 2022-08-08T19:00:00Z
-originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
+publishedDateTime: 2022-08-08T19:12:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960990"
+webUrl: "https://www.eurekalert.org/news-releases/960990"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Machine Learning
   - AI
 
-secured: "VVG5hO3bh6aStnf8YUIPB/JBN0whUsZq736DeiQb2cya/ktaZVex3Xp7PFTmPQvRRUeN/ToehbYUEsfoHhuKTjeVZMLSUxM8CGINPkl8zd7FQZetT/4QKWfNk6gK9/GSNTJTsvlRdOU6R5mTXIhCJw9hSpZrrsKLiR6kjGsmKfC0YKJupDrh3agZFqEjpRKfOk7zQd8O2WJKc++mpmkgtMQfHafQlFnb8JJVcn6hXVOsW2d8NWc9s6MdIbDP47pe5XzfFmJ6khwIfj/2C/voGsryQVjZpIyHpNtW0g/r3Gaae0kbW4FsnXVuAC1mh1+qHJ7kElz/UapN6aVAvo3D+Su5hQzzbMRExKkAveb29QHkJlcbHwDTwAbZ6YzSTEWOua3NHaEQz1dL8vDnDzmO3s7BWtSbQx2Una5vvw7GZMJq4M3RC8LwHxJ1aoZhwIyHMddbmkhTnDA5JbqCfEQ7D1L1ujrm3cLaPQjsnJVBVNxklznj8Zkl9K5wZHDNUsQOlN4Pl64EMM7eVJu32nXeAA==;ZivDjJIJ85hc1zvN55VlpQ=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
+
+related:
+  - title: "How water turns into ice — with quantum accuracy"
+    excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
+    publishedDateTime: 2022-08-09T18:25:00Z
+    webUrl: "https://www.princeton.edu/news/2022/08/09/how-water-turns-ice-quantum-accuracy"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 4
+
+secured: "uVGhpkiq8d/wu4spSo7To8v4BcDLfaM+ehlTz/VJoEvCdx9LW+RGuES9eLktBx5h8EMykm8YJaUqi4Q/iGY95oQYWbPv/Kl9P7ObZASRtyKTJoMwxUoiLceG7F+ImGYlT2n2dhfJv5YiSwXL2xSormzdV8kJ8YvI7aSomvsFQpEWPS1hy6ZFu6KOzuI7M8nc97M3qmGe/BRle57s9PeaB4tTdLh0+UsudtICpvCVbCLHGUB6FJTZdq2hwtAzQg2N+Z4+EKM2MJbqXViYYFpLPxqaj8Nc78GVIQ3NXX7Pal9KmbAIOfYTF15DeTb+KYCt5B+hqCVPrXAn+CR2hm/LNYSk11AlqOqLUSkhvtMVXlQ=;FfNckuTVzkzS7nRQ1bOmaQ=="
 ---
 

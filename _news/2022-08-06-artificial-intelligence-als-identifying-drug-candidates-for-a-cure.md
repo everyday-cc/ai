@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-05T18:55:00Z
 originalUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-als-identifying-drug-candidates-cure"
 webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-als-identifying-drug-candidates-cure"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_2022-8-5-145054.jpg"

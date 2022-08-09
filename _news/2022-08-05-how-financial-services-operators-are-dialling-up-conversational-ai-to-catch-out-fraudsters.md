@@ -35,6 +35,15 @@ related:
         width: 434
         height: 474
         isCached: true
+  - title: "Machine learning and the future of marketing"
+    excerpt: "Could machine learning right the ship? Big tech platforms have made continuous headway when it comes to delivering results using machine learning. As they’ve evolved and improved their ..."
+    publishedDateTime: 2022-08-06T00:14:00Z
+    webUrl: "https://mumbrella.com.au/machine-learning-and-the-future-of-marketing-750140"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 36
   - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
     excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
     publishedDateTime: 2022-08-07T13:02:00Z

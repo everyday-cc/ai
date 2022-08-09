@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:30:00Z
 originalUrl: "https://www.musicradar.com/news/can-you-hear-the-difference-listen-to-ik-multimedias-mind-blowingly-accurate-ai-machine-modeling-software"
 webUrl: "https://www.musicradar.com/news/can-you-hear-the-difference-listen-to-ik-multimedias-mind-blowingly-accurate-ai-machine-modeling-software"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: MusicRadar

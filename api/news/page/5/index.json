@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-03-what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse.md",
+      "title": "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse",
+      "excerpt": "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8dddcb14c77f8af660ab3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-08-03T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-reltio-mdm-solution-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Reltio MDM Solution Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Reltio, the leading cloud-native, SaaS Master Data Management (MDM) company that accelerates the value of data for businesses, today announced the availability of the Reltio Connected Data Platform in the Microsoft Azure Marketplace,",
@@ -305,6 +357,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
+      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
+      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1092,101 +1187,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave.md",
-      "title": "Stream High-Quality, Immersive, GPU-Powered 3D Experiences On Demand With PureWeb and CoreWeave",
-      "excerpt": "By empowering creators and innovators with access to the GPU resources they need ... Machine Learning and AI, Batch Processing, and Pixel Streaming - that are up to 35x faster and 80% less ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.klfy.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/",
-      "originalUrl": "https://www.klfy.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1868506/PureWeb__Stream_High_Quality__Immersive__GPU_Powered_3D_Experien.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
-      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
-      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "publishedDateTime": "2022-08-02T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

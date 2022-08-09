@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-07T09:20:00Z
 originalUrl: "https://timesofindia.indiatimes.com/readersblog/blooks/artificial-intelligence-an-invention-that-will-eventually-boomerang-on-mankind-44177/"
 webUrl: "https://timesofindia.indiatimes.com/readersblog/blooks/artificial-intelligence-an-invention-that-will-eventually-boomerang-on-mankind-44177/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/photo/75476733.cms"

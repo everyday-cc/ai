@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:39:28Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/"
 type: article
+quality: 53
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -18,6 +21,22 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass"
+    excerpt: "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build"
+    publishedDateTime: 2022-08-08T16:48:21Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg"
+        width: 1325
+        height: 662
+        isCached: true
 
 secured: "WrsjwGxCVODdVSSszJjftgFwWyr9KX8ruNK3rZtVWP99yYiAhc6Bj9mSJHYMARin/XVyHFi234B4WTXcamjZGoXC19rCPdub1maZa1Z2YA3mUj0kaZat2ZMYAEjH3OtC+RXdyNsApMzkvl55j1VzmwAHtkZLXpzUS/DBGqGO2GcGIV8xh5k9X4Msae1Fdyde3jdnX3okb4FwjHEe+ejMEqm+JX2mUQPyH10gtj8z3dCUxMHVI730tgw8ApSRuVs7AM83iebvQUq1MLSTXJ4mOHaenCTeLIU61OqOVwHF1HQ5KW2vbGpj3tfgE66e77KicGuQxipVrmhff1vIi4Hd/T8DNTeuqFtz4i2vHZjfPs8=;SwERJEWzDYMOR4y+smIXSQ=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 5760
         height: 3840
         isCached: true
-  - title: "Facial recognition smartwatches to be used to monitor foreign offenders in UK"
-    excerpt: "Home Office and MoJ plans will require migrants convicted of crimes to take photos up to five times a day"
-    publishedDateTime: 2022-08-05T04:00:00Z
-    webUrl: "https://www.theguardian.com/politics/2022/aug/05/facial-recognition-smartwatches-to-be-used-to-monitor-foreign-offenders-in-uk"
-    ampWebUrl: "https://amp.theguardian.com/politics/2022/aug/05/facial-recognition-smartwatches-to-be-used-to-monitor-foreign-offenders-in-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/aug/05/facial-recognition-smartwatches-to-be-used-to-monitor-foreign-offenders-in-uk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/fbeb3d3ba71f6565b2fc3bfed2690d2d52006bbf/0_400_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=f75c7227c83add1602d20526e204455b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
     excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
     publishedDateTime: 2022-08-05T16:17:00Z

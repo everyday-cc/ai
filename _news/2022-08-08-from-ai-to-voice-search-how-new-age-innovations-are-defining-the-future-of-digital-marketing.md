@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-se
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning and the future of marketing"
+    excerpt: "Could machine learning right the ship? Big tech platforms have made continuous headway when it comes to delivering results using machine learning. As they’ve evolved and improved their ..."
+    publishedDateTime: 2022-08-06T00:14:00Z
+    webUrl: "https://mumbrella.com.au/machine-learning-and-the-future-of-marketing-750140"
+    type: article
+    provider:
+      name: Mumbrella
+      domain: mumbrella.com.au
+    quality: 36
   - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
     excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
     publishedDateTime: 2022-08-05T14:40:00Z

@@ -2,6 +2,248 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-05-19-implementing-change-part-two-what-ai-cant-do-for-healthcare.md",
+      "title": "Implementing Change Part Two: What AI Can’t Do For Healthcare",
+      "excerpt": "Understanding what AI can’t do is important to prevent tech entrepreneurs and investors from pouring time and resources down rabbit holes that won’t bring about better care, improved working conditions or lower costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/05/19/implementing-change-part-two-what-ai-cant-do-for-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in.md",
+      "title": "When big AI labs refuse to open source their models, the community steps in",
+      "excerpt": "When big AI labs like OpenAI and DeepMind decline to release their models, community efforts attempt to fill the gap with custom, reverse-engineered versions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
+      "originalUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/interactive.png?w=680",
+          "width": 680,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/19/when-big-ai-labs-refuse-to-open-source-their-models-the-community-steps-in/amp/",
+      "publishedDateTime": "2022-05-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-dentistry-the-next-frontier-for-artificial-intelligence.md",
+      "title": "Dentistry: The Next Frontier For Artificial Intelligence",
+      "excerpt": "AI is poised to make a new, more immediate impression on our lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62865b862eb4cc9f585b113f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/dentistry-the-next-frontier-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-create-personalized-ai-powered-social-media-content-with-predisai.md",
+      "title": "Create Personalized, AI-powered Social Media Content with Predis.ai",
+      "excerpt": "A unique Artificial Intelligence (AI) start-up that helps marketers, solopreneurs, and influencers create Social Media content effortlessly. PUNE, India , May 19, 2022 /PRNewswire/ -- Social media has brought about a revolutionary change in the way of life and Predis.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-india-social-media-aa5c53006200808283c597860d13c9f8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-19T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing.md",
+      "title": "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing",
+      "excerpt": "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/",
+      "publishedDateTime": "2022-05-19T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-chatbots-can-be-weaponized-how-to-defend-against-these-attacks.md",
       "title": "Chatbots Can Be Weaponized — How To Defend Against These Attacks",
       "excerpt": "The speed of chatbot adoption has outpaced the expansion of cybersecurity programs to protect against threats introduced by these technologies.",
@@ -937,221 +1179,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
-      "title": "AWS and Temenos team up for speedier banking",
-      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-performing-artists-push-for-copyright-protection-from-ai-deepfakes.md",
-      "title": "Performing artists push for copyright protection from AI deepfakes",
-      "excerpt": "When a friend messaged voice actor Bev Standing to ask whether she was the voice of TikTok's text-to-speech feature, the Canadian performer's surprise soon turned to irritation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/performing-artists-push-copyright-protection-ai-deepfakes-2022-05-18/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/6BbOlIsUD1m77qP5CQnD4_lBcnQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HRDUY677TBNVXNJCYV2UKSYZBY.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers.md",
-      "title": "Crystal Group Brings AI to Power Grid With First GPU-Accelerated Substation Servers",
-      "excerpt": "Crystal Group, Inc., a leading designer and manufacturer of rugged computer and electronic hardware, announced today its release of the first GPU-accelerated substation servers designed to bring cutting-edge artificial intelligence (AI) capabilities to the utilities market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/crystal-group-brings-ai-to-power-grid-with-first-gpu-accelerated-substation-servers/article_45ac9083-858d-54bf-9e4f-ca5821df2d24.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/7/30/7307806f-c297-5491-a21c-e18142c2b049/628511e470dc7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-apple-engineer-who-quit-over-return-to-office-policy-joins-google.md",
-      "title": "Apple engineer who quit over return-to-office policy joins Google",
-      "excerpt": "Ian Goodfellow — who worked as Apple’s director of machine learning until he resigned in early May — is joining Google’s DeepMind division as a contributor, Bloomberg reported.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
-      "originalUrl": "https://nypost.com/2022/05/18/apple-engineer-who-quit-over-return-to-office-policy-joins-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-temenos-puts-digital-banking-on-aws.md",
-      "title": "Temenos puts digital banking on AWS",
-      "excerpt": "Temenos (SIX: TEMN) and Amazon Web Services (AWS), have extended their global relationship to run Temenos onboarding and origination solutions on AWS. The technology collaboration aims to allow all retail and commercial banks - incumbents and challengers - to provide digital onboarding and origination solutions with higher performance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
-      "originalUrl": "https://www.finextra.com/pressarticle/92681/temenos-puts-digital-banking-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:46:00Z
 originalUrl: "https://www.navytimes.com/news/burn-pits/2022/08/09/burn-pits-recognition-for-veterans-took-decade-of-struggle/"
 webUrl: "https://www.navytimes.com/news/burn-pits/2022/08/09/burn-pits-recognition-for-veterans-took-decade-of-struggle/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Navy Times

@@ -2,6 +2,169 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-20-serial-entrepreneur-anoop-ambika-is-new-ceo-of-kerala-startup-mission.md",
+      "title": "Serial entrepreneur Anoop Ambika is new CEO of Kerala Startup Mission",
+      "excerpt": "Artificial Intelligence, and Machine Learning, Life Sciences, ideation, and entrepreneurship. The Government issued the notification appointing Anoop in the position for a period of three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
+      "originalUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/serial-entrepreneur-anoop-ambika-new-ceo-kerala-startup-mission/amp/",
+      "publishedDateTime": "2022-06-19T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence.md",
+      "title": "The Chinese Tech Firms Pushing Boundaries Of Artificial Intelligence",
+      "excerpt": "It is Baidu’s driverless car projects that could ... According to the Boston Consulting Group, the global market for vehicles with self-driving functions could reach as much as $77 billion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/7acf6ec909f2da11af9f0014c2589dfb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2017/04/10/the-chinese-tech-firms-pushing-boundaries-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-19T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
+      "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
+      "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "originalUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars.md",
+      "title": "BGSU professor Qing Tian working on improving safety of self-driving cars",
+      "excerpt": "From BGSU OFFICE OF MARKETING & BRAND STRATEGY. As auto makers continue to explore the possibility of self-driving cars, a Bowling Green State University professor is conducting r",
+      "sourceUrl": null,
+      "webUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
+      "originalUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgindependentmedia.org/wp-content/uploads/2016/10/cropped-BGIN_logo_blue_square_300px-1.jpg",
+          "width": 300,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BG Independent News",
+        "domain": "bgindependentmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
       "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
       "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
@@ -1141,190 +1304,6 @@
         "Facebook AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
-      "title": "How do you insure artificial intelligence?",
-      "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
-      "originalUrl": "https://www.canadianunderwriter.ca/insurance/how-do-you-insure-artificial-intelligence-1004222454/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.canadianunderwriter.ca/uploads/2022/06/artifical-intelligence-picture-id143922813.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Underwriter",
-        "domain": "canadianunderwriter.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-explained-and-tested-teslas-self-driving-autopilot.md",
-      "title": "Explained and tested: Tesla’s ‘self-driving’ Autopilot",
-      "excerpt": "Today, Tesla’s rise, both in output and share price, is meteoric. So much so that in March 2022 the Model Y and Model 3 were respectively the best and second best selling cars in the UK. Read any review of a Tesla (including our own) and two big reasons for buying or leasing one will rear their heads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/tesla-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://car-images.bauersecure.com/wp-images/151851/teslaselfdriving_01.jpg",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "cdnAmpWebUrl": "https://www-carmagazine-co-uk.cdn.ampproject.org/c/s/www.carmagazine.co.uk/amp/autonomous/tesla-self-driving/",
-      "publishedDateTime": "2022-06-14T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-aws-with-intel-launches-deepracer-student-league.md",
-      "title": "AWS with Intel launches DeepRacer Student League",
-      "excerpt": "AWS in collaboration with Intel has announced the launch of the AWS DeepRacer Student League 2022 in India to introduce machine learning (ML) to students in higher education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "originalUrl": "https://www.thehansindia.com/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/14/1297767-deepracer.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/aws-with-intel-launches-deepracer-student-league-748707",
-      "publishedDateTime": "2022-06-14T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-the-artificial-intelligence-we-fear-is-our-own.md",
-      "title": "The Artificial Intelligence We Fear Is Our Own",
-      "excerpt": "A Google engineer has been ridiculed for his belief that a language model had become sentient. But the joke is on us if we continue AI research with only profit as the goal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "originalUrl": "https://www.pcmag.com/opinions/the-artificial-intelligence-we-fear-is-our-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01H7KoLZImiw6QykYnwmu4S-1.fit_lim.size_1200x630.v1655156076.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

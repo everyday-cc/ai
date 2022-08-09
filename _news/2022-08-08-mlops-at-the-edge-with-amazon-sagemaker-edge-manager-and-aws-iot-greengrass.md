@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-wi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1325
     height: 662
     isCached: true
+
+related:
+  - title: "Create Amazon SageMaker model building pipelines and deploy R models using RStudio on Amazon SageMaker"
+    excerpt: "In November 2021, in collaboration with RStudio PBC, we announced the general availability of RStudio on Amazon SageMaker, the industry’s first fully managed RStudio Workbench IDE in the cloud. You can now bring your current RStudio license to easily migrate your self-managed RStudio environments to"
+    publishedDateTime: 2022-08-09T19:39:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-model-building-pipelines-and-deploy-r-models-using-rstudio-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 53
 
 secured: "FM6UOZENvllYUPA+7kDycYsPanEhtGdPBURpLakVZjWF8qXkJzJjNct1PTHKXvTpWOwaj7wGcRhBnOLWkBG4DzWDu9IW+/pr71Bc8p4IIA9QK+8RHCb3o40nrDs3PM8Fqr0zc1doGcg5XAdmAzyXZ4g0zMHkMZmG7tgNqsGnR62NJzZTrnv2n0kPoUkOqbttStNosmVq1CqMIKaIgmnRJv58bEuZpaL0hu3qRqJXXOkxSGxC3uMlZJ8QN+nnES1yD177fwGJ5PGRvXY2Z7EqEB61IKFctRACkSEeyqJjgtaoyKHlblbb22M8Nfz/JQEVsag3uPjOtCOd0Sl6AuhUVui3RoNLtPdpLFM8b0v2ZuY=;+Zxpwb6udKpIJIyt791Mug=="
 ---

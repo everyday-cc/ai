@@ -103,7 +103,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -224,7 +224,7 @@
       "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -276,7 +276,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -654,7 +654,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1134,38 +1135,29 @@
       ]
     },
     {
-      "path": "_news/2022-08-04-ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "AI-Enabled Translation Service Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "According to our recent \" AI-Enabled Translation Service market research report \", the AI-Enabled Translation Service market with a compound annual growth rate (CAGR) of a percent 2022-2028. The AI-Enabled Translation Service market report examines global,",
+      "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
+      "title": "How analog AI hardware may one day reduce costs and carbon emissions",
+      "excerpt": "Could analog AI hardware – rather than digital – solve machine learning’s rising costs and carbon footprint with fast, low-energy processing?",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-03",
+      "webUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T18:01:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
+      "publishedDateTime": "2022-08-03T19:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1181,9 +1173,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
+        "AI"
       ]
     }
   ],

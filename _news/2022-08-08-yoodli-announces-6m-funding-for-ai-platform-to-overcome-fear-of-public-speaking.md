@@ -24,50 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Compliance.AI Appoints New CEO, Secures $6M in Funding"
-    excerpt: "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector."
-    publishedDateTime: 2022-08-05T02:07:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/"
+  - title: "Seattle AI startup that helps professionals improve public speaking by analyzing speech raises $6M"
+    excerpt: "Yoodli, a Seattle startup with an AI-enabled software platform that analyzes speech to offer tips for improving communication skills, raised $6 million. The founders: The startup was co-founded… Read"
+    publishedDateTime: 2022-08-08T16:24:00Z
+    webUrl: "https://www.geekwire.com/2022/seattle-ai-startup-that-helps-professionals-improve-public-speaking-by-analyzing-speech-raises-6m/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Global-Regtech-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "AI, 5G breathing new life into appliances"
-    excerpt: "\"5G offers technological support for the adoption of 8K, while 8K is one of the best application scenarios for superfast wireless technology,\" said Wu Wei, chief engineer at Skyworth Group, adding that 5G has the advantages of high speed,"
-    publishedDateTime: 2022-08-09T02:10:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202208/09/WS62f1c216a310fd2b29e711e3_2.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202208/09/62f1c216a310fd2bec9b2deb.jpeg"
-        width: 518
-        height: 345
-        isCached: true
-  - title: "Plant floor AI developer Trumble, Inc. hires new CEO"
-    excerpt: "Farmington Hills-based Trumble, Inc., a plant floor intelligence and software company, has hired Mike Prins as its new CEO. Prins previously worked in market diversification, inorganic growth, product commercialization,"
-    publishedDateTime: 2022-08-05T14:36:00Z
-    webUrl: "https://www.crainsdetroit.com/manufacturing/trumble-inc-hires-mike-prins-new-ceo"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/mike%20prins-main_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: GeekWire
+      domain: geekwire.com
+    quality: 33
 
 secured: "M34o6wE6BLLraVDD4FvFI5zMOWhbO0kht6We5o6EkNJ7dPo3er+zHl3xQeivUOfXQGN8LunQDpyPkJfWkFEe3Hv3BFqarNsBz0rSNmD9YBlq62nvZ6Am5aPGRRtz2c+P/R5cNJboxB45rEJkgpyOhxJaOk/yMxD/Ca9dYBO24fv56nL/SQoY/C7d+Dsu+gfx+AZSv7DfGUK3cMr5litY4wtLJ8y2pzH/PEULf/Qfu9yDADCk1cUdiswZGBa1Q3k1CNQ7FJZnfAXaRBYfRNGCdNPtmFJ+dam9YimLqYEw4i74TciwXiZaPLcj+pD9WjHMdWbTeL+UF7N6ruEV+hi7Z541br5LQUig/M5g07cvAkk=;NldiShV19ZXcjHx8qmFaoQ=="
 ---

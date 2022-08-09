@@ -72,6 +72,22 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+        width: 620
+        height: 372
+        isCached: true
   - title: "BlenderBot 3: An AI Chatbot That Improves Through Conversation"
     excerpt: "Our new AI research chatbot is designed to improve its conversational skills and safety through feedback from people who use it."
     publishedDateTime: 2022-08-05T15:00:00Z
@@ -237,6 +253,24 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "Meet BlenderBot, Meta’s AI chatbot, that loves slamming Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
+  - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
+    excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
+    publishedDateTime: 2022-08-09T21:16:00Z
+    webUrl: "https://www.niemanlab.org/reading/metas-ai-chatbot-repeats-election-and-anti-semitic-conspiracies/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 17
 
 secured: "TvJp2IteA7b/mfcXR5D0y68PreixFpYCvtqEGln6S/+mWjc6lO0+fdkVMuplwA1O66S31f8pwQx050m2tg9FAXPWBkUwuV1YNIkExT4/2Gz0YpdnnV5qi6OTBKCIfyrIHBwf1KaDbflueO1xz1ZNX0VmLE4yVQVzzFS4KmqZEVMRVvsMNskcKZ8ThSTkUKVZ01T2k8aPe3hO8pjxRCGl0rvK8KiHxlooklNBKKZiNOEVBBUB1Q6a/cYFyJh0nqAhAw29dx/1WOfV/SYhqctyzxV9ADmHg/y7meiujbS69kqwOTD7MpzEyEM/bo2irt1fB36SYjfLBLjC/vGZkQRgrm/6Y2EV+4dSgBCqThT6dv++844r5qowdoAp48/SappUgPin9J+F15aBZyJU3FUTGqWpM4rqUU+oRJve2cZhfxVqgl2io5sxm2q6trHScdpMlZz8h8oAlvuAi+mojuOPnfH7GQfEhgOfEzTWqGHFlVxye6Cu/lXA8obEVJOXQk22CQUev1K9exXpYW9nnUiMFw==;/tAvlu9uXix8N2dffAASVg=="
 ---

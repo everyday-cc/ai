@@ -39,15 +39,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Teradata Corporation (TDC) CEO Steve McMillan on Q2 2022 Results - Earnings Call Transcript"
-    excerpt: "Q2 2022 Earnings Conference Call August 04, 2022 5:00 PM ET Company Participants Christopher Lee - Senior VP and Head of IR and Corporate"
-    publishedDateTime: 2022-08-05T02:42:00Z
-    webUrl: "https://seekingalpha.com/article/4530027-teradata-corporation-tdc-ceo-steve-mcmillan-on-q2-2022-results-earnings-call-transcript"
+  - title: "Stereotaxis, Inc. (STXS) CEO David Fischel on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 9, 2022 10:00 AM ET. Company Representatives. David Fischel - Chairman, Chief Executive Officer. Kim Peery -"
+    publishedDateTime: 2022-08-09T19:39:00Z
+    webUrl: "https://seekingalpha.com/article/4532144-stereotaxis-inc-stxs-ceo-david-fischel-on-q2-2022-results-earnings-call-transcript"
     type: article
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 14
+    quality: 15
     images:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200

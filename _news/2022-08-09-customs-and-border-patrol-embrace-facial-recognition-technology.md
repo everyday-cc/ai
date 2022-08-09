@@ -68,22 +68,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "City Council: NOPD must have court warrant prior to using facial recognition software"
-    excerpt: "City leaders are putting some checks in place on the New Orleans Police Department’s use of facial recognition technology."
-    publishedDateTime: 2022-08-05T03:59:00Z
-    webUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/"
-    ampWebUrl: "https://wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/crime/city-council-nopd-must-have-court-warrant-prior-to-using-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 52
-    images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2022/08/GettyImages-1161938833.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "New Orleans City Council Regulates Facial Recognition"
     excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
     publishedDateTime: 2022-08-08T23:40:00Z

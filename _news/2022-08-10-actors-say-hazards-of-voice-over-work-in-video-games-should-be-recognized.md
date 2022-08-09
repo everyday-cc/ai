@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:35:00Z
 originalUrl: "https://www.timescolonist.com/the-mix/actors-say-hazards-of-voice-over-work-in-video-games-should-be-recognized-5677097"
 webUrl: "https://www.timescolonist.com/the-mix/actors-say-hazards-of-voice-over-work-in-video-games-should-be-recognized-5677097"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Times Colonist

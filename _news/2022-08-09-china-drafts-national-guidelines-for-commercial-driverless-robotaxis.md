@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Watch DeepRoute.ai’s Driverless SUV Successfully Navigate Through The Traffic Chaos Of Shenzhen In China"
-    excerpt: "The driverless prototype was tested in the city of Shenzhen in China under heavy traffic conditions, showing how well it reacts to challenging real-life scenarios. The video shows a 14-mile route in the Central Business District roads of Shenzhen which was completed in one hour."
-    publishedDateTime: 2022-08-05T01:11:00Z
-    webUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/watch-deeproute-ais-driverless-suv-successfully-navigate-through-the-traffic-chaos-of-shenzhen-in-china/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 57
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/DeepRoute-Autonomous-Car-Video-main-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Self-driving air taxis coming to Australia"
     excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
     publishedDateTime: 2022-08-09T00:56:00Z

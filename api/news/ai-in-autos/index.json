@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/baidu-driverless-taxis-china-71659938332997.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -297,7 +297,7 @@
       "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -389,6 +389,50 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
+      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
+      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
+          "width": 2835,
+          "height": 1929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "publishedDateTime": "2022-08-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI",
         "AI in Autos"
       ]
@@ -488,6 +532,49 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
+      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
+      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -765,6 +852,49 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-can-artificial-intelligence-really-help-us-talk-to-the-animals.md",
+      "title": "Can artificial intelligence really help us talk to the animals?",
+      "excerpt": "to decode non-human communication using a form of artificial intelligence (AI) called machine learning, and make all the knowhow publicly available, thereby deepening our connection with other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "originalUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1304,144 +1434,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
-      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
-      "excerpt": "This article follows below: Driverless as well as artificial intelligence are the current research hotspots in the field of vehicles. Considering the cost of experiments, how to conduct unmanned ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology/article_6f17fb76-11f4-5eff-a6bd-fe7b4123990e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-driverless-delivery-vehicles-really-work.md",
-      "title": "How Driverless Delivery Vehicles Really Work",
-      "excerpt": "We're talking about a silent (literally) revolution led by driverless delivery vehicles. Online retail giant Amazon acquired self-driving startup Zoox in 2020 for $1.2 billion to deploy autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
-      "originalUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/how-driverless-delivery-vehicles-really-work/l-intro-1658925083.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-whats-driving-us-china-spat-over-audits-and-delisting.md",
-      "title": "What’s Driving US-China Spat Over Audits and Delisting",
-      "excerpt": "About 200 Chinese companies whose shares trade in the US, including JD.com Inc. and Baidu Inc., face delisting because American regulators aren’t able to verify their financial audits. While China and the US continue to negotiate access to audits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

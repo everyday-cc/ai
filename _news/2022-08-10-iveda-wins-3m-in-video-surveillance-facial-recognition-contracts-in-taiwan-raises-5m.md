@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T19:02:00Z
 originalUrl: "https://www.biometricupdate.com/202208/iveda-wins-3m-in-video-surveillance-facial-recognition-contracts-in-taiwan-raises-5m"
 webUrl: "https://www.biometricupdate.com/202208/iveda-wins-3m-in-video-surveillance-facial-recognition-contracts-in-taiwan-raises-5m"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Biometric Companies
