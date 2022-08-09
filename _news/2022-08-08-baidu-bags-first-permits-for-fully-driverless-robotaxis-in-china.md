@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
-excerpt: "Baidu has also secured a permit to run driverless cars on open roads in Beijing but here, the permit still requires a human operator in the front passenger seat."
-publishedDateTime: 2022-08-08T12:09:00Z
-originalUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
-webUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
+excerpt: "Chinese Internet giant Baidu on Monday said it will soon ply fully driverless taxis in Chongqing and Wuhan cities via its autonomous ride-hailing unit called Apollo Go, becoming the first company in the country to herald autonomous driving."
+publishedDateTime: 2022-08-08T11:58:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=987474"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=987474"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+    width: 280
+    height: 250
+    isCached: true
 
 related:
   - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
@@ -138,6 +144,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Baidu bags first fully driverless robotaxi licence"
+    excerpt: "BEIJING: China search engine giant Baidu Inc say it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+    publishedDateTime: 2022-08-09T01:12:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/08/09/baidu-bags-first-fully-driverless-robotaxi-licence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/09/1689859.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Baidu wins permits to operate fully driverless robotaxis in China"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
     publishedDateTime: 2022-08-08T10:41:00Z
@@ -157,6 +177,6 @@ related:
       domain: motorauthority.com
     quality: 19
 
-secured: "IE5dvv+kjTVQNMTo5H6VxeZ/eqr3Yi1XljqGa3QTh5IIqYLd6vuqWAlixg4g4qH0SMPQL/Lm5ejX6p0qCSGsWt+XXdMZb6r9OW0NQZVM2Q/KfAAJlw5SC/sxQgXvxrnrQayTThQgef/MZb250QCgXQNAhBU0NDvUh2KJljC7bIcUwP4l0TNnQ6ejkICoyZxG78pakhx8Nc94el+dBL403TD9uxBOJpUrXy5uIOhKW2NGf70X28x2O1WipL0Zl3vH6RMBDnqofUE+0PP7aNU1WpwolWQ7aIhMM31nZ80deLziaHamMMDz8/vfQbGSQpl0eSf925wR8hQapMQVyaFDTmd2hPTTB8VxE/bJtXdTg4URvJCSCHGlaNlt/RRYPP0x8fLaC3mX/ZddGiCxilPJt7T5e7mkJ8fqrBJ1cdZ36V5R3Aij1b04ky9lh+ydXNtxPSamTKWSmxC0Z8qRzxT4kih1/3S69MjmkoWsxjsodAWYXZQexEZ1BvOLJ6s6ASLbSt8/yWw5d+MoL06RRxwSyg==;ZpL3H6BMyFVceURKrVb8Bg=="
+secured: "GQlkv+fHKCqkF4bek3piDsKs9Gs3cB0Bq4kNxes6zUi1midzI2sRbEcF3E9bEL4USNoSJdhpSE9GaHfpUaWrAI9DHA+IyzWiY3ULCZS9wq5gFOwH+GInLFtZGu3JJC0Lb3UEdznWag30Om51rNAkLHwDG6R2TySVZcW00igTsY7Ldos44StKPb+aXibAwcOlJQPTpJUQDvT+iAhfHqTnXvwiQc7mOWtdUGK84vw1vs4Sc8cnOPdRS+eHCHPTgH0J8u1JbA8vxF7WlloK0j45KX755oUoMVLkpySqBHyL9EywmAbZwwHEuXn1wiveI2Np5XG/5Y5DKM7F86r8uR1a6t36YAmyh55qzTDBCb8NFe0=;eovMtUUGsh+1HtAqgN5bQg=="
 ---
 

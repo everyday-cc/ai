@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-21-new-hybrid-machine-learning-forecasts-lake-ecosystem-responses-to-climate-change.md",
+      "title": "New hybrid machine learning forecasts lake ecosystem responses to climate change",
+      "excerpt": "EDM can help in this context as a form of supervised machine learning, a way for computers ... of ecosystems and they are also the reality of financial markets where prediction is so challenging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/956268",
+      "originalUrl": "https://www.eurekalert.org/news-releases/956268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/885cfaa6-617b-4f78-a506-d75325ad7c37/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-india-bangladesh-explore-cooperation-in-ai-cyber-security-startups.md",
       "title": "India, Bangladesh explore cooperation in AI, cyber security, startups",
       "excerpt": "Border management was also a key item on the agenda of cooperation. \"...better management of our long border is also a key priority. Our Border Guarding Forces are committed to combating trans-border crimes.",
@@ -1286,58 +1330,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-ai-is-new-but-not-immune-from-old-rules-bank-regulators-say.md",
-      "title": "AI Is New but Not Immune From Old Rules, Bank Regulators Say",
-      "excerpt": "Financial institutions’ use of artificial intelligence should have risk controls in place to address possible drawbacks, senior bank regulators said, warning that old rules could be applied to the novel technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
-      "originalUrl": "https://www.wsj.com/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-557633/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-is-new-but-not-immune-from-old-rules-bank-regulators-say-11654296619",
-      "publishedDateTime": "2022-06-03T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

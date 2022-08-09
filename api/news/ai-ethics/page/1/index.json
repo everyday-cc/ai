@@ -10,7 +10,7 @@
       "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -520,6 +520,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-an-engineer-who-was-fired-by-google-says-its-ai-chatbot-is-pretty-racist-and-that-ai-ethics-at-google-are-a-fig-leaf.md",
+      "title": "An engineer who was fired by Google says its AI chatbot is 'pretty racist' and that AI ethics at Google are a 'fig leaf'",
+      "excerpt": "\"These are just engineers, building bigger and better systems for increasing the revenue into Google with no mindset towards ethics,\" Lemoine told Insider. \"AI ethics is just used as a fig leaf so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "originalUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d1d834632b5300188aab8d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "publishedDateTime": "2022-07-31T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1429,49 +1481,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched.md",
-      "title": "UAE: First BA Philosophy and Ethics programme in Arab region launched",
-      "excerpt": "Mohamed Bin Zayed University for Humanities has launched a Bachelor of Arts in Philosophy and Ethics degree programme under the College of Arts and Humanities, the first academic offering of its kind in the region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
-      "originalUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=b5885a70-097d-52bb-9b86-ef567ea5a247&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/education/uae-first-ba-philosophy-and-ethics-programme-in-arab-region-launched?amp=1",
-      "publishedDateTime": "2022-07-14T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

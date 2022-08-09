@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.amp"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Robot-Assisted Therapy Can Help People Who've Had a Stroke Regain Mobility"
+    excerpt: "Researchers say robot interface therapy can help people with paralysis after a stroke rebuild some of the motor pathways in their brain"
+    publishedDateTime: 2022-08-08T07:01:00Z
+    webUrl: "https://www.healthline.com/health-news/how-robot-assisted-therapy-can-help-people-whove-had-a-stroke-regain-mobility"
+    type: article
+    provider:
+      name: Healthline
+      domain: healthline.com
+    quality: 67
+    images:
+      - url: "https://post.healthline.com/wp-content/uploads/2022/08/robot-therapy-stroke-1200x628-facebook-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Brain-robot interfaces may help the brain reroute motor pathways damaged during stroke"
     excerpt: "Brain-robot interfaces -; apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb -; show promise in rehabilitating paralyzed stroke patients."
     publishedDateTime: 2022-08-09T01:31:00Z

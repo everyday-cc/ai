@@ -19,29 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
-    excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
-    publishedDateTime: 2022-08-08T12:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194564-fintech-report-financial-tech-firms-raised-24-1b-in-vc-funding-across-1103-deals-in-q2-2022/"
+  - title: "AI development service Market Size, Share, growth, Trends and Forecast 2022-2030"
+    excerpt: "The global AI development service market size was US$ 31.1 billion in 2021. The global AI development service market is forecast to grow to US$ 705.1 billion by 2030, registering a compound annual growth rate (CAGR) of 36."
+    publishedDateTime: 2022-08-05T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
-    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
-    publishedDateTime: 2022-08-05T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
+  - title: "North America Deep Learning Chip Market Growth Overview, Revenue , Scope, Future Trends and Forecast to 2027"
+    excerpt: "North America Deep Learning Chip Market is expected to grow from US$ 900.1 Mn in 2018 to US$ 7836.4 Mn by the year 2027 with a CAGR of 27.1% from the year 2019 to 2027. Driving factor such as the ..."
+    publishedDateTime: 2022-08-05T18:59:00Z
+    webUrl: "https://www.digitaljournal.com/pr/north-america-deep-learning-chip-market-growth-overview-revenue-scope-future-trends-and-forecast-to-2027"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Alzheimer-Dimentia-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Full Stack AI Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2029"
+    excerpt: "Global \"Full Stack AI Market\" report analysis by size, share, regions, type, and application, forecast to 2029 is"
+    publishedDateTime: 2022-08-08T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/full-stack-ai-market-size-industry-2022-share-growth-regional-trends-opportunity-assessment-and-comprehensive-research-study-till-2029-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Fintech Market Future Growth, Segmentation, Competitive Landscape, Key Trends & Forecast 2022-2032"
+    excerpt: "The global AI in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-08-04T13:30:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/04/ai-in-fintech-market-future-growth-segmentation-competitive-landscape-key-trends-forecast-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 2
 
 secured: "6MFkT6QoqgwV/o0f5QT0JQ7Pde2VpKS2phHa3+V+OZhbcRarKs0ctV0CM8oIDuNVk897KZIqrTi4fRjAfOf74AG0noW6qO/ieTDgzbDm3xT0TQY1Sehi+aBH4HwCSVt2Xefm/yumRVfJpFB0cLkehyktzTRzXzRc+pTT8e1vBNYo78VJfsysYW7SxFbUj19RGViXb0H/TZqPt7OnmBsjedREX7lfSbBDAoOcuzEI0vad36YTCpeSOXvVbH2WIGrdTbblyuIO9UgeNcWtxJbnRnazzLZ1dI36f9DJqsa0EIlrQUGr/AhcsRq8R/FLLVIKxPc3NntNWRzbEWir0Pw3fCyOzv8wKclkRVrQ8V8Rozc=;D2pCqUfMNcADzAH8q4VBMw=="
 ---

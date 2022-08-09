@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-18-cruises-san-francisco-robotaxis-seize-initiative-in-race-for-autonomy.md",
+      "title": "Cruise’s San Francisco robotaxis seize initiative in race for autonomy",
+      "excerpt": "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Since Google launched its self-driving car project in 2009, it has been leading the way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
+      "originalUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cca8ad2-f2ae-4729-ac51-0826be2a4e99.jpg?source=next-opengraph&fit=scale-down&width=900",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-18T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
       "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
       "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
@@ -1263,49 +1306,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-jidu-auto-steps-up-to-roll-out-mass-produced-robocars.md",
-      "title": "Jidu Auto steps up to roll out mass-produced robocars",
-      "excerpt": "Smart electric vehicle company Jidu Auto, a joint venture established by Chinese tech giant Baidu Inc and carmaker Geely Holding Group, plans to launch its first mass-produced robocar model in the coming autumn and open the first self-owned store in the fourth quarter of this year.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202206/14/WS62a7f247a310fd2b29e62963.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202206/14/62a7f247a310fd2bec8f427f.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

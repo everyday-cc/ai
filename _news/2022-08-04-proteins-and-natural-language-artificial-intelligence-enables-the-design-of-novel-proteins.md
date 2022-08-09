@@ -1,30 +1,27 @@
 ---
 category: news
 title: "Proteins and natural language: Artificial intelligence enables the design of novel proteins"
-excerpt: "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof."
-publishedDateTime: 2022-08-04T14:19:00Z
-originalUrl: "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html"
-webUrl: "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html"
-ampWebUrl: "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp"
+excerpt: "Dr. Birte Höcker has now successfully applied a computer-based natural language processing model to protein research. Completely independently, the ProtGPT2 model designs new proteins that are ..."
+publishedDateTime: 2022-08-04T11:50:00Z
+originalUrl: "https://idw-online.de/de/news799415"
+webUrl: "https://idw-online.de/de/news799415"
 type: article
-quality: 51
-heat: 61
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: idw
+  domain: idw-online.de
 
 topics:
-  - AI
   - Natural Language Processing
-  - AI in Autos
+  - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg"
-    width: 2835
-    height: 1929
+  - url: "https://files.idw-online.de/corona_idw.png"
+    width: 615
+    height: 284
     isCached: true
 
 related:
@@ -38,6 +35,6 @@ related:
       domain: eurekalert.org
     quality: 7
 
-secured: "4T0Oc9larNeEr1P1YAmBOZuloir8uzPL7lIh6HeFPsKKdmqH4KoiyNkHUCAtCX+A1Il7FJ4oJ6jtu3rrrSzxVnyCj6w3cyoy7pM7NrZYsyJGyaw61Hj5EwJvdFamV/xeXxNs1K+qkEduQPAIR+ukbMXZfpDpzNGxeOhlTb4gFuxrEI/Dv5w+b5s1sEy4zpH3p2e5KT897sTTX8yVLoVQ5TpADbepFNjqQwaNTaJ8JolC0HBj3a53zldKnQh5Yj2OOa1ZBU20+cFRDOlRO9nqrVFOVC3SSp0ktSukxzGqdOLnc6ctBo7XeABLMATVO9neKG9Ix+UIpaGe2OVKetgzK/WSVoAM3KQ/7yauJODZUysxX1Inb6ORlzwkO10fmdremki7Ey0cDihdNx4l+QeZMHYWtl8grIdEWWiOeyhpRfKyR6p1JwDK+aHR4FNKZYkFEbn37jkbnZ7wPUj+2hKrcUDF1wg+7a9Xbyg970lcaRsoFKEe4oyAujzEZ0lBQLAqa9AmRaWTqgKCiuQFktoOZg==;wEO222djUbuSiTUvSdnkzw=="
+secured: "YKxiNmdBXFANFxBUQwiCLhi6bRvY8lqCds4D28WlTHJ2BP7zoMYiREcDIE6QEPjeVMQCtiktckSFpoMh1zizo1g4Yqytw1W74OxyGBthcc5gs2a1WlGigHTKw9fz6ifpbv3W+i7Njm3aT2xhpNS+fr5+XoLfymExHRh/EqRIs90sGjZTMA5aN5LYzVtNcxWbcMiVS1Oat+92Ny/BQ4afrwJc+gkJXzcCw23HJp47ymFGKbFRpQx64L2pGozo+emzet0IT+MmqQsSTb7mxemN3oZnojC6siV47k6JUmzHkMLQ/T4ivako7rVuw6GLmNEBw5/hhSANKGjRC5LrRX7UAbIL657uKXy9mJ87eAvydtY=;Twokbc3e6ooF8n3Lnbv3QQ=="
 ---
 

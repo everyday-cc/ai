@@ -2,6 +2,153 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-02-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
+      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
+      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
+      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail.md",
+      "title": "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail",
+      "excerpt": "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-man-who-threw-away-150m-in-bitcoin-hopes-ai-and-robot-dogs-will-get-it-back.md",
+      "title": "Man who threw away £150m in bitcoin hopes AI and robot dogs will get it back",
+      "excerpt": "Computer engineer who accidentally discarded hard drive consults Newport council over scheme",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill?mc_cid=a2f6383de2&mc_eid=d105d8fee6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/fcb98f8e17e8a355edc88e718c0ee6cdaa4fdba4/805_867_4955_2973/master/4955.jpg?width=620&quality=85&auto=format&fit=max&s=e2c6e1f3e82e4a82184ee2c3a2bad4fe",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/02/man-hopes-ai-and-robot-dogs-will-help-recover-150m-in-bitcoin-from-landfill",
+      "publishedDateTime": "2022-08-02T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-7-ways-ai-will-affect-humans-in-our-future.md",
       "title": "7 Ways AI Will Affect Humans In Our Future",
       "excerpt": "The future of AI brings limitless possibilities and applications as the technology moves toward becoming less artificial and more intelligent, which, in turn, will help simplify our tasks in various fields.",
@@ -459,6 +606,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-according-to-marketsandmarketscom-artificial-intelligence-in-healthcare-market-2027-research-study-edition.md",
+      "title": "According to MarketsandMarkets.com – Artificial Intelligence in Healthcare Market 2027 Research Study Edition",
+      "excerpt": "The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% Increasing application of AI in healthcare such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "originalUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-size.jpg",
+          "width": 650,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -978,187 +1168,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-how-deepminds-use-of-ai-is-fast-changing-biology.md",
-      "title": "How Deepmind’s use of AI is fast changing biology",
-      "excerpt": "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/08/01/600x338/AI_1659376032405_1659376046675_1659376046675.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
-      "publishedDateTime": "2022-08-01T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
-      "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
-      "excerpt": "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
-      "originalUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
-      "publishedDateTime": "2022-08-01T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-mlops-making-sense-of-a-hot-mess.md",
-      "title": "MLops: Making sense of a hot mess",
-      "excerpt": "Investment in MLOps is both an enterprise must and a hyper-fragmented landscape. A Gartner analyst weighs in on the confusing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1138917075.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "publishedDateTime": "2022-08-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-money-keeps-raining-down-from-the-aws-cloud.md",
-      "title": "Money Keeps Raining Down From The AWS Cloud",
-      "excerpt": "AWS should surpass Lenovo this year and Dell before too long, and over the longest of hauls AWS has a good chance to catch Microsoft; it has already blown by IBM, Hewlett Packard Enterprise, and Cisco Systems. A lot depends on where you want to draw the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
-      "originalUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/aws-datacenter-racks.jpg",
-          "width": 746,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
-      "publishedDateTime": "2022-08-01T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -10,7 +10,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-08-brain-robot-therapy-reroutes-motor-pathway.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -371,6 +371,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-according-to-marketsandmarketscom-artificial-intelligence-in-healthcare-market-2027-research-study-edition.md",
+      "title": "According to MarketsandMarkets.com – Artificial Intelligence in Healthcare Market 2027 Research Study Edition",
+      "excerpt": "The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% Increasing application of AI in healthcare such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "originalUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-size.jpg",
+          "width": 650,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-automation-tech-company-uipath-acquires-ai-startup-reinfer.md",
       "title": "Automation Tech Company UiPath Acquires AI Startup Re:infer",
       "excerpt": "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks.",
@@ -467,21 +510,64 @@
       ]
     },
     {
-      "path": "_news/2022-07-28-artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381-valuates-reports.md",
-      "title": "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports",
-      "excerpt": "Artificial Intelligence in Healthcare Market by Offering (Software, Hardware, & Services), Algorithm (Deep Learning, Querying Method,",
+      "path": "_news/2022-07-28-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
+      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
+      "excerpt": "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-in-healthcare-market-to-reach-usd-194-4-billion-by-2030-at-a-cagr-of-38-1-valuates-reports-815359487.html",
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-stroke.jpg",
+          "width": 1920,
+          "height": 1354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-diagnostics-access-lifesaving.amp",
+      "publishedDateTime": "2022-07-28T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381-valuates-reports.md",
+      "title": "Artificial Intelligence in Healthcare Market To Reach USD 194.4 Billion By 2030 at a CAGR of 38.1% - Valuates Reports",
+      "excerpt": "BANGALORE, India, July 28, 2022 (PR Newswire Europe via COMTEX) -- BANGALORE, India, July 28, 2022 /PRNewswire/ --Artificial Intelligence in Healthcare Marketby Offering (Software, Hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28-10203114",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-reach-usd-1944-billion-by-2030-at-a-cagr-of-381---valuates-reports-2022-07-28-10203114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -491,12 +577,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T07:00:00-07:00",
+      "publishedDateTime": "2022-07-28T03:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1335,104 +1430,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.md",
-      "title": "‘Care is increasingly moving outside the hospital, retail healthcare will make it a new reality’",
-      "excerpt": "In healthcare, the health-tech industry is gaining traction and has emerged as the leader in terms of growth. The health-tech market has been driven p..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-92981804,imgsize-22320,width-1200,height-628,overlay-ethealthworld/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/care-is-increasingly-moving-outside-the-hospital-retail-healthcare-will-make-it-a-new-reality/92981804",
-      "publishedDateTime": "2022-07-19T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Ethics"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28368679"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28368679"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -35,6 +35,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 17
+  - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
+    excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
+    publishedDateTime: 2022-08-08T18:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-9-enumerateai-announces-the-launch-of-its-ai-powered-interviewing-platform-for-qualitative-and-quantitative-insights"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "6tOh+oo5RkPgoV1oD4jukpmsmB/7WVkDlfRF76Qk/b/VE3nxxcZvAlc00ubvgMppZVPfXeoUH7NTrcYDwsiwTipQtLiENg52J31KV8iQ5lLHbDs98wpdGuDaJTSVfNxaIYZmQ86goj44XYU5BbkNlxLxEM4C5iQVKIvEaNgHCQBMhQazr6tJ5gHxwbbsVfUV/vTtbuIlRTlRDfp/8sQoRYOacfqwnY4dE6EqDrdlEeFdyfOqdXPQxUgoRfga2/HM/y0HXvBLAFXJ7q9dgUmons6Qtfzjf7PowzlUThyuayPfT0zVxxeWjUuafpYNxKXFQB38lZgd0QBhZwg33KpNh2J4ngRJKx6GEvWV8mngLQg=;WRtU0eeAtTCDe+LYLnvAAQ=="
 ---

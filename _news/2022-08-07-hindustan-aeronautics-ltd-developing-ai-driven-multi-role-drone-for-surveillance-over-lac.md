@@ -58,22 +58,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Telehealth and AI are top priorities for Indian Healthcare Leaders, reveals Philips Future Health Index India 2022 Report"
-    excerpt: "Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology, today announced the India findings of its flagship Future Health Index (FHI) India 2022 report titled ‘Healthcare hits reset: Priorities shift as healthcare leaders navigate a changed world’."
-    publishedDateTime: 2022-08-04T09:50:00Z
-    webUrl: "https://theprint.in/ani-press-releases/telehealth-and-ai-are-top-priorities-for-indian-healthcare-leaders-reveals-philips-future-health-index-india-2022-report/1068812/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/telehealth-and-ai-are-top-priorities-for-indian-healthcare-leaders-reveals-philips-future-health-index-india-2022-report/1068812/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/telehealth-and-ai-are-top-priorities-for-indian-healthcare-leaders-reveals-philips-future-health-index-india-2022-report/1068812/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 49
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/08/Untitled-3120220804090957.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "HAL Working To Develop AI-driven Drones For Strategic Missions At Border Areas Along LAC"
     excerpt: "Hindustan Aeronautics Limited is said to have in working on AI-driven drones for strategic missions in high-altitude areas including LAC at border areas."
     publishedDateTime: 2022-08-08T04:11:00Z

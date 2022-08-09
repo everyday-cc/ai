@@ -2,6 +2,457 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-05-13-facial-recognition-may-not-be-banned-after-all.md",
+      "title": "Facial Recognition May Not Be Banned After All",
+      "excerpt": "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
+      "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
+      "publishedDateTime": "2022-05-13T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
+      "title": "An Optimist at the Helm of IBM",
+      "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/business/30corneroffice/30corneroffice-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
+      "publishedDateTime": "2022-05-13T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-gms-cruise-and-brightdrop-explore-self-driving-electric-vans.md",
+      "title": "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans",
+      "excerpt": "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
+      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
+      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
+      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
+      "publishedDateTime": "2022-05-13T07:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
+      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
+      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
+      "publishedDateTime": "2022-05-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-megatrends-ceos-of-mttr-nexcf-oggff-and-upst-discuss-next-big-growth-waves-in-metaverse-ai-plant-based-foods-and-fintech.md",
+      "title": "Megatrends: CEOs of MTTR, NEXCF, OGGFF, and UPST Discuss Next Big Growth Waves in Metaverse, AI, Plant-Based Foods, and Fintech",
+      "excerpt": "We believe in our core that AI lending isn’t a one-category phenomenon ... before and hope to use what I learned there to build Upstart into the most impactful fintech in the world…” Upstart Holdings, Inc. (NASDAQ: UPST) Earnings Highlights: https ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-15-key-tips-to-leverage-visual-search-for-marketing-in-2022.md",
+      "title": "15 Key Tips To Leverage Visual Search For Marketing In 2022",
+      "excerpt": "Agency 11. Remember, A Picture Is Worth A Thousand AI Interpretations In this connected era, it is crucial to understand how artificial intelligence, machine learning, object recognition and algorithms can be affected by color, objects, composition and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627d90028555d69d19210491/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/05/13/15-key-tips-to-leverage-visual-search-for-marketing-in-2022/amp/",
+      "publishedDateTime": "2022-05-13T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias.md",
+      "title": "Apeejay Education and AWS Announce New Accelerator Program Aligned to India’s…",
+      "excerpt": "New Delhi – Apeejay Education, an academic institution in India established for more than 50 years, and Amazon Web Services (AWS), an Amazon.com company, today announced the launch of the National Education Policy Accelerator Program (NEPAP),",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
+      "originalUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/apeejay-education-and-aws-announce-new-accelerator-program-aligned-to-indias-national-education-policy-to-help-academic-institutions-accelerate-their-digital-readiness/",
+      "publishedDateTime": "2022-05-13T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-no-joke-googles-ai-is-smart-enough-to-understand-your-humor.md",
+      "title": "No Joke: Google's AI is Smart Enough To Understand Your Humor",
+      "excerpt": "Amid a flurry of new hardware including the Pixel 7, the Pixel Buds Pro and a new Pixel Tablet, Google dropped one development at its I/O developer conference that went largely unnoticed: its AI can now understand jokes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/036dd9834bc973e9ba35e4b99168d39526eb8267/2022/05/12/e325e935-0564-4a8a-a853-97a41a827de4/screen-shot-2022-05-12-at-4-10-19-pm.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/no-joke-googles-ai-is-smart-enough-to-understand-your-humor/",
+      "publishedDateTime": "2022-05-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
       "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
       "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
@@ -740,421 +1191,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-ai-hiring-tools-can-violate-disability-protections-government-warns.md",
-      "title": "AI Hiring Tools Can Violate Disability Protections, Government Warns",
-      "excerpt": "The Justice Department and the Equal Employment Opportunity Commission said companies whose use of AI tools leads to discrimination could face legal trouble.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "originalUrl": "https://www.wsj.com/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-543409/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-hiring-tools-can-violate-disability-protections-government-warns-11652390318",
-      "publishedDateTime": "2022-05-12T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-langai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai.md",
-      "title": "Lang.ai looks to help orgs extract value from customer conversations, with AI",
-      "excerpt": "Lang's AI-powered customer conversation platform extracts the key concepts in a conversation automatically, so they can be grouped into categories that make sense for a particular business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/lang-ai-looks-to-help-orgs-extract-value-from-customer-conversations-with-ai/amp/",
-      "publishedDateTime": "2022-05-12T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend.md",
-      "title": "Too Much AI May Not Be Good for Your Health or the NHS; Google and IBM exits map trend",
-      "excerpt": "Grand promises that the technology could transform healthcare have struggled to bear fruit, with plenty of patient data collected in the meantime.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/05/12/1600x900/Google_Health_1621427558893_1652340789454.JPG",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/too-much-ai-may-not-be-good-for-your-health-or-the-nhs-google-and-ibm-exits-map-trend-71652330748368.html",
-      "publishedDateTime": "2022-05-12T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract.md",
-      "title": "Moderate, classify, and process documents using Amazon Rekognition and Amazon Textract",
-      "excerpt": "Many companies are overwhelmed by the abundant volume of documents they have to process, organize, and classify to serve their customers better. Examples of such can be loan applications, tax filing, and billing. Such documents are more commonly received in image formats and are mostly multi-paged and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-classify-and-process-documents-using-amazon-rekognition-and-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/04/ML4749_InferencePipeline-776x630.png",
-          "width": 776,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:38:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-3d-printer-companies-makerbot-and-ultimaker-to-merge.md",
-      "title": "3D printer companies MakerBot and Ultimaker to merge",
-      "excerpt": "MakerBot Industries LLC, a major supplier of desktop 3D printers, today announced plans to merge with rival Ultimaker BV. The transaction is expected to be completed by the end of the third quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
-      "originalUrl": "https://siliconangle.com/2022/05/12/3d-printer-companies-makerbot-ultimaker-merge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/MakerBot.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
-      "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
-      "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
-      "publishedDateTime": "2022-05-12T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-texas-illinois-facial-recognition-laws-lead-to-instagram-filter-ban.md",
-      "title": "Texas & Illinois Facial Recognition Laws Lead To Instagram Filter Ban",
-      "excerpt": "After Texas Attorney General Ken Paxton filed a lawsuit back in February against Meta alleging the company was not properly using its facial recognition technology, Meta disabled filters on",
-      "sourceUrl": null,
-      "webUrl": "https://bossip.com/2132998/meta-filter-ban/",
-      "originalUrl": "https://bossip.com/2132998/meta-filter-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/05/1652371215888.jpg?w=560&h=320&crop=1&strip=all&quality=80",
-          "width": 560,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bossip.com/2132998/meta-filter-ban/amp/",
-      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2132998/meta-filter-ban/amp/",
-      "publishedDateTime": "2022-05-12T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bossip",
-        "domain": "bossip.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-family-size-may-influence-cognitive-functioning-in-later-life.md",
-      "title": "Family size may influence cognitive functioning in later life",
-      "excerpt": "A new study at Columbia University Mailman School of Public Health, and the Robert Butler Columbia Aging Center and Université Paris-Dauphine – PSL, found that having three or more versus two children has a negative effect on late-life cognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/952572",
-      "originalUrl": "https://www.eurekalert.org/news-releases/952572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-artificial-intelligence-can-offset-human-frailties-leading-to-better-decisions.md",
-      "title": "Artificial intelligence can offset human frailties, leading to better decisions",
-      "excerpt": "Modern life can be full of baffling encounters with artificial intelligence—think misunderstandings with customer service chatbots or algorithmically misplaced hair metal in your Spotify playlist. These AI systems can't effectively work with people because they have no idea that humans can behave in seemingly irrational ways,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-35.jpg",
-          "width": 567,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-artificial-intelligence-offset-human-frailties.amp",
-      "publishedDateTime": "2022-05-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

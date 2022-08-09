@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-07-expertai-brings-additional-powerful-natural-language-capabilities-to-qlik.md",
+      "title": "Expert.ai Brings Additional Powerful Natural Language Capabilities to Qlik",
+      "excerpt": "Technology partnership with expert.ai extends Qlik's analytics and existing artificial intelligence, natural language processing capabilities Organizations can easily add information extracted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/expert-ai-brings-additional-powerful-natural-language-capabilities-to-qlik/article_9c24627f-7565-5a02-a92d-46dadfb16cb7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/expert-ai-brings-additional-powerful-natural-language-capabilities-to-qlik/article_9c24627f-7565-5a02-a92d-46dadfb16cb7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a0/ca070ed3-e27c-5afc-9ec9-443b4c7fedbe/605225774b161.image.jpg?crop=1042%2C547%2C229%2C0&resize=1042%2C547&order=crop%2Cresize",
+          "width": 1042,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-natural-language-processing-market-booming-worldwide-as-rising-usage-of-smart-devices-to-facilitate-smart-environments.md",
+      "title": "Natural Language Processing Market Booming Worldwide As Rising Usage Of Smart Devices To Facilitate Smart Environments",
+      "excerpt": "Natural Language Processing Market Size – USD 11.80 Billion in 2021, Market Growth - CAGR of 21.5%, Market Trends – Proliferation of smart devices NEW YORK, NY, UNITED STATES, June 6 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
+      "originalUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/06/EP_e8dc8image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
+      "title": "Conversational AI: Trends, Forecasts, Application Options",
+      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
+      "publishedDateTime": "2022-06-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
       "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
       "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
@@ -1228,140 +1366,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029.md",
-      "title": "Clinical Natural Language Processing Market Insight | Report of 108 Pages| Growing CAGR |Leading Players | During Forecast Period 2022-2029",
-      "excerpt": "The Future of the Clinical Natural Language Processing Market – Competitive Landscape, Market Attractiveness and Forecasts to 2029, provides readers with detailed analysis of both historic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-microsoft-expands-its-ai-partnership-with-meta.md",
-      "title": "Microsoft expands its AI partnership with Meta",
-      "excerpt": "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 288,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "publishedDateTime": "2022-05-25T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
-      "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
-      "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "TensorFlow",
-        "Computer Vision"
       ]
     }
   ],

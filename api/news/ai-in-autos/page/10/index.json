@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-03-gms-cruise-wins-first-california-permit-to-carry-paying-riders-in-driverless-cars.md",
+      "title": "GM's Cruise wins first California permit to carry paying riders in driverless cars",
+      "excerpt": "OAKLAND, Calif., June 2 (Reuters) - General Motors Co's (GM.N) Cruise on Thursday became the first company to secure a permit to charge for self-driving car rides in San Francisco, after it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-2022-06-02/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/self-driving-cars-gms-cruise-could-soon-carry-paying-riders-san-francisco-2022-06-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-california-regulators-approve-states-1st-robotic-taxi-fleet.md",
       "title": "California regulators approve state’s 1st robotic taxi fleet",
       "excerpt": "California regulators on Thursday gave a robotic taxi service the green light to begin charging passengers for driverless rides in San Francisco, a first in a state where dozens of companies have ...",
@@ -1275,40 +1318,6 @@
       "provider": {
         "name": "Financial Post",
         "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey.md",
-      "title": "Nearly 50 percent of UAE residents say government must invest in self-driving cars, AI, 3D printing: survey",
-      "excerpt": "UAE residents believe that artificial intelligence, virtual reality, and self-driving cars will have a positive impact, with half of respondents in a YouGov survey saying the government should invest in AI. With its favourable business legislation and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
-      "originalUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

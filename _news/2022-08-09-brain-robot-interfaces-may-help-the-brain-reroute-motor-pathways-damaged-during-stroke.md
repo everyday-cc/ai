@@ -41,7 +41,21 @@ related:
         width: 750
         height: 423
         isCached: true
+  - title: "How Robot-Assisted Therapy Can Help People Who've Had a Stroke Regain Mobility"
+    excerpt: "Researchers say robot interface therapy can help people with paralysis after a stroke rebuild some of the motor pathways in their brain"
+    publishedDateTime: 2022-08-08T07:01:00Z
+    webUrl: "https://www.healthline.com/health-news/how-robot-assisted-therapy-can-help-people-whove-had-a-stroke-regain-mobility"
+    type: article
+    provider:
+      name: Healthline
+      domain: healthline.com
+    quality: 67
+    images:
+      - url: "https://post.healthline.com/wp-content/uploads/2022/08/robot-therapy-stroke-1200x628-facebook-1200x628.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "0dmtTN0P4a0fis6AM99cGDayQ2rs3HGxx2cwUGfveMY/4193ycpS3nP8yFQnhUJKVFtFYLidbaBAQp8mZXB87kCDhaaC74TrirCniCXuzqnrNBVeblwULLT9KD9suRzGNMUcdYanwyj6cmrCg83PT3JmRiE1lY7Z7cJaUzCiYmijAzDG/nKt0KAu6cTjOJVr9ZsVmiptQwdQj/pMOcfN71iYXjbNo9bIf3gPthFTmVkxbOuVYwGxvxT6bXfgnvrzp5iT5LhwY0/7XFS4j+fp+0eKXVo57wppohIQ6vFCvyCcm7xsmsuW4eVKKsR4vyEemrnyMFZwgEn+s8qgoyxY2qs6uhf/24cB211pN1I5b4w=;ta2KS8IoVPDUYva2Ddm+Mw=="
+secured: "2U+IhJ0c6mHv3+18wA0OZIWA65peDN6txAUlU48j+8yUKBFlyPkeXDvk2OQqO752Wr8e0orcCK1FkiRUyi9rTFli299lLARp9uqv0vuOBeXj21hdlBBBe2fEFEeRmNjiNSSsJxya5xlFOV031folGz+7qtuzsQe2BW5u/g/aCS1rluWy0zXGa4y/XwZAsPXie1lRzYcfQ8bCmEx6tTdG1o9XgUt0dkPr0cJ0mVFESqI+KxomPOu/MrbTdZ8JZtgI0e9wsVKHVXJ3n04o33Nr9GFL2NjGa78EjxnMqihmqledsh2j7htNT9ihKKeqxXp2ud0/JnFIYj8uE0LkLpvtGmD9Bc2TJACXw1RBxTdNaXmbyQdfX8795+giLDJE2+152qncyPPGYvcbMfkDKfYMbowoMu9ROHZ1DzS9OmEpHha0CxM/DUTHUnSkfoF3e4l5uWeRytGFkMVpCxYv6kTdmOURftmETvh1rT12/BjW/Q3ifEtTddUWechf0SzVpGaYVZaUB2VJ9e5ULwubeVki7g==;lk2g2Ycsfn2nfOxGBL9TmA=="
 ---
 

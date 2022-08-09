@@ -86,6 +86,20 @@ related:
         width: 563
         height: 375
         isCached: true
+  - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
+    excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"
+    publishedDateTime: 2022-08-09T02:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/when-facebooks-ai-chatbot-made-fun-of-ceo-mark-zuckerberg/articleshow/93442198.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-93442184,width-1070,height-580,imgsize-71276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
     excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
     publishedDateTime: 2022-08-05T16:08:00Z

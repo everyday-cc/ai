@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AWS AI
 
 images:
   - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202207/chess-1200250722120029.jpeg"
@@ -170,6 +171,6 @@ related:
       domain: techxplore.com
     quality: 12
 
-secured: "i9VPX3aJTXXxF/fp+PcNEUvuQwxSWGlhakl1GlrapxYk50yI2MRuOvRa3D8uW5/ueJsew+MPjpkdwEKfeKrk4fVV2xPd9VFL0iFEimvFtOyT1tJQaZEgF9HzpNNK4LMJI0ReGtsavnPzf1mhrbYueLP39SN/rHVwMPx3BzcSahyJN5CNqRzCGGw7C822o62ivD8OlPmnQmFEoUThrn9ElI8ESOF2SfJrhBwgyBN5u4yRtuY3ytNTYVGFSM+zIYIU7SHLgpzeFyeJhN2aEYfQCg1DBR5aCasyicE3mp9CmNe8rU9KX//fdbNVQlMz+DErrWCqqWST32WBydwOflTbSApVY5VbewrnxavVqjSnX5o=;+rW26323/CPFwvrF7RgIQQ=="
+secured: "UgqLZQk3LS/F/Rcl0HV5w3ZsMPowS0NGlmUgTjWUXr8IhUnqh3LewbHIQSW71yVZburWyEjF8eSM1L5gsiVGSuVjuV398hyM7JV4xyxF4tBcvPUmEWzXj3QJzLVrvVswhRzy45b9gxKDuAgVzlYl15+ixhoeR4M5qnKTke3jDcqQ18mrJpfn2fdM4dmXj8QurLC03ncZ6rs9+vQxXt34sFaB+6xPbLE1UUGOWDm+kqR2AtVkr8nMtTQevJ32S04Y0qV3TegmkGT4cavcu8VBlS28fSewQnr5qsy0DNNLHNLEYavYjCWAYCkQ12HOOrLTKLaxUH9wEg8SU5ow9EplLa5JIxq2XmM0uYtVYXABAKGnCqdoH2IPAKfoYgLmqGwQGO7qpOxNWy9QTuFAEQiEHZL99RkLQwz57fz5OKPwLZCB6T4MnqOIWiSfHPR+3w+8ixQ1MQ9Q5ojixBvx7SbisO4F1SX734HzDyFcNJxLXY0gQ3kq5mz1upeR/w0/wIxQKqfKh6SgpYpnuGMQ0jfQMw==;iXc2pd7FimJEZ8gDp7584Q=="
 ---
 

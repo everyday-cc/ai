@@ -139,14 +139,33 @@ related:
         height: 900
         isCached: true
   - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
-    excerpt: "Baidu has also secured a permit to run driverless cars on open roads in Beijing but here, the permit still requires a human operator in the front passenger seat."
-    publishedDateTime: 2022-08-08T12:09:00Z
-    webUrl: "https://www.business-standard.com/article/international/baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china-122080800876_1.html"
+    excerpt: "Chinese Internet giant Baidu on Monday said it will soon ply fully driverless taxis in Chongqing and Wuhan cities via its autonomous ride-hailing unit called Apollo Go, becoming the first company in the country to herald autonomous driving."
+    publishedDateTime: 2022-08-08T11:58:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=987474"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 34
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 54
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
+        isCached: true
+  - title: "Baidu bags first fully driverless robotaxi licence"
+    excerpt: "BEIJING: China search engine giant Baidu Inc say it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
+    publishedDateTime: 2022-08-09T01:12:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/08/09/baidu-bags-first-fully-driverless-robotaxi-licence"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/09/1689859.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Baidu's self-driving taxis deliver rides without safety driver in China"
     excerpt: "Baidu has become the first company in China granted a permit to run a commercial self-driving taxi service without the need for a safety driver. Baidu's service, known as Apollo Go, has been up and running in parts of China since 2021,"
     publishedDateTime: 2022-08-08T15:45:00Z

@@ -34,6 +34,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
+    excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
+    publishedDateTime: 2022-08-08T18:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-9-enumerateai-announces-the-launch-of-its-ai-powered-interviewing-platform-for-qualitative-and-quantitative-insights"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ylxtX3LQlSMPUrWcEiJWue6O32Eb//18Pv2MUmeyUZ47caflNgDza0/cr4TBY1cSxrYEPppUc0kyL4he+INpdQKBJqqQCHnm0Bf3EV0+1SJKEn16I9ZhDyVtcGvo2NNdwtzY9j52Qz4dnSRPq7KIKJIsmHNM94lv5kTueGgvpJyBU3XaeKdp+Lv/tn4eqhaHRnwLQwQStpIuSmtWvpGB3lvHnFvpxL5Wx4B/h2vHar9UH3zHpuau4puTdp4f5RZbEtAlZCzU+koDCTeKisIUmSYse4o14A/6zd4jCUHPBwGcXEvpBtPZG2T1G1/F6d4PmknMfhxrMbptK+4Ht7fZbq5JV/KrLDctukgDCrkUVzwjrC7h8HB8STq+WheDTt6S1QfiDqB7gFF2RmppIZkoI13GMkfn6/K3lVEd7JwHDwxoHMQrYm+uSrB+gHHLbfERsrRsx60izvBCf+nqcKZsAAhJkY/wp7YjD6d5O1O9twk61ONt5duXId4D4lEh6TV7XL0bEz+UPtH2FeBwFmbjxA==;kLyZmfKmDPmJq7o7xmwqSA=="
 ---
