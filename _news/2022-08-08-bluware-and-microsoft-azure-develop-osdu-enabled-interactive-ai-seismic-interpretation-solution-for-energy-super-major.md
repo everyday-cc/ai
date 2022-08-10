@@ -37,6 +37,15 @@ related:
         width: 739
         height: 768
         isCached: true
+  - title: "AI becoming backbone of products and services: Gartner Hype Cycle"
+    excerpt: "There are roadblocks to adoption: a lack of resources and the fragmentation of AI tools require executives to create more cohesive adoption strategies."
+    publishedDateTime: 2022-08-10T13:07:00Z
+    webUrl: "https://www.ciodive.com/news/ai-hype-cycle-gartner-2022/629276/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "DzfHDipd6jO7G/HHi6srUZX+m9fv4aMJqov1tdw2i3Qilj0h1g4XyIRBPS/nHe5lEHXAUaNJ9tn6knmj9NMQ62iF44QEmUj7CeBcR+I282aDmEYg24d8pKD+XdGeJ3iH/z2QR/rKlVaSvURUoVqc39T6wswGlXeF7QJW5ALe9SlSqm7Y9V1F70/uO7Oeg1RoeooEz9HNqNORBoJ23k4Z0plsaKqVsHq2aOnoqMonzMxB0Gy/N/u5BuByV5w2JW82Wzj5AjpZ7GB+mDIGiAp/0QSdKSS4f04z4fEYP7/T1JiMFe6C6ZM1xVvJNrDCeQIdsK93VgmgPLxq1Uy9q3qNAoxicJKlgapCqeBRCfR3VDo=;VQ92U/d3LJMtTFA0s1GYoQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zucker
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
 type: article
 quality: 102
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -172,6 +172,15 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 8
+  - title: "Meta AI chatbot says Mark Zuckerberg ‘too creepy’ and Donald Trump will always be US president"
+    excerpt: "Meta’s newly unveiled artificial intelligence (AI) conversational chatbot, BlenderBot 3, thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and thinks Donald Trump will always be the US president."
+    publishedDateTime: 2022-08-10T12:28:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-ai-chatbot-says-mark-zuckerberg-too-creepy-and-donald-trump-will-always-be-us-president-bde5df2f-c896-52d9-9ee6-cd25e5f552f3"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 7
 
 secured: "V0aYVBzVgsXi8dMo5m1l2mQYFlAPEEKvG0O43+CSE3eX9PXluxuE25h0ebcIpsO09gA7CYPuv5vb0U7aaxmyuGeKPtX9U+YUNtcxFthQCvg2ComTij5wKBx04J0zI99vPAgSwI2i4TdsDuRSw83VpB6b4KREKCPwz1UpdwFR2EX0S2JcDBLMP/SZfNf/jYNvXqKIQPFPYO11vABEFCPMVRI5VZlzTK46KvwmMSwkVF0Q2DSLnbdfhywJgun1BGdNFbcYaOLX3shXjImP4dBtwxKykVfQnwTxmDoMwq5oysZIc4XkG8kWLYetF3aBNmG4qDk3gogHNWJp9RPJLeb98YX+q3sWNe5704wbIqKx4Iz5M53p9jbJKWj5JECY1bFRRh4pLWmChF9Bd+riOvJgBCB6d/SUtfO8dYqs1IgYkbFethlMs88jSLkprRTkjehLb/ZWn/JNGzHpOhVyUaw9ElWGu0iX6YzrMaDmpMh3+3iRvfslpq84eofIsIyFhr9P+kbGidR1wbvcQkJlSNxfGQ==;OMgEK4XOrThyATvqn9LgnA=="
 ---

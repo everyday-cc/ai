@@ -116,22 +116,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Meta's New AI Chatbot Is Next-level"
-    excerpt: "Meta has a new AI-powered chatbot named Blenderbot 3. You're able to have conversations with it and it's pretty good."
-    publishedDateTime: 2022-08-05T20:57:00Z
-    webUrl: "https://www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/08/meta-ai-chatbot-iblenderbot-3.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/01/Meta-Logo-metaverse.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z
@@ -163,6 +147,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/08/07/1600x900/Meta_1659859088677_1659859093109_1659859093109.png"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
+    excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
+    publishedDateTime: 2022-08-10T15:33:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-meta-defend-racist-chatbot"
+    ampWebUrl: "https://futurism.com/facebook-meta-defend-racist-chatbot?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-meta-defend-racist-chatbot?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 44
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/facebook-meta-defend-racist-chatbot-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
     excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"

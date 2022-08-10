@@ -1,19 +1,25 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
-publishedDateTime: 2022-08-03T17:12:00Z
-originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
-webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
+publishedDateTime: 2022-08-03T17:26:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
 type: article
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - AI
 
-secured: "V+vzCF2TrwgcYudrJrVkhKjE1aDc/M3EGBE+IhIAXMqb1OfJRANAfm6/x6Bm2Ak7HHcinFY4Wt4zHOs5aKn5FvhLQ3hEes8p8oLYTALgT0Bwk2hJmI7jbDcPWFRVWNmjWyKY9mMQkBCIrO9uhVZN8aybd2Xu+Xqw8nbF+bQZe00TpGHLJduxTk759HbG3ZkU/vJtD5yOLrmZIgGXc4tNXOCEiBZ3wrmAna4AfmVXY3KGHhAr9wfbFg1n86r+hw5sWTB9kWbpERDqDBhiGR17HeS3OvPGI2sUgQVKwo8wrflzqpYjiiV6c+Q39ZcWXS4kxlGM6GSrUFbxgVzTN7tBGZm2E2h7fBGp3zUrTtj94Ws=;7eKsxAGsH/acpD2FGdoXkw=="
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
+
+secured: "TCi846TXvC66yLvt/j1u+Y23XycqTuekHPFWQzeSA+tYg5E8ur8NhiaOeKNpsT4c0lvKbTGJYDuuSC+5oyE631oM7NIIbqFXPKfZky/lb+7UkgrilbfN607ya9lDdFfP2R/uEWbKNUqoxyZeb+GjGT92osgBJyhj5O+2ZcXy0phueMMN/Z7ocP5f/7f4sw8rA9wM0sf4jBVrW4MOmg2nalwSltwwaq9wHJdcud0gPzOIycq1GxxXUdFlNhkNEwoIV+5vl5WeX47CaOPEKd2m8cFI3f15Dm5NuyioLHBS/kPYCGelrKE42zYEu11CXKnvI6NRr2TkElCmnuXmH4xvhL8+wjPA1Rvg/SFQ+Edu9mQ=;LZflZdGms5d4kRWsVDfzrw=="
 ---
 

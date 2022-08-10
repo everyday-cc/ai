@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:39:00Z
 originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1269612&cat=PR News Wire"
 webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1269612&cat=PR News Wire"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Webindia 123
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Yellow.ai announces the launch of its proprietary DynamicNLP™"
+    excerpt: "Powered by zero-shot learning, Yellow.ai’s DynamicNLP™ enables zero training of NLP models, go-live within minutes; while delivering over 97% intent accuracy"
+    publishedDateTime: 2022-08-10T13:25:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-announces-the-launch-of-its-proprietary-dynamicnlp-layv20we"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 19
 
 secured: "Ie7cavpvI88fZVm/azQgq1nsj62edPDQcQdJtUfHQ+POJuFtYWTYZ+SEoVkueriD3+EltV1lu4GxVtq1PFyHog2nJ2ppduOhVzpthJedCThI1r8CVt4/S+ElokRHcDW7V+5WpghjEDNJXzz4ZLTAPAp2olBgpP2/N4eGUWSS1TSfuOGjLOA/XD2g39y5FL5wAuAR3iY3JmG+jwVcOjFkiSOcJJ3x3qzNPstaFSpER34gvTm57Rz4/KpSzeRqRh9WBlzR9NkoUJiY7Zutx/KNct/B/uVNauVfV96FiZrWdKW/I/XmL0xoRQDTMWNdbxeeQRQ9LZ/+KZhx6SYw8PQKCKQnca3aPCHsIkCxtxALZfWBjoDfK+MDFvPzv9+9cX+HYS8Ichf498TDBChJJpI3Mrkm/DvTlym9j7C97+L478CGMnRpyBGcGE0T/1cuO+O1UnGt/0CSVDXT4kUfdVX/wn1MO9nPOOORakt/U5xVbeHxaIVZhK4vrYOvdBe+RysVlVyTxrAzp6QSBwf8YIlcnQ==;N1ELw+N0VMGssboxwv8PbQ=="
 ---

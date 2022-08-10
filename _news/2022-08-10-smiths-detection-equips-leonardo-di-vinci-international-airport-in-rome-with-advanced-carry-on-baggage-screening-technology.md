@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:46:00Z
 originalUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
 webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: AviationPros

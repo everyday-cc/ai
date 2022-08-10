@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T11:35:00Z
 originalUrl: "https://palwatch.org/page/31874"
 webUrl: "https://palwatch.org/page/31874"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Palestinian Media Watch

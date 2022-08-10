@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T12:02:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-accelerating-pace-of-ai-in-employee-onboarding/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-accelerating-pace-of-ai-in-employee-onboarding/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: India Times

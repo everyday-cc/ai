@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/10/nightfall-raises-cash-for-its-ai-that-detects-sensitive-data-across-apps/"
 webUrl: "https://techcrunch.com/2022/08/10/nightfall-raises-cash-for-its-ai-that-detects-sensitive-data-across-apps/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: TechCrunch

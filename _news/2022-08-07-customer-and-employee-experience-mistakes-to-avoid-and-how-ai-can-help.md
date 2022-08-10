@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How artificial intelligence can make our food safer"
+    excerpt: "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph."
+    publishedDateTime: 2022-08-10T15:38:00Z
+    webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Avaya’s Karen Hardy on AI, Cloud, and Customer Experience"
     excerpt: "Avaya’s Global VP of Products discusses how the company is modernizing its platform to meet new customer demands."
     publishedDateTime: 2022-08-09T17:09:00Z

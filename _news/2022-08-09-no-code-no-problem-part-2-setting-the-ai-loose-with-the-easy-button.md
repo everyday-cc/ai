@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-
 webUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

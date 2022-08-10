@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:37:00Z
 originalUrl: "https://talkbusiness.net/2022/08/personal-training-franchise-in-bentonville-uses-robotics-ai-to-optimize-workouts/"
 webUrl: "https://talkbusiness.net/2022/08/personal-training-franchise-in-bentonville-uses-robotics-ai-to-optimize-workouts/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Talk Business & Politics

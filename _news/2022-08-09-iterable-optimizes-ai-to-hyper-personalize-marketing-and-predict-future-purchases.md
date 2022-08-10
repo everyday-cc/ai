@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-pe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
+    excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
+    publishedDateTime: 2022-08-10T13:43:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/iterable-introduces-ai-optimization-suite-drives-individualized-communications-for-millions-of-customers/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 0
 
 secured: "8oPiIbJzmmOyj/PiHnF0IGw6rKa5J6DgriLWCzS6zSD+cayekDf9oz0CYHkF5RIixJ5FnCPsGEQ4kFWK+XrpAochYQ25ZhOaNwsq8OztfKR42NtXAwOZ733B8Bfi7yFxAlPPQejMqllYygY+lY2XqeeZbrlCPuv7QpXRqQgQnSPY0BIeOQaTmmO6emEpq/n73T3e+5unxQQsJMUEHorjScH3WXYuRNGwW7bobx4pdrfc0FlaOCPKujzL4OTaBI1IH/QxJ5itidV3f7ec8eHxJwyaGCJBQK3i8dOdZO0/NVQSgDVZnfVt6OOjq8T0jKVktRDS+/SBd2keSdDDyRDfFC21UjTK+2ub9xgDVJUk9a6fbJkxzgrUNXzdxoxYO5vuRSTUrXbfOz7xhFMgl9CWtw/SC2wc3w7+2pdBL1w8zdQZCDYKELtO970c/UnzrOp+IOnUGWRYsCY3GU6lM3K5NuIRFw1wd4a86tFvgj15I2rPExQBr89GS8BNPYyTdx716Cq6qtM7Pml+RgImRO5O1A==;Ft6GjLveLkUaXHyQ5wY1+g=="
 ---

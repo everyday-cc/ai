@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gar
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "AI becoming backbone of products and services: Gartner Hype Cycle"
+    excerpt: "There are roadblocks to adoption: a lack of resources and the fragmentation of AI tools require executives to create more cohesive adoption strategies."
+    publishedDateTime: 2022-08-10T13:07:00Z
+    webUrl: "https://www.ciodive.com/news/ai-hype-cycle-gartner-2022/629276/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "GgrUSyyVVn655505hkXIgh5wbPjAFoNbGKzvqvQLNTmgghstX517WmiExA5w8WbyQdS7p1HlOPD4wKK+WhjT4tmyBa6euLxmH/EGld/bWqJg3EDd6pHwd9rYwenswksPaIp208QWfxW7uXpwV8Z9GHVSl/2LuVF7P7zUPnjAIcV5xcXE/vmAjyaD44LHvaoGnkHO0yRgxlrbcn8Shnx8swGK72V8QJDfUGxBARMeROl7jLMGEuOmXZHiMHwelAknaAIb2GRrhM3jYZsnQ1Os/FrJT6nSttIFZrpmg9eQa7ITRWdvPCgBiP9OhHeKRNoe8BSGK/0iBBXwGqnGZTpkXUCy8WWCEyP9Z+BOUC/XVmg=;W66lhAFITqsnelI5d4dZpw=="
 ---

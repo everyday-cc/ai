@@ -101,6 +101,20 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "China's Baidu to operate driverless taxis in two cities"
+    excerpt: "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go."
+    publishedDateTime: 2022-08-10T11:25:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e71788.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f38671a310fd2bec9b7f07.jpeg"
+        width: 660
+        height: 440
+        isCached: true
   - title: "Chonqqing, Wuhan kick off commercial operation of unmanned auto-driving business"
     excerpt: "Technology giant Baidu on Monday announced it has secured the first permit in China to offer commercial fully driverless robotaxi service to the public on open roads. Apollo Go, Baidu’s autonomous ride-hailing service,"
     publishedDateTime: 2022-08-08T06:44:00Z

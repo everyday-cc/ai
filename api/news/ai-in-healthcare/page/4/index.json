@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-30-healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio.md",
+      "title": "Healthcare Natural Language Processing Market – Major Technology Giants in Buzz Again | Nuance, Health Fidelity, Apixio",
+      "excerpt": "Advance Market Analytics published a new research publication on “Global Healthcare Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
+      "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
+      "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
+      "publishedDateTime": "2022-06-29T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry.md",
       "title": "A modern-day revolution: How AI could transform the healthcare industry",
       "excerpt": "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28.",
@@ -1288,93 +1375,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-ai-and-robotics-in-healthcare-a-phone-could-hear-if-you-have-tb.md",
-      "title": "AI and Robotics in healthcare: A phone could hear if you have TB",
-      "excerpt": "AI and robotics are leading to significant healthcare advances in South Africa. Robots in a hospital in Cape Town are helping surgeons operate more precisely and allowing patients to speak to distant relatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/world-africa-61834753",
-      "originalUrl": "https://www.bbc.com/news/av/world-africa-61834753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1639B/production/_125453019_p0cffz8h.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence.md",
-      "title": "Aidoc raises $110M to Address the Increasing Challenges Facing Health Systems by Using Artificial Intelligence",
-      "excerpt": "Healthcare leaders face an increasingly tough economic environment and it's going to require that we use technology like artificial intelligence to re-think ways to do business\" says David Shulkin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "originalUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPRI 12",
-        "domain": "wpri.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

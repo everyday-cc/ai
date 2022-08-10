@@ -7,7 +7,7 @@ originalUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-mi
 webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-michelle-dickinson-nanogirl-on-how-self-driving-cars-might-need-a-gender-setting/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "China Gives Green Light To Self-Driving Cars"
-    excerpt: "The Chinese government has started a one-month public consultation for a nationwide law that will allow driverless cars to run on roads and will"
-    publishedDateTime: 2022-08-10T04:34:00Z
-    webUrl: "https://menafn.com/1104673869/China-Gives-Green-Light-To-Self-Driving-Cars"
+  - title: "Tech Company Testing Remote Operators as Self-Driving Car Backups"
+    excerpt: "That self-driving car you're riding in could be controlled by a teleoperator. It seemed like science fiction back in January when we excerpted The Holy Driver: When Virtual Meets Reality, a story about a driving game champ who learns he's been piloting actual cars in another country,"
+    publishedDateTime: 2022-08-09T19:42:00Z
+    webUrl: "https://www.motortrend.com/news/mira-self-driving-car-remote-control-car/"
+    ampWebUrl: "https://www.motortrend.com/news/mira-self-driving-car-remote-control-car/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/mira-self-driving-car-remote-control-car/amp/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
     images:
-      - url: "https://menafn.com/updates/pr/2022-08/10/AT_66783image_story.jpg"
-        width: 600
-        height: 373
+      - url: "https://www.motortrend.com/uploads/2022/08/Mira-teleoperation-remote-driver-tech-3.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Where’s my self-driving car?"
     excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"

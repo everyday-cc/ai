@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/10/ai-ethics-mulling-over-the-merits-of-legally-mandating-atonement-funds-to-ensure-ai-accountability/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/10/ai-ethics-mulling-over-the-merits-of-legally-mandating-atonement-funds-to-ensure-ai-accountability/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Forbes

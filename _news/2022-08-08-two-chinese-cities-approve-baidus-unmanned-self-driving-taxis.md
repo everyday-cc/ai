@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-u
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
         width: 506
         height: 337
+        isCached: true
+  - title: "China's Baidu to operate driverless taxis in two cities"
+    excerpt: "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go."
+    publishedDateTime: 2022-08-10T11:25:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e71788.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f38671a310fd2bec9b7f07.jpeg"
+        width: 660
+        height: 440
         isCached: true
   - title: "Fully self-driving taxis approved for two major Chinese cities"
     excerpt: "The vehicles, operated by parent company Baidu, are the first-ever fully driverless licensed robo-taxis in China, FT reports."

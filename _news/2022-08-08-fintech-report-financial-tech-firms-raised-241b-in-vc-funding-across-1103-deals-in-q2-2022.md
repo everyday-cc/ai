@@ -92,6 +92,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Jellysmack Hires FinTech Chief to Expand Financial Solutions for Creators"
+    excerpt: "In his new role, Marmor will spearhead JellyFi which will expand Jellysmack’s financial and capital solutions for creators. The initiative will enable creators to unlock their full business potential through new financial technology tools the company is developing."
+    publishedDateTime: 2022-08-10T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-jellysmack-hires-fintech-chief-to-expand-financial-solutions-for-creators"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 3
 
 secured: "9DeRVqAAmN4m3TQXZ2H/a5SM3myaS3S6B4RhA42RZ62CTpu+70eoAziUkWJqlsq7EDRqSsKiJ3WF6lmT0dgH4g3+2xDTFqLyI2lqHprzjc3NeBcK/Hbqdr7G0Dspi2jGXlsrrU7lw2L29HCjS4hixtjyrTWrBXIwI9vmrJO4uFq2AE6wuSxmhp2BVjjC7t5oni8VduHjo0kZy7hQfQ4owwq9IXzLWdGN1BPSQL/9YvSLCtB/q3sgu6NY+/v1yzGtTZxI4CbivOZzAyqN6v7OmeBatUqApvt9ClBr9jcr+fGGxGa8saK/0DsyQksrCRt/TyZ5/m6aTMk7qXBM0XgjDrYls+Yl+Hpms9QTkgzMAuY=;JmgFYwLKFNTizWgAGRDy/A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:29:00Z
 originalUrl: "https://www.forbes.com/sites/kareemsaleh/2022/08/10/is-it-time-to-start-using-race-and-gender-to-combat-bias-in-lending-1/"
 webUrl: "https://www.forbes.com/sites/kareemsaleh/2022/08/10/is-it-time-to-start-using-race-and-gender-to-combat-bias-in-lending-1/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

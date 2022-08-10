@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Morocco to deploy face biometrics throughout updated airport"
-    excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."
-    publishedDateTime: 2022-08-05T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202208/morocco-to-deploy-face-biometrics-throughout-updated-airport"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-  - title: "Morocco tenders for face biometrics to deploy throughout updated airport"
-    excerpt: "The government of Morocco is looking for a contractor to install facial recognition systems in that nation's Rabat-Sale Airport."
-    publishedDateTime: 2022-08-05T19:38:00Z
-    webUrl: "https://www.biometricupdate.com/202208/morocco-tenders-for-face-biometrics-to-deploy-throughout-updated-airport"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
   - title: "Corsight face biometrics integrated with safe city solutions by Affluence subsidiary"
     excerpt: "OneMind hypervisors will integrate Corsight’s facial recognition technology, which was recently recognized for proactive reduction of biometric bias by NIST."
     publishedDateTime: 2022-08-09T20:36:00Z

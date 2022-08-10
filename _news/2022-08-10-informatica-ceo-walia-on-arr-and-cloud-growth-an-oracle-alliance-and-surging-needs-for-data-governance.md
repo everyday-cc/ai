@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:21:00Z
 originalUrl: "https://www.crn.com/news/applications-os/informatica-ceo-walia-on-arr-and-cloud-growth-an-oracle-alliance-and-surging-needs-for-data-governance"
 webUrl: "https://www.crn.com/news/applications-os/informatica-ceo-walia-on-arr-and-cloud-growth-an-oracle-alliance-and-surging-needs-for-data-governance"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: CRN

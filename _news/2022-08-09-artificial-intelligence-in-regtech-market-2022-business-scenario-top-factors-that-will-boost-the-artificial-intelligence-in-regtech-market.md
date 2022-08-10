@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
+    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
+    publishedDateTime: 2022-08-10T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
 
 secured: "HkiYIJ/eRCf4N3tpcvmZ+kZ358YckfwV8tC2gD9+IlGqEOLhu51hYneWmMUQlblB4R8vcPMs6MvzisUg7rCzpfwLOTa64CZulp/R9NpEjhpipG3GL1hhfjpODDbf+1uXyTsCO4x7zW/zVo4EdsVevzQCVYiYUmXNYqya6T48fkkVO7irLOH1DUsS8lKC1k3KWuTJJYbOkSqZYuGiXvaDDSNmXFKuhOoWnKG7yL94bZa5gz6utXGbTa0rNZ2n5o9hP57ulJBjnP6/qTUwoT2zGRRoVXVaI/Su18+f0vTx33+HiDSxxGjSXi831FWa7fAv9VmyTQrEmgNom/oldBD3pOqU18lHBT9RMUxFh7mD9kI=;cNKm/uVeXiZTzZGHLojcuQ=="
 ---

@@ -171,6 +171,15 @@ related:
       name: Euronews
       domain: euronews.com
     quality: 8
+  - title: "Meta AI chatbot says Mark Zuckerberg ‘too creepy’ and Donald Trump will always be US president"
+    excerpt: "Meta’s newly unveiled artificial intelligence (AI) conversational chatbot, BlenderBot 3, thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and thinks Donald Trump will always be the US president."
+    publishedDateTime: 2022-08-10T12:28:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-ai-chatbot-says-mark-zuckerberg-too-creepy-and-donald-trump-will-always-be-us-president-bde5df2f-c896-52d9-9ee6-cd25e5f552f3"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 7
 
 secured: "AiY6Xf0s7SD4g9899LuQhJc4Q/0XnOc+g7B2ZF9l146sXxnbnxj650dJ40ERSureZF1jmP9L7NVx78OZC3ce6uC89J1j+lmmKTwjoUTZmqnV7DEEcXSPqRpjOPO/4McP7VS//F7kHm/s8pBQ1dvi8yMAkFETasNEgk/ejkMxbQdu3hS3zFyFHA4wgRJ2XPJX9fB24YcRX7+BURD9QsM/esB6OxBzjUBtOe4YrDroNihKvzuuFOLxBlqX4JTK4iwD8SRUvN/kqpb6D7oJbPc9JXfZ66h8Xng0jN3vRNEfwjoZEBPPINQQyu/6DYfNTcDbw9QjS4VNycq5XU3Uca6zvpWpdQFewfqlNK89+zSphbQ=;B+NluwAza9H9homGCZgQfA=="
 ---

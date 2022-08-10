@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:00:00Z
 originalUrl: "https://venturebeat.com/security/sysdig-cryptojacking/"
 webUrl: "https://venturebeat.com/security/sysdig-cryptojacking/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

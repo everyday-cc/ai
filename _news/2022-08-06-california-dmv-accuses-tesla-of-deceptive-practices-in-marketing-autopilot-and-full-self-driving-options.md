@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-au
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
 type: article
 quality: 89
-heat: 279
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged"
+    excerpt: "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test."
+    publishedDateTime: 2022-08-10T15:56:00Z
+    webUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/"
+    ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 95
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Accused of Falsely Advertising Autopilot and Self-Driving Features"
     excerpt: "Tesla has been accused of by California's Department of Motor Vehicles of falsely advertising in promoting its Autopilot and Full Self-Driving features as providing autonomous vehicle control. The DMV alleges the electric-carmaker misled customers with advertising language that exaggerated the technologies' capabilities."
     publishedDateTime: 2022-08-07T23:01:00Z
@@ -63,22 +79,6 @@ related:
       - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
         width: 1024
         height: 766
-        isCached: true
-  - title: "Tesla made misleading claims about autopilot and self driving, California DMV complaint alleges"
-    excerpt: "The complaint alleges that the company made \"untrue or misleading\" statements in advertisements on its website by claiming that Tesla vehicles were, or could be, equipped with advanced driver assistance system features."
-    publishedDateTime: 2022-08-07T03:44:00Z
-    webUrl: "https://abc7.com/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 77
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12105989_080622-kabc-6pm-CA-DMV-tesla-vid.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "California DMV Goes After Tesla Over Self-Driving Claims"
     excerpt: "The agency alleges the electric carmaker misled customers with advertising language on its website describing Autopilot and Full Self-Driving technologies as more capable than they actually are."
@@ -190,46 +190,21 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims"
-    excerpt: "Tesla is in hot water with California DMV over its Autopilot and self-driving claims, which the agency believes are deceptive. The company has two weeks to respond to the inquiry or it risks temporarily losing its licenses to operate as a vehicle manufacturer and auto dealer in California."
-    publishedDateTime: 2022-08-06T18:55:00Z
-    webUrl: "https://electrek.co/2022/08/06/tesla-hot-water-california-dmv-autopilot-self-driving-claims/"
+  - title: "'Deeply disturbing' Tesla warning as self-driving cars 'mow down CHILDREN' during test"
+    excerpt: "A \"DEEPLY disturbing\" video claims to show a Tesla using self-driving software repeatedly running over a child-sized mannequin during a test by a driving safety campaign group."
+    publishedDateTime: 2022-08-10T10:54:00Z
+    webUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk"
+    ampWebUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 57
-  - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
-    excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
-    publishedDateTime: 2022-08-06T04:59:00Z
-    webUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
-    ampWebUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
+      name: Daily Express
+      domain: express.co.uk
+    quality: 51
     images:
-      - url: "https://images.livemint.com/img/2022/08/06/600x338/TESLA-INDIA-0_1654921278675_1659761858053_1659761858053.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "California DMV accuses Tesla of falsely advertising Autopilot and Full Self-Driving features"
-    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in its promotion of the company’s signature Autopilot and Full Self-Driving technologies. The agency alleges ..."
-    publishedDateTime: 2022-08-05T21:45:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-08-05/dmv-false-advertising-tesla?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 48
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6c8621e/2147483647/strip/true/crop/5116x3421+185+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F17%2F24d8c4f14825fcf0ddac0ea1baf9%2Fimg-la-photos-1staff-463-2-1-vj5po8pm.jpg"
-        width: 320
-        height: 214
+      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Tesla-warning-as-self-driving-cars-mow-down-CHILDREN-during-test-1653219.jpg?r=1660131096379"
+        width: 590
+        height: 350
         isCached: true
   - title: "Tesla accused of false autopilot, full self-driving advertising"
     excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
@@ -269,6 +244,15 @@ related:
     provider:
       name: Jalopnik
       domain: jalopnik.com
+    quality: 36
+  - title: "Tesla Model 3 Self-Driving Tech Is Not Ready For Roads; Runs Down Dummy Child During Safety Test"
+    excerpt: "The Dawn Project report claims that the Tesla Model 3 failed to identify the child mannequin during the self-driving test."
+    publishedDateTime: 2022-08-10T13:02:00Z
+    webUrl: "https://in.mashable.com/elon-musk/36535/tesla-model-3-self-driving-tech-is-not-ready-for-roads-runs-down-dummy-child-during-safety-test"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
     quality: 36
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
     excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."

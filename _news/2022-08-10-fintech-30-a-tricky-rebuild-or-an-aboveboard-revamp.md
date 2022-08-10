@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/fintech-30-a-tricky-rebuild-or-an-aboveboard-revamp/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/fintech-30-a-tricky-rebuild-or-an-aboveboard-revamp/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

@@ -7,7 +7,7 @@ originalUrl: "https://www.theweek.in/news/biz-tech/2022/08/09/blockchain-vc-the-
 webUrl: "https://www.theweek.in/news/biz-tech/2022/08/09/blockchain-vc-the-bitcoin-man-goes-big-into-artificial-intelligence-with-solidus-ai-tech.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Solidus AI Tech Secures New Boost From High-Profile Investor The Bitcoin Man"
+    excerpt: "Solidus AI Tech (AI-Tech.io), the company behind the world’s first artificial intelligence utility token – AITECH, announced that notable blockchain industry venture capital fund ‘The Bitcoin Man’ has invested a substantial,"
+    publishedDateTime: 2022-08-10T15:05:00Z
+    webUrl: "https://www.livemint.com/brand-stories/solidus-ai-tech-secures-new-boost-from-high-profile-investor-the-bitcoin-man-11660142917773.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 34
+    images:
+      - url: "https://images.livemint.com/img/2022/08/10/600x338/20220810_173829_0000_1660143611684_1660143617639_1660143617639.png"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "d/JEvZlARS56p1MxJMhXCrWFGFKP1E4VFBn6QflxZI+I669isYuQdO2xAn619EmYw03/wFaCDnCPKi7C9E9u7ingg6EVjKiJ7lBj6NPOjf+0LunaGhbHYJhRZcGojkdWQhmTzvamf8biOne+5w0gYGmaWgx3xwTtBk8J7eexMTQKzg4POEApGVnzFF6IP7SOr8RN94cxWffgtAAqluc94TdNMWsraVGKb1eGaBUs64//W/nnvmrLIJO8nZTSQDWrkHSRCXjxnItOUZJ9lO/7DyVrdydSpqU7+1WSx7/RF3lyzZQ/yNk39By/TGrxEWn3mRgvMlXMMSTgWrVH/A9TPw1BuFwG6qGmWyLXbpAOwfh124F3VfqOJbpd6U4U/vl1Kw8Q7dDE15keTNol6iWr3dk4J6hJlzQlYkdjAR9BbQeskx/sncD1LqW4pWrvB3qBtN7csTxzk4Qf08m7mWQ40xEJUKZHGHhamv6n2RKVXhdheRjo0u5/AIG58wTYz2ysvFL2PTnBg6UcV89f8a3X6w==;zrMSKycYNKosRT9eGQkCTA=="
 ---
