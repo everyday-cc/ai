@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Nation releases first draft of rules on self-driving vehicles in public"
+    excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
+    publishedDateTime: 2022-08-10T02:17:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+        width: 536
+        height: 357
+        isCached: true
 
 secured: "d4Nl1owNw4pDspf/fHjswbFcNxw74WJacQYlbcb78CZBGUGsne0I8JB4L4vsqZXQl6k+7QQh8s6FCgCvXm8GYraWv3WALAirRuwchiOgcPH6j7p6MnysSTzs3nrpKWpBLPZ1YBpCNiOVpLCYD4Ru0twfAtQYZEDWybhbsSDdxS4acbaOQsUpuGqG8gI3yXEb9z6Q41/ucS7Lv7OfAI6/U9WqnrHPwCGw+iRRKBqt3j7P9JbJiqO+Qp3wm1DScpkRZmB1H+deDqcC/AUmusKPrGLTwbs7TZiojin5G9yNLmOCd4hvZOdE4Yv3v9cEAmgXamTPuAJpNhORZkWomtEJm1FaEaJsvLSXrxlo7VIcsDLX4IWoOnUY1vSk5POHgp7dob3jZPZVH0gj6j4Lq5v6XMjd5niZpoBNZHfIYsNeF1djN6hbyrQudpycePEfJiIka2nKyjLhkd/MwoIvdfPb8U2XblzosSegP/xw88mzBUJPd1gX7zUVAsHH/3eNNue7Bq1xMEFaAAoOr6mrAH2nag==;DeV0zYg6/anqbI6AxGjIYA=="
 ---

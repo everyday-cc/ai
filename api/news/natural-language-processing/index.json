@@ -462,19 +462,19 @@
     {
       "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
       "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
-      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
+      "excerpt": "Dr. Birte Höcker has now successfully applied a computer-based natural language processing model to protein research. Completely independently, the ProtGPT2 model designs new proteins that are ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "webUrl": "https://idw-online.de/de/news799415",
+      "originalUrl": "https://idw-online.de/de/news799415",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
-          "width": 2835,
-          "height": 1929,
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -482,13 +482,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "publishedDateTime": "2022-08-04T07:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "idw",
+        "domain": "idw-online.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -499,8 +499,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {

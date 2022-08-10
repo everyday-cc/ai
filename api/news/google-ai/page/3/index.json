@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-05-26-kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code.md",
+      "title": "Kyrgyzstan to King’s Cross: the star baker cooking up code",
+      "excerpt": "My day can vary, it really depends on which phase of the project I'm on. Let’s say we want to add a feature to our product – my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I’ll",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
+      "originalUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628f550a5c25a7d58313bca8_aliyah-3.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
       "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
       "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",

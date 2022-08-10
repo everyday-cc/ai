@@ -8,9 +8,9 @@ webUrl: "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-t
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Guardian
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Google AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/aea92510a8f227a5ff3c89d310e04c9d6703044e/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=ed73cb558295ce3c6728ab1ce55be43b"

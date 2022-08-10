@@ -7,7 +7,7 @@ originalUrl: "https://executivegov.com/2022/08/vha-unveils-digital-health-playbo
 webUrl: "https://executivegov.com/2022/08/vha-unveils-digital-health-playbook-to-improve-patient-care/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "VHA Launches New Playbook Outlining Digital Health Care Needs For Patients"
-    excerpt: "In the VA’s Digital Healthcare Playbook, officials outlined the digital health care systems and devices it wants to create with the help of industry partners and contractors. The playbook looks to identify the best solutions for VA patient needs within the health care software marketplace by addressing several emerging technologies that are prevalent in digital services,"
-    publishedDateTime: 2022-08-08T20:23:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/08/vha-launches-new-playbook-outlining-digital-health-care-needs-patients/375550/"
+  - title: "7 ways health systems are utilizing AI, machine learning to improve patient care"
+    excerpt: "Hospitals are using AI, data analytics and machine learning to improve health outcomes, produce predictive clinical insights and improve patient care. Here are seven artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Rochester,"
+    publishedDateTime: 2022-08-05T16:28:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 22
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/08/08/GettyImages_1344810453/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 31
+  - title: "Learning Management Systems Are Getting Smarter"
+    excerpt: "CT asks D2L CEO John Baker how today's LMS is getting smarter, and about the opportunities AI, machine learning, predictive analytics, and related technologies are presenting in the LMS marketplace."
+    publishedDateTime: 2022-08-08T18:00:00Z
+    webUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 4
 
 secured: "W21Pn6LT15BKX23cwgDWP4Ts66/6/J+kXHzsQfw8/Ovfxx8sWV7XG1lE1RM6R+SJ8zyG+OP1jf5/EpuH7+Jsl/+BUGTuXpiExdTKwDNzTlBXU6AZe1t4XadDPT/aeVcFBdtE31nr41wn1NAKRLw2Lit/6gDGRPuoxONGSG15dZUAZs5R99YFM5+7BtDHTs31WxhldSI0O8eMlzTyLtpWO34xQ0GRj+Be6GCO/3vqTL8CWH8oP76cEa0A0Yqw4YYrZWpHIq+Gakxopv5sBISmidsDyKK3GS7Sq/yXd0xMIbWq4OPZOLupFI8SdYJ5SMXDZ+rXMrJpOa0IaxNgsX73Y4Hmytg+cGAqiSxEhfamSu02q84qcPAHPvio2DuQwn8AYj4Lkbp7GKg7HjQ4faGqe7t5eurqrsyBHTUZTPXcmjkOWN2syO22/6aspIsH9rH0l3W+S4WgCR9jiyeN3/aiWasHy0JWsjF13IEsqNSYXuiNnrsf3aYVq90Ykp8JZV+Ybpn5uXGoVdIxnGX8GmzWvg==;r8kXDvZtvDu2Bp8jqTvtkg=="
 ---

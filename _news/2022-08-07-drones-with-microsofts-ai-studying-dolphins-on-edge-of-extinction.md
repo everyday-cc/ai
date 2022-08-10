@@ -48,6 +48,17 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
+  - title: "Microsoft Adds Ways for Customers on AI with Azure"
+    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
+    publishedDateTime: 2022-08-06T00:00:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 69
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
     publishedDateTime: 2022-08-09T13:34:00Z

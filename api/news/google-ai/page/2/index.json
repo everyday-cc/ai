@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-ai-could-do-better-job-of-managing-economy-than-humans-deepmind-research-suggests.md",
+      "title": "AI could do better job of managing economy than humans, DeepMind research suggests",
+      "excerpt": "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
+      "publishedDateTime": "2022-07-07T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
       "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
       "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
@@ -1401,58 +1444,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code.md",
-      "title": "Kyrgyzstan to King’s Cross: the star baker cooking up code",
-      "excerpt": "My day can vary, it really depends on which phase of the project I'm on. Let’s say we want to add a feature to our product – my tasks could range from designing solutions and working with the team to find the best one, to deploying new features into production and doing maintenance. Along the way, I’ll",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "originalUrl": "https://www.deepmind.com/blog/kyrgyzstan-to-kings-cross-the-star-baker-cooking-up-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628f550a5c25a7d58313bca8_aliyah-3.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

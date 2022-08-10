@@ -37,17 +37,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Baidu Bags China's First Fully Driverless Robotaxi Licenses"
+  - title: "Baidu bags China's first fully driverless robotaxi licenses"
     excerpt: "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ..."
-    publishedDateTime: 2022-08-08T02:45:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses?context=amp"
+    publishedDateTime: 2022-08-08T02:28:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
     excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
     publishedDateTime: 2022-08-08T04:13:00Z

@@ -2,6 +2,143 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-06-29-ibm-unit-partners-to-boost-digital-skills.md",
+      "title": "IBM unit, partners to boost digital skills",
+      "excerpt": "Sawat Asdaron, managing director of IBM Thailand, said AI, hybrid cloud, data science, automation and cybersecurity are new areas that are in high demand by businesses. \"Skilled IT workforce is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
+      "originalUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-yugabyte-intros-new-migration-engine-for-its-powerful-distributed-database.md",
+      "title": "Yugabyte intros new migration engine for its powerful distributed database",
+      "excerpt": "Yugabyte Inc. today announced what it says are the most extensive set of updates ever made to its database ecosystem. The startup is the chief developer behind YugabyteDB, an open-source and high ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
+      "originalUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/yugabytedb_6645_logo_1598517773_l07za-951991753.png",
+          "width": 1251,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-chinese-space-company-wins-in-top-intl-ai-competition.md",
+      "title": "Chinese space company wins in top int'l AI competition",
+      "excerpt": "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1848074/1.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
       "title": "China's Baidu races Waymo, GM to develop self-driving cars",
       "excerpt": "That came 18 months after Waymo started driverless ride-hailing ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles could ...",
@@ -918,153 +1055,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-arkx-laboratories-launches-custom-wake-word-and-command-sets-for-brand-voice-experiences.md",
-      "title": "ArkX Laboratories Launches Custom Wake-Word and Command Sets for Brand Voice Experiences",
-      "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced the launch of EveryWord™ Voice Control featuring the Sensory TrulyHandsfree™ SDK technology suite.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models.md",
-      "title": "Roboflow expands open-source datasets for better computer vision AI models",
-      "excerpt": "The Roboflow Universe is about providing images that are curated in an approach that enables datasets to be used for AI-powered applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "originalUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1013311574-e1656371218782.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/28/roboflow-expands-open-source-datasets-for-better-computer-vision-ai-models/amp/",
-      "publishedDateTime": "2022-06-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-as-ai-advances-will-human-workers-disappear.md",
-      "title": "As AI Advances, Will Human Workers Disappear?",
-      "excerpt": "If you’ve recently eaten at a fast-food restaurant, driven on a toll road or checked out groceries at the supermarket, you may have noticed one thing they all have in common: Many people who used to help you have been replaced by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//623c6f010ae95f107980e813/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/28/as-ai-advances-will-human-workers-disappear/amp/",
-      "publishedDateTime": "2022-06-28T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -47,20 +47,6 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Veritone Synthetic Voice Gets an Audition"
-    excerpt: "CEO Chad Steelberg said on an earnings call this year that in addition to the iHeart agreement, the AI company is inking deals ... phase” of using voice cloning to translate podcasts from English to multiple other languages. Conal Byrne The audio company ..."
-    publishedDateTime: 2022-08-05T11:01:00Z
-    webUrl: "https://www.radioworld.com/news-and-business/headlines/veritone-synthetic-voice-gets-an-audition"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 24
-    images:
-      - url: "https://www.radioworld.com/wp-content/uploads/2022/08/Veritone-AI.jpg"
-        width: 725
-        height: 549
-        isCached: true
   - title: "Veritone and U.S. Department of Justice Expand Relationship with Antitrust Division Contract"
     excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today announced, through its partnership with AITHERAS, a new contract that will enable the Department of Justice (DOJ) Antitrust Division's (ATR) eDiscovery and litigation groups to use Veritone's aiWARE platform transcription,"
     publishedDateTime: 2022-08-09T13:25:00Z

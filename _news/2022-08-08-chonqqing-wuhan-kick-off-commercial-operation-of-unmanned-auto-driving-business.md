@@ -57,6 +57,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Baidu wins approval for China’s first full driverless taxis"
+    excerpt: "Baidu, which operated China’s largest search engine, is transitioning to artificial intelligence and self-driving cars after its core advertising revenue shrank in the mobile era | Photo Credit: ALY SONG The tech giant has secured permits to operate robotaxis in Wuhan and Chongqing,"
+    publishedDateTime: 2022-08-08T04:03:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 74
+    images:
+      - url: "https://bl-i.thgim.com/public/news/world/ydeciy/article62154162.ece/alternates/LANDSCAPE_615/baidu2021-09-24T100725Z614194441RC2AWP99B33IRTRMADP3CHINA-REGULATION-JOYY-"
+        width: 615
+        height: 383
+        isCached: true
   - title: "Driverless Robotaxis To Officially Hit Chinese Streets"
     excerpt: "China is about to get the San Francisco treatment now that a robotaxi company is able to operate its robotaxis without a driver in two of its major cities."
     publishedDateTime: 2022-08-09T16:34:00Z
@@ -86,20 +102,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Baidu wins approval for China’s first full driverless taxis"
-    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-    publishedDateTime: 2022-08-08T02:23:00Z
-    webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 54
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
-        width: 506
-        height: 337
         isCached: true
   - title: "Fully self-driving taxis approved for two major Chinese cities"
     excerpt: "The vehicles, operated by parent company Baidu, are the first-ever fully driverless licensed robo-taxis in China, FT reports."

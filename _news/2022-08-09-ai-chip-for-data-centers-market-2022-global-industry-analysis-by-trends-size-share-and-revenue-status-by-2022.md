@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers
 webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-08-09"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in fintech Market Share, Application, Analysis, Regional Outlook, Growth, Trends and Forecasts 2022 – 2030"
+    excerpt: "North America is forecast to emerge as the largest AI in fintech market. The growth of the industry is attributed to the strong economy, the presence of prominent AI software and system vendors in ..."
+    publishedDateTime: 2022-08-05T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-application-analysis-regional-outlook-growth-trends-and-forecasts-2022-2030-2022-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

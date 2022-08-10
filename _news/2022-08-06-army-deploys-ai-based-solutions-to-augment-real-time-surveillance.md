@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/army-deploys-ai-based-solutio
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/08/07/1600x900/HT_Normal_Thumbnail_-_AUG__2021_-_2022-08-07T193245.316_1659881354376_1659881386044_1659881386044.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Danish AI-based platform is acquired by a global supply chain management software solutions provider"
-    excerpt: "Copenhagen-born startup Paperflow is acquired by Boyum IT Solution ... a software provider of award-winning, AI-powered document management solutions that digitize and fully automate document scanning and processing. With this acquisition, Boyum IT ..."
-    publishedDateTime: 2022-08-05T09:46:00Z
-    webUrl: "https://arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    ampWebUrl: "https://arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 42
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/08/paperflow-is-acquired-by-boyum-it-solutions.jpg"
-        width: 800
-        height: 800
         isCached: true
   - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
     excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"

@@ -7,7 +7,7 @@ originalUrl: "https://www.intelligentcio.com/north-america/2022/08/08/veritone-c
 webUrl: "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
         width: 480
         height: 610
-        isCached: true
-  - title: "Veritone Synthetic Voice Gets an Audition"
-    excerpt: "CEO Chad Steelberg said on an earnings call this year that in addition to the iHeart agreement, the AI company is inking deals ... phase” of using voice cloning to translate podcasts from English to multiple other languages. Conal Byrne The audio company ..."
-    publishedDateTime: 2022-08-05T11:01:00Z
-    webUrl: "https://www.radioworld.com/news-and-business/headlines/veritone-synthetic-voice-gets-an-audition"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 24
-    images:
-      - url: "https://www.radioworld.com/wp-content/uploads/2022/08/Veritone-AI.jpg"
-        width: 725
-        height: 549
         isCached: true
   - title: "InvestorNewsBreaks – Veritone Inc. (NASDAQ: VERI) Announces Continued Support for AWS Media & Entertainment Initiative"
     excerpt: "Veritone (NASDAQ: VERI), creator of aiWARE(TM), a hyper-expansive enterprise artificial intelligence (“AI”) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (“AWS”) to support its Media & Entertainment (“M&E”) customers."

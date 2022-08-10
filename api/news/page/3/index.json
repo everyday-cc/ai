@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-06-why-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics.md",
+      "title": "Why retailers are upping their investments in data infrastructure and advanced analytics",
+      "excerpt": "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-89320698.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "publishedDateTime": "2022-08-05T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor.md",
+      "title": "U.S. appeals court says artificial intelligence can't be patent inventor",
+      "excerpt": "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
       "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
       "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
@@ -712,19 +815,19 @@
     {
       "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
       "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
-      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
+      "excerpt": "Dr. Birte Höcker has now successfully applied a computer-based natural language processing model to protein research. Completely independently, the ProtGPT2 model designs new proteins that are ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "webUrl": "https://idw-online.de/de/news799415",
+      "originalUrl": "https://idw-online.de/de/news799415",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
-          "width": 2835,
-          "height": 1929,
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -732,13 +835,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "publishedDateTime": "2022-08-04T07:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "idw",
+        "domain": "idw-online.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -749,8 +852,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
@@ -1088,101 +1190,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
-      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
-      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
-      "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
-      "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "originalUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stattimes.com/h-upload/2022/08/04/28540-cargo-armpr1.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "publishedDateTime": "2022-08-04T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "air cargo",
-        "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

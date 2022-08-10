@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-sys
 webUrl: "https://www.beckershospitalreview.com/innovation/7-ways-health-systems-are-utilizing-ai-machine-learning-to-improve-patient-care.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -20,50 +20,29 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Some cloud-based AI systems are returning to on-premises data centers"
-    excerpt: "AI/ML model training and knowledge-based storage and processing are more costly on a cloud than many thought, and prices for compute and storage equipment have fallen."
-    publishedDateTime: 2022-08-05T10:03:00Z
-    webUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html"
-    ampWebUrl: "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html"
+  - title: "VHA Unveils Digital Health Playbook to Improve Patient Care"
+    excerpt: "Looking for the latest Government Contracting News? Read about VHA Unveils Digital Health Playbook to Improve Patient Care."
+    publishedDateTime: 2022-08-09T20:45:00Z
+    webUrl: "https://executivegov.com/2022/08/vha-unveils-digital-health-playbook-to-improve-patient-care/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 24
     images:
-      - url: "https://images.idgesg.net/images/article/2017/10/cloud_computing_by_rawpixel_cc0_via_pexels_3x2-100740699-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://executivegov-media.s3.amazonaws.com/2022/08/09/31/a6/da/6e/6b/3d/7b/14/00P4y000017uXHhEAM.png"
+        width: 272
+        height: 270
         isCached: true
-  - title: "Why Government Leaders Are Turning to AI"
-    excerpt: "Artificial Intelligence has empowered government employees to deliver on the mission. Today, agency IT leaders are turning to AI to extract data from growing mounds of records, address higher demands on social services and rethink outdated tools and processes for scale."
-    publishedDateTime: 2022-08-08T16:00:00Z
-    webUrl: "https://www.nextgov.com/sponsors/2022/08/why-government-leaders-are-turning-ai/368708/"
+  - title: "Learning Management Systems Are Getting Smarter"
+    excerpt: "CT asks D2L CEO John Baker how today's LMS is getting smarter, and about the opportunities AI, machine learning, predictive analytics, and related technologies are presenting in the LMS marketplace."
+    publishedDateTime: 2022-08-08T18:00:00Z
+    webUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 41
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/06/28/iStock_609072850/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
-    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
-    publishedDateTime: 2022-08-07T00:30:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 31
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
-        width: 700
-        height: 406
-        isCached: true
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 4
 
 secured: "0p/aOLVYmTUwswA7yRAiTKT38zdyPu7LrQFvL74qepRJKdXxRWeRGr82Ig+XxLw0ZjSs/PvFkBma10OhWgHMGHw4YtaNH5d//aKcXk6FFn7vX/lDq3RH5nv2uySR4IHfC6fDy79czJZna7cQs9n5HhjfaWpPMRZ73+Aph0wglXvtkbmdr9ebC25ReBWunL58zRL/v7GtFjBN5x1fJwRvTHLIHVFt0BnSgS3pm+yj5b3Tn13fGWQpfGSRzMlSUh+ozxFIkpjQ/3fWg+WmtAieuy9xHg5GzYDE2E0eH+Ycb+AAcTHBLtxww0u9k04pS+axn/kwNb7/DPJn0FDOHZeP+DPTOKeN96+QbOIHeUJXi80=;/QpGwA1fb+xjfO/6Lb6TcA=="
 ---

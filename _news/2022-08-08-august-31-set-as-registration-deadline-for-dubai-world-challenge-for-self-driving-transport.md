@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Nation releases first draft of rules on self-driving vehicles in public"
+    excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
+    publishedDateTime: 2022-08-10T02:17:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+        width: 536
+        height: 357
+        isCached: true
   - title: "Dubai’s RTA launches contest focused on self-driving buses"
     excerpt: "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively Dubai's RTA launches contest focused on self-driving buses Artificial Intelligence Self Driving Cars,"
     publishedDateTime: 2022-08-08T14:01:00Z

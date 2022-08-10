@@ -2,6 +2,146 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
+      "title": "Google’s AI Is Something Even Stranger Than Conscious",
+      "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/1RcywjNbiaw9JpLVBsnfMv2osqs=/0x51:2396x1299/1200x625/media/img/mt/2022/06/GettyImages_515342070/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-engineers-build-artificial-intelligence-chip.md",
+      "title": "Engineers build artificial intelligence chip",
+      "excerpt": "In a recent study published in Nature Electronics, engineers built a new artificial intelligence chip, with a view toward sustainable, modular electronics. The chip can be reconfigured, with layers that can be swapped out or stacked on, such as to add new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_c0bef8cb9b3c1e676ec10f2430385b83.jpg",
+          "width": 347,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23006/engineers-build-artificial-intelligence-chip-2/amp",
+      "publishedDateTime": "2022-06-21T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
+      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
+      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
       "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
       "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But naturally we can't just be thinking about the past - we need to be ...",
@@ -1005,151 +1145,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-how-ai-is-changing-iot.md",
-      "title": "How AI is changing IoT",
-      "excerpt": "Artificial intelligence unlocks the true potential of IoT by enabling networks and devices to learn from past decisions, predict future activity, and continuously improve performance and decision-making capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html",
-      "originalUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/15/09/spot_it_leadership_2021_nw_business_technology_leader_considers_abstract_network_of_iot_internet_of_things_network_devices_by_metamorworks_gettyimages-1255557770_2400x1600_homepage_hero_b-100872872-large-100921919-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3663017/how-ai-is-changing-iot.amp.html",
-      "publishedDateTime": "2022-06-21T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-see-how-3-industry-leading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it.md",
-      "title": "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT",
-      "excerpt": "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
-      "originalUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T03:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-softbank-backed-temp-work-platform-jobandtalent-makes-third-acquisition-of-2022-with-deal-for-uk-job-matching-ai-startup-jump.md",
-      "title": "SoftBank-backed temp work platform Jobandtalent makes third acquisition of 2022 with deal for UK job matching AI startup Jump",
-      "excerpt": "The startup offers gig and casual work opportunities to users in areas such as warehousing and logistics. Ocado and Decathlon use the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/softbank-backed-jobandtalent-acquires-uk-counterpart-jump-2022-6",
-      "originalUrl": "https://www.businessinsider.com/softbank-backed-jobandtalent-acquires-uk-counterpart-jump-2022-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62b186674245600018ddae0c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://www.thehindubusinessline.com/economy/policy/ai-boosts-mult
 webUrl: "https://www.thehindubusinessline.com/economy/policy/ai-boosts-multi-dimensional-defence-strategy-along-borders/article65736666.ece"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
+    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
+    publishedDateTime: 2022-08-07T00:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 31
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
+        width: 700
+        height: 406
+        isCached: true
 
 secured: "qVn+2fH8k0h3gQ8sPEamF0dI0L3XpoaMXSVh5dImmLZkceFORFb0dp2aPrCWFb/bsaOCYEWtj4RYGK5VLfk6ke5/gS5aUXZtjdrBlTkxV/gsza6nNDtQbeZOTdSdGAdyOtm9GiilwhId8iI7pFwVHtYu6bYCqcKWg19Gj1oKXyKxeRtBKnM4NCG9mqAqiQBqeE+KwzvrlxL2KQkfAkVh2lbZidCHABPm1HC8apZfBI1OZkZdcIDgBHmRDr2FGdgu+KdXBiE6zWD5rfLMTYP40qOClDVdD0EnS9psixFhUOzJ/mRlqnEf4ehbvlLACT41GJR79mWI4MiIBB28W3DczQy+e43pxuAV8vsqiA9tCfOE77Az5QM7XLfSXUPteIktIkD47wjfcgelc+/2H/4SeeEHwnUB1KSMY/x26136PX60pd9A7mtvdsbceDss7ay2J/Z8Th1xlC7nHsT8Cj7HUxGv1xUoEMldT4GTv++/RMdZGX7E4sujsNqIlgG01zAwedgQhv63tPjNPL8S09xa2Q==;2TVAzMvFdwiR15c2cUZAMg=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Baidu wins approval for China’s first full driverless taxis"
-excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-publishedDateTime: 2022-08-08T02:23:00Z
-originalUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
-webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
+excerpt: "Baidu, which operated China’s largest search engine, is transitioning to artificial intelligence and self-driving cars after its core advertising revenue shrank in the mobile era | Photo Credit: ALY SONG The tech giant has secured permits to operate robotaxis in Wuhan and Chongqing,"
+publishedDateTime: 2022-08-08T04:03:00Z
+originalUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece"
+webUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
-    width: 506
-    height: 337
+  - url: "https://bl-i.thgim.com/public/news/world/ydeciy/article62154162.ece/alternates/LANDSCAPE_615/baidu2021-09-24T100725Z614194441RC2AWP99B33IRTRMADP3CHINA-REGULATION-JOYY-"
+    width: 615
+    height: 383
     isCached: true
 
 related:
@@ -116,6 +118,6 @@ related:
         height: 575
         isCached: true
 
-secured: "+AvCLosX5f4sLsZFLHi6pbsAJTOlBuenOCAl8Gap5xUNQqDKHcB3UphjW9pwtMEUwfAi7VC1XA0AAWnpueYCIn9O1aG33rWZ/Iq4bNopw4EA7GK02HuMdn+NJmUjWQdlh1jUWeL7mRwkxlqupTUlqarb5TJZzt8aCojIRLYK698eHZZoZH3BU3oskVCu1E96neSDQ5OPdFJ8lAUq7+b/V8N3ksjqyLDjpm/NsJjv2gJ1eApH7w6eBIH59M0kzv/aPNuQEqqGA2O6gbR6Je1MFVKzaoWmqAwxuo5w+qgS/zgIFCPKldbG4xbU2jark+TE7a6hC5MsUTuQ9y6GvD5bOYD2S9S5d4KAAumkFYRThfc8nwcYvJ8J9CVbEIuE90ilfyYm4EH+2UtQShJqL4BrHH2L2Awo32oDjAyKgezfSyXYeC/gRaGHcfXxEugn9BvKmyeXYkB9QW7K+sowoxfbOzchLr6dS6n58fLnY0okvQwCLAyqTjo10yFIDo1cSZhkS4SwPQPGeMYMqEvHDy0yrQ==;vEjyH+vRDA5+2CgfKRGy5A=="
+secured: "BDXvi6V8Ts04EHla/J4rhm+dn5FnA0vQSR9Lme+0PvpE6dJgYMH0+Y/1dfHAUkW7lTmRVEWQjHIJhw/OpQGN1djx/DQ+Q/DUqMlE8eFfRUY/d8AB7SpoVo0MCKMfb+rLLvtWNQIrkjz0FIxYh+1XZPa5ewajVC0M2ihlUPjmUdOalEqehGIEqLhG9KRLFGob4r4Ct+u6bdmtmbO424JYUKFEc8HWRrJR46Vrlj072Pmlcx0CGMFk/SjI+yiyUa3/pK82/YpipGow62UH+1gZ5UNOI3/ETzKMJFpEEffLl7/w9Kaldq5F6jaLnc4sXwrXcDbElEi9rVrk1pXMkJHrQ7uuZSBQ/n0HyvXZclRpzPo=;M3+HTqJJbAs0WclXBgJ68g=="
 ---
 

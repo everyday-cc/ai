@@ -74,22 +74,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Danish AI-based platform is acquired by a global supply chain management software solutions provider"
-    excerpt: "Copenhagen-born startup Paperflow is acquired by Boyum IT Solution ... a software provider of award-winning, AI-powered document management solutions that digitize and fully automate document scanning and processing. With this acquisition, Boyum IT ..."
-    publishedDateTime: 2022-08-05T09:46:00Z
-    webUrl: "https://arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    ampWebUrl: "https://arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    cdnAmpWebUrl: "https://arcticstartup-com.cdn.ampproject.org/c/s/arcticstartup.com/paperflow-is-acquired-by-boyum-it-solutions/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 42
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2022/08/paperflow-is-acquired-by-boyum-it-solutions.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
     excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"
     publishedDateTime: 2022-08-06T10:07:00Z

@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in fintech Market Share, Application, Analysis, Regional Outlook, Growth, Trends and Forecasts 2022 – 2030"
+    excerpt: "North America is forecast to emerge as the largest AI in fintech market. The growth of the industry is attributed to the strong economy, the presence of prominent AI software and system vendors in ..."
+    publishedDateTime: 2022-08-05T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-application-analysis-regional-outlook-growth-trends-and-forecasts-2022-2030-2022-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
     excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
     publishedDateTime: 2022-08-09T05:27:00Z

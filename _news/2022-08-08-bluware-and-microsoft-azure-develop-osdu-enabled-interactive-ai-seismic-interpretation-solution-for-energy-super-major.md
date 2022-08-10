@@ -37,6 +37,17 @@ related:
         width: 739
         height: 768
         isCached: true
+  - title: "Microsoft Adds Ways for Customers on AI with Azure"
+    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
+    publishedDateTime: 2022-08-06T00:00:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 69
   - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
     excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
     publishedDateTime: 2022-08-07T07:00:00Z

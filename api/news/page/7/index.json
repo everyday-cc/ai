@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-02-according-to-marketsandmarketscom-artificial-intelligence-in-healthcare-market-2027-research-study-edition.md",
+      "title": "According to MarketsandMarkets.com – Artificial Intelligence in Healthcare Market 2027 Research Study Edition",
+      "excerpt": "The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% Increasing application of AI in healthcare such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "originalUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-size.jpg",
+          "width": 650,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-android-controlled-robot-extravaganza.md",
+      "title": "Android Controlled Robot Extravaganza",
+      "excerpt": "the tip line has been awash in robot/Android mashups. Here’s a few of the cool ones. Using an Android as a remote control [Stef] used a Samsung Galaxy S3 to control an old rc tank. The Android ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
+      "originalUrl": "https://hackaday.com/2012/08/04/android-controlled-robot-extravaganza/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2012/08/robot-side-view1.jpg",
+          "width": 4265,
+          "height": 2833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-how-rangers-are-using-ai-to-help-protect-indias-tigers.md",
+      "title": "How rangers are using AI to help protect India's tigers",
+      "excerpt": "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
+      "originalUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F506/production/_126062726_gettyimages-967577270.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-61824904.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp",
+      "publishedDateTime": "2022-08-01T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-eating-ultra-processed-food-can-lead-to-overall-cognitive-decline-new-study-says.md",
       "title": "Eating Ultra-Processed Food Can Lead To Overall Cognitive Decline, New Study Says",
       "excerpt": "Signs of cognitive decline can include forgetting dates, conversations, and events. It can also include feeling overwhelmed by decision making or not understanding directions. \"People who consumed ...",
@@ -1008,146 +1145,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed.md",
-      "title": "AI can revolutionise medical research, but a cautious approach is needed",
-      "excerpt": "One week social-media users are generating and sharing amusing images using AI, the next we hear AI can predict the structure of over 200 million proteins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
-      "publishedDateTime": "2022-07-31T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-deepminds-perceiver-ar-a-step-toward-more-ai-efficiency.md",
-      "title": "DeepMind's Perceiver AR: a step toward more AI efficiency",
-      "excerpt": "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-voice-to-parliament-detail-demands-only-mask-rejection-of-entire-recognition-project.md",
-      "title": "Voice to Parliament: ‘detail’ demands only mask rejection of entire recognition project",
-      "excerpt": "Rest assured, if Anthony Albanese had unveiled a detailed model for an Indigenous Voice to Parliament on the weekend -- say, the local and regional/national Voice model outlined in last year's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
-      "originalUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crikey.com.au/wp-content/uploads/2022/08/Voice_740x400.jpg",
-          "width": 740,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

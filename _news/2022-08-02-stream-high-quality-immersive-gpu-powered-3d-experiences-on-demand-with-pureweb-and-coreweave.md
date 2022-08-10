@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Stream High-Quality, Immersive, GPU-Powered 3D Experiences On Demand With PureWeb and CoreWeave"
-excerpt: "PRNewswire/ - PureWeb, the leading platform for streaming interactive, web-based 3D content, has now partnered with"
-publishedDateTime: 2022-08-02T16:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave-1031640390"
-webUrl: "https://markets.businessinsider.com/news/stocks/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave-1031640390"
+excerpt: "By empowering creators and innovators with access to the GPU resources they need ... Machine Learning and AI, Batch Processing, and Pixel Streaming - that are up to 35x faster and 80% less ..."
+publishedDateTime: 2022-08-02T14:33:00Z
+originalUrl: "https://www.klfy.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
+webUrl: "https://www.klfy.com/business/press-releases/cision/20220802CA30291/stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KLFY
+  domain: klfy.com
 
 topics:
   - AI Hardware
@@ -25,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "HbCC823T8A33gwBt8gSKarpzak4wrxumpokJtq+dw6vUm/zAhsJFPXlcF6zMwWVwQo69vaJfM9OBCJepdhNdznarF4HMNaWJsV+k9EPYb8EqmJB6mD54JmVs8an/Mb2cWyDokwd5CnSZP8xc5RZsp+76JkTRn4xNqOxAWlwwBKDggbtOn3D4meClob0UIpuExNG7MFcAIFk3ntKegzj8pF9iTAAiMn24pQRFB+uGcCouT/O997b5FhJPSn1NK3epXZ6wNiWeE7xvBcT68cFOAZN95ElRL4EmS+7PYtCwbc78oX34wlqy1hCWrDRyovvdt4eqwKixWNamytT7mzjoAzrC9FIH0y8XsSGu56yiQCs=;VknPkAAZcuPpzIykyq0GyA=="
+secured: "/jYaHHfHAigMJy1TXzgoGaHNICwIki0/aWZf1KMA7/j5kC/gXE+CeqgRNsbz9PqzJpJsdfvPD1j+CLB7UBWf9Hooajwogztrt78JjsQcotWP0WbfoVeieHiHCMJ67+vAtIuAQzweZ0pS2U0g1fDq+EZ3yQcdKKy9oc1+JRPRxQxKRSJHgzoY5O/yoiAd+Qggaiq8xcHD71kTVqg+N74wx79pV0I1fgR93Hi48zb1OfushKCKoKGkBMOhg705cBy1Uathv73McDyZtnEGcL5/cE+ktF0rHxxAg6iyBx/in5rja3H0OrQPjObYgR4cVQ6soMwV331boUnPPkWBvFZrHbsFakPTBj+dAKe1fawt1SU=;iOJyLTPGcDq0OCiFK5TCLw=="
 ---
 

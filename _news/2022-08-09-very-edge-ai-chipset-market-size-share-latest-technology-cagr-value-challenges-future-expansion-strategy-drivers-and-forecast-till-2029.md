@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in fintech Market Share, Application, Analysis, Regional Outlook, Growth, Trends and Forecasts 2022 – 2030"
+    excerpt: "North America is forecast to emerge as the largest AI in fintech market. The growth of the industry is attributed to the strong economy, the presence of prominent AI software and system vendors in ..."
+    publishedDateTime: 2022-08-05T17:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-share-application-analysis-regional-outlook-growth-trends-and-forecasts-2022-2030-2022-08-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Full Stack AI Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2029"
     excerpt: "Global \"Full Stack AI Market\" report analysis by size, share, regions, type, and application, forecast to 2029 is"
     publishedDateTime: 2022-08-08T08:04:00Z

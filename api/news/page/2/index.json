@@ -251,7 +251,7 @@
       "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -473,6 +473,110 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-siri-or-skynet-how-to-separate-ai-fact-from-fiction.md",
+      "title": "Siri or Skynet? How to separate AI fact from fiction",
+      "excerpt": "Determining the way artificial intelligence is used and governed will be one of the century’s key political battlegrounds. Here’s what everyone needs to know",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/aea92510a8f227a5ff3c89d310e04c9d6703044e/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=ed73cb558295ce3c6728ab1ce55be43b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
+      "publishedDateTime": "2022-08-07T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools.md",
+      "title": "Why not all VCs are ready to embrace AI-powered investment tools",
+      "excerpt": "Not all VCs are embracing AI for due diligence and investment decisions. Why? It could be that the algorithms fall short in key ways.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/",
+      "originalUrl": "https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -754,7 +858,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1093,109 +1197,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-why-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics.md",
-      "title": "Why retailers are upping their investments in data infrastructure and advanced analytics",
-      "excerpt": "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
-      "originalUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-89320698.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
-      "publishedDateTime": "2022-08-05T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor.md",
-      "title": "U.S. appeals court says artificial intelligence can't be patent inventor",
-      "excerpt": "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
-      "originalUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
