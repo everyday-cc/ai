@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS"
-excerpt: "Get 7 Days Free Sign In Sign In Topics"
+excerpt: "Iron Mountain (NYSE: IRM), a global leader in innovative storage, data center infrastructure, asset lifecycle management"
 publishedDateTime: 2022-07-28T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
-webUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
+originalUrl: "https://www.marketwatch.com/press-release/iron-mountain-insight-saas-platform-extends-capabilities-on-aws-2022-07-28"
+webUrl: "https://www.marketwatch.com/press-release/iron-mountain-insight-saas-platform-extends-capabilities-on-aws-2022-07-28"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "TEmpWG12kVDy7TcOq8WWtkTxAzr6n9Qc6DobhuEoZwaGVNgqJZ12T8BEcSD1tl23Je3QFIoBwGnE8ryFFG8aV9CT9aG57iUv/3FtjPZOIF16Bd0bSlZt/WVhyWI3hTgMpSxjx0M7StSoeJo7a+H97eC8QWKm0Rw3kB+cpHKpQI3cu4DoG2WqFWXcIGPB135VNntsoUIR4UXkBryDdb4VBw+mUz0w6kmwZXdqSUAYTU66CNm4QlgMecOjT5piGoaO+yWjpA3VezEw9YvVb7/m2ovDGKHTkzl77Gwr/1PpgiBbQec9hqP3yrLqxMzAKHhGir21J/fmHBqdF0MqXSiHGWH7cIPbQhalwi8OlvujkGg=;o823bYHKJfYR5FdHOoM8FQ=="
+secured: "0fiybQZsVk0U9/+xWqqqxIXdCt7xLYe5SCE6n6p4LloPuzHgdMEfy8IVWoW3jd6WfNe1sdORocMNL3xrxZPxjz10Yz1eTwTRMtJRqf+p8BpEHztDvgo+x1z9K/OT/akWUHrRiZxjIJPwkCxijLO1SQYLCylYTa1xypZvc+5wqkOAYK1Vim0fch0FO4iqLupOM+j7c7tr9rSqL5ePFLWkNzCxwRL5G8PBDEAxUqVk2q4+iUpkNKqFsmnt8vduh3I4ii7oKGlbgH3wwW2fTSwfkDxCsnJl/BzzAjsViWr3rrjJtn4mGZu2kPe4MZgLv4E4XZLPg88sZ9U++dFVXpjZWI5Tuvm18/wJ4Z4jXqAC5ms=;zXTHKy+L/LYEIYoA6hwIKg=="
 ---
 

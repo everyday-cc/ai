@@ -1,40 +1,24 @@
 ---
 category: news
 title: "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks"
-excerpt: "The combined offering improves the value of customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. NEW YORK, Aug. 3, 2022 /PRNewswire/ --"
+excerpt: "Particle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks Aug 03, 2022 (PRNewswire via COMTEX) --"
 publishedDateTime: 2022-08-03T12:00:00Z
-originalUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
-webUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
+originalUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
+webUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Marketing
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/vidora___mparticle_2.jpg?h=2c61325d&itok=onM5WUFo"
-    width: 600
-    height: 316
-    isCached: true
-
-related:
-  - title: "mParticle Acquires AI Startup Vidora"
-    excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
-    publishedDateTime: 2022-08-03T17:12:00Z
-    webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 17
-
-secured: "XGNDyfyYKBILxBEsZhZlU4g0+dVCRTX7DKFHsZN8F6hnsUW39nPlKcMXHKFJwAeyjTuRof+ohkgSDU8fT/wi1aelxJyeghaNaWzQ8IH1cl1/+gUA/DsAGDzdZgtLe2haBvnj88xU2VZqXaUvEHs6sie4KQQsvIV+5PW71+XEWxTzMj1QGExKqJbIRq5Bri1GO8lztg7ITVlkHiqlmSw685p+pq4CtV2CXNi7lKuMmHv1/DujrzvbUSgdYkmdkvqROgkh7LFwFI8DDxIdceF2SJ1J5lEm+8qbWd29TS94yE8gvJVk4A49YD1odN96/FwEIqZ6yn4GUF+/9x3Yq6PQ/X04X1CMivZ0+Y682cTNRAtNbOaXwNZJKATbsyIni3HmelsOcia2I25AXMtLyOQ3wRsv34rrCmPzBP46JVJcxgRZ2x/lHESAFYGFboEmuXD7480UvRQ5Uu6Mq2QjhbDcXsTXc08DhZcQk3o9tbcqeDOFoscQnbe0fdtxY1ynQGEmYWHQisO8aL1KT1i8vZji3w==;NnNH2Xsp2+2f2Wkcjkdh5g=="
+secured: "XlbWZvf4KAqxrXhVe5By8kviAE0fqoWWfmki9KzLp6TH/zOvsGbwfvFqUwr/Hg1yI4ZeXchFbst+TVbG05BPm6/pijpvqFrf7cttzvdp7sddRsht3M68u9ip6cf667OXOV+w4jSOpQzmlPMeDdAX6HWKrl9YuLoesF2j1XuKQPQ2lNP8y0pgVWPxO2FVMAH6E6Kh5Vg3Yor+dLnHzIk4TN8SKzurUOZTPoOQdKFw2c8E06QaNDu+JYh2MGRKkBwzhBnOVAe+QpooqrmTeky/5IDVmHZ7LFcIRZK6TW7M5+oTO0MStGOACDK1RLpqGqVGj69lMHvNWD9BMbDYBA35FXMW3ddYJtRG0rJsdSlUo5c=;JpsM0kCbf0ZRlHvL2KC5qA=="
 ---
 

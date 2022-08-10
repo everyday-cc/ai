@@ -3,23 +3,17 @@ category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
 excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "m7FMy12w+bzuG7S/6TvtYGcmj5MHM6LbVuWDCfNtd0WCa2dVtIszmBN7IcT6WfjjGVZR02NtkngP02BsOL1Yb9WX3iSCjKYF+XMHQ3+bPcQxfEbO3mM18apKw0ywHwhSLDJOmp1qvcqkTCX9uU5UJaTqnlGX654GA8yeZEk2Drq/cpGXYLzNIQK+fLTFqInA6TF3xrZcFo3DC5Dx5svcj3CKliMxj5esliAsT81cq4w69jEcDeuZH/7AF+nwmRGkrwSt/ve2FoCPIaELfRaOBDC4GHao9ekUbFRY7ml+CcLfLwynW0raelIGjk1WQdRYaZ/AnP7/dtcBVyhWHW4cOOAig/ldMy9F0UxIqwbIy44=;dWsOJRdB13CyIUMW1xB4Rw=="
+secured: "uAvdiMU4tux1rJBlBzCJCJ/heuIF09DEoiMskfXAbo9XgqFMgOrO8FJh5C7dtAec6u7qK2vh6SCWuJ70uK6hL0G559t4MilYfKyva/zmJYebeY+NlEVkVxEEn3CQDzLUpJ3SDOTWklUYNAHeIxcuqNbOXlZO7KgJLCCshxY25LbBVh85terNb56FMZrOcdtX22XMy3aC7Fq7f7QClo1GNhJ43yCgGGzlRnbW/6Cr2ysxBCR7rI9pYa9FM+EeKmNWuN5/O+T9fGl8ckFyEQ/R167FC4zyX9pEh4l/PkaOSTcKN01DQmfcX8aC5AEWjleOrx1uJmTgqD0oeRvgTeDe1ka1MM9JqagIiyXaYlfiUks=;cIXy1thIWJlMPSBOLoxsrw=="
 ---
 
