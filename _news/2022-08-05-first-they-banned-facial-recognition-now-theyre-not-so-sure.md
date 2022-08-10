@@ -3,13 +3,13 @@ category: news
 title: "First, they banned facial recognition. Now they're not so sure"
 excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
 publishedDateTime: 2022-08-05T12:20:00Z
-originalUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed"
-webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed"
+originalUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Pubs are buying facial recognition technology to track and record you"
+    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
+    publishedDateTime: 2022-08-09T23:51:00Z
+    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 39
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Facial recognition software spreads across India but regulation is slow"
     excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
     publishedDateTime: 2022-08-06T13:40:00Z
@@ -111,6 +125,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "s+TDRAfI9o0fHp56oBfU1gxqRrKEdNqlzBIRyWMLTapIN/SnNY00p21PfsoNWGqgR8KNbE4tG7GlOG8OBg7a++OX/8CKF5s/LTxogdtxWcEfArH+J7xUmbOFwRBXkyMd61pfIGom3AWDnqNvO0v4fbtOEfhZqh7d/pTRkdCuH2E7zWHjSqrBr9+SCWdQUue0qjNgVkQ7LVT301ifq5ZqgEJne2XvO3q68T+jRPxHDqP7HOssRV2I6iK3G6K3lFN1SEzfVQdy6Vbb7q+CUInQKaaTxcXvPdNeQkfF0xOBorCL74O8bFLxzyuGJXPX1Sv95FoseuJwSNvKk/s4GFQxaSki0m+wsrzjKqlgcYbgxmc=;hHtEy+xRmicxQTqyY3kGIA=="
+secured: "F/3OVmCq9mXMEQpAAxu0ItK9DAzInQuSvTA2hbOe70jaWGNLlUgx91FzAAhPfliU1ln9njHu6/CCtRDPNUD0sxIpxpdlTyq0VwXFFeeXAiQnaGbctDnK1WKVX3c1I0uC8D7TiEDksYgE1L/AW5fSEvn7uGw8GP4atKG9ZjRKOPant57P/Mhx4fChwyt+019MgmPx1f/wjHsM4wQggQE0fOaCCM/kJ1qs3DzqiYwuIVqTRHk7fgi+rpLiIM1DypHbke88iV9oA30tECC81nANqQ6YtmIU+ihcvSEeOrfguhY2NUXIRhO5C8KzCW0faRhes7GrnmFxi/2k4KulRjRIp5CUUDHzs57J7QdF8ddz2F8=;n15rA7yvZMJ9Hb0QGbkANQ=="
 ---
 

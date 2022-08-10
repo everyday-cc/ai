@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Healthcare Analytics Market Growth Sustained by Increasing Demand for Big Data"
+    excerpt: "\"HEALTHCARE ANALYTICS\"Inkwood Research estimates that the Global Healthcare Analytics Market is evaluated to grow with a CAGR of 25.24%% in terms of revenue during the forecasting years of 2022-2030.“"
+    publishedDateTime: 2022-08-09T22:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28427235/global-healthcare-analytics-market-growth-sustained-by-increasing-demand-for-big-data"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28427235"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28427235"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 67
+    images:
+      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Predictive Analytics Market Worth $38 Billion by 2028"
     excerpt: "The Insight Partners published latest research study on \" Predictive Analytics Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component [Solution (Risk Analytics, Marketing Analytics,"
     publishedDateTime: 2022-08-09T12:56:00Z

@@ -35,6 +35,22 @@ related:
         width: 434
         height: 474
         isCached: true
+  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
+    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+    publishedDateTime: 2022-08-08T19:00:00Z
+    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Machine learning and the future of marketing"
     excerpt: "Could machine learning right the ship? Big tech platforms have made continuous headway when it comes to delivering results using machine learning. As they’ve evolved and improved their ..."
     publishedDateTime: 2022-08-06T00:14:00Z

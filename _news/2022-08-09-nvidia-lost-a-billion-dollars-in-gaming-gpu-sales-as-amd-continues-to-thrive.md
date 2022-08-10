@@ -29,6 +29,15 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
+  - title: "NVIDIA GeForce GPU sales drop 44% pulling Q2 2022 revenue down with it"
+    excerpt: "NVIDIA Q2 2022 revenue missed projections, gaming GPU sales are down which forces NVIDIA to work with partners on price drops."
+    publishedDateTime: 2022-08-09T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/87836/nvidia-geforce-gpu-sales-drop-44-pulling-q2-2022-revenue-down-with-it/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
 
 secured: "OlZHW8fMUrSMnsULeTXxT3qDjmUCFEtdJOPmbbFfY/EoKgn1Tv7ngmMuuUmBchA0qvu4TJd9BkZ9WgXoIuoLg2ir+NCgZfN4ujsBs2BWZpfptzF5nO7KC47vtdGhOlfpuYcy61nDQ69UsDebsmczrzdM+tZJVH7r9YhaLlWKOdnw913oFYmdNOasHUpieKdICfnKlUmJDvlaT7RY9Mm18D3BmvX5Fl3fJyuMcTuOZ+1EO9oC3W2w8SHIqIuyy60C190+sNwD5OCfScXPMa3+Rtb5OP1NfrmnHixBktnhmr+whQ/7bkGPUhGiimJVPn+fPCoIwJ4DZJfclsXSgrAeXXfP6fUZ7kz/hNcioS2kobtpxMcAg1sA5eJPAcCcp5k/ROZaLmhb7NM8aNUtN7EMTZHpNyjwq3R3VzCx2hX87CyCSuCRhSQJNsFuV4+2dJxfSYlg/BM2iNI6WKs0Qt0ZIzRIxjNxxchtJHnNsA11ZUGcW9eVW4b56ie7ExY5tQrcMYiZEBMi/WL+lK2vD6ICnQ==;ClkXXyaNn6BLF5lBkG3cJA=="
 ---

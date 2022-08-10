@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
+    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year-2/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 38
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/08/f1tKn-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
     excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
     publishedDateTime: 2022-08-09T17:00:00Z

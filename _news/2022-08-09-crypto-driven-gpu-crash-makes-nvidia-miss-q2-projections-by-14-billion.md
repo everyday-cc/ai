@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA GeForce GPU sales drop 44% pulling Q2 2022 revenue down with it"
+    excerpt: "NVIDIA Q2 2022 revenue missed projections, gaming GPU sales are down which forces NVIDIA to work with partners on price drops."
+    publishedDateTime: 2022-08-09T23:30:00Z
+    webUrl: "https://www.tweaktown.com/news/87836/nvidia-geforce-gpu-sales-drop-44-pulling-q2-2022-revenue-down-with-it/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
   - title: "Nvidia lost a billion dollars in gaming GPU sales as AMD continues to thrive"
     excerpt: "NVIDIA on Monday announced its preliminary financial results for the second quarter ending July 31, 2022. According to preliminary numbers released by the"
     publishedDateTime: 2022-08-09T12:35:00Z

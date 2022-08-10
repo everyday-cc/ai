@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-09T14:47:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/congress-could-use-a-dose-of-artificial-intelligence/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/congress-could-use-a-dose-of-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/02/GettyImages-1221829701.jpg"

@@ -58,22 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
-    excerpt: "BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback"
-    publishedDateTime: 2022-08-09T14:16:00Z
-    webUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/"
-    ampWebUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 53
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "‘Too Creepy And Manipulative’: Meta AI Chatbot on Mark Zuckerberg. What It Said About Donald Trump"
     excerpt: "According to Meta, BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback while avoiding learning from unhelpful or dangerous responses."
     publishedDateTime: 2022-08-09T13:18:00Z
@@ -133,6 +117,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-93442184,width-1070,height-580,imgsize-71276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
+    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"
+    publishedDateTime: 2022-08-09T16:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-757054"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 33
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/08/09/1307143-meta.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
     excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"

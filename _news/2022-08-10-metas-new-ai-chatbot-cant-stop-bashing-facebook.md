@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chat
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
@@ -277,6 +278,6 @@ related:
       domain: niemanlab.org
     quality: 17
 
-secured: "JUDO48f+JmIu4JOHf0R2lV+OwLcxwXFC/eQwoF/NAOxpMjtvVhMrJc8R8trQpPd+O98MX7jixrHgbsclWjJ8e+8CM3DCGHZfvqtNfKFuEX4YXE8tRf3iftLJHkNwxMN2NCCnc3xOVd0mL73P4XelfxWKrZXazooJyPWul1BcSIG7/GmCvEtqWzFLUl9oLipomKihUZAm27LS5SYGoPRVg6amJfUvog2Zg8mzXgK9SDk5hqCTmLEflwLCiPkzMChtDUSEF/xFAnY3cgNDXdKV13yem1ZgFLMFAOsVrpWCXICIyYbOqTiKUD7tejFmw5Dny7svq7lKfkqob1ek2T1iKKXJCglr2MWkP1+23tSMDAw=;952DJQmKwmiYR1N/FVutyg=="
+secured: "/vIaahvxdPYmukkNHJyaui7ut8/KYYAHVZ0ShRVjEpLwyjsf5hIGWOf/uEEY6hUc/70Bm0Ry1okb+BGkGZ+cT3jl1Iu82BnfrCd5JyNrgzNnaPqXvseVgJYNSUJvENimb34MXx1OAI9ozyegnunxHwX1v3/Bwd4QMdLvXi+tX4f+Gy0ME9QjAq4ix2YHgGopQcQJ0PfEuTXxkNc1f0G85Pz1drcbE1hBKYEdLnW7PvvlLKIWt4riqrDMwQRN4LJzCFkhUV0NNz5bQnlUjSE8YorGND7HlEjTDt5DDLyn0Ini2PJCru41r11Y77KZGNilov2x/F7QSoSwqT0JqWjUw90fICudMX/1u4NrJlpToTz+WdAFkO+yr8fYkYLB69vW2XqqzQ1gP+G6uQ4OSZ6acdpGN5ZcgRt+ESv7gVfS0+v8ti8eeE4MYHbh6cYtoyG9lzYe63NnMNTI2SP4+3HaQsL9PF0uYksVMpmilx9NiVQz6svignLoA8VNqlC9mUt4emfcD+OJXPKGVy2C5ES8BQ==;IXz881hQr1zqJMFz/gtb7A=="
 ---
 

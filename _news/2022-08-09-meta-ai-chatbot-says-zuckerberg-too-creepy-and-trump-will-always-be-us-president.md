@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
-excerpt: "BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback"
-publishedDateTime: 2022-08-09T14:16:00Z
-originalUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/"
-webUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/"
-ampWebUrl: "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
-cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/"
+excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"
+publishedDateTime: 2022-08-09T16:15:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-757054"
+webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-757054"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: www.bgr.in
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg"
+  - url: "https://assets.thehansindia.com/h-upload/2022/08/09/1307143-meta.jpg"
     width: 1200
-    height: 675
+    height: 720
     isCached: true
 
 related:
@@ -180,6 +178,6 @@ related:
       domain: euronews.com
     quality: 8
 
-secured: "g6B7jpMxP+EFcp84Q6rw/RrZrCxlCyoQvsJ25kOtTiIkyTNou/+YTNh/CyBQvU3nwL/H8LrsMLZdX+cnpqIaYv4De3J2aLcgc5dTWgaf4mC5+Rrwx0I6Ggn6xBL3VXaDYRoFqj0PSbvIEMHzJUOe8+uiIDwnAkA5nvNmkx+CXbtsDc2muVLQX3lYPURnCPNS2R09SHrfl2rSp7MKgdHtbMk+3Y4x0ubzYU0YYGpa2tbtk+jfy+axqPjBSjPxjBDOKNrSXxEF3Q/HZWrQXeM1NJVvS7K0IkPRxCLmc2wrFhIDNZ6x0mid+Jhekt6wdjAd6oVgE20EUOZw44t2dbAK/ebd/I2JAvOGVADDDpAtshQnWqTkwjexC3eNsxvjhz6o6xlmEfUZ0uGCNhz/5grc4ewBQtRu1M971iBbdgNn7BuutZOsuk7n1ieCDC59Lqdq2Whk/sNsift3s3t1DMBNXiXd+Fz952djdsjZkSey6LZ+CANzMqyzdHBiFm3ax32XCcsTbB6EgMYBfTIYEuytVg==;+1+qZXPXXcCYDqDsd99dHw=="
+secured: "RkQ8s+oOWfEI0LVevbvUiFpRKe+idy8YmAWXTjNTwsv9rLm7flxwt7qFFO1gt9Qi/UPMyIyuclgui3SKcJhCnYUDIA87y6xD1Xs2gBYhVMRJ6/SzxszQdr0CHuBisxwm04F6NkkstDcOq3/Kjz8e3xDiBqaZNCAVAV3AJGZR62EwJHD7AdMjWjh+mV3P2ri4jufhdSHRSh4ExMZWXQLin+UjPe/Mjx3TSLSmKIvxZPtvXM6ySGztS1RQ4r2abEcNYZnglQhrjmHL87LgcTiJMv0HMaQXXSw2Oevw2+qSOlqQ4TlQ26aTy3ODFPFq3H84SO7m2g82ccJtlBPe1a2GxQIEBUgdaxeEFIvQDC60IAI=;7v3exIMh1J2VqX88Q755yA=="
 ---
 
