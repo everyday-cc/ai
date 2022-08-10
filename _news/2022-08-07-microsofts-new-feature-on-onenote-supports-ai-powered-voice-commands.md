@@ -7,7 +7,7 @@ originalUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-suppo
 webUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-supports-ai-powered-voice-commands"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 670
     isCached: true
-
-related:
-  - title: "Microsoft OneNote's new Dictate feature supports AI-powered voice commands"
-    excerpt: "A new Dictate feature is rolling out to Microsoft OneNote. The feature supports AI-powered voice commands to control dictation, such as deleting text or undoing a recent step. Dictate is available for anyone using OneNote for the web and Insiders using OneNote for Windows."
-    publishedDateTime: 2022-08-05T13:44:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-onenotes-new-dictate-feature-supports-ai-powered-voice-commands"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 32
 
 secured: "IpVBJi0spKybfmNYtSqZt2iutkGNKn2pSG1L0yUsXq0zM6+Lfec4cL/khdvXQxLZyBu67ODGVgvXELlD57VkofH3vltS7yhbKEoknNCwDq+WAtEwk+FL0GMHhL4FgwTrbgniAuS+o+tiSBe7935OLyXl4lgFuGa4QIL0dphNhe2AeG2eaaBq8TLublpK7pAK/UUNTGKzBkkK/kkYpRXicpBHgEKOjgxIVcLVoy8SIPcB3LawMjo3bEkSN0Xgps5mCqmeWhJwnamr/ZoumX3wTNexApgU+AALEcDWmAaxYo8FCSx76myeL2d8nZ4q1CCgYRkRj4QWOqV4nU5vsFHJNqF4tJk+uPP5OqbuAuTsAgyLJzOwJr7hZhpjH+nFJCK1n0yEK0RDfJ7SxanB/R8iL5H70TmF9hmbbVcCO2+JFKk2u5GYj2exzHHBXgI19wjAE+deyJYJR+tm/N1yLK+UvcrFipPiAJrTQAaTlZqRpfjxMr0rBovlgP1cwcslkjt19QSpltUdXtT+FEMlRkOikw==;JlK+EiQcXJO5OExobLgN8A=="
 ---

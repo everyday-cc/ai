@@ -50,6 +50,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 65
+  - title: "UK to surveil convicted migrants with facial recognition"
+    excerpt: "Migrants convicted of a crime could be subject to facial recognition scans up to five times a day under plans drawn up by the Home Office, which campaigners and experts have condemned as “racial surveillance”. According to a Home Office data protection ..."
+    publishedDateTime: 2022-08-10T07:52:00Z
+    webUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
     excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
     publishedDateTime: 2022-08-05T16:17:00Z

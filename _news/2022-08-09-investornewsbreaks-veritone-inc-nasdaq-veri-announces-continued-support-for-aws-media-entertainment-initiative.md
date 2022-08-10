@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 450
         isCached: true
-  - title: "Veritone Extends Partnership with AWS"
-    excerpt: "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ..."
-    publishedDateTime: 2022-08-05T14:14:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Veritone-Extends-Partnership-with-AWS-154274.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "Veritone and U.S. Department of Justice Expand Relationship with Antitrust Division Contract"
     excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today announced, through its partnership with AITHERAS, a new contract that will enable the Department of Justice (DOJ) Antitrust Division's (ATR) eDiscovery and litigation groups to use Veritone's aiWARE platform transcription,"
     publishedDateTime: 2022-08-09T13:25:00Z

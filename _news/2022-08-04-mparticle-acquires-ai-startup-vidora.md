@@ -1,25 +1,19 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
-publishedDateTime: 2022-08-03T17:26:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
+publishedDateTime: 2022-08-03T17:12:00Z
+originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
 type: article
 
 provider:
-  name: Destination CRM
-  domain: destinationcrm.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI
 
-images:
-  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
-    width: 480
-    height: 610
-    isCached: true
-
-secured: "3hqS3y2QKADqqN0vwi4olUjKHBYCQlk9By3/+ox0Dhqd4F4eWAHAt2rmdDdPoxmcLyncuG7NB8h9f8ZK1XmQErsROYd44WrNvykpks+hgC3tSCNz9bAqMOGeiMGctnCyrrOHVOoeY4sv+eQwDDUvzWVkZh4GmEBAWcVueuv6Z+PrZVh3Stahoa8ZvatJkXtIFKRoSxV2Ey4uTv7C33SEyByddKuRkETERCRCEBHH4prrmFfpE3VjV2GeGNXmXMAZWDmDtiCSP5u3LHAEyE0plPVtFiDu7PwkKM2Sr2LRA9pluPkPXYFRtCZjvePTCjXmXkwR2z8HK60UxWwJlipEbrwFIm2TIUoPZv3xrXDO0XY=;O+hVQ6bQQgLIHRD01PfqIQ=="
+secured: "V+vzCF2TrwgcYudrJrVkhKjE1aDc/M3EGBE+IhIAXMqb1OfJRANAfm6/x6Bm2Ak7HHcinFY4Wt4zHOs5aKn5FvhLQ3hEes8p8oLYTALgT0Bwk2hJmI7jbDcPWFRVWNmjWyKY9mMQkBCIrO9uhVZN8aybd2Xu+Xqw8nbF+bQZe00TpGHLJduxTk759HbG3ZkU/vJtD5yOLrmZIgGXc4tNXOCEiBZ3wrmAna4AfmVXY3KGHhAr9wfbFg1n86r+hw5sWTB9kWbpERDqDBhiGR17HeS3OvPGI2sUgQVKwo8wrflzqpYjiiV6c+Q39ZcWXS4kxlGM6GSrUFbxgVzTN7tBGZm2E2h7fBGp3zUrTtj94Ws=;7eKsxAGsH/acpD2FGdoXkw=="
 ---
 

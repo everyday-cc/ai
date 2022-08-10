@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot"
-    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
-    publishedDateTime: 2022-08-05T15:00:00Z
-    webUrl: "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
     excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
     publishedDateTime: 2022-08-06T15:28:00Z
@@ -48,6 +32,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Meta unleashes BlenderBot 3 upon the internet, its most competent chat AI to date"
+    excerpt: "Meta's AI Research division will see if its latest iteration of Blenderbot AI can stand up to the horrors of the interwebs with the public demo release of its 175 billion-parameter, Blenderbot 3.."
+    publishedDateTime: 2022-08-05T15:42:00Z
+    webUrl: "https://www.engadget.com/meta-unleashes-blender-bot-3-upon-the-internet-its-most-competent-chat-ai-to-date-150021062.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 62
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/5384c4e0-12a4-11ed-a5d7-75b989369c3c"
+        width: 6128
+        height: 4016
         isCached: true
   - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
@@ -97,22 +95,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "BlenderBot 3: An AI Chatbot That Improves Through Conversation"
-    excerpt: "Our new AI research chatbot is designed to improve its conversational skills and safety through feedback from people who use it."
-    publishedDateTime: 2022-08-05T15:00:00Z
-    webUrl: "https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/"
-    ampWebUrl: "https://about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/08/blenderbot-ai-chatbot-improves-through-conversation/amp/"
-    type: article
-    provider:
-      name: Facebook Live
-      domain: fb.com
-    quality: 57
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2022/08/BlenderBot-3.0_Header.gif?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta brings its latest AI chatbot on web"
     excerpt: "\"We are committed to publicly releasing all the data we collect in the demo in the hopes that we can improve conversational AI,\" Kurt Shuster, a resea.."
     publishedDateTime: 2022-08-06T06:19:00Z
@@ -160,22 +142,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/01/Meta-Logo-metaverse.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Meta develops conversational AI chatbot: Concern for data-sharing?"
-    excerpt: "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot."
-    publishedDateTime: 2022-08-08T15:46:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg"
-        width: 600
-        height: 338
         isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
@@ -227,47 +193,35 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
-  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
-    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
-    publishedDateTime: 2022-08-08T14:22:00Z
-    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
+  - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
+    excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
+    publishedDateTime: 2022-08-09T14:18:00Z
+    webUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357"
+    ampWebUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
     type: article
     provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 36
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 43
     images:
-      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
-        width: 700
-        height: 394
+      - url: "https://i2-prod.buzz.ie/incoming/article26660675.ece/ALTERNATES/s1200/1_GettyImages-1182969866.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Meta AI unveils BlenderBot 3, an advanced chatbot that learns from interactions"
-    excerpt: "BlenderBot 3 is said to be the world’s first 175 billion-parameter, publicly available chatbot that comes complete with model weights, code, datasets and model cards. The original BlenderBot was launched two years ago with the ability to blend skills such as empathy,"
-    publishedDateTime: 2022-08-05T15:03:00Z
-    webUrl: "https://siliconangle.com/2022/08/05/meta-ai-unveils-blenderbot-3-advanced-chatbot-gets-smarter-time-learning-previous-interactions/"
+  - title: "Poll campaigns get interesting with Deepfakes, chatbots & AI candidates"
+    excerpt: "The world around politics is changing as people nominate AI bots in elections, deepfake videos are circulated by political parties and AR and 3D holograms get popular in Indian politics."
+    publishedDateTime: 2022-08-09T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/poll-campaigns-get-interesting-with-deepfakes-chatbots-ai-candidates/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/metai-blenderbot3.png"
-        width: 1063
-        height: 595
-        isCached: true
-  - title: "What will Facebook do?"
-    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
-    publishedDateTime: 2022-08-08T16:01:00Z
-    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
-        width: 1008
-        height: 529
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/deepfakes-and-indian-elections-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Meet BlenderBot, Meta’s AI chatbot, that loves slamming Facebook"
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"

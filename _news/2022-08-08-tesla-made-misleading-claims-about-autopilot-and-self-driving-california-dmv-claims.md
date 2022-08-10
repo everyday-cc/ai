@@ -3,25 +3,25 @@ category: news
 title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
 excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
 publishedDateTime: 2022-08-08T14:28:00Z
-originalUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+originalUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+ampWebUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+  - url: "https://www.ocregister.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
     width: 1024
     height: 766
     isCached: true
@@ -293,6 +293,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "oFIp5mvYB2uJwDjUHxZDVQ6hrRzPqYk47CM5S7+QvtEIqCtFJBUpfO4wdDnPZR6WTucUe3zCX+YJ8HrJ70rIJSPBwmG5IYuG2FwObpsNEjHA7/Ib85rVyN53ap4GD/p4TbUPbbNjGFAsrrg4/Xf63OwC8bHhftL+hI+t11ulmlAsPhrxHyrgHEu1Rm6t33qUFvwSrCLBtH2FPLb/e3PqNRYeCUFAswZGZ1Am/8iUcsKVjSC+K4FAr0ZOUMvhQBA4dQVNnjlAXfJDoe2lwR3muGuMaRYqj3CU/oTkNGwytHNMjM6tKhlcZe5t3YGxMT+LWGg5cgPTz/pJ45mUTkiJniZHhpxc9INhnafV3/0zT7Y=;KklziZxBj1+2nKybaCws0A=="
+secured: "+5srZ5KXLvZ87aEDGEC/zDG2p6w6vXIDoWl/NVN4q7GBnvCzraHdZm5zwc0imVbS2N/0a4xVzflFS8UmeZxmwVSpGSPsc41ZFncAt1uNcRD0jmYgTLZa/G/MqMs/UeTY4RBEOFmZYxUI3Qiw2icnvWMycf3YGiF1fQDCoNOBV+CQXDKuTrSQVg0apelWyCMRR+Bd+lE7MYoFhs7EexoTJhRYBi1mIuNrq//bjiy0bT8xDDIO8tAcX6nfxr+nST0j9rTyq7un7ZSiYk15V06Eq4fouunc7wd2iKIjP0at7U57qvnVts3DY0FF9E/pfd8wYpR+/myPZrUHueMuftDDYlzSA5pOy6TQR9r7NyvrhTc=;Q8awB4F8+1gyL+geR1t+lg=="
 ---
 

@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities"
-    excerpt: "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,"
-    publishedDateTime: 2022-08-05T14:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities"
-    ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
   - title: "Eye on AI: Taking over cybersecurity"
     excerpt: "The world is getting more and more digitized with each passing day, especially with the augmentation of hybrid working spaces. Millions of lines of data are being processed and stored online with an increasing"
     publishedDateTime: 2022-08-07T14:25:00Z

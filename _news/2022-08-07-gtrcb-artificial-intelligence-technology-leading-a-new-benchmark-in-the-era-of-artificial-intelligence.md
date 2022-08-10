@@ -34,22 +34,6 @@ related:
         width: 434
         height: 474
         isCached: true
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-    publishedDateTime: 2022-08-08T19:00:00Z
-    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Machine learning and the future of marketing"
     excerpt: "Could machine learning right the ship? Big tech platforms have made continuous headway when it comes to delivering results using machine learning. As they’ve evolved and improved their ..."
     publishedDateTime: 2022-08-06T00:14:00Z
@@ -68,15 +52,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
-    excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
-    publishedDateTime: 2022-08-05T14:40:00Z
-    webUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 9
 
 secured: "+WHrWsA5uz4Gziq2mQI4amkb1ijhMFCH5kDmcLLwhG/JJIBhEfmefD2Alh/FUzfD5bc+JrNP2e/bxadv3ODjzGOjt6+FTA5p7K+crJ0JYnUXUQIqhopJTgAOEq94xFj0sM2rNMo1vGFzVXFbgYaRvIuCfnDQ8BTaLztMydsYQnPqD1kfAMZzYXvmKGj5z85gNpRl1/rK2xjJWPsn/LZbLNK4JAfBvvjHWvjlJV09nd91NpAAhgXNY/kB3Vve07NJTOFj0hmqc873PHmcCEqna+8ExH/HC0kqYA6EUgzxEIfCl6IhkLiTjo7zUZd9Zi2ZUJu2OMy7+U0afhCrzIjlMYSC3uD6UMMY8e3pC+JdueE=;59U9x+TQtMR3HVAxZfNoFA=="
 ---

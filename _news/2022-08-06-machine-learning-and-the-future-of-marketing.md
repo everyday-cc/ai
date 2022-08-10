@@ -36,22 +36,6 @@ related:
         width: 434
         height: 474
         isCached: true
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-    publishedDateTime: 2022-08-08T19:00:00Z
-    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
     excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
     publishedDateTime: 2022-08-10T05:00:00Z
@@ -61,15 +45,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
-    excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
-    publishedDateTime: 2022-08-05T14:40:00Z
-    webUrl: "https://www.raconteur.net/technology/how-financial-services-operators-are-dialling-up-conversational-ai-to-catch-out-fraudsters/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 9
   - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
     excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
     publishedDateTime: 2022-08-07T13:02:00Z

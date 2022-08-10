@@ -41,6 +41,22 @@ related:
         width: 5760
         height: 3840
         isCached: true
+  - title: "UK to surveil convicted migrants with facial recognition"
+    excerpt: "Migrants convicted of a crime could be subject to facial recognition scans up to five times a day under plans drawn up by the Home Office, which campaigners and experts have condemned as “racial surveillance”. According to a Home Office data protection ..."
+    publishedDateTime: 2022-08-10T07:52:00Z
+    webUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 59
+    images:
+      - url: "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "The UK will use smartwatches and facial recognition to monitor migrants convicted of crimes"
     excerpt: "The Guardian reports that plans from the UK's Home Office and the Ministry of Justice involve smartwatches installed with facial recognition software scanning the faces of"
     publishedDateTime: 2022-08-08T11:55:00Z

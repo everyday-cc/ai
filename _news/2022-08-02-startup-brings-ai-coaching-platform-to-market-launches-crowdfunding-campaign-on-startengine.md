@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides ..."
-publishedDateTime: 2022-08-02T16:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
+publishedDateTime: 2022-08-02T15:57:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-d57e89e3f8b01bcbf438cbaa9898d47b"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Markets-Srore-shopping-AFP-1K-01-600x337.jpg"
-    width: 600
-    height: 337
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "UkBo4Jx9AzwQZrWlQGLBSBOHbGnN8fUzK3ouPqXbF0xl9+qgKvpFrM0qCq+cRkK3F9grbTJWNv+GQ8EDMakU3q1A/OHqxIt9G8Bh9xCdgek8SI5t4eemvh0UFUoPX9MGPaYjfUetPUVUgr7+/xYouBNB5e7YqTSzky1idYbItZU1PfdjNXTIZBnp6k8qO4dmx8w8Jsh7L0VwKwxg+nTW1pB7bNCaIvTLnVcrXpYTuKEsfMQNoQ1c6u4I3Zo/SlDAoBO8GXCN4Png0eRsC9F8bv/LxzjcB6JH3Heig7PcCUvUo5tRe3JPDLXI8ovLdq/2W7mqOudkuRk0QD1auADT1iDRGf30Yl9sEi3RDLaijZU=;4u84btueFsiAwWMZDoyH8w=="
+secured: "m7FMy12w+bzuG7S/6TvtYGcmj5MHM6LbVuWDCfNtd0WCa2dVtIszmBN7IcT6WfjjGVZR02NtkngP02BsOL1Yb9WX3iSCjKYF+XMHQ3+bPcQxfEbO3mM18apKw0ywHwhSLDJOmp1qvcqkTCX9uU5UJaTqnlGX654GA8yeZEk2Drq/cpGXYLzNIQK+fLTFqInA6TF3xrZcFo3DC5Dx5svcj3CKliMxj5esliAsT81cq4w69jEcDeuZH/7AF+nwmRGkrwSt/ve2FoCPIaELfRaOBDC4GHao9ekUbFRY7ml+CcLfLwynW0raelIGjk1WQdRYaZ/AnP7/dtcBVyhWHW4cOOAig/ldMy9F0UxIqwbIy44=;dWsOJRdB13CyIUMW1xB4Rw=="
 ---
 

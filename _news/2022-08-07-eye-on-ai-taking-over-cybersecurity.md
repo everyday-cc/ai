@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-ov
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/eye-on-ai-taking-over-cybersecurity/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities"
-    excerpt: "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,"
-    publishedDateTime: 2022-08-05T14:13:00Z
-    webUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities"
-    ampWebUrl: "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
   - title: "Cybersecurity Startup Timus Networks Offers Solutions for the Modern Workplace"
     excerpt: "Timus Networks, which recently launched its operations with the motto of ‘Your Business’s Immune System,’ offers a platform designed to meet the network security needs of the modern workplace, thanks to its cutting-edge ZTNA and SASE technologies Amid mounting concerns about cybersecurity due to today’s increased reliance on remote work,"
     publishedDateTime: 2022-08-09T15:49:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI development service Market Size, Share, growth, Trends and Forecast 2022-2030"
-    excerpt: "The global AI development service market size was US$ 31.1 billion in 2021. The global AI development service market is forecast to grow to US$ 705.1 billion by 2030, registering a compound annual growth rate (CAGR) of 36."
-    publishedDateTime: 2022-08-05T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-development-service-market-size-share-growth-trends-and-forecast-2022-2030-2022-08-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Full Stack AI Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2029"
     excerpt: "Global \"Full Stack AI Market\" report analysis by size, share, regions, type, and application, forecast to 2029 is"
     publishedDateTime: 2022-08-08T08:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gar
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
 type: article
 quality: 97
-heat: 147
+heat: 107
 published: true
 
 provider:
@@ -38,49 +38,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 75
-  - title: "Microsoft Adds Ways for Customers on AI with Azure"
-    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
-    publishedDateTime: 2022-08-06T00:00:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 69
-  - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
-    excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
-    publishedDateTime: 2022-08-07T07:00:00Z
-    webUrl: "https://www.independent.com.mt/articles/2022-08-07/newspaper-lifestyleculture/Drones-with-Microsoft-s-AI-studying-dolphins-on-edge-of-extinction-6736245003"
-    type: article
-    provider:
-      name: The Malta Independent
-      domain: independent.com.mt
-    quality: 54
-    images:
-      - url: "https://www.independent.com.mt/file.aspx?f=226753"
-        width: 959
-        height: 538
-        isCached: true
-  - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
-    excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
-    publishedDateTime: 2022-08-09T13:34:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/game-engine-unity-partners-with-microsoft-azure-for-cloud-based-development/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 32
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "GgrUSyyVVn655505hkXIgh5wbPjAFoNbGKzvqvQLNTmgghstX517WmiExA5w8WbyQdS7p1HlOPD4wKK+WhjT4tmyBa6euLxmH/EGld/bWqJg3EDd6pHwd9rYwenswksPaIp208QWfxW7uXpwV8Z9GHVSl/2LuVF7P7zUPnjAIcV5xcXE/vmAjyaD44LHvaoGnkHO0yRgxlrbcn8Shnx8swGK72V8QJDfUGxBARMeROl7jLMGEuOmXZHiMHwelAknaAIb2GRrhM3jYZsnQ1Os/FrJT6nSttIFZrpmg9eQa7ITRWdvPCgBiP9OhHeKRNoe8BSGK/0iBBXwGqnGZTpkXUCy8WWCEyP9Z+BOUC/XVmg=;W66lhAFITqsnelI5d4dZpw=="
 ---

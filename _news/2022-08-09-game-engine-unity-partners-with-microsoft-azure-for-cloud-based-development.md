@@ -19,29 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services"
-    excerpt: "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”."
-    publishedDateTime: 2022-08-09T10:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+  - title: "Microsoft Stock: Azure Growth Proves Resilient"
+    excerpt: "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion."
+    publishedDateTime: 2022-08-08T15:06:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png"
-        width: 739
-        height: 768
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62ec7f705c6f50a743373b0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major"
-    excerpt: "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for"
-    publishedDateTime: 2022-08-08T08:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "Microsoft Adds Ways for Customers on AI with Azure"
     excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
     publishedDateTime: 2022-08-06T00:00:00Z
@@ -67,15 +60,20 @@ related:
         width: 959
         height: 538
         isCached: true
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-08-06T01:31:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-31"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "98GnMyir3xnADIQ7nOl8gukx5wYdmvRGajMXopwnokTCD5tBgMyfoL1gH4irgVHSq2X+NyU3C4pnF3ytJyKCn3+ijN6LUFhY++yEV7cJ5WT0Nn6vgDuno3SOa1+GUY0Q8FdRlKf+IIvR7kMgvEh69C5DEAb1zbWyDK0e/jIQ/Nl5JVtb+vC63Qzcie3nQh2kjPyTDmIwslKGX3WwnsP4IvPrhMio/poYWj7h7Nr9oWJvobdhtzVwvVZLr8dMbJ2pvN1kmd2ScOvtY/yKfXyvyjuCgilbBC5y9YfRJFDtIWatjdVa1WzgSll4LAg5ix0l79tx1r/+jU2uX9f7VTLixLVGVKM/AYUAOvYtiB8IRvFzk83lt4n5bR1Hm3Ndhq7Gduu8kRdgkMJOUt9cfbYui/dWwEwXAtEt2FV+ugnHH04lNvJD9kvVNlJ7ksxt2sB6OIijMQl/zVCnKSMQZTOs+7vy5tcNxhHxZ7JAQ4pveq0u9hyqLcOLZ/i4E5e8EDiZ3eQt1/DpuFCjKuBCZYhdgQ==;7yu/nk8970QI+iKps+K1+w=="
 ---

@@ -21,29 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services"
-    excerpt: "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”."
-    publishedDateTime: 2022-08-09T10:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
+  - title: "Microsoft Stock: Azure Growth Proves Resilient"
+    excerpt: "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion."
+    publishedDateTime: 2022-08-08T15:06:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 97
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png"
-        width: 739
-        height: 768
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62ec7f705c6f50a743373b0b/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 801
         isCached: true
-  - title: "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major"
-    excerpt: "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for"
-    publishedDateTime: 2022-08-08T08:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "Drones with Microsoft’s AI studying dolphins on edge of extinction"
     excerpt: "Small in size and with distinctive, rounded dorsal fin, Māui dolphins are one of the rarest and most threatened dolphins in the sea. Decades of fishing practices, such as gillnetting"
     publishedDateTime: 2022-08-07T07:00:00Z
@@ -58,6 +51,20 @@ related:
         width: 959
         height: 538
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-08-06T01:31:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-31"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
     publishedDateTime: 2022-08-09T13:34:00Z
@@ -67,15 +74,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 32
-  - title: "Microsoft developing software to identify cardiovascular risk"
-    excerpt: "Breast care health technology company Volpara Health is collaborating with Microsoft to create technology that detects breast arterial calcifications. Breast arterial calcifications have been associated with higher risks of heart disease."
-    publishedDateTime: 2022-08-05T13:20:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/microsoft-developing-software-to-identify-cardiovascular-risk.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "og5Q+fJzveQkOsRUZnC2dCb9ibA9hUNHB/S5z638c7ErBu6YvqVwPMwsYTUtNo/sY0XqaZf/TOdLOtQY0D7aU5g9k2NVy9Cpy7fGn+aSJqyNYRBEFKCGcXIr2h4/iqfGvvRhBTdci5xEmTclfgncg5W6VbYFLuBphVa/lfcQIXcr31ay1+jFI2dOtygcoY2b5ilNQpDd/sNB/gd2yvcvsOaZMfcwwqWc98JNHqUSU1H+1R9rjahQC0B0QMQ7M5hR5i1kX5SrdJIfifBSxANsz5eZaXjzA1CCQPK/+OjZLAGwRj5uZ1Wz+G9k0ogrtrvE40uG4AqEc4L+PqcNX30NZKqwxDPGPEXLEQ3bfAKdbM4=;nZ2w8coVCzBj6282nwqjMQ=="
 ---

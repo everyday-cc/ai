@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 450
         isCached: true
-  - title: "Veritone Extends Partnership with AWS"
-    excerpt: "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ..."
-    publishedDateTime: 2022-08-05T14:14:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Veritone-Extends-Partnership-with-AWS-154274.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "InvestorNewsBreaks – Veritone Inc. (NASDAQ: VERI) Announces Continued Support for AWS Media & Entertainment Initiative"
     excerpt: "Veritone (NASDAQ: VERI), creator of aiWARE(TM), a hyper-expansive enterprise artificial intelligence (“AI”) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (“AWS”) to support its Media & Entertainment (“M&E”) customers."
     publishedDateTime: 2022-08-08T19:32:00Z
