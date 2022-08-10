@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Future of work: Beyond bossware and job-killing robots"
-excerpt: "If recent history is any guide, Reich says, when industry serves as the primary site of research and development for AI and automation, it will tend to develop profit-maximizing robots and machines ... policymakers might start by funding the National ..."
+excerpt: "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D."
 publishedDateTime: 2022-08-09T03:07:00Z
-originalUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-webUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-ampWebUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+originalUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+webUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+ampWebUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 617
     isCached: true
 
-secured: "iv+U74uNbQtlGcvi8NRy46yXZXba725lHHFN5jPbQoVaNg3tIUC/M6D4AqZzwE59myNKrkdfDNhcHEsX5FzEW63WOB3Ze58XAjKiE9r40KBMAZjju1o5qqvHnu4CDCmxIwo4yzMp932at8uLwdXjHIFG3VwyOaSIbalsKnPls497FYAC2HyR5zjEfUKRV5k0wflIW5DQt1Qz+3BhnlC4PuUqTnHJ1UoXBZznCFOHrB4T81jgAT5DWcNJB6CrRwhWrE9yLMT1jOHGBewj9R6mo2Fx/Y+/BaK+TU9Uy+20uq+ucjY9oYV4KMRyeQTAQo/LcXh/rOUCuVYUzR3/gWBkgT9s7GV0wpHlEeFE9YyehdOOFO3BFtBzUzktUz2yABi4DV3qNtQCtSG1zd53ZJawA/UGthjDrmjjAO6MhbSMPi9Pql0TVBXsGY6vSUAZYM7WrqFPXA70iFQHigUgrFgqhL39bOJEM4tj1ca4eWl2r3xncQngH3G8ENAE+nAO/zss3IQCG1ZFRyD0tSnMjkg/Jg==;vsg0GDpMXYKFWRfeCeU3LA=="
+secured: "O6W5ms36Lll2ckxILFG85xIdTqrA5w2F8/SaBE5SUjuNX4XuK9/1XKspqb58Cbv650EDQyyxmyfJp4IEklrnREi4qyqtZfb4uV/HGbwRd7cS5h2AH+3NetsGbzBi6wtHdMQfZwaUD5lbP29PuaR35B6t7Ox68JkvUFfMQ3PM9xMCEc73xiz4HJMQk5j1cM6GP2jKcCA2to8Ne2yQeKYE9VAXl60JvGFhQUPDDoZcx5EyU9Q+LPh8mekipUQsEV8JhCrTNv+sNmb2ArMeNHvLDrU/fWdBfMcayYjZzmUBuIymkMUiLo3pYYtHZI+c5Ja4zOiuyVXXQJ/pHEZkFcJaPdnm7s8utwzZ3E3SWKuXxTk=;FIohF3GTyHCea5fHkkff8A=="
 ---
 

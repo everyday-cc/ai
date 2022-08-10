@@ -2,6 +2,126 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-05-26-scientists-discover-why-people-with-autism-may-literally-see-the-world-differently.md",
+      "title": "Scientists discover why people with autism may literally see the world differently",
+      "excerpt": "They found that those babies who went on to develop autism by the age of 24 months had weaker connections between brain networks involved in object recognition and steering the attention to things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/news/2022/05/26/scientists-discover-people-autism-may-literally-see-world-differently/",
+      "originalUrl": "https://www.telegraph.co.uk/news/2022/05/26/scientists-discover-people-autism-may-literally-see-world-differently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2022/05/25/TELEMMGLPICT000271989392_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-microsoft-msft-azure-extends-limited-access-to-openai-models.md",
+      "title": "Microsoft (MSFT) Azure Extends Limited Access to OpenAI Models",
+      "excerpt": "Microsoft Corp. MSFT recently launched a service for Azure Cognitive Services, expanding its long-running relationship with the artificial intelligence (AI) research outfit, OpenAI Inc. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
+      "publishedDateTime": "2022-05-25T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-the-risk-of-delisting-for-the-us-listed-chinese-adrs.md",
+      "title": "The risk of delisting for the US listed Chinese ADRs",
+      "excerpt": "This includes big names like Alibaba, Baidu, JD.com, NetEase, Pinduoduo and Yum China. Why do Chinese companies list on the US exchanges? A US listing attracts a larger pool of investors thereby ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/essec-business-school/the-risk-of-delisting-for-the-us-listed-chinese-adrs/76643/1",
+      "originalUrl": "https://www.forbesindia.com/article/essec-business-school/the-risk-of-delisting-for-the-us-listed-chinese-adrs/76643/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/May/img_185851_chineseadrs.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-artificial-intelligence-in-sextech-market-2022-report-covers-top-key-players-profiling-theskimm-juicebox-outbrain-intuit-elvie-unbound.md",
       "title": "Artificial Intelligence in sextech Market 2022 Report Covers Top Key Players Profiling – theSkimm, Juicebox, Outbrain, Intuit, Elvie, Unbound",
       "excerpt": "The recent report on “Artificial Intelligence in sextech Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
@@ -971,127 +1091,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ico-imposes-75m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted.md",
-      "title": "ICO imposes £7.5m monetary penalty on facial recognition database company and orders UK data to be deleted",
-      "excerpt": "Clearview AI has been hit with a monetary penalty of £7,552,800 for using images of people in the UK and elsewhere collected from the web and social media to create a global online database that could be used for facial recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
-      "originalUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local Government Lawyer",
-        "domain": "localgovernmentlawyer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-tiny-robotic-crab-is-smallest-ever-remote-controlled-walking-robot.md",
-      "title": "Tiny robotic crab is smallest-ever remote-controlled walking robot",
-      "excerpt": "Northwestern University engineers have developed the smallest-ever remote-controlled walking robot—and it comes in the form of a tiny, adorable peekytoe crab.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx1.b-cdn.net/csz/news/800/2022/tiny-robotic-crab-is-s-1.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-tiny-robotic-crab-smallest-ever-remote-controlled.amp",
-      "publishedDateTime": "2022-05-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-a-challenge-for-security-applications.md",
-      "title": "Ethical AI – a challenge for security applications?",
-      "excerpt": "Recently, the movement for Ethical AI has been gaining steady momentum from academic researchers, social activists, and lawyers. Ethical AI is the development and use of artificial intelligence systems in a manner that is safe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "originalUrl": "https://www.freepressjournal.in/technology/ethical-ai-a-challenge-for-security-spplications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2022-05/6c470164-3fbc-4b87-8656-0462e3b8145d/AI.webp?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/technology/ethical-ai-a-challenge-for-security-spplications",
-      "publishedDateTime": "2022-05-25T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Security"
       ]
     }
   ],

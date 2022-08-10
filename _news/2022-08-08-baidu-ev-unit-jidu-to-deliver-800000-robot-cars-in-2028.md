@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu says its Jidu Auto EV autonomous tech will be ahead of Tesla by a full generation"
+    excerpt: "Jidu revealed its first \"robot\" concept car, which has no door handles and can be fully controlled via voice recognition, with the plan to mass produce the model in 2023."
+    publishedDateTime: 2022-08-08T12:20:00Z
+    webUrl: "https://www.autoblog.com/2022/08/08/baidu-autonomous-electric-car-technology/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/08/08/baidu-autonomous-electric-car-technology/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/08/08/baidu-autonomous-electric-car-technology/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 66
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3650x2053+744+1077/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2022-08/0bf36a40-1714-11ed-bf7d-3b8c4fe6e75a"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Baidu Claims Its Autonomous Tech Is Ahead Of Tesla"
     excerpt: "Baidu, the Chinese search engine giant, says its electric vehicle firm Jida Auto is going to be one step ahead of Tesla in the development of advanced autonomous driving technologies. Soon after Baidu unveiled its new Apollo RT6 minivan,"
     publishedDateTime: 2022-08-09T12:03:00Z

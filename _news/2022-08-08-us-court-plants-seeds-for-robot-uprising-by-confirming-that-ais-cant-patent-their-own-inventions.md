@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "US appeals court says artificial intelligence can’t be patent inventor"
-    excerpt: "The Patent Act requires an \"inventor\" to be a natural person, the US Court of Appeals for the Federal Circuit said, rejecting computer scientist Stephen Thaler's bid for patents on two inventions he said his DABUS system created."
-    publishedDateTime: 2022-08-06T03:11:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
+  - title: "U.S. appeals court says artificial intelligence can't be patent inventor"
+    excerpt: "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday."
+    publishedDateTime: 2022-08-05T17:00:00Z
+    webUrl: "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://images.indianexpress.com/2022/08/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
-        width: 1200
-        height: 668
+      - url: "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
+        width: 728
+        height: 381
         isCached: true
-  - title: "CAFC ‘Unambiguously’ Backs USPTO in AI as Inventor Fight"
-    excerpt: "The U.S. Court of Appeals for the Federal Circuit (CAFC) ruled today in Thaler v. Vidal that an artificial intelligence (AI) machine does not qualify as an inventor under the Patent Act."
-    publishedDateTime: 2022-08-05T16:32:00Z
-    webUrl: "https://www.ipwatchdog.com/2022/08/05/cafc-backs-uspto-ai-inventor-fight/id=150680/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 17
   - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
     excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
     publishedDateTime: 2022-08-08T16:00:00Z

@@ -169,6 +169,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 14
+  - title: "Meta AI chatbot says Zuckerberg ‘too creepy’ and Trump will always be US president"
+    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot 3 thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and Donald Trump will always be the US president."
+    publishedDateTime: 2022-08-09T22:30:00Z
+    webUrl: "https://indiatribune.com/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president/"
+    type: article
+    provider:
+      name: India Tribune
+      domain: indiatribune.com
+    quality: 13
   - title: "'He’s too creepy': Meta’s new AI chatbot shares its all too honest opinion of Mark Zuckerberg"
     excerpt: "Meta has released its latest AI chatbot to the world. And of course, people immediately started asking what it thinks about Mark Zuckerberg."
     publishedDateTime: 2022-08-08T10:44:00Z

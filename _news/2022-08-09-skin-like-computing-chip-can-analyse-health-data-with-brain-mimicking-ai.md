@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Stretchy computing device feels like skin—but analyzes health data with brain-mimicking artificial intelligence"
-    excerpt: "Aid, a smart watch without the watch, and a leap forward for wearable health technologies. Researchers at the University of Chicago's Pritzker School of Molecular Engineering (PME) have developed a flexible,"
-    publishedDateTime: 2022-08-05T08:27:00Z
-    webUrl: "https://techxplore.com/news/2022-08-stretchy-device-skinbut-health-brain-mimicking.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-stretchy-device-skinbut-health-brain-mimicking.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-stretchy-device-skinbut-health-brain-mimicking.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/stretchy-computing-dev.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Researchers Develop Skin-Like Computing Chip That Analyses Health Data With Brain-Mimicking AI"
     excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."
     publishedDateTime: 2022-08-08T00:39:00Z

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu says its Jidu Auto EV autonomous tech will be ahead of Tesla by a full generation"
+    excerpt: "Jidu revealed its first \"robot\" concept car, which has no door handles and can be fully controlled via voice recognition, with the plan to mass produce the model in 2023."
+    publishedDateTime: 2022-08-08T12:20:00Z
+    webUrl: "https://www.autoblog.com/2022/08/08/baidu-autonomous-electric-car-technology/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/08/08/baidu-autonomous-electric-car-technology/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/08/08/baidu-autonomous-electric-car-technology/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 66
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3650x2053+744+1077/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2022-08/0bf36a40-1714-11ed-bf7d-3b8c4fe6e75a"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
     excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
     publishedDateTime: 2022-08-08T08:34:00Z

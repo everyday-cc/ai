@@ -3,8 +3,8 @@ category: news
 title: "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape"
 excerpt: "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality."
 publishedDateTime: 2022-08-03T02:03:00Z
-originalUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13"
-webUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13"
+originalUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
+webUrl: "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 853
     isCached: true
 
-secured: "2JfGVu0PzyAelX6JQz8+SOHSi0P6atItagmdmfpT55Sw039CrDMU1ssQ+yoqLfMs/zqz9pkmcJBKGqMr90GkP7Z+fK+91cTGZvR2WV3f/9Bp0VvzUvmXtNXdC9SkpbhaFjLQMPUbbuantwsZLww1GXPC9VfjpE1xhQ4+Hm62KRYKmiRgtk46k8/IxWgjh+rZq67Ix4AecKnneBIe1mSORTbT6+8pOKI36rIW20u4kK/TpPIZDHbIhvUwsZ8x/V+uGfYjZQXn2I8jbQRDBGPOJUmIjshbGWFcjk2tV69LwXh3enMdxpLRI+kcePaWnTwAtUK75pZp++yCgJDDw+yZbpI64gS2P00rZsSGUtLmo/8=;/LUREw3IaLjyBwpkLdd32Q=="
+secured: "9nn+ITeU6khsYJdJ+FLSvIIjd0IFSjQRCKfhzsUFwnzHd2+793bKU5Otl7Pe8UbHX2q7e0GM5TfATNUX5khhId0JPtIpPrcrHYuvSJ6tU5S5LS5sl+sWnTm9TZIkXgf5Gp5MGOxNnZL7z18MK4zzW5dcdxxsmt6mQ4z3AcD6+AcSIHLFosgGHZPB5dCdrGOobynq1t1l1Q2/faDHPp/cr8iXe+o7ZzoktMsmbQQXgWLBev0iJRJdit0XL2NNr+K2lX24693kNrNzbe0oXN6GxQ4ItLJkz6qQ9FDdJXiWYYsBrOefFA9vCjkWVTOVWJXJq0VfpV2FFUVFiSlqAhVT6mkYN5Zx5F3mL9t/KDjO2Lc=;Xg13QkWifG9ftqUO+LpPtw=="
 ---
 

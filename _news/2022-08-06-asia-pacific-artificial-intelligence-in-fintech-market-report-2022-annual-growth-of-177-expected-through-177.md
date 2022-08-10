@@ -99,15 +99,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "How fintech is opening the door for alternative retirement investments"
-    excerpt: "The digital age has influenced every industry and especially finance. With fintech, alternative retirement investors are finally getting the chance to explore investment opportunities that weren’t available until recently."
-    publishedDateTime: 2022-08-05T09:00:00Z
-    webUrl: "https://www.fastcompany.com/90773656/how-fintech-is-opening-the-door-for-alternative-retirement-investments"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 4
   - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
     excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and"
     publishedDateTime: 2022-08-05T15:45:00Z

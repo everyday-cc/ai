@@ -2,6 +2,143 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-20-artificial-intelligence-shines-a-light-on-how-autistic-brains-work.md",
+      "title": "Artificial Intelligence Shines a Light on How Autistic Brains Work",
+      "excerpt": "Kohitij Kar, a researcher in the lab of MIT Professor James DiCarloThe researchers believes that machine learning could be an effective tool that could open up new pathways to modeling the computational capabilities of the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13048_1655737439634346.jpg",
+          "width": 2000,
+          "height": 1054,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13048",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13048",
+      "publishedDateTime": "2022-06-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares.md",
+      "title": "Meet Dall-E Mini, the Viral AI Image Tool Fueling Twitter's Nightmares",
+      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
+      "originalUrl": "https://www.cnet.com/culture/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-dall-e-mini-the-viral-ai-image-tool-fueling-twitters-nightmares/",
+      "publishedDateTime": "2022-06-20T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-parmy-olson-ais-hold-over-humans-is-starting-to-get-stronger.md",
+      "title": "Parmy Olson: AI’s hold over humans is starting to get stronger",
+      "excerpt": "It has been an exasperating week for computer scientists. They’ve been falling over each other to publicly denounce claims from Google engineer Blake Lemoine, chronicled in a Washington Post report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "originalUrl": "https://www.fltimes.com/news/nation/parmy-olson-ai-s-hold-over-humans-is-starting-to-get-stronger/article_284a3811-1bb7-549b-ba91-bd8302c85cb0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/b/c8/bc8ebd40-6215-5f93-97c9-4fef2d15402e/62b093459abe9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
       "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
       "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
@@ -964,144 +1101,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-forget-sentience-the-worry-is-that-ai-copies-human-bias.md",
-      "title": "Forget sentience… the worry is that AI copies human bias",
-      "excerpt": "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e3fd0cf98436c572baf8f92bbb79caf3ec985ab/2_0_10663_6400/master/10663.jpg?width=620&quality=85&auto=format&fit=max&s=5ab6803ab30162196e6c33677a1f5122",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/jun/19/forget-sentience-the-worry-is-that-ai-copies-human-bias",
-      "publishedDateTime": "2022-06-18T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-cognitive-restructuring-and-its-techniques.md",
-      "title": "Cognitive restructuring and its techniques",
-      "excerpt": "Cognitive restructuring is a technique that helps people change the way they think. It can help people feel differently about things that worry or frustrate them, and this in turn can affect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/05/Cognitive_restructuring_GettyImages1127955961_Thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-opinion-too-many-flaws-in-commonwealths-facial-recognition-law.md",
-      "title": "Opinion: Too many flaws in commonwealth’s facial recognition law",
-      "excerpt": "Virginia’s new law does not adequately address the risks facial recognition poses, Georgetown Law's Jameson Spivack writes in a guest column.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
-      "originalUrl": "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Press",
-        "domain": "dailypress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

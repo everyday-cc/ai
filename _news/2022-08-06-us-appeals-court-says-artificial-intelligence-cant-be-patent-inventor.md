@@ -1,28 +1,30 @@
 ---
 category: news
-title: "US appeals court says artificial intelligence can’t be patent inventor"
-excerpt: "The Patent Act requires an \"inventor\" to be a natural person, the US Court of Appeals for the Federal Circuit said, rejecting computer scientist Stephen Thaler's bid for patents on two inventions he said his DABUS system created."
-publishedDateTime: 2022-08-06T03:11:00Z
-originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/us-appeals-court-says-artificial-intelligence-cant-be-patent-ai-tech-latest-news-8073990/lite/"
+title: "U.S. appeals court says artificial intelligence can't be patent inventor"
+excerpt: "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday."
+publishedDateTime: 2022-08-05T17:00:00Z
+originalUrl: "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/"
+webUrl: "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/"
 type: article
-quality: 57
-heat: 87
+quality: 66
+heat: 86
 published: true
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2022/08/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
-    width: 1200
-    height: 668
+  - url: "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
+    width: 728
+    height: 381
     isCached: true
 
 related:
@@ -40,15 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CAFC ‘Unambiguously’ Backs USPTO in AI as Inventor Fight"
-    excerpt: "The U.S. Court of Appeals for the Federal Circuit (CAFC) ruled today in Thaler v. Vidal that an artificial intelligence (AI) machine does not qualify as an inventor under the Patent Act."
-    publishedDateTime: 2022-08-05T16:32:00Z
-    webUrl: "https://www.ipwatchdog.com/2022/08/05/cafc-backs-uspto-ai-inventor-fight/id=150680/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 17
   - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
     excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
     publishedDateTime: 2022-08-08T16:00:00Z
@@ -59,6 +52,6 @@ related:
       domain: abajournal.com
     quality: 16
 
-secured: "YTsfAy//yBtrShNiM0i85ziAN4NWxMP9F/xvjZ4xTR4Q7QbvmdMtIR/uDiSOMpjgXkOwDL/6gqdTh6DG2W6PUIqRiNdEr239ZkYkcWtKg4HHv2xTC89XEwfpQHFIF3zSWzi7yIDvrIelTwu7NMykw16DROCl5QjKRuBiNiKHB7T5oepx1S1JT5/+wxAjZ9lcgq7UgEX1Fcu4wZyDOrlBpcm+d6odXf4eBKIGJH4OFQqCRfXrPENHcarWnYbvb3KjV7adGIQ3Sw34y+9CkWEfxCSh2OIVNL7dlABVA3HI8abw822Mn2iFLKG3h92wlHpqyNFRO0RPY/89Cb9X7xjTtzoYsDn6ewcBGU7+N1X6PY0bEJ97PtrJ5NNx45wIkg9499cPdFPSx1DOfuZaaAbjjgC7MIULIVnMh5Nw+rW1LylkGGdqTydvWTowcdGttcS/OfQSYH9miZs/V6Q7su6QxhjXeHo7+X0qWU+EvqCaqdrs1rZ+ZrvJhsaIrFoDkGQfvDcNGv9F+rpAuSO0r+GIBw==;bgbM01uKapntMG0JpeySng=="
+secured: "wR03yvHqCpldq39EgVxJyaSO69U9w5H8pMWxQQo6OOdDMhwKbnEVOgoIXcXs2JcInWpSOSj8xMbyVCu9mKqUkxtttpdSEa39MqdOzk6BjyPILuK1XBMzMwbdh59SGwRbpYxXSRRW0U+PV5GdYeRK7KDY4juRcsEOsFHyzgfzw1yfRS95SDElxzgmqJnKO3DoLZQhAN2f2oU9G5iGwx/1TBvs+E287OCrhAG1KIvhfxBopH5wy16QbV9FHAVlMCuvQqcmlrlUsTggmuFpDJcllvo37s0/e24HzasfDM1b/F5w7+pKTqX5hdsrOUQK9LD7Qd2YkoT/S8NXUEMvSUFCRffhb03aIgMhjEZEBbXPT8Q=;S0ePkgFtfIYUdpG9oxj/FQ=="
 ---
 
