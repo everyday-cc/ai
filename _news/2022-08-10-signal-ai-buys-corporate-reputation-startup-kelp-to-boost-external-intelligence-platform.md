@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/10/signal-ai-buys-corporate-reput
 webUrl: "https://siliconangle.com/2022/08/10/signal-ai-buys-corporate-reputation-startup-kelp-boost-data-driven-external-intelligence-platform/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Boston startup that analyzes biz reputations gets bought"
-    excerpt: "Kelp, a Boston-based startup that uses data and AI to help corporations track and improve their reputations, has been acquired by London-based Signal AI, the companies announced today. Why it matters: The deal will help Kelp provide deeper insights for its clients,"
-    publishedDateTime: 2022-08-10T10:31:00Z
-    webUrl: "https://www.axios.com/local/boston/2022/08/10/boston-kelp-signalai-reputations"
+  - title: "The Importance of International Norms in Artificial Intelligence Ethics"
+    excerpt: "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights."
+    publishedDateTime: 2022-08-10T16:27:00Z
+    webUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics"
+    ampWebUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
+    cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 22
+      name: Cfr.org
+      domain: cfr.org
+    quality: 78
     images:
-      - url: "https://images.axios.com/nkEyUa5fY9hBt0HArJTy9OsjSpc=/0x0:1920x1080/1366x768/2022/08/09/1660087801381.jpg"
-        width: 1366
-        height: 768
+      - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "BzgJ/U1qLIuExpu78GTTb1meS0EWgrNEooVlvWc2DO/f7DnUPIV+B/RaIWSg2FAEz8/3mSGUCnbRFU/XxV/VG94UQH32rX2A4qbhgLoINENZBv6yGuqmY9gy7bWygTA8UXk7jthHpneZv8yuIXvfFfYmxAifVpIgtAWhRouh6+iOLqiH4nZB+1lIhD2prJ4rfvjnFXZXrJGp6yHA2rt45VH7oSguTzuuQq6nNq5H3nnMy/hEuAkm6p3xeHRqYRclBACl8ezijpoaC7xY1sIs2xyVUOQa5K0EcmItKYDwKSnUq69zSmJ4XvWcgyv88PCYpFij8p41jvghoOmJ3RkryR2d6oTY/OBp7oO+/pFAcOE=;QOBzyBMXEp6cX6CcWqB0EA=="

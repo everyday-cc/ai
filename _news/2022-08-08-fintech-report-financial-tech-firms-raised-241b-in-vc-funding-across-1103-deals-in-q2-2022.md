@@ -69,6 +69,20 @@ related:
       name: India.com
       domain: india.com
     quality: 41
+  - title: "AI Solutions Are Making Strides In Fintech Land"
+    excerpt: "Products like Toggle, though hardly revolutionary, nonetheless represent significant steps forward in improving day-to-day efficiency for advisors."
+    publishedDateTime: 2022-08-10T16:06:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ai-solutions-are-making-strides-fintech-land"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 41
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-abstract-data.jpg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Sesami acquires FinTech Planfocus"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2022-08-09T10:49:00Z

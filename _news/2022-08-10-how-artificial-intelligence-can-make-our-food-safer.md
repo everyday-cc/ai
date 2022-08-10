@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.
 ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg"
@@ -68,6 +69,6 @@ related:
       domain: eweek.com
     quality: 47
 
-secured: "lAkwakz/47XHJXwsMUVBZl5fZtV4pA9ufMwybqbDUJZkYIcOlU3KM7c/0bOlwHo2K83Nv3Cqmq+rN+pdlKE9ajQfqpMcvP/+Fy9+fhhJZLEGA7vwmI1tHH2yIaPHvtVY1hcicZ0HmIkrbq8duzaG84AgwxcqqdW4uufMmICyIsoo7+0mWbuYZdXcNtqf5n3b2p1PRhPNgxp8OXI3EaJI5OMuSdcHgd72fKaJiZU98M2DW8NIcVKIzV9m/5bYkRz/9HJgC+v64UBON7s7njEkYF4RJ2pUs4Tdm0OaAgfeIz57sfYVIh8oIFN2fcXH+ESknffkiZ6+M1dSaJfzCgvBJvQAyF0avPKiWC9yyJ2ba8g=;qlnSxDhk1FLtqvC0Ro5r6A=="
+secured: "RyiUh3vkhuc9/AHI2tG0HxxyGfrWZPo6q6pdqZ2QHxV4A0v96AplrtJwRouYPMwr1kgMa1OVm76t2YYk20QL/K+g7xk8Iouwvadi/bZ27azVzIsWG/L6QxWBXaHVwtZ/YLjEkIiFEImuTcaeFuyeJyTRaSTGVnjIwgdynXXL6d5HC3kYsD79fiC8U9fF78OPDB1k4GGfZ/8WUXb4Fw9rTUzkj9amLgJfBeVmwMK5Z/D+n1vVJEdnR2x4b4y4JTJU3BW19SHjcLS5kx+9HnCBPx8zszlK/Xuyzy8Fq06hdlqPy2an/9bpKkCR3UQG4Q3/aj+GgS1Ku23xFXJI9N8acp48CBtTqRjLZ18apWnqkAv2p38vLDtaBYCbKKL5o+ub5Q32eIRRLGjc2jGudHWexgueEO2sa3W3kHqSKGnX2Ors2cyzbeYApLFsLWBix6dP2wSIvMZHcuE1MQY8WzjR3PD8yw6X/jvAGb33m/UodJw6enzrPDu6aiqK7W3fUyYVF2Cb8bWzjmxHAXXFwew2Ww==;IyP5aUPdc5yisMd2+Jqhvg=="
 ---
 

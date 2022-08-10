@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-se
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
 type: article
 quality: 63
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -27,31 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-    publishedDateTime: 2022-08-08T19:00:00Z
-    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Machine learning and the future of marketing"
-    excerpt: "Could machine learning right the ship? Big tech platforms have made continuous headway when it comes to delivering results using machine learning. As they’ve evolved and improved their ..."
-    publishedDateTime: 2022-08-06T00:14:00Z
-    webUrl: "https://mumbrella.com.au/machine-learning-and-the-future-of-marketing-750140"
-    type: article
-    provider:
-      name: Mumbrella
-      domain: mumbrella.com.au
-    quality: 36
   - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
     excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
     publishedDateTime: 2022-08-10T05:00:00Z

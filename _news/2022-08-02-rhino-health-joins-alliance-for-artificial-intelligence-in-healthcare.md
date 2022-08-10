@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
-excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
-publishedDateTime: 2022-08-02T16:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
-webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
+excerpt: "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ..."
+publishedDateTime: 2022-08-02T16:09:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "p9og6HQ5OYOO02IDWWiDtscwmOJ/T1IMb9+U3W6xPB63s8mgIVDbZxi0EeCIjCTG4et12k7gQbniIg3gWpYr1KyOCedzSPg8ne9gqy+NHJcaQ4ZYbfYnD458S4JjyxUUjBF7fBkoPEpFwpTPVpCrCyj2yEf90oxJYieJHrm3F03M9s7mu8z9WK7aguTodMRaud6P/HK/7D3ZOpiZhEK3H4cl3L41G2QWSZG1R//m7dBKSfzXSJ/Ft9ofdp4CgueF4pYNbmOS1+zZ17VNcxquZ7Sx7hzjE8u/PUXJtTE+y79GSW6VmaMxHWkSZb4b6OoS5snd1pUIGVgHsbZKD33C5mzbYcPw5MGVidh3nRmG9rs=;72QRGw5hMATLC3RJfqO7AA=="
+secured: "LFKUnbp9fOYykTn0EHms5sMXmy+20VKqTB7NZQ6Agw0Kc4i8L9t/FACb2baGbpygT+I71iPkt77RmzN7qFjSkJJocBtCBdF+vhchBCtjriJVVi68EIYwUkSjY93IuNlTPtHa/Ohu/pJhZZIDInUlFTaA5/fYR1dIMq6A8BSK/o4yKl1OiYbKdsKXcwjcrz2g4xLhtGTyB7o/tNyqoTLGAIcrOGxFuAyPNOP5lJWcD7YoRG/UpgaCoSQXXOZsq3WkzkJrlsfHnkY43jS2UzcwoA2D/0NAG6+TZWKQEf7y2Fns4e/R/MH1JfPvlg4nArv4t7z8pNlAuRU0iCZgqwYESXr+hHMVeL+JqJ1kTADMi2M=;A3odMarlMt5Y4OLu/e9vgg=="
 ---
 

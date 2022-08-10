@@ -53,6 +53,20 @@ related:
       name: India.com
       domain: india.com
     quality: 41
+  - title: "AI Solutions Are Making Strides In Fintech Land"
+    excerpt: "Products like Toggle, though hardly revolutionary, nonetheless represent significant steps forward in improving day-to-day efficiency for advisors."
+    publishedDateTime: 2022-08-10T16:06:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/ai-solutions-are-making-strides-fintech-land"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 41
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-abstract-data.jpg"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
     excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
     publishedDateTime: 2022-08-08T12:58:00Z

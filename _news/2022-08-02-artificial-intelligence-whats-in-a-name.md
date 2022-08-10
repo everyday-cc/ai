@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
-secured: "5K8dLxq3JyvWGPgk0fB/YMN0Sh8RzzJL2LA3+SxmBP77VYqfRIGTJEjhzM/OJHWc9AdYG0fLeU2Dio+s41FH+CtyDC2zvgBHDrJdwrBIyQM8VRUP7ZJK2x0vHyqz194Jk4qkri/ZO2Q8TJ1mVJjuRazBoF6mpB6I6xaJhPdHM8FXy47eaCNYfZGsUFqZ6hrf1G7BmXvhQL+yJL7smULaYLF2nDWOSr2ULYgeHtJOvrNez85IMaxG+QZpoTHX74lRjtqobw7VJ/9folaPFn3bxO0bUJFLnuLOZLhN24aCUKenHrwk4jbep0F/dTAYF/vZuuR4ovUHwgjZ3qZigZEg5HYRdBsS8tzQcvO0V9+5lzHc4BIWHD4/Ec+6anS6uPzsv+yaJEYwUEawXx9vPTIgmmiMDMhIety1Au/itpax21SfLGZjvMKbqzG3UAEusMDgjN1XNlMIx2nm8wUWdja4wDcnxy3PriG+NEzQ18KNRZ9Dy+Ez5nv8EbrIu6ZvNfG1BugyPmDHO7uhlnSS8SJ7Bw==;fZxBewZwA5DWfBJwrCOkmg=="
+images:
+  - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
+    width: 640
+    height: 426
+    isCached: true
+
+secured: "BV+MBkOmmDDUeWq36+pnrSh1/xypIcU+UGeybad4bHRpQHeVtZGTs4efZ2VbKjymXhQkxK1QSThl49SObSgiyYYkf/ch7e+zL7b4u2nEPMXIKy/ljkBsOsEKa3hdy2Jc/xtIcWC9TiRiT+VdWas95zvG5nljApeyRKJp4zmA8GRXb/ELDCC0bQ2uYQrNKNiNlTQ5AdiYCYB0PL2gDfGuQRl3PpmzI4wd/S5XSzhdCeeze2ph0+7+c8m1lIYAsh8JnJ98+4XhdVWVP2OIBpWZbwmDGqZAHgRTUFt9d/UGV99wopT2RI/Hm6zT7K+JsqXK1LA+QnYkWRLCysdHHeh0uxoUSIFGOONMEKzw/f3K/d4=;8l98pVp8GpABK8dsF6shbw=="
 ---
 

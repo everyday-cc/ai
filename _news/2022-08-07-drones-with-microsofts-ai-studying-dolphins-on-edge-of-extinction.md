@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Adds Ways for Customers on AI with Azure"
-    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
-    publishedDateTime: 2022-08-06T00:00:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 69
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-06T01:31:00Z

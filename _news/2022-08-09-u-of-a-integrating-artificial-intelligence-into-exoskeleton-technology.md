@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
         width: 1920
         height: 1920
+        isCached: true
+  - title: "Gartner Identifies Key Emerging Technologies Expanding Immersive Experiences, Accelerating AI Automation and Optimising Technologist Delivery"
+    excerpt: "The 25 emerging technologies to watch on the Gartner, Inc. Hype Cycle for Emerging Technologies, 2022 are enabling the evolution and expansion of immers"
+    publishedDateTime: 2022-08-10T09:19:00Z
+    webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 22
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/df96b582-66c5.jpg?itok=k_5ruCjI"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "esE7tyKo9OWZ3P5mImOxP5nKKFIS6f3b3z6gKU6lj69K0OLIZyCEN4FH018/pvXk9TWwqFXgnmB0uhNiNyxUEGT3AFVnjvyC5jIpuW+4eBpBE8PL6k9Uzqt0cHqsMUKOI9aHt0NlB4MEe1y+nZOhvI9+MWFIO2BIr8hksjSBpp3ltB1W3/iNbQwUqX/c9Qagr7QAiuINT1nVdTQHIp4EkQjJU6XtA7C8k5zWbi/tCGBX33fR0hZ+teO3K6D8YJE2kWQf99UWC6znzIAkgfOPgYeUFBcERo3xT9r3ig/xcI4GG9X+qH1OEbONP55Ubtfk9mWEEsgDz348UCb/0c7iPlnJFlYaYhs4Xjk3MycgMoc=;UrgKTbkz9GBDb2A7T0y94g=="

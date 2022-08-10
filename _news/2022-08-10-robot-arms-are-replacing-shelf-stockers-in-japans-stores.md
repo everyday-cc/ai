@@ -56,6 +56,20 @@ related:
         width: 684
         height: 445
         isCached: true
+  - title: "Robots are replacing shelf stockers in Japan’s stores"
+    excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of artificial intelligence (AI)-driven robots to restock shelves in 300 convenience stores across Japan. The robot arms are designed to replenish drinks in refrigerators and are in mass production,"
+    publishedDateTime: 2022-08-10T16:00:00Z
+    webUrl: "https://taipeitimes.com/News/biz/archives/2022/08/11/2003783320"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 39
+    images:
+      - url: "https://www.taipeitimes.com/assets/images/TaipeiTimesLogo-1200X1200px_new.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "6VnU2hbhFlLaXGYkBFFhOMwzFUy5HmWft6xg6qksTU/nHrlftx28Ruo66LOz73bJ2LlG+mNiUlKVwDbWWMlofUC31pmH65Zg5RZCUbEO7VWFzBM5xGPnIT2Uohg9mT6iJADN3fKat5XTEn6zhqOYqOk4Y7gPXM8N/QOW+NSycgFeWyqo/XvOrwyQ9sB5U/wMo960KJBk87wbxl3Xp/9Rfd8Uyh9o5pLYATNsPuPB1opGq4A/LkX0SxY6Kuql6rpP5p38JguRsZ1MB/p2qyOkDA85q21gtnh0XTq6VELg53op1xIX6z+aOndakz1l5tA7zptHD7Bd3C3OZ3UPVQLNZqKjZs0cbbhIiuuQVniS/s4=;iOsWnDiR8jJVLwQ+Ejp31Q=="
 ---

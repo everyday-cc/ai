@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
+    publishedDateTime: 2022-08-10T14:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
     excerpt: "Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR)"
     publishedDateTime: 2022-08-08T15:04:00Z
@@ -42,16 +56,7 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 15
-  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-    publishedDateTime: 2022-08-10T14:20:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
-secured: "GqQEcDNTZsbac1YPvg+xyDdTgXFBEvHnb8tkKg44j239rGWIFjeGM2Gkv7h+map8WWQq/XTYAtpgJX/Toyaj7qXXImBj9IspjzDhO975/zkFINE1HSIUy26mbJDxXZa1jv+cBIuW7Y4mM9EZ1tNDshCGe95lEguvmjW+5/QCS2j2GHfOyTUlhvJ2+fw5tQke9H2ZGS33TbDCmSbPGG8TAS8PMwPyPKBSDT52SBsgaXGUsXpTP+KPvcf72990se1qKXt6eOOyb2B71l7HQG4Mf1T2VvC/JzZbLqs+wHniJt9UaCGhqeozGxNcamzGZ8brYUtxLEyAD5oFZD+4A9NdrTzNYRJvL/AnxaSAlWPYDxU=;LK66+5ZDPiKG2UsXpIgvlQ=="
+secured: "SYxEHSCMcDXWaxJWO/3YUSphBYpCFXhW507Eaxvgkc4SEb5OYV7LcxAMJhkAdQp7/o2m8mEGvABaRY4b+S1nE66EKjmy3vE0YNdvuHFIx4QAFQRs980ZbIGBSNQ8xE907u8tAZEHbVH8tLtHW68B88FAlVLpIS4pTrvdwg/+GrF9QIqj8p30jWyXyiobC2QnjkSRd5UqD6YtkU2BAWbGhayoyjFqV82tGK2jLch2G/FmOICyE9DPP7pT3r4/crN1fK9Sqhw9bJFwxK5CXb+tHjc6cSfrOFwavXJ0/kCvaDDNyUNGFwzA+6luNgPFos1lw/Es2U77IRlEse//3HqGV/SQRJYvPajaUbrg/mBFjPk=;+N0cQo5RfFTfyD+4bLg/Vg=="
 ---
 

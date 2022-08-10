@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1868356/AI_DRUG_DISCOVERY.jpg"

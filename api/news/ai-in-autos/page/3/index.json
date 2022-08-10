@@ -2,6 +2,74 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
+      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
+      "title": "Here’s what it looks like to ride a Chinese robotaxi with no steering wheel",
+      "excerpt": "Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese tech giant, ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
+      "originalUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T18:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel 3000",
+        "domain": "channel3000.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-car.md",
       "title": "Baidu unveils latest autonomous electric car",
       "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like ...",
@@ -1188,92 +1256,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Birmingham Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "July 14, 2022 (GLOBE NEWSWIRE) -- Protective Life will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few. Students will benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://kfor.com/business/press-releases/globenewswire/8599776/birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open/",
-      "originalUrl": "https://kfor.com/business/press-releases/globenewswire/8599776/birmingham-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/kfor.com/wp-content/uploads/sites/3/2022/07/thunder-logo-big.jpg?w=2000&#038;ssl=1",
-          "width": 1265,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oklahoma's News",
-        "domain": "kfor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-teslas-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company.md",
-      "title": "Tesla's head of AI, an ardent supporter of 'full self driving,' has exited the company",
-      "excerpt": "Andrej Karpathy, Tesla's director of artificial intelligence, announced Wednesday he's leaving the company only months before its anticipated release of its long-delayed \"full self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/business/tesla-s-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company-1.5987626",
-      "originalUrl": "https://www.ctvnews.ca/business/tesla-s-head-of-ai-an-ardent-supporter-of-full-self-driving-has-exited-the-company-1.5987626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/tweet-placeholder.png",
-          "width": 375,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/business/2022/7/14/1_5987626.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/business/2022/7/14/1_5987626.amp.html",
-      "publishedDateTime": "2022-07-14T13:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null

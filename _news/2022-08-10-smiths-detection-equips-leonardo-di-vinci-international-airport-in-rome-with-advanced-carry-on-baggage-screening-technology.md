@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Smiths Detection Equips Leonardo Di Vinci International Airport in Rome with Advanced Carry-On Baggage Screening Technology"
+title: "Smiths Detection equips Leonardo di Vinci International Airport in Rome with advanced carry-on baggage screening technology"
 excerpt: "Smiths Detection, a global leader in threat detection and security inspection technologies, announces that it has begun installing 30 HI-SCAN 6040 CTiX carry-on baggage screening systems at Leonardo di Vinci International Airport in Rome."
-publishedDateTime: 2022-08-10T13:46:00Z
-originalUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
-webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
+publishedDateTime: 2022-08-10T06:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-rome-733e3608256045c7bd04291b27fabe27"
+webUrl: "https://apnews.com/press-release/business-wire/technology-rome-733e3608256045c7bd04291b27fabe27"
 type: article
-quality: 0
-heat: 0
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: AviationPros
-  domain: aviationpros.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "kHa7kIrFpRGD3+kJW0x6Ty7aQawe6EKtPolHclTQZcw2iSrBQj3r2vAojUyjkEs8E5woAteZCk9I3/TeyBXegMYOVqgB/bWnlGV9f3xp4N5Tl3jw5mhrBZTmVIH0pxeMskN55gsbYQcSreG5/u7H+vCc9AlTZW51FepOJGifSaywlw0VH5GaaUPsWCn8TjjHYfp9JTvDTarVsR/yeUuM6A7huPxNMgF0aGtatQEiP4vi0hacJb3L+V7IsQ6Grfrs2Vfl67shFAgOOLfzIfX5EBe7QVLrM0Zm9GeS8tf1802sergxrRjIw7Lj8OSaQW2SKWARDPhVGRwrbrgssC8XChWbSeruKhPpHnPAbiUkLNg=;a271exMUe2U+DVQXvK4mZQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ZHqQ/h2ZaO4VepAU+p5z+MiJ5EL4wuFM8Kj2NlyrfWeI/BARhWjGL1vnxJS/WnhJTdNQeg/BtK7noYEjiYKvAYqH6LZhayy+D5YeF53oBTv3HKXQ6ug+AcgOwbXiwYfP71MgsCdp4AW1xK/iLthY0pEns9JR/CGic2W1vaJTid184kFKyYMZa8eBmIkuK2slKjOtldoVWzZXKPOgAZ9aIWI/NxptMEj6hisDGl7EevYQMgzeVEPL73y03wR91sxJQCAbgUwV0byHkepHdGa05m8y0Xu6fCp9cp+IG3zU83iV5FAGQe+7QCfQMajeELFOTGJ+owQ1Pqq4qp5dNBqAZIcyC3dyTaO8r47qbZ6ME78=;FH0bCGxLs2NkUjvmE712rA=="
 ---
 
