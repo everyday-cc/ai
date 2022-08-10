@@ -21,6 +21,7 @@ topics:
   - AI Ethics
   - AI in Healthcare
   - AWS AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg"

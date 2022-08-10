@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg"

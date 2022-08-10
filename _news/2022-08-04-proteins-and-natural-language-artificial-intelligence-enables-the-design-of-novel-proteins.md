@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1929
     isCached: true
 
-secured: "WogosBtuFLkY7bkBEtJTF0cDAfAAjxkHRxTO6y54YKDe+mNSuKlFg1VgGnkIvTxdgdNWw5zKzrZ21hPrTHXjiQZAfjrYxZbnUgGMmPBKuFi2PoEOO6qwMMVWn13+wkZjExEpKuY5zSNQBkW+f1V3I55+7hyFGfgrJ6yjiQrb/7LLFSvJ0cemGZ9lttneOFoSg17QEqKh5KD9R3/W2Ne7DEz2w54pIJbHFIsOvkT4QvO5csR0pR3IFPTM7TEoErcluMPdNHVC8DgV6DgT5Yn0ca7R3TqCl8PeEM1pxEbdix/TGYDpaf3+pCIiV9W+ayqzGdXRtOWm9pY2TAcyqhQRU7crPTHCxdXwlb61qUiXlNc=;hq2imwMpdkCa7xAs1w0G2g=="
+secured: "WVQIw76dJD6OJkvIFNNVSQAUub7/92qa/5n1MTFCYNXBfgVcf/TYg5PQmVZNtrD7NhXThWOWXAbDYcswwNRpCW5yrZxLwZ7pSFdinKSPQRjuRvRWT/PHY7UlTuHP8YEA1kfipn6aKK1LNnsKE2TFRhYBmVdAWPGLsznGiqqugwmtp9dzfHtA5crHdroPdhh5buomxLNOq0gZydj6nMMTI+zvXomBn21IqTqqQye9saJHQRq5qB8VjM5XCXl8HFW1WpU0U3l3bMgQ/lXEFErmj4LiFOvYAzUKAuf0xRXKhJoNHdQRXlrWw/Yy9G/GO5nK3Af7bCDxY9ESPPLwtLxqjEURbpxn8g21BOzQx8n7UYiXzYjoKx31J5MoYJVBIePUMvdJhwNgjXqeqxnjw4muTIlUPR4aVmPBshs1MJTXg9EuHACw+x6scg9Z9wWFVneyMcu4WLV+bLxHpj8rdUMN1PO5rxtYfcu+dBbi7UhCTzI8uhiMfO19jfnPm46Sy1skTLbYUMU/dW8XJe3NCqRT1g==;PNOHjyYKpBJycVUadHWjoA=="
 ---
 

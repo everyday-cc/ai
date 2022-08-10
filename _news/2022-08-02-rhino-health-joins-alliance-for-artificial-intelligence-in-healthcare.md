@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare"
-excerpt: "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ..."
-publishedDateTime: 2022-08-02T16:09:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm"
+excerpt: "For AI to have strong, equitable, replicable, and continuously improving performance in healthcare, access to data is key,” said Ittai Dayan, MD, co-founder and CEO of Rhino Health. “Federated data management,"
+publishedDateTime: 2022-08-02T16:06:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
+webUrl: "https://apnews.com/press-release/accesswire/technology-health-patient-privacy-artificial-intelligence-22f99d64ecd48d6a95017845cbf4f778"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "LFKUnbp9fOYykTn0EHms5sMXmy+20VKqTB7NZQ6Agw0Kc4i8L9t/FACb2baGbpygT+I71iPkt77RmzN7qFjSkJJocBtCBdF+vhchBCtjriJVVi68EIYwUkSjY93IuNlTPtHa/Ohu/pJhZZIDInUlFTaA5/fYR1dIMq6A8BSK/o4yKl1OiYbKdsKXcwjcrz2g4xLhtGTyB7o/tNyqoTLGAIcrOGxFuAyPNOP5lJWcD7YoRG/UpgaCoSQXXOZsq3WkzkJrlsfHnkY43jS2UzcwoA2D/0NAG6+TZWKQEf7y2Fns4e/R/MH1JfPvlg4nArv4t7z8pNlAuRU0iCZgqwYESXr+hHMVeL+JqJ1kTADMi2M=;A3odMarlMt5Y4OLu/e9vgg=="
+secured: "GHswJGm09BA5fkdqS1kx+WS484zV00aAhbTw1H3ac2IOoiHDGNDagaKiAfokup2WdmY8xHCiiWvvGiySh5RQ68Tmzw7g4SqrOro977Gh6c7JynKf/bEytv08Ptv3/BZo5fBFUzxpDGff7fwmN91so4NsiQQ+UiJcdUhGrzXgzTBaYQLVW6T+l16M4U+oO705zQwy1EIVcRjVPzUiDUgQ8nxnD5q5uwqhcMHlAmPEiQHtfLLTksV1GwYdO1qTF69zT79rCc7h8oYn7nGjpo2NS2KF1Uo2zbkBITCawSGsH/zFx6ueBFo7H0uVW3UbUzEW/7cKIIR4Z5wSNLW7ACWzQKM0FzmiNG1VmLsThNDb2Q8=;bTFnMgZkIZcLat0/RSZQTg=="
 ---
 

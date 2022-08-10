@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Australia PM unveils draft Indigenous recognition referendum question"
-excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to"
-publishedDateTime: 2022-07-30T01:55:00Z
-originalUrl: "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/"
-webUrl: "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/"
+excerpt: "The voice would be a source of advice and accountability ... whose leaders have toiled for generations to win recognition for injustices suffered since European colonisation in the 1700s."
+publishedDateTime: 2022-07-30T09:11:00Z
+originalUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
+webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
 type: article
 
 provider:
-  name: KELO
-  domain: kelo.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "DHeANLzAmFpS8OVq9rhexcTVZk9w653EhSV19FYX3EGb3Xwf1KysBVI7QhIo2XfIZ7XkqGRE6H9MUZxe2w4VOCWUzIzYTZ5nponv/zr0SCFttQ1RGVRtvcILijKYlbpMGTwF2eMqwhlHMtvqWnwTz0FU3YSM0C33eIDM0ivbuCXAQrN+7YmiJ5fDQHBl1vO5W0F4XwTJxueczfwVngm8TUtdeoda7Cus4UtJLVQEt1tz3d8mekyy8mpKH5veErGSs4IWlQSdnJ4/m9AZbkuslkdmRH4R5gKFEDOmqfu54BcXBvLYfaChR8IFdlP2uPH3KnepMsT3zc7A9be9qH98mST4CCQ5PSHdx/1PFd5l57I8/oqhTFy8GORKNdKQipmVCZP7pjQvefhOg1aVaJTS2s7Ujh5pOjrqJZasu3Cfbdkzx8qKkgbziQFMHiFGPz55j7e7nnAeoS9adamwdD5mQaQRXRbAzlONhbCAdWZxyyjmAa3EpdC/yQvG6UJM7cGuYYzbrSVfqRqqXhJo0/iYgA==;R57OZ4NjmMbSE/CzETo4NQ=="
+secured: "/YLRQlJj2YdxRE4ouqdyIvWHXd0DIW5hG2PJ2VzrxBFHi4lKiOQ0ZG4CvAE5YhgpKmD7GpeHDSIWDPhPLuwz3ABvA5tPyZecj0AlMEJiFuYF2IXlUa5X9EzzZF/6ZjZYnr/gal+y2jC6vO6QE3OvasZLUBsegLVKvhuH5zBKW/3xbXlUrsLywjG5GBI0DCIJO47L44hzoB/OLc6N/rnCKQHGFvEGNk5yK6eQtcDWoHZz64cDNMYK6n6evNNvJpZLGVz/NF7UJC6UIlqvaIwK0blQsfZGPMWCg74S1/fX+HST4L2WCeDVnqALrxWt2Uae4UqIWaJb8MX88fXqWtScsWrA6wLxOLTwl0fYBbRpr6U=;QNhCe0522I+qczBi+YD1pQ=="
 ---
 

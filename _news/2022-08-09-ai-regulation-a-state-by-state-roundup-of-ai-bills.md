@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "e3hMG95KZe5gdrEg0v04sEw8rbU2ycO0U2C4dCCAj3PsHiYPY0IwCSrdopqRUGjLjsL7QlmwzrOTCVSyOwtat/7/OUGfcqvXg7qaxq4iPOBDhfNS/1hNJ1Kopbpm49HaSC2Gvct19VI0I7thzVu3IWVyF6DmcIA1LvJ3drymrRDdkCaVFv+1cMtuBYGmc00emSjWYMoRgQQSY0TboNJLrnEbEUO/6GnLE3KW94JKCNquPAgEQCLTlGXXHxFIcCzTk/J68IE22MW0/apy1JBgE1bHc/xsLJAuJ+dbQq1hAElvb8hDXwgh1oKzB0d05DbZJzYsep+vfw1JZ9jQ1E0AbRFBZiy34fLp6OmdizsjH1Y=;6woDyPOBQ+iLYPcqFH9vQw=="
+secured: "oEDpH3nxdBChpinIFEjj9X2DwzO33qPQs/m9HaLM61+MNUKLNhvsOMRsigPSMbQBSGa1D2/Sf8xqehu/yQKjlc9lVnh4mnUGgxFbIzGEGKX2WKw3CR7Az315fbgUFeSRFigs9elgH9QHPAuPCZtoNBx9TJytlXmoXSatZPXHqsnetFBN0WmOvEpcA7s3oI1H/5nWN179OYtS51m5ZJQ64w6kKV2piu+l7qVJW/EwwZQVQYoTw4OzJvrGwxMYGhYrdMjmHxJUkPOL2gJ+3o0U26H37TKjVbSqkRuMOpZ0yDDT8BL03eplxzIZLCW2Vb27rACFwiuthcqw7OTjfZsq2B1D5OLuYIZheSRTcNgvlq8dJ2+K9f/7Yu8TP4MG/Lt13+39ltZOXIOICrq72hR6Ll4CHRon0aRh58d1H86tnPQdi1KFLtQz8r/53EH1oPGvnfyoQzBUnwSQRdHD8lNzJHp/uho1RAORGKw//mxrW7RjP6oGkh/fSTzAamoHU1o+q/Su3HuB7hHrlm3rPIcfOQ==;eXDEVYyQVkwpVa2V9PA35A=="
 ---
 
