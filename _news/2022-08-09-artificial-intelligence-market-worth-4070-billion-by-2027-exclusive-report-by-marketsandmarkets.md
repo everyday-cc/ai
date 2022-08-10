@@ -19,41 +19,30 @@ topics:
   - AI
 
 related:
-  - title: "Weather Forecasting Services Market Worth $4.0 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global weather forecasting services market size is expected to reach USD 4.0 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected"
-    publishedDateTime: 2022-08-09T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28420450/weather-forecasting-services-market-worth-4-0-billion-by-2030-grand-view-research-inc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28420450"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28420450"
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "CHICAGO, /PRNewswire/ --Natural Language Processing (NLP) Marketsize to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the forecast period,"
+    publishedDateTime: 2022-08-08T15:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
-    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
-    publishedDateTime: 2022-08-09T12:42:00Z
-    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR)"
+    publishedDateTime: 2022-08-08T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56754136-natural-language-processing-nlp-market-worth-dollar-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
-  - title: "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34."
-    publishedDateTime: 2022-08-08T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-enterprise-artificial-intelligence-ai-market-worth-1552-billion-/2022/08/08/9652242.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
 
-secured: "E3i24HnA2K7puFg5u0m0rXuOhFDN/Ga2M5MqJ6+0bwDXOisTGTpxoSItazRIJmyzHDngonUMYpNL0dLGRejDuqUDZc+JEmCJYoCntunyNiUHGU1zKeJJYgx8ojdvrqMq6bL5kQs6NzHIo0+NLWOI5Aqoy+YgYeSE0sAIwa4w0HPpaSABZAga00ypwRaCg9R04wHVd9bnrbypoNLcwCBWXohHO1Fqmk1lNSKBSkiGltAwgbw9mX00mVpWRgdNmPQhx8YnKHHcOKjR9AKjKdw4FD/HfYWO2kbN6BKOJkxpUlUpRp+5oYSw+7K10BC6ooPPqOrcVncf+LjKQUtWOoiFWMnI5SBRhlC0rsJck9SzgKA=;4/idgpebbw3OM5z9B0pIAA=="
+secured: "uVmAnt0pD5ay2k9pvpl9SBBOOraCGbTvKge7Kgc/HJVZP7qoswlkWqE/t61q71BMMj8mjLrl7QeiNz0RFBJRsG/9gQIhADKtHNBEZgyG8IV7L4LIS7WN4APTSHWo3zE1NKc8z8GxVzgJmPeFErTYKPq5KGFYwAup1m6RN+6hgWisPpcr4WHrYzqx0TGKpZS7WcNrRc7aLuAiFpR1Bu6lOERygfXWs+fpVnVm6MHH0EIOZ9hdMi3N7/kGi2IgdUU3LpPXmVrosnptrkG8mFn4oTZ0ZcO2OAn0WfkAZNOTGzCHzUiOA67hZi5SE4d5YF2uLFoWFRQn18aTSZnvqKn8+9j4h6AYOoonbwvIe6DFKec=;NHdF87AjSbsxARiUVam4Ew=="
 ---
 

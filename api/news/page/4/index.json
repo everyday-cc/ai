@@ -2,6 +2,491 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-05-5-moral-dilemmas-that-self-driving-cars-face-today.md",
+      "title": "5 Moral Dilemmas That Self-Driving Cars Face Today",
+      "excerpt": "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8dc41e31cb7d5797b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "publishedDateTime": "2022-08-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.md",
+      "title": "Some cloud-based AI systems are returning to on-premises data centers",
+      "excerpt": "AI/ML model training and knowledge-based storage and processing are more costly on a cloud than many thought, and prices for compute and storage equipment have fallen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html",
+      "originalUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_by_rawpixel_cc0_via_pexels_3x2-100740699-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html",
+      "publishedDateTime": "2022-08-05T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
+      "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
+      "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Global-Regtech-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "publishedDateTime": "2022-08-04T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise.md",
+      "title": "Stretching May Help Slow Cognitive Decline as Well as Aerobic Exercise",
+      "excerpt": "Share on Pinterest New research suggests that stretching and balancing exercises may also be able to help slow the speed of mild cognitive decline. Sergey Narevskih/Stocksy New data suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "originalUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/08/older-female-stretching-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
+      "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
+      "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
+      "originalUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
+          "width": 2048,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
+      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
+      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "publishedDateTime": "2022-08-04T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
+      "title": "Ghost Security reinvents app security with unsupervised machine learning",
+      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
+      "publishedDateTime": "2022-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
+      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
+      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
+          "width": 2835,
+          "height": 1929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
+      "publishedDateTime": "2022-08-04T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players.md",
+      "title": "Speech and Voice Recognition Technology Market Insights and In-Depth Analysis 2022-2028 with Types, Products and Key Players",
+      "excerpt": "Aug 04, 2022 (Market Insight Reports) -- The research report on Speech and Voice Recognition Technology market report provides a granular assessment of this industry vertical The report provides a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
       "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
       "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
@@ -709,466 +1194,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
-      "title": "How analog AI hardware may one day reduce costs and carbon emissions",
-      "excerpt": "This is a type of artificial neural network in which physical analog hardware is used to emulate neurons as opposed to software-based approaches. “One of the obvious benefits of using analog ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "originalUrl": "https://venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1396534464.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/03/how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions/amp/",
-      "publishedDateTime": "2022-08-03T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
-      "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
-      "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4611659541537/2022/1/9a254516326158d3d5bbaa2c2e5b48b2/v1.5/Active-social-life-may-create-cognitive-buffer-against-Alzheimers-study-suggests.jpg?lg=5",
-          "width": 900,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "publishedDateTime": "2022-08-03T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a 'cognitive reserve' that provides a buffer against the disease. Why do some people with amyloid plaques in their brains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
-      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
-      "excerpt": "Researchers at the Wake Forest University School of Medicine recruited 300 adults with mild cognitive decline to do aerobic and stretching-and-balance exercises. The groups were split up based ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
-      "originalUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23318110-1659557295793.jpg?quality=75&strip=all&1659543113&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/03/cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests/amp/",
-      "publishedDateTime": "2022-08-03T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers.md",
-      "title": "Mild exercise halts cognitive decline in people at risk of Alzheimer's",
-      "excerpt": "For older people with mild cognitive impairment, just 2 hours of low-intensity exercise a week may be enough to halt further cognitive decline. Mild cognitive impairment (MCI) refers to problems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "originalUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/08/03210657/SEI_117727557.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-things-to-know-before-buying-an-external-gpu-for-your-pc.md",
-      "title": "Things to know before buying an external GPU for your PC",
-      "excerpt": "A dock is required for everything to work and run smoothly. For example, the GPU is connected to the dock via a PCIe port, and then the dock connects to the computer via a USB-C or Thunderbolt cable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "originalUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/07/eGPU-Teardown.jpg",
-          "width": 700,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed.md",
-      "title": "AI startup Cerebras celebrated for chip triumph where others tried and failed",
-      "excerpt": "Company honored by Computer History Museum for cracking the code of making giant chips, with 'stunning' implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d30b530eee72f472613d2ea609e7e9ae6d56d2fb/2022/08/03/f1b7abb3-e9d3-469e-833d-7c922ddc4e7a/cerebras-at-computer-history-museumrrl-1150-edit12.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "publishedDateTime": "2022-08-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
-      "title": "Global Artificial Intelligence In Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
-      "excerpt": "Recent report published by research nester titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
-      "originalUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466187",
-          "width": 443,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition.md",
-      "title": "Amazon Comprehend announces lower annotation limits for custom entity recognition",
-      "excerpt": "Amazon Comprehend is a natural-language processing (NLP) service you can use to automatically extract entities, key phrases, language, sentiments, and other insights from documents. For example, you can immediately start detecting entities such as people, places, commercial items, dates, and quantities",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/03/lower-annotation-limits-comprehend.jpg",
-          "width": 1119,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:03:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-study-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Study: Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a \"cognitive reserve\" that provides a buffer against the disease in a study published in the August 3, 2022, online issue ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/5-brain.jpg",
-          "width": 1920,
-          "height": 1390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "publishedDateTime": "2022-08-03T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-p
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-paid-robotaxi-service-in-china-with-no-employee-aboard/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -155,6 +155,17 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
+    excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
+    publishedDateTime: 2022-08-10T11:24:00Z
+    webUrl: "https://www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 36
   - title: "Baidu wins permits to operate fully driverless robotaxis in China"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
     publishedDateTime: 2022-08-08T10:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28411655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
-    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
-    publishedDateTime: 2022-08-05T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "94aR/3d+2IqVtmqiSUGYhyZ1cpsNrtN2Ax8f5FNUWhnIgf7WITX0miYWgIYEUKJoLkA7Sov2+95agvfEAgUaNPS1v7GRzE9f/HTykB92nUFgBZ5i5MChXZHl7ZThiwjSba1EgMz739Sd6lJwIp+oSHtjJNIdl+PqBCfV3+cWaKiO57q0og6o6NaTzCUsVKdjUPhOVZlxhJu7vcIOalY3SF+xXjtwZE3W6mctWB3ABUXSruZsDB4PV47G2haO4IVSmrVPXFAllXx55GrzMb6P8kf5lhoebUqJxwRQLQ5P0H7o+Vi3EPyzvj1Pv37ydUsUgJsgzWQfEjwemW/JVZbVqOm4ynKTvYaDwEpqT4EXrTc=;3YkKN4ZMwum/lBZbZwg5IA=="
 ---

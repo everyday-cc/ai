@@ -2,22 +2,27 @@
 category: news
 title: "New smart glasses add subtitles to any conversation"
 excerpt: "The software’s sophisticated voice recognition capabilities can identify who’s speaking and will soon have the power to translate languages, voice tones, accents, and pitch. The glasses will ..."
-publishedDateTime: 2022-08-05T13:29:00Z
-originalUrl: "https://www.liverpoolecho.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962"
-webUrl: "https://www.liverpoolecho.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962"
+publishedDateTime: 2022-08-05T13:36:00Z
+originalUrl: "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962"
+webUrl: "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962"
+ampWebUrl: "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp"
+cdnAmpWebUrl: "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Liverpool Echo
-  domain: liverpoolecho.co.uk
+  name: Wales Online
+  domain: walesonline.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "kh/8hCeCGLm7A70vv613hwXtmoQQz6tIfrZZvMZJLbgyfVejW0FhT449cHXkDb2F2DHPqc1XDRvjY+xvvB6il8k2GCbI++SPLnfnQ4LcseSAVQ5EIG9NxOYU5X/NjHPqhkEU8bnYep7Ap2jKxC0kk9YH6lbjyotfFuxNl35ZS0qBG0RE4cd/htbTXNpiDWQQBPEgXybyyCC3X+k4eQ2A/90HLlJGAny6BhhmkvaIiHQKBEgj/S/ng8pX6EA1QF6JnAPYnbcW3N/LwnWEcrUxjWdduNqd596TbsUUX5EY0KO8IwftZAPTBmhyImh+j2p6kXnqqDJ0G1Bn50/4q3sbsEcIpmY7zwCkUkdYyL/9QUc=;E+N8gWnBNlaHKvyVsI96Jw=="
+images:
+  - url: "https://i2-prod.walesonline.co.uk/news/uk-news/article24681950.ece/ALTERNATES/s1200/1_image001-70.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "rvkOnrwC9sWoMWaUUI2IpynAyHj/a6O2Y0mgJYeGqva5hr/5bMQTWGtUbhfqulFGiSsn6Gh1grcgk9/CTz7xKK9Hm8T8eCTORwyip/rc/azVzvgVhDXrDX0DpiYNCZK+V4+WG2nW0wMa1SFQitIFYUTt/A9MHYxE2Kw52z3IIZ11Axd2QoXlK/0FKZgEwldqWS3WJsc1/tPg7qCbIMpIuSGsulx3Lx9kOZ83Ksg4Zl90e/AZ5TL/MMdMuXhEUmXF6r4ULofEfBwzK2umm2q6IKCJrZZdeHHuXa/kTERBgsVrJnpygx63+7KzyUX5HasL9Xs5+Z2sg+Q2eZqrQt+iVGIlzm29d100p5wohSWME4w=;BNJT1AxLYhWZaS4kAw6OMA=="
 ---
 

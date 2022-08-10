@@ -90,15 +90,6 @@ related:
         width: 600
         height: 500
         isCached: true
-  - title: "Asia Pacific Artificial Intelligence In Fintech Market Report 2022: Annual Growth of 17.7% Expected Through 17.7%"
-    excerpt: "The Asia Pacific Artificial Intelligence In Fintech Market is expected to witness market growth of 17.7% CAGR during the forecast period (2022-2028). Artificial intelligence enhances outcomes by employing approaches derived from human intellect but applied at a scale that is not human."
-    publishedDateTime: 2022-08-05T17:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-asia-pacific-artificial-intelligence-fintech-market-report-2022-/2022/08/05/9651593.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PjtwRvO6DLXVmB9+ScB0o/lFPkaNTIrcQUmd1UYypTNyhOCG79WvFViyOQg4u7JZ+LgQiOaus3wQXjCe8xeDSkSRWoItLykDM3xX0rTK5YPz/G7L4hZO5WoXV2OsC+9Rre9BTQRwIdfvL4Tc30eCWqbomKUFnjlYyB11nPf+H60blUpyaYsgHoHYCZDbCtZaW4DqMmQhrbau3BVVEkqI9LiebMKhBKNdATJ/eZ5HAED36EKPr8+4Lz6myGnQesIU8pgt/G9SbT9mxi3EE8fHXpobp8y2koHYFvV2xVEwLvRsUac/LZy5+v+qgyMk3JRXeeKtC93j6zh/3en1rBOTSxJ0hFUYY3cuHMphtjY3GOA=;yJ5a9DKWFnroEGrAaH0vfw=="
 ---

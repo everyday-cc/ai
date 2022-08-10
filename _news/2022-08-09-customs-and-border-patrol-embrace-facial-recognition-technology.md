@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Pubs are buying facial recognition technology to track and record you"
+    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
+    publishedDateTime: 2022-08-09T23:51:00Z
+    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 39
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Delivering rewards and recognition to a borderless workforce"
     excerpt: "A borderless working environment makes employee experience more important than ever. It’s central to driving motivation, productivity and engagement. Traditionally, a manager may have thanked employees by taking them for impromptu drinks or lunch – but this isn’t an option for those with global teams,"
     publishedDateTime: 2022-08-08T11:58:00Z

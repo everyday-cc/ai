@@ -44,15 +44,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
-    publishedDateTime: 2022-08-09T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "Ci6TG36NxLJ+1M/ou7U7MvDFD4RZDqeOhfFCnSpgAoTL92Y/oFIBgt/V57JlrsVmjW64eOv/XxDjLXx1RkOcfGl5+BbA9K8//UWFirTS4xdWjbyRAhez+gVWaFvv2wohx4Poxe/APwLm3uHosoSn+ghCG0/RGc5/J+N16z9I1d55GNKlcEDjr0tDbN9NM/DouK0TW2Nvqx8dASRnngxKoMSJsp+oUFiXdBEpsAnqrf9/5XMA7Q95K5jSz6AzFcQxnpRtCgmTQW1nkvozicGNhOyHmvZhyRwZkYvDsCWTzuCXZP+5Y4izSwClg4McHERqZutP6ZPB08ptqAQHUZ62fFRpJjc8aJBsKxaTrS/S8y4=;WLlIDMbZkmY52I7jSMtagA=="
 ---

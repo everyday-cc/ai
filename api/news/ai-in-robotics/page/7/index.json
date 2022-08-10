@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
+      "publishedDateTime": "2022-06-16T17:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-funding-the-robot-revolution.md",
       "title": "Funding the robot revolution",
       "excerpt": "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ...",
@@ -1205,50 +1248,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-machine-learning-bella-italia-trials-use-of-robot-waiters.md",
-      "title": "Machine learning: Bella Italia trials use of robot waiters",
-      "excerpt": "The group behind restaurant brands Las Iguanas, Bella Italia and Café Rouge is trialling the use of robots at one of its venues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
-      "originalUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bighospitality.co.uk/var/wrbm_gb_hospitality/storage/images/publications/hospitality/bighospitality.co.uk/sector/casual-dining/machine-learning-bella-italia-trials-use-of-robot-waiters/5745485-1-eng-GB/Machine-learning-Bella-Italia-trials-use-of-robot-waiters.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Hospitality",
-        "domain": "bighospitality.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

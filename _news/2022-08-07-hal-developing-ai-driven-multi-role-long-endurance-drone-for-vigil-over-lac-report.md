@@ -82,6 +82,20 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
+    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
+    publishedDateTime: 2022-08-10T09:32:00Z
+    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/india-and-LLM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "0OHu3Yd5c6j3coneLiNLsL96aKrmlLuL0UnSA2t4PdWbpolrnw6QbuMAS5YaPN8yBQr63CX01/P7Qk2+C/hsL4S9PJXDdR8WopqgLXgjXRP78s25pvrlP9HwrC3cHBnkk728TNmMvhR0UULxoikhTCFEqn6LiVHVV5OE+B8tKS1XwkA5WtC2pQ/JdhQZtEGOX1At/jndhTgG7ni56MxuxwC/fsBufYlAp7lyIGhsmkqYa2mofMNZB0OEjz6LPSlK4zMRM2R+m9rwQCbZAYtsBBptXmIN2EGYN/4uZICCGi84mOTS9zVOkxDPCzOTJ6nC/fxnKk7GvcLz+8i8CCk2HbFOHhA027UHymWPnCLldVJEyvR5mHPK8xWDVxXRKjeT52NO/LWWjNa8YHgyFVRMGObEGg/QUAuO4iFCCTD4bjkoSr+5dGbeDb5S5AU66Ht+/NdaKx2ybiPkpCKS3e1RjUCQzxYzt7JBu1dxqWlsRPTuzmB7t+kpBsjb3Pl35JEyQsNIX/iholCLm8QEOg41+Q==;JCKpNj/zy1fJLR7YqZSuqg=="
 ---

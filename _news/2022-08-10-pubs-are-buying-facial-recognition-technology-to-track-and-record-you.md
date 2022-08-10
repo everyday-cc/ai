@@ -25,76 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "First, they banned facial recognition. Now they're not so sure"
-    excerpt: "(CNN Business)Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations ..."
-    publishedDateTime: 2022-08-05T18:07:00Z
-    webUrl: "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
+    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
+    publishedDateTime: 2022-08-09T14:22:00Z
+    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
-    excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
-    publishedDateTime: 2022-08-05T17:34:00Z
-    webUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "New Orleans City Council Regulates Facial Recognition"
-    excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
-    publishedDateTime: 2022-08-08T23:40:00Z
-    webUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition"
-    ampWebUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
+      name: thecrimereport.org
+      domain: thecrimereport.org
     quality: 39
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T13:40:00Z
-    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "India’s military monitors disputed borders with facial recognition"
+    excerpt: "India is expanding plans to revolutionize the way its troops carry out operations along its borders with China and Pakistan by deploying more AI."
+    publishedDateTime: 2022-08-09T20:24:00Z
+    webUrl: "https://www.biometricupdate.com/202208/indias-military-monitors-disputed-borders-with-facial-recognition"
     type: article
     provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 21
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T18:07:00Z
-    webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
+        isCached: true
+  - title: "Delivering rewards and recognition to a borderless workforce"
+    excerpt: "A borderless working environment makes employee experience more important than ever. It’s central to driving motivation, productivity and engagement. Traditionally, a manager may have thanked employees by taking them for impromptu drinks or lunch – but this isn’t an option for those with global teams,"
+    publishedDateTime: 2022-08-08T11:58:00Z
+    webUrl: "https://www.managementtoday.co.uk/delivering-rewards-recognition-borderless-workforce/article/1795192"
     type: article
     provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 21
-  - title: "Face-recognition software that lifts the veil"
-    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
-    publishedDateTime: 2022-08-09T13:30:00Z
-    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
+      name: Management Today
+      domain: managementtoday.co.uk
+    quality: 24
+    images:
+      - url: "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/OTM/CopyofGautamSahgalPerkbox.png"
+        width: 952
+        height: 635
+        isCached: true
 
 secured: "LyAvraHBJvDY1lUoEcEEw5lCvEaNteATR7fDEdM6vp943I4e0AqcrmsOxUzk2yDXt96BfLfXqctJNKGRxckAuEfItO5YmIQpCQCsE9jinnjlQtXFy21OfKyH6gvNM8BydvIh881gZWWNd5tCK1IgD11QP44RHqZalxO2sfz0ildzxBkVQ4peq2VHNttsf9lKwpFuihlX0vd9LSRbkt4y6GrCk0t4Ie7pJFgOZFMDB3NJoAxVqsA6QBJSIsoEEMFtaF16ZIR2euYzUwR8agwjm5dxHQVpAWSTYj8IjXxJdmCOdw7xV1bZCfOzQq/LuycxvIe448GvcnOGn+N51FJ175xMxZlVCor1zDsCBMt+YGgdz6Nc3ro23GDUx4i7V1eW7QcV/w5P1KQ7V5XGqSqV1y7biWlUnbwOeXdeN21vbwoXfJRBq/TUzAe7HkxC/m30h7gByjoyZiOTnmASnjlsjE33d4hWoYQbyKxcM4IfsC3jqW3unE2aOocZnp59pGurIgRV+fmKv3XC0rqVatSx9g==;331CRTaHca2CmYPhlgNPUQ=="
 ---

@@ -2,6 +2,462 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-07-31-tech-startup-ketos-targets-water-safety-and-scarcity.md",
+      "title": "Tech Startup KETOS Targets Water Safety And Scarcity",
+      "excerpt": "Entrepreneur Meena Sankaran discusses KETOS, a San Francisco-based startup with an AI-based platform aimed at making water safer and more sustainable through an automated testing and monitoring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6ad2220262508199932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "publishedDateTime": "2022-07-31T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-i-kind-of-want-this-tiny-robot-to-control-my-home.md",
+      "title": "I Kind Of Want This Tiny Robot To Control My Home",
+      "excerpt": "to be an always-on robot monitoring you as candidly as Alexa or Google Home, but in a much more adorable chassis. It connects to the internet, listens for your commands, and can even control your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "originalUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/t_original/svexguzyzm42vbl3cc1t.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "publishedDateTime": "2022-07-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-an-engineer-who-was-fired-by-google-says-its-ai-chatbot-is-pretty-racist-and-that-ai-ethics-at-google-are-a-fig-leaf.md",
+      "title": "An engineer who was fired by Google says its AI chatbot is 'pretty racist' and that AI ethics at Google are a 'fig leaf'",
+      "excerpt": "\"These are just engineers, building bigger and better systems for increasing the revenue into Google with no mindset towards ethics,\" Lemoine told Insider. \"AI ethics is just used as a fig leaf so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "originalUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d1d834632b5300188aab8d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "publishedDateTime": "2022-07-31T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-australia-pm-says-indigenous-voice-details-to-follow-referendum.md",
+      "title": "Australia PM Says Indigenous-Voice Details to Follow Referendum",
+      "excerpt": "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
+      "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp",
+      "publishedDateTime": "2022-07-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-diagnostic-robotics-raises-45m-in-series-b-funding-round.md",
+      "title": "Diagnostic Robotics Raises $45M In Series B Funding Round",
+      "excerpt": "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
+      "originalUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg",
+          "width": 1500,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults.md",
+      "title": "How DEWA uses AI to monitor cyberattacks, leaks and faults",
+      "excerpt": "Dubai: Dubai Electricity and Water Authority (DEWA) has developed several innovations using Artificial Intelligence (AI) to improve the efficiency of operations in Dubai’s water network, monitor cyberattacks,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
+      "originalUrl": "https://gulfnews.com/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/03/31/STOCK-DEWA--_17fe08691f3_medium.jpeg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults-1.89626002",
+      "publishedDateTime": "2022-07-30T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-facebook-engineers-panic-pull-plug-on-ai-after-bots-develop-their-own-language.md",
+      "title": "Facebook engineers panic, pull plug on AI after bots develop their own language",
+      "excerpt": "Facebook engineers were forced to pull the plug on one of the company’s AI systems after its bots began communicating with each other in a completely new language which humans simply couldn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "originalUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2016/02/facebooklogo.jpg?quality=82&strip=all",
+          "width": 1368,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "publishedDateTime": "2022-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-persistent-loss-of-smell-due-to-covid-19-closely-connected-to-long-lasting-cognitive-problems.md",
+      "title": "PERSISTENT LOSS OF SMELL DUE TO COVID-19 CLOSELY CONNECTED TO LONG-LASTING COGNITIVE PROBLEMS",
+      "excerpt": "\"As this virus will likely be with us for a long time, identifying the risk and protective factors for cognitive symptoms can assist with the treatment and prevention of 'long COVID' moving forward.\"",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268191&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1268191&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help.md",
+      "title": "What Will It Cost To Fix That Door Ding? Artificial Intelligence Can Help",
+      "excerpt": "Artificial Intelligence is potentially a game-changer for anyone with a smartphone who needs a detailed auto damage report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e5648e4207a7d5d8b0c77e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2022-07-30T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
+      "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
+      "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e557a9abbf3ce8215398d2/0x0.png?format=png&width=1200",
+          "width": 674,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
+      "publishedDateTime": "2022-07-30T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-ai-ethics-confronting-whether-humans-who-mistreat-ai-are-alarmingly-immoral.md",
       "title": "AI Ethics Confronting Whether Humans Who Mistreat AI Are Alarmingly Immoral",
       "excerpt": "Consider the AI ethics of humans that mistreat AI, including people that lash out at AI-based self-driving cars.",
@@ -734,505 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
-      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
-      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T11:28:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
-      "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
-      "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
-      "originalUrl": "https://www.cnet.com/science/biology/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepmind-ai-has-predicted-3d-structures-of-the-entire-protein-universe/",
-      "publishedDateTime": "2022-07-29T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters.md",
-      "title": "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters",
-      "excerpt": "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "originalUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "publishedDateTime": "2022-07-29T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-high-contrast-talks-true-colours-20th-anniversary-edition-remixes-and-ai-in-dance-music.md",
-      "title": "High Contrast Talks ‘True Colours (20th Anniversary Edition + Remixes)’ And AI In Dance Music",
-      "excerpt": "High Contrast is one of the most famous artists within the drum and bass scene. The early 2000s drum and bass and jungle royalty, formally known as Lincoln Barrett, is celebrating 20 years of his debut album,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
-      "originalUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fd7ae80266075d5398d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
-      "publishedDateTime": "2022-07-29T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletter-july-23rd.md",
-      "title": "Coinbase Cost Cuts, Netflix Earnings And Factor Investing: Forbes AI Newsletter - July 23rd",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fbf02d8df711259932d6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
-      "publishedDateTime": "2022-07-29T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
-      "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
-      "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-944464846.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
-      "publishedDateTime": "2022-07-29T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
-      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
-      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "originalUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030.md",
-      "title": "Deep Learning Market 2022 Key Facts, Dynamics, Segments and Forecast Predictions Presented 2030",
-      "excerpt": "Deep Learning Market Size, Share & Trends Analysis - Global Opportunity Analysis And Industry Forecast 2022- 2030, Covid 19 Outbreak Impact research report added by Quadintel, is an in-depth analysis of market characteristics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-someone-asked-an-ai-to-show-the-last-selfie-ever-taken-and-um.md",
-      "title": "Someone Asked an AI to Show the \"Last Selfie Ever Taken\" and Um",
-      "excerpt": "An AI image generator made a series of ghoul-filled selfies that feature skeletal, grim reaper-like figures, one captured via smartphone in the mirror.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
-      "originalUrl": "https://futurism.com/the-byte/ai-last-selfie-ever-taken",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/07/ai-show-last-selfie-ever-taken-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ai-last-selfie-ever-taken?amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-last-selfie-ever-taken?amp",
-      "publishedDateTime": "2022-07-29T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-how-artificial-intelligence-can-create-an-attractive-user-experience.md",
-      "title": "How artificial intelligence can create an attractive user experience",
-      "excerpt": "This is captured via demographics, purchase history and other details extracted from your CRM or interactions with your support team using text mining — including other clever sources that have been engineered into the user experience (UX).",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
-      "originalUrl": "https://www.reuters.com/brandfeature/the-business-reporter/technology-hub/how-artificial-intelligence-can-create-an-attractive-user-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.prismic.io/reuterscustomhubs/fbfac174-cb85-4a45-b4f1-ecaceea9ec82_tbr-Wizeline-main-hero.jpg?auto=compress,format",
-          "width": 2306,
-          "height": 1237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

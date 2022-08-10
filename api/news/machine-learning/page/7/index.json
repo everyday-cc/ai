@@ -2,6 +2,84 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-15-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores.md",
+      "title": "AtScale Helps Customers Accelerate Machine Learning Initiatives With Support for Feast Feature Stores",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced that it has added support for the Feast feature store. Feast is an open-source feature store gaining rapid adoption in the enterprise data science community.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-14-atscale-helps-customers-accelerate-machine-learning-initiatives-with-support-for-feast-feature-stores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-15-dataiku-named-snowflake-machine-learningai-partner-of-the-year-award-for-the-2nd-year-in-a-row.md",
+      "title": "Dataiku Named Snowflake Machine Learning/AI Partner of the Year Award for the 2nd Year in a Row",
+      "excerpt": "Dataiku, the platform for Everyday AI, today announced that it has been named the 2022 Machine Learning/AI Partner of the Year award winner by Snowflake, the Data Cloud company, for the second year in a row.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-ddf2bca36481dbf88329f6adc9894676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-c3-ai-named-google-cloud-technology-partner-of-the-year-for-ai-and-machine-learning.md",
       "title": "C3 AI Named Google Cloud Technology Partner of the Year for AI and Machine Learning",
       "excerpt": "Company honored for accelerating Enterprise AI deployments C3 AI (NYSE:AI), the Enterprise AI application software company, announced it has been awarded the Google Cloud Technology Partner of the Yea",
@@ -1309,112 +1387,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-can-reinforcement-learning-help-fix-the-mental-health-crisis.md",
-      "title": "Can Reinforcement Learning Help Fix The Mental Health Crisis?",
-      "excerpt": "Stefano Goria is Co-Founder and Chief Technical Officer (CTO) of Thymia, a company aiming to make mental health assessments faster and more accurate through an approach that combines video games based on neuropsychology with analyses of facial microexpressions and speech patterns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a0d7969d4f7499efccd11a/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/06/09/can-reinforcement-learning-help-fix-the-mental-health-crisis/amp/",
-      "publishedDateTime": "2022-06-09T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028.md",
-      "title": "Neural Network Software Market Size, share, and developments by type, sales channel, application, and segment estimates for the years 2022-2028",
-      "excerpt": "Jun 09, 2022 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

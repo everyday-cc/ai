@@ -159,6 +159,17 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
+    excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
+    publishedDateTime: 2022-08-10T11:24:00Z
+    webUrl: "https://www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/baidu-to-operate-robotaxi-service-without-human-drivers-in-two-chinese-cities/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 36
   - title: "Baidu bags China's first fully driverless robotaxi licences in two cities"
     excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
     publishedDateTime: 2022-08-09T13:20:00Z

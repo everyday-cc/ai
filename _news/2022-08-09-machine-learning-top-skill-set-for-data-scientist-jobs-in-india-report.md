@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Machine learning is top skill in demand for data scientist jobs in India: Report"
+    excerpt: "Python remains the most used programming language across all sectors and MS Excel, Tableau and Power BI are the top three visualisation tools used by data science professionals, according to the repor"
+    publishedDateTime: 2022-08-10T10:41:00Z
+    webUrl: "https://www.mid-day.com/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284"
+    ampWebUrl: "https://www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 54
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/aug/Cashify-aa_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Machine learning and statistics are the most important skills required for data science jobs in India, says report"
     excerpt: "For 84 per cent professionals in the country, machine learning (ML) followed by statistics are the two most in-demand skills that recruiters are looking for in data science professionals, a report said on Tuesday."
     publishedDateTime: 2022-08-09T10:12:00Z

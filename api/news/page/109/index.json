@@ -2,6 +2,421 @@
   "page": 109,
   "value": [
     {
+      "path": "_news/2022-05-16-tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai.md",
+      "title": "TU Delft: TU Delft has launched the Digital Ethics Centre for fair and safe AI",
+      "excerpt": "What does human-centred and responsible AI look like? Digital technology can be found pretty much in every corner of our society. But companies and institutions don’t always know how to deal with technological innovations. The TU Delft Digital Ethics ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "originalUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/TU-Delft-building-photo-by-Frank-van-Schadewijk-1-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tu-delft-tu-delft-has-launched-the-digital-ethics-centre-for-fair-and-safe-ai/",
+      "publishedDateTime": "2022-05-15T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-natural-language-processing-nlp-market-size-with-cagr-value-2022-swot-analysis-competitive-landscape-sales-by-manufacturers-and-forecast.md",
+      "title": "Natural Language Processing (NLP) Market Size with CAGR Value 2022 SWOT Analysis, Competitive Landscape, Sales by Manufacturers and Forecast to 2027",
+      "excerpt": "May 16, 2022 (The Expresswire) -- “Final Report will add the analysis of the impact of COVID-19 on this industry” “Natural Language Processing (NLP) Market” report 2022 provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-with-cagr-value-2022-swot-analysis-competitive-landscape-sales-by-manufacturers-and-forecast-to-2027-2022-05-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-with-cagr-value-2022-swot-analysis-competitive-landscape-sales-by-manufacturers-and-forecast-to-2027-2022-05-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting.md",
+      "title": "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting",
+      "excerpt": "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2022-05-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2022-05-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-top-8-predictive-analytics-tools-compared.md",
+      "title": "Top 8 predictive analytics tools compared",
+      "excerpt": "SageMaker is a full-service platform with data preparation tools such as the Data Wrangler, a nice presentation layer built out of Jupyter notebooks, and an automated option called Autopilot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/",
+      "originalUrl": "https://www.arnnet.com.au/article/698085/top-8-predictive-analytics-tools-compared/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/prediction_predict-the-future_crystal-ball_hand-holding-crystal-ball_by-arthur-ogleznev-via-unsplash-100811997-orig-100927909-orig.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T18:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-dynamic-engagement-of-cognitive-control-in-intra-sentential-code-switching-during-comprehension.md",
+      "title": "Dynamic engagement of cognitive control in intra-sentential code-switching during comprehension",
+      "excerpt": "This study investigated whether the deployment of cognitive control was modulated by the intra-sentential code-switching types during comprehension. L1-dominant Chinese–English bilinguals were administered a self-paced reading task in two reading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/dynamic-engagement-of-cognitive-control-in-intrasentential-codeswitching-during-comprehension/2BC7A21C3568A6DD19ED51345E88E2A5",
+      "originalUrl": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/dynamic-engagement-of-cognitive-control-in-intrasentential-codeswitching-during-comprehension/2BC7A21C3568A6DD19ED51345E88E2A5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
+      "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-brainchip-holdings-ltd-0e1d526615410529bbae213f394cff1a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
+      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
+      "excerpt": "IBM had to sell off Watson Health-- once considered one of IBM's \"strategic imperatives.\" While IBM is still gunning for a leadership position in AI, the company won't be focusing on \"moonshots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/?taid=627bcbee41582d000199f899",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "publishedDateTime": "2022-05-15T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-facial-recognition-technology-is-a-valuable-tool.md",
+      "title": "Facial recognition technology is a valuable tool",
+      "excerpt": "With proper purpose, restraint and regulation, it can help solve crimes, aid victims and ultimately make the world a safer place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "originalUrl": "https://www.ocregister.com/2022/05/15/facial-recognition-technology-is-a-valuable-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
+      "title": "Facial recognition surveillance is a threat to civil liberties",
+      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-15T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The San Bernardino Sun",
+        "domain": "sbsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-15-artificial-intelligence-benefits-psoriatic-arthritis-patients.md",
+      "title": "Artificial Intelligence Benefits Psoriatic Arthritis Patients",
+      "excerpt": "PredictAI, a new machine-learning tool developed by researchers, speeds up the diagnosis of psoriatic arthritis (PsA) by up to 4 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-benefits-psoriatic-arthritis-patients-207112-1.htm",
+      "publishedDateTime": "2022-05-15T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-15-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-545-in-april.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 54.5% in April",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) was the target of a significant growth in short interest in the month of April. As of April 30th ...",
@@ -661,489 +1076,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-rain-nabs-11m-to-build-voice-experiences-for-brands.md",
-      "title": "Rain nabs $11M to build voice experiences for brands",
-      "excerpt": "A growing number of high-profile vendors occupy a voice recognition market expected to be worth $22 billion by 2026, but one of the lower-profile startups on the scene, Rain Technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/",
-      "originalUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/Hero-image-of-new-Smart-Display-visual-experience.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/13/rain-nabs-11m-to-build-voice-experiences-for-brands/amp/",
-      "publishedDateTime": "2022-05-13T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-lawyer-says-georgia-man-set-for-execution-should-be-spared.md",
-      "title": "Lawyer says Georgia man set for execution should be spared",
-      "excerpt": "ATLANTA (AP) — The life of a Georgia man set to be executed Tuesday for killing an 8-year-old girl should be spared, his lawyer argues, explaining that her client has significant cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/nation/lawyer-says-georgia-man-set-for-execution-should-be-spared/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-14-affirm-shares-surge-on-huge-earnings-beat.md",
-      "title": "Affirm shares surge on huge earnings beat",
-      "excerpt": "Investors in Affirm Holdings Inc. had a good day today after the payments company reported fiscal third-quarter earnings that smashed estimates, sending its share price surging after the bell.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/12/affirm-shares-surge-huge-earnings-beat/",
-      "originalUrl": "https://siliconangle.com/2022/05/12/affirm-shares-surge-huge-earnings-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/affirm.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations.md",
-      "title": "AI Tool Aims to Help CIOs Monitor Carbon Emissions from Cloud Operations",
-      "excerpt": "The AI technology is constantly refining recommendations based ... Alphabet Inc.’s Google Cloud and Microsoft Corp.’s Azure cloud platform started offering their customers carbon-tracking tools in October 2021 and January 2020. Write to Suman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
-      "originalUrl": "https://www.wsj.com/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974?mod=business_minor_pos11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-543938/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-tool-aims-to-help-cios-monitor-carbon-emissions-from-cloud-operations-11652458974",
-      "publishedDateTime": "2022-05-13T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-facial-recognition-may-not-be-banned-after-all.md",
-      "title": "Facial Recognition May Not Be Banned After All",
-      "excerpt": "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
-      "originalUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bc3f198cf7b38c71dd7b8b87c579e986.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-ban-ai-crime-hike-racial-bias-pr-1848922074/amp",
-      "publishedDateTime": "2022-05-13T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-an-optimist-at-the-helm-of-ibm.md",
-      "title": "An Optimist at the Helm of IBM",
-      "excerpt": "Over the past 30 years, IBM has changed drastically, becoming a major player in cloud computing and artificial intelligence. And during those decades, Arvind Krishna was rising through the ranks of Big Blue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/05/15/business/30corneroffice/30corneroffice-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/13/business/arvind-krishna-ibm-corner-office.amp.html",
-      "publishedDateTime": "2022-05-13T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-gms-cruise-and-brightdrop-explore-self-driving-electric-vans.md",
-      "title": "GM’s Cruise and BrightDrop Explore Self-Driving Electric Vans",
-      "excerpt": "Cruise LLC, the self-driving startup controlled by General Motors Co., is working with the automaker’s BrightDrop electric van business on a plan to develop autonomous delivery vehicles, people familiar with the matter said. Cruise and BrightDrop have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-05-13/gm-s-cruise-and-brightdrop-explore-self-driving-electric-vans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD_3SJL94SGQ/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice.md",
-      "title": "How AI Solutions And Strong Leadership Could Have Avoided The UK’s Worst-Ever Miscarriage Of Justice",
-      "excerpt": "Very critical of the Post Office Horizon scandal, HEC Paris Professor of Accounting and Management Control and chairholder at HI! Paris Center Aluna Wang explains how the anomaly detection system she developped and more attention to how the data is used could help avoid such issues in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "originalUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627e65898626d96b9c8f32a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2022/05/13/how-ai-solutions-and-strong-leadership-could-have-avoided-the-uks-worst-ever-miscarriage-of-justice/amp/",
-      "publishedDateTime": "2022-05-13T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-formidable-human-ai-relations-can-accelerate-sustainability-efforts.md",
-      "title": "Formidable Human-AI Relations Can Accelerate Sustainability Efforts",
-      "excerpt": "When working in harmony with humans, AI and other automation systems have the potential to make huge impacts on economic growth across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f8ef32c53de1add7201f44a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/amp/",
-      "publishedDateTime": "2022-05-13T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-megatrends-ceos-of-mttr-nexcf-oggff-and-upst-discuss-next-big-growth-waves-in-metaverse-ai-plant-based-foods-and-fintech.md",
-      "title": "Megatrends: CEOs of MTTR, NEXCF, OGGFF, and UPST Discuss Next Big Growth Waves in Metaverse, AI, Plant-Based Foods, and Fintech",
-      "excerpt": "We believe in our core that AI lending isn’t a one-category phenomenon ... before and hope to use what I learned there to build Upstart into the most impactful fintech in the world…” Upstart Holdings, Inc. (NASDAQ: UPST) Earnings Highlights: https ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-9e560c6d8c54c2925e7d5fec50a0df73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

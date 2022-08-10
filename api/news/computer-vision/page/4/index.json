@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-29-roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models.md",
+      "title": "Roboflow Augments Open-Source Datasets for Improved Computer Vision AI Models",
+      "excerpt": "Roboflow has announced an expansion of its datasets and AI models as part of its Roboflow Universe initiative to help",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Glip_Roboflow-Augments-Open-Source-Datasets-for-Improved-Computer-Vision-AI-Models-1.png",
+          "width": 2917,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
+      "publishedDateTime": "2022-06-29T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-can-artists-still-benefit-from-nfts.md",
       "title": "Can Artists Still Benefit From NFTs?",
       "excerpt": "Despite the recent cryptocurrency crash and a more sober approach to digital art by collectors, artists still can gain a lot from non-fungible tokens if they use them wisely.",
@@ -1374,58 +1417,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-how-human-pose-estimation-can-push-computer-vision-a-step-forward.md",
-      "title": "How Human Pose Estimation Can Push Computer Vision A Step Forward",
-      "excerpt": "Unlike traditional object detection, HPE allows the computer not only to find a human in the image but to actually understand its behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab35581d55f4f89af2b68a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/17/how-human-pose-estimation-can-push-computer-vision-a-step-forward/amp/",
-      "publishedDateTime": "2022-06-17T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

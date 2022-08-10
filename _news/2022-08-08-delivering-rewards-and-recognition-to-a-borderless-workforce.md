@@ -53,6 +53,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Pubs are buying facial recognition technology to track and record you"
+    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
+    publishedDateTime: 2022-08-09T23:51:00Z
+    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 39
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
+        width: 740
+        height: 400
+        isCached: true
 
 secured: "XbWBU3JpZNfKQeYGqFGpGMPqmhZIt1heG04D/LfnzU1pP3T+1nP0l5qRuqPzWpf4PHZ+kfXXmdyKpVhUgTyjtMrQSlHl5+ZKQSxPZ3VBBx+CapiD5YgeO6MwTD36jvBLr6TLMLn2CtBFV+6C4uoKoljq+5BiddAImkTPdaeYPr/CMBZCCr8ep4kbyaGr4UcPvKIHC2uVTr7O70x08U24ZUD1cPqQFM6RZX9irRSnU/1GOPBu5x1FhZCapTOL/PpddAST9q0SupydOkKx3WuLOIw1vBMxba+zbIHddeJpkkasOcDYaY4CC9K9mWvZT4NQPdXBI1rk+KC46//TsJQwRCtkwBygBG/E8zuIcQ0LfW0=;q9jUvPaeutIQvz96USNRLQ=="
 ---

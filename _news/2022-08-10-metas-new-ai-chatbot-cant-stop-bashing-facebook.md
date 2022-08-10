@@ -3,12 +3,12 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -165,15 +166,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
-    excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
-    publishedDateTime: 2022-08-05T18:43:00Z
-    webUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 47
   - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
     excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
     publishedDateTime: 2022-08-09T14:18:00Z
@@ -232,6 +224,6 @@ related:
       domain: niemanlab.org
     quality: 17
 
-secured: "s219eUd2SWKD3rcikt7NZxhrh1qAiX//G0R0NcE4h42MPvHLh91G8Cg/ejj5DJ2C11mVzD2TeOw/SDLuHhLgBOucmZZJswVKwBFmCA9BjK3yqgwjqa7K40gK82issxZ8TPiBhApJOZaKw6Sjesda/v81caKrnsmZqFgxmgMBQE+boioG7sWJvXsjluNo9wA3ydVGfeNkO7Z24NcygACXC8lAfAqdMwBpH9J5Sl7c82EdQYYuh9KZg0WSCIQ92ESn2vOKZIz2zkE8Xw8zIk2wmnb6bNs87rITRktoBuQoKUltdn+HMNQDTcuAEFDXjXi7x6/+lmxqoffC/rch/4Nrb56oDtowHBM+ME5RdtPmmQE=;5ouBOe3GMsBWSDrFIC18Vg=="
+secured: "0mSOa4YCvvg1X5JkYclS82Vd2gIZayMr5WgFqhAYD7vFk+c00vcLBav95gzYmnRIU/dKc9+2lfO5lHCSTQhZbFi7uPTfvhIF1ZlyZ8jQXujeRmNfkeuF+Mf3Imb/f9cmh1wkCfaIajC9O7gTHgHZ+b+S9EJh/zuI6qT/2Ie/6VAGPCyTkgTAma5oonso5E/TMePGkUW9PZsQ3xUhyC45lMvVR7EzZak0lxjesV89N11FBAuDYqT5KPFm+7YzmRctVxMkXS3j4qn8swXPYnDGfhroX4Xioh5iQ0Ql/IGnUSmHcm9JXVv/TlWczSW+JqI+QpJ+TEhfONXa7U18Hm0oKsdZ+RgI1RRuiFuEKCERurk=;4vbgKTJnaZwKC2XsO1fdvg=="
 ---
 

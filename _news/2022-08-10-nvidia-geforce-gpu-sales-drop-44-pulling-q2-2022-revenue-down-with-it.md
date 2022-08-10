@@ -29,15 +29,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 48
-  - title: "Nvidia lost a billion dollars in gaming GPU sales as AMD continues to thrive"
-    excerpt: "NVIDIA on Monday announced its preliminary financial results for the second quarter ending July 31, 2022. According to preliminary numbers released by the"
-    publishedDateTime: 2022-08-09T12:35:00Z
-    webUrl: "https://www.techworm.net/2022/08/nvidia-billion-dollars-loss-amd.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 33
 
 secured: "w92A2QGUan56hLcLKNY4sygqqHZpsYgkSaDrxm4O5DSFiWnHSX63UkQ46aWzk0Jb/KhievoH3lnD0wcaGIVsd3sG9P/mAR2mUpCMylwxgkA4VRoio32+qbSBnwIbO/3zTlyXrrw6ffh+VkgDs+CmPlNb7Ptc+S15ab4TQp051Lu2JUUt2u8bgoIsS+llP9GL4q9YBolLciNdW0ns9JU5uo5Zxsj97Vp4qV1eJH0UJlA9BNh4mRQ6S1bISf2Gn6bV/5Agb+bZ78fDopdAKxvPxFl4ynzNz2Gq0PxkC4oaWA2CL8UO4UVFbnjXdI/3UmJvQfuBOicF9fJboHV4poyOccW6QK6fwiDsqqgv2IAln1A=;D/PG4brjjmjKIZ8SLW6CIw=="
 ---

@@ -2,6 +2,95 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
+      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
+      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-global-deep-learning-market-2022-comprehensive-research-study-business-overview-and-regional-forecast-to-2031.md",
+      "title": "Global Deep Learning Market 2022 Comprehensive Research Study, Business Overview And Regional Forecast To 2031",
+      "excerpt": "The report titled Global Deep Learning Market which was recently added by Kenneth Research, aims at providing the clients with the business growth and investment opportunities present in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031",
+      "originalUrl": "https://menafn.com/1104544481/Global-Deep-Learning-Market-2022-Comprehensive-Research-Study-Business-Overview-And-Regional-Forecast-To-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?706622",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-17T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
       "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
       "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
@@ -1261,92 +1350,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-jaxon-awarded-phase-ii-sbir-contract-with-us-air-force.md",
-      "title": "Jaxon Awarded Phase II SBIR Contract with U.S. Air Force",
-      "excerpt": "AFWERX for an SBIR Phase II in the amount of $750,000 focused on AutoSpec (a tool to automate the AI-creation process) to investigate its potential to fill capability gaps in the Department of the Air Force (DAF).",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-science-us-air-force-c2f132617474f9711d12925256b808de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
-      "title": "Brain stimulation can rewire and heal damaged neural connections, but it isn’t clear how",
-      "excerpt": "The connections between the neurons in your brain enable you to do amazing things, from brushing your teeth to solving calculus equations. When these connections become damaged, often as a result of conditions like stroke or traumatic brain injury,",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
-      "originalUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.gcn.com/media/img/cd/2022/07/08/brain_GCN_070822/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-08T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

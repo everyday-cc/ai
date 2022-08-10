@@ -2,6 +2,487 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-06-22-egat-drives-sustainable-operations-with-ibm-ai.md",
+      "title": "EGAT drives sustainable operations with IBM AI",
+      "excerpt": "In addition, the proven increased production efficiency also leads to the expanded use of IBM's AI-powered asset management system at our hydroelectric and solar power plants. This drive towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
+      "originalUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1288.jpg?h=7de12b8a&itok=z2jGRmC9",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-a-single-device.md",
+      "title": "Cerebras Systems Sets Record for Largest AI Models Ever Trained on a Single Device",
+      "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced, for the first time ever, the ability to train models with up to 20 billion parameters on a single CS-2 system – a feat not possible on any other single device.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-901236deb6c3469cb0aa669f753a9ad3",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-901236deb6c3469cb0aa669f753a9ad3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-unit-221b-report-validates-deep-instincts-99-zero-day-and-01-false-positive-threat-prevention-accuracy.md",
+      "title": "Unit 221B Report Validates Deep Instinct’s >99% Zero-Day and <0.1% False Positive Threat Prevention Accuracy",
+      "excerpt": "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced validation of its threat prevention capabilities by cybersecurity firm Unit 221B. The claims were validated through tests in categories including portable,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-b9f71fd978224e2c92e475999bbb3470",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-b9f71fd978224e2c92e475999bbb3470",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai.md",
+      "title": "Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’",
+      "excerpt": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool. Send any friend a story ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/22/business/21microsoft-01/21microsoft-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
+      "publishedDateTime": "2022-06-22T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-youcom-is-taking-on-google-with-ai-apps-privacy-and-personalization.md",
+      "title": "You.com is taking on Google with AI, apps, privacy, and personalization",
+      "excerpt": "Socher is naturally aware of all major AI talking points these days, including bias (it's not just the datasets), sustainability (perhaps overblown, but we can and should do better), ethics (no easy answers, it depends on each person's stances and beliefs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "originalUrl": "https://www.zdnet.com/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec515376e9ad2dd505b7e960c144f8c10d628690/2022/06/20/74e2fbff-7231-4635-98b3-c73600e3cbc6/richard-soucher.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-com-is-taking-on-google-with-ai-apps-privacy-and-personalization/",
+      "publishedDateTime": "2022-06-22T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-aws-beefs-up-contact-center-solution-with-new-ai-capabilities.md",
+      "title": "AWS beefs up contact center solution with new AI capabilities",
+      "excerpt": "AWS promised to be different and use artificial intelligence (AI) to take contact centers in an entirely different direction. Initially, some were skeptical a new vendor could have success ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "originalUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1248443439.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/22/aws-beefs-up-contact-center-solution-with-new-ai-capabilities/amp/",
+      "publishedDateTime": "2022-06-22T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-blacksky-chief-innovation-officer-dr-patrick-oneil-to-present-on-ai-and-machine-learning-at-aws-remars-2022.md",
+      "title": "BlackSky Chief Innovation Officer Dr. Patrick O’Neil to Present on AI and Machine Learning at AWS re:MARS 2022",
+      "excerpt": "Chief Innovation Officer Dr. Patrick O’Neil will be speaking at AWS re:MARS 2022 in Las Vegas on the core artificial intelligence capabilities that enable the company’s end-to-end dynamic monitoring capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_d267d1bf-0b80-50ab-abc0-1195e6ba9a80.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d267d1bf-0b80-50ab-abc0-1195e6ba9a80.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-growing-organizations-should-consider-voice-ai.md",
+      "title": "Why Growing Organizations Should Consider Voice AI",
+      "excerpt": "Among successful AI-powered technologies such as big data and analytics, conversational voice AI is showing considerable promise. Three megatrends—the need for automation, innovation and better CX—find convergence in conversational voice AI and are driving its popularity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab34a06f0d8f09215433de/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/22/why-growing-organizations-should-consider-voice-ai/amp/",
+      "publishedDateTime": "2022-06-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
+      "title": "What’s new in Microsoft Azure’s NLP AI services",
+      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "publishedDateTime": "2022-06-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning.md",
+      "title": "Why data-driven marketing needs artificial intelligence and machine learning",
+      "excerpt": "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "originalUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
       "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
       "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
@@ -664,446 +1145,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
-      "title": "Uncovering links between grit and cognitive function",
-      "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-how-utilities-use-machine-learning-for-risk-management.md",
-      "title": "How utilities use machine learning for risk management",
-      "excerpt": "Over the years, we’ve used various combinations of Palantir Foundry, AWS solutions (Amazon Athena, AWS Glue, Amazon SageMaker), Google Cloud products (Vertex AI, AutoML, AI Infrastructure), and Azure Machine Learning. Each solution offers its own ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tdworld.com/utility-business/article/21243327/how-utilities-use-machine-learning-for-risk-management",
-      "originalUrl": "https://www.tdworld.com/utility-business/article/21243327/how-utilities-use-machine-learning-for-risk-management",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/06/Utilities_ML.6299139c530ce.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T&D",
-        "domain": "tdworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-industry-leaders-announce-coalition-to-fight-bias-in-adtech.md",
-      "title": "Industry leaders announce coalition to fight bias in adtech",
-      "excerpt": "A year ago, IBM Watson Advertising launched a research initiative to understand and mitigate unintended bias in digital advertising using artificial intelligence. In January 2022 the results of that research revealed that, while unwanted bias in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.campaignasia.com/article/industry-leaders-announce-coalition-to-fight-bias-in-adtech/478762",
-      "originalUrl": "https://www.campaignasia.com/article/industry-leaders-announce-coalition-to-fight-bias-in-adtech/478762",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "campaignasia.com",
-        "domain": "campaignasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-ai-improves-cancer-treatment.md",
-      "title": "AI improves cancer treatment",
-      "excerpt": "The medical world has been making progress in fighting cancer for decades.  Although we’re not likely to eradicate the disease in our lifetimes, many types of cancer (there are more",
-      "sourceUrl": null,
-      "webUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
-      "originalUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/06/Capture81.png?w=1280",
-          "width": 510,
-          "height": 219,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
-      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/buckley-report/ai-improves-cancer-treatment/amp/",
-      "publishedDateTime": "2022-06-21T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGHP",
-        "domain": "myfox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.md",
-      "title": "Walking helps some young and healthy people improve performance on cognitive tasks",
-      "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources. However, this does not necessarily mean you should work on a big ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220621/Walking-helps-some-young-and-healthy-people-improve-performance-on-cognitive-tasks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-transforming-the-classroom-experience-with-ai-and-machine-learning.md",
-      "title": "Transforming the classroom experience with AI and machine learning",
-      "excerpt": "There is a unique opportunity to create a more meaningful and equitable learning experience through the implementation of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
-      "originalUrl": "https://www.universityaffairs.ca/magazine/sponsored-content/transforming-the-classroom-experience-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.universityaffairs.ca/wp-content/uploads/2022/06/sponsored-cisco-644x374-1.jpg",
-          "width": 644,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University Affairs",
-        "domain": "universityaffairs.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra.md",
-      "title": "Digital transformation: Cloud proving to be a great fit for Myntra",
-      "excerpt": "online fashion marketplace Myntra has strengthened its cloud services capabilities by leveraging Microsoft’s public cloud Azure. This allows it to develop new use cases in cognitive services and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-649.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/digital-transformation-cloud-proving-to-be-a-great-fit-for-myntra/2568507/lite/",
-      "publishedDateTime": "2022-06-21T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-artificial-intelligence-technology-can-secure-sites-by-scanning-major-venues-for-weapons.md",
-      "title": "Artificial intelligence technology can secure sites by scanning major venues for weapons",
-      "excerpt": "Artificial intelligence, or AI, is being used to help secure sites from sports arenas to churches and schools. The technology is being used to scan for weapons, including guns, knives and explosives as people walk between standing panels. If a weapon is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
-      "originalUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d262911-3051-4d40-81af-4cb803967068/6b65f27f-d026-4d2f-91f7-2215ce60715e/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/artificial-intelligence-technology-secure-sites-major-venues-weapons.amp",
-      "publishedDateTime": "2022-06-21T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-this-ukrainian-deep-tech-startup-has-trained-an-ai-to-paint-war-art.md",
-      "title": "This Ukrainian deep tech startup has trained an AI to paint war art",
-      "excerpt": "A Ukrainian deep tech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
-      "originalUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/5.1.3.jpg?w=1024",
-          "width": 1024,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
-      "publishedDateTime": "2022-06-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
-      "title": "The Power and Pitfalls of AI for US Intelligence",
-      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "publishedDateTime": "2022-06-21T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

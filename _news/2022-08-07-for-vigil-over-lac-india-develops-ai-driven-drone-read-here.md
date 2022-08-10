@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uzduqwwkhsaklaiz_1659930564.jpeg"
         width: 768
         height: 438
+        isCached: true
+  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
+    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
+    publishedDateTime: 2022-08-10T09:32:00Z
+    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/india-and-LLM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
     excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"

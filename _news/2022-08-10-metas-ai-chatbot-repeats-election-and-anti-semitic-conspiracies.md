@@ -64,6 +64,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Meta brings its latest AI chatbot on web"
     excerpt: "\"We are committed to publicly releasing all the data we collect in the demo in the hopes that we can improve conversational AI,\" Kurt Shuster, a resea.."
     publishedDateTime: 2022-08-06T06:19:00Z
@@ -112,22 +128,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
-    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
-    publishedDateTime: 2022-08-09T17:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z
@@ -168,15 +168,6 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 47
-  - title: "We Interviewed Meta’s New AI Chatbot About … Itself"
-    excerpt: "BlenderBot 3 learns by chatting with you, and tries to ignore the trolls. Like so many of us, it’s very much a work in progress."
-    publishedDateTime: 2022-08-05T18:43:00Z
-    webUrl: "https://www.wired.com/story/blenderbot3-ai-chatbot-meta-interview/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
     quality: 47
   - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
     excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
