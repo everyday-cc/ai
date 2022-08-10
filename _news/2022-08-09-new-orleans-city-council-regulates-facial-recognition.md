@@ -22,9 +22,9 @@ topics:
 
 related:
   - title: "First, they banned facial recognition. Now they're not so sure"
-    excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
-    publishedDateTime: 2022-08-05T12:20:00Z
-    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+    excerpt: "(CNN Business)Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations ..."
+    publishedDateTime: 2022-08-05T18:07:00Z
+    webUrl: "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
     type: article
@@ -37,17 +37,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
-    excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
-    publishedDateTime: 2022-08-05T17:30:00Z
-    webUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952"
-    ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 65
   - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
     excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
     publishedDateTime: 2022-08-05T17:34:00Z
@@ -63,20 +52,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
-    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
-    publishedDateTime: 2022-08-09T14:22:00Z
-    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Pubs are buying facial recognition technology to track and record you"
     excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Moral Dilemmas That Self-Driving Cars Face Today"
-    excerpt: "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently."
-    publishedDateTime: 2022-08-05T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e8dc41e31cb7d5797b70bd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Tech Company Testing Remote Operators as Self-Driving Car Backups"
     excerpt: "That self-driving car you're riding in could be controlled by a teleoperator. It seemed like science fiction back in January when we excerpted The Holy Driver: When Virtual Meets Reality, a story about a driving game champ who learns he's been piloting actual cars in another country,"
     publishedDateTime: 2022-08-09T19:42:00Z

@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 670
         isCached: true
-  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
-    publishedDateTime: 2022-08-05T12:41:00Z
-    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 28
 
 secured: "0Ujblu6jk0rB07R/AXCOP3DEW1XwOlclB35fC1epjr/+g3PkYCN1rPwg8dT3kIzAbiziTpRnIajUMM96jY0debGFKRtOM2BupBRXK0+R5HIqaaGvlKojSKFbFkIrS4IXmxBuD9v5A3dOMj8m+2cAerK/dcb5pH088BfGSZ/xp0c60f7KBpec9NalEUq6pr57yCI9WN8GSK3AdbWQ+PMSBMON3lxEEFgP8uUQl7CfKekEBJpI0YSHXWp3SWXjM9fzt9A9yjia+lPdIJO8IsNnG9u1Lt1nOaNp9AbN9bGj/eNL/ah6vGF0LYF5bOZl9/93hhEPvF0Er5MDCdHV7prXTMaX5/OA1EZx+/OAEe00LxY=;JtyNcXY8VjnMUVGK6TMocA=="
 ---

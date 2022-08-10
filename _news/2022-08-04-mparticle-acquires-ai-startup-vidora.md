@@ -1,19 +1,25 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
-publishedDateTime: 2022-08-03T17:12:00Z
-originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
-webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
+publishedDateTime: 2022-08-03T17:26:00Z
+originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
 type: article
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Destination CRM
+  domain: destinationcrm.com
 
 topics:
   - AI
 
-secured: "sqCFzU0aezf+8wHg/07jdfGCv8kY4842k31HXYszk9pGNIdkGT6TUEmqF3FfbOy4R+rhKkenRif0pNaybdLJzrvbyGBs2diCyDlLNKC5Xumw2Ihs3zjGlQYwgVWG04QEQ+TonelOcCFKnMNXFDVDWHkScoz7e5e7bVXQa2yCrtzQ22pvLBhWZ83mJm5BJgqZBNlPSklYpoaEIhZ5PpDlUz+uJ55rAKv2cJw2uqF9tO3WwgkAcGA91tgGPhK7hZdseoGGWLvnBTuz1f/Kt9BZAAc6ohQnwkXYKl+QZpAtqEVjdMTPHf1xR6enE2I01OgzZ9A9l+/MgjJe/oCHrMvSsxNHTW+2vfGLsDqKmFj/lII=;NYm1MDQg/YpoFeEDPabSOQ=="
+images:
+  - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png"
+    width: 480
+    height: 610
+    isCached: true
+
+secured: "3hqS3y2QKADqqN0vwi4olUjKHBYCQlk9By3/+ox0Dhqd4F4eWAHAt2rmdDdPoxmcLyncuG7NB8h9f8ZK1XmQErsROYd44WrNvykpks+hgC3tSCNz9bAqMOGeiMGctnCyrrOHVOoeY4sv+eQwDDUvzWVkZh4GmEBAWcVueuv6Z+PrZVh3Stahoa8ZvatJkXtIFKRoSxV2Ey4uTv7C33SEyByddKuRkETERCRCEBHH4prrmFfpE3VjV2GeGNXmXMAZWDmDtiCSP5u3LHAEyE0plPVtFiDu7PwkKM2Sr2LRA9pluPkPXYFRtCZjvePTCjXmXkwR2z8HK60UxWwJlipEbrwFIm2TIUoPZv3xrXDO0XY=;O+hVQ6bQQgLIHRD01PfqIQ=="
 ---
 

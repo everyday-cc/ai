@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Robot arms are replacing shelf stockers in Japan's convenience stores"
-excerpt: "The bots can work without human assistance 98 per cent of the time, its makers said. Read more at straitstimes.com."
-publishedDateTime: 2022-08-10T02:45:00Z
-originalUrl: "https://www.straitstimes.com/asia/east-asia/robot-arms-are-replacing-shelf-stockers-in-japans-convenience-stores"
-webUrl: "https://www.straitstimes.com/asia/east-asia/robot-arms-are-replacing-shelf-stockers-in-japans-convenience-stores"
+excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
+publishedDateTime: 2022-08-10T04:29:00Z
+originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/08/10/robot-arms-are-replacing-shelf-stockers-in-japan039s-convenience-stores"
+webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/08/10/robot-arms-are-replacing-shelf-stockers-in-japan039s-convenience-stores"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
-  - AI in Robotics
-  - AI
   - Microsoft AI
+  - AI
+  - AI in Robotics
 
 images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/10/md_bot_10082022.jpg?VersionId=in2FLII7ijN5B_7XF_QzAp1v9tg00RdI"
-    width: 860
-    height: 573
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/10/1691797.png"
+    width: 684
+    height: 445
     isCached: true
 
-secured: "CJd36I8+M/QFd6yWbpYCHIyCdjoiFGTE+4ourVTZXXfBIUUedgsN2MbSC+PH250cf64botTxaVw3Ze9gDGWIJZQu/plapnJATm4SuPaj5Cd5pOG7I6Mmza7/v33paDFrYOll2dC/mwmnnB3cu6CKne5EuwWyjJ3xqntXMqLhrVveMCz54vmbjcA0SJW+1v4UGeoNOy9TTc4yL8eIOoyh7Dd9mUggpbPvfYkYkVpaxVRuROjJooIF0yDnjgxAquDnMntvFdP2fyctrmTKCwk+bBfvqJsym2kaDgW0k0EVHXNytq5BPrILzvbswvTF+6Nys07yHd4ZtH79T8NvRyY90FFcwJjBI96OOUNMXImX7oY=;V+rdBCmKhNEe8SJLCyxjag=="
+related:
+  - title: "Robot arms are replacing shelf stockers in Japan’s stores"
+    excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
+    publishedDateTime: 2022-08-10T04:36:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/10/robot-arms-are-replacing-shelf-stockers-in-japans-stores"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 41
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/10/1691814.jpeg"
+        width: 1240
+        height: 828
+        isCached: true
+
+secured: "sxuJlfbDUUhRz5cQOtFNSAMWkjkTKjZHHGXN6SaXyiBcNMz1JhgBe0mniglW6a3S8vtOlpVujSYoWAfOEfoVxCe6sAT2+zmnkthTcHniRlGIKmkdIVDduvPID97IhooSxxvJI2BGHUuBAjog7GabGAee1QDdPpSRMdnlILX98tdlnDHLIiuNHqV1JORJs85fYkhJCB544q7pBhkVsblkoP97/mGQNx52Td1tkVAmnTP2xG0xMYjCDg9CuJ4R5ZytT98P+M+ozQMmbyg0YAPw38PChrIk9d4bUD9jnm51+p1TVriQB7bdN5ngMLgqlyyc7Vue36cK1KdAuajT2jiJfZjLj6teYVUyZWPBfxKRziA=;OonCr3h9/8qyK37QV+bW5Q=="
 ---
 

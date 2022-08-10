@@ -39,6 +39,17 @@ related:
         width: 5760
         height: 3840
         isCached: true
+  - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
+    excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
+    publishedDateTime: 2022-08-05T17:30:00Z
+    webUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952"
+    ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 65
   - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
     excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
     publishedDateTime: 2022-08-05T16:17:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Baidu wins approval for China’s first full driverless taxis"
-excerpt: "Baidu, which operated China’s largest search engine, is transitioning to artificial intelligence and self-driving cars after its core advertising revenue shrank in the mobile era | Photo Credit: ALY SONG The tech giant has secured permits to operate robotaxis in Wuhan and Chongqing,"
-publishedDateTime: 2022-08-08T04:03:00Z
-originalUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece"
-webUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/baidu-wins-approval-for-chinas-first-full-driverless-taxis/article65744587.ece/amp/"
+excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
+publishedDateTime: 2022-08-08T02:23:00Z
+originalUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
+webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bl-i.thgim.com/public/news/world/ydeciy/article62154162.ece/alternates/LANDSCAPE_615/baidu2021-09-24T100725Z614194441RC2AWP99B33IRTRMADP3CHINA-REGULATION-JOYY-"
-    width: 615
-    height: 383
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
+    width: 506
+    height: 337
     isCached: true
 
 related:
@@ -118,6 +116,6 @@ related:
         height: 575
         isCached: true
 
-secured: "BDXvi6V8Ts04EHla/J4rhm+dn5FnA0vQSR9Lme+0PvpE6dJgYMH0+Y/1dfHAUkW7lTmRVEWQjHIJhw/OpQGN1djx/DQ+Q/DUqMlE8eFfRUY/d8AB7SpoVo0MCKMfb+rLLvtWNQIrkjz0FIxYh+1XZPa5ewajVC0M2ihlUPjmUdOalEqehGIEqLhG9KRLFGob4r4Ct+u6bdmtmbO424JYUKFEc8HWRrJR46Vrlj072Pmlcx0CGMFk/SjI+yiyUa3/pK82/YpipGow62UH+1gZ5UNOI3/ETzKMJFpEEffLl7/w9Kaldq5F6jaLnc4sXwrXcDbElEi9rVrk1pXMkJHrQ7uuZSBQ/n0HyvXZclRpzPo=;M3+HTqJJbAs0WclXBgJ68g=="
+secured: "sGVpVIFOMDgAF4/k6+nRanocCjuxv46s0wcqien7bLcMfyi+5t7SBxMEjA8QBmg+nZY6Bz5jFb1tKWq4Jy82PFriEsZXjhyO2G46h7I37yf4n7uMkk+M2kERJKFov2gcH3xmnuAtAO3H06/n11W9v/UrpO78RoZYuO3aZhXOX/uYBeqkgMFRdwPrWdIN9Hy7MMLALQD0AQLpC3SfeMtVkDNoCf1BzbhzVSMwZFFeB1RLrAvThjMiOKNDAFOl8GBMPfnMfrO88yJ6G9xiHB9hdI83S6Rwkj2VKPPPoYsNb5VOOpLBPTV9+p3nC5sy2O+X1Bv1Yudrg8YBNjAEtU6QQrbR0z8gVrxNd3j+7Lq9Ljk=;8+5FulCFGyYBp64nKprY7w=="
 ---
 

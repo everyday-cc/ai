@@ -9,7 +9,7 @@ ampWebUrl: "https://www.motortrend.com/news/mira-self-driving-car-remote-control
 cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/mira-self-driving-car-remote-control-car/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Moral Dilemmas That Self-Driving Cars Face Today"
-    excerpt: "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently."
-    publishedDateTime: 2022-08-05T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/"
-    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62e8dc41e31cb7d5797b70bd/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "How Does Artificial Intelligence Benefit Self-Driving Cars?"
     excerpt: "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet."
     publishedDateTime: 2022-08-05T14:51:00Z

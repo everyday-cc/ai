@@ -60,6 +60,15 @@ related:
       name: Mumbrella
       domain: mumbrella.com.au
     quality: 36
+  - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
+    excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
+    publishedDateTime: 2022-08-10T05:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2022/08/10/innovation-economy-requires-real-estate.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
     excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
     publishedDateTime: 2022-08-07T13:02:00Z

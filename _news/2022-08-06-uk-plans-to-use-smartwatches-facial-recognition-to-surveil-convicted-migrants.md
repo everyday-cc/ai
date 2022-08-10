@@ -25,104 +25,45 @@ topics:
   - AI
 
 related:
-  - title: "First, they banned facial recognition. Now they're not so sure"
-    excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
-    publishedDateTime: 2022-08-05T12:20:00Z
-    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+  - title: "UK may use facial recognition smartwatches to monitor migrant criminals"
+    excerpt: "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian."
+    publishedDateTime: 2022-08-05T16:49:00Z
+    webUrl: "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
+    ampWebUrl: "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: Engadget
+      domain: engadget.com
     quality: 89
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b"
+        width: 5760
+        height: 3840
         isCached: true
-  - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
-    excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
-    publishedDateTime: 2022-08-05T17:34:00Z
-    webUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
+  - title: "The UK will use smartwatches and facial recognition to monitor migrants convicted of crimes"
+    excerpt: "The Guardian reports that plans from the UK's Home Office and the Ministry of Justice involve smartwatches installed with facial recognition software scanning the faces of"
+    publishedDateTime: 2022-08-08T11:55:00Z
+    webUrl: "https://www.techspot.com/news/95552-uk-use-smartwatches-facial-recognition-monitor-migrants-convicted.html"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
-    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
-    publishedDateTime: 2022-08-09T14:22:00Z
-    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
+      name: TechSpot
+      domain: techspot.com
     quality: 39
+  - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
+    excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
+    publishedDateTime: 2022-08-05T16:17:00Z
+    webUrl: "https://morningstaronline.co.uk/article/b/government-plans-to-strap-migrants-with-facial-recognition-smartwatches-slammed"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 36
     images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
+      - url: "https://morningstaronline.co.uk/sites/default/files/chris-yang-1tnS_BVy9Jk-unsplash.jpg"
+        width: 1185
+        height: 790
         isCached: true
-  - title: "New Orleans City Council Regulates Facial Recognition"
-    excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
-    publishedDateTime: 2022-08-08T23:40:00Z
-    webUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition"
-    ampWebUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Pubs are buying facial recognition technology to track and record you"
-    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
-    publishedDateTime: 2022-08-09T23:51:00Z
-    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 39
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
-        width: 740
-        height: 400
-        isCached: true
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T13:40:00Z
-    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 21
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T18:07:00Z
-    webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 21
-  - title: "Face-recognition software that lifts the veil"
-    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
-    publishedDateTime: 2022-08-09T13:30:00Z
-    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
 
 secured: "zKJgGEO7LplclAda1X0d/swjHrwecRImiSyovwhttm9XRf65bq/G2c1Ut5w4Jqpw9msnO9yy7pqFFubc6djTsmtGToh4LyVbhE0Xx46cxxC4Zvd+RLN3BFJTMPohUoqjxQoaGtqUA9CrwyciBHD+EK6DyMg6VHlJ57+AquOoOt1ZeNLTVsKTMbpJabpCrN2LT4oxsrLK2qIHfz/6ASFGMr6kddW+rdNSKXTbTw/Yobz/if+m06rcEJZPv43UKUjz5qlIdtpD/NbeONJ6/aQ35ir4C3MoN2xyp42vzWCG6OlyONSodQBpOKuH20FpEmmuy2BU6wo3AAEM+BJljrjorUAQFfuuQEEQNEJT8W2m0sbhiqzPO3KGqWwqgiUyygsyLQU9047RyoFVtJ1tXi4sBELvjjcGFOOtQa9KFhdG2lD5GMnSxjH+bNkOLYEyCUbWfVd9W6IPlg2kbgXO5omwnfpBoYz4rStd0t/vZxTQH4QYqFlyxV2sfgWfSQuFCJxHemds8pFyuZtnb3a2shyXmg==;EXtmua6gNYxA6u/rFzyEeQ=="
 ---

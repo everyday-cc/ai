@@ -7,7 +7,7 @@ originalUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-em
 webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,101 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "First, they banned facial recognition. Now they're not so sure"
-    excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback."
-    publishedDateTime: 2022-08-05T12:20:00Z
-    webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+  - title: "India’s military monitors disputed borders with facial recognition"
+    excerpt: "India is expanding plans to revolutionize the way its troops carry out operations along its borders with China and Pakistan by deploying more AI."
+    publishedDateTime: 2022-08-09T20:24:00Z
+    webUrl: "https://www.biometricupdate.com/202208/indias-military-monitors-disputed-borders-with-facial-recognition"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
-    excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
-    publishedDateTime: 2022-08-05T17:30:00Z
-    webUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952"
-    ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 65
-  - title: "New Orleans Ordinance Hones City’s Use of Facial Recognition"
-    excerpt: "Weeks after New Orleans opened the door for police to use facial recognition, the city passed another ordinance aimed at creating new restrictions and reporting requirements on the controversial technology."
-    publishedDateTime: 2022-08-05T17:34:00Z
-    webUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition"
-    ampWebUrl: "https://www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/new-orleans-ordinance-hones-citys-use-of-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "New Orleans City Council Regulates Facial Recognition"
-    excerpt: "Just two weeks after the city opened the door for police use of the technology, the council implemented more restrictions on facial recognition use, including a judicial requirement for searches. Some think the city can still do more."
-    publishedDateTime: 2022-08-08T23:40:00Z
-    webUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition"
-    ampWebUrl: "https://www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/new-orleans-city-council-regulates-facial-recognition?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
-  - title: "Pubs are buying facial recognition technology to track and record you"
-    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
-    publishedDateTime: 2022-08-09T23:51:00Z
-    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
-        width: 740
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
+        width: 1600
+        height: 1035
         isCached: true
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T13:40:00Z
-    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
+  - title: "Delivering rewards and recognition to a borderless workforce"
+    excerpt: "A borderless working environment makes employee experience more important than ever. It’s central to driving motivation, productivity and engagement. Traditionally, a manager may have thanked employees by taking them for impromptu drinks or lunch – but this isn’t an option for those with global teams,"
+    publishedDateTime: 2022-08-08T11:58:00Z
+    webUrl: "https://www.managementtoday.co.uk/delivering-rewards-recognition-borderless-workforce/article/1795192"
     type: article
     provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 21
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T18:07:00Z
-    webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 21
-  - title: "Face-recognition software that lifts the veil"
-    excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
-    publishedDateTime: 2022-08-09T13:30:00Z
-    webUrl: "https://techxplore.com/news/2022-08-face-recognition-software-veil.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
+      name: Management Today
+      domain: managementtoday.co.uk
+    quality: 24
+    images:
+      - url: "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/OTM/CopyofGautamSahgalPerkbox.png"
+        width: 952
+        height: 635
+        isCached: true
 
 secured: "qDd4t7MjHKINfL8IKgEQVxH/UwYn0/7TWNBezohUwdd0nOkGHaQx9/mAyAvbf78addU9Kyp8UOoTE8g6x2c+0axqwOPIMSR7T1Gb+aU+9Z9aJ+3Ty+zYz26RaO66ZCigLyqkaCKU9qdeXHTvosRbGCQyKrPtbmMIwHj5hY7J6xwrBhAij5+IBwaS6z2C6jN7HYPqNw+L3bMzkrqSpStCLYfkEp1cdf2rFEi7oy0nKgPJIbUB4NicEEaDN8hi7JaLaJ85Nc+IFARtgoLOVIwmQ6bcK9iTfi4F1ALFANduJUaFW7gk6XqRnfGVnFW0yypQdsqYVN2mxhoVov7EV95jRWZ6FoV8tN3lRknolVD9onc=;bYPPYNpyq9BMltPkZDjGdQ=="
 ---

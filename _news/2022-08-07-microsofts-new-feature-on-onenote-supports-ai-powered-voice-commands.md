@@ -7,8 +7,8 @@ originalUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-suppo
 webUrl: "https://telanganatoday.com/microsofts-new-feature-on-onenote-supports-ai-powered-voice-commands"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Telangana Today
@@ -34,15 +34,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 32
-  - title: "Next Pathway to Collaborate with Microsoft to migrate customers to Microsoft Azure"
-    excerpt: "Next Pathway announced a collaboration with Microsoft to accelerate the migration from legacy data warehouses and data lakes to"
-    publishedDateTime: 2022-08-05T12:41:00Z
-    webUrl: "https://enterprisetalk.com/news/next-pathway-to-collaborate-with-microsoft-to-migrate-customers-to-microsoft-azure/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 28
 
 secured: "IpVBJi0spKybfmNYtSqZt2iutkGNKn2pSG1L0yUsXq0zM6+Lfec4cL/khdvXQxLZyBu67ODGVgvXELlD57VkofH3vltS7yhbKEoknNCwDq+WAtEwk+FL0GMHhL4FgwTrbgniAuS+o+tiSBe7935OLyXl4lgFuGa4QIL0dphNhe2AeG2eaaBq8TLublpK7pAK/UUNTGKzBkkK/kkYpRXicpBHgEKOjgxIVcLVoy8SIPcB3LawMjo3bEkSN0Xgps5mCqmeWhJwnamr/ZoumX3wTNexApgU+AALEcDWmAaxYo8FCSx76myeL2d8nZ4q1CCgYRkRj4QWOqV4nU5vsFHJNqF4tJk+uPP5OqbuAuTsAgyLJzOwJr7hZhpjH+nFJCK1n0yEK0RDfJ7SxanB/R8iL5H70TmF9hmbbVcCO2+JFKk2u5GYj2exzHHBXgI19wjAE+deyJYJR+tm/N1yLK+UvcrFipPiAJrTQAaTlZqRpfjxMr0rBovlgP1cwcslkjt19QSpltUdXtT+FEMlRkOikw==;JlK+EiQcXJO5OExobLgN8A=="
 ---

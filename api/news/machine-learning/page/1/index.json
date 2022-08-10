@@ -260,7 +260,7 @@
       "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -809,18 +809,18 @@
     {
       "path": "_news/2022-08-02-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
       "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
-      "excerpt": "Scientists from WIMI Hologram Academy of WIMI Hologram Cloud Inc.(NASDAQ: WIMI), discussed in detail the deep learning hardware technology from general-purpose to in-memory computing structure.",
+      "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of deep learning hardware technology based on in-memory computing structure.",
       "sourceUrl": null,
-      "webUrl": "https://www.wtnh.com/business/press-releases/globenewswire/8610314/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/",
-      "originalUrl": "https://www.wtnh.com/business/press-releases/globenewswire/8610314/wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure/",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/www.wtnh.com/wp-content/uploads/sites/100/2022/08/Thumbnail-7.jpg?w=2000&#038;ssl=1",
-          "width": 800,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
           "height": 450,
           "title": null,
           "attribution": null,
@@ -831,11 +831,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T05:49:00-07:00",
+      "publishedDateTime": "2022-08-02T05:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

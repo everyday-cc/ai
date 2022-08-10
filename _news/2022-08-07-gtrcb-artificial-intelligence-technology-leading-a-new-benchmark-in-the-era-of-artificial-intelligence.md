@@ -59,6 +59,15 @@ related:
       name: Mumbrella
       domain: mumbrella.com.au
     quality: 36
+  - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
+    excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
+    publishedDateTime: 2022-08-10T05:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2022/08/10/innovation-economy-requires-real-estate.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "How financial services operators are dialling up conversational AI to catch out fraudsters"
     excerpt: "Organisations are using new AI technology to analyse the voices of those posing as customers in real time while reducing false positives"
     publishedDateTime: 2022-08-05T14:40:00Z

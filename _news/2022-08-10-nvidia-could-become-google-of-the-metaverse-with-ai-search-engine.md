@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/08/09/nvidia-could-become-google-of-
 webUrl: "https://www.datanami.com/2022/08/09/nvidia-could-become-google-of-the-metaverse-with-ai-search-engine/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 800
     height: 464
     isCached: true
-
-related:
-  - title: "Ethics in The Metaverse: Why Data Concerns Needs to be Resolved Now, Not Later"
-    excerpt: "Most of the ethical concerns are issues we have been experiencing in our non-digital life, such as privacy, social-economic inequalities, accessibility, identity control, freedom of creative expression,"
-    publishedDateTime: 2022-08-05T12:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/ethics-in-the-metaverse%3A-why-data-concerns-needs-to-be-resolved-now-not-later"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
 
 secured: "EYgBL18ti5zwwDtrsMoSBfIuySuA0bnH9pQng/JxxoOnVkK19xrbj7l3cWjwlaXr4XUIuse+3NvmrimShJ+M6WfWjhdS2QGgVmLXTspYCcFLUjXoU0X+pRbuOTieOtK7DWukiJcfeKvopqCnsMi9WcncYgmk5TwaUIUpJOL27sBFUwd0nzTEWuMYxkU6Dxf7CRemiaTHaFarWS6lX7mR/YoX3igdUiLqe5VevtSXsAXNZVul5lLAqiUG/s3SYmQM9dYy/5cSMVOmK9u7jvtnaK++tBRjPWDfIlJ4yoUbjhSPSfk1m13arMRYFTvavQP57UDXbMOYcsvNrpdxULDxm0qIaQwSF5mFtGEXY5orVHI=;6NqLxenBz/oSSYc9RZ3fhg=="
 ---
