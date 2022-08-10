@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T18:15:00Z
 originalUrl: "https://www.greencarreports.com/news/1136786_ralph-nader-nhtsa-order-removal-of-tesla-full-self-driving"
 webUrl: "https://www.greencarreports.com/news/1136786_ralph-nader-nhtsa-order-removal-of-tesla-full-self-driving"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Green Car Reports

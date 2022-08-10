@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
+      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
+      "excerpt": "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-on-a-mission-to-eliminate-135-million-road-crash-deaths-using-ai-and-robotic-technologies.md",
+      "title": "On a mission to eliminate 1.35 million road crash deaths using AI and robotic technologies",
+      "excerpt": "Researchers at Lero, Lero, the Science Foundation Ireland Research Centre for Software, are teaming up with automotive perception company Provizio to",
+      "sourceUrl": null,
+      "webUrl": "https://avondhupress.ie/on-a-mission-to-eliminate-1-35-million-road-crash-deaths-using-ai-and-robotic-technologies/",
+      "originalUrl": "https://avondhupress.ie/on-a-mission-to-eliminate-1-35-million-road-crash-deaths-using-ai-and-robotic-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.avondhupress.ie/wp-content/uploads/2022/07/22095444/Lero-AI-cars%4022-07-2022-095048-scaled.jpg",
+          "width": 2560,
+          "height": 1874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "avondhupress.ie",
+        "domain": "avondhupress.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
       "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
       "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ...",
@@ -294,6 +380,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/baidu-unveils-latest-a.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp",
+      "publishedDateTime": "2022-07-21T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
       "title": "Driverless vehicles on course in Chongqing",
       "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
@@ -410,49 +539,6 @@
         "name": "Omaha.com",
         "domain": "omaha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu Unveils Latest Autonomous Electric Vehicle: Apollo RT6",
-      "excerpt": "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "originalUrl": "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1184,74 +1270,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-14T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-baltimore-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Baltimore Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "ThoughtSpot, the Modern Analytics Cloud company will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022 at Johns Hopkins University. The No Cost AI Bootcamp in Baltimore will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-baltimore-selected-as-host-site-artificial-intelligence-bootcamp-/2022/07/14/9639328.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-union-township-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Union Township Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
-      "excerpt": "Elizabethtown Gas will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Union Township will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-union-township-selected-as-host-site-artificial-intelligence-/2022/07/14/9639326.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T14:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

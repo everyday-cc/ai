@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Rackspace Technology, Inc. (RXT) CEO Kevin Jones on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 09, 2022, 05:00 PM ET Company Participants Robert Watson - Vice President."
+    publishedDateTime: 2022-08-10T03:53:00Z
+    webUrl: "https://seekingalpha.com/article/4532339-rackspace-technology-inc-rxt-ceo-kevin-jones-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "86cBrs8ubrm4XZvvIYx4Hjz+poHtCBNvPwP4oAYpWJ07Dt+FFqFrMCR3+HQjA6b9S4TMkfGwQxQe0bexp5vn1uIZV23fT/8hHg1EpvS0ECBhDJXqiDXfwODY7lIocHyv1i1sxvSDhPGdCvgsZ/dfgJzuVbl8F4opOlaL+KjSo37zBzfP7j3lNHUegk54K6CTyJ93UvO42SVyDpjwEJPqApRSto2c167tum0YyWs0B+5fxOvfCS/AHLIuD+WUTqrEcGUiCeUCUs2pibcs90duByE9CNjHcADD/o+gTiXSRdFE6ClU9tHKQiH7YeTZ1r2vYsHJk8k7eZlC0MqxNeT3PJycG9iUaf8fiyZwhDsrQNk=;SyHtBxWuxIe3ZAkCN9bMTg=="
 ---

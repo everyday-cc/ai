@@ -1,23 +1,94 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice 'nucleation,"
-publishedDateTime: 2022-08-08T22:43:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220808162234.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162234.htm"
+excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+publishedDateTime: 2022-08-08T19:00:00Z
+originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-secured: "QTo+0J3OSnEPz7xa/8iv5msIEt12ymQ+559r0kG6Ao0JSC5b1hagTt3TghOFS9Rl9LZdJkO4FMnqrEBcD3b4FQxeJoYkPUgyz0RO2aDZBpnugDxh4/ZlqDpHhHo+Gp9ps/5+nYJDDVqo+8XQOkJ9loFP7AZLU6k685W7u2yA2oQz6wlYhKsfePSjLfQy8+6qPxr6zv2Gq6nNOL3Xji6hvMiHYGNfkaYc20q0TYy1bF5OKMBH25o5K45uaey9+gi32e7vgwDP1SY4bNfvbwfCbkwkzU1ybwWM1738aAMyLwKeumtgQh5pwVS74wqJi4oPAexAP7JLybYUuJTcOz6MP3izJFkzFlY6B2TU/8OWn/M=;6wEPohDnyQcDDnR2bLD/Lw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+    width: 2560
+    height: 1440
+    isCached: true
+
+related:
+  - title: "From AI to voice search, how new-age innovations are defining the future of digital marketing"
+    excerpt: "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,"
+    publishedDateTime: 2022-08-08T04:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 63
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png"
+        width: 434
+        height: 474
+        isCached: true
+  - title: "Three digital marketing tools that use machine learning"
+    excerpt: "One big challenge most companies face when selecting the right software is determining the right tool depending on their existing workflow."
+    publishedDateTime: 2022-08-10T20:39:00Z
+    webUrl: "https://knowtechie.com/three-digital-marketing-tools-that-use-machine-learning/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 56
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/06/google-incognito-mode-main-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Using Artificial Intelligence to Control Digital Manufacturing"
+    excerpt: "Scientists and engineers are constantly developing new materials with unique properties that can be used for 3D printing, but figuring out how to print with these materials can be a complex, costly conundrum."
+    publishedDateTime: 2022-08-10T11:25:00Z
+    webUrl: "https://www.printedelectronicsworld.com/articles/27361/using-artificial-intelligence-to-control-digital-manufacturing"
+    type: article
+    provider:
+      name: printedelectronicsworld.com
+      domain: printedelectronicsworld.com
+    quality: 39
+    images:
+      - url: "https://idtxs3.imgix.net/si/40000/A0/A1.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
+    excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
+    publishedDateTime: 2022-08-10T05:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2022/08/10/innovation-economy-requires-real-estate.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
+  - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
+    excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
+    publishedDateTime: 2022-08-07T13:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-7-gtrcb-artificial-intelligence-technology-leading-a-new-benchmark-in-the-era-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+
+secured: "7VjnUmUw44FxHn6Re+cDgFWrgrtqUqbsX/WmvRGx3Mdvmul8mL5roKnxN6YLLIRWslysmapMxPqaY5yNPDiCNgTvrAAKDwrTG54AlZM0Dd4w1kwWKR2RsEFrWS+WxboZ8Bsj6QLRStHxbuhg8AbXXJuK5zEZdxfKEAsT3Fg6z1E2rySdlOaQdvqrKewP9F6kGP6tB9If2Y9qd0xlW5LvjbIWNa43OFoR6+Suiu0QMuLlS7Z4sxFZPjsgOCPVG5b1PXbcuqpXc0SB/QeMkovSDL2XAN7SKUtLD9pjYElhD2YzorXrqndmPl+yAJmKLo3Q1elkEdOUmAONmkfEYxsOMHBaPcrUmHJ2XnaMgAQxevo=;AF6B2hKmkAUkvc3v3Q7m0g=="
 ---
 

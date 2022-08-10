@@ -7,7 +7,7 @@ originalUrl: "https://www.princeton.edu/news/2022/08/09/how-water-turns-ice-quan
 webUrl: "https://www.princeton.edu/news/2022/08/09/how-water-turns-ice-quantum-accuracy"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice 'nucleation,"
-    publishedDateTime: 2022-08-08T22:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162234.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
 
 secured: "HIxVhDlifg1K5O5zVPB5ND9VHBvHUHFHaD0mdtRNmeU+mKlvRNChRntv/Pt6p3mR41mTWblSBCMTtreHOLoDEDMDVpE/s7eb90bfh7OmS70EbUY1uLuBdRm6FbYYS+pef5/iEFSRVo/nGcLlUq5MZLd9u34KvE7wO06dbm4nG75G2UKVFOmWSbmoh+3CbNwB8QEa8igp7bEBF7HqgF9zKpiBhdJTxmoonDXP4GnfcKqTZakk+h7cT8DKVZHAXbnOz54tChKKPUVEweJEJDuwd3s+Z6IFDV0z3CjB7aM9WkwVFjI72qqaGSVbRQlYQe/sCgUoOomfNGVHJJZdqwdKIsenJ+9VqApmscovT4E6wwKly98BwDBe46iPWdmkBuDsXmwn6/3bdvZjgf4icyd5/P0hXH6YMWjabWUHEd1ZklWhHP001AXgbBkJG4msnJEU1DjjMt/KmpMO3Boi1gZ6bDZyFKQfVxDAOkJo7p/4idheWI/q7TbTkOsgmhqzyeaHi5NgOAy0ueOfJldNtJkPAQ==;eg4K5vjd4XN7hkE10CAn4A=="
 ---

@@ -2,21 +2,14 @@
 category: news
 title: "Bloomz Provides Equitable School Communication with Language Translation"
 excerpt: "With an app like Bloomz, the concern that families are missing out is cast aside because of its language functionalities. Because Bloomz offers a variety of features which focus on accessibility and fostering equitable communication,"
-publishedDateTime: 2022-08-04T20:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bloomz-provides-equitable-school-communication-with-language-translation-1031652187"
-webUrl: "https://markets.businessinsider.com/news/stocks/bloomz-provides-equitable-school-communication-with-language-translation-1031652187"
+publishedDateTime: 2022-08-04T18:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -28,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "jJk/LGoeqOeL8+gv4yzXYxFkglHyZUFdvDArqO9eIo3GVUB2EqCypyObKUp54NSTzWT3JRyZInPjmPXZad6p4LMq0k/sbvKFKQz93F6q3uTOb9w3eDm2HlezM3pfMxihcvyKfkP0RVJdzR5aBOs553mVI9vUhkw75xjXbENYxIynj2wugrSBkIMO0akS4eNOZKhCb5iwGI79bQPt3seoVs7jnbqZ6oGhPuxDh0qDdq8PbWBDfJkL4tFt7WB6ZA36hAwJr5TLMKexjXzcLp1rS/KBfuTlNZeAdT5Zktu1BbgT/t1kpBPwTwWk/kfGhJoYsijTz98Amflx0GD2bDvBu1O3WRqsXJS3K+BQNCHNGR4=;a+/QUdFUuOUFmyytfTpBXA=="
+secured: "MZxX7TiTcvYXp3m/XvfhaeI6JT5zLq+bOgMWz3kusHT/pl7dwfe0VWMViEWb8rzhnhEsOnyiYrYV8FMkWPG0DIzhMgiqYQHZlaPLCHFxpFR54xPPCP1qXZhMtY2Go11wuUjzmLsPtwzfwDyVQobxpwIgbS1+8hL8rqWLI1m03yey4lKw2BBmFpt44Z91i3BwpFandTpoakjyXPio/xJJMgYeeSR5XqDs9IgucAbmo7N6AiKyX2cou4/XxC7gpBMTiA9bSuIlFyU7lIiEWBCsBTckRkIXJAuG8UHJPygj+GXgZx5HidBa3smlDSA6H3a/7DOt6gZlQm6N39SkcG0wC9CDJ39qT949DjLKuEmCh3A=;GOBNKnzP5RruxGI0ttW5Gg=="
 ---
 

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot arms are replacing shelf stockers in Japan's stores"
+    excerpt: "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
+    publishedDateTime: 2022-08-10T20:38:00Z
+    webUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Robots will restock grocery shelves in hundreds of stores amid labor shortage"
     excerpt: "A robotics company is installing restocking robots in 300 grocery stores in Japan – and the plan is to bring the robots to the US, according to Telexistence, the Tokyo-based company that makes the machines."
     publishedDateTime: 2022-08-10T01:27:00Z

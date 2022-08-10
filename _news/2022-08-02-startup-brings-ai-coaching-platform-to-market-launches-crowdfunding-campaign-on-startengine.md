@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
-publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides ..."
+publishedDateTime: 2022-08-02T16:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "uAvdiMU4tux1rJBlBzCJCJ/heuIF09DEoiMskfXAbo9XgqFMgOrO8FJh5C7dtAec6u7qK2vh6SCWuJ70uK6hL0G559t4MilYfKyva/zmJYebeY+NlEVkVxEEn3CQDzLUpJ3SDOTWklUYNAHeIxcuqNbOXlZO7KgJLCCshxY25LbBVh85terNb56FMZrOcdtX22XMy3aC7Fq7f7QClo1GNhJ43yCgGGzlRnbW/6Cr2ysxBCR7rI9pYa9FM+EeKmNWuN5/O+T9fGl8ckFyEQ/R167FC4zyX9pEh4l/PkaOSTcKN01DQmfcX8aC5AEWjleOrx1uJmTgqD0oeRvgTeDe1ka1MM9JqagIiyXaYlfiUks=;cIXy1thIWJlMPSBOLoxsrw=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/video-gamers-AFP-1K-04-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "H/uedI1BFlJ2lAXZulpzw3xFr9aimX8vGrwSJVuRFWm74Sgr4FgNAcmyEhtbsUVrGwYi2pwBJjuWVMZ8XaArFMdiKiUTQIGUpgFBllnnPo//TaEw/cKgucQ8RisKPbtjfWzZWeJ8SKKm4+Hpt/Pxf9gU09MoLeiZTHPqx+ri2ssCPjCEWMW2taIo/wEyF19lle0EjFkFCYi8pWgKEZfwPXNTV/TDQUhXtYhSuzzz9YWSskFIMvGtkfMnruwERL4pUEcbhnekaZQaCbXlq6/aLGq+UTcty4INvQSupgkenqn/yXF9M5CKFcBNlFD1haCL88NV3pO4LOii3/tgJdKW2+FAhrlNBKPx/xnq0lXeuv0=;9asF8IZrRiOdaC9YvgD44g=="
 ---
 

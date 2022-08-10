@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-26-ico-imposes-75m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted.md",
+      "title": "ICO imposes £7.5m monetary penalty on facial recognition database company and orders UK data to be deleted",
+      "excerpt": "Clearview AI has been hit with a monetary penalty of £7,552,800 for using images of people in the UK and elsewhere collected from the web and social media to create a global online database that could be used for facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
+      "originalUrl": "https://localgovernmentlawyer.co.uk/information-law/398-information-law-news/50601-ico-imposes-7-5m-monetary-penalty-on-facial-recognition-database-company-and-orders-uk-data-to-be-deleted",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local Government Lawyer",
+        "domain": "localgovernmentlawyer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-recognition-of-fear-anger-impaired-in-psychosis-patients.md",
       "title": "Recognition of fear, anger impaired in psychosis patients",
       "excerpt": "Facial anger recognition was significantly associated with the schizophrenia polygenic risk score in a pooled analysis and controlling for confounders. \"Our results indicate a predominantly ...",
@@ -1286,41 +1320,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-facial-recognition-surveillance-is-a-threat-to-civil-liberties.md",
-      "title": "Facial recognition surveillance is a threat to civil liberties",
-      "excerpt": "Facial recognition surveillance is a growing threat to constitutionally protected free speech, privacy, racial justice, and information security. We need strict federal, state, and local laws to ban law enforcement’s use of it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "originalUrl": "https://www.sbsun.com/2022/05/15/facial-recognition-surveillance-is-a-threat-to-civil-liberties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-15T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

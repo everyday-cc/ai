@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
-    excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
-    publishedDateTime: 2022-08-06T04:59:00Z
-    webUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
-    ampWebUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2022/08/06/600x338/TESLA-INDIA-0_1654921278675_1659761858053_1659761858053.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "on5jKmhkeU7dAjatC+1yGdmyWB3Tyli4SJimvRzJ8fdfP4kkMrgp/es0SCrzvqnniHxSPaBryo1grUSo0mgmVDnGXFVTP+Z88gQ4dT+y7YuyUaC7J+qMu1ntlok+nPKbzRBH4JZRU/Jd73kDfzFDe0SYTAKSbxeaprQ0A0R3Z5W6ORhKnJgfIns8JQOUbgKzMF7LmOkIwjyokLEFlPNP4iforWue58NT5RhtVw3SHJroexcFfSnYJ7KAc+9ZLxarMFj81nZz49+QWU8pqmkwDVI5KLhg1qJtDNwLgwV8n3Li5z7RBbdULdI9EWWmUcKPdha2TIyXufBJN9aCNwEuMK32ipcSEjDLb73i/7SAnxbkGPtzjQm/eEgXrdJ9u30vzfqpyyneQMlHu8Y5vrooq3AFq+ji70NFchu3P//6mYvmgeUUVehJ2+IQ9KZirftX1AyXCaPYVYEIMcq7zLPBI2k2rGm9YoppuaqGH/1nArk3+KXjNTXQm6KY469vQNvGWhCN1bu0KuuSRwOtCVZrVg==;Q18z56/ITCPKDxyJsbH0yQ=="
 ---

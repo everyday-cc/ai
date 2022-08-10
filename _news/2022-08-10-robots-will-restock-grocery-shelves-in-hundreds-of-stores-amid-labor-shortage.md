@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/08/09/a-robotics-company-is-hiring-restockin
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/09/a-robotics-company-is-hiring-restocking-robots-in-300-grocery-stores-in-japan/amp/"
 type: article
 quality: 56
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot arms are replacing shelf stockers in Japan's stores"
+    excerpt: "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
+    publishedDateTime: 2022-08-10T20:38:00Z
+    webUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Robot arms are replacing shelf stockers in Japan's convenience stores"
     excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
     publishedDateTime: 2022-08-10T04:29:00Z

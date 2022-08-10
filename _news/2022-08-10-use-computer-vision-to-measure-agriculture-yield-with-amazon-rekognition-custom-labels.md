@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T19:02:12Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/"
 type: article
+quality: 93
+heat: 93
+published: true
 
 provider:
   name: AWS

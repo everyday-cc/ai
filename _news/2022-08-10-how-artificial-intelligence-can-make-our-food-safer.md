@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.
 ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 

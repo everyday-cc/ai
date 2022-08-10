@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T18:07:00Z
 originalUrl: "https://indiaeducationdiary.in/indias-first-ever-artificial-intelligence-powered-health-clinic-zini-launched-in-mattaur-village-of-mohali/"
 webUrl: "https://indiaeducationdiary.in/indias-first-ever-artificial-intelligence-powered-health-clinic-zini-launched-in-mattaur-village-of-mohali/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Education Diary

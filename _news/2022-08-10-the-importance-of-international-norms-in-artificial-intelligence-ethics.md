@@ -8,8 +8,8 @@ webUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-inte
 ampWebUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
 type: article
-quality: 78
-heat: 88
+quality: 80
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Role of AI in the Digital Marketplace"
+    excerpt: "As the global digital footprint continues to grow, privacy and security concerns grow with it. For Crispin Pikes, CEO of Image Analyzer, this could no"
+    publishedDateTime: 2022-08-10T14:14:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/the-role-of-ai-in-the-digital-marketplace/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 37
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2022/08/07.05_Intel_Optimizing-the-Future_43920-1-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Signal AI buys corporate reputation startup Kelp to boost external intelligence platform"
     excerpt: "The self-styled “external intelligence” company Signal Media Ltd., better known as Signal AI, said today it has acquired Kelp Inc., a provider of corporate reputation insights. Signal AI said the acquisition builds on the deep synergies between the two firms and their shared vision to help organizations understand external events that impact on their success."
     publishedDateTime: 2022-08-10T14:37:00Z

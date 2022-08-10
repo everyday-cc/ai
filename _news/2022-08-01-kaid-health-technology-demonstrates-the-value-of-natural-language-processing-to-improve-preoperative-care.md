@@ -1,28 +1,20 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
-publishedDateTime: 2022-08-01T14:01:00Z
-originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
+excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
+publishedDateTime: 2022-08-01T14:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
-
-secured: "ORTdtL0wu8LShUtbD2TwE0C59PYA3+NoUvVIoUwhTivyOB7at4ineX6u6RUIeckVYvdaH0X5Y13ZxAoMF9K+vl/7820yP14pvY/gJWuCR2Ccj0cc85V/mdCLUcySjH8x9OYgTiDDy7cv/TGx7ghygD5ByoFjt0Z+EYDCCq8dNX8f5JSgWXiQ2ZZTgFv9XRSyviY2UdojDLXXQSGsyKC4afng3rBYU7baBNmgi8b/41v11cpSqg3RqcjUzmeYazkAwm/QNK8owydOmyyluMWDv+A6UGMMPsdobAypcc13Ln/2U7gsbC2YrjR44d2yBQ9hDtE+4DBQ5ByXCRhRkF6I1c77cNhE2dzJ6NvYJRLVKpiWsUh4hc42wbIAQo7h6ykN1ltwMAMOlfPKcna9fc6lEqtj7akXv1Iw7j06rej2IIbu5Z6BJCmhXY50PAYUsLB/daDMge9uUfl0ZFD02ezM0zjfbM6FxVhetekTUZVQ1YAgw+53N8kML6YP+iH+jYb3tes+DMXSEsFnMEpfFYe6WQ==;Ax4yHW8+80u55hgUz4dFbg=="
+secured: "I3WfRRdJwbD246k5rgO9vjSQ2GRQ7RL31rtBflk8K46X4lr8Q2IDT7rESyImpiy7ZphOqEaBdwZz09fW3mt8xNfH8TDCsPyZpKpQAgdzncMDT4xB63SEjJh5qGQEdCNi2UwYc9dSTr70Bh/tWk64JmtRoArg4yC1in/x9JdqzYZ5JX0EQNu/95TE0InnZmGPRAtkWD05Lf9XHTRgdeQVGmPnsinzz49HgrEyJzStpEIBZqGCwGWJrs5A3+X9xYuLMdkJ1VD3trVQDw0WktaxvYasI+fzLiA6fh6nM24iKP6EMme6m1yLdhGyAlcoLuwpmrOSWw4jupxcmstfaTzM4RHPy+SkpXx1VecG5DUXSoc=;9frjTb5CVLoluPrIb8w8TA=="
 ---
 

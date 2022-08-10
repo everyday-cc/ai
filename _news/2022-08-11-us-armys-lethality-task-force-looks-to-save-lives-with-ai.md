@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T19:05:00Z
 originalUrl: "https://www.defensenews.com/2022/08/10/us-army-lethality-task-force-looks-to-ai-to-decrease-casualties/"
 webUrl: "https://www.defensenews.com/2022/08/10/us-army-lethality-task-force-looks-to-ai-to-decrease-casualties/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Defense News

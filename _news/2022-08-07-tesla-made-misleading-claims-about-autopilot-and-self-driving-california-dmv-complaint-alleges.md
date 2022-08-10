@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/tesla-california-dmv-complaint-self-driving-aut
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/tesla-california-dmv-complaint-self-driving-autopilot-cars/12105978/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 57
-  - title: "Tesla falsely advertised Autopilot, Full Self-Driving features: California DMV"
-    excerpt: "In complaints filed with the state Office of Administrative Hearings, the California state transportation regulator alleged Tesla misled prospective customers with advertising that overstated how well its advanced driver assistance systems (ADAS) worked."
-    publishedDateTime: 2022-08-06T04:59:00Z
-    webUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv-11659761541549.html"
-    ampWebUrl: "https://www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/tesla-falsely-advertised-autopilot-full-self-driving-features-california-dmv/amp-11659761541549.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2022/08/06/600x338/TESLA-INDIA-0_1654921278675_1659761858053_1659761858053.JPG"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "lmOa54PPvAYvoLzOvk0P3b2dln7MUyr27StoLTsZgyUSa7UGd579Ee/f79euMAawUm/gFf4QteFfAniiKwbcPHrXYjY6iobJeHbuD0Wj9GaUtxLDdYczVRD4Upg6tcNRJNlI3MdQ6hda5Zm4pFRsKhO1f3W4eeg1mvBRMnFcK5hK4uYVTnJPMQKaC/cGKlXtR/FksUtUm5+05ni+S5csqmMmvqHqX6SjgCMlZ7pmOi3u04GIGtBSATxP9d65mPr4eGinVTqhQIdpbubUWy6czSF1DaVYW7Cux9I/lEhf+rZ5gpXm5o6xgO8M2ZOQKBU0U+w/O/r/pZqsFMSm5E/nENA6mvfSeQLTYcw/xS6WRQThqatMCFiBV+qYAYzJ4E9hVCtNYP0omivwWqSAKAPN/IqTQcHKQrJoU27E1taMh66RZE5ZLI/3DwClQYdoljF2do8wJrFGhY2m/xfTa1wS18SFBZKqIZUVOydlEMg9w/gJzOpqcTMU99N08+P2agKDmuqBy/WjOCIOD28EUQkkLw==;Cj5fA8VimyYG95MwgqhMPw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T18:52:00Z
 originalUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-meta-combatting-apple-data-limits-ad-targeting-automation-and-ai/2425946"
 webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-meta-combatting-apple-data-limits-ad-targeting-automation-and-ai/2425946"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Ad Age

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T19:11:00Z
 originalUrl: "https://current.org/2022/08/intelligence-squared-debates-expands-to-deliver-weekly-episodes/"
 webUrl: "https://current.org/2022/08/intelligence-squared-debates-expands-to-deliver-weekly-episodes/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Current

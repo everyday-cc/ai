@@ -2,6 +2,213 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
+      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
+      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
+      "sourceUrl": null,
+      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "width": 749,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization.md",
+      "title": "NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization",
+      "excerpt": "Deep neural networks (DNNs) have advanced the state-of-the-art on tasks ranging from image classification to language processing and gameplay. But as models have become deeper and more complex, understanding their behaviours has become more challenging.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "originalUrl": "https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-watch-ai-objectives-increasingly-involve-marketing.md",
+      "title": "WATCH: AI objectives increasingly involve marketing",
+      "excerpt": "Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence (AI). Marketing’s core activities are understanding customer needs, matching them to products and services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "originalUrl": "https://www.businesslive.co.za/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/tSMl4zFEp3h4YUwB7nlte-8DPk1bI0ZTY9j96GC1ooO2MyFMThSXt85Yp8e0xRbLqP6_1G_YGSCsfhja6sSPMuWm291T4PrSyLwgKrtR67oG-w=s750",
+          "width": 750,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-07-06-watch-ai-objectives-increasingly-involve-marketing/",
+      "publishedDateTime": "2022-07-06T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-covid-19-showed-financial-institutions-fast-change-is-possible.md",
+      "title": "Covid-19 Showed Financial Institutions Fast Change Is Possible",
+      "excerpt": "Covid moved financial services forward very rapidly, and showed that with cloud, it could handle tech change much faster than it had thought",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
+      "originalUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c46ff4003fab3b8723031f/0x0.jpg?format=jpg&width=1200",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2022/07/06/covid-19-showed-financial-institutions-fast-change-is-possible/amp/",
+      "publishedDateTime": "2022-07-06T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databandai-acquisition.md",
+      "title": "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition",
+      "excerpt": "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
+      "originalUrl": "https://www.asiaone.com/business/ibm-aims-capture-growing-market-opportunity-data-observability-databandai-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
       "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
       "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
@@ -939,231 +1146,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-mashgin-taps-computer-vision-to-improve-checkout-experience.md",
-      "title": "Mashgin taps computer vision to improve checkout experience",
-      "excerpt": "With its computer vision-powered self-checkouts, Mashgin wants to drive the future of the checkout experience at stadiums and grocery stores.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "originalUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Mashgin-kiosk-e1656953769657.png?fit=800%2C482&strip=all",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
-      "publishedDateTime": "2022-07-05T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
-      "title": "How to quickly deploy TinyML on MCUs",
-      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
-          "width": 470,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
-      "title": "Designing next generation analog chipsets for AI applications",
-      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
-          "width": 1000,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "publishedDateTime": "2022-07-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-bumrungrad-international-hospital-southeast-asias-largest-hospital-to-deploy-lunits-ai-cancer-screening-system.md",
-      "title": "Bumrungrad International Hospital, Southeast Asia’s Largest Hospital to Deploy Lunit’s AI Cancer Screening System",
-      "excerpt": "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 5, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031.md",
-      "title": "Artificial Intelligence in Robotics Market is Set to Experience a Significant Growth of 28% CAGR from 2022 To 2031",
-      "excerpt": "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period (2022 – 2031). Artificial intelligence (AI) and robotics prove to be a powerful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

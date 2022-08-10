@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-se
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
 type: article
 quality: 63
-heat: 83
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,50 @@ images:
     isCached: true
 
 related:
+  - title: "Three digital marketing tools that use machine learning"
+    excerpt: "One big challenge most companies face when selecting the right software is determining the right tool depending on their existing workflow."
+    publishedDateTime: 2022-08-10T20:39:00Z
+    webUrl: "https://knowtechie.com/three-digital-marketing-tools-that-use-machine-learning/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 56
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2020/06/google-incognito-mode-main-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
+    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+    publishedDateTime: 2022-08-08T19:00:00Z
+    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Using Artificial Intelligence to Control Digital Manufacturing"
+    excerpt: "Scientists and engineers are constantly developing new materials with unique properties that can be used for 3D printing, but figuring out how to print with these materials can be a complex, costly conundrum."
+    publishedDateTime: 2022-08-10T11:25:00Z
+    webUrl: "https://www.printedelectronicsworld.com/articles/27361/using-artificial-intelligence-to-control-digital-manufacturing"
+    type: article
+    provider:
+      name: printedelectronicsworld.com
+      domain: printedelectronicsworld.com
+    quality: 39
+    images:
+      - url: "https://idtxs3.imgix.net/si/40000/A0/A1.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
     excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
     publishedDateTime: 2022-08-10T05:00:00Z

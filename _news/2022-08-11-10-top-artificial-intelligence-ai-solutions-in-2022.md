@@ -5,7 +5,12 @@ excerpt: "As AI-powered technologies continue to advance and more organizations 
 publishedDateTime: 2022-08-10T18:40:00Z
 originalUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/"
 webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/"
+ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
 type: article
+quality: 108
+heat: 108
+published: true
 
 provider:
   name: VentureBeat
@@ -18,7 +23,15 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
+  - AI in Healthcare
 
-secured: "vh7YottoHdQ3VKI4DhZ9V5JXZppl28k/cflwLW6CORTT0Ber51sDfwqqlDDDcacEZG18pBL8OgaVUNhmVJou9bFghzCQ08Hg1Z17qyhruO9s9RMDUn1JpGEaAZrrBxAVWuNaTopol3nW5Td6DmdwU+rvuurFebpyU6QAnDDetRw9kaI1SEb3KpLTEx7gyhtlNNIGR5qyPqsRJZaLCKD0jDRTwS77MY8de7GLST9VtZdGuyMxeyZvxEqB4+m6OjDLgwFdYFbL1LgEu+zZI8e9fHMTUSLJ+NRJBr+cl1oxzll8xYdqzSzvfucC16o75U1FeKOw9r6TuiVvxDqiTibu41qZEB0jNb5i+tuPGw4FZ54qgbvFXryutDywgNJqzxeR1Mu90zhm+5jhdT0LedhXZgc9FDP6TdjFnPnbcRJQ0iovh6VnFCwZUnuL+uU7FsT1oOh5qgNCgGUFhWKS7e3J0xIYnku0vrZR3uXg69vHMNBPQ7slNPfvmvi8uUcyeOT3rpJOAOzHS4HiFfjgSx8u8w==;Wt6Q/enIVmh8aNWSHZI9HQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all"
+    width: 1200
+    height: 611
+    isCached: true
+
+secured: "ykEvTGfgyKvEinfUjJ3HaLOVOA5sx79Ju5XyscWo+lL1rVn9OJtH9TzQAhcPWxB3zr08EGdJxJb3igEM2Tf2I/G6FEW4oVoZnuLhPkxWsczjGTk9UavobQNDvG7TMgstXJ4EddZG+Wc5X4ju878/82nJzV3YyRtDMQQvYzcJNcmx/A1Qnh96mBsLUJCIcXnUvWtq0Q2O9f0HIfmF6+F5E/RzxrG4V7lO94Q1UaITgb1qfUnyPjgtBSgYWh6XGnT917Kk+NRfKq/LR+9M/XMDy41kNq4indYA6Mqc/JayR2iNl+qWjWgMZK6RsQhA2rsKgHkdkn7vd3cUiTYwW1DAgs0D1wew2KEf8VcMPdGPhWQ=;6pxKrmIAnZxm5M3eTtwYDA=="
 ---
 

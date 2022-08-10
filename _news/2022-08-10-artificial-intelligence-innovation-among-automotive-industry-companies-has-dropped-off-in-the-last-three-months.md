@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-09T17:00:00Z
-originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-10T09:30:00Z
+originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
 quality: 19
 heat: -1
@@ -15,7 +15,6 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Autos
   - AI
   - AI in Healthcare
 
@@ -55,6 +54,6 @@ related:
         height: 778
         isCached: true
 
-secured: "8BVpw8jt5xmH87s/Oo1HdsSbKM689xhttwn3VKx1ydPyc3rdVsOxMzsx86SvY+uBt4vNoi/seg5qPk8cyUo3vWMyju3WNXhgxsS5FPVwRkSG+aHoqtEnhKCcl3Jq3MC+PoIZZrSKsyP+LdWa5ZHwsUivQk2R5w3LyiG4Iz4k3ILb96VLJREQjlzlWfodAHC1ahlWKrgFL/LNXCTmaZFXF3WyTt7vXHBS2BNAOb0HG96ZzrCy+Ah3+lWgKY1nUwaDA9hQnTpQqLHZBmrMb67G7c9XMDA4+ZmY5/W6n5uRe1kw+D8XIrp+yABF+XQveuINj50KkjyPS07U27SzLIvODtYprs/k3Dx2R0HH3wqPJd46NYI9NWr2mVukOe1yhSMTNL1qfI8ZJJmEsna9tv8X5lbrvYgwty/Mu9hDdXHwjO2OrDWa6IRa70nQj45gP8oUYsN6EcZ/pjBlBeOC5fruwOutfWlULQ1ZXx3YhtzCDWD3Mt+X9bNyLEZWR92j3R2LjQwYButOujqcHTOCrxNIRw==;Ll8/nIhswRYhN6XXeQFd0w=="
+secured: "kxPmC79sHus+MRxuCuaCxo8ApIs0mlenFrDhwC42EXptPkEFiEWIhAOPrvjPj43n8pkweUTFOWR9GCGDwj4IotMc7s+5FQltc3I4sDwxk4KzYufqZnJbko455o/xrUKcEHqVXoi+nv5xZztfRDroghb1RdntoBbRu5UMc47MIAdIBLB/fnl/Otwhxusyt/AP+AFBcv5rOdTg3bJf2Dr7dcQdfelgLQk5jrQjd1aP9aB8BwNEO3q3rmbV6h8jHNDc5UtvYvQqYZkptKx0VxOzplUkFOw4hhDgic8EJ7+0GmrCPQ0aadh0EIiW5Z/ZCbBbKYLLp6fxypWLqAuFHzlvWebsK3u3kTede02gEV3Y080=;V2zqTZxK5HPyKqOQuqvGiQ=="
 ---
 

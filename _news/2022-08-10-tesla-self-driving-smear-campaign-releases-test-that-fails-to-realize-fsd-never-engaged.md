@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 275
+heat: 255
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/4954d0695db303430f030fc0f4480c1a4dadedad/2021/08/27/d458a3d5-531c-488d-aca5-5c4f1afcab61/2021-tesla-model-y-03.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
-    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
-    publishedDateTime: 2022-08-08T14:28:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 82
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
-        width: 1024
-        height: 766
         isCached: true
   - title: "California DMV Goes After Tesla Over Self-Driving Claims"
     excerpt: "The agency alleges the electric carmaker misled customers with advertising language on its website describing Autopilot and Full Self-Driving technologies as more capable than they actually are."
@@ -205,20 +189,15 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Tesla accused of false autopilot, full self-driving advertising"
-    excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
-    publishedDateTime: 2022-08-06T01:49:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/tesla-accused-of-false-autopilot-full-self-driving-advertising"
+  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
+    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
+    publishedDateTime: 2022-08-08T14:28:00Z
+    webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/06/md_teslacars_06082022.jpg?VersionId=tgpFuCpThcHRY13JcDe91jGOgh3blOTu"
-        width: 860
-        height: 573
-        isCached: true
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 42
   - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
     excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
     publishedDateTime: 2022-08-08T16:28:00Z
@@ -271,15 +250,6 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 25
-  - title: "Tesla accused of falsely advertising self-driving features"
-    excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T02:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "eH6g3XJC+9TgRP4lX4r+/L5gMHjHio1e0utD5AohpBJNf5em/ib7jfQ0PNgK6uFgxySLqlwjHs2ghWQMgEWc65MptbTOm0aP53oUMuRFpJ0N05/zeJgBNlMuV/I5IUcWj61FKZxCJ1nYyHpsnV8R4Ipkf83KuWpUJQKsZwx0+WYc6qZGzfU2tiy4wyPco6WjC5+3dhsZmB4O6oRhjQhV052UniHc2L6tSueQj7Fhkgp49ZoZ3FknP/3Vl0FXNpmKy8x0iVS7uwOdqyuUNfmiXhTzAR0t2EGTx7WFP6pN8ucmA0Hrrno07Mdl1mu4kr6Ay+cT6dv7cGGyVk71jZu+JvCaRUh1HW0n1oLUYkvII4TnZr+5r1O+jEOXWuaUAQwjgOvLI4h/Eu3Zet0Vsk40xIZ2v5K0V7GHpnebcTw8xjmBLuhGkM95kiEyrqABC0+LxRIPG8aXxvXIy3taAO0m79mnwZXFxEQ9/tvQqB8mOhk1LRil2NspxEib7yQF0fFePiy2NdbGf8BXJ7vBoVLeag==;rmPBwJsvMrrHT73DpcZlZg=="
 ---

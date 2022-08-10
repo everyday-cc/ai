@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T17:04:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28438905/melax-tech-receives-niaid-award-to-develop-real-time-surveillance-of-vaccine-misinformation-from-s"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28438905/melax-tech-receives-niaid-award-to-develop-real-time-surveillance-of-vaccine-misinformation-from-s"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

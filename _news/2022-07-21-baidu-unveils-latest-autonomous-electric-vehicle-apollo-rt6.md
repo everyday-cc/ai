@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Baidu Unveils Latest Autonomous Electric Vehicle: Apollo RT6"
-excerpt: "HONG KONG (AP) — Baidu, a Chinese search engine and artificial intelligence firm ... Alphabet’s Waymo began offering driverless taxi services in Phoenix, Arizona in 2020."
-publishedDateTime: 2022-07-21T03:58:00Z
-originalUrl: "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
-webUrl: "https://www.usnews.com/news/business/articles/2022-07-20/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6"
+title: "Baidu unveils latest autonomous electric vehicle: Apollo RT6"
+excerpt: "Baidu, a Chinese search engine and artificial intelligence firm, unveiled its latest electric autonomous driving vehicle on Thursday."
+publishedDateTime: 2022-07-21T07:33:00Z
+originalUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
+webUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.html"
+ampWebUrl: "https://techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-baidu-unveils-latest-autonomous-electric.amp"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "//ILjQba1V+sqAxKEF4asMhlS4TXJyZdQr2efw0algtxbOPXGgq+P7Jers9wMxEOVag5EmXDVq1mxAcbeeFgn/YP6WsDbox4eX8NljBGXH7kps0W07vPtbEs3dLxLwIxtXQnI41No2XV6+GqIT82lyqIYljqBLUS5LZ3GBvMaTfBqQmDR1lgg8XN2Z9euiddBtGO0xgUS/tzzCvH58kh0leMN/3tpfjsUVBye6r+ci8/XhS5nMI53QP5vDe7LPbdMzkt8jcNJlLdWDTBKjy3VkYhbFtS9fG/8goY/6GLjHkjnmyEUbnZfZAOFtY6CQssVQazdlfk1KMHatjOoePU4DL/D/S82Xi3k73JnmCDhOo=;/J+cda+Ad1RvKRS/pmESdg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/baidu-unveils-latest-a.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
+secured: "cOkYc328R+l+Z6smfdJGPhIrgZ4FAM37ffLNbNdCoekEDLW3lKlkmUMCZN1tmLLPpJTx7mj8rMD4TTnyAV38bQpuJFfANbu4r6SXgjKAAfhVyh42sKP02cPTjwo555tUK7FmMB18Q+2SWdvyajdZvxf3R4hwFqG76EjLjdvzdm3tM72+1w1bhVFF61ZxJTh1tAnPQvPDtE33YgkOybdkYA4d6zwfNbWHm03SxBRmkiyiMncYBZm/9fCrPT4zRTAo9WzqnDAHn50RwjThGBA+AiRIJTAplMC2Fkb61xp8RpT6aCJNX1cSbUOS/Ir9nZIezdW9rj6c6fybqcUekV00WJOBfTJ/L2DApdMeWT3OllU=;r97VKYImdmhR4t6w2eVrdA=="
 ---
 

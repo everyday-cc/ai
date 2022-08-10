@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
-    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
-    publishedDateTime: 2022-08-08T14:28:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 82
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
-        width: 1024
-        height: 766
-        isCached: true
   - title: "California DMV Goes After Tesla Over Self-Driving Claims"
     excerpt: "The agency alleges the electric carmaker misled customers with advertising language on its website describing Autopilot and Full Self-Driving technologies as more capable than they actually are."
     publishedDateTime: 2022-08-09T00:17:00Z
@@ -201,20 +185,15 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Tesla accused of false autopilot, full self-driving advertising"
-    excerpt: "Autopilot and the promise of fully self-driving vehicles are a big part of the Austin, Texas-based company's lofty valuation. But regulators have raised questions about the capabilities of those features."
-    publishedDateTime: 2022-08-06T01:49:00Z
-    webUrl: "https://www.straitstimes.com/world/united-states/tesla-accused-of-false-autopilot-full-self-driving-advertising"
+  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
+    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
+    publishedDateTime: 2022-08-08T14:28:00Z
+    webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/06/md_teslacars_06082022.jpg?VersionId=tgpFuCpThcHRY13JcDe91jGOgh3blOTu"
-        width: 860
-        height: 573
-        isCached: true
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 42
   - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
     excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
     publishedDateTime: 2022-08-08T16:28:00Z
@@ -267,15 +246,6 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 25
-  - title: "Tesla accused of falsely advertising self-driving features"
-    excerpt: "WASHINGTON: Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its autopilot and full self-driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T02:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/08/06/tesla-accused-of-falsely-advertising-self-driving-features/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "fzXaQZTOPO9sBfs8GtSRs3fgxGeda2e+V0q76mi0ykXslKmnchtM9Bp/e4hruyWGjGv5ffsviEa7TE6XVISClSFLz8FCXmfYZBDTxWdu5Bv8zyDwUFnPQoKP5RcFcmwu/Rf1NZEcAUqi+lwDlyapiwqA5XJcfBgvfz/icaogiTgKilFq4rsEOUHu7LqirBJnpIofgQlLqj2iP9bgR/TdCQhOBQdBzVlyu3iVcDnY0swo7AolYtzl5utHTUY19Zz/WUvawkWtMBJ7S/LtTQvuuyH4LirOpTg9ZTn3iRyD2V0dhDEIxUZnGGAibvqP16lh89UPMD9fuL0dqrt3t+g+jEbKCqFGHuOYckCV5fno3ATdT0zo4s0bk07v6rpWE8t77X0hLOHwg1f4tXIE6hrgmFQlCNYw4xnYu1rd0HHcx8SLqb7z0M7k72cRE/Xphsxbek77gww0JYa12VSMf7jsihgr9kUwroRCjKLg2FPBdROi9WVBPuv8Ql/JquNFyjwSOF0k/hXCcQYnoFEal4h10w==;Cgs1W7XR58HBkDjSUNOd/w=="
 ---

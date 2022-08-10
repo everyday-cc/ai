@@ -61,20 +61,6 @@ related:
         width: 959
         height: 538
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-08-06T01:31:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-31"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"
     publishedDateTime: 2022-08-09T13:34:00Z

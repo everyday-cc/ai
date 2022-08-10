@@ -102,21 +102,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Meta research labs bring latest AI state-of-the-art chatbot on web"
-    excerpt: "Meta's AI research labs have reportedly created a new state-of-the-art chatbot and the tech giant is letting members of the public talk to the system to collect feedback on its capabilities."
-    publishedDateTime: 2022-08-06T03:56:00Z
-    webUrl: "https://www.business-standard.com/article/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-research-labs-bring-latest-ai-state-of-the-art-chatbot-on-web-122080600131_1.html"
+  - title: "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies"
+    excerpt: "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock."
+    publishedDateTime: 2022-08-10T18:20:00Z
+    webUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/"
+    ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
+      name: New York Post
+      domain: nypost.com
+    quality: 56
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/25/full/1650910571-1674.jpg"
-        width: 620
-        height: 464
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
@@ -191,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta's AI chatbot has some election-denying, antisemitic bugs to work out after the company asked users to help train it"
+    excerpt: "Meta's new Blenderbot AI learns from users interacting with it, causing the chatbot to repeat election-denying claims, antisemitic tropes, and conspiracy theories."
+    publishedDateTime: 2022-08-07T23:46:00Z
+    webUrl: "https://www.businessinsider.com/meta-ai-chatbot-blenderbot-election-denying-antisemitic-bugs-artificial-intellignce-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
   - title: "Meta’s new AI chatbot thinks Trump is still US president"
     excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
     publishedDateTime: 2022-08-09T12:10:00Z

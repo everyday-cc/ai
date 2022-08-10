@@ -35,11 +35,25 @@ related:
     provider:
       name: Cfr.org
       domain: cfr.org
-    quality: 78
+    quality: 80
     images:
       - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "The Role of AI in the Digital Marketplace"
+    excerpt: "As the global digital footprint continues to grow, privacy and security concerns grow with it. For Crispin Pikes, CEO of Image Analyzer, this could no"
+    publishedDateTime: 2022-08-10T14:14:00Z
+    webUrl: "https://marketscale.com/industries/software-and-technology/the-role-of-ai-in-the-digital-marketplace/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 37
+    images:
+      - url: "https://marketscale.com/wp-content/uploads/2022/08/07.05_Intel_Optimizing-the-Future_43920-1-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "nbvBZdIXsUSJ8VjX/Js2PvzcYJhunjdPCJIFleHNaljVrS5tqB9GoNTEw9PzJj9rg8FibpidwCabodnlPc1vbZQMN23q75Kh7TfH09nmZzlzc/SelKDDTDLkdcGFqKcNKgi5bMt5qTdYaDBkkTYsHS+5u2vqqIM43V/xugIA5Uc1jVKjHu+WXrkRZXLO8kIHrnJ2l1kUoPpnOKovKiG6SDzsfqyiyA5zpHbfRUQ9wQlaCvG60a1ii30NNG8ltW51tf0qyVUSVIhoWhGg0BQ2gUxxmq1l4Wc0ucDvCLpo9uj21RXLNeyK07UDAiVPY288K8aOxZrq+XOu60X8RD2KWgxyrbvYlDzHVBPiS2LRQUEiEz7wFzlvvDP105OBToHSkhsT1HGubISNXW9LumIHOjQUN4s8b1XnPX9unnuYrK27WTWrQF6DlclHs3dGTeJ3d6SZWQC5pTF2TMXVvhpR63HvEwXKdPLiTJI4AJ5o6IFXAexwkUzhDfR9FUR9av1lSofFK0+re4WAcUCTTE0oJg==;rUQkVHpdoD9hqXCYotM5nA=="
