@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lexmachina"
   url: "https://twitter.com/lexmachina"
-  followers: 5276
+  followers: 5275
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6Hg_SXrumV4"
 
-secured: "0G3x75mZwyWNHZ2QFgZTYueI2qXxajiCr6cPD8WELl3y9GbhiXP6KlwfW9h7uDykruGR60nfPNM+h2WLSTCJ19GxmHAt3dwmEvCgII/iLXGrIJ2lMwPB4ZSINzx3pO5nAIocEbCgS1Sq4mFf6n5vVALP0/0rCoXV2kIaxpAkzbOtcIy3tiOu7ePzS26feUSUc6RUOGg9uWCbpRsOfiF4EKFNYL9ddrcULqVb1Ifv7iJxJzLvO1l7hcapeq43ojvFLlaWrDZTrtwILqAF7bA8mF4RKfxDsQJLNw+0IdBhRQvoppGR5yFGsCQiJFA3rMR2QPzCGLfCrEppmbEI8c5iBRFrzRCbguJ95Alz3aYUYrhzF6Xgu6nMsm92jyl1kJ1Sq2i/Kv/4bFhjiHKLSBC6kvrnigRVAsr4qrCs9c3vrHc=;bnxnCS6suzysUBDJXMnsew=="
+secured: "REbYKxDaZdDM1Qpc8xtQlP7xesiOT7qxYXmi7IjmnQojJY+YAimepOGRi19ZoP7SJ+fsbAoyZOc3CPAspDoVMktpq1wgR5mo0GQQPzt1jY2adcB9fCxWPN0AnDOZptvcE+AodzHW23ipsTg3KnG1s64UIE1ZoUlI9oToZHO1gakRl9zxJzTZNj0rOBhb4eBJuQS/a9Mz10xTrfBUc/Dd4NGsKsx/mcxlbogj/pLgQmMxhM9Leu3wM2CD6ARkD5Dk8Xl4snU836CnzAL25WgY7SM4Per6pWe/4oUijkxKvAE043dJiM607ZFK+kmlYE8AbfLpBe+lATquHem8xinifnOIRqzlkNpXYYY0LnYpibCn7FMuHNGERpnj8BKHrZSMnWBCAcmKDXcH7u+Jh+92bijBGTMTIzRSOHN8EIigdC4=;tnPtKqiRhr8XirPz0N0OIQ=="
 ---
 
