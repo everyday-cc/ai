@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-these-prime-day-robot-vacuum-sales-are-too-good-to-pass-up-heres-how-to-save-hundreds-on-roombas-more.md",
+      "title": "These Prime Day Robot Vacuum Sales Are Too Good to Pass Up — Here's How to Save Hundreds on Roombas & More",
+      "excerpt": "Amazon Prime Day is finally here and it’s the perfect opportunity to get that splurge-worthy item you’ve been eyeing. And if a robot vacuum has been on your wish list for a while now, then these Prime Day deals might make you finally click that “buy” button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/prime-day-robot-vacuum-sales-122229123.html",
+      "originalUrl": "https://www.aol.com/lifestyle/prime-day-robot-vacuum-sales-122229123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/dykbC_b4tAlHCOmEpowy7w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/uvsg_3ZG1TdqNLWNxDJp2Q--~B/aD0xMDgwO3c9MTQ0MDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_sheknows_274/6ff6c08f02f299d9ded365100cdf2a7c",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-roomba-samsung-jet-bot-more.md",
       "title": "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more",
       "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
@@ -1290,49 +1334,6 @@
       "provider": {
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign.md",
-      "title": "Soldiers VS robots in the British Army’s latest recruitment campaign",
-      "excerpt": "The British Army has launched a new recruitment drive featuring robots, as reported on Friday July 1. Soldiers have been pitted against robots in the",
-      "sourceUrl": null,
-      "webUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "originalUrl": "https://euroweeklynews.com/2022/07/01/soldiers-vs-robots-in-the-british-armys-latest-recruitment-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://euroweeklynews.com/wp-content/uploads/2022/07/british-army.jpeg",
-          "width": 706,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euro Weekly News",
-        "domain": "euroweeklynews.com",
         "images": null,
         "publishers": null,
         "authors": null

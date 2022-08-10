@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK may use facial recognition smartwatches to monitor migrant criminals"
-    excerpt: "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian."
-    publishedDateTime: 2022-08-05T16:49:00Z
-    webUrl: "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    ampWebUrl: "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants"
     excerpt: "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice."
     publishedDateTime: 2022-08-05T17:30:00Z
@@ -63,21 +47,7 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 39
-  - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
-    excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
-    publishedDateTime: 2022-08-05T16:17:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/government-plans-to-strap-migrants-with-facial-recognition-smartwatches-slammed"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 36
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/chris-yang-1tnS_BVy9Jk-unsplash.jpg"
-        width: 1185
-        height: 790
-        isCached: true
 
-secured: "vTZ50QgDzQ1ZN7VmnoMKJ9nzfx0dWWWvcd0U3LLz5gDHw6zC6fa5ZmlhWy4RHC4X5o/LmrBXK32moDl8XBDLMA6AdsPfmfU7z/Bd0xON87epgiVnPGH+fYzom/EpiY94Tlv8l5lrNP7763GUQAtyB74oeU+xfxb1DrdfN6y1L1eiUWu2E/3/i3Qjv/R9BCu7sN+O5rg2E2qpPOs0pWPUiLMxd8cr2agorSIasa9tWNdJ50DWVH1vuPadB7kxWJPXsuF5Mf7OK43F8KN3VFMbL7pNDMN6HiUaDXk+2Bn902ZSleESaj9ewuzTsQOORbsb2S7MjgkSaRM9MEN0sUCMUcUCEYOwKipsSAJWIFSIObk=;9B6oRNofBYheKCUuLQvJ7w=="
+secured: "mmMn7BjocbP0UAhKzZ/rrz4GZ3MQjLjOEV2F3tLPVUZ4wduPFmhpU9Stv5rkdaDJf9dnGqixC6zstygdmjJtgp76sgMjsjI4PEyKkr3nrU2nf0NLdTgm8ax+dcuCFkvHhIuO1q3z3Tj5ByY9SBXdYPBViAg/5NJDWmFIlSoPWb6Vuz8Ux52JSXze1eUY5sPqfzVr40h1VSTZvPQU5iRf3poWLzxfNH2eOPGFRk+Kp8WoAOrar3zA0V8sOQsRDs1fUojuxaJAKd0ilYPVFUvesj+69fXrRy7766EyAEnAa/DSAFjvHvPUcQGRqo5t6kbzCvSZArsE0Lf1hN6L6wrNnb99j7alPoNrsZJK4UZ0FGqA5VTPiJOQDEKPRad0dl1/2LbyqM8R3OCwZl+3tzKhhzLkVgkIWhb6qMPrBDXS8zp1f+pC2/IdiIQx/Xlo6ejNwJkWSpd9/iWzjhUdDyQfdB5PpJxw3Q3CretAJ1CqXETBRi84S/eyXIv1ghSZ4tD5D4Or+2Bv4gSbvZuIHyXAlQ==;lE//MKUhwNC+4NGCMaDHXA=="
 ---
 

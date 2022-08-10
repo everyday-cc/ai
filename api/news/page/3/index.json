@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-06-california-dmv-accuses-tesla-of-deceptive-practices-in-marketing-autopilot-and-full-self-driving-options.md",
+      "title": "California DMV accuses Tesla of deceptive practices in marketing Autopilot and Full Self-Driving options",
+      "excerpt": "In a pair of July 28 filings with California's Office of Administrative Hearings, an official and lawyers for the DMV wrote that Tesla's \"Autopilot\" and \"Full Self-Driving\" marketing suggest the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107085719-1657210528486-gettyimages-1405480830-img_3725_6d4a036e-8bb1-49dd-9c3e-205b6d95f622.jpeg?v=1657210654",
+          "width": 3991,
+          "height": 2807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html",
+      "publishedDateTime": "2022-08-06T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
       "title": "AI is not sentient. Why do people say it is?",
       "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
@@ -97,6 +150,57 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -237,6 +341,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-uk-plans-to-use-smartwatches-facial-recognition-to-surveil-convicted-migrants.md",
+      "title": "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants",
+      "excerpt": "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "originalUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "publishedDateTime": "2022-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1056,162 +1203,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
-      "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
-      "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
-      "originalUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cutting-through-the-web3-hype-ai-in-the-decentralized-web.md",
-      "title": "Cutting Through The Web3 Hype: AI In The Decentralized Web",
-      "excerpt": "Web3 is a high-level concept that describes a future version of the internet in which power and benefits are more equitably shared by the virtue of decentralization. The co",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62b9d358b54b5849577a1f0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
-      "publishedDateTime": "2022-08-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Industry Research Analysis and Forecast 2022 to 2030",
-      "excerpt": "Machine Learning as a Service (MLaaS) Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast 2030, Covid 19 Outbreak Impact research report added by Report Ocean, is an in-depth analysis of market characteristics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-industry-research-analysis-and-forecast-2022-to-2030-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

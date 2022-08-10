@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-04-truera-joins-intel-disruptor-program-to-advance-ai-model-quality.md",
+      "title": "TruEra joins Intel Disruptor program to advance AI model quality",
+      "excerpt": "TruEra has been selected for the Intel Disrupter Initiative, which brings technical partnership and go-to-market support for participants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
+      "originalUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/03/machine-learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
+      "publishedDateTime": "2022-08-03T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Drug Discovery Market is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
+      "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
+      "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "originalUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eaae20a4b525b4d6b80b31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "publishedDateTime": "2022-08-03T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-mparticle-acquires-ai-startup-vidora.md",
       "title": "mParticle Acquires AI Startup Vidora",
       "excerpt": "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform",
@@ -709,8 +855,8 @@
       "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
       "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
       "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
-      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
+      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1022,146 +1168,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-remote-controlled-surgical-robot-to-board-international-space-station.md",
-      "title": "Remote-Controlled Surgical Robot to Board International Space Station",
-      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "originalUrl": "https://www.cnet.com/science/space/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
-          "width": 4240,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-controlled-surgical-robot-to-board-international-space-station/",
-      "publishedDateTime": "2022-08-02T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-cloud-infrastructure-sales-rise-as-microsoft-closes-in-on-aws.md",
-      "title": "Cloud infrastructure sales rise as Microsoft closes in on AWS",
-      "excerpt": "Google Cloud, AWS and Azure collectively account for 63% of global cloud infrastructure expenditure, according to a new report from Canalys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/08/iStock-504455240-3.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/404182/cloud-infrastructure-sales-jump-as-microsoft-closes-in-on-aws.html/amp",
-      "publishedDateTime": "2022-08-02T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
-      "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
-      "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
-      "sourceUrl": null,
-      "webUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "originalUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.demandgenreport.com/media/k2/items/cache/99c309f8b22ccf674ef513c2b1fdd8b5_L.jpg",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "publishedDateTime": "2022-08-02T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Demand Gen Report",
-        "domain": "demandgenreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

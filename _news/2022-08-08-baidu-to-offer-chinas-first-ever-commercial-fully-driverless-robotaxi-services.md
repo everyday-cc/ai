@@ -51,6 +51,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu rolls out driverless taxi service in two Chinese cities"
+    excerpt: "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport."
+    publishedDateTime: 2022-08-10T08:31:00Z
+    webUrl: "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
     excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
     publishedDateTime: 2022-08-08T04:13:00Z

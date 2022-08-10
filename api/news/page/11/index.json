@@ -2,6 +2,195 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-07-29-baidu-reveals-its-6th-gen-robotaxi-with-detachable-steering-wheel.md",
+      "title": "Baidu reveals its 6th-gen robotaxi, with detachable steering wheel",
+      "excerpt": "According to Baidu senior corporate vice president Zhenyu Li, who also serves as GM of the company's intelligent driving group, the RT6's autonomous driving capability is \"equivalent to a skilled ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "originalUrl": "https://newatlas.com/automotive/baidu-apollo-rt6/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business.md",
+      "title": "Seven Factors To Consider Before Purchasing A Machine Learning Tool For Your Business",
+      "excerpt": "How Will It Empower The Sales Team?’ First, emphasize the point that machine learning does not replace sales reps; it simply gives them tools and data to maximize results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/600b3fa8db806e046793a1bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/07/28/seven-factors-to-consider-before-purchasing-a-machine-learning-tool-for-your-business/amp/",
+      "publishedDateTime": "2022-07-28T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-campers-build-underwater-robots-that-help-fight-pollution-on-singer-island.md",
+      "title": "Campers build underwater robots that help fight pollution on Singer Island",
+      "excerpt": "IT ALSO HELPS THEM LEARN TO WORK AS A TEAM. NOW THESE ROBOTS WILL BE REMOTE CONTROLLED, MANY THAT MARINE SCIENTIST USE CAN HELP STUDY UNDERSEA VOLCANOS AND EVEN INSTALL SENSORS ON THE SEA FLOOR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "originalUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-2022-07-28t121419-156-1659025030.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 955,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "cdnAmpWebUrl": "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "publishedDateTime": "2022-07-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPBF",
+        "domain": "wpbf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions.md",
+      "title": "How AI is improving warehouse performance and easing supply chain disruptions",
+      "excerpt": "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
+      "originalUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/12/supply_chain1-e1659022314267.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/28/how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions/amp/",
+      "publishedDateTime": "2022-07-28T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
       "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
       "excerpt": "A new study presented today at the Society of NeuroInterventional Surgery's (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient is having a stroke caused by emergent large vessel occlusion (LVO),",
@@ -981,205 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-how-driverless-delivery-vehicles-really-work.md",
-      "title": "How Driverless Delivery Vehicles Really Work",
-      "excerpt": "We're talking about a silent (literally) revolution led by driverless delivery vehicles. Online retail giant Amazon acquired self-driving startup Zoox in 2020 for $1.2 billion to deploy autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
-      "originalUrl": "https://www.slashgear.com/942295/how-driverless-delivery-vehicles-really-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/how-driverless-delivery-vehicles-really-work/l-intro-1658925083.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-solidus-ai-tech-partners-with-ultimvr-and-metagamz.md",
-      "title": "Solidus AI Tech Partners With UltimVR and MetagamZ",
-      "excerpt": "In a major development, Solidus AI Tech has formed strategic partnerships with UltimVR and MetagamZ. These partnerships will further help the company to expand its offerings and boost its pipeline of strategic partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-artificial-intelligence-6251d7055304889bf95f92b69cd5e75c",
-      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-artificial-intelligence-6251d7055304889bf95f92b69cd5e75c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030.md",
-      "title": "Content Analytics, Discovery and Cognitive Software Market With Current and Future Growth Analysis by Forecast From 2022 to 2030",
-      "excerpt": "Jul 28, 2022 (Alliance News via COMTEX) -- New York (US) - Key Companies Covered in the Content Analytics, Discovery and Cognitive Software Market Research are IBM, Microsoft Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/content-analytics-discovery-and-cognitive-software-market-with-current-and-future-growth-analysis-by-forecast-from-2022-to-2030-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-natural-language-processing-nlp-market-is-poised-to-reflect-201-cagr-by-2028-99-report-pages.md",
-      "title": "Natural Language Processing (NLP) Market Is PoIsed to Reflect 20.1%% CAGR by 2028 | 99 Report Pages",
-      "excerpt": "Jul 28, 2022 (The Expresswire) -- [Report Pages No 99] In 2022, What is “Natural Language Processing (NLP) Market” Insights? The global Natural Language Processing (NLP) market size was USD ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-is-poised-to-reflect-201-cagr-by-2028-99-report-pages-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-is-poised-to-reflect-201-cagr-by-2028-99-report-pages-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T18:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

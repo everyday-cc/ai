@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. appeals court says artificial intelligence can't be patent inventor"
-    excerpt: "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday."
-    publishedDateTime: 2022-08-05T17:00:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "US court plants seeds for robot uprising by confirming that AIs can't patent their own inventions"
     excerpt: "The ruling came in response to one of many cases brought before the court by Doctor Stephen Thaler, who has repeatedly tried to file patent applications for the creations of his AI, named the \"Device for the Autonomous Bootstrapping of Unified Science\","
     publishedDateTime: 2022-08-08T11:22:00Z

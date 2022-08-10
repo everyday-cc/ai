@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's Azure named official cloud partner of the Unity game engine"
+    excerpt: "The long-time collaborators made it official, positioning Microsoft's Azure as the cloud platform of choice for Unity's future 3D worlds as they are deployed on everything from Xbox game consoles to enterprise clouds."
+    publishedDateTime: 2022-08-08T19:40:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/39d0861ae7c64367b6174547c351fc2765343ca5/2022/08/08/6e5d5ba4-23bd-41cd-82ff-466cb008df64/unity-x-microsoft.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Adds Ways for Customers on AI with Azure"
     excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ..."
     publishedDateTime: 2022-08-06T00:00:00Z

@@ -144,20 +144,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
-    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
-    publishedDateTime: 2022-08-05T16:08:00Z
-    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 23
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
-        width: 1024
-        height: 504
-        isCached: true
   - title: "CEO Mark Zuckerberg is 'creepy and manipulative', says Meta's new AI Chatbot"
     excerpt: "The chatbot iteration may be new but there is nothing special that it delivers. It gleans information from the internet and adds nothing more."
     publishedDateTime: 2022-08-09T12:26:00Z

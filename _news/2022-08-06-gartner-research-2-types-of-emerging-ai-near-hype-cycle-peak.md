@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-n
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner research: 2 types of emerging AI near hype cycle peak"
-    excerpt: "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle."
-    publishedDateTime: 2022-08-05T16:05:00Z
-    webUrl: "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/"
-    ampWebUrl: "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI in medical research"
     excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
     publishedDateTime: 2022-08-07T20:17:00Z
@@ -60,7 +44,23 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Gartner Identifies Key Emerging Technologies Expanding Immersive Experiences, Accelerating AI Automation and Optimising Technologist Delivery"
+    excerpt: "The 25 emerging technologies to watch on the Gartner, Inc. Hype Cycle for Emerging Technologies, 2022 are enabling the evolution and expansion of immers"
+    publishedDateTime: 2022-08-10T09:19:00Z
+    webUrl: "https://www.albawaba.com/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/gartner-identifies-key-emerging-technologies-expanding-immersive-experiences"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 22
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/df96b582-66c5.jpg?itok=k_5ruCjI"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "15plT4dinPYW2x44bk+qDMOgcSBVq2wdgv8ufF6CahZ10AcLgI5naLxbPlpIg2S2MQezAsNICKttSAC+7fFwcdLbY31FLLER4m9tvOAhM0XCg4DY98boMBEoJmtMDnh9r/3rjmcQWHr77jJkvFYMq7TAd8lUTZl+af8ENB5gHxG0sxFE4O4571BchdofsYqt/SUY/oVcYfbTriQuPc/05RREqwlDesIVLF9pljVBotOGm6ViDUJ1LEeA1vwT2tLmAeZYgD30+Yp9MyBgZcysUW6T2I2i+1ny5UQazBfOFT6pXyj19uaSM/gs2ILW2C/rcNA6A8jj9ndZNdwPBqkBlvV+1t44Eig7Y1M7oAuch80=;hGBjcyEWPxv5fWU7+XSY6Q=="
+secured: "NBU+moVkWta4Ty1na4hybXvDNSpCk5LPg0rSUSRL2uUb1jYqA8A4SMvGDtVXRbI721QxNMSuqOstfWbdzBSimJfKrfzrUnLXl/wLuH8kLPYq5gVdevWfiBIKZUDxRx/ihrM0SiRyJHZiAj7tV/dcab0E+b754I7sL+oG18wamPVvI2SYKkqAkpUPpmQF/uGHLAVXuVFxxdjzeq9Dn/tbZUnHVbSFsdLKUR2XARDdcmZtRDA4VdcviO7zWM/WqzjoVysW9waN3d5EOOMI79+xLcAKVEAcozDX23XDmA5d6EMOTWmRtDTyS+PdZSEuVa4zkBj9SFEe+AEtXGGkkms8Dagkhfb7UKjd+N4y4IEM0ROCSE/Iyr36IK+X8AiybrXjl0jSaBM+gXULEf8xbQjRyTuRb4pXjh6MSx8S+1PNYbUepv8OCc8B4q3hWgBfCs1z8ov1sIGdIKfPZ5jX5gDkEYkU39QnMoGYrp2VRxeZru5rYVj2pp7T+wdJpntbl/ej02N+X8x62zt1UIaLV99aiA==;+Pvgkcq3ufVQTPxqs6Pe9A=="
 ---
 

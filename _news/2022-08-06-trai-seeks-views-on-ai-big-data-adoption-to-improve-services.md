@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesstoday.in/amp/latest/economy/story/trai-seeks-vie
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/economy/story/trai-seeks-views-on-ai-big-data-adoption-to-improve-services-343936-2022-08-06"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trai floats paper on leverage AI, big data for sector"
-    excerpt: "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,"
-    publishedDateTime: 2022-08-05T15:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/articleshow/93377396.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/telecom/trai-floats-paper-on-leverage-ai-big-data-for-sector/amp_articleshow/93377396.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-83810,msid-93377421/dot-floats-consultation-paper-on-need-for-new-legal-framework-for-sector.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Trai seeks views on Big Data & AI adoption to improve telecom services in future"
     excerpt: "The 5G spectrum auction that happened recently is a big step towards the launch of new internet and telecom experience in India. 5G will take India's telecom services to the next level and bring it at par with countries like China,"
     publishedDateTime: 2022-08-06T18:46:00Z

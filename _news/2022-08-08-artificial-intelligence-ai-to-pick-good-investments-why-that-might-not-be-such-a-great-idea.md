@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-08T13:56:00Z
 originalUrl: "https://www.business2community.com/tech-gadgets/artificial-intelligence-ai-to-pick-good-investments-why-that-might-not-be-such-a-great-idea-02533456"
 webUrl: "https://www.business2community.com/tech-gadgets/artificial-intelligence-ai-to-pick-good-investments-why-that-might-not-be-such-a-great-idea-02533456"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.business2community.com/wp-content/uploads/2022/08/Artificial-intelligence-900x535.png"

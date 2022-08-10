@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migran
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Gizmodo
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "UK may use facial recognition smartwatches to monitor migrant criminals"
-    excerpt: "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian."
-    publishedDateTime: 2022-08-05T16:49:00Z
-    webUrl: "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    ampWebUrl: "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b"
-        width: 5760
-        height: 3840
-        isCached: true
   - title: "UK to surveil convicted migrants with facial recognition"
     excerpt: "Migrants convicted of a crime could be subject to facial recognition scans up to five times a day under plans drawn up by the Home Office, which campaigners and experts have condemned as “racial surveillance”. According to a Home Office data protection ..."
     publishedDateTime: 2022-08-10T07:52:00Z
@@ -66,20 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 39
-  - title: "Government's plans to strap migrants with facial recognition smartwatches slammed"
-    excerpt: "Liberty says it's no surprise this government would deploy such a tactic ‘as part of its racist hostile environment’"
-    publishedDateTime: 2022-08-05T16:17:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/government-plans-to-strap-migrants-with-facial-recognition-smartwatches-slammed"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 36
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/chris-yang-1tnS_BVy9Jk-unsplash.jpg"
-        width: 1185
-        height: 790
-        isCached: true
 
 secured: "zKJgGEO7LplclAda1X0d/swjHrwecRImiSyovwhttm9XRf65bq/G2c1Ut5w4Jqpw9msnO9yy7pqFFubc6djTsmtGToh4LyVbhE0Xx46cxxC4Zvd+RLN3BFJTMPohUoqjxQoaGtqUA9CrwyciBHD+EK6DyMg6VHlJ57+AquOoOt1ZeNLTVsKTMbpJabpCrN2LT4oxsrLK2qIHfz/6ASFGMr6kddW+rdNSKXTbTw/Yobz/if+m06rcEJZPv43UKUjz5qlIdtpD/NbeONJ6/aQ35ir4C3MoN2xyp42vzWCG6OlyONSodQBpOKuH20FpEmmuy2BU6wo3AAEM+BJljrjorUAQFfuuQEEQNEJT8W2m0sbhiqzPO3KGqWwqgiUyygsyLQU9047RyoFVtJ1tXi4sBELvjjcGFOOtQa9KFhdG2lD5GMnSxjH+bNkOLYEyCUbWfVd9W6IPlg2kbgXO5omwnfpBoYz4rStd0t/vZxTQH4QYqFlyxV2sfgWfSQuFCJxHemds8pFyuZtnb3a2shyXmg==;EXtmua6gNYxA6u/rFzyEeQ=="
 ---

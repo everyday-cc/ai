@@ -2,6 +2,135 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-01-can-artificial-intelligence-really-help-us-talk-to-the-animals.md",
+      "title": "Can artificial intelligence really help us talk to the animals?",
+      "excerpt": "to decode non-human communication using a form of artificial intelligence (AI) called machine learning, and make all the knowhow publicly available, thereby deepening our connection with other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "originalUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-how-long-can-cognitive-impairment-persist-after-hospitalization-due-to-covid-19.md",
+      "title": "How long can cognitive impairment persist after hospitalization due to COVID-19?",
+      "excerpt": "In a recent study published in the Open Forum Infectious Diseases journal, researchers examined the aspects of cognitive impairment after hospitalization due to coronavirus disease 2019 (COVID-19).",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_720977_16593511993243041.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-ai-in-fintech-market-to-reach-6130-billion-globally-by-2031-at-225-cagr-allied-market-research.md",
+      "title": "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research",
+      "excerpt": "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook",
+          "width": 2000,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations.md",
       "title": "THE TOP 5 MOST RECENT AMAZING ARTIFICIAL INTELLIGENCE AND ROBOTICS INNOVATIONS",
       "excerpt": "When it comes to understanding the future of robotics and artificial intelligence, it can be challenging to keep up with everything that’s going on in this fast-paced industry. Apart from Ai technologies used in offices and most of the SEO Company‘s,",
@@ -1027,163 +1156,6 @@
         "AI Hardware",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-ai-ethics-confronting-whether-humans-who-mistreat-ai-are-alarmingly-immoral.md",
-      "title": "AI Ethics Confronting Whether Humans Who Mistreat AI Are Alarmingly Immoral",
-      "excerpt": "Consider the AI ethics of humans that mistreat AI, including people that lash out at AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6216d47f3093472d144b2484/0x0.jpg?format=jpg&crop=1964,1105,x0,y101,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
-      "publishedDateTime": "2022-07-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
-      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
-      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "originalUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
-      "title": "DeepMind's AI has now catalogued every protein known to science",
-      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/9db9c490-0f6e-11ed-bff7-e533926cb5cd",
-          "width": 7680,
-          "height": 4368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "publishedDateTime": "2022-07-30T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -41,36 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Meta unleashes BlenderBot 3 upon the internet, its most competent chat AI to date"
-    excerpt: "Meta's AI Research division will see if its latest iteration of Blenderbot AI can stand up to the horrors of the interwebs with the public demo release of its 175 billion-parameter, Blenderbot 3.."
-    publishedDateTime: 2022-08-05T15:42:00Z
-    webUrl: "https://www.engadget.com/meta-unleashes-blender-bot-3-upon-the-internet-its-most-competent-chat-ai-to-date-150021062.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/5384c4e0-12a4-11ed-a5d7-75b989369c3c"
-        width: 6128
-        height: 4016
-        isCached: true
-  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
-    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
-    publishedDateTime: 2022-08-09T17:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 61
-    images:
-      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Facebook’s AI chatbot still thinks Donald Trump is president"
     excerpt: "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online."
     publishedDateTime: 2022-08-09T12:02:00Z
@@ -134,6 +104,22 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/01/Meta-Logo-metaverse.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+        width: 620
+        height: 372
         isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"

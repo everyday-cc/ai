@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Meta’s New AI Chatbot Sure Has Some Interesting Answers To Questions About Its Own CEO Mark Zuckerberg"
-    excerpt: "Users are also welcome to ask BlenderBot 3 about beleaguered Meta founder and Sweet Baby Ray’s sauce enthusiast Mark Zuckerberg, the chatbot of people. For instance, I asked, “How do you feel about Mark Zuckerberg as CEO?"
-    publishedDateTime: 2022-08-05T16:08:00Z
-    webUrl: "https://uproxx.com/viral/meta-ai-chat-bot-mark-zuckerberg/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 23
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/zuck.jpg?w=1024"
-        width: 1024
-        height: 504
-        isCached: true
   - title: "It is funny that he has all this money and still wears the same clothes: Meta’s latest AI chatbot about Zuckerberg"
     excerpt: "Hyderabad: Meta, on August 5, unveiled its most advanced chatbot to date, the BlenderBot 3 (BB3), which includes model weights, code, datasets, and model"
     publishedDateTime: 2022-08-07T08:46:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-09T17:00:00Z
-originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-10T09:30:00Z
+originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
 quality: 19
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -54,6 +54,6 @@ related:
         height: 778
         isCached: true
 
-secured: "yQIlg2LvIJnaPifWpvhzhCLxFchB6evnzjJ/5cBS2u7O4Wp9wqezeS/BTd/9DDn4ytZ+k+Rhc23Fc9pLOtGWlmhtgwgHrxjI6wF733FrJTVbeV5MkhskFzY0ClVMG9wGUCrv0EvjoER1sw2yoUtysr8SwgEuXrIpWX3PgoLOKXfjZgGwPBoLkLRWliXR4meNvkEJmTp+2eZU+/CWcOlXHZTlwiXpPfCrogVuEB+stXgY6pZ3NypvOH3TiWb3RtQPjkrdzDspZtq8TC8Nz/JJn9nnKhpIXPZCdFcjcCETj/Z4qsbr6b3H/6NofBIZ5n6sildcPueu2UdC5ELifFXv3ytRFYtWCKp4sHLRGVh1gAfMDBt4puiMpk15zArjMzaB/IdwvQRdnivMFbnTy0hCERyuQ2I2roHDN2yBzjhkN0+ue0rd8H5CxtMcLwVNfSSmCupioEL1xwXAek7CyOfq6PKTaxkHaLF39sR1IqdNs8CzgKunn4N0tCcw/gJAAOOiOo7+IyXwotbD5gRB4l6PIg==;FNtzRerfuHH+rTgaXTE5WA=="
+secured: "WDMiDMD5ZdFRBZUUHGeuLdn7Vg+D9d2DOlJ5h6jH8TLqsLk87NKiQxrA4MhEE79Ms2xEP6pI5oBvdPV6I1JGHuftlfPs9qQvyjpt7+anf1gHDoNfSmjvPBS8+p8yT9u6WpMslB/Gnws+S8UoNhBItSEDLcxe4rPa131yONSPqL9GaLQX5v/YDLsLDZ7yeIQ+3EG2OlVE+PF4WanE1qJeuOYPzu4pIUmcisWIpAZl2E7uRv1qKwOF8eCPbJLgDe76itqsprUPW5NcgltQzqLauXsUI0cr5QacR8J4prBnDIM/ubnSPgmoAFpQzlb+3JGjSLm1PssiejDRr3Ob+xrusu87UiNSPizbf4S7L/06QBs=;/Eoesz79O6Zwsf+2qMlRJA=="
 ---
 

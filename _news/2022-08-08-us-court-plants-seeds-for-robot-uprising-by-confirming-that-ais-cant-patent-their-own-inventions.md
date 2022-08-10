@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/us-court-plants-seeds-for-robot-uprising-b
 webUrl: "https://www.pcgamer.com/us-court-plants-seeds-for-robot-uprising-by-confirming-that-ais-cant-patent-their-own-inventions/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. appeals court says artificial intelligence can't be patent inventor"
-    excerpt: "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday."
-    publishedDateTime: 2022-08-05T17:00:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
     excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
     publishedDateTime: 2022-08-08T16:00:00Z

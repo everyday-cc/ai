@@ -3,12 +3,12 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
-quality: 61
+quality: 57
 heat: -1
 published: false
 
@@ -21,9 +21,7 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
-  - Facebook AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
@@ -45,20 +43,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Meta unleashes BlenderBot 3 upon the internet, its most competent chat AI to date"
-    excerpt: "Meta's AI Research division will see if its latest iteration of Blenderbot AI can stand up to the horrors of the interwebs with the public demo release of its 175 billion-parameter, Blenderbot 3.."
-    publishedDateTime: 2022-08-05T15:42:00Z
-    webUrl: "https://www.engadget.com/meta-unleashes-blender-bot-3-upon-the-internet-its-most-competent-chat-ai-to-date-150021062.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 62
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-07/5384c4e0-12a4-11ed-a5d7-75b989369c3c"
-        width: 6128
-        height: 4016
         isCached: true
   - title: "Meta puts its latest AI chatbot to test"
     excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
@@ -248,6 +232,6 @@ related:
       domain: niemanlab.org
     quality: 17
 
-secured: "/vIaahvxdPYmukkNHJyaui7ut8/KYYAHVZ0ShRVjEpLwyjsf5hIGWOf/uEEY6hUc/70Bm0Ry1okb+BGkGZ+cT3jl1Iu82BnfrCd5JyNrgzNnaPqXvseVgJYNSUJvENimb34MXx1OAI9ozyegnunxHwX1v3/Bwd4QMdLvXi+tX4f+Gy0ME9QjAq4ix2YHgGopQcQJ0PfEuTXxkNc1f0G85Pz1drcbE1hBKYEdLnW7PvvlLKIWt4riqrDMwQRN4LJzCFkhUV0NNz5bQnlUjSE8YorGND7HlEjTDt5DDLyn0Ini2PJCru41r11Y77KZGNilov2x/F7QSoSwqT0JqWjUw90fICudMX/1u4NrJlpToTz+WdAFkO+yr8fYkYLB69vW2XqqzQ1gP+G6uQ4OSZ6acdpGN5ZcgRt+ESv7gVfS0+v8ti8eeE4MYHbh6cYtoyG9lzYe63NnMNTI2SP4+3HaQsL9PF0uYksVMpmilx9NiVQz6svignLoA8VNqlC9mUt4emfcD+OJXPKGVy2C5ES8BQ==;IXz881hQr1zqJMFz/gtb7A=="
+secured: "s219eUd2SWKD3rcikt7NZxhrh1qAiX//G0R0NcE4h42MPvHLh91G8Cg/ejj5DJ2C11mVzD2TeOw/SDLuHhLgBOucmZZJswVKwBFmCA9BjK3yqgwjqa7K40gK82issxZ8TPiBhApJOZaKw6Sjesda/v81caKrnsmZqFgxmgMBQE+boioG7sWJvXsjluNo9wA3ydVGfeNkO7Z24NcygACXC8lAfAqdMwBpH9J5Sl7c82EdQYYuh9KZg0WSCIQ92ESn2vOKZIz2zkE8Xw8zIk2wmnb6bNs87rITRktoBuQoKUltdn+HMNQDTcuAEFDXjXi7x6/+lmxqoffC/rch/4Nrb56oDtowHBM+ME5RdtPmmQE=;5ouBOe3GMsBWSDrFIC18Vg=="
 ---
 
