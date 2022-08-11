@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Australia PM unveils draft Indigenous recognition referendum question"
-excerpt: "The voice would be a source of advice and accountability ... whose leaders have toiled for generations to win recognition for injustices suffered since European colonisation in the 1700s."
-publishedDateTime: 2022-07-30T09:11:00Z
-originalUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
-webUrl: "https://www.reuters.com/world/asia-pacific/australia-pm-unveils-draft-indigenous-recognition-referendum-question-2022-07-30/"
+excerpt: "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to"
+publishedDateTime: 2022-07-30T01:55:00Z
+originalUrl: "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/"
+webUrl: "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KELO
+  domain: kelo.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/vDOH6ErBmbaJrU6CGCMiEM9G9Ig=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I2PU4W6Y2VNXRD2SXQRZGTDCDY.jpg"
-    width: 1200
-    height: 628
+  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-07/30/2022-07-30T015528Z_1_LYNXMPEI6T00V_RTROPTP_3_ASIA-ENERGY.JPG"
+    width: 800
+    height: 533
     isCached: true
 
-secured: "ZY0uuG1NAywMzaIK/beBGo+44xpht4wtiVwxgxxus3JrsvtXpnl1utDK6MVkpyNRH+zLnHXKtR1IeGSaTBPmavMsH6awqlck7A1gkaLlB9qO1Gxnb2sc6mCLe0UfYnlrafxwff1xQDkKR31JzBJVJQxMlXbEcNeM2rdHg5uTDx+dH7VE/EugR0gFICdKanHETP0smnJOnhQQfav9iHsgqvxA0bFp4pTSf9iHqBtj2zF8K1fJa62nHenD6WgmL1bTyhjoMoXmM5J+lj9nxNPexXce2Sh2vHUAH4NC2NS3pE1V7nseucguxyor4QEEwEvhjhI6OoQd9isFUIa9M/tSBMNETTEWB6spj6fpG5uaGZE=;JfEkJda8gkr1ngrOLh7TgQ=="
+secured: "+J2WhFBlmxDs9gtt3Fqgl8Oz5B2OJ/dtMNLTcvV0z9nkXPWw23lwBCFp8jL+JOSVdfWgTGcM5oMqrbgs24q2DPR8tc5mBN8sKhvUrkFlXWY5F2G2UznlOxnFb9R52CNM5CdbaKXjND0vdPMN+CBiU0K/0QwIals+GuBKBchf3g550G5dppfc1lGG0MB4A3Rz91g/dZHmXp1CZa9iUD8tzSlt7R7gzLMvNvo+eBotGH4/0DcjxAClLHHiIAvu3IrUxtxfyG7TmLY4y3JWaZjdjhfTfZ2RgUV94m19DojW1fNZrU7UYEbmSclhKxqoKLFGmWGosXFfabSiDwkgqS7EOdXAnj9FYRCoqW5+aJbVRKk=;/OB07GCZptFgwxsZOj3Skg=="
 ---
 

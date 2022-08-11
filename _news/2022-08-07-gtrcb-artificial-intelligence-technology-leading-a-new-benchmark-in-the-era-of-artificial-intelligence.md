@@ -72,7 +72,7 @@ related:
     provider:
       name: printedelectronicsworld.com
       domain: printedelectronicsworld.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://idtxs3.imgix.net/si/40000/A0/A1.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
         width: 1200

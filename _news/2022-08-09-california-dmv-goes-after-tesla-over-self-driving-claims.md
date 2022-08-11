@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
+    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
+    publishedDateTime: 2022-08-08T14:28:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 82
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+        width: 1024
+        height: 766
+        isCached: true
   - title: "DMV files complaint against Tesla for misleading self-driving advertisements"
     excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
     publishedDateTime: 2022-08-09T00:30:00Z
@@ -185,15 +201,6 @@ related:
         width: 590
         height: 350
         isCached: true
-  - title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
-    excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
-    publishedDateTime: 2022-08-08T14:28:00Z
-    webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 42
   - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
     excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
     publishedDateTime: 2022-08-08T16:28:00Z

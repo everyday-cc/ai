@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-10T11:25:00Z
 originalUrl: "https://www.printedelectronicsworld.com/articles/27361/using-artificial-intelligence-to-control-digital-manufacturing"
 webUrl: "https://www.printedelectronicsworld.com/articles/27361/using-artificial-intelligence-to-control-digital-manufacturing"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://idtxs3.imgix.net/si/40000/A0/A1.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
@@ -90,6 +91,6 @@ related:
       domain: dailyherald.com
     quality: 1
 
-secured: "zz7F4zdyN9C6yN4y4q1Kg3I/KcdU626mpjjjKumGVt0ngtEQe3nbJXpgTPNUNMUgF59RPpgkYc0/k6bSDDtZTP3kmIKbgVZzguwhRhk5vDohMXY1SP2jRat1uE2VJ86TTOfYee+EJ9140IC8SwtlyhxF5NvggGNU0BZjFhzog1EOM4iy8WCIYNLdohooIxIP0oe6qmFR67M2xGmA9bWFlYKqQj/IYMcBhvnNpf7nqR0elmMZbnl38ohDHY7NNRn/XKQwMmWyvH7P9Uf5M+kU6XtYX3cYjUlpjuY0/qeqG26LMOL+SAVYNJf7h6ouiKKDEKDoCSFnvSrfYOwOd3c90w37oBaY/oVNb0g/NBSJyZc=;nq+e+Yc+9/DrVJkx9qioLQ=="
+secured: "+lyTAX5uouU1exEpnQSUsdmXFi+NV8KrhSAsEpWV7+c9Z4D7tfpgNAZNZ97w/VWt6dp5tpFJVDrHbaHTAa+mrSNDk19azquF6+E/Bgp19NIOEFhcBugzfllsjSTRHBB9jD5XPcTzVffzDvvhnyRYODh7s7IJtAL4Rp7TlvTdzZStNoKKtdsmFS07tB7ihcrVDF2wKgYUh0KDkl8ATS15AmYqKbxOrMJZFzKt/f1Yrhjj2/+hVnAway5yo/Re/+NES80tncudyNHu7s38s9fWVA8LnhJvG64PrNGui/St8A1TfE+oGX8UlUNfzWuW8l9WzdGwAeSFfa25gUHMyV6ng05STQWXk1kS4ES02esOnosM44/DqB7MGZ582I3E02nUmiPuuf3Pi6tvLf2y5tmsCvezeC9jqeDKJ4rRTOHvd7e6vOjQr54Y/KFG2HMlEkDNuu2BICuXfI7ZYIaPgsPmwpwZoPQkXLq9PjRObwUQ4AL7fro5hiACDQCZKfQb4x69igHWbCvJr+pXvV1NSV3pSw==;qpUcHai7P8JP+YoQ7RsZpA=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Smiths Detection equips Leonardo di Vinci International Airport in Rome with advanced carry-on baggage screening technology"
+title: "Smiths Detection Equips Leonardo Di Vinci International Airport in Rome with Advanced Carry-On Baggage Screening Technology"
 excerpt: "Smiths Detection, a global leader in threat detection and security inspection technologies, announces that it has begun installing 30 HI-SCAN 6040 CTiX carry-on baggage screening systems at Leonardo di Vinci International Airport in Rome."
-publishedDateTime: 2022-08-10T06:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-rome-733e3608256045c7bd04291b27fabe27"
-webUrl: "https://apnews.com/press-release/business-wire/technology-rome-733e3608256045c7bd04291b27fabe27"
+publishedDateTime: 2022-08-10T13:46:00Z
+originalUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
+webUrl: "https://www.aviationpros.com/airports/airport-technology/press-release/21276932/smiths-detection-equips-leonardo-di-vinci-international-airport-in-rome-with-advanced-carryon-baggage-screening-technology"
 type: article
 quality: 13
 heat: 13
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: AviationPros
+  domain: aviationpros.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/08/Smiths_Detection_Hi_Scan_6040_CTiX_transparent.62f3bb8a97093.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "Dl8KzKIaJwQvEENnsIZ8hnvl+mptnCdqbwdrysHM+2ggmSs6eCg5RklT45TjN1EL/iKAROPOmvvi5dJ9v4OyFHXijjDLaQhiwa+l71rX19DCfvTvn5VhzcbxHrFIHk1xVVhdIZWMomK651CKSPbi/cQGrO+6lAPyXvvg9XxNphFrRalYLOYlDj0/G/lIWRvxIoZ5I2mzCYKCbQhHFZko3WFZUg0g+rETPQxEBc0Efr/hhkxlsxBmIdKH2V9jATCyi3GOBIAdukFDD/EHu2pWv4BPIKyO3GoTCRvsTawm0V2j4xTaxFYbNRrmHLjNGfcRL3ZSu7sZQ3fUThZEZ5I3u1pKn65a7Juomz1ljn/jQ58=;v8uKCkSbKaGfKOHplO193A=="
+secured: "LPvOsf6STseWiPgPHIv24xADkW75x4Yo86QufXVF+vsFfE9fVDIfXPo/EERsFmES40wq75DWFJfNOZmmk5lRM2TTQFpq+ar4pAWL6YdlOtS29LSjlZLmJRz2noCYUKkbBSj2gsIuuecmPj0aGaF+FXKMEMKSUZx78gqR3kxf1aOTfxSXJEwTa2pzaFctAZmfq9NE4mgYoBOfgaABuqw5z0RLN722f7bVi+VyurvisiN4mr7n7/tMbOJQMd9VoDuh48GovEjyFUjwiCGpZQrnAFnuh2RytqodaAH4sKKEohuGX7KMxgykI3RdgDPOnPjkh0NIhYPW0g64B5DDHGLLlcqH9x/xR+gsyjl18nRL8xk=;47Nc78Hr/mo5n9HAZsVc7Q=="
 ---
 

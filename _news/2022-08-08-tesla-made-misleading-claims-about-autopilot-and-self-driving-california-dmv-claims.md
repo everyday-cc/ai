@@ -3,20 +3,28 @@ category: news
 title: "Tesla made misleading claims about Autopilot and Self Driving, California DMV claims"
 excerpt: "Tesla’s autopilot and self-driving claims are under fire again, this time from the California Department of Motor Vehicles in a complaint it filed on July 28."
 publishedDateTime: 2022-08-08T14:28:00Z
-originalUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
-webUrl: "https://www.ocregister.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+originalUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+webUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/"
+ampWebUrl: "https://www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/08/08/tesla-made-misleading-claims-about-autopilot-and-self-driving-california-dmv-claims/amp/"
 type: article
-quality: 42
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/08/BNG-L-TESLA-07XX-7.jpg?w=1024&h=767"
+    width: 1024
+    height: 766
+    isCached: true
 
 related:
   - title: "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged"
@@ -246,6 +254,6 @@ related:
       domain: ktvu.com
     quality: 25
 
-secured: "DgM8gFVqYK/ReLo18z+kqsHEcWuPFiawFrY4WXQVaNGsvCTM6iWFRrGf7N1pjU/D63Z6nrLb1X/tQLPmbiSRq2063tBEyimwwb+xvVWSHC41xZJ7bSK3JxrSyMjfmWan6UTows5OM29Re92mc6k2YEk5NZ2sKvUnXPF/JXYGKxM9bElfqHYyJuYtgA0lPxRICOw7J1U9czR5s3R0uGsdyweaJeXeFxk4tkvY626N5TgZu9SuygnNiyBsdIVwsXleqdunTYjHYuw9+wk+2AgC4dQ1Hdz7x5IIx4rb05izO85OWoBdNsrf2WkKF+aSuO8+0/oDCW2kEaaJTVT+2tifvxYBPeSry8j/PW6WPuM0GW9fsD8EwdG7VB1eeSSF6mshEcP8QBzJZ4I1fVPRyAqhWRqx1p102RqwlBAnlmmTCtYdla85OVWdnaCxwJQKguyNSB63RCc1yAeAsN/HgAJXv6ZTf3f3W4Pd2aRIEJlVadCzpblLOfOENG8YesxfAe29FnjSwoTMHMXMy34V6Yc+5g==;WhDPQCy6PjiasV3TOK4WmA=="
+secured: "/c8hjyu0JILJkZ4xCMkq3+mHK+VHKnGwbP70IUWsZU4lBmlvpTcBtY40y964vrIL86/c3aJ013SPY1b3MxFZYf07lHNQW6sjA/Mq2ZfnvoTerbxocnhNOYBj5BojZpzzWf4GUNlVnrZIydkDN75i4rLk5neugHIj7Pmg2k0A+iXoF8236KYAkUmIANHzPBUNP7LiWcN8765sTUaqTTw1zvjfOySz0EMqF7fYGbT7DS631ifL1LTSY73oq/IM+sctQZk2Zo2ts/OAzWa/HQ72fBS/hZacborc5fcPF/ZBgJYCua6Veavyumk7Lv1Hf202h+8bi2IZFGzEDcWVbVVqHsD2dXwbBhWpy9dvYNEZwD0=;TY2r7nbTCKsFBvAN5S4NdA=="
 ---
 

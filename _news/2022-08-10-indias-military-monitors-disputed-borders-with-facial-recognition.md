@@ -53,6 +53,20 @@ related:
         width: 740
         height: 400
         isCached: true
+  - title: "Worried about facial recognition technology? Pubs, clubs and gaming venues are already using it"
+    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
+    publishedDateTime: 2022-08-11T00:18:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/pubs-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 27
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/08/New-Project153-e1660109822320.png"
+        width: 730
+        height: 360
+        isCached: true
   - title: "Delivering rewards and recognition to a borderless workforce"
     excerpt: "A borderless working environment makes employee experience more important than ever. It’s central to driving motivation, productivity and engagement. Traditionally, a manager may have thanked employees by taking them for impromptu drinks or lunch – but this isn’t an option for those with global teams,"
     publishedDateTime: 2022-08-08T11:58:00Z

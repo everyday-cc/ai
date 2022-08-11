@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-
 ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
 type: article
-quality: 108
-heat: 108
+quality: 110
+heat: 110
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - IBM AI
   - AI in Healthcare
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all"

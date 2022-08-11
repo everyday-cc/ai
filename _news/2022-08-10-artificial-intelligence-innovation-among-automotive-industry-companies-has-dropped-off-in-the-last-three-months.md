@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-09T17:00:00Z
-originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-10T09:30:00Z
+originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
 quality: 19
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -54,6 +54,6 @@ related:
         height: 778
         isCached: true
 
-secured: "lhbZT/A9f9eEWY29+DNn66Lm1R2FewIhGvgRk6InN8753FXvYW5bdRpTNq/l/tya5MEGakN62BWm/BqAnic+e2gqe+Fgxb66iUTAw4fqLY/E0Z6B82YoW2XJclBr7iuEFaMr2wFZ72VkGy0MZiAuPS7YOiI9Oa9Q5uoP68xcUlZ1mMSKnK+2K8S82Atsig0bm6Q7YnkeRuFdAFtHtK4qecbosSN+5kz4pksCapLNtHZtF+xKDeaX6RWyfsMraUM7vlGDmOAvATfGlAziAHPMXPIEGLEEj0YoY5NOogm12xEL7n/90N6FZUt8w26FVmRBla/9nrcxDDkGpEgV91zYymDfK0YVRrVAwownBW9Peo4=;oRBd4Y4haxNA3X5E4LLv5Q=="
+secured: "d3yW0DkSfEv7ZKMC76n1OTQjB84kxebETuU8DHWrBurNhdWdCVkc60+f4gL2svlq2tp1Q+XV2hW3OsAZFcJbnBGPiVlHi8D5RSEEzKpW/ZSofj9QT7xLt36uTd5/uU/OyQuiZkQFF/1xXWcqCIg1hmcDFOeSk0w0d/TXUe9EfbJlug4BkzYIX8qy3DIaZqkrWMAEXGbygK+7/YDUPUK0sCNkb8KOLtsfWEIDDJN/8M71TSBALOyEkIcQn8GAnSqZ1qiRpo9iQknYM+IGPfBts2cOLbPu/E5FURPFttFPgX+CK9WrEyFIQKZx9xuZMk8qUb4IZVeqP7CaZINltxYi2eDVyEJGIUGwHEcOF8pOKIs=;R2qtvjq7hdl2gf+dyGsPyA=="
 ---
 

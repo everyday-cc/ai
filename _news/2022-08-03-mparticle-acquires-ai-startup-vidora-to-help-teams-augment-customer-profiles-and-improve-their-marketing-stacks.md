@@ -1,24 +1,26 @@
 ---
 category: news
 title: "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks"
-excerpt: "Particle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks Aug 03, 2022 (PRNewswire via COMTEX) --"
-publishedDateTime: 2022-08-03T12:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
-webUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
+excerpt: "NEW YORK, Aug. 3, 2022 /PRNewswire/ -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform for customer data."
+publishedDateTime: 2022-08-03T15:02:00Z
+originalUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
+webUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI
   - AI in Marketing
 
-secured: "XlbWZvf4KAqxrXhVe5By8kviAE0fqoWWfmki9KzLp6TH/zOvsGbwfvFqUwr/Hg1yI4ZeXchFbst+TVbG05BPm6/pijpvqFrf7cttzvdp7sddRsht3M68u9ip6cf667OXOV+w4jSOpQzmlPMeDdAX6HWKrl9YuLoesF2j1XuKQPQ2lNP8y0pgVWPxO2FVMAH6E6Kh5Vg3Yor+dLnHzIk4TN8SKzurUOZTPoOQdKFw2c8E06QaNDu+JYh2MGRKkBwzhBnOVAe+QpooqrmTeky/5IDVmHZ7LFcIRZK6TW7M5+oTO0MStGOACDK1RLpqGqVGj69lMHvNWD9BMbDYBA35FXMW3ddYJtRG0rJsdSlUo5c=;JpsM0kCbf0ZRlHvL2KC5qA=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/vidora___mparticle_2.jpg?h=2c61325d&itok=onM5WUFo"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "hO+n6m+aRvAjmNUuDGPaSm8gHK4Je/T29s9p4Xji6aiRj8l18F4pevWf11CtpWO7O72N3aczVQRy3C7rmwJCnKE3fQhA4P2eZURfhScL+W3e3RSVq/Tb30YjvciPgRDjIJPR5ge+TsVMTK82hgODtIBqYU4LtZtEAhaC+W54+joQhjUYYFErtf9vR/+V131bQIdmbcwGX9HTTOTOdS5dPfHc3Qsz6nPKaU6Cusl4IRELoIJtQOdrGbIze/8TFN1nYYraL18z1nB2Vte9iyd9APPgoh3ZTpFxUk7/nU6N8bIpl8/EmQ/WzcoCvUNMkp27p7mQkk/PXvbzOtjWm7OYAElEEryF1vxsjkk4Tq1lJy0=;bnuGNfbOKabZvZtazdVc8A=="
 ---
 

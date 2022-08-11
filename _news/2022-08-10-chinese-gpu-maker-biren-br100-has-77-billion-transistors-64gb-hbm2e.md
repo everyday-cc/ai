@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China’s Biren Releases First GPU Chip With Higher Hash Rate Than Nvidia"
+    excerpt: "Biren Technology has launched its first graphics processing unit chip which boasts a peak hash rate higher than US chip giant Nvidia's products, the Chinese semiconductor startup said today. The BR100 series has 7 nanometer chips with 16-bit floating point and 8-bit fixed-point computer power that ran reach maximum speeds of over 1000 T and 2000 T respectively,"
+    publishedDateTime: 2022-08-10T11:16:00Z
+    webUrl: "https://www.yicaiglobal.com/news/china-biren-releases-first-gpu-chip-with-higher-hash-rate-than-nvidia"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/china-biren-releases-first-gpu-chip-with-higher-hash-rate-than-nvidia/19594078603973.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Nvidia lost a billion dollars in gaming GPU sales as AMD continues to thrive"
     excerpt: "NVIDIA on Monday announced its preliminary financial results for the second quarter ending July 31, 2022. According to preliminary numbers released by the"
     publishedDateTime: 2022-08-09T12:35:00Z
