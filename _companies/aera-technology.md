@@ -2,7 +2,7 @@
 name: "Aera Technology"
 overview: "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. "
 type: "profile"
-heat: 64
+heat: 42
 
 website: https://www.aeratechnology.com/
 
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Aera Technology"
 
-secured: "03lhhYYuwchBL19Z8U/VQsjPtZZYtu3Wn9JIo9ow94PIWcX6zLpVfp2G+010jgARluT6I29vlnUObIYxS6hj4yBzgmOIMF/eVyAtc7VMjEvbLOakXcHQvKwByyOUPYq2R2p8ZX1nUpV3h79MvrRod58vPeI1p+Eph6AJzonMr6ZNgBW+/8YTTl19sa3rUMupsqN8svpJvRx7uNEd062zehnIJO3JCahwv9aEU8qJvUwPw0bG40bhw0zZ1LF7QChR8whQ7fSjk8wEDcKydaHFxXsm8BGXikncb12maTZ1MfDX1kR/WRCuFWiFG6cxsmOhOyUWaz9YHN4C1XcczMg9+BwmeTOD6oQZ92QA7yGcLV7blrIuBWh++EKoVq/5UFc7LPet4ZsZ4kUwX3dIYCRk38uxM1inmGMFwmOrW121JLw=;MxzLcKzGWsnsuifjY7ep5w=="
+secured: "Mkcn8hQfFHZOlcY5zayxsZsTau0dXkKfCzwQkxYN3yY3lPfXa0kjNoBBeXB6SvvihFC2BccRG/UIBohV9IBgUKAINcYcNj6LVLrXqM5505WyohItmajyfbyrQbw0Y1Q20ao7Iap2BFvXr72CqvGgUpjMqzv2YdO4vKqqWviXOADg1bbYAcUMDuwIn2dW1Uaukhc/A4LeVj+NzCVKiYtGUGsAgpGU0lu0jQIxmmUel8UjTid6jmZ1hn8rsCk0Wv/H5cdNjBqVvMENFCuSZgqvJMT8FmX+AwKfEmcHLPCFdasIsVfPoteBa+72+jjVw99xPiFw0RN8g9gehYWdFOHmpbJBbU8Ke/wRIZ9fQ7GtHFY7/HugwErX7TNYBQDiwMivrKYJitVqLPwO+qKnyQ7TS5w7vC77MU9CTpErVofdsls=;P0JVWBkkgS0cR2TKo5fEaw=="
 ---
 

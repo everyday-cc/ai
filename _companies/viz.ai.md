@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "viz_ai"
   url: "https://twitter.com/viz_ai"
-  followers: 2068
+  followers: 2069
 
 size: 51-200 employees
 yearFounded: 2016
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=y3P9aVwDOig"
 
-secured: "mjBCztKGijLidfn8m6x4bCgRw90yiXErLhCv7M3j8mSPh0/BmPxs7sbnntUGzXa46BZJ9MOyG6g2i7ANN09yEyf1Q3rdOd+QCCXDn/ZHJnzRHIFFSC0iCtsJtUtppdlzeFwKJ7EVDzTTOg3KUcgR5meI9Q8o+BC0PCT6IJotl6J8Hzjbbhfbh2BRZsw4If5aTS3XiSLAyS2MeMSqFlNDAYcheeKDutJj5IOQK+z6HSLcMfMO+nzSxKzB+/Xk19v7FajWvceKdeu4zif1Wos7dpuMj4BgAr+T4naqBNclHnJdRZ0x9mQxJykDJMM7hiEtJcvDOVTx0Brq07ZVoDEJPa1EgeBz/2xmeaZbF9KgMKCKbma9L9DTst+tBbwgtDC8sUb/zo2228vckCHak8DDnnecC2f1b3SeP9hndI25aDg=;mTB565DhoH0KRPcAJBDoEQ=="
+secured: "xxPeI4QizPnZOD68O75SJKi2g9mfsiVaHAtCFa4rmNMKDg7Ne7YCdvhnbuPnaZ7Et35tAwu+50ICvZYPm+XK5YwLuWvRCrUt+kJZ0HY16qK24OLtBjk+sPD81iWFk2db0oM+J3xgLu/MfsNXx5vegCWTf5zPdemGIIKklEedENYjYdFYFJtuUpCwM0vCsUDV4vGc4rzCLc3x+RSTBnkaAsqn6wWjcr/5sg4MP9JGKruRW5P3ZEVRntlBhYmBfzv8wgBbJI/o9Ike+zP2Imni8vJZlg3qeVaB4qYV3l70CDxnLj2I1yOLNSx1fuvZLaHs3iZ50hHcPzXR7F00SrsDhsHmegV8W3hlof90ID/56/YA67qMlqf5+2XbSrBgkqMR7gSFEsSPmR0Gi6hnPXNXzVMm+Lb8WgsWjnqCJ5ZUXgY=;zpsKxEZWq5eXfZbTuxiP5A=="
 ---
 
