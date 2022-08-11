@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nanogirl on how self-driving cars might need a gender setting"
-    excerpt: "This week we are talking self-driving cars and how they might need a gender setting on them!  Anyone who has bought a new car will notice more and more tec"
-    publishedDateTime: 2022-08-06T23:20:00Z
-    webUrl: "https://www.newstalkzb.co.nz/on-air/the-sunday-session/audio/dr-michelle-dickinson-nanogirl-on-how-self-driving-cars-might-need-a-gender-setting/"
-    type: article
-    provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
-    quality: 24
-    images:
-      - url: "https://www.newstalkzb.co.nz/media/14198122/475056080.jpg?rmode=crop&rnd=133043438860730000&height=395&width=635&quality=95&scale=both"
-        width: 635
-        height: 395
-        isCached: true
   - title: "Where’s my self-driving car?"
     excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"
     publishedDateTime: 2022-08-08T09:00:00Z

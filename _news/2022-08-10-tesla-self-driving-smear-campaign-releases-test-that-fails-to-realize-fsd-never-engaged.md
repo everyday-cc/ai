@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 255
+heat: 265
 published: true
 
 provider:
@@ -216,6 +216,20 @@ related:
     quality: 39
     images:
       - url: "https://knowtechie.com/wp-content/uploads/2022/06/tesla-logo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
+    excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
+    publishedDateTime: 2022-08-11T16:33:00Z
+    webUrl: "https://knowtechie.com/tesla-fsd-apparently-has-trouble-not-hitting-little-kids/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
         width: 1000
         height: 600
         isCached: true

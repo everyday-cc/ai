@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 751
         isCached: true
+  - title: "Facial recognition might work better with a dedicated capture device, like all other biometrics"
+    excerpt: "Facial recognition would probably work better with images taken from a dedicated device, rather than one designed to capture good pictures of unrelated objects like landscapes, Arun Vemury said during a recent episode of the ‘Technologically Speaking ..."
+    publishedDateTime: 2022-08-11T17:31:00Z
+    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-might-work-better-with-a-dedicated-capture-device-like-all-other-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Corsight face biometrics integrated with safe city solutions by Affluence subsidiary"
     excerpt: "OneMind hypervisors will integrate Corsight’s facial recognition technology, which was recently recognized for proactive reduction of biometric bias by NIST."
     publishedDateTime: 2022-08-09T20:36:00Z

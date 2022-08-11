@@ -90,6 +90,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
+    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
+    publishedDateTime: 2022-08-11T16:57:00Z
+    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
+        width: 1267
+        height: 713
+        isCached: true
   - title: "Meta AI's BlenderBot 3: 5 things to know about the chatbot that learns from interactions"
     excerpt: "Meta AI, the New York City-based artificial intelligence laboratory of Meta Inc, has built and released a new state-of-the art chatbot, called BlenderBot 3 (BB3), and is letting members of the public interact with the system to get a feedback on its capabilities."
     publishedDateTime: 2022-08-07T08:30:00Z

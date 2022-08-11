@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/videos/news/army-gets-high-tech-ai-su
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/news/army-gets-high-tech-ai-surveillance-at-borders-systems-to-keep-watch-china-pak-101659881292708-amp.html"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
-    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
-    publishedDateTime: 2022-08-07T00:30:00Z
-    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 31
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
-        width: 700
-        height: 406
-        isCached: true
 
 secured: "I5X/1pdzBBR5W0cX5gnpZnMgJNAKLU3Brdmd+t5H2T/QEUqm884JMqXeWoscIrA7FNUqKdqu2psfWOvKih+tb5mW0sgSLD4IQ4mxQhenXyeFIEiKtFzVZhx3ZfghXQsiKu+OZrzaSJj1vziOp2tRIAEVEDRBGqwPcVWLoJwquUiZQd2TrXQpx6UMig4QhsAo3ZwEzImGq5dPaUIpy0dEot6Unpj75jcuwemYSgJf3ZOWU9JoQDtYnfS/DIr1I1kjI26ldVLnkjDRDSl37npxeOzh6vmAwPGzOI8ikg+qhdnHX70W+p8CU49/J5GhiJkWALzI6kR/RI6x3vYScOwk3s6a9cC5OSSE5CicO6HtMtvhOW+uyQf3Pd3aRHeF9on/n5bnjOiBLkyh/q+Ff1dieJG/pL2y5Mmo9Aj1aogElJ8TTrXECAbwZl7XCVRtoes4MHnnqQ2GoAHOx92C36MboF4i9hlvJpSMjBHEQcAUZDDesf2rWSDOyxFRM3WSC66AkoBGg0dIQuQc7hogcjGQ2Q==;zeDLjHoXgKNiu26cidbkVw=="
 ---

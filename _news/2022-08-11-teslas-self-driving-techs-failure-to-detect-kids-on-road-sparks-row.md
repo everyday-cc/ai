@@ -215,6 +215,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
+    excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
+    publishedDateTime: 2022-08-11T16:33:00Z
+    webUrl: "https://knowtechie.com/tesla-fsd-apparently-has-trouble-not-hitting-little-kids/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla is Lying About its Autopilot and Self-Driving Features: California DMV"
     excerpt: "Tesla ’s autopilot and self-driving claims are getting investigated yet again, and this time the California Department of Motor Vehicles is leading the charge. That’s according to a complaint that was filed at the end of July."
     publishedDateTime: 2022-08-08T17:10:00Z

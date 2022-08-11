@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition might work better with a dedicated capture device, like all other biometrics"
+    excerpt: "Facial recognition would probably work better with images taken from a dedicated device, rather than one designed to capture good pictures of unrelated objects like landscapes, Arun Vemury said during a recent episode of the ‘Technologically Speaking ..."
+    publishedDateTime: 2022-08-11T17:31:00Z
+    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-might-work-better-with-a-dedicated-capture-device-like-all-other-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Corsight face biometrics integrated with safe city solutions by Affluence subsidiary"
     excerpt: "OneMind hypervisors will integrate Corsight’s facial recognition technology, which was recently recognized for proactive reduction of biometric bias by NIST."
     publishedDateTime: 2022-08-09T20:36:00Z
@@ -56,6 +70,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "t5+FPJTlMQkq5LvygH37JxiuX1b3+qPKbEGeHKN0j27goSGUy8E+JHjUasnJzAYlyYqFj1p3tPuVVaExyotWoyU2ObQQed9VVtQoriJVWCAflb+vf9a9oI/bnw14UwlL82GbITNx8wfD+ihqR4IvyvIMw8aS6MK9rSkAUKFVdCMctZzaw/Rs/l/yu0GqpIMNrTpm6Efn0Bq1SdcFnVCczFPoQKUrjof8XfEgaNO4i6yBXATxkAYNSAQaxiqIBjYaMAgd5hCiotPbL7aBJpYL0LkGi67Eu1zU9Kz6lIvf+f8WnMkrE8RZgQKtjL2Va0OPGZSrTzj26Vk7VZba6A+eVT/XAepwmVQIlmGyVmSjulE=;KfevKtpSOtc3V1e9GPJylQ=="
+secured: "ik/uY7ZT6JIXx3gVeaOR06tdvH/G07fn5aLPRDSD23Raw5Wt9LwMizil+aV5P09pzrXH3It46TkQ5hBR1OOjEpfkf0ZrIRVv0K4QBWBjyBw00D9oQHpB51T9aKNZ+5wcZ4qk2cR+F87VyyTRHvEzqHAx+18g3QCcRxRMc9DWxc3zY29Chz1js9BQGac+WcymyAWJA8WUC/GTxHE33WnSxRft7p0mqKSZxbvQNGLJ/0+y0YnTTvBkRXuZQNHUm88YWqMwkA/T7ZqVvcZTHJ+3JqLvUyGZ/UCOtxAp3HVLJWAvuNwGyKVfxOU2QVdXXWO/Ry7W4pSOn+lOoNBcXJyhSMfVpEI0GEYm2IBY35PFW8agsOF1Kbsczo0x6Uyl+6Nd8ic0QwEhhjIjGbgqGay+cbutHxQdE7wCJWps4okC9i1U76LoW5P5Y9Qh2D3x2jRYNnWauZKicdSqfhzj1yPh+O+cNB/TIkOG2Bsy71KQgTl6mc4Czn0WgLM+j/RwWbQkrD9Il65lOa8E1uH0ibVs4A==;I7bFJmYCw10GkkfTBbORkw=="
 ---
 

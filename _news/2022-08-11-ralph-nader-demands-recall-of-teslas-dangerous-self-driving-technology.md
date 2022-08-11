@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/techland-when-great-power-compet
 webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/ralph-nader-demands-recall-tesla’s-"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
+    excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
+    publishedDateTime: 2022-08-11T17:27:00Z
+    webUrl: "https://www.barrons.com/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-602198/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ralph Nader calls for NHTSA to order removal of Tesla Full Self-Driving"
     excerpt: "The auto-safety firebrand and former third-party Presidential candidate called FSD \"one of the most dangerous and irresponsible actions by a car company in decades.\""
     publishedDateTime: 2022-08-10T18:15:00Z

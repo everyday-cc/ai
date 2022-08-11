@@ -75,6 +75,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
+    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
+    publishedDateTime: 2022-08-11T16:57:00Z
+    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
+        width: 1267
+        height: 713
+        isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
     publishedDateTime: 2022-08-07T11:47:00Z

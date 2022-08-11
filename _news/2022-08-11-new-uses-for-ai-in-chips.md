@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-11T07:05:00Z
 originalUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
 webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
 type: article
-quality: 56
-heat: 76
+quality: 58
+heat: 78
 published: true
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI Hardware
   - Machine Learning
+  - Computer Vision
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"

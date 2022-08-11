@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-i
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New AI Facial Recognition and Emotion Detection Solution Powered by Intetics"
+    excerpt: "As a natural progression of facial recognition technology, emotion recognition is a field of computer vision that is gaining more and more attention in mass media. It involves facial emotion detection"
+    publishedDateTime: 2022-08-11T16:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28459827"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459827"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "The Role of AI in the Digital Marketplace"
     excerpt: "As the global digital footprint continues to grow, privacy and security concerns grow with it. For Crispin Pikes, CEO of Image Analyzer, this could no"
     publishedDateTime: 2022-08-10T14:14:00Z

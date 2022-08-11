@@ -225,6 +225,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
+    excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
+    publishedDateTime: 2022-08-11T16:33:00Z
+    webUrl: "https://knowtechie.com/tesla-fsd-apparently-has-trouble-not-hitting-little-kids/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 38
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla Model 3 Self-Driving Tech Is Not Ready For Roads; Runs Down Dummy Child During Safety Test"
     excerpt: "The Dawn Project report claims that the Tesla Model 3 failed to identify the child mannequin during the self-driving test."
     publishedDateTime: 2022-08-10T13:02:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
+    excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
+    publishedDateTime: 2022-08-11T17:27:00Z
+    webUrl: "https://www.barrons.com/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-602198/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ralph Nader Demands Recall of Tesla’s ‘Dangerous’ Self-Driving Technology"
     excerpt: "Nader has long been associated with the issue of automotive safety, having authored the book “Unsafe at Any Speed: The Designed-In Dangers of the American Automobile” in 1965."
     publishedDateTime: 2022-08-11T05:00:00Z
