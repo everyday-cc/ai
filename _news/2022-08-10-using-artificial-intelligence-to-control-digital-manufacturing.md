@@ -41,6 +41,22 @@ related:
         width: 434
         height: 474
         isCached: true
+  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
+    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+    publishedDateTime: 2022-08-08T19:00:00Z
+    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Three digital marketing tools that use machine learning"
     excerpt: "One big challenge most companies face when selecting the right software is determining the right tool depending on their existing workflow."
     publishedDateTime: 2022-08-10T20:39:00Z
@@ -54,22 +70,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2020/06/google-incognito-mode-main-400x240.jpg"
         width: 400
         height: 240
-        isCached: true
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-    publishedDateTime: 2022-08-08T19:00:00Z
-    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
     excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."

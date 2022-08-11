@@ -40,6 +40,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "IIT Mandi uses AI-enhanced research algorithm tools"
+    excerpt: "Researchers from the Indian Institute of Technology, Mandi have used artificial intelligence-enhanced operation research tools to select wastewater management methods to meet the specific socio-economic needs of places and environments."
+    publishedDateTime: 2022-08-10T23:49:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-mandi-uses-ai-enhanced-research-algorithm-tools-757220"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 37
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/08/10/1307317-algorithum-tools.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "J95t7sD9IOpqKirrVZZOoZo5ngZrPwQ/SHxYDe2jyWlnxyKvjTlKCTVFzjuib3t2SuUXu3lVThX69R8xyStlL+oC07N3JTKxyUT6bBLg1o+/B6Yk83PDu0QLb0lvfCYxKdAHLJOzgXTmVzvO99M3RjB/c+6V4xm5pnxo+iSQXrmEK2ZlRnwuVB7a2Qd2ES9Q5SrgO+izGixiFP8wi9uq7NLLCKMsWcs3VKLy8tulelWOpP4TU9vTawvWAHKJv/vIjmMJg3ciJmItJKCWAR+CKkH93XuvUH+9X/y5lxVJmI3NeTJSehuHV3JAe02AEyO2jYONoDwalGY0ZqS3UVRTTW0F1XODTtrdl0/DEUORacs=;DESqoBFvGLP/wJHN9OwiZA=="
 ---

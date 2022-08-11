@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/opinion/columns/artificial-intelligence-is-giv
 ampWebUrl: "https://www.livemint.com/opinion/columns/artificial-intelligence-is-giving-drug-discovery-a-great-big-leap/amp-11659890608000.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/artificial-intelligence-is-giving-drug-discovery-a-great-big-leap/amp-11659890608000.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Google AI
 
 images:
   - url: "https://images.livemint.com/img/2022/08/07/600x338/oped2_1659890783288_1659890790281_1659890790281.jpg"

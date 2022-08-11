@@ -88,18 +88,18 @@ related:
         height: 600
         isCached: true
   - title: "Baidu wins approval for China’s first full driverless taxis"
-    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-    publishedDateTime: 2022-08-08T02:23:00Z
-    webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
+    excerpt: "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ..."
+    publishedDateTime: 2022-08-08T04:50:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: The Star
+      domain: thestar.com.my
     quality: 54
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
-        width: 506
-        height: 337
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
+        width: 1240
+        height: 827
         isCached: true
   - title: "Fully self-driving taxis approved for two major Chinese cities"
     excerpt: "The vehicles, operated by parent company Baidu, are the first-ever fully driverless licensed robo-taxis in China, FT reports."

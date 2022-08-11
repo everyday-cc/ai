@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-08T13:23:00Z
 originalUrl: "https://www.fooddive.com/news/tastewise-food-trends-artificial-intelligence/628677/"
 webUrl: "https://www.fooddive.com/news/tastewise-food-trends-artificial-intelligence/628677/"
 type: article
-quality: 5
-heat: 5
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "ROz8Okt6JoKpVmFcoQ/3BA0Baee6dL0hlKqUBdNeQXjHgWqT14PkArFVE8WP9ErgFPMKoz7JquN4fWmN6xrMupLs8Sf14gtar9oKleyXAoGl/MM5Mn47BLBXq5p3//eG6Bnmz8RPX3F7QZj/fI+IxwuVdIduuLAXceOKOPJ/tWPmK1J26xSiLCCoLP9bBY1nJ8QfwBCQqgz3Feel6e8HXow/7xwIajgeXt5WXiCq/uwld57ZsG8JAKikFT2eLJF4sFWuaPe2qkh2un1kDl+dEQJypwXv8mi5IPa+pSkY7tKCk4Y5xlwY13R8mS1VM4NImcMbzhTYwCirE5NSz7mink4+UQWkn5LyMvXnA2WtkjcSrSiFLzFyD6Zw5sp5IceMm4+pyDDj2ILdi7VtQG3X22NE070xHSAiMuZA1kzYywvh89F/NBeMyJxDnZumSQW+lAP8OqYXvtnylDEUspbP/hoTRHXcFZGZZFWGJNRE0I2lTzALHVKYseQVRy9Giynm4KAq/KMQ9oYn74CrrDt3+g==;rQysQFFlvTw5UMsqeWr2UQ=="
+images:
+  - url: "https://www.fooddive.com/imgproxy/Pt_BuRzzNFF07nXS53fCZC7oyZ3JSyfFntZkwO8Ekfw/crop:1918:1036/g:nowe:1:82/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1Rhc3Rld2lzZV9Gb3VuZGVyc18yX0Fsb25fQ2hlbl9yaWdodF9hbmRfRXlhbF9HYW9uX2xlZnRfUGhvdG9ncmFwaGVyXy1fSGFkYXJfQmVybC5qcGcuanBn.jpg"
+    width: 770
+    height: 364
+    isCached: true
+
+secured: "HSaE1yhVP0sg+kk7usxvxf5plk/Rh+FvhXSvMDI8jYX7prgt89k1S2kCMoo2Qfa6DfAgUasxyigulteiv5JLo1AH15uZTeyKZNGdGf+VleSqoeGKWOeT1QoZmkoXPqKAr6vM5hXDKOpuQceuaGRlRwSLSsKBa6Z1NTVicX5SJnsXMtAmvGejEpZiBHBx210siBk1rZu1p7ERxkAsIjQXriUa5Nqv/pVihEAT3dngdzFWs2ForPXRQ8TE7z+iogGFZjibzV+b3JM9+v1dI4JLdXUTYor2tswHNilX7ASi3Rb8SCLVGYBBEd7c3LczKNxPBFTwOKTbtx2M1sfNnqGjS1evdE5/y3zsZ8KjZ/jRcoA=;W1xjVDvDwCDq8oHupqGTCQ=="
 ---
 

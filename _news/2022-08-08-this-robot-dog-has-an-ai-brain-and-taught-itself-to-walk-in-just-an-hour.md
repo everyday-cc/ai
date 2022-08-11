@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

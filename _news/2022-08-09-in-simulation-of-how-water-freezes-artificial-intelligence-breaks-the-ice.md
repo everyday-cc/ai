@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.ht
 ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
@@ -89,6 +90,6 @@ related:
       domain: dailyherald.com
     quality: 1
 
-secured: "7VjnUmUw44FxHn6Re+cDgFWrgrtqUqbsX/WmvRGx3Mdvmul8mL5roKnxN6YLLIRWslysmapMxPqaY5yNPDiCNgTvrAAKDwrTG54AlZM0Dd4w1kwWKR2RsEFrWS+WxboZ8Bsj6QLRStHxbuhg8AbXXJuK5zEZdxfKEAsT3Fg6z1E2rySdlOaQdvqrKewP9F6kGP6tB9If2Y9qd0xlW5LvjbIWNa43OFoR6+Suiu0QMuLlS7Z4sxFZPjsgOCPVG5b1PXbcuqpXc0SB/QeMkovSDL2XAN7SKUtLD9pjYElhD2YzorXrqndmPl+yAJmKLo3Q1elkEdOUmAONmkfEYxsOMHBaPcrUmHJ2XnaMgAQxevo=;AF6B2hKmkAUkvc3v3Q7m0g=="
+secured: "LHM/Pm4cAghGsoH+IyoMjOMaOvwlIEx6MgIRgP1Hx4TiW16Z/o3jDr2gr/hs6MDd2fQYi59ajJw2ehmLMRkAvElsTU5ABi3dE8mD+bkro6LW1kd0sUI2M7uUqnz7fiUmfZTwU284XbOjhvnJCLCQ1+50VZ+3VXxZ3bFcU0nR5Q2Md3bkJTOvIaQtV+zvApN/bOXlfj1YMGd/VlW+P8z/z7zqal2aD6y66ynOO1K6gspLdyPFB2Aiw0fxJWU7JSEfhFPpnYLhr0GeNjqwNFWx/W80j2sd9OYbrNAkZiLPNxk9Ev1bD/DZZMr5Rv3uB3H8xO/3tkDoVnO037KuanQbC+Gelqz/2BAZdijP1h61/SZb8V1KxVK+2qa6hcM/OveGFFH7xpHefpWJvjXXokIP/xjS323fzg31DDlUn/zLe/EyIs9PjEDqG/mKSOlNVMaBU03q9irDsnKIuWHWE4eprD4vmPlZ0M4OiRIn+3HCikTx9sUtKSLCXcZ68dnURugM2jZFFHJd09nkyWa7yTYXkA==;4zamn5tJtQIjS5lSfK9LSA=="
 ---
 

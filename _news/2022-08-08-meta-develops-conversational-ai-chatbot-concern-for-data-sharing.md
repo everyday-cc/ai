@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversa
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
+    excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
+    publishedDateTime: 2022-08-09T21:16:00Z
+    webUrl: "https://www.niemanlab.org/reading/metas-ai-chatbot-repeats-election-and-anti-semitic-conspiracies/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 17
 
 secured: "34Gg0TGtWDZHgLubCjRPF1lZv7PKu3zRTwhlW0P0X61v6BymCFUglgbfMNY3QgB2LwcIptSOMyUFSmos6b5D4tQZ/VCZRgiht6wjXmCO2twddb6cK+uAGCZAwtkGKWgXWDTyyWfF1u/+S9J5j6whO01xQoHuY85S+KEHiFGvJzX/ZsErO1SrYed6OYYEKK0Cj9sZwPBJpN8pyWjUHhW7mfYMzH9OKszIfUMqCqOHESrjlnD8Ssrs/9iXI9KpaPO8VQcfssqbWTbDfv55hC6GM9l6UchVyFpj4URx0T5LbRUdzTvICo0mAszhO5DTsey7CKsoT62n1ohk0BEOY0HQDeD5cxaA/+wOiOGy1z+xC/M+KFncohI1q2BzKaLTm6DOUMhrPY051wsyLC+yI5jv5uugYsDZ/oq5yur2fES71SdODjGSAVyiJVDcN0pH74wJVX4PwLhtyDoLXEfzDxsDIMzOBw5PjjmX+XrlRxxnxwr1XZ6TZ13jqF1qU/cB3KC3IT/+fKx0+ccUIc8AKQYrhA==;mq5RGUFyl1oTmSqr00Zo7A=="
 ---

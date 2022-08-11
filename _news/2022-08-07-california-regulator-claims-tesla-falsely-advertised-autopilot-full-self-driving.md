@@ -145,21 +145,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving features"
-    excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T05:22:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-features/article65735350.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-features/article65735350.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-features/article65735350.ece/amp/"
+  - title: "Ralph Nader Begs NHTSA to Pull Tesla's \"Full Self-Driving\" Software"
+    excerpt: "Now, Nader is turning his ire toward Tesla and its \"Full Self-Driving\" (FSD) software which, despite not being final, is currently in use by thousands of ordinary drivers in a \"beta\" test form. The National Highway Traffic Safety Administration (NHTSA) is currently investigating several car accidents (some of them deadly) in which Tesla's Autopilot feature—a very pared back driver assist that shares some sensors and nascent capabilities with parts of FSD—are implicated as possible causes for the incidents."
+    publishedDateTime: 2022-08-10T21:45:00Z
+    webUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/"
+    ampWebUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 64
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
     images:
-      - url: "https://th-i.thgim.com/public/incoming/m0fq56/article65735365.ece/alternates/LANDSCAPE_615/2022-08-04T171955Z_1047279609_RC2SPV9BM8Q2_RTRMADP_3_TESLA-AGM.JPG"
-        width: 615
-        height: 383
+      - url: "https://www.motortrend.com/uploads/2022/07/Tesla-Model-X-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla falsely advertised Autopilot, Full Self-Driving, says California DMV"
     excerpt: "Vehicles equipped with Autopilot and Full Self-Driving technology \"could not at the time of those advertisements, and cannot now, operate as autonomous vehicles.\""

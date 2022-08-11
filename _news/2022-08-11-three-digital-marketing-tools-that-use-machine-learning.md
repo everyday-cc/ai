@@ -52,7 +52,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 55
+    quality: 57
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
         width: 2560

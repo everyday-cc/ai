@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook"
+    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
+    publishedDateTime: 2022-08-10T23:48:00Z
+    webUrl: "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
     excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
     publishedDateTime: 2022-08-06T15:28:00Z
@@ -68,7 +84,7 @@ related:
   - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
     publishedDateTime: 2022-08-09T17:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
     type: article
@@ -80,38 +96,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
         width: 620
         height: 372
-        isCached: true
-  - title: "Meta brings its latest AI chatbot on web"
-    excerpt: "\"We are committed to publicly releasing all the data we collect in the demo in the hopes that we can improve conversational AI,\" Kurt Shuster, a resea.."
-    publishedDateTime: 2022-08-06T06:19:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/meta-brings-its-latest-ai-chatbot-on-web/93386233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93386233,imgsize-45202,width-1200,height-628,overlay-ettelecom/meta-brings-its-latest-ai-chatbot-on-web.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies"
-    excerpt: "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock."
-    publishedDateTime: 2022-08-10T18:20:00Z
-    webUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/"
-    ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
@@ -170,45 +154,34 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
-    excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
-    publishedDateTime: 2022-08-09T14:18:00Z
-    webUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357"
-    ampWebUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
+  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
+    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
+    publishedDateTime: 2022-08-08T14:22:00Z
+    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
     type: article
     provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 43
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 36
     images:
-      - url: "https://i2-prod.buzz.ie/incoming/article26660675.ece/ALTERNATES/s1200/1_GettyImages-1182969866.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
+        width: 700
+        height: 394
         isCached: true
-  - title: "Poll campaigns get interesting with Deepfakes, chatbots & AI candidates"
-    excerpt: "The world around politics is changing as people nominate AI bots in elections, deepfake videos are circulated by political parties and AR and 3D holograms get popular in Indian politics."
-    publishedDateTime: 2022-08-09T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/poll-campaigns-get-interesting-with-deepfakes-chatbots-ai-candidates/"
+  - title: "What will Facebook do?"
+    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
+    publishedDateTime: 2022-08-08T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/deepfakes-and-indian-elections-1.jpg"
-        width: 1600
-        height: 900
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
+        width: 1008
+        height: 529
         isCached: true
-  - title: "Meta's AI chatbot has some election-denying, antisemitic bugs to work out after the company asked users to help train it"
-    excerpt: "Meta's new Blenderbot AI learns from users interacting with it, causing the chatbot to repeat election-denying claims, antisemitic tropes, and conspiracy theories."
-    publishedDateTime: 2022-08-07T23:46:00Z
-    webUrl: "https://www.businessinsider.com/meta-ai-chatbot-blenderbot-election-denying-antisemitic-bugs-artificial-intellignce-2022-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
   - title: "Meet BlenderBot, Meta’s AI chatbot, that loves slamming Facebook"
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
     publishedDateTime: 2022-08-09T17:26:00Z
@@ -218,15 +191,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
-    excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
-    publishedDateTime: 2022-08-09T21:16:00Z
-    webUrl: "https://www.niemanlab.org/reading/metas-ai-chatbot-repeats-election-and-anti-semitic-conspiracies/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 17
 
 secured: "r4vUJjSTXXqa3MZc3nfmaadkvx6h67OZ7hHT8JPkg38vvDxNM5qwVjd04OiQzl10EpRYi086d2KgqZtp2fqQuRAQGI6gQ7FmVecLjsr7qnzRXFMhMxPgcwaH3IpbqYVPA/hr0G+6Adgn8oXGKwoEu7gsyZXjvQPEOvxlNWjnYF8Z1fzwN6xoOaguql4GSs0e3662Efumb5xXZghuRGlN8no4Dae7tbRakfjycMFJipXU6X1MrMBELwNpmkbYDNY21OwxVSZuEYKu/xt70sPqspW0+8ccH3QiYRMprJGqn9yVlV3mV93s7NU4XGKffjbXbUOAnluMno55W/S7PnqE58U6adcdHJxz8GXjTQMCBBo=;28gTiCirdnl34NKbHZXGQw=="
 ---
