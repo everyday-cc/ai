@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Size is projected to reach USD 91 Billion by 2030, growing at a CAGR of 27%: Straits Research"
+    excerpt: "Natural language processing (NLP) is a well-known artificial intelligence component widely used in consumer digital assistants and chatbots, as well as"
+    publishedDateTime: 2022-08-11T19:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28461907/natural-language-processing-market-size-is-projected-to-reach-usd-91-billion-by-2030-growing-at-a-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28461907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28461907"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34."
     publishedDateTime: 2022-08-08T19:13:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T19:20:00Z
 originalUrl: "https://venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/"
 webUrl: "https://venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

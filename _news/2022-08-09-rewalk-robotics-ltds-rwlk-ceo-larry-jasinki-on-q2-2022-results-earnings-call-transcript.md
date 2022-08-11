@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T14:40:00Z
 originalUrl: "https://seekingalpha.com/article/4531973-rewalk-robotics-ltd-s-rwlk-ceo-larry-jasinki-on-q2-2022-results-earnings-call-transcript"
 webUrl: "https://seekingalpha.com/article/4531973-rewalk-robotics-ltd-s-rwlk-ceo-larry-jasinki-on-q2-2022-results-earnings-call-transcript"
 type: article
+quality: 23
+heat: -1
+published: false
 
 provider:
   name: Seeking Alpha
@@ -14,6 +17,59 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "ReWalk Robotics Ltd. (RWLK) CEO Larry Jasinki on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 9, 2022 8:30 AM ET Swayampakula Ramakanth - H.C. Wainwright & Co Welcome to the Second Quarter 2022 ReWalk Robotics Ltd. Earnings Conference Call. My name is Richard and I will be your operator for today’s call."
+    publishedDateTime: 2022-08-09T14:40:00Z
+    webUrl: "https://seekingalpha.com/article/4531973-rewalk-robotics-ltd-rwlk-ceo-larry-jasinki-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 44
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Tattooed Chef, Inc. (TTCF) CEO Sam Galletti on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Results Conference Call August 8, 2022 05:00 PM ET Company Participants Devin Sullivan - Investor Relations, Senior Vice President,"
+    publishedDateTime: 2022-08-09T00:25:00Z
+    webUrl: "https://seekingalpha.com/article/4531686-tattooed-chef-inc-ttcf-ceo-sam-galletti-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Stereotaxis, Inc. (STXS) CEO David Fischel on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 9, 2022 10:00 AM ET. Company Representatives. David Fischel - Chairman, Chief Executive Officer. Kim Peery -"
+    publishedDateTime: 2022-08-09T19:39:00Z
+    webUrl: "https://seekingalpha.com/article/4532144-stereotaxis-inc-stxs-ceo-david-fischel-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Rackspace Technology, Inc. (RXT) CEO Kevin Jones on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 09, 2022, 05:00 PM ET Company Participants Robert Watson - Vice President."
+    publishedDateTime: 2022-08-10T03:53:00Z
+    webUrl: "https://seekingalpha.com/article/4532339-rackspace-technology-inc-rxt-ceo-kevin-jones-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 0
 
 secured: "31wMUl6y9o0SU9kz41twKlPSdOy9MpyUpSYRVDv5Ih2gyM8Nw9oLur5B2rm5ilM1eQevjhagoqPUermrMFXkWfY+qyR1VXKYAt3jqD6fO/7ul5CcN5nQna0JoyE/csDW/AyHFCG4YG15WFCDHWWLrJMHHSxcRe+Sd7POB9MwCfQSH8rKdcqWRt0CEiC1LTOmrcd0qIsT1iFiAyMZiSRRH/gtVvT+a9reJnNr2ARFB1Zc10qNgHXKux+SlWKLdR0UQGY7l68rT/NFNWNS8DXG3a6zjoPveM6wZCQTYYxRLxTlSlgWP0vqYRvEmTWyY79upM3doIjfiuNOtTarIqMbAWwTRAgoAd+YpSw2Xz2WDn8=;Gpq4sgK1edyf82AZH+WyVA=="
 ---

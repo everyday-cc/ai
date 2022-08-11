@@ -21,6 +21,20 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Data Sourcing Still a Major Bottleneck for AI, Appen Says"
+    excerpt: "Data is the lifeblood of machine. You’re not building anything AI-related without it. But organizations continue to struggle to obtain good, clean data to"
+    publishedDateTime: 2022-08-11T21:06:00Z
+    webUrl: "https://www.datanami.com/2022/08/11/data-sourcing-still-a-major-bottleneck-for-ai-appen-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/brain_AI_shutterstock_Pixels-Hunter.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Appen’s Annual State of AI and Machine Learning Report Identifies a Gap in Ideal Versus Reality of Data Quality"
     excerpt: "Appen Limited (ASX:APX), the global leader in data for the AI Lifecycle providing data sourcing, data preparation, and model evaluation by humans at scale, today released its eighth annual State of AI and Machine Learning report."
     publishedDateTime: 2022-08-09T13:04:00Z

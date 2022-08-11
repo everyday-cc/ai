@@ -215,6 +215,22 @@ related:
         width: 847
         height: 635
         isCached: true
+  - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
+    excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
+    publishedDateTime: 2022-08-11T21:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 47
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
     excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
     publishedDateTime: 2022-08-11T16:33:00Z

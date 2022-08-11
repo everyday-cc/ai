@@ -27,7 +27,7 @@ related:
     provider:
       name: Automation
       domain: automation.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://www.automation.com/getmedia/a53f997d-3702-41cc-9a76-4998998a4b13/ISA-aug-feature-photo-web.png?width=500&height=313&ext=.png"
         width: 500

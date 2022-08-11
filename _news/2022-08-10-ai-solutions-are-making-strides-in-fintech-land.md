@@ -128,7 +128,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 10
+    quality: 12
   - title: "Jellysmack Hires FinTech Chief to Expand Financial Solutions for Creators"
     excerpt: "In his new role, Marmor will spearhead JellyFi which will expand Jellysmack’s financial and capital solutions for creators. The initiative will enable creators to unlock their full business potential through new financial technology tools the company is developing."
     publishedDateTime: 2022-08-10T15:00:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "$20 million self-driving vehicle testing, training facility to be built in East Huntingdon"
+    excerpt: "A $20 million facility for testing and research of self-driving vehicles will be built in Westmoreland County, state officials announced Thursday. The project unveiled by PennDOT Secretary Yassmin Gramian will be built on about 100 acres of state-owned land at the Regional Industrial Development Corp."
+    publishedDateTime: 2022-08-11T21:21:00Z
+    webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 29
+    images:
+      - url: "https://assets-varnish.triblive.com/2022/08/5327977_web1_gtr-TestTrack-081222.jpg"
+        width: 640
+        height: 323
+        isCached: true
   - title: "Where’s my self-driving car?"
     excerpt: "Google’s self-driving car arm—launched the world’s first robotaxi service in Phoenix. You can download an iPhone app and hail one of its driverless minivans, just like an Uber. And earlier this year,"
     publishedDateTime: 2022-08-08T09:00:00Z

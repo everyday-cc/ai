@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "ReWalk Robotics Ltd.'s (RWLK) CEO Larry Jasinki on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 9, 2022 8:30 AM ET Swayampakula Ramakanth - H.C. Wainwright & Co Welcome to the Second Quarter 2022 ReWalk Robotics Ltd. Earnings Conference Call. My name is Richard and I will be your operator for today’s call."
+    publishedDateTime: 2022-08-09T14:40:00Z
+    webUrl: "https://seekingalpha.com/article/4531973-rewalk-robotics-ltd-s-rwlk-ceo-larry-jasinki-on-q2-2022-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 23
   - title: "Tattooed Chef, Inc. (TTCF) CEO Sam Galletti on Q2 2022 Results - Earnings Call Transcript"
     excerpt: "Q2 2022 Results Conference Call August 8, 2022 05:00 PM ET Company Participants Devin Sullivan - Investor Relations, Senior Vice President,"
     publishedDateTime: 2022-08-09T00:25:00Z

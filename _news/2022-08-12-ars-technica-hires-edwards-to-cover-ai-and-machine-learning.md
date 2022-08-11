@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T19:46:00Z
 originalUrl: "https://talkingbiznews.com/business-media-news/ars-technica-hires-edwards-to-cover-ai-and-machine-learning/"
 webUrl: "https://talkingbiznews.com/business-media-news/ars-technica-hires-edwards-to-cover-ai-and-machine-learning/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Talking Biz News

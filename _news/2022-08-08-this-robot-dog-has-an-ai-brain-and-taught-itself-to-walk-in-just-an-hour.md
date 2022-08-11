@@ -35,7 +35,7 @@ related:
     provider:
       name: Quanta Magazine
       domain: quantamagazine.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Self_learning_AI_1200_Social.jpg"
         width: 1200

@@ -35,6 +35,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "$20 million self-driving vehicle testing, training facility to be built in East Huntingdon"
+    excerpt: "A $20 million facility for testing and research of self-driving vehicles will be built in Westmoreland County, state officials announced Thursday. The project unveiled by PennDOT Secretary Yassmin Gramian will be built on about 100 acres of state-owned land at the Regional Industrial Development Corp."
+    publishedDateTime: 2022-08-11T21:21:00Z
+    webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 29
+    images:
+      - url: "https://assets-varnish.triblive.com/2022/08/5327977_web1_gtr-TestTrack-081222.jpg"
+        width: 640
+        height: 323
+        isCached: true
 
 secured: "zh8cm0nnDxOgu2avq0b6YRBmpdTs3cQywDGmEjBbJKI3Jar7YCnhJTigmxz/HHFjdPk3YxQgEhQoNI+S2mSIiq8ukqD9VMEU/LmlH7TfnJkCd8zPhbw8sG3ZyJkhwFnwbZH23if0gkocNDTkbBWqw9yvSF1JCBaSGJuHpoDQqSv0uf72N5KNyFsrn9V4Qy5jh03v9Ztfa73lxeq9+hIy6cXJuoC4T3yfRKnnVJp2NGz5/x+EUcjUz/lccKDMknGicbWt+8psusGEzRIGPQ3/JtSeH7Qs2lwMEJp8JNIUNPr/FNvPC1j4PXPDifOkQW27lJMphyjGQdyHs84EHaVe75hzWoHjFMYklTaY2tgc7qZq7hPr+QxaJTkkpgH95kfnhlRwTogKQzGbTBJXi2jNr5442mR6b1HLsR2gfhzYE6QnY7gkx2X2mI67zxanySQA3x2gZVyr8Xp37pEwWdfpTGBy/tI4E1mek84GnkxE1U0bjRVlCM3+KJ79Ayo0Yhtw4XXahcBEVXEBnR6Pa0fydg==;OdY8j0m+mYz+xkIKAWMlLA=="
 ---

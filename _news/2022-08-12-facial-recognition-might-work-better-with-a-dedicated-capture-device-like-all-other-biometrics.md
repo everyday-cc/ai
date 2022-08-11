@@ -70,6 +70,34 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
+    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
+    publishedDateTime: 2022-08-11T20:44:00Z
+    webUrl: "https://www.biometricupdate.com/202208/face-forensic-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Face Forensics launches victim identification system with biometrics and tattoo recognition"
+    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
+    publishedDateTime: 2022-08-11T20:48:00Z
+    webUrl: "https://www.biometricupdate.com/202208/face-forensics-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "gg4FptLPJqRWVlPOuRKdQHdvVHMTvxQrZ74ZSZs6KVfP1CThyo+gjFAyauNEeRNjRnI7y507kmjZB9hutD/Mr95TUHd6GCQQnBNKDUzA7apBE7YC+hJRF7qezsk6K/fKWI0zhaYGSGqSlcULUO1PUUj6e/QNvJy4U6FXzRT2i+b8sllNTfdw157Vu4Pzvdu2CL8zZbapfWQxBiH77mSIsesgMGEIUtSh+CIEWaPo47PRhgfKcthqXjol66KnQar4NOZQH5JWsH6kiDs3QuaAvt0tRPoF22ZMldXXzk7fqS5IeQ9TjXKBDGmOIqZbtkV5Nv9ZizD8PM3UkbgMwxGFLzqhuZajFFub3jTlWl+sMJw=;rqAs/GlHLjgTP79zrxZKng=="
 ---

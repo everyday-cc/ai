@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-09T00:00:00Z
 originalUrl: "https://www.automation.com/en-us/articles/august-2022/ai-machine-learning-human-intelligent-systems? Control News & Articles"
 webUrl: "https://www.automation.com/en-us/articles/august-2022/ai-machine-learning-human-intelligent-systems? Control News & Articles"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:

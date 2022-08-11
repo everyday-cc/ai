@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-11T16:00:00Z
 originalUrl: "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/"
 webUrl: "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

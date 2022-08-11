@@ -35,6 +35,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 38
+  - title: "Data Sourcing Still a Major Bottleneck for AI, Appen Says"
+    excerpt: "Data is the lifeblood of machine. You’re not building anything AI-related without it. But organizations continue to struggle to obtain good, clean data to"
+    publishedDateTime: 2022-08-11T21:06:00Z
+    webUrl: "https://www.datanami.com/2022/08/11/data-sourcing-still-a-major-bottleneck-for-ai-appen-says/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/brain_AI_shutterstock_Pixels-Hunter.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "sIfaa6qGRughB3FH//JnQMUIuLorHFJKp8Ob6u6Rsx0VXaLffyt4VXKQChPYt383tSusLGOUlT/fDazi02/VYQNIILLLt1IHXB00hZ99qaqI5ibMqkruALVMMytwgy0ap96bSUkjG0jYN1zWwb3SIM7Y7dWkLZtqJh9weaN9+Quov1WcY9HZ3ieGIl6fsMLG0ATCB52WS/leWfMjNKYYlv/n5uUs7+AGU+yCQc7mgBZPzY3yhWf9uVDwi82fWiPa0U0HoydVAy9Y44gTa7yxBd4XgjtKVZ/ADkESRbY9xPGsvsGnFN4IeBovAfov0COU6eriiLPQytnK2Gs4D9HL7eNbG41DZ5Td4fpv3hEsMZY0vWCSFDcAnTTVWVLsCp1oeqj5K8/OjGxAloZCEfFBYSz/GFVJfpJAK8VupSkdAr+NUItInWPgZPGG5D24Tgw//EXaFgcwVDlA4TrSOlsYx6LhEShUzKqjtMcvtcO6ycfUuLy5Bq5kLbNNvXnJn6V0pvJw13a7jby8EJD8IY0zHw==;/z+fPl2BMCH2Tsai4W5VgA=="
 ---

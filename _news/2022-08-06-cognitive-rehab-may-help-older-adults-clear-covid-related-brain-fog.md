@@ -8,9 +8,6 @@ webUrl: "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-f
 ampWebUrl: "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/"
 cdnAmpWebUrl: "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Kaiser Health News
@@ -26,6 +23,6 @@ images:
     height: 2560
     isCached: true
 
-secured: "RkU7ilVq+jfd1+x14Om2K65hkEzavblZSziT9oCrp1SesBPLmoRpVuHT1jw4Jg7j9VzPEJtqe07l7+1ImPRcqIOS85TacXGN0nUVphh7DucyhIvrQDEKQ/TbUj893fNQlyMEzAFCkodMudz1ojqnU3o+1zyI+AiUx4r3zQQ4lmBiQWEoKFjE8nKsGLg5ltYRjPlLpcNeSnam4wePcjs/4dmRTfI5I7kL0KmNemP+poU3hdd4LXbNZQAmfUE9FC3gm6lJVaY/6bCrwLKm35o0y3/0YU0Csxm82EsJi1npgEZy/DjNE+yrHkMiLIu8aGSlCeShdiJNzfWok9voPANCO9HfZMBToGUWWfFcNDzVYhY=;1mA7KtFUQ87RXfYJpM83Bw=="
+secured: "9RZ46il7D5dIQS3zIpx1Th4i+e6ElJNjMNvZweCGYxktstDt2GsPHOsy6jJKBzB+UjfBgsg7KcBg6cqmwGo9Meg5W+V7SEHV58Ye0c+0iKY6WyRRpT6lPtuAtBSDIWVxT72PPSKjQtXXCqpO20ymO9e6cCaY4emYYgDVMN3Z6PmH7uA0DMgmk2R4M2/SEauCgsmo1dT6/sAWCyefsBegGuEZdV6LouL5oNmxK97KLfRJWSoEJZ7D3cDPZKJ9CGBx9wfXrdiOxvIjp15KB1Jc+NCL0sz/4F5iD4CaAqQovebJEge/lkjkS1bFtIZKVqmQir0wWUAwe+fUahAnJF4Tv39zqGwK7nMuApwoh5QuMQw=;GoL2xUxolcd4SI+TtslAqg=="
 ---
 

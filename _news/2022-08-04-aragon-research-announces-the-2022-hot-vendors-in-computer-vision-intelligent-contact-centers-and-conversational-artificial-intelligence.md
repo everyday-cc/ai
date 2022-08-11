@@ -18,6 +18,13 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 secured: "/QUdTwcGMSz8ZQVmLnY3bYmLF38HeYEzVTePRjaLN0/vEi6DagTal0/PMbUKXboClMqb6AlndeghS57kRTf7b0RfsMNe/fxVkYocK7i/ukHaCM6Tx1Zzh4d7eiD/DKpK3PHoD+50Sh44NaLLwdDxeTzqtPZLaBeQKTGb+YlS6tip4ds9bJB/D36jBW0HU7MzqeS4UWx8yCWAoxvUPd8DNQqxcilFyhBNofXfvvBqjOQLoq3iuH26k+qX9g1/6dsO49QIhWf3t6v9NqASgGr2AhqTefdxWq4aV0Zais46/y8uX8HUykClGTDkMec2ZD1MZ8O0vGL0F9xioWmWIjNI5cvHEjZGhRckqp9UccSwn3I=;7Qjo1B5LrBtPuBKH450X1A=="
 ---

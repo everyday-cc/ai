@@ -34,6 +34,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "AI chatbots offer a way to connect with and engage customers"
+    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
+    publishedDateTime: 2022-08-11T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "miTqH2lEd5R36VDHgAdZICVbpwx9rMfnG1ANeSB1IWL8DhjCT80OuSpLyRDZyr3q4AU0Kv6E17LSsq6bKGv4ZxbdJIknq5piqWi+rFHw0RCuRA20ykHsgJB+BAuep6YIaSDtU3kTXBCDIQyzg5EbtuScmc19ilSTWeUoEnw4LzzvJUsexZkU1Pa2hOkBa/vPVDwAluEtStmKqBRdU9uhXVwxVsfBZrCsl9UuQMnfMun9nJpaqm4f3XzpYf74ZwN5d0l+miQxX6ZDG8hk+8v6XFUAoCemxynfZtvroDieOg/ki0i866JMqMfbWUH9FV/5xqUpe3s6Zzte+1oXxChnql4ChGjhUbr/4hNAXoqMkQM=;ALzZwQVpwivMUCOs3DUbuA=="
 ---

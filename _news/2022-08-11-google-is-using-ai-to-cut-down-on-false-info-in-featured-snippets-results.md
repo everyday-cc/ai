@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false
 webUrl: "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google says AI update will improve search result quality in ‘snippets’"
+    excerpt: "If you’ve ever Googled something only to be met with a little info box highlighting the top answer, you’ve encountered one of Google’s “featured snippets. Featured snippets are the little bite-sized Google results the search engine packages up and delivers to the top of the page for many searches."
+    publishedDateTime: 2022-08-11T19:09:00Z
+    webUrl: "https://techcrunch.com/2022/08/11/google-featured-snippets-ai-update/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Google rolls out new AI features to improve search results"
     excerpt: "Google LLC has updated its search engine with new artificial intelligence capabilities that will help improve the accuracy of search results. Pandu Nayak, a Google Fellow and the company’s vice president of search,"
     publishedDateTime: 2022-08-11T17:32:00Z

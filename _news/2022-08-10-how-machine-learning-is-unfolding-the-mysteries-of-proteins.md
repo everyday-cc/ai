@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T09:31:00Z
 originalUrl: "https://www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/"
 webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Marketplace

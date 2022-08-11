@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T19:00:00Z
 originalUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/08/11/prometric-acquires-finetune-testing-ai.html"
 webUrl: "https://www.bizjournals.com/baltimore/inno/stories/news/2022/08/11/prometric-acquires-finetune-testing-ai.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

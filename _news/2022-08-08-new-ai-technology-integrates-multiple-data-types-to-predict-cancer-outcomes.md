@@ -67,6 +67,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Revolutionizing Food Safety Through the Integration of Biomolecular Engineering, Nanotechnology, and AI"
+    excerpt: "According to the WHO, food safety is key to sustainability and economic security. Yet headlines daily detail the continual occurrences and serious impact of foodborne illness leading to a massive number of deaths and millions in lost work time worldwide annually."
+    publishedDateTime: 2022-08-11T21:44:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-food-safety-nanotechnology-f49f41f64d2467170a29686a60f56824"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "YP8Ax17Y3VC8nA8/Xv1xD8NbCb7iaiaXGYrHAjDPB3n0Bh+ggg3g+vZnUB2opU4Jcc8gSSmj6xBmlq/7T+ZaHBFltpIIktlAWncFB1UuVzg5rngywzD9SJh+kn8OEC1TUiHrMCHxQq3XDMATxKw/pm3olbfAX4djAgF085WVfhfLYzJZrHedub47TZgUkwxC0inCZo2nshywImaOgys0QOlqsdUlWt1GzMdBSEtgBH9kPJbjPcX9DsQFKEIdqQ6Sa//+0dhbSvSD8Kvt+czRpQwh/1s6I2D14t/mum4TooYiOFCSXl0xTdQnrlS9PgGXHGA6Vx6BF4JqKw2rEk2Oc/JgdUQxrPYBQOejpgZZE8KIjgGiYGAHANVxr8Y4e/tWKqP5+IBg34Z9finU7NOxXLWlDKUJBeDVNiz3T8t80UIfjySWc2a3IxEgsXJ6j4l17tQdu2uHP0EmJ9ySAJPtCkuv5HGc4ZJVLkuL+OUUASh+IaV5TVepkFFZ2MJSIRZruoIRxBLPEiU3DX48BUq8/w==;B8lDMtPrwzZ6xQX6/oFbaQ=="
 ---

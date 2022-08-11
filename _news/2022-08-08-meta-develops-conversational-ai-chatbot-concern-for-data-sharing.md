@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversa
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Mint
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI chatbots offer a way to connect with and engage customers"
+    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
+    publishedDateTime: 2022-08-11T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
     excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
     publishedDateTime: 2022-08-09T21:16:00Z

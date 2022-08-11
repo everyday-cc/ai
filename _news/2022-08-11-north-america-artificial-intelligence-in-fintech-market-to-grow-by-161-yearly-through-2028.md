@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-11T13:21:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-north-america-artificial-intelligence-fintech-market-grow-161-/2022/08/11/9654468.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-north-america-artificial-intelligence-fintech-market-grow-161-/2022/08/11/9654468.htm"
 type: article
-quality: 10
+quality: 12
 heat: -1
 published: false
 
