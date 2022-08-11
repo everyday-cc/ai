@@ -22,29 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning in Communication Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
-    excerpt: "A new report of Market Research Update titled “Machine Learning in Communication Market Analysis 2022-2027” is a detailed sketch of the business sphere in terms of current and future trends driving the profit matrix."
-    publishedDateTime: 2022-08-10T14:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2027-2022-08-10"
+  - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
+    excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
+    publishedDateTime: 2022-08-09T06:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
-    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
-    publishedDateTime: 2022-08-09T12:42:00Z
-    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
+  - title: "Artificial Intelligence In Regtech Market 2022 Business Scenario | Top Factors that Will Boost the Artificial Intelligence In Regtech Market Trend"
+    excerpt: "In the forecast period of 2022-2028, the Global “Artificial Intelligence In Regtech Market” is expected to grow at a steady rate, according to the Artificial Intelligence In R"
+    publishedDateTime: 2022-08-09T06:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-business-scenario-top-factors-that-will-boost-the-artificial-intelligence-in-regtech-market-trend-2022-08-09"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sF/kZj0rvYaz/3K/zF/1C0a8eKVPRbcBs0sX5pzdbYm8yu4SNh7M2wqzMpI+x+M4SSBDmDj/XCfMkEkhlH48c4A9YmEU7oT9In+rD7G/yBuPKoefs2upoERP7V5qHtuzCfEZpW7sTfMUKI77Ulqr3/clkxlNLXm8R+tcYLGtUpTE3wYekiv9XNbNDS6cVMRzyt8OlsLeAwLP73c2WebCKytQkqqoyxVyxTJydmQrZmhgxZF3goqhxY1KOQRwXnytuMOuC8wvLjZa0VIZmT/O0CoofuhD7wYqX5doXMGvC+gzwwKrXXlXxI8klv63sdLbbZE+6FIqhRF/aCWVYJiOm97gCY5s9bNF5rpv82qppm8=;UG/5gyMUER8lRLY8vPqauQ=="
 ---

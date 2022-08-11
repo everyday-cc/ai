@@ -252,6 +252,15 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 25
+  - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
+    excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
+    publishedDateTime: 2022-08-11T11:05:00Z
+    webUrl: "https://www.tweaktown.com/news/87884/teslas-manslaughtering-self-driving-vehicles-urged-to-be-recalled/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "lfGHEFKBV71VFJ/pIrKt4vfBmerbP1FxqZGv8fDo9JhJOkq/9IIbJgdxvJHWPWyiGeryWC3J1pHRYkMo8AZcpACmF6s8KdMwwTwirkAbo0/eXXpJsEtd7gz3wjzBM39BC0JCJ7Mcg92rXqcTx/llR8En2v455mfp9X11loKnApwu56c6OzIrGUgAvYZFsJ+FZrLXnqCuhJMPLj5HdoLGICPyxcSZYa6HymUcMOUpS2vAjmn47+sme3d1Bv3Ip+CWLaoVCfOPW25q5it1oJ3p53mmdXm31VZqqNXornXMIj0JfNtTYt6p2GQ0k7FZYP+RVC+OdC84+zVrtp6JAM9/M0uxhwtX8+dZiJmHnL8pj2Zz+CB6/r5UyoLG4qP5Rp+T/4gmW3iTWigJjvsM/JrZBXX4HafdU4PVIWjpSLFe6BFSb5z0w43JxhtQP5q4DhFgkc4mGDhEI3FWl+10soDnRnRXOF+X2ZnD5BTETx2pOMqfl5XR1Uk/986ADQSXXx0YarOkXZn9Dyw2fb9Bg2/CHA==;CxS7H92fFMcd6cA+xJqn5g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft And Amazon: 5 Critical Facts Investors Need To Know After Earnings"
+    excerpt: "With earnings now behind us, I wanted to provide an update on Microsoft and Amazon. Read the 5 facts you to need to know before investing in MSFT or AMZN stock."
+    publishedDateTime: 2022-08-11T11:00:00Z
+    webUrl: "https://seekingalpha.com/article/4532542-microsoft-amazon-critical-facts-investors-need-know-after-earnings"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/8/9/47572571-16600661806277013.png"
+        width: 640
+        height: 600
         isCached: true
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"

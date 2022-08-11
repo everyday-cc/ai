@@ -1,27 +1,31 @@
 ---
 category: news
-title: "IBM Research Tech Makes Edge AI Applications Scalable"
-excerpt: "IBM’s Research Group has been working to overcome challenges related with edge computing. Recently the group has begun to see success in industrial environments like automobile manufacturing"
-publishedDateTime: 2022-08-11T03:55:00Z
-originalUrl: "https://seekingalpha.com/article/4532822-ibm-research-tech-edge-ai-applications-scalable"
-webUrl: "https://seekingalpha.com/article/4532822-ibm-research-tech-edge-ai-applications-scalable"
+title: "IBM research tech makes edge AI applications scalable"
+excerpt: "At car manufacturing plants, for example, most companies have started to use AI-powered visual inspection models that help spot manufacturing flaws that may be difficult or too costly for humans to recognize. Proper use of tools like IBM's Maximo ..."
+publishedDateTime: 2022-08-11T11:03:00Z
+originalUrl: "https://www.techspot.com/news/95588-ibm-research-tech-makes-edge-ai-applications-scalable.html"
+webUrl: "https://www.techspot.com/news/95588-ibm-research-tech-makes-edge-ai-applications-scalable.html"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - IBM AI
+  - AI
 
 images:
-  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1197264259/image_1197264259.jpg?io=getty-c-w750"
-    width: 750
-    height: 483
+  - url: "https://static.techspot.com/images2/news/bigimage/2022/08/2022-08-10-image-14.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -42,6 +46,6 @@ related:
         height: 320
         isCached: true
 
-secured: "/9NHLZp9+dHsep+0/hVumqyequsS1B2fQI5HoL7TGxmP9eeLAj7VZK5tGpP3xiMy6wUkuGAB+YP9NspevzGRmGZmpdMgii7G6obFReF0m9dD27P5/LGWp68G72C/MPOi2Og8dF3aLlGAu1RmMyaugaJYAO1svPT4cAofDuL6hMZF4qHl2XlV9urQC0VGfDilojvxWloV/cO6TKR0RvIo1FeJnd6b1n3AScwH4tuDgR0yRC0IEdDrK3aoKtS6B6RW/g9qJI9twCOuspn6LUgFMgRbXatKtuivbkI1MwHK5PM2N1XNpLxCwxJ+b9NDm8vZuBzLjSSGPqr7YmbZNK+HJcj7sdTNl+VRaaBgbVNiOu8X/ykJNA4GBhq690Or+Ma+wcIfZ8Mj0QscFBR4co809VpcNeHXViohjIZMDUwCbjC/klFLC/94+Lh10K8QEvAAogM4nEiT85ZQYMqvghqpLoR5JZpvBR3/pDmdTd0gjzkoI722TO0R2YkhWnzkapKTEl/WPBpYZs8oHUAejFOJVQ==;s7d8/xrYB8yFR/SiBpNmZA=="
+secured: "Ivint2ehEWL9tmDjy7oIfQ9ovssuQaWWpTkXMNfwDsdiL07MnszqwBcKLEpDYbWIidIIeXEbTQKU7ssMqHmh4pRhPwglt5GUXuPL7w3ErkrNtlqt+z+bNmL43hi01ZUXa2khG53kfZKXyfXmomdr8rP0dEDOayZBYEmsW3zDzabQnRo3kOhbdDEVhL2zxd9tFXB1jOwUfLHv9y5X+YCBhcXeNCtgEWs5w2DZyjon0GYKpOi87kZoU0NkgM5KS6XyRkJkaNzsv3YzeofYjQ5P+L9H1QhOPOcBdtKwuFqINIsetMo1CajV3uHwK2ihZrK8E7lSE7cSoNOtCL8R6yG2f0BCve4AAp1Sb7t0wKyUWXs=;FXGmMenPtgQ7P6SdJ3FwHQ=="
 ---
 

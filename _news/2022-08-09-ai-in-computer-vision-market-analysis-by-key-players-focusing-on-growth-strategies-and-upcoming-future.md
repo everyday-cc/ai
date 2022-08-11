@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) in Manufacturing Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis and Forecast to 2027"
+    excerpt: "The definite investigation advances a pivotal minuscule comprehension of the worldwide Artificial Intelligence (AI) in Manufacturing market in a knowledgeable way. The per user can basically perceive the impressions of the organizations by having data about their worldwide income,"
+    publishedDateTime: 2022-08-08T10:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-and-forecast-to-2027-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning in Communication Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
     excerpt: "A new report of Market Research Update titled “Machine Learning in Communication Market Analysis 2022-2027” is a detailed sketch of the business sphere in terms of current and future trends driving the profit matrix."
     publishedDateTime: 2022-08-10T14:48:00Z
@@ -33,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
-    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
-    publishedDateTime: 2022-08-10T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
 
 secured: "Ci6TG36NxLJ+1M/ou7U7MvDFD4RZDqeOhfFCnSpgAoTL92Y/oFIBgt/V57JlrsVmjW64eOv/XxDjLXx1RkOcfGl5+BbA9K8//UWFirTS4xdWjbyRAhez+gVWaFvv2wohx4Poxe/APwLm3uHosoSn+ghCG0/RGc5/J+N16z9I1d55GNKlcEDjr0tDbN9NM/DouK0TW2Nvqx8dASRnngxKoMSJsp+oUFiXdBEpsAnqrf9/5XMA7Q95K5jSz6AzFcQxnpRtCgmTQW1nkvozicGNhOyHmvZhyRwZkYvDsCWTzuCXZP+5Y4izSwClg4McHERqZutP6ZPB08ptqAQHUZ62fFRpJjc8aJBsKxaTrS/S8y4=;WLlIDMbZkmY52I7jSMtagA=="
 ---

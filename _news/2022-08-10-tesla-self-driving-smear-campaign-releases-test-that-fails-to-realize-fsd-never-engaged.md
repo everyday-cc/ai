@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 255
+heat: 265
 published: true
 
 provider:
@@ -257,6 +257,15 @@ related:
       name: KTVU
       domain: ktvu.com
     quality: 25
+  - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
+    excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
+    publishedDateTime: 2022-08-11T11:05:00Z
+    webUrl: "https://www.tweaktown.com/news/87884/teslas-manslaughtering-self-driving-vehicles-urged-to-be-recalled/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "eH6g3XJC+9TgRP4lX4r+/L5gMHjHio1e0utD5AohpBJNf5em/ib7jfQ0PNgK6uFgxySLqlwjHs2ghWQMgEWc65MptbTOm0aP53oUMuRFpJ0N05/zeJgBNlMuV/I5IUcWj61FKZxCJ1nYyHpsnV8R4Ipkf83KuWpUJQKsZwx0+WYc6qZGzfU2tiy4wyPco6WjC5+3dhsZmB4O6oRhjQhV052UniHc2L6tSueQj7Fhkgp49ZoZ3FknP/3Vl0FXNpmKy8x0iVS7uwOdqyuUNfmiXhTzAR0t2EGTx7WFP6pN8ucmA0Hrrno07Mdl1mu4kr6Ay+cT6dv7cGGyVk71jZu+JvCaRUh1HW0n1oLUYkvII4TnZr+5r1O+jEOXWuaUAQwjgOvLI4h/Eu3Zet0Vsk40xIZ2v5K0V7GHpnebcTw8xjmBLuhGkM95kiEyrqABC0+LxRIPG8aXxvXIy3taAO0m79mnwZXFxEQ9/tvQqB8mOhk1LRil2NspxEib7yQF0fFePiy2NdbGf8BXJ7vBoVLeag==;rmPBwJsvMrrHT73DpcZlZg=="
 ---

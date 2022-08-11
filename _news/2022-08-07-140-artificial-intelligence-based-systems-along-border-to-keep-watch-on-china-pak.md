@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Army deploys AI-based surveillance system"
-    excerpt: "Indian Army deployed an AI-based suspicious vehicle recognition system in eight locations in northern and southern theatres"
-    publishedDateTime: 2022-08-06T17:49:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 57
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200127113141.Medi.jpeg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Army gets AI-based surveillance at borders; Systems to keep watch on China, Pak"
     excerpt: "The Indian Army has been deploying AI-based surveillance systems at the borders to reduce manual monitoring and enhance its capabilities. As per ANI report, the AI-powered systems will help the Army keep watch on real-time media monitoring,"
     publishedDateTime: 2022-08-07T14:11:00Z

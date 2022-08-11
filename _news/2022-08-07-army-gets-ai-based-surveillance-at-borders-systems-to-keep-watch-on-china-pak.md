@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/videos/news/army-gets-high-tech-ai-su
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/videos/news/army-gets-high-tech-ai-surveillance-at-borders-systems-to-keep-watch-china-pak-101659881292708-amp.html"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Army deploys AI-based surveillance system"
-    excerpt: "Indian Army deployed an AI-based suspicious vehicle recognition system in eight locations in northern and southern theatres"
-    publishedDateTime: 2022-08-06T17:49:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/060822/army-deploys-ai-based-surveillance-system.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 57
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200127113141.Medi.jpeg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
     excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
     publishedDateTime: 2022-08-07T00:30:00Z

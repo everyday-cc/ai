@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T15:06:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-europe-artificial-intelligence-fintech-market-report-2022-process-/2022/08/09/9653030.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-europe-artificial-intelligence-fintech-market-report-2022-process-/2022/08/09/9653030.htm"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Finance
 
 related:
   - title: "Asia Pacific Artificial Intelligence In Fintech..."
@@ -128,6 +127,6 @@ related:
       domain: dailyherald.com
     quality: 3
 
-secured: "eae5Yg68folrR1KEC0QDAkHWDRW0Qh7CsInYpU5IphE0JtmDQ/T6HPIpL1kqwpUjMu0PLK7Dokar1hnoa2x4eZKX+450PT49EqPeszpPIm90AvXvIVgsFFVO7157VnEXY3PTwjR6kYiDCVhFtPxIFxlvLZkS9uvHXbjpHCX2BH9odUMj/Cq47ayTu2MYYAEB06HvkoGJ9oXH2lCcJ+HU2958ILLc8hbGAetRZ/JjlVmkyGEMkvhEw/M8Z/s3qk0PX9yWAH9T/S7Su0+YmqFeb29sP9FHK3gSkryFDqYvbLfkCxxPiF146WBkPLkLoGHNK30aubStbTP5to/kJoFA4Hg8F+s9+jH20eLy01axOHs=;NG7Vnd4b2dATu14imL1VUg=="
+secured: "9V6JS/pnBjhM7omoYZSy4/cUuSrboMDio3HJ13aSsd8A4TLYZdFJNxiDVgUpUjlP62KhIDMholsenERa6eB9iRaJdJ24rHPh8R/ch5DgfQyy8ANWYfp6AZjMNAidRIQRKFPsP6cy4BwN5RgaGjzKK2KgKhaUyD/KfI1y2U3ZqqmFY/igh2FqAU8GRR1je0ujGgsHnDXN+ACfIhnD9OtWlTTTuSsjHL5z7BfGAbv+OAdpJS/+2pPy3JF6UfRP6+yc3VH95l7YiXLITEIZ5DUfVlGgyazfOT6EiS31t/W+IElZ5qkctpuQqCMhjz2hOhd/dPiHK++tPC+gAQNR9exABxDS0zHOCni0b5Z38/wX1Xk=;k1tnaZrmo4WYmjuhd0v24w=="
 ---
 

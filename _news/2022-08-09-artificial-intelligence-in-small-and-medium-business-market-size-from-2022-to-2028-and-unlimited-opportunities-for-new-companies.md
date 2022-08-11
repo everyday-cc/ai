@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
+    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
+    publishedDateTime: 2022-08-10T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "Artificial Intelligence In Regtech Market 2022 Business Scenario | Top Factors that Will Boost the Artificial Intelligence In Regtech Market Trend"
     excerpt: "In the forecast period of 2022-2028, the Global “Artificial Intelligence In Regtech Market” is expected to grow at a steady rate, according to the Artificial Intelligence In R"
     publishedDateTime: 2022-08-09T06:18:00Z
