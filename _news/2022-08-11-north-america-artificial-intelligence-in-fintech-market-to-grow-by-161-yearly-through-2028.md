@@ -18,6 +18,7 @@ topics:
   - AI in Finance
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 related:
   - title: "Asia Pacific Artificial Intelligence In Fintech..."

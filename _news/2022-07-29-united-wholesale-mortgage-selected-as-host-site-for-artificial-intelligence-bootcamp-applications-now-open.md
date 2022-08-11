@@ -1,27 +1,20 @@
 ---
 category: news
-title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!"
+title: "United Wholesale Mortgage Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!"
 excerpt: "United Wholesale Mortgage will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Pontiac will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-publishedDateTime: 2022-07-28T19:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-pontiac-mark-cuban-a083d0900746e4c1cd26259c0395c61e"
+publishedDateTime: 2022-07-28T20:35:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-united-wholesale-mortgage-selected-as-host-site-artificial-/2022/07/28/9647169.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "t8QYggFv95R+t+aGQa1jbkEF3rR/0fcoTdthcQ17tCR1dvTuUyOwghx+4iAa0Ly5NpjtgwZwzp8LN4d72BdGZTVcIkdyMfEBTK77k65U7wu+KjcniSbFgcjHlNkfM/biHxBfL/VoqNvxEgV1akNzPs04Q/bQCeHfLQxPKCVtR3wT1XMsY9B0HwRDX0OwuPqAgQZVtfbJzlsyJraeOe40NFyHE5LKUXrUsoHtR80CTGAQAQbPNJCR7vNwBqLYg8pvalaklXiGlqvzR2oYrWKf20sKYD4H7v4Aawde9/YH6JZ17pvUc6IgnWN4sXe8PZUKIVA2BaRORohatEzm+x9cvjOz8BybhjH4oSCO0J59J20=;Sh7Ue2iWIcXl+0YIXUKxlg=="
+secured: "y1ik6udDH7hPJRfR3z046bbhG2aZjXeNujGz42dfF9JLdJcutJVtB6iAW1XPhCItTmN90uO6QK2cRvoYwv2Ya1SsZGwJD+5bWsZz9U5L+qItxia3ojO0ks4Jcifgnqr0pwSt1Xb8wFYSKC/w14sPAgMIyF7tND95uY9M0FHZ/8D8CeCjbMdjq5RoUZfhyYl2HmvpgHGKvvjVh6G3NMWA6r60RbmYfisphy1NWGBsCHePdFd8WGrMFU/9LK8eXG8dE/2L0Gg8UDZR5u1wcJoWyUYgesHOTKxMLSSrJX/gFuoW9d4AWFMn/9hMEC9wQiGEZNqv966eHloFYZsMC9eWY7uMmCRiz4DOSQGNUW3p4Yc=;ntun8GUzBPAND1+2yluWKw=="
 ---
 

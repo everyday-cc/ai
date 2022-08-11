@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Self_learning_AI_1200_Social.jpg"
@@ -42,6 +43,6 @@ related:
         height: 360
         isCached: true
 
-secured: "IVROCgTWd7rFrAnJR1C91+908AiHi/JJ+PDck/fCk3vWx5tmbarE4fLFCBZD/98IOkB67NXHb455vxVhvoqfGpOB5MouhLSmZCKj1LX+OITUeeX53HzvJs0c5+evIrch3nbQFirG5TNLnSCNqw6YwO4efiWwc4ueLNlpN9zsll69KVvuH6SCu7pOFUAMN1WTPheyyDHfb2cHX/H0pPiF+BtzvDsEUnVZiFJS+aS9mQgXN69WRodDp59SKxIlXeBa7dEx8yi6g+Av9tdf97dqaqE6UkX5+G47b6Yd0EtDlin5+y/Ku5kbQ/wgaNLBrQSe+Kra5iiAmO/u9wbg255lfSvNx18WKMkXBQsUMUFegrQ=;lxCFpLud0BAVhsJRx9k3xA=="
+secured: "eerg+GxgqtvnRZXKlB11DwBNhSkV4YisY6MrfEMneWO8EV3ercmqd8CilPigm87JBkDXSFPP8YsUywI5jwu4HahWHuH+jPP884/Qmq5inktnkQcSq5mUgCHbEbXxkQEGqRD4QJZImIjaDb5NCMMnliGzsQ9NcE9d8Y41JMBulQjo0yVtbKIYO3BHlL3EAGShSpn/GdJh2xhCnl7hQ3YUU7TRKZvmOBM7xLinzUw7YT1GT6lBUJxTFwUBE9nc2ColP59PFelE96YLTiCTSZEdMAJAb33qAoWnlfEM42xOvYXxmXX7/oeKx5kxnNQSXnL438ye9qD4ImYCH/5EVwjfns3MdooNklXfWiSlFfVG+tCxKIz4B9BndETYo7PxmVlWaxOsAL3I09AqpMXv0CPfp44C1Gp0zTEXFo4tYVsyUtamXPq0BnxdsbdDJhuqy2G/pL5e6FG6nbglfKFeF9plZis27Cnnwmt/W5d+flD+sHe66YT/EJwxaU4gZmf6O9tRi95IRkJO3uXVewjbDzxQCQ==;7ddIhO8rabGASTphKZQooA=="
 ---
 
