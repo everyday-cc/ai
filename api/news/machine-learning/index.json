@@ -317,7 +317,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1099,22 +1099,31 @@
       "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
       "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:56:00-07:00",
+      "publishedDateTime": "2022-08-02T03:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

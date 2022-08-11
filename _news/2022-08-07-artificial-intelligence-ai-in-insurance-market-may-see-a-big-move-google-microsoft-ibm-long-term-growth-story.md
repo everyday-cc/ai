@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-07T15:06:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-32"
 webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-32"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"

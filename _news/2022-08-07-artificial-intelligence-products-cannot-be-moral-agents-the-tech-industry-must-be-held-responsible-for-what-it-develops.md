@@ -8,8 +8,8 @@ webUrl: "https://www.thestar.com/opinion/contributors/2022/08/07/artificial-inte
 ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/07/artificial-intelligence-products-cannot-be-moral-agents-the-tech-industry-must-be-held-responsible-for-what-it-develops.html"
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/07/artificial-intelligence-products-cannot-be-moral-agents-the-tech-industry-must-be-held-responsible-for-what-it-develops.html"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/07/whats-our-own-role-in-creating-a-toxic-hockey-culture-for-young-men/hockey_fans.jpg.size.custom.crop.640x360.jpg"

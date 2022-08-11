@@ -23,17 +23,6 @@ images:
     height: 406
     isCached: true
 
-related:
-  - title: "AI boosts multi-dimensional defence strategy along borders"
-    excerpt: "Realising human limitations in difficult terrains, the Army has deployed several units of Artificial Intelligence (AI)-powered smart surveillance systems to boost multi-dimensional operational strategy along borders with China and Pakistan."
-    publishedDateTime: 2022-08-06T11:55:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/policy/ai-boosts-multi-dimensional-defence-strategy-along-borders/article65736666.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 17
-
 secured: "OTwi+a/mQlVjwqfrfDXWKUJjPR8Ts4eCGwuitwaJWWGXPTkjkNTJ3jk39mJ2mLArbOYQGNPjIt7ZNmM3JUwsdH+Q9TjHsHczEmhl1zapwHVBD03Dk7NiYPxJYphJNr4MZdUxbtPvhEPAA4yvRD0rXVQjRXeiJE6xNst7PDwOhXZR5a6bZ032RVn4g8UuQ5IwIBeL0LcIcm+ZeEX8peIfdS5Ax04IFK6+UmSZKeurOZ+y98LuGC4TLxUkOIFXZsdQi/jiqwJsK0gPxTiZcln4TS+U5HYI9WxOjwB4lttRDsYxl3z86vKaCL3Kui4maPA9UI2bluiMZEUEr9Mn9cCgGoFIM2s/ngK9AHnvNJbceGci4y1kgJxQemFEGxYC+sHF8iLp5SMtHbGliqvJ+UHgW/yPJkDU7DnbSOeIyVpAteFX4t+Sds4jTa3BhVfZGuA4d3EoLeLgfS2HQ7ab9BQpTzVSHNWv+Cp7MaiJfML167omrdgkiYB9BlkRwlglSQpFXjwPDW1JFfnk6rq/c7TyrQ==;7rrpu2u1l9quGBDcZJzDwQ=="
 ---
 

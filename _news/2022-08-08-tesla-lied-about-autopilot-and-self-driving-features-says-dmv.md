@@ -199,6 +199,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Tesla’s Self-Driving Technology Fails to Detect Children in The Road, Tests Find"
+    excerpt: "A safe-technology advocacy group issued claimed Aug. 9 that Tesla’s full self-driving software represents a potentially lethal threat to child pedestrians, the latest in a series of claims and investigations into the technology to hit the world’s leading electric carmaker."
+    publishedDateTime: 2022-08-11T04:40:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/35489-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 49
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0512_MuskReopensTeslaPlant.jpg?height=635&t=1648159694&width=1200"
+        width: 847
+        height: 635
+        isCached: true
   - title: "Tesla is Lying About its Autopilot and Self-Driving Features: California DMV"
     excerpt: "Tesla ’s autopilot and self-driving claims are getting investigated yet again, and this time the California Department of Motor Vehicles is leading the charge. That’s according to a complaint that was filed at the end of July."
     publishedDateTime: 2022-08-08T17:10:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-10T09:30:00Z
-originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-09T17:00:00Z
+originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
 quality: 19
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
@@ -54,6 +54,6 @@ related:
         height: 778
         isCached: true
 
-secured: "XWGur5P2pzdJXMufdB889oV2Ar/c6Ad/q1Mc6XJHgHAb2fVD0jS4uCx1Vcgz5UaiCfVXq/Qx83cbO/Ro+zDG2iMwcGkkC8ykdw1ZIod+FGofHk6u+YJFKkaac+IDnCX7nVbn7XLJpy6BM/JNppEViEnmcyW7tbe6DTvdiONhOSNBsWHgRrmRzV0kGU2iCaY+v23gMLNwSMeG4OmEcxv677X+qWOb5gpuFOzUNkvKoWWcIyPhxCR1XDrJJCGUeoVj5HFg+Ln1e4ib/12CGlUA/v4xwlBNuhn+Hcw41WWrszxW+oJc2pHfcke8a6+PXQakNY3HknvTFwUH/5iql0wzkJBJiTIQ9WwAbdEx5pilzxDsX3yOVn09RX3mT+NVpGZyOIhI4MplwL2X0UlkyzjYxFiIrdEorUB4h+8P8P7qiJj8NsuM5RjF2S40u0+p6UMax8ogFUpza8XsWAa0FfoDZdXtV6tPHQFj0ILyTzGWxwreZ+ocS0+0NmntZFzz4dnH99fQhHuFVQv8XFfVfAyqAg==;Oa7K8HwKVObRngZPteWb6g=="
+secured: "g6HMYlIDs4Fo0J3yBOR1UZKl7u6pyrmywa7f96yK6ETXeo5l7HWjsjltiXE3H5H+G23wgRhg2WreOSpFRKXyHje15Ui00bNaMQiDSGB9BkLQgZZcqlv+vXMTjhO93P4QW6ek5SC4W7viml8qHWknlPcBkuet2BkT3/9Xt5iNV1kPZ13mfYs0dz8m3Djt19VkzR1UgzU+v5WY7sbzgorphU65XeJkuPndfO3tCTGmW9uu7KRK7r/+QtxvntrH+8ZokzpeHFC+lbS/bpghSE1rTQKNq+xSmLmGnSr49USqCIYOU/cWpbbFCfo5AAUFqvsagJdalROl1FZudy6dEwDDmgChI3caYt6IjpsDBhEogIU=;ab0U/xi1otoLDxlzevYtXg=="
 ---
 

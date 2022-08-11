@@ -8,8 +8,8 @@ webUrl: "https://www.barrons.com/articles/ai-artificial-intelligence-google-sent
 ampWebUrl: "https://www.barrons.com/amp/articles/ai-artificial-intelligence-google-sentient-tech-51659732527"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-artificial-intelligence-google-sentient-tech-51659732527"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.barrons.com/im-598833/social"

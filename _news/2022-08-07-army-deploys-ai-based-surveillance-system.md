@@ -58,15 +58,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Indian Army deploys AI-based watch on borders; social media, suspicious vehicles under scanner"
-    excerpt: "Artificial Intelligence is capable of providing considerable asymmetry during military operations. AI applications can be utilised for surveillance and detection, real-time social media monitoring, pattern recognition and prediction of adversary courses of action,"
-    publishedDateTime: 2022-08-06T12:16:00Z
-    webUrl: "https://www.firstpost.com/india/indian-army-deploys-ai-based-watch-on-borders-social-media-suspicious-vehicles-under-scanner-11021281.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 5
 
 secured: "g5UiKPMKmiXRcjXeGWE3dMFG1ZBAIud5mE0DrqzSWQdENYLqrRheBa2yLkUVbT0tB+UjpEaocauJ3h4wQseXoLMo/+K/C2QazmKpfD6k+gNYJ1bGSGtIKcK/j7tkYla+CcXG5QutL43I5TGi+TEk/heVHFzRidx3/yzoM19ETz6r1+LUvtJtTekZZWE6JIc2XsQSHvkFa1gxZ/HEuccsuZJ25BSJ2/XbtV4frK+ur8nCxqe7sSnlQyJMBUBU8t4KTNFWojhT3Vdbj/HNZCmUVaM6CIoKRMcSgsM0+y9EDZ6cBUiGhQZ1+8veuP6Nhe230SCh1v/DGm8ugvOGQWM1ECJ4Bn/oFyecpNPIgZ/JPr8W9febXq431R4rtHk5zNSnhWrGpppDH21V/SztyPZBNtPY+RLPq15b0lIY8cr8mFSBreiYUpteKZMgZmH5NJt8AB0uUVBYL81rRK/2qu9VD56KJyfVxLqqz0n9pK7RFr6/5yS3FA7xt+rEjOaAdk8TsAL1zxBRjDMcK2rswonzVw==;PM+GUvce8IRDge/mhXuPlQ=="
 ---

@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AI may come to the rescue of future firefighters"
-excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover—a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-publishedDateTime: 2022-08-10T20:02:00Z
-originalUrl: "https://techxplore.com/news/2022-08-ai-future-firefighters.html"
-webUrl: "https://techxplore.com/news/2022-08-ai-future-firefighters.html"
-ampWebUrl: "https://techxplore.com/news/2022-08-ai-future-firefighters.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-future-firefighters.amp"
+excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
+publishedDateTime: 2022-08-10T19:47:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961518"
+webUrl: "https://www.eurekalert.org/news-releases/961518"
 type: article
-quality: 57
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-may-come-to-the-res.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34462cbf-20e6-4b2d-a95f-2408ab313874/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
 related:
@@ -41,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "ns9OVul9qcsmvfLI9UFtFWlsUaMwe6Ev8ZsgeHAylRTsxD/6x06Z+JyOin5LnyuJyA5ixSgNVX5efg483jqFfwjIhNUCS0QiCjhwnVKxVzewVpwj56ZUABdPOwYPc2Kp7gN1c6XMn3bhS/KL5cmtoiHwhK7zdotgKzRHTAGXoewj+2vB7OA+b7GqUnUR4IPS+gy74OuQsebwuPIJp18Y702tC62YSyc6ShH5iOJoZLpcJWhCMqVtKGTJTxq2nxJmGS4wFR7rMksAEbl1PA9mIMUbGmAEXY21kmuVGQ/HVfSQJLhxtB/Y+sTenaqRQDI1yoq0zUyAfj+uLuO9M2/YL9fRLpz+xLUOsHNmcMsGZeM=;nRNi9gSMjA+BaZ9+NebbAQ=="
+secured: "pLyubIYlJGoIwnAPPX+mWa3t1Sdp9gdAsMmim7no4/wl52UnLkgyOCBGNer20JXQpUosZNdCR/OoOng0Z28Q/BOD0dq181wKIcLOJq2cyUeurfCVfwz0byHg1vSBSDRaLrbP7gTGNsIQiGwKZZ9qfD9wh8iNBJFHmwiZ1JOsxaQkZJJsZVxMqU0oYhvCAqA35xd7gr0FHgg8xaYWJZhIjcDy4/gh+b4ozPjQIiXony5sVamzKtKvRtsG4IHb+k3JTC8zp1PGbKLV1JNS5DvHGAn1Sb5M7neljGuHLp6cn5Qovvnk0wrjam3MYvVYEaYtiH7paouX74He0gvN5gLxXCnYUZX/QKw7FRYJs6APYqo=;pzP+Fjp5b1uFdHE9enZBew=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-ann
 webUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-announces-the-launch-of-its-proprietary-dynamicnlp-layv20we"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Yellow.ai announces the launch of its proprietary DynamicNLP, a first in the enterprise conversational AI space"
+    excerpt: "Yellow.ai, a leading enterprise-grade Conversational AI platform trusted by 1000+ enterprises globally, today announced the launch of its proprietary DynamicNLP™, a first in the enterprise Conversational AI space to enable enterprises to go-live within minutes with lower operational costs and an intent accuracy of over 97 per cent."
+    publishedDateTime: 2022-08-11T05:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/yellow-ai-announces-the-launch-of-its-proprietary-dynamicnlp-a-first-in-the-enterprise-conversational-ai-space/1078204/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/yellow-ai-announces-the-launch-of-its-proprietary-dynamicnlp-a-first-in-the-enterprise-conversational-ai-space/1078204/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/yellow-ai-announces-the-launch-of-its-proprietary-dynamicnlp-a-first-in-the-enterprise-conversational-ai-space/1078204/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 39
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/08/hsgdsgdhsgdhjsd20220811051607.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Yellow.ai announces the launch of its proprietary DynamicNLPâ„¢, a first in the enterprise Conversational AI space"
     excerpt: "According to the future of conversational AI from Deloitte, training AI agents with manual methods can take as long as six to nine months, making it one of the most common setup c"
     publishedDateTime: 2022-08-10T13:39:00Z

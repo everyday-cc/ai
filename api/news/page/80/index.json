@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-06-07-teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning.md",
+      "title": "Teal Is Revolutionizing The Career Journey With Tech, AI And Machine Learning",
+      "excerpt": "However, there is a startup that can help level the playing field. David Fano, founder and CEO of Teal, created a machine learning and AI- based careertech platform to help job seekers and people who want to advance their careers. Fano said, “In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2022/06/07/teal-is-revolutionizing-the-career-journey-with-tech-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-the-best-robotic-lawn-mowers-for-2022.md",
       "title": "The best robotic lawn mowers for 2022",
       "excerpt": "You can control this lawn care device through your ... it's an excellent mower for small projects. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional ...",
@@ -1055,58 +1098,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones.md",
-      "title": "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones",
-      "excerpt": "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
-      "originalUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024",
-          "width": 1024,
-          "height": 722,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
-      "publishedDateTime": "2022-06-06T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

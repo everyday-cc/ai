@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/army-deploys-ai-based-solutio
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Indian Army deploys AI-based watch on borders; social media, suspicious vehicles under scanner"
-    excerpt: "Artificial Intelligence is capable of providing considerable asymmetry during military operations. AI applications can be utilised for surveillance and detection, real-time social media monitoring, pattern recognition and prediction of adversary courses of action,"
-    publishedDateTime: 2022-08-06T12:16:00Z
-    webUrl: "https://www.firstpost.com/india/indian-army-deploys-ai-based-watch-on-borders-social-media-suspicious-vehicles-under-scanner-11021281.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 5
 
 secured: "maGSSRWthkQKpe4HtV55pNNCxD0rop2/Fq9kNbrYlmjpwR1marK61NnDMxMi2SBwfc6tKu8Rh1EuOWSFdM2nbAegJwSCAPHZJ8mfLOS3g84gsd2DZmgMjn8xtolct7gTvEDVLlza5PNi8nFvHUccJr4jAsKirDSxua2tiHt0n1Sca41zvmhmD/CX/Y+xbtrYHf3O/jONYwRzr/Is+LjuNp7UrOIumxlUdVYvz2F2VOrUanEFsbfGZqEHtHkiUjfuFXOe7hAndrVBpRthB2Zp0dLGf81hy3Jvh5heBQb4eyZ81yPIYihO3TiPBzUmVWyet76eR/2dJHVjo0oUwQ7jQJULs9klRgwwCiXNIt9f6Uc=;I/fTpxrkZlbr377lt7shCw=="
 ---

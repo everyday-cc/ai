@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
+      "title": "How to build AI data engines that use the right data at the right time",
+      "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
+      "originalUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Labelbox.jpg?w=1200&strip=all",
+          "width": 1105,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/26/building-ai-data-engines-that-utilize-the-right-data-at-the-right-project-lifecycle-stage/amp/",
+      "publishedDateTime": "2022-07-26T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.md",
       "title": "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge",
       "excerpt": "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls.",
@@ -1075,49 +1127,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-bunnings-kmart-stop-using-facial-recognition.md",
-      "title": "Bunnings, Kmart stop using facial recognition",
-      "excerpt": "It was last month revealed that Wesfarmers-owned Kmart and Bunnings, and whitegoods retailer the Good Guys, quietly began using facial recognition in some stores without express consent from their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
-      "originalUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20facial%20recognition%20end.jpg",
-          "width": 819,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ia.acs",
-        "domain": "acs.org.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

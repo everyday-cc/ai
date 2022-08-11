@@ -8,8 +8,8 @@ webUrl: "https://www.indiatvnews.com/business/news/banks-to-spend-additional-dol
 ampWebUrl: "https://www.indiatvnews.com/amp/business/news/banks-to-spend-additional-dollar-31-billion-on-artificial-intelligence-to-reduce-frauds-latest-updates-2022-08-07-798126"
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/banks-to-spend-additional-dollar-31-billion-on-artificial-intelligence-to-reduce-frauds-latest-updates-2022-08-07-798126"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/08/bank-pti-l-620x400-1659855852.jpg"

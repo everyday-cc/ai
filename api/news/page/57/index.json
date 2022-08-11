@@ -2,6 +2,49 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-06-22-despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate.md",
+      "title": "Despite iQiyi Denial, Is Baidu Set to Roll Credits on Its Video Affiliate?",
+      "excerpt": "But it could make sense for Baidu to divest from video streaming to sharpen its focus on cloud services, AI and self-driving products Online streaming service iQiyi swiftly denied the report as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
+      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/22/06/27813279/despite-iqiyi-denial-is-baidu-set-to-roll-credits-on-its-video-affiliate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/iqiyi.jpg?width=1200&height=800&fit=crop",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27813279",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27813279",
+      "publishedDateTime": "2022-06-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-ai-the-somnium-files-nirvana-initiative-is-a-bizarre-anime-nightmare.md",
       "title": "AI: The Somnium Files nirvanA Initiative is a bizarre anime nightmare",
       "excerpt": "Depending on the person, it begins as either the most exciting or most horrifying episode of \"Jeopardy!\" ever made.",
@@ -1083,58 +1126,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-say-hi-to-proteus-amazons-most-advanced-warehouse-robot-yet.md",
-      "title": "Say hi to Proteus, Amazon’s most advanced warehouse robot yet",
-      "excerpt": "Amazon has unveiled its first fully autonomous mobile robot. While it looks very much like a robot vacuum, Proteus is designed for transportation not cleaning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/amazon-proteus-robot.jpg?p=1",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "publishedDateTime": "2022-06-21T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

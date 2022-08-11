@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "AI may come to the rescue of future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover—a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-10T20:02:00Z
-    webUrl: "https://techxplore.com/news/2022-08-ai-future-firefighters.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-ai-future-firefighters.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-future-firefighters.amp"
+    excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
+    publishedDateTime: 2022-08-10T19:47:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/961518"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-may-come-to-the-res.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34462cbf-20e6-4b2d-a95f-2408ab313874/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "wfKySeIi2lbLWr0qC+UJmntR/NM5XfFanuTWwzo5fgvhCr2j8pJ1ekZWMbhH04XsALaASa0p4lS5EVIwxJSe2atr03cY3kqggre1+YsGUBFnu75CMIJ7/So/x/9G4DIpxUoYyV6NrVV5LCYLwrL52sxGbc8gxkyULzAk6lRIgwmK13kqJK9OdfaYU+OrKcLLYAawxjbSOqWFhRSqdKEqVREDg+DmZeJCgrBklkcx/hX1258s9jHvZVtFUibzt+vupqcjsK+gTp+KeOr1l0/8PuNDmv/S+3gmU1DtNLsUwJias+IZN5IkMzBvn+xvws/aiuyn1Qszi/vl446TNYiKlhAEqdrUldMbieeSqvFZgqc=;026/UI9Jzt84trjlpGzoJQ=="

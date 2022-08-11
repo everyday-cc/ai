@@ -2,6 +2,48 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-05-20-lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.md",
+      "title": "Lack of strategy, skills biggest barriers for AI adoption in India",
+      "excerpt": "Another greatest barrier to successful AI adoption is limited skills, expertise or knowledge (38 per cent) for organisations exploring or deploying AI in the country. \"As the adoption of AI grows ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91687803,imgsize-53448,width-1200,height-628,overlay-etcio/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/lack-of-strategy-skills-biggest-barriers-for-ai-adoption-in-india/91687803",
+      "publishedDateTime": "2022-05-20T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
       "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
       "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European",
@@ -1066,59 +1108,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality.md",
-      "title": "Nvidia AI research takes science fiction one step closer to reality",
-      "excerpt": "Nvidia is collaborating with researchers to present 16 papers at Siggraph 2022 this August. The research spans multiple topics that impact the intersection of graphics and AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/",
-      "originalUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/nvidia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/19/nvidia-ai-research-takes-science-fiction-one-step-closer-to-reality/amp/",
-      "publishedDateTime": "2022-05-19T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

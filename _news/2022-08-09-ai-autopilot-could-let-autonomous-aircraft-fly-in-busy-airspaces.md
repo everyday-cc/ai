@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-cro
 webUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Move over, autopilot: This AI can avoid other planes"
-    excerpt: "The idea is that an AI like this could help fly drones, assist a human pilot, or even someday fly a plane on its own. Right now, in a flight simulator, the AI is able to figure out what another aircraft is doing, or might do, and then figure out how to ..."
-    publishedDateTime: 2022-08-06T11:41:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-fly-planes/"
-    ampWebUrl: "https://www.popsci.com/technology/artificial-intelligence-fly-planes/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/artificial-intelligence-fly-planes/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/05/cody-fitzgerald-O0Tr0mrzXLA-unsplash.jpg?auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "An AI pilot may be able to navigate crowded airspace"
     excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
     publishedDateTime: 2022-08-08T20:55:00Z

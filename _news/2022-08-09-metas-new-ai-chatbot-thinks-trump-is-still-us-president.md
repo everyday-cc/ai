@@ -129,15 +129,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta's New AI Chatbot Loves Anti-Racism and Mean Girls"
-    excerpt: "On the surface, Meta’s BlenderBot 3 looks similar to any other simple chatbot out there. Users can type in a question or a statement and have BlenderBot gargle out some relatively generic response. The bot is a prototype based on Meta’s past work,"
-    publishedDateTime: 2022-08-06T12:00:00Z
-    webUrl: "https://gizmodo.com/meta-facebook-new-ai-chatbot-blenderbot-racism-misinfo-1849378666"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z
