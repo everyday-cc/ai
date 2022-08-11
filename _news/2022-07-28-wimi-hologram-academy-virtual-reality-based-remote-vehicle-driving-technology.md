@@ -2,28 +2,23 @@
 category: news
 title: "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology"
 excerpt: "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of VR-based remote vehicle driving technology."
-publishedDateTime: 2022-07-28T12:33:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/science-technology-climate-and-environment-robotics-0da05388153c66acfa84d65c30ce5da4"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/science-technology-climate-and-environment-robotics-0da05388153c66acfa84d65c30ce5da4"
+publishedDateTime: 2022-07-28T14:48:00Z
+originalUrl: "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28"
+webUrl: "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "KkgxpVHV3Bv8JZ70S4bU6XxKKgsy7T6zHiy/gMeiSsvUQgUOe0cgemCjqXIjoQ08jqzFtmswrpebVF7UrfZ5XdCxeayUqWBDH2cv1vVYcenguDB9QpngzuPfQyVC6NQM8Xg1mlc9NwGF3FV/JvsSWet0NyfRV+X1A3ukgWcSdy5rdHhJ0fDdtxDs39KwNcYHyYNkafs6IX9jNlk+ZKgS5uK0R8QVKocsQ7fKXWAWrX3j4t9U2RRjeCh32sq5wkH+2Cn8fm4Ib9ahYn1Lo+yg+2L3SrsIo5q7EHpTSG7Uz/ruZe9gFBKSMXjkjk5CCCLPN1F+07eh2VpVwpyBS78QG2ztoKp7PyutRXjOPQu0peg=;JgbaXqR5kjQ0qzAngXM/Nw=="
+secured: "P+mSPnVdHZsTYRumzWbQaFdYj2Qb6/CO69gCHuXVeSAZyA39Euo7s51ziLLJ0fSGLgmvXfnfMs2a2IUQ3YcMJWia9hwHgHRQiHVCz7nxkJAVq5ME0kbRPL2M+qItF5QAs5bxovSOfqBdU/sY61tPYzpATFai1NQ5XeaHM3HuZJAO6znwXYZApeO3MCpyRwUX7r8oUe6qoSDTi9e96Mcz8b7ak2XSGaknAZkLuf4vRAk4KLfwtmuelfwUHvdI6FKSm5lkqr2IZvPAISJv5BrCYV0pKEZ5bYqnZmkFhC4lPcyh7yVDJA0ceUr55VAu248hLRq/fsiiUtDgFzdCOb4vzLN3eaH4MYK0SYVC+VLzMz0=;0+R9+POQA5Zxlyf99k0xRA=="
 ---
 
