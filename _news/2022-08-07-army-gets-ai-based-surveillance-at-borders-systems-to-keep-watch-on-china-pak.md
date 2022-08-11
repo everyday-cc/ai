@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Army deploys AI-based solutions to augment real-time surveillance"
-    excerpt: "Separately, the Army is preparing to exploit the 5G spectrum for communication for troops conducting operations at the forward edge of the battlefield"
-    publishedDateTime: 2022-08-06T16:43:00Z
-    webUrl: "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/army-deploys-ai-based-solutions-to-augment-real-time-surveillance/article65737335.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/nzgi6p/article65738445.ece/alternates/LANDSCAPE_615/IMG_Indian_Army_soldiers_2_1_S190KADS.jpg"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Army deploys AI-based surveillance system"
     excerpt: "Indian Army deployed an AI-based suspicious vehicle recognition system in eight locations in northern and southern theatres"
     publishedDateTime: 2022-08-06T17:49:00Z
@@ -57,6 +41,20 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c6vcqtlfu5qn38at3rp993fd81-20200127113141.Medi.jpeg"
         width: 800
         height: 448
+        isCached: true
+  - title: "140 artificial intelligence-based systems along border to keep watch on China, Pak"
+    excerpt: "Enhancing the use of technology to keep an eye on China and Pakistan, the Army has deployed some 140 artificial intelligence-based surveillance systems to get live feed of the ground situation."
+    publishedDateTime: 2022-08-07T00:30:00Z
+    webUrl: "https://www.tribuneindia.com/news/nation/140-artificial-intelligence-based-systems-along-border-to-keep-watch-on-china-pak-419548"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 31
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_725423519.jpg"
+        width: 700
+        height: 406
         isCached: true
 
 secured: "I5X/1pdzBBR5W0cX5gnpZnMgJNAKLU3Brdmd+t5H2T/QEUqm884JMqXeWoscIrA7FNUqKdqu2psfWOvKih+tb5mW0sgSLD4IQ4mxQhenXyeFIEiKtFzVZhx3ZfghXQsiKu+OZrzaSJj1vziOp2tRIAEVEDRBGqwPcVWLoJwquUiZQd2TrXQpx6UMig4QhsAo3ZwEzImGq5dPaUIpy0dEot6Unpj75jcuwemYSgJf3ZOWU9JoQDtYnfS/DIr1I1kjI26ldVLnkjDRDSl37npxeOzh6vmAwPGzOI8ikg+qhdnHX70W+p8CU49/J5GhiJkWALzI6kR/RI6x3vYScOwk3s6a9cC5OSSE5CicO6HtMtvhOW+uyQf3Pd3aRHeF9on/n5bnjOiBLkyh/q+Ff1dieJG/pL2y5Mmo9Aj1aogElJ8TTrXECAbwZl7XCVRtoes4MHnnqQ2GoAHOx92C36MboF4i9hlvJpSMjBHEQcAUZDDesf2rWSDOyxFRM3WSC66AkoBGg0dIQuQc7hogcjGQ2Q==;zeDLjHoXgKNiu26cidbkVw=="

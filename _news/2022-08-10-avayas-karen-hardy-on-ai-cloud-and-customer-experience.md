@@ -23,22 +23,6 @@ topics:
 
 related:
   - title: "Customer and employee experience mistakes to avoid and how AI can help"
-    excerpt: "Pushing boundaries, using AI and letting go of legacy systems can have a significant impact on customer and employee experience."
-    publishedDateTime: 2022-08-06T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/"
-    ampWebUrl: "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/business_challenge.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Customer and employee experience mistakes to avoid and how AI can help"
     excerpt: "Enterprise leaders are constantly evaluating how technology can better serve the needs of their customers and employees. As AI technology progresses, businesses recognize the massive potential to improve customer and employee experiences and positively ..."
     publishedDateTime: 2022-08-06T23:09:00Z
     webUrl: "https://venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/"

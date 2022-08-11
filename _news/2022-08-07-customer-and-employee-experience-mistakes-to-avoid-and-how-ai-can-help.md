@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/datadecisionmakers/customer-and-employee-exp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Customer and employee experience mistakes to avoid and how AI can help"
-    excerpt: "Pushing boundaries, using AI and letting go of legacy systems can have a significant impact on customer and employee experience."
-    publishedDateTime: 2022-08-06T16:10:00Z
-    webUrl: "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/"
-    ampWebUrl: "https://venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/06/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/business_challenge.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How artificial intelligence can make our food safer"
     excerpt: "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph."
     publishedDateTime: 2022-08-10T15:38:00Z

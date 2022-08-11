@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/f23d5d6/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc7%2Fb5%2F1c4c2cd944e48434a2e3442caa0f%2Fshutterstock-1901397307.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Tesla's self-driving tech's 'failure' to detect kids on road sparks row"
+    excerpt: "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,"
+    publishedDateTime: 2022-08-11T08:16:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "DMV files complaint against Tesla for misleading self-driving advertisements"
     excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."

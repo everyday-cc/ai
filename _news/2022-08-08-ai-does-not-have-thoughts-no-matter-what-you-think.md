@@ -7,7 +7,7 @@ originalUrl: "https://www.sfexaminer.com/news/business/ai-does-not-have-thoughts
 webUrl: "https://www.sfexaminer.com/news/business/ai-does-not-have-thoughts-no-matter-what-you-think/article_f74d5d7f-1625-5930-984e-09d7c7973f2e.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 400
     height: 302
     isCached: true
-
-related:
-  - title: "AI does not have thoughts, no matter what you think"
-    excerpt: "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation."
-    publishedDateTime: 2022-08-06T17:03:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 65
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"
-        width: 753
-        height: 435
-        isCached: true
 
 secured: "tsx9fJoWHzQc3XDpCJzLWrKiNEL80GuBHUn0h8+JFb4BMslRv0abBcNg3RDjfdWAwxXf1Ggmi1z4q6OHuyPzLGwRLvQoIbrcMl+iWF9lwLIVHmqTa5+V7qh3bV3pdCQcZww1oiC0bQg+m8b8mmgSHEElZh7+vi8d3djNyvAdjp9EhPOxMeWFwc3gt8BOJciPzmExKUUMhA4zG0XyjnrQX1rypIZ/YLCrl0ac3zzuAUWHQvdh5qADFGuObo6QpAaldAJQSFcA/pJbh0yP+Pc3YVLCWk0f75Dq1ED/McLE+jg48sQ7kCClD8ZqgqYgfAv2WFnWSpNlO5+Owm+iAm5LDrg+H0jR1JqXDdUr0WXsx3BX8xze/kZMq528Tz3njp+G7z2CyYG/AyDFLQEqfvLTAJ8gjxLbmGcpA9cz3y27Ffxf8REUeN4Lwx6LmIf22q/xWZj7sBl1dw23yMf8nXJQgfpTClYW+NM3bMSYcD2QxHKPFb3usFm4yhjn87Mo5RmKaJyLo7VrVEv7bakwqywlfQ==;toh6NGnC1pDseX6bEsCV5g=="
 ---

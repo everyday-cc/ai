@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-11T07:05:00Z
 originalUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
 webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
   name: Semiconductor Engineering
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
@@ -24,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in medical research"
+    excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
+    publishedDateTime: 2022-08-07T20:17:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272646253/ai-in-medical-research"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Evidence Mounts for AI During Colonoscopy"
     excerpt: "Using artificial intelligence, endoscopists improved their adenoma detection rate in a large randomized controlled trial of screening in asymptomatic people."
     publishedDateTime: 2022-08-08T17:07:00Z
@@ -39,6 +55,6 @@ related:
         height: 450
         isCached: true
 
-secured: "uAR6V7Riga2riiX4XWQlMBQw2RJb1By+B6uhsarpGCC2sfDMHJVum0OwsvCBg1Xqgo1mES++wzWncpVb6yVGApkWwYwkCTv87tAlIc7Rj3uKz3I4G7bpl/BpuMi5/Tdp8ZBDbuo1fHwObPSVIN9udvRJaaVgVMbKgrabnPvYttynfHc1o8GGtj66nqterCOeRw8lqi4/Krlbzz1eaQlTd2wHZamKwhbKj2t1K++/f758O/cLvJ9ma6vt86WtQm3p5QUzxpmYm0Ci2igNchT9OhQus2rj/qWIF8UNfahyUixz/XzA9/7DKRIO1gYXQcsN9k2+NuQN1A9E/SJmKRWwCm/ZZuJ8jN5hJwc2l92IkcI=;rUcC/O03stzJLf8LUzxs8Q=="
+secured: "QNhVE1V6s4TwwbEWy4I2lf4YtiroDLjJ0Ym3FEYo7aVRiUpwLGKPDYaEWZ57Ad7uc5ADOaJJtBp4TDQuZ9eaLItfEooGIkTbJG8QE0Zy00grjVACSXMZq0OyHsFNeHSy71sDQYGNH/A3upCkXLlTpqBaxTEs7CZslEKUnFFaIrpoa4//9QZUrMW/1YUW1Qsihh7f2dy6ZWeyHlB+LbH52fJj/9+tr5cYTm0dceePLWbXlN5ED8HhpwPwVThjQlQjWeUlxN7Q6hu4OmCP5YzZOZVFzgPlvR9dC16+VpFC+1qlKTHdIqfhJ9H32FN0H7gRg6kF3EKEakG+8fDV+Uo5KFTJYNHKbzRaahoDCPzqatNvB1d4sU0cEvzt61Tha3dttvyaCqo6q2IExeu7LsAUwLMpsjyqMVM2IokjrbucokwCJ//fq1m0ozUJWlLgKqaBjiy0X5BfeFT6znmtFsJDyTPtcYql7ctRuvu9E/Dwf6Q4uMoq1Dnua8rJ5jqaicGjDslBBEs691lXFrTch9dImA==;FPX8c5AiGo61zDbJenNeYQ=="
 ---
 

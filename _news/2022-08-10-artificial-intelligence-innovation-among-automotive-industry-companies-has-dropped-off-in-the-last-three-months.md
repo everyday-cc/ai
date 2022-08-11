@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T17:00:00Z
 originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
@@ -54,6 +55,6 @@ related:
         height: 778
         isCached: true
 
-secured: "g6HMYlIDs4Fo0J3yBOR1UZKl7u6pyrmywa7f96yK6ETXeo5l7HWjsjltiXE3H5H+G23wgRhg2WreOSpFRKXyHje15Ui00bNaMQiDSGB9BkLQgZZcqlv+vXMTjhO93P4QW6ek5SC4W7viml8qHWknlPcBkuet2BkT3/9Xt5iNV1kPZ13mfYs0dz8m3Djt19VkzR1UgzU+v5WY7sbzgorphU65XeJkuPndfO3tCTGmW9uu7KRK7r/+QtxvntrH+8ZokzpeHFC+lbS/bpghSE1rTQKNq+xSmLmGnSr49USqCIYOU/cWpbbFCfo5AAUFqvsagJdalROl1FZudy6dEwDDmgChI3caYt6IjpsDBhEogIU=;ab0U/xi1otoLDxlzevYtXg=="
+secured: "dm99V2TaBzBr+oAiyzQ+eUilDWkKoy7Kcs1hJVSXKd/gtb/BFcvdFKG2ynGfwCNsd9BY58SKD/ZfRtQqAoIO+xASc7JLswUV1H+lqYbLLHe8GwtT7EcJg8Ct2wb/mqk+2fipkOZz2tHZE3q7MMWooni4LzhNzFJOi+VOlZ6c6KBSG+aFgw84KtwmmjrKr/ZAvJrfZGhiM9Z8mAbrwmxyB/KZxmlYTfNO8OcIpji6dvFaDbUvODK2BIpq5i5rTH6wvY7ztYfneCRanL3JDLLBuySa1uOC4d4YbkPVU2yeaZ+6YirZ+MlUE/MZ5/JHHP+cbxtLCRGkieDa9Zwe/79rVe/yiirBbfB/CN5v1gQwQOcGH4d4EGhvDQdUQrhghsV109CdjFFiJ6lQynoZEF5BRyowP1+hQTV2aa9AhlvPgmSeYRnm+qsGxG06u/lDRGUb+uuvgt4TyTNoNoGBylS49IQTyZLvyLOwJ5jp2TeXR9qVrUpX2uFXeNjGwKt9Drn28dXaAxfK7tLfkxT7YHom8A==;OlOR8N+Idqx+8UecNW21Bw=="
 ---
 

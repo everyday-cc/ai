@@ -19,6 +19,20 @@ topics:
 
 related:
   - title: "CrowdStrike adds AI-powered indicators of attack to Falcon platform"
+    excerpt: "Cyber security vendor CrowdStrike has added new AI-powered indicators of attack (IoA) functionality to its Falcon platform."
+    publishedDateTime: 2022-08-11T07:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/700619/crowdstrike-adds-ai-powered-indicators-attack-falcon-platform/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 37
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_243097684.jpg"
+        width: 473
+        height: 315
+        isCached: true
+  - title: "CrowdStrike adds AI-powered indicators of attack to Falcon platform"
     excerpt: "The new feature leverages millions of examples of malicious activity to more accurately identify signs of an attack."
     publishedDateTime: 2022-08-10T12:00:00Z
     webUrl: "https://www.csoonline.com/article/3669418/crowdstrike-adds-ai-powered-indicators-of-attack-to-falcon-platform.html"

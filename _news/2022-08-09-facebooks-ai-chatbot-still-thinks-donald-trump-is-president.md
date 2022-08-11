@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
-    excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
-    publishedDateTime: 2022-08-06T15:28:00Z
-    webUrl: "https://www.pcmag.com/news/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Meta puts its latest AI chatbot to test"
     excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
     publishedDateTime: 2022-08-08T07:35:00Z

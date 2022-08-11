@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
-    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
-    publishedDateTime: 2022-08-09T12:42:00Z
-    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
   - title: "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34."
     publishedDateTime: 2022-08-08T19:13:00Z

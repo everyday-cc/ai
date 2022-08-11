@@ -68,6 +68,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Banks and fintech firms: The symbiotic relationship"
+    excerpt: "Customers expect a lot more from their banks today. They anticipate a full digital experience that engages with them on an individual, personalised basis. Fintech firms have excelled in customer experience and are far better at providing tailored products  and services than the banks,"
+    publishedDateTime: 2022-08-11T09:11:00Z
+    webUrl: "https://www.finextra.com/the-long-read/467/banks-and-fintech-firms-the-symbiotic-relationship"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/467.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
     excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
     publishedDateTime: 2022-08-08T12:58:00Z

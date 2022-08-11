@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Starts Testing Its Latest AI Chatbot, BlenderBot 3"
-    excerpt: "Meta has introduced a new AI called BlenderBot 3 (Opens in a new window) that is supposed to be able to hold a conversation with pretty much anyone on the internet without becomin"
-    publishedDateTime: 2022-08-06T15:28:00Z
-    webUrl: "https://www.pcmag.com/news/meta-starts-testing-its-latest-ai-chatbot-blenderbot-3"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04GdhDWUP1Juli5PJ2JPkgT-1.fit_lim.size_1200x630.v1659799623.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Facebook’s AI chatbot still thinks Donald Trump is president"
     excerpt: "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online."
     publishedDateTime: 2022-08-09T12:02:00Z
