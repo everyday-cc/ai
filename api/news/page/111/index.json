@@ -2,6 +2,92 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2022-05-14-cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc.md",
+      "title": "CISCE to introduce robotics, AI, others as subjects in ICSE, ISC",
+      "excerpt": "IIT Delhi’s tech innovation hub to help design CISCE curriculum in robotics, AI, machine learning and data science",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/14/1600x900/acc19fc0-d379-11ec-8c3e-83475041d003_1652528113795.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "publishedDateTime": "2022-05-14T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-ai-trends-to-watch-out-for-in-digital-healthcare.md",
+      "title": "AI trends to watch out for in digital healthcare",
+      "excerpt": "The advent of new age technologies has influenced and affected several sectors and healthcare has also received its share of transformation. Today, the healthcare sector looks much different than it did just a decade",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-trends-to-watch-out-for-in-digital-healthcare/",
+      "publishedDateTime": "2022-05-14T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-artificial-intelligence-in-medicine-market-growth-scenario-2028-cyrcadia-health-aicure-modernizing-medicine.md",
       "title": "Artificial Intelligence In Medicine Market Growth Scenario 2028 | Cyrcadia Health, AiCure, Modernizing Medicine",
       "excerpt": "Latest survey on Worldwide Artificial Intelligence In Medicine Market is conducted to provide hidden gems performance analysis of Worldwide Artificial Intelligence In Medicine to",
@@ -1077,83 +1163,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-1011-in-april.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April",
-      "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ BOTZ opened at $21.29 on Friday. Global X Robotics & Artificial Intelligence ETF has a 12 month low of $20.88 and a 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/",
-      "originalUrl": "https://www.etfdailynews.com/2022/05/13/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-101-1-in-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical.md",
-      "title": "Now AI Bots Can Speak For You After Your Death. But Is That Ethical?",
-      "excerpt": "This case exemplifies why the ethics of machine learning matters. It also illustrates why it is essential to open a public debate that can better inform citizens and help us develop policy measures to make AI systems more open, socially fair and compliant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786",
-      "originalUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-05/qdl50bi4_igrave-computer-grave-deadbots-chatbots-after-death-istock_625x300_13_May_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/now-ai-bots-can-speak-for-you-after-your-death-but-is-that-ethical-2971786/amp/1",
-      "publishedDateTime": "2022-05-12T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

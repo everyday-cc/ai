@@ -2,6 +2,84 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
+      "title": "Don’t get too emotional about emotion-reading AI",
+      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
+      "publishedDateTime": "2022-07-22T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
+      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
+      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
+      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope.md",
       "title": "Why distributed AI is key to pushing the AI innovation envelope",
       "excerpt": "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes.",
@@ -1043,91 +1121,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
-      "title": "VDOT preparing to use artificial intelligence to predict traffic",
-      "excerpt": "State transportation officials are gearing up to use artificial intelligence to monitor emerging traffic conditions in NoVa and Fredericksburg",
-      "sourceUrl": null,
-      "webUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
-      "originalUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.virginiamercury.com/wp-content/uploads/2022/06/American-Legion-Bridge-June-14-2022-scaled-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginia Mercury",
-        "domain": "virginiamercury.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment.md",
-      "title": "Amazon Web Services announces presence in Nigeria with infrastructure investment",
-      "excerpt": "Amazon Web Services is making what can be described as the first announcement of its presence in Nigeria with the launch of ‘AWS Outposts’, an",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
-      "originalUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Amazon-web-services.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
-      "publishedDateTime": "2022-07-21T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

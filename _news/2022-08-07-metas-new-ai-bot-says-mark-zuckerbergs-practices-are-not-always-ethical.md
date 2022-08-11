@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zucker
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
 type: article
 quality: 102
-heat: 212
+heat: 202
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2022/08/07/zuckerberg_1.jpg?width=1200&height=800&fit=crop"
         width: 563
         height: 375
-        isCached: true
-  - title: "Meta’s Latest AI Chatbot Has Mixed Feelings About CEO Mark Zuckerberg"
-    excerpt: "Meta on Friday unveiled its most advanced chatbot to date, called the BlenderBot 3 (BB3) with model weights, code, datasets, and model cards. This"
-    publishedDateTime: 2022-08-06T14:28:00Z
-    webUrl: "https://www.techworm.net/2022/08/meta-ai-chatbot-feelings-ceo-mark-zuckerberg.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 37
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/08/blender-bot-3-meta-ai.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
     excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"

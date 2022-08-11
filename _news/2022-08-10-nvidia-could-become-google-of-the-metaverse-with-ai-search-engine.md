@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI takes the 'real' you into the metaverse"
+    excerpt: "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo"
+    publishedDateTime: 2022-08-10T13:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsr3i?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/62f3a3d6e4b05160ceab43cb-1660134361379?location=LANDSCAPE"
+        width: 748
+        height: 421
+        isCached: true
   - title: "How will conversational AI influence the metaverse?"
     excerpt: "In a metaverse, an AI concierge is a personified machine that makes personalised recommendations depending on the preferences of the avatar."
     publishedDateTime: 2022-08-10T09:45:00Z

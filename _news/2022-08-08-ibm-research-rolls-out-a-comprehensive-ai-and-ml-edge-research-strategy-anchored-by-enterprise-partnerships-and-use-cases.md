@@ -40,7 +40,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1197264259/image_1197264259.jpg?io=getty-c-w750"
         width: 750

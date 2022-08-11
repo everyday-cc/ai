@@ -107,20 +107,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
-    excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
-    publishedDateTime: 2022-08-06T14:39:00Z
-    webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
     excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
     publishedDateTime: 2022-08-09T16:08:00Z

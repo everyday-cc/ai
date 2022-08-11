@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-31-tech-startup-ketos-targets-water-safety-and-scarcity.md",
+      "title": "Tech Startup KETOS Targets Water Safety And Scarcity",
+      "excerpt": "Entrepreneur Meena Sankaran discusses KETOS, a San Francisco-based startup with an AI-based platform aimed at making water safer and more sustainable through an automated testing and monitoring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6ad2220262508199932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "publishedDateTime": "2022-07-31T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-i-kind-of-want-this-tiny-robot-to-control-my-home.md",
+      "title": "I Kind Of Want This Tiny Robot To Control My Home",
+      "excerpt": "to be an always-on robot monitoring you as candidly as Alexa or Google Home, but in a much more adorable chassis. It connects to the internet, listens for your commands, and can even control your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "originalUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/t_original/svexguzyzm42vbl3cc1t.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "publishedDateTime": "2022-07-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-women-better-than-men-at-operating-driverless-cars-study-finds.md",
       "title": "Women better than men at operating driverless cars, study finds",
       "excerpt": "Women are better at operating driverless cars than men, according to a new study. Researchers at Newcastle University found that women display faster reaction times, more control over the wheel ...",
@@ -1079,100 +1173,6 @@
         "AI",
         "AWS AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
-      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
-      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "publishedDateTime": "2022-07-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
-      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
-      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "publishedDateTime": "2022-07-29T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -166,49 +166,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-how-will-conversational-ai-influence-the-metaverse.md",
-      "title": "How will conversational AI influence the metaverse?",
-      "excerpt": "In a metaverse, an AI concierge is a personified machine that makes personalised recommendations depending on the preferences of the avatar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/",
-      "originalUrl": "https://www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/08/metaverse-virtual-love-collage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/lite/",
-      "publishedDateTime": "2022-08-10T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
       "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
       "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
@@ -1482,6 +1439,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
+      "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
+      "excerpt": "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "originalUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "publishedDateTime": "2022-08-01T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

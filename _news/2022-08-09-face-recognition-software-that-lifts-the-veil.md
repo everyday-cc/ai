@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T13:40:00Z
-    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 21
-  - title: "Facial recognition software spreads across India but regulation is slow"
     excerpt: "Central and state governments in India have deployed facial recognition systems FRS in recent years without putting in place any law to regulate its use."
     publishedDateTime: 2022-08-06T18:07:00Z
     webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"

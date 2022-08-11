@@ -2,6 +2,101 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2022-06-22-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
+      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
+      "excerpt": "Ai-DA Robot has painted portraits of this year’s Glastonbury headliners using AI technology (Shangri-La/PA) To start, Ai-Da Robot uses cameras in its eyes and its computer memory, before using a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "originalUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/06/17/00/16193841-8b53a400-1035-4ce2-acfc-f70bd059404f.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/billie-eilish-paul-mccartney-kendrick-lamar-diana-ross-shangrila-b2103099.html",
+      "publishedDateTime": "2022-06-21T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028.md",
+      "title": "Cognitive Services Market Technological Advancement & Growth Analysis with Forecast to 2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jun 21, 2022 (Market Insight Reports) -- New Analysis Of Cognitive Services Market overview, spend analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028-2022-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-technological-advancement-growth-analysis-with-forecast-to-2028-2022-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-inrule-technology-delivers-workflow-automation-to-democratize-ai-and-machine-learning.md",
       "title": "InRule Technology delivers workflow automation to democratize AI and machine learning",
       "excerpt": "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ...",
@@ -1041,110 +1136,6 @@
         "AI",
         "AI in Healthcare",
         "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ai-is-making-the-frontline-a-more-compelling-place-to-work.md",
-      "title": "AI is making the frontline a more compelling place to work",
-      "excerpt": "One thing that may not happen any time soon, however, is seeing these workers replaced by automation or AI. Rather, their roles will be enhanced. For example, while completely autonomous trucks are years away, intelligent vehicles will manage employees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "originalUrl": "https://www.zdnet.com/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/de48e111d14297c732f9c8cb6561b1888dcb65d6/2022/06/21/725ca575-b9fe-4134-91e4-ac43152691fb/city-street-outside-javits-photo-by-joe-mckendrick2.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-is-making-the-frontline-a-more-compelling-place-to-work/",
-      "publishedDateTime": "2022-06-21T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-artificial-intelligence-could-be-about-to-change-soccer-player-scouting.md",
-      "title": "Artificial Intelligence Could Be About To Change Soccer Player Scouting",
-      "excerpt": "Chelsea are among the clubs using a phone app based on AI to help them scout players. The app allows scouts to compare amateurs' ability with the benchmarks set by the clubs' own players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b03e9a7db151884b3b268d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2022/06/21/artificial-intelligence-could-be-about-to-change-soccer-player-scouting/amp/",
-      "publishedDateTime": "2022-06-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

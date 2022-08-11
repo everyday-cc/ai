@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Biometric Gun Safes of 2022"
+    excerpt: "We tested and reviewed the best biometric gun safes for quick access to your firearm and reliable security you can depend on."
+    publishedDateTime: 2022-08-09T18:24:00Z
+    webUrl: "https://www.outdoorlife.com/gear/best-biometric-gun-safes/"
+    ampWebUrl: "https://www.outdoorlife.com/gear/best-biometric-gun-safes/?amp"
+    cdnAmpWebUrl: "https://www-outdoorlife-com.cdn.ampproject.org/c/s/www.outdoorlife.com/gear/best-biometric-gun-safes/?amp"
+    type: article
+    provider:
+      name: Outdoor Life
+      domain: outdoorlife.com
+    quality: 44
+    images:
+      - url: "https://www.outdoorlife.com/uploads/2022/08/05/Best-Biometric-Gun-Safes.jpg?auto=webp"
+        width: 1200
+        height: 751
+        isCached: true
   - title: "Fintechs gain global traction with facial biometric payments"
     excerpt: "In markets such as India, China, the United Arab Emirates and Brazil, more consumers and merchants are testing or deploying facial recognition as a way to authenticate transactions."
     publishedDateTime: 2022-08-08T14:51:00Z

@@ -2,6 +2,109 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2022-05-12-viable-is-quantifying-qualitative-customer-feedback-with-ai.md",
+      "title": "Viable is quantifying qualitative customer feedback with AI",
+      "excerpt": "Viable focuses on aggregating customer feedback across channels using AI and GPT-3. The platform offers a full analysis service that provides written analysis on top of the feedback and can be applied to areas such as product management,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1138200970-e1591912751366.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/viable-is-quantifying-qualitative-customer-feedback-with-ai/amp/",
+      "publishedDateTime": "2022-05-12T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing.md",
+      "title": "AI21 Labs claims it’s building the next phase of natural language processing",
+      "excerpt": "AI21 says its mission is to shift and shape the way people read and write by making AI a thought partner to humans.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/",
+      "originalUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1133993095-e1652208375136.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/12/ai21-labs-claims-its-building-the-next-phase-of-natural-language-processing/amp/",
+      "publishedDateTime": "2022-05-12T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-axel-gern-to-head-torc-robotics-technology-and-development-center-in-europe.md",
       "title": "Axel Gern to head Torc Robotics Technology and Development Center in Europe",
       "excerpt": "Torc Robotics has tapped Axel Gern, a long-time leader in truck automation, to head its recently opened Torc Europe GmbH engineering facility in Stuttgart, Germany. Gern has been named senior vice president of engineering and managing director for Torc Europe at the technology and software development center.",
@@ -1057,94 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
-      "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
-      "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "originalUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/462366/original/file-20220511-22-g63bhm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=210&fit=crop",
-          "width": 320,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
-      "publishedDateTime": "2022-05-11T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
-      "title": "New robotics & gaming school coming to Piedmont",
-      "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",
-      "sourceUrl": null,
-      "webUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
-      "originalUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/05/Capture20.png?w=1280",
-          "width": 640,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
-      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
-      "publishedDateTime": "2022-05-11T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGHP",
-        "domain": "myfox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

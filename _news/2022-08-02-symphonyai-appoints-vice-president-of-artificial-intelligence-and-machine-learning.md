@@ -2,26 +2,20 @@
 category: news
 title: "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning"
 excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation."
-publishedDateTime: 2022-08-02T10:32:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-7ae3f47660388d5f827793346119d945"
+publishedDateTime: 2022-08-02T11:56:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "wxQpEKs0JtO3ucYoijcUie+QVNCUesklDRVr5euyt77+0daCOvDLfTxFkza1Y8G0Zq00PsVrrGBjf5reePFXRoEY9pPpSzACZ/xiA2YidKyrVPnn7U1LX7y7qHmV/Ujv8dnkDww3ZdjRQVgiPqNaogEfQCG54+YIwdeRJ0oktVMi7Nfo4VPv+Rbre+Ew+nWYyPLPsaS6jAv+kLlth4WgCs954juE587i0b+ioIhcnmjLEDmcKZBGOeJ8rsiaRjHJo79IMP6j8ibozE/YRHFZp0cTfYeKApz6UKs80nBz7WvIfr8Up5GXJkaml85j9QPANPBBeySzjmd1qBVclwgYOiX5AUNrmdmjoQiSjBCqVYA=;OmL8fs3w0V1nw8S7+0OcLg=="
+secured: "gWItfRwY5v56C2QvMxqTNVEZMpUbGs6+Na/yBMpUtGaQxewZCPZtFwoJ1QA5GaHc6HXNfUxC8Dj2XOwa++PEFxEXBkhEnB6cSZWOwdEA0S1BOZXjP3bQkYaqRjJQyF21SA0398nWR6rz+UKhuWc9mniVPZtYQqY/dIeFA9YOXDOZ1fZWvPuJetcnNOuU7Ba0Zjpj/2MHG4wGUwha9wm64du/l5Fy+J0HnqHBzFnEpLi5fwmFTzui+wh1pjIGWAhIcghw0pV+LFuFQdrmXy8+YhGDtDrnZETgxFmmyAIbKB0QyoH2gsx8E/WRzpQQlfbMSguiuwbXaGhmHH/wakOzjByV4lolIqrUnUJFcotGVqg=;mvtQyTa+Qn11ck+GxokxaA=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-09-citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.md",
+      "title": "Citi's stocks to play the biggest themes of our time like automation and AI",
+      "excerpt": "As markets remain saddled with short-term turmoil and recession fears, one top strategist recommends investors start seeking out stocks with long-term structural growth stories. Citi's Scott Chronert believes stocks that play into the biggest trends of our time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106906180-16252398672021-07-02t100213z_1512409415_rc2aco9klsci_rtrmadp_0_usa-mining-gm.jpeg?v=1625239934&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
       "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
       "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
@@ -653,7 +704,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-08-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -701,11 +752,11 @@
       "title": "AI regulation: A state-by-state roundup of AI bills",
       "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
-      "originalUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "webUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -744,8 +795,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
@@ -1188,58 +1238,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-natural-language-processing-nlp-market-worth-494-billion-by-2027-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "CHICAGO, /PRNewswire/ --Natural Language Processing (NLP) Marketsize to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

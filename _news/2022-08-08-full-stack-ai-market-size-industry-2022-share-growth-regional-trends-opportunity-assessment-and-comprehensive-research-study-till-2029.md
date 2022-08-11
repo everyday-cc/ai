@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
+    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
+    publishedDateTime: 2022-08-08T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
     excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
     publishedDateTime: 2022-08-09T05:27:00Z

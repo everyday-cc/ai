@@ -78,7 +78,7 @@ related:
         height: 600
         isCached: true
   - title: "Baidu wins approval for China’s first full driverless taxis"
-    excerpt: "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ..."
+    excerpt: "Baidu Inc has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc and XPeng Inc. The tech giant has secured ..."
     publishedDateTime: 2022-08-08T04:50:00Z
     webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
     type: article

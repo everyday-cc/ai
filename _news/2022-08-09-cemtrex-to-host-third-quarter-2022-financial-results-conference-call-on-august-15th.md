@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Pure Storage Announces Date and Conference Call Information for Second Quarter Fiscal 2023 Financial Results"
+    excerpt: "FY23 Conference Call Details A live audio broadcast of the conference call will be available at the Pure Storage Investor Relations website at investor.purestorage.com. A replay will be available following the call on the Pure Storage Investor Relations website or for two weeks at 1-866-813-9403 (or +44 204 525 0658 for international callers) with passcode 367923."
+    publishedDateTime: 2022-08-10T20:32:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-e7c188a3e4b74b5a3aa6ae3355e062da"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "KvnS52sWABgnibHEFL3StinqjIz8hsAQIgHIFtzGIqVtIUkcbm9eK8gdPZZrQ8nIFPd8R7Bk9RQc8PerDbtkSXkAjWXlSzX506+3KfHStcjJafA34q/x8whatNLQUoZ/PIaRRQWszRUAiJJ9aehMAEinjAsfd++uNTsePMN6CZUjsIpMMj3iBsAZK9umzoy37MYoT36ZZDvDwpJYZLTi6QjCxCfOPmQyAzJJySiJeXZxbFDA06LRxJMFKxffwQUqt+zHHKWoTl+SGQ9L7pddALJsss2mScFokcKmZsfo/HjcrH3p0/HI/Q068N5vdoh64MpFT8CznWpiqa///zvCgxcqMqajq7HfqaSYTvJDzQY=;/oeemJ3cr8otRDXp0Sqdeg=="
 ---

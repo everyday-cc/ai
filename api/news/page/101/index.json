@@ -2,6 +2,92 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-05-24-qct-announces-support-of-nvidia-grace-cpu-superchips-for-use-in-hpc-and-ai-applications.md",
+      "title": "QCT Announces Support of NVIDIA Grace CPU Superchips for Use in HPC and AI Applications",
+      "excerpt": "Quanta Cloud Technology (QCT), a global data center solution provider, today announced new servers that will support the NVIDIA Grace ™ CPU Superchip and Grace™ Hopper™ Superchip. QCT is incorporating the NVIDIA Grace™ CPU,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-aws-announces-general-availability-of-ec2-c7g-instances-with-custom-graviton3-chips.md",
+      "title": "AWS announces general availability of EC2 C7g instances with custom Graviton3 chips",
+      "excerpt": "The AWS EC2 C7g instances were announced in November, along with the introduction of the Amazon EX2 Trn1 instance for training artificial intelligence models. The Amazon-designed Graviton3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/23/aws-announces-general-availability-ec2-c7g-instances-custom-graviton3-chips/",
+      "originalUrl": "https://siliconangle.com/2022/05/23/aws-announces-general-availability-ec2-c7g-instances-custom-graviton3-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/aws.png",
+          "width": 850,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
       "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
       "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
@@ -1012,101 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031.md",
-      "title": "Artificial Neural Network (ANN) Market Growth Prospects and Share Analysis, Trends, Top Leaders and Regional Analysis Forecast to 2022-2031",
-      "excerpt": "Japan, Japan, Sun, 22 May 2022 22:58:36 / Comserve Inc. / -- The Artificial Neural Network (ANN) market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-network-ann-market-growth-prospects-and-share-analysis-trends-top-leaders-and-regional-analysis-forecast-to-2022-2031-2022-05-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-google-and-uk-power-networks-develop-digital-versions-of-cable-maps.md",
-      "title": "Google and UK Power Networks develop digital versions of cable maps",
-      "excerpt": "Google’s artificial intelligence division is hoping to revolutionise hand-drawn maps of electricity cables in a move that could benefit the global utility industry. Google’s DeepMind engineers have partnered with UK Power Networks which delivers electricity across London,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2022/05/google-and-uk-power-networks-develop-digital-versions-of-cable-maps.html",
-      "originalUrl": "https://www.techdigest.tv/2022/05/google-and-uk-power-networks-develop-digital-versions-of-cable-maps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2022/05/pexels-pixabay-414967-745x1024.jpg",
-          "width": 745,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

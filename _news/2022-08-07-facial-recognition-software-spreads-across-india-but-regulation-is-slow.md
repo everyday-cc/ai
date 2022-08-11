@@ -7,7 +7,7 @@ originalUrl: "https://www.modernghana.com/news/1175804/facial-recognition-softwa
 webUrl: "https://www.modernghana.com/news/1175804/facial-recognition-software-spreads-across-india.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -20,15 +20,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facial recognition software spreads across India but regulation is slow"
-    excerpt: "Central and state governments in India have deployed facial recognition systems (FRS) in recent years without putting in place any law to regulate its use."
-    publishedDateTime: 2022-08-06T13:40:00Z
-    webUrl: "https://www.rfi.fr/en/international/20220806-facial-recognition-software-spreads-across-india-but-regulation-is-slow"
-    type: article
-    provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 21
   - title: "Face-recognition software that lifts the veil"
     excerpt: "Face-recognition technology is advancing apace and has applications in security and biometrics, marketing, education, criminal investigation, and many other areas. It can now not only recognize the person but can ascertain the expression on their face."
     publishedDateTime: 2022-08-09T13:30:00Z

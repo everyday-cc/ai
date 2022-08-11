@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/digital-currency/how-will-conversat
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/lite/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI takes the 'real' you into the metaverse"
+    excerpt: "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo"
+    publishedDateTime: 2022-08-10T13:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsr3i?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/62f3a3d6e4b05160ceab43cb-1660134361379?location=LANDSCAPE"
+        width: 748
+        height: 421
+        isCached: true
   - title: "The Future Of Work In The Metaverse"
     excerpt: "The metaverse, by design, was always intended to be more than just another ecosystem of \"virtual reality\"-based applications."
     publishedDateTime: 2022-08-11T01:48:00Z

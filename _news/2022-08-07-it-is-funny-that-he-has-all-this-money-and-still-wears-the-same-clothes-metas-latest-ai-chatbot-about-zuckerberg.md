@@ -86,20 +86,6 @@ related:
         width: 563
         height: 375
         isCached: true
-  - title: "Meta’s Latest AI Chatbot Has Mixed Feelings About CEO Mark Zuckerberg"
-    excerpt: "Meta on Friday unveiled its most advanced chatbot to date, called the BlenderBot 3 (BB3) with model weights, code, datasets, and model cards. This"
-    publishedDateTime: 2022-08-06T14:28:00Z
-    webUrl: "https://www.techworm.net/2022/08/meta-ai-chatbot-feelings-ceo-mark-zuckerberg.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 37
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/08/blender-bot-3-meta-ai.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
     excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"
     publishedDateTime: 2022-08-09T02:22:00Z

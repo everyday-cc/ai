@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-04-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
+      "title": "Global Artificial Intelligence In Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
+      "excerpt": "Recent report published by research nester titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
+      "originalUrl": "https://menafn.com/1104639143/Global-Artificial-Intelligence-In-Healthcare-Market-Demand-Analysis-Opportunity-Outlook-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?466187",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition.md",
+      "title": "Amazon Comprehend announces lower annotation limits for custom entity recognition",
+      "excerpt": "Amazon Comprehend is a natural-language processing (NLP) service you can use to automatically extract entities, key phrases, language, sentiments, and other insights from documents. For example, you can immediately start detecting entities such as people, places, commercial items, dates, and quantities",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-announces-lower-annotation-limits-for-custom-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/03/lower-annotation-limits-comprehend.jpg",
+          "width": 1119,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T13:03:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-study-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
       "title": "Study: Education, job, and social life may help protect brain from cognitive decline",
       "excerpt": "Researchers looked at genetic and life course factors that may help create a \"cognitive reserve\" that provides a buffer against the disease in a study published in the August 3, 2022, online issue ...",
@@ -194,33 +290,24 @@
     {
       "path": "_news/2022-08-04-mparticle-acquires-ai-startup-vidora.md",
       "title": "mParticle Acquires AI Startup Vidora",
-      "excerpt": "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ...",
+      "excerpt": "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform",
       "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
+      "webUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
+      "originalUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:26:00-07:00",
+      "publishedDateTime": "2022-08-03T10:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1072,92 +1159,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
-      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
-      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
-      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-myanmars-junta-using-chinese-face-recognition-tech-to-eliminate-opponents.md",
-      "title": "Myanmar's junta using Chinese face recognition tech to eliminate opponents",
-      "excerpt": "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/25/full/1658732548-7309.jpg?im=Resize,width=480",
-          "width": 480,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
-      "publishedDateTime": "2022-08-02T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -105,20 +105,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "California DMV: Tesla Falsely Advertised Autopilot, Full Self-Driving"
-    excerpt: "The California Department of Motor Vehicles (DMV) has become the latest regulator to complain about the way Tesla describes its Autopilot and Full Self-Driving features to consumers. The Los Angeles Times reports that the California DMV filed two complaints with the Office of Administrative Hearings on July 28 in which it said Tesla \"made or disseminated statements that are untrue or misleading,"
-    publishedDateTime: 2022-08-06T14:39:00Z
-    webUrl: "https://www.pcmag.com/news/california-dmv-tesla-falsely-advertised-autopilot-full-self-driving"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04S83BBdwFkeNjrMtmw3C09-1.fit_lim.size_1200x630.v1659796744.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
     excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
     publishedDateTime: 2022-08-08T15:42:00Z
@@ -252,6 +238,6 @@ related:
       domain: ktvu.com
     quality: 25
 
-secured: "RKbthAVfS1PrMXzd6gFUK8RXmMRLW1mmM8ZJcCsci5zI2Q4Ib7lDTjC9vUUhCyBSchx2G/3D+CESjZLFKB34cK4bFnU7NrZ3jl7reW9YTsnvcjiBwzOEoLVWWCW//Glhc1yI1DOsQaE8VAsGnsK5ZeqQtIEpV7j2zY3fKCWNq1LC7ybgmccGZOsq8VPr/dGUl9H2JyvtJBouGu1i0F4egNh6xfwVYc196YZdmOg3YxqVFGiKI835HAIG/O8GxqkiU9L19EhuDynfBPVwILbRyeUon+iktmR1bZ2ChXIgL9zKzH5BLxLuj2MwmdyCsw4kKzWE/d79lITwzFyiA0O8o0EF2V3+wStDEontiTMqpDU=;pVeZBglZggBfzVn3sBgLQg=="
+secured: "MmuoLkx++PDM786vuf2vAGHt0TZfBWRWNa/XlJnvWcbVK56j12WLq0KNU7EF9c3H/n/i/7Mn3pa46wo1mVCvT+BLkjsLOJHb1PUsOfI77dfNBWckovunKSDTsazobI20+c8uOTsbvdETcQzzQ7F1uVjSSs7Cz+9pp/+CBpfdLlVHxWdxhpUk/Wav5vgubctQIZzM1fsy+Pev7LK2nQZ5hMXa+Xp6ojqCBvQf1+9/GruLfGMi1Znq/Lsxn5chjZ3Z8uAvBwzpMOrlmudGljxhfFukla/DbgKK0z6Fyz2SsHr7rPBdjpgZB6PPiqjHD06+BJoBGL/Pt3pb94p3bFIPq+ND43HAolgdRJsY5MaA/hYs5+SJbPY4OGzr4Z/6vhs/qRDLZvkK4hP1RWXYb6ovAs8dNfX3Y3L0bHX0CXtJ2I8LbQOPVDm3OBxdYkbQY0oCplwmT4/QCNazFRs+0s7K2VuU0nfpOyrSCXLe6M+URzCN04G4BEWBI1iXvzaLsVXb/I/8n1vO1j8mdaGge18OjA==;lHzwjeZhP/1iJOpxNsN3xA=="
 ---
 

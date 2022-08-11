@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
+      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
+      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T19:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-myanmars-junta-using-chinese-face-recognition-tech-to-eliminate-opponents.md",
+      "title": "Myanmar's junta using Chinese face recognition tech to eliminate opponents",
+      "excerpt": "In order to expand its public surveillance capabilities, Myanmar's military regime is using facial recognition technology, raising fresh concerns about the safety of democracy activists in Myanmar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/25/full/1658732548-7309.jpg?im=Resize,width=480",
+          "width": 480,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/myanmar-s-junta-using-chinese-face-recognition-tech-to-eliminate-opponents-122080300096_1.html",
+      "publishedDateTime": "2022-08-02T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
       "title": "Using machine learning for bushfire prevention in australia",
       "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
@@ -789,48 +875,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-02-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine.md",
-      "title": "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine",
-      "excerpt": "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
-      "originalUrl": "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/video-gamers-AFP-1K-04-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-02-stream-high-quality-immersive-gpu-powered-3d-experiences-on-demand-with-pureweb-and-coreweave.md",
       "title": "Stream High-Quality, Immersive, GPU-Powered 3D Experiences On Demand With PureWeb and CoreWeave",
       "excerpt": "PRNewswire/ - PureWeb, the leading platform for streaming interactive, web-based 3D content, has now partnered with",
@@ -879,6 +923,39 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine.md",
+      "title": "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine",
+      "excerpt": "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1078,110 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.md",
-      "title": "Robot cooks are rapidly making their way into restaurant kitchens",
-      "excerpt": "Restaurants are looking to robotics to help solve staffing problems as well as alleviate repetitive tasks. It's becoming easier as the tech is now cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964440-1634903029064Team_Member_Next_to_Flippy_ROAR_at_the_Fryer.JPG?v=1659454911",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
-      "publishedDateTime": "2022-08-02T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
-      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
-      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
-      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

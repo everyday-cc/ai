@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "New Uses For AI In Chips"
+    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
+    publishedDateTime: 2022-08-11T07:05:00Z
+    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 37
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
+        width: 1430
+        height: 644
+        isCached: true
+
 secured: "ToSQYXGwqWrzCGDtDniHMRVXmxAkEDIlFN310PGqsBOSHZi6//g5cNgwIvA+7ahjWhhSpGTSlrLGC9dNqdM6RNpHB23VWauPUPzZwZQV4bDH6xP7kupDUOXhNXotEyZ5G5VXFADc5YGPw8HQmcm+XMXkdw1EWhGr259m50Q5RBwsZJnu2LaX/241v8CCmMX2dbOPg6XLkH0kadtw9kMRbEnbaaJdhz1CBXQW1Necp1jgaI2f16cW/3TCGZbD1u6hauGCa3hLGQYFM1IqTQjZjRjfNN6oLGYSLPAUzHQs+036rxP9kljoN8G/3L1KIFrM49rIIFW8VACBJ3iOv1H1bX/xIiGr/ozAIactvT1fOto=;y3Wj5YoeF3gUWg2GZ8fBPA=="
 ---
 
