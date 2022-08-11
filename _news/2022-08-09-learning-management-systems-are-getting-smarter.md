@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2022/08/08/learning-manageme
 webUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Artificial Intelligence and Machine Learning: Enhancing Human Effort with Intelligent Systems"
+    excerpt: "Only when the challenges of data accessibility and expensive computing power were mitigated did the AI field experience exponential growth. There are now more than a dozen types of AI being advanced."
+    publishedDateTime: 2022-08-09T00:00:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2022/ai-machine-learning-human-intelligent-systems? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 49
+    images:
+      - url: "https://www.automation.com/getmedia/a53f997d-3702-41cc-9a76-4998998a4b13/ISA-aug-feature-photo-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "azU/g6vSjOQqX/8UgxlUUR79NcirKkMypfjvQTgUPgFyUaC8jE4puE/H6+r5Jgo6DFNPpMTR7Je7sGBRQvY1CxShWrpbvTk8+M9bcrPbtNaMJh6uwxoQenZN99Xr0uWCyO5sUGwY3bWq63P4XCZ7apoZ6FI9Rg8zU21hIWiKcmVZt+T280kPNK51mrd/7iGMC2Dv5/NrRug9SXd7pNuxtm3CaVom58zuU6CuKonjI6OfIRoTVzqIf6fglM5RCRp7Ez3cfakIPFlyngYhoGCyDwx7Cb0u4Vgd9IB0v3a3nSDNU2kbwyqPEBLSQ5CiQdDL03IR19IAL+Ut+tKMMbQw5Rtpy+a1TgNb9+nlx3QGWPQmtupWMkUqVuqFUVk+NczYKcImujr7WGzU4iZOwW0ji7OqBWCqaVWio2QfHxw2eMe/tdEUF66dBYcVRRbSrc/XgwQR45NqesMZm3O2dqdbHyzkrq1h78vKQ1aSCkvj6ICU02bFbvIoZflF6onOXxLiyFKhMGFs87mV8jdshmVeHg==;/0fSCAdJHmoYCL2vZTucVA=="
 ---

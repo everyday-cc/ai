@@ -9,7 +9,7 @@ ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "New AI technology integrates multiple data types to predict cancer outcomes"
+    excerpt: "A new study reveals a proof-of-concept model that uses artificial intelligence (AI) to combine multiple types of data from different sources to predict patient outcomes for 14 different types of cancer."
+    publishedDateTime: 2022-08-11T15:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162144.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "Gartner Identifies Key Emerging Technologies Expanding Immersive Experiences, Accelerating AI Automation and Optimising Technologist Delivery"
     excerpt: "The 25 emerging technologies to watch on the Gartner, Inc. Hype Cycle for Emerging Technologies, 2022 are enabling the evolution and expansion of immers"
     publishedDateTime: 2022-08-10T09:19:00Z

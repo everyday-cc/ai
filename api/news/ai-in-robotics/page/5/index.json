@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-07-03-leams-to-introduce-robotics-ir40-course-in-uae-schools.md",
-      "title": "Leams to introduce robotics, IR4.0 course in UAE schools",
-      "excerpt": "Leams Education has launched a game-changing initiative introducing coding and robotics in classroom and laboratories, to make the students future-ready",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "originalUrl": "https://www.zawya.com/en/business/education/leams-to-introduce-robotics-ir40-course-in-uae-schools-qi76tipn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZGE5YjQzMzItY2U1Zi00:NTkzNzFi/1171003985.jpg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-12.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The company traded as high as $20.57 and last traded at $20.57.",
@@ -1261,6 +1218,60 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
+      "title": "Amazon, just say no: The looming horror of AI voice replication",
+      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
+      "publishedDateTime": "2022-06-27T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "AI in Robotics"
       ]
     }
   ],

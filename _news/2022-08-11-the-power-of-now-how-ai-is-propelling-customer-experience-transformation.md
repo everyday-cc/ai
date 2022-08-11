@@ -5,7 +5,12 @@ excerpt: "Conversational AI is becoming the key to positive customer experiences
 publishedDateTime: 2022-08-11T13:20:00Z
 originalUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/"
 webUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/"
+ampWebUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
 type: article
+quality: 88
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -17,7 +22,32 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "3s5LPGn8lAT6mO4sgiSakIxxLN8DpFXw5nzCAs0m8yxNCKGFs3xK8otISDJVSxmfzICDmO70CbyKj5qcjxxfEMAmcHXM7OQKVpylfvbR0sxhpy0il+DDdiKOwINx7VZfHcRzT64G4P6ALe/vkrb7Y8HwGStTk9X/LSjleJp5ubiui3p6FOhi4bV/hqeY3kT4u3ZRmmIerJBnZCPR9k3cEplmV3scXIav8R0LpnLJ6YITQ8nX074TLR63MkIT2VfZKfHZpZb68DAQcBLy4kKts2/WyOQb8TpaWbE+qZqxpDPQWwAkI0RiZw2iTqAYuEAbtJghK1Bhxq1gEBHE4lGaw48wO6LLhyTEwD+QHHvX4/pJEHB6idDD300D6KkYyN5ki2DtHFhLtUg7WSN5T6gPiGaCfBL2p249F6vivCxyiuOB0ymspmSzZIouNPN0DXdt7pLGXD46QsannuBFnPT9Iulm2dOpMRMjBj9C4fnC/CHqWvQKGOh2w80ZfwXRg9R+1uFS4AOgsofsAJ/GSyOIGg==;MHLMOrKzZWFhKqJkMi01hg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1338918342.jpg?w=1200&strip=all"
+    width: 1200
+    height: 636
+    isCached: true
+
+related:
+  - title: "Customer and employee experience mistakes to avoid and how AI can help"
+    excerpt: "Enterprise leaders are constantly evaluating how technology can better serve the needs of their customers and employees. As AI technology progresses, businesses recognize the massive potential to improve customer and employee experiences and positively ..."
+    publishedDateTime: 2022-08-06T23:09:00Z
+    webUrl: "https://venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/"
+    ampWebUrl: "https://venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/business_challenge.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "/ydu/4OmnHNKfwu1L78EZLnaQ2NjfgwyeFoDHifVMHbItLlWBBp3d9a2EIvV7cQuGF2Mi3Wq3AYmCmcZWfuyvGDHJ72EZf7ekAcprAWsskFFKuO4MdVd7S8CCBptQhM9R8omV171Jh+OnAVCZ1viDLXVwKU03gMxHq9wnpY1JytDhvT/tjZfkvXL8KDtcosb4Hh5K/qWTR5bMWVA9ewO1HoI4SATPnBQCNhrID0+4nYWhuk8hLmrFuNbu+NZtbIW+YwN8w4f58B5ZCkmO13m2EOuXHI6lKqMmiROEudXX5f2lbfc4002gnFasLN87bpuzQjj0qXBfqOfUm5O0tB6S/Ye4T9ElWs4E0FXwH2sqJw=;YmUoQHY/4JP8B/72W+2cKw=="
 ---
 

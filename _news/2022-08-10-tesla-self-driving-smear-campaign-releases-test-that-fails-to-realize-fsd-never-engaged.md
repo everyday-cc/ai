@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 265
+heat: 255
 published: true
 
 provider:
@@ -239,15 +239,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 36
-  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
-    excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T20:39:00Z
-    webUrl: "https://www.ksl.com/article/50453378/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 29
   - title: "California's DMV files complaint against Tesla for misleading self-driving advertisements"
     excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
     publishedDateTime: 2022-08-09T00:44:00Z

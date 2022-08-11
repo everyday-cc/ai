@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS"
-excerpt: "Iron Mountain InSight on AWS enables companies to accelerate digital transformation through increased visibility and control over their data, ensuring more informed decision making. The platform consolidates physical storage,"
-publishedDateTime: 2022-07-28T12:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-insightreg-saas-platform-extends-capabilities-aws-/2022/07/28/9646603.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-iron-mounta-insightreg-saas-platform-extends-capabilities-aws-/2022/07/28/9646603.htm"
+excerpt: "Get 7 Days Free Sign In Sign In Topics"
+publishedDateTime: 2022-07-28T11:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
+webUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "obX1to7syW+qWq+h8x7vEwxjQBM/7mR0FZEQ+UR3JDwAOXeAzanyTJG3Ic8nxitASz03ojucZZ03tCjScDJys9z6oVlLOJUfMkrHLvP9oiVme9hHSURD0YnDhqrZHt0jL48oIvy0ZKLPZiAkbbyL3SHdtVFGc7hhKxu/VpN8rRO5tvRqqcYPu+GRl0+ZrtgQO3J8ETXzpdvdZdCKvYXykRVZgd/sBk9+ujqOGGePjt4TrozLI6+nTTp1YU59g9617RiMgEaPcMR8xd/V1M0TOK0akBbcmlI7suDGgEOkusV42MsxniSXPjvz87sByHYrC8gTLiJMD76EKFKfae9rAL00gf5OmM5lhV5og5LtBO4=;VYDFdZ3D+0B+SUmE1cw+ww=="
+secured: "KAkugv+uwclJ/wguRp+UGjGTY83An70TN2GNnGETTitDF+Chc2h1g35uj4SWzTdiVSEfUbeDuktK7v9YRwq/J8mX8M7QQYnZLdfsvYAA4UV+y96HrgeqvFnNTmyZkQpu67KPe6p2Fl0hCLLVxWJXHaQoTxoDwGHYvVUFPHRrmNSVaswsmiceZaHbcparkKsGAJ0ykxCsJWtZrWKR1ki0yYt1SFDdVmZsol8EYTaEx/+tFLE3d9ugqMV+ufoiziIqIngQ4zIk1wyQSlQ4NKdNBb0L+MfO0Cdn49mB+G9s0oh9g7LftKXv5MEmEU5xZ+9fWpZ53txWiy4SqABLTAAfMIJo9+fIrC02uOFSSjeb8HM=;xlVzMVYDWzk6EfaZ+K++xQ=="
 ---
 

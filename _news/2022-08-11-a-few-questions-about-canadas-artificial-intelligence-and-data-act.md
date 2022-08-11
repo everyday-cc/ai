@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T13:59:00Z
 originalUrl: "https://www.cigionline.org/articles/a-few-questions-about-canadas-artificial-intelligence-and-data-act/"
 webUrl: "https://www.cigionline.org/articles/a-few-questions-about-canadas-artificial-intelligence-and-data-act/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Centre for International Governance Innovation

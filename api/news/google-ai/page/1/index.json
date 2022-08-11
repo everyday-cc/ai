@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-11-realising-scientists-are-the-real-superheroes.md",
+      "title": "Realising scientists are the real superheroes",
+      "excerpt": "Meet Edgar Duéñez-Guzmán, a research engineer on our Multi-Agent Research team who’s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/realising-scientists-are-the-real-superheroes",
+      "originalUrl": "https://www.deepmind.com/blog/realising-scientists-are-the-real-superheroes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62f516bc468339104801f2f1_wl2I21nq-QCbxjIjaCxCZd7W8yXbI9RDLNmxAzLo_TlANeVaOYr3NrrhOa1zTQVyJcvI9QE-OWTEdNS84Ar4yhxNAF1hytPWm6Bq00RHmLZVDSGBFht7shAF384TcP4b-DNBYQpoWkTBF6FdoVPSSWs.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-siri-or-skynet-how-to-separate-ai-fact-from-fiction.md",
       "title": "Siri or Skynet? How to separate AI fact from fiction",
       "excerpt": "Determining the way artificial intelligence is used and governed will be one of the century’s key political battlegrounds. Here’s what everyone needs to know",
@@ -1395,49 +1447,6 @@
         "AI",
         "AI in Healthcare",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-deepmind-ai-learns-simple-physics-like-a-baby.md",
-      "title": "DeepMind AI learns simple physics like a baby",
-      "excerpt": "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

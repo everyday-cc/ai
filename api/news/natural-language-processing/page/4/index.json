@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
+      "title": "VOXPROTECT - A Witness’s voice is not protected",
+      "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-kyndi-credited-for-helping-companies-capitalize-on-the-potential-of-ai.md",
       "title": "Kyndi Credited for Helping Companies Capitalize on the Potential of AI",
       "excerpt": "\"With organizations recognizing the great potential of AI, it is not surprising that the market size is also expected to increase dramatically. As part of our efforts to focus attention on the innovative knowledge management vendors that are imbuing their offerings with AI and automation,",
@@ -1343,59 +1386,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-new-ai-research-may-boost-translations-on-facebook-instagram.md",
-      "title": "Meta’s new AI research may boost translations on Facebook, Instagram",
-      "excerpt": "Facebook's parent company Meta has announced a new AI model for language translation and its research could improve translation on Facebook and Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
-      "originalUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/a-series-of-social-media-app-icons-on-a-colorful-smartphone-screen.jpg?p=1",
-          "width": 1500,
-          "height": 999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/metas-new-ai-research-may-boost-translations-on-facebook-instagram/?amp",
-      "publishedDateTime": "2022-07-06T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

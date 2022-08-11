@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-10-machine-learning-is-causing-a-reproducibility-crisis-in-science.md",
+      "title": "Machine Learning Is Causing a ‘Reproducibility Crisis’ in Science",
+      "excerpt": "AI hype has researchers in fields from medicine to political science rushing to use techniques that they don’t always understand—causing a wave of spurious results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/machine-learning-reproducibility-crisis/",
+      "originalUrl": "https://www.wired.com/story/machine-learning-reproducibility-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62f2e7991037f5e51b67288a/master/pass/Problems-With-AI-Science-Business-174410106.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/machine-learning-reproducibility-crisis/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/machine-learning-reproducibility-crisis/amp",
+      "publishedDateTime": "2022-08-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report.md",
+      "title": "Machine learning is top skill in demand for data scientist jobs in India: Report",
+      "excerpt": "Python remains the most used programming language across all sectors and MS Excel, Tableau and Power BI are the top three visualisation tools used by data science professionals, according to the repor",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
+      "originalUrl": "https://www.mid-day.com/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/images/2022/aug/Cashify-aa_d.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
+      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
+      "publishedDateTime": "2022-08-10T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
+      "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
+      "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "originalUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-600009/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "publishedDateTime": "2022-08-10T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers.md",
+      "title": "South Africa’s DataProphet closes $10M to scale its AI-as-a-service platform for manufacturers",
+      "excerpt": "DataProphet provides prescriptive advice and suggested changes to manufacturers’ recipes to avoid making the defects that cause their products to be scrapped.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
+      "originalUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Funding-Announcement.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
+      "publishedDateTime": "2022-08-10T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
+      "title": "The Best Examples Of Human And Robot Collaboration",
+      "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
+      "publishedDateTime": "2022-08-09T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-ai-ecg-heart-trace-can-accurately-predict-diabetes-and-pre-diabetes.md",
+      "title": "AI + ECG heart trace can accurately predict diabetes and pre-diabetes",
+      "excerpt": "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
+      "publishedDateTime": "2022-08-09T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-chips-act-is-a-boon-for-american-innovation.md",
       "title": "The CHIPS Act Is A Boon For American Innovation",
       "excerpt": "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers.",
@@ -270,7 +563,7 @@
       "originalUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -679,7 +972,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -852,57 +1145,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
-      "title": "AI regulation: A state-by-state roundup of AI bills",
-      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
-      "originalUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
-      "publishedDateTime": "2022-08-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-09-artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths.md",
       "title": "Artificial intelligence tools to speed critical information on drug overdose deaths",
       "excerpt": "According to a new UCLA research, an automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection",
@@ -994,250 +1236,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-16000-words-on-how-whether-and-why-to-upscale-your-video-collection-with-ai.md",
-      "title": "16,000 words on how, whether, and why to upscale your video collection with AI",
-      "excerpt": "We are beginning to live in a world where AI can genuinely do some incredible things, and I’m not just talking about DALL-E’s ability to produce uncanny original art on command. If you’ve ever experienced a shitty Blu-ray and wished someone could just upscale the DVDs for a better transfer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/8/8/23297372/ai-video-upscaler-enhance-topaz-cupscale-primer-explainer",
-      "originalUrl": "https://www.theverge.com/2022/8/8/23297372/ai-video-upscaler-enhance-topaz-cupscale-primer-explainer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_onGTtYegu_EY571x8xi3H-Q-u0=/0x218:1920x1223/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23931031/BrokenOutput_4xBSRGAN_Cupscale.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-baidu-ceo-says-autonomous-tech-from-robocar-brand-jidu-will-be-a-generation-ahead-of-tesla.md",
-      "title": "Baidu CEO says autonomous tech from ‘Robocar’ brand JIDU will be a generation ahead of Tesla",
-      "excerpt": "During its inaugural partner’s conference in Shanghai, autonomous-centric robotic car brand JIDU shared details of its lofty production expansion goals overseas. Furthermore, the CEO of parent company Baidu,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/",
-      "originalUrl": "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-autonomous-Jidu-Baidu.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/",
-      "publishedDateTime": "2022-08-08T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence.md",
-      "title": "New Texas partnership aims to define ethics in artificial intelligence",
-      "excerpt": "It seems like every day there are new headlines about what artificial intelligence can do. However, a new research partnership at the University of Texas at Austin is more interested how it works. The initiative between UT-Austin’s Good Systems program and the MITRE Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.texasstandard.org/stories/artificial-intelligence-ethics-ut-good-systems-mitre-corporation-research-partnership/",
-      "originalUrl": "https://www.texasstandard.org/stories/artificial-intelligence-ethics-ut-good-systems-mitre-corporation-research-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.texasstandard.org/wp-content/uploads/2022/08/49357874323_83abf19ed3_b.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texas Standard",
-        "domain": "texasstandard.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-brain-robot-therapy-reroutes-motor-pathway-in-stroke-patients.md",
-      "title": "Brain-robot therapy reroutes motor pathway in stroke patients",
-      "excerpt": "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960933",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
-      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
-      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
-          "width": 1325,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:48:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -243,15 +243,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 36
-  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
-    excerpt: "Tesla, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-06T20:39:00Z
-    webUrl: "https://www.ksl.com/article/50453378/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 29
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
     publishedDateTime: 2022-08-11T11:05:00Z

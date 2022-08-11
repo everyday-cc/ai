@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T13:18:00Z
 originalUrl: "https://www.ciodive.com/news/appen-AI-technologists-business-leaders/629382/"
 webUrl: "https://www.ciodive.com/news/appen-AI-technologists-business-leaders/629382/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CIO Dive

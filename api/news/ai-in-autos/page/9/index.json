@@ -2,6 +2,158 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
+      "title": "Synthetic Data Is About To Transform Artificial Intelligence",
+      "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-12T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-12-hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea.md",
+      "title": "Hyundai launches driverless ride-hailing service in Seoul, South Korea",
+      "excerpt": "Automaker Hyundai has introduced its Level 4 autonomous RoboRide service in the Gangnam district of Seoul, South Korea. The Hyundai Ioniq 5 is at the heart of the deployment and will see a safety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/",
+      "originalUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/06/hyundai-roboride.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/?amp=1",
+      "publishedDateTime": "2022-06-11T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-11-artificial-intelligence-helps-identify-benign-thyroid-nodules.md",
+      "title": "Artificial Intelligence Helps Identify Benign Thyroid Nodules",
+      "excerpt": "Artificial intelligence (AI) pinpoints thyroid nodules noticed on thyroid ultrasound that are unlikely to be cancerous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/thyroid6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
+      "publishedDateTime": "2022-06-11T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-11-is-tesla-backtracking-on-its-camera-only-autopilot-strategy.md",
       "title": "Is Tesla Backtracking On Its Camera-Only Autopilot Strategy?",
       "excerpt": "A Tesla Model Y was spotted in Canada with a LiDAR system integrated into its roof. Could there be a change coming to Tesla’s camera-only Tesla Vision plan?",
@@ -1217,147 +1369,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving.md",
-      "title": "AI Ethics Alarmed At The Rise In Underhanded Juicing Or Doping Of AI Machine Learning By Trusted Insiders, Including Autonomous Self-Driving Cars",
-      "excerpt": "Worries are that juicing or doping of AI Machine Learning is gaining traction, an AI Ethical woe and dangerous, including for the case of AI self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628ab0b5c6b6ddedd0fce126/0x0.jpg?format=jpg&crop=2647,1765,x0,y128,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/07/ai-ethics-alarmed-at-the-rise-in-underhanded-juicing-or-doping-of-ai-machine-learning-by-trusted-insiders-including-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-automated-palletizing-pays-for-itself.md",
-      "title": "Automated palletizing pays for itself",
-      "excerpt": "Software integration, and increasingly artificial intelligence and machine learning, is playing a bigger role in automated palletization. The massive labor shortage seemingly has no end in sight, especially when it comes to labor-intensive industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
-      "originalUrl": "https://www.logisticsmgmt.com/article/automated_palletizing_pays_for_itself",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2021_article/MMH2206_IM_Witron_Stretch_800px.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
-      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
-      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
-      "publishedDateTime": "2022-06-07T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

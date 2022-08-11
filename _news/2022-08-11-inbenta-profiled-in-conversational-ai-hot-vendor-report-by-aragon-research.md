@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T08:39:00Z
 originalUrl: "https://www.mobilitytechzone.com/wimax/news/2022/08/11/9654326.htm"
 webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/08/11/9654326.htm"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Mobility Techzone

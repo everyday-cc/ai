@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
+      "title": "Bam! AI exits the Batcave to confront the jobs market",
+      "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
+      "originalUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-185883522.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
+      "publishedDateTime": "2022-07-31T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-women-better-than-men-at-operating-driverless-cars-study-finds.md",
       "title": "Women better than men at operating driverless cars, study finds",
       "excerpt": "Women are better at operating driverless cars than men, according to a new study. Researchers at Newcastle University found that women display faster reaction times, more control over the wheel ...",
@@ -461,6 +513,50 @@
       ]
     },
     {
+      "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
+      "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
+      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg",
+          "width": 2480,
+          "height": 3507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
+      "publishedDateTime": "2022-07-28T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-baidu-reveals-its-6th-gen-robotaxi-with-detachable-steering-wheel.md",
       "title": "Baidu reveals its 6th-gen robotaxi, with detachable steering wheel",
       "excerpt": "According to Baidu senior corporate vice president Zhenyu Li, who also serves as GM of the company's intelligent driving group, the RT6's autonomous driving capability is \"equivalent to a skilled ...",
@@ -484,6 +580,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
+      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
+      "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of VR-based remote vehicle driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1194,144 +1333,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
-      "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
-      "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721145214-baidu-apollo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "publishedDateTime": "2022-07-22T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Portland Selected as Host Site for Notified Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "July 22, 2022 (GLOBE NEWSWIRE) -- Notified, an Intrado business, will host a Mark Cuban Foundation Artificial Intelligence ... facial recognition, and self-driving cars to name a few.",
-      "sourceUrl": null,
-      "webUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "originalUrl": "https://whnt.com/business/press-releases/globenewswire/8604430/portland-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidus-latest-robotaxi-has-a-removable-steering-wheel.md",
-      "title": "Baidu's latest robotaxi has a removable steering wheel",
-      "excerpt": "The RT6 unsurprisingly includes Baidu's newest autonomous driving tech. The Level 4 system (full self-driving under specific conditions) uses a total of 38 sensors, including eight LiDAR units and 12 cameras,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "originalUrl": "https://www.engadget.com/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/86861b60-09c0-11ed-bb7f-a08b09bd479f",
-          "width": 1920,
-          "height": 1281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-apollo-rt6-robotaxi-removable-steering-wheel-141508388.html",
-      "publishedDateTime": "2022-07-22T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

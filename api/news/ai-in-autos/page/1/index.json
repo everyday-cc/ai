@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
       "title": "The Importance of International Norms in Artificial Intelligence Ethics",
       "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
@@ -56,7 +112,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -300,7 +356,7 @@
       "originalUrl": "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -679,9 +735,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "AI in Autos"
       ]
     },
     {
@@ -884,8 +940,8 @@
       "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
       "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
       "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
-      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html?chid=13",
+      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
+      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1387,58 +1443,6 @@
         "name": "CIO Applications",
         "domain": "cioapplications.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
-      "title": "Bam! AI exits the Batcave to confront the jobs market",
-      "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "originalUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-185883522.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "publishedDateTime": "2022-07-31T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-11-memryx-is-a-new-ai-company-we-actually-need.md",
+      "title": "MemryX Is A New AI Company We Actually Need",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds",
+          "width": 711,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
+      "publishedDateTime": "2022-08-11T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-new-uses-for-ai-in-chips.md",
       "title": "New Uses For AI In Chips",
       "excerpt": "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance.",
@@ -1396,58 +1448,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope.md",
-      "title": "Why distributed AI is key to pushing the AI innovation envelope",
-      "excerpt": "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "originalUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-21-at-4.46.37-PM.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "publishedDateTime": "2022-07-21T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -58,6 +58,15 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "New AI technology integrates multiple data types to predict cancer outcomes"
+    excerpt: "A new study reveals a proof-of-concept model that uses artificial intelligence (AI) to combine multiple types of data from different sources to predict patient outcomes for 14 different types of cancer."
+    publishedDateTime: 2022-08-11T15:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162144.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
 
 secured: "JE0/N8O7kFE8w2xdeaz7IGfGlP6FtRCbqwHCElg6O0rHnZJHaKMaVD1uWTilj8onf4DY9OYARsITfa8VtZLR6j6g2+WFXhymsyDzWjoLXQv+xSfeImaU0YU7+/xrh1lD8nfreQWL9XkB3GlQQFZR2EUF8Emvx0H/f+yjp+by8ya0YZjSnctslU4GFicQeCJUaLY6lhxEFdOfxuPv0GyvaHb9cS4TWCYntDaVbuTxlIyPQmMtuGKzpJSnoy8C8LBFmqi3LHxp1NIFtB8NCjVMLorf32QpVfKMClFwCKPSSNmU0eV+ubPx3jULmFBbAtM0P12IwVdG8xeNvyAmcXnEfQRbpcBjOKwfMq6dEAlBEqY=;KgbpwDsGmuCIW8OEbgIaug=="
 ---

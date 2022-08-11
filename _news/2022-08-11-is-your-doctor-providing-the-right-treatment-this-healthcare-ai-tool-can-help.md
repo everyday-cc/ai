@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/is-your-doctor-providing-the-right-treatment-this-healthcare-ai-tool-can-help/"
 webUrl: "https://venturebeat.com/ai/is-your-doctor-providing-the-right-treatment-this-healthcare-ai-tool-can-help/"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: VentureBeat

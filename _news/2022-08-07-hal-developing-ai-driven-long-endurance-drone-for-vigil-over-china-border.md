@@ -97,6 +97,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 10
+  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
+    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
+    publishedDateTime: 2022-08-11T12:17:00Z
+    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 2
 
 secured: "3xKezsmsm9MveWP+c7yzDLltR4UhvfBTlaW3xhbsXFX0raLBZr3gTGVphga/5lSNya8zA4yEQKRROucKRrJPdBtTbRZfRCly0oTLUZacC7BZoA0BHbZqB1EQxGVICmjNnY9StPXTUHuXKROmW4T9wT9SVnqrzatfIZ8cc9RXtIddqc99g90gFSeE7hBfXSrRL8d62DB3D1SPmVgDc/sBQ4z8/cu83l7/xlkMa44SISOjru20/c6BUbG2PMEnQPwi9BjgLUy1MIA9M1gC/BCwFe3jakHxuk6mIXlyJbZaKQkef+breQliqufj7YWHiR7E6CjoZA1Ccg8h/IGob6aFtF/b//5lu/Nco8xYWaMu3MCnHe4/k8iqnf+kAIy1lPX+JyjwIKtJC32DUC6XMeXa9BRKvZcNvUoJMUZldE5zLP13hMBPMGKp4grAu2y5+/fuGWlUbjbtZelKlFzP/akrdt/1J6X+U4uo6r07Z66ZPZyD8F4NxJJ7dg8rCjO4rVWhCG6G0Xw2WVBK1yropYkw6g==;6zjh3DCsKm3vEOl03OydDQ=="
 ---

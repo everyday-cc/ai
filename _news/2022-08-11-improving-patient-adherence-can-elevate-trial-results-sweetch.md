@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T13:06:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2022/08/11/improving-patient-adherence-can-elevate-trial-results-sweetch"
 webUrl: "https://www.outsourcing-pharma.com/Article/2022/08/11/improving-patient-adherence-can-elevate-trial-results-sweetch"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Outsourcing-pharma

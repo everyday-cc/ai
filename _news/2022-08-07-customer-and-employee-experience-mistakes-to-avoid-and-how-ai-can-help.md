@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/datadecisionmakers/customer-and-employee-exp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/customer-and-employee-experience-mistakes-to-avoid-and-how-ai-can-help/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,31 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can make our food safer"
-    excerpt: "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph."
-    publishedDateTime: 2022-08-10T15:38:00Z
-    webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp"
+  - title: "The power of now: How AI is propelling customer experience transformation"
+    excerpt: "Conversational AI is becoming the key to positive customer experiences, automated self-service and real-time agent support."
+    publishedDateTime: 2022-08-11T13:20:00Z
+    webUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/"
+    ampWebUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg"
-        width: 1000
-        height: 667
+      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1338918342.jpg?w=1200&strip=all"
+        width: 1200
+        height: 636
         isCached: true
-  - title: "Avaya’s Karen Hardy on AI, Cloud, and Customer Experience"
-    excerpt: "Avaya’s Global VP of Products discusses how the company is modernizing its platform to meet new customer demands."
-    publishedDateTime: 2022-08-09T17:09:00Z
-    webUrl: "https://www.eweek.com/networking/ai-and-cloud-customer-experience/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 47
 
 secured: "Y4bd0WN67Yy8zML+1km2cSDQeyOTkwxGx0Coo1zgHz4RzsQ4tHw+y1RxILYqkV1SPnLolHUrkzYxT4XYm2i5Mal970z+Zcr1ek0f1HsNqjVcRFavBqeJ5DLrSaYj1b519UQCsIF0NmYZAo3HePavv6JrQhqUKvlm7jDj1LS1//Y3CuddkMsyWmvGEA++2iHu1efTk4Llbnjpv20DzDnSTPjCy2gooSH1FGXF9EjKnAjg5pXVK6O6G5lc6VQ/NOLly+gvjiDy35JI3oWhMkO7uLMqI3XEgkWrxOPYYwzCaNW++wpMSyEQcz3JLuVQBRwya/WZgMzXasP9Ixd8Il7mKv+g/TyBMpHl43IRou0ASgg=;oSQ+YQhqWcpf2eftG0LVQw=="
 ---

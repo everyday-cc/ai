@@ -2,6 +2,211 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-07-20-5-best-ai-stocks-to-invest-in-2022.md",
+      "title": "5 Best AI Stocks to Invest In 2022",
+      "excerpt": "Today’s technology world has been dominated by artificial intelligence in many areas, such as self-driving cars, high-tech computing, enterprise solutions, robotics, and disaster recovery solutions, just to name a few.",
+      "sourceUrl": null,
+      "webUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
+      "originalUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marketingsentinel",
+        "domain": "marketingsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard.md",
+      "title": "Tianjin University develops AI sign language translation system to make more people with hearing impairment ‘heard’",
+      "excerpt": "Tianjin University of Technology (TUT) has developed a system of real-time translation for sign language under comprehensive ... conveniences to the world with AI, the R&D team of the system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/ending-poverty-in-china/features/tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard-1c033d7f-3864-4587-a84e-52fd935c0e33",
+      "originalUrl": "https://www.iol.co.za/business-report/ending-poverty-in-china/features/tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard-1c033d7f-3864-4587-a84e-52fd935c0e33",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-oracle-partners-with-microsoft-to-launch-database-service-for-azure.md",
+      "title": "Oracle partners with Microsoft to launch database service for Azure",
+      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/20/04/server-racks-in-a-modern-data-center-computer-racks-all-around-picture-id1128187495-100911418-large-100924948-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3667443/oracle-partners-with-microsoft-to-launch-database-service-for-azure.amp.html",
+      "publishedDateTime": "2022-07-20T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-5-ways-ai-is-detecting-and-preventing-identity-fraud.md",
+      "title": "5 ways AI is detecting and preventing identity fraud",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! The rise in identity fraud has set new records in 2022. This was put in motion by fraudulent SBA loan applications totaling nearly $80 billion being approved,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "originalUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-155354133.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/5-ways-ai-is-detecting-and-preventing-identity-fraud/amp/",
+      "publishedDateTime": "2022-07-20T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu.md",
+      "title": "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu",
+      "excerpt": "ViableEdu will leverage Fusemachines’ AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "originalUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazoncom-inc.md",
       "title": "Machine Translation Market Is Expected to Boom- Alibaba Cloud, AppTek LLC, Amazon.com Inc.",
       "excerpt": "Machine translation uses artificial intelligence (AI) to automatically translate content between languages without the intervention of human linguists. Google Translate, Bing Translate ...",
@@ -914,242 +1119,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-should-we-worry-about-artificial-intelligence.md",
-      "title": "Should We Worry About Artificial Intelligence?",
-      "excerpt": "Students discuss the impact new technologies and possible AI sentience will have on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "originalUrl": "https://www.wsj.com/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-586525/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/should-we-worry-about-artificial-intelligence-smart-technology-sentience-human-future-11658261607",
-      "publishedDateTime": "2022-07-19T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
-      "title": "Miami Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
-      "excerpt": "Argo AI, a global autonomy products and services company, will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students this fall at Miami",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28124099/miami-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28124099",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28124099",
-      "publishedDateTime": "2022-07-19T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-history-of-artificial-intelligence.md",
-      "title": "History of Artificial Intelligence",
-      "excerpt": "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
-          "width": 635,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company.md",
-      "title": "Aiming sky-high: IIT Madras professor starts his own air-taxi service company",
-      "excerpt": "Professor Satya Chakravarthy informed that his company — ePlane Company — would enable up to ten times faster passenger commutation and cargo transportation",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "originalUrl": "https://www.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/7/19/original/IE19SEPT121_07-11-2019_12_44_44_07467976.jpg",
-          "width": 5520,
-          "height": 3680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jul/19/aiming-sky-high-iit-madras-professor-starts-his-own-air-taxi-service-company-30011.amp",
-      "publishedDateTime": "2022-07-19T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

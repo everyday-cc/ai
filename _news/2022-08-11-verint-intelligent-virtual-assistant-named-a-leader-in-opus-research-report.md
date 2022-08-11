@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T12:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-verint-intelligent-virtual-assistant-named-a-leader-in-opus-research-report"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-verint-intelligent-virtual-assistant-named-a-leader-in-opus-research-report"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Daily Herald

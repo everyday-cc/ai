@@ -2,6 +2,127 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-02-how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide.md",
+      "title": "How is the healthcare sector inclining toward artificial intelligence worldwide?",
+      "excerpt": "As awareness about artificial intelligence and its potential is spreading, so is the faith of various industries in its capabilities of improving production and quality of life. Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
+      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/04/mhealth_illustration-620x400-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
+      "publishedDateTime": "2022-08-01T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
+      "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
+      "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
+      "originalUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
+      "publishedDateTime": "2022-08-01T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
+      "title": "Australian AI star Appen flags first-half loss, shares plunge",
+      "excerpt": "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
+      "originalUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
+      "publishedDateTime": "2022-08-01T20:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-eating-lots-of-highly-processed-food-is-linked-to-faster-cognitive-decline-research-finds.md",
       "title": "Eating lots of highly processed food is linked to faster cognitive decline, research finds",
       "excerpt": "Eating highly processed foods like instant noodles, sugary drinks or frozen meals may be linked to a faster rate of cognitive decline. That's according to new research presented Monday at the ...",
@@ -998,153 +1119,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations.md",
-      "title": "THE TOP 5 MOST RECENT AMAZING ARTIFICIAL INTELLIGENCE AND ROBOTICS INNOVATIONS",
-      "excerpt": "When it comes to understanding the future of robotics and artificial intelligence, it can be challenging to keep up with everything that’s going on in this fast-paced industry. Apart from Ai technologies used in offices and most of the SEO Company‘s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
-      "originalUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bristol247.com/wp-content/uploads/2022/08/possessed-photography-zbLW0FG8XU8-unsplash-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bristol24-7",
-        "domain": "bristol247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot.md",
-      "title": "Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot",
-      "excerpt": "Hyundai Motor is considering increasing its stake in, or fully acquiring, the South Korea-based lidar-free autonomous mobility platform 42dot, the latest signal of its growing interest in the fast-growing space.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/",
-      "originalUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/",
-      "publishedDateTime": "2022-08-01T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
-      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
-      "excerpt": "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-591288/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

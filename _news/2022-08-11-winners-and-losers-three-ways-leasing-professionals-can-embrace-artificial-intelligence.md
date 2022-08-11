@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/11/winners-and-losers-three-ways-leasing-professionals-can-embrace-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/11/winners-and-losers-three-ways-leasing-professionals-can-embrace-artificial-intelligence/"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: Forbes

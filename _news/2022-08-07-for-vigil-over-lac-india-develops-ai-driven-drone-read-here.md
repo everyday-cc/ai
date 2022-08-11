@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develop
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 10
+  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
+    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
+    publishedDateTime: 2022-08-11T12:17:00Z
+    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 2
 
 secured: "vOjNHJkW85HzfwSJpNYHkZ1jBDxCaqNu7mMYqD2wQq1ljWoWF2MQ2GYTSOwAbIXyVgW120B0T7dqYTjZbw/kADCvPHPOHJX3Ah15RsAyLiFSLll9wm7oIvOdAn8oQ4ForzmYlAIQQ8q8X/Y2W6CXAYltUCWu29LCEyiAnl37wV7G1NWBg9cHD8jLXsT7bzhULe10aiS/rYeGCNgZqaFUFTVjPn+ZqEdA+iPCC1wZMQ9t86zKrxkaI7R1FDvL5FCT9+aBYUrVJWSUz05cXjljh/rqRhaR1/y8G9Sn10sxgV4li7iBXAHcqPhXGfSPhVKlPJI6sVVhqqoGgeFcmyqeCUfvQnCnUQO0kGV5uoALvFLwDB1Rwx5oGQ7iZq13PDxLkC3B+BBJT2oChxMaZ4/K4yfbUC+bnFTAbhjTqDUPvvcJ1UHYUZn+Uvb+N9w5b2eE1e4A5O+YdLDK9Qv9w6Y30cuySNMlQDmbbYv/FZQ70vOMo8W+WTKkNLStkDFAQXVWEbgw2WtiIoyTy55augYiZw==;bLSyjxrbu/3niEoNBOKOZw=="
 ---

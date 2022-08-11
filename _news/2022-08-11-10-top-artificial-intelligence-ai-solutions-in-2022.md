@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-
 ampWebUrl: "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/"
 type: article
-quality: 110
-heat: 110
+quality: 112
+heat: 112
 published: true
 
 provider:

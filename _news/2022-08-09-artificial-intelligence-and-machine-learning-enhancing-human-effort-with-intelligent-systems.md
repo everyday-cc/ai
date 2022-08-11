@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-09T00:00:00Z
 originalUrl: "https://www.automation.com/en-us/articles/august-2022/ai-machine-learning-human-intelligent-systems? Control News & Articles"
 webUrl: "https://www.automation.com/en-us/articles/august-2022/ai-machine-learning-human-intelligent-systems? Control News & Articles"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Automation
@@ -14,7 +17,27 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
+  - AI in Autos
+  - AI in Healthcare
 
-secured: "9sfCGcASKqKtSwWpRZqn5c/RQe11ZpjoOSovTUJoQEJNuNBoa8a3am4M+a7KhNqMBRD5KO2V3VBTKbYh66FrW2obAgRwDhFzeu/0NwRDRXlDhPeWVF5JiXAwPShBfYGrP4TtzDHhf6fSjLrpobKEgbF/gzO8mlYcImS2w71X4mUSsLPWJVfPu8ryTv1cQn9VZrkp6oTHL6JimhDxeweS7tf8AbMeGEcaainITmdrGiIONcz5su87YQNrSUjSDain49SKMzi2TahiND2pneyGCVlVkVOL3DZ9w/HWSh/K5prMiikcFFT9eECbc3UEqaHaaKLonju/F9PdWkZ/UXZqRHEb3Csb00+7V+xErbW1T4tyBajz1/1r/yoSPAKI1N+kNgtJoosIwSDPuVtFwdTSJ2dqLz7ioC1JSs4g21k/i97kWVCZs+nfReWVlv13m9ichXZl3OWsuP/x2VrrcUy4YnyKwfSA4QgcNvzL03eboryrKY88n8zEV0OKFmUleS1hndOilsLzwcJMxqRw3lae/w==;AU4X0cTy2ZoAU27WjcZEyA=="
+images:
+  - url: "https://www.automation.com/getmedia/a53f997d-3702-41cc-9a76-4998998a4b13/ISA-aug-feature-photo-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+related:
+  - title: "Learning Management Systems Are Getting Smarter"
+    excerpt: "CT asks D2L CEO John Baker how today's LMS is getting smarter, and about the opportunities AI, machine learning, predictive analytics, and related technologies are presenting in the LMS marketplace."
+    publishedDateTime: 2022-08-08T18:00:00Z
+    webUrl: "https://campustechnology.com/articles/2022/08/08/learning-management-systems-are-getting-smarter.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 4
+
+secured: "L/fLgreBAkKOR8M6ssZfyK19YrPIyB1fCP+eqfxzJYHSJN+j8KcIJuy51J14OLyxCJwOy1VZGuS8wwQUZy2e5xJuXuIjjde6XiS1QSfpi6lelSGrk+VFasQRGgsS0DBTb0cNB769sQtqU6ywHjPRBn2QyqbDPlOjIAAbWlbTNXMZS1+L09FJp1PmsfgTySe10Pjue0pcbk+Z5CNoFxS05WpcbpZP/VrOdGvZXiNMgP+DMgnRszry1GqUIZz1AyVtvTug9plTj5cTVTNzNMOPU7NHwgbYTk3PAwpPLnjk3cWDC7Quv7AMvvESLcGeqwfvExvIIT/O91FF7tUzxAckdl6Zdd0vU95rfcAX31wWWmA=;4bG37sSZfpQkkf3Erdd/Nw=="
 ---
 

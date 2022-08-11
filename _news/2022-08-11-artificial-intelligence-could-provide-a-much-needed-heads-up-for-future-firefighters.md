@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI could help save firefighters' lives"
+    excerpt: "Researchers have developed a model that leverages neural networks to forecast flashovers, one of the leading causes of firefighter deaths."
+    publishedDateTime: 2022-08-11T15:52:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/08/ai-could-help-save-firefighters-lives/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/19101/dreamstime_l_5191476.jpg?crop=0,0.058333333333333327,0,0.44947916666666665&cropmode=percentage&width=1200&height=450&rnd=133047040280000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "AI may come to the rescue of future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
     publishedDateTime: 2022-08-10T19:47:00Z
