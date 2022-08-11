@@ -58,36 +58,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Indian Army deploys AI-based system to reduce manual surveillance at borders"
-    excerpt: "It has been said that Artificial Intelligence (AI) is capable of providing considerable asymmetry during military operations."
-    publishedDateTime: 2022-08-06T10:03:00Z
-    webUrl: "https://www.hindustantimes.com/technology/indian-army-deploys-ai-based-system-to-reduce-manual-surveillance-at-borders-101659779253991.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/indian-army-deploys-ai-based-system-to-reduce-manual-surveillance-at-borders-101659779253991-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/indian-army-deploys-ai-based-system-to-reduce-manual-surveillance-at-borders-101659779253991-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 54
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/06/1600x900/996eaf1a-bdc1-11e9-a504-fd2d583231d6_1658821088373_1659780009052_1659780009052.jpg"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "To reduce manual monitoring, Indian Army deploys AI-based surveillance system at borders"
-    excerpt: "To enhance capabilities the Indian Army has been deploying Artificial Intelligence AI based surveillance systems on Northern and Western borders"
-    publishedDateTime: 2022-08-06T10:07:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272645226/to-reduce-manual-monitoring-indian-army-deploys-ai-based-surveillance-system-at-borders"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 28
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1659780490.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Indian Army deploys AI-based watch on borders; social media, suspicious vehicles under scanner"
     excerpt: "Artificial Intelligence is capable of providing considerable asymmetry during military operations. AI applications can be utilised for surveillance and detection, real-time social media monitoring, pattern recognition and prediction of adversary courses of action,"
     publishedDateTime: 2022-08-06T12:16:00Z

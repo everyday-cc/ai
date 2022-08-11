@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/digital-currency/how-will-conversat
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/how-will-conversational-ai-influence-the-metaverse/2624680/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Future Of Work In The Metaverse"
+    excerpt: "The metaverse, by design, was always intended to be more than just another ecosystem of \"virtual reality\"-based applications."
+    publishedDateTime: 2022-08-11T01:48:00Z
+    webUrl: "https://www.ibtimes.com/future-work-metaverse-3600517"
+    ampWebUrl: "https://www.ibtimes.com/future-work-metaverse-3600517?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/future-work-metaverse-3600517?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 44
+    images:
+      - url: "https://d.ibtimes.com/en/full/3586875/meetkai-inc-turns-times-square-live-portal-worlds-first-available-metaverse-accessible-via.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Nvidia Could Become Google of the Metaverse with AI Search Engine"
     excerpt: "Nvidia is showing signs that it wants to be the Google of the next-generation 3D Internet, which is being projected as an upgrade from the current 2D"
     publishedDateTime: 2022-08-09T17:00:00Z

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "California DMV accuses Tesla of deceptive practices in marketing Autopilot and Full Self-Driving options"
-    excerpt: "In a pair of July 28 filings with California's Office of Administrative Hearings, an official and lawyers for the DMV wrote that Tesla's \"Autopilot\" and \"Full Self-Driving\" marketing suggest the ..."
-    publishedDateTime: 2022-08-06T10:58:00Z
-    webUrl: "https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107085719-1657210528486-gettyimages-1405480830-img_3725_6d4a036e-8bb1-49dd-9c3e-205b6d95f622.jpeg?v=1657210654"
-        width: 3991
-        height: 2807
-        isCached: true
   - title: "Tesla Accused of Falsely Advertising Autopilot and Self-Driving Features"
     excerpt: "Tesla has been accused of by California's Department of Motor Vehicles of falsely advertising in promoting its Autopilot and Full Self-Driving features as providing autonomous vehicle control. The DMV alleges the electric-carmaker misled customers with advertising language that exaggerated the technologies' capabilities."
     publishedDateTime: 2022-08-07T23:01:00Z

@@ -34,22 +34,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "What Meta's new AI bot said about CEO Mark Zuckerberg in chats with humans"
-    excerpt: "\"Capable of searching the internet, it’s designed to learn how to improve its skills and safety through natural conversation,\" Facebook's parent company said in a blog post on Friday. People can chat with the bot on a website,"
-    publishedDateTime: 2022-08-06T10:27:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/what-metas-new-artificial-intelligence-bot-said-about-ceo-mark-zuckerberg-8968901.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 57
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zukerberg1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
     excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
     publishedDateTime: 2022-08-07T16:22:00Z

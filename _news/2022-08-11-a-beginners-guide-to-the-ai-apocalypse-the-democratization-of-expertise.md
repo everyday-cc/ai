@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-11T01:17:00Z
 originalUrl: "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise"
 webUrl: "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: The Next Web
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307"
@@ -29,6 +30,6 @@ images:
     height: 640
     isCached: true
 
-secured: "nuXnJQcviF7cj+EqtOdq7ao5BD6VCX6dcYisIZ3zliD84xo04vnOpnlLtJNljXUMRZOuBtvIW5t5MMp03y4YujZL1zQs5dDDhvfBA5BRYPjBDDE3IXYkRSakrHW3JDzJ//SI/7FTf8RZzvAUxzBgc5wFgEr6sDS7ssMRYO0Uwr1Gphfu4KbeCyMojWx43Cv9XGy2imXbPcjxWQGYbUiWezFA2ABhEps9XcrPh7tuccziHWhMd0bGmJLxTT0bi+MgS//Oxfxxn2Tuoh46Ch3tJyLfTYEk/MLK5qxfVeo5VN7OQD2zd8RdKi315ONWaNuyqPKsFdYd9BCfDN84+vaJJVKeixESCaGIB2w/8w4FMuI=;FWCwC74zYzgNCF+FnOrsNg=="
+secured: "Kww2ZSrQQ3AzEf4v6ZwQWahO6ttzf7nz+xfu4MX7cMz72S3clsG62dhoCSkmpSMl/Ly9GJRAOMwR8Glb8Gu0xaDTwo5EW3WJOA68g+5sj/GjhWPToNSux8FN7GttDxZKArVGl87/pgD1VrTst3ThHMIsHVWIBliVhe/6NziBCZvvezIaZ6KJqY21Py5SKbn8RefAyH/QfZvpdh0O1jUI11YzTPOHw8kW+i3tBalbjNqAcwd8RSg4sWt45UI2mYHFMKl9kpKmTHZC/223gUomk/7C/u9jBhfNNrqaGk0SJD6BIrDDKfyeKniaYgCBzbYKhyTbrLBAmm1AUaar7r4v3kTGAWk/uNbUqvtVfJeenDGQGD+VFJmYv8EAJ5ITmbY20BgKzEgLf0T7s1t25tuZ61SWL2ExN+ifWI9zk7+1wA0AaMFNMVHs8jYrJsVLHhmekXgY+7Ha2WKyrjzB/ZKtvHzZFxtoXKuloq45etnCyg08+BI9/DxynwV+m5N8N9iAq6PJJa2nOn0OiddxvNx6zA==;VuxX4GQ9g9bmuH9qyeV17Q=="
 ---
 

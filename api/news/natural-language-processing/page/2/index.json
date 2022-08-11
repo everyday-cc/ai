@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
+      "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
+      "excerpt": "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "originalUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "publishedDateTime": "2022-08-01T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-uipath-acquires-reinfer-bringing-natural-language-processing-to-enhance-everyday-customer-conversations-through-automation.md",
       "title": "UiPath Acquires Re:infer Bringing Natural Language Processing to Enhance Everyday Customer Conversations Through Automation",
       "excerpt": "Leading enterprise automation software company, UiPath (NYSE: PATH), today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured documents and communications.",
@@ -1334,40 +1377,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard.md",
-      "title": "Tianjin University develops AI sign language translation system to make more people with hearing impairment ‘heard’",
-      "excerpt": "Tianjin University of Technology (TUT) has developed a system of real-time translation for sign language under comprehensive ... conveniences to the world with AI, the R&D team of the system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/ending-poverty-in-china/features/tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard-1c033d7f-3864-4587-a84e-52fd935c0e33",
-      "originalUrl": "https://www.iol.co.za/business-report/ending-poverty-in-china/features/tianjin-university-develops-ai-sign-language-translation-system-to-make-more-people-with-hearing-impairment-heard-1c033d7f-3864-4587-a84e-52fd935c0e33",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

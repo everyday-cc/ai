@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
