@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: Insurancenewsnet.com
       domain: insurancenewsnet.com
     quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/09/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-08-09T06:35:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-34"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
     images:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200

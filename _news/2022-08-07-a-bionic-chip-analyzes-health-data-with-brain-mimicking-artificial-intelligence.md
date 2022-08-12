@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyze
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
         width: 690
         height: 460
         isCached: true
-  - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
-    excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed."
-    publishedDateTime: 2022-08-07T13:00:00Z
-    webUrl: "https://www.canindia.com/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 34
 
 secured: "3+l4RuvAH2rQ6ejutMLQGK5XxmCkJKwOcSJE7+qaW15j6q8aC/dD1xo5SL4ZixFqy/E/RercN22Oy22pKkW0Wl68Uc4l656vlhAgnOJvejP9M0dYCa9MzXpaJIEBQLAKtBp5wvFnbGllpERXs+3gx5H26kzLjpV0DRtoMisZ7TbQfj2wHSQ0FH7rua/qLYgzfHxLQqF+uScYZMnlbqUqiai9DJP53eRcXcTC27iqqpx/ks8iuudDTIYqlWIup0tZjAf5zhJprxhQvax67LzurroDcbb5AT/aLgzaIEULWogUNbZ1jfvvrc2Wo/kMQYr9iscv1rRfouCFNiah+ewi12CTJ0C+6kwzKevxD0EydGVX6EMKOTAAT4FJ0lm+72DCSSMJaoJs5UzTMg45XCiYNs5mB1h071y6yHBGlFUhgfDZmksFmQpdHrIkFSg/9yv/46Jut2qFSFEWPJl+rIwCXe2RhS1RAi9uRr5KkZgtBhqjhVzN+TfqubVDvjTtkMMO3vUbT7kjsrd+DHG29HhuKQ==;R3PPVTgzNwVnWgumaQ7nIQ=="
 ---

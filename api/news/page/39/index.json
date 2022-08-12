@@ -2,6 +2,163 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
+      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
+      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
+      "title": "Meta’s new open-source AI is a step towards a universal language translator",
+      "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
+      "originalUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025.md",
       "title": "Managed Services Market to Reach $393.72 Billion by 2028 | At Least 60% Organizations to Depend on Managed Services by 2025",
       "excerpt": "Organizations are turning to managed services for a number of reasons, including the need to reduce costs, improve operational efficiencies, and free up internal resources to focus on more strategic initiatives.",
@@ -1010,135 +1167,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ibm-acquires-data-observability-firm-databandai.md",
-      "title": "IBM acquires data observability firm Databand.ai",
-      "excerpt": "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg",
-          "width": 500,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast.md",
-      "title": "How worried should we be about artificial intelligence? | The Ethical Life podcast",
-      "excerpt": "Rick Kyte and Scott Rada discus how worried should we be about the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
-      "originalUrl": "https://napavalleyregister.com/opinion/columnists/how-worried-should-we-be-about-artificial-intelligence-the-ethical-life-podcast/article_c2c3f12b-d2ca-57e2-ae64-f0a1257c884c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/c/2c/c2c3f12b-d2ca-57e2-ae64-f0a1257c884c/62bef10c2f3d4.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-global-natural-language-processing-market-to-be-worth-usd-4394-billion-at-a-cagr-of-2110-by-the-year-2027.md",
-      "title": "Global Natural Language Processing Market to be Worth USD 43.94 Billion At A CAGR Of 21.10% by the Year 2027",
-      "excerpt": "Global Natural Language Processing Market Is Expected To Reach USD 43.94 Billion By 2027 At A CAGR Of 21.10 percent. A report on the Global Natural Language Processing Market by Maximize Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/da27e1d0cfdc0cb35577339dc1eb00792ba71b27-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

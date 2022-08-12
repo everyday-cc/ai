@@ -2,6 +2,189 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
+      "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
+      "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
+      "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
+      "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ce6ad6d773bc79031cb76c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "publishedDateTime": "2022-07-13T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
+      "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
+      "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition.md",
+      "title": "Medtronic announces co-promotion agreement with CathWorks, with path toward acquisition",
+      "excerpt": "In contrast to traditional FFR, the FFRangio System combines artificial intelligence (AI) and advanced computational ... Fractional Flow Reserve–Guided PCI versus Medical Therapy in stable coronary disease. The New England Journal of Medicine 2012 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "originalUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/8f842262-b887-11e9-b93f-572c463bdda4.png",
+          "width": 660,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho State Journal",
+        "domain": "idahostatejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-kiromic-biopharma-appoints-leonardo-mirandola-phd-as-chief-scientific-officer.md",
       "title": "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer",
       "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
@@ -1163,180 +1346,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "Artificial intelligence and machine learning are among ... more efficient CRISPR-Cas9 variants that could be useful for gene therapy applications. A joint research group led by Genki Kanda at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches.md",
-      "title": "Cognitive therapy shows promise in treating PTSD and headaches",
-      "excerpt": "Recently, researchers examined two nonpharmacological interventions for post-traumatic headaches — cognitive behavioral therapy (CBT) and cognitive processing therapy (CPT). They found that CBT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-federal-incentives-wont-fix-ais-market-failure-in-healthcare.md",
-      "title": "Federal Incentives Won’t Fix AI’s “Market Failure” In Healthcare",
-      "excerpt": "If the EHR incentive program failed in terms of achieving interoperability and led to adverse unintended consequences, should we be applying a similar policy playbook to AI?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdf3950a8847e2bc364b90/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "publishedDateTime": "2022-06-30T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
-      "title": "Chatbot company Replika says many customers believe in AI sentience",
-      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "publishedDateTime": "2022-06-30T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

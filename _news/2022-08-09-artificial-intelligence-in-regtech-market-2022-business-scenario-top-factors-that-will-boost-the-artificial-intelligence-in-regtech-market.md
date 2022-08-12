@@ -28,29 +28,71 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-09"
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
+    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
+    publishedDateTime: 2022-08-08T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
-    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
-    publishedDateTime: 2022-08-10T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
+  - title: "Machine Learning in Communication Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
+    excerpt: "A new report of Market Research Update titled “Machine Learning in Communication Market Analysis 2022-2027” is a detailed sketch of the business sphere in terms of current and future trends driving the profit matrix."
+    publishedDateTime: 2022-08-10T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2027-2022-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market growth size is estimated to grow at incredible CAGR till 2031 | Apple (US), Microsoft (US), Amazon (US)"
+    excerpt: "Scope of Speech and Voice Recognition Market The Global Speech and Voice Recognition Market 2031 Industry Report is"
+    publishedDateTime: 2022-08-09T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-size-is-estimated-to-grow-at-incredible-cagr-till-2031-apple-us-microsoft-us-amazon-us-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
+    excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
+    publishedDateTime: 2022-08-09T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-size-share-latest-technology-cagr-value-challenges-future-expansion-strategy-drivers-and-forecast-till-2029-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
+    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
+    publishedDateTime: 2022-08-09T12:42:00Z
+    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
 
 secured: "HkiYIJ/eRCf4N3tpcvmZ+kZ358YckfwV8tC2gD9+IlGqEOLhu51hYneWmMUQlblB4R8vcPMs6MvzisUg7rCzpfwLOTa64CZulp/R9NpEjhpipG3GL1hhfjpODDbf+1uXyTsCO4x7zW/zVo4EdsVevzQCVYiYUmXNYqya6T48fkkVO7irLOH1DUsS8lKC1k3KWuTJJYbOkSqZYuGiXvaDDSNmXFKuhOoWnKG7yL94bZa5gz6utXGbTa0rNZ2n5o9hP57ulJBjnP6/qTUwoT2zGRRoVXVaI/Su18+f0vTx33+HiDSxxGjSXi831FWa7fAv9VmyTQrEmgNom/oldBD3pOqU18lHBT9RMUxFh7mD9kI=;cNKm/uVeXiZTzZGHLojcuQ=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Aunalytics to Showcase Its Advanced Data Analytics Solution for Mid-market Banks and Credit Unions at August Financial Services Events"
+    excerpt: "Aunalytics, a leading data platform company delivering Insights-as-a-Service for mid-market businesses, announced today its participation at three financial services events in August. The company will showcase its Daybreak TM for Financial Services advanced data analytics solution and demonstrate how midmarket banks and credit unions can use artificial intelligence (AI)-powered data analytics to increase business wins and compete more effectively."
+    publishedDateTime: 2022-08-09T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aunalytics-to-showcase-its-advanced-data-analytics-solution-for-mid-market-banks-and-credit-unions-at-august-financial-services-events-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Q+vuYTr0+wYK0gok7sj6+ydAFDwsVEPBwS4w5RtuvCtfIFKKGcpHhsOqA0sn+wjb/vtbMw93w7HeJ93hxqCu9DKFqyj4EZll+3twl6o7xjh3whbPB2st6koJB+H22dusXGl9rUngT56vne5o5hZ4MMm03xTcuxM2o42eAkhD0YQg9l+nmnfFW3xigDuN/JJNI3J0xhkDY0z/9iUcxjZu2Jxsq3P4AiBVKYEHr2ubDCFSTImNK2TjpnSUeWt3zNAkFyoyrVvyShvKKL0WP5a/+y2SJEs88xzryGI0nvoFZIVfdmEWeT66/oiODU19v5JbajkXM7sv7C6hnTZabBwSuhulNYV1glyKXpfRLduwH10=;aL3k0FnUWTjvDZZuMrA2aw=="
 ---

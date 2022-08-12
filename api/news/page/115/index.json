@@ -2,6 +2,160 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
+      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
+      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
+      "originalUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
+      "title": "This startup hopes photonics to will get us to AI systems faster",
+      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
+      "publishedDateTime": "2022-05-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
+      "title": "Microsoft session highlights from SAP Sapphire 2022",
+      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
       "title": "AWS DeepRacer program teaches developers about emerging tech",
       "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
@@ -1009,144 +1163,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-workspace-suite-to-gain-7-new-ai-tools-for-usability-security.md",
-      "title": "Google Workspace Suite To Gain 7 New AI Tools For Usability & Security",
-      "excerpt": "Google is expanding its use of AI in Workspace in a bid to improve the usability and security of its services. That's based on a recent announcement from",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/10/google-workspace-gmail-new-icon.jpg",
-          "width": 1172,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-workspace-suite-new-ai-tools-usability-security.html?amp",
-      "publishedDateTime": "2022-05-11T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-unveils-artificial-intelligence-tool-for-real-world-searches.md",
-      "title": "Google unveils artificial intelligence tool for real-world searches",
-      "excerpt": "(Reuters) – Alphabet Inc’s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://kfgo.com/2022/05/11/google-unveils-artificial-intelligence-tool-for-real-world-searches/",
-      "originalUrl": "https://kfgo.com/2022/05/11/google-unveils-artificial-intelligence-tool-for-real-world-searches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-05/11/2022-05-11T175731Z_1_LYNXNPEI4A0Z5_RTROPTP_3_ALPHABET-GOOGLE-DEVELOPERS.JPG",
-          "width": 800,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KFGO",
-        "domain": "kfgo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-improving-skin-tone-representation-across-google.md",
-      "title": "Improving skin tone representation across Google",
-      "excerpt": "Seeing yourself reflected in the world around you — in real life, media or online — is so important. And we know that challenges with image-based technologies and representation on the web have historically left people of color feeling overlooked and misrepresented. Last year, we announced Real Tone",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "originalUrl": "https://blog.google/products/search/monk-skin-tone-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skin_Tone_v2_2096x8752x.max-1300x1300.png",
-          "width": 1300,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/monk-skin-tone-scale/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/monk-skin-tone-scale/amp/",
-      "publishedDateTime": "2022-05-11T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

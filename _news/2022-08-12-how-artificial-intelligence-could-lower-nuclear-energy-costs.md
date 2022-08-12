@@ -5,10 +5,12 @@ excerpt: "Nuclear power plants provide large amounts of electricity without rele
 publishedDateTime: 2022-08-11T18:34:00Z
 originalUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html"
 webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html"
+ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
   name: techxplore
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg"
+    width: 1920
+    height: 1278
+    isCached: true
 
 related:
   - title: "How artificial intelligence could lower nuclear energy costs"
@@ -48,6 +57,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "waO11DOtiejidoNrnC7G+moDlYkuzyIi1o7ZZN8CCUNpRALQDOAx8mQwrz4VsrAynUVkspH0zN9EMviovX+oQ+B9UWe6nbVHPBnhty8GvH9QpJ20qTHFtzpzLGaTO5NrzO6otjnP00oLKfqupGQxVAdUmNh5XpdIsBBSJbIY/IgqgNBvUiP7uMgUZXnrbs5+Mvep8LYvb+veg2ScL9K+XdsCtGrPEapAqN7TX/O8A8RERpDognt9MvKjd9B8z6GFxz8kFE1bmw4ZjhhTWc8FagEnLyR89YjzNcNav/92VX9ydVfw4MML5HvhgY3hOzWzVnbyfPv2XRrZjs3pOYGYj9LepP9EdBxy7ORLqCTWKaxhrviV0nathX9wNJDTTl0BWONvasokQpXuMs5DxoLTSI+pQPIfDzZ5CValSDdozFi+TH+XNo9u24O1RN2Ou91knjSXExR1xU7aJQLyk/lAa9Ekp3Kmd65FJjH/G4mozaSoJtiA1qjOIhsTske5b7gCV8pw0cGakWbBDMnVoLWFOw==;XOr3kCwwA6PnUEhmn1kcPw=="
+secured: "HIn1Pb3mAe88pijtAupWIBifgZwwXlHD0pTlbb1uerx9lomk0blF/skIEHMvyd6ZQPb7SVV3My6jGlAGewPKNF/j8TgGGjYpW4tVLWGDKSpu3XuwPxvbsRAaSrg/v0d8QiaqdLa28uKas87TVkXL+oHLicdiH2Vr0deE4TCn4mrq98HH0ViB60oEV4bb2r32CUXXu5Ha4qbzCNXn4XPlth76UC4bQMpH/MVK/kJzVaH4ivRDzgEd4EMtiSrwVPUHmmH8cj/yVrTzC9LdVbnGQHUr0Ap44HO/mDizYysOAPUOy8HoXxqfwZacUfCf0i6X2p95wJnJ/2qtOGgI7c/IAXRfHatBx1/NweqJTG35Cn4=;7yej9X6+JtN0fd/196t99Q=="
 ---
 

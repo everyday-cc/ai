@@ -2,6 +2,135 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
+      "title": "Business travelers face higher prices, and packed flights, hotels",
+      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
+      "publishedDateTime": "2022-06-01T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-invia-robotics-wins-the-2022-technology-innovation-goods-to-person-robotics-award-from-frost-sullivan.md",
+      "title": "inVia Robotics Wins the 2022 Technology Innovation Goods-to-Person Robotics Award from Frost & Sullivan",
+      "excerpt": "Leading eCommerce logistics Automation Company is recognized for providing innovative solutions to supply chain challenges WESTLAKE VILLAGE, Calif., June 1, 2022 /PRNewswire/ -- inVia Robotics –– a leader in eCommerce fulfillment automation systems –– has been awarded this year’s Best Practices Technology Innovation Leadership Award in the North American goods-to-person robotics market by Frost & Sullivan,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
       "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
       "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
@@ -1030,134 +1159,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-vi-launches-aiml-driven-adtech-platform-vi-ads.md",
-      "title": "Vi launches AI/ML-driven adtech platform 'Vi Ads'",
-      "excerpt": "Vi Ads will enable marketers to engage with the operator’s over 243 million subscribers through digital media as well as traditional channels",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "originalUrl": "https://www.exchange4media.com/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/120585-main32.jpg",
-          "width": 730,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/vi-launches-aiml-driven-adtech-platform-vi-ads-120585.html",
-      "publishedDateTime": "2022-06-01T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity.md",
-      "title": "AI in Fintech Market 2022-2030 Scope and overview, Growth Opportunity",
-      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the AI in Fintech market. In order to comprehend a market holistically, a variety of factors must be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

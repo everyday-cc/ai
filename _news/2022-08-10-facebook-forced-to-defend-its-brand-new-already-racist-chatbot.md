@@ -107,6 +107,22 @@ related:
         width: 1267
         height: 713
         isCached: true
+  - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
+    excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
+    publishedDateTime: 2022-08-12T05:30:00Z
+    webUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868"
+    ampWebUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
+    images:
+      - url: "https://i.ndtvimg.com/i/2018-04/mark-zuckerberg-reuters_650x400_71522815002.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
     excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
     publishedDateTime: 2022-08-11T22:05:00Z
@@ -122,22 +138,6 @@ related:
       - url: "https://forward.com/wp-content/uploads/2022/08/Untitled-design-2-1.png"
         width: 2160
         height: 1200
-        isCached: true
-  - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
-    excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
-    publishedDateTime: 2022-08-07T11:47:00Z
-    webUrl: "https://www.digit.in/news/machine-learning-and-ai/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing-64601.html"
-    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 50
-    images:
-      - url: "https://static.digit.in/default/c0271e9d0ac9850c0a8905f3d5a4e03a833add3d.jpeg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
     excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"

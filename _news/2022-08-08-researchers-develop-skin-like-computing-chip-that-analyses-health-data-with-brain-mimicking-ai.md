@@ -119,15 +119,6 @@ related:
         width: 1278
         height: 720
         isCached: true
-  - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
-    excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed."
-    publishedDateTime: 2022-08-07T13:00:00Z
-    webUrl: "https://www.canindia.com/skin-like-computing-chip-analyses-health-data-with-brain-mimicking-ai/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 34
 
 secured: "7N9255BPOtz+2JsBFo1dWFAGrlHPq37qMTCAao6Em/hW7TX9PyCFAQW/WLfZKv2cCJk7KG3pcaVgWHzf1WdM6TIIbE+XVapmLsdcQ8/trwhJLz4Tfox9hBBrDK9GDZEjdeL9dzHyxvGSbZ86724SlQLrtYz5F19ZNUHJV6Qpg6q4UCWD7XRtcN6PkARZFAEsdnAtduDLSChFTJbTgVkUT+yvZyMi8/CPnxAmOV1ULqt7Q1S15F5yVivIG3ajgp74CIH2DfMqV1V1jrLFSsfOftls4FachGkEB3i2Z2F0rq9KLrU1tligMeW9crInVXxfpFcsjSDPnUUX3qWAkBrnHzRPwIQB1uj1xlqMYZXNwC4=;YNjXSq83meIOhBehy82gJw=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI may come to the rescue of future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-10T19:47:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961518"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34462cbf-20e6-4b2d-a95f-2408ab313874/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Artificial intelligence could provide a much-needed heads-up for future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -; a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
     publishedDateTime: 2022-08-11T01:54:00Z

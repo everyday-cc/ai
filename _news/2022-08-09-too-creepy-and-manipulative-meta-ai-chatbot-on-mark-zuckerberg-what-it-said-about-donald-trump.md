@@ -57,6 +57,22 @@ related:
         width: 708
         height: 425
         isCached: true
+  - title: "Meta's AI chatbot turns on boss calling Mark Zuckerberg 'creepy and manipulative'"
+    excerpt: "After a number of journalists tested out the new feature, the replies were a little surprising when it was asked questions about Mark Zuckerberg"
+    publishedDateTime: 2022-08-12T05:28:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 52
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26125971.ece/ALTERNATES/s1200/0_GettyImages-961785536.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
     excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"
     publishedDateTime: 2022-08-09T16:15:00Z

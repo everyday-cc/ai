@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
+      "title": "How artificial intelligence could lower nuclear energy costs",
+      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
+          "width": 1920,
+          "height": 1278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
+      "publishedDateTime": "2022-08-11T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama.md",
       "title": "Artificial intelligence improves outcomes of cognitive behavioral therapy in chronic pain: JAMA",
       "excerpt": "USA: Use of artificial intelligence for adjusting treatment in cognitive behavioral therapy intervention for chronic pain (AI-CBT-CP) can achieve noninferior and possibly better outcomes relative to standard cognitive behavioral therapy while increasing access and reducing therapist costs,",
@@ -147,6 +191,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-how-artificial-intelligence-can-make-our-food-safer.md",
+      "title": "How artificial intelligence can make our food safer",
+      "excerpt": "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
       "title": "The Best Examples Of Human And Robot Collaboration",
       "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
@@ -284,6 +372,59 @@
       "topics": [
         "AI in Robotics",
         "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030",
+      "excerpt": "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
         "AI in Healthcare"
       ]
     },
@@ -914,6 +1055,59 @@
       ]
     },
     {
+      "path": "_news/2022-07-31-what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help.md",
+      "title": "What Will It Cost To Fix That Door Ding? Artificial Intelligence Can Help",
+      "excerpt": "Artificial Intelligence is potentially a game-changer for anyone with a smartphone who needs a detailed auto damage report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e5648e4207a7d5d8b0c77e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2022-07-30T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-what-are-ontologies-and-how-are-they-creating-a-fairer-future-for-the-life-sciences.md",
       "title": "What Are Ontologies and How Are They Creating a FAIRer Future for the Life Sciences?",
       "excerpt": "In this article, Dr. Jane Lomax provides an overview of ontologies and describes how they can help to overcome big data challenges.",
@@ -1180,207 +1374,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028.md",
-      "title": "Global Artificial Intelligence in Accounting Market Emerging Growth Analysis, Future Demand and Business Opportunities 2028",
-      "excerpt": "As the global economy mends, the 2021 growth of Metaverse in Healthcare will have significant change from previous year. According to our (LP Information) latest study, the global Metaverse in Healthcare market size is USD million in 2022 from USD million in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-accounting-market-emerging-growth-analysis-future-demand-and-business-opportunities-2028-2022-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-innovative-smartphone-and-artificial-intelligence-based-tests-featured-at-the-2022-aacc-annual-scientific-meeting.md",
-      "title": "Innovative Smartphone and Artificial Intelligence-Based Tests Featured at the 2022 AACC Annual Scientific Meeting",
-      "excerpt": "Test With Smartphone App May Predict Blood Clot Risk People who take the blood-thinning medication warfarin to prevent blood clots—which can lead to heart attacks—need frequent blood testing to ensure that the drug is working.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-experts-weigh-in-on-voice-control-technologys-pros-cons-and-future.md",
-      "title": "Experts Weigh In On Voice Control Technology’s Pros, Cons And Future",
-      "excerpt": "Perhaps you’ve had desperate moments with voice control technology in your own home when you just wanted to shut the whole thing down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "originalUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "publishedDateTime": "2022-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-its-finally-time-for-ai-in-healthcare.md",
-      "title": "It’s Finally Time For AI In Healthcare",
-      "excerpt": "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Healthcare"
       ]

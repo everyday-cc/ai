@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/09/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-08-09T06:35:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-34"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft And Amazon: 5 Critical Facts Investors Need To Know After Earnings"
     excerpt: "With earnings now behind us, I wanted to provide an update on Microsoft and Amazon. Read the 5 facts you to need to know before investing in MSFT or AMZN stock."
     publishedDateTime: 2022-08-11T11:00:00Z

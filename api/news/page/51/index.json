@@ -2,6 +2,135 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-06-28-ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030.md",
+      "title": "IBM collaborates with King Saud University to advance skills development through AI and support the Kingdom’s Vision 2030",
+      "excerpt": "Disclaimer: The contents of this press release was provided from an external third party provider. This website is not responsible for, and does not control, such external content. This content is provided on an “as is” and “as available” basis and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ibm-collaborates-with-king-saud-university-to-advance-skills-development-through-ai-and-support-the-kingdoms-vision-2030-lbjarr4p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/version/c:NTc3MjhkM2YtNWVjZi00:MzA4NDc1/ksu_ibmsigning_image2-jpg.jpg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-developmental-dyslexia-associated-cognitive-differences-from-the-perspective-of-cognitive-search.md",
+      "title": "Developmental dyslexia-associated cognitive differences from the perspective of cognitive search",
+      "excerpt": "Cognitive differences related to DD were detected initially due to lexical difficulties. While later research highlighted the neurophysical and cognitive processes in individuals experiencing DD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220628/Developmental-dyslexia-associated-cognitive-differences-from-the-perspective-of-cognitive-search.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220628/Developmental-dyslexia-associated-cognitive-differences-from-the-perspective-of-cognitive-search.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_717924_16564098580474800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Shares Acquired by Creative Financial Designs Inc. ADV",
+      "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ:BOTZ opened at $21.47 on Tuesday. The firm’s 50 day moving average price is $22.95 and its 200 day moving average ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
+          "width": 650,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/28/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-shares-acquired-by-creative-financial-designs-inc-adv/amp/",
+      "publishedDateTime": "2022-06-28T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
       "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
       "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
@@ -1007,146 +1136,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-australian-retail-giants-named-in-facial-recognition-tech-complaint.md",
-      "title": "Australian retail giants named in facial recognition tech complaint",
-      "excerpt": "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
-      "originalUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T12:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-microsoft-is-removing-emotion-recognition-features-from-its-facial-recognition-tech.md",
-      "title": "Microsoft is removing emotion recognition features from its facial recognition tech",
-      "excerpt": "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna35087",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087",
-      "publishedDateTime": "2022-06-27T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-discovering-links-between-cognitive-ability-and-grit.md",
-      "title": "Discovering Links Between Cognitive Ability and Grit",
-      "excerpt": "Individuals who are determined or express more grit may be more able to self-regulate and show cautious control but don't necessarily have better cognitive ability, suggests a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "originalUrl": "https://www.medindia.net/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/brain3.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/discovering-links-between-cognitive-ability-and-grit-207732-1.htm",
-      "publishedDateTime": "2022-06-27T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

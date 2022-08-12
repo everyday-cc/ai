@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-07-22-samsungs-2nd-generation-smartssd-can-process-data-right-on-the-drive.md",
-      "title": "Samsung’s 2nd-generation SmartSSD can process data right on the drive",
-      "excerpt": "The hard drive is designed to relieve the CPU and GPU during heavy scan processes, such as when using AI or developing high-end graphics. Normally, the CPU would need to scan the hard drive for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
-      "originalUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Image-2-Samsung-2nd-Gen-SmartSSD1396-1.jpg?p=1",
-          "width": 2000,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
-      "publishedDateTime": "2022-07-21T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
       "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
       "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
@@ -1394,6 +1342,49 @@
         "AI",
         "AI Hardware",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-the-new-asus-rog-phone-6-series-everything-you-need-to-know-and-more.md",
+      "title": "The new ASUS ROG Phone 6 series: Everything you need to know, and more",
+      "excerpt": "To elaborate on some of these specs, the latest flagship Snapdragon 8+ Gen 1 is equipped with a full suite of Snapdragon Elite Gaming features plus an improved Qualcomm Adreno GPU. The camera housing ... an ESS Quad DAC and an AI noise-cancelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "originalUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2022/07/asus-rog-phone-6-series-001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "publishedDateTime": "2022-07-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

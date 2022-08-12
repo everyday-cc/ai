@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
     width: 300
     height: 250
     isCached: true
 
-secured: "tELFP4xP5RYE+NkXMlLWU9dH6hfmQReiFBIuhV+uA6HAdP1IAujonUHyqxIYtSQMmPOZs14EBwFtlWQiz0+saHqbe59LzhQ1J5qCM0A5V9XUgVsqCjq/Q4LBFO6A9fOjIXMFmJ6rF5sq+IOoLDWm6YsNyiiPdIvBjPxzVyWXjLJCvW5wN1ajsVSzE5yBHbRv8C39r9X2gx4VJ/I1ypvKhoMvPD6BTPl+pbKm/lhAr57tRfTUeEetd2OZdEgTsPW0TVgu6RSyUBKX4SgNISaHtEmwjG6U9pJWumpXeKth7QWrhvyEGKJ/Ad1GWmRZEwg6k/a6moHrJFwbLeGPvItuftIOzGiq89KAlYmKmXAfE6E=;uC7K2owYSJ4yZhKrvug7HA=="
+secured: "Z8hQ0RhRqFO94JBEfeciOGtf4HsnkShSGESrPTT3Q39If+SyqvAZyicMJgIoLG1Km9y1/lG6LHjaIKp8IlFcdNnMw7c4I7QHgbeB33Oya7AI9JDM/q8wQTugDULhQ0DDtwrDR/avHtx7w5ZNViE2fqR449kYRkS0at1wqiwmwloIMuk4ET49DL+ZJOC7BBI6mIUjbwS4GUGTz9vk7V1CHFhuOXYzwDWsYBbRpC7YqRmrZro9P8Clz6YuyM7CsVQIxE4GbLZCbL6Wy6ljXo8Z82fjBdR3p9PISRDo3ih3YlUM9JHdUKW7DBmy1GEO4+IDlDkvqnZkC94l3YzmHt0XXycdsd/cTPVczZccVSUOqjA=;/NKLe6Y75RSLxFLgSNTR7g=="
 ---
 

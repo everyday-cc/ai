@@ -97,6 +97,59 @@
       ]
     },
     {
+      "path": "_news/2022-08-11-artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
+      "title": "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
+      "excerpt": "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
       "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
       "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
@@ -454,6 +507,59 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030",
+      "excerpt": "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1382,102 +1488,6 @@
         "AI Ethics",
         "AI",
         "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
-      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
-      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "originalUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
-      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
-      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T11:28:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     }

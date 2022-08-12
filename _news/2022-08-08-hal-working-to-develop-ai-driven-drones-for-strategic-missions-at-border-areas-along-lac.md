@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "For vigil over LAC, India develops AI-driven drone. Read here"
-    excerpt: "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro"
-    publishedDateTime: 2022-08-07T11:16:00Z
-    webUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html"
-    ampWebUrl: "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "HAL developing AI-driven long-endurance drone for vigil over China border"
     excerpt: "The HAL has set a target of conducting the maiden test-flying of the unmanned aerial vehicle (UAV) by the middle of next year and plans to produce 60 such platforms in the first phase of the project."
     publishedDateTime: 2022-08-07T15:57:00Z
@@ -58,38 +42,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
-    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
-    publishedDateTime: 2022-08-10T09:32:00Z
-    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 22
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/india-and-LLM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "HAL developing AI-driven multi-role, long-endurance drone for vigil over LAC: Report"
-    excerpt: "The rotary-wing drone will have the capability to carry a load of 40 kgs, including missiles and sensors. The HAL has set a target of conducting the maiden test-flying of the drone by the middle of ne"
-    publishedDateTime: 2022-08-07T12:05:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/hal-developing-ai-driven-multi-role-long-endurance-drone-for-vigil-over-lac-report-101659869340346.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 10
-  - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
-    excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
-    publishedDateTime: 2022-08-11T12:17:00Z
-    webUrl: "https://analyticsindiamag.com/coming-to-understanding-why-indias-diversity-requires-large-language-models-to-advance-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 2
 
 secured: "vEBo/1tFbDt0gCJydSrJ1vXsZM/sP0WHVDFEboFvBRxiNOm1/W5KzJGfNYlDnI7uyVTOXN18++qlu1zsCmgTmXa0yPQdsSU7lfj1HzLGiz7oZPpQC0mB3pNXIu0PbafceviDPQ7riNpp6f+6jJn97CoUXFHSCf/BklVqDKULJDxan42DVmFQyCeSrZUMLjy8j/ksBU1XsglpLv6ASW3mUMV55fxVlbHImZgr4NgVVpIYfha0z67F9osYQcYAPFx7dxyFYoR4kvPnS7O7zZqfBXd4EMDvLZgjHZC0oKXTnnsDvot9QPKAbp4r3bxRBdZZpKV3WIWF3SoXYI7RmqPWhHxElIvFj1u8k5cyAlvmpTzT02Fo7eetx7xlFXDCrER3/WKuqeINlMUIT2m4cyFre4HOqOm476+ZVxDaa7FHhAx64QdmSRSrJ6+u7XYWFN6IE6Ce1L4Rm4eQgxANgEVmsMCrFckpwflDCHFQeGfgU0fdNczozML84rOYpt07Y+x+CeNJuQjpw5kqKE56U7A0gg==;YIjbl8c4gL/gX9PlQytieg=="
 ---

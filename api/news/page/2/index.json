@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-and-election-conspiracies.md",
+      "title": "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies",
+      "excerpt": "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
+      "originalUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
+      "publishedDateTime": "2022-08-10T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
+      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
+      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "publishedDateTime": "2022-08-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
+      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
+      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
+          "width": 1328,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:57:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-tesla-self-driving-smear-campaign-releases-test-that-fails-to-realize-fsd-never-engaged.md",
       "title": "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged",
       "excerpt": "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test.",
@@ -51,6 +192,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-how-artificial-intelligence-can-make-our-food-safer.md",
+      "title": "How artificial intelligence can make our food safer",
+      "excerpt": "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
       ]
     },
     {
@@ -218,7 +403,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1045,216 +1230,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai.md",
-      "title": "YC-Backed Kaedim Helps Game Developers Generate 3D Models Using AI",
-      "excerpt": "For video game artists, converting 2D sketches into 3D assets takes thousands of hours across a standard-sized video game. Kaedim provides game developers with modeling software that can rapidly convert 2D images into 3D models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb4b0553e2902591373b0b/0x0.jpg?format=jpg&crop=886,498,x0,y0,safe&width=1200",
-          "width": 886,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
-      "publishedDateTime": "2022-08-09T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update.md",
-      "title": "Traceable AI Addresses API-based Data Security and Fraud Attacks in Latest Platform Update",
-      "excerpt": "Flexible deployment options: Fully out-of-band collection via network log analysis of AWS, Google Cloud Platform (GCP), and Azure clouds - specifically for ... About Traceable AI Traceable is the industry's leading API security platform that identifies ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
-          "width": 400,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-no-code-no-problem-part-2-setting-the-ai-loose-with-the-easy-button.md",
-      "title": "No code, no problem, part 2: Setting the AI loose with the “easy button”",
-      "excerpt": "In the second part of this three-part series, our heart attack predictions take flight.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm.md",
-      "title": "NNAISENSE announces release of EvoTorch, a rare open-source evolutionary algorithm",
-      "excerpt": "AI vendor NNAISENSE today announced the formal release of its EvoTorch open-source evolutionary algorithm technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
-      "originalUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
-      "publishedDateTime": "2022-08-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

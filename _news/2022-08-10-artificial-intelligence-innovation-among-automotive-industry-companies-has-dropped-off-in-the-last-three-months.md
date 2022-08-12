@@ -2,11 +2,11 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-10T09:30:00Z
-originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-09T17:00:00Z
+originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: just-auto.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -54,6 +53,6 @@ related:
         height: 778
         isCached: true
 
-secured: "PLlSPGYjR4vIalUwu371Z5tVsRw8rA7VXQ/uRm5ODpzdICbOpkfRHHWH7+iRT+2b2XwqTfhxumjDW/zUC7dEkknKDTbp1r1DvNDrUxOmCK8CVVNvhkNSWxNQFaGUJYUET6Zhzjx26NIcu4CSrykOSgnk6LYH+USyxDE8U8iCWXf5iLkfO/xFpdRV/KrCq+/3bPpNaMzmDXUzb2ogPx/+3TIxmi6c0HvhVkw3pMPSO6uLi9mNrMXJgb8yWhViagO9nkbm7Dx/ca4FukwwEzmn2wrPZDF3ekxtTUgguIFFr6gZIeTMQHq+KfeHr9BuokyrxNhoKjtcyZIdI+uYcbshT3Yfa2+1u4CxeqwRok6Hcng=;3zLUHkjhrXwkCzitFS4OLQ=="
+secured: "dt7KWv71ngNtKkevjHICb16LzuI6oNQFCY2RKnYWzPC9FJAWAmZXrHBkyyqh7LU7buVhm7du3KdWqd+P4QCnF9GXOC7q2Y98BNEZ8fmH6jMnL9UOBRjsKb5JsX9iAHHmNBuxdAjifd5h6bO/vBazUZz2Lq9KKh89V8f+p8IHfZDXO8mIvu7jzd+vAR3emCUnY/4CJ3ECNDNFEpEE3Mx7eqOgv4z1paE/nzy3meLqQkD/m2ScA7+gYGvSsW/bkqctZwZ9kBwvAZtFUMeAuH0Z6mLspX39It/2MwQ3VS5UidErcRR4dehoJZmPmxMzCe4gEtiqox5O/99sJCZ9QcslHPjCWAoARy+XYzCLQIAertg=;X+z5AvMLJPsjdndduB3oNQ=="
 ---
 

@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group."
+    publishedDateTime: 2022-08-11T11:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chip for Data Centers Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
     excerpt: "Global “ AI Chip for Data Centers Market ” 2022 report demonstrates the scope and Overview of the various commercial possibilities over the coming years and the positive revenue forecasts in the years ahead."
     publishedDateTime: 2022-08-09T06:18:00Z
@@ -45,15 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
-    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
-    publishedDateTime: 2022-08-08T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
+  - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
+    excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
+    publishedDateTime: 2022-08-09T06:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -68,20 +82,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
-    excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
-    publishedDateTime: 2022-08-09T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-size-share-latest-technology-cagr-value-challenges-future-expansion-strategy-drivers-and-forecast-till-2029-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-08-siri-or-skynet-how-to-separate-ai-fact-from-fiction.md",
-      "title": "Siri or Skynet? How to separate AI fact from fiction",
-      "excerpt": "Determining the way artificial intelligence is used and governed will be one of the century’s key political battlegrounds. Here’s what everyone needs to know",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aea92510a8f227a5ff3c89d310e04c9d6703044e/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=ed73cb558295ce3c6728ab1ce55be43b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "publishedDateTime": "2022-08-07T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
       "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
       "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
@@ -1437,6 +1384,59 @@
         "AI",
         "Google AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-this-artificial-intelligence-system-gains-intuition-like-a-human-baby.md",
+      "title": "This Artificial Intelligence System Gains Intuition Like a Human Baby",
+      "excerpt": "Monisha Ravisetti covers all things science at CNET. On a separate note, she plays a ton of online chess and is a fan of overly complicated sci-fi movies. Scientists taught a deep learning system to learn intuitive physics the same way human babies do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-artificial-intelligence-system-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Google AI"
       ]
     }
   ],

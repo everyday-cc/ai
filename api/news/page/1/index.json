@@ -52,7 +52,7 @@
       "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -85,6 +85,58 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
+      "title": "Degrees of the Future 2022: Artificial Intelligence",
+      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "publishedDateTime": "2022-08-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -192,6 +244,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
+      "title": "How artificial intelligence could lower nuclear energy costs",
+      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
+          "width": 1920,
+          "height": 1278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
+      "publishedDateTime": "2022-08-11T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone.md",
       "title": "Xiaomi unveiled its first full-size humanoid robot, CyberOne",
       "excerpt": "Xiaomi announced a bunch of new products at today’s event and to be honest they were all pretty cool. However, what impressed us the most is Xiaomi’s first full-size humanoid robot called CyberOne.",
@@ -200,7 +296,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -629,6 +725,59 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
+      "title": "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
+      "excerpt": "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -1089,147 +1238,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-and-election-conspiracies.md",
-      "title": "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies",
-      "excerpt": "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
-      "originalUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
-      "publishedDateTime": "2022-08-10T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
-      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
-      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
-          "width": 1328,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T08:57:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

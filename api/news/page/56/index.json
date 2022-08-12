@@ -2,6 +2,145 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-06-24-adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program.md",
+      "title": "AdTheorent Wins \"Machine Learning Innovation Award\" in 2022 Artificial Intelligence (AI) Breakthrough Awards Program",
+      "excerpt": "Marks AdTheorent's Fifth Consecutive AI Breakthrough Awards Win . NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (\"AdTheorent\" or the \"Company) (Nas",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "originalUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
+      "publishedDateTime": "2022-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
+      "title": "How machine learning AI is going to change gaming forever",
+      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-instagram-is-testing-ai-powered-video-selfies-to-verify-age.md",
+      "title": "Instagram is testing AI-powered video selfies to verify age",
+      "excerpt": "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
+      "originalUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
+      "publishedDateTime": "2022-06-23T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
       "title": "AI Weekly: Microsoft’s new moves in responsible AI",
       "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
@@ -992,154 +1131,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-ai-first-database-ecosystem.md",
-      "title": "The AI-First Database Ecosystem",
-      "excerpt": "An AI-first database ecosystem has emerged, and it might just transform your company’s search and recommendation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//61950180a260c12d22db736c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/the-ai-first-database-ecosystem/amp/",
-      "publishedDateTime": "2022-06-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-sales-of-painting-robots-market-will-grow-by-101-cagr-by-end-of-2031-future-market-insights-inc.md",
-      "title": "Sales Of Painting Robots Market Will Grow By 10.1% CAGR By End of 2031, Future Market Insights Inc.",
-      "excerpt": "Overall sales of painting robots will grow by 10.1% CAGR between 2021 and 2031. East Asia and Europe are likely to account for over half of the global demand for painting robots through 2031. The global painting robots market grew at a CAGR of more than 2.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/",
-      "originalUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/durr-csm_EcoRP_Gen3.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/sales-of-painting-robots-market-will-grow-by-10-1-cagr-by-end-of-2031-future-market-insights-inc/amp/",
-      "publishedDateTime": "2022-06-23T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage.md",
-      "title": "Delivery Robots Are Bridging The Gap Arising From The Labor Shortage",
-      "excerpt": "With labor shortage showing no signs of receding, delivery-focused companies are turning to robots to steer goods to consumers—with robust results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b32151f2054ac58c7a1f0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/23/delivery-robots-are-bridging-the-gap-arising-from-the-labor-shortage/amp/",
-      "publishedDateTime": "2022-06-23T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
