@@ -36,6 +36,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 19
+  - title: "Yellow.ai announces the launch of its proprietary DynamicNLP™, a first in the enterprise Conversational AI space"
+    excerpt: "Yellow.ai, a leading enterprise-grade Conversational AI platform trusted by 1000+ enterprises globally, today announced the launch of its proprietary Dynamic NLP ™, a first in the enterprise Conversational AI space to enable enterprises to go-live within minutes with lower operational costs and an intent accuracy of over 97%."
+    publishedDateTime: 2022-08-12T08:22:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/space-launches-technology-4aa165de85f3a0bb469dc27013bbc081"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Yellow.ai announces the launch of its proprietary DynamicNLPâ„¢, a first in the enterprise Conversational AI space"
     excerpt: "According to the future of conversational AI from Deloitte, training AI agents with manual methods can take as long as six to nine months, making it one of the most common setup c"
     publishedDateTime: 2022-08-10T13:39:00Z

@@ -30,85 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
-    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
-    publishedDateTime: 2022-08-08T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
+  - title: "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031"
+    excerpt: "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1."
+    publishedDateTime: 2022-08-09T21:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-Powered Cognitive Search Market To Witness A Pronounce Growth, Incredible Demand, Prominent Investment During 2022-2030"
-    excerpt: "The global AI-Powered Cognitive Search Market is expected to reach US$ Million by 2027, with a CAGR of $$% from 2020 to 2027, based on Report Ocean newly published report. The demand for Internet-of-Things (IoT) technology and services are growing globally,"
-    publishedDateTime: 2022-08-09T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-to-witness-a-pronounce-growth-incredible-demand-prominent-investment-during-2022-2030-2022-08-09"
+  - title: "Artificial Intelligence (AI) Hardware Market Size Prospects & Upcoming Trends and Opportunities Analyzed for Coming Years 2022-2031"
+    excerpt: "Hardware Market is valued at approximately USD 9.8 billion and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period. Artificial intelligence (AI) has been one of the most appealing technology in recent years."
+    publishedDateTime: 2022-08-09T21:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-prospects-upcoming-trends-and-opportunities-analyzed-for-coming-years-2022-2031-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market growth size is estimated to grow at incredible CAGR till 2031 | Apple (US), Microsoft (US), Amazon (US)"
-    excerpt: "Scope of Speech and Voice Recognition Market The Global Speech and Voice Recognition Market 2031 Industry Report is"
-    publishedDateTime: 2022-08-09T12:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-size-is-estimated-to-grow-at-incredible-cagr-till-2031-apple-us-microsoft-us-amazon-us-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Very Edge AI Chipset Market Size, Share, Latest Technology, CAGR Value, Challenges, Future Expansion Strategy, Drivers and Forecast till 2029"
-    excerpt: "Very Edge AI Chipset Market ” report provides different market forecast related to share industry size, CAGR Value, consumption, production, gross margin, price, and other substantial factors. Report also offers a complete study of the upcoming trends and developments strategies of the market."
-    publishedDateTime: 2022-08-09T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/very-edge-ai-chipset-market-size-share-latest-technology-cagr-value-challenges-future-expansion-strategy-drivers-and-forecast-till-2029-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Regtech Market 2022 Business Scenario | Top Factors that Will Boost the Artificial Intelligence In Regtech Market Trend"
-    excerpt: "In the forecast period of 2022-2028, the Global “Artificial Intelligence In Regtech Market” is expected to grow at a steady rate, according to the Artificial Intelligence In R"
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-business-scenario-top-factors-that-will-boost-the-artificial-intelligence-in-regtech-market-trend-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
-    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
-    publishedDateTime: 2022-08-09T12:42:00Z
-    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
 
 secured: "Rpsgjq03m+zPAFJdp1pk6ADEzyU9rpIu9Bvkh48N9SOozHs/srD3BLm3y+fVI3ckQGDbZQFIXiKiK7rEtJoONupOtTq6EY6dTlPdNulsfyl48LmxiYylosDBDaj2qlNhuprlsrIYTbC7jUD9MAyMWpm2hbS/xqHNlv2xAhXd5VTH61uV5ebkeU0OJbAPmD0xXEhxWLLmCB1OSO8T7O/QH57qQYL6J4YELXkAahFkSS7N1s5koph7/MyxRItdnJL6bZ5KAf7kJiAaT2uKuF1+a9AXlG81R4vugK1XVn40W7bSfkrMalEwpDq1Fc0Py52ERlo3XnRElMgExpsqj63/RECK/drvltrvrzYpvI1iqXo=;VHjZcnrcRs0FGIXyEcPpHw=="
 ---

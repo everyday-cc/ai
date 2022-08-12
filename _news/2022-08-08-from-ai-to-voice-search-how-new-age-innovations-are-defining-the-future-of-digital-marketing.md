@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-se
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Mobile Speech Recognition Software Market is Rising With a CAGR of 22.5% During the Forecast Period From 2022-2032"
+    excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
+    publishedDateTime: 2022-08-12T08:40:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/12/mobile-speech-recognition-software-market-is-rising-with-a-cagr-of-22-5-during-the-forecast-period-from-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "2klVmZHUYBJ8ez1ygk/43kL2+6433a2IPhoAfFZI93vps8AV9smWAKbhQ/jLsSgAXSJMZASuna+9HauZmytrKConqfddRgiZPsXMu1TxOb26WGtdLMxmf648Fi7yF3mvWFK8/3mLO9Zguw+OKatohlnVx5CSyUkdxhVrGQBICG6wtHaNC7iybI49rOG5iG2Q9WfSNBHpgvqmEzw/A51wih1tgQa1HUMdRkm/rEnk7u/0AKU4AVusG2lwesJx3nyZGm010pntR3dlFaQn2LJ6K02Kev4DHArBfDNJP5PVc2c4lgLCtfoHu7YG0TntC9vNcg4cBt2znsOj6TipN3xq0Ua7eS4niD9W4+XnMqS425MnmZBI908mQW+TbXv6eR2/wYHNnDrvC7/yudjrfy0wECm8/UsWHWno4xXZJKCm666i5+4DGP+3EgSXVo9t3aH+SBBGCZ9BjWg428tAu/qzQGdWFT7b2deS3ZBkyzXLxt0zijgpkMfRiTV9QgcZSrFflxu9hiLRFjoILqFJwVYJMQ==;AEcEoCGnz1EoWwBhp7HKKg=="
 ---

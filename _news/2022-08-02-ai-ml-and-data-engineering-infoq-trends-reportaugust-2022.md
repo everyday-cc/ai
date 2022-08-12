@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://res.infoq.com/articles/ai-ml-data-engineering-trends-2022/en/headerimage/generatedHeaderImage-1659439712027.jpg"

@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why not all VCs are ready to embrace AI-powered investment tools"
-    excerpt: "Not all VCs are embracing AI for due diligence and investment decisions. Why? It could be that the algorithms fall short in key ways."
-    publishedDateTime: 2022-08-07T16:00:00Z
-    webUrl: "https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/"
+  - title: "Government recommends AI, design thinking for teachers under NEP 2020"
+    excerpt: "The minister has also suggested inclusion of AI, design thinking, holistic health, organic living, environmental education, and global citizenship education"
+    publishedDateTime: 2022-08-09T10:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/government-recommends-ai-design-thinking-for-teachers-under-nep-2020/article65749711.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/government-recommends-ai-design-thinking-for-teachers-under-nep-2020/article65749711.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/government-recommends-ai-design-thinking-for-teachers-under-nep-2020/article65749711.ece/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=600"
-        width: 600
-        height: 400
+      - url: "https://th-i.thgim.com/public/incoming/ae5rbv/article65749703.ece/alternates/LANDSCAPE_615/India_Literacy_Day_DEL172.jpg"
+        width: 615
+        height: 383
         isCached: true
 
 secured: "4MuF36nUTkhEWjvSsLp+//SOxBeHbIMdq3Ukyuyu8Hz+I/eVUMBbyO3G3hQXZAIUVXItXXVYLzC3RgamyshwebKjFNR9issml05aoovofdlmsCKBa+XNHeXPhhFvAozzuule41OMdKyltXVJgy2nfkFAj9Ow66qLMrBTGAtgiTnSKdgg/okN+L24jLHRGLXnZbf8E9npsqdpGWkKocq8xrwYnoZIN4cCo7L8QuaH/0fR+f2f88HWTJPzE2t6RB1KeFnyA93SwplBcODtOgf/SUurOyFTyQpIp1OP/rUEgBjnMA1YLqSLGREiVGto7QXnXog+O/7U0HACwe9zpgMXZLRLh5F5oRVljmaparIBfo+V3Gq6ZwzZqYpxSIUYTQ2a4yjLjy23A8FQskMPYy95z5LYo2pJIJmeh+xWgoxgp168b1YBIfhHRuNjcle8U3cLpA1IKWAphOxmBsCAz8E9NUac6B8PtrNl3NLuUPnos3eX7ln4c2SDRiTqduaTXRCqGsZPC9GKmjeormXA4ZHhPA==;yZ3uoyfoaAb2agBBFwWVzg=="

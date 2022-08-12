@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-mo
 webUrl: "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-monitor-health-data"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: The Next Web
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A bionic chip analyzes health data with brain-mimicking artificial intelligence"
-    excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed."
-    publishedDateTime: 2022-08-07T15:08:00Z
-    webUrl: "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html"
-    ampWebUrl: "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 85
-    images:
-      - url: "https://static.digit.in/default/9965a991f124a48186e400c6cd712e646cb7c34d.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Skin-like computing chip analyses health data with brain-mimicking AI"
     excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able t.."
     publishedDateTime: 2022-08-08T06:00:00Z
@@ -108,6 +92,34 @@ related:
       - url: "https://static.tnn.in/thumb/msid-93445162,imgsize-100,width-1280,height-720,resizemode-75/93445162.jpg"
         width: 1278
         height: 720
+        isCached: true
+  - title: "New Uses For AI In Chips"
+    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
+    publishedDateTime: 2022-08-11T07:05:00Z
+    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 58
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
+        width: 1430
+        height: 644
+        isCached: true
+  - title: "This skin-like computer chip utilises AI to keep track of medical information"
+    excerpt: "We’ll send you a weekly digest of our best AI articles if you sign up for our newsletter today. Wearable biosensors, such as those developed by the associate professor and his colleagues, will be able to monitor health indicators including blood sugar,"
+    publishedDateTime: 2022-08-08T14:20:00Z
+    webUrl: "https://bestgamingpro.com/this-skin-like-computer-chip-utilises-ai-to-keep-track-of-medical-information/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 51
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/This-skin-like-computing-chip-uses-AI-to-monitor-health-data.png"
+        width: 600
+        height: 365
         isCached: true
   - title: "Researchers Develop Skin-Like Computing Chip That Analyses Health Data With Brain-Mimicking AI"
     excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."

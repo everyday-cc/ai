@@ -139,6 +139,22 @@ related:
         width: 2160
         height: 1200
         isCached: true
+  - title: "BlenderBot, Meta’s AI chatbot, really, really wants you to check out its synagogue"
+    excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
+    publishedDateTime: 2022-08-11T20:40:00Z
+    webUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
+    ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    type: article
+    provider:
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 51
+    images:
+      - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
+        width: 1024
+        height: 569
+        isCached: true
   - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
     excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"
     publishedDateTime: 2022-08-09T02:22:00Z
@@ -199,6 +215,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
+  - title: "This AI chatbot wants you to visit its synagogue"
+    excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
+    publishedDateTime: 2022-08-12T09:21:00Z
+    webUrl: "https://www.israelnationalnews.com/news/358077"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 17
 
 secured: "vamSODoQwEhJFtGeY/qo+dP9bbrzyuOxHRsReIuJGYH8DHV5sZE+ZVt+e1pfC+bTR4IMAyaflr0Tou1YhwQHzzQubdhY2q22Ajff7EAAFEW9EAV5Mdp9n8hXa4V7oY8qtfHyZHxUiZ4us1dsOUIYEKVtGSiutOvFUVSM8TCqQEYx/88Z0l2bn4rCtX8VRNVbM69kGdb2VB8XEZnZsF6gF5YEIw/8RM4s4a3BTru6yI6s704SwOxmVZO8HuvIZIix32rB+vXDmCczLDWHRJCc+F6ZW4KRxY+WNI9Z2Etfo5FGaq7Z1pW9gdGtCy2jD9cG2Z8+AClKDbbBSGxuRzGsBBVQB8UbO797W70+yUTfz9I=;LC1IE/XvdzbcgzeuvfQmTA=="
 ---

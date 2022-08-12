@@ -81,6 +81,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Mobile Speech Recognition Software Market is Rising With a CAGR of 22.5% During the Forecast Period From 2022-2032"
+    excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
+    publishedDateTime: 2022-08-12T08:40:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/12/mobile-speech-recognition-software-market-is-rising-with-a-cagr-of-22-5-during-the-forecast-period-from-2022-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "u9TJpAQkYmivEAJ6dQJL+bmjqvYjpOx5LZKYB6hVBdMUvlpWm1voSwOIZX2y7i0RXpCS+TQAfWBp802Zyh0x19WKE+KHqXk29TzE0Q0CLG3D8PeKgxQ/AAXosBjPWGEB8/5ZRwNiDhvN0InJaXB9f4RgUI1dTI/Jkp1kLKx/KUlqbXHd0TpTA6edAoZpX1mjChv96/vSv6jo2aYqiXlJWlyqg96zsfolBvqZ+7pqyW+bpGkzAOVjrFfglHCighTTZoQ9m0jOSITJiSuFMQnCqYc/0bQmTFNwgPDxG4ogTlFzT7kM93yDpTA7J3IcR+dFij87cGYZpGSfU4Fc/qe1yuQT2va9OzHuhtxBH5dOkoo=;AVoHqF/dOvNsaL/7UbiGAA=="
 ---

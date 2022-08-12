@@ -135,6 +135,22 @@ related:
         width: 2160
         height: 1200
         isCached: true
+  - title: "BlenderBot, Meta’s AI chatbot, really, really wants you to check out its synagogue"
+    excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
+    publishedDateTime: 2022-08-11T20:40:00Z
+    webUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
+    ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    type: article
+    provider:
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 51
+    images:
+      - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
+        width: 1024
+        height: 569
+        isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z
@@ -202,6 +218,15 @@ related:
       name: SiliconRepublic
       domain: siliconrepublic.com
     quality: 19
+  - title: "This AI chatbot wants you to visit its synagogue"
+    excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
+    publishedDateTime: 2022-08-12T09:21:00Z
+    webUrl: "https://www.israelnationalnews.com/news/358077"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 17
 
 secured: "wn+6HuZtNPYTGaeTM/WZZhjPfsIO53LHEEXPDmtT4y5ImWbzLTepKacOnh1NfQxKo6FpHj2h/53r8EU7OPfeoka2b1lBe2lCVCjCc3hEWuWNXHDkA33+S51xzY5A8IPePWpY1qjzd1sVSHLpTTGaF2mvenT+LyVts7uxenrqVCi5DZexJhTPpDTFwQfIpQ34AO35g6LaJ03C+qNuvapLAtruId2n9LoXP4sURh162ndbcDE/jV7P88qBh4AuMrOAX0kpwnvGp7nDptCX9Ydp71wDtWCIVdqhM0VZ93SAcS8MWlqJlEThfu8VUxu0g8GXCdcURquYEgT6JSiezZWJR3bv9z9Hgbuto2JtT5QI4dE=;vRG+glLJ5Y0Q512ANVjN8w=="
 ---

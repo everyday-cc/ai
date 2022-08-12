@@ -136,6 +136,22 @@ related:
         width: 2160
         height: 1200
         isCached: true
+  - title: "BlenderBot, Meta’s AI chatbot, really, really wants you to check out its synagogue"
+    excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
+    publishedDateTime: 2022-08-11T20:40:00Z
+    webUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
+    ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    type: article
+    provider:
+      name: Jewish Telegraphic Agency
+      domain: jta.org
+    quality: 51
+    images:
+      - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
+        width: 1024
+        height: 569
+        isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z
@@ -198,6 +214,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
+  - title: "This AI chatbot wants you to visit its synagogue"
+    excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
+    publishedDateTime: 2022-08-12T09:21:00Z
+    webUrl: "https://www.israelnationalnews.com/news/358077"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 17
 
 secured: "AiY6Xf0s7SD4g9899LuQhJc4Q/0XnOc+g7B2ZF9l146sXxnbnxj650dJ40ERSureZF1jmP9L7NVx78OZC3ce6uC89J1j+lmmKTwjoUTZmqnV7DEEcXSPqRpjOPO/4McP7VS//F7kHm/s8pBQ1dvi8yMAkFETasNEgk/ejkMxbQdu3hS3zFyFHA4wgRJ2XPJX9fB24YcRX7+BURD9QsM/esB6OxBzjUBtOe4YrDroNihKvzuuFOLxBlqX4JTK4iwD8SRUvN/kqpb6D7oJbPc9JXfZ66h8Xng0jN3vRNEfwjoZEBPPINQQyu/6DYfNTcDbw9QjS4VNycq5XU3Uca6zvpWpdQFewfqlNK89+zSphbQ=;B+NluwAza9H9homGCZgQfA=="
 ---
