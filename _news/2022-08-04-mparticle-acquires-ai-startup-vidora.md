@@ -1,19 +1,19 @@
 ---
 category: news
 title: "mParticle Acquires AI Startup Vidora"
-excerpt: "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ..."
-publishedDateTime: 2022-08-03T17:26:00Z
-originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
-webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232"
+excerpt: "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform"
+publishedDateTime: 2022-08-03T17:12:00Z
+originalUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
+webUrl: "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/"
 type: article
 
 provider:
-  name: Destination CRM
-  domain: destinationcrm.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AI
 
-secured: "cG5aSR+UPCghpEdiwuBNFwffLrHiJprgUd/7E8H0rXvrSnju2KqtycUKxWreCbJeXJwN+n9RzOYH9ylAi9zu6p1tHfp53jIwW05YEJ/W8cErINOl8AmcmFGpKnmVP5f06LUGj47FnAfGokbyEBjz2MJdceNSB5OUeoBlBpAFcDdNvOBxrrnUrpfR75jIMaenRH08WN+Kaiv0XQRcuyRKJ3ZW6MuGK51TE0t+TE0/+tLrqkHQ7F6DEy8++zuBGj1qK1fxt696uWzDlSh+zLxuGm1dUvNzvf0SWjMF5g5eh8PDKaOBNPlfNichoLOaXdwRqFW124MH7velzmwiEHj7Ne/+FtcVD18K5MjzmDzJBoY=;UzMEWdvUecwHKS/Jxg4Tjg=="
+secured: "5eUF8Kt3/aPYOjjp4N1n/xUTMq99HcqiP8tKFOpbKEUNNdqzqGqc3Xv8nb6zk7RDH3+ldr54gvsp/OfhGgZAcvOG7uPC8v0tdVJmbmVvrnMB1QbplWs3mwWaE5KDtvMGdErIQuqaGudzbuOu+Jzz3MJSLtslzQE93ZN8IxLl0WvVKf1uBpFK408fPI4vpkegmHCJqen5/lJPgjGYnGiYjdHILbaaPf+evsxNIRFMZ6ivhYuSvYJXtUl8sMBli/8TzxmEoWgmv+17qRJRv1/r4+vpHr7UwGr+3dMzSZNehzGliVx4FiTw6ntK/Z2k7mljPfyWNc5s2JipP30pgqHxh1tA3woUYBnoZDfLK9gT/L0=;6mFGJMIkgk6XXbJ9S1upmw=="
 ---
 

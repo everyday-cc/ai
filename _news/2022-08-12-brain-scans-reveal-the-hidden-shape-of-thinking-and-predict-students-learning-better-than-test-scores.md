@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Brain scans reveal hidden shape of thinking, predict students’ learning better"
-    excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students’ brains while taking a course that emphasized spatial learning. “For a long time, psychologists and philosophers have debated whether spatial thinking,"
-    publishedDateTime: 2022-08-12T17:44:00Z
-    webUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/"
-    ampWebUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
+  - title: "Brain scans reveal hidden shape of thinking, predict students' learning better"
+    excerpt: "Magnetic Resonance Imaging (MRI) scans showed changes in students' brains as they learned the course curriculum, and these changes were compared to the ways that learning is traditionally measured (e."
+    publishedDateTime: 2022-08-12T17:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220812/3972576.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 55
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/08/5eiuy2022080906184220220812170241.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
   - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
     excerpt: "The traditional tests and grades that educators have long used may measure learning less accurately than scans of the brain, according to a new study published in Science Advances. The paper, authored by a team of researchers from seven universities and led by Georgetown neuroscientists,"
     publishedDateTime: 2022-08-10T18:00:00Z

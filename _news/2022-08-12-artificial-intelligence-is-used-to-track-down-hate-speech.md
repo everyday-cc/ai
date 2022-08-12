@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-11T23:06:00Z
 originalUrl: "https://www.aol.com/news/artificial-intelligence-used-track-down-230600850.html"
 webUrl: "https://www.aol.com/news/artificial-intelligence-used-track-down-230600850.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI
   - Facebook AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"

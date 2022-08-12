@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T17:47:00Z
 originalUrl: "https://siliconangle.com/2022/08/12/brainstorming-supercloud-tech-leaders-vmware-snowflake-databricks/"
 webUrl: "https://siliconangle.com/2022/08/12/brainstorming-supercloud-tech-leaders-vmware-snowflake-databricks/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: SiliconANGLE

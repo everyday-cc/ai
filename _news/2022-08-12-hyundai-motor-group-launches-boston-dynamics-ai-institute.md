@@ -124,6 +124,15 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
+  - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
+    excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
+    publishedDateTime: 2022-08-12T18:15:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/08/12/boston-dynamics-ai-institute-kendall-hyundai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "d4cSpkEYA30Bqwge90HJVVIYYec9YTxqG6DSF8b8J52dIVV1wwkA/dPWov/AvPoJbds5IBoqCg9ZZ8ekPTUhAHf3qjspk6DNtjMpoaFi0GGxAaV6Z6jwWO9KfdDrQPrnLf+hMqiNhhOb3jMZnxuiNj9iupeRl/XcEBtxUIcxbBYyc3GrCBqppBJaVq6oyGyAsod/rUWGz8GMSMCSFbxhGDu9LPAdjnSfvs9cI1jBrxURT9BjOzNu095iwN7Re2P8gEdHnSo/SCU3I2DNF5vxSkEw/fgc0UKUmuYonqKRfTEumM0RpH8XlEgJMU6NoUqV9wIyNcv3ZUHSQaXn/0br478j1XAUUGrs2mAi8UfhjXs=;EQrK9hMztTHBtAE6mnxRiw=="
 ---

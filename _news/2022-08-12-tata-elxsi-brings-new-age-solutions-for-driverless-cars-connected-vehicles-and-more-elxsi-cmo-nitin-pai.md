@@ -53,7 +53,7 @@ related:
     provider:
       name: The New Indian Express
       domain: newindianexpress.com
-    quality: 56
+    quality: 54
     images:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/12/w600X390/Nitin_pai__Twitter.JPG"
         width: 600

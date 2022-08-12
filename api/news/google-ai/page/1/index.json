@@ -280,45 +280,61 @@
       ]
     },
     {
-      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
-      "title": "DeepMind's AI has now catalogued every protein known to science",
-      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
+      "path": "_news/2022-07-30-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures.md",
+      "title": "‘3D view of the protein universe’ as Deepmind reveals 200M protein structures",
+      "excerpt": "It is now possible to look up the 3D structure of every known protein following the latest release of Alphafold, an open database run in partnership by Deepmind, the London-based artificial intelligence company owned by Google parent Alphabet and the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "originalUrl": "https://www.engadget.com/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "webUrl": "https://www.bioworld.com/articles/521169-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures",
+      "originalUrl": "https://www.bioworld.com/articles/521169-3d-view-of-the-protein-universe-as-deepmind-reveals-200m-protein-structures",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/9db9c490-0f6e-11ed-bff7-e533926cb5cd",
-          "width": 7680,
-          "height": 4368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "publishedDateTime": "2022-07-30T02:52:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T14:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
+      "title": "DeepMind's AI has now catalogued every protein known to science",
+      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "originalUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1365,59 +1381,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
-      "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
-      "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
-      "originalUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
-          "width": 716,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
-      "publishedDateTime": "2022-07-12T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Healthcare"
       ]
     }
   ],

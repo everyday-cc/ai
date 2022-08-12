@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T10:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Herald

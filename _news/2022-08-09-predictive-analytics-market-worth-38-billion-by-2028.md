@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Educational Robot Market worth US$ 3,327.74 million by 2028 – Exclusive Research by The Insight Partners"
-    excerpt: "According to The Insight Partners' research, the Educational Robot Market Forecast to 2028 - COVID-19 Impact and"
-    publishedDateTime: 2022-08-11T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-worth-us-332774-million-by-2028-exclusive-research-by-the-insight-partners-2022-08-11"
+  - title: "Fractal Analytics CEO Pranay Agrawal on Trends in AI"
+    excerpt: "I spoke with Pranay Agrawal, CEO and Co-Founder at Fractal Analytics, about what’s driving the AI sector, and how companies can best strategize to maximize their AI deployment. It seems like many companies seek to get on board with AI,"
+    publishedDateTime: 2022-08-12T21:29:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.eweek.com/wp-content/uploads/2022/08/New-eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "1qjDDqUy1Vu2v/MaAP0RMIsvHE+LaLNXN96rhHBVzoOK06B6GZARZFOP/qd30qfrQ1GPANV1EvvxQKKrfm3Ihdn3MKD8ZaZbjUsgRnBldJqNqcgxB9+7vbP8Qk+LzbuZm8yTeT5tS6vEPyR50PRpD6l1z9zToHGPb+/9qx9ILCBBwVdjWu0JQ/X6z21fagai5YyuILwGZLEiDTAIKsk5lpGSfFZzCbvi+1MjEIlXFFn5kOGa1CAlNu1oop4dAuaqB4hH7ZNvcIK9RYYOXH6KATNwa875Rd9M3vDn7tUnz8QkIxCgozpBhJEWMh0Ahw6JpFRXmR6QG1z1TMnQiPLfmg/cUzlXYA5251o4M/GMUZjbTtJSII/FDgF4s8qXZO1PTMxVgb1m5qvljUHThL7xYjbRRXiRjyi7vbT0HaHZAIt5wEOWePa7AskFuNPhFCVA+eN7fq0gMPIyRFajwEajF9hCdP1+3SO3+3S6zNPMqV4oGzqBFZ0k5Jgv0t3Ue5XRnUQn3LPN5EJdMli5e224/Q==;4L9AQoXROsparQURtHCY5g=="

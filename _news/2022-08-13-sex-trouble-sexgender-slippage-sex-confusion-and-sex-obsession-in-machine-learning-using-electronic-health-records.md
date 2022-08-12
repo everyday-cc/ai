@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T19:31:00Z
 originalUrl: "https://cyber.harvard.edu/story/2022-08/sex-trouble-sexgender-slippage-sex-confusion-and-sex-obsession-machine-learning-using"
 webUrl: "https://cyber.harvard.edu/story/2022-08/sex-trouble-sexgender-slippage-sex-confusion-and-sex-obsession-machine-learning-using"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Harvard Medical School

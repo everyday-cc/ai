@@ -1,26 +1,19 @@
 ---
 category: news
 title: "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin"
-excerpt: "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based robotic process automation and AI consultancy that demystifies the use of artificial intelligence,"
-publishedDateTime: 2022-08-02T18:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
-webUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
+excerpt: "Founder & COO of macami.ai, celebrate the ribbon cutting of their company with members of the Austin community, including"
+publishedDateTime: 2022-08-02T20:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "k5UzbfKGyq0MjC+k+NvWMnzGGK89jMxRGdI/iwjt0T5XOMiXMy+71lI403RKyXiwPrZ5ZpmJe6vDhniJqCx8WE0Es01U4OSYLmfWM7SZUnFDgpjOLUmLz+cuvR5Jxfw84M7RDU/3+n1dZ9hog33ukXzDuaVOYcrEQgiNVFNIJWvSgMRcq5Biu0Q03LTiBphODcrb7Ti3ucGGwPJjjq9YqhGdCxhGjVsaURhgtLlE10NT/ttllX2ghoPLx+x7Acx25gPJm6nlN+P5ehPl4Hawwhi2JpzCMX5CyEcpq+W2L1oZ0UguDslrusatqYqJvQpJi1TT4rsFhOHLzsv0HfIdIb5nrJTlfjrk2196gNtY8u4=;4w3Z0I3mPKgcbyO0193vLg=="
+secured: "QhGp2pF9gP2RLPqyvWamFnN7zN/NquQBEO2JpWC/JCS8hn0Cg7mX8MUzJv4u42wkvE/Sv7vSX9g2nEMwLapCGs6OjNQfed5FWNR9usdxzO6A1uaVdG3wmqU4Qx/8Hf98CD/0YQRvvPZWx/2UmHnmBAAfhjHKt+b6c0QB4vZGZkJ6L3oC3ZeNylAyTBh+MFwG2aHZYURggey5CL9REHwVPiTLPtqvKi0Bl9gOKCzVzHQbxAhpWnzSNQDuymhzd3HVKAtrBzdOZvOxm8nR8NGFiM7hjxpgEovItSpuEC6Jfv/SAjxCWpSXz263SeCEqUmwEfICpWHKHed+G1hGEV1G2rfP07Li2KI1MTnijx90jjb/lDTC2kwqZED41Fsp8Ly/6oYQW7pwRF8M35xwpyRxJ6yl4vTACdKGgqZX4psmXlNVGYM4+a8MGQZN7579JmskNd/ebqxDcFbhQoIu40TpM5SRH30s+sLPAeMcI+2SvSZaYzdSOsWVEutdjl2RxqXOnff08ZIEUGwcDDyr1l1sMw==;CgaakYydiBHZPNduhGIomA=="
 ---
 

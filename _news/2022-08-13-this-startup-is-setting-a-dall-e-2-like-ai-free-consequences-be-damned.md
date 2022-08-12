@@ -5,7 +5,12 @@ excerpt: "A startup, Stability AI, wants to open source the AI tech behind image
 publishedDateTime: 2022-08-12T18:22:00Z
 originalUrl: "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/"
 webUrl: "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/"
+ampWebUrl: "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
-secured: "JU9PK3qB/kcGSSOkWplc3SKwaFPYqxDFQF/aGy9AKsdyL2C+DU7MLk46Y/M/9PHkxqFfDAfPt0E6HmxZICoHFazQRtFNH43D1HyvqA0LbFu8uid3VNX1475uAvTDyqNMR6EvoKnEWsyhFgKFt5RqSQJLqHC1kSX9ZpPAp2cQRB50uhhnOg2ZRtP8p187dKmxRfFIAurEbgK2kls3NJ4prY5cF8aYxQJc1OdfHQ2hldLrbsuD9vkhbb/D+lYjtJyXJ6BBoUyQVs26UpIe9EFPfWz7DGRstzDklZza/ridSspvFQ/TZMbCFUPZkeVxNF8k77t2uGFkHo/r1WNYJm31FBa6UfI8jisnJAxZYi2LTlovYS152t7PjmH8R1kFGLk+OUuTnQYvaBBPA3ZhyOx7JTUoRNZUU3g/p/YRi0QJxFUoucmaxYPnz8wa60v2GOpL0cvDkqXvSfkkj5wtMXDYv1C/WSssKQd5lXaRwMG4zRumY75DfVxSviGBjiYvkQq58p3AcnHeDWdhiuPrZdSvfQ==;Jw6R4Vn1K7I2EGLTz3dWRw=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "JIff6tWAsu90C5eFS9aVoE8NQd/XULmvDRYeGx+o2dFyb/clL1d/CMTCbVv9pv7Rae6Lo+m8olycpSftTtT8OeGm75oyTuf4s7FhSDIjZz/uk+z9DsDEtBSsh+GyZ/bNfrfbIfhbZNQKySPym++yXW7kPiFj68AXB7B/eEDQceGVDFBBBMRxYlvXpCcD+d/JAX2WREJCzD/2sinkNumr/S5uIAvWaT7XefyuQuvlbk5kacV2EFBpF4Q1pfgI6/EMphrS95tWQY3IEpVpNkOoChsVIEX4fu+Cdgo79SrpFBzx8CFfxHRk/skQI+7PZ3hiVuOiGmHUEMTskx/jF/ts2W89zfIr38ftEcqv2Tz1I1E=;j8ZpR6y5EJspSXg3qMqwqw=="
 ---
 

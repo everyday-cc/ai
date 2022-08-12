@@ -19,84 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "From AI to voice search, how new-age innovations are defining the future of digital marketing"
-    excerpt: "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,"
-    publishedDateTime: 2022-08-08T04:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/"
+  - title: "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031"
+    excerpt: "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1."
+    publishedDateTime: 2022-08-09T21:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 63
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png"
-        width: 434
-        height: 474
-        isCached: true
-  - title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-    excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-    publishedDateTime: 2022-08-08T19:00:00Z
-    webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-    ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Three digital marketing tools that use machine learning"
-    excerpt: "One big challenge most companies face when selecting the right software is determining the right tool depending on their existing workflow."
-    publishedDateTime: 2022-08-10T20:39:00Z
-    webUrl: "https://knowtechie.com/three-digital-marketing-tools-that-use-machine-learning/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 56
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2020/06/google-incognito-mode-main-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
-  - title: "Using Artificial Intelligence to Control Digital Manufacturing"
-    excerpt: "Scientists and engineers are constantly developing new materials with unique properties that can be used for 3D printing, but figuring out how to print with these materials can be a complex, costly conundrum."
-    publishedDateTime: 2022-08-10T11:25:00Z
-    webUrl: "https://www.printedelectronicsworld.com/articles/27361/using-artificial-intelligence-to-control-digital-manufacturing"
-    type: article
-    provider:
-      name: printedelectronicsworld.com
-      domain: printedelectronicsworld.com
-    quality: 41
-    images:
-      - url: "https://idtxs3.imgix.net/si/40000/A0/A1.jpg?w=1200&h=627&fit=crop&crop=faces,entropy&q=50"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
         isCached: true
-  - title: "Robotics, AI, self-driving cars: The innovation economy requires real estate for growth and manufacturing"
-    excerpt: "Shifting its own focus from R&D to manufacturing and distribution, the Pittsburgh region with ample locations and an attractive tech ecosystem can be an attractive location."
-    publishedDateTime: 2022-08-10T05:00:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2022/08/10/innovation-economy-requires-real-estate.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
-  - title: "Imagining the AI-powered future of the financial planning profession"
-    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
-    publishedDateTime: 2022-08-12T12:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 19
 
 secured: "RGsi1yKPBqUY3Ihzed8DcxVeVJ8TvdBwR0xZfAjO27Z6Q620fF25x82zx43rAIlkKRnMK5V7bz+5dYpikfOZpn8bWqx4QEJrhz+kkBKLsb+ZDmKKswo7B9z349uKBOzOuctvFIFot51Y39Xvb5vRvnAPtlAlFyvdMlFBceZThk8I94gkTeKEYQmDophEzviRfNWg/+lgqV+gd2pqT0wm9DVLaoCkB4EK4uBKd+UpuEM9GtWFBkk/0t7UZI7i3i/ReV+ckZvqQX/ONTp8S/MS4vpla23VzPtkg9CNK4k7Q6pZf37/l2uoR/GWNU5HIcAsbU9K07c+KZzTDQd/6vT68W5RkwzJiWg1Edj1u+DPUiw=;pIsk8QTeMHeeI99t+SlmQQ=="
 ---

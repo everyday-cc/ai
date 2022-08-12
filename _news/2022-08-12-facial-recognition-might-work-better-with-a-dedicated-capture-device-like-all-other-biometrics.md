@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biometric wallet, facial recognition deployed for patients in US, Israel"
+    excerpt: "MSP Recovery has deployed its biometrics-enabled app, LifeWallet as part of a new pilot program with Miami-based care provider Cano Health."
+    publishedDateTime: 2022-08-12T21:41:00Z
+    webUrl: "https://www.biometricupdate.com/202208/biometric-wallet-facial-recognition-deployed-for-patients-in-us-israel"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
+        isCached: true
   - title: "Corsight face biometrics integrated with safe city solutions by Affluence subsidiary"
     excerpt: "OneMind hypervisors will integrate Corsight’s facial recognition technology, which was recently recognized for proactive reduction of biometric bias by NIST."
     publishedDateTime: 2022-08-09T20:36:00Z

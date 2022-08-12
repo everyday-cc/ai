@@ -43,36 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Baidu Begins Paid Robotaxi Service In China With No Employee Aboard"
-    excerpt: "Baidu has announced they have received permits to operate a paid Robotaxi service in China, with no human safety driver aboard the vehicle. This shows they are confident in their vehicle"
-    publishedDateTime: 2022-08-08T02:00:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-paid-robotaxi-service-in-china-with-no-employee-aboard/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-paid-robotaxi-service-in-china-with-no-employee-aboard/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/07/baidu-begins-paid-robotaxi-service-in-china-with-no-employee-aboard/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f025590d7cf4ad07d408c6/0x0.jpg?format=jpg&width=1200"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Baidu bags China's first fully driverless robotaxi licenses"
-    excerpt: "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ..."
-    publishedDateTime: 2022-08-08T02:28:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu rolls out driverless taxi service in two Chinese cities"
     excerpt: "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport."
     publishedDateTime: 2022-08-10T08:31:00Z
@@ -110,36 +80,6 @@ related:
       - url: "https://cdn.ttweb.net/News/images/265870.jpg?preset=w800_q70"
         width: 800
         height: 450
-        isCached: true
-  - title: "Baidu Granted China's First-Ever Permits for Commercial Fully Driverless Ride-Hailing Services"
-    excerpt: "Baidu has become the first and only company to offer fully driverless robotaxi services to the public in China, without human drivers in the"
-    publishedDateTime: 2022-08-08T04:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-granted-china-s-first-ever-permits-for-commercial-fully-driverless-ride-hailing-services-1031658157"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://mma.prnewswire.com/media/1873706/Baidu_s_fully_driverless_robotaxi_providing_service_public_open_roads.jpg"
-        width: 400
-        height: 267
-        isCached: true
-  - title: "China's First Fully Driverless Robotaxi Licenses Bagged By Search Engine Baidu"
-    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-08T03:35:00Z
-    webUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973"
-    ampWebUrl: "https://www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/search-engine-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-3234973/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 70
-    images:
-      - url: "https://c.ndtvimg.com/2022-08/l9l3scho_reuters-image_625x300_08_August_22.jpg"
-        width: 4409
-        height: 2939
         isCached: true
   - title: "Search engine giant Baidu bags China's first fully driverless robotaxi license"
     excerpt: "Baidu has received driverless robotaxi permits from southwestern municipality of Chongqing and the central city of Wuhan."
@@ -200,20 +140,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Baidu wins approval for China’s first full driverless taxis"
-    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc. The tech giant has secured ..."
-    publishedDateTime: 2022-08-08T02:43:00Z
-    webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 54
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
-        width: 506
-        height: 337
         isCached: true
   - title: "Baidu bags first fully driverless robotaxi licence"
     excerpt: "BEIJING: China search engine giant Baidu Inc say it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."

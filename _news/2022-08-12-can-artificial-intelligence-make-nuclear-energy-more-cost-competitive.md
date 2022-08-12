@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-12T15:29:00Z
 originalUrl: "https://www.power-eng.com/nuclear/can-artificial-intelligence-make-nuclear-energy-more-cost-competitive/"
 webUrl: "https://www.power-eng.com/nuclear/can-artificial-intelligence-make-nuclear-energy-more-cost-competitive/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "How artificial intelligence could lower nuclear energy costs"

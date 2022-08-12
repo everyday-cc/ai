@@ -7,7 +7,7 @@ originalUrl: "https://www.grid.news/story/global/2022/08/08/russian-filtration-c
 webUrl: "https://www.grid.news/story/global/2022/08/08/russian-filtration-camps-black-holes-of-human-rights-abuses-where-ukrainians-face-torture-and-loyalty-tests/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "AI for Ukraine is a new educational project from AI HOUSE to support the Ukrainian tech community"
+    excerpt: "AI for Ukraine” is a series of workshops and lectures held by international artificial intelligence experts to support the development of Ukraine’s tech community during the war. Yoshua Bengio (Mila/U."
+    publishedDateTime: 2022-08-12T17:11:00Z
+    webUrl: "https://www.unite.ai/ai-for-ukraine-is-a-new-educational-project-from-ai-house-to-support-the-ukrainian-tech-community/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 6
 
 secured: "dtWw1qKgSS+3Z99gZBIi5Xw4ijezAmgpzyWW79jcNu8LVr8lzkpLSjHEa/7QrfGo+KYJUaezp2P0sCdkaOyT5G/gdQrD+7VEXj1VD/Tx3b49krgjR+afMRlkCMcshTCPXLAy9kOyPvuyuS7l18UA+tosh49WOf8WDgSlFDdmOpBwnoRnx7XwtNuMfTqlVhhleNu3BB+/iKaJqbn3y75gHUKEnJyItGZaYMC9TV4i4o6nSIYd0JP3CzNc0juq2GoQp0mLXUQhxdlpmva9sQvAUrzc+1sK2fYt3waqGMkgiBpfuyTivmLSBcoMKw/q2PQXA8pudGeJuahnuszxnOB7fUCfrroruWr0whAUzk5wMHKV1tdZwFvRCRxacahSlF2eCb7n/yEx/MnVbJpQ2so2VHMTz7KCilhG8fxuCacGckPSUMLG4BA97wsqkZNh3KMB6y1cn4oqeW57+YUqfjqdVlXDQdZMMv3mkVIWuPVcyUZMKtP4B5dRx0BVkgWqiKL7GMj5s7kBqPtTaALLKIizNw==;Wy4u9/I/frNbLOavlMws6w=="
 ---

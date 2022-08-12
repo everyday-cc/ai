@@ -7,7 +7,7 @@ originalUrl: "https://www.edexlive.com/news/2022/aug/09/jntu-to-roll-out-new-cou
 webUrl: "https://www.edexlive.com/news/2022/aug/09/jntu-to-roll-out-new-courses-artificial-intelligence-and-machine-learning-in-the-mix-30422.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "JNTU-Hyderabad to offer BTech in AI and ML course"
+    excerpt: "Hyderabad: Catching up with the trend, the Jawaharlal Nehru Technological University (JNTU)-Hyderabad is rolling out a B.Tech Artificial Intelligence and"
+    publishedDateTime: 2022-08-12T18:50:00Z
+    webUrl: "https://telanganatoday.com/jntu-hyderabad-to-offer-btech-in-ai-and-ml-course"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 34
 
 secured: "XxvzJT+9l+5akfB2tl6KpUW0JTcFZby90VqUlFsumhLyGpAh0jcN7bjNyxadYdbCwKefXiDaVAkd+owjAqHfQLqIWU8RaLNSzJ/8XDqIEcCgA3qxuYbfV2JX2i7GDv5Q16B063jjLnZf/f1Atkscga3YZnlmeBW9axRSE8kOqqEjR44FfqkmVFbx30wYpE7RmsQpzsOO23+6hOJSOXJwSRfUWM3d81a0TNoXWeU7ezZt3LHWJrc2Iu3aH/9tcNw3A0bZMhy4slUTl0UfJSsRBrAz/8KhiVkVX2RsYJyqPop+Gu0yDq7lILOvbkCeEcqhZC5DrB6uSzQscNn/Ix+P3CS3AQQWnCRaSAF0F2j/HE4=;qb82D9CmJIAkJIzyxrUvvQ=="
 ---

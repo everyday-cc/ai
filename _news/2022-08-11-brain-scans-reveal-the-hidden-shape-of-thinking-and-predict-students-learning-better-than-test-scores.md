@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Brain scans reveal hidden shape of thinking, predict students’ learning better"
-    excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students’ brains while taking a course that emphasized spatial learning. “For a long time, psychologists and philosophers have debated whether spatial thinking,"
-    publishedDateTime: 2022-08-12T17:44:00Z
-    webUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/"
-    ampWebUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 55
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/08/5eiuy2022080906184220220812170241.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
     excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students' brains while taking a course that emphasized spatial learning."
     publishedDateTime: 2022-08-11T23:06:00Z
@@ -44,6 +28,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 33
+  - title: "Brain scans reveal hidden shape of thinking, predict students' learning better"
+    excerpt: "Magnetic Resonance Imaging (MRI) scans showed changes in students' brains as they learned the course curriculum, and these changes were compared to the ways that learning is traditionally measured (e."
+    publishedDateTime: 2022-08-12T17:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220812/3972576.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 15
 
 secured: "4JrBobFUTq7Fc0bkjMUN3eEmco0HE4ud5n2l86AfG3mobhAlbU0S8SkmNfG9lrX4ztcB9QV6FCRqz7A//N6n9FA4H+x19//nKx9Yog/WjsU67ZM85lu9UVDkeVz2buiGash3c8YApjjQNzyh3O1ulySJGLPOan2FC0aTU2OpBnHZHCsp97tApbJQwM/V8nS0B/UYDPZK/s7CxzaskKKkHUyYhPEwDMsi/9mrLYfj6316N6zBIjOhHhe6ZSdrCX3lnW2p0D3eKrf3fcPiBgMLkw/i62aSv6WayhResllxA4HUvqPFJkEBESMeBA4gnpH49DVuu2OnCESvu5zR0k1TaIXAD9Bk/4Bn/VjfW7wJEPmIf1LQ/4Cy5vhGQJbLQ5496Y8Jen49Y2Rrmt8qfa6TI3jZVIV4k7xD/+NaBWLSdegBKJbZnSbzq9gBvAjxz0HKiM00zN56zSkGxMe+Hd7Hfp/M6Pv5ETesSpvEX8fbhi9XMq5LLyIYWi8whNx65iffpMnPBFklkIRdp9D2Nfho/w==;I2zF0AKWzDjrM6RZ4XQgkg=="
 ---

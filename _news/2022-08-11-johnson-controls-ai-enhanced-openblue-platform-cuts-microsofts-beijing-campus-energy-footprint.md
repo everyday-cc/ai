@@ -24,6 +24,17 @@ images:
     height: 311
     isCached: true
 
+related:
+  - title: "Johnson Controls Implements AI to Achieve 27.9% Energy Savings"
+    excerpt: "Johnson Controls has partnered with Microsoft Beijing Campus in order to retrofit building operations, achieving 27.9% energy savings and ensuring key equipment uptime to 98%."
+    publishedDateTime: 2022-08-12T18:32:00Z
+    webUrl: "https://www.environmentalleader.com/2022/08/johnson-controls-implements-ai-to-achieve-27-9-energy-savings/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 19
+
 secured: "L0b49jWAV3zDbwQ49Yx+R7BsJ3x1i8TD/ln0UydpJGzuNsZNHYFue3kimpl2Bk1Na1ANnyWyO5VTZZRHmQZczmn+k6eZF1XC0+cDbPpOSHdW7XCj8Lcpz0p97rTX2njOWQLl1pfyvZFeKI7fB2Jv/Iig3UU1CUk2ooYlbW0zzgau2fSdzMcDIdAUS+4c24+UetlT7jXKU9Umq4aLhVWC1wpqO8jnR5+4+sVpwTCtWYU8fP8kQxmUFTuNoiHbI8Oc+/7uA2Y2jhk1Oqfb2k0YtkAjxE6Ipboc/BIdvQQ7eFngvifIpyU6shV+PW3NjGfykq8q/uIqQTS0k4Ayt++mURtwy2T9TinMCxFQqxJE6sLskeJ9W8UqLNMN+VMzQfPnxOPid7rtd+OsStkVwdj1wS71xZDIwIYTYlYtyuM2yN9j2BYIL4Jz2Sa7zpEZJxf8CEV64NL59nr4LdXgpnLL3mfJOSz4QFbfZd8JIRyyPLNa3BWkCiDM/FzwaraajIaMLgKRysXfizcEabIeJ0ISKA==;gVkxqqDkqp4qFEzchdiR/A=="
 ---
 

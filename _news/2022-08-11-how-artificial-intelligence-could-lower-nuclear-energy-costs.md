@@ -66,7 +66,7 @@ related:
     provider:
       name: Power Engineering
       domain: power-eng.com
-    quality: 19
+    quality: 21
 
 secured: "5njcp+vjoEm5agUHqIFWDuavyfxr9E4TRTFYjNgkm+DTseVkLfUeQ1o006ilmnTAhUuTPnP+ELy3NLN4E/n7l5nTGd8NJJRCc0F7HPpg7rqtr0N+RDvD3UmrIO7tR4Viuvc0geJ4iGbveEJzTGrmo9ChlW3c1H/mO8Dshq8KHhZWfPh3BhFWDv9k6dUMoBrzRjhzZZ6NDHBTvtlT186uKobTehGM1R3H1nFIkieEjchTv5iowaUo1ksF+bIoXcpQFd70uPr2ACCRUH/3RfhvZzUgpd1M1/I8kZwRPwRxMX8lRIJstjHNH/ZzjbW+596pA/ZYrTq7zFY/izLM4x4niY4mUNHvjAB3U0naSYtuYCQ=;TH6XFLPkaGtvxu8pe0P+Lw=="
 ---

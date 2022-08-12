@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/educational-robot-market
 webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-worth-us-332774-million-by-2028-exclusive-research-by-the-insight-partners-2022-08-11"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Predictive Analytics Market Worth $38 Billion by 2028"
-    excerpt: "The Insight Partners published latest research study on \" Predictive Analytics Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component [Solution (Risk Analytics, Marketing Analytics,"
-    publishedDateTime: 2022-08-09T12:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-predictive-analytics-market-worth-38-billion-2028-204-/2022/08/09/9652572.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "jtwYssgKaIEUjrDgQLaTvoEj1b+0Myqle8r5JeyCFuS/mFKpYBFmcczz+yg2yJ9JacntrvDSPkkYvbYczK+jbtyLHMI3FyJRWTyjS7RwbeDrJRuk9CVOYa5UUZgl8aeYXaHFrZJP6oydvh0tXOwkchKnPGC982yZSsR0ZHrj0S2feNTXAkK1Yldw4ztszso3Dz1cT0bJ0uNe1wknNegn+0x6lB4wSXmJ1OTwXxqYtf0B1RwO2CAaq+l2zZ1PHA59SXuDG92v6DG2ao6wX4o7fd3bEYn3/D3AJYRyVnP3itMwsglNA8DSULBluz2DZQDy4ri7FVwKgP3txpZb17Kknt9LU/EYUS79YJjJIhiXsoY=;eXScTiFpxkehNVwJ42o+bA=="
 ---

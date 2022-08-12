@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Filings buzz in retail: 38% decrease in artificial intelligence mentions in Q2 of 2022"
+    excerpt: "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention."
+    publishedDateTime: 2022-08-09T11:00:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/filings-buzz-in-retail-38-decrease-in-artificial-intelligence-mentions-in-q2-of-2022/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 26
   - title: "Filings buzz in pharmaceuticals: 24% decrease in artificial intelligence mentions in Q2 of 2022"
     excerpt: "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention."
     publishedDateTime: 2022-08-09T11:00:00Z
@@ -52,6 +61,15 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "Filings buzz in the railway industry: 78% increase in artificial intelligence mentions in Q2 of 2022"
+    excerpt: "Mentions of artificial intelligence within the filings of companies in the railway industry rose 78% between the first and second quarters of 2022."
+    publishedDateTime: 2022-08-12T05:00:00Z
+    webUrl: "https://www.railway-technology.com/dashboards/filings/filings-buzz-in-the-railway-industry-78-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 19
   - title: "Filings buzz in the aerospace and defence sector: 332% increase in artificial intelligence mentions in Q2 of 2022"
     excerpt: "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention."
     publishedDateTime: 2022-08-09T11:00:00Z

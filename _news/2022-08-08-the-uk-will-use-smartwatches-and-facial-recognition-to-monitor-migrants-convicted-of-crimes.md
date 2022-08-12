@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "UK officialdom have warm places in their hearts for live facial recognition"
+    excerpt: "Live facial recognition, the most contentious government implementation of AI surveillance, is looking attractive to law enforcement leaders in the UK."
+    publishedDateTime: 2022-08-12T20:41:00Z
+    webUrl: "https://www.biometricupdate.com/202208/uk-officialdom-have-warm-places-in-their-hearts-for-live-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "JjcRY3qPW4UavZWqvlfGIf0sb9rDJDcFY3a/VTl1hGJOZDF+/HF7G/q5ZK7tRJIcMJgMUcamzC5FC4YtvvHqRFX4ID2flDbwlupLwS7Xp+AZ/Tzqt7THlI50H6FmavB0Lu8hQax1x4QgeAqXd4vyzYIBdr9C7OpwnB+U+SDRAFFmrt9/gixW5/jYBbnkUE3CNvThZlfGh7ZsXO0yQKnPLBgde0EvKVfJJo7eBoln5OCk8dpXdhCPrxv9XwxwfESUTks7uUe3eeb/gFXO/nHmwKEAn0dAShZv13rVxgBlkftSrq7H6O4Ydy06vyxFMt/Ozg9GWWWHx37tLvLoddLmTuHJ9dt9+OjomQ0jfpvt410okekxy799VFfHifuhsdEdZo1KIlwmw/YsZHMAwhmdFCB5SVVYYUcF/Aq20YkZ73SCJt+13WsCyAb4Ed2PevqxatOlDOSh9rK5tAmsTg4d3sL5Fd7xPr5wEPm37oLKyvUdj4idHWFj9CVQJR1dgnCDNIqx4KvvzOmG15RF/7j8kQ==;1HwzlvfYjy7IH1exDVaMpw=="
 ---

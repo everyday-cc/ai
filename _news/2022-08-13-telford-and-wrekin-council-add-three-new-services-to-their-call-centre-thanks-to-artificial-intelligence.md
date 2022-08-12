@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T19:30:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-12-telford-and-wrekin-council-add-three-new-services-to-their-call-centre-thanks-to-artificial-intelligence"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-12-telford-and-wrekin-council-add-three-new-services-to-their-call-centre-thanks-to-artificial-intelligence"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 800
         height: 522
         isCached: true
+  - title: "AI may come to the rescue of future firefighters"
+    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
+    publishedDateTime: 2022-08-12T18:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161024.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI may come to the rescue of future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
     publishedDateTime: 2022-08-10T19:47:00Z

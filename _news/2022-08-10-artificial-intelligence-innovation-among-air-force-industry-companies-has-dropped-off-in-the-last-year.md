@@ -47,12 +47,21 @@ related:
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
         width: 1038
         height: 778
         isCached: true
+  - title: "Artificial intelligence innovation among retail industry companies has dropped off in the last three months"
+    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://www.retail-insight-network.com/analysis/artificial-intelligence-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-three-months/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 16
 
 secured: "AS79h/Xn2EyBxGn2p3II6AxjnEKr0AGmoJ5UAySF8gEkVDEML5pL8QGuqI9qS8osvHNjEUloM+W1iWJdiYqTFF2Fjxp11wdM8ay4QrnhAFsvHGVlN2s5V3+/27RnN/AAmU68HrMcv9T7t5rrTKuimt2lgk9mvzP0hX5jEfF+b0CTefpWMC5GsrYnOLpjqUIRu4+D+YUt/MXIySrlmA0w2+UheSLw1TitkcwB9x109o5jASWZKrLfwQQZF6D01za3koIvDQLbdcpIk/hcEJGd95bwv8uzef162fdcKpEayN0t4Hw9wNZVWnJRJGlywsW0LTLWok5Ts64k5xu7WrbAcpu1gYzoVsp6YJCTIQGNDDt+FEO0zZ4IU5MjvGtrmM/zcq6M4lQBABCBHBjEZYbuYeUg2eA1rInRh+gxU1xCy6WEsb71uYKfOlMY8bzdfbnHE4H2+KAfzMAObDQaxA9F3raM93Flcb+7SrkEOXnoutCB6k1vYu2PjpadAOShrcaBRFH9MzcmaRg//JnTMH1XPA==;wiZEYcV4vUMDpEEqqWLpHg=="
 ---

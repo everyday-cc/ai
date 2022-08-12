@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
 type: article
 quality: 118
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 1512
         height: 1722
         isCached: true
+  - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
+    excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
+    publishedDateTime: 2022-08-12T18:15:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/08/12/boston-dynamics-ai-institute-kendall-hyundai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
 
 secured: "BA+z+LIvPjXL0RM4NukRFS3I1yf8u0b4X1dul8eDXz/2wgExKPF/X6Gb7bwY83vNVtgCpgIH/WM8kADAK8l5xV+A7uQYGcRRvagp1/BeoEnD58tTeWT4mB7TB542qwvGK2+MZ8H1Ir5Npi8wjTEZOaVDzLjRrMyb5VJ6pM71TGuCmI5y6zfDSQ5jOjcX5RoDI8s+/J7UmwjbnK7U6RpRYCZyeLHfvmXSct+lOFKW55mQWtW94XSLjrQo5YY4MA68xqd/tBkxIbbru9kZ3MGKAoiA+lAOSeiS7gJcoFfCxdt2iwfqheANJEU63cjY6S/C05McFBT+VblLMRVtqPMXs7VdGmDu9sJ3BHR5iqjzUr1ETyv/ynORjxjqNfW6f8ZuT3rn1GcmPBVhl8igU8J+78A9wVcmJdp0B+T9UPWNB2xNCtElzKdgTZwhyzeUYP2S/NStl59sqXIgZbo86mwf43QvNj95770glsSf7NHJ0a8fPXU8ku8u9JKBgPgvtGlG2MSBr5LvtBuy6UCbeTXalw==;wHV+/K34Pk1GD+IQji1i9g=="
 ---
