@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "OneMeta AI Announces Expanded Vision and Market Share"
+    excerpt: "OneMeta AI is expanding its products offering to provide unparalleled opportunities for organizations to accelerate their adoption of Artificial Intelligence technologies in order to be more competitive in academia,"
+    publishedDateTime: 2022-08-11T16:46:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-artificial-intelligence-359a38d93c7bc03544cbbc368258734d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
     excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
     publishedDateTime: 2022-08-08T18:20:00Z

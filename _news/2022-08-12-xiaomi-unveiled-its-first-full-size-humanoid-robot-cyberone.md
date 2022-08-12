@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 1194
     isCached: true
 
-secured: "t3oubW/SB//z7lW/EWlCdoFIjSfJqEmfc6RcDuWS6ZP/MqbMPXbzv00SSvpqC5uuPku6hJcVEQPjxmmNI04P1oadA/OiS+0z9/urIjU75d9R7XPm1xOAeljOiqA6gqKO3itmNOXb6WbX2v8GHpVSUV0YciEc1STnj3kZlIy5/r+Mdn2OPdrxpYCTYtAoY/DO0QgTaGFBhBBj9TxO3aKyFFRxF5ch4JWQ7ZBTVuOsDVsxNnXsEA/aEji0nTCWUS1NHBbNjFLPtBjjtriw5vNE3sX31fHjMEMXKXmuL+0x/uLkWNpkr5UVVOJzxmCR41KEMpasWf2shm8zZGuO3J1zkJRQ1XSz5QyyOaZycDtchjE=;xFpQwS0+ny2uWEYs3aD8fw=="
+secured: "cByLuUvYcYOdI9ToawElelTUH/IuDmDnBo4qig0IavFRy2wepB6ZJyAEJqVbArpgfHCM8FkGAwLvHaJlrdoJB7tKhXCodfg6G1wwSVb10OxoygmXouznwBT/qXV9i9tR/2wiyeE3YpdQ2CKbhab+dQ9hzc/lYMeLgBBADyQ2sU5Cu5LM0XfmBa6fBixkCL7O5uSJ62xJxVnWRWxA6dlJn+YoEbjI1a3cqCASLLLEZ8ZUf0HI0R4PFREUYYGaD4oVh9UdCCtcs10wv43j8qmGiEK86OhqhoeE/E3StsiRLFJnRrmYUounVwSugP7M3rCeMcL2YrHG+KnYSyA4bCYVcmQY0US/IyT9C68ez0OreAUASDBPRpyctiRSSS8y5fic6vRGC/VorZ58TpfgGY8wRu0weJ4OPhBfN7kL/qESojKJRuDjSnMswuXEn3J7PR1+H/XDuWplFxxOqjCHL1BascZCIWzdU2uipVxTTH9ywpG1c2e6RdsPEY8wW4pKA56e125EfMCv4jdWt/4SDDgaeQ==;bwOgysltJgpObQhWi4LjCg=="
 ---
 

@@ -137,6 +137,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
+    excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
+    publishedDateTime: 2022-08-07T14:39:00Z
+    webUrl: "https://www.benzinga.com/news/22/08/28389257/mark-zuckerberg-is-a-bad-person-he-is-creepy-controlling-this-is-what-metas-new-ai-bot-says-about-hi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28389257"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28389257"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2022/08/07/zuckerberg_1.jpg?width=1200&height=800&fit=crop"
+        width: 563
+        height: 375
+        isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z
@@ -152,6 +168,20 @@ related:
       - url: "https://wp-assets.futurism.com/2022/08/facebook-meta-defend-racist-chatbot-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
+    excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"
+    publishedDateTime: 2022-08-09T02:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/when-facebooks-ai-chatbot-made-fun-of-ceo-mark-zuckerberg/articleshow/93442198.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-93442184,width-1070,height-580,imgsize-71276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
   - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
     excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"

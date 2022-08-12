@@ -58,22 +58,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Hindustan Aeronautics Ltd developing AI-driven multi-role drone for surveillance over LAC"
-    excerpt: "The drone will be able to carry a load of 40 kg, including missiles and sensors, and it is being created in response to the military services' need to maintain a close eye on the hilly terrain along t"
-    publishedDateTime: 2022-08-07T10:51:00Z
-    webUrl: "https://www.firstpost.com/india/hindustan-aeronautics-ltd-developing-ai-driven-multi-role-drone-for-surveillance-over-lac-11024361.html"
-    ampWebUrl: "https://www.firstpost.com/india/hindustan-aeronautics-ltd-developing-ai-driven-multi-role-drone-for-surveillance-over-lac-11024361.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/hindustan-aeronautics-ltd-developing-ai-driven-multi-role-drone-for-surveillance-over-lac-11024361.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 48
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2021/09/drone-land.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Council Post: Coming to Understanding Why India’s Diversity Requires Large Language Models to Advance AI"
     excerpt: "Across healthcare, retail, telecommunications, customer service and operations, large language models (LLMs) are enabling Indian government organizations, research institutions and enterprises to overcome communications challenges and find new connections."
     publishedDateTime: 2022-08-10T09:32:00Z

@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”"
-    excerpt: "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,"
-    publishedDateTime: 2022-08-07T10:16:00Z
-    webUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
-    ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+  - title: "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’"
+    excerpt: "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch"
+    publishedDateTime: 2022-08-11T22:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 102
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 61
     images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg"
-        width: 619
-        height: 374
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
     excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
@@ -64,36 +64,6 @@ related:
       - url: "https://static.india.com/wp-content/uploads/2022/08/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
         width: 304
         height: 288
-        isCached: true
-  - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
-    excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
-    publishedDateTime: 2022-08-07T14:39:00Z
-    webUrl: "https://www.benzinga.com/news/22/08/28389257/mark-zuckerberg-is-a-bad-person-he-is-creepy-controlling-this-is-what-metas-new-ai-bot-says-about-hi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28389257"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28389257"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/08/07/zuckerberg_1.jpg?width=1200&height=800&fit=crop"
-        width: 563
-        height: 375
-        isCached: true
-  - title: "When Facebook's AI chatbot 'made fun of' CEO Mark Zuckerberg"
-    excerpt: "What do you call an AI (Artificial Intelligence)-powered chatbot that reportedly doesn't have very pleasant words to say about the CEO of its parent c"
-    publishedDateTime: 2022-08-09T02:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/when-facebooks-ai-chatbot-made-fun-of-ceo-mark-zuckerberg/articleshow/93442198.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-93442184,width-1070,height-580,imgsize-71276,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
         isCached: true
   - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
     excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"

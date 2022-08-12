@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/news/artificial-intelligence-shows-what-aus
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/artificial-intelligence-shows-what-australia-will-look-like-in-2070-20220812.amp.html"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

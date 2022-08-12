@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
+      "title": "Chinese carmakers jostle for edge in autonomous driving",
+      "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Xoriant X⋅CELERATE IoT Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Azure Machine Learning, Azure Cognitive Services, Azure Cosmos DB, and Power BI. Xoriant, a Microsoft gold co-sell partner, is accelerating the deployment, development, and optimization of ...",
@@ -1094,40 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Botminds Document AI Is Now Available In The Microsoft Azure Marketplace'",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to Botminds Document AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://menafn.com/1104587291/Botminds-Document-AI-Is-Now-Available-In-The-Microsoft-Azure-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

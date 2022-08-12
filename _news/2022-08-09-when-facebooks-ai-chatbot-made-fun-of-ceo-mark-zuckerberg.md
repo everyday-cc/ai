@@ -24,51 +24,117 @@ images:
     isCached: true
 
 related:
-  - title: "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”"
-    excerpt: "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,"
-    publishedDateTime: 2022-08-07T10:16:00Z
-    webUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical"
-    ampWebUrl: "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1"
+  - title: "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook"
+    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
+    publishedDateTime: 2022-08-10T23:48:00Z
+    webUrl: "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 102
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg"
-        width: 619
-        height: 374
+      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Meta’s AI Chatbot Calls Zuckerberg Creepy, Manipulative And Unethical"
-    excerpt: "Meta's new AI chatbot seems to have evolving opinions on CEO Mark Zuckerberg and Facebook in general. The real question, however, is whether the chatbot is inferring this on its own, or being taught."
-    publishedDateTime: 2022-08-07T16:22:00Z
-    webUrl: "https://hothardware.com/news/metas-ai-chatbot-calls-zuckerberg-creepy-manipulative-unethical"
+  - title: "Meta puts its latest AI chatbot to test"
+    excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
+    publishedDateTime: 2022-08-08T07:35:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59303/content/meta-chatbot.jpg"
-        width: 708
-        height: 425
+      - url: "https://th-i.thgim.com/public/incoming/pj6una/article65745007.ece/alternates/LANDSCAPE_615/2022-08-03T124454Z_1298068913_RC2ZOV9F01JA_RTRMADP_3_INDIA-PRIVACY.JPG"
+        width: 615
+        height: 383
         isCached: true
-  - title: "‘Too Creepy And Manipulative’: Meta AI Chatbot on Mark Zuckerberg. What It Said About Donald Trump"
-    excerpt: "According to Meta, BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback while avoiding learning from unhelpful or dangerous responses."
-    publishedDateTime: 2022-08-09T13:18:00Z
-    webUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/"
-    ampWebUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
+  - title: "Facebook’s AI chatbot still thinks Donald Trump is president"
+    excerpt: "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online."
+    publishedDateTime: 2022-08-09T12:02:00Z
+    webUrl: "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/"
+    ampWebUrl: "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/"
     type: article
     provider:
-      name: India.com
-      domain: india.com
-    quality: 45
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
     images:
-      - url: "https://static.india.com/wp-content/uploads/2022/08/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
-        width: 304
-        height: 288
+      - url: "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
+    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
+    publishedDateTime: 2022-08-11T16:57:00Z
+    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
+        width: 1267
+        height: 713
+        isCached: true
+  - title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
+    excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
+    publishedDateTime: 2022-08-11T22:05:00Z
+    webUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/"
+    ampWebUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 51
+    images:
+      - url: "https://forward.com/wp-content/uploads/2022/08/Untitled-design-2-1.png"
+        width: 2160
+        height: 1200
+        isCached: true
+  - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
+    excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"
+    publishedDateTime: 2022-08-07T11:47:00Z
+    webUrl: "https://www.digit.in/news/machine-learning-and-ai/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing-64601.html"
+    ampWebUrl: "https://www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/machine-learning-and-ai/64601/blenderbot-3-metas-most-recent-artificial-intelligence-chatbot-begins-beta-testing"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 50
+    images:
+      - url: "https://static.digit.in/default/c0271e9d0ac9850c0a8905f3d5a4e03a833add3d.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
     excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
@@ -86,56 +152,68 @@ related:
         width: 563
         height: 375
         isCached: true
-  - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
-    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"
-    publishedDateTime: 2022-08-09T16:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-757054"
+  - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
+    excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
+    publishedDateTime: 2022-08-10T15:33:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-meta-defend-racist-chatbot"
+    ampWebUrl: "https://futurism.com/facebook-meta-defend-racist-chatbot?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-meta-defend-racist-chatbot?amp"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 33
+      name: Futurism
+      domain: futurism.com
+    quality: 44
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/08/09/1307143-meta.jpg"
-        width: 1200
-        height: 720
+      - url: "https://wp-assets.futurism.com/2022/08/facebook-meta-defend-racist-chatbot-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "CEO Mark Zuckerberg is 'creepy and manipulative', says Meta's new AI Chatbot"
-    excerpt: "The chatbot iteration may be new but there is nothing special that it delivers. It gleans information from the internet and adds nothing more."
-    publishedDateTime: 2022-08-09T12:26:00Z
-    webUrl: "https://interestingengineering.com/culture/ceo-mark-zuckerberg-is-creepy-and-manipulative-says-metas-new-ai-chatbot"
+  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
+    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
+    publishedDateTime: 2022-08-08T14:22:00Z
+    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 14
-  - title: "Meta AI chatbot says Zuckerberg ‘too creepy’ and Trump will always be US president"
-    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot 3 thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and Donald Trump will always be the US president."
-    publishedDateTime: 2022-08-09T22:30:00Z
-    webUrl: "https://indiatribune.com/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president/"
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 36
+    images:
+      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "What will Facebook do?"
+    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
+    publishedDateTime: 2022-08-08T16:01:00Z
+    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
     type: article
     provider:
-      name: India Tribune
-      domain: indiatribune.com
-    quality: 13
-  - title: "'He’s too creepy': Meta’s new AI chatbot shares its all too honest opinion of Mark Zuckerberg"
-    excerpt: "Meta has released its latest AI chatbot to the world. And of course, people immediately started asking what it thinks about Mark Zuckerberg."
-    publishedDateTime: 2022-08-08T10:44:00Z
-    webUrl: "https://www.euronews.com/next/2022/08/08/hes-too-creepy-metas-new-ai-chatbot-shares-its-all-too-honest-opinion-of-mark-zuckerberg"
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 24
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
+        width: 1008
+        height: 529
+        isCached: true
+  - title: "Meta’s new AI chatbot thinks Trump is still US president"
+    excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
+    publishedDateTime: 2022-08-09T12:10:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/blenderbot-3-meta-ai-chatbot-facebook-donald-trump-fake-news-elections"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 8
-  - title: "Meta AI chatbot says Mark Zuckerberg ‘too creepy’ and Donald Trump will always be US president"
-    excerpt: "Meta’s newly unveiled artificial intelligence (AI) conversational chatbot, BlenderBot 3, thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and thinks Donald Trump will always be the US president."
-    publishedDateTime: 2022-08-10T12:28:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-ai-chatbot-says-mark-zuckerberg-too-creepy-and-donald-trump-will-always-be-us-president-bde5df2f-c896-52d9-9ee6-cd25e5f552f3"
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 19
+  - title: "Meet BlenderBot, Meta’s AI chatbot, that loves slamming Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 7
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
 
 secured: "AiY6Xf0s7SD4g9899LuQhJc4Q/0XnOc+g7B2ZF9l146sXxnbnxj650dJ40ERSureZF1jmP9L7NVx78OZC3ce6uC89J1j+lmmKTwjoUTZmqnV7DEEcXSPqRpjOPO/4McP7VS//F7kHm/s8pBQ1dvi8yMAkFETasNEgk/ejkMxbQdu3hS3zFyFHA4wgRJ2XPJX9fB24YcRX7+BURD9QsM/esB6OxBzjUBtOe4YrDroNihKvzuuFOLxBlqX4JTK4iwD8SRUvN/kqpb6D7oJbPc9JXfZ66h8Xng0jN3vRNEfwjoZEBPPINQQyu/6DYfNTcDbw9QjS4VNycq5XU3Uca6zvpWpdQFewfqlNK89+zSphbQ=;B+NluwAza9H9homGCZgQfA=="
 ---

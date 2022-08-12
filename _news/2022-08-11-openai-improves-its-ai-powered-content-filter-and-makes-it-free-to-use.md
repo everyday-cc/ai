@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-11T01:43:00Z
 originalUrl: "https://siliconangle.com/2022/08/10/openai-improves-ai-powered-content-filter-makes-free-use/"
 webUrl: "https://siliconangle.com/2022/08/10/openai-improves-ai-powered-content-filter-makes-free-use/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/content-moderation.png"
