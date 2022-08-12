@@ -103,20 +103,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "Researchers Develop Skin-Like Computing Chip That Analyses Health Data With Brain-Mimicking AI"
-    excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."
-    publishedDateTime: 2022-08-08T00:39:00Z
-    webUrl: "https://www.techshout.com/researchers-develop-skin-like-computing-chip-that-analyses-health-data-with-brain-mimicking-ai/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 42
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2022/08/skin-like-computing-chip.jpg"
-        width: 690
-        height: 460
-        isCached: true
 
 secured: "WcA98Q45+QrUP3K10pEDwPYTjLoPRLNovOnF1bk2JG+uEGiW3iE8IjV72KO2YQ4m1Kz7ZbMOXiC4QnfTh0BScu7GfPtT/vF6XpqwEmuQFfwmO3sXJT/vKQ0LhZlFKf7GF6vMD2GVDQdq60+ugiB3QQNkjd44fUIi3tfDityy6TCAWq5g6LllSNzBz6DrITB9AjUeNz9bEG6T5Lz8DzGXtoikGnIAFvQG0pmC0Lc9Lu9qCEyWRc4iQJ0xrrwBCk854VXkwiV9SizbilHrp9x0ua8cqqa/mNsk7+lEsgMCVsdEDPIGQFY6jUgiHURCGGzavclhd2t2RoIGsGJmS0qrMkb0QARIWO14LWWsenOX5w5fe4+Fzkrm5uuIY+TaIsmK0+p7vT8deZzG4M7JOFwkVB7F+//f+Ivxqhhk/gckW6cSS8d/fPrDJ3fYLR+OOw+qk0CqihTjND8oIVQIg9ydycAWck9A/pWvfhFcOKFgU2K8rNuMsHs1zzL4ETdD9lSfrWU55UTZlONySZYMFAJBzw==;CXkrRvITp7VtjEqPcWsrzw=="
 ---

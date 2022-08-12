@@ -95,7 +95,7 @@ related:
     provider:
       name: The NewsMarket
       domain: thenewsmarket.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
         width: 1164

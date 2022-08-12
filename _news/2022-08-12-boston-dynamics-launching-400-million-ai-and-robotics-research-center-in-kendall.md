@@ -79,7 +79,7 @@ related:
     provider:
       name: The NewsMarket
       domain: thenewsmarket.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
         width: 1164
@@ -125,6 +125,6 @@ related:
         height: 1722
         isCached: true
 
-secured: "dYxmhMz6l1KgHvE84lgJG8bUDvFtULqpW4ksHesAwx51ibe1Sz7Th5HHS7GRue3JYLGDmdhMfR/RusFwoiuK0p1rYMhnHmWkW8ScQJ3yJ9r3lziohqadsWyuLVYYhU5J+2m3st0WANqtqTQXckbKHMIrDt9wnVpTzpISvRXUSs/fSzpqicgLppWp1y/OrLweMTZoliQaECJ7Sl682KMSWbnAYs4vWuX9inPVWgTX7DChwhSj3h4f7AU/LXMkWsYu9cjfl5NntsUqzp9ZEojQ3okiL8HHaYZgGeuxxTDnEoboacLO1/PbmhbG27K0eGyaNbvKcz/vOS3frGDXD60muPWL5HKcflM7kuMXom9E6nw=;hkk6qwZjrdCMw+CVRR+0Ew=="
+secured: "+jvvUNwQ9anwtHxcHvYEKtnBHeLHp/Aa7Yqqiji8pgdP3hEGIyXRjbfzswNf0CnxLksEQAZ9Uhiyz4Ub+wxcu+fCTA+1mAjnShLD+jnzoxCJzEu/0N/b+wRWb7NTWF4956FFYlN67BdAxG49mWpMl2oQKu5tj+2txIFJprRanimOZay0p4g3xTmAbUJLwh+HS/ZqW+bJPjLZ8O/pn977kuvz09ox8jSbySRvrW8RSsmD4JbhmDY+YkRYHm0MxLnbDVL7PlBx9VzDfoOGIJc+kfmD3US0QS7jv/ek/NsHMRWPgUuOjiIkrmEbMZ3uq8o+9nAdIGxWx36vh9febbSjOgEAu/x+dN53P8KSE2jCrLqds5fJbhWLVGUv+3bt0eewQPVlox4LGdx7r9Xd2/KtOGE7Mu6UAbXHqxjHcu6fvUWhYPeYoGDUhOYTIQTtoi6x5TiTtBtztoHvXFMICloftp6lFdnJoNX3MD1oT9hihfYvdHmjbFY5ct/iVCX/qsBvfbmJHanE38CMzEJcARiD0w==;dJsavxXCXy/LHcJXwQtCfA=="
 ---
 

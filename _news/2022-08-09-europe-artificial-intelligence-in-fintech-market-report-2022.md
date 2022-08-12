@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
+    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
+    publishedDateTime: 2022-08-12T17:27:00Z
+    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
+        width: 531
+        height: 250
+        isCached: true
 
 secured: "6JgPNDelvdR+pUyI1xsaRihCISQ88kEMYNZlqtlPJdyVbsRduZqci2+a6LDRj8UhgGRGSejAMOf1kxfqyA9D2vCCTvrIwSojuTDYhn8NsYvTocumMqP3r2NNset55u3TW3zejiF7350YApCTa+Ahfa4Bg5+ytfC5jX8HrFSPNM8SbhgM1EggX4fbFSvQDvim+hCOrWDvfzlnh6r7YRl5tGBQl/5Id1CjiHVvIeDh9+aBHuoq3Hox8SN8saixTLBcpgkzVQpWtREye2p5wxKJaST43wdp0DTt+zwu2Tkfl493vAQl95u5QgtoWcAZzxofo9UXSZYp/WtxZu2RpNcJF8PomdQ8ims5/KEHjyQzd7Y=;eQLoX1ZGb0gfjnBSe+LNJA=="
 ---

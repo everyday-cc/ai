@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/mdtv/critical-care/videos/artificial
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "UCLA researchers use artificial intelligence tools to speed critical information on drug overdose deaths"
-    excerpt: "Fast data processing of overdose deaths, which have increased in recent years, is crucial to developing a rapid public health response. But the system now in place lacks precision and can take months."
-    publishedDateTime: 2022-08-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961030"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "prpMfCY4SB/ylOeZXYCW3wDpLJiJogII9se6csCMMMVBEU3BSmI6SKqphHhaP0UfbGZQsPgHvU4rUA4Xq8jDUPIIYz0MtZ+VOUBZZhmqB8DD6NPgSB/qtbZdJs3uoALNqsbG9vqikZAuKF41C6EUMoocKFQWM2YF8Vt7DGbnQZbHQyqJyVoZilBOgyWha5+uTqNB7i3ZpSkzlMEnT3w2Q3a8Y0kbcRoTo/VvIi52iLaeXLZbOAedsid7QU0v0XtWVVufXlcNlL9QI8HNaywPB3wzWoYbXNgFkrSN9bWv2vyBRjfbK17egkB7o+7n9tSswTMALc7UK5JIM27ByHEs1IT8lVqybqN1FeLluTxJ1WI=;kYGlqQqC2nnP//R6K3w2og=="
 ---

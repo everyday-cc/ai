@@ -98,7 +98,21 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Move a little to your left. Turn your head. Perfect! Recreating crimes with face biometrics"
+    excerpt: "Police in India can have the subject recreate the pose of the person they are looking for and compare the two pieces of evidence using face biometric systems."
+    publishedDateTime: 2022-08-12T15:36:00Z
+    webUrl: "https://www.biometricupdate.com/202208/move-a-little-to-your-left-turn-your-head-perfect-recreating-crimes-with-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/12112547/pose-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
-secured: "gg4FptLPJqRWVlPOuRKdQHdvVHMTvxQrZ74ZSZs6KVfP1CThyo+gjFAyauNEeRNjRnI7y507kmjZB9hutD/Mr95TUHd6GCQQnBNKDUzA7apBE7YC+hJRF7qezsk6K/fKWI0zhaYGSGqSlcULUO1PUUj6e/QNvJy4U6FXzRT2i+b8sllNTfdw157Vu4Pzvdu2CL8zZbapfWQxBiH77mSIsesgMGEIUtSh+CIEWaPo47PRhgfKcthqXjol66KnQar4NOZQH5JWsH6kiDs3QuaAvt0tRPoF22ZMldXXzk7fqS5IeQ9TjXKBDGmOIqZbtkV5Nv9ZizD8PM3UkbgMwxGFLzqhuZajFFub3jTlWl+sMJw=;rqAs/GlHLjgTP79zrxZKng=="
+secured: "hFH97eLlea1bd1iB3+p14D6jxJl7hHdyUGrR4p2DkID5QHY+ousX5u8c+30jXO2EGU2HL0BucIHxO6uPj1fUg7J580G9HFSpS+3xjXKY0P+SkOnNxJQeTfignS++RTCy/zD9YIMYlh5iNngfdY/hhTb/1HvYkHSUhEGbuBt3Fci063pOQX8RhAA/RlGCxmm7r9Jwr2Y8zxGO5RpxTH84AgN8jrnIBIubPrzlSlFfbKnoVP04v7kKWd1sKCAZONc42bD4Z23+hYVmNFH+ddjKoS8uPcZkI4Z0HFRFVNn19zdOhEfkRrXq71JaRove5xaUpGyIk5iIp9r5q9QmM/0frPkOzWlgdms0V9T9FIwGsAv5xoT2eUTSnvTZR0yfsawLuv5g4FP4yFMTHYIIfxxZnsrh3BzHDeNLvionDJ4o7pIEOSisORLRXhNztzuts3DOHFTZMIRuAxnhJFX7qX2x8+ouUuxMU8D20IbdgAHE68sD6AMQLKdN1hr+PZTDtSKo5m6Cdi5cM3nlZAh8dRUXYA==;abN8FP1wnTZ1a6J9SBQa8A=="
 ---
 

@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-08-12T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer ..."
     publishedDateTime: 2022-08-08T15:00:00Z

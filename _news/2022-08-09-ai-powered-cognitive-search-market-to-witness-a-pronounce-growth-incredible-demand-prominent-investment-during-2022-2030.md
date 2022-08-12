@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
+    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
+    publishedDateTime: 2022-08-12T17:27:00Z
+    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
+        width: 531
+        height: 250
+        isCached: true
   - title: "Europe Artificial Intelligence In Fintech Market Report 2022:"
     excerpt: "The Europe Artificial Intelligence In Fintech Market is expected to witness market growth of 16.5% CAGR during the forecast period (2022-2028). The market is being driven by the growing need for process automation among financial institutions."
     publishedDateTime: 2022-08-09T15:06:00Z

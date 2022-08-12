@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Getting more men into nursing means a rethink of gender roles, pay and recognition. But we need them urgently"
-excerpt: "Research shows low male participation in the nursing workforce can stem from many sources, including reticence by career counsellors to recommend nursing as a career."
-publishedDateTime: 2022-08-11T23:18:00Z
-originalUrl: "https://theconversation.com/getting-more-men-into-nursing-means-a-rethink-of-gender-roles-pay-and-recognition-but-we-need-them-urgently-184829"
-webUrl: "https://theconversation.com/getting-more-men-into-nursing-means-a-rethink-of-gender-roles-pay-and-recognition-but-we-need-them-urgently-184829"
-ampWebUrl: "https://theconversation.com/amp/getting-more-men-into-nursing-means-a-rethink-of-gender-roles-pay-and-recognition-but-we-need-them-urgently-184829"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/getting-more-men-into-nursing-means-a-rethink-of-gender-roles-pay-and-recognition-but-we-need-them-urgently-184829"
+excerpt: "Demand for health care is soaring as the population ages, medical treatments become more widely available and more people live with chronic and complex illnesses."
+publishedDateTime: 2022-08-12T15:22:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.html"
+webUrl: "https://medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.amp"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/474236/original/file-20220715-11-w83sqo.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/getting-more-men-into.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "tuWebmIPKkr4oXhCVd9nVX6c2t4Qgq7N64+YFR7rOwfUJDDd/5n0YmqbNCNgIg8jKz2rlukKrRfqq57+nSMlBaNXT6BpVEze3CKFXMg2Lg3g+hqx7YHXe9pkJ+VIA/JzAp2seauA304KZ1qxsILIWKjkQ46RVHKhIcT5YWbkRD0fpTfZmf0+SA/3TrFQI6OZgM4guxHTzJC6kJDzXoF7LyG83Fi+487OsEyc26jmzbkZ7Aqfg+61uRVMyPm8LzfbICYnVAozbTqsVkVb/1ojC3To9agm2SFgGX/+FK7QxmIQS2QhnOK1iZA0hl8ENMkAK1ZAu8Dhfq2reIpmDR7wZqkYBxRjjIpMetQpGRUmYeM=;y68Zh+hs4BPvLBNBSaRd7g=="
+secured: "pOYw3l9PA3eFeykY9BQSk5Fd7M+0feAQzbmXMNKsZlm7NI6/7T5+JVmzIIwKbRL6yOU+LQVBu1lcN8ADkxmzKRwZRHd66CXMZdddRARb1jUhkvL7DgQR9M5uX08AXVD9hazY5lOqOBlkNr6xgcJbcVBn2FeGD7YTWoRLovria5geY7bklb8Aop/AjKJt4CgsWylmyvYYnv9xTPUkkZ+CSRA5QVGUCdhHwWlCiBcX2MuH35gRamJc76QkCdrQpxJKj/tY71gQhFAUlIJG9MztIC3IURHcekETvVs4/eWgTq7y8mUtD3pg6gvhY94az/gCoC8y9A3M0PkIwMOixcYyhL1JHwDTe0iraMs0Ytf3bC8=;dYrgZi3C3ZoqB03+n1N+7A=="
 ---
 

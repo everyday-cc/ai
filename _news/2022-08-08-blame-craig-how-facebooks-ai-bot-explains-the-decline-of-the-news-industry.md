@@ -199,6 +199,17 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
+    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
+    publishedDateTime: 2022-08-12T16:06:00Z
+    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
+    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 37
   - title: "What will Facebook do?"
     excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
     publishedDateTime: 2022-08-08T16:01:00Z

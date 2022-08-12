@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Brain scans reveal hidden shape of thinking, predict students’ learning better"
+    excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students’ brains while taking a course that emphasized spatial learning. “For a long time, psychologists and philosophers have debated whether spatial thinking,"
+    publishedDateTime: 2022-08-12T17:44:00Z
+    webUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/"
+    ampWebUrl: "https://theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/science/brain-scans-reveal-hidden-shape-of-thinking-predict-students-learning-better/1080616/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 55
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/08/5eiuy2022080906184220220812170241.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
     excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students' brains while taking a course that emphasized spatial learning."
     publishedDateTime: 2022-08-11T23:06:00Z

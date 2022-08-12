@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-s
 webUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2022-08-11/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Reuters
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
+    excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"
+    publishedDateTime: 2022-08-12T16:47:00Z
+    webUrl: "https://www.techworm.net/2022/08/xiaomi-testing-self-driving-vehicles-china.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 24
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/08/xiaomi-self-driving.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Xiaomi says it has 140 vehicles across China testing autonomous driving"
     excerpt: "SHANGHAI: Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies."
     publishedDateTime: 2022-08-12T01:29:00Z

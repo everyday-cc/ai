@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-mo
 webUrl: "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-monitor-health-data"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/This-skin-like-computing-chip-uses-AI-to-monitor-health-data.png"
         width: 600
         height: 365
-        isCached: true
-  - title: "Researchers Develop Skin-Like Computing Chip That Analyses Health Data With Brain-Mimicking AI"
-    excerpt: "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain."
-    publishedDateTime: 2022-08-08T00:39:00Z
-    webUrl: "https://www.techshout.com/researchers-develop-skin-like-computing-chip-that-analyses-health-data-with-brain-mimicking-ai/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 42
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2022/08/skin-like-computing-chip.jpg"
-        width: 690
-        height: 460
         isCached: true
 
 secured: "dhMmIezJbwoqCytc5pnenuQVxQKnYl+OTCuAa6Vhnffp4Zyb6bVVN6JKz+3k0PkRfIDbcg6bLCX+GBK4zkzaFsvjU1hESaj+LUVNFxd/KhaeyPSdt6ZgB4q6wyL8ZewM4arkFlZSFB07h0Cq+zPVnBuPEia4OzXZ5ediZH8aRE9oJXf+UPgC1HaiR0+eH7e5SWRT4nb+aaEQ++CQ79f1OCX2XV9jLt3YQmOpxoLEiuKR+SpUYI9LARoq0mEMiSmJ7x2+gCy3Cp6A0VA5gHzP/FNzzFcNf2/fdp1HVVqeOhW9kkWzUUYJEXnKBe4rGgZCNPBNPpqIfqU6AUVW3CJdKa2ES1StxhK0S9s0wJxiT9VJpOXwcEIGUxzI7BGyPCpqo7kHJ4C9MQgu8e8kWwUOa4FGkAgiNTL+WWwnsjC9HRJ1qr7yJhpaLI7Ehw54y4jKdLTpcdvPXn3CGwVi2JS9CDB7nIBBxMAL8EZrUZHhRK/Mtay9V5UT9N0LBsiwR2PSQ+ZGNgrmU3qy4W7r6GhpCw==;vUZSZeQ+jWSIZLvA0HJ01A=="

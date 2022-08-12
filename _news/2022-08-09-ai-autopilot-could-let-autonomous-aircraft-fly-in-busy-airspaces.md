@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-cro
 webUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "AI pilot can navigate crowded airspace"
-    excerpt: "A team of researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace. The artificial intelligence can safely avoid collisions,"
-    publishedDateTime: 2022-08-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961259"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/380aa1c9-c0d3-4e06-b327-ab3a9b7027f1/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
   - title: "AI pilot can navigate crowded airspace"
     excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
     publishedDateTime: 2022-08-09T11:06:00Z

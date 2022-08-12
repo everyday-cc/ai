@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief
 webUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief-design-officer-at-kore-ai/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Book interview: How AI can be a force for ‘not bad’"
+    excerpt: "Massive productivity gains made by the implementation of AI come with the risk of discriminatory and privacy-invading outcomes, says Reid Blackman."
+    publishedDateTime: 2022-08-10T14:12:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/08/book-interview-how-ai-can-be-a-force-for-not-bad/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/19039/book-interview-web-hero_3130601619884992769.jpg?crop=0,0.11375,0,0.3940625&cropmode=percentage&width=1200&height=450&rnd=133040261680000000"
+        width: 1200
+        height: 450
+        isCached: true
 
 secured: "XtZ6owPUliKe6ZcTk/dURTSNPSt7mIAg8dxdO9YmduF99JKel6V5UmL44tXqe6lVG53dJTl1yGRJjWVDIOI6BaSJAJNvsI/jAGzJ2oGRglaDhUQr+IRfyT4UtF4MQUs5Hu7ZL6tj+V4eYkOyvgoY9P16HL5GTlaPjjPaFRQ50Du1i0YByMQqZ5DTKvvRd2yJNQP8exo/WnNT82muW8KcTLNVj6P8EWG784YbU+C5/PLOqgOrc6HCkcA/8HRuYW3fHk4wW7v21MkMUJDdddvlZqszql5WHYicIor6cpQACLHUKImURfw6848xqVy/u0Bl7CMMjYhvKrfPnHVi6cqWllxCuGdjuJ6pfxRC/2PXF5nPN6Z9kIWO76ooxIvOyNz7+m57NUdnTwLXv7qXDFCamzymz359i6Uq2rOPPx93Iztg4hxXPmVhC5wMG4P6fn4ynWNkAZ9DFLlendUajtaQY2d2q1ovU50TMdVIEJK03oFi7PBRA8ZDoBJNX62E7qSjJQwo4a/GMdd1YOtV6J5nig==;xta/37UJwPIAQsBoziXfFA=="
 ---

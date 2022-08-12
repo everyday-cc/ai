@@ -56,6 +56,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Can artificial intelligence make nuclear energy more cost competitive?"
+    excerpt: "Argonne National Laboratory believe artificial intelligence could save the nuclear industry more than $500 million a year."
+    publishedDateTime: 2022-08-12T15:29:00Z
+    webUrl: "https://www.power-eng.com/nuclear/can-artificial-intelligence-make-nuclear-energy-more-cost-competitive/"
+    type: article
+    provider:
+      name: Power Engineering
+      domain: power-eng.com
+    quality: 19
 
 secured: "HIn1Pb3mAe88pijtAupWIBifgZwwXlHD0pTlbb1uerx9lomk0blF/skIEHMvyd6ZQPb7SVV3My6jGlAGewPKNF/j8TgGGjYpW4tVLWGDKSpu3XuwPxvbsRAaSrg/v0d8QiaqdLa28uKas87TVkXL+oHLicdiH2Vr0deE4TCn4mrq98HH0ViB60oEV4bb2r32CUXXu5Ha4qbzCNXn4XPlth76UC4bQMpH/MVK/kJzVaH4ivRDzgEd4EMtiSrwVPUHmmH8cj/yVrTzC9LdVbnGQHUr0Ap44HO/mDizYysOAPUOy8HoXxqfwZacUfCf0i6X2p95wJnJ/2qtOGgI7c/IAXRfHatBx1/NweqJTG35Cn4=;7yej9X6+JtN0fd/196t99Q=="
 ---

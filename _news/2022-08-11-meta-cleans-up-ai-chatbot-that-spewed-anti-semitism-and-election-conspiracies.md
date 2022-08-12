@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: New York Post
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta's AI chatbot has some election-denying, antisemitic bugs to work out after the company asked users to help train it"
-    excerpt: "Meta's new Blenderbot AI learns from users interacting with it, causing the chatbot to repeat election-denying claims, antisemitic tropes, and conspiracy theories."
-    publishedDateTime: 2022-08-07T23:46:00Z
-    webUrl: "https://www.businessinsider.com/meta-ai-chatbot-blenderbot-election-denying-antisemitic-bugs-artificial-intellignce-2022-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
 
 secured: "LR375SUpp0B7FsbUOeYi9fArIPgVt8anu5WubPhHjOAUYlSxjA6Dzd8lPvDAIYtZEWiLnE219gE/SJ5EkxtI1RjcLlLcEn5kxPoeTk9ly8XyBXrtfF30+3WHu8morHNC3lPzIQuRkPZOi9nNlcE+jPhkhlq9A5G28oEALvSlLpfO+//chB7EMzXD3vUQKbH4GOPW5EscSGOIiDU2qykMIHY6qGepgEVXDkJjdfLXwaCvI4Y2l1SOIs8rYK/akg+QeL3LE+b53N0JaYxGw1alPZ4ewCRFGRXIP2N8qf75XtvXwd1qJwrCRu/jHxGCKPZ7uXFZzR+gbP967yyfSReiajSRxb5BO3MDz59gPbUlq9mabWJNGVdbPzUkVjvEtUgj9FcJpUllYF1a4wssI7z3WOv9lgFiAWpWgZ/yAlOovbVUYQT1lXtQpLfUOWI9MM253FE6qTP4fKkS+LbsH7S2LJRzXPdehNKV1zwu80XKD2z3H2s7AuL33jbfvl1LMbRzEAxigO/HpbhiPMjBfUqiHQ==;IxPZs5u0r7TkuxebjkQb1g=="
 ---

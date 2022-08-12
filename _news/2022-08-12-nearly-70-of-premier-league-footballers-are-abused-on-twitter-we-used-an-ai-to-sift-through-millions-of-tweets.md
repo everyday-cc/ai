@@ -25,6 +25,24 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "Nearly 70% of Premier League footballers are abused on Twitter according to AI used to sift through millions of tweets"
+    excerpt: "As the new Premier League football season gets underway, a few things are certain. There will be goals, drama and excitement, and unfortunately, players will be subjected to vile abuse on social media."
+    publishedDateTime: 2022-08-12T17:20:00Z
+    webUrl: "https://phys.org/news/2022-08-premier-league-footballers-abused-twitter.html"
+    ampWebUrl: "https://phys.org/news/2022-08-premier-league-footballers-abused-twitter.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-premier-league-footballers-abused-twitter.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 33
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/nearly-70-of-premier-l.jpg"
+        width: 754
+        height: 503
+        isCached: true
+
 secured: "X1oXnmCGxb0NeI6cWJ71CGQ4Tzfd7DAxySl0L0LDmZmXHwqDPb52n4Ad+DHOxAiD9JjedNERNtLkZ04u1kyA7OF04A2fHmnS4GLaiNlPBhmEdhBPkggn8AUgJVVzM1UV9Izu/7GfPj1pVQnoSpInDsVB7AiEEY9q9ED8jVxclOSPCQp4qNBNP3erqWR4WZ+kX3+Po/sNr32L8stbKXqWrX72+J+pNbb4Tu+LKCgAXZSw8LJLzw5McGuR+3ZlUK+mnPXwQP7hXG/UUF7SN5W30UgcgoZZdDBUhYFqVTTRk3VlbJB48JBZOSPcESuRQTg26tXF3dF8CFfqzb3967j2RqykIamQtY47nzll6pSHXBXMW2X0vteQmDDSTnXAuIaa+QFZ11YQ5KKI3IVZYh+0v8CwVcYA2FC8OLhG6xg/BXaKKWCKAG4Kf1rQlXSUKBAvqIHd9svd1oWK3hCGIETeBLV+G4zFY7d1XiTT60EgsBOAjneQOWaC/COa9cTa9aZXVAa1/2xZpjXbtkJ7EdaE+w==;KOGJ4nswi+57yit0FrAHYA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-12T06:04:00Z
 originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: thenewsmarket.com
 
 topics:
+  - AI Ethics
   - AI
   - AI in Robotics
 
@@ -125,6 +126,6 @@ related:
         height: 1722
         isCached: true
 
-secured: "vjqdWqzr5XWOLjLE+Z8gJBjY3xBQBMPzsQCJQ6bdkoA9D8idqL08ZVt5Gewv8wW1cOqSYPovxJpNwBCi3VBLmtfNfgmjiMJ9iUIshnlGiZlB1A/m0Fx/onRCkcmtlFAJiWpyj7LDB0sxtGzOlTAzP6BRMjZKtUEfUhTCvJNQ1bm63LA2eD3LI9nyK+76FG1BeBpkDhrFyrOEdGTp1zUfnWKsq/rV+/1Zr33+jjVFW4pcWsnzxZJWD73kCn+xWmsHS4uTNLYJJuKxLX9yAhNeanGK6I4L5pcecOfBZ+X/uzycdVT5QwRXEqPUDnm/cFtZE0oNxPe3fPVl6Fe5dNRmFGxs0rH0ItzR8TvYSfQH/1g=;o9xAa/OKRzdG7wOlhh8C5w=="
+secured: "VEbQzEs5z2KhJn/IEYOgdY6Y4taI3uUWU/LlGxEbylxq63guq+v5UR+9RbN3yJLZFQ97xll90lQO0ozuT8Z4+5bloviATl+IR8Ayp9IpXy4CdfRQwYlnobLuhUOQya8pdzu2ne9IKG+OVUmG8J1+VPJixnmqroFtDBPz19D3/Gm2y5uMtHwKhkU19XoMsuFXXSOmpzG7qR66MCJuWWi8cEngxvLHDuZ9Pi81TmpXE5DLjYH6jUsTUpCvtk5shweGiSTersbB8U8owAuSv8ksJ5n2Ush7R/v8J03uFT4OMPx+G+bSUmVtk2FowsGkD/Qgo4cdd+bc97bR3uP5z1Q/HAVJ9cWNuwy9vmSNpKtVeWQ=;SDTpDrbpHgZxEUwMZ0c9Hg=="
 ---
 

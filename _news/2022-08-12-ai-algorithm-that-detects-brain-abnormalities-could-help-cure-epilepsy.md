@@ -1,29 +1,25 @@
 ---
 category: news
 title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
-excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers."
-publishedDateTime: 2022-08-12T00:00:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
-webUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
+excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed."
+publishedDateTime: 2022-08-12T16:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220812113817.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220812113817.htm"
 type: article
-quality: 57
-heat: 97
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
 
 related:
   - title: "AI algorithm that recognizes anomalies in brain may help treat epilepsy"
@@ -58,6 +54,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Novel AI algorithm may be the key for a breakthrough epilepsy treatment"
+    excerpt: "A group of scientists from the University College London developed an artificial intelligence algorithm that can detect drug-resistant focal cortical dysplasia."
+    publishedDateTime: 2022-08-12T15:57:00Z
+    webUrl: "https://interestingengineering.com/health/ai-algorithm-epilepsy-treatment"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/12/image/jpeg/0dvrOAPg6PANxki2bsjn5Q6FmrKQgdnSTJHGwi6s.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI algorithm by UCL researchers detects subtle brain abnormalities"
     excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a UCL-led team of international researchers."
     publishedDateTime: 2022-08-12T12:42:00Z
@@ -77,6 +87,6 @@ related:
       domain: tweaktown.com
     quality: 17
 
-secured: "viIcmy+JN2xYnuY7SUJ/XgsLaYi8O+U1fQ8YY+D/yyL5DAeztCY5eteyOFdAieF0g+2f5dm1UY3bfnaVlC9GiGrU55rh9GVK6+6/X+hMh9wXOSoQ7YfHSwQ2PWRPUU1jD8I8vWk1RrJ8PV3xumP+qgYmNYsS0Vm02Y17qvUGMjApzzuO3oKVDKip4bDOoF1q52lvZ/THTaGq5vmlDiLTott/66QAzB7n1aVeF9knqMQCdy8/oHfL1ntIFqP6Sgi0ef6lkXFHsXT/lVdXkMrocf0+VJt/oFGHlwSlUfYbrnQSdo/FiH+4A+3pAsl1F37vOyJgbetu+D8Fs/21/dqIQPIkRUxl5tx5T/36DYr4y602XcNQcoVutXBu9/BSFeP0FQmbIMOyw1K+rNTRxSaCFlgpzyCQKMgyEcAwGa5btYuwIMiNZdtHry3clIPibe6SiWLLitPMy3h/2Cx9GRWHN2CRhUPCMwhYtIzGlLaZsz5R1a/EWRsVl5D83bjuPcpt9uBI+yjYPIK5dsaL/9rkMw==;8IeoSMwEd+Wt2duK10AkqA=="
+secured: "xyvGSBUxtr4gO9ayeCf9f4gOhJTDbmcbOMAaZdApozAOYJrnxZ1x5m4ck6jdEWU+cI8v54XhRrqoLwSd1Som0zF7iJLPftF312qdDeH94Hj5E4TSgslRJrf7+GehDkKsKql87jJC3kd8f6KeitUbNcBbd7Sqwx+P+f6S4oJpc/A9+ysdFz3KLsS5lK3w3Az8LBbzESZKD11npN7glhRDMq3n64inAVA9siVgH9KwJ6ET9VH0itxIXPhgit2C3wS7J8onIMHXBc3ddwqbdKl6GC6HSsGV/QEbEVzeR6/OwTh3QneYrHZ08rgwX/Ntl/OqVIDSfiD/YTRuThY3zcvdKi4OJkOG2PvXTsoeqVivEKI=;Z67pkJU6xSctNck/RjT5hw=="
 ---
 

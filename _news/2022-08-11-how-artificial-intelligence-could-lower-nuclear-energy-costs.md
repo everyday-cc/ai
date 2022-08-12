@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/how-artificial-intellige
 webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Can artificial intelligence make nuclear energy more cost competitive?"
+    excerpt: "Argonne National Laboratory believe artificial intelligence could save the nuclear industry more than $500 million a year."
+    publishedDateTime: 2022-08-12T15:29:00Z
+    webUrl: "https://www.power-eng.com/nuclear/can-artificial-intelligence-make-nuclear-energy-more-cost-competitive/"
+    type: article
+    provider:
+      name: Power Engineering
+      domain: power-eng.com
+    quality: 19
 
 secured: "5njcp+vjoEm5agUHqIFWDuavyfxr9E4TRTFYjNgkm+DTseVkLfUeQ1o006ilmnTAhUuTPnP+ELy3NLN4E/n7l5nTGd8NJJRCc0F7HPpg7rqtr0N+RDvD3UmrIO7tR4Viuvc0geJ4iGbveEJzTGrmo9ChlW3c1H/mO8Dshq8KHhZWfPh3BhFWDv9k6dUMoBrzRjhzZZ6NDHBTvtlT186uKobTehGM1R3H1nFIkieEjchTv5iowaUo1ksF+bIoXcpQFd70uPr2ACCRUH/3RfhvZzUgpd1M1/I8kZwRPwRxMX8lRIJstjHNH/ZzjbW+596pA/ZYrTq7zFY/izLM4x4niY4mUNHvjAB3U0naSYtuYCQ=;TH6XFLPkaGtvxu8pe0P+Lw=="
 ---
