@@ -3,13 +3,13 @@ category: news
 title: "AI regulation: A state-by-state roundup of AI bills"
 excerpt: "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level."
 publishedDateTime: 2022-08-09T03:49:00Z
-originalUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
-webUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+originalUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+webUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
 ampWebUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "OzGsXqipteDswOwLjnyIoAUA0T8v8Dv/t6pAVT+oTCSc1Ce4k28fyj+rvENdOD4avxFj9WNVZkGH5bdxdKbypd0a5w6BAtOQU2GgShHrm5HK0XjLiCSa7/xixQvi2h7jkt3LWbgONM9361YbzX10dhv42HxbTHtaNo2kq6VdPU3to3uaut11flsqfxVDpyL3JfGbRMQKHKogzWHZZJqj8TvxrIK5MD+j/zKDYHgYH2cV3JHDBnvRBPJrQmlt+2XOcv4S8WbrBx5Yh/le1qwDMsbeOTZgRwcgbadr/i5NHimAWsQbaDtk5BF4fUCWb+MHb2ZqVaQaPNj9BVw2s6M3Yb6e8MC1MROzUAAB4bKuAUY=;RygWoW9RHbF9AgnduF+hmQ=="
+secured: "QwC3kkUmxK73U+oOHpGM9Oeil0yj0SCpGD6KIC1HcdeOW7HwCDaQk1V2qY3QELngUtOE30LWSuLvb1lbJF290fOAOeuBvkbtFKVi6LAvt03mV4DjwaB6HqWyzjKFVtg8cAZXUEz0KeUoXldDfG1AWYoP7VO4czYdHT7hd8akqkKErQqLFS28dv3bmaplqyyoKfIBfzf9Azhle66ldq+RBwZE09XDkvacksMbWPApXDR+9tQhZzZqJ+Vv3JOa7qjnIER9KAaKZNjwDeAj081g8V/m+YR57WlW0wjPkHK48i9aw+3DcyBQWbOWkqY/ENbclVeT8Cz18093NPX9p5VpqUXUmiSTAQFfYOimPs4G/14=;bM5DRIsvQfgL+KBNRWs7bQ=="
 ---
 

@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "New Uses For AI In Chips"
-    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
-    publishedDateTime: 2022-08-11T07:05:00Z
-    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
+  - title: "IIT Mandi researchers use AI enhanced Operation Research algorithms for wastewater management"
+    excerpt: "IIT Mandi researchers have used AI enhanced operation research algorithms to find appropriate methods for wastewater management. This algorithm helps identify the most apt method for wastewater management by keeping in mind the socio-economic needs of the environment concerned."
+    publishedDateTime: 2022-08-10T15:16:00Z
+    webUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398"
+    ampWebUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 58
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 46
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
-        width: 1430
-        height: 644
+      - url: "https://static.tnn.in/thumb/msid-93484398,imgsize-100,width-1280,height-720,resizemode-75/93484398.jpg"
+        width: 1278
+        height: 720
         isCached: true
-  - title: "Evidence Mounts for AI During Colonoscopy"
-    excerpt: "Using artificial intelligence, endoscopists improved their adenoma detection rate in a large randomized controlled trial of screening in asymptomatic people."
-    publishedDateTime: 2022-08-08T17:07:00Z
-    webUrl: "https://www.medscape.com/viewarticle/978814"
+  - title: "IIT Mandi uses AI-enhanced research algorithm tools"
+    excerpt: "Researchers from the Indian Institute of Technology, Mandi have used artificial intelligence-enhanced operation research tools to select wastewater management methods to meet the specific socio-economic needs of places and environments."
+    publishedDateTime: 2022-08-10T23:49:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-mandi-uses-ai-enhanced-research-algorithm-tools-757220"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 37
     images:
-      - url: "https://img.medscape.com/thumbnail_library/is_200401_colonoscopy_polyp_800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://assets.thehansindia.com/h-upload/2022/08/10/1307317-algorithum-tools.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "xxX+DpNchpMF35i7IDo/YM1To1cI2VA7FH8GzBuCYHdg1gmsfM51bqOrp1KYlduExZXA9yrRWWrhXuNBq2Q0iosuDGowzH1ObTBKJ1IDdezOeW6+kmVUaQhvunoa2yxJ0iTB5tgcW0vvWec8AewcFC2l75b6B9S19SSxYgpSlIC5vfRU1fxYiprYoTG9IhJ0VefaS1keCXpfp/USNtzjMM2kye/g/QWoU7cAtfZjIh/SZ4qZlTI2lQR2gjWHWck0+6sjlyePWHVVJsFjmM6SXLDvrFHaehpNBlBO45FH6cyW32g1pP9EIzy35lmRIGWEYKJi3uPMHIOShkKW4NbRJggYB7f+9TvovZtBUTZpSDM=;O4tUyHShozxt36wkpWu4Mw=="

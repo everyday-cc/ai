@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Oosto brings facial recognition to Australian Turf Club’s CCTV system"
-    excerpt: "Oosto has revealed details about a deployment of its facial recognition software to enhance security and identify VIPs at the Australian Turf Club."
-    publishedDateTime: 2022-08-08T17:03:00Z
-    webUrl: "https://www.biometricupdate.com/202208/oosto-brings-facial-recognition-to-australian-turf-clubs-cctv-system"
+  - title: "Artificial intelligence shows what Australia could look like in the year 2070"
+    excerpt: "Thanks to artificial intelligence, we can all get a glimpse into that future. One Reddit user by the name of u/End0me set out to find out what Australia is going to look like in the year 2070 using the AI generator  And by the results,"
+    publishedDateTime: 2022-08-12T01:34:00Z
+    webUrl: "https://www.ladbible.com/news/artificial-intelligence-shows-what-australia-will-look-like-in-2070-20220812"
+    ampWebUrl: "https://www.ladbible.com/news/artificial-intelligence-shows-what-australia-will-look-like-in-2070-20220812.amp.html"
+    cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/artificial-intelligence-shows-what-australia-will-look-like-in-2070-20220812.amp.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: LADbible
+      domain: ladbible.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
+      - url: "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&dpr=1&url=https://eu-images.contentstack.com/v3/assets/bltcd74acc1d0a99f3a/blt06b736cb06f5dad1/62f5997bcadfa1667cdfb762/aus2070.png"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Australian hospitality venues argue facial recognition deployments will help protect public"
-    excerpt: "New South Wales pubs and clubs want further deployments of facial recognition technologies to tackle problem drinking and problem gambling."
-    publishedDateTime: 2022-08-11T19:43:00Z
-    webUrl: "https://www.biometricupdate.com/202208/australian-hospitality-venues-argue-facial-recognition-deployments-will-help-protect-public"
+  - title: "Australia drafts guideline for supporting autistic children"
+    excerpt: "Government-convened experts laid out 84 recommendations, with a particular focus on affirming neurodiversity and embracing human rights."
+    publishedDateTime: 2022-08-09T13:30:00Z
+    webUrl: "https://www.spectrumnews.org/news/australia-drafts-guideline-for-supporting-autistic-children/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 9
+      name: Spectrum
+      domain: spectrumnews.org
+    quality: 24
+    images:
+      - url: "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/08/05100712/844-australia-national-guidelines-autism-diagnosis.jpg"
+        width: 844
+        height: 570
+        isCached: true
 
 secured: "eVkxkX+P3FDtaCF25BEUVwy56Y7CCvTgF7s+DKsmBc2EnRhGYksctIs3vAtfj/F6+ETVCe/FLL4X3uJvahI/+fS2LZAlzF79qMX0tzJa+6gveFsgf6oWwRQ5SfToZ+Bb5FEEH9ssgExGFMMrBSLQ/WVOOkxBy4AcCYZx56P8ky/ieRP9nLQDV9AH5cAJAp+eoN+KSo1C0goVWWnTSUJ5XPXi35xl474Q2hMmZ9zyAVgZp9umyRYXtOyzoa3Ua0iof7AQSDMd0dX5OpVt2gKvEn7pWSMVo9ts68xJ6DTyZ2B79TQYVlMY0H0ADEe5nbrT86kLExQv0ZnxXg4wx5nr8xUNzPE5NXeL4gCgdHJycuyh4EkTmocM0esLOG8t3OTW/oelHjsLY+zT5V2Qb11L5m4liB6Nv2hvqotaKFC9wd5SD95st7nODGJvQemssbnplfEPeU0h5rFKNKahWBgqnRCgeiLiHUHJjrU0Mi0wQPy96jwrvglRd/M42rD+fAWY39Q7z/TE0WvZYS2gK0FeyA==;zSWyRpeINmpb2oi7NAju3g=="
 ---

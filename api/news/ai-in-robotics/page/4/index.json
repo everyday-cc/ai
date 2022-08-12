@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-14-xpeng-robotics-brings-in-100m-for-its-quadruped-robot.md",
+      "title": "XPENG Robotics brings in $100M for its quadruped robot",
+      "excerpt": "XPENG Robotics' first product will be a quadruped robot with autonomous navigation, and equipped with a robotic arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
+      "originalUrl": "https://www.therobotreport.com/xpeng-robotics-brings-in-100m-for-its-quadruped-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/07/featured-web-XPENG.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-scientists-hacked-immune-cellsthen-took-them-for-a-joyride.md",
       "title": "Scientists Hacked Immune Cells—Then Took Them for a Joyride",
       "excerpt": "When tiny medical robots are deployed into living tissue to offer a helpful drug or repair damage, they’re met with open hostility from the organism’s own immune system. White blood cells have ...",
@@ -1286,49 +1329,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
-      "title": "AdvisorNet Financial Inc Has $37,000 Holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
-      "excerpt": "AdvisorNet Financial Inc lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 44.2% in the 1st quarter, according to the company in its most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks5.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/03/advisornet-financial-inc-has-37000-holdings-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "publishedDateTime": "2022-07-03T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "It is funny that he has all this money and still wears the same clothes: Meta’s latest AI chatbot about Zuckerberg"
-    excerpt: "Hyderabad: Meta, on August 5, unveiled its most advanced chatbot to date, the BlenderBot 3 (BB3), which includes model weights, code, datasets, and model"
-    publishedDateTime: 2022-08-07T08:46:00Z
-    webUrl: "https://telanganatoday.com/it-is-funny-that-he-has-all-this-money-and-still-wears-the-same-clothes-metas-latest-ai-chatbot-about-zuckerberg"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 15
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/It-is-funny-that-he-has-all-this-money-and-still-wears-the-same-clothes-Metas-latest-AI-chatbot-about-Zuckerberg.jpg"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "CEO Mark Zuckerberg is 'creepy and manipulative', says Meta's new AI Chatbot"
     excerpt: "The chatbot iteration may be new but there is nothing special that it delivers. It gleans information from the internet and adds nothing more."
     publishedDateTime: 2022-08-09T12:26:00Z

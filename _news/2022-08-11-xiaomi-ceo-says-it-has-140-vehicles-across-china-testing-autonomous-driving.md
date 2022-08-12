@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-s
 webUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2022-08-11/"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Xiaomi says it has 140 vehicles across China testing autonomous driving"
+    excerpt: "SHANGHAI: Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies."
+    publishedDateTime: 2022-08-12T01:29:00Z
+    webUrl: "https://www.carsifu.my/news/xiaomi-says-it-has-140-vehicles-across-china-testing-autonomous-driving"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Clipboard012.jpg"
+        width: 800
+        height: 393
+        isCached: true
 
 secured: "Qk+1fx1hpIfhgnmAn4iia1QdV/CqphfV2hbCT8mhxfQP1LvBbUxMbK94sIFrkj26+G8QOZZ1Z4Bwyk0auSNEdQoa4O9PFqzJvH5X98o28hK2zc5tIKMoZmqkaCgcpJn0CNVhZB9pPIx/Jr9SO0u5cB2w8TruJrqFNJ9kTDEhcjI44XEWsHcrX1jsgf5l8K2b4WTeCX6e4qY4YUANaPVkkS2TbwmuSYTwVj1cbAt4z/diS0EBSDF8cJ0IcxRtfSnfh+E62RZXyIqQJRk/EuV6ScxCwN/XqOGuhokQFIOAUkO9ONzCQiML5hqzl9/WtZJbe0dHLTK5y/rehinvr2pg2GjSovP5qOI1tCGbSpsH1N4=;44CN+v+gifIyTPpAsuM3og=="
 ---

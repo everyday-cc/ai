@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in medical research"
+    excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
+    publishedDateTime: 2022-08-07T20:17:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272646253/ai-in-medical-research"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "IIT Mandi uses AI-enhanced research algorithm tools"
     excerpt: "Researchers from the Indian Institute of Technology, Mandi have used artificial intelligence-enhanced operation research tools to select wastewater management methods to meet the specific socio-economic needs of places and environments."
     publishedDateTime: 2022-08-10T23:49:00Z

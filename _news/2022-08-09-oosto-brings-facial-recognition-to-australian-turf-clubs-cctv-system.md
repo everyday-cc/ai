@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving air taxis coming to Australia"
-    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
-    publishedDateTime: 2022-08-09T00:56:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
+  - title: "Australian media reaction to Chinese envoy's speech baffling"
+    excerpt: "The reaction of the Australian media to an address by the Chinese envoy at the National Press Club in Canberra on Wednesday is quite baffling, given that most of what he spoke about has been known for the last 50 years."
+    publishedDateTime: 2022-08-11T23:27:00Z
+    webUrl: "https://itwire.com/opinion-and-analysis-sp-481/open-sauce/australian-media-reaction-to-chinese-envoy-s-speech-baffling.html"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
+      name: ITWire
+      domain: itwire.com
+    quality: 24
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
-        width: 1125
-        height: 633
+      - url: "https://itwire.com/media/k2/items/cache/6725f78baa2d4651e7d1f84fe6aa4be6_M.jpg"
+        width: 375
+        height: 278
         isCached: true
   - title: "Australian hospitality venues argue facial recognition deployments will help protect public"
     excerpt: "New South Wales pubs and clubs want further deployments of facial recognition technologies to tackle problem drinking and problem gambling."

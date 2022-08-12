@@ -39,6 +39,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "UNH awarded $2.8 million to develop robots to care for people with Alzheimer’s and dementia"
+    excerpt: "Researchers at the University of New Hampshire will receive a five-year grant totaling $2.8 million from the National Institutes of Health to develop and test social assistive robots to aid in the care of individuals with Alzheimer’s disease and related dementia in the comfort of their own homes."
+    publishedDateTime: 2022-08-11T10:32:00Z
+    webUrl: "https://www.seacoastonline.com/story/lifestyle/2022/08/11/unh-developing-robots-assist-alzheimers-dementia-patients/10295068002/"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 29
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/08/11/NPOH/dbbb6071-568e-4c30-b4ef-89716603adc1-assisstive_robot_and_researchers.jpg?auto=webp&crop=1199,675,x0,y61&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "0fY4ZSbnIAdkUpjd4Vmu+m+D1pZ/rrgN334tz2F+lV/D8YRYY61MdPwETR1O5N9G0Ga7/wf4mRNFK7IynNHPKWAKHm5eVFJBp2GAaPTIwHcHjxkyNnsPpug/khTAzpYgwDdlb5PrJKFrbNnxZjOBjaTZGjgKw7szsGn1xsRfHhkEQIx208sHrLz+HCySkYGTmZWYTAGy7Z8zkJ68CFLr/qboSdTVlmOmHcrSL/wEEEghacCUAMBVwp9I2D+ZU51Bwr/WW/23f6bGykXX2Pnb2NoswCr+X9KwDNqadW8OAJvVjiHVfQyfSf0R6/Rrcb7UhupVt21rsevmjjN/s4EvJvseCQiy8gPgaTO/EpOHodNnsZXmyfTQ54rTXWQIs+dUTHgObmlUqgIZzQ04kAclc0nG5k/Ri3GUPEgoz20qVdI3DjoCcV0mq+QOwTNf1DqNsvrXjzKO/HhOp5qUyBF/JitdSPk+Gw/u+sZA4lCKmlTBKsW4jFachmfLs3H6OhOfi3xoT5wMZNSx60KC8m1/eg==;lOcFTDBbosOAgvFvvi3htQ=="
 ---

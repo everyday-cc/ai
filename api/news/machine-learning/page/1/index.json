@@ -97,51 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-11-new-uses-for-ai-in-chips.md",
-      "title": "New Uses For AI In Chips",
-      "excerpt": "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance.",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/new-uses-for-ai-in-chips/",
-      "originalUrl": "https://semiengineering.com/new-uses-for-ai-in-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1",
-          "width": 1430,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
       "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
       "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
@@ -499,6 +454,60 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-8-ultimate-ai-projects-for-beginners.md",
+      "title": "8 Ultimate AI Projects for Beginners",
+      "excerpt": "So you have decided to take an Artificial Intelligence (AI) course to stay relevant in an increasingly digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {

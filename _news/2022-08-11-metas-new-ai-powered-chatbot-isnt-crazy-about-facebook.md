@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -126,22 +126,6 @@ related:
       - url: "https://static.digit.in/default/c0271e9d0ac9850c0a8905f3d5a4e03a833add3d.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Meta AI's BlenderBot 3: 5 things to know about the chatbot that learns from interactions"
-    excerpt: "Meta AI, the New York City-based artificial intelligence laboratory of Meta Inc, has built and released a new state-of-the art chatbot, called BlenderBot 3 (BB3), and is letting members of the public interact with the system to get a feedback on its capabilities."
-    publishedDateTime: 2022-08-07T08:30:00Z
-    webUrl: "https://www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/meta-ai-s-blenderbot-3-5-things-to-know-about-the-chatbot-that-learns-from-interactions-101659859098207-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 48
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/07/1600x900/Meta_1659859088677_1659859093109_1659859093109.png"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
