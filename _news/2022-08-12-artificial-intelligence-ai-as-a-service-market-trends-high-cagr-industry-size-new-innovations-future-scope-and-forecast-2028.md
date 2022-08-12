@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast"
+    excerpt: "According to IMARC Group latest report titled \" Food Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-08-12T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
     excerpt: "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group."
     publishedDateTime: 2022-08-11T11:31:00Z
@@ -56,15 +70,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Drug R&D Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The Worldwide \"Artificial Intelligence Drug"
-    publishedDateTime: 2022-08-09T03:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-drug-rd-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-08"
+  - title: "Artificial Intelligence (AI) Hardware Market Size Prospects & Upcoming Trends and Opportunities Analyzed for Coming Years 2022-2031"
+    excerpt: "Hardware Market is valued at approximately USD 9.8 billion and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period. Artificial intelligence (AI) has been one of the most appealing technology in recent years."
+    publishedDateTime: 2022-08-09T21:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-size-prospects-upcoming-trends-and-opportunities-analyzed-for-coming-years-2022-2031-2022-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
+    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
+    publishedDateTime: 2022-08-08T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Manufacturing Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis and Forecast to 2027"
+    excerpt: "The definite investigation advances a pivotal minuscule comprehension of the worldwide Artificial Intelligence (AI) in Manufacturing market in a knowledgeable way. The per user can basically perceive the impressions of the organizations by having data about their worldwide income,"
+    publishedDateTime: 2022-08-08T10:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-and-forecast-to-2027-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market Size 2022 Manufacturers, Types, Applications, Share, Growth Rate and Forecast 2027"
+    excerpt: "A new report of Market Research Update titled “Machine Learning in Communication Market Analysis 2022-2027” is a detailed sketch of the business sphere in terms of current and future trends driving the profit matrix."
+    publishedDateTime: 2022-08-10T14:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-size-2022-manufacturers-types-applications-share-growth-rate-and-forecast-2027-2022-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -84,6 +140,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
+    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
+    publishedDateTime: 2022-08-10T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "Full Stack AI Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2029"
     excerpt: "Global \"Full Stack AI Market\" report analysis by size, share, regions, type, and application, forecast to 2029 is"
     publishedDateTime: 2022-08-08T08:04:00Z
@@ -98,6 +163,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR)"
+    publishedDateTime: 2022-08-08T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56754136-natural-language-processing-nlp-market-worth-dollar-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
   - title: "Automatic EOD Robot Market By Size, Latest Industry Trends, Market Share By Application And Regional Forecast 2022-2031"
     excerpt: "SDKI published a syndicated report on the Automatic EOD Robot Market , which is evaluated for the forecast period 2022-2031. The report offers an in-depth analysis of the market on the basis of size,"
     publishedDateTime: 2022-08-09T09:53:00Z
@@ -126,6 +200,15 @@ related:
         width: 370
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
+    publishedDateTime: 2022-08-09T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "o80LEfButxJOpPrwT/Ij1iu4eQgtx12ojnkkbOgH4FFCCec+mSW4BkOPFYvnWf8eUbKOw5/iaCS7lMQiLj11XvZ5ZuCYsrpEyNdDlW7ciRxa0/uXSwof/G3n7xLCXBWH3WUI/zdVIM4x/mlyfNuEfiEJU9t+vNcOuSjk2Yumwq4+SHVcyfnOVv7fQkHOHoz5QyQrANG09XAT8354hSwa5LMnVPdkvLpPCbQ1DF51woxs+RoHKWNtgKd83+8/9SJsQH9ILOeQresu6tMB+PNggw5ox8iYqH9vYTzVR6wDHr2KirJAn9HcnDXaCyMMB5dq26N/GOtpkPi+0u4kuWvUTtWh33Nl8q9sO9k2KjbWPP0=;8YXtAjC7un+0K15SdUZCdA=="
 ---

@@ -31,16 +31,16 @@ related:
   - title: "How artificial intelligence could lower nuclear energy costs"
     excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
     publishedDateTime: 2022-08-11T16:22:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_9f6b0524-53bd-5bc3-882e-753d27e149c7.html?block_id=531919"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
     type: article
     provider:
-      name: Daily News
-      domain: galvnews.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Artificial intelligence could lower nuclear energy costs"
     excerpt: "Scientists at the Argonne National Laboratory in Lemont are devising systems that could make nuclear energy more competitive using artificial intelligence."

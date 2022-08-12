@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-12-10-ways-to-use-ai-for-a-successful-product-launch.md",
+      "title": "10 Ways To Use AI For A Successful Product Launch",
+      "excerpt": "With AI, you can understand your target audience and their needs better—how they think and buy and what they want in a product or service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fc2a4bc9ea6cb9ab72847e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/",
+      "publishedDateTime": "2022-08-12T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-where-cpos-can-aim-ai-prioritized-procurement-use-cases.md",
+      "title": "Where CPOs Can Aim AI: Prioritized Procurement Use Cases",
+      "excerpt": "But recovery periods are brief, and procurement processes and technologies need to evolve to increase resiliency to external market forces. Consulting firm McKinsey projects a sup",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/amp/",
+      "publishedDateTime": "2022-08-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai.md",
+      "title": "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai",
+      "excerpt": "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912",
+      "originalUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Tata_Elxsi_1660299460.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp",
+      "publishedDateTime": "2022-08-12T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-hyundai-to-set-up-robot-ai-research-institute-in-us.md",
       "title": "Hyundai to set up Robot AI research institute in US",
       "excerpt": "By Kim Hyun-bin Hyundai Motor Group announced Friday the launch of the Boston Dynamics AI Institute with the goal of making fundamental advances in artificial intelligence (AI), r",
@@ -45,6 +190,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast.md",
+      "title": "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast",
+      "excerpt": "According to IMARC Group latest report titled \" Food Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-artificial-intelligence-shows-what-australia-could-look-like-in-the-year-2070.md",
       "title": "Artificial intelligence shows what Australia could look like in the year 2070",
       "excerpt": "Thanks to artificial intelligence, we can all get a glimpse into that future. One Reddit user by the name of u/End0me set out to find out what Australia is going to look like in the year 2070 using the AI generator  And by the results,",
@@ -74,6 +271,48 @@
       "provider": {
         "name": "LADbible",
         "domain": "ladbible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-ai-algorithm-that-detects-brain-abnormalities-could-help-cure-epilepsy.md",
+      "title": "AI algorithm that detects brain abnormalities could help cure epilepsy",
+      "excerpt": "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
+      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -139,7 +378,7 @@
       "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -771,59 +1010,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-11-artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2022-08-11-implementing-ai-youd-better-think-about-security-first.md",
       "title": "Implementing AI? You'd Better Think About Security First",
       "excerpt": "While AI has been a game-changer for solving complex business problems, there is a security risk landscape associated with it. Let's explore three areas.",
@@ -1030,201 +1216,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-metas-new-ai-powered-chatbot-isnt-crazy-about-facebook.md",
-      "title": "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook",
-      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
-      "publishedDateTime": "2022-08-10T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-robot-arms-are-replacing-shelf-stockers-in-japans-stores.md",
-      "title": "Robot arms are replacing shelf stockers in Japan's stores",
-      "excerpt": "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp",
-      "publishedDateTime": "2022-08-10T13:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
-      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
-      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "publishedDateTime": "2022-08-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels.md",
-      "title": "Use computer vision to measure agriculture yield with Amazon Rekognition Custom Labels",
-      "excerpt": "In the agriculture sector, the problem of identifying and counting the amount of fruit on trees plays an important role in crop estimation. The concept of renting and leasing a tree is becoming popular, where a tree owner leases the tree every year before the harvest based on the estimated fruit yeild.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T12:02:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

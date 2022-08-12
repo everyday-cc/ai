@@ -2,6 +2,208 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
+      "title": "AI is not sentient. Why do people say it is?",
+      "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "publishedDateTime": "2022-08-06T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai.md",
+      "title": "No, You’re Not Alone. Google Is Also Making This Big Mistake On AI",
+      "excerpt": "As AI goes, garbage in is most definitely garbage out, and AI projects are suffering from significant bad data garbage. If Google, ImageNet, and others are making this mistake, for sure you are making this mistake as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eadf98d17679765fb6862c/0x0.jpg?format=jpg&crop=2209,1243,x0,y136,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
+      "publishedDateTime": "2022-08-05T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
+      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
+      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
       "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
       "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
@@ -733,6 +935,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-05-smart-microrobots-learn-how-to-swim-and-navigate-with-artificial-intelligence.md",
+      "title": "Smart microrobots learn how to swim and navigate with artificial intelligence",
+      "excerpt": "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/smart-microrobots-lear.jpg",
+          "width": 1140,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp",
+      "publishedDateTime": "2022-08-05T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-5-moral-dilemmas-that-self-driving-cars-face-today.md",
       "title": "5 Moral Dilemmas That Self-Driving Cars Face Today",
       "excerpt": "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently.",
@@ -836,49 +1081,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-05-smart-microrobots-learn-how-to-swim-and-navigate-with-artificial-intelligence.md",
-      "title": "Smart microrobots learn how to swim and navigate with artificial intelligence",
-      "excerpt": "\"This work is a key example of how the rapid development of artificial intelligence may be exploited to tackle unresolved challenges in locomotion problems in fluid dynamics,\" said Arnold ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220804130621.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220804130621.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T19:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
       "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
       "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
@@ -971,178 +1173,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise.md",
-      "title": "Stretching May Help Slow Cognitive Decline as Well as Aerobic Exercise",
-      "excerpt": "Share on Pinterest New research suggests that stretching and balancing exercises may also be able to help slow the speed of mild cognitive decline. Sergey Narevskih/Stocksy New data suggests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
-      "originalUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2022/08/older-female-stretching-1200x628-facebook-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
-      "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
-      "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "originalUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
-          "width": 2048,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
-      "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
-      "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "originalUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "publishedDateTime": "2022-08-04T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

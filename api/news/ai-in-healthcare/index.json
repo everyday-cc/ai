@@ -428,59 +428,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-08-artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030.md",
-      "title": "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030",
-      "excerpt": "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-08-05-could-artificial-intelligence-assisted-colonoscopy-be-better-for-adenoma-detection.md",
       "title": "Could Artificial Intelligence-Assisted Colonoscopy Be Better for Adenoma Detection?",
       "excerpt": "ACCORDING to the results of a prospective randomised clinical trial, artificial intelligence (AI) colonoscopy has enhanced the detection rate of adenoma compared with standard colonoscopy. Remarkable efforts have been dedicated to improving adenoma ...",
@@ -1383,6 +1330,50 @@
         "AI in Finance",
         "AI",
         "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
         "AI in Healthcare"
       ]
     }

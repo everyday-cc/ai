@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 314
+heat: 324
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202208/10/62f38671a310fd2bec9b7f07.jpeg"
         width: 660
         height: 440
+        isCached: true
+  - title: "Baidu awarded China’s first self-driving taxi licence"
+    excerpt: "Chinese technology giant Baidu said it had been awarded a licence to operate the country’s first fully self-driving taxis after the government relaxed rules which required a backup driver to be ..."
+    publishedDateTime: 2022-08-09T14:32:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-awarded-chinas-first-self-driving-taxi-licence/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "China drafts national guidelines for commercial driverless robotaxis"
     excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."

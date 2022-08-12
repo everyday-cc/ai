@@ -32,6 +32,15 @@ related:
         width: 473
         height: 315
         isCached: true
+  - title: "CrowdStrike introduces industry’s first AI powered IoAs"
+    excerpt: "Delivered on the CrowdStrike Falcon platform and powered by the CrowdStrike Security Cloud, these new detection and response capabilities stop emerging attack techniques. CrowdStrike introduces industry's first AI powered IoAs."
+    publishedDateTime: 2022-08-12T10:21:00Z
+    webUrl: "https://www.itp.net/emergent-tech/crowdstrike-introduces-industrys-first-ai-powered-ioas"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
   - title: "CrowdStrike’s new AI-powered ‘Indicators of Attack’ offer enhanced visibility of cloud intrusions"
     excerpt: "CrowdStrike's new AI-powered 'Indicators of Attack' offer enhanced visibility of cloud intrusions - SiliconANGLE"
     publishedDateTime: 2022-08-10T12:00:00Z

@@ -243,6 +243,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Baidu awarded China’s first self-driving taxi licence"
+    excerpt: "Chinese technology giant Baidu said it had been awarded a licence to operate the country’s first fully self-driving taxis after the government relaxed rules which required a backup driver to be ..."
+    publishedDateTime: 2022-08-09T14:32:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-awarded-chinas-first-self-driving-taxi-licence/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "China drafts national guidelines for commercial driverless robotaxis"
     excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
     publishedDateTime: 2022-08-09T10:48:00Z
@@ -305,6 +319,6 @@ related:
       domain: motorauthority.com
     quality: 19
 
-secured: "42RK/nGv2MX1JE3FrEdFJYiEvTiVYSR68F307JU1PU/VTxbvKdGf9PsyPU0eWImqijDWy/EpOpk6FO4nmJLzZRaqFdFEfg6G0druxMqYK6fwEWhoGxDppdsTg/BmLrafxUiU8msfuoKQvnf/9V3XO0tbEXrPfo0/5aegEm3Bpl0O992s37PQc9mbpdMHmaokKYgMzDbuBIO0YqczDManpKKwW2ghx4pspAX4l67eiQLfPFRt2oTLbF6297BhkqBNt8/gegjkJQm5A1zd9G9f39AJUAhhuBD+KZAsPMx55fo02t2lxhdPYKWHJBAtkuA+rp5jzTHrXK+MI26IovtuxjOnAQk/VGanjprXJrV1Ya4=;hGRNKGXfMcb9WYHdPtjp7A=="
+secured: "7WITC67miO9syLzoFFm1Fv6GMXeFtWg+8Xsu9Y5yjX5cItysJN+vvFq561z80/BO+USAeHIqsI/2dagBHdhuub6cas8sgvuARXrA9CQUk5dR2ZkCdwg53qzcTzLEiojI6SYN7wp5xB1tdYtsszlcC2jN2aaid6wBecArBiQTXqumUEUlqwGyVjTMO9WMEzyDl1L1jdZiIrUXicMWtNNYGNGYXC4WcG/XaBgqU9fIFmS5JMcr2bGspV1vIDweT8Lp2GuHoixv6p1JL6AF9KCC24rfno8OgUlz5GF7omHknfPcY52uwuJOU+hU81jCvq7WqmjaLaBUh+xvZtqnG9/L3LWa0IvJF5rRTpr3y2qYrNYZPH+nLyyMrGXCZckLgHvM1oLpxFmf7M3wC95hJ07aCCW8W4TwSIqQQJzrPsO+u82ULWYhcFJTbsF8sqHwTFlESti5i6R6adVrlzoMqwuGsMzYRFIjwsP0VUAKzIlfg+mzJdn3Urb8ThqHreoVbiQXLJ08lnZFS1NbCpFDqhjq0Q==;8S6syeYTTIzyI9ZLapwwAA=="
 ---
 

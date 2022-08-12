@@ -7,7 +7,7 @@ originalUrl: "https://www.jordantimes.com/news/local/digital-economy-ministry-pr
 webUrl: "https://www.jordantimes.com/news/local/digital-economy-ministry-presents-draft-national-ai-strategy"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,36 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Draft National AI Strategy Put For Public Debate"
-    excerpt: "The Ministry of Digital Economy and Entrepreneurship has announced that the draft 2023-2027 National Artificial In"
-    publishedDateTime: 2022-08-07T17:32:00Z
-    webUrl: "https://menafn.com/1104658688/Draft-National-AI-Strategy-Put-For-Public-Debate"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?273148"
-        width: 378
-        height: 250
-        isCached: true
-  - title: "AI-generated digital art spurs debate about news illustrations"
-    excerpt: "AI digital art may be improving — but hasn't replicated the creative problem-solving process needed for newsrooms."
-    publishedDateTime: 2022-08-10T10:10:00Z
-    webUrl: "https://www.axios.com/2022/08/10/artificial-intelligence-digital-art-journalism"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/J2AXW66gEZfrPp3vMX-S9bvhoDY=/0x0:1920x1080/1366x768/2022/08/04/1659625388906.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "ezsP9Crg/IU0g/tr+jd7vfs3ZYhPa/3OXcCvrqSZcH1PwWiAhP0Jzw8N30zk/XLOaV7w75Z+zlaQKl9Uu4AElcdHDOJ7L5eXUrfnsfOoCggDFtPPItEbEEdc36J90IU0cWxPWH0crhXZGeLkEGMLCUgHPKjAQ/hHOnWvWAKLWz9jTKTf97Hz7bnvb7F/STi0RelJynBPCATCwLTGghM+1eKJywQvIJlbi32J0j67LQz190rG8pIkcPCWLyErDtsMreCS6jHKzGXJCWRkeRIUFQiAEtzZnDWaMLTexbUvcQJwKqeQ+xAqGVg0QME79FGi6FP9CNdNun1rOwYNtIN0/W6Uw2tiLemXOUZkvQ283d8=;XpP/56HtbHIyB9MPqbUHWQ=="
 ---

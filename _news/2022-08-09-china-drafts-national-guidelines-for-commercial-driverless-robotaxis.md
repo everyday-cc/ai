@@ -257,6 +257,20 @@ related:
         width: 660
         height: 440
         isCached: true
+  - title: "Baidu awarded China’s first self-driving taxi licence"
+    excerpt: "Chinese technology giant Baidu said it had been awarded a licence to operate the country’s first fully self-driving taxis after the government relaxed rules which required a backup driver to be ..."
+    publishedDateTime: 2022-08-09T14:32:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-awarded-chinas-first-self-driving-taxi-licence/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
     publishedDateTime: 2022-08-10T11:24:00Z

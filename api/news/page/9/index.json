@@ -2,6 +2,197 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-03-natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031.md",
+      "title": "Natural Language Processing Market Size: Global Trends, Share, Growth, Opportunity 2022-2031",
+      "excerpt": "Natural Language Processing Market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-intelligencebank-now-available-on-aws-marketplace.md",
+      "title": "IntelligenceBank Now Available on AWS Marketplace",
+      "excerpt": "IntelligenceBank (www.intelligencebank.com) has announced the availability of IntelligenceBank Digital Asset Management, BrandHub and Marketing Operations software in Amazon Web Services (AWS) ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/intelligencebank-now-available-on-aws-marketplace",
+      "originalUrl": "https://www.digitaljournal.com/pr/intelligencebank-now-available-on-aws-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator.md",
+      "title": "HPE Adds Support For Qualcomm Cloud AI 100 Inference Accelerator",
+      "excerpt": "HPE’s endorsement for the Qualcomm Technology Cloud AI 100 is a huge step for most efficient and high-performance AI inference engines in market today. When I was working at AMD to get the first generation EPYC server SoC added to HPE servers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e94d880666a02770b6862e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/08/02/hpe-adds-support-for-qualcomm-cloud-ai-100-inference-accelerator/amp/",
+      "publishedDateTime": "2022-08-02T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-microsoft-teams-will-now-translate-your-calls-with-a-catch.md",
+      "title": "Microsoft Teams will now translate your calls — with a catch",
+      "excerpt": "Microsoft Teams just added a feature that will make remote work easier -- human language translation that lets you pick the language you're listening to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/The-Civil-Service-and-The-Public_Ministers-on-Teams-Live-Call-2-1-960x640-1.jpg?p=1",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
+      "publishedDateTime": "2022-08-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-insta360-link-is-an-ai-powered-4k-webcam-with-a-3-axis-gimbal.md",
       "title": "Insta360 Link Is an AI-Powered 4K Webcam With a 3-Axis Gimbal",
       "excerpt": "Insta360 today revealed its first dedicated webcam called the Link (Opens in a new window). Rather than simply producing a webcam capable of competing with the best Logitech or Ra",
@@ -966,170 +1157,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide.md",
-      "title": "How is the healthcare sector inclining toward artificial intelligence worldwide?",
-      "excerpt": "As awareness about artificial intelligence and its potential is spreading, so is the faith of various industries in its capabilities of improving production and quality of life. Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
-      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/04/mhealth_illustration-620x400-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
-      "publishedDateTime": "2022-08-01T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
-      "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
-      "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "originalUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "publishedDateTime": "2022-08-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI star Appen flags first-half loss, shares plunge",
-      "excerpt": "Australia's Appen Ltd APX.AX, which runs artificial intelligence training for Facebook, Google and Amazon.com Inc AMZN.O, said a spending slowdown by clients would bring its first half-year loss since listing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "originalUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/australian-ai-star-appen-flags-first-half-loss-shares-plunge?amp",
-      "publishedDateTime": "2022-08-01T20:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-eating-lots-of-highly-processed-food-is-linked-to-faster-cognitive-decline-research-finds.md",
-      "title": "Eating lots of highly processed food is linked to faster cognitive decline, research finds",
-      "excerpt": "Eating highly processed foods like instant noodles, sugary drinks or frozen meals may be linked to a faster rate of cognitive decline. That's according to new research presented Monday at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "originalUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220802-instant-noodles-processed-foods-mn-0840-27f253.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna40999",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna40999",
-      "publishedDateTime": "2022-08-01T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

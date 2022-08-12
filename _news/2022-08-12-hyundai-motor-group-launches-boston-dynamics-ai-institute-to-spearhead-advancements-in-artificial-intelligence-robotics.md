@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-publishedDateTime: 2022-08-12T09:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+publishedDateTime: 2022-08-12T06:04:00Z
+originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The NewsMarket
+  domain: thenewsmarket.com
 
 topics:
-  - AI Ethics
   - AI
   - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
+    width: 1164
+    height: 657
     isCached: true
 
 related:
@@ -58,6 +57,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How is artificial intelligence used in COVID-19 research?"
+    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
+    publishedDateTime: 2022-08-12T09:51:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "AI in medical research"
     excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
     publishedDateTime: 2022-08-07T20:17:00Z
@@ -72,21 +85,7 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "How is artificial intelligence used in COVID-19 research?"
-    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
-    publishedDateTime: 2022-08-12T09:51:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 39
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
-secured: "WwyPzpSUKVWMYdwRZ7MscDuKxa6GgpXwnOZYemm5uSjAe34YAY9kYRQGQUAL0izYP0O4wsA6MIGkkpts9ahBUxZcwbE+5iuOzMVcAEsUkCnm8PNHQW5EeZz2tI9E1vkyuSIUhuQhx2cBe0LruuRfhTCyi53udt/YUfEoi7bKGqRTXfSWFtH6ut7TD9qVdCsJ3jDuesfrAVzEk2P7qoKHXlKZPF22ngfPjEoBg/oZZ3GgBvtmnc0yM2AUVS1eW7HquFg4fLRljQK47eUzQe0yRM+OAOrnfMFvbtjy4mLJ7+bdEe1AsEd5fbb3YtG2XP4CMZ860jjsNNLOmmDfkvjRA2cPPXtpkuYqXkb+KnL/reU=;5ttd2C2YQ8Q1jcMR9dHz1g=="
+secured: "CjZmi7jipjZwRvS37/K/XKGnrj5rXycoScZPW9RsnoUIfvKObTHZpd+qwPjlUPSvr5NYOivDHssqQDDVG9krS20DNZDgUp3m20LZFcxi+fQlCNWMsnGezSIqgMmglslLxP+JrGOmNGMDgEFlqcbe9/n2zTEz1ZNFNjaMKtRmhExzkRMiSEhtmerJ6rsicyHP+mWKpnoV/4Yhe6BQyf9n3eqnfnoC4aak4kM6UNsnZ/HzhhP7ETEU94wYx53ItwMVsH+S3EVCk9nBEvzdAnkBa/4zZuoUgzruV2gwPJD/PScZa2YJWg9LhSgLrQ7vV2VAbMrGZNiGj7k0ePpNWIQ2iTGFWcIHRGmgGWw/6WD+LMQ=;8A68c4Hku8rFEtq+u1Fn0A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "5 Ways AI is shaping the future of investment research"
+    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
+    publishedDateTime: 2022-08-12T10:43:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
+        width: 800
+        height: 522
+        isCached: true
   - title: "AI may come to the rescue of future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
     publishedDateTime: 2022-08-10T19:47:00Z

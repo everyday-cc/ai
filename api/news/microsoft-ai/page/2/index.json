@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-02-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
+      "title": "Aerobics isn’t the only exercise that can slow mild cognitive decline, study finds",
+      "excerpt": "Cheer up couch potatoes! Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
+      "originalUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-eating-lots-of-highly-processed-food-is-linked-to-faster-cognitive-decline-research-finds.md",
       "title": "Eating lots of highly processed food is linked to faster cognitive decline, research finds",
       "excerpt": "Eating highly processed foods like instant noodles, sugary drinks or frozen meals may be linked to a faster rate of cognitive decline. That's according to new research presented Monday at the ...",
@@ -1271,59 +1314,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
-      "title": "Using AI and machine learning to kickstart climate change fightback",
-      "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656410510/itpro/landsat-satellite-image-climate-change-GettyImages-1354422915.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

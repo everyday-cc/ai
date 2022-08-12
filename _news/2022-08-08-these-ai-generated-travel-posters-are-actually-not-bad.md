@@ -23,6 +23,22 @@ images:
     height: 884
     isCached: true
 
+related:
+  - title: "AI-generated digital art spurs debate about news illustrations"
+    excerpt: "AI digital art may be improving — but hasn't replicated the creative problem-solving process needed for newsrooms."
+    publishedDateTime: 2022-08-10T10:10:00Z
+    webUrl: "https://www.axios.com/2022/08/10/artificial-intelligence-digital-art-journalism"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/J2AXW66gEZfrPp3vMX-S9bvhoDY=/0x0:1920x1080/1366x768/2022/08/04/1659625388906.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+
 secured: "PwU2V1Tp0YjofKWhnR7jAW5RZnVFCOh7c/ZpFeKnpsP4ZNJsny5M45gMsZfm+uDpYxd7+E5HB5B0lzipFRPpmdH5k5OCiez1C5unIqLuMx9vRx4vyXCOH5hvFWxhQigHZaK2lm1OQeyaG9XwseEMERmEd5moghIqAzNxWbGZxSbQriA9t8vWnsh3odMCFnJYbxXrX/ExjWHhrG1oC/f79oT1NjMua7gNwTC6ZCe0FMAvOUHJbgQuNqIMsUPKQNt8S40nvCpFxUc+vzQgwQJHIPmCjabaa9z7boR00ewHIbe2WGLAPzz5Qdvqw/vxEVWZWVyXTZCKm1z9Q1iHMcgg1iwcxYRdGDyADTMeIvhRBMQ=;o4WVm43CIjdw8HvqjItqWQ=="
 ---
 

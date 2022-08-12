@@ -2,6 +2,50 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
+      "title": "Robot ethics need to get specific, says Durham University",
+      "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
+      "originalUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-06/788FF129-6DB5-4A04-A3F4-3D6CE3DA1E75.jpeg",
+          "width": 640,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
+      "publishedDateTime": "2022-05-10T23:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-india-inc-wants-ai-robotics-but-campuses-lack-such-skills.md",
       "title": "India Inc wants AI, robotics but campuses lack such skills",
       "excerpt": "With India Inc digitising all its processes over the last two years of pandemic, there is demand for big data analytics, fintech and risk analysis, AI, cybersecurity, and product design and engineerin",

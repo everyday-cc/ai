@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
+      "title": "Baidu gets permits for first fully driverless taxi service in China",
+      "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "publishedDateTime": "2022-08-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
+      "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
+      "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
+      "originalUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f32670e/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F9d%2F637f2282401688a38dc8240fee33%2Fai-pilot-02.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.md",
+      "title": "Citi's stocks to play the biggest themes of our time like automation and AI",
+      "excerpt": "As markets remain saddled with short-term turmoil and recession fears, one top strategist recommends investors start seeking out stocks with long-term structural growth stories. Citi's Scott Chronert believes stocks that play into the biggest trends of our time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106906180-16252398672021-07-02t100213z_1512409415_rc2aco9klsci_rtrmadp_0_usa-mining-gm.jpeg?v=1625239934&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
+      "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
+      "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f26984a8524fb68860c8b6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
+      "publishedDateTime": "2022-08-09T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases.md",
       "title": "Iterable optimizes AI to hyper-personalize marketing and predict future purchases",
       "excerpt": "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication.",
@@ -524,7 +731,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -599,6 +806,59 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-us-20991-billion-global-machine-learning-market-during-2022-2029.md",
+      "title": "US $ 209.91 billion Global Machine Learning Market During 2022-2029",
+      "excerpt": "Fortune Business Insights says that the market value stood at US $ 15.44 billion in 2021. The market is expected to grow at a CAGR of 38.8% in the forecast period (2022-2029). The growth rate of the Global Machine Learning Market is 38.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -987,257 +1247,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases.md",
-      "title": "IBM Research Rolls Out A Comprehensive AI And ML Edge Research Strategy Anchored By Enterprise Partnerships And Use Cases",
-      "excerpt": "Goodson, recently met with Dr. Nick Fuller, Vice President, Distributed Cloud, at IBM Research for a discussion about IBM’s long-range plans and strategy for artificial intelligence and machine learning at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f12d261c21e21259d408c4/0x0.jpg?format=jpg&width=1200",
-          "width": 548,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
-      "publishedDateTime": "2022-08-08T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-meta-develops-conversational-ai-chatbot-concern-for-data-sharing.md",
-      "title": "Meta develops conversational AI chatbot: Concern for data-sharing?",
-      "excerpt": "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
-      "publishedDateTime": "2022-08-08T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-microsoft-stock-azure-growth-proves-resilient.md",
-      "title": "Microsoft Stock: Azure Growth Proves Resilient",
-      "excerpt": "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ec7f705c6f50a743373b0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/",
-      "publishedDateTime": "2022-08-08T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-natural-language-processing-nlp-market-worth-494-billion-by-2027-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "CHICAGO, /PRNewswire/ --Natural Language Processing (NLP) Marketsize to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
-      "title": "Google Sues Sonos Over Voice Control Technology",
-      "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
-      "originalUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1ab8c1ec92e7e5a7577256e1cb142c4ea645c6e2/2022/04/15/32b089bd-0635-49e7-813b-e3d2410c60c1/google-logo-2022-443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
-      "publishedDateTime": "2022-08-08T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

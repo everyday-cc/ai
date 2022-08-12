@@ -3,25 +3,24 @@ category: news
 title: "How artificial intelligence could lower nuclear energy costs"
 excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
 publishedDateTime: 2022-08-11T16:22:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_9f6b0524-53bd-5bc3-882e-753d27e149c7.html?block_id=531919"
-webUrl: "https://www.galvnews.com/news_ap/business/article_9f6b0524-53bd-5bc3-882e-753d27e149c7.html?block_id=531919"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -56,6 +55,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "Q/ZKT0JDyVV2Ud8lsD3I4FnhDkjmfbax2GKMfWYLvu9EzEoZHnD42c0klQDtwphJb873l84bzGi1RuIIcu2kPpLpLX5OR3yt7KxP3tE2asMNEW4JA+fiEjOLY0UO3tnRu7KvoXyXIt6snkUr2i4WIUYlAjncxAulmh5V4opRW1T7OLcd65hXQplTfU8+fejcqpDmA5eELQ+C23/i/V2bxfCyoKeioimpEZCrCC+GzE/spggmEEaKE6HvRpEKVaxg/g43xnvGW8R3wEJwOm4o0FHjpc96yfKQTcREFPUWcaI6tnCF7JE6zNnApEPRIAR+WZCasr98hl+DJGO9J8zj11Uyg8i0km/a1aMaAfZcr6I=;V53rHCHmpQR4yN0atPzVKA=="
+secured: "TqknbOEy0U6VIuJ/ZZ0oT6xvnITtOhf4QQLrxI32vsqXiyVht/Z8EzkTkf8Wv7efLpJuXwo4USAuILB4jJyAq/2lql0LXW1XDygDGcZU2tSHTx3OJd2+aOqM8snMnzMGPA2TjKkcuNsQiDDzvgSH/x0Ko9UtSLN4Fi92ERhwip0+gEeEOIxjZmiqT7F9lw9e8fe84aE3xzFEIVCYtV/f+AHFB1qUL1Nc/H4/YU+72sHXbVAHHZFT0Cpu8DmWZoJesBilBXHT5eNXmsxvtqbv4ztc8iEgyofWfX6xBgqrEpUp7CPijKooYuW0mOs0v2P2jVw/pvnbjIW7cTvCToSwwsyHgRnJRzw4DI75zEWV0h4=;DFMusqkBfz8d7gTOnwOCjg=="
 ---
 

@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Car Technology Market 2022 Innovation, Business Strategy, Future Technology, Application, Top Key Companies Analysis to 2028"
-    excerpt: "Self-driving Car Technology Market Report Scope and Overview The market’s sales volume, price, revenue, gross margin,"
-    publishedDateTime: 2022-08-11T09:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-technology-market-2022-innovation-business-strategy-future-technology-application-top-key-companies-analysis-to-2028-2022-08-11"
+  - title: "Outlook On The AI In Drug Discovery Global Market To 2027 - AI Cloud To Create A Streamlined And Automated Approach To Drug Discovery'"
+    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%.Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
+    publishedDateTime: 2022-08-12T11:37:00Z
+    webUrl: "https://menafn.com/1104688218/Outlook-On-The-AI-In-Drug-Discovery-Global-Market-To-2027-AI-Cloud-To-Create-A-Streamlined-And-Automated-Approach-To-Drug-Discovery"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?328935"
+        width: 440
+        height: 249
         isCached: true
 
 secured: "IXGbrDf+coEw342OG3i11LJBxuXV7pJ5tI2gFow3nJuX82jW0Kn3qHQh1Tj7pJPhZRc0TviFO9hLwl0WazvasD/NABckkuTKyq2VoRZKd91tWq8p5qBwXGRK4UPwyqqI21/9N7Ut3xNvaJzZCMjxKHoZTZFZSLUNTj24YAYn33EfEWZ3UX+/GFRcK1JqQFXjOKOSI3kmB7h2qHzrBZEv6LJLxw7GvQIca7TYCy8XbupAKTXjPUTPF8DD4q79QUppg33q/X2drpnmdr3hITBYmz6OYm/4omp57rahhcrC9BF+0NT6Fl1JQRDw7oc83OhdZI6BkNypy/FHRuB5B63id7T172xXBVTZhqOXV6/XYWU=;1KdkM+pW6b6tl0v5b1T+mg=="

@@ -2,6 +2,201 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-metas-new-ai-powered-chatbot-isnt-crazy-about-facebook.md",
+      "title": "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook",
+      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "publishedDateTime": "2022-08-10T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-robot-arms-are-replacing-shelf-stockers-in-japans-stores.md",
+      "title": "Robot arms are replacing shelf stockers in Japan's stores",
+      "excerpt": "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp",
+      "publishedDateTime": "2022-08-10T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
+      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
+      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "publishedDateTime": "2022-08-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels.md",
+      "title": "Use computer vision to measure agriculture yield with Amazon Rekognition Custom Labels",
+      "excerpt": "In the agriculture sector, the problem of identifying and counting the amount of fruit on trees plays an important role in crop estimation. The concept of renting and leasing a tree is becoming popular, where a tree owner leases the tree every year before the harvest based on the estimated fruit yeild.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T12:02:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
       "title": "10 top artificial intelligence (AI) solutions in 2022",
       "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
@@ -207,7 +402,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -795,6 +990,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028.md",
+      "title": "Europe AI in Computer Vision Market Production, Growth, Share, Demand and Applications Forecast to 2028",
+      "excerpt": "Pune,india-Business market insights Latest update on Europe AI in Computer Vision Analysis, Europe AI in Computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
       "title": "The Best Examples Of Human And Robot Collaboration",
       "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
@@ -890,58 +1137,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031",
-      "excerpt": "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-10-new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence.md",
       "title": "New Texas partnership aims to define ethics in artificial intelligence",
       "excerpt": "It seems like every day there are new headlines about what artificial intelligence can do. However, a new research partnership at the University of Texas at Austin is more interested how it works. The initiative between UT-Austin’s Good Systems program and the MITRE Corporation,",
@@ -1033,213 +1228,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
-      "title": "Baidu gets permits for first fully driverless taxi service in China",
-      "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "publishedDateTime": "2022-08-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
-      "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
-      "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
-      "originalUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f32670e/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F9d%2F637f2282401688a38dc8240fee33%2Fai-pilot-02.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.md",
-      "title": "Citi's stocks to play the biggest themes of our time like automation and AI",
-      "excerpt": "As markets remain saddled with short-term turmoil and recession fears, one top strategist recommends investors start seeking out stocks with long-term structural growth stories. Citi's Scott Chronert believes stocks that play into the biggest trends of our time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106906180-16252398672021-07-02t100213z_1512409415_rc2aco9klsci_rtrmadp_0_usa-mining-gm.jpeg?v=1625239934&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
-      "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
-      "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f26984a8524fb68860c8b6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
-      "publishedDateTime": "2022-08-09T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.outsourcing-pharma.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/preclinical-research/blending-human-knowhow-artificial-intelligence-aids-drug-discovery/15651867-1-eng-GB/Blending-human-knowhow-artificial-intelligence-aids-drug-discovery.jpg"

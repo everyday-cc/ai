@@ -89,20 +89,6 @@ related:
         width: 1278
         height: 720
         isCached: true
-  - title: "New Uses For AI In Chips"
-    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
-    publishedDateTime: 2022-08-11T07:05:00Z
-    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 58
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
-        width: 1430
-        height: 644
-        isCached: true
   - title: "This skin-like computer chip utilises AI to keep track of medical information"
     excerpt: "We’ll send you a weekly digest of our best AI articles if you sign up for our newsletter today. Wearable biosensors, such as those developed by the associate professor and his colleagues, will be able to monitor health indicators including blood sugar,"
     publishedDateTime: 2022-08-08T14:20:00Z

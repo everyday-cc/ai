@@ -41,6 +41,20 @@ related:
         width: 800
         height: 399
         isCached: true
+  - title: "5 Ways AI is shaping the future of investment research"
+    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
+    publishedDateTime: 2022-08-12T10:43:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
+        width: 800
+        height: 522
+        isCached: true
 
 secured: "SQI0KfWYEZkIU+4ip9673n4bMA6qmMZ9FVI3dJ6VIelu5BdqpbZXMcyHN+Ne8H4Pq4+Atqhdgq6fInFBtC5+76ATI6UtUSC6l+/5mbjYOvfHGGsICI1gumy0oMAjDvwhZp3C+hqjQlCdDO4L9dFOOttbAz90jIbDgD4n+T8F2RmGQh8Q7RY8qTh8/dmiKytEsPVHAOwgZdmObyO6Y0iDrSQdnM0++Dsy/ovq75TxbuUVF8G8A3aEOfsuHReL1+R5IAT8p5v9c+tRlh+jroVGW7+5rLjj5I+ob/cB9FzGeOYtxfQXU6LLJx4ruYB4Vy971mr1aSzZAjJ4hP/C9VPOTJQ9HRVHJQbFM5mmm4K+0lzCBgc2fB5qsDs5C+miq5cLZegKXkLIelI1jd8mk4VScuPOLEp/76J+2/cFMr2Uv6TnTMoBUQAFl8IIf0kea71NO7jnnHtlErks0oD3tSWVkr4HIPSpQWjxEym9EpyHuVcMCr2T2eChjltBy9d6OB3qVxHpmkxN3Q9lewh/9D+jVA==;fmflsBpw8uf7dm+6I3Qn9w=="
 ---
