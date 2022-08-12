@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://images.barrons.com/im-598833/social"

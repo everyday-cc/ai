@@ -1,23 +1,24 @@
 ---
 category: news
 title: "Clearview Consent Launches Presentation Attack Detection"
-excerpt: "That, Clearview AI's CEO said, \"The launch of our Presentation Attack Detection, also known as 'liveness detection,' will help governmental and commercial entities stay one step ahead of crime and fraud."
-publishedDateTime: 2022-08-11T11:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-clearview-consent-launches-presentation-attack-detection-/2022/08/11/9654381.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-clearview-consent-launches-presentation-attack-detection-/2022/08/11/9654381.htm"
+excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
+publishedDateTime: 2022-08-11T10:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
+webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "9YM68y2eXlpjyufRJPoO5+lz+J0ZwHjjASXb6igJs+6BZv4zYOh5Sjm3fkzbbHstQBNDjG81AXG33MU2QJO46/VCXMBD0yRGq5usr01lNucHA9aQ4bSNHySf8NxOkhwEjRU5u4XaPVIGoGj8drLFtYzTcB/JfrJSQZRD/WTX1PW897IraJoQXaaH3doOfMqY3bGcMtf+m0BBzqlUQqCmXpUEgUET3Mvav81Ur7HZSrQp8LQHA+mlZKkUjj7LSdpld7nGk+n+MFA9Dt3FfKWNegkEzXT/OnmaAlIFDGxp7oUJyNPNMqLJmGO+IUpqRgNTftHPt8sho5ct3vUlXKCUzLmRQXPM+rth6iJeeDdZB5Q=;BNp6pgFGVQlbLyi6TiZKqA=="
+secured: "KL20bqlYBpVcybRJiWOYiHglMo9s4iMJ/hH9xvzEAMm+dMuY9cYkI6MrqZKnjtckA8AFaOndouWdWOjkk2EHKE+n72vLbli6UBpRvzdgEwjin48pUYc3kOsWzuDXC7DJh1CJAwMQvajqDJ3AUcf1sGFyquDk01NPxk+oz0fGHBbef4Vpx2rsaWcv/RntG9PG4aD4LzpWxK0YjepOwpEqC19tziPJFnbTOQWPHDBV9U/xtnGBq6acFA3sD39NZAd7r+vRL8mux3j9SgItorD9DGp4hFYrQksFhbjGBbPeBkwWL8OiTA4X+qyfMZH+fvdB9bCYngeX8j12tjqo48YujN+ulnFKrQTkbRu3Pt3cZlg=;XYbpD7IBCdPw4VCdOSfCig=="
 ---
 

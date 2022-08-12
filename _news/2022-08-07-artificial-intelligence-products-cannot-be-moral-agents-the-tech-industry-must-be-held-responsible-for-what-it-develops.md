@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/07/whats-our-own-role-in-creating-a-toxic-hockey-culture-for-young-men/hockey_fans.jpg.size.custom.crop.640x360.jpg"
