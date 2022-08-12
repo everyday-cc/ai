@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - AI in Autos
+  - Google AI
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20220806_PDP503.jpg"

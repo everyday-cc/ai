@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Clearview Consent Launches Presentation Attack Detection"
-excerpt: "Hoan Ton-That, Clearview AI’s CEO said, “The launch of our Presentation Attack ... facial recognition technology providers such as Amazon Rekognition and Microsoft Azure, while delivering superior performance and accuracy. Clearview Consent is also ..."
-publishedDateTime: 2022-08-11T10:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html"
+excerpt: "That, Clearview AI’s CEO said, “The launch of our Presentation Attack Detection, also known as ‘liveness detection,’ will help governmental and commercial entities stay one step ahead of crime and fraud."
+publishedDateTime: 2022-08-11T10:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "rtN0aMp4x6tunB3KL3vkEehZ/np9lG8LBIIpf74tklOVnum+ih1iTFPg9jV4robtw9V4I1k9UwZ5pVoADH3gV3kd4Uk34eVNxGZ1dhmDb4HnhYhMFImtByDf0SzKtckpJtn+CTckrXLRr4W914RXv9CFTAzcZyUrCgOf7Q2Qxet0Zjze5V/x9QIa3sIn5j7LOVWWBK7CDmhmfn70UGleRT790berkuCTSZjDW4SzgIoLSq4xHhMNlagJjCHxQ2eIg6YzJZxLe/+z2sqarQebFb0xnt0CylOKivpZcC4c1nqFdPYHm/I8iRJxQO7OBwvCvunYyLQK8GiS3sFMfntI9bu/Nu9JF1u5JLaOAXitJuM=;N6pAteOG+qc76JCt9IO4eQ=="
+secured: "NjJYmD3DPgSo6ih5JF1LOIwVvdszjvnBfyeFzwXUZjYElCLjU7Z9wGmP3v/qFKA0ON+dg5gEmGTEB+EV8TfBN/RNhv/IWAKSrXHw23AFXknirl1CkCojITGoMOgspZ5hcm5zxGOSZWN/AZ3Fn1qb40rsyfYr+lBQddchv1+Gw92pzxFNyr3fjxWlTgAv+yRK/1yme2IlUzIS0Ck7OkevikXXsxuT7RT/rY9LvWkdEfpIrLgv6cwECnBmfIuY6b5nLhc+Q6ZIIvLOCusZghE+HW2NkEewCBArCYyWRAYOeVNIdCU9oii/6z2f5/fyKhxklwnjHdzuS81GSUtLk2mdJR05O8g4zqRbSExfi4XLIws=;i9VkVOZamMYJNrMAUdwZBw=="
 ---
 
