@@ -80,15 +80,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "GTRCB artificial intelligence technology, leading a new benchmark in the era of artificial intelligence"
-    excerpt: "The goal of GTRCB in the area of e-commerce is to assist businesses, merchants, brands, retailers, and other businesses in changing the way that marketing, sales, and operation are done, and to use the power of new artificial intelligence technology to increase the frequency and impact of interaction between e-commerce practitioners and customers,"
-    publishedDateTime: 2022-08-07T13:02:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/wdwire-2022-8-7-gtrcb-artificial-intelligence-technology-leading-a-new-benchmark-in-the-era-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
 
 secured: "re/32CojD6Mb39Z0IsbTaS5/VGDlfUQK3gyuFVVO5xx7T7myLFAhprNUjkvzgnvD7ITcipQxxrJDwLkpNkVIyVPnhuWXH4f7avFbB97fbUKtBVlV7jAcGP1fhgjx8+1AQmDEmLqpiphoOlCmxfVCnOYNBPXu15S63QxSvH38SabqOpVbloVkZUlPKPPM37Qq0QGjI8xYUmNRZzVZ3ACvg6FCUOjZosaG7nUf4CYMwnJpfrFNcCaIgFM5QJPT/HrkBLNWa8P/5SHNOUH+t1V7b6h84Lxy6nKtFYxnndyfKO8kHpWSwEFIRpMpOycinQw+MiGP2Y9bmgpkDLhsCi4UmHTdqcRslcXMds5Rw+d0GX+qqGo7SC7Pu+ROC04PD/0zwmuH1WpQvQjg1rzWuXkQt0+aPBYuF3jkCI4ZiZsTAbzLc5c8aYeZQMP02Zn77YDy+tMyWZiLRq5d86X8XCXqQk7X7gbIEh0VlCeeTBvRv8KMGE4nGMSD9LoSvaSLe7ZqP5FzWtuMOqDjVAMgeX+7wA==;8mVFrju0X4P84OQSbP2XoQ=="
 ---

@@ -2,6 +2,84 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-07-21-asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot.md",
+      "title": "ASX Tech Stocks: Archer’s chip compatible with semi fabs and a super fast plasma boring robot",
+      "excerpt": "Archer's 12CQ quantum chip is compatible with industrial semiconductor fabrication processes and a plasma robot digger with lightsaber arms.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "originalUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2022/07/GettyImages-168623087.jpg",
+          "width": 1933,
+          "height": 1087,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
+      "publishedDateTime": "2022-07-20T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-baidu-unveils-production-ready-self-driving-rt6.md",
+      "title": "Baidu unveils production-ready, self-driving RT6",
+      "excerpt": "Baidu unveiled Apollo RT6 autonomous driving vehicle on July 21 at its annual technology conference Baidu World 2022. With a regular SUV look, RT6 is able to self-drive on any of the highways in ...",
+      "sourceUrl": null,
+      "webUrl": "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?mod=0&chid=13",
+      "originalUrl": "https://digitimes.com/news/a20220721VL200/autonomous-driving-baidu-china-self-driving-car.html?mod=0&chid=13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-meta-ai-language-translation-machine-supports-55-african-languages.md",
       "title": "Meta AI language translation machine supports 55 African languages",
       "excerpt": "To this end, Meta has been working on a translation service that will offer state-of-the-art results. The Meta AI language translation machine is an open-source single AI translation service ...",
@@ -1057,83 +1135,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-fusemachines-expands-ai-training-for-corporations-by-partnering-with-fintech-focused-financial-literacy-platform-viableedu.md",
-      "title": "Fusemachines Expands AI Training for Corporations by Partnering With Fintech-Focused Financial Literacy Platform ViableEdu",
-      "excerpt": "ViableEdu will leverage Fusemachines’ AI expertise to create a first-of-its-kind training offering for fintech professionals. The new partnership will empower the distinct audience group of financial services professionals to benefit from curated AI training opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
-      "originalUrl": "https://apnews.com/press-release/Newswire/technology-education-5111e7030c6ddae5c26610847ee7d626",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazoncom-inc.md",
-      "title": "Machine Translation Market Is Expected to Boom- Alibaba Cloud, AppTek LLC, Amazon.com Inc.",
-      "excerpt": "Machine translation uses artificial intelligence (AI) to automatically translate content between languages without the intervention of human linguists. Google Translate, Bing Translate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazon-com-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-translation-market-is-expected-to-boom-alibaba-cloud-apptek-llc-amazon-com-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/fa01fa28f4cd771729aec28af80bfc3c7e5f4e03-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

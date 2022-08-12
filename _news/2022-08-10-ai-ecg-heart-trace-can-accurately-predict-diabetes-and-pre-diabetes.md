@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Machine Learning Algorithm Can Predict Diabetes From ECG"
-    excerpt: "WEDNESDAY, Aug. 10, 2022 (HealthDay News) -- A machine learning algorithm can detect diabetes and prediabetes from electrocardiogram (ECG) features, according to a study published online Aug. 9 in BMJ Innovations. Anoop R. Kulkarni, Ph.D., from Innotomy ..."
-    publishedDateTime: 2022-08-10T15:57:00Z
-    webUrl: "https://madison.com/lifestyles/health-med-fit/machine-learning-algorithm-can-predict-diabetes-from-ecg/article_d0548af8-e311-5ad2-99cc-03a5e691027c.html"
+    excerpt: "A machine learning algorithm can detect diabetes and prediabetes from electrocardiogram (ECG) features, according to a study published online Aug. 9 in BMJ Innovations."
+    publishedDateTime: 2022-08-10T15:56:00Z
+    webUrl: "https://www.channel3000.com/i/machine-learning-algorithm-can-predict-diabetes-from-ecg/"
     type: article
     provider:
-      name: Wisconsin State Journal
-      domain: madison.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/8a/38a9a5fe-3f7d-5e58-b876-1e5547690f54/62f3fcc3a9b5e.image.jpg?crop=600%2C315%2C0%2C37&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/08/h/r/6d1ba2ea26c9cf0ef0db182e641514626a9ced0d.jpg"
         width: 600
-        height: 315
+        height: 389
         isCached: true
   - title: "ECG Using AI Algorithm can Predict Diabetes and Pre-diabetes Early"
     excerpt: "DiaBeats algorithm can be used to screen in low-resource settings, as it can quickly predict diabetes and prediabetes with 97% accuracy."

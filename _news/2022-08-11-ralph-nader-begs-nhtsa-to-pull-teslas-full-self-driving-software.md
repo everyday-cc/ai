@@ -155,22 +155,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tesla falsely advertised Autopilot, Full Self-Driving, says California DMV"
-    excerpt: "Vehicles equipped with Autopilot and Full Self-Driving technology \"could not at the time of those advertisements, and cannot now, operate as autonomous vehicles.\""
-    publishedDateTime: 2022-08-07T14:52:00Z
-    webUrl: "https://www.autoblog.com/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "'Deeply disturbing' Tesla warning as self-driving cars 'mow down CHILDREN' during test"
     excerpt: "A \"DEEPLY disturbing\" video claims to show a Tesla using self-driving software repeatedly running over a child-sized mannequin during a test by a driving safety campaign group."
     publishedDateTime: 2022-08-10T10:54:00Z

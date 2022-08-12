@@ -136,22 +136,6 @@ related:
         width: 2160
         height: 1200
         isCached: true
-  - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
-    excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
-    publishedDateTime: 2022-08-07T14:39:00Z
-    webUrl: "https://www.benzinga.com/news/22/08/28389257/mark-zuckerberg-is-a-bad-person-he-is-creepy-controlling-this-is-what-metas-new-ai-bot-says-about-hi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28389257"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28389257"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/08/07/zuckerberg_1.jpg?width=1200&height=800&fit=crop"
-        width: 563
-        height: 375
-        isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
 type: article
 quality: 52
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Powered Cognitive Search Market To Witness A Pronounce Growth, Incredible Demand, Prominent Investment During 2022-2030"
+    excerpt: "The global AI-Powered Cognitive Search Market is expected to reach US$ Million by 2027, with a CAGR of $$% from 2020 to 2027, based on Report Ocean newly published report. The demand for Internet-of-Things (IoT) technology and services are growing globally,"
+    publishedDateTime: 2022-08-09T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-to-witness-a-pronounce-growth-incredible-demand-prominent-investment-during-2022-2030-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

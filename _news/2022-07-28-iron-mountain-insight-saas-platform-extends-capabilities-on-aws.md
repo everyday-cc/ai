@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS"
-excerpt: "Get 7 Days Free Sign In Sign In Topics"
+excerpt: "Iron Mountain (NYSE: IRM), a global leader in innovative storage, data center infrastructure, asset lifecycle management"
 publishedDateTime: 2022-07-28T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
-webUrl: "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws"
+originalUrl: "https://www.marketwatch.com/press-release/iron-mountain-insight-saas-platform-extends-capabilities-on-aws-2022-07-28"
+webUrl: "https://www.marketwatch.com/press-release/iron-mountain-insight-saas-platform-extends-capabilities-on-aws-2022-07-28"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "esG3eFotwktk97rbGW3nd4sO3bGl78WM21VXxdx81F6kEULUTWtLynXQIqOO49Tl48upYXcBdNfTwfVaehTLwQIRICSXbmGx+xRSv5ZX7o8Gx0XIB5ukXd1XFXm4jvGVXB5ZT8LlHu2qXu08oVhsPaXPZCmUJONGEr4EJRpFkpYy09CIe8A4SIS9tPLFm3cKO7YNy0JpBge22T4FGkzUxOkRZ3iXMpGUVMEO0IsvBWkGeHN/v6Tf8IEAwDuGM6Z1VX4N24LKwTZA9/JVl9GdML2SLUKCFlZ0SeUwoajAgTqgN1awCv4ZLUQQYP/dx8g+Jp30Gz2zAXdrCWMyeSANn5dDE5ApcbwAi9yKHdZ1+lU=;a9Jq3+oz/xkEKDht+meNfA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "4LpCgZOsf9spcftS8gCdniAAhtyl+XZBIrxSGEe/bxYgptUlG9qXnUs7LVRoisf8RAXW6cRGCDuLKLm539WlIeZ+VNYBpyf3OHaR5W7j0uvGIdYF7eKNkucAAwYs2KzVFBywM3pUmUPiowsA22tSVrg1k6d7WhcyOAw2CKB679TMgeerlM3WEGzPQ6PyAP4PMVJAlRtErvOHGeMB2XORJq10JA4LW6FV63tgIn00ZmImTmOuCvUF8P/Tp4yoN607H/aQn/xrcanS04so+FMO3OhUyl+CYe8w4yP7nUMvJ8xHal4SdjpzxkzU4JgMQvYFjh4ZlF7iqqUAFivt1Hv5STonipHySXa8jhkh6nvBV9Q=;F4EfdUDkbJlE+rgDEsXHrg=="
 ---
 

@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Mandi researchers use AI enhanced Operation Research algorithms for wastewater management"
-    excerpt: "IIT Mandi researchers have used AI enhanced operation research algorithms to find appropriate methods for wastewater management. This algorithm helps identify the most apt method for wastewater management by keeping in mind the socio-economic needs of the environment concerned."
-    publishedDateTime: 2022-08-10T15:16:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398"
-    ampWebUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
+  - title: "Hyundai to set up Robot AI research institute in US"
+    excerpt: "By Kim Hyun-bin Hyundai Motor Group announced Friday the launch of the Boston Dynamics AI Institute with the goal of making fundamental advances in artificial intelligence (AI), r"
+    publishedDateTime: 2022-08-12T06:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2022/08/419_334341.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 46
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 76
     images:
-      - url: "https://static.tnn.in/thumb/msid-93484398,imgsize-100,width-1280,height-720,resizemode-75/93484398.jpg"
-        width: 1278
-        height: 720
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202208/8f13e438b9c24feeada18fa7f57f15bf.jpg"
+        width: 640
+        height: 460
         isCached: true
-  - title: "IIT Mandi uses AI-enhanced research algorithm tools"
-    excerpt: "Researchers from the Indian Institute of Technology, Mandi have used artificial intelligence-enhanced operation research tools to select wastewater management methods to meet the specific socio-economic needs of places and environments."
-    publishedDateTime: 2022-08-10T23:49:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-mandi-uses-ai-enhanced-research-algorithm-tools-757220"
+  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
+    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+    publishedDateTime: 2022-08-12T06:04:00Z
+    webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 37
+      name: The NewsMarket
+      domain: thenewsmarket.com
+    quality: 61
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/08/10/1307317-algorithum-tools.jpg"
-        width: 1200
-        height: 720
+      - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
+        width: 1164
+        height: 657
         isCached: true
 
 secured: "xxX+DpNchpMF35i7IDo/YM1To1cI2VA7FH8GzBuCYHdg1gmsfM51bqOrp1KYlduExZXA9yrRWWrhXuNBq2Q0iosuDGowzH1ObTBKJ1IDdezOeW6+kmVUaQhvunoa2yxJ0iTB5tgcW0vvWec8AewcFC2l75b6B9S19SSxYgpSlIC5vfRU1fxYiprYoTG9IhJ0VefaS1keCXpfp/USNtzjMM2kye/g/QWoU7cAtfZjIh/SZ4qZlTI2lQR2gjWHWck0+6sjlyePWHVVJsFjmM6SXLDvrFHaehpNBlBO45FH6cyW32g1pP9EIzy35lmRIGWEYKJi3uPMHIOShkKW4NbRJggYB7f+9TvovZtBUTZpSDM=;O4tUyHShozxt36wkpWu4Mw=="

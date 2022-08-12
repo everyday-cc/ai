@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/crime/abu-dhabi-criminal-cases-now-foll
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/crime/abu-dhabi-criminal-cases-now-followed-up-by-artificial-intelligence-1.89792712"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "Abu Dhabi Department of health adds AI and Machine learning functionality to health platform"
+    excerpt: "Malaffi’s risk management solution uses advanced artificial intelligence (AI) technologies and machine learning algorithms to build predictive risk models based on available UAE’s-level demographic and clinical data in Malaffi."
+    publishedDateTime: 2022-08-12T07:13:00Z
+    webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-department-of-health-adds-ai-and-machine-learning-functionality-to-health-platform"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 23
 
 secured: "3+yIBEt9crGZgm3hwEUbGO/j2eQlDlfppdmj2x3IZj9od/xkvAQY9LyQ8cfcIpjYn8B/yCqwxOv8/lvYzV8zJj1p7espBJGtZCWflEiwCob7PZsLRP52m6n8cPJe7mUWzr31p4p7TjItFv7wieQzgAmnAZzB5uSyncgmT+k0BKGWYjReV+XJszO8j63wFjmzm62+HECCfAL2ilkZznyzhwWftB/3XEOgdHnwlzcIigcSR6EWKJZy7EFfzp7wK86NGUgLlp/+EHW+aCx8+CDt8nMNe6sw35NKRuIMEQ7aJ0gsdmuobOv4LcD5qd4h6N7TK0SmMQyCms8VwDjdoaVN8Yk4pkGhNZfUZsdpBNNYGg4eu3Tw7qx45mGh9ciaKcR+GwpD+SDAlueu2rzGNTcmfHh0mQ2K+o7+KWM4+QZdLqBLfNAIBZ2QqX0LvuPc6DeI6CSQoyq/V38GFrkjRKQ1CHCdPS7eOO/J5nMfCduoxXoD5LSc3y8CZFG9MXzj5oRLtvqVEIi/2hzbvthhI9F1rg==;JMj4WxgM7zEoS9aIcSKu8Q=="
 ---

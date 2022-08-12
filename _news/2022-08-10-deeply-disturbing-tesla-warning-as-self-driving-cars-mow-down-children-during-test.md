@@ -171,22 +171,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla falsely advertised Autopilot, Full Self-Driving, says California DMV"
-    excerpt: "Vehicles equipped with Autopilot and Full Self-Driving technology \"could not at the time of those advertisements, and cannot now, operate as autonomous vehicles.\""
-    publishedDateTime: 2022-08-07T14:52:00Z
-    webUrl: "https://www.autoblog.com/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/08/07/tesla-autopilot-full-self-driving-false-misleading-californiaa/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 57
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-10/0fd8d580-e4ab-11e9-a22d-01d4756e572b"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Tesla’s Self-Driving Technology Fails to Detect Children in The Road, Tests Find"
     excerpt: "A safe-technology advocacy group issued claimed Aug. 9 that Tesla’s full self-driving software represents a potentially lethal threat to child pedestrians, the latest in a series of claims and investigations into the technology to hit the world’s leading electric carmaker."
     publishedDateTime: 2022-08-11T04:40:00Z

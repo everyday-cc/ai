@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-06-29-5-digital-transformation-strategies-to-improve-the-air-travel-experience.md",
+      "title": "5 Digital Transformation Strategies to Improve the Air Travel Experience",
+      "excerpt": "For example, AI-powered virtual agent IBM Watson (aka “Watson”) learns from customer interactions and knows when to search its knowledge base for answers, when to ask for clarity and when ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
+      "originalUrl": "https://skift.com/2022/06/29/5-digital-transformation-strategies-to-improve-the-air-travel-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-ibm-saudis-king-saud-university-partner-to-advance-skills-development.md",
       "title": "IBM, Saudi’s King Saud University partner to advance skills development",
       "excerpt": "King Saud University (KSU), the first public university in the Saudi Arabia has announced its collaboration with IBM aimed at advancing skills development through artificial intelligence (AI ...",
@@ -1267,59 +1301,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
-      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
-      "excerpt": "(Reuters) - IBM has set a new goal for propelling ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in ...",
-      "sourceUrl": null,
-      "webUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
-      "originalUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20220510&t=2&i=1599069924&r=LYNXNPEI490JM&w=800",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ロイター",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "CEVA Celebrates 15 Billionth CEVA-powered Chip Shipped"
-excerpt: "(NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced today that cumulative royalty-bearing chip shipments that include CEVA IP surpassed 15 billion units during the second quarter."
-publishedDateTime: 2022-08-09T12:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/09/9652533.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/09/9652533.htm"
+excerpt: "CEVA Celebrates 15 Billionth CEVA-powered Chip Shipped Aug 09, 2022 (PRNewswire via COMTEX) -- PR Newswire ROCKVILLE, Md., Milestone"
+publishedDateTime: 2022-08-09T11:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ceva-celebrates-15-billionth-ceva-powered-chip-shipped-2022-08-09"
+webUrl: "https://www.marketwatch.com/press-release/ceva-celebrates-15-billionth-ceva-powered-chip-shipped-2022-08-09"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "6pkjmYqYQANQc6Xe1eB/1DxWmqB++6LDj559xoiSsVbrGASuRewWhPH8a+xBLto3Msxtm5jrxmN91+4ABHJ/ILpPByldU8ysDucZoFIKBJzuOzvRLlDPx1PC3mFVBTTRDJzZ7DTWE/R+fm/r4a+PI9OUmFw4WtTpvG4qaF3Ftn7TIj/T+6faLXWVe/v3w8a18fokLJEK9erQnUxljfWM6lpwRcFwZvoG2EtkKx2vl9oXkalxucqahRoPfYOvuWq3aByB1Qp5gQjymlQziArzQg3B3ojLnJRrndDu4ibM+6wBgH7p6Qk4OnFEsnKazuaUF+t1k8lUDyvOVHT4gy1TEjnSNdtt0cVFr2BQKxTL9is=;lwnrg1H0bnQeMv7q8J2HKg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "jeEdxHJq2VJOxxrEt/xge20q2lTVh7bZw3fLLHJK/MPkxJXO3bfrTKN5Fjymdr5HbhXICSVdznAoM/4ifX/gf18ieWbW1Zpn/xQCmCSwHCwyYVmh1+hj4OIMUL/drmr6kmgTiuMAnsq3IWQFqBvM2T6TP0N3c4e8Ug7a1pqtD/P+8hj/jeVUXzbL6i+UQ6qpEQFuY5ASFN8o5fUFMWmEmtpTLuz2pzFEjEiTTOXmlx26vtac/GQyfhuGzfccs+cAAr3xlIIgEoeTitRkDfcm+qJvj3TiEmamhu2JByjwYooLj2CEVGOBzT5uNl1STXVLi/Xe/WxJ2V1q8ubR+sAavq09gCEhVGf++LGnxc+MIS0=;ZO/c5jWOOnSsHVuaFLdhOQ=="
 ---
 

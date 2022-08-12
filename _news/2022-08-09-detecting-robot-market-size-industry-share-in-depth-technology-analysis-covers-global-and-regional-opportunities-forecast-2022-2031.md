@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) as a Service Market Trends, High CAGR, Industry Size, New Innovations, Future Scope and Forecast 2028"
+    excerpt: "Data Bridge Market Research analyses that the artificial intelligence (AI) as a service market will exhibit a CAGR of 36.72% for the forecast period of 2021-2028 and is expected to reach the market value of USD 71,"
+    publishedDateTime: 2022-08-11T18:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-trends-high-cagr-industry-size-new-innovations-future-scope-and-forecast-2028-2022-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
     excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
     publishedDateTime: 2022-08-09T06:18:00Z

@@ -40,20 +40,6 @@ related:
         width: 1278
         height: 720
         isCached: true
-  - title: "AI in medical research"
-    excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
-    publishedDateTime: 2022-08-07T20:17:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272646253/ai-in-medical-research"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "OVxApsSe4IzY9WuWC9sqaEFhWbU3hF1Wya+SFP1lO943177w+K4l0+kbLeO2PJVCRN4W9DFh6ZcBBgaR+nEPkvFmNsltdkcX9l0lA+MhW186iceWTpZzY865H75K/0+zOLkdxBb25zUQRpuJ+IGucvCtPplHWnOvhdgtQW/sUDEy7jmvBcHN9J+XNm2MAadYb0CpH/xy5vv5hNzCSPWusoY6V245Uey/AnR1+hrfDP4MIMlovG1kJQc8aITkKQ9VSkBHkGPqLz6bX5xQrc0+oVXj6IbxR0LAg3Oy92v8JcwSukbjst+67bm8k+dQPmGKm0cL2kU7JHTe8pyOAi54OwqIvV1bF/jXe90SQs4pPk0=;ciqDXl/BN9v5ehkMiBDimA=="
 ---

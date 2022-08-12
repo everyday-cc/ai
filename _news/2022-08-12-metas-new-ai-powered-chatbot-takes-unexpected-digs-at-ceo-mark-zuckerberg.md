@@ -122,22 +122,6 @@ related:
         width: 2160
         height: 1200
         isCached: true
-  - title: "Mark Zuckerberg Is 'Creepy And Controlling' - This Is What Meta's New AI Chatbot Says About Its Boss"
-    excerpt: "Now, Twitter is buzzing about the chatbot and how it responds to specific questions, especially things about Meta CEO Mark Zuckerberg. In a Twitter thread, BuzzFeed data scientist"
-    publishedDateTime: 2022-08-07T14:39:00Z
-    webUrl: "https://www.benzinga.com/news/22/08/28389257/mark-zuckerberg-is-a-bad-person-he-is-creepy-controlling-this-is-what-metas-new-ai-bot-says-about-hi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28389257"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28389257"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2022/08/07/zuckerberg_1.jpg?width=1200&height=800&fit=crop"
-        width: 563
-        height: 375
-        isCached: true
   - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
     excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
     publishedDateTime: 2022-08-10T15:33:00Z
@@ -215,6 +199,6 @@ related:
       domain: theguardian.com
     quality: 19
 
-secured: "JCFCsc86ZaAACDEo+gEpZ0wpm0n6Lp10t1K4+HDcq6OBRZ4AOP/FyoGctsNPNz/066Zy2KBi/xuDnhuqzTJfRP01GSpEpclXU/eaPhXsPg60EHdqNes/OUXcoIAgj4knpUy6sfWRAZDk9LnUIDH7UKZMN4uxhXQ18nH6pWvLE4U+M9P+UPEnfxzSJvXC7TwFxtVhohn7CEQ3/j2eXLAlQ9rZRtoEqBt2+D3dPYMwDxu2IA3KorzjhB8FveQk+Vl/89oiflMdASQSitXGyHWagOGylBOP44oM9mQGGVzL7eLpYtFJLSAn9k9+4wyY+5Us1pFb4QuJ0Bh8Iq3vT51+pi1nR4kzrGwcB8Ofe+XF5nw=;vVQxYKYUu/HLUC86Yu4oYg=="
+secured: "zxreXIITpy3BrfJMqgzJ1IZ0Acl7WtGd+ecdcLBTzx3YyVQSMQEJnj7YUlxSd/nofjqol2sdUcd42HylXnExLSkYtXb9Uyk22YzBmAcGtvo6T/69p1aS9fs3DG/sWcNzJr2QAvKZQnvivxJYQdXyPF4SZFEKYU0XdxeqiIZytOcMFJ1lGrSfvnnnsz7yrQCDBAgWV/kWhYrE9rJrBRDPSSQ/Ev9BbKUCzFyaGlQli6TEnkg+Vr/iyt/DWFGUB3j0kaj1Yh1wET+EJ6ElhoIRWcyk1VpOcYKFLnhx5OGgCq4YAYgIMoSD03kfAdkS5knFfGXinQLrCsf9Wi4K5wki+A8fSL3wipPtdXAryrczRubyiMe5gz42jBevTiZELCMq+ZuHfLpN0fsD2ZA69Y8lt04iuvoqLaXIQdpT3Qsexw4GmK1EaaCVaR2y3nafz1zxhOfBCoiRdjWUuBCr6/GOcqWYU7wbkXRZgVr8F6PhMyxcge6or+e2PVZ5Vm6ysZSALAonD8JWR+n3DSq2WTZ3Sg==;JVUWdu9x7UnNgwfwrshWRQ=="
 ---
 

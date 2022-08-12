@@ -216,18 +216,18 @@ related:
         height: 600
         isCached: true
   - title: "Baidu wins approval for China’s first full driverless taxis"
-    excerpt: "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ..."
-    publishedDateTime: 2022-08-08T04:50:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc. The tech giant has secured ..."
+    publishedDateTime: 2022-08-08T02:43:00Z
+    webUrl: "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 54
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
-        width: 1240
-        height: 827
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg"
+        width: 506
+        height: 337
         isCached: true
   - title: "China's Baidu to operate driverless taxis in two cities"
     excerpt: "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go."
