@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Baidu CEO says EV arm's autonomous driving tech will be ahead of Tesla"
+    excerpt: "Baidu's EV-making plan comes as tech companies ... 2022 Charged U.S. House lawmakers look to jump-start self-driving legislative push, article with image August 8, 2022"
+    publishedDateTime: 2022-08-08T10:18:00Z
+    webUrl: "https://www.reuters.com/technology/baidu-ev-unit-jidu-deliver-800000-robot-cars-2028-2022-08-08/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/psxPxwXqBkqe_yXLNaU5I7YtcB0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NWMSHKXQOVINZO2OKFCIVD2XCI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Baidu says its Jidu Auto EV autonomous tech will be ahead of Tesla by a full generation"
     excerpt: "Jidu revealed its first \"robot\" concept car, which has no door handles and can be fully controlled via voice recognition, with the plan to mass produce the model in 2023."
     publishedDateTime: 2022-08-08T12:20:00Z

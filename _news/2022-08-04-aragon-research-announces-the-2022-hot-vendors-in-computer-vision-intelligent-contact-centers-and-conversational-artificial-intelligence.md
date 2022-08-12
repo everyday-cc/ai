@@ -18,7 +18,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -26,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "/QUdTwcGMSz8ZQVmLnY3bYmLF38HeYEzVTePRjaLN0/vEi6DagTal0/PMbUKXboClMqb6AlndeghS57kRTf7b0RfsMNe/fxVkYocK7i/ukHaCM6Tx1Zzh4d7eiD/DKpK3PHoD+50Sh44NaLLwdDxeTzqtPZLaBeQKTGb+YlS6tip4ds9bJB/D36jBW0HU7MzqeS4UWx8yCWAoxvUPd8DNQqxcilFyhBNofXfvvBqjOQLoq3iuH26k+qX9g1/6dsO49QIhWf3t6v9NqASgGr2AhqTefdxWq4aV0Zais46/y8uX8HUykClGTDkMec2ZD1MZ8O0vGL0F9xioWmWIjNI5cvHEjZGhRckqp9UccSwn3I=;7Qjo1B5LrBtPuBKH450X1A=="
+secured: "Q0YAKWobKaQx52uhTy1qB3rRcQpFa7KOUUQ8rUGNbxDsRbVnaRivEsNbye8yZ6P4KhiDOUnAc+hpnzsK3Arh+cbPveAanigf8hVkdAdfl/4HBacdkpaYQow0+ifUcqI4c8q14lFL5hSLkr0YSri58YtM/aRXwvUPfXie7201GgtAXTuQFlfyFxfa4c6z6fDyXA8/cFcsX4sYRFxg26fmrqYa7kBF69fI+QRvYmlfrszCYBAymDoK3htQrblUa8orYz/ONWVnrrZiTR3e9+5dC33FuJQF0JRIFazRI2T35Uy8E/H5FHK1yxwyX/nE22hFCuldJARC1nGixPnQP5Hh12rDBfUGaWl1A61fYTJ540A=;VGSnVioJDlv99TfprN++jg=="
 ---
 

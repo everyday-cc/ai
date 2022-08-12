@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Wearable AI Market Growth Analysis, Future Demand, And Business Opportunities 2031"
+    excerpt: "Further, for the in-depth analysis, the report encompasses the industry growth indicators, restraints, supply and demand risk, along with detailed discussion on current and future market trends that are associated with the growth of the market."
+    publishedDateTime: 2022-08-08T15:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-growth-analysis-future-demand-and-business-opportunities-2031-2022-08-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
     excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
     publishedDateTime: 2022-08-10T13:43:00Z

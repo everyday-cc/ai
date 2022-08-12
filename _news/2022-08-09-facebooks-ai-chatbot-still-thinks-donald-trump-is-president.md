@@ -92,20 +92,20 @@ related:
         height: 713
         isCached: true
   - title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
-    excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
-    publishedDateTime: 2022-08-11T20:40:00Z
-    webUrl: "https://www.jta.org/2022/08/11/opinion/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
-    ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
-    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+    excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
+    publishedDateTime: 2022-08-11T22:05:00Z
+    webUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/"
+    ampWebUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
     type: article
     provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
+      name: The Forward
+      domain: forward.com
     quality: 51
     images:
-      - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
-        width: 1024
-        height: 569
+      - url: "https://forward.com/wp-content/uploads/2022/08/Untitled-design-2-1.png"
+        width: 2160
+        height: 1200
         isCached: true
   - title: "Blenderbot 3, Meta's most recent artificial intelligence chatbot, begins beta testing"
     excerpt: "Meta's AI research laboratories produced a new state-of-the-art chatbot and are letting the public test it. BlenderBot 3 is released to the public users in the US. Meta believes BlenderBot 3 can participate in regular chitchat and answer digital assistant questions,"

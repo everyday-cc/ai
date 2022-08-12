@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving air taxis coming to Australia"
+    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
+    publishedDateTime: 2022-08-09T00:56:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
+        width: 1125
+        height: 633
+        isCached: true
   - title: "Australian hospitality venues argue facial recognition deployments will help protect public"
     excerpt: "New South Wales pubs and clubs want further deployments of facial recognition technologies to tackle problem drinking and problem gambling."
     publishedDateTime: 2022-08-11T19:43:00Z

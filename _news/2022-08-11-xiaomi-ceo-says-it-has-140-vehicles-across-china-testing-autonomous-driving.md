@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Xiaomi CEO says it has 140 vehicles across China testing autonomous driving"
-excerpt: "Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced"
-publishedDateTime: 2022-08-11T14:14:00Z
-originalUrl: "https://www.channelnewsasia.com/business/xiaomi-ceo-says-it-has-140-vehicles-across-china-testing-autonomous-driving-2874761"
-webUrl: "https://www.channelnewsasia.com/business/xiaomi-ceo-says-it-has-140-vehicles-across-china-testing-autonomous-driving-2874761"
+excerpt: "Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday."
+publishedDateTime: 2022-08-11T13:19:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2022-08-11/"
+webUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2022-08-11/"
 type: article
-quality: 22
-heat: 22
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--olY-M5Il--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-11t141915z_2_lynxmpei7a0me_rtroptp_3_china-xiaomi.jpg?itok=wnytW3IK"
+  - url: "https://www.reuters.com/resizer/BePaHmTV3zLPrn98N1MbRS-BJWI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AQLX6S2HIFKZTEFOFFLW4J2SLI.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
-secured: "WnhiUitVyVYiotIIWZvrMdocH3DBrry9MHaFzX7OJdwhndNAW8QBcBAJtmf753jpjUOExtNShc6SDWmHxwmz25CCqPnjFoF9UFlyUtpm9Fq7eax8wgKdZRWns4vWrH+43mAr8zmx17K/Rv0uviZ4CVr9AYj7Bh/7UCy2ctDy2BS0Jm4vaGiII3noHC4TB02MOGqHsispEMhpcsNtqlVGeZDWyIXExDZxjWg+81P0rYZxEqFCtcyXadQZ2Vh++O+BRIWdE43OyU0B9TLltCVr830VdggkrZOwP6Yao/APyxx6n0fBWuPfeOPQCIAGFMQaLuYldfD6jybRH4L0RLHCly+3qV2DgHSvofnKqZrGxco=;A//9vl5D7nb41gkJRGmGyg=="
+secured: "Qk+1fx1hpIfhgnmAn4iia1QdV/CqphfV2hbCT8mhxfQP1LvBbUxMbK94sIFrkj26+G8QOZZ1Z4Bwyk0auSNEdQoa4O9PFqzJvH5X98o28hK2zc5tIKMoZmqkaCgcpJn0CNVhZB9pPIx/Jr9SO0u5cB2w8TruJrqFNJ9kTDEhcjI44XEWsHcrX1jsgf5l8K2b4WTeCX6e4qY4YUANaPVkkS2TbwmuSYTwVj1cbAt4z/diS0EBSDF8cJ0IcxRtfSnfh+E62RZXyIqQJRk/EuV6ScxCwN/XqOGuhokQFIOAUkO9ONzCQiML5hqzl9/WtZJbe0dHLTK5y/rehinvr2pg2GjSovP5qOI1tCGbSpsH1N4=;44CN+v+gifIyTPpAsuM3og=="
 ---
 

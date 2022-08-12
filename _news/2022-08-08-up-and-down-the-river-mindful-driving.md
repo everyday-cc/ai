@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/columns/article/Up-and-Down-the-River-Mindfu
 webUrl: "https://www.chron.com/columns/article/Up-and-Down-the-River-Mindful-driving-17351769.php"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,52 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "China's First Full Driverless Taxis Coming"
-    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-    publishedDateTime: 2022-08-08T10:16:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/08/08/1600x900/2020-11-16T212742Z_1_LYNXMPEGAF1LJ_RTROPTP_3_BAIDU-RESULTS_1605580229608_1605580236819_1659951963105_1659951963105.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "China drafts national guidelines for commercial driverless robotaxis"
-    excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
-    publishedDateTime: 2022-08-09T10:48:00Z
-    webUrl: "https://technode.com/2022/08/09/china-drafts-national-guidelines-for-commercial-driverless-robotaxis/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/08/IMG_2-e1660039195363.jpg?fit=1335%2C705&ssl=1"
-        width: 1335
-        height: 705
-        isCached: true
-  - title: "Self-driving air taxis coming to Australia"
-    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
-    publishedDateTime: 2022-08-09T00:56:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
-        width: 1125
-        height: 633
-        isCached: true
 
 secured: "CfIFYiujzZroyfPEMsT3bu4k8TxGIq3CJCr4SPMV6FOETt644x/8yRDh0UmTqL0JvFRjBaouA505rLaoUdiUMk7u9NjQIv50SBO970keiTmYUiNyOe6z5lIj8vI9op15vo5Rdq7vhW7T/VdFGh8Kk2BA0Z1DDPXyOSZYDbpUvJkcEuhT0TVF+x8lpS2wcX23Ba15RX2JfjTsNzPg7FuMNKCdDSgppzWLFXYHxpf6UBzBssU/Dg7OH9LlK0AMgsXnhPaSEhTT+6+S4xOOYKplW9JoCdWNeMFZ4Nhb+4Hr+RfHBhS70wqQmF5il3r7vZj5hIDtYFw0i8bwdF0aSJGDekv9gxG69PBg4r38lLHPth0=;X7aivv6y3QjwRHSbGLzs9Q=="
 ---

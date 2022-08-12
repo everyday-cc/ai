@@ -1,28 +1,28 @@
 ---
 category: news
 title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
-excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
-publishedDateTime: 2022-08-11T20:40:00Z
-originalUrl: "https://www.jta.org/2022/08/11/opinion/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
-webUrl: "https://www.jta.org/2022/08/11/opinion/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
-ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
-cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
+excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
+publishedDateTime: 2022-08-11T22:05:00Z
+originalUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/"
+webUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/"
+ampWebUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
+cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Jewish Telegraphic Agency
-  domain: jta.org
+  name: The Forward
+  domain: forward.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
-    width: 1024
-    height: 569
+  - url: "https://forward.com/wp-content/uploads/2022/08/Untitled-design-2-1.png"
+    width: 2160
+    height: 1200
     isCached: true
 
 related:
@@ -201,6 +201,6 @@ related:
       domain: theguardian.com
     quality: 19
 
-secured: "gLb1uWv5WNmoJLzMDKytQMoSSEnBj9dfB5gBlRYE+qSP9uzTrq1iWqrlFvj5r19HEBnt+f4MgyCK+36yhigUFSAEik3v/uxyQHbQ6JbeJHGjK0pIl6BpT14ps/YZM3m1yknGPa38Ll52Lc7T5VrbG9+tFbg0HZa5mfNL3CEo8xW2c7SywfLI0khbfziokKoCgsCzCjso22bGhLTgT+hfGMtgZSZl5kT2SL8S0m7v13OQYAuiaCXaXO5gidKLvwzm/ZH/vxQYzm50vhI0nPGlQbOmgGbTuhCpuyWcSE9DmGHJmatQ8JnIl1aUlJwEUaQVcBSVz/lcGote+IyQvH52gHtd+JcnRIBWr+/3DeHWnGE=;+yFwaYgOPSNOIPxtZCcYIw=="
+secured: "POeTPrg+HzmH2289ZQf/7ym4V1vICFZI3jtFDobLcUBoDTL+ruMcdo8Djp8c7sESnW4fk8hHHD42ovPaaeMTrBt3RPGj5W92piAAxTjcQP/3qpfw/+eQaaURIEE/3p+8dS+MJGRccb6pgTmpBHz7YleziBiu9DJKa0ZJATaG8IlJ5XxtSUtJSvNyU9qh2/1XDP0xu5FXAr7Wi1IMvtnAhF+YJNNtANojevYW5GcbbKkgX3DrmJ9PlU7kghqS+S5LyoplcFGFVf+3Z1t1wGeu+Ji7vPDoryWylwkLfPBo7/pyI0QQVull3EFEvgw9s+kxytQ/gfUeAboPrOQUyD/uhkxe/C1zdwDFD9kADOfwpgg=;8LSQK232s5FhbCBOPOyl9A=="
 ---
 
