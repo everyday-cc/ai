@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T06:57:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-focusing-on-current-trends-leading-with-top-key-players-2022-08-10"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-focusing-on-current-trends-leading-with-top-key-players-2022-08-10"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MarketWatch

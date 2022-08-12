@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief-design-officer-at-kore-ai/"
 webUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief-design-officer-at-kore-ai/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: insidebigdata.com

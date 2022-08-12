@@ -1,26 +1,30 @@
 ---
 category: news
 title: "How artificial intelligence could lower nuclear energy costs"
-excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
-publishedDateTime: 2022-08-11T16:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
+excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense"
+publishedDateTime: 2022-08-11T16:21:00Z
+originalUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
+webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -55,6 +59,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "TqknbOEy0U6VIuJ/ZZ0oT6xvnITtOhf4QQLrxI32vsqXiyVht/Z8EzkTkf8Wv7efLpJuXwo4USAuILB4jJyAq/2lql0LXW1XDygDGcZU2tSHTx3OJd2+aOqM8snMnzMGPA2TjKkcuNsQiDDzvgSH/x0Ko9UtSLN4Fi92ERhwip0+gEeEOIxjZmiqT7F9lw9e8fe84aE3xzFEIVCYtV/f+AHFB1qUL1Nc/H4/YU+72sHXbVAHHZFT0Cpu8DmWZoJesBilBXHT5eNXmsxvtqbv4ztc8iEgyofWfX6xBgqrEpUp7CPijKooYuW0mOs0v2P2jVw/pvnbjIW7cTvCToSwwsyHgRnJRzw4DI75zEWV0h4=;DFMusqkBfz8d7gTOnwOCjg=="
+secured: "5njcp+vjoEm5agUHqIFWDuavyfxr9E4TRTFYjNgkm+DTseVkLfUeQ1o006ilmnTAhUuTPnP+ELy3NLN4E/n7l5nTGd8NJJRCc0F7HPpg7rqtr0N+RDvD3UmrIO7tR4Viuvc0geJ4iGbveEJzTGrmo9ChlW3c1H/mO8Dshq8KHhZWfPh3BhFWDv9k6dUMoBrzRjhzZZ6NDHBTvtlT186uKobTehGM1R3H1nFIkieEjchTv5iowaUo1ksF+bIoXcpQFd70uPr2ACCRUH/3RfhvZzUgpd1M1/I8kZwRPwRxMX8lRIJstjHNH/ZzjbW+596pA/ZYrTq7zFY/izLM4x4niY4mUNHvjAB3U0naSYtuYCQ=;TH6XFLPkaGtvxu8pe0P+Lw=="
 ---
 

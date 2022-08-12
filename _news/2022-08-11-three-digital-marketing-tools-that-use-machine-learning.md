@@ -81,6 +81,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Imagining the AI-powered future of the financial planning profession"
+    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
+    publishedDateTime: 2022-08-12T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 19
   - title: "Mobile Speech Recognition Software Market is Rising With a CAGR of 22.5% During the Forecast Period From 2022-2032"
     excerpt: "In enterprise application, increasing adoption of conversational user interface (CUI) as a more prolific way to communicate among mobile devices like smartphones, tablets etc.  The proliferation of smartphones with advance features and development of voice based applications is penetrating the demand for mobile speech recognition technologies in a positive way."
     publishedDateTime: 2022-08-12T08:40:00Z

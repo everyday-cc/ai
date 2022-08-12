@@ -3,14 +3,11 @@ category: news
 title: "AWS ML engineering manager evaluates the social impact of AI"
 excerpt: "In an exclusive interview with VentureBeat, Ankit Sirmorya discusses how AI is changing the way we interact with technology."
 publishedDateTime: 2022-07-22T11:40:00Z
-originalUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/"
-webUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/"
-ampWebUrl: "https://venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/22/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
+originalUrl: "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/"
+webUrl: "https://venturebeat.com/applied-ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/"
+ampWebUrl: "https://venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-ml-engineering-manager-evaluates-the-social-impact-of-ai/amp/"
 type: article
-quality: 101
-heat: 111
-published: true
 
 provider:
   name: VentureBeat
@@ -21,22 +18,10 @@ provider:
       height: 50
 
 topics:
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
-  - AI in Autos
 
-related:
-  - title: "Challenges facing AI in science and engineering"
-    excerpt: "AI and science stand to complement each other very well, with the former seeking patterns in data and the latter dedicated to discovering fundamental principles that give rise to those patterns."
-    publishedDateTime: 2022-07-25T18:07:00Z
-    webUrl: "https://venturebeat.com/2022/07/25/challenges-facing-ai-in-science-and-engineering/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-
-secured: "JesB9YTXUBuXUCf0/B7nV5LR5T9OT8pU9sIduPjdIpU2OprTBlBfhZukoot/woYfjfe9Sxu7ZtWTxCx7ErUBliwexI4TU+ZuWqD5LXfWbvxp+PUHCzCEezHPjTX5oioaPtvSWVdr/640MM9W1WEmAfoxb8Apt1hRnhPa2ZvhXn/i/oRwo+mnrQs9Ou2ovRYSuB/as+GgGlpupLLdvjIweZq8Sr3xTYuYfbJlGgMR7P12JjXjDGjo+DcdxZkG6nEFsnCcFnOKl4OviHK5lhx3uuLf1nkievWY0kxPcmu90nvJY++fVSj0TchmGYfgGaTI6tq3mE00vn449g/10MBF8wBW1NwdtTJFmYYeNTlEgx059lIQ+/+PDNXYOyE7PbM48i1J8tRcuBhYf+QiujfPiYxZgJ2BxWEOF9ucXCMSo/YdWPNTXI8+veu20WmMg2Ep+brNdmDqGn7oUU/cJTqWtu0jzH0w8T2XU2lGQv5d6XenvTJSqfRT422YE4CY/7QNZRdcac6vYpm8xovX3lkNYQ==;CvJRVNf195JsbjMHAPoy3Q=="
+secured: "rgD0vgQh8+H6VeI0SirBVIO8htEim33RkwlHJ915idLnN/fvxCDDYw/3oZnb/5ac+iwL3KpBqVNzsvrvpeKaAUn9hf8ZJ7YkrzHZEwykWE16FBBIoA6rT9x80ji54Eg6RSthb2LGUh2bcZXElZQzvpwKbcWjxpfPCyq7/5Gb311ps25S/Eeu79fh9wV9ssJ6QrWvjCLk8McAxG0OF1PF1qMEJyA26NYb2T7kZ8xHaUomeISASTKrL6YPbajrQdsZv/NkleoMXmGvYq5YmkE79PPJdkw6S9iPfo2+vLr/FoNU1EpZHGFO/XTpIC1d59FH7RleDj2Dz8gY71IbY2QHi5LLKOoGFkYMKaLf4njIdyWoOt5APsJSDiFKIL9nRRwSl44zk/6kzIMfFmwzHmNSFEmV1DwkXthP1apEWucWR3+DqMisvxUu/K58tBBttetI4Yh2cclDMIIo+SVoBlTkLO+RRcT7qj4cPvb3sp3tQoZdH+ThUw4aZ4O7xwHo7mP2KxR8sXI74hd5qn9gSQdndg==;AxrKXVk+41+ge/ekMdADpw=="
 ---
 

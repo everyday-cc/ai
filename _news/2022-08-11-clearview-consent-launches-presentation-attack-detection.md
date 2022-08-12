@@ -1,24 +1,29 @@
 ---
 category: news
 title: "Clearview Consent Launches Presentation Attack Detection"
-excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
-publishedDateTime: 2022-08-11T10:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
-webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
+excerpt: "Hoan Ton-That, Clearview AI’s CEO said, “The launch of our Presentation Attack ... facial recognition technology providers such as Amazon Rekognition and Microsoft Azure, while delivering superior performance and accuracy. Clearview Consent is also ..."
+publishedDateTime: 2022-08-11T10:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "KL20bqlYBpVcybRJiWOYiHglMo9s4iMJ/hH9xvzEAMm+dMuY9cYkI6MrqZKnjtckA8AFaOndouWdWOjkk2EHKE+n72vLbli6UBpRvzdgEwjin48pUYc3kOsWzuDXC7DJh1CJAwMQvajqDJ3AUcf1sGFyquDk01NPxk+oz0fGHBbef4Vpx2rsaWcv/RntG9PG4aD4LzpWxK0YjepOwpEqC19tziPJFnbTOQWPHDBV9U/xtnGBq6acFA3sD39NZAd7r+vRL8mux3j9SgItorD9DGp4hFYrQksFhbjGBbPeBkwWL8OiTA4X+qyfMZH+fvdB9bCYngeX8j12tjqo48YujN+ulnFKrQTkbRu3Pt3cZlg=;XYbpD7IBCdPw4VCdOSfCig=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "rtN0aMp4x6tunB3KL3vkEehZ/np9lG8LBIIpf74tklOVnum+ih1iTFPg9jV4robtw9V4I1k9UwZ5pVoADH3gV3kd4Uk34eVNxGZ1dhmDb4HnhYhMFImtByDf0SzKtckpJtn+CTckrXLRr4W914RXv9CFTAzcZyUrCgOf7Q2Qxet0Zjze5V/x9QIa3sIn5j7LOVWWBK7CDmhmfn70UGleRT790berkuCTSZjDW4SzgIoLSq4xHhMNlagJjCHxQ2eIg6YzJZxLe/+z2sqarQebFb0xnt0CylOKivpZcC4c1nqFdPYHm/I8iRJxQO7OBwvCvunYyLQK8GiS3sFMfntI9bu/Nu9JF1u5JLaOAXitJuM=;N6pAteOG+qc76JCt9IO4eQ=="
 ---
 

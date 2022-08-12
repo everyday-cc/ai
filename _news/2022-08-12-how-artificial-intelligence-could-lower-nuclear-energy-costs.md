@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore
@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
-    publishedDateTime: 2022-08-11T16:22:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5"
+    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense"
+    publishedDateTime: 2022-08-11T16:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial intelligence could lower nuclear energy costs"
     excerpt: "Scientists at the Argonne National Laboratory in Lemont are devising systems that could make nuclear energy more competitive using artificial intelligence."

@@ -40,6 +40,20 @@ related:
         width: 1278
         height: 720
         isCached: true
+  - title: "How is artificial intelligence used in COVID-19 research?"
+    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
+    publishedDateTime: 2022-08-12T09:51:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "OVxApsSe4IzY9WuWC9sqaEFhWbU3hF1Wya+SFP1lO943177w+K4l0+kbLeO2PJVCRN4W9DFh6ZcBBgaR+nEPkvFmNsltdkcX9l0lA+MhW186iceWTpZzY865H75K/0+zOLkdxBb25zUQRpuJ+IGucvCtPplHWnOvhdgtQW/sUDEy7jmvBcHN9J+XNm2MAadYb0CpH/xy5vv5hNzCSPWusoY6V245Uey/AnR1+hrfDP4MIMlovG1kJQc8aITkKQ9VSkBHkGPqLz6bX5xQrc0+oVXj6IbxR0LAg3Oy92v8JcwSukbjst+67bm8k+dQPmGKm0cL2kU7JHTe8pyOAi54OwqIvV1bF/jXe90SQs4pPk0=;ciqDXl/BN9v5ehkMiBDimA=="
 ---

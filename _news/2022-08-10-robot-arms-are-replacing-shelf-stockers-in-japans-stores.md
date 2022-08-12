@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Restocking robots deployed in 300 Japanese convenience stores"
+    excerpt: "The robots work around-the-clock, restocking shelves at a rate of up to 1,000 bottles and cans per day, and depending almost entirely on its artificial intelligence (AI) system, known as “GORDON,” to determine when and where products should be stocked."
+    publishedDateTime: 2022-08-12T15:13:00Z
+    webUrl: "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 71
+    images:
+      - url: "https://www.therobotreport.com/wp-content/uploads/2022/08/Telexistence-convenience-featured.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Robot arms are replacing shelf stockers in Japan's stores"
     excerpt: "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
     publishedDateTime: 2022-08-10T20:38:00Z
@@ -41,22 +55,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "Robots will restock grocery shelves in hundreds of stores amid labor shortage"
-    excerpt: "A robotics company is installing restocking robots in 300 grocery stores in Japan – and the plan is to bring the robots to the US, according to Telexistence, the Tokyo-based company that makes the machines."
-    publishedDateTime: 2022-08-10T01:27:00Z
-    webUrl: "https://nypost.com/2022/08/09/a-robotics-company-is-hiring-restocking-robots-in-300-grocery-stores-in-japan/"
-    ampWebUrl: "https://nypost.com/2022/08/09/a-robotics-company-is-hiring-restocking-robots-in-300-grocery-stores-in-japan/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/09/a-robotics-company-is-hiring-restocking-robots-in-300-grocery-stores-in-japan/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 56
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/restocking-robot-stores-99.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Robot arms are replacing shelf stockers in Japan's convenience stores"
     excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."

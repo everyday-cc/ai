@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Korea Times
@@ -27,6 +27,50 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics"
+    excerpt: "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,"
+    publishedDateTime: 2022-08-12T15:06:00Z
+    webUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/"
+    ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 118
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Boston Dynamics launching $400 million AI and robotics research center in Kendall"
+    excerpt: "Robotics maker Boston Dynamics and its owner, Hyundai Motor group, on Friday announced they were investing $400 million to create a Cambridge. The new center, called the Boston Dynamics AI Institute,"
+    publishedDateTime: 2022-08-12T14:30:00Z
+    webUrl: "https://www.bostonglobe.com/2022/08/12/business/boston-dynamics-launching-400-million-ai-robotics-research-center-kendall/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 64
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/UvZhxqttvBn_Kv-paJCYFNulnTY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/F3CC5SPSUA3SN7LQABOJGBRXZ4.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "Hyundai launches Boston Dynamics AI Institute to bolster advancements in AI and Robotics"
+    excerpt: "Hyundai Motor Group and Boston Dynamics announced today that they’re launching the Boston Dynamics Artificial Intelligence (AI) Institute."
+    publishedDateTime: 2022-08-12T14:41:00Z
+    webUrl: "https://finbold.com/hyundai-launches-boston-dynamics-ai-institute-to-bolster-advancements-in-ai-and-robotics/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 62
+    images:
+      - url: "https://finbold.com/app/uploads/2022/08/Hyundai-launches-Boston-Dynamics-AI-Institute-to-bolster-advancements-in-AI-and-Robotics.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
     excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
     publishedDateTime: 2022-08-12T06:04:00Z
@@ -57,33 +101,28 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "How is artificial intelligence used in COVID-19 research?"
-    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
-    publishedDateTime: 2022-08-12T09:51:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
+  - title: "Hyundai launches Boston Dynamics AI Institute"
+    excerpt: "Marc Raibert, founder of Boston Dynamics, will lead the institute's work on cognitive AI, athletic AI, organic hardware design and ethics and policy."
+    publishedDateTime: 2022-08-12T13:46:00Z
+    webUrl: "https://www.therobotreport.com/hyundai-launches-boston-dynamics-ai-institute/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "AI in medical research"
-    excerpt: "AI offers a lot for the world of medical research but the challenges that it brings need to be considered One week social-media users are generating and sharing amusing images using AI the next we hea"
-    publishedDateTime: 2022-08-07T20:17:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272646253/ai-in-medical-research"
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
+  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute"
+    excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making advances in artificial intelligence (AI), robotics and intelligent machines. The Group and Boston Dynamics will make an initial investment of more than $400 million in the new Institute,"
+    publishedDateTime: 2022-08-12T15:23:00Z
+    webUrl: "https://www.ept.ca/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: EPT
+      domain: www.ept.ca
     quality: 39
     images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.ept.ca/wp-content/uploads/2022/08/Hyundai-Motor-Boston-Fig-1.jpeg"
+        width: 1512
+        height: 1722
         isCached: true
 
 secured: "Fdbuz5CCRaeIrCIyYNKnrM7WrWWKD5so2VZ4i3wSC0BVObratIp7w97g5v1ntjO5/jkjeQp4bydJQBAHY9Atf6+pZ7W//Au+X51OVGEf4QsKQuHdDZjM5l03BuDrfCBEJjLVex1jnTm4BOLVzA5+hulePf8kDxNffwvtX064Myr+bdfqbRlpU/IJ//CXihudZV+8GvEz1wdaptSp3qQS5DR8oTCnKybN3kNS8kBMU0qydPBGMFl8vB5xmyYlxH07HdsYfqDBFAAJTVWriziwmog+gAr6BrW/f29TBAkAd+wX0yvJoAOF4GUUeNzlvZILLMe9W5K8N4hasWLaN6oWIxScJoXQynBRZP7F6zan1mRoKkmW13W/y5N6DOKiIZqdvdLbIWG9jwbwNTGRgoHKhXoRHh2pnLiTuWwNwXwC5ue2PNQrRN/nVePMx9e3v89gX5R3n4+mbeFN3AdV1RJOlRiiewqLZQVF4F0Y1W1IEQ+Ht64KkxoWuxkWHHmApNv3EEj+5Hq1VUc55xiSJF5Xgw==;/uyQBIOEQZVmCa56QMbLRg=="

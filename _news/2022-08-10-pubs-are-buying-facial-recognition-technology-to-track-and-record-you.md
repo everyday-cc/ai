@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Deepfakes expose vulnerabilities in certain facial recognition technology"
+    excerpt: "Mobile devices use facial recognition technology to help users quickly and securely unlock their phones, make a financial transaction or access medical records. But facial recognition technologies that employ a specific user-detection method are highly vulnerable to deepfake-based attacks that could lead to significant security concerns for users and applications,"
+    publishedDateTime: 2022-08-12T15:30:00Z
+    webUrl: "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 75
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/face-recognition.jpg"
+        width: 1920
+        height: 1274
+        isCached: true
+  - title: "Penn State University: Deepfakes expose vulnerabilities in certain facial recognition technology"
+    excerpt: "Mobile devices use facial recognition technology to help users quickly and securely unlock their phones, make a financial transaction or access medical records. But facial recognition technologies that employ a specific user-detection method are highly vulnerable to deepfake-based attacks that could lead to significant security concerns for users and applications,"
+    publishedDateTime: 2022-08-12T09:47:00Z
+    webUrl: "https://indiaeducationdiary.in/penn-state-university-deepfakes-expose-vulnerabilities-in-certain-facial-recognition-technology/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 43
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/penny.jpg"
+        width: 992
+        height: 683
+        isCached: true
   - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
     excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
     publishedDateTime: 2022-08-09T14:22:00Z
@@ -38,48 +68,6 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "India’s military monitors disputed borders with facial recognition"
-    excerpt: "India is expanding plans to revolutionize the way its troops carry out operations along its borders with China and Pakistan by deploying more AI."
-    publishedDateTime: 2022-08-09T20:24:00Z
-    webUrl: "https://www.biometricupdate.com/202208/indias-military-monitors-disputed-borders-with-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
-  - title: "Worried about facial recognition technology? Pubs, clubs and gaming venues are already using it"
-    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
-    publishedDateTime: 2022-08-11T00:18:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/pubs-facial-recognition-technology/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 27
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/08/New-Project153-e1660109822320.png"
-        width: 730
-        height: 360
-        isCached: true
-  - title: "Delivering rewards and recognition to a borderless workforce"
-    excerpt: "A borderless working environment makes employee experience more important than ever. It’s central to driving motivation, productivity and engagement. Traditionally, a manager may have thanked employees by taking them for impromptu drinks or lunch – but this isn’t an option for those with global teams,"
-    publishedDateTime: 2022-08-08T11:58:00Z
-    webUrl: "https://www.managementtoday.co.uk/delivering-rewards-recognition-borderless-workforce/article/1795192"
-    type: article
-    provider:
-      name: Management Today
-      domain: managementtoday.co.uk
-    quality: 24
-    images:
-      - url: "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/952/cached.offlinehbpl.hbpl.co.uk/news/OTM/CopyofGautamSahgalPerkbox.png"
-        width: 952
-        height: 635
         isCached: true
 
 secured: "LyAvraHBJvDY1lUoEcEEw5lCvEaNteATR7fDEdM6vp943I4e0AqcrmsOxUzk2yDXt96BfLfXqctJNKGRxckAuEfItO5YmIQpCQCsE9jinnjlQtXFy21OfKyH6gvNM8BydvIh881gZWWNd5tCK1IgD11QP44RHqZalxO2sfz0ildzxBkVQ4peq2VHNttsf9lKwpFuihlX0vd9LSRbkt4y6GrCk0t4Ie7pJFgOZFMDB3NJoAxVqsA6QBJSIsoEEMFtaF16ZIR2euYzUwR8agwjm5dxHQVpAWSTYj8IjXxJdmCOdw7xV1bZCfOzQq/LuycxvIe448GvcnOGn+N51FJ175xMxZlVCor1zDsCBMt+YGgdz6Nc3ro23GDUx4i7V1eW7QcV/w5P1KQ7V5XGqSqV1y7biWlUnbwOeXdeN21vbwoXfJRBq/TUzAe7HkxC/m30h7gByjoyZiOTnmASnjlsjE33d4hWoYQbyKxcM4IfsC3jqW3unE2aOocZnp59pGurIgRV+fmKv3XC0rqVatSx9g==;331CRTaHca2CmYPhlgNPUQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T11:44:00Z
 originalUrl: "https://pagesix.com/2022/08/12/kenan-thompson-honored-with-star-on-hollywood-walk-of-fame/"
 webUrl: "https://pagesix.com/2022/08/12/kenan-thompson-honored-with-star-on-hollywood-walk-of-fame/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Page Six

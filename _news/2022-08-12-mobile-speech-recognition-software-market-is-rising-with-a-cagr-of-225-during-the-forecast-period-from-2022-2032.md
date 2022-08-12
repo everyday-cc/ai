@@ -88,6 +88,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
+  - title: "Imagining the AI-powered future of the financial planning profession"
+    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
+    publishedDateTime: 2022-08-12T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 19
 
 secured: "RGsi1yKPBqUY3Ihzed8DcxVeVJ8TvdBwR0xZfAjO27Z6Q620fF25x82zx43rAIlkKRnMK5V7bz+5dYpikfOZpn8bWqx4QEJrhz+kkBKLsb+ZDmKKswo7B9z349uKBOzOuctvFIFot51Y39Xvb5vRvnAPtlAlFyvdMlFBceZThk8I94gkTeKEYQmDophEzviRfNWg/+lgqV+gd2pqT0wm9DVLaoCkB4EK4uBKd+UpuEM9GtWFBkk/0t7UZI7i3i/ReV+ckZvqQX/ONTp8S/MS4vpla23VzPtkg9CNK4k7Q6pZf37/l2uoR/GWNU5HIcAsbU9K07c+KZzTDQd/6vT68W5RkwzJiWg1Edj1u+DPUiw=;pIsk8QTeMHeeI99t+SlmQQ=="
 ---

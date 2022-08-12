@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T12:14:00Z
 originalUrl: "https://www.cbsnews.com/pittsburgh/news/self-driving-vehicle-facility-planned-for-westmoreland-county/"
 webUrl: "https://www.cbsnews.com/pittsburgh/news/self-driving-vehicle-facility-planned-for-westmoreland-county/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CBS News

@@ -58,6 +58,24 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "AI algorithm by UCL researchers detects subtle brain abnormalities"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a UCL-led team of international researchers."
+    publishedDateTime: 2022-08-12T12:42:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/AI-algorithm-by-UCL-researchers-detects-subtle-brain-abnormalities.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
+  - title: "New AI algorithm detects brain abnormalities that lead to epilepsy"
+    excerpt: "Researchers have developed a new artificial intelligence (AI) algorithm as part of the MELD project to detect brain abnormalities that lead to epilepsy."
+    publishedDateTime: 2022-08-12T11:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87901/new-ai-algorithm-detects-brain-abnormalities-that-lead-to-epilepsy/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "BvdEhUbCvbE2sTJVBDJYnbTyWvv/YQlGACginPfYUsau9GeBgZnTa/kE6a83nJeJffO60AWmuXYqaaKOzLAIJ/w1zVS/GXkKLtFObQn6pU32NghTkuGRnYlCcDtveVlIrFBhrCWHe0vZtLsT4lU1z0q/iNItPJGmsxAUvMMd55eAkQvCiRbqXWT0W9fKF3BvdNypUs0Vnn0qJ5re2+o/kFdVBo7p5zhg0aecdogznugJzjbWnPpaI7vTAP1qAWcITWJvR+1SN3ugvMXz85lALeGxDvEEmryPsoWhJaToodz1lqShDM7IsIb02uMcrJkrultnSkxwTDZw3VsqtpuROa3i4S/H2eaJ70g8dvr5ySg=;uKQaGbQh4rj7MGEYUSAckw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110"
 type: article
 quality: 63
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -29,6 +29,29 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer ..."
+    publishedDateTime: 2022-08-08T15:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--848913460.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Aug. 8, 2022 /PRNewswire/ -- Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR ..."
+    publishedDateTime: 2022-08-08T17:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56754136-natural-language-processing-nlp-market-worth-dollar-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
   - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
     publishedDateTime: 2022-08-10T14:20:00Z

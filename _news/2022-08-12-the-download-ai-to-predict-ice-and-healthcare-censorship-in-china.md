@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/08/12/1057709/download-ai-predict-ice-weather-healthcare-censorship-dxy-china/"
 webUrl: "https://www.technologyreview.com/2022/08/12/1057709/download-ai-predict-ice-weather-healthcare-censorship-dxy-china/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: MIT Technology Review

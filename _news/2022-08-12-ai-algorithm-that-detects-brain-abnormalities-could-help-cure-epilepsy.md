@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalit
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,24 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "AI algorithm by UCL researchers detects subtle brain abnormalities"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a UCL-led team of international researchers."
+    publishedDateTime: 2022-08-12T12:42:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/AI-algorithm-by-UCL-researchers-detects-subtle-brain-abnormalities.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 17
+  - title: "New AI algorithm detects brain abnormalities that lead to epilepsy"
+    excerpt: "Researchers have developed a new artificial intelligence (AI) algorithm as part of the MELD project to detect brain abnormalities that lead to epilepsy."
+    publishedDateTime: 2022-08-12T11:33:00Z
+    webUrl: "https://www.tweaktown.com/news/87901/new-ai-algorithm-detects-brain-abnormalities-that-lead-to-epilepsy/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "viIcmy+JN2xYnuY7SUJ/XgsLaYi8O+U1fQ8YY+D/yyL5DAeztCY5eteyOFdAieF0g+2f5dm1UY3bfnaVlC9GiGrU55rh9GVK6+6/X+hMh9wXOSoQ7YfHSwQ2PWRPUU1jD8I8vWk1RrJ8PV3xumP+qgYmNYsS0Vm02Y17qvUGMjApzzuO3oKVDKip4bDOoF1q52lvZ/THTaGq5vmlDiLTott/66QAzB7n1aVeF9knqMQCdy8/oHfL1ntIFqP6Sgi0ef6lkXFHsXT/lVdXkMrocf0+VJt/oFGHlwSlUfYbrnQSdo/FiH+4A+3pAsl1F37vOyJgbetu+D8Fs/21/dqIQPIkRUxl5tx5T/36DYr4y602XcNQcoVutXBu9/BSFeP0FQmbIMOyw1K+rNTRxSaCFlgpzyCQKMgyEcAwGa5btYuwIMiNZdtHry3clIPibe6SiWLLitPMy3h/2Cx9GRWHN2CRhUPCMwhYtIzGlLaZsz5R1a/EWRsVl5D83bjuPcpt9uBI+yjYPIK5dsaL/9rkMw==;8IeoSMwEd+Wt2duK10AkqA=="
 ---

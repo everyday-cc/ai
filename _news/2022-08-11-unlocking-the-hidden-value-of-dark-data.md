@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T10:00:00Z
 originalUrl: "https://www.cio.com/article/404526/unlocking-the-hidden-value-of-dark-data.html"
 webUrl: "https://www.cio.com/article/404526/unlocking-the-hidden-value-of-dark-data.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CIO

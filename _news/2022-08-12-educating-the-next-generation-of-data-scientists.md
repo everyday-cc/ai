@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/educating-the-next-generation-of-data-scientists/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/educating-the-next-generation-of-data-scientists/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

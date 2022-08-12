@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:10:00Z
 originalUrl: "https://venturebeat.com/ai/fitness-ai-how-synthetic-data-powers-better-workouts/"
 webUrl: "https://venturebeat.com/ai/fitness-ai-how-synthetic-data-powers-better-workouts/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

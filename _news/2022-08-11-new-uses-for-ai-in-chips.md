@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI for a Better World"
+    excerpt: "In this special guest feature, Tobi Knaup, CEO of D2iQ, explores how AI will make the world a better place. AI is a general-purpose tool that will be built into almost every product and service we use,"
+    publishedDateTime: 2022-08-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/12/ai-for-a-better-world/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 19
 
 secured: "QNhVE1V6s4TwwbEWy4I2lf4YtiroDLjJ0Ym3FEYo7aVRiUpwLGKPDYaEWZ57Ad7uc5ADOaJJtBp4TDQuZ9eaLItfEooGIkTbJG8QE0Zy00grjVACSXMZq0OyHsFNeHSy71sDQYGNH/A3upCkXLlTpqBaxTEs7CZslEKUnFFaIrpoa4//9QZUrMW/1YUW1Qsihh7f2dy6ZWeyHlB+LbH52fJj/9+tr5cYTm0dceePLWbXlN5ED8HhpwPwVThjQlQjWeUlxN7Q6hu4OmCP5YzZOZVFzgPlvR9dC16+VpFC+1qlKTHdIqfhJ9H32FN0H7gRg6kF3EKEakG+8fDV+Uo5KFTJYNHKbzRaahoDCPzqatNvB1d4sU0cEvzt61Tha3dttvyaCqo6q2IExeu7LsAUwLMpsjyqMVM2IokjrbucokwCJ//fq1m0ozUJWlLgKqaBjiy0X5BfeFT6znmtFsJDyTPtcYql7ctRuvu9E/Dwf6Q4uMoq1Dnua8rJ5jqaicGjDslBBEs691lXFrTch9dImA==;FPX8c5AiGo61zDbJenNeYQ=="
 ---

@@ -32,6 +32,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer ..."
+    publishedDateTime: 2022-08-08T15:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-market-worth-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-tm--848913460.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Aug. 8, 2022 /PRNewswire/ -- Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR ..."
+    publishedDateTime: 2022-08-08T17:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56754136-natural-language-processing-nlp-market-worth-dollar-49-4-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
 
 secured: "3Jc4XRHIIhQCt46BZ55eclesuy3C2taePVYzybsdp5jReZ7jk7oijTE4t5okmm84/2Co2B9yb22Wv8GXQP6Sd+GFu1NfPw8dEaCk/MCzJJ/5UgywVlAZRN715EmG2+vD6K2+EI7h1bIIa/yEaLvhwAF/oHd4ib5lk06oJSFTnfQneIyAe1ZZMmr8fkvEMehs+ZzH/NEjN/QZPwcgQOtWg8SNPd3P0XAfXzd32JuaFPGP/qi5mQjvW4pS1FYsY2NMleoGD0clNAp6OJZbPCoEffIDMTeSAyvBkBpJhNgjsjR2mbtr9+SQ0VYGjWiQ2yN3Z+h0/h2xTtBgQlztxskD/umE6Qz/Q2DRtcxNr44oLU0=;kbRk7WMargjM77GN/Ry1Yg=="
 ---

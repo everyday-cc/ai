@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:02:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/race-and-ethnicity-journalists-b91a69ee5cce38d86010dd9af0b41a40"
 webUrl: "https://apnews.com/press-release/pr-newswire/race-and-ethnicity-journalists-b91a69ee5cce38d86010dd9af0b41a40"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Associated Press

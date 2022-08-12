@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/12/the-grocery-industrys-shopping-list-inventory-management-frictionless-checkout-computer-vision/"
 webUrl: "https://techcrunch.com/2022/08/12/the-grocery-industrys-shopping-list-inventory-management-frictionless-checkout-computer-vision/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: TechCrunch

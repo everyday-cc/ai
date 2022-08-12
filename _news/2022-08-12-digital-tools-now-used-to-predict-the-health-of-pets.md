@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T13:29:00Z
 originalUrl: "https://www.msn.cn/zh-cn/news/other/digital-tools-now-used-to-predict-the-health-of-pets/ar-AA10AZCd"
 webUrl: "https://www.msn.cn/zh-cn/news/other/digital-tools-now-used-to-predict-the-health-of-pets/ar-AA10AZCd"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: SHINE on MSN.com
