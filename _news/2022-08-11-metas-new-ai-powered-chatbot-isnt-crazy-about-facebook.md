@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -168,20 +168,6 @@ related:
       name: AV Club
       domain: avclub.com
     quality: 37
-  - title: "What will Facebook do?"
-    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
-    publishedDateTime: 2022-08-08T16:01:00Z
-    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
-        width: 1008
-        height: 529
-        isCached: true
   - title: "Meta’s new AI chatbot thinks Trump is still US president"
     excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
     publishedDateTime: 2022-08-09T12:10:00Z

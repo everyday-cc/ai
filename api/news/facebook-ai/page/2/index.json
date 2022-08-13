@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
+      "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
+      "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg",
+          "width": 650,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-meta-open-sources-early-stage-ai-translation-tool-that-works-across-200-languages.md",
       "title": "Meta open sources early-stage AI translation tool that works across 200 languages",
       "excerpt": "Meta AI research scientist Angela Fan ... number of errors can produce disastrous results — as, for example, when Facebook mistranslated a post by a Palestinian man from “good morning ...",
@@ -1355,60 +1399,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-google-introduces-major-upgrades-to-its-vertex-ai-platform.md",
-      "title": "Google introduces major upgrades to its Vertex AI platform",
-      "excerpt": "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
-      "publishedDateTime": "2022-06-09T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

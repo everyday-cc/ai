@@ -29,6 +29,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Microsoft And Amazon: 5 Critical Facts Investors Need To Know After Earnings"
+    excerpt: "With earnings now behind us, I wanted to provide an update on Microsoft and Amazon. Read the 5 facts you to need to know before investing in MSFT or AMZN stock."
+    publishedDateTime: 2022-08-11T11:00:00Z
+    webUrl: "https://seekingalpha.com/article/4532542-microsoft-amazon-critical-facts-investors-need-know-after-earnings"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 36
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2022/8/9/47572571-16600661806277013.png"
+        width: 640
+        height: 600
+        isCached: true
+
 secured: "bZxXHfbiybukgYGtt51K2WcHu66TB8lnXkh2jBkPL+qsOJQy5v/PTMQtKOkEJYPHLfdMEjXL0JFlPl6h9etRCm36PWTT2fiFhMuAmWMxSNikT4dYkIukjdOqaEg9HSxmtMYVLYpv0ttDJFHPDamoGF2xR4RXSsKChp6nVP8gugWmYD9EI+tJrKT6F6Ot/PdhcmoxkGFvIQQ/V65pFR4mc7suW1XBKn3fiJSaekbHm9lgOz+oMORwlITZakFBmLBZjjf1SrTDqyiUcWbk4mc98kcO8LlZbjKoWnPsqkLAXgjHZn1A+zoCnJDoh5MTsr9Atp5bTROcAa5ZobkUuNow70epweYLbBQfPrES3BaZOMM=;GqBWxHFl5c16FVgWDlUmbQ=="
 ---
 

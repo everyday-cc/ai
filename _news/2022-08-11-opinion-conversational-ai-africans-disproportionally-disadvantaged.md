@@ -24,6 +24,22 @@ images:
     height: 733
     isCached: true
 
+related:
+  - title: "Africa: Conversational AI: Africans Disproportionally Disadvantaged"
+    excerpt: "Opinion - Any views expressed in this opinion piece are those of the author and not of Thomson Reuters Foundation."
+    publishedDateTime: 2022-08-13T09:22:00Z
+    webUrl: "https://allafrica.com/stories/202208130028.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 37
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
 secured: "hqTlMjJHYa3aw/ychlDn+1milYbcWO6mRnNj7730tEFiYLsmiPNTqfxW4PkB4Y1nIAqGZdndlU88xxRWPaX7HfLr8khhZ5DdzuCX75lt9M8lRYn1okfmg2GmPbsKS84LDvZ8ZCFgYwoAwKzoxcyfQQjHb61J/VBOTEIjKqp8W7SbtBQYF5pnd2+YukwvR8z4E4Y+KBUaq1JzBaL9TdZc9pTI7N7A37Qz/pGWrkKnpYWEyEq3ZEutAtm5kYSyZBBSnT4J/43ke08ytSG3UwVXEQZ9tO7tnag1VfKvG36rjH1FY52oFuXrWzenw9Rl7blT4YWbxao3irpBL6tPhQ+s8uG6VdN76F1paiP4uTzaG/o=;0IMfogzAbL9u17rabJuaBQ=="
 ---
 

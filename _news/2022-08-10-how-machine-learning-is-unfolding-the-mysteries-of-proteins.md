@@ -5,9 +5,11 @@ excerpt: "A public database containing millions of predicted protein structures 
 publishedDateTime: 2022-08-10T09:31:00Z
 originalUrl: "https://www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/"
 webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/"
+ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/amp/"
+cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-machine-learning-is-unfolding-the-mysteries-of-proteins/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -17,7 +19,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
-secured: "h5UpWlhj4iY3gej5NOmZydasDhw7vOX/BpgHDGl9zT44CtOpd3DUba613tvLF9OXa53sgqicv6xnFfhd2/5UMir8wbBjLodGN+8EIMoaomd+M1T05ix7QrQ0cvCWGkRrpRpyiWq9VOkfXmvcy4aHWE/qylRhEafnpqxAkAmkeKGTd6cLE525CmovQmmse9c+XIVB3Zy39zdu690iGb/35EnJreHNM8S/ZevnFtZ3HMGDIHExSSmAfUsiTZfbb4gOGtZizwELRLJt/2SGXYaYiUrYqQZ/bYqIj8HsqRCAJslxJcmOTdBL5E8aUtzeGHlyhzjTzTkPbAeZ61TWMdpy/jHCKVZtpVewwotiqMkNlmhdXjL2n3wDYKUxBd0mrPq2pKK+JCkWYZOn4q7DjF+9/hSIPdv/U6do3+3L8lNMIig2L6gJ+EmzoBTn1pwZzF6wxcw6R8WOB2RYsLWTw3sLK2+xNPsSdkcl9/J/cFjULJbFsGDPrioiJQ8XozNNdNxYPnndlASni+aiXvpwv3ZkIA==;v9UO0aI5DG0BYXZJs3F1qw=="
+images:
+  - url: "https://www.marketplace.org/wp-content/uploads/2022/08/GettyImages-1225652892.jpg?fit=740%2C366"
+    width: 740
+    height: 366
+    isCached: true
+
+secured: "SZnnQVIYfJ1fh4angIoDza/3PrBaBe004YAdgCTgVXC4J3ZPjk0TlpXFQPI3KMdGG9LLfyIPb5zDQe0H73lFKpG9KbTHFeeMr86zFbH8XLuIi8Xm6KwnWCxMdUu/OqqPW7LybrepvDRm5ZMxQWtS+EL9hk1jOPfCe8hd+SRzWhRpCdODIIJmf9SedtKreGuCVfrvIOteuKPJGNbu/NuSAnrlChrEUkIn6PWZurW8LBGUKiJtxGUnE0wZHTnBfTVWbRTUrcSIBU5VnsQEwjUSWuh1Ri09stFdnKneY402MnwLqyQ1HNe0kOYG5BYeJmiOUC+pLOKMQ7YQrdM5ZIVxbQOlPifrr2j6NJGdggXEPA8=;M0HqKjuyLLhbeVBZrdja3w=="
 ---
 

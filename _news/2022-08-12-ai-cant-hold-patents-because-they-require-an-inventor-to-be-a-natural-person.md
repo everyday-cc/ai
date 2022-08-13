@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/ai-can-t-hold-patents-because-t
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ai-can-t-hold-patents-because-they-require-inventor-to-be-natural-person?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1426
     height: 808
     isCached: true
-
-related:
-  - title: "AI system can't be an inventor under US patent law, Federal Circuit rules"
-    excerpt: "The U.S. Court of Appeals for the Federal Circuit has ruled that an artificial intelligence system can’t get a patent for two of its new inventions—a food container and a light beacon."
-    publishedDateTime: 2022-08-08T16:00:00Z
-    webUrl: "https://www.abajournal.com/news/article/ai-system-cant-be-an-inventor-under-us-patent-law-federal-circuit-rules/"
-    type: article
-    provider:
-      name: ABA Journal
-      domain: abajournal.com
-    quality: 16
 
 secured: "kuwTF7i7GL5V4HOuo5lEG5QfwHzqBoUqMdaaija+Likj0RHcMzinJj9rBb9Dh8j0xGbaTRjTu5S5ebCF3FA851mjUBQ6SiJCfRzLAPQDjzvfus3h6I9qWEEL+RuTg9jC3d8ntMFlpyt0utGSV9Mg9j0qnQcnQ2kqXL+Hj9E6Rrgqw1bsQvpwB2s42Nq4lwL/xpWU2i53jDqLeyD03n/0qTF6jWZHK1DkLmTvtQkIDtpoCkEPn5pSBC/tMR6olV3nuh/Xqt2CIht4NY1bM3NpFW3xYh1Jxy5H39ddEAiYRUKupZS4UOSP+1DS2KQcJnlSECQetiRG9314sr43HMGnW5ZZZ7xvngRn9myFK+CCbfs=;1hSEuYARQp2AYVEK5X2t4g=="
 ---

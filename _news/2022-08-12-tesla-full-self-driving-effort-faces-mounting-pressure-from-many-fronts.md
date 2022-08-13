@@ -95,22 +95,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving"
-    excerpt: "Tesla Inc, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Self-Driving features as providing autonomous vehicle control."
-    publishedDateTime: 2022-08-08T15:42:00Z
-    webUrl: "https://driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving"
-    ampWebUrl: "https://driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving/wcm/7ab79e04-c2d0-4f35-8c20-4ce11e2f5e7b/amp/"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/technology-news/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving/wcm/7ab79e04-c2d0-4f35-8c20-4ce11e2f5e7b/amp/"
-    type: article
-    provider:
-      name: blogs.driving.ca
-      domain: driving.ca
-    quality: 69
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/09/Tesla-Autopilot-hands-free-autonomous-self-driving-1.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
     excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
     publishedDateTime: 2022-08-09T16:08:00Z
@@ -188,20 +172,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Tesla lied about Autopilot and Self-Driving features, says DMV"
-    excerpt: "Tesla’s advertised Autopilot and Full Self-Driving features have been described as false advertisements by California’s Department of Motor Vehicles. The DMV says the advertising language used by the automaker is misleading."
-    publishedDateTime: 2022-08-08T16:28:00Z
-    webUrl: "https://knowtechie.com/tesla-accused-of-false-advertising/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/06/tesla-logo-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
     excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."

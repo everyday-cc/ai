@@ -8,8 +8,8 @@ webUrl: "https://gulfnews.com/uae/health/abu-dhabi-health-authorities-now-using-
 ampWebUrl: "https://gulfnews.com/amp/uae/health/abu-dhabi-health-authorities-now-using-artificial-intelligence-to-predict-patients-future-disease-risk-1.89857514"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/health/abu-dhabi-health-authorities-now-using-artificial-intelligence-to-predict-patients-future-disease-risk-1.89857514"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imagevars.gulfnews.com/2020/04/20/AI_171966ffc69_medium.jpg"
@@ -36,6 +37,6 @@ related:
       domain: itp.net
     quality: 23
 
-secured: "G4tRp2qMwBqs4rkAVGl3SvSqfnfF9H4cRNbLQnhaO/tB1eDO3QgbcrEzNdxDYV2Ve0gj0gJ+EIiu0e/4U8HNt8CPkZERBc84FNxEI56L0ETPwDoxjAKSDSlaVJiKPMr+qDPlNvjkwwo54va2N0E1SSab3zUFam3glgS7swHNNvEBws/voauPOLWLdywZ2iuQq/XvUT/EVnJVfPdR7Ra7nLJa+E1FC6ZPWX7wpTyQ6XaD0Tj3pvTcbiKuYnJtiEg7YSwJ12wL19cd9ST/HeEr3ZK3T6WgjtQnbY3ZSk3W6tJO9quHokanNREjip5yJTiR9/CbeI01fSji+RjoddWvyocaI6ihZddZJkOxbPiOifg=;uwVi+2Rei+qeFiLw0MWF2A=="
+secured: "ikjTqKQgTAcmLew9/olsM6+/DREMN2zTMJPzsfT3W2nZVYOzTm3vKs0/hjhXQXTU7GUN4v0XDMWV3MzfgzEN29zMaqmQg/l+l7vihAexVPm/MXT/96QD9SAaq45PiBeB+c8adduX6lLGkh/KMHbXDoS55fyqv4SSwUEbnMrWz21eSCvZfbLok1JzNga/S2qNiBmc6ZKbMfyeH/qTwP/nDgTEJMdTCQEpjPqYQrrnGKqCOsjZhnOlR9hSHZ+JyeLr8ZpaYx0fa8BfJFZOUlvyAMjZ+VR0d+Cpz9tjFxMEytSfdRCKbD7ePtr2nVPX/ChYt2WmH7Zd51xUu75eWYqSC0B9ybBwF39uR/BevLudc30VwZftUQevp+j9evh3hvC20uoaSKUbfaGgfTCRqBY59FwRwiW9LPMOZbIXr7Ssk4/siH5BBIRxufbX6ri7uZxaqbiYRVwGTOtDtI7cnbglnPdStUmEjwZlzB9N0SQE6vVjsXW01FoZt+pGwafQB1lp/Ctagna2CGxkwzq5tohULA==;VqZi2CWcHBePRuxtGvSTow=="
 ---
 

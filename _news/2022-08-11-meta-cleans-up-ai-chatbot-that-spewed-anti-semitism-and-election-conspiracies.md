@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 86
+published: true
 
 provider:
   name: New York Post
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI chatbots offer a way to connect with and engage customers"
+    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
+    publishedDateTime: 2022-08-11T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
     excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
     publishedDateTime: 2022-08-09T14:18:00Z
@@ -43,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
+    excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
+    publishedDateTime: 2022-08-09T21:16:00Z
+    webUrl: "https://www.niemanlab.org/reading/metas-ai-chatbot-repeats-election-and-anti-semitic-conspiracies/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 17
 
 secured: "LR375SUpp0B7FsbUOeYi9fArIPgVt8anu5WubPhHjOAUYlSxjA6Dzd8lPvDAIYtZEWiLnE219gE/SJ5EkxtI1RjcLlLcEn5kxPoeTk9ly8XyBXrtfF30+3WHu8morHNC3lPzIQuRkPZOi9nNlcE+jPhkhlq9A5G28oEALvSlLpfO+//chB7EMzXD3vUQKbH4GOPW5EscSGOIiDU2qykMIHY6qGepgEVXDkJjdfLXwaCvI4Y2l1SOIs8rYK/akg+QeL3LE+b53N0JaYxGw1alPZ4ewCRFGRXIP2N8qf75XtvXwd1qJwrCRu/jHxGCKPZ7uXFZzR+gbP967yyfSReiajSRxb5BO3MDz59gPbUlq9mabWJNGVdbPzUkVjvEtUgj9FcJpUllYF1a4wssI7z3WOv9lgFiAWpWgZ/yAlOovbVUYQT1lXtQpLfUOWI9MM253FE6qTP4fKkS+LbsH7S2LJRzXPdehNKV1zwu80XKD2z3H2s7AuL33jbfvl1LMbRzEAxigO/HpbhiPMjBfUqiHQ==;IxPZs5u0r7TkuxebjkQb1g=="
 ---

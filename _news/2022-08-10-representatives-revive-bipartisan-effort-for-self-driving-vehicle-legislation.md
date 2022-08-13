@@ -40,16 +40,16 @@ related:
         height: 676
         isCached: true
   - title: "Nation releases first draft of rules on self-driving vehicles in public"
-    excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
-    publishedDateTime: 2022-08-10T02:17:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+    excerpt: "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ..."
+    publishedDateTime: 2022-08-10T07:03:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 24
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+      - url: "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
         width: 536
         height: 357
         isCached: true

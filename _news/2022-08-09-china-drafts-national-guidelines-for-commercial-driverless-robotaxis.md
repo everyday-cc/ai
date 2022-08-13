@@ -139,15 +139,6 @@ related:
       name: dealstreetasia
       domain: dealstreetasia.com
     quality: 33
-  - title: "Baidu's self-driving taxis deliver rides without safety driver in China"
-    excerpt: "Baidu has become the first company in China granted a permit to run a commercial self-driving taxi service without the need for a safety driver. Baidu's service, known as Apollo Go, has been up and running in parts of China since 2021,"
-    publishedDateTime: 2022-08-08T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1136759_baidu-s-self-driving-taxis-deliver-rides-without-safety-driver-in-china"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 19
 
 secured: "u6YzFAkzQzEhibG3icdPYHcZv537/P9/F7gjjB0GVQ65QZKNWDXP+wDTd9mQjgSUabgwO+D5ogBxk7Rfka3Ll4bxtVU6ozkM8qjTgw10N5Do8NNeZhmONEE94zHDywRBZGk724KHdYIh0nkbR6T527HA6PXnaHD8hHV9gYXadFhK0blrSaKzathGRfcB1dCvM6bp2zxTFGKi2dgY+u3MD9WGqAjZguEl9vZ8ESYyqzh3z9JbrpMK8V1BmtLvDg3lk5KoJ0H4HHeTnpbcScLQSWCoqN+obbTiMmRxS2MbaVcvEgEHEZ59hjrWxwoR12AhkKXd4ujVGxl42TddQE4TbRSkpJaaNNqql58eBAyLWNraYUbCG5Je0YCF1xxeTFzgOpYh8fZwO3aZAbKEdbSS3boKiwM/evN4di8irkNiekoJdL3VvndVMRqzpCnbs9FTTKCQARokt/AXyRrLvV9/DZiGGptq+oBAlnrqhnGFrJjVWlTQt0NwVVeE44Go4vSgzW+wWavlZSd3sJFr32kLbQ==;qYYt8IZVTZg59yMbndhB0w=="
 ---

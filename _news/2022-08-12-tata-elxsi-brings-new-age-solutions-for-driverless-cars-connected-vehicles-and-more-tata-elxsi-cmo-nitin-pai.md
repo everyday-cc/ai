@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai"
-excerpt: "He said Amazon Web Services has enabled Tata Elxsi to bring all compute-intensive development and R&D projects to a cloud infrastructure."
-publishedDateTime: 2022-08-12T09:28:00Z
-originalUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.html"
-webUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.html"
-ampWebUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
-cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
+excerpt: "Stressing on the success of Tata Elxsi products and initiatives that fuse domain, digital and design to deliver powerful use cases, he said TETHER Aut.."
+publishedDateTime: 2022-08-12T06:57:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
+webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The New Indian Express
-  domain: newindianexpress.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/12/w600X390/Nitin_pai__Twitter.JPG"
-    width: 600
-    height: 390
+  - url: "https://etimg.etb2bimg.com/thumb/msid-93516607,imgsize-50072,width-1200,height-628,overlay-etauto/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -60,6 +60,6 @@ related:
         height: 450
         isCached: true
 
-secured: "CZ0SAbrwuFza3Zhgait5OxP+CqQE0Sivd/LrzMGYuwEC7+kmYxfk9eiVJ6MBrvLLxUcB0pBrNElcpfPBZvLUiPHbaIdW2phsTUD4rnZQ7MeyhWEzsMIekOV8Kys0rAa9XRpTY11iZZD23D/Q2eqyfNTe2AfuF3Hfa+HEvsG4JZbY5ykq5MdBI4hpAVNFnQ9smtUxw2d2iKSNeGs2m/SoVO2WpnCqxZ2SzIrkhD8fpt4y4zjNJrYNiNVVIrcM6mrdHJcDj2WKThNrp6/PiEJiGGlHdnHrqv+NzGPC0wgTKIK8uKP+6XN2eJq/bjLGSi2ettE6GugOjGMWr2QG9ZzHAxhrwgodBNxsq+s30rpvfCU=;ANxiSeNXVl5ZhjOZL3M0Bw=="
+secured: "jwogxjhfT5YACLhDbfi6w9ydIxIU0W2eTzEBpNhYOMe8CpDqAZDKeZnQYaR9eRFkavBpkl6q/njg/cArNyzSYg7+1Neffx933WmQp9ibfP6CVRjxS1o73sTu+HuuerszxfUnlCaqy8jXkazuZVG7zU/MC+cTKVThHYJ0IOo7NkqO13aJsSaneNkVxosKCEFmZ71Hd54GyZODtohkY88Ofjddq9aWj4d86zRXdYaHhzDcIvU/AE8ZggZvorK8YNLqLkKkqjd9lHOmL6P4MSL+zxs1vuCBCIHLizwmjycPnyTsUaEc95kjSprKnCF8D3SY11ewcFJ3C8kYnZXDow6ceb/Xu++7+n9ftA4T0pSWyq4=;nDtKHVsXoZSmVXnT/C8cWA=="
 ---
 

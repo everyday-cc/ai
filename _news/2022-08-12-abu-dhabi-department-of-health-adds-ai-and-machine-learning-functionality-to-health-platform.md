@@ -29,7 +29,7 @@ related:
     provider:
       name: Gulf News
       domain: gulfnews.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://imagevars.gulfnews.com/2020/04/20/AI_171966ffc69_medium.jpg"
         width: 540

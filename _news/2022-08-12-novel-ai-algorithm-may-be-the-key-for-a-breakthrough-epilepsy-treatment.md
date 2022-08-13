@@ -65,6 +65,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
+  - title: "Cure For Epilepsy Not Far Away: New AI Tool Can Detect Brain Abnormalities That Cause Epileptic Seizures"
+    excerpt: "This new toll can detect abnormalities in focal cortical dysplasia (FCDs), which are a leading cause of drug-resistant epilepsy."
+    publishedDateTime: 2022-08-13T09:18:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 40
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/03/epilepsy.jpeg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI algorithm by UCL researchers detects subtle brain abnormalities"
     excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a UCL-led team of international researchers."
     publishedDateTime: 2022-08-12T12:42:00Z

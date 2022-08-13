@@ -607,7 +607,7 @@
       "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -807,6 +807,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-11-meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-and-election-conspiracies.md",
+      "title": "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies",
+      "excerpt": "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
+      "originalUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/",
+      "publishedDateTime": "2022-08-10T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
       "title": "The Importance of International Norms in Artificial Intelligence Ethics",
       "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
@@ -861,7 +904,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -913,7 +956,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1204,49 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
-      "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
-      "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "originalUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-93479666,imgsize-100,width-1280,height-720,resizemode-75/93479666.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
-      "publishedDateTime": "2022-08-10T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

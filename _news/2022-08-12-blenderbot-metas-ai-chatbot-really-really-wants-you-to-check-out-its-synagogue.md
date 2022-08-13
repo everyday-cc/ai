@@ -163,20 +163,6 @@ related:
       name: AV Club
       domain: avclub.com
     quality: 37
-  - title: "What will Facebook do?"
-    excerpt: "Meta, the company that owns Facebook, recently disclosed the actions taken by the social-media platform on harmful content relating to the May 2022 national elections. Using its automated systems, Facebook removed 15,"
-    publishedDateTime: 2022-08-08T16:01:00Z
-    webUrl: "https://businessmirror.com.ph/2022/08/09/what-will-facebook-do/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 24
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/10/Column-box-Editorial.jpg"
-        width: 1008
-        height: 529
-        isCached: true
   - title: "Meta’s new AI chatbot thinks Trump is still US president"
     excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
     publishedDateTime: 2022-08-09T12:10:00Z
@@ -214,6 +200,6 @@ related:
       domain: israelnationalnews.com
     quality: 17
 
-secured: "h+Pd92Wg5qG5ZVojWggFtsKKShwQE3HustippmLm2sUNwYq9LajK35MHoUluOGsTIFCqP3q7Bv5Ux5qDhzJbdY1o5OJFMU72/vNjSb3XxnqxcAvRsFdMiq69N0Clz5PmUaOVkBhKmuPpRHnJUbRH51BGJIRH5mXlH55FoJc2hUaBJjV055nJMtv07pCuOzCPiHPVyXye5EYqqFwEbvkXElTLZZdr2aku0jjkKRFEIL65dUnMcppDle+bO0OeOFaXuHj9P4l2MbgAC4uV/Yk5BR6IVZVbt1iVLyE1DiKyl17aDJIfj/m0tolTHla8zBt2MX7xvSavypgEBgHxlAa/4l8fdrp8zawmB9Kwf5I7O8g=;yFaGQi9EenKYk7D2akh9nQ=="
+secured: "q18QtnzRLM4SREirvaJoIHOrzQ1z00g+MetVGWUuDn5gOV+PFyowUbBqENhGSYN56TYTXwgyePI4piztg/yRESVuXPeH1C70DQuIwsiN1tgrSLAaF6EUQtkQEft58Nc1NSjzc7gpLoTLh/4YJ6nLyzCf6KXsTcIvRuWh099VXBakNyksxbhv2oMAxOW8oeY5EnYE6WBEyH+9ceI43jgP3QRdGUjj8q/x/r9Xi0oC+IP0TdofutXChgjJXsQFIyS+k7RjnrRfbn101kL3UfuNhFLmd+1mYeSdnsLjIp+kgLMS90BlAWhkMi4dIUimEtaGda4FF5t9ZBOtzGx7RaU/nn52lKv96k+ANjavbxBsJsvvO3CoryF6ZjqhbnFIl3zW+KT7oHuIw7QaHzgKbvl72JDiJrTXdcQEuNg8ykfibFJ1bB8OQAmQBQngyu/9ubDPrTMkFo884wNkvJvnK507sc1mWLRkuTD5p7ZIS0NvwIcgj+OYV0BIqD8Pxy4yVQq5hGPLwkp0oiFBjdUA5JUOvg==;ZcZzQVmti4B6/QJv/1uaEw=="
 ---
 

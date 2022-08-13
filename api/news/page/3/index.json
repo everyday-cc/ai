@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
+      "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
+      "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
+      "originalUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-93479666,imgsize-100,width-1280,height-720,resizemode-75/93479666.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
+      "publishedDateTime": "2022-08-10T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds.md",
       "title": "The Morning After: Kim Kardashian is the face of Beats’ skin-colored earbuds",
       "excerpt": "President Biden signs CHIPS Act to boost semiconductor production, Kim Kardashian is the face of Beat’s skin-colored earbuds, Ford will reopen F-150 Lightning orders this week at a much higher starting price.",
@@ -607,7 +650,7 @@
       "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -703,57 +746,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.md",
-      "title": "Citi's stocks to play the biggest themes of our time like automation and AI",
-      "excerpt": "As markets remain saddled with short-term turmoil and recession fears, one top strategist recommends investors start seeking out stocks with long-term structural growth stories. Citi's Scott Chronert believes stocks that play into the biggest trends of our time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
-      "originalUrl": "https://www.cnbc.com/2022/08/09/citis-stocks-to-play-the-biggest-themes-of-our-time-like-automation-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106906180-16252398672021-07-02t100213z_1512409415_rc2aco9klsci_rtrmadp_0_usa-mining-gm.jpeg?v=1625239934&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
       "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
       "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
@@ -814,7 +806,7 @@
       "originalUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1215,21 +1207,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services.md",
-      "title": "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services",
-      "excerpt": "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”.",
+      "path": "_news/2022-08-09-asia-pacific-artificial-intelligence-in-fintech.md",
+      "title": "Asia Pacific Artificial Intelligence In Fintech...",
+      "excerpt": "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png",
-          "width": 739,
-          "height": 768,
+          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1237,23 +1229,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T03:00:07-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28411655",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655",
+      "publishedDateTime": "2022-08-09T02:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1262,7 +1245,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI"
       ]
     }

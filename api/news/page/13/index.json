@@ -2,6 +2,102 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-30-driverless-cars-may-need-gender-settings-as-women-are-better-at-using-them-than-men.md",
+      "title": "Driverless cars may need gender settings as women are better at using them than men",
+      "excerpt": "Previous studies have shown that women are less positive about the idea of driverless cars, but researchers said new results show they are able to use and interact with them better than men Credit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/news/2022/07/30/driverless-cars-may-need-gender-settings-women-better-using/",
+      "originalUrl": "https://www.telegraph.co.uk/news/2022/07/30/driverless-cars-may-need-gender-settings-women-better-using/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2022/07/30/TELEMMGLPICT000304231712_trans_NvBQzQNjv4BqyuLFFzXshuGqnr8zPdDWXhbQKbwj1ZsnNMhuR7O6ySI.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-30T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-ai-ethics-confronting-whether-humans-who-mistreat-ai-are-alarmingly-immoral.md",
+      "title": "AI Ethics Confronting Whether Humans Who Mistreat AI Are Alarmingly Immoral",
+      "excerpt": "Consider the AI ethics of humans that mistreat AI, including people that lash out at AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6216d47f3093472d144b2484/0x0.jpg?format=jpg&crop=1964,1105,x0,y101,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
+      "publishedDateTime": "2022-07-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
       "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
       "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
@@ -1066,109 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
-      "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
-      "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-944464846.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/adding-ai-to-knowledge-management-is-a-4-5m-game-changer-vb-on-demand/amp/",
-      "publishedDateTime": "2022-07-29T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
-      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
-      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "originalUrl": "https://www.techradar.com/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-07-27-ibm-uses-power10-cpu-as-an-io-switch.md",
+      "title": "IBM Uses Power10 CPU As An I/O Switch",
+      "excerpt": "Back in early July, we covered the launch of IBM’s entry and midrange Power10 systems and mused ... customers who run transaction processing systems and are looking to add AI inference to their applications through matrix math units on the Power10 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "originalUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/ibm-power10-die-shot.jpg",
+          "width": 1493,
+          "height": 1460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/26/ibm-uses-power10-cpu-as-an-i-o-switch/amp/",
+      "publishedDateTime": "2022-07-26T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-kanverse-iolite-release-brings-new-cutting-edge-features-to-its-existing-ap-invoice-automation-and-insurance-document-processing-products.md",
+      "title": "Kanverse Iolite Release Brings New Cutting-edge Features to Its Existing AP Invoice Automation and Insurance Document Processing Products",
+      "excerpt": "The entire process is powered by Computer vision, Natural Language Processing (NLP), Fuzzy Logic, and advanced Machine Learning (ML) algorithms to make business processes more efficient, optimize cost, eliminate human error, and mitigate risk. Karan ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-1d1231ed88464d0b8622a0a8b90a0e44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-how-to-build-ai-data-engines-that-use-the-right-data-at-the-right-time.md",
       "title": "How to build AI data engines that use the right data at the right time",
       "excerpt": "Data is then fed into neural networks, the intention being that ... when it comes to iteration cycles for developing artificial intelligence (AI) systems. Across 90% of enterprises, it can take ...",
@@ -1042,101 +1128,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-documents-reveal-advanced-ai-tools-google-is-selling-to-israel-the-intercept.md",
-      "title": "Documents Reveal Advanced AI Tools Google Is Selling to ‘Israel’ – The Intercept",
-      "excerpt": "Training materials reviewed by The Intercept confirm that Google is offering advanced artificial intelligence and machine-learning capabilities to the ‘Israeli’ government through its controversial “Project Nimbus” contract.",
-      "sourceUrl": null,
-      "webUrl": "https://en.abna24.com/story/1277017",
-      "originalUrl": "https://en.abna24.com/story/1277017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.abna24.ir/image/jpeg/2022/July/26/bfb318e7-fd3c-490f-809f-ef00ade1e4d1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AhlulBayt News Agency",
-        "domain": "abna24.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031.md",
-      "title": "Computer Vision Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2031",
-      "excerpt": "AMARILLO, TX , United States, Tue, 26 Jul 2022 02:55:34 / Comserve Inc. / -- The Computer Vision Markethas encountered significant development over the recent years and is anticipated to grow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

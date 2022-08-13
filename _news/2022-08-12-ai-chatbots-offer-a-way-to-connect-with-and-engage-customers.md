@@ -23,21 +23,37 @@ topics:
   - AI
 
 related:
-  - title: "Meta develops conversational AI chatbot: Concern for data-sharing?"
-    excerpt: "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot."
-    publishedDateTime: 2022-08-08T15:46:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html"
+  - title: "Meta cleans up AI chatbot that spewed anti-Semitism and election conspiracies"
+    excerpt: "Meta appears to have reined in the misbehaving artificial intelligence system to make it less of a shock jock."
+    publishedDateTime: 2022-08-10T18:20:00Z
+    webUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/"
+    ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
+      name: New York Post
+      domain: nypost.com
+    quality: 56
     images:
-      - url: "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg"
-        width: 600
-        height: 338
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/meta-zuckerberg-bot-99.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
+    excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
+    publishedDateTime: 2022-08-09T14:18:00Z
+    webUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357"
+    ampWebUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
+    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
+    type: article
+    provider:
+      name: buzz.ie
+      domain: buzz.ie
+    quality: 43
+    images:
+      - url: "https://i2-prod.buzz.ie/incoming/article26660675.ece/ALTERNATES/s1200/1_GettyImages-1182969866.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
     excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"

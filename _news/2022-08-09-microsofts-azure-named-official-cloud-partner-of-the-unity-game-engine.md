@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-azure-named-offi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: ZDNet
@@ -31,49 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Stock: Azure Growth Proves Resilient"
-    excerpt: "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion."
-    publishedDateTime: 2022-08-08T15:06:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/"
+  - title: "Microsoft is a Leader in 2022 Gartner Magic Quadrant for Cloud AI Developer Services"
+    excerpt: "Gartner has recognized Microsoft as a Leader in the 2022 Gartner® Magic Quadrant™ for Cloud AI Developer Services, with Microsoft placed furthest in “Completeness of Vision”."
+    publishedDateTime: 2022-08-09T10:00:07Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Microsoft
+      domain: microsoft.com
+    quality: 97
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62ec7f705c6f50a743373b0b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/09/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-08-09T06:35:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-34"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 52
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft And Amazon: 5 Critical Facts Investors Need To Know After Earnings"
-    excerpt: "With earnings now behind us, I wanted to provide an update on Microsoft and Amazon. Read the 5 facts you to need to know before investing in MSFT or AMZN stock."
-    publishedDateTime: 2022-08-11T11:00:00Z
-    webUrl: "https://seekingalpha.com/article/4532542-microsoft-amazon-critical-facts-investors-need-know-after-earnings"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 36
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2022/8/9/47572571-16600661806277013.png"
-        width: 640
-        height: 600
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/612d9b03-4232-4a4f-8026-4e15bcd3d653.png"
+        width: 739
+        height: 768
         isCached: true
   - title: "Game engine Unity partners with Microsoft Azure for cloud-based development"
     excerpt: "Unity Technologies has partnered with Microsoft Azure to offer its eponymous game engine technologies over the cloud. The company primarily develops the software framework for video games, but has expanded into virtual cinematography,"

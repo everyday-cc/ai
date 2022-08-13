@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -143,15 +143,6 @@ related:
       name: dealstreetasia
       domain: dealstreetasia.com
     quality: 33
-  - title: "Baidu's self-driving taxis deliver rides without safety driver in China"
-    excerpt: "Baidu has become the first company in China granted a permit to run a commercial self-driving taxi service without the need for a safety driver. Baidu's service, known as Apollo Go, has been up and running in parts of China since 2021,"
-    publishedDateTime: 2022-08-08T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1136759_baidu-s-self-driving-taxis-deliver-rides-without-safety-driver-in-china"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 19
 
 secured: "UbhaTNrl8riKVbPG7Z/z8HwJgUJwzofQ7P/OMLoxpCu/X9com84C+UPpofv3m3mP3nLl+gneERDM0cZG7qaUwTGkc9FaHBVh5DqND8SywZDRLeGV9qEI+OmsCMYXMc9qP5jZTVsupJok64fUj6uLSZUXqal/WzWG8nB3YQbvKtvzCpQa9e5nyHvdzpf+YvV1DV1RnZNRIeDccgOaGZ8BnnJVEdNlQg6UR0n+nH14jmwS1+zyUyeoiL5lz0hpgnZ0VPXtflLekCT9rcXDBMAEs2IBXkvksfrkWtAEy2b+EXtZKavWMasCkQ7exhGj/tvPbSVK0KvJZ6pcjmUdmTfqvevjGc9r7dEffILHBW+Khgc=;oyAn+uua+4K++gOjBztc3w=="
 ---
