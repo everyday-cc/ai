@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-13T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Forbes

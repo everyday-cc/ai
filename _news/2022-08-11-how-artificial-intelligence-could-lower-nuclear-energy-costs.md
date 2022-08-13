@@ -1,27 +1,28 @@
 ---
 category: news
 title: "How artificial intelligence could lower nuclear energy costs"
-excerpt: "Scientists at the U.S. Department of Energy's (DOE) Argonne National Laboratory are devising systems that could make nuclear energy more competitive using artificial intelligence. Nuclear power plants are expensive in part because they demand constant ..."
+excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is"
 publishedDateTime: 2022-08-11T16:21:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28459196/how-artificial-intelligence-could-lower-nuclear-energy-costs"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28459196/how-artificial-intelligence-could-lower-nuclear-energy-costs"
+ampWebUrl: "https://www.benzinga.com/amp/content/28459196"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459196"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -65,6 +66,6 @@ related:
       domain: power-eng.com
     quality: 21
 
-secured: "N03UuYk1eZ4Mj5nNqTosroRVzF6VYlGl7vsABLbUHynpUnvEn59SX6D/hx2SmTA3fDepMgM6rm8HfYNRdO+Ge3BeHYi5tZ3oTRMw4rS1Lt2caLFcivpOUkAPyQ/8PfuQ3MQMDaVjkg9cPe9h85zs++4f0sXDg8mzzpUVT+G2H1MTB6oWSswlpMU+VS61HdZWw337mO6fgAZOoYanN0+jL/HSsUFHzx1XGyXzQvlmYQiYLWKFNcquvb6KfjgCx3b+eHTc4zay9tCiDfW5HOLeFxUObaxc/+PJjlvfi/uCtIEyM9qAUbU6RujJaKl9XgA/nb1EofLt6mU0DV0vFaqTJDqjjEfpDEXGRDExNwTcDC0=;MKY6nQDjoTYvEwCrTQ5CYA=="
+secured: "iorEifV/Xd5KW6Hdsuhz1tXdkO8HsOXHCgKEdYkvDsipb7zknMVpQFTec60GcRpqGl/8chzxXy7WDr7DXqLHIviCYxrpnhyb5imQp0p3T1qraP1P6lJpHko4rwh3qeUIs0IaVgiSUCkX8WYk7vykcSumHHfZY27By2hTuJR0a3bbcfLaj3ykIS4GbIvN9anN2KaBlZyQgEP7CutSpY6fYWz3UG1vh0Vi0cGPv6nQfeSYhYhulptcOMU4r1ra9rtGSsc4PkKG3u6tQVqcVcidyTaV4cTb+iA2hhJ5E5VT5rMRFwZXa9tHjGd6CUgw7DYWTCorXiMB0rTpTS26DfZNUDhh7oM6E7PYBTOExqj5gbg=;uhuzSFWdgcGVkt4Ub/a49w=="
 ---
 

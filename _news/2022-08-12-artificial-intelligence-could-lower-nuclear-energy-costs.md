@@ -41,18 +41,20 @@ related:
         height: 1278
         isCached: true
   - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Scientists at the U.S. Department of Energy's (DOE) Argonne National Laboratory are devising systems that could make nuclear energy more competitive using artificial intelligence. Nuclear power plants are expensive in part because they demand constant ..."
+    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is"
     publishedDateTime: 2022-08-11T16:21:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/b28459196/how-artificial-intelligence-could-lower-nuclear-energy-costs"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28459196"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459196"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
   - title: "Can artificial intelligence make nuclear energy more cost competitive?"
     excerpt: "Argonne National Laboratory believe artificial intelligence could save the nuclear industry more than $500 million a year."

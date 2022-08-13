@@ -2,19 +2,25 @@
 category: news
 title: "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail"
 excerpt: "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,"
-publishedDateTime: 2022-08-02T13:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail"
+publishedDateTime: 2022-08-02T13:03:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "JMRFq+msbq69m/XAmFfdLXtxrT7PYoVHniJ3Q9vQn1SQL5eV2bqdYbRVxaD00y81EqJFLVeEOawJguhz0h1mAk1f1HZlvKFHLZ7kcCNowu5hdCVeutZ0x/1jv28/mRYTJyYAde1/0h9ZZZU8+lQGnEsRZFi5M2dYWz0PnyWd24ZC+pXAEGTbReNzW9GLLLPVzMexZKM8QqaDOuG+ItcKNIltuKFjcOJPJPhZCChb3DIj3puMoOvkm6qQByKyhQztVHkMJymL0a2LliSOpPTl7/I6wcwLgyJd/pe0u34O2bqqEHYpxXIQrMd1LASvGXndfe1IK2k8Rswo52i7hA4/03I2sD4gQ5bneiqBDW1/hS0=;xk4rbbcem9mHbVbLJf/I3Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "k6bRD3HiNlt0FR68h9mIwuBvfDGqgpzbYGEQlBcYkNxz2XR0vhbJPOt8o9ndc7vRxy5O7BTsdBVEWbNefC3tfa9aQ61TMgjM1fYmdG10QekYwIcCPADs7vEJBafrI+fbatbMXrl4uLPtcZLdicJ/RxhIdS2+K4mzlKeG6zF1rZMLacXJz40GI5bcp4h9Br8ZQs6iceNxFbMMoevEM+FSUauEZUAaGbFECygrQldf2iYXAbASKlSCBBsnskENaZEz35osQC3QWDoum8AOBHeOVMozGIR3q+CtbTVaKsnS+ldcffimC0vi3VtqSdyhU8Hal54cEtWJjC/vEzPr49rlJWDTuou8XZ/Ro0rLr2BH3ls=;zqVOAV6G+lod6lQRZGxzug=="
 ---
 

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers."
+    publishedDateTime: 2022-08-12T00:00:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI algorithm that recognizes anomalies in brain may help treat epilepsy"
     excerpt: "The scientists employed about 300,000 places throughout the brain to quantify cortical properties from the MRI scans, such as how thick or folded the .."
     publishedDateTime: 2022-08-12T11:15:00Z
@@ -58,15 +74,6 @@ related:
         width: 320
         height: 213
         isCached: true
-  - title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed."
-    publishedDateTime: 2022-08-12T16:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220812113817.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "Novel AI algorithm may be the key for a breakthrough epilepsy treatment"
     excerpt: "A group of scientists from the University College London developed an artificial intelligence algorithm that can detect drug-resistant focal cortical dysplasia."
     publishedDateTime: 2022-08-12T15:57:00Z

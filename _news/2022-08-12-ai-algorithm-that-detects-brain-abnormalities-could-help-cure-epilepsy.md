@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
-excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed."
-publishedDateTime: 2022-08-12T16:59:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220812113817.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220812113817.htm"
+excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers."
+publishedDateTime: 2022-08-12T00:00:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
 type: article
-quality: 47
-heat: -1
-published: false
+quality: 57
+heat: 117
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg"
+    width: 1920
+    height: 1280
+    isCached: true
 
 related:
   - title: "AI algorithm that recognizes anomalies in brain may help treat epilepsy"
@@ -103,6 +107,6 @@ related:
       domain: tweaktown.com
     quality: 17
 
-secured: "xyvGSBUxtr4gO9ayeCf9f4gOhJTDbmcbOMAaZdApozAOYJrnxZ1x5m4ck6jdEWU+cI8v54XhRrqoLwSd1Som0zF7iJLPftF312qdDeH94Hj5E4TSgslRJrf7+GehDkKsKql87jJC3kd8f6KeitUbNcBbd7Sqwx+P+f6S4oJpc/A9+ysdFz3KLsS5lK3w3Az8LBbzESZKD11npN7glhRDMq3n64inAVA9siVgH9KwJ6ET9VH0itxIXPhgit2C3wS7J8onIMHXBc3ddwqbdKl6GC6HSsGV/QEbEVzeR6/OwTh3QneYrHZ08rgwX/Ntl/OqVIDSfiD/YTRuThY3zcvdKi4OJkOG2PvXTsoeqVivEKI=;Z67pkJU6xSctNck/RjT5hw=="
+secured: "kmJAJAkGTPjUiQporCmgwp/gfbs3grT/4Xv/luvTYfcBGcDYbbQtHN5O/rdiy1BYrnlrjj4I8HmdRshCNpQlpaQgg9Nb3BdH0ta9yGnY2gdT6MEkfC+E/tWRxn8I00K4Nbn/S7UDgBE8qn83a5N2o0d1RxHBf8Lzx46aII4ySPaVS26CzU2Lt0V9yo3joHoUgpl3Y2UBhN9lng4l1f9WCq5u/LGFGyb4Z4bMLNbk0vJYZ5lf+Lv7Uo2iOG9d03SY5lF3ZBVfPLgQmncYeGORB+W1l6f1JKRT91TkfHoEHHA5mmeCU0YM/WMZmx8PmQK54p7iuhMZNp5VOPWEVvGWYqvUy9XAjtuVuEB/t8FPeis=;v/d4F7ZWeukxtEVQJJ6/iQ=="
 ---
 

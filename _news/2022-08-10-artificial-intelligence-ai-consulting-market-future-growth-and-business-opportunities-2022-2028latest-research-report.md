@@ -134,20 +134,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Embedded Voice Recognition System Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \" Embedded Voice Recognition System Market Research Report \" lists players and gives information about their specific data. This Embedded Voice Recognition System market research report also provides a thorough analysis and precise data on revenue for the period 2022 - 2028."
-    publishedDateTime: 2022-08-08T23:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/embedded-voice-recognition-system-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automatic EOD Robot Market By Size, Latest Industry Trends, Market Share By Application And Regional Forecast 2022-2031"
     excerpt: "SDKI published a syndicated report on the Automatic EOD Robot Market , which is evaluated for the forecast period 2022-2031. The report offers an in-depth analysis of the market on the basis of size,"
     publishedDateTime: 2022-08-09T09:53:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T00:00:00Z
 originalUrl: "https://www.automation.com/en-us/articles/august-2022/siemens-run-myrobot-direct-control-comau? Control News & Articles"
 webUrl: "https://www.automation.com/en-us/articles/august-2022/siemens-run-myrobot-direct-control-comau? Control News & Articles"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Automation

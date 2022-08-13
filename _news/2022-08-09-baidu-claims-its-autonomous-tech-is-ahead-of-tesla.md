@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu CEO says autonomous tech from ‘Robocar’ brand JIDU will be a generation ahead of Tesla"
-    excerpt: "During its inaugural partner’s conference in Shanghai, autonomous-centric robotic car brand JIDU shared details of its lofty production expansion goals overseas. Furthermore, the CEO of parent company Baidu,"
-    publishedDateTime: 2022-08-08T20:38:00Z
-    webUrl: "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/"
-    ampWebUrl: "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 93
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-autonomous-Jidu-Baidu.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu CEO says its ROBO-01 to be a generation ahead of Tesla autopilot"
     excerpt: "Baidu's founder, chairman, and CEO, Robin Li is confident about its vehicle ROBO-01. It is a vehicle with autonomous driving technology."
     publishedDateTime: 2022-08-10T03:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -211,6 +211,15 @@ related:
       name: Arutz Sheva
       domain: israelnationalnews.com
     quality: 17
+  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
+    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
+    publishedDateTime: 2022-08-12T18:42:00Z
+    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 15
 
 secured: "QKaERAxsgW0dhHMZlLWWNFqtwSbFMsOZeOV+CH17xzQ6sWyU0y1+HGHcYJrIBG+TwjZqleZRR16h1F/IQYv2cNnUVqlIZuFOWMjzlqmo7cv8nYfjr+B5+nd5Nqd4UbML21ZSeyOMf2u1X3ZWxt3FdVrCZSJ3UZElEbm2ApaGGkrbRDCy+XNH6j2TQ+ZHlrhyQssWz3rlQa+xwwqTYF/8TgJRcA+K+bW48jJPMCJCr4gFV9xXvlKAZyeGsh28HUIdiDhSL/C9gfEWEQ7a7zkYBS0ifvXG+5tmS8f78pnwjrrOPSc/Nxtro++qiDwww23QJ1lWCqHul3i9vwN9nesNEKMMMoFVl59lMAEEG4ksHvzQdJQojGmMWqhEeJIsEsi28bcFhK6kW84ioR5ppIEkZPcSTG1jvvThGQxXUaqzru/XfsIj/OOxBHL0jmx8Li9S+Rpik6wc/mR4mgiCMuIXMQk+/VGBk63IZNWkYkA0BH/mrSje6wPI/c5udgjfrJm04VCIdVVMvtno2xTXlUxgIw==;Gos5yL7UxQ9GmcFItaXvRw=="
 ---

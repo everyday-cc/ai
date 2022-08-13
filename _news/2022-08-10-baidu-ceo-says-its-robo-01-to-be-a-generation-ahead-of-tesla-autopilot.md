@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/baidu-ceo-says-its-robo-01-to-be-a-generation
 webUrl: "https://techstory.in/baidu-ceo-says-its-robo-01-to-be-a-generation-ahead-of-tesla-autopilot/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu CEO says autonomous tech from ‘Robocar’ brand JIDU will be a generation ahead of Tesla"
-    excerpt: "During its inaugural partner’s conference in Shanghai, autonomous-centric robotic car brand JIDU shared details of its lofty production expansion goals overseas. Furthermore, the CEO of parent company Baidu,"
-    publishedDateTime: 2022-08-08T20:38:00Z
-    webUrl: "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/"
-    ampWebUrl: "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 93
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-autonomous-Jidu-Baidu.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu Claims Its Autonomous Tech Is Ahead Of Tesla"
     excerpt: "Baidu, the Chinese search engine giant, says its electric vehicle firm Jida Auto is going to be one step ahead of Tesla in the development of advanced autonomous driving technologies. Soon after Baidu unveiled its new Apollo RT6 minivan,"
     publishedDateTime: 2022-08-09T12:03:00Z

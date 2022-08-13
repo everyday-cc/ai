@@ -1,31 +1,27 @@
 ---
 category: news
 title: "MemryX Begins Customer Sampling of AI Accelerator Chip"
-excerpt: "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing"
-publishedDateTime: 2022-08-10T11:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/memryx-begins-customer-sampling-of-ai-accelerator-chip-2022-08-10"
-webUrl: "https://www.marketwatch.com/press-release/memryx-begins-customer-sampling-of-ai-accelerator-chip-2022-08-10"
+excerpt: "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ..."
+publishedDateTime: 2022-08-10T11:54:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html"
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
+    width: 350
+    height: 456
     isCached: true
 
 related:
@@ -46,6 +42,6 @@ related:
         height: 487
         isCached: true
 
-secured: "7+4wZd1V+x/JvobNHG95b6h68QtEJNqreH/xkV3QBvfCOShu+jQU1xau0hnfEBnn5HreTZLBdRKuvm0s9WM5hIx7+IRYh9B4xtNbJZbaplFnC4azGXhlzrWkTHa19flgiUJyUbWlIDBwIsW4Vu6PyYhIn1Mwf9vpowXyBP9TgZfY6prBlgkgKMPPQYbD2KmTyVaxKDvx4y8/yKmk8Tbv27t3GWWeCOOLtD02QV6Q1GQfyRhnCcc1d33xrW8nQCCp7vxiLybyFPv4lqCotGp5DlBt32wD8wBX4MyQ99Cn5vOYvfEyAJF1+Ui8rgdDtqOnUoMCqzVUSi5xtV9eyT68gdE9FTDlA/xIUZBi0AmrbmQ=;GPjZxr1dmrK3Y48TSRAZ4A=="
+secured: "CrDKmIxleA6xYej2oazwwKnf0xV79SmmUNt4KYm3rWOrAG52qKJT7srkEuQ2QjNO6+eHi/gXWi+nDsIsGwe0OrNSttNWyqgwenqIPnk9MlYwRHQ/OroGsuTWrSGJLVomKh/5iBcDcCspKYIW919YcyEnEbTkw60fQpo6khlEqPaxZb9485wv1tjtqiHaYhdZtaFLDv5c5EQfZ16cD146f3sZAEZcINgINwUxD11EQ5agr08Wsw3e7hH6BT4kT98gzt8llhCOWT4YnbOlE8L/V+2A2NGe81AG9Oaacsd4bO7lS8YsR9qP9od2nVQIb6yEIwMdmQMhr+DRg34sd8FJl5/+YUV9MwMo1lmSHPZ+PL0=;7Lu2hCue5BYP7uRVH2rbAw=="
 ---
 

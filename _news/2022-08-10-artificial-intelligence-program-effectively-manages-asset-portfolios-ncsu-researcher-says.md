@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-10T13:30:00Z
 originalUrl: "https://wraltechwire.com/2022/08/10/artificial-intelligence-program-effectively-manages-asset-portfolios-ncsu-researcher-says/"
 webUrl: "https://wraltechwire.com/2022/08/10/artificial-intelligence-program-effectively-manages-asset-portfolios-ncsu-researcher-says/"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 

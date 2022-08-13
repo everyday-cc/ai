@@ -146,20 +146,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Embedded Voice Recognition System Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \" Embedded Voice Recognition System Market Research Report \" lists players and gives information about their specific data. This Embedded Voice Recognition System market research report also provides a thorough analysis and precise data on revenue for the period 2022 - 2028."
-    publishedDateTime: 2022-08-08T23:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/embedded-voice-recognition-system-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Chip for Data Centers Market Trend Analysis, Huge Demand and Growth Opportunities, Revenue Expectation to 2022 to 2027"
     excerpt: "AI Chip for Data Centers Market is 2022 Research Report on Global professional and comprehensive report on the AI Chip for Data Centers Market. The report monitors the key trends and market ..."
     publishedDateTime: 2022-08-09T10:22:00Z

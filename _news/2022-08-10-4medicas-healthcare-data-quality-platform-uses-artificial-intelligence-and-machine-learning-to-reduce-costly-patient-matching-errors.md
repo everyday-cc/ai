@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-10T13:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/4medicas-healthcare-data-quality-platform-uses-artificial-intelligence-and-machine-learning-to-reduce-costly-patient-matching-errors-2022-08-10"
 webUrl: "https://www.marketwatch.com/press-release/4medicas-healthcare-data-quality-platform-uses-artificial-intelligence-and-machine-learning-to-reduce-costly-patient-matching-errors-2022-08-10"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: MarketWatch

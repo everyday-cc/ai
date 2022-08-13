@@ -206,6 +206,15 @@ related:
       name: Arutz Sheva
       domain: israelnationalnews.com
     quality: 17
+  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
+    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
+    publishedDateTime: 2022-08-12T18:42:00Z
+    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 15
 
 secured: "0gX19U+DrYd88Dh5xgBc5e/JksUcR7o/eBF8ySLhhPAWbRLZ9yptkWodgff89+GSahJO9jmtSuT4yugQDOTUvlbw7jblsW9+MGvdBXFqIJmNidfp0Tc8J2P2zQwZNJRwUokzethlPmQ2heWnv4/kbAqxqYt+pZF5GWBPCwLsqCqCGYhGQQTF+ut/2nsR6Rg1LyLjfGsIMF0qsh5gqnCK5rAyPY7RAADsEv4naDmnyi58JhMrCeSHRAqG9jm4J+eWqYmaN1+G4F7CzRurHVREplApM5a3R70USvvcQR7kNe2FNIhy3YzMhhd5CCae6FeTfcCgVcW8P/Z7XLqGCX+PkpZtnDKV5JVnzGMk75JjI1JgpP5FqKgTwtRlW9Qmjj2GdTtkTkxh/bWW3UHFE9IwghleVRMY0xgBmOZQYWXfj0IUDFVqcWJxBtsyJrhvD0K3LkPP3/8G95dd7N9QC5P9cPfvNC789PRC35ewp7BTg6kdEfO74tRnmg7h2xHHq0RIAQyOKSQd9y5zqXlPOfLXnw==;qFCkhOJbYr8BJIZ0NoLRtg=="
 ---

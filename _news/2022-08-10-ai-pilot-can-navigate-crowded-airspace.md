@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "An AI pilot may be able to navigate crowded airspace"
-    excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
-    publishedDateTime: 2022-08-08T20:55:00Z
-    webUrl: "https://techxplore.com/news/2022-08-ai-crowded-airspace.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-ai-crowded-airspace.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-crowded-airspace.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-pilot-can-navigate.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI pilot can navigate crowded airspace"
     excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
     publishedDateTime: 2022-08-09T11:06:00Z

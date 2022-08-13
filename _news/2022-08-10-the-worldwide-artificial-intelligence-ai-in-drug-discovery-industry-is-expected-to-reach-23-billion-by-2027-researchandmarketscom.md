@@ -2,20 +2,27 @@
 category: news
 title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
 excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-publishedDateTime: 2022-08-10T14:20:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
+publishedDateTime: 2022-08-10T14:21:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Weather Forecasting Services Market Worth $4.0 Billion by 2030: Grand View Research, Inc."
@@ -34,16 +41,7 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc."
-    excerpt: "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34."
-    publishedDateTime: 2022-08-08T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-enterprise-artificial-intelligence-ai-market-worth-1552-billion-/2022/08/08/9652242.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
-secured: "vkTDP43R/MXyGSgDnBhLSLZDEzKUPaoWP7SfGQvhEUjL61lqlTcKFozj+v9M168jRfqzy8SR+fi89nne/TuFMFCi8TDxvREkO8y+rcNunrJIBNm5ClA1x0pvRbroPYRXpKyGgtBS+WEOeCCmM6bfLJ7W220GQu8xaojFUdpJcAQTQHNv3+oeTMDfBpo4Vds689I9SiEl0N6Zkxy9lxfa7FXJFVxRoRjwZHOT5EXMMGwnMeCkeiRPiYLmTu2Nt0CVAdKNVecmwenXb61MV+7ftlGSXhIKqEcAZcP2jug+LZkSV6CAAgZwC2752FbbyO7HXGSV8dXTs9d/YghLgSsJn04/AayVEBnzyLgK2Bdl720=;y4nE1S7sPitZtQNgI8Yxbg=="
+secured: "AW9jxxf2nKzktKUAGyXr9PfTHnVvQOxNxaf+034cyWhSzbKctrlom2mCzaOzB1rpU9PsHnS+WeoHVF0j/W4Bg0ssfH0oPmmCS6txpm3iZzqYDwU072VuT1icBW1Q3e0dNrRqloO+OJWucZCpz4pYDppkQcijklGayojPd874iTO/bSwgRLufwRSbkNQRjQ0NVb0Oa5JfuU2f35cT4//Dt17gTmH9q9lApMILHWT/5gqq2WjOWQAuK5gI7mQgbS0yGY6DKWcYP+1wxMvcmoK4K4qdIAVq54sAEpoBAjeASCYiY1uhPJQdrFSvV5FhChj2/MRDRefwkNpFP7hIzgeBCDGgnbA6Fho/7ZodqaJXaw0=;Tx5kHsLbEo2caVriJSlL7w=="
 ---
 

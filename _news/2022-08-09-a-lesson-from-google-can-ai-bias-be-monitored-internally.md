@@ -1,8 +1,8 @@
 ---
 category: news
 title: "A Lesson from Google: Can AI Bias be Monitored Internally?"
-excerpt: "Six decades hence, we are in the midst of an AI revolution that is already dramatically changing entire sectors like healthcare, transportation, education, banking, and retail. But AI is not without its critics."
-publishedDateTime: 2022-08-09T14:14:00Z
+excerpt: "Dr. Timnit Gebru was the co-lead of Google’s Ethical AI research team—until she raised concerns about bias in the company’s large language models and was forced out in 2020. Her departure sent shockwaves through the AI and tech community and raised ..."
+publishedDateTime: 2022-08-09T14:27:00Z
 originalUrl: "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally"
 webUrl: "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+hav7wlwFEuu4Ub70JG2ruwfJLcINKO9wkCCSqIiomKfUBfXXUyl2Uuvv4b84F3v7o8L5vG9YTvV+g1WtQI2HL60MPkTmyxVhaZRB3c1Jjr6cvJ9L47HMKLp8Gu7krF/4kUocS3eQf4Q6KizLCqoj6vF84sAZk86Py0HVwD1syRgER2b8mh/yBzJ/jDnnXCQcSgK/F32TOablbIFayLCDT+++qQwz0abY/LbVYQGKDZ4HobpzMuwpfyk9xVa3oZzC35lT37FoZkPb4e6aR3pMQLFe/EZycIcKKpt0b/e7NJPlDNCuPRh/UhHQFvwc4sTXzm5Rxgl/L/zr2yanaGeTixVlU+F21+2862Lv2cydL1AiSAakPKZBGekKxi5UL+pBu1+7k+TXL53sniAQxyhZj77CxnoObYVf19gPtOTPBe3wQV/BWhu643WPkvD2KmWUBepUAa/FubCoz13TCSwaInvB/GszMkB5VT8zWHA5lfSnghiY2ava+gX9VJxPkarhntRN5T5NG/XKxbkhCMlLQ==;ZH60lk0SIiFHaKkSNiOxRA=="
+secured: "m07D/crjvnt8C2YX3LecPiniGQ/XPaQWe5+amZhLCMEBXwbByiX+njFYfs8U0OqPumLBaIfD4uXJq63RASs66NA+9gMJmwgP50ehEj/40u4cHPkQnDRUBE5sj1NOSIYTDb4vuxfI7CO+L8ietVYTHZcRSv2wd/8DhYSbp77cUr1v92rUXGk0qcvStUlfg3DrjwuuSJ8xf7nHc/RJPAG7oPZBC02zxGEhyhHp1sbc2iFt3Gzjbh6TC3Fi4Pexj7pB5DLwOkmhSYRv79ARzEziIRV67yGRlt6+YEn1RZdQCSPMNBi9pmtGc1kGQIrWYvFnT5p3pOErF46gdG/hAnTH2vyQLka1oKYEZhvNUpmC2Qw=;gyInJ9mPB5+wGj3fLGQAew=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Interview: Why the future of advertising is with AI"
+    excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
+    publishedDateTime: 2022-08-12T21:55:00Z
+    webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Meeting-Tim-Sandle.jpeg"
+        width: 1024
+        height: 580
+        isCached: true
   - title: "Interview: Dr. Susan Hura, Chief Design Officer at Kore.ai"
     excerpt: "I recently caught up with Dr. Susan Hura, Chief Design Officer at Kore.ai to discuss the bank-end work that goes into developing an intuitive conversational AI-supported chatbot. She'll also dispel some of the myths behind developing and introducing a CAI-empowered chatbot into a business’s digital platform."
     publishedDateTime: 2022-08-12T13:00:00Z

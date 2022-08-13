@@ -205,6 +205,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
+  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
+    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
+    publishedDateTime: 2022-08-12T18:42:00Z
+    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 15
 
 secured: "+rM63lJD/7pRxvgV0MGUbgAWLg0SH4d62EhvMvzrEZyuzuL/rzZWV1A67dI+xbcEqsgQyDOteRt9dRrsSao+3DBMd+IpW2pRi04Z46UjFvqBAoWwCT2Pbz9OooaLELbqtSUdtufwnuB5Q4nA/aLBehK4oqodwpo1KrKb4Lz/HVx0yXDMODnle57ticMcZcYFDvYZ5qPtLdh72kv8b1rT2c1j01ZLig1gTa7gqJKdeki5T0Up2R5kOUSoiXDHNU4qJFYZ1uJ4bhKKkw6dOitiOWllivP2W21KeEOE8SRSFGeVzdFd1MyiSJ4bioOCQl1DRljWnQ1vyHMV0KkcOjupSAYGdCrX5yVSuTiYixvvsbu12bGPhCOn4hGcwerUPBu9Ju8B0vhQYlOkeZTyLce8rz0zB3Xw76WaS1Ju5BLDTgv7J27HcaoOfcpmFD7KVhJRFPQMR8g05bKqGJSUuZoSRqGWjra2wBjbIS9GRFPb7/ZQR6iBV+Eyw081sx3xPJKxJbVsuGyWJviJWtOI9Bxi8w==;PfYFpdd+H7JFT8nYre3p3A=="
 ---
