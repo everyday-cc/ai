@@ -14,12 +14,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "Zn1tqZixaq+z3XzskrvhnpZ1h71UqWnglY/RRve6X48P4dJl6BOOrpyl8wqpTJnLee4lt8X5UYl0fmSy9ARAzxLHscQIoYkqMweyctueZ1c2AzlA1bMA3PgJUBkbT+0eqDVR2T+u6tUW8zFreH1apfxxr05P1bV4Hw3Cd5ld9bdzMmFpk2okYY++t1vpHmBj/SbEIrUirtF4UPnjTmb3D+NI2pwUBs8kfDOZJKT8hXXeOjSsotGnBQLJOhAuRwYAx+KXBijDS0qW7qNSSM5qz4WKqtQkYAO06ib3+DyHiSMfYGEPdYtjsF7AWyn6ZALpQQHBTwY9B/t+XgzALDhaVYHWBKQ17WhNqc1L05z5Kwg=;zaPnMNm+U39+syIgiqey1Q=="
+secured: "O5umzrXlQqAzfodlFoPAs9bru+v5KjD6kRDQMXEvnWt1X6FVB3RTPJZLvRrJRAxIZowD9r+azUHK5UGVH33uq6iOpHNuI05v4RBPync1/gDZJBR0NST6NZdgi7ogus/3T8OcJosEJq1jw0C7+a3oTz8cgcScpnxhzH1fnEJ4zRYLwGY7EUlsvmY4skq6chRO2KwLons8N9/QAmMj1J7wZzIqdSYE6JU1x9lAGaKmSE13X/FIO5h3QLGESBUohLHbCTcduGfo/hAtcXM4nMH/TF7uh5uxmTPSRPuGLSPsdRzAUN4qeoiHwyG6FCJ+HYSK2+DVVOaK7mrRjBLplo2/PRx47V8uFF7V7DXLF8EGjH8=;3NdSlBXyWUIxJb6N/RDjTg=="
 ---
 

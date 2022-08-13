@@ -1,26 +1,20 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
-publishedDateTime: 2022-08-01T14:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
-webUrl: "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf"
+excerpt: "KAID Health, an AI-powered health care data analysis and provider engagement platform, announced the results of a study that validates the potential utility of its Natural Language Processing (NLP) technology to improve provider efficiency and care quality."
+publishedDateTime: 2022-08-01T14:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648221.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/01/9648221.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "WV4zwUftiMbaUg36ZgTGBq6wwNUkunZg7Ctl1XaUsB+pWXa3a1xTT4VgqfwoOUVgae4YbYyRofxLUNl6jufIrPmw6E83gtEQNOnCXveLTyrvioAVf0N0JpiIRVsBmcjcqY6X6uwSZsSJXaNS8Gt3V20loiR3FWiWLB5e5yZkqlzgd4oaaUmvjtAKYuchZw6AP6/yFXRYaSj73y7oNH8z7GGPG7bYzU8CXk5aitMyAs+i8CB+9uSG89bKWBH9iSdM0hlHYjr9/6r9kBgHAVPV+sumFSyqn1qM/1DGHdcJ/nu6bbRQYx21B0uLtlwViVL6jejrqri+Mf55RruYzPjyqNNLSD786L3YcusKGyNaRGQ=;2zFvVcGebpdEOb4zA9TZNA=="
+secured: "6CCHQ05x1kMveyBmMw/4vTxtXYV2STp2QhO4PIqPegRgaiRSnqlzv9DvLjzJRtVvqDcQC+0rsWc3KTBxCbpOiidmhDoTSPkP9Zh9KZwhEZjtWfqDkFRqIuTPHNHNTYWz/ZN6fEfAbqO2ocXyZDxj3ACP2G4xHhKwzfectAkUN3w4uenqribHnOX7eZPM2xRLMnNNl6kYwA3nC6WKe/29FgD4ayOpQylNejwA2z/1aI53n708WsEmG2tCHni/wXWpF3Cji0K9NKaJroPEZTZ3Y+Qiz0XhZ/wOgZEAuBdkIymeG5qU8F7JtVi37c4I3RtOkCMiDKNEV5tsye9DjkqgudAId5OVaNo6f/2rS/ojZ2U=;x2eyxk0lWcwUgJmnLg3dug=="
 ---
 
