@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/08/head_2.62e7e56be7c4c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
@@ -39,6 +40,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "rsL+7/psu5N85k0uLA6bQmZRn/vwzhSXL+F35p4XoWm9+oTnBrySNdIAodGcZcpAUULwEjxMGp8KkJl3aScgQgrI6XNkrRzgn31qeezyhWcrXsHoV8x/fR2yyvrFWmGGyGUE/Mzyw7Saxg/NkvbtqhPvAZ5R1kXgU73NB5oQsNDOT/qDpRimxfOoZ4a+AdSU6VSLZmbJ5GoUPtq1nwyLvh1a5FhOYkX6bzV+RkaoIAPoSv/JY5UB/ecFH61NeqWunxmu7KOSct2M3PllNeMHsPonMZFWmldSohFW2qCdWQ/dpXu3pQEoDW0ND9WCPHns29u9vdjdyLhMcX550Ldj46Z0zc+n/f/nQ6CgoINbZK0=;oNYDoGi9F8qmIuUFp2SKbA=="
+secured: "YOWglaNdW+HGzOsPOF+CUdzHcJ+pLcVz/tVNF0/Zxgk3NiDUE+5zVHGEpB3cq1jFQMtkbGMXDg7gjWyIrVoNsJOuvifJTm3E4iModph5PvR+V5h5ejM1ObHp0Cnj/3GGXGs6WxoVbHWF2h7xvBP4DURip9Qrs9/R1DVnXwCSKWeO2Or3fY1ewVGo5UVhDHUE6nmrzEk6ZK9ChQEHwDouqqYkOhUbDsI1BqKgDtDao4SAzjSj2Ey249mn/3nlXNQEgEDEnbjrn77MINFN9YYFPn/mkgdlPnFhPWZGG3nsbVsRKa+wKsF2ZdjM3y2+UumPqoK0rSesJWFClBRJA0M1ZyOqX0dk5Js286xN0CbCIrUqxgrhABu/N+mibbDxfRufh6TGNHZYKERaq1ArBqAZDL/4R/qkWObwlR0ROv7YgdvP3gXbAJGWJVC49uNL4/E2KxJgOWCjG8mlKiljISRL9uQ81r0zBKrUWREYnDZgzG28Z7b15OZadywwthyDsioW79Y3MIYtN0tS7lh882kDRg==;dM1pApEjElKGVhgvKN2Spg=="
 ---
 

@@ -12,11 +12,20 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
+      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
       "publishedDateTime": "2022-08-05T14:11:00-07:00",
       "updatedDateTime": null,
       "provider": {

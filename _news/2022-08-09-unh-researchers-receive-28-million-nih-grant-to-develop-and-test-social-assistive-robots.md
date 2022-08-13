@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220809/UNH-researchers-receive
 webUrl: "https://www.news-medical.net/news/20220809/UNH-researchers-receive-2428-million-NIH-grant-to-develop-and-test-social-assistive-robots.aspx"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNH awarded $2.8 million to develop robots to care for people with Alzheimer's and dementia"
-    excerpt: "Researchers at the University of New Hampshire will receive a five-year grant totaling $2.8 million from the National Institutes of Health (NIH) to develop and test social assistive robots to aid in the care of individuals with Alzheimer’s disease and related dementia in the comfort of their own homes."
-    publishedDateTime: 2022-08-09T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961308"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/802c4b42-a526-4e04-b2f7-c2741a812ab3/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "UNH awarded $2.8 million to develop robots to care for people with Alzheimer’s and dementia"
     excerpt: "Researchers at the University of New Hampshire will receive a five-year grant totaling $2.8 million from the National Institutes of Health to develop and test social assistive robots to aid in the care of individuals with Alzheimer’s disease and related dementia in the comfort of their own homes."
     publishedDateTime: 2022-08-11T10:32:00Z

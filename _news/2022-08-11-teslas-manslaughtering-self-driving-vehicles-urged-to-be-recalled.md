@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "California DMV Goes After Tesla Over Self-Driving Claims"
-    excerpt: "The agency alleges the electric carmaker misled customers with advertising language on its website describing Autopilot and Full Self-Driving technologies as more capable than they actually are."
-    publishedDateTime: 2022-08-09T00:17:00Z
-    webUrl: "https://www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims"
-    ampWebUrl: "https://www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/california-dmv-goes-after-tesla-over-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/f23d5d6/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fc7%2Fb5%2F1c4c2cd944e48434a2e3442caa0f%2Fshutterstock-1901397307.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Tesla's self-driving tech's 'failure' to detect kids on road sparks row"
     excerpt: "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,"
     publishedDateTime: 2022-08-11T08:16:00Z
@@ -82,22 +66,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "DMV files complaint against Tesla for misleading self-driving advertisements"
-    excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
-    publishedDateTime: 2022-08-09T00:30:00Z
-    webUrl: "https://www.ktvu.com/news/dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements"
-    ampWebUrl: "https://www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 71
-    images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/06/932/470/Tesla.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
         isCached: true
   - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
     excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
@@ -214,15 +182,6 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 36
-  - title: "California's DMV files complaint against Tesla for misleading self-driving advertisements"
-    excerpt: "The California Department of Motor Vehicles is calling Tesla's self-driving car claims into question, leading the agency to file a complaint against the electric car giant."
-    publishedDateTime: 2022-08-09T00:44:00Z
-    webUrl: "https://www.ktvu.com/news/californias-dmv-files-complaint-against-tesla-for-misleading-self-driving-advertisements"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 25
 
 secured: "/v5nNrYh+xu3WLgXRL/A+mdXHO61WNjBIGiHta0mrOJX2JFhbux9YKnHktbxcWiLgRa30MjbTZC51+vbVQnOQRRbjZySQyYjZ4hlcqb9WMl7yy7ezwjAFSpGRvHbs0kyeZfFTqdhAo75Gx+qL2+AJGVCJs7OZeZCyV+ovQnlX2Ei5NFdEg/fO5uOHyKU7dYUK6Om4/3BvLzTA7jjWkyJH4US1AOG9b81PjYW7SgAxYGClkCKpqBtgcegLEtIEyeac22qp5dqYUlAr0uLUolPD/8Vot/DstYJNEPm6BT4NZhT6awUbBbfPnCm73edhvJJVHFqyPCtt8tQnMKlzhgEJ2IGvZzduGY5teBHt7XdUYE=;ljLQ4RrBHg7OUrrwML+3Fw=="
 ---

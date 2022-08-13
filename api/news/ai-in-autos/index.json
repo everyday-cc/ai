@@ -337,7 +337,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -485,50 +485,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "publishedDateTime": "2022-08-08T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
       "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
       "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
@@ -635,19 +591,19 @@
     {
       "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
       "title": "Baidu wins approval for China’s first full driverless taxis",
-      "excerpt": "Baidu will begin to provide fully driverless robotaxi services in ... is transitioning to artificial intelligence and self-driving cars after its core advertising revenue shrank in the mobile ...",
+      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/",
-      "originalUrl": "https://www.bostonglobe.com/2022/08/07/business/baidu-wins-approval-chinas-first-full-driverless-taxis/",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/kXW1xeHS63I8Cz8ATMYDRYtMY6w=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/TUNETHJ4F5RPCQSYW2NDFGXSRY.jpg",
-          "width": 506,
-          "height": 337,
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
+          "width": 1240,
+          "height": 827,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -657,11 +613,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:43:00-07:00",
+      "publishedDateTime": "2022-08-07T21:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1425,6 +1381,58 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-should-self-driving-cars-come-with-black-box-recorders.md",
+      "title": "Should self-driving cars come with black box recorders?",
+      "excerpt": "As technology advances, an international team of experts suggests that autonomous vehicles and robots should come equipped with a black box.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
+      "originalUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
+      "publishedDateTime": "2022-08-01T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

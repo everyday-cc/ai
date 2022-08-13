@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
-publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides ..."
+publishedDateTime: 2022-08-02T16:00:00Z
+originalUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
 
-secured: "6aF9wOnS/Xm0qaa9SoN+jUmdD0XdFNfFgxeER1O+oAPkRZUMHp5dDdX3FdPLuxRmaPtPf16xmKvQK+Xi/eQu46WsFZzqASfNTME3XUcrChb4SW/seBU7rlZriAAQwxxOacSnqNcQ9GZj3pb+SRL8YRakgmUQnALQCxqpD68mFJ5do+2eqTJUWD5fnehpy1MJyZcQh+2B/ljj3stYvcJFXUozJobUfDMHN64AXRYnT6Ht2ISHG4l1nkH+vAtL7bhPFX/br4h/21Rjz40T+KBZo3YVVj6cej1y7AIaRintv0OOvZS/uYjXBYeFI62QMFK22nVNYFfbs47MoUKcPRy9DBWwWWeKz4qFOcnKY2t9xoU=;2MJFUx1IpTre4nMbC/gMMA=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "Zn1tqZixaq+z3XzskrvhnpZ1h71UqWnglY/RRve6X48P4dJl6BOOrpyl8wqpTJnLee4lt8X5UYl0fmSy9ARAzxLHscQIoYkqMweyctueZ1c2AzlA1bMA3PgJUBkbT+0eqDVR2T+u6tUW8zFreH1apfxxr05P1bV4Hw3Cd5ld9bdzMmFpk2okYY++t1vpHmBj/SbEIrUirtF4UPnjTmb3D+NI2pwUBs8kfDOZJKT8hXXeOjSsotGnBQLJOhAuRwYAx+KXBijDS0qW7qNSSM5qz4WKqtQkYAO06ib3+DyHiSMfYGEPdYtjsF7AWyn6ZALpQQHBTwY9B/t+XgzALDhaVYHWBKQ17WhNqc1L05z5Kwg=;zaPnMNm+U39+syIgiqey1Q=="
 ---
 

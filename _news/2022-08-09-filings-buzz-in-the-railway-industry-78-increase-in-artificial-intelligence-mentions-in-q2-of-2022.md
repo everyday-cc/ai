@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence mentions in fashion company filings down in Q2"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the fashion industry fell 36% between the first and second quarters of 2022. In total, the frequency of sentences related to artificial intelligence between July 2021 and June 2022 was ..."
-    publishedDateTime: 2022-08-09T00:00:00Z
-    webUrl: "https://www.just-style.com/analysis/filings-buzz-in-fashion-and-accessories-36-decrease-in-artificial-intelligence-mentions-in-q2-of-2022/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/08/wCkJQ-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Filings buzz in retail: 38% decrease in artificial intelligence mentions in Q2 of 2022"
     excerpt: "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention."
     publishedDateTime: 2022-08-09T11:00:00Z

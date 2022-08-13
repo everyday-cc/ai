@@ -81,24 +81,33 @@
     {
       "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
       "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
-      "excerpt": "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an",
+      "excerpt": "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,",
       "sourceUrl": null,
-      "webUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
-      "originalUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-artificial-intelligence-da903978189149e19c8d04499b116ccf",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T07:01:00-07:00",
+      "publishedDateTime": "2022-08-01T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

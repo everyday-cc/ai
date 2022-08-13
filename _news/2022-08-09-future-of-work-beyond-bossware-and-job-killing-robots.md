@@ -3,10 +3,10 @@ category: news
 title: "Future of work: Beyond bossware and job-killing robots"
 excerpt: "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D."
 publishedDateTime: 2022-08-09T03:07:00Z
-originalUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
-webUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
-ampWebUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+originalUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
+webUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
+ampWebUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 617
     isCached: true
 
-secured: "LVkw077x2DBQQG2AvTeFWivskNctXFVoZCJCtfBiW3UK5uihDWOkFDB0WsSuGXeu3SdShP76v5Q9MK5C3pts0p2udLW5fObBpl9u51ea3MX+tCENSmLMgkFbUzGa04tx7wwtOWOg9jf4jvLKlViDao8jEXvnXiynuORrWCctjjMj1XJfgaCXy7ehrjmi1BSiXQ2QoE6JrZd3mdtkZ3CzrBXAsoEeVAFLuC0W9ePJVOy1V4VU3a02zdyMgtNa6rxcJwN1l6ROH7PDQs38XggoNddQpsQE3isJmA+R6fU+5NhVg2mh52JBFOGZV+7xs9RJOJ8NO46q5e+Jcl6TYjJE13eptoEJTr8YHLREyH43pgE=;A7Lbk57lb6FKKRqfuEBPxA=="
+secured: "/UtePjLIGgwzN1Wl9yTk5t9c4050CT+Gyd1v9Eh+S1RiI5mV3KkB3OouVVt4E0dAsx3uiutQgIbD61cU0cZ57rLxGOgDBWYqcwSaNW7iQyw3+pylismnZcOX0lMw/XNtJMW2KQO1oY+nF+2iCqEhp44o/qCz7DBMoaWAwbEosg0xN+9N3B+Nk8TM2PecuH2zxB5XXruNC1pDrN2FVdHar3xPBTFf9B350Tp2a8zDAIuegMnUKm7gvRadrqeCa+NWFks2iXdAAPYYJgAOk6mkpSpEY1htzLL7/Zgv7vHoyfHRY2qyfMyrenayfucrvw3xpk9L5nnTy8sB1wuQl3qj7EIlwUKhg+KEDcG05loUvdw=;WzGWBtc9avhgMaEpZznYlw=="
 ---
 

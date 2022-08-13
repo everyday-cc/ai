@@ -662,24 +662,33 @@
     {
       "path": "_news/2022-08-04-mparticle-acquires-ai-startup-vidora.md",
       "title": "mParticle Acquires AI Startup Vidora",
-      "excerpt": "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform",
+      "excerpt": "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ...",
       "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
-      "originalUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:12:00-07:00",
+      "publishedDateTime": "2022-08-03T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null

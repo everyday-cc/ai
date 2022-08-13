@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ladbible.com/news/artificial-intelligence-shows-what-aus
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/artificial-intelligence-shows-what-australia-will-look-like-in-2070-20220812.amp.html"
 type: article
 quality: 54
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: LADbible
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving air taxis coming to Australia"
-    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
-    publishedDateTime: 2022-08-09T00:56:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
-        width: 1125
-        height: 633
-        isCached: true
   - title: "Australia drafts guideline for supporting autistic children"
     excerpt: "Government-convened experts laid out 84 recommendations, with a particular focus on affirming neurodiversity and embracing human rights."
     publishedDateTime: 2022-08-09T13:30:00Z

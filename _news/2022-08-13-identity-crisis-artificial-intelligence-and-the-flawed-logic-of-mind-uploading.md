@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence
 ampWebUrl: "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/MindUploading-2000x1000-1.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "nCkmelVXODG1t1EcKLqf9yt/mriF+SYfgQmmdy7olJSyr58syizcs+Y4jhsYGdAtBZF7d5S9etEgeO24SLE1D50M4Zk5bKO5jHJiMAov38ZtGnl3/DcFLor/20MTyXs075y7YILftBS5bcRWwjpwa432rJeGh/Z5P5j6lAojuNLM5CDqr9TNi0TMIA+qN+2K6qAJgF3W3fQ1XzPIRngW/uX/icmxN4+AzUYjNPyUKDbvt/IlDRIXPj+Wa6pjqwyIn+XDy1A/zLq23D9sld/U8zVvSAxMNMFtyH6WGWUL4WrYLs47U4Z9al+rFENtTlqUhlUgHxrH73ZGDX2NY3+dwkA2umS9P9t0JSsbX/lo8Yc=;SXG8RFHpusSLv3wXcgWY5w=="
+secured: "vupEetS1l2k2OcpZhSt5MqB3SryDoMrEau8jmHXziOoMnal367ewugEOi5Nr5woSMtuCbx13Lyn5BlvJT/dvHAl6BEhHVKoeFDZi3JjM39g6LabN9vzfxuYZvNiPDajNwGP5/yVHXKw3wsbNJAfJrPoMkCSUHRlFnULNSpTlOTF+/TWL5hGZTX+oL+3HjOd9N/WV0RuOicJurM+8GYjq2+kNiiOlwka+RVYUo9ulS0UwTUKHFXqzuIVT2yDYtu4Pur9Xwt+snX2c6e6UxghFzNAY+P8RUkD+bnWiulinwlpOlgcBLEohFgUGzabOJJa/X/LECs8aJZwvcHb/xUCp4FqAN/2YrwLTCn3L5CsNNBj5+hKOHH8BG2qkKFyWqFfbbiY3Hwtw5OHYughs/gWwLojYYSod3P4gWf+OhGYeCeYls4lQmZXcJ7tO88MabfP96YR6gNEPlTeLqWzBgYTWcpJi5JeJwN5C14jbSR1ocCAwGqJLDJFPOSA5KWKm2EHuIEFCDEHnsrOdWe/1AW5AHg==;fhuWLzaiQ7XpmuZRuTMJpw=="
 ---
 

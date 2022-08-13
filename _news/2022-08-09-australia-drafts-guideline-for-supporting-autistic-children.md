@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Self-driving air taxis coming to Australia"
-    excerpt: "In what’s being billed as the future of flight, self-driving air taxis are coming to Australia. The autonomous, all-electric flying machines are set to take off in South East Queensland (SEQ) after the regional Council of Mayors announced it has partnered with Wisk Aero to introduce a sustainable,"
-    publishedDateTime: 2022-08-09T00:56:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/self-driving-air-taxis-coming-to-australia.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/wisk%202.jpg"
-        width: 1125
-        height: 633
-        isCached: true
 
 secured: "uvanTK33+/UUZUpdE6LJk9veLSTcWV706biMySWVqGMTBnkP2vJwVigqtaJqw/9qy4rjGWmjsyiZQ22HFspo3iTsTptSJybWyvbf7cLzRhUjd6h0UfJLMljZBdUya/hniEXdvKe6JSqIVgta2Vd8gP0PJI8p6gAQx9+c+iQ7QRdRIjjoK3TFe3SXpN0XrJN3pQqblU5FUhPmAL/Ebvzb9oP6PUEmjty+9OYbt1mCGoYgcTz0j7TPDNIlmxLRnvnqsSh0OOaTHauXpmATdPU3BjLX2gS5L3Ig0f+eTSS/w66lUz0iBgCJpIGcZQHwBtB96w7QMuf07ID2Ee/WUCNkH6lGUXem2hMQ6uEtibFJWv8=;hEGLYPpl58eaWrDcNH6k1w=="
 ---

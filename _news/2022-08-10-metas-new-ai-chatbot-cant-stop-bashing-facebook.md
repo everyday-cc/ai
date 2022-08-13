@@ -3,8 +3,8 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
@@ -221,6 +221,6 @@ related:
       domain: aol.com
     quality: 15
 
-secured: "Uo7gp5l3ENC/qoyxFnl05BeLg9b15xGPSW9Jgsr/G0/KT4JcCWMH+UDpPEvE5kQVRoRXDMsBXRbcYKMYwiHsQX3cqBD8WUcs/k1vjl8dBBz91IyJpqv8HKodfPksCt0LnaFLdByHwJwxOjO+/+rVdYZhomOFdAgVK4o0xHpc2/zVLjTyRoDs/TeDB2ZNbMmWtRmVRKFg5E6OqoFFLdVVs6xeWMXobR6/3C/PWz/mS2PiWU/WhmKZYnSntXBvz2k5eElJJqUNTCce0iPlZ455nlLcbIA7Lq5srXPiMEk0bkUbsQgJ82d3yvlQp6+8SgXj59guv90he69m2HWKn+Wb/fsjdH5fUMxQ7lV+mTS4djsbQ6wkSWPmUmPfJyqFU1j3PxRBObFzCEUoBsrvXy/9QPe40ExzPWwPFh9Rnca08P7v5EsYMV8Fsc9URC121Ml0XFA3KSZ4hL58iZxUYHWhfk0M5TV41aXhEZnKRC8NZGZVt/gkG6Al6ShORNEpAzap9McQu5hmyJU9LxjiPWNn1w==;EBgsfhGhZMXo5Dn+CU+ZeA=="
+secured: "72lBMjmIBF2R6jMZqAFAOI3htci9yxy0mBP7FWxUEQpeqgnwakguRrwGZpznXwYb+K73Ta9iWwNijsGabb5cneBBAkBj2DtZGwJetif/nXxdue673td4A+0gLYfXbiKPFdZnrXCSW2SCClvQ7NNaHI5xnby7dKzRzDF4V8JxOm1EJv2EkNAM9o/LY3bus6aaoG1qYuKB2Jls4wnxIy23R4NkuSjsvqfZWblbhLardLi/gcgUtTGZ/smkH6itz6aqFAErUd9+UiwE+OiacgQ1twpNLGb6qwmc0auoIXG8rHg5wD+fy0iUNeKUlYgmi6haINWaqrr+sWNG2148lnzvaBy5pmS5b0hkgUt5e0PVwXk=;bameUE3QWaPMoW1mz+EMtw=="
 ---
 

@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-10-getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai.md",
-      "title": "Getting Deeper With Advanced Analytics: Become A More Data-Driven Company With The Help Of AI",
-      "excerpt": "Whether you are a manager or executive, the following primer will help you use AI analytics beyond streamlining operational processes and improving products and services—to make far better business decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6102b8bb3810213799f78abb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2022-08-10T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
       "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
       "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
@@ -1254,6 +1203,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-why-devops-needs-a-better-approach-to-cloud-networking.md",
+      "title": "Why devops needs a better approach to cloud networking",
+      "excerpt": "A full-stack networking platform with machine learning, autonomous capabilities, and multicloud support allows devops engineers to focus on what matters most—building applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "originalUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_network_connections_synchronization_thinkstock_584207196_3x2-100740711-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "publishedDateTime": "2022-08-09T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

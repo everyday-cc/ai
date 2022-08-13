@@ -9,7 +9,7 @@ ampWebUrl: "https://www.12news.com/amp/article/news/crime/police-identify-deceas
 cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "DPS uses tattoo recognition technology to identify victims in Arizona"
+    excerpt: "This new technology was built on the “continuous, extensive research on [facial recognition] software and technology.\""
+    publishedDateTime: 2022-08-13T15:17:00Z
+    webUrl: "https://www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/"
+    ampWebUrl: "https://www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/?outputType=amp"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/?outputType=amp"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 44
+    images:
+      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/F2VdolyWbmwMQXSgbIjOQvGIvMg=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/08-13-2022/t_0acf219887a84976a42683d9a71d6daa_name_PKG_MARTINSON_MURDER_RE_TRIAL_frame_817.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "5eaWbp+z+TAQpwZx5vBZ9gjQYfQG492hmFeJCwZS3N5IXxnJmUVkQ4WrUbbbHO58DsWx9I3DFvwUgGDwnGLMeGWI/j9xJoZCzd+5kpiknIOnoNhmejUSPRfv2yvi7sJHgvWVyOlOO8Kj83NGYINSm8UO30o8ZLbDgSEIhNckESA8sPWe4KrYsMJqYd9mj7cOKVpawfCDyawlc4Ue7p0P61hJSh81v3J0Fej0R7NByd4niniRrTZyumyBt39utZZJTWxYd8q2R/kCDXBZouad1zAtnEVOuOWIco0xa7UBsgO5b5tKWbgl+tEUxid2dLXdg9rsZolxE2HwQ385VD2hlbx+g19nhuqqrk6GHV4TouLRPSbRRBOVTvmjgR2KXDOyg95Jnp6lHnN+KnznQ1u+5tGVXZqZlXjYUXuSchluBb44NNINKFqgcx7kczWf0mYcDEOpsTHkgyjaLsh7+iF4gFKjehuc0e0KvWnviqxQFwCHTS1KZOzSmKIbc7J6pvr+2vnK5cQ5hqeMrebcWLvl3w==;ZllzgWtXrktDpqN2RUkdhA=="
 ---
