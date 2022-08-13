@@ -160,20 +160,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Full Stack AI Market Size Industry 2022, Share, Growth, Regional Trends, Opportunity Assessment and Comprehensive Research Study till 2029"
-    excerpt: "Global \"Full Stack AI Market\" report analysis by size, share, regions, type, and application, forecast to 2029 is"
-    publishedDateTime: 2022-08-08T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/full-stack-ai-market-size-industry-2022-share-growth-regional-trends-opportunity-assessment-and-comprehensive-research-study-till-2029-2022-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Chip for Data Centers Market Trend Analysis, Huge Demand and Growth Opportunities, Revenue Expectation to 2022 to 2027"
     excerpt: "AI Chip for Data Centers Market is 2022 Research Report on Global professional and comprehensive report on the AI Chip for Data Centers Market. The report monitors the key trends and market ..."
     publishedDateTime: 2022-08-09T10:22:00Z

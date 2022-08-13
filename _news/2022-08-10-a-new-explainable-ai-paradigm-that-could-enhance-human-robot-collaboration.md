@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A Step Forward in Human-Robot Collaboration: Han’s Robot Opens A New Era of Intelligent Collaborative Robots"
+    excerpt: "Collaborative robots came into being to solve this issue, allowing robots and workers to work together to improve efficiency. However, this is only the first step. Han’s Robot is developing intelligent collaborative robots that do not require secondary development which users can buy and use according to their needs and costs."
+    publishedDateTime: 2022-08-13T00:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/sacred-rivers-technology-china-91d5ab03e9ca9d22ea911fb90cdeb776"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "IrYMalSn0m8hu+sQzMOY2ASm7svCUpDF9JP3ZUqEL9WW/NbLXcHMomI+Ow3RpoGXHF6/eMCIDSVudhja6MegPoy1Fiy+TvRBR7kFjG4sTcNImq21ev1dp19bgj0AufVSMsBzjkZ52ysfU1E3bx+wtEfq2zuMq4GO4k3B0Kp7HBmjiJYs3S3ST/oUGYMYffEjJ7Ye5umVUf6o7x/TrhSE4rNsIBVcc2SFrV6iSHDaXM7H2MNnIOhj0eSCPlfwCaVF4doU6nSqDXyjZgql0t71oKWB0fjeSSyBNoprlcxvJzVrd0ai2IQWqE95xds1r8wQqfSe6r8XCH8V4F8h7joLGUXyZLcmnaJ/og5uDd6FdVI=;2jSszX/WS52OLpu923s5CA=="
 ---

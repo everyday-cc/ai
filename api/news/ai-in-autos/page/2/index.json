@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-01-hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot.md",
+      "title": "Hyundai Motor eyes acquisition of Korean lidar-free self-driving startup 42dot",
+      "excerpt": "Hyundai Motor is considering increasing its stake in, or fully acquiring, the South Korea-based lidar-free autonomous mobility platform 42dot, the latest signal of its growing interest in the fast-growing space.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/",
+      "originalUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/42dot_2.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/01/hyundai-motor-eyes-acquisition-of-korean-lidar-free-self-driving-startup-42dot/amp/",
+      "publishedDateTime": "2022-08-01T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
       "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
       "excerpt": "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating.",
@@ -1284,49 +1336,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
-      "title": "Could artificial intelligence soon be able to see?",
-      "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671562.jpg",
-          "width": 1240,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
         "publishers": null,
         "authors": null
       },

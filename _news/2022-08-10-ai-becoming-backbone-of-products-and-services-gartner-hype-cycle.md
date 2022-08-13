@@ -32,15 +32,6 @@ related:
         width: 739
         height: 768
         isCached: true
-  - title: "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major"
-    excerpt: "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for"
-    publishedDateTime: 2022-08-08T08:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
 
 secured: "klaTlxu1LGzOjHOncjAPmzZbvgXxqq70T4weaPmWWDFUi7Ie/Pe6Rh5Mu6SykagAPDvc0PZyFmKcoSkQUqwpOgW4B+QUsnjfUQLYApDDaAdCySRbQHwQQj+PP7zP3XflIp9R/Q1Wp/02nRnS8aUyZ76DD8ZmvcvXAmBJ/nRreXSfUJH3xpTSysGqkLt3BzfkAwkeDGZx0Y3YpjUA8UuFjsWpJ47dogZHTkPrwN1EybPwCENA/t0Fy5MLnyUrEQUxHjvSRmtIyNtZbxu/IIRcdHae3bdSL2TPVqeLhaDGZWBrjd7q6K6R7d4EQ+awLuud2n5Fbn6sqVj8dCS91+B1WjkaONNwS3xS1I0O8HyuuBIgDLQ+e/93DQl6mtuDnRpNXnTIcEYtaRzdOPnCGYBUncFjiY7TGK3c/lewD9UuOWaarYeHSu90DZhIl6wPHz39rUw44Wz32/jr7iCybWRhBhuEu2NGHkl86a9PkxRUNDErSx7m5vm5JAoDxglzjjnDjC5zbxJqN4NG6RszmgRkbA==;VnAKxaYVgAqDW1zA2ceSWg=="
 ---

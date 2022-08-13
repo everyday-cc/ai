@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gar
 webUrl: "https://azure.microsoft.com/blog/microsoft-is-a-leader-in-2022-gartner-magic-quadrant-for-cloud-ai-developer-services/"
 type: article
 quality: 97
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bluware and Microsoft Azure develop OSDU-enabled interactive AI seismic interpretation solution for energy super major"
-    excerpt: "Bluware, which develops cloud-native solutions to help oil and gas operators to increase exploration and production workflow productivity through deep learning by enabling geoscientists to deliver faster and smarter decisions about the subsurface and today announced its collaboration with Microsoft for"
-    publishedDateTime: 2022-08-08T08:00:07Z
-    webUrl: "https://azure.microsoft.com/blog/bluware-and-microsoft-azure-develop-osduenabled-interactive-ai-seismic-interpretation-solution-for-energy-super-major/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 75
   - title: "AI becoming backbone of products and services: Gartner Hype Cycle"
     excerpt: "There are roadblocks to adoption: a lack of resources and the fragmentation of AI tools require executives to create more cohesive adoption strategies."
     publishedDateTime: 2022-08-10T13:07:00Z

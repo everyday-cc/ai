@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-11T01:54:00Z
 originalUrl: "https://www.news-medical.net/news/20220810/Artificial-intelligence-could-provide-a-much-needed-heads-up-for-future-firefighters.aspx"
 webUrl: "https://www.news-medical.net/news/20220810/Artificial-intelligence-could-provide-a-much-needed-heads-up-for-future-firefighters.aspx"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"

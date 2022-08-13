@@ -2,6 +2,164 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-03-neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn.md",
+      "title": "Neural Network Software Market In-deep Analysis And Experts Review Report 2022-2028 – Microsoft, Intel, AWS, NVIDIA, TFLearn",
+      "excerpt": "The Neural Network Software Market is expected to grow at a CAGR of 9.0% during the forecast period 2022-2028. Top Companies in the Global Neural Network Software Market: GMDH, Artificial Intelligence Techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-in-deep-analysis-and-experts-review-report-2022-2028-microsoft-intel-aws-nvidia-tflearn-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-how-deep-instinct-uses-deep-learning-to-advance-malware-prevention.md",
+      "title": "How Deep Instinct uses deep-learning to advance malware prevention",
+      "excerpt": "cybersecurity provider Deep Instinct has announced the release of a deep learning-powered solution: Deep Instinct Prevention for Applications, a new on-demand antimalware solution. Deep Instinct ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
+      "originalUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1273354471.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/deep-instinct-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/deep-instinct-deep-learning/amp/",
+      "publishedDateTime": "2022-08-02T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
+      "title": "Aerobics isn't the only exercise that can slow mild cognitive decline, study finds",
+      "excerpt": "Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found. \"My worry in the beginning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220728155815-stretching-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/02/health/stretching-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-08-02T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
       "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
       "excerpt": "Scientists from WIMI Hologram Academy of WIMI Hologram Cloud Inc.(NASDAQ: WIMI), discussed in detail the deep learning hardware technology from general-purpose to in-memory computing structure.",
@@ -469,39 +627,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-03-macamiai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin.md",
-      "title": "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin",
-      "excerpt": "Founder & COO of macami.ai, celebrate the ribbon cutting of their company with members of the Austin community, including",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-macamiai-robotic-process-automation-ai-consultancy-launches-aust-/2022/08/02/9649357.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-03-cloud-infrastructure-sales-rise-as-microsoft-closes-in-on-aws.md",
       "title": "Cloud infrastructure sales rise as Microsoft closes in on AWS",
       "excerpt": "Google Cloud, AWS and Azure collectively account for 63% of global cloud infrastructure expenditure, according to a new report from Canalys.",
@@ -586,6 +711,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-macamiai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin.md",
+      "title": "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin",
+      "excerpt": "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based robotic process automation and AI consultancy that demystifies the use of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/macami-ai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin/article_fd6906e8-bf18-59a9-96b6-87d58c07edb8.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/macami-ai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin/article_fd6906e8-bf18-59a9-96b6-87d58c07edb8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/ec/cecb65b5-8892-5eb3-bf69-b16de9d7e4ca/62e96e6878082.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1009,134 +1176,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine.md",
-      "title": "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine",
-      "excerpt": "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
-      "title": "Aerobics isn’t the only exercise that can slow mild cognitive decline, study finds",
-      "excerpt": "Cheer up couch potatoes! Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
-      "originalUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
-      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
-      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
-      "publishedDateTime": "2022-08-02T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/08/baidu-autonomous-tech-jidu-tesla/amp/"
 type: article
 quality: 93
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3650x2053+744+1077/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2022-08/0bf36a40-1714-11ed-bf7d-3b8c4fe6e75a"
         width: 800
         height: 450
-        isCached: true
-  - title: "Baidu EV unit Jidu to deliver 800,000 ‘robot’ cars in 2028"
-    excerpt: "Baidu's electric vehicle (EV) arm Jidu Auto aims to be to be able to deliver 800,000 'robot' in 2028, said Jidu chief executive Joe Xia Yiping in a statement. Jidu also plans to to deliver its second model for mass production"
-    publishedDateTime: 2022-08-08T08:34:00Z
-    webUrl: "https://kfgo.com/2022/08/08/baidu-ev-unit-jidu-to-deliver-800000-robot-cars-in-2028/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-08/08/2022-08-08T083411Z_1_LYNXMPEI770AC_RTROPTP_3_BAIDU-JIDU-CHINA.JPG"
-        width: 800
-        height: 533
         isCached: true
   - title: "Baidu CEO says its ROBO-01 to be a generation ahead of Tesla autopilot"
     excerpt: "Baidu's founder, chairman, and CEO, Robin Li is confident about its vehicle ROBO-01. It is a vehicle with autonomous driving technology."

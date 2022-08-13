@@ -125,20 +125,6 @@ related:
         width: 280
         height: 250
         isCached: true
-  - title: "Baidu fully driverless taxis get green light in two Chinese cities"
-    excerpt: "The permits in Chongqing and Wuhan mark the first time fully driverless taxis will be in commercial service in China, according to Baidu."
-    publishedDateTime: 2022-08-08T07:55:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/baidu-fully-driverless-taxi-apollo-go-chongqing-wuhan-china"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/a-9.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "China's Baidu to operate driverless taxis in two cities"
     excerpt: "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go."
     publishedDateTime: 2022-08-10T11:25:00Z

@@ -2,6 +2,136 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-07-04-deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025.md",
+      "title": "Deep Learning Chip Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2025",
+      "excerpt": "Jul 04, 2022 (Market Insight Reports) -- The study on the ‘Deep Learning Chip market’, now available with Market Study Report introduces systematic details in terms of market valuation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2025-2022-07-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-national-alzheimers-and-memory-services-helpline-records-over-5000-interactions.md",
+      "title": "National Alzheimer’s and Memory Services helpline records over 5,000 interactions",
+      "excerpt": "Doha: The National Alzheimer’s and Memory Services helpline ... for families caring for someone who has memory loss or cognitive decline as a result of a major illness or Alzheimer’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
+      "originalUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
+          "width": 1280,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Peninsula",
+        "domain": "thepeninsulaqatar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-self-driving-car-market-size-2022-share-growth-rate-throughout-the-forecast-period-2031.md",
+      "title": "Self-Driving Car Market Size 2022 Share, Growth Rate Throughout The Forecast Period 2031",
+      "excerpt": "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104473234/Self-Driving-Car-Market-Size-2022-Share-Growth-Rate-Throughout-The-Forecast-Period-2031",
+      "originalUrl": "https://menafn.com/1104473234/Self-Driving-Car-Market-Size-2022-Share-Growth-Rate-Throughout-The-Forecast-Period-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-04T00:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-factors-to-consider-regarding-ai-therapy.md",
       "title": "Factors to Consider Regarding AI Therapy",
       "excerpt": "In the first part of this post, we discussed how an effective AI therapist might be developed in the near future. In this second part, we will discuss some additional considerations of an AI ...",
@@ -967,127 +1097,6 @@
       "provider": {
         "name": "Businessworld",
         "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
-      "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
-      "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "originalUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
-      "publishedDateTime": "2022-07-02T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
-      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
-      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-reddit-buys-natural-language-processing-company-meaningcloud.md",
-      "title": "Reddit buys natural language processing company MeaningCloud",
-      "excerpt": "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
-      "publishedDateTime": "2022-07-02T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

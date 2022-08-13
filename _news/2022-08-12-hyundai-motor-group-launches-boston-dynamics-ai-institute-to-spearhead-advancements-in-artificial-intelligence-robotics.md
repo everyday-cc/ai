@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-publishedDateTime: 2022-08-12T09:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+publishedDateTime: 2022-08-12T06:04:00Z
+originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The NewsMarket
+  domain: thenewsmarket.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
+    width: 1164
+    height: 657
     isCached: true
 
 related:
@@ -101,6 +102,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
+    excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."
+    publishedDateTime: 2022-08-13T00:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 52
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Hyundai-x-Boston-Dynamics-2.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Hyundai launches Boston Dynamics AI Institute"
     excerpt: "Marc Raibert, founder of Boston Dynamics, will lead the institute's work on cognitive AI, athletic AI, organic hardware design and ethics and policy."
     publishedDateTime: 2022-08-12T13:46:00Z
@@ -134,6 +151,6 @@ related:
       domain: bizjournals.com
     quality: 15
 
-secured: "R2JGa6C5els6wcsIVII7mH1knKH91WlRb5EU2mJSbNH9poKOgwPt3ayD8K5BpWMAoMzUacM2eLIPnqhxpyIXZsTZNnOLaUu0loTuKqftGxrFxICN1UA1VmZ+alSzhrwR9N8c/y/b2FQ02lJPOIRl2dILDJqQ3YHCAXlLWgvt5JP3oTtSTyAcSLaZwOjHZmr3vxXlmnYx0ps0RnHbkbvKMcn9XETe/qbl0Tepdy1mPMMbAUeafLiOrmhEI6BX6NcAbRTUn9ula5kCJNMk+iyZW5rHuNmWtzQdsyKRUBQvEOUyLfPBda0XdFDFbNV7KSeWSUXArARrfDHBXeNXPRI9LNW8gqglTDiZkWmhyyThNUk=;zcVXJlUvAeplqiXXxQP1/A=="
+secured: "WxZTtna6r1M5JK/w6IuljofP47cJFL/lKjgOPKgLWREhMlAHpBMjrhvw2UNmPHW+x/YyL9+QW0WMO7Zk329FsJJTXD53vp+rnqCv+R9B39Gluajo2Lf1gCb+NFa/zpZuQv+cWXFQY56EZDy+BFbYfbDj4iSlqnw+kr15C8CQW6XJ8ICQSB5LIzSrWfNfMoo9ylPHzS4tJo7eUtI8r/TnFinw3RwvWn783Nd3+ownjWMoiSsrzRoZhorvL8b+ziliuMNLlEKBgJVyynqDKI1lERRQopFFlYsW2B7riWq/dqbrcDWmXNLBKft9VD5YRPWdP3Me94SiVaMr6vuYslOM2RxfI3segtCxXh+C49KIVew=;Mp1tPQa/p5JQaKnB03fYUg=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta puts its latest AI chatbot to test"
-    excerpt: "Meta understood early on that language models perform better when they learn from chatting with people. This experience helps the model understand based on the feedback it gets from users"
-    publishedDateTime: 2022-08-08T07:35:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-puts-its-latest-ai-chatbot-to-test/article65745003.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/pj6una/article65745007.ece/alternates/LANDSCAPE_615/2022-08-03T124454Z_1298068913_RC2ZOV9F01JA_RTRMADP_3_INDIA-PRIVACY.JPG"
-        width: 615
-        height: 383
-        isCached: true
   - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
     excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
     publishedDateTime: 2022-08-11T16:57:00Z

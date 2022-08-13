@@ -2,20 +2,27 @@
 category: news
 title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
 excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-publishedDateTime: 2022-08-10T14:20:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
+publishedDateTime: 2022-08-10T14:21:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)"
@@ -72,6 +79,6 @@ related:
       domain: finanznachrichten.de
     quality: 15
 
-secured: "LUD66iIIqypJvf1xfRDKSlHb3mFIxAaJoWnLxLUdnVjAQwS2Ffu0Kstt+/6ERX9VrkPSQKg//NshEd5ENeFfHst/PvLA/58YOfYuQYRpqs54W7Nwks43NPQVBAZgAvktV+vZpmqkAVAaoPcbiBADPds1EuW9I0aGoZXIurJXlOT+CJInDZinyrCdWyROGlRg/QSHFSgGa/+DmxTr8eZ4PZTgQS56vynaaczG3xxg0Qc4FG+B70WsfCjz1m66j9YISXr9FSVhLREdqmn8njOpDcIYxVmbY1xTqTMbNWxNWC0EnMBK7ZvixZ1UDvztmyA+6HoiezLakM/MAm3kNC7VGPr2BSbXWaNDWMMzDjCRSFs=;6tlwiFshu6rxTKBvSwHDpg=="
+secured: "YJoWThFCwK+48HErCyMpW1fykFlTSDq6+PGl9aOT22NKRTEImX30FggVHXTcwcMifPAXv1+XvZnQ2CA8prBHrzTthk0230EoeFCKYybpN9JsEmL6BRUqBMp4SfAb27dkwORS1bDOB2yldEgt5NF3uRfYjx56RobE0HRe1ZEebe8LFYoxk1V5rQiow7Y0Iaeso8nlC1LrBv0kyYMRvgAwBTDH9lEHMh/2v8IA6nN5u2SIwVFEikjbJKNrLxkpB/K3nRmp1DS2AZfpwVFoBui9CO/rQ4gJfDRPu4ZsCeD6phCt1LqiX5Lhh+n0kN5P7KKNU24tDbi8DC8ksnn1FQVR6F1l2ZdiesvgAP3xuAtqRi8=;iEyiuiEWG41yS24DD1r/jQ=="
 ---
 

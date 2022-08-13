@@ -2,6 +2,154 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-07-27-a-top-data-scientist-at-bristol-myers-squibb-shares-how-artificial-intelligence-is-transforming-the-pharma-giant-from-chatbots-to-metrics.md",
+      "title": "A top data scientist at Bristol Myers Squibb shares how artificial intelligence is transforming the pharma giant, from chatbots to metrics",
+      "excerpt": "The New Jersey drug giant Bristol Myers Squibb is quietly testing several artificial-intelligence programs, hoping the ideas can make pharmaceutical research more efficient and powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
+      "originalUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62b220ea4245600018ddcfbf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-amazon-facial-recognition-falsely-links-27-athletes-to-mugshots-in-aclu-study.md",
+      "title": "Amazon Facial Recognition Falsely Links 27 Athletes to Mugshots in ACLU Study",
+      "excerpt": "The Massachusetts chapter of the American Civil Liberties Union (ACLU) announced this month that Amazon’s “Rekognition” technology falsely linked the faces of 27 professional athletes in New ...",
+      "sourceUrl": null,
+      "webUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
+      "originalUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/10/New-England-Patriots-1000.jpg?fit=1000%2C618&quality=100&ssl=1",
+          "width": 1000,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hyperallergic",
+        "domain": "hyperallergic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-an-ai-for-art-copyright-considerations-for-artificial-intelligence.md",
+      "title": "An AI for art: Copyright considerations for artificial intelligence",
+      "excerpt": "Artificial intelligence is driving the information revolution and its presence is increasingly commonplace — for example, in smart speakers, self-driving cars, social media monitoring and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?w=574",
+          "width": 574,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
       "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
       "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
@@ -1028,142 +1176,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-considering-the-fine-line-between-ai-democracy-and-autocracy.md",
-      "title": "Considering The Fine Line Between AI Democracy And Autocracy",
-      "excerpt": "We must demystify AI with fairness and responsibility while being competitive to harness its transformative power and potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61892951ad641ca64a264904/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "publishedDateTime": "2022-07-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping.md",
-      "title": "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping",
-      "excerpt": "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-stamford-shipping-f999e1049cb3443f9f26166a7b4de79c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-stamford-shipping-f999e1049cb3443f9f26166a7b4de79c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
-      "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
-      "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
