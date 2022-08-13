@@ -24,22 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Why Digital Trust Is Fundamental For The Future Of The Internet"
-    excerpt: "To keep today’s increasingly connected world free and secure for everyone to operate with privacy, the technology community, governments and corporate boardrooms need to invest in digital trust."
-    publishedDateTime: 2022-08-08T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/"
+  - title: "Book interview: How AI can be a force for ‘not bad’"
+    excerpt: "Massive productivity gains made by the implementation of AI come with the risk of discriminatory and privacy-invading outcomes, says Reid Blackman."
+    publishedDateTime: 2022-08-10T14:12:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/08/book-interview-how-ai-can-be-a-force-for-not-bad/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: IET
+      domain: theiet.org
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62ed2082cd7ce704a4373b13/0x0.jpg?format=jpg&width=1200"
-        width: 1054
-        height: 702
+      - url: "https://eandt.theiet.org/media/19039/book-interview-web-hero_3130601619884992769.jpg?crop=0,0.11375,0,0.3940625&cropmode=percentage&width=1200&height=450&rnd=133040261680000000"
+        width: 1200
+        height: 450
         isCached: true
+  - title: "Interview: Dr. Susan Hura, Chief Design Officer at Kore.ai"
+    excerpt: "I recently caught up with Dr. Susan Hura, Chief Design Officer at Kore.ai to discuss the bank-end work that goes into developing an intuitive conversational AI-supported chatbot. She'll also dispel some of the myths behind developing and introducing a CAI-empowered chatbot into a business’s digital platform."
+    publishedDateTime: 2022-08-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief-design-officer-at-kore-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "wMi5Qz0353dbGwB2225hf3IsC81XOwCF12395nkZWCMaM9R7v5G/d6J2qzTzOsi1CLnu2yGJ/s1NlTfcBjhFWKZQU6XxO8YS5lvLmHyBVWBxksMBtkCEFQ/JjSmFgLGdgxtiWKreB5UvzuJ41T2xSTkZ8OXjaQu1N2tGForBFj0RhkpDl9bBCRC/iyVuZS5ID6U7TWZfmz4D+DQFarmtrS5/tZk5ppIVZMcVzo/MbP+YJqS4N4GNGpUrn2h5uvgo3BANRC6pUjhNF+Osq/9PauMJghERJjGoI/LeenG3+BsFns9ZiB7heO2mlzTccqy5DWD3C0CcviByYs9KgGv9doEGsqArnpEVVgHcDJPOIEF5IQ9utJeNi7foD+Gm4lszcnru9VvT0qW245BAmkideP/JPGKlpvNb3BmW5k5JEDEAt1KdeV9qCXTyqAmpcxChM93jl2ODN17YI+q8Wt9iDhT8xaqlGoNsBcYvVPw8jnc35CV7Na95muEkvlPLi4/CUhTWagZdYgpH0MGgvucyqA==;FHrGScygbWphuKc1PaYURg=="
 ---

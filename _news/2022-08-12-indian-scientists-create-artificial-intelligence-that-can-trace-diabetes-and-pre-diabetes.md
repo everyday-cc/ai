@@ -26,22 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "Adopting AI and 5G pose unique challenges for Indian Army: expert"
-    excerpt: "The Army has deployed around 145 assets, and the AI based solutions are being used to gather intelligence to counter terrorism. According to sources in the Defence and Security establishment, “The Army has been developing in-house algorithms which are being used to analyse in-puts which are being gathered from various sensors in the field."
-    publishedDateTime: 2022-08-08T11:44:00Z
-    webUrl: "https://www.financialexpress.com/defence/adopting-ai-and-5g-pose-unique-challenges-for-indian-army-expert/2622064/"
-    ampWebUrl: "https://www.financialexpress.com/defence/adopting-ai-and-5g-pose-unique-challenges-for-indian-army-expert/2622064/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/adopting-ai-and-5g-pose-unique-challenges-for-indian-army-expert/2622064/lite/"
+  - title: "AI + ECG heart trace can accurately predict diabetes and pre-diabetes"
+    excerpt: "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations."
+    publishedDateTime: 2022-08-09T22:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 57
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/IMG_9480.jpg"
-        width: 800
-        height: 450
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Machine Learning Algorithm Can Predict Diabetes From ECG"
+    excerpt: "A machine learning algorithm can detect diabetes and prediabetes from electrocardiogram (ECG) features, according to a study published online Aug. 9 in BMJ Innovations."
+    publishedDateTime: 2022-08-10T15:56:00Z
+    webUrl: "https://www.channel3000.com/i/machine-learning-algorithm-can-predict-diabetes-from-ecg/"
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/08/h/r/6d1ba2ea26c9cf0ef0db182e641514626a9ced0d.jpg"
+        width: 600
+        height: 389
+        isCached: true
+  - title: "ECG Using AI Algorithm can Predict Diabetes and Pre-diabetes Early"
+    excerpt: "DiaBeats algorithm can be used to screen in low-resource settings, as it can quickly predict diabetes and prediabetes with 97% accuracy."
+    publishedDateTime: 2022-08-10T13:24:00Z
+    webUrl: "https://www.medindia.net/news/healthwatch/ecg-using-ai-algorithm-can-predict-diabetes-and-pre-diabetes-early-208219-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "ZDJae6TfW/PcPWYXfUdYuut4xUTFgMQpQIqbgHVLZ2SZ0UuMGg3ZyYreFX03gAbedPthv8agP2D1JB/WJxZQVPsaJZr0Bo+NM8Bie4k978AQqk+urB3sjjeWrIr/mKVU+1HJlcQnbD1hDgEt1ZnfckJH6OVjsydugo9u89tSzZtD8OT8UAwOXE5+QyjTCzQGsgD9OltfySil05NnquJW9HOovN8WR32pahvxSWriTLXATCIkyca0NVCYGB3jvi2gimASZSCPhFJDT1/ZdI9hxk8sz63wdNDpVA1YrHbdxkJBS64WXTXZFa2mQPe/72lFt+vJroPLM0N67JKFuK7fcf6r/Jv46u6xQtuvA5bRICxrRn6QP0RaoZxUymFfDBmUF2/JN88De5PiyF3EDi/aUZUqE7y+I3GnRcmlXA/khU/fKX8hZpKGT8wMzdT0lbSI1wkRDIf9Z0bOUsDAyCJ0tD0FL4M9VVmOq1p6wdahPvMLQbscJ0yA0w47z0UV3LeRMBDO7Kyr6XQjtGcJzXQ9yw==;IbSMSYwiOBv7OjQzON8o2g=="
 ---

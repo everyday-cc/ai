@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/8/8/23297372/ai-video-upscaler-enhan
 webUrl: "https://www.theverge.com/2022/8/8/23297372/ai-video-upscaler-enhance-topaz-cupscale-primer-explainer"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Verge
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "How to Use AI in Video Workflows"
-    excerpt: "Ethan Drellinger of IBM Watson, Carlos Hernandez of SSIMWAVE, and Gordon Brooks of Zixi talk about how the key to effectively applying artificial intelligence in video workflows is knowing the differe"
-    publishedDateTime: 2022-08-08T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 19
 
 secured: "arB5SwvfqqpvDQhd3UX7OgBRJpiveC38zQBox9CG6dEj78xiR3aNYK+FPvrN4EByci29vPraCjYuSzdp0Sa9vdEhtXKcOwft+cIMmMmckuDpTW92mSycnoNAW/dqLgjXQ/xypNdnXpvYExzxgJIEcinsqd/Dix5ww+8xHeQXY/zvc/3D+Ommj+2b3Pff6/1sbARVetPuhgKDahnlOTuBn6aS7MishgArFHzMTgpg5F8Aqi2ZVEEdrT349kM3NpVr0fHo/Qok/5D9vXzWuZysPkwh7xPGwQ+eRlKumEOsi+Ctau+GOvq49ahh2vg2oQSpnaH2EeNRJ6KFrx57zzSO5CdlUxC2R/XjIkJjL9c8YkZHXLZCiakWiEBZfsn/oCyOVTArLVdKCQjjE1IU53tXgUFM2ADOIzEdjp/4ESMDOUt7nHPdSIt8n2xkmp/IMSWGkg5FPjGEJyG8zNmG3/UQo052MYstCQR58/IMtPFIlAEiMTx/lv88KDKzwWRQteSgeFYVUe6+0Uy89laOFbcryA==;X4a69BbUaHLHOla2j/UYPQ=="
 ---

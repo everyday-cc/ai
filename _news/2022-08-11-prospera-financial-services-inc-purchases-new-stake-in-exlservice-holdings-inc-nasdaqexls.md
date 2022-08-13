@@ -64,15 +64,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 5
-  - title: "Regal Investment Advisors LLC Invests $227,000 in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Regal Investment Advisors LLC acquired a new position in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) in the 1st quarter, according to the company in its most recent filing with the SEC."
-    publishedDateTime: 2022-08-08T11:26:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/08/regal-investment-advisors-llc-invests-227000-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
   - title: "Prospera Financial Services Inc Purchases New Stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
     excerpt: "Prospera Financial Services Inc purchased a new stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) in the 1st quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-08-11T09:38:00Z

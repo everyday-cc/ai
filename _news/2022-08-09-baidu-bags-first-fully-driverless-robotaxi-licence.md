@@ -68,20 +68,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
-    excerpt: "Chinese Internet giant Baidu on Monday said it will soon ply fully driverless taxis in Chongqing and Wuhan cities via its autonomous ride-hailing unit called Apollo Go, becoming the first company in the country to herald autonomous driving."
-    publishedDateTime: 2022-08-08T11:58:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=987474"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "China's Baidu to operate driverless taxis in two cities"
     excerpt: "WUHAN - Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuhan and Chongqing. Baidu will offer the commercial robotaxi service -- with no driver present -- in some areas of the two cities via the company's autonomous ride-hailing platform Apollo Go."
     publishedDateTime: 2022-08-10T11:25:00Z

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Clearview Consent Launches Presentation Attack Detection"
-excerpt: "That, Clearview AI’s CEO said, “The launch of our Presentation Attack Detection, also known as ‘liveness detection,’ will help governmental and commercial entities stay one step ahead of crime and fraud."
+excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
 publishedDateTime: 2022-08-11T10:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
+originalUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
+webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
 type: article
-quality: 4
-heat: 4
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
 
-secured: "NjJYmD3DPgSo6ih5JF1LOIwVvdszjvnBfyeFzwXUZjYElCLjU7Z9wGmP3v/qFKA0ON+dg5gEmGTEB+EV8TfBN/RNhv/IWAKSrXHw23AFXknirl1CkCojITGoMOgspZ5hcm5zxGOSZWN/AZ3Fn1qb40rsyfYr+lBQddchv1+Gw92pzxFNyr3fjxWlTgAv+yRK/1yme2IlUzIS0Ck7OkevikXXsxuT7RT/rY9LvWkdEfpIrLgv6cwECnBmfIuY6b5nLhc+Q6ZIIvLOCusZghE+HW2NkEewCBArCYyWRAYOeVNIdCU9oii/6z2f5/fyKhxklwnjHdzuS81GSUtLk2mdJR05O8g4zqRbSExfi4XLIws=;i9VkVOZamMYJNrMAUdwZBw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "E1/rpwDhkvCY5JBY58wCUnS5OXl8YbW5keHdzYTIOwNOtpkIbO6h6n/OFq2g49+V3i7Uf+IdwVGE2ve/QyrTP8sLI2LGAi1au57TrUFi8g3/ckOTzmwoHW6p6PO6HhpZTBITFd7PJ4OUjP7ohwBBNh8t66P/tzTGBDBWWA/CN0QWdB5KwAySqAbSEw6yZhILPRJCsuCldfl7n8Wcxify5/cxeBY0Y1fO6f9tpGtoCUM3+jjgBwDIIL8WkqrQgPaHMQMQa8uaZckjJpCywfnV6qd+eMz66rcOaMbqJ6qt9Rmbqxixn6Orugv/w+9DGJzD05ZoByQrJMMW4QjbIMxb0+WJQo93tFDVVD8ah+uZYy4=;KzLMP+P9N+hpTFraLzCJug=="
 ---
 

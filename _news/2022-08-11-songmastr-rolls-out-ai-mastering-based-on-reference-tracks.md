@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-11T12:39:00Z
 originalUrl: "https://musically.com/2022/08/11/songmastr-rolls-out-ai-mastering-based-on-reference-tracks/"
 webUrl: "https://musically.com/2022/08/11/songmastr-rolls-out-ai-mastering-based-on-reference-tracks/"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "m4CHfM5xe6dYNZOc8uM7Y+DzVUDiX4ac4TmJUOuhhCKdtNzhBItaQI2AfqXb+7IBQr6YQDCKfx2pot0ByVcOuRFcUdilsPXo1iaT+7PK0pT4XnF4M8X6yaMlVd7FaSdQHMFYnv7289dkkgaCTffRha/QxGR4nKNzS5VbPXJq0ndDwoU4PTHwMADzhPA16GkwgwkQp7XJi6mdBgieVKXOk1wvNh3tIAJiFOlPD6AEk7AnxNuupwfbVRqxTnTjBLHGbBHjTr+uvfZN50XNK0xRixNvbhXdS8PfxaDUTbvog2ujvUHq4HtTbaaHqjdaBYLbyyRRb0Y897gmZLIFls0+UkYnk+MNdwdRk3b4ETVPJAqKaz+BIoIjyC/QQKBYg2trlpIdgHuBGhzI/jcpq3vhB9p9NrNCA3Vac2p9S/mDXXq1puYDgOqj18oxvNqOKiQhX2Lbx7fxoA7A8f35UWU5LL23jz83upy6NJ8Rm4Oc1stFtwa8MmEI/1YDAKceOAvncaget07Y19AOuCWtsK1+cA==;fPggAm44S8Y2fTMQ3yxfDw=="
+images:
+  - url: "https://musically.com/wp-content/uploads/2022/08/songmastr.jpg"
+    width: 1500
+    height: 500
+    isCached: true
+
+secured: "HtOe9Yx4y250PDwXglZh7AyDhz2qyIo/BqUpRlpRYGqY1SucRavjDnY/QkGEeB6CdRmnK3V2B6rb3QNAA6wLxucwE9ALcw/VQLYVIl+zI/DPOW9cWkqZiQgbqfSdkH7lKHjgJ4T/WldQzh6htNS/kg7bq3U/+sX6VQg/icnIwrUxVxFUhhENZNEUHEr5LVo6WViMmAzAc40FW0cOe1SndgVjSdkyuysr/xZlg6X2y7ysyfP3IBI9DLDrzSP5ggsljIau4Z+g8OiiWEQqcSNTEaJi30qd796kC0f4NsI4ZTwns1N+5hHT/7QaBz5tliNJTh3/I7fe2Bm7Gz9II9QbvTYvk1M/vnGEbXtZkaT3eTw=;6WkGbfYk3uPTAvk4zA8RKQ=="
 ---
 

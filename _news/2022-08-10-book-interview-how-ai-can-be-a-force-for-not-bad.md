@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future of interviewing is artificial intelligence"
+    excerpt: "As HR practitioners work hard to bring fairness and validity to interviewing, the future of the job interview is turning to the power of artificial intelligence. HR technology company Modern Hire has developed,"
+    publishedDateTime: 2022-08-09T20:36:00Z
+    webUrl: "https://www.hcamag.com/asia/specialisation/diversity-inclusion/the-future-of-interviewing-is-artificial-intelligence/416254"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/039/0308_637956741634332253.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Interview: Dr. Susan Hura, Chief Design Officer at Kore.ai"
     excerpt: "I recently caught up with Dr. Susan Hura, Chief Design Officer at Kore.ai to discuss the bank-end work that goes into developing an intuitive conversational AI-supported chatbot. She'll also dispel some of the myths behind developing and introducing a CAI-empowered chatbot into a business’s digital platform."
     publishedDateTime: 2022-08-12T13:00:00Z

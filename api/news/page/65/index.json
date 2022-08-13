@@ -2,6 +2,49 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-06-19-dementia-two-childhood-factors-that-can-lead-to-cognitive-decline-in-midlife-new-study.md",
+      "title": "Dementia: Two childhood factors that can lead to cognitive decline in midlife - new study",
+      "excerpt": "They were then followed up between 2017 and 2019 - aged between 39 and 50 - when their cognitive function was assessed using a range of computerised tests. These participants were followed up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
+      "originalUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/1627736_1.jpg?r=1655626056776",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
+      "publishedDateTime": "2022-06-19T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-forget-sentience-the-worry-is-that-ai-copies-human-bias.md",
       "title": "Forget sentience… the worry is that AI copies human bias",
       "excerpt": "The fuss about a bot’s ‘consciousness’ obscures far more troubling concerns",
@@ -1122,49 +1165,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026.md",
-      "title": "Artificial Intelligence Robotics Market Size, Share, Study Overview, Dynamics, Manufacturing Cost Analysis and Forecast Outlook 2026",
-      "excerpt": "Artificial Intelligence Robotics Market research study provides an in-depth analysis of current industry scenarios like Size, Share, Revenue, Leading Competitors, Risk, and Growth factors that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-size-share-study-overview-dynamics-manufacturing-cost-analysis-and-forecast-outlook-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/749967692b9d1f63cada0512a324a03291f1b519-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -32,6 +32,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "The future of interviewing is artificial intelligence"
+    excerpt: "As HR practitioners work hard to bring fairness and validity to interviewing, the future of the job interview is turning to the power of artificial intelligence. HR technology company Modern Hire has developed,"
+    publishedDateTime: 2022-08-09T20:36:00Z
+    webUrl: "https://www.hcamag.com/asia/specialisation/diversity-inclusion/the-future-of-interviewing-is-artificial-intelligence/416254"
+    type: article
+    provider:
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 37
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/039/0308_637956741634332253.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "XtZ6owPUliKe6ZcTk/dURTSNPSt7mIAg8dxdO9YmduF99JKel6V5UmL44tXqe6lVG53dJTl1yGRJjWVDIOI6BaSJAJNvsI/jAGzJ2oGRglaDhUQr+IRfyT4UtF4MQUs5Hu7ZL6tj+V4eYkOyvgoY9P16HL5GTlaPjjPaFRQ50Du1i0YByMQqZ5DTKvvRd2yJNQP8exo/WnNT82muW8KcTLNVj6P8EWG784YbU+C5/PLOqgOrc6HCkcA/8HRuYW3fHk4wW7v21MkMUJDdddvlZqszql5WHYicIor6cpQACLHUKImURfw6848xqVy/u0Bl7CMMjYhvKrfPnHVi6cqWllxCuGdjuJ6pfxRC/2PXF5nPN6Z9kIWO76ooxIvOyNz7+m57NUdnTwLXv7qXDFCamzymz359i6Uq2rOPPx93Iztg4hxXPmVhC5wMG4P6fn4ynWNkAZ9DFLlendUajtaQY2d2q1ovU50TMdVIEJK03oFi7PBRA8ZDoBJNX62E7qSjJQwo4a/GMdd1YOtV6J5nig==;xta/37UJwPIAQsBoziXfFA=="
 ---

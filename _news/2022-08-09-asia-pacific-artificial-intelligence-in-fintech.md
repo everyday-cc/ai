@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28411655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/467.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
-    excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
-    publishedDateTime: 2022-08-08T12:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194564-fintech-report-financial-tech-firms-raised-24-1b-in-vc-funding-across-1103-deals-in-q2-2022/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 29
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Sesami acquires FinTech Planfocus"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

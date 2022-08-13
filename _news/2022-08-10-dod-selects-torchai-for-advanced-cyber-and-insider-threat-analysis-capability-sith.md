@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Torch.AI wins contract to help U.S. Navy with artificial intelligence capabilities"
-    excerpt: "Fast-growing Torch.AI has won a contract to help the U.S. Navy with its artificial intelligence and machine learning capabilities."
-    publishedDateTime: 2022-08-08T12:52:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2022/08/08/torch-ai-wins-navy-contract-digital-warfare.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 28
-
 secured: "9tFRk/Xx518a4atMptSwOuV0559ss5d0xxvaBQeAFMItNkSPzuSYFYxNOaH00J2M16kN0iKOzQhU1t5ymclV4DCMVrrO8pQ2I3WaPOQtp5rrWM7znOI5xHr+LSbLyHkIFutN7LQbIP6TZwV/5/SG2QSPg19uqloxMsq99BnHR7rdW+EwkhM6mZgd/Apxef3VEAxItdW+wuNIB8NNnFrPYlzv1xMgjOLdT99iOBdiJEnEX0/nCmLAoCo30PbNwqW718JV3A3lqyL9YDSzQhaaHCC4N4Qr/zdHcfYJ1hVwMwCSOhd+DUZ3/KQKtRtOW7H//3fgOcMVYs3ngtZQSihqFwJMVUmEjHFB8iYVKfHmD04=;NyF1WxplbD4hrN5ikdCXqQ=="
 ---
 

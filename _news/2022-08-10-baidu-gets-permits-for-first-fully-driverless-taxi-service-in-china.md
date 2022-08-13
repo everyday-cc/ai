@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/08/driverless-robotaxis-hit-chinese-streets-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Baidu bags first permits for fully driverless 'robotaxis' in China"
-    excerpt: "Chinese Internet giant Baidu on Monday said it will soon ply fully driverless taxis in Chongqing and Wuhan cities via its autonomous ride-hailing unit called Apollo Go, becoming the first company in the country to herald autonomous driving."
-    publishedDateTime: 2022-08-08T11:58:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=987474"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
         isCached: true
   - title: "Baidu bags first fully driverless robotaxi licence"
     excerpt: "BEIJING: China search engine giant Baidu Inc say it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."

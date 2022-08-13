@@ -96,20 +96,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Fintech Report: Financial Tech Firms Raised $24.1B in VC Funding Across 1,103 Deals in Q2 2022"
-    excerpt: "Fintech companies globally \"raised $24.1 billion in venture capital (VC) across 1,103 deals,\" according to a report from Pitchbook."
-    publishedDateTime: 2022-08-08T12:58:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194564-fintech-report-financial-tech-firms-raised-24-1b-in-vc-funding-across-1103-deals-in-q2-2022/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 29
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "North America Artificial Intelligence In Fintech Market to Grow by 16.1% Yearly Through 2028"
     excerpt: "The North America Artificial Intelligence In Fintech Market is expected to witness market growth of 16.1% CAGR during the forecast period (2022-2028). Artificial intelligence has enhanced customer service,"
     publishedDateTime: 2022-08-11T13:21:00Z

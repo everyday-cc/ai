@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicte
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The UK will use smartwatches and facial recognition to monitor migrants convicted of crimes"
-    excerpt: "The Guardian reports that plans from the UK's Home Office and the Ministry of Justice involve smartwatches installed with facial recognition software scanning the faces of"
-    publishedDateTime: 2022-08-08T11:55:00Z
-    webUrl: "https://www.techspot.com/news/95552-uk-use-smartwatches-facial-recognition-monitor-migrants-convicted.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 39
   - title: "UK officialdom have warm places in their hearts for live facial recognition"
     excerpt: "Live facial recognition, the most contentious government implementation of AI surveillance, is looking attractive to law enforcement leaders in the UK."
     publishedDateTime: 2022-08-12T20:41:00Z

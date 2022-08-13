@@ -2,6 +2,49 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2022-06-15-post-doctoral-fellow-in-artificial-intelligence-and-deep-learning.md",
+      "title": "Post-doctoral Fellow in Artificial Intelligence and Deep Learning",
+      "excerpt": "Applications are invited for appointment as Post-doctoral Fellow in Artificial Intelligence and Deep Learning in the Department of Medicine, School of Clinical Medicine (Ref.: 515364), to commence as soon as possible for 18 months, with the possibility of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
+      "originalUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeshighereducation.com/unijobs/getasset/bc5dd9e5-9997-4192-be9a-89c18e0171a9/;w=600;h=315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Higher Education",
+        "domain": "timeshighereducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-predictive-maintenance-can-benefit-all-manufacturers.md",
       "title": "Predictive Maintenance Can Benefit All Manufacturers",
       "excerpt": "Kayed Almasarweh, IBM’s Watson and cognitive solutions lead, contends that machine learning and artificial intelligence can minimize unplanned downtime, eliminate maintenance guesswork, optimize supply chain management, and reduce warranty costs in ...",
@@ -1051,58 +1094,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-google-brain-alum-to-helm-new-nonprofit-ai-research-lab.md",
-      "title": "Google Brain alum to helm new nonprofit AI research lab",
-      "excerpt": "a startup creating large language models to rival those from OpenAI and AI2Labs. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "originalUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/sarasedits-3-e1655168633102.jpg?fit=450%2C600&strip=all",
-          "width": 450,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/google-brain-alum-to-helm-new-nonprofit-ai-research-lab/amp/",
-      "publishedDateTime": "2022-06-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],
