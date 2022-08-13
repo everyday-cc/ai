@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google sues Sonos over new voice-assistant technology"
-    excerpt: "Alphabet's Google escalated its legal war with Sonos Inc on Monday, filing lawsuits in California federal court that said Sonos' new voice-assistant technology violates several Google patents."
-    publishedDateTime: 2022-08-08T10:54:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/google-sues-sonos-over-new-voice-assistant-technology-2022-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
 
 secured: "jMHgR1M8eFkJqQAB9IpBoC3s3sB5z+ms408fy0PPJ3fkFeLzfGpZPVeliQw6L18Vx5YKlwR9baaRNsx17rzGVDydVblsAKHrBV8z1iPiPaqvcjqevF08T1ZSzQshDuQbznLFBIzSDwXRmtsHDl48hsrHXBjPf+lRoqul2zg1xrfDIiBUlES7hJuThx9VKQpCHGqSDfGE3soAJKsB9IGTediWHtzI5uwZyjrgIuIoZs7lk3iAG2Ad0YyISPt0fNTgU3c/jDUFBRnYc9BNdSVTD3Ke2HQCnDtFlHbwq/XGKOGwBc+3Gt8c7gQn2+pQzMMBekcUD4zvXfqx6UA/+Loql+/W65wIPrDY16tN+L6hCzYvLTLUiiAMFBAIgE3g8ZjB/p+56oPV10Zku9Pac9I7cJg6hsbz8k72sCFJRdPmopYIGV//4vzS5iNaONy2WzX4UNa4H8VoNTfvKaUxqo0z19rpDVucCoS2kshfg4/sDGkpcVO4eh+3eQ0XR6/hNZL3XBYUhjbJKiToK5IpWYG8Xg==;4lTButF7mNL+4b8hakshbQ=="
 ---

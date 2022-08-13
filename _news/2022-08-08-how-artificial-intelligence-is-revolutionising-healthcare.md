@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.thestatesman.com/wp-content/uploads/2022/08/mr-1024x427.jpeg"

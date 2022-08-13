@@ -99,15 +99,6 @@ related:
       name: India Tribune
       domain: indiatribune.com
     quality: 13
-  - title: "'He’s too creepy': Meta’s new AI chatbot shares its all too honest opinion of Mark Zuckerberg"
-    excerpt: "Meta has released its latest AI chatbot to the world. And of course, people immediately started asking what it thinks about Mark Zuckerberg."
-    publishedDateTime: 2022-08-08T10:44:00Z
-    webUrl: "https://www.euronews.com/next/2022/08/08/hes-too-creepy-metas-new-ai-chatbot-shares-its-all-too-honest-opinion-of-mark-zuckerberg"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 8
 
 secured: "nVR4Rz/wFeJH8TZcw9a1eLxVoAJb5kDeXAF/dihFZ1YOPBMqVIb0IBS9xI6o1KNB5to/WMxswc+a3mVrIlU2JTmE57nLtfljmxA94BKvP65Oczs+X299/EuHGi5CHr9gXtZWwYywrNQo5ysT88stEqOoqxCjKuphbmYarQW4tPCIZT4E+DMnIQbfbUd4RpU6S85GgnrFzHCX4ilcIUqUoCqq7eP3V0h7WdRdfxUIVXnFkffd+Yi7ADFiys7kjfUIfeS5VgCYUExIeoeLslYzZTWfi77WG9ogpoBx/pFOtJ/qER2R2ip2SEvFhaH7mhzNHIwV9DRoI4fMPczRvBoR1IesQHMVV2fqhR0Q8VA/BM8AMCgB99fhTjQZ8rwiuR4gFB3X4vliWRoh7a6E4OwOPeu06iQSl09usAMSsvp/06h1lXukyziEydg67efNxYnAukHDp70Kz+SiUanDdNqTGrlo2S4rrp3fU+028JB2tpoTTHK51nEu76T3kryoqCfO2pWyxBboz3ntHC8hORdC8Q==;2ujugl9T7u10xNMVQ9SgPg=="
 ---

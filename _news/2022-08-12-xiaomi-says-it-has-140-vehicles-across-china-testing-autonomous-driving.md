@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi CEO says it has 140 vehicles across China testing autonomous driving"
-    excerpt: "Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday."
-    publishedDateTime: 2022-08-11T13:19:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2022-08-11/"
+  - title: "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle"
+    excerpt: "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations."
+    publishedDateTime: 2022-08-13T03:21:00Z
+    webUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/BePaHmTV3zLPrn98N1MbRS-BJWI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AQLX6S2HIFKZTEFOFFLW4J2SLI.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
     excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"

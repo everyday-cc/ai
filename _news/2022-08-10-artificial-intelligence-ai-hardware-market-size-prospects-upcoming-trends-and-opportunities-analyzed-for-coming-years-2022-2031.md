@@ -71,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
-    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
-    publishedDateTime: 2022-08-08T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
+  - title: "Facial Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
+    excerpt: "According to IMARC Group latest report titled \" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
+    publishedDateTime: 2022-08-12T06:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-size-industry-share-growth-trends-and-forecast-2022-2027-2022-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -93,21 +93,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis and Forecast to 2027"
-    excerpt: "The definite investigation advances a pivotal minuscule comprehension of the worldwide Artificial Intelligence (AI) in Manufacturing market in a knowledgeable way. The per user can basically perceive the impressions of the organizations by having data about their worldwide income,"
-    publishedDateTime: 2022-08-08T10:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-and-forecast-to-2027-2022-08-08"
+  - title: "Artificial Intelligence & Advanced Machine Learning Market Size 2022 Industry Trends, Share Estimation, Growth, Regional Forecast till 2030"
+    excerpt: "The global artificial intelligence & advanced machine learning market size was US$ 25211.1 million in 2021. The global artificial intelligence & advanced machine learning market is expected to grow to US$ 52331."
+    publishedDateTime: 2022-08-08T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-size-2022-industry-trends-share-estimation-growth-regional-forecast-till-2030-2022-08-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Veritone creates AI-driven revenue opportunities on AWS"
-    excerpt: "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers."
-    publishedDateTime: 2022-08-08T09:48:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 54
-    images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "InvestorNewsBreaks – Veritone Inc. (NASDAQ: VERI) Announces Continued Support for AWS Media & Entertainment Initiative"
     excerpt: "Veritone (NASDAQ: VERI), creator of aiWARE(TM), a hyper-expansive enterprise artificial intelligence (“AI”) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (“AWS”) to support its Media & Entertainment (“M&E”) customers."
     publishedDateTime: 2022-08-08T19:32:00Z

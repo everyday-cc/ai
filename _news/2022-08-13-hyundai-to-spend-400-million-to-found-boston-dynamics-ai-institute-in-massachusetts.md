@@ -88,18 +88,18 @@ related:
         height: 853
         isCached: true
   - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
-    publishedDateTime: 2022-08-12T06:04:00Z
-    webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
+    publishedDateTime: 2022-08-12T09:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
     type: article
     provider:
-      name: The NewsMarket
-      domain: thenewsmarket.com
-    quality: 61
+      name: Associated Press
+      domain: apnews.com
+    quality: 59
     images:
-      - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
-        width: 1164
-        height: 657
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Hyundai to spend $424 mn to build AI research centre in US"
     excerpt: "As a component of the arrangement, Hyundai said it has as of late gained 42dot, a Seoul-based independent driving programming and portability stage startup, for 274.6 billion won ($211.1 million)."
@@ -150,6 +150,6 @@ related:
       domain: bizjournals.com
     quality: 15
 
-secured: "cP1cr5HzP7plPTPA/btpCzRpc2cvQAlT8qNA8MivVIiPOX23E9eWTSNil8706B9uBuY5eWeSh0ZS8QxsMAOJ/pCFen2nOJYMU0VP35l6vgy2gJ4PTPk/RzsGdEBgYG8hm8Zstd6Ly0xPOsNemRDnCcfj5SAPZRe6pqHeF8oqw6xILpR6QQyqwpoeBPnLraNyPMDKu8ox35WCQs0AvjnlEj6wy3jQtPRFjjNAjRMPTNaKb856U6/5Mwn+UcYv2utVxV6Cw2TVvOgAIMwiZBWu87OX2Y9IroXysSUt69MBcANMX/l/QYjd+jg9MW4b1+gJpsBh6iamnIHvDe7QyyqcgDRCniNc+8GX7cFv8GQp4YU=;S+UNx7cvDWL5WegSLlzatw=="
+secured: "RW0KXxqFGjZufvF4qUihIjRXfQ2X/MiFaUnUPyZ4IwL/OeGps0nmVxgMvdY9Li7x8d6UGqEO4QbHIsUgXK5de+hnM1ko4/N9lwH/LzSngiro+b8kNk5UqvL3tYsyqQVbt9mf+pa+KTSLJmjp+dZ3Cvn+Hmthhu1p22BALGyONtejDF8j9JZWOPGvMr2vATYxzc8KuJU4qbNxQuLW/s1drT3CvgAbAGMzuIIB4BVnoqvoBSd1aBPjxRSR0X83YdW1kZFJsCCBdAgokJDcbesow3vadD+7GqOyZk8TwR/oV6TKeevSjWqpq30/nDirMIjisqrPdZC1EeGozuvS9U7Mo6LM2OkJbJzj6Wh8l6twyJKlN+kyIEL3aRsV+EUT7J48ZW5yDwAzVAut5UkO+9LkewCRaObAwI5mme3gMvx+SBVO+OCEBFAww7EKCSEmXGU2t09KdJgpqHtW4QkwtkhJptRRYfKQiu9gx7CyeB7EXNYYwDxuJrt2oM/nPH4dwMI7XE4PXMZ/uwPZOx3l3yEokQ==;tiaqF7o5xY++FIfodJ+Q0g=="
 ---
 

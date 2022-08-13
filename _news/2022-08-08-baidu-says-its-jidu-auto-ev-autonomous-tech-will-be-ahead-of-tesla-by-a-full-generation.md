@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Baidu CEO says EV arm's autonomous driving tech will be ahead of Tesla"
-    excerpt: "Baidu's EV-making plan comes as tech companies ... 2022 Charged U.S. House lawmakers look to jump-start self-driving legislative push, article with image August 8, 2022"
-    publishedDateTime: 2022-08-08T10:18:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-ev-unit-jidu-deliver-800000-robot-cars-2028-2022-08-08/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/psxPxwXqBkqe_yXLNaU5I7YtcB0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NWMSHKXQOVINZO2OKFCIVD2XCI.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Baidu CEO says its ROBO-01 to be a generation ahead of Tesla autopilot"
     excerpt: "Baidu's founder, chairman, and CEO, Robin Li is confident about its vehicle ROBO-01. It is a vehicle with autonomous driving technology."
     publishedDateTime: 2022-08-10T03:53:00Z

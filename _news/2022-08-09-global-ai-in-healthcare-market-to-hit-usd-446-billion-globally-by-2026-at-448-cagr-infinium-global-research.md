@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Computer Vision Market is Estimated at a Record USD 80 Billion by the End of 2027 | Infinium Global Research"
-    excerpt: "The AI in Computer Vision Market Research Report Study. Covers global and regional markets with an in-depth analysis of"
-    publishedDateTime: 2022-08-08T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-is-estimated-at-a-record-usd-80-billion-by-the-end-of-2027-infinium-global-research-2022-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Size is projected to reach USD 91 Billion by 2030, growing at a CAGR of 27%: Straits Research"
     excerpt: "Natural language processing (NLP) is a well-known artificial intelligence component widely used in consumer digital assistants and chatbots, as well as"
     publishedDateTime: 2022-08-11T19:10:00Z

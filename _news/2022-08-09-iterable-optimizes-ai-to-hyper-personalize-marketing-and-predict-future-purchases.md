@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-pe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/"
 type: article
 quality: 101
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -66,6 +66,22 @@ related:
     excerpt: "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation."
     publishedDateTime: 2022-08-12T15:04:00Z
     webUrl: "https://www.research-live.com/article/news/iterable-introduces-ai-and-predictive-tools/id/5102042"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 57
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "Iterable introduces AI and analysis tools"
+    excerpt: "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation."
+    publishedDateTime: 2022-08-13T03:53:00Z
+    webUrl: "https://www.research-live.com/article/news/iterable-introduces-ai-optimisation-suite-/id/5102042"
     ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
     cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
     type: article

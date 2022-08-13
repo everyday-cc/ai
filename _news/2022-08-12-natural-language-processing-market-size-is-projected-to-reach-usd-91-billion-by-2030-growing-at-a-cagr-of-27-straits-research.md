@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Computer Vision Market is Estimated at a Record USD 80 Billion by the End of 2027 | Infinium Global Research"
-    excerpt: "The AI in Computer Vision Market Research Report Study. Covers global and regional markets with an in-depth analysis of"
-    publishedDateTime: 2022-08-08T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-is-estimated-at-a-record-usd-80-billion-by-the-end-of-2027-infinium-global-research-2022-08-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wU5ThCMPcGBbPJem4YyXSe6658Frfq/n2HRrvQ3/DCeQsso9zI6DVeCUWuiNtPC12007lko0QqsCv0fjXJqlG3u7x9MU5YBSZUhb4/JhYdwA4ksOwbTIoz305qXq+KWwvrPbJuAg1BzZsSru2lDCEGZOhonF9tQhjlesZkm9jRpqHSmd3Y5xV6JYfA6T8D3NERzO+g1xJJQU+CoVSfJVCIQdB/RbzhSNTLq0rYTDBGcl3wK3/+tIoLupht199R0KBgxl4bES29NMSpPafJck6Oh06OeKS7arEvUKuRUvyWSukNYGOFNn2o8Z5K/lkm1jYMHWF7SosCykn3mrjqT60Q7YNMfDewg8q7R9ksWVMAo=;V0NaknXAU2dw0A53fMbHhw=="
 ---

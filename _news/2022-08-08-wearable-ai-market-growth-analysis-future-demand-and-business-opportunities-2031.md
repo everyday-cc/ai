@@ -77,6 +77,22 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Iterable introduces AI and analysis tools"
+    excerpt: "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation."
+    publishedDateTime: 2022-08-13T03:53:00Z
+    webUrl: "https://www.research-live.com/article/news/iterable-introduces-ai-optimisation-suite-/id/5102042"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 57
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
   - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
     excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
     publishedDateTime: 2022-08-10T13:43:00Z

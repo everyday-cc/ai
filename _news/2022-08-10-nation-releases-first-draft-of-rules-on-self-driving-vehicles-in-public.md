@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "August 31 set as registration deadline for Dubai World Challenge for Self-Driving Transport"
-    excerpt: "Ahmed Hashem Bahrozyan, CEO of Public Transport Agency, Chairman of the Organising Committee of the Dubai World, RTA, said, “The third edition of the event is focused on self-driving buses. RTA started receiving applications for participation in the event several months ago."
-    publishedDateTime: 2022-08-08T10:55:00Z
-    webUrl: "https://gulfnews.com/uae/august-31-set-as-registration-deadline-for-dubai-world-challenge-for-self-driving-transport-1.89795343"
-    ampWebUrl: "https://gulfnews.com/amp/uae/august-31-set-as-registration-deadline-for-dubai-world-challenge-for-self-driving-transport-1.89795343"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/august-31-set-as-registration-deadline-for-dubai-world-challenge-for-self-driving-transport-1.89795343"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 49
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/08/08/self-driving-1659955808786_1827d138a4c_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "China drafts rules on use of self-driving vehicles for public transport"
     excerpt: "China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry.The ministry will encourag"
     publishedDateTime: 2022-08-08T21:21:00Z
@@ -55,15 +39,20 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Dubai’s RTA launches contest focused on self-driving buses"
-    excerpt: "Participants can compete for a prize money valued at $2,300,000 (AED8,447,923 approximately) and $300,000 (AED1,101,904.50) for industry leaders and local academia, respectively Dubai's RTA launches contest focused on self-driving buses Artificial Intelligence Self Driving Cars,"
-    publishedDateTime: 2022-08-08T14:01:00Z
-    webUrl: "https://www.arabianbusiness.com/latest-news/dubais-rta-launches-contest-focused-on-self-driving-buses"
+  - title: "Representatives Revive Bipartisan Effort for Self-driving Vehicle Legislation"
+    excerpt: "Two members of the U.S. House of Representatives have launched a bipartisan effort to spur legislative efforts that support self-driving vehicles."
+    publishedDateTime: 2022-08-09T17:23:00Z
+    webUrl: "https://www.autodealertodaymagazine.com/368624/representatives-revive-bipartisan-effort-for-self-driving-vehicle-legislation"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
+      name: autodealertodaymagazine
+      domain: autodealertodaymagazine.com
+    quality: 21
+    images:
+      - url: "https://dealerimages.bobitstudios.com/upload/auto-dealer-today/content/news/2022-08/3718712243_1f44384092-__-1200x630-s.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "rNUDC+mu2DTuOB2HRMPJPXzMFhDc8eW73hV2vbwRSNIB+RNWquPgRgGPkiewCHyn+zA3B7luXylAvQshGK/XVaxDI+VqfBZOfp3j7nSm9pz1RmT75rHbJdP+nGVBhF+BGWKHGNjTH7M0w8+J02xeajFf3Lx5fiRcxV9JyR+MNd2SvHihtRREDw+J7aq4wIILkip0xklnJvggs50KRQgUt3iXcWS2mc7LlaNA4FJFk+tDdo7XUS3hkWA2P+kQY5bkP+GoR8w/7qbTj/MJnp9cX1Z3YQk7laTuGTdH9qzAtzIolRZHOLdnog9szBvfGbx+9rAW8/tYvXaFjjQRZfw+w+vIM3mTi55hLxHcWYfZWgYS6jtoZ1CsPN6KtW3BSLWDNufevM4XeFsZGeI46fXmZ2UVbMM92d2+fb4kXtXr3WKm1Bcia/hSpcS/VA4tKnMBzusvlKdz16aW1pkW0JYuUCyazyzD0DDVEmxQzTHdzL6b/6J5x6GF+zSZ0iE41fZdziS+WAIFrdUtyO3BaQp0aQ==;Y77+AxoaCMSUShp2t8NUtw=="
 ---

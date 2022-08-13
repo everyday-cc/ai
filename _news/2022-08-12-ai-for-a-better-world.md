@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-12T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/08/12/ai-for-a-better-world/"
 webUrl: "https://insidebigdata.com/2022/08/12/ai-for-a-better-world/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 related:
   - title: "10 Ways To Use AI For A Successful Product Launch"

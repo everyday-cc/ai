@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T11:00:00Z
 originalUrl: "https://www.army-technology.com/analysis/filings-buzz-in-the-aerospace-and-defence-sector-332-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
 webUrl: "https://www.army-technology.com/analysis/filings-buzz-in-the-aerospace-and-defence-sector-332-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/TbFDb-1038x778.png"
@@ -24,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Filings buzz in the railway industry: 78% increase in artificial intelligence mentions in Q2 of 2022"
+    excerpt: "Mentions of artificial intelligence within the filings of companies in the railway industry rose 78% between the first and second quarters of 2022. In total, the frequency of sentences related to artificial intelligence between July 2021 and June 2022 was ..."
+    publishedDateTime: 2022-08-09T11:00:00Z
+    webUrl: "https://www.railway-technology.com/analysis/filings-buzz-in-the-railway-industry-78-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 39
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/p0WZV-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
   - title: "Filings buzz in retail: 38% decrease in artificial intelligence mentions in Q2 of 2022"
     excerpt: "We've analysed companies' annual reports and other filings to see which key issues are receiving the most attention."
     publishedDateTime: 2022-08-09T11:00:00Z

@@ -36,15 +36,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 19
-  - title: "1,444 Shares in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Acquired by Prospera Financial Services Inc"
-    excerpt: "Prospera Financial Services Inc bought a new position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) in the first quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-08-08T09:46:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/08/1444-shares-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-acquired-by-prospera-financial-services-inc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 18
   - title: "Guardforce AI (NASDAQ:GFAI) Shares Up 13.4%"
     excerpt: "Guardforce AI Co., Limited (NASDAQ:GFAI – Get Rating)’s stock price was up 13.4% during trading on Tuesday . The stock traded as high as $0.36 and last traded at $0.34. Approximately 11,897,363 shares traded hands during trading,"
     publishedDateTime: 2022-08-10T07:00:00Z

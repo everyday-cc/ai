@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "Airgram is an AI assistant for your Zoom, Meet, and Teams calls"

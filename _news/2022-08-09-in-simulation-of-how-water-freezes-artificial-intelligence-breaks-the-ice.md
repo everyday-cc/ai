@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.ht
 ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"

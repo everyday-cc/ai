@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Quantiphi Earns Frost & Sullivan's North America Competitive Strategy Leadership Award in Artificial Intelligence Services for the Healthcare Industry"
-excerpt: "Quantiphi Recognized For Continuous Innovation In Healthcare Technologies MARLBOROUGH, Mass., Aug. 8, 2022 /PRNewswire-PRWeb/ -- Quantiphi, an AI-first digital engineering company, has been awarded th"
+excerpt: "Quantiphi Recognized For Continuous Innovation In Healthcare Technologies MARLBOROUGH, Mass. (PRWEB) August 08, 2022 Quantiphi, an AI-first digital engineering company, has been awarded the Frost & Su"
 publishedDateTime: 2022-08-08T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28403614/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28403614/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
-ampWebUrl: "https://www.benzinga.com/amp/content/28403614"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28403614"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28403666/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/p28403666/quantiphi-earns-frost-sullivans-north-america-competitive-strategy-leadership-award-in-artificial-"
+ampWebUrl: "https://www.benzinga.com/amp/content/28403666"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28403666"
 type: article
 quality: 34
 heat: 34
@@ -21,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+  - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
     width: 300
     height: 250
     isCached: true
 
-secured: "iEup6IXNDsqfItiLKZ8Ckz6/bifsw2WBE4+VYqlNNIVmA4RKVoA2HrKasL+lLbifGIni/v8y94VFA4jZeA9WyoB2ziXjMNneWNDQjIG+FfsEwScZi3zxZkJt1qjvtH66/l76AtriSKy8drmRlIbtRfDnbGvZHvnYxfHzC/Ad8DZgRjHEIRtyn5RCdSUEw/Hh4hXrW6x3AinHYsb36Bqt6UYr3DCVT3f48nKvVZHBvojNHjfcyELaQue3V9KWT0qR15QI4SkLmawMmmDzxeotEVJmSeM/25mzPQUjCC1O4IjxG3fwmkxYIIu6GJWXOpGIN9W+ja8jbndFF3hnXdf/aLnmNWTE1mE0d2VYtZW1MXg=;nVzzW69R2W7TKEE3APPLBg=="
+secured: "75uw1pypU0CZ4gOYAnhdPfE3UwctOiCR6orT5fkRjbGQ466AmB5bE2/TvKn7toekiqtDJ8uucav6sh7PkBRuZw0FlVblPYboBfJ+M4wIhOXiZ/xmJ3hgTlYMCU6wMlBOmqdRm1sn7W07ef5N2RIODRyabi78blT4BlTvOPboGPZk+zTNIYOsOS32E1ZaDaNSEa8eiqk3tajffe8PzJ+vz9uILTTMHg79kw4z9hvrJ8vd+cE/uJflNkdjBrHxBivtsn3jFDLUvTNLFA/7MCZ/4ZD4MIblZeZkPc/fw0b+kFIe9331aaDTP+F2ZxTwo5xG9uooOwEK/z9RZFM+g/eMkqHezkk9/D/9MTZT12A+Z4k=;Ozyz0r+Q1e0OXxwCgHk/HA=="
 ---
 

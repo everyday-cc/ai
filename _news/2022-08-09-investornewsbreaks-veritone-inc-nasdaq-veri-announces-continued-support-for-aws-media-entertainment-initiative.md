@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-8-
 webUrl: "https://finance.dailyherald.com/dailyherald/article/nnwire-2022-8-8-investornewsbreaks-veritone-inc-nasdaq-veri-announces-continued-support-for-aws-media-and-entertainment-initiative"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Veritone creates AI-driven revenue opportunities on AWS"
-    excerpt: "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers."
-    publishedDateTime: 2022-08-08T09:48:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 54
-    images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "Veritone and U.S. Department of Justice Expand Relationship with Antitrust Division Contract"
     excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today announced, through its partnership with AITHERAS, a new contract that will enable the Department of Justice (DOJ) Antitrust Division's (ATR) eDiscovery and litigation groups to use Veritone's aiWARE platform transcription,"
     publishedDateTime: 2022-08-09T13:25:00Z

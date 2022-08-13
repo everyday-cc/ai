@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 254
+heat: 214
 published: true
 
 provider:
@@ -42,49 +42,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Baidu To Offer China's First-ever Commercial Fully Driverless Robotaxi Services"
-    excerpt: "Monday that it has secured China's first-ever permits for commercial fully driverless ride-hailing services. With the new permits, Baidu's autonomous ride-hailing service, Apollo Go, is now authorized to offer fully driverless robotaxi services in Chongqing and Wuhan,"
-    publishedDateTime: 2022-08-08T09:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-to-offer-chinas-first-ever-commercial-fully-driverless-robotaxi-services?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 80
-  - title: "Baidu allowed to launch driverless taxis in China"
-    excerpt: "Chinese tech giant Baidu Inc. announced on Monday that authorities have approved the company's plans to launch driverless taxis in Chongqing and Wuhan in what could be a significant milestone for"
-    publishedDateTime: 2022-08-08T09:37:00Z
-    webUrl: "https://www.teletrader.com/baidu-allowed-to-launch-driverless-taxis-in-china/news/details/58392455"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/58392455"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/58392455"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 74
-    images:
-      - url: "https://cdn.ttweb.net/News/images/265870.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "China's First Full Driverless Taxis Coming"
-    excerpt: "Baidu Inc. has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals like Pony.ai Inc. and XPeng Inc."
-    publishedDateTime: 2022-08-08T10:16:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/baidu-driverless-taxis-china-71659938332997.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/08/08/1600x900/2020-11-16T212742Z_1_LYNXMPEGAF1LJ_RTROPTP_3_BAIDU-RESULTS_1605580229608_1605580236819_1659951963105_1659951963105.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Driverless Robotaxis To Officially Hit Chinese Streets"
     excerpt: "China is about to get the San Francisco treatment now that a robotaxi company is able to operate its robotaxis without a driver in two of its major cities."
     publishedDateTime: 2022-08-09T16:34:00Z
@@ -182,15 +139,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 36
-  - title: "Baidu wins permits to operate fully driverless robotaxis in China"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Baidu has secured a permit to operate China’s first-ever fully driverless licensed robotaxis, winning an early lead in the race to launch autonomous cars in the country."
-    publishedDateTime: 2022-08-08T10:41:00Z
-    webUrl: "https://www.ft.com/content/22583bbe-29c2-4348-aac9-29f5d7c75bea"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "GLOBALink | China's Baidu to operate driverless taxis in two cities"
     excerpt: "Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuha"
     publishedDateTime: 2022-08-11T12:55:00Z
