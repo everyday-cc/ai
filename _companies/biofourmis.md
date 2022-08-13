@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 77
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "WpYtNIFs37NouLp3cghrfrVFK6TF9yJN0tC7j+pZPiEiiFa7NhLUm0GhwmmPIUT4eWXHgK1E43PJHmbwSQiNQXCsz/SmprTki5LdgW+fnWb0HFHGexZMAdvVZy+TBD/i/lv4v8GjPDx0KpnIwPuCp+4jauXIHP5t458oAIHt3+tZhZC/qTlfTGkmU7HgP7zERag4cOJ4uWHaxPvW4+j2Jp2pGePwfe+H1wVmHQoFHzl5B1BDNrfbEVZUHqVdl8VYpNdS1HClRraGv0XYipMvX32EW43YH+YYOSmkFtU6WxFPA+Snq0zWaU/jtFbylOYSsQpMrQoZA1iK6pUZj7J+LxdvFK0ISy6uXaUnRuRKisiy3eK7rhB7T2rg8E8nyZjibCsXpMQ3aFECRVsBP2DPQ2NWr9qsfKGaBTWSgGIVSoE=;tYFdPc5YPty9AZQ8le40FA=="
+secured: "4pPxUN2IkuDfOLowxBOQFHk8BEIEXQFDjdHRGgt2aNCX5vFWZrdYa4Fsh11PP3Z9yD1fOtaK85C7yNnQi/QaYDr8qkV41zQwgcQyzYnIVJXybArlJHr6XdG2pHgPh53mB2z6C+ag49rIiYViyfrM+SlrKjO6P1PYHr727LlNnaryMnSCxVRHLAwZ0xQcZvpXNrNvPVsQum5ffIi/VmxMIpDcyk6ltvd9egDqaI8OzmCxIERc2zQlBSj3IT8mszTc6aRubRETlMWuDrfAUhnimGn32vQp/oG28fspX1yPSchB5xX1qdOzGpNXe4njS4+QxQdNLDkB3ToMsSW9qD4srmxD8WxKxSfYP00iZNCkgdGAaHPgf5/WWOQn3vOS/JnExV/DBHfY1R4N7JOgitAXCsfjL3nWG75fJxHb3DdOeJY=;mMoO3inp677iUj+NYHJi+Q=="
 ---
 
