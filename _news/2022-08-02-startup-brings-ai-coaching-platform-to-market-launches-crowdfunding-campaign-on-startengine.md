@@ -1,25 +1,19 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides ..."
-publishedDateTime: 2022-08-02T16:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://www.digitaljournal.com/pr/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
+publishedDateTime: 2022-08-02T15:57:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "XhdwYX/MxJH0SQUW41b6BsRsNkJwaLEBpNqc1lXsMBe3En10LwQLPlfOUi9y5KQPM7ixEPa/1t1ylrZw2SDLdmEn8t4AohHYa+x1hyfa7aXzoivZQJL3CYZgDIBLSa24MZtA9SfC7qfedGwT21Xme3pt8aTFLJAOC6aLhUWRaadi857aU7gqBx0+8vVbFciA5tWXN5DMQ5iXArVhLuqY64fnMgRulNgusqhKgDY7utS3BqrZQjYwK+A720LeBWZdFhqzIOe41Yf2TcIVuXqfa7KPvY0M05mzDNPzsEuc7+FzeTAd4Lx9WyvOeKfGVF3Aqh9xXnFSV4zr9ULQsbEgaM+CeBBy9/lNVftG6/ZWYgE=;uxJE7Ok2BO5dESyUyATvEQ=="
+secured: "6aF9wOnS/Xm0qaa9SoN+jUmdD0XdFNfFgxeER1O+oAPkRZUMHp5dDdX3FdPLuxRmaPtPf16xmKvQK+Xi/eQu46WsFZzqASfNTME3XUcrChb4SW/seBU7rlZriAAQwxxOacSnqNcQ9GZj3pb+SRL8YRakgmUQnALQCxqpD68mFJ5do+2eqTJUWD5fnehpy1MJyZcQh+2B/ljj3stYvcJFXUozJobUfDMHN64AXRYnT6Ht2ISHG4l1nkH+vAtL7bhPFX/br4h/21Rjz40T+KBZo3YVVj6cej1y7AIaRintv0OOvZS/uYjXBYeFI62QMFK22nVNYFfbs47MoUKcPRy9DBWwWWeKz4qFOcnKY2t9xoU=;2MJFUx1IpTre4nMbC/gMMA=="
 ---
 

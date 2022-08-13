@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
@@ -22,6 +24,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "YpDB0aAB6kFGlGanCYsvgWySqmSo0NrTmAW4a89WZy+GMOoq+SAFbDy+I/lxza/xEsuxe2QsDwGKoZT1iMP8rz4kMqujCdjLQMFRVx0/jKh3Q2huRKj/1Z5E8zW3K5RnMxjQFZGoRXF9gU0JM6PjtbByg9PQLbgiPpd9ble2WaOLLIYwCYIDd2r8pZgfS/V5mPDyj+zwi6CpK+rLGtzIfmOHd6OcR/jRDAAih1U/pwmTm3U+mF8uuYhp9isD508TQ3Ropii/LGThIQQ5iz8yE3qBR8EaucEL8R5N3zyIO56WlHzduBgQmwXbIEWsNMBV67ww4FMAlJjtUkILtCaeQeNM1zwdiNTRgeizIZfydkU=;geESwwxDRtF8QeGwtI/cQw=="
+secured: "1r8+CXBGoL6dHCAcyN4U8bc9Fbi8y8VxKvhqhhsJ0ukxMBXRRln8XRTxON7MlzEPbBwzvex7ppZ1zAp831NMF0aox7xVRIZQ7vugTAwRoXHqRY7UBxCafBOuFC5mikaIPQbHEPnEgIpsLkLNGdQAld/uIKWhSk69DgFJqYywwbVxje0UBRXQALKC8lJabszksObx1UoQzQHVh385TwinCJkpQBMXvLijxdHnEguux6N8C1nv7XpYnHLOMsiacgp8iTMkjvs1d+Ro5f+6SpL91cFf35mx/bdzxW9fABq+jl1zAcnYEgUFTdd8FW3wNe7Tblh0w93gE143VN+BFyenIjZP8nldKJ58DlsX8NX9uk7zbi1wMYXgzp3+aZKMZVr5/3GjRIc6ufQZkqT/PMC9NfyqmNjirGVLX/l8Yvs5zxIlte20u8oS0zWGRJgZAhKIHKNKtZTVvu9wjU9Dp1aJbmG7pcEjoGrVPvESJni22/OnyACG5K776BP3uUEGXdf5Khl+fOH4/jvzz9SIaiY6UA==;FCU/Ux8ix1OuvRYyw5PXew=="
 ---
 

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "New AI meets profit, risk goals for complex financial portfolios"

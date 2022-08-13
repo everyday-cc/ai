@@ -5,8 +5,6 @@ excerpt: "Eight months after falling ill with covid-19, the 73-year-old woman co
 publishedDateTime: 2022-08-05T21:11:00Z
 originalUrl: "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/"
 webUrl: "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/"
-ampWebUrl: "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/"
-cdnAmpWebUrl: "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg"
-    width: 3840
-    height: 2560
-    isCached: true
-
-secured: "OuiMRe0Hm662/jokbOFDtL3kR9txPmwQBUCLak5VmE30ITHa79DndAI4W8v3WKPTSYBt05NDcbdFypsRT11rwwYstW0r7KX5a5VIWBb2RNzWliSFnQyX4rQboF3uoKidrP22C+9USINDJj9uDHi7VKPTQIKW1B2ot7NTiRpBaQQ8SXrNCXe/VPVPJ8e0JGMa1bUX96EonkdZone87fj9GyI6U1/j+qOYr6WdVZhj8riIHqHiDQ2s8A+C8g3CoEy/Sww5hDaUgH5qzx8ZaGITFPEje8Oy9QCgcHNrORilXZWXiCPDFcLjdfaVJuL2aaGnCFj28wllUwT2ACFxn+kVUfd8Gw1xZjvjusZ9sxev3rc=;sJ/UXgmP5SVW/zaZm1zwxg=="
+secured: "GyVGJejZjwU8jszOFChkgRRj/S0A7G6Y8dtVybmLykY735yaRBRK+qCHuNkfxyTEDoe/ysjuMhl46/uIE9c1ulnNZ0q4xQf0qwCpiFHyx/My0GtpRjkzrO8VEaAuWaU1tsyeCRQfhODu4T+IWKChUKV5HGXxVMiO1IhEb+iS2gqe4q+a1W8CnwJUQevQWI9Adlk2kTuZsAmL21TBs17O36psYCOA7b/sW9/LvDGNrnsCenugs8200DfmFMGtkkiq8mAccb+578p1W4tmacDanJov3CWr8cd4ktqyMPo0cqoYsfhv6KhjRZxvgxkb+s8s2ibmVv0EFtHM8UntapI8cvte3ezE7x2dlivG9fqZO+0=;xCsAwDrFMWRnI9fdS+/keg=="
 ---
 
