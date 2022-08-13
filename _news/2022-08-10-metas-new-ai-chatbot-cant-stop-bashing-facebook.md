@@ -3,10 +3,12 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook"
@@ -204,6 +212,6 @@ related:
       domain: israelnationalnews.com
     quality: 17
 
-secured: "haFbdIVcYG+AJBXVHMibzJ7x9eRtRJjh6Xi66E2NH9eQb9/kdJmEuzqLv35FiidrT75C1MeThcpgClU6n6l89G/Kotdwho32TVR7YNb5jeBaKqkVvi+LpR+EnIwSycYOLI1OQpX6rZaKJe/+rAp9+A9MrHj3iS+jbkybq475DXF6fBWMhlyFIvm/W2tSYxxzKu/rJ1gYr3myfaG/ifSzCpoxz9QX9k0oJX5L/rMdAqEsRtODTKfVJvoa3A+LddfO2/1H5hyHXPP5z6jE+GuFFhF/MZiuHSVxuEZ9a1zoD9hhpQAyBaze6cgIj3x1ib/01w9jF4lshgnzZ+ZRuX6olQVrv0Oeru1VMem9uy0PTF3ldiVC0J+ZK9ehf0FMfjMxoRshkHbt49PtbVUtZQKBed8wnwDNRGIPQQi01g5S545PPg7XDPX/dYHu2q4Cunv5D+urjUqO6LUZ3jpxkMHTD1ctHhI/M5Zc4CbL2X38l4tbRfKtbu81DTWASbAEtbIh5hit584pyrNu5e+RoQtdzA==;s2sO01QiUmh2/S86QaPShg=="
+secured: "1rXtClth8+UNbsb6q1CZzJr8j7zZPPASWDuoAYmedPzAPRyhgR4dFYKgLBswYmVb+n6wtTcWoSCL1DHIMP/rXj3m1q6HN1oBEqgxoRh35mkEtJb6qeIjrW6vXK0PzkI/K5vfRZFvO7V7S/kwNAdPUpa7I63crdRRUHgrmHVvpeSX49/PE3drLWQuaO3KZ/jRmuE0MikWUsYitpWDCcOvuBOlRDj5EOobsyONO3TtzNiyMm3VraEXmPRv+HcDL1aV8ism8q1SL1sfCNssbtEncZpW/svW+v2shKa6K2ybgR/ZLKeHqTGIxUEs6fgyt6t7PKnBZe70uDqPlUEX6rNN//Cyxk3bF09DEfsjGr2cGGg=;R6Ho4e43XlZGOca83ytPMw=="
 ---
 

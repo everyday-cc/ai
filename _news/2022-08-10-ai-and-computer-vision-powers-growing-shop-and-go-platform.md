@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-and-computer-vision-shop-and-go-retail-platform-expands/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Enumerate.ai announces the launch of its AI-Powered Interviewing platform for Qualitative and Quantitative Insights"
-    excerpt: "Enumerate.ai is proud to announce the launch of its AI-Powered Interviewing platform that will help businesses capture, extract and analyze consumer insights through videos. In addition, the platform provides powerful tools for qualitative and quantitative insights that can be used to make better business decisions."
-    publishedDateTime: 2022-08-08T18:20:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-9-enumerateai-announces-the-launch-of-its-ai-powered-interviewing-platform-for-qualitative-and-quantitative-insights"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "mh00Xvb/Eua7rAvG6ln22Nv/YKyP1HFXnlNp6GHp9QTgiAWMxnZZl6fbBk8LUhM2tRk68QIeGLPhD47rNmFhMhoKB6/bQXR9h4kV5lAQn4EcfqCQbwfGcuWIFDuJ5TMoS6qhPs0Fvpy6lYtXk6sP4h/NEoqfAUQpX3Y2edLDvudT14iwEi1YRioOjRord0cgAdTTuxwU5FlPcS5pEVDGwo+G9f4X5fpziLmkBNG/32qqcXYwvNutfNqb0KBn00+qv1WD0x/lMOu58g54oAghAQk3axwWe/68hmQxmyMuHEyQ8gIDgFQFLoNtpsdudLKma4Z8jcY0cTBkLrfep18ytqgh/zU6lpYJycTaAEOwJCxZPe7Q7UAxrv6Fy347twHCClr6zx32RE44hDyocjXLiDme7OFJYqlKmQQdA3yFfHPOriXaVh/yvDxivH9E+dLUnPy5fQxTwRO4+GMRVJoAxN8PSICzL+c0io+ByfXDVcl+TFZNGaSLSrgWbYE+juIzNxoFgNt3vKmi+fim+IuSOw==;R1mRgzZ7fJV7H8a2Gr3XPg=="
 ---

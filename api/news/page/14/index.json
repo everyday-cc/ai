@@ -2,6 +2,108 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-07-29-high-contrast-talks-true-colours-20th-anniversary-edition-remixes-and-ai-in-dance-music.md",
+      "title": "High Contrast Talks ‘True Colours (20th Anniversary Edition + Remixes)’ And AI In Dance Music",
+      "excerpt": "High Contrast is one of the most famous artists within the drum and bass scene. The early 2000s drum and bass and jungle royalty, formally known as Lincoln Barrett, is celebrating 20 years of his debut album,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
+      "originalUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fd7ae80266075d5398d2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisakocay/2022/07/29/high-contrast-talks-true-colours-20th-anniversary-edition--remixes-and-ai-in-dance-music/amp/",
+      "publishedDateTime": "2022-07-29T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletter-july-23rd.md",
+      "title": "Coinbase Cost Cuts, Netflix Earnings And Factor Investing: Forbes AI Newsletter - July 23rd",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e3fbf02d8df711259932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/07/29/coinbase-cost-cuts-netflix-earnings-and-factor-investing-forbes-ai-newsletterjuly-23rd/amp/",
+      "publishedDateTime": "2022-07-29T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-adding-ai-to-knowledge-management-is-a-45m-game-changer-vb-on-demand.md",
       "title": "Adding AI to knowledge management is a $4.5M game-changer (VB On-Demand)",
       "excerpt": "Learn how companies are realizing a 60% reduction in IT ticket volume, thousands of hours of time-saving, and $4.5 million annual savings.",
@@ -1101,92 +1203,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepmind-research-predicts-structure-of-almost-every-known-protein.md",
-      "title": "DeepMind research predicts structure of almost every known protein",
-      "excerpt": "Artificial intelligence has mapped out the shape of virtually every protein known to science. The breakthrough will help to tackle major global challenges such as developing malaria vaccines and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "originalUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/07/28/17/28172506-230cf9f7-8a2a-47fc-87de-8651cde7c391.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 1306,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/deepmind-ceo-earth-national-institute-of-allergy-and-infectious-diseases-university-of-oxford-b2133445.html",
-      "publishedDateTime": "2022-07-28T18:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat was set up as an initiative of IIT Madras to build open-source language AI for Indian languages ... including state of the art models for machine translation and speech recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/ttgilo/article65692509.ece/alternates/LANDSCAPE_615/IMG_IMG_Indian_Institute_2_1_SBA1N307.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology/article65693242.ece/amp/",
-      "publishedDateTime": "2022-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

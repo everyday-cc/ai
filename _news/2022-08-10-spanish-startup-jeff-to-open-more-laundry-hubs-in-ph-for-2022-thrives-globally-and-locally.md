@@ -7,7 +7,7 @@ originalUrl: "https://business.inquirer.net/356761/spanish-startup-jeff-to-open-
 webUrl: "https://business.inquirer.net/356761/spanish-startup-jeff-to-open-more-laundry-hubs-in-ph-for-2022-thrives-globally-and-locally"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Spanish startup to open more laundry hubs in PH"
+    excerpt: "The past two years have been challenging for a lot of businesses across multiple industries. They have had to adapt"
+    publishedDateTime: 2022-08-13T10:40:00Z
+    webUrl: "https://manilastandard.net/business/314251469/spanish-startup-to-open-more-laundry-hubs-in-ph.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 22
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2022/08/jeff_founder.jpg"
+        width: 800
+        height: 577
+        isCached: true
 
 secured: "bYTyn6+TCve94rKwhG0fVkK4H7jNcuWsKvN0RAkhmXuWnnKmZhtYG6vi/OtnBgzlx0K5US+7gVNIex38+XjH4keSF+yRBQAqRbdlzOjhqMbMFzmRQQM9i0qiQaTOXmYDvcZDtBgZzjrvkhxMh1plzbmkOETf91VG3Mvo0EFTYzR0MR31mY2CSemQWFaGgW2CvrSRZSI2w5NL8iWxRiFfdN1ZCabOLMGneyCCmhgVoaTRvMZoTs68tlhgNOmCcYPvDH5q0zeNm5WNAwfA/SjGs6wLkAJbaYu7RF9geQjNV4RGyS2iU2RDqrQF9ToG/O1/VhvVT1wv6eE6fX+g56O2E4+7rdkPsGjnXxqhFzuuCZ1Ube7bFiMsM45bu83LowPXvpF5QChl+uSanxil1F2oKnIVolc/oy6q4swqYts285slZArAJp7HXpYoL9jAMxyCVhWySilHyFzMXRvEVQ6/nRz9P0IAAafQFLbxwBvPnSzdmsDQXuorSaOujkVsHZ+mhy6ksStKO2zhl9xGbXodQA==;02TPE4oQHyfQ3XF8zU5l4A=="
 ---

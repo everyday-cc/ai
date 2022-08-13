@@ -59,6 +59,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
+    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
+    publishedDateTime: 2022-08-09T17:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+        width: 620
+        height: 372
+        isCached: true
   - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
     excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
     publishedDateTime: 2022-08-11T16:57:00Z
@@ -177,15 +193,6 @@ related:
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
     publishedDateTime: 2022-08-09T17:26:00Z
     webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
-  - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
-    excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
-    publishedDateTime: 2022-08-09T17:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
     type: article
     provider:
       name: The Guardian

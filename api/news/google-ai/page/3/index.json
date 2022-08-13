@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-09-building-a-more-helpful-browser-with-machine-learning.md",
+      "title": "Building a more helpful browser with machine learning",
+      "excerpt": "At Google we use technologies like machine learning (ML) to build more useful products — from filtering out email spam, to keeping maps up to date, to offering more relevant search results. Chrome is no exception: We use ML to make web images more accessible to people who are blind or have low vision,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "originalUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ML_Header_Wireframe.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "publishedDateTime": "2022-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-wind-prediction-tech-will-change-clean-energy.md",
       "title": "How Wind-Prediction Tech Will Change Clean Energy",
       "excerpt": "Google’s artificial intelligence sister company, DeepMind, continues to expand its scope, scale and capabilities. Essentially, feed DeepMind with a big and difficult set of problems to solve and it can often solve them. In 2020, for instance ...",

@@ -3,10 +3,10 @@ category: news
 title: "Future of work: Beyond bossware and job-killing robots"
 excerpt: "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D."
 publishedDateTime: 2022-08-09T03:07:00Z
-originalUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-webUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-ampWebUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+originalUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+webUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+ampWebUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 type: article
 quality: 89
 heat: 89
@@ -30,6 +30,6 @@ images:
     height: 617
     isCached: true
 
-secured: "TCA+qTrLC1fp9Vba19/z16xuzt36ZVRmuvYeXuLrUqGueBcHsyAVI17BlPY6Ih9hhqzMdaLIU0mdEKqLfxpEgzq5Y1EGWULqIGbLbNCDCka0soe/G+QWXI35IKgxs1ChDmLVDLj2i+Ezx5IZOf1LEtDWMoTzK59kHOFeTY2f/C5vMn5kNr3rBmZ5WRwnBceYUKzP652Mb0ffwWWGSZBr8F4kKpqTjy/8Y5mvmTO8ehg5FPBmf4j/+wFPfRMMxj/gLCfHAX2GSIesARlrz7jF3AFyprYmM1sS7hMQ8s8PjZRAwMWhlztKXRlLxthqD3QQveZuXoLeFJ6HCZdOVW9Gu/NF4IMo5LRvqgugPFtJ2wwjU7jrCswOlrFVUGjrpjSwpkC6s2NIOP7bmx3mXZo14pmZb0THkwH0ngFsqU3FZUNBOFVkNaVVGKZECwz/lsAzDWYvagFWs3TtoZ1u0thrzSwfDkw6YL6ermsyfkiFqre1CJnULi63WuoiZoXD9SAQY2sp4C0qeZF9LvOEiRqOZA==;Ie5iivrII3uWRy+py7fQ8g=="
+secured: "lMXuYtm26CvJxeaGuuAN7UZxSq4iD+2FBGcIVbeQk4GzRBGZyHefXIJysFwPxR/EFWmd1DfC4eyJ5/we+N2N5pd7QZ3DAziLLnYi6YTNOpQz0Y8hepC5K8gbFcoLNQIMgtdOWXtmJItvBjobC3CyyEQKoIbX+wRtWIhNL1dIhqjYHy1v4ulB0kLfyKS2gKI1fIUgJU7rql8OqRxDH9wU84hjRCOKAODV3+JpHmjdkKFQj1WMZ0QGFnIDPJImHz6kRpnV4N4mYPAaZVmklhrCzfr9nSZr7MD0X0BZYHnDRw/W4gZrSh7UElj1TdlsCXOAjAxVKuxS5PU3r+iPToYwEDjI7Y8tTPS0UD/swM/oL58=;QKs0IGbGd2IuYusXrJBtjQ=="
 ---
 

@@ -137,6 +137,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Activists turn on Tesla over “self-driving” claim"
+    excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
+    publishedDateTime: 2022-08-13T10:30:00Z
+    webUrl: "https://knowtechie.com/activists-turn-on-tesla-over-self-driving-claim/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 54
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/08/xiaomi-cyberone-humanoid-robot-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "'Deeply disturbing' Tesla warning as self-driving cars 'mow down CHILDREN' during test"
     excerpt: "A \"DEEPLY disturbing\" video claims to show a Tesla using self-driving software repeatedly running over a child-sized mannequin during a test by a driving safety campaign group."
     publishedDateTime: 2022-08-10T10:54:00Z
@@ -183,17 +197,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla is Lying About its Autopilot and Self-Driving Features: California DMV"
-    excerpt: "Tesla ’s autopilot and self-driving claims are getting investigated yet again, and this time the California Department of Motor Vehicles is leading the charge. That’s according to a complaint that was filed at the end of July."
-    publishedDateTime: 2022-08-08T17:10:00Z
-    webUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773"
-    ampWebUrl: "https://jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-is-lying-about-its-autopilot-and-self-driving-fea-1849384773/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 36
   - title: "Tesla Model 3 Self-Driving Tech Is Not Ready For Roads; Runs Down Dummy Child During Safety Test"
     excerpt: "The Dawn Project report claims that the Tesla Model 3 failed to identify the child mannequin during the self-driving test."
     publishedDateTime: 2022-08-10T13:02:00Z

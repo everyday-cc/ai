@@ -2,6 +2,92 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-07-14-an-ai-model-named-bloom-larger-than-openais-gpt-3-and-metaais-opt-will-be-open-sourced.md",
+      "title": "An AI Model Named BLOOM, Larger than OpenAI’s GPT-3 and MetaAI’s OPT, Will Be Open Sourced",
+      "excerpt": "Its openness can democratize access to AI technologies, making a deep impact on society, according to experts talking at TheNextWeb.com. It’d free AI from bit tech labs that have spent millions of dollars developing systems such as LaMDA (Google) and GPT-3 (OpenAI).",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
+      "originalUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2022/07/bloom.jpg",
+          "width": 860,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-sentinels-recognized-as-a-top-ai-innovator-in-financial-services-across-the-world.md",
+      "title": "Sentinels Recognized as a Top AI Innovator in Financial Services Across the World",
+      "excerpt": "Sentinels, a Fenergo company and Europe’s leading intelligent transaction monitoring platform, has been recognized as one of the world’s most innovative AI solution providers by being included in the AI FinTech 100 List for 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/sentinaels_0.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-this-ai-image-generator-lets-you-type-in-words-and-get-weird-pictures-back.md",
       "title": "This AI image generator lets you type in words and get weird pictures back",
       "excerpt": "It only took Matt Laming, a 19-year-old from the United Kingdom, about a month to hit a million followers on Twitter. And all it required was sharing a steady stream of the most outlandish computer-generated images that he and a bunch of internet strangers could think up.",
@@ -1051,83 +1137,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-scientists-hacked-immune-cellsthen-took-them-for-a-joyride.md",
-      "title": "Scientists Hacked Immune Cells—Then Took Them for a Joyride",
-      "excerpt": "When tiny medical robots are deployed into living tissue to offer a helpful drug or repair damage, they’re met with open hostility from the organism’s own immune system. White blood cells have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/laser-beams-let-scientists-hack-immune-cells-and-control-them-like-robots",
-      "originalUrl": "https://www.thedailybeast.com/laser-beams-let-scientists-hack-immune-cells-and-control-them-like-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-automation-driven-by-artificial-intelligence-booms-in-uncertain-economic-times.md",
-      "title": "Automation Driven by Artificial Intelligence Booms in Uncertain Economic Times",
-      "excerpt": "Veryfi, using artificial intelligence (AI) technology to transform documents into structured data in just seconds, has announced continued strong business momentum and growth in the second quarter. As economic concerns increase,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-san-mateo-c3329483a02d464e893d3884e0af04c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

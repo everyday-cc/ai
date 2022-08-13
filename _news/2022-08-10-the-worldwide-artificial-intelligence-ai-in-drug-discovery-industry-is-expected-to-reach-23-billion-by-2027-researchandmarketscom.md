@@ -2,27 +2,20 @@
 category: news
 title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
 excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-publishedDateTime: 2022-08-10T14:21:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
-webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+publishedDateTime: 2022-08-10T14:20:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
 type: article
-quality: 21
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Weather Forecasting Services Market Worth $4.0 Billion by 2030: Grand View Research, Inc."
@@ -51,6 +44,6 @@ related:
       domain: tmcnet.com
     quality: 18
 
-secured: "YJoWThFCwK+48HErCyMpW1fykFlTSDq6+PGl9aOT22NKRTEImX30FggVHXTcwcMifPAXv1+XvZnQ2CA8prBHrzTthk0230EoeFCKYybpN9JsEmL6BRUqBMp4SfAb27dkwORS1bDOB2yldEgt5NF3uRfYjx56RobE0HRe1ZEebe8LFYoxk1V5rQiow7Y0Iaeso8nlC1LrBv0kyYMRvgAwBTDH9lEHMh/2v8IA6nN5u2SIwVFEikjbJKNrLxkpB/K3nRmp1DS2AZfpwVFoBui9CO/rQ4gJfDRPu4ZsCeD6phCt1LqiX5Lhh+n0kN5P7KKNU24tDbi8DC8ksnn1FQVR6F1l2ZdiesvgAP3xuAtqRi8=;iEyiuiEWG41yS24DD1r/jQ=="
+secured: "vkTDP43R/MXyGSgDnBhLSLZDEzKUPaoWP7SfGQvhEUjL61lqlTcKFozj+v9M168jRfqzy8SR+fi89nne/TuFMFCi8TDxvREkO8y+rcNunrJIBNm5ClA1x0pvRbroPYRXpKyGgtBS+WEOeCCmM6bfLJ7W220GQu8xaojFUdpJcAQTQHNv3+oeTMDfBpo4Vds689I9SiEl0N6Zkxy9lxfa7FXJFVxRoRjwZHOT5EXMMGwnMeCkeiRPiYLmTu2Nt0CVAdKNVecmwenXb61MV+7ftlGSXhIKqEcAZcP2jug+LZkSV6CAAgZwC2752FbbyO7HXGSV8dXTs9d/YghLgSsJn04/AayVEBnzyLgK2Bdl720=;y4nE1S7sPitZtQNgI8Yxbg=="
 ---
 

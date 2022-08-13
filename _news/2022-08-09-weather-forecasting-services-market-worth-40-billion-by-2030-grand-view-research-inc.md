@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-    publishedDateTime: 2022-08-10T14:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc."
     excerpt: "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34."
     publishedDateTime: 2022-08-08T19:13:00Z
@@ -50,6 +36,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
+    publishedDateTime: 2022-08-10T14:20:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "2ufY/EAyAti2Nia0jTYZqvtB7F9aQSjiIPNU7QD3x3/lJD0f7imOWJHZcAU1XT5efd1XOXAI6E/lIrHa06HS4NtKbzdi5xMt5ccl9YcLq708yxC/16KrSbQxG6HI/Bdn1Xp9ckp2gHtOHq1txIk7AsfeXX2zfPC8ejC2EPfHFlDDK83u8Kd8ya6H5dRlb2rdPZNCXXF7OwCSpmAM6Ruq1q9S0vZuXwCz9T5FllDoXhW3QCTEykzi8vavqmHTqtAGGjQYVc/bYl0zmzdZen9NQcT+Qx2q/xp34OyUzgx0T4k2YK2QyN9t7rgzbvrYM+C4pO5KZGlEaZr2uBSZoyP97/4LGgO721dXnKbiOGA+3eU=;uLK+1Wi0Yy3mu69fDLVjYQ=="
 ---

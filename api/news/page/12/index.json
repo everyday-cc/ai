@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-01-can-artificial-intelligence-really-help-us-talk-to-the-animals.md",
+      "title": "Can artificial intelligence really help us talk to the animals?",
+      "excerpt": "to decode non-human communication using a form of artificial intelligence (AI) called machine learning, and make all the knowhow publicly available, thereby deepening our connection with other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "originalUrl": "https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-how-long-can-cognitive-impairment-persist-after-hospitalization-due-to-covid-19.md",
+      "title": "How long can cognitive impairment persist after hospitalization due to COVID-19?",
+      "excerpt": "In a recent study published in the Open Forum Infectious Diseases journal, researchers examined the aspects of cognitive impairment after hospitalization due to coronavirus disease 2019 (COVID-19).",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_720977_16593511993243041.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-ai-in-fintech-market-to-reach-6130-billion-globally-by-2031-at-225-cagr-allied-market-research.md",
       "title": "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode",
@@ -1051,112 +1137,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-31-what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help.md",
-      "title": "What Will It Cost To Fix That Door Ding? Artificial Intelligence Can Help",
-      "excerpt": "Artificial Intelligence is potentially a game-changer for anyone with a smartphone who needs a detailed auto damage report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e5648e4207a7d5d8b0c77e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimhenry/2022/07/30/what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2022-07-30T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-mythic-how-an-analog-processor-could-revolutionize-edge-ai.md",
-      "title": "Mythic: How An Analog Processor Could Revolutionize Edge AI",
-      "excerpt": "Mythic: How an Analog Processor Could Revolutionize Edge AI Alberto Romero, LLM Analyst Karl Freund, Founder and Principal Analyst Cambrian-AI Research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e557a9abbf3ce8215398d2/0x0.png?format=png&width=1200",
-          "width": 674,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/30/mythic-how-an-analog-processor-could-revolutionize-edge-ai/amp/",
-      "publishedDateTime": "2022-07-30T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/87836/nvidia-geforce-gpu-sales-drop
 webUrl: "https://www.tweaktown.com/news/87836/nvidia-geforce-gpu-sales-drop-44-pulling-q2-2022-revenue-down-with-it/index.html"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI Hardware
   - AI
   - AI in Sales
-
-related:
-  - title: "Crypto-driven GPU crash makes Nvidia miss Q2 projections by $1.4 billion"
-    excerpt: "Nvidia blamed this shortfall on weaker-than-expected demand for its gaming products, including its GeForce graphics processors. Nvidia pointed to \"a reduction in channel partner sales,\" meaning that partners like Evga,"
-    publishedDateTime: 2022-08-08T18:14:00Z
-    webUrl: "https://arstechnica.com/gaming/2022/08/crypto-driven-gpu-crash-makes-nvidia-miss-q2-projections-by-1-4-billion/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 48
 
 secured: "w92A2QGUan56hLcLKNY4sygqqHZpsYgkSaDrxm4O5DSFiWnHSX63UkQ46aWzk0Jb/KhievoH3lnD0wcaGIVsd3sG9P/mAR2mUpCMylwxgkA4VRoio32+qbSBnwIbO/3zTlyXrrw6ffh+VkgDs+CmPlNb7Ptc+S15ab4TQp051Lu2JUUt2u8bgoIsS+llP9GL4q9YBolLciNdW0ns9JU5uo5Zxsj97Vp4qV1eJH0UJlA9BNh4mRQ6S1bISf2Gn6bV/5Agb+bZ78fDopdAKxvPxFl4ynzNz2Gq0PxkC4oaWA2CL8UO4UVFbnjXdI/3UmJvQfuBOicF9fJboHV4poyOccW6QK6fwiDsqqgv2IAln1A=;D/PG4brjjmjKIZ8SLW6CIw=="
 ---

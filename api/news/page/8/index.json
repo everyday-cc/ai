@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-04-things-to-know-before-buying-an-external-gpu-for-your-pc.md",
+      "title": "Things to know before buying an external GPU for your PC",
+      "excerpt": "A dock is required for everything to work and run smoothly. For example, the GPU is connected to the dock via a PCIe port, and then the dock connects to the computer via a USB-C or Thunderbolt cable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
+      "originalUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/07/eGPU-Teardown.jpg",
+          "width": 700,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed.md",
       "title": "AI startup Cerebras celebrated for chip triumph where others tried and failed",
       "excerpt": "Company honored by Computer History Museum for cracking the code of making giant chips, with 'stunning' implications.",
@@ -394,24 +437,33 @@
     {
       "path": "_news/2022-08-04-mparticle-acquires-ai-startup-vidora.md",
       "title": "mParticle Acquires AI Startup Vidora",
-      "excerpt": "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform",
+      "excerpt": "Financial terms of the deal were not disclosed. The combined offering will blend customer engagement and analytics tools with predictive and prescriptive AI modeling capabilities. Teams will be able to enhance customer context with AI, creating rich ...",
       "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
-      "originalUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154232",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:12:00-07:00",
+      "publishedDateTime": "2022-08-03T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -896,19 +948,19 @@
     {
       "path": "_news/2022-08-03-gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-crisis-counselors-anywhere-anytime.md",
       "title": "Gaggle and AWS Collaborate to Create Mental Health Hotline that Connects K-12 Students to Trained Crisis Counselors, Anywhere, Anytime",
-      "excerpt": "According to the latest research from the Centers for Disease Control and Prevention, 20 percent of teens reported having seriously considered suicide, and nine percent have",
+      "excerpt": "Gaggle, the leader in helping K-12 districts manage student safety on school-provided technology, is working with Amazon Web Services (AWS) to address the issue by providing in-the-moment support for students experiencing mental health crises including anxiety,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28333252/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28333252/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-",
+      "webUrl": "https://www.marketwatch.com/press-release/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-crisis-counselors-anywhere-anytime-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-crisis-counselors-anywhere-anytime-2022-08-03",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -916,14 +968,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28333252",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28333252",
-      "publishedDateTime": "2022-08-03T07:19:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1135,58 +1196,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks.md",
-      "title": "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks",
-      "excerpt": "Particle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks Aug 03, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
