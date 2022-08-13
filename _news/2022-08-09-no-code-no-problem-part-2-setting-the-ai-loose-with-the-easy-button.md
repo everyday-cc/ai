@@ -44,15 +44,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "How Meta is combatting Apple data limits with ad targeting automation and AI"
-    excerpt: "Meta is putting new artificial intelligence and automation into its ad platform, including within shopping campaigns, which is part of the overall strategy to adapt to data changes coming from Apple."
-    publishedDateTime: 2022-08-10T18:52:00Z
-    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-meta-combatting-apple-data-limits-ad-targeting-automation-and-ai/2425946"
-    type: article
-    provider:
-      name: Ad Age
-      domain: adage.com
-    quality: 14
 
 secured: "SjNVEKqkvO5LtjaGb1FCGZScrDCSn/yLBrMmZaRuwkd8tv9Qu+17qXQ60FTKUeivesmetQXBhutp4Hou8hTVpOIt7FeIsQISZrsfbrfwUAd8YWc1rnX+5/WcWJBLg9/nxyFMJztE101xDH7y6i3nJo5CtpGaCgnrJExP5iXXiMpsm16a6uLWlTOECSGke6fIOzi22wPxIqVG7f3Hk7vsM7IJmmIHo0JltsoZjodCWcAVd7pcGfTQv5rEc2jRXdntv+AqEYTQr/AQhtfJogE8GnMtZdg/ELjkKVhUpbjcjOu+DucEJA8X6BOw+uG+uzZIfRT2dPDDKbBYwmWkyPwKiZ/JK/krDqdR8CzuDT7eph53Wv8ZoWEy4HHhQddCgzW6ipWMmItZjAQ+PphY0lSYXZjnCaN/WfObuI/2FGqEKtOCt6RrHO7fjAD+yeySp24TktK3axgOYBoCRxfY487h5n+vVkVhloBsNMPjzr4BsOvYPFp+RhRDx1ShZqZDnrVbW6bKw4TMhPFY13Xbz3J3eA==;WYpyhbejxsg/wRN806+fbA=="
 ---

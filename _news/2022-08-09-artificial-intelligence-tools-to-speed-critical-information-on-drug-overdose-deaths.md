@@ -9,8 +9,8 @@ ampWebUrl: "https://medicaldialogues.in/amp/mdtv/critical-care/videos/artificial
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Daily
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use artificial intelligence tools to speed critical information on drug overdose deaths"
-    excerpt: "An automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection of overdose deaths—which in turn can ensure a more rapid public health response time than the system currently used,"
-    publishedDateTime: 2022-08-08T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-tools-critical-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-tools-critical-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-tools-critical-drug.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/algorithm.jpg"
-        width: 2880
-        height: 2262
-        isCached: true
   - title: "Experts use tools from artificial intelligence to rapidly identify substances that cause overdose deaths"
     excerpt: "An automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection of overdose deaths – which in turn can ensure a more rapid public health response time than the system currently used,"
     publishedDateTime: 2022-08-09T05:04:00Z

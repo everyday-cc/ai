@@ -178,20 +178,6 @@ related:
       name: AV Club
       domain: avclub.com
     quality: 37
-  - title: "Blame Craig: How Facebook’s AI bot explains the decline of the news industry"
-    excerpt: "\"Definitely craigslist.... I don't know that facebook is really to blame for anything specific.\" And maybe the Pope did endorse Trump after all!"
-    publishedDateTime: 2022-08-08T14:22:00Z
-    webUrl: "https://www.niemanlab.org/2022/08/blame-craig-how-facebooks-ai-bot-explains-the-decline-of-the-news-industry/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 36
-    images:
-      - url: "https://www.niemanlab.org/images/midjourney-facebook-chatbot-ai-1-700x394.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Meta’s new AI chatbot thinks Trump is still US president"
     excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
     publishedDateTime: 2022-08-09T12:10:00Z

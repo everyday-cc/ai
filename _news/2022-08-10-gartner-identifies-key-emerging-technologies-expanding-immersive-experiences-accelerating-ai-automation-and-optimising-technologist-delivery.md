@@ -43,22 +43,6 @@ related:
         height: 574
         isCached: true
   - title: "New AI technology integrates multiple data types to predict cancer outcomes"
-    excerpt: "While it's long been understood that predicting outcomes in patients with cancer requires considering many factors, such as patient history, genes and disease pathology, clinicians struggle with integrating this information to make decisions about patient care."
-    publishedDateTime: 2022-08-08T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
-  - title: "New AI technology integrates multiple data types to predict cancer outcomes"
     excerpt: "A new study reveals a proof-of-concept model that uses artificial intelligence (AI) to combine multiple types of data from different sources to predict patient outcomes for 14 different types of cancer."
     publishedDateTime: 2022-08-11T15:29:00Z
     webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162144.htm"

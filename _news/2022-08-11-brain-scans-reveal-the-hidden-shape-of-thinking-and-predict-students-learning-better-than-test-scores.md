@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Changes in brain can predict learning better than traditional marksheet: Report"
+    excerpt: "This study not only informs our understanding of how education changes our brains, but it also reveals key insights into the nature of the mind”, lead author of the research says. “It is incredibly exciting to combine neuroscience and education to better understand how the human brain learns to reason."
+    publishedDateTime: 2022-08-13T06:28:00Z
+    webUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203.html"
+    ampWebUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/_b5ad3d52-fb95-11e8-b0ae-a79201e85078_1660371731244_1660371731244.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
     excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students' brains while taking a course that emphasized spatial learning."
     publishedDateTime: 2022-08-11T23:06:00Z

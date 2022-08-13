@@ -1,26 +1,30 @@
 ---
 category: news
 title: "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks"
-excerpt: "NEW YORK, Aug. 3, 2022 /PRNewswire/ -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform for customer data."
-publishedDateTime: 2022-08-03T15:02:00Z
-originalUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
-webUrl: "https://www.asiaone.com/business/mparticle-acquires-ai-startup-vidora-help-teams-augment-customer-profiles-and-improve-0"
+excerpt: "Particle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks Aug 03, 2022 (PRNewswire via COMTEX) --"
+publishedDateTime: 2022-08-03T12:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
+webUrl: "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/vidora___mparticle_2.jpg?h=2c61325d&itok=onM5WUFo"
-    width: 600
-    height: 316
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "hO+n6m+aRvAjmNUuDGPaSm8gHK4Je/T29s9p4Xji6aiRj8l18F4pevWf11CtpWO7O72N3aczVQRy3C7rmwJCnKE3fQhA4P2eZURfhScL+W3e3RSVq/Tb30YjvciPgRDjIJPR5ge+TsVMTK82hgODtIBqYU4LtZtEAhaC+W54+joQhjUYYFErtf9vR/+V131bQIdmbcwGX9HTTOTOdS5dPfHc3Qsz6nPKaU6Cusl4IRELoIJtQOdrGbIze/8TFN1nYYraL18z1nB2Vte9iyd9APPgoh3ZTpFxUk7/nU6N8bIpl8/EmQ/WzcoCvUNMkp27p7mQkk/PXvbzOtjWm7OYAElEEryF1vxsjkk4Tq1lJy0=;bnuGNfbOKabZvZtazdVc8A=="
+secured: "PaowdVjE63Jpc9nUMsHhQyQu6U+kgi1ZCJEHWjbmQTQ+6VooEIZKT+aOHvh8dgbkuONCLpbbJmfduEoamZvrm8dDhVP7lYLIepBfAMCVLl/toqI0E+rJ8ZoxgnYlQvqXHqHX5hRNJzoxlNU29skGxvReVDsNQ4E6rZPwioANScPbCnUzhtswFHFgLyVpYWYwmtuqcUhl7lVHFM+bkD8sDqLGSxQ17TJLQLZpoWDmfEgG+GU6cpsN2QC+ZllYLCPf9nc2FgnZkltkEXL3atF23kiW5UhC1xy8apitw4I+BQq+soa/jPOpK7ik0jiZoy5Nq6pE0gjbUxxTj2RfvRrexPvRzdmZ3QEXw486dX9fDiE=;JrC5nN+klgBECcSFdRtT2A=="
 ---
 

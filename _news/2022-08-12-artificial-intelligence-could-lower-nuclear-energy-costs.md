@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense"
-    publishedDateTime: 2022-08-11T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How artificial intelligence could lower nuclear energy costs"
     excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
     publishedDateTime: 2022-08-11T18:34:00Z
     webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html"
@@ -53,6 +39,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg"
         width: 1920
         height: 1278
+        isCached: true
+  - title: "How artificial intelligence could lower nuclear energy costs"
+    excerpt: "Scientists at the U.S. Department of Energy's (DOE) Argonne National Laboratory are devising systems that could make nuclear energy more competitive using artificial intelligence. Nuclear power plants are expensive in part because they demand constant ..."
+    publishedDateTime: 2022-08-11T16:21:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Can artificial intelligence make nuclear energy more cost competitive?"
     excerpt: "Argonne National Laboratory believe artificial intelligence could save the nuclear industry more than $500 million a year."

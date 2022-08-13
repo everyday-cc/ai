@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-08-12T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "wU5ThCMPcGBbPJem4YyXSe6658Frfq/n2HRrvQ3/DCeQsso9zI6DVeCUWuiNtPC12007lko0QqsCv0fjXJqlG3u7x9MU5YBSZUhb4/JhYdwA4ksOwbTIoz305qXq+KWwvrPbJuAg1BzZsSru2lDCEGZOhonF9tQhjlesZkm9jRpqHSmd3Y5xV6JYfA6T8D3NERzO+g1xJJQU+CoVSfJVCIQdB/RbzhSNTLq0rYTDBGcl3wK3/+tIoLupht199R0KBgxl4bES29NMSpPafJck6Oh06OeKS7arEvUKuRUvyWSukNYGOFNn2o8Z5K/lkm1jYMHWF7SosCykn3mrjqT60Q7YNMfDewg8q7R9ksWVMAo=;V0NaknXAU2dw0A53fMbHhw=="
 ---

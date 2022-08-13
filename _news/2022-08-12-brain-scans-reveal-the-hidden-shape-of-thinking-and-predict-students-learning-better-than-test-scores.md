@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Changes in brain can predict learning better than traditional marksheet: Report"
+    excerpt: "This study not only informs our understanding of how education changes our brains, but it also reveals key insights into the nature of the mind”, lead author of the research says. “It is incredibly exciting to combine neuroscience and education to better understand how the human brain learns to reason."
+    publishedDateTime: 2022-08-13T06:28:00Z
+    webUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203.html"
+    ampWebUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/_b5ad3d52-fb95-11e8-b0ae-a79201e85078_1660371731244_1660371731244.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Brain scans reveal hidden shape of thinking, predict students' learning better"
     excerpt: "Magnetic Resonance Imaging (MRI) scans showed changes in students' brains as they learned the course curriculum, and these changes were compared to the ways that learning is traditionally measured (e."
     publishedDateTime: 2022-08-12T17:58:00Z

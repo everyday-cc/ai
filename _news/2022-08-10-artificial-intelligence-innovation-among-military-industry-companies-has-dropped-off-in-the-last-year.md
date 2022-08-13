@@ -61,7 +61,7 @@ related:
     provider:
       name: Railway Technology
       domain: railway-technology.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/BaKRM-1038x778.png"
         width: 1038
@@ -75,7 +75,7 @@ related:
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
         width: 1038

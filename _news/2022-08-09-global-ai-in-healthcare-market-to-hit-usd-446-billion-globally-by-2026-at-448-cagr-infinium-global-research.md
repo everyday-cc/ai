@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-08-12T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Natural Language Processing Market Size is projected to reach USD 91 Billion by 2030, growing at a CAGR of 27%: Straits Research"
     excerpt: "Natural language processing (NLP) is a well-known artificial intelligence component widely used in consumer digital assistants and chatbots, as well as"
     publishedDateTime: 2022-08-11T19:10:00Z

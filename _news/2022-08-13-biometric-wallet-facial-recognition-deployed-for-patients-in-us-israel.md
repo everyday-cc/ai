@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 751
         isCached: true
-  - title: "Fintechs gain global traction with facial biometric payments"
-    excerpt: "In markets such as India, China, the United Arab Emirates and Brazil, more consumers and merchants are testing or deploying facial recognition as a way to authenticate transactions."
-    publishedDateTime: 2022-08-08T14:51:00Z
-    webUrl: "https://www.americanbanker.com/payments/news/fintechs-gain-global-traction-with-facial-biometric-payments"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/363dc32/2147483647/strip/true/crop/1038x545+0+20/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F3a%2Fee%2F956a06cc4ff29ecc6a174d8a19d2%2Fcropped-paybyface.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial recognition might work better with a dedicated capture device, like all other biometrics"
     excerpt: "Facial recognition would probably work better with images taken from a dedicated device, rather than one designed to capture good pictures of unrelated objects like landscapes, Arun Vemury said during a recent episode of the ‘Technologically Speaking ..."
     publishedDateTime: 2022-08-11T17:31:00Z

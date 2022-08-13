@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: techxplore
@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense"
+    excerpt: "Scientists at the U.S. Department of Energy's (DOE) Argonne National Laboratory are devising systems that could make nuclear energy more competitive using artificial intelligence. Nuclear power plants are expensive in part because they demand constant ..."
     publishedDateTime: 2022-08-11T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
+    webUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "Artificial intelligence could lower nuclear energy costs"
     excerpt: "Scientists at the Argonne National Laboratory in Lemont are devising systems that could make nuclear energy more competitive using artificial intelligence."

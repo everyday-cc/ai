@@ -1,30 +1,27 @@
 ---
 category: news
 title: "How artificial intelligence could lower nuclear energy costs"
-excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense"
+excerpt: "Scientists at the U.S. Department of Energy's (DOE) Argonne National Laboratory are devising systems that could make nuclear energy more competitive using artificial intelligence. Nuclear power plants are expensive in part because they demand constant ..."
 publishedDateTime: 2022-08-11T16:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
-webUrl: "https://www.marketwatch.com/press-release/how-artificial-intelligence-could-lower-nuclear-energy-costs-2022-08-11"
+originalUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/how-artificial-intelligence-could-lower-nuclear-energy-costs/article_d454d932-4d17-55e5-aa4a-8836db971eca.html"
 type: article
-quality: 67
-heat: 97
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -68,6 +65,6 @@ related:
       domain: power-eng.com
     quality: 21
 
-secured: "5njcp+vjoEm5agUHqIFWDuavyfxr9E4TRTFYjNgkm+DTseVkLfUeQ1o006ilmnTAhUuTPnP+ELy3NLN4E/n7l5nTGd8NJJRCc0F7HPpg7rqtr0N+RDvD3UmrIO7tR4Viuvc0geJ4iGbveEJzTGrmo9ChlW3c1H/mO8Dshq8KHhZWfPh3BhFWDv9k6dUMoBrzRjhzZZ6NDHBTvtlT186uKobTehGM1R3H1nFIkieEjchTv5iowaUo1ksF+bIoXcpQFd70uPr2ACCRUH/3RfhvZzUgpd1M1/I8kZwRPwRxMX8lRIJstjHNH/ZzjbW+596pA/ZYrTq7zFY/izLM4x4niY4mUNHvjAB3U0naSYtuYCQ=;TH6XFLPkaGtvxu8pe0P+Lw=="
+secured: "N03UuYk1eZ4Mj5nNqTosroRVzF6VYlGl7vsABLbUHynpUnvEn59SX6D/hx2SmTA3fDepMgM6rm8HfYNRdO+Ge3BeHYi5tZ3oTRMw4rS1Lt2caLFcivpOUkAPyQ/8PfuQ3MQMDaVjkg9cPe9h85zs++4f0sXDg8mzzpUVT+G2H1MTB6oWSswlpMU+VS61HdZWw337mO6fgAZOoYanN0+jL/HSsUFHzx1XGyXzQvlmYQiYLWKFNcquvb6KfjgCx3b+eHTc4zay9tCiDfW5HOLeFxUObaxc/+PJjlvfi/uCtIEyM9qAUbU6RujJaKl9XgA/nb1EofLt6mU0DV0vFaqTJDqjjEfpDEXGRDExNwTcDC0=;MKY6nQDjoTYvEwCrTQ5CYA=="
 ---
 

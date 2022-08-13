@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/960990"
 webUrl: "https://www.eurekalert.org/news-releases/960990"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,16 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How water turns into ice — with quantum accuracy"
-    excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
-    publishedDateTime: 2022-08-09T18:25:00Z
-    webUrl: "https://www.princeton.edu/news/2022/08/09/how-water-turns-ice-quantum-accuracy"
+  - title: "Self-Taught AI Shows Similarities to How the Brain Works"
+    excerpt: "Self-supervised learning allows a neural network to figure out for itself what matters. The process might be what makes our own brains so successful."
+    publishedDateTime: 2022-08-11T16:00:00Z
+    webUrl: "https://www.quantamagazine.org/self-taught-ai-shows-similarities-to-how-the-brain-works-20220811/"
     type: article
     provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 4
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 41
+    images:
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/08/Self_learning_AI_1200_Social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "jKc2LBMASN8XQZ1kwLMN+dEFBtmRKIWQLbDGaZSZFGxc66zG/WwTzfoqbw3iOpFSHjNSQGmYgqID83cukDW4eCKd6Flmp/PL1MYy29QpO32+VMYMg65gdLErDr1O2yfr21JA9ctdXk6Mo5zOFcW8P/I8dR94jOXNi5DoSxUNRFO4gh5Q3WXJnKanLW9JGAEJmkXjMzXGV2uKYfqu6GRVnfDL/YHwMNjcWlaA7cyTknMOlsmAyUWzIMW5+iUPCVeVyIJn6XTjdr9PMtGjCRIYxNyR2DaLxEOU/sAKicoSx7UEwqzh77VLwgD5fMqLNReRI3haUPLZGtxZfUUOu0LC9KTCtpjxJvfs6I3YmrAdnQI=;fECYcRVSH4PjByt/zJC7sQ=="
+secured: "M6OVSjMHMtVfPu4Y/Wgl+9CY5orcqLrhVpZX5Q6MjVUAHLvhE+JW+hfQWh2dOxDTt7g4tRWDMufyqbXJCxyft8IePXeqARnUQQOrSzUu+BjG2oA/g90S7kLARUIW2wvZWjOmGo5IfTnC7dwuHa6wTBgmzCfXqe3PrIhYXLJaizLEoJM4fgYPmqkH1gp/Gph97P2ZQYpuRrCPzja0Xxnguy1F7mGTSnrdzBFRbnz8rFDNlBEkl96tGgd7+H1JF0w8aImtHcRZOlsqxT6w3b9VTmqkvckCQ++B+a8uUcl9dDsDQ1eTlpLZ3cf08/9VtlYePGDF5Q4CUOuMcD4gP/JxIDMbLTmnZ+aAKV02/o8Qq95VFK9LHHAsuHxRNeNLHzX/dRBID4iOYSSXyHT/wlsoK3lmAWFJzWo6YI86dcqsxWMHMkMvhK2iad3v+qGEkC+sZYqcYtIwHKU5Cc6nxwl+wuwY4YktNrwqDcyV3T9adJ3RituO/W/Rja7g4uAV2lnx0Q3pIJAAxzkpShdZ4qDPoA==;vXMsF/Gv0pZ4zByNZo0hUA=="
 ---
 

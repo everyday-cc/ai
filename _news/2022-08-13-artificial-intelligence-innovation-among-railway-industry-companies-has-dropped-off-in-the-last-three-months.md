@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-13T05:00:00Z
 originalUrl: "https://www.railway-technology.com/dashboards/patents/artificial-intelligence-innovation-among-railway-industry-companies-has-dropped-off-in-the-last-three-months/"
 webUrl: "https://www.railway-technology.com/dashboards/patents/artificial-intelligence-innovation-among-railway-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/BaKRM-1038x778.png"
@@ -75,7 +76,7 @@ related:
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
         width: 1038
@@ -105,6 +106,6 @@ related:
       domain: retail-insight-network.com
     quality: 16
 
-secured: "UUoJYOyNjRKar9Hv5FRU4jXhMxL1uRw3suxkq3OECmWR/zOaMyYQMCKPdPEDdrkOwvDt5ORrUO/SNvMBy14fX55IeZq2BdciUe/WlDsyf8ZJ1Q//AbEGfS9KSJ7jaIe/hvi9j7vx/mlWTUpTLM3iHffaZmnDEn645TWyoSSNSRPkXp5YEYBGWYSYlvvzNtGMWaNauC6jfDh3lHDNohNkZMN7MBGRk++RIlvOI1UrZJ2Y/kdh+BoknhF+fao8z0DwdXS4MiokdyikFa91uhlUYmEhSpdNL+iaOwAVnqR7mjp590SdVcTsO39HzImOq5TPYatYYoGYa3F4aYBLZ79HMpL/iCICr8e49BfiCWaQjEU=;njwUiERq58bIKF+LFRea7A=="
+secured: "9PcFbeYgirURqAdzCT5uuuHFvgKBB7MJHiRNj/Q5fynsBA+ZG9Bb++bFv3j0YLj5kXoMzM0bhUJCG0BRwJ31OqLSMwLsYds7r1yZiCaLlabKuqXYH5FqCAFXL9k5X/1j8GLr2RJg9hm5O88vt05IUO4AXFAT0+1UecnGigVP62fV9J0R9F/0f3B5YY8Uiathd1pqdRlE7GEbH5XhX+sfTKyQ3IrbtJxd3bQ/k7ipoabd9pioKIDGoB1eOY+rHuZVVa1GkDkf0WmGR5lmFHi8dSjePfTjbEzVUF670N4VpKQLfAUhzJfFZEhYi+a4+NGxfPI+s1VDvod+txPURw7DE3yyNC8DUO5Ec9dCli5wv9SKZ1U0D5Tus1njIWmsagbJbOEjXSZVNJBUJjCvh5UNwhZCiD8UIKVGoT5nnukZYU2uQyxRx+lwkaocwzDOoz4OPB9HT7hrmqQnN20odJDNz2VCLpdMEdZYXViB1uRe9ELE+VFlRBrULkelPM9cySO3wURwrkIth3SOKtotUk7sWQ==;g6293tza4Mb4Aw5xeh/4yA=="
 ---
 

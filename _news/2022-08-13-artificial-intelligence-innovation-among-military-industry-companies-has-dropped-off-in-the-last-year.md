@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-13T05:00:00Z
 originalUrl: "https://www.army-technology.com/dashboards/patents/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
 webUrl: "https://www.army-technology.com/dashboards/patents/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
@@ -60,7 +61,7 @@ related:
     provider:
       name: Railway Technology
       domain: railway-technology.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/BaKRM-1038x778.png"
         width: 1038
@@ -104,6 +105,6 @@ related:
       domain: retail-insight-network.com
     quality: 16
 
-secured: "wiDQqdrWdiFGKBOXv3PXPtIA0qGYVmAolNx244S7GLXJTQswRBWFYaJc8qhm87hLtqrOYRyXtM0YEG0yjCBMGLk74e0Sm12WKQxhsqLit1JhsSkJRVl6IxgkiKj0gMrbPP55ldOOQOQojDzokSxGeRRwZvbZQI7jBeXd7xL79CXqTEs4i31FDeGITwnuNxK7hzzNdbS04yVBTAqaX+QEeHyUPAP9bXlIlV0CLV5PJWhPJq6eHIk6MLhLkleZmIJGIE8HcNv9P16pY10wVLeaqeyM+69ICmhFFyuSzjejn8rrgv29D/tFE1ypBQ3QzrlvkZyQ7Ert03FNkzC7oj/bnad5xg8iBNCl6+x6Dm3BBLw=;2kWXs9pMUwiimIRIDD2X9w=="
+secured: "Wo2jUUVej4GidNgaUK4GiJsbtJ9A5PBI7saA+HanEZymOKSGIgZV81zlhOreAWL9urlqmbPXTXP5ZNUXsKvjD0LdAVZNCxGVUXO0ZrKuQTN3rqTXKFV9zSx0JcHA6Jvfw6C75aoDXpVYamwVZFGJ4PPA6kAzLWfBhQrTJPPn/+2JqsUCJ7xIlEVW2tPLZ8AETGryBXIgk0HzL1Wfrnnn/38Xw6Az3AwjEpog3K50wiAP21d7OvQBakAnQzv4pGN/r2oD8vG3CaddP9gtu1tJuaxWZVedO+M4s9UNgtClfB+ztFpVrpDI2Xstv2JAR+rwUVUiuVlwIFTzt5ybJx8PVsa85w+091ofZeuLYRZE9iDdfyJQhc0tuRtMurhaGUG76eRi7gBl6FB9NAGbFwQWauSOr0kpFZjva6cw7rLMU25208m3vpC3gPfB0CnfOmGkT3yjtgyTE4OSmXC097UL0GLvBL1tG6hM/2h41WJcHJbD67Tb5gcMA0F+SmIv9VpajIsDpy28mB2/bn0xmwRXUQ==;jqizQXisotc+2KmXbBO22g=="
 ---
 

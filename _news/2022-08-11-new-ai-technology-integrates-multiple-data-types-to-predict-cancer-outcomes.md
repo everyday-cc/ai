@@ -38,22 +38,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "New AI technology integrates multiple data types to predict cancer outcomes"
-    excerpt: "While it's long been understood that predicting outcomes in patients with cancer requires considering many factors, such as patient history, genes and disease pathology, clinicians struggle with integrating this information to make decisions about patient care."
-    publishedDateTime: 2022-08-08T15:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-technology-multiple-cancer-outcomes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/cancer.jpg"
-        width: 1920
-        height: 1920
-        isCached: true
   - title: "Gartner Identifies Key Emerging Technologies Expanding Immersive Experiences, Accelerating AI Automation and Optimising Technologist Delivery"
     excerpt: "The 25 emerging technologies to watch on the Gartner, Inc. Hype Cycle for Emerging Technologies, 2022 are enabling the evolution and expansion of immers"
     publishedDateTime: 2022-08-10T09:19:00Z

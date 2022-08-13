@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
+    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."
+    publishedDateTime: 2022-08-09T05:08:00Z
+    webUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162"
+    ampWebUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 73
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93445162,imgsize-100,width-1280,height-720,resizemode-75/93445162.jpg"
+        width: 1278
+        height: 720
+        isCached: true
   - title: "Aunalytics to Showcase Its Advanced Data Analytics Solution for Mid-market Banks and Credit Unions at August Financial Services Events"
     excerpt: "Aunalytics, a leading data platform company delivering Insights-as-a-Service for mid-market businesses, announced today its participation at three financial services events in August. The company will showcase its Daybreak TM for Financial Services advanced data analytics solution and demonstrate how midmarket banks and credit unions can use artificial intelligence (AI)-powered data analytics to increase business wins and compete more effectively."
     publishedDateTime: 2022-08-09T12:00:00Z
