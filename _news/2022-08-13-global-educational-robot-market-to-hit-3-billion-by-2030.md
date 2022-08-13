@@ -62,6 +62,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Artificial Neural Network Market Growth – CAGR of 18.7% During Forecast Period 2022-2030 | Google LLC, International Business Machines Corporation,"
+    excerpt: "The global Artificial Neural Network (ANN) market size was USD 160.8 Million in 2021 and register a revenue CAGR of 18.7% over the forecast period, according to a latest analysis by Emergen ..."
+    publishedDateTime: 2022-08-10T12:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-neural-network-market-growth-cagr-of-18-7-during-forecast-period-2022-2030-google-llc-international-business-machines-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "MVKch9cjz3w74LMkoLjzqgm5hWElAemhw+piZ3mdC0H9FrKTp3MUDAgxQxQ2yde/FG9PcJK+DGYgHTPK4Ij0TyU08X0/p0JcBCNZrzDgC9RHD4GI5rlU86Hz/JZnP7CUUd0burGD/3D6iDyOLRjqZGTHo2QWgrJFdSvpc2+kRTZyI8Vw5PZ0mvb8NharSIur+ulwNp2unoNvLZGGVm3xGJg6Q0iBgHAyC/gnxZj1eHEpn97DJPlrxMhdEW2+MuGR1lshs/SJE1oe+BQZd9fYnoukA98yzzjEtN0CLm0EQMHQ7P0jCNTYi9LOOFSHGiXiNGoulgnigo+CChSCcauGdxWYtze6yG1CiqNyr+T9PSs=;muxkgFhQPQKzRb4ryDPJhw=="
 ---

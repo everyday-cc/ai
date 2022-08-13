@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/us-20991-billion-global-
 webUrl: "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Artificial Neural Network Market Growth – CAGR of 18.7% During Forecast Period 2022-2030 | Google LLC, International Business Machines Corporation,"
+    excerpt: "The global Artificial Neural Network (ANN) market size was USD 160.8 Million in 2021 and register a revenue CAGR of 18.7% over the forecast period, according to a latest analysis by Emergen ..."
+    publishedDateTime: 2022-08-10T12:56:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-neural-network-market-growth-cagr-of-18-7-during-forecast-period-2022-2030-google-llc-international-business-machines-corporation"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 1
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "fD9y5vOuMzNspV7XRXks13mMSQQgAJTipjDauPSv7jxu2AtJ4xoUUw0fwZ/mz+zogQbtdKO0GU6YGfKbaSaKFGhtn3tM1jep75L+deif/kzs18veRXNJuDfXerHC9mxPdWH+P6brOFFWEYgUYYy/bC7awgz7GSlZDsYMdgxkApLLpRA6jtIEg6+ubkzxH+tHsoIC9A3hA3T3kFvxBx7BKq9lZd1qRMPWWNWDEJ+nKzMMwy4piaFxtlVVw1RFt3wDIDs/sLy1UoXnsRgfYGgzxelHJii0FuARCRI909AA6W1YbwSZl5+SHvLbEalA3lhEFuNgjYZ/VAhSnvgZclONbs9PRtTRLiI90eXg1Dw2kw8=;muERn9GcC/N6uSohN5Fzww=="
 ---

@@ -81,22 +81,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Search engine giant Baidu bags China's first fully driverless robotaxi license"
-    excerpt: "Baidu has received driverless robotaxi permits from southwestern municipality of Chongqing and the central city of Wuhan."
-    publishedDateTime: 2022-08-08T05:24:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license-41659931095499.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/search-engine-giant-baidu-bags-china-s-first-fully-driverless-robotaxi-license/amp-41659931095499.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 70
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/08/08/1600x900/Baidu_Self-driving_car_1658373939915_1659935096826_1659935096826.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Driverless Robotaxis To Officially Hit Chinese Streets"
     excerpt: "China is about to get the San Francisco treatment now that a robotaxi company is able to operate its robotaxis without a driver in two of its major cities."
     publishedDateTime: 2022-08-09T16:34:00Z

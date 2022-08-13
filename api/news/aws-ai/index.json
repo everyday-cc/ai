@@ -248,15 +248,15 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-no-code-no-problem-part-2-setting-the-ai-loose-with-the-easy-button.md",
-      "title": "No code, no problem, part 2: Setting the AI loose with the “easy button”",
-      "excerpt": "In the second part of this three-part series, our heart attack predictions take flight.",
+      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
+      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
+      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
       "sourceUrl": null,
       "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
       "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -272,7 +272,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T06:00:00-07:00",
+      "publishedDateTime": "2022-08-09T18:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -295,9 +295,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "AWS AI"
       ]
     },
     {

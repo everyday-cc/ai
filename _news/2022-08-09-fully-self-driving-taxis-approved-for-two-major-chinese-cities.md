@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Two Chinese Cities Approve Baidu’s Unmanned Self-Driving Taxis"
-    excerpt: "China, seeking to catch up to the U.S. in autonomous driving cars, has been increasingly active in setting up regulations that allow such vehicles on public roads."
-    publishedDateTime: 2022-08-08T05:21:00Z
-    webUrl: "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689"
-    ampWebUrl: "https://www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689"
+  - title: "SenseTime unveils first AI Chinese chess robot for family entertainment"
+    excerpt: "Chinese artificial intelligence pioneer SenseTime has launched its first consumer product \"SenseRobot\", an AI interactive Xiangqi, or Chinese Chess, robot for family entertainment, further expanding its smart life product offerings."
+    publishedDateTime: 2022-08-11T08:36:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/11/WS62f4b288a310fd2b29e71ab4.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-599394/social"
-        width: 1280
-        height: 640
+      - url: "https://img2.chinadaily.com.cn/images/202208/11/62f4b288a310fd2bec9ba4fd.png"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Chonqqing, Wuhan kick off commercial operation of unmanned auto-driving business"
-    excerpt: "Technology giant Baidu on Monday announced it has secured the first permit in China to offer commercial fully driverless robotaxi service to the public on open roads. Apollo Go, Baidu’s autonomous ride-hailing service,"
-    publishedDateTime: 2022-08-08T06:44:00Z
-    webUrl: "https://www.globaltimes.cn/page/202208/1272454.shtml"
+  - title: "SenseTime Creates the First AI Chinese Chess Robot for Family Entertainment with Endorsement from Olympic Gold Medalist Guo Jingjing"
+    excerpt: "Dr. Xu Li, Executive Chairman of the Board and CEO of SenseTime, said at the product launch event, \"Our goal is to create a robot that can physically 'think' and 'act' with our leading AI technology,"
+    publishedDateTime: 2022-08-09T15:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/09/9653026.htm"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 27
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-20/8db12994-3a72-4061-a358-df866e9fae9f.jpg"
-        width: 864
-        height: 575
+      - url: "https://mma.prnewswire.com/media/1874996/SenseRobot_Guo_Jingjing.jpg"
+        width: 400
+        height: 250
         isCached: true
 
 secured: "+cUE1xmL4idxXH+UiBeGFMc/drcyjBg43KYib5JFhRCRMrtnteSkpTGWueFGT0GxkMbQLQuvRVP5eTWqlarzkH672akona+jIqFfvkvmKtsEhwdDyG8/uhFRCvqW+0TTvJlQXoJaRVukrnwO+awq7CgYsc3nZ9fvW5OuZXd/JOfaA7z6j3jTNkm0HT1tu0KpmoqemGsU6uVbxliNwnKPXxKCxW7vhSGeTFrs39QE4eQCRSsetID+ty0Hgdl30xzt9hw1YO2a0U4apx+CqKKjXpUWwplghkPeTt7itJCLnDpMv8PPSL1PXzr0xgUunI/N7S7CbkVuhJ5nZ6huWHaLgCb+DKQaY6pxVyh1lae0wemTly1d8byQLWwr6D8rxlS0jNXspiHgJ95sPWH/xTsFqSiZIQeHZnTRsbkEKmWXDkMWtZnkzQ6xjoHpkIqKleLicVid0DaZHppgKyE3fP1cAU4h+rFvRhzeK0U07Fe3IpiSGl32aP4jAYzcgqDGy3xy5Pi2lJefMqscQnz1M0/pcQ==;FD1gHyCpGeLG9YUp6cK/mQ=="

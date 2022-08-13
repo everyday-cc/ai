@@ -3,13 +3,13 @@ category: news
 title: "AI regulation: A state-by-state roundup of AI bills"
 excerpt: "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level."
 publishedDateTime: 2022-08-09T03:49:00Z
-originalUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
-webUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+originalUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+webUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
 ampWebUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "CAKkHwmhkak1i8PVecG2phQn40rTlTi2soDort8Ae3Epdxln5+Fkns86pkunIZ4BvJBfTQHvlFsRKS3IOsKvk0bMvZs3sO3CPM9U+QcXMSgXovdxv5cd6HPFWGlr2jZNdH8WIIQVQxXBAEfGoCcSGyULGstCAf9wNg6CsYhf8gZ8+em8Yv95vdwWrpDWarddFibkVBuuOEYqrLCOWjg2b0ncfuZoIYC5LMO61lf8lyZQK5EzBdBol19osdXRtGZZBu5e3fZUDraTmd7H9HkiKRUhsx/uGpK3Lhur//K4jVnQJ+4T9xhn0pCpHBJ11sYnbahzw+dfI7dmRjmBBwNRZFUvHUVO9wRnGbfljhe0lBIOW64Zs1MJutia8I7Ern5KZgLLq7Md9zE4aucsabj6XlJ7rTJA95HmI+qrL2f5O6BRtPBjJ2Snt4lW9TO2Rr0YuEFFFwwCzhfqcJgfeNnPjs7ML4MLx4D/sSM+bHEoiYTzoVoCsQBSQ82CNTrD12P7Omb/O1k+ihyh3RBXGUCFlA==;1DuY5mgghZvyNLojeisE2w=="
+secured: "z81rQzKVcKV+/+ju2K8wjl50fXrlxZaZs6PukFwh110Vh/Gl1qUDF1Bk7/1kTbYIfqDvxVQn64NqyKXhZ2tmApDmUcARR8jayk7BZ8X6rBOBWGsV05z6AxrktjMnsYMcD12DUrRWiJLPWw+zV+IKjS4WW8cxbUiTl4ex5Q5XLkbGuV9t3TQd94eDshN8mJRuDdCZHwBmUTOj9Rr4yl/e/PcXRECl3wzef7YFsTeWXTzY8APu/xjzg84P0qahL1DV+z4nMkTLvg4PmWiYRB3uCDoi12w2js6moPq04jhapsE8YE/xpVLRWvN3CfOZcKk4Z1Noi2g9j7J7k/ZTD0xTFrYiqtj4ASkjGxoV2SdmRi0=;/jEGmsQagYPOZdbVrr/GFQ=="
 ---
 

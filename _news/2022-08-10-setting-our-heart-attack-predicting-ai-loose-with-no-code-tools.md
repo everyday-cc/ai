@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-10T01:14:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/"
 webUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 91
+published: true
 
 provider:
   name: Ars Technica
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg"
@@ -43,7 +44,16 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "How Meta is combatting Apple data limits with ad targeting automation and AI"
+    excerpt: "Meta is putting new artificial intelligence and automation into its ad platform, including within shopping campaigns, which is part of the overall strategy to adapt to data changes coming from Apple."
+    publishedDateTime: 2022-08-10T18:52:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-meta-combatting-apple-data-limits-ad-targeting-automation-and-ai/2425946"
+    type: article
+    provider:
+      name: Ad Age
+      domain: adage.com
+    quality: 14
 
-secured: "2BHq6FfnjzX+JV/O/7cZSla5DOJZBusTa+PiFeW8csXC6wmj/gztsWs0TlXZDGsiBy24LHO0dy2pVeIZqkcM0hzr/qp3fTBulGjh/lJDCK8MFcMQBYqKpAGrrs/pY7qmntrpX8+r57sxTFxSy2F8RaB0ygGQt6kMp9AUJB0PADBT9cdzAqJ4y4TAHB6ILsUuJt9MEvtrDwPXHVhlwvGm796Gba2nKEyaOLOO8iEAOLM2ZwU0tPXvqvu8QqiDsnxGCUwkrSa0ZXFzve7mi6xPzMyTgQTtSZ3n/wqYVQPO2UMstjq1bs6VWenD1pApk+yzGwmH905CHnZCo66z39X9b2ikLcFrGN3kMJ4rS6pv87A=;wAg3mMXVUKFaUPkQxsBN4Q=="
+secured: "o1CbTTVu7lcYKdnPvV4dbrKlX2I0KPJcurR7X7nNYBQrcWkOalzKNHyAKAtmlqt4bvLlkhM9I5AiPm1AzcIR+OvuMLVojz+24SW4INc/f9zniopg2q1FoBQpyyo1TQDn00HkaYvlXqaC3kygX2X/t8+NgEspjf9IWTlXKQfQm1K9yr8G7jwrk+G3W2KrzImYx0ltjYmPyoleNcJ96Uq2ZcH14DJdxL9NiRG1IdCKHs+pLembQf43p+eg6AYC0iQtDufEvb/B4pLrqx2n73xUajSCsaL6xef4x7uyhfwJKLgDQ0FGh7OmWcgLLV+6/hJkMesIkp9Q7u493P0dwzDfTBmz8PZJ1PinnyN0T7fGJFUvNxvmrE1UdaTffkx/T9qqIlzA+jFWRyzO9PrK2nqO7T3IS7bNrqdnqA8syiaAFuawapnWAU5LdDysXHIQt7NugvBRnYE6yxC0pHNw37w1Z4/ITakJuBEmalPjn5Cvqh++fJJJiYGOt6WIUNTZ82QP+NkyH9XcPEK82D1nnbhKTw==;4tI8Nwevac8Gy76PorZUcA=="
 ---
 

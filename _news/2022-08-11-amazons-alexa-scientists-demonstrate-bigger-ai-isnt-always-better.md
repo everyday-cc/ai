@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigg
 ampWebUrl: "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/"
 type: article
-quality: 95
-heat: 95
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - Machine Learning
   - Natural Language Processing
   - AI Hardware
+  - Google AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp"

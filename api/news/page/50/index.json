@@ -2,6 +2,92 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2022-06-29-robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028.md",
+      "title": "Robotic Prosthetic Market Segmentation, Consumption, Revenue And Growth Rate By 2028",
+      "excerpt": "The global robotic prosthetic market size is expected ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Forest-Fires-Europe-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain.md",
+      "title": "AI Tech Company Nala Robotics Signs Expansion Deal with Slice Factory Pizza Chain",
+      "excerpt": "Newly Introduced Pizzaiola to Serve Up Pizza Restaurant's Signature 28-inch Jumbo Pies, Including Pasta Dishes and Wings ARLINGTON HEIGHTS, Ill.,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-renesas-and-cyberon-partner-to-deliver-integrated-voice-user-interface-solutions-for-renesas-ra-mcus-supporting-over-40-global-languages.md",
       "title": "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages",
       "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line.",
@@ -983,83 +1069,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-microsoft-certification-guide-overview-and-career-paths.md",
-      "title": "Microsoft Certification Guide: Overview and Career Paths",
-      "excerpt": "Machine Learning, BI Reporting, or Data Engineering with Azure. One additional exam from a list of 13 possibilities must be passed to earn this credential. Topics covered include cloud data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080433/1554238491.png",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-microsoft-drives-financial-inclusion-with-ai-at-bootcamp.md",
-      "title": "Microsoft Drives Financial Inclusion with AI at BootCamp",
-      "excerpt": "natural language processing and cognitive computing – has huge implications for the financial services industry in Nigeria. According to Microsoft Nigeria Country Manager, Mr. Akin Banuso ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
-      "publishedDateTime": "2022-06-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
         "images": null,
         "publishers": null,
         "authors": null

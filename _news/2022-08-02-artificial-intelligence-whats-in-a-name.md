@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - AI in Healthcare
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg"
