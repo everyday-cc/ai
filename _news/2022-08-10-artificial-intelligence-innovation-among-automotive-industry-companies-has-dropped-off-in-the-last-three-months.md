@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T17:00:00Z
 originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 

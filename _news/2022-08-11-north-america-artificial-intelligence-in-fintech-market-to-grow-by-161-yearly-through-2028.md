@@ -31,7 +31,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
         width: 300

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -93,7 +93,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -582,33 +583,24 @@
     {
       "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
       "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,",
+      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960990",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
+      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:12:00-07:00",
+      "publishedDateTime": "2022-08-08T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

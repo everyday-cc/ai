@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-13T18:10:00Z
 originalUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/"
 webUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/artificial-intelligence/ai-integrates-m
 webUrl: "https://www.genengnews.com/artificial-intelligence/ai-integrates-multiple-data-types-to-predict-cancer-outcomes/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2560
     height: 1437
     isCached: true
-
-related:
-  - title: "Proof-of-concept model uses AI to combine multiple types of data to predict cancer outcomes"
-    excerpt: "While it's long been understood that predicting outcomes in patients with cancer requires considering many factors, such as patient history, genes and disease pathology, clinicians struggle with integrating this information to make decisions about patient care."
-    publishedDateTime: 2022-08-09T01:13:00Z
-    webUrl: "https://www.news-medical.net/news/20220808/Proof-of-concept-model-uses-AI-to-combine-multiple-types-of-data-to-predict-cancer-outcomes.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220808/Proof-of-concept-model-uses-AI-to-combine-multiple-types-of-data-to-predict-cancer-outcomes.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220808/Proof-of-concept-model-uses-AI-to-combine-multiple-types-of-data-to-predict-cancer-outcomes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 47
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "CLWmxLDn0bFHGz/AmrVKwgl+60BEbNv/JMzv1Gt+CTIUnRdkeTqfnKKwMiGmdMj9wP1wQKz9aKfwA3qn3V0+4G7EOu5sNukE2pMC+1Rvdd7gykMdiWSi1UWhavo3dhWo88w1SkwWBZj0Grcn5IIl1ITvOzwsPZToKUGuOFY1FscEWms5K4hl3BcqX9RFcv6rY71DDZk++cGsfNaREo84U/0TVFOZwvXJ71P3PpN61f4OnQ4nxgO+lT+w5UkZoBMXyrI/Olc7bFiZ4YPVWzS9KC6ulZaDvPi4RKSKm4cNJ4DR3Arqh/S03yiItqTXSjVpN1VlT79KnFk338mfcsYCi9MoEX2l6GADbK0nD+ySusQVpVgk2iEmybXMpZNjkgUFWDhFIIF1TZFOnrnDDrLZ5t4JuMT8wu8ZZ0pU2alK5qLVf4JaAjjt06CeQyaKfEbHrvgSQtwVQLSIjdF2XE6epYy1GC9nSHUwJGIdeEjBKxQ1ym5D0oCx6ufhoMo6bbQDJiICY2Q8loSdZkn/JO0Svw==;fnfmnjzZrDzG0Td8OlISdA=="
 ---

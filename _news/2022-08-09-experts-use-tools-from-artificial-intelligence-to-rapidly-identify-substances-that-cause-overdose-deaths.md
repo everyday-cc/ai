@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220809/Experts-use-tools-from-
 webUrl: "https://www.news-medical.net/news/20220809/Experts-use-tools-from-artificial-intelligence-to-rapidly-identify-substances-that-cause-overdose-deaths.aspx"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Artificial intelligence tools to speed critical information on drug overdose deaths"
-    excerpt: "According to a new UCLA research, an automated process based on computer algorithms that can read text from medical examiners' death certificates can substantially speed up data collection"
-    publishedDateTime: 2022-08-09T03:45:00Z
-    webUrl: "https://medicaldialogues.in/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
-    ampWebUrl: "https://medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/mdtv/critical-care/videos/artificial-intelligence-tools-to-speed-critical-information-on-drug-overdose-deaths-97253"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 51
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2022/08/09/182905-ai.jpg"
-        width: 1500
-        height: 960
-        isCached: true
 
 secured: "HavQ8kUbYt/TNsEvaM8BFOjlOvEa34B8dRJ6kXE668S5gC3z8AnodUTcZCeV+3cFtBWg1gdq2y4nuFaeA9cJ9W/8C1KM4qlqYZQK9Mj28c2XUuo/sZu9qNhuOyOpOscJT4j5ZY6TQQAcbXcW0KwIm8gyMB4cy6dW3Qy9GQveWpmfB+96T0UJ/h9Mw55XPJD2Zm65LR4EvceZnzKAycSu3209H+SWdq+GjIrWkBeanlHTDbVvK+Kunh9RvITYcgm1gKyBHU/gicb6DIYjz2JJRkKUR17aNzGNm/NFNbWnoWsJjewVFhmeQVuPnii/h5ZQd8fVsd6r8MfW/j7bvPDR3UGBeqVsU/HyIU7p5BcLfMw=;nOI155eT/Q1uJ8sp2jhq9A=="
 ---

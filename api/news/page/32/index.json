@@ -2,6 +2,40 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-07-15-twin-cities-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Twin Cities Selected as Host Site for Artificial Intelligence Bootcamp -APPLICATIONS NOW OPEN!",
+      "excerpt": "US in fall 2022. The bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th. The student and parent applications are now open at markcubanai. org/application.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639397.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-achieve-enterprise-grade-monitoring-for-your-amazon-sagemaker-models-using-fiddler.md",
       "title": "Achieve enterprise-grade monitoring for your Amazon SageMaker models using Fiddler",
       "excerpt": "This is a guest blog post by Danny Brock, Rajeev Govindan and Krishnaram Kenthapadi at Fiddler AI. Your Amazon SageMaker models are live. They’re handling millions of inferences each day and driving better business outcomes for your company. They’re performing exactly as well as the day they were launched.",
@@ -1035,57 +1069,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-researchers-trained-this-ai-to-think-like-a-baby-heres-what-happened.md",
-      "title": "Researchers trained this AI to ‘think’ like a baby — here’s what happened",
-      "excerpt": "Researchers created a deep-learning AI system that acquired an understanding of some common-sense laws of the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby",
-      "originalUrl": "https://thenextweb.com/news/researchers-trained-ai-to-think-like-a-baby",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FBabyAI.jpg&signature=f8c30ed28fe11f30412f7003c07b0dd0",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

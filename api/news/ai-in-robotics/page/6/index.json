@@ -2,6 +2,41 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
+      "title": "Tesla Stock Split Seen Drawing AI Investors",
+      "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
+      "originalUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-stock-split-seen-drawing-ai-investors?amp",
+      "publishedDateTime": "2022-06-28T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-ais-progress-isnt-the-same-as-creating-human-intelligence-in-machines.md",
       "title": "AI’s progress isn’t the same as creating human intelligence in machines",
       "excerpt": "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ...",
@@ -1261,58 +1296,6 @@
         "name": "The Sun",
         "domain": "thesun.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-say-hi-to-proteus-amazons-most-advanced-warehouse-robot-yet.md",
-      "title": "Say hi to Proteus, Amazon’s most advanced warehouse robot yet",
-      "excerpt": "Amazon has unveiled its first fully autonomous mobile robot. While it looks very much like a robot vacuum, Proteus is designed for transportation not cleaning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "originalUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/amazon-proteus-robot.jpg?p=1",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/proteus-amazon-fully-autonomous-mobile-robot/?amp",
-      "publishedDateTime": "2022-06-21T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-13T14:00:00Z
 originalUrl: "https://www.crn.com/news/cloud/the-10-hottest-ai-startups-of-2022-so-far-"
 webUrl: "https://www.crn.com/news/cloud/the-10-hottest-ai-startups-of-2022-so-far-"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CRN

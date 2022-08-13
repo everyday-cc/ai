@@ -7,7 +7,7 @@ originalUrl: "https://www.autodealertodaymagazine.com/368624/representatives-rev
 webUrl: "https://www.autodealertodaymagazine.com/368624/representatives-revive-bipartisan-effort-for-self-driving-vehicle-legislation"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,12 @@ related:
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+        width: 536
+        height: 357
+        isCached: true
 
 secured: "Y4B53RyWxsQdN7xaFilldwvWNyglXQL7C2VnRXabt2LrJSHNk4XMLU2FjNU/D8SqdW8luT1O1r2VYrMqHMGByTcw68uUratBdsGJtqoFDf+rm6VS+5+A7spQ4jEV9QwCC/GyzPl5gGQulu3rBGBpz6jLzOBQbenaP6UNaWK4XyYq3rFydevdh6/Cgaf832I92WaS4pczVpCBvKTA7yuzds6NX5BqMhYfVibgQy2SGQTtzhYmSp33ffcN4H4gYlLAhKHpidaZ4h32JPZTZ2roVf5+jPBRWpuDfS/xSrULl6iMpSTDY68nn8vm/mlZbuPIoj+3AhEYLtWuTemJmH1LCuf9nRXDBMv0IdXyrwfwhcw=;yMY4cv23N2RO2Ml4WBY34g=="
 ---

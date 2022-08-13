@@ -72,6 +72,15 @@ related:
         width: 2300
         height: 1300
         isCached: true
+  - title: "The Use of AI in Cancer Screenings"
+    excerpt: "Medical imaging, an integral part of the cancer screening process, continues to experience rapid, year-over-year growth. Unfortunately, available radiologists c"
+    publishedDateTime: 2022-08-10T13:37:00Z
+    webUrl: "https://marketscale.com/industries/healthcare/the-use-of-ai-in-cancer-screenings/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "IoB8SiBzksZ5nTQ3hEvvc7Y9LpE8adZrA2pZxZqUB5RivRIPKYXvcXLVKhOlN4iVwBnaizDaTxzH7ECJgrAwP5mueww/gcJ8aqVV4MIkEwVZtj9Nmm1KIvcoJm8d6lq5KFJLTNDHpNzbqiH2B6V2anTYYy9VNRI0s4dYbQJiyWLiW0urzafyBPbVZ7PIXsA2YItcX3i+Hews98gx+Srl5HnKYYncednvt0defS7AC5lIxkmrUjbVz9yV46YTQuSDt2gGCwGXlYqAlQgC0ZS8MnBFD8GdHqwYiLzkdplkfR7iI1IAsB8xHYqalQxLn1yOxnuw2UsyTHF4Zycdf4VEuP8kFpcsWsk56yEVSnF/B4s=;Hn5N/9VqtFBZkdI4W1o4oA=="
 ---

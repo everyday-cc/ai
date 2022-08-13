@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cfr.org/blog/importance-international-norms-artificial-i
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 2300
         height: 1300
         isCached: true
+  - title: "The Use of AI in Cancer Screenings"
+    excerpt: "Medical imaging, an integral part of the cancer screening process, continues to experience rapid, year-over-year growth. Unfortunately, available radiologists c"
+    publishedDateTime: 2022-08-10T13:37:00Z
+    webUrl: "https://marketscale.com/industries/healthcare/the-use-of-ai-in-cancer-screenings/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "j5kit1KjxJOYyItqgQ7XyDnya8bn9ybRckWi4SCTihAn0MP0y+ZvnRLvshFLVntEJR5zLgAO8rbpBPHCk9zEI1wvkBheXDVfqH8o8CMqscZb0+wr4XlLt4cADJ/fJriZ57s49Qrr/PiPycRkUQqQMdhxCoQwSIu1mqjBl3YjcwDYprHFWYPRygqi3/MYD6Z3KtI7vo3b/xe4puhbXKoK1TuSZpdNwABwZhrY9zmN878QodnfhruVgzlpIqZU2JWpxpjIpYPUFUKiHhgTqvhroQKLnnoseeiZ9BkVquyQNHMs1n3FUvBoZgM8DNl8gMeVwFLDnW0us6e0JHrBPkhxUVGo7qxGtsWC5qMraj4AzzQ=;bYYP165dTHjXr1YY4dZv9A=="
 ---

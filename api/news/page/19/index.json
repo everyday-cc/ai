@@ -977,6 +977,49 @@
       ]
     },
     {
+      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
+      "title": "Robot that learns social cues could feed people with tetraplegia",
+      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
+      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
+          "width": 769,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
       "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
       "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
@@ -1122,49 +1165,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-natural-language-processing-market-size-share-industry-outlook-global-forecast-to-2031.md",
-      "title": "Natural Language Processing Market Size, Share, Industry Outlook & Global Forecast To 2031",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 06:04 /Comserve / -- Impact Analysis of COVID-19 on the Global Natural Language Processing Market: As per the study of Research Dive, the Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "originalUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357472",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

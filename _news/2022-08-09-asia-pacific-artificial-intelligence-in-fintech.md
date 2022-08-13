@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-art
 ampWebUrl: "https://www.benzinga.com/amp/content/28411655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655"
 type: article
-quality: 59
-heat: 129
+quality: 61
+heat: 131
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - IBM AI
 
 images:
   - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"

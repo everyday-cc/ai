@@ -90,7 +90,7 @@ related:
     provider:
       name: Just Auto
       domain: just-auto.com
-    quality: 19
+    quality: 21
     images:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
         width: 1038

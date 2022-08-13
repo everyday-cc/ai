@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-06-03-kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you.md",
+      "title": "Kick Back and Relax While Eufy's Discounted Robot Vacuum Cleans for You",
+      "excerpt": "Save time and energy with a robot vacuum that will automatically handle daily cleanup and keep your floors looking flawless for just $130 right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/kitchen-and-household/kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you/",
+      "originalUrl": "https://www.cnet.com/home/kitchen-and-household/kick-back-and-relax-while-eufys-discounted-robot-vacuum-cleans-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-computer-vision-in-healthcare-global-market.md",
       "title": "Computer Vision in Healthcare Global Market...",
       "excerpt": "New York, June 03, 2022 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision in Healthcare Global Market Report 2022\" - https ...",
@@ -1077,59 +1120,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
-      "title": "LatchBio raises $28M to corral bio data",
-      "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "originalUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1654116197955.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
-      "publishedDateTime": "2022-06-02T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

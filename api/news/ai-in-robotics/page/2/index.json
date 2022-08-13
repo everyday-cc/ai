@@ -6,31 +6,22 @@
       "title": "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail",
       "excerpt": "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-2-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T06:03:00-07:00",
+      "publishedDateTime": "2022-08-02T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1297,21 +1288,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
-      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
-      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
+      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
+      "title": "Robot that learns social cues could feed people with tetraplegia",
+      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
+      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
+          "width": 769,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1319,13 +1310,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "publishedDateTime": "2022-07-25T21:35:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "New Scientist",
+        "domain": "newscientist.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,8 +1326,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
