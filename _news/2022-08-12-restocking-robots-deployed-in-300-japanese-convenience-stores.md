@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/restocking-robots-deployed-in-300-j
 webUrl: "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/"
 type: article
 quality: 71
-heat: 111
+heat: 91
 published: true
 
 provider:
@@ -41,34 +41,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "Robot arms are replacing shelf stockers in Japan's convenience stores"
-    excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
-    publishedDateTime: 2022-08-10T04:29:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/08/10/robot-arms-are-replacing-shelf-stockers-in-japan039s-convenience-stores"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/10/1691797.png"
-        width: 684
-        height: 445
-        isCached: true
-  - title: "Robot arms are replacing shelf stockers in Japan’s stores"
-    excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
-    publishedDateTime: 2022-08-10T04:36:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/10/robot-arms-are-replacing-shelf-stockers-in-japans-stores"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 41
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/10/1691814.jpeg"
-        width: 1240
-        height: 828
         isCached: true
   - title: "Robots are replacing shelf stockers in Japan’s stores"
     excerpt: "Telexistence Inc and FamilyMart Co are rolling out a fleet of artificial intelligence (AI)-driven robots to restock shelves in 300 convenience stores across Japan. The robot arms are designed to replenish drinks in refrigerators and are in mass production,"

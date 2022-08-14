@@ -140,6 +140,15 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 49
+  - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
+    excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."
+    publishedDateTime: 2022-08-14T18:43:00Z
+    webUrl: "https://www.autoconnectedcar.com/2022/08/boston-dynamics-ai-institute-to-research-ai-robotics-led-by-marc-raibert/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 49
   - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
     excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
     publishedDateTime: 2022-08-12T18:15:00Z

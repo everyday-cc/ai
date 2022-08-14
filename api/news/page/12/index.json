@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-02-how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide.md",
+      "title": "How is the healthcare sector inclining toward artificial intelligence worldwide?",
+      "excerpt": "As awareness about artificial intelligence and its potential is spreading, so is the faith of various industries in its capabilities of improving production and quality of life. Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
+      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/04/mhealth_illustration-620x400-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide/2613683/lite/",
+      "publishedDateTime": "2022-08-01T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
       "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
       "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
@@ -1084,49 +1128,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-uipath-acquires-reinfer-bringing-natural-language-processing-to-enhance-everyday-customer-conversations-through-automation.md",
-      "title": "UiPath Acquires Re:infer Bringing Natural Language Processing to Enhance Everyday Customer Conversations Through Automation",
-      "excerpt": "Leading enterprise automation software company, UiPath (NYSE: PATH), today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured documents and communications.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

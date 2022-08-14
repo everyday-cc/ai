@@ -2,11 +2,11 @@
 category: news
 title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months"
 excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-publishedDateTime: 2022-08-09T17:00:00Z
-originalUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
-webUrl: "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+publishedDateTime: 2022-08-10T09:31:00Z
+originalUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
+webUrl: "https://www.just-auto.com/dashboard/patents/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/"
 type: article
-quality: 21
+quality: 17
 heat: -1
 published: false
 
@@ -16,8 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - AI in Autos
 
 images:
   - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
@@ -40,20 +38,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial intelligence innovation among air force industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-    publishedDateTime: 2022-08-09T17:00:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-among-air-force-industry-companies-has-dropped-off-in-the-last-year-2/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 38
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/6/2022/08/f1tKn-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Artificial intelligence innovation among railway industry companies has dropped off in the last three months"
     excerpt: "Research and innovation in artificial intelligence in the railway equipment supply, product and services sector has declined in the last year."
     publishedDateTime: 2022-08-13T05:00:00Z
@@ -65,20 +49,6 @@ related:
     quality: 37
     images:
       - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/BaKRM-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
-  - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-    publishedDateTime: 2022-08-09T17:00:00Z
-    webUrl: "https://www.army-technology.com/analysis/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
-    type: article
-    provider:
-      name: Army Technology
-      domain: army-technology.com
-    quality: 24
-    images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
         width: 1038
         height: 778
         isCached: true
@@ -96,16 +66,7 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Artificial intelligence innovation among retail industry companies has dropped off in the last three months"
-    excerpt: "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year"
-    publishedDateTime: 2022-08-09T17:00:00Z
-    webUrl: "https://www.retail-insight-network.com/analysis/artificial-intelligence-innovation-among-retail-industry-companies-has-dropped-off-in-the-last-three-months/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 16
 
-secured: "/aoBscm6l0LBXB03pAuxdCbTP3EnElUW0UcQeMBitja72enrQ4gk7h+jmILAU6djZy7HQMwqVsdxUtRhnUXXZtxgxYvhk8XnWfIlyn3zZEuySBU6zj6AH7GAZQQeaiRlN1oi+qla+DdciPIAMpu/ptbtV4/cDlt7UAQqXwenZHC8cAqKknimg+DgGwWb/JPTiHzYgzHJh8rNN0/z5g4NLM573CVbLj1lqkbb9CeIDt4fwXIHgpabSYfq5Oom7QHlS87Yj1dLsFBNkQ6y30+H/cZpRbNS2f8I8u8ZkrsEvul1KmNpW+JqO4mjeSu4V7lRZGOOtrQk2cM7R4e2vHqlOoa9cV79o9u6e4sufJQ/WUkDqxHABv3rYiV6sC3Ho9aUzPZRRLyk3oueIpZ2X418r/68Wlei7tllqstRtp3nRMZ/LQatFOOAsDc1vOyI1KpGhtxJLiEfirDcVei89usGf3KO6/hkz3w+KCsSiQxVMwt7GtPjt9YsfJNLhm2s57DmfClZFzKX7n2ASIweuS9Nrg==;SOkY5GsizFwBJnntfqT2NA=="
+secured: "QqXi2PHHa1Dxu8jCvFhP0G/FqK1bBktW+d1eXuLtC81C5XoC71644n++UU7qrgp0UYJvDU2rnNdwArsBWRqdDC1cHWHZXWndwAmJRUAkFrbjd1zllqLF2zxbyp53aOIaqk5L42NSOWHdrROMShMMuzg2kiW9Nc7ytx4Blg2f1mzmE36ESJCPIM/9Qlp4uDD/f1MpH/qGVCwWTVjvaOAO7ms4/5/h3xP5gygzxcRIvjoPnj3yz+gFk0jXqXWQBqhXIp38MLLy7lLqcMt4BgmPEnt521iLj1gUa4nwLW8eYMqFZ3U64D+gupaFaG/vOphFTTZc5s/ai2oVv1NvvOFR/PKN7OQ8+0kMNxQoDO4S0vk=;mfq+J0IRScPxWBNBIXdilw=="
 ---
 

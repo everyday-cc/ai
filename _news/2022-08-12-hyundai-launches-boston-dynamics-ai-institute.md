@@ -125,6 +125,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
+    excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."
+    publishedDateTime: 2022-08-14T18:43:00Z
+    webUrl: "https://www.autoconnectedcar.com/2022/08/boston-dynamics-ai-institute-to-research-ai-robotics-led-by-marc-raibert/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 49
   - title: "Hyundai Motor Group launches Boston Dynamics AI Institute"
     excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making advances in artificial intelligence (AI), robotics and intelligent machines. The Group and Boston Dynamics will make an initial investment of more than $400 million in the new Institute,"
     publishedDateTime: 2022-08-12T15:23:00Z

@@ -1,11 +1,14 @@
 ---
 category: news
 title: "Nation releases first draft of rules on self-driving vehicles in public"
-excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
-publishedDateTime: 2022-08-10T02:17:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
-webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+excerpt: "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ..."
+publishedDateTime: 2022-08-10T07:03:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: 中国日报网
@@ -15,6 +18,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "QBQLRDJOh6HaDHMpilimRDwnLPsHducrgpVwwMG0T7CXJO418h/JRFwFCcXCHAd38XYCdX4jYWePmD/fcHohEv4K6njAoRIAneCTKiWGRjgzsuE6eMmRjiCeufQu3y3yDnQ/5hCNQ7BWw40hz2d4s/0f/As0nTmOJZLBOw08z4s812zK6cRYYOsI9athJAOD37pAX1syufW5zz6JcPEU4xwvA1chwfuIXxFG+4RSMFW6qrUI8+vNjeukgkuu4874vCV2ZAHW+ODB2EhONEFuNOvbc13JXvOBoaDmLkD5pyiMJEwfTnJl3KPQeW9b0Wo7RGkehOpGy8Gsric3Y0s+fwZM2Lu4qVFkzYre9lAkcvS+aNSIHAfAg2H51Or0mLVVuTnt+8aq0y7WqbH1k+Zu5jHIWPO+OgjkAH8TA63mQc8ksPGAeHN20Z65/RIoweFQAl8/L4sDKWSqJnTRXES17OF3XoTiqa3hsVQ86yRrHE1LA1b5kovstSD1vsUzyRP9UxoNqaJ9noj+j80Ow5iLZw==;g9eqI0brm0WajwYUD8YX9w=="
+images:
+  - url: "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+    width: 536
+    height: 357
+    isCached: true
+
+secured: "W/9uKq3rL/XzzzggTcFWKU+Xsd5miIAJnWFaskHKyNNtbqxw0BzuR4QQx2SAd0j5zN9fbQlu/5iRVOkhULvyYZJ4DonO3ZhyZRDbkiAlvvHLflZIB4sK8nl9fOMGsmJysRIfT5aXvFNxYzJUywvpMKZWoYZrGFPAupEPitEDPqs9WbS+Xr/VgJCF+jsMP72Zs9ebwmY8W1F7agTDW2d4UeJm+bzsmA1eHUDN2wCW/u491ynnLEewiN/I9KSxgAqvNQEVRV3ePyMkrlsGTpPfRtbqZdKYNyJJEQ7befN9fFIQWs79kF2y2ZIkIbZu97Ng5hATeSV566Z/nHEzfLzUPFRl2i6J/Wt4ulirIGvTSXA=;AGfFCOWlaCHjSIsHwKbPew=="
 ---
 

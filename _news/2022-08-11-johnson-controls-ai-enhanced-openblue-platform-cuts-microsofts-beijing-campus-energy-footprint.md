@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "JCI AI-OpenBlue Platform Cuts Energy Footprint"
+    excerpt: "Johnson Controls helps Microsoft Beijing Campus achieve energy savings of 27.9% through continuous retrofitting and optimization, delivering on sustainable development goals • Powered by Artificial Intelligence (AI),"
+    publishedDateTime: 2022-08-14T19:39:00Z
+    webUrl: "https://www.ccr-mag.com/jci-ai-openblue-platform-cuts-energy-footprint/"
+    type: article
+    provider:
+      name: ccr-mag
+      domain: ccr-mag.com
+    quality: 39
+    images:
+      - url: "https://www.ccr-mag.com/wp-content/uploads/2021/08/GWIC-logo-1-e1629788912185.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Johnson Controls Implements AI to Achieve 27.9% Energy Savings"
     excerpt: "Johnson Controls has partnered with Microsoft Beijing Campus in order to retrofit building operations, achieving 27.9% energy savings and ensuring key equipment uptime to 98%."
     publishedDateTime: 2022-08-12T18:32:00Z

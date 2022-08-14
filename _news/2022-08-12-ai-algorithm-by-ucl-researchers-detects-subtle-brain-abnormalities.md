@@ -105,6 +105,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
+  - title: "AI Algorithm Helps Cure Epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."
+    publishedDateTime: 2022-08-14T17:46:00Z
+    webUrl: "https://www.medindia.net/news/ai-algorithm-helps-cure-epilepsy-208275-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "yxulVgsu24kltLhdHIs8chXWTTshC63BfwZ8v1hdTLUzMMDfHJWLWY+Z86pykexfIHVttpdTWeafmDLtPQNsN0nRIc7Ws6AS+Xc2EcwOh8WwApc7ibVnyALCfXRdWtzsKCMF9O7zEdtEaS1ILtFu8fglOZIr5W/mcOFwAPy1J1q84olzGdH97ioBL7vnhK4ANndSlqSoh15aSOZBBa3wwHAxXDh5rXblDhudg3LqOeU9Sa1GFiKAnpJDhL4GcjBMMMP/Kqd5gXcIQ5L+UpXYD15ddrgp+jQR8dOAc2KtmDzj9P8XVQCuq74aD9f5yOPaDZ3OBJl3T7FnLgv1Ank9MZs+0O43zxokSkGUJQb3sVw=;4C4oEMwZrKx6KG+LUTepfw=="
 ---

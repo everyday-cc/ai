@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Chinese GPU maker: Biren BR100 has 77 billion transistors, 64GB HBM2e"
-    excerpt: "China's new Biren BR100 GPU: 77 billion transistors, 7nm process node, 64GB HBM2e memory @ 2.3TB/sec memory bandwidth, PCIe 5.0."
-    publishedDateTime: 2022-08-10T02:53:00Z
-    webUrl: "https://www.tweaktown.com/news/87844/chinese-gpu-maker-biren-br100-has-77-billion-transistors-64gb-hbm2e/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "57e8O84mpmkrANdOrUl+ehGj46g4cuk4i7Fld12ZqV0gnPc2o/6t1OwBYhGX7KeIOvSP3NYdo7SJJx8px++6b7G/O0XUZGiQcUJd5vZHePNXJ9bTHD0jfeAsVmZvyxIHWm6u0ZKmZqDWpNgCRJ8G4dXkOeGYfK2/Fndmq11EkF4d+FUJHoQW16USp0fx9gmrjp0swagx+8+K4Nz0a6z6AWY5m6O6jwzBFSZHOf4joCWzqsypGybU6D9UgdvvcwjybdcOTav4q9BcAEJwDDfAFTydi1WOL/6XzRQAIHkigElJMy22Rj5T3cgJVd4KfK901SR3mOaaMBeKL2bh88Qf9LnXpr7cl5btD65iZtmmYcYQcIUZgmywSFTl2Hj486pGxjNWMaF/f7qNaGr6hdzA/njkkKW/PGnk7hnmQEj28lB2PCXbzlshRnYcNLOSIeJ8DnvODfg6dFA5HAtazQRbbjIoLlGnMFijHpFZiS0Y3er7DNp4H4ZbWgXAjbl+zfafAnPgdQ/v1yM+RM8N4FkW/w==;log7z1jocm+mDrhn85txbw=="
 ---

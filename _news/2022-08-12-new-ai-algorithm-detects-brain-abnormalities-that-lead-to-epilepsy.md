@@ -105,6 +105,15 @@ related:
       name: News Medical
       domain: news-medical.net
     quality: 17
+  - title: "AI Algorithm Helps Cure Epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."
+    publishedDateTime: 2022-08-14T17:46:00Z
+    webUrl: "https://www.medindia.net/news/ai-algorithm-helps-cure-epilepsy-208275-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 17
 
 secured: "mY2F6UMX6AQsP0q4WBCfug5G0szHpJHMMA41oPu8imgx51cIEhQBezkzd9/4meGg610+bbSKrJe+vyTv0QGeYCeQuVTiNQlHYyFDX9hqDNIpINETz4f35uluepVEpXEHqKUmz9Pf6GLMul9yCGykpCUJUtYEB+oZieqGjveIbguEa74dko7Nl4mNjQV+G/UAHr9TUU3fyZ1odZPt0KE7eWYrnDiP1LraVdxC2iEUiAxs5FV1q5/lw3fFh9WAE623AI2CtPRua15C2h2VjAwY+7jM0FQzwo8gxYwoWr5nsUJLzEk96YBgoXXzyfPSGDJIDVvQLMVFHQzB533AdDH5zcDzlwmV/Jp6WxqwTBiaFN8=;drzyd5WZZnZALJ9LG1aIgQ=="
 ---
