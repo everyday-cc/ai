@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kiya.ai to celebrate Azadi Kaa Amrit Mahotsav in metaverse on Bharatmeta"
+    excerpt: "Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar based interactions."
+    publishedDateTime: 2022-08-14T06:47:00Z
+    webUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/"
+    ampWebUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/image001.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Future Of Work In The Metaverse"
     excerpt: "The metaverse, by design, was always intended to be more than just another ecosystem of \"virtual reality\"-based applications."
     publishedDateTime: 2022-08-11T01:48:00Z

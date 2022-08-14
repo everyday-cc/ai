@@ -116,7 +116,7 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
-    quality: 5
+    quality: 7
 
 secured: "6lSlwk+2ctvdy+0QM3oo0pIuXEP0qiY3vdmHxbv2mjxg62282QJ2xRluVmNxfBVktc94RcsQIGbOkzxnY7UfwVBTHYWlI/agrAPoHWu+tPw+x5fymqeP1W1/h11kfta+LOJTFL47+ezSly9btoXfCRjO2nj9EgTSJRwhJ/GR0+wfbHxqKLo0Lb+CDspY9dBL3JF6NjnFl/ciEWxEu35Z6lDbE7aVzVkeV0E56tAXsc5ajHiz1Btbip245M9uhk7WwocYUm0j2YI/nzwN/3MLTXpuUehRyX5tt2Ni6xsf7mfp4/6chIPA4TKu4/S5dSwHIAxPFaZqA/mMQ/mEyLI6onaTSeLOVyvHhSKGwKXTBPo=;2b1Ky+CXa8YQ9V3Heznxxg=="
 ---

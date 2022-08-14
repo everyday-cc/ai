@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/penny.jpg"
         width: 992
         height: 683
-        isCached: true
-  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
-    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
-    publishedDateTime: 2022-08-09T14:22:00Z
-    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Pubs are buying facial recognition technology to track and record you"
     excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."

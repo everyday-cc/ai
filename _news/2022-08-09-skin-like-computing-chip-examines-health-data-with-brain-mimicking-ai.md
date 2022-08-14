@@ -9,7 +9,7 @@ ampWebUrl: "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-h
 cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Wearable AI Sensor Supports Personalized Health Data Processing, Analysis"
+    excerpt: "Researchers at the University of Chicago have created a wearable computing chip, which can analyze a person’s health data in real time using artificial intelligence."
+    publishedDateTime: 2022-08-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wearable-ai-sensor-supports-personalized-health-data-processing-analysis"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 58
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2019-09-30-GettyImages-974742772-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
   - title: "How Meta is combatting Apple data limits with ad targeting automation and AI"
     excerpt: "Meta is putting new artificial intelligence and automation into its ad platform, including within shopping campaigns, which is part of the overall strategy to adapt to data changes coming from Apple."
     publishedDateTime: 2022-08-10T18:52:00Z

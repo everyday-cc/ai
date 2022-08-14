@@ -71,20 +71,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Baidu awarded China’s first self-driving taxi licence"
-    excerpt: "Chinese technology giant Baidu said it had been awarded a licence to operate the country’s first fully self-driving taxis after the government relaxed rules which required a backup driver to be ..."
-    publishedDateTime: 2022-08-09T14:32:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-awarded-chinas-first-self-driving-taxi-licence/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
     publishedDateTime: 2022-08-10T11:24:00Z
@@ -105,15 +91,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 34
-  - title: "Baidu bags China's first fully driverless robotaxi licences in two cities"
-    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-09T13:20:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-bags-chinas-first-fully-driverless-robotaxi-licences-in-two-cities-303165"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 33
 
 secured: "TVVTKuvZM5k41PSNGGV0j320ypeL3/iHoz8xFn44lTf2hYf7/PITKyeKqfftHtIP0weW4XXMFqFuFTXiIle0Miwo8Xm/eNgQ7qW1nEyRPDGKP9ORMNpnIPJXpjX2LtVSj38fgW4K9GMQGjM9GZjEs9qwQCTAO46yqt/vsLN+xnzJfrDCHRGNpvDcO6dHnH+Xqk7yewhadvuQexXiQclYB9IxykvZleL0sYl2DgECKD14q8Y0Mtb+83sv5u3Jd4hYvFxgFZUp5so0QaPpve9ykTa7nJ8S7HTqUnWqYWRktOXXqkw7v8l62kXvy1ZsIIJzrosPzybsXnjMjT4wfcEL1aJvTfrtKjCXpVi+JnyzTeZ0TxCyFohEWNwFMCnrT+eti3ROhOxhBl0d0fyXayDHreYFCoo7aEzfSUBSXU4Uj75ZNfyEagzCl58/sRI6/LP31LFTuTX8Y3EGnNXo5pOv8kKi/NN1b/6qulTJiqnz5cV4QizTljxgWnNdVqahcWnvpdHh+6KD/5oTLekwpy+L5Q==;KojptcfT8dYOAIYakhCgLA=="
 ---

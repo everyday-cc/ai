@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 174
+heat: 154
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
         width: 660
         height: 440
         isCached: true
-  - title: "Baidu awarded China’s first self-driving taxi licence"
-    excerpt: "Chinese technology giant Baidu said it had been awarded a licence to operate the country’s first fully self-driving taxis after the government relaxed rules which required a backup driver to be ..."
-    publishedDateTime: 2022-08-09T14:32:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-awarded-chinas-first-self-driving-taxi-licence/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
     publishedDateTime: 2022-08-10T11:24:00Z
@@ -106,15 +92,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 34
-  - title: "Baidu bags China's first fully driverless robotaxi licences in two cities"
-    excerpt: "China search engine giant Baidu Inc said on Monday it has obtained permits to operate fully driverless robotaxi services on open roads from two Chinese cities, the first of their kind in the country."
-    publishedDateTime: 2022-08-09T13:20:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/baidu-bags-chinas-first-fully-driverless-robotaxi-licences-in-two-cities-303165"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 33
 
 secured: "UbhaTNrl8riKVbPG7Z/z8HwJgUJwzofQ7P/OMLoxpCu/X9com84C+UPpofv3m3mP3nLl+gneERDM0cZG7qaUwTGkc9FaHBVh5DqND8SywZDRLeGV9qEI+OmsCMYXMc9qP5jZTVsupJok64fUj6uLSZUXqal/WzWG8nB3YQbvKtvzCpQa9e5nyHvdzpf+YvV1DV1RnZNRIeDccgOaGZ8BnnJVEdNlQg6UR0n+nH14jmwS1+zyUyeoiL5lz0hpgnZ0VPXtflLekCT9rcXDBMAEs2IBXkvksfrkWtAEy2b+EXtZKavWMasCkQ7exhGj/tvPbSVK0KvJZ6pcjmUdmTfqvevjGc9r7dEffILHBW+Khgc=;oyAn+uua+4K++gOjBztc3w=="
 ---

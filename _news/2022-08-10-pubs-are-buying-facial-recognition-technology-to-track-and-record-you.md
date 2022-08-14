@@ -55,20 +55,6 @@ related:
         width: 992
         height: 683
         isCached: true
-  - title: "Customs and Border Patrol Embrace Facial Recognition Technology"
-    excerpt: "Facial recognition software has become the primary biometric technology for border authorities despite concerns about an alleged revolving door between DHS officials and companies that benefit from the surveillance tech contracts."
-    publishedDateTime: 2022-08-09T14:22:00Z
-    webUrl: "https://thecrimereport.org/2022/08/09/customs-and-border-patrol-embrace-facial-recognition-technology/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2016/03/The-Crime-Report-Logo-5_mobile-1.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "LyAvraHBJvDY1lUoEcEEw5lCvEaNteATR7fDEdM6vp943I4e0AqcrmsOxUzk2yDXt96BfLfXqctJNKGRxckAuEfItO5YmIQpCQCsE9jinnjlQtXFy21OfKyH6gvNM8BydvIh881gZWWNd5tCK1IgD11QP44RHqZalxO2sfz0ildzxBkVQ4peq2VHNttsf9lKwpFuihlX0vd9LSRbkt4y6GrCk0t4Ie7pJFgOZFMDB3NJoAxVqsA6QBJSIsoEEMFtaF16ZIR2euYzUwR8agwjm5dxHQVpAWSTYj8IjXxJdmCOdw7xV1bZCfOzQq/LuycxvIe448GvcnOGn+N51FJ175xMxZlVCor1zDsCBMt+YGgdz6Nc3ro23GDUx4i7V1eW7QcV/w5P1KQ7V5XGqSqV1y7biWlUnbwOeXdeN21vbwoXfJRBq/TUzAe7HkxC/m30h7gByjoyZiOTnmASnjlsjE33d4hWoYQbyKxcM4IfsC3jqW3unE2aOocZnp59pGurIgRV+fmKv3XC0rqVatSx9g==;331CRTaHca2CmYPhlgNPUQ=="
 ---

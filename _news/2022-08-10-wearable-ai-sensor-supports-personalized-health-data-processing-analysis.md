@@ -27,63 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Iterable optimizes AI to hyper-personalize marketing and predict future purchases"
-    excerpt: "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication."
-    publishedDateTime: 2022-08-09T15:00:00Z
-    webUrl: "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/"
-    ampWebUrl: "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/"
+  - title: "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI"
+    excerpt: "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details."
+    publishedDateTime: 2022-08-09T15:27:00Z
+    webUrl: "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    ampWebUrl: "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
+    cdnAmpWebUrl: "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 101
+      name: Onlymyhealth
+      domain: onlymyhealth.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/03/personalized_messages-e1659999200762.jpg?w=1200&strip=all"
+      - url: "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Iterable introduces AI and analysis tools"
-    excerpt: "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation."
-    publishedDateTime: 2022-08-12T15:04:00Z
-    webUrl: "https://www.research-live.com/article/news/iterable-introduces-ai-and-predictive-tools/id/5102042"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
+  - title: "How Meta is combatting Apple data limits with ad targeting automation and AI"
+    excerpt: "Meta is putting new artificial intelligence and automation into its ad platform, including within shopping campaigns, which is part of the overall strategy to adapt to data changes coming from Apple."
+    publishedDateTime: 2022-08-10T18:52:00Z
+    webUrl: "https://adage.com/article/digital-marketing-ad-tech-news/how-meta-combatting-apple-data-limits-ad-targeting-automation-and-ai/2425946"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 57
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Iterable introduces AI and analysis tools"
-    excerpt: "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation."
-    publishedDateTime: 2022-08-13T03:53:00Z
-    webUrl: "https://www.research-live.com/article/news/iterable-introduces-ai-optimisation-suite-/id/5102042"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 57
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
-    excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
-    publishedDateTime: 2022-08-10T13:43:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/iterable-introduces-ai-optimization-suite-drives-individualized-communications-for-millions-of-customers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
+      name: Ad Age
+      domain: adage.com
+    quality: 14
 
 secured: "11Trn5IPQJaCiVSKdypOiHC5CsBo2xusV5fPyBvK3108FXlTPQcz2L8QwPjhjbNRGB/CmkTirZ0unlsZ6Sh7+kwqA7pNPaGImDivSAL7sj4P1NZTWDZtlut16ALArN8gzDIgfEqrk51Z5ePqK+8nsKYYmPeK9V6T4HIGSlpOW+20ovFUV5q4QBbAWlPWT/d/6bruvUnD4U4MGplTne6/6D8pPuA7PFSp2Wd/A1oetY348ukQNTbPt++fiNdZ1zm35PW6KnSpaxDMzFdC0/dO6Y9EKAsfJXVC4zFrnAZXBpG3FN5EPsI8UlVdymne3Ix7gjjy7O11wAZtlSd6Q5LCuVIa4uV5fR5qSXYansCIdzc=;ssWYFg9HmBtNZFsu95GIOg=="
 ---

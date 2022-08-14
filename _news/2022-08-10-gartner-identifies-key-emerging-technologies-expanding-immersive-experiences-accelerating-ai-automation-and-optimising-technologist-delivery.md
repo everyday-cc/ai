@@ -26,44 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "U of A integrating artificial intelligence into exoskeleton technology"
-    excerpt: "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology."
-    publishedDateTime: 2022-08-09T14:22:00Z
-    webUrl: "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787"
-    ampWebUrl: "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html"
+  - title: "Worried about facial recognition technology? Pubs, clubs and gaming venues are already using it"
+    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
+    publishedDateTime: 2022-08-11T00:18:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/pubs-facial-recognition-technology/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 61
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 27
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/8/8/2498165/_jcr_content/renditions/videothumbnail.1660054959435.jpg"
-        width: 1020
-        height: 574
-        isCached: true
-  - title: "New AI technology integrates multiple data types to predict cancer outcomes"
-    excerpt: "A new study reveals a proof-of-concept model that uses artificial intelligence (AI) to combine multiple types of data from different sources to predict patient outcomes for 14 different types of cancer."
-    publishedDateTime: 2022-08-11T15:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162144.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
-  - title: "Revolutionizing Food Safety Through the Integration of Biomolecular Engineering, Nanotechnology, and AI"
-    excerpt: "According to the WHO, food safety is key to sustainability and economic security. Yet headlines daily detail the continual occurrences and serious impact of foodborne illness leading to a massive number of deaths and millions in lost work time worldwide annually."
-    publishedDateTime: 2022-08-11T21:44:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-food-safety-nanotechnology-f49f41f64d2467170a29686a60f56824"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 21
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/08/New-Project153-e1660109822320.png"
+        width: 730
+        height: 360
         isCached: true
 
 secured: "JE0/N8O7kFE8w2xdeaz7IGfGlP6FtRCbqwHCElg6O0rHnZJHaKMaVD1uWTilj8onf4DY9OYARsITfa8VtZLR6j6g2+WFXhymsyDzWjoLXQv+xSfeImaU0YU7+/xrh1lD8nfreQWL9XkB3GlQQFZR2EUF8Emvx0H/f+yjp+by8ya0YZjSnctslU4GFicQeCJUaLY6lhxEFdOfxuPv0GyvaHb9cS4TWCYntDaVbuTxlIyPQmMtuGKzpJSnoy8C8LBFmqi3LHxp1NIFtB8NCjVMLorf32QpVfKMClFwCKPSSNmU0eV+ubPx3jULmFBbAtM0P12IwVdG8xeNvyAmcXnEfQRbpcBjOKwfMq6dEAlBEqY=;KgbpwDsGmuCIW8OEbgIaug=="

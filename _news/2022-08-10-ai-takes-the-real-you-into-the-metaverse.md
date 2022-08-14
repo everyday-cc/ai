@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idsr3i?now=true"
 webUrl: "https://www.reuters.com/video/watch/idsr3i?now=true"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     quality: 59
     images:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/metaverse-virtual-love-collage.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kiya.ai to celebrate Azadi Kaa Amrit Mahotsav in metaverse on Bharatmeta"
+    excerpt: "Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar based interactions."
+    publishedDateTime: 2022-08-14T06:47:00Z
+    webUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/"
+    ampWebUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/image001.jpg"
         width: 1200
         height: 675
         isCached: true

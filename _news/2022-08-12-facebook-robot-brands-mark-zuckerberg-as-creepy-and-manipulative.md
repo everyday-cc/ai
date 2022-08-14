@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerber
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article26125971.ece/ALTERNATES/s1200/0_GettyImages-961785536.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "‘Too Creepy And Manipulative’: Meta AI Chatbot on Mark Zuckerberg. What It Said About Donald Trump"
-    excerpt: "According to Meta, BlenderBot 3 is designed to improve its conversational skills and safety through feedback from people who chat with it, focusing on helpful feedback while avoiding learning from unhelpful or dangerous responses."
-    publishedDateTime: 2022-08-09T13:18:00Z
-    webUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/"
-    ampWebUrl: "https://www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/too-creepy-and-manipulative-meta-ai-chatbot-on-mark-zuckerberg-heres-what-it-said-about-trump-5563561/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 45
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2022/08/9821ae2f64fe1e0dfea0fe0c41b9015b-1.jpg"
-        width: 304
-        height: 288
         isCached: true
   - title: "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president"
     excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot"

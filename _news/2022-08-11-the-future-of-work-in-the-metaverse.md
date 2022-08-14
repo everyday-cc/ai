@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kiya.ai to celebrate Azadi Kaa Amrit Mahotsav in metaverse on Bharatmeta"
+    excerpt: "Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar based interactions."
+    publishedDateTime: 2022-08-14T06:47:00Z
+    webUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/"
+    ampWebUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 56
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/image001.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Could Become Google of the Metaverse with AI Search Engine"
     excerpt: "Nvidia is showing signs that it wants to be the Google of the next-generation 3D Internet, which is being projected as an upgrade from the current 2D"
     publishedDateTime: 2022-08-09T17:00:00Z

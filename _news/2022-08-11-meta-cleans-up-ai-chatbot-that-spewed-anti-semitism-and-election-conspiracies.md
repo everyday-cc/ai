@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/10/meta-cleans-up-ai-chatbot-that-spewed-anti-semitism-conspiracies/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
-    excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
-    publishedDateTime: 2022-08-09T14:18:00Z
-    webUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357"
-    ampWebUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 43
-    images:
-      - url: "https://i2-prod.buzz.ie/incoming/article26660675.ece/ALTERNATES/s1200/1_GettyImages-1182969866.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta’s AI chatbot repeats election and anti-Semitic conspiracies"
     excerpt: "Other conversations showed the chatbot repeating conspiracy theories.” —"
     publishedDateTime: 2022-08-09T21:16:00Z

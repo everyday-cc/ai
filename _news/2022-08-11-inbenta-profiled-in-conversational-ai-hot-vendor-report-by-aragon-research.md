@@ -20,21 +20,14 @@ topics:
 
 related:
   - title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-    excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
-    publishedDateTime: 2022-08-12T17:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28477798"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798"
+    excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
+    publishedDateTime: 2022-08-12T19:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
 
 secured: "z6lDVss4mxl8JULUwRtRxYsZ3zfNRk8kN8ovUb0eUXNkVsOhjtyL0v0n7l2HKxW+E43e2A8axqGPAtnSskPcVA6CRhNk427gA3B7Va+nQ2vPuqoMyH5t+V/g14x/iW52PDcnrIHD1TQIdeh3sVOHnWv1EFddz2hQ+fsj99VAzosWMcqSlSD63u2K6PzOzcXFqubVpM+x+O2lSiZxFydTNHPs3bzpWXnLs8qiud3c+DBa5+Zj4Nd+KUdEgfMvcAtpS+LbYa3xYokvS0yX6g+GZqVaCS0rTElECmF+4+RHJAFsi9d+KuAhd0kiA43axOJzkxnNG45VRJlEhtM2b4awVIOgU9f25s9l/RFbdmFxvx8=;0P+7VAgnPH1D263MSbQBAQ=="
 ---

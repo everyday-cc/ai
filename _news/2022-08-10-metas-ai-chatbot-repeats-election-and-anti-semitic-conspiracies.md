@@ -43,22 +43,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Meta's just-launched AI chatbot is already peddling anti-Semitic and Trump-related conspiracy theories"
-    excerpt: "BlenderBot 3 was released to US users on Friday and while some of the bot's answers were funny, others were more dangerous"
-    publishedDateTime: 2022-08-09T14:18:00Z
-    webUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357"
-    ampWebUrl: "https://www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
-    cdnAmpWebUrl: "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/world-news/meta-ai-bot-conspiracy-theories-27697357.amp"
-    type: article
-    provider:
-      name: buzz.ie
-      domain: buzz.ie
-    quality: 43
-    images:
-      - url: "https://i2-prod.buzz.ie/incoming/article26660675.ece/ALTERNATES/s1200/1_GettyImages-1182969866.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "miTqH2lEd5R36VDHgAdZICVbpwx9rMfnG1ANeSB1IWL8DhjCT80OuSpLyRDZyr3q4AU0Kv6E17LSsq6bKGv4ZxbdJIknq5piqWi+rFHw0RCuRA20ykHsgJB+BAuep6YIaSDtU3kTXBCDIQyzg5EbtuScmc19ilSTWeUoEnw4LzzvJUsexZkU1Pa2hOkBa/vPVDwAluEtStmKqBRdU9uhXVwxVsfBZrCsl9UuQMnfMun9nJpaqm4f3XzpYf74ZwN5d0l+miQxX6ZDG8hk+8v6XFUAoCemxynfZtvroDieOg/ki0i866JMqMfbWUH9FV/5xqUpe3s6Zzte+1oXxChnql4ChGjhUbr/4hNAXoqMkQM=;ALzZwQVpwivMUCOs3DUbuA=="
 ---
