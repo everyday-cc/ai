@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston"
-publishedDateTime: 2022-08-12T11:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
-webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
+publishedDateTime: 2022-08-12T09:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics"
@@ -147,7 +149,16 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
+  - title: "Hyundai to pour $400 million into artificial-intelligence foundation in Kendall Square"
+    excerpt: "The Boston Dynamics AI Institute, named for the robotics company Hyundai is the majority owner of, has set up shop on Broadway. Read more."
+    publishedDateTime: 2022-08-14T16:09:00Z
+    webUrl: "https://universalhub.com/2022/hyundai-pour-400-million-artificial-intelligence"
+    type: article
+    provider:
+      name: Universal Hub
+      domain: universalhub.com
+    quality: 11
 
-secured: "0EjRUIypH0qZYjuF/e0luyH5OkdyLxwW+r8DZ8afGNFh5W7fV5do+cp14KP3/yw21x1c0J5egxwzvrZNqBGn3buyJz8kR8H8YNhu9V5IILlT8OPD98H3xwF3p2eANweSIzDsSQGcJIkVSobrtyoTe2BROwDWc0sI+oMadZgIX/LPzZgzkqqQjEn33Bk8yRZm5wq3SR4R35/YTt0xYluHauW8B0+7+m23lW5jd4QlwPTt94MIUbvfmABCi6og1f4E6EIPujG7/7FY7zvAd6jeIyEdlPSMPC/8fzBxL5+lUK+0lpeUHsL+yhpVMpIb6fku0ug4akBVvTCfE7fAQ5HvYt/lSipwM7JhMLl46L/1KBM=;iARSp8GuL6ILEQaQ2MfDWg=="
+secured: "BIOh+AFEHmTj9iluYZ9e2Umff2yTduGvquUAGF67qdD+/wdGYe+jfPskNm0VEWlta41o2ndSD/hRpdlmfWMz9ujpcoiglGsyj/jBZgeXGIeIRUCFgYBY1E9dI9XAxum4WeFnhNCa6AUj4JpldEL8FH9GnqWS5ggxji8uc6MysrT3b5mUiXlIQtW5FluxRYfDe2K5pmhf09zrM7z+3687cEMpm4DrwrBFODXMKU6gIHGke/HU+jEyvIwQJxp5Q7yNyyo8nuHDi7ptlrFgCf1nlakOwZnA/VM0LoY1ujWWJurjAR7TF8FY8x06RgR0GaabjylnxHVHXe/iTmR8J+XHFCcKotwj0PvzltRUuKvAmmQ=;MJGgnYK5CzrN1Gb2kktCOw=="
 ---
 

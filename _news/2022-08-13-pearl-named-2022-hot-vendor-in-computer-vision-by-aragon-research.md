@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
-publishedDateTime: 2022-08-12T17:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
+publishedDateTime: 2022-08-12T19:28:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
@@ -29,6 +29,6 @@ related:
       domain: mobilitytechzone.com
     quality: 16
 
-secured: "cmKzXUCXg/IQPNckexjWJQ5EZdriQ1RhqgAGkK2vwquq1CWbPZlEM//SZXjOAV54pL+W9Lk8t4J3rHKdTbRC4lqwoF1XOlTtASoIL6qXRXXkjMFO4lnZK03Q1BRNdUByyurIQ238A0xKrgligbgeR2AJ/10tQxwB6kOqi3P1NaA8FZNe/caMEImd/0whn2RABgt9tOH4RYOvhLWfHt1tCov3/ceCa6USpYhy2zRoP++hfrzIwW9yQI2oDeAW0bkYXb+k5lcHbFGqY7+PSuUCBm89nLlWpjCkKuhcqSRp+Hj33MGeG5gMc0Qv6Agm/JpgS0nQnH8I4x2s3O+b2x03VxWe5eATAnqJyBZo/cpqX0s=;qZekWiU++qCJt+c4ktvsag=="
+secured: "PAH7SRPUJmErGEhTdnBJBe902px1aGu0+vdhT0oBHhDwPN+xX8GUe0o2MXPb2gH6dIlOYhMCpiQ0I94oeFXoUoaOoBsQMFaWwBFibPi4+iRezuUn40w+XdwiLV60fsPq+eOj+M5ACsz1DdVOA/O1UG6ZUu2cG3zqrKD/StEX6CB5xf8Z9K7Jmo0b/vVlPaoNi8hedCi2dmrccj8ICGwJydfvTDOZhxB2oo+zXqxWF6wQPY6E3G7ng9jOGqlZ+oArUtcdNP5eo0bh1MwrryvFjBlJ6yft3S9ArccwynmuDH8ZHPUOQuT47LnFgsHZqJzWHpYJ6PtU++uQqjNB/KagcFZpdri0Qxn099FCHV1rsd8=;9LMbazE25nq7gPQ9FylhpA=="
 ---
 

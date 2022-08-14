@@ -7,7 +7,7 @@ originalUrl: "https://www.massdevice.com/avenda-fda-ide-ai-prostate-cancer-thera
 webUrl: "https://www.massdevice.com/avenda-fda-ide-ai-prostate-cancer-therapy/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "FDA advances AI-enhanced tech for prostate diagnosis and treatment"
-    excerpt: "Recent U.S. FDA actions could transform decades of prostate cancer care. Two companies focused on prostate cancer received good news from the FDA for their artificial intelligence (AI)-driven software."
-    publishedDateTime: 2022-08-09T23:31:00Z
-    webUrl: "https://www.bioworld.com/articles/521460-fda-advances-ai-enhanced-tech-for-prostate-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 37
-    images:
-      - url: "https://www.bioworld.com/ext/resources/BMT-source/2022/Man-MRI-prostate.png?height=635&t=1660081706&width=1200"
-        width: 847
-        height: 635
-        isCached: true
 
 secured: "BxAVZVyAyGaA4FLVM/FtY2olFM1CnayBImspx4hnKw42arQgJNZYRZySPrRQMlwjhuBqYE+S+Uhx3h7VDBoVh2ZILDGGNmfPqGOGKU+0zgyk6pr/3XMOJpwUldMvtD1XoUelEy2HcKsx7SDuMeraoi/Slog2zq5Q5QRULkuGju25Pr8DQOPV+326olvy5s+yHtG9Yk/DFBZlSlbaoi+fzwCQzbBsIKt7BqbYxstrtk41Z+YL7MWoCglKNiRcLDCAwlmyLsV4/STgE/o16LaYRhtvpDdtj9qE5mLGNcc9NfAM2l5ENqQn7Sd9ah46hLJ5Q26vrPgQokXLZNc/tO4vJG8+uRnkajnxZtftEDpxC7xLYBLNdopxEolHgiZIUORFucB3BFNrguRa8s9OOvDWCJpIB+rdPNepLplSjaDBS2csLN8OvnsM666XpzJ62Hx0O2zNmNbxhDQ9YjEVOlm4OtGiXKHXxtVOEmg/GMKyabPVxTEEEcFaoRyGDYgtm25iysCnJSKY0HSNDXCcWSRhnw==;kTmHLH2nRTGi0OK8mqJyLQ=="
 ---

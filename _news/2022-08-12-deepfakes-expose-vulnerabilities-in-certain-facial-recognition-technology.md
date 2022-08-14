@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/penny.jpg"
         width: 992
         height: 683
-        isCached: true
-  - title: "Pubs are buying facial recognition technology to track and record you"
-    excerpt: "Facial recognition can be used to identify patrons, track their movements and even record their emotions, according to companies advertising to gambling venues."
-    publishedDateTime: 2022-08-09T23:51:00Z
-    webUrl: "https://www.crikey.com.au/2022/08/10/pubs-facial-recognition-surveillance/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 39
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project153.png"
-        width: 740
-        height: 400
         isCached: true
 
 secured: "ZtTuSJMqXjncEr9k6aAB9riaLCaaGWeOto94qDcsuqi6zFBapV8IX+dk6TPz8DMXxH8cFdyhC4PB+o6YcwtYDSsmCZ42XE2D2Ng5zwIiC/c6mz9n9mg1oprtfS7n3hKgkA2C2U12I2gHnLPr/Z8xIihIvM06kfIFh45nStxdKpHs9vfVgAoTwQoQn7UOSLXLf++R7/QxpFAdlSl139RXC/XGad4ObcBbtPbAWbJWByKUhyKeSRdecS9UtbgjVw9mC+lYTKJ/c+LXvwzEciPDv0fnkzrJdysz2X12WAY3/XMHFO93u+60ApOdCwUd7vnWa64Ju2+OL+UXbfo0WcT+A3rvw9ZDpgeXpcHqFB7oSfl5iieMbxwpl46cXAxzI/gk8v3mnTubMp9rYyh5A5lrTyNdRwFb5VDswfLyH5pW9tppqmF0ZlxNpMxY0vKQB/i5JPCmlcPtBeGtYbHGCI8wZQhNghB/ocE1KbfiJFaMdJdIYjq6SSKcUnOQD/qtVX+Zf2nCuG4ji3yJSp3NJN1IBw==;HQNebybQkIKTNqQ4qKuioQ=="

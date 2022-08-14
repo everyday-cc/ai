@@ -58,15 +58,6 @@ related:
         width: 640
         height: 460
         isCached: true
-  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston"
-    publishedDateTime: 2022-08-12T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Boston Dynamics launching $400 million AI and robotics research center in Kendall"
     excerpt: "Robotics maker Boston Dynamics and its owner, Hyundai Motor group, on Friday announced they were investing $400 million to create a Cambridge. The new center, called the Boston Dynamics AI Institute,"
     publishedDateTime: 2022-08-12T14:30:00Z
@@ -80,6 +71,20 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/UvZhxqttvBn_Kv-paJCYFNulnTY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/F3CC5SPSUA3SN7LQABOJGBRXZ4.jpg"
         width: 506
         height: 337
+        isCached: true
+  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
+    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
+    publishedDateTime: 2022-08-12T09:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 59
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Hyundai to spend $424 mn to build AI research centre in US"
     excerpt: "As a component of the arrangement, Hyundai said it has as of late gained 42dot, a Seoul-based independent driving programming and portability stage startup, for 274.6 billion won ($211.1 million)."
@@ -145,6 +150,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
+  - title: "Hyundai to pour $400 million into artificial-intelligence foundation in Kendall Square"
+    excerpt: "The Boston Dynamics AI Institute, named for the robotics company Hyundai is the majority owner of, has set up shop on Broadway. Read more."
+    publishedDateTime: 2022-08-14T16:09:00Z
+    webUrl: "https://universalhub.com/2022/hyundai-pour-400-million-artificial-intelligence"
+    type: article
+    provider:
+      name: Universal Hub
+      domain: universalhub.com
+    quality: 11
 
 secured: "mqjr/SS0VGCQshFRlq2TVc2JSqoqRpzNY4ghZgWRiNx4A3MZCYsvoR6/DPzDLClmz/tVPUaH1qgh+3ndfF1DGfsm2fQbAcPPVQWaPU/17mPPOxb1Nr0Z96mvNmOMUhk7SgApPA2/u6D9UxxydniIBkMvbg7LA5t8Y3Cr72eEkJxUIzgGCbJZacvtwfPEn0sh6otdauotzehF/OAV3cbHOSAgXyDmcVMjvg6+cvRMEgqxHCDT/Aux6fCtcDWh9edo7c3TPh6/hhT/U/9X8JJxdqvhpGPed3lMg5gkBk0mAxjpr2SL1fOYXPHuxKsQ6XH3Jk51svG8HFjMqr6hB0XDcqsODy9hKjvZMG8ea5q30BCysxeGo5bDGhWgDQafd5GECVdkSMDtPrdHcjZFjRBSm2Ti5t6VNalFZ/C5GfgEIMCUFrtb/88PQe6P8NGIrx/XEHz6UnCHl2GYE6uZbaVQJNnV8X7kMN513le4CJGxw8YOufLTsQyM4AKUts05U7osXqHxnAH9DDk+aR/x+wCqsw==;S45UsoaKaN5EfGrhKB2BGw=="
 ---
