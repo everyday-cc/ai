@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
+      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
+      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-cerebras-just-built-a-big-chip-that-could-democratize-ai.md",
       "title": "Cerebras just built a big chip that could democratize AI",
       "excerpt": "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy.",
@@ -1317,50 +1370,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-mit-built-a-new-reconfigurable-ai-chip-that-can-reduce-electronic-waste.md",
-      "title": "MIT built a new reconfigurable AI chip that can reduce electronic waste",
-      "excerpt": "Is this the end of e-waste? MIT engineers have designed a LEGO-like stackable, reconfigurable AI chip that can be snapped onto a device's internal chip.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/mit-reconfigurable-ai-chip",
-      "originalUrl": "https://interestingengineering.com/mit-reconfigurable-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/r1OrrxbEOn/sizes/untitled-1-26_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/mit-reconfigurable-ai-chip",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/mit-reconfigurable-ai-chip",
-      "publishedDateTime": "2022-06-13T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

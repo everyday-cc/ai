@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Artificial Intelligence In Fintech Market Report 2022:"
+    excerpt: "The Europe Artificial Intelligence In Fintech Market is expected to witness market growth of 16.5% CAGR during the forecast period (2022-2028). The market is being driven by the growing need for process automation among financial institutions."
+    publishedDateTime: 2022-08-09T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-europe-artificial-intelligence-fintech-market-report-2022-process-/2022/08/09/9653030.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "Ci6TG36NxLJ+1M/ou7U7MvDFD4RZDqeOhfFCnSpgAoTL92Y/oFIBgt/V57JlrsVmjW64eOv/XxDjLXx1RkOcfGl5+BbA9K8//UWFirTS4xdWjbyRAhez+gVWaFvv2wohx4Poxe/APwLm3uHosoSn+ghCG0/RGc5/J+N16z9I1d55GNKlcEDjr0tDbN9NM/DouK0TW2Nvqx8dASRnngxKoMSJsp+oUFiXdBEpsAnqrf9/5XMA7Q95K5jSz6AzFcQxnpRtCgmTQW1nkvozicGNhOyHmvZhyRwZkYvDsCWTzuCXZP+5Y4izSwClg4McHERqZutP6ZPB08ptqAQHUZ62fFRpJjc8aJBsKxaTrS/S8y4=;WLlIDMbZkmY52I7jSMtagA=="
 ---

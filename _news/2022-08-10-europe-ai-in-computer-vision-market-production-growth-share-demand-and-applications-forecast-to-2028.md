@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Artificial Intelligence In Fintech Market Report 2022:"
+    excerpt: "The Europe Artificial Intelligence In Fintech Market is expected to witness market growth of 16.5% CAGR during the forecast period (2022-2028). The market is being driven by the growing need for process automation among financial institutions."
+    publishedDateTime: 2022-08-09T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-europe-artificial-intelligence-fintech-market-report-2022-process-/2022/08/09/9653030.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
     excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
     publishedDateTime: 2022-08-09T12:42:00Z

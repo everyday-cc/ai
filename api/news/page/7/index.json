@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise.md",
+      "title": "Stretching May Help Slow Cognitive Decline as Well as Aerobic Exercise",
+      "excerpt": "Share on Pinterest New research suggests that stretching and balancing exercises may also be able to help slow the speed of mild cognitive decline. Sergey Narevskih/Stocksy New data suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "originalUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/08/older-female-stretching-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
       "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
       "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
@@ -230,19 +326,19 @@
     {
       "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
       "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Computer vision – the use of AI algorithms to understand, analyze, and reconstruct visual scenes from image or video content – is commonly associated with self-driving cars and security ...",
+      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
+      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -250,14 +346,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28357613",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28357613",
-      "publishedDateTime": "2022-08-04T08:09:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -266,8 +371,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1055,100 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
-      "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
-      "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "originalUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Cera-frontline-2.jpg?w=799",
-          "width": 799,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
-      "publishedDateTime": "2022-08-03T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-regular-exercise-program-may-stall-cognitive-decline.md",
-      "title": "Regular Exercise Program May Stall Cognitive Decline",
-      "excerpt": "Sedentary older adults with amnestic mild cognitive impairment who engaged in regular exercise for a year maintained their cognition without decline, topline data from the EXERT trial showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/100xxx/100054.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

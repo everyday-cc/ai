@@ -57,6 +57,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Call Center AI Market is Predicted to Reach to US$ 6 Billion in 2032 | Future Market Insights, Inc."
+    excerpt: "IBM and Regions Bank Corporation (US) teamed up in April 2019 to offer IBM Watson AI technology to help improve customer service and aid bankers in their daily duties. Regions Bank uses Watson ..."
+    publishedDateTime: 2022-08-12T06:02:00Z
+    webUrl: "https://www.digitaljournal.com/pr/call-center-ai-market-is-predicted-to-reach-to-us-6-billion-in-2032-future-market-insights-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 25
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "uACtoc/bvM7dHHh9BoHnQbxq1AKX5niPlD3sZSzEcEMLphfgxloPcaSAEDezEjB6oYiEqq1Mgk7plJqaHULN9SPnliqjFcdvThgOIjqwyBAucfOpo0J+wPfJBXVMrcjvYusflsZ00JLc7nIGOIq7lNxanyFqjZCdEjDlRVRyCqOaVZNhc0PRpnDhVz0NCZzsuLoQ4BiAhwwytRXa3piTP2sW4CroV4p11h0X4vAiZLxoe01vz283Lnvr2j5mO+QX4EKD0Z/AwmSTpCGkbPrItz6O/9wzJSJwAqRM+IojQvAbTA6UkJHXKXorQuhOOgWcRBMf28KeYw60+PX5ONaNDhk9Pem/aqdbRiUqOOYn0ew=;N1v10/x/Tod7A8Nv9zE9XA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.airforcetimes.com/news/burn-pits/2022/08/09/burn-pits-
 webUrl: "https://www.airforcetimes.com/news/burn-pits/2022/08/09/burn-pits-recognition-for-veterans-took-decade-of-struggle/?contentFeatureId=f0fmoahPVC2AbfL-2-1-8&contentQuery={\"section\"%3A\"%2Fhome\"%2C\"exclude\"%3A\"\"%2C\"from\"%3A5%2C\"size\"%3A10}"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Burn pits recognition for veterans took decade of struggle"
-    excerpt: "President Joe Biden is set to sign into law a bill that aims to help military veterans exposed to toxic burn pits"
-    publishedDateTime: 2022-08-09T07:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/burn-pits-recognition-veterans-decade-struggle-88125677"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/burn-pits-recognition-veterans-decade-struggle-88125677"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/burn-pits-recognition-veterans-decade-struggle-88125677"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_da85858677b34a629a8bf6c0bb66bd72_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Burn pits recognition for veterans took decade of struggle"
     excerpt: "President Joe Biden is scheduled to sign the bill boosting health and disability benefits for veterans into law on Wednesday."
     publishedDateTime: 2022-08-09T19:46:00Z

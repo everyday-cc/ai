@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-cus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 636
     isCached: true
+
+related:
+  - title: "THE PROACTIVE REVOLUTION: How Artificial Intelligence is Driving the Transformation of Customer Experience"
+    excerpt: "Artificial Intelligence (AI) and machine learning (ML) lead the transformation of robotic exchanges to smart conversations between humans and computers. While the first wave of conversational AI chatbots lacked real-world natural language processing (NLP) and rendered them ineffective,"
+    publishedDateTime: 2022-08-13T00:37:00Z
+    webUrl: "https://www.destinationcrm.com/ReportsandResearch/12070-THE-PROACTIVE-REVOLUTION-How-Artificial-Intelligence-is-Driving-the-Transformation-of-Customer-Experience.htm"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 19
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147361-Ebook_The-Proactive-Revolution_FINAL-1-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
 
 secured: "S1u0AW6iRUZyi8s70yTRMfHwo9isEeK+VfxBAZrAZ/jOT6Nb53ZG3Yt8do+pTfGhwdyLZWUAww8hYSAjlZbm52YIYRwbfye89hVM7/Sm5pTzTx3YFz2RAUn/Bh61zKPbX38gtgVEdFUT4+qWhxpERyMGV47t47laXKg886n+akgub4xNKQ2O4j7/ecw9TH1wLvln+BeDc8YqO1cN2ZIufohT99wazNyUTdU6eNvZK29pkMN9D6AE1mJIhByX2lFXfFyuf5FgND8PB7RL2H9wT18CehoDd4aITZcCIMlJDo/o49pzq6AwZdnG3Brg2TU7514B1ZqfdUyqbz/Atx3VRGOldqN25Wpj082Kuc+6Q1Uh/GR68M1+kJAyRuGa4T9N5+YURLBAM6xlKxc4t9trtxh8wG2nPdxtH/UEixNJ7lOn5HBSIkBFn1zY50fDwjVcMB+iTvj6V5fDkXMPCtWLJ6qu3mT6AVPBW6darm1NVawrVHPFzst1V2ZnWvNDZXyO1ebleYhNuDgpR2BMtnwXGw==;AYUV/+lHtGTHdWgMhmKRGg=="
 ---

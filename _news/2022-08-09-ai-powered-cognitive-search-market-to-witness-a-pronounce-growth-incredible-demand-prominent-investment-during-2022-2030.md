@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-sea
 webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-to-witness-a-pronounce-growth-incredible-demand-prominent-investment-during-2022-2030-2022-08-09"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -29,56 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "US $ 209.91 billion Global Machine Learning Market During 2022-2029"
-    excerpt: "Fortune Business Insights says that the market value stood at US $ 15.44 billion in 2021. The market is expected to grow at a CAGR of 38.8% in the forecast period (2022-2029). The growth rate of the Global Machine Learning Market is 38."
-    publishedDateTime: 2022-08-09T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09"
+  - title: "Fintech Market Size : Key Facts, Dynamics, Segments and Forecast Predictions Presented 2022-2031"
+    excerpt: "Global fintech market was valued USD 5504.13 Billion and is expected to grow at CAGR of 23.58% during the forecast period. The key factor for the growth of the fintech market includes high investment in technology-based solutions by banks and firms."
+    publishedDateTime: 2022-08-11T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
-    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
-    publishedDateTime: 2022-08-12T17:27:00Z
-    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+  - title: "Speech and Voice Recognition Market growth size is estimated to grow at incredible CAGR till 2031 | Apple (US), Microsoft (US), Amazon (US)"
+    excerpt: "Scope of Speech and Voice Recognition Market The Global Speech and Voice Recognition Market 2031 Industry Report is"
+    publishedDateTime: 2022-08-09T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-size-is-estimated-to-grow-at-incredible-cagr-till-2031-apple-us-microsoft-us-amazon-us-2022-08-09"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
-        width: 531
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence In Fintech Market Report 2022:"
-    excerpt: "The Europe Artificial Intelligence In Fintech Market is expected to witness market growth of 16.5% CAGR during the forecast period (2022-2028). The market is being driven by the growing need for process automation among financial institutions."
-    publishedDateTime: 2022-08-09T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-europe-artificial-intelligence-fintech-market-report-2022-process-/2022/08/09/9653030.htm"
+  - title: "Weather Forecasting Services Market Worth $4.0 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global weather forecasting services market size is expected to reach USD 4.0 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected"
+    publishedDateTime: 2022-08-09T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28420450/weather-forecasting-services-market-worth-4-0-billion-by-2030-grand-view-research-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28420450"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28420450"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Artificial Neural Network Market Growth – CAGR of 18.7% During Forecast Period 2022-2030 | Google LLC, International Business Machines Corporation,"
-    excerpt: "The global Artificial Neural Network (ANN) market size was USD 160.8 Million in 2021 and register a revenue CAGR of 18.7% over the forecast period, according to a latest analysis by Emergen ..."
-    publishedDateTime: 2022-08-10T12:56:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-neural-network-market-growth-cagr-of-18-7-during-forecast-period-2022-2030-google-llc-international-business-machines-corporation"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 1
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "qhkHVvC7+RndQkZUCGEDhgthInUWchlGGWnOGdeql2G46+hISrsrnLkghxv6gK8SSlurSjIosZFu2IbnbmSPlUmhDSI7KKphy/vGeMw7BzoaZmXej72mOwrLP55RPBukzualohycE7Xk7G9ByrzIZ+vyaVjg+wSCf7kxu9owEsw4NOdU68tjguhEx9LL21sWttsJiXl8bfb3Lm3t38ckAexTzVZadt1jJI2M/FD4nQEorp5o1YNn7KiYVMmzkqOqm7KDIZBeLezhCvWBBCUa/h7EuXp1y5EkfbFGTqPJR347ksBMT0QvPBt1Ce+C9amiNws2SIwYfhw5xNqVz/goyTWFrCXn+E4cjbN5SyR1DrE=;Hx8khrmQzUaqAB/3VU93nA=="

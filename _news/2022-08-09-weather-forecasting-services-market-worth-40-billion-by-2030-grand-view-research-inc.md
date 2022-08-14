@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28420450"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28420450"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-    publishedDateTime: 2022-08-10T14:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+  - title: "AI-Powered Cognitive Search Market To Witness A Pronounce Growth, Incredible Demand, Prominent Investment During 2022-2030"
+    excerpt: "The global AI-Powered Cognitive Search Market is expected to reach US$ Million by 2027, with a CAGR of $$% from 2020 to 2027, based on Report Ocean newly published report. The demand for Internet-of-Things (IoT) technology and services are growing globally,"
+    publishedDateTime: 2022-08-09T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-to-witness-a-pronounce-growth-incredible-demand-prominent-investment-during-2022-2030-2022-08-09"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech Market Size : Key Facts, Dynamics, Segments and Forecast Predictions Presented 2022-2031"
+    excerpt: "Global fintech market was valued USD 5504.13 Billion and is expected to grow at CAGR of 23.58% during the forecast period. The key factor for the growth of the fintech market includes high investment in technology-based solutions by banks and firms."
+    publishedDateTime: 2022-08-11T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market growth size is estimated to grow at incredible CAGR till 2031 | Apple (US), Microsoft (US), Amazon (US)"
+    excerpt: "Scope of Speech and Voice Recognition Market The Global Speech and Voice Recognition Market 2031 Industry Report is"
+    publishedDateTime: 2022-08-09T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-size-is-estimated-to-grow-at-incredible-cagr-till-2031-apple-us-microsoft-us-amazon-us-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2ufY/EAyAti2Nia0jTYZqvtB7F9aQSjiIPNU7QD3x3/lJD0f7imOWJHZcAU1XT5efd1XOXAI6E/lIrHa06HS4NtKbzdi5xMt5ccl9YcLq708yxC/16KrSbQxG6HI/Bdn1Xp9ckp2gHtOHq1txIk7AsfeXX2zfPC8ejC2EPfHFlDDK83u8Kd8ya6H5dRlb2rdPZNCXXF7OwCSpmAM6Ruq1q9S0vZuXwCz9T5FllDoXhW3QCTEykzi8vavqmHTqtAGGjQYVc/bYl0zmzdZen9NQcT+Qx2q/xp34OyUzgx0T4k2YK2QyN9t7rgzbvrYM+C4pO5KZGlEaZr2uBSZoyP97/4LGgO721dXnKbiOGA+3eU=;uLK+1Wi0Yy3mu69fDLVjYQ=="

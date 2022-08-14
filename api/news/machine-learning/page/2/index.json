@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-03-contentgine-releases-new-ai-machine-learning-capabilities-across-cip.md",
-      "title": "Contentgine Releases New AI & Machine Learning Capabilities Across CIP",
-      "excerpt": "Contentgine, a content-based marketing agency, launched new AI and machine learning (ML) capabilities for its Content Indication Platform (CIP), to",
-      "sourceUrl": null,
-      "webUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "originalUrl": "https://demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.demandgenreport.com/media/k2/items/cache/99c309f8b22ccf674ef513c2b1fdd8b5_L.jpg",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "cdnAmpWebUrl": "https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/news-briefs/contentgine-releases-new-ai-machine-learning-capabilities-across-cip/amp",
-      "publishedDateTime": "2022-08-02T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Demand Gen Report",
-        "domain": "demandgenreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-02-deep-learning-ai-without-expert-input.md",
       "title": "Deep Learning: AI Without Expert Input",
       "excerpt": "A leading AI researcher, lecturer and cofounder of several deep learning-based companies. He's the CTO of AI at Nano Dimension. We are used to 20th-century machines that work well for us under ...",
@@ -1426,6 +1383,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
+      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
+      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
+      "publishedDateTime": "2022-07-20T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning"
       ]
     }
   ],

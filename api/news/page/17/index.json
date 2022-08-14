@@ -2,6 +2,102 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-28-announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m.md",
+      "title": "Announcing Android Cloud Gaming and Media Processing and Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M",
+      "excerpt": "Super Micro Computer, Inc. (Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, is announcing future Total IT Solutions for availability with Android Cloud Gaming and Media Processing & Delivery.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/",
+      "originalUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aniportalimages.s3.amazonaws.com/media/details/sanjosecali2807.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/announcing-android-cloud-gaming-and-media-processing-and-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m/1058507/?amp",
+      "publishedDateTime": "2022-07-27T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
+      "title": "GPU as a service market to gain significant momentum across the healthcare sector",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ponyai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china.md",
       "title": "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China",
       "excerpt": "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand.",
@@ -995,92 +1091,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-verify-introduces-facial-recognition-enabled-background-check-service.md",
-      "title": "Verify introduces facial recognition-enabled background check service",
-      "excerpt": "Every single person for whom we demonstrated Verify’s offering was interested in knowing more and stated they had never seen an offering like this before,” explained Verify Founder Michael Doherty. Each individual was shown how uploading a photo (or CCTV camera frame) of a person enables one to find and select a suitable match online and instantly learn the person’s name,",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
-      "originalUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/logo.62e18d444598d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-overview-cloud-as-a-service-in-the-financial-services-sector.md",
-      "title": "Overview: Cloud as a service in the financial services sector",
-      "excerpt": "This has resulted in the integration of financial services, secure communications ... tools like – Artificial intelligence, Machine Learning is defining the way our customer excellence centres ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/Mr.-Madhusudan-Warrier_Head-of-IT_Mirae-Asset.jpg",
-          "width": 1956,
-          "height": 2021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "publishedDateTime": "2022-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

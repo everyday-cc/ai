@@ -2,6 +2,93 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-05-25-automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025.md",
+      "title": "Automotive IoT Market Business Development, Type, Size, Share And Opportunities To 2025",
+      "excerpt": "Snapshot Present-day vehicles are becoming more connected than ever before. The rising level of connectivity in vehicles is",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://transparencymarketgeeks.files.wordpress.com/2022/05/automotive-iot-market.jpg?w=410",
+          "width": 410,
+          "height": 1025,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
+      "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
+      "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "originalUrl": "https://azure.microsoft.com/blog/meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-kao-data-to-host-speechmatics-hpc-and-ai-supercomputer-expanding-deep-learning-capabilities.md",
       "title": "Kao Data to Host Speechmatics' HPC and AI Supercomputer, Expanding Deep Learning Capabilities",
       "excerpt": "Speechmatics' work within artificial intelligence-powered neural networks provides highly accurate speech-to-text to global enterprise businesses.To support its expansion Speechmatics required a specialist,",
@@ -1016,92 +1103,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast.md",
-      "title": "Facial Recognition Market Report 2022-2027: Top Companies, New Technology, Size and Forecast",
-      "excerpt": "According to IMARC Group latest report titled “Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027”, offers a comprehensive analysis of the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
-      "originalUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
-      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
-      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
-      "publishedDateTime": "2022-05-24T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

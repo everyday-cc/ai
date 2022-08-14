@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-03-juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city.md",
+      "title": "Juneau’s first Ukrainian refugees receive special recognition from the city",
+      "excerpt": "The pair, who are the first refugees from the war in Ukraine to seek haven in Juneau, received a special recognition at the beginning of the CBJ Assembly meeting and gave a short speech that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
+      "originalUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.juneauempire.com/wp-content/uploads/2022/08/29955687_web1_Ukraine-JUE-220803-bruh_1-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Juneau Empire",
+        "domain": "juneauempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda.md",
+      "title": "Scale YOLOv5 inference with Amazon SageMaker endpoints and AWS Lambda",
+      "excerpt": "After data scientists carefully come up with a satisfying machine learning (ML) model, the model must be deployed to be easily accessible for inference by other members of the organization. However, deploying models at scale with optimized cost and compute efficiencies can be a daunting and cumbersome",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-yolov5-inference-with-amazon-sagemaker-endpoints-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/22/ML8827_image_01-934x630.png",
+          "width": 934,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T14:11:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-remote-controlled-surgical-robot-to-board-international-space-station.md",
       "title": "Remote-Controlled Surgical Robot to Board International Space Station",
       "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
@@ -1068,84 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
-      "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
-      "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of deep learning hardware technology based on in-memory computing structure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning.md",
-      "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
-      "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

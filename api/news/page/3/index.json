@@ -355,7 +355,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -798,6 +798,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-09-skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai.md",
+      "title": "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI",
+      "excerpt": "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
+      "originalUrl": "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
+      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
+      "publishedDateTime": "2022-08-09T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Onlymyhealth",
+        "domain": "onlymyhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
       "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
       "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
@@ -1060,7 +1103,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1203,58 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-why-devops-needs-a-better-approach-to-cloud-networking.md",
-      "title": "Why devops needs a better approach to cloud networking",
-      "excerpt": "A full-stack networking platform with machine learning, autonomous capabilities, and multicloud support allows devops engineers to focus on what matters most—building applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
-      "originalUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_network_connections_synchronization_thinkstock_584207196_3x2-100740711-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
-      "publishedDateTime": "2022-08-09T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

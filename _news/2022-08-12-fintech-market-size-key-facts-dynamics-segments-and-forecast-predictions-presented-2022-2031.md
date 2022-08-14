@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/fintech-market-size-key-
 webUrl: "https://www.marketwatch.com/press-release/fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-11"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,52 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI-Powered Cognitive Search Market To Witness A Pronounce Growth, Incredible Demand, Prominent Investment During 2022-2030"
+    excerpt: "The global AI-Powered Cognitive Search Market is expected to reach US$ Million by 2027, with a CAGR of $$% from 2020 to 2027, based on Report Ocean newly published report. The demand for Internet-of-Things (IoT) technology and services are growing globally,"
+    publishedDateTime: 2022-08-09T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-to-witness-a-pronounce-growth-incredible-demand-prominent-investment-during-2022-2030-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market growth size is estimated to grow at incredible CAGR till 2031 | Apple (US), Microsoft (US), Amazon (US)"
+    excerpt: "Scope of Speech and Voice Recognition Market The Global Speech and Voice Recognition Market 2031 Industry Report is"
+    publishedDateTime: 2022-08-09T12:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-size-is-estimated-to-grow-at-incredible-cagr-till-2031-apple-us-microsoft-us-amazon-us-2022-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Weather Forecasting Services Market Worth $4.0 Billion by 2030: Grand View Research, Inc."
+    excerpt: "The global weather forecasting services market size is expected to reach USD 4.0 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected"
+    publishedDateTime: 2022-08-09T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28420450/weather-forecasting-services-market-worth-4-0-billion-by-2030-grand-view-research-inc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28420450"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28420450"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://media3.giphy.com/media/rej1HY3HvcniOuVw9p/giphy.gif?cid=790b76113b7b679ec9e7e9853e32b3d27247a002b262f4c0&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "+ezt0jxO7cAhGFhROfqb+urj9M9/m/wveKTcYiada3qwZo8KP8F/MpOlelapMlqRXBpxU9cDXAe3BVT0R/9JF7sZqj94mVjoqfZ7tZNJfE3hArpHuYFB/yn7xH7tGHznBIx5+FtMUU5C4f6Eih1jMIAkwH1409oZQIpfyMYY3gDwFspIKiuKbDkiVjMSXpN4S12QWGG46s4GIQeDdhUp6LRVHN/KUl7sbG1b+OQ2e2S9GLyBBWvuWd2uOP1yBuRhBP/egzutj2cuGZ/ke1gCjVWC2wV3NnBlDzZmmZLz8iBRNaRqtSZw+NBlcVbA2FT8NoCx3hrURycZMHItXQ0Q0NYwJteX5oWaZETBLP3jr/w=;1RtGgKResbi8ZFgFNY3tbQ=="
 ---

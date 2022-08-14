@@ -58,17 +58,6 @@ related:
         width: 361
         height: 585
         isCached: true
-  - title: "Indian Fintech Market To Reach $1tn In AUM, $200 bn In Sales by 2030"
-    excerpt: "The digital lending market, which is expected to grow to $515 billion in book size by 2030, is considered as the driving force that will help Indian fintech market achieve $1 trillion in assets under"
-    publishedDateTime: 2022-08-09T08:01:00Z
-    webUrl: "https://www.india.com/business/indian-fintech-market-to-reach-1tn-in-aum-200-bn-in-sales-by-2030-5562649/"
-    ampWebUrl: "https://www.india.com/business/indian-fintech-market-to-reach-1tn-in-aum-200-bn-in-sales-by-2030-5562649/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/indian-fintech-market-to-reach-1tn-in-aum-200-bn-in-sales-by-2030-5562649/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 41
   - title: "Banks and fintech firms: The symbiotic relationship"
     excerpt: "Customers expect a lot more from their banks today. They anticipate a full digital experience that engages with them on an individual, personalised basis. Fintech firms have excelled in customer experience and are far better at providing tailored products  and services than the banks,"
     publishedDateTime: 2022-08-11T09:11:00Z

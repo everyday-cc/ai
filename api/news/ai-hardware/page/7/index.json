@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-16-intels-beta-gpu-driver-reveals-full-arc-lineup.md",
+      "title": "Intel's beta GPU driver reveals full Arc lineup",
+      "excerpt": "Arc 3, Arc 5, and Arc 7 series GPUs The latest Intel Beta GPU driver pretty much listed the entire Intel Arc GPU lineup. Although it is meant to be used for Arc A350M and A370M mobile GPUs, the Intel Beta 30.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
+      "originalUrl": "https://www.fudzilla.com/news/graphics/54855-intel-s-beta-gpu-driver-reveals-full-arc-lineup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/b6951925c8e044dfddcb62308f409b94_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-brainchip-and-edge-impulse-partner-to-accelerate-aiml-deployments.md",
       "title": "BrainChip and Edge Impulse Partner to Accelerate AI/ML Deployments",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 15, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of ultra-low power neuromorphic AI IP, and Edge Impulse,",
