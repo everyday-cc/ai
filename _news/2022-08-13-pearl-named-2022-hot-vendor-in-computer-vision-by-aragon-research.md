@@ -1,34 +1,20 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
-publishedDateTime: 2022-08-12T19:28:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
+publishedDateTime: 2022-08-12T17:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
-    excerpt: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research. Vendors selected for the \"Hot Vendor\" report are noteworthy, visionary, and innovative. SUNNYVALE, Ca"
-    publishedDateTime: 2022-08-11T08:39:00Z
-    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/08/11/9654326.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 16
-
-secured: "rLbMwB2G8c5gkeCxTQEDE9mIyMWMC2ObDj8wSL0YIlqPY5neKqlyFnxT2dZE58DdDIHHQcPHStflwVas9+pIaASEm1H6gSyV8Si4uddI81NbjH4rGJ65IQgSNOZoWokuZC0u+PKcGYXCv6Z5qyJlJN8UGa4C0Rq9uqOrGkaaQHlwzhbmcrfgTilUEXGyz+wA6BHf4qTL2ZT96RqTAfRZxUj+yjq3YBAxwo4hOdR6IDvjtyf+vAS0LJIYxqMR+P/1iYFCl7Dw1PRcY9srKsuPYhhjHTBTfCzUB/slTBXoE8G8qHHAEkNddOPiP0RG1SUpsvXsjKUg3XLRvbdlnL6n7Fj73MK0RzmVDMkJmEgFTlg=;z60ZJYZTRMfgwxpbRDcALA=="
+secured: "cmKzXUCXg/IQPNckexjWJQ5EZdriQ1RhqgAGkK2vwquq1CWbPZlEM//SZXjOAV54pL+W9Lk8t4J3rHKdTbRC4lqwoF1XOlTtASoIL6qXRXXkjMFO4lnZK03Q1BRNdUByyurIQ238A0xKrgligbgeR2AJ/10tQxwB6kOqi3P1NaA8FZNe/caMEImd/0whn2RABgt9tOH4RYOvhLWfHt1tCov3/ceCa6USpYhy2zRoP++hfrzIwW9yQI2oDeAW0bkYXb+k5lcHbFGqY7+PSuUCBm89nLlWpjCkKuhcqSRp+Hj33MGeG5gMc0Qv6Agm/JpgS0nQnH8I4x2s3O+b2x03VxWe5eATAnqJyBZo/cpqX0s=;qZekWiU++qCJt+c4ktvsag=="
 ---
 

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
@@ -168,6 +169,6 @@ related:
       domain: aol.com
     quality: 15
 
-secured: "anqkfhIPMnXS2sg3Xlf34R1z0FIYm7OeFgVlKX/95D+p1KcGBVCvRbv9k6D8sq14ytFT5EDGZfrgXfyBUXOXaW1uoHXi0rjW58D5u0ggl1QGV/U3PJ0SsxUZ+9haK1kxZXu7BrVzcYdHos3WWW1ODRJVg8x/p/bHp5dkkthT6ldSxyfHRj1t14r4v0p2DqzYr5yJ4X8cssUEdsKgukxhWuZjET2xRCTRYrPzgWGOkNosveAYelhptFcC99EcOM8x3hMl43JVQd8dlAknUD8qNgDovbLP1BKSJQ1qH+gyPsDAsIiK42ZSuRLuMvjd7yhgAnocKKDJmWYp6Ob1PZ5lTYw8PIFwaiywXMUTRluMRGo=;/3ZQh1PIKTFhxZrcDR39hg=="
+secured: "ApwLUutOHtCmgjc08J8spzYfI8GhYD8OeNZK4L1WzGwYgMSg61THXB8BcSgZNG+OJiedPnkvZpTEsGKcg4v5aQxXogtm6D7v8fAXE3ZWtK16DymxQVumr9YQdJNX/YftoQkrqQDvCutN2qkMyQb/BL9u5YHdE/FfgGO/er9P1Bh28A7eJKUdqYOgSK1OAlP2ofbT+IL4RIcbLCic6PutsLG6TZK4LLUjl7k7lQ9Y2hulGF+howwvi3+NXy9SvUurGIZMiygN+8/bhjPW+jwUixQiu3W26CgIBD8pV1Q02DQqSr3p4wy8/beHK95xQR4IiJDX3v635Msu3Abco2oAtI4J1BUBJe1eg0zcjL/TMzp9SbTSDFJLbKoZx/0C6VR9Iu2UszlRWm2xKRp8PmvOPgoc5MVeRYcCulupM4KVSxcr/UtiGeLJWmFKTzdP+k9GZ5Vadd9fdkt3LMWE83EMDDxh7NUoLormCMVCAXNdh61ss/08i6Dt9DSJW5UheR7N2a+7pb/tzLdRqp0tRl8j9g==;9dDGdpktSFDpIFcQ9nqXxQ=="
 ---
 

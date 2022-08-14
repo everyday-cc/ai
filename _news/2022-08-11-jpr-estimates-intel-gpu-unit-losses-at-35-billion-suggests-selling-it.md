@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-11T10:53:00Z
 originalUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it,2.html"
 webUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it,2.html"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
   name: Guru3D.com
@@ -18,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "KtXgbLFJcmLzjj7pMVOVnYi5o874MeV0MMx8/yQoSokokqYu/1J2p1ba2dYTYPaJjgLr0jqXPJyi+OS7GweDcDTKtBRwouk/d7LBUZYku3K2Y/wMN9LdFBiWusaCdz/LbDMGSiHKvM9qQ//jk6tsCoiBCOVH6yIJ62svWinfoApvIEs9+lYSOqnhp5Caq8fpD2ZCmIqdWXsrALqz9JVKOXHz3kYQwFHx1c/ivU1pchAXDWkzwzGt2UwDbmxi/Mi9pF3rXylcyG7OusU6aOcDcrlrWLz/v74ZFdjM8VyRtOttNIq3fVIucPyAXVqFUtRJKPrcmFqfcKrkB2QTGR5DYRzchf/FCq3lGKyvBwxStYU=;xaFtaemV/MPmYA2c5mJiZQ=="
+secured: "O6qiJRt48VYeyUcdFbZwaB9LDkEYVxn/o26ubK3snLQJnh/lqSct+UuGsGxCKigQiKh188Tzoa1YHfMwHEyVzKD+tgDz2o5nkRgjcmZiWzD2wblOhx68gN7oo5g/5mjm6KYbLq6PrEit0gsJAxUCzI3KXIAY1SMrBCtRIsFedDesYXP2eE10TMj2RSXi2n4pUiwyQcjBz31nCu1HBd62C9AYS5XV0lDYfL32H6rUBD8rC0f5BDAGh+gDpR9P4+AwZCgulB/IPgMQ7R7Tnj2roZ8yWIGUamCJbbdtXBhcUAqA2Bkm0jO+zvu20icK74xwNs0xxa3X4utVJH/hkqMMqJKbIAfzeM4+x+fnEpjRnso=;6Doa3RvDtue11Cvp4hvT7A=="
 ---
 

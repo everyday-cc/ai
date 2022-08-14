@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/cincogfughpHGzW4H4MkqOvlzFkCelcxnVVbPggtBdEzx.png"
@@ -40,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "w7ZJuSA3lw3fhXPXCEWITXXVR/ZVAX6k4JrZjNMRAM925qX5D3V+XRZfoBOPDzmV7mHTrVFPTPaqJD3QovvTBcCDnMYiR8Baw18aktoOMavaq7p/6/MM8hDHMVp+JNO0dzZ1FcaPp2ssPqP/jlBMhys2yZQ86rkwC/LpzHe0l8GNKpFFB+g3or+PlY5uPnd2fCKrLoXFqfVZr8zeC/FJr+Qa2NEpXNeOFuDGRq5dXC73WGnQmmapbrV3JrxJFLsbZzqSPJWTCHJa63/2oBh4dM5yEn6w4hRRYkIwJE1jFasssrVRYQNBnGYlXz1yoenwQfvrCviZm/+aiExUo7u0kxxeKyfQgbTo6KbOB6FWyPE=;pfSnYMNmZik7+a/H1kWq+g=="
+secured: "gdrhqpSIeg8RSovUV0a3RcfjnrzQM0eia56FJeSIV+603hR5NY1aGd+MfqAaOV3Pn7H8hwZ5K4IwORJXkQKrt7NUuDrbXxkDzRqPAx0+iT4kdbNU1PLwl6ADJL0YNSzg/Pz5Xzy+UnsZQmF6RbSHbUzQEgxD945tyxywIDscUh8f7xsKx8Ub30KyoovwVWCW+G0YD1aIxzQsnaSGNkpl7FXzfwwZ9H1Y/FfikRFzQGANSq1otbjKLqzxWtjjRM7ZcfBGfJ6h1b2kK4HRILCq3BUQXympaTLoFzVOzfCKEBU956AHYzahMgB447A6n7Sevdwg2iW4QCsII+JXXzd+vC797QR+GE/xpVo2ughqPP+cfhWGqaZYK7ufCcF7Gp1vAR5mbyNGE98O/42pAhVkuYvBMMb+t+CdeSFJECd7dP9nPnuVaLtX5GAvBj0kxg7rL9TXJ9fkzswMDkSF+yzuyYQgUoznfPyJZGB2fTYPgr8i3ZoXDRQBPiCkWL6sciFKy72dHrCvXZ3dcUn59u1vmg==;yCQr2QvJoAaEZGDLs/fg+Q=="
 ---
 
