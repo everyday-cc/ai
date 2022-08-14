@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-09T14:27:00Z
 originalUrl: "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally"
 webUrl: "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Harvard Business School
@@ -24,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "v+JFhrr6br+8njmV1QVb7YJdDdyqE+crBe1Jz7ZOvj/FxeoL5NoUXEYSIV6FFrZEMxMcccUXKGkFm9FoB+g4kQvd5DDmVOaU/URpOWZdSoHcTvTR+NcCiXjrViJp8gnietj2Cf74f2X/qUkd2vE/fr+Yz25AZBCX4nYsQMxRuLqeRaoFjIhLB2MP/hpRrApehtsM2Aq2JlGFxCO0m9b5RzuhS2HkyLk7oFzVFOn/9OFaJ9i8OE/CbO94B8KCXjLLOQPc9rH3UwhqHLpYng0EiQiD5MMe7ZbXDBRtCjn1mGendEWNiJOv2E15v2N5nWE9MwUSW8YfdJJss2kzwd/yVtXNj63VXEd1nPzerzP6V/s=;pdbiExv/aIIvURRTXBPkow=="
+secured: "KgsW1dbnvtMJoqGNIv4wDIUa9GVBjKUivThMxvIzWeZDgKZan6ZEtsQIq1Y0U+rsIIP7s9mq84A3FOOcUieUStspf4QK2VxiO018mNmL8Qina7bdT36hrAuPNvO2HxaCB3+dRxnHjLEAGIn7uyWcomtourW2gh4DH9illZHFeU1jWL3Y4NZDOJNuoAl+svLzk7N5T9v5/ffGtFSHP+MGm0hOYAWRmylg1V2QZqVKXecPJfp3QstF9tUYdfaKhzQU248sVpDO0gr8cW1r2IgU9yWqHftiGaQzQKMTWZ9KeUAhTjotmV7sFHvoNPl4W2EApxcSvvQo+2ewj1uPe8HiWyaR9bMDt8Rch/X8wibZ33I=;+KtiYNmotH5dStazVjbJQA=="
 ---
 

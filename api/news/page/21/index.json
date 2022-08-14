@@ -2,6 +2,186 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
+      "title": "Beeline Loans launches AI-powered investor loan application",
+      "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
+      "originalUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg",
+          "width": 1308,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
+      "cdnAmpWebUrl": "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
+      "publishedDateTime": "2022-07-25T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Providence Business News",
+        "domain": "pbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
+      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
+      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
+      "publishedDateTime": "2022-07-25T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-documents-reveal-advanced-ai-tools-google-is-selling-to-israel-the-intercept.md",
+      "title": "Documents Reveal Advanced AI Tools Google Is Selling to ‘Israel’ – The Intercept",
+      "excerpt": "Training materials reviewed by The Intercept confirm that Google is offering advanced artificial intelligence and machine-learning capabilities to the ‘Israeli’ government through its controversial “Project Nimbus” contract.",
+      "sourceUrl": null,
+      "webUrl": "https://en.abna24.com/story/1277017",
+      "originalUrl": "https://en.abna24.com/story/1277017",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.abna24.ir/image/jpeg/2022/July/26/bfb318e7-fd3c-490f-809f-ef00ade1e4d1.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AhlulBayt News Agency",
+        "domain": "abna24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031.md",
+      "title": "Computer Vision Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2031",
+      "excerpt": "AMARILLO, TX , United States, Tue, 26 Jul 2022 02:55:34 / Comserve Inc. / -- The Computer Vision Markethas encountered significant development over the recent years and is anticipated to grow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-bunnings-kmart-stop-using-facial-recognition.md",
       "title": "Bunnings, Kmart stop using facial recognition",
       "excerpt": "It was last month revealed that Wesfarmers-owned Kmart and Bunnings, and whitegoods retailer the Good Guys, quietly began using facial recognition in some stores without express consent from their customers.",
@@ -946,196 +1126,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
-      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
-      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
-      "publishedDateTime": "2022-07-25T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-google-fires-software-engineer-that-claimed-that-its-ai-chatbot-is-self-aware.md",
-      "title": "Google fires software engineer that claimed that its AI chatbot is self aware",
-      "excerpt": "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/03/20220321101605.jpg",
-          "width": 670,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/25/google-fires-software-engineer-claiming-chatbot-sentient/?amp=1",
-      "publishedDateTime": "2022-07-25T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-brain-image-movies-help-ai-predict-mental-illness.md",
-      "title": "Brain Image \"Movies\" Help AI Predict Mental Illness",
-      "excerpt": "New research by Georgia State University’s TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer’s disease and schizophrenia, in time to help prevent and more easily treat these disorders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/brain-image-movies-help-ai-predict-mental-illness-364015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/364015/brain-image-movies-help-ai-predict-mental-illness-364015-640x360.jpg?cb=20220725",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
-      "title": "Could artificial intelligence soon be able to see?",
-      "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671562.jpg",
-          "width": 1240,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
         "publishers": null,
         "authors": null
       },

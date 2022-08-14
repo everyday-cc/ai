@@ -67,22 +67,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Tesla’s self-driving technology fails to detect children in the road, tests find"
-    excerpt: "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path"
-    publishedDateTime: 2022-08-09T16:08:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 69
-    images:
-      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Ralph Nader Begs NHTSA to Pull Tesla's \"Full Self-Driving\" Software"
     excerpt: "Now, Nader is turning his ire toward Tesla and its \"Full Self-Driving\" (FSD) software which, despite not being final, is currently in use by thousands of ordinary drivers in a \"beta\" test form. The National Highway Traffic Safety Administration (NHTSA) is currently investigating several car accidents (some of them deadly) in which Tesla's Autopilot feature—a very pared back driver assist that shares some sensors and nascent capabilities with parts of FSD—are implicated as possible causes for the incidents."
     publishedDateTime: 2022-08-10T21:45:00Z

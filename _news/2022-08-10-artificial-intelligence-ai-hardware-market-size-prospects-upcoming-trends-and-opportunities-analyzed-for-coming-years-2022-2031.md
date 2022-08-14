@@ -108,15 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
-    publishedDateTime: 2022-08-09T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "d91ijCCffVIr+Bepz8zYuHhzj9eDNHXttZbegwk++lBVxAqm/6R8aS9c0Qao9b9oanBKbU7/le6jlpYYG9ZxmbRoiXLHru34vFP8Fym+irQ3qla40B4JZ3m0k3DEO0nzF+tIiT+JR/n3sTQApkRA01o6yLj2Jo10sXz6RdBOie3Rkruq7rRRl4YXgL+y1BqHhbPB9KCSLhN+XtWQhUfrZH91rzwyXi8WTQsuJb2U41IRaYk79tgkOty5QNWCsz4IuVMEzp6xqf9X1N2Q4Kt9KypytMg9h52cNzY4X/ZUEuHoyxD71p8GCoQaMyBTe2SDbjgo71w7CsuzA2Ta+PgNuovl+aedY+HSJIS2SfzE0e8=;0fG4XrP6C/fdntCjtdC5WA=="
 ---

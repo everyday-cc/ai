@@ -338,7 +338,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -390,7 +390,7 @@
       "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1109,59 +1109,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
-      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
       "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
       "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
@@ -1397,6 +1344,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
+      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
+      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "publishedDateTime": "2022-08-02T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

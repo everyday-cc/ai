@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
-publishedDateTime: 2022-08-12T06:04:00Z
-originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
-webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston"
+publishedDateTime: 2022-08-12T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
+webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The NewsMarket
-  domain: thenewsmarket.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
-    width: 1164
-    height: 657
-    isCached: true
+  - AI in Robotics
 
 related:
   - title: "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics"
@@ -150,6 +148,6 @@ related:
       domain: bizjournals.com
     quality: 15
 
-secured: "eB5Oq/ha+tj1cJFYX2wdqXambBLYPPP+oRBkDdZkix9KdfkwN1j4hPzkFPTKn8p0WW7q/PV5GnSv9oO59E+xmSRglvfDWONzUjnK9VBnT+i4SLgSCWPJFMlFIAIQ3AZc77VdTTGcZiiCXkXOJn8pvhqXXbKQlcWLCbF9bXQBvrhIPjyduach2OkWOIyKNn0r8A69GPf3zxPlfL+BIG2UWaMPCRGDoy9ZXtNDWuTeD8CXvRRyi9CSVaTMWZMcaxi7nhaxh3ESlWXvmHdt4RTGZ2/qNcpnpmVBunb7frut3PquWZ8xWK4t73sG4ezld1gHoDIqdjDGhcRgYzgC7E3N72UNMwVIGLTy147FFp09dNA=;xd6E5POHPqRA9+/c3Kg/4A=="
+secured: "XdGsWllVQooz4i7ZqWOtkuqpPnhOygEBxoBdB3WLdubLKUUAfoDRqdReARdRDMZCoduTwGtu9nJ+02mYaUXEFRBfGx3UAYypo0L5/ReVLac+2zFaWGr3UHD98PuqTeZoa0MpRXvEKfXrXBjcO5zMLlb6ezY4WC1ObQpWdgEhGPRBulkm09+R8t5YZcv/LC5org0nx4Al7fwPty9uyiu4jacpj5AYb48muZ51y6iGG2Wgtj9O18minbxKedf5plUwu/30QD+KP36tGYaLSE7dotdySMc3JoC8nAatXAjuKV3kI2LalF8Izq7UkEl8v7eMBu/6kBR6Wv0hm26zMzpBSZ3CpEbhAKSjlmodoEjeQjE=;c4BUIOk5zAfCkBGHeyQpLg=="
 ---
 

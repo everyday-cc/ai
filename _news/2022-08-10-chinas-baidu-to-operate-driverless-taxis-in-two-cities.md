@@ -52,22 +52,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Driverless Robotaxis To Officially Hit Chinese Streets"
-    excerpt: "China is about to get the San Francisco treatment now that a robotaxi company is able to operate its robotaxis without a driver in two of its major cities."
-    publishedDateTime: 2022-08-09T16:34:00Z
-    webUrl: "https://futurism.com/the-byte/driverless-robotaxis-hit-chinese-streets"
-    ampWebUrl: "https://futurism.com/driverless-robotaxis-hit-chinese-streets?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/driverless-robotaxis-hit-chinese-streets?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/driverless-robotaxis-hit-chinese-streets-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
     publishedDateTime: 2022-08-10T11:24:00Z

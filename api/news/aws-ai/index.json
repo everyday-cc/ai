@@ -300,7 +300,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -340,6 +340,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-global-ai-in-fintech-market-to-garner-6130-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage.md",
+      "title": "Global AI in Fintech Market to Garner $61.30 Billion by 2031 | Amazon Web Services, Inc., Cisco Systems, Inc., ComplyAdvantage",
+      "excerpt": "Allied Market Research published a report, titled, “AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amarketplaceresearch.com/wp-content/uploads/2022/08/AI-in-Fintech-Market.png",
+          "width": 847,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "AWS AI"
       ]
@@ -1342,49 +1386,6 @@
       "provider": {
         "name": "CRN",
         "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-aws-reinforce-2022s-biggest-announcements.md",
-      "title": "AWS re:Inforce 2022's biggest announcements",
-      "excerpt": "The public cloud global market leader launched a slew of new security products and capabilities along with new partner program investments at AWS re:Inforce. Hundreds of cybersecurity experts ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
-      "originalUrl": "https://www.crn.com.au/news/aws-reinforce-2022s-biggest-announcements-583271",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20220728113211_0_0_0_0_70__News_20190409110209_CRN_14_AWS_stock.jpg",
-          "width": 690,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
         "images": null,
         "publishers": null,
         "authors": null

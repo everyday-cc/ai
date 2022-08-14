@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/food-robotics-market-202
 webUrl: "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
-    publishedDateTime: 2022-08-09T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "QUGnJ3be3Rai+o9ZVlb3Uo4bCTcA0/eOO+Ao65eYaG+fbd60aLCVEXUOBgd1xwUmvTuLd6LbT5Izy/mjEGRYF/SEtmTh6magG0evFpIblaA/GlMz4DB2WSQ7fr5Nvp30D/78lG85PvSteA+GWwNNv4dphHMbX6k0KB67Fs6VyT2olSAzeAAm7/m6QwHV7us0Lm6HICIGDAK1wyHgZYw54TryImP14Za/W/yUttj/Fh+MNN7d4h8HM5/5CI9fDnF4h8uFby5LKaGXvgYaxNg1Mg5kY6z8fsd73qnvBycgOmN52D+mr7nqC2RI3wvgozodN10DpkHpg2/q+RkUlRAtYrJYQTZEJcubaNHOmHpn5zM=;OmuQmOp8T3LFTRnkgTRLlw=="
 ---

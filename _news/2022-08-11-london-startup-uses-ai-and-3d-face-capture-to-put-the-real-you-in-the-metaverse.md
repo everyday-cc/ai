@@ -86,20 +86,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Nvidia Could Become Google of the Metaverse with AI Search Engine"
-    excerpt: "Nvidia is showing signs that it wants to be the Google of the next-generation 3D Internet, which is being projected as an upgrade from the current 2D"
-    publishedDateTime: 2022-08-09T17:00:00Z
-    webUrl: "https://www.datanami.com/2022/08/09/nvidia-could-become-google-of-the-metaverse-with-ai-search-engine/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/metaverse_shutterstock_CKA.jpg"
-        width: 800
-        height: 464
-        isCached: true
 
 secured: "RY4A1nd0kYSCA567ur2nErcPayZTaUDa1qEBWSEQRsn5QMzH3FTX2QTjEIFdtQI7THyJgXBHnp91NTF5AbCsxx8gaiYpa0KyggUHUtxpus7HuCxSz3d88gJ0tIPwY6s0kB/5lBktEF+tF2XBtA1gTvlNyySa1+ZIEFbCHx6B/zBJnJRANQYoQgilw6XbnJAfbi06F1krlHM+2B2xOxfBSqCz+BGBPxqdmCeIeP3H61fzngPBWTuYK7t6Ex8P56J7kwUMnfjyp3fD4K/b1izAUzZscbet7rZUVOCAj7WgglLKonu7blXa1fVwHYXE2uLkhRFJfEkcfmH79nsEEa/HlcKe2VVfxReQVJ3zZRb4IzU=;PCE04k1uEEoXf5MkfNDVqw=="
 ---
