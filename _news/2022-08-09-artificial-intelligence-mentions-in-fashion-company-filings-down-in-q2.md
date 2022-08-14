@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/08/wCkJQ-1038x778.png"
