@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-cro
 webUrl: "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 47
-  - title: "AI pilot can navigate crowded airspace"
-    excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
-    publishedDateTime: 2022-08-09T11:06:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/ai-pilot-can-navigate-crowded-airspace"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://www.theengineer.co.uk/media/awqpjv00/low-res_ai-pilot-02-jpg.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "V05QIjA3WrVSYgt1XsGCh/CexwLuR6eGSlHiarRuxtHLltSt6+ZNBzKHmv+kNlWpa7iiJRUv125f5+gOtLGSlAI28wd6MXVcQL4mzCdqFpunKJws1VbpFFhBm9n1LBLAUvVeAmGksQuMeILODd6MqjiDFE0u4id4gx7BrdTOVO1VvNk3Dsk4aI/zwvkThDMjGwyVXoEBhAcUPoaFgGrRKtKTITcu7U3BDhYvNXHyOlZ4hl9EwSbFwfuFF3zJpwIs6CuwNZhHoz56gzutuawJ2P7T6W4hRh2vEH1cy88Mjn/Ygen6zieBUvF13BbnxTWEySUncKO0VW962dXl3u/QdUPHrf5CkGwqZVu0irYEnY4ytDudRNHXYG1ilNmqu1wnbYgWttP5ng7B2OeVEes6rbqGKFWjIeGpAL+Zo0FAvI5juYncszOBQ3T42dG4rcC2YmLXss3jT+oi61cW+Q2Ehu9mr6J1HlJBMZTeIGmC6EshueJM+ttIonLv03iLjVe8Zs4xHnh3bpet4NHSR6aIoA==;ng/xolfNekTTFzQR+NXfjw=="
 ---

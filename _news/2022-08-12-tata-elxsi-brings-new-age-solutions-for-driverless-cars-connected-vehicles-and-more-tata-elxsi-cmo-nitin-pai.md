@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: CMO Nitin Pai"
+    excerpt: "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and"
+    publishedDateTime: 2022-08-14T05:12:00Z
+    webUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    ampWebUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    cdnAmpWebUrl: "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 62
+    images:
+      - url: "https://www.udayavani.com/wp-content/uploads/2022/08/Tataelxi-Website-620x366.jpg"
+        width: 620
+        height: 366
+        isCached: true
   - title: "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai"
     excerpt: "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm"
     publishedDateTime: 2022-08-12T10:18:00Z
@@ -60,6 +76,6 @@ related:
         height: 450
         isCached: true
 
-secured: "WqawJVUBKoyXUNjcru7p5myOkv4OblEfUz58CkX53gl+IqzxM4Km+u/GpJGcQfT4y9XCDhussga1YQPRRsRND8l1VmHmBAfDAfS507EPuzXZqejE+Pn7Xx7WYQmPbExMGDaqFpd8Qit2GXvoh7KqTZGO3tGqLDxpTA6WWcSSixPyOq4+n7kkwXsVq7Fk5DhjSRt0OB1X8asx2aA1nk6KpAv2qdFEK4LbjVb5fHb2F/5DZcXgBTvATTHm8w6kdRbLc07Yuot1sYUpPn2sRC5tN39g/Tv1I125Y6t70dm487nEhwnEqxxMDk1cklO7+Q/OGbS8qO9z8VSeDAtG1O7qvdMDjuQWdCiqJlbeHfHkCyY=;2ZFexEamVWseTEWOLjP2rw=="
+secured: "KNzGUsDM3CwfBax7YIbLRYVOwkV+hO83dbRkIL6XLCtw2XttJTZXMNaZukelXiCPujtwJH0J+ozzIpM0jVfKPPXZ8xxbJgCBlF8svFZXrTjWrqSsQl0dsiGCD5YCelGsFhuYRvP/DiMDMVyVJWBMnkYfhdfPrqPEFS0aMqB7fGTRFVCSvGtDQ6Y78Gd/jgBb31en9ubH1m5rujWgyzHhrT+uWPnXmXugBMEHffSi7Y1Y+sOm4Smctq4iftwpCnm7o+DAk46ho3vGP89K++46Gq1CP3O4ZslomI5vHBtj7QAsTxAkperJf8t4ZaScHgkSByR9oUtI2KngzjB9GiYqj2JukUxkX0vD99aQOkyyrGYyG0iWxiGYgsab5kp8/7W89O5yaIAJKNhytBWoGDwLWb+a9ekAEiFTkNuxpLLt+pUy7iL70WfDxwizzMwy7wgs+ufrdsUcgZeCvKh+001VkwEEiSiilWQzNa1HiZY7QAfjtzNiY4bAwXpEXr7a1jAC0wRkHT2m6rYvNNRLd+3+zA==;6PEv/SlPQgGo4u6IDyx7/w=="
 ---
 

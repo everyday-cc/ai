@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
+      "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+          "width": 1400,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-bud-raises-80m-more-to-expand-its-ai-based-open-banking-platform-used-to-power-lending-tools-and-more.md",
       "title": "Bud raises $80M more to expand its AI-based open banking platform, used to power lending tools and more",
       "excerpt": "Embedded finance — where financial services companies and others bring in different kinds of fintech technology by way of APIs to enhance their own offerings with more data and functionality — remains a growing opportunity,",
@@ -1328,59 +1371,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-delphia-review-portfolio-management-meets-machine-learning.md",
-      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
-      "excerpt": "Users can sign up for the full-service broker for free but must agree ... Delphia allows users to invest in portfolios driven by machine-learning algorithms. As these algorithms receive metadata ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

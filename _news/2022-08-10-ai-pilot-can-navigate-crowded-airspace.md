@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI pilot can navigate crowded airspace"
-    excerpt: "Researchers at Carnegie Mellon University believe they have developed the first AI pilot that enables autonomous aircraft to navigate a crowded airspace."
-    publishedDateTime: 2022-08-09T11:06:00Z
-    webUrl: "https://www.theengineer.co.uk/content/news/ai-pilot-can-navigate-crowded-airspace"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 37
-    images:
-      - url: "https://www.theengineer.co.uk/media/awqpjv00/low-res_ai-pilot-02-jpg.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/b7a/X8WqU5PPkfkx927OjkU0uGwyse8OiyDpOZ16cVvVMVSQeNNgIdAw0k1fO9cgvCoQP/y+vILZGvQsnAczdYHqi0K40Zm+i/ZX8q7rHxFfKuQXv+8BMKUWXcYFwchVS3IyGpBKd5fjo+x1xtNWy0bko9bz3w5njb05A/bTIZHOVz4DblurLZ11byS+yeU85EFWtEDZUTg4Ahnj8iWRtPArYkg3pLVIVPM3cnM8YkSSEeih/C3RAn2SgOjNdrkiVxlUtg/gTtFrfgMxUqJaQpy6bZCUC5up9y7aSuMilhwV07PxV3OV3ZCs+vW9I3lRR0ovFjLMBlQoT3/Z2135LcAj2VUCLdgJfQZVdNUEw0=;vK3u7tY7Xo/pEE1Vsos0Xg=="
 ---

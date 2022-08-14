@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T15:04:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 7
+quality: 5
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - AI in Autos
 
 related:
   - title: "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast"
@@ -114,6 +113,6 @@ related:
       domain: marketwatch.com
     quality: 37
 
-secured: "jRt7drwBp2Ccoo8IucQfvAMiURyIlkOV+sTZ3DNq3HOOJY0wemRCzS+Jsoq4S+EzL0F2n5DUjebC+u7JFES8O9pF3QAQOxRvGQVrzlPByenSWEAKXQIfOa/1sGHZahdI2q2jwPt112Z3l+i4tOpu8dYJpTaRmUWYs8i61d1L9YV4jEIJl9kBXcw5NLgNaklk8dHVFDHEZz+l091WPwoJVziWGjUGrQ/Avdwle1m5Re/SlkZgr62gko+smXNbkZirpy0d9d9cU/Yovb4gXpm0L8Hfpl3ihOEodvZqE/bsYxhuQpFBndnablQH0ehwlnzI70gEUd3Uusxv0i4BdEv0fJphDdB7wr6dft+Ugza0634=;Xe3w6Q6lyrfx3XZo5eIhIw=="
+secured: "SLi1YuprZz8k3Xun71qtLgs6nfROoozPh3QBcl/9mnvI3K/N4KwZXd0NmUWuPQ7DGysYTeLJMSGB3fAZV8TU+yJ+UBexY7VcoPcooWY5k5RsSj9IthvTjqcrFfrU3HivpLm32YF/npAHkPFUVEp7PADSZZ5UOn+YiY7mTiLPALlxClRrtvd3ZdPqGTIc7hvUPo09GxtTciVhAvEeOFXPleExhbUc9cI2eUtN1U3HocOZSNWO7DMhkLHed7NYGyb/dggxH9Av7KNLgeA74Q+vxjvyaXr7x6ed0+rU8fDx97G4ppPcAjSGapmVs265HaiYY6qZVcyV8/gBCsr11KrwKeKcBwNiZqDKW7lQZRQzvFw=;TZFF5CL/INyWv8yxtTIP3g=="
 ---
 

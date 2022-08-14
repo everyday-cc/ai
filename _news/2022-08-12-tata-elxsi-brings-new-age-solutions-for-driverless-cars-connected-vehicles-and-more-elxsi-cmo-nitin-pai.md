@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: CMO Nitin Pai"
+    excerpt: "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and"
+    publishedDateTime: 2022-08-14T05:12:00Z
+    webUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    ampWebUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    cdnAmpWebUrl: "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 62
+    images:
+      - url: "https://www.udayavani.com/wp-content/uploads/2022/08/Tataelxi-Website-620x366.jpg"
+        width: 620
+        height: 366
+        isCached: true
   - title: "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai"
     excerpt: "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm"
     publishedDateTime: 2022-08-12T10:18:00Z

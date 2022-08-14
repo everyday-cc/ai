@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
+      "title": "Nextgen and AWS launch second Security Foundations program",
+      "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "originalUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
+      "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
+      "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Global-Regtech-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "publishedDateTime": "2022-08-04T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
       "title": "Tesla teases Optimus humanoid robot prototype with new image",
       "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
@@ -716,6 +793,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025.md",
+      "title": "Face Recognition Systems Market Growth 2022, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2025",
+      "excerpt": "Face Recognition Systems Market Growth 2022-2025 Global Industry Research report presents an in-depth analysis of the Face Recognition Systems market size, growth, share, segments, manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-face-recognition-software-market-expectations-growth-trends-highlighted-until-2027.md",
       "title": "Face Recognition Software Market Expectations & Growth, Trends Highlighted Until 2027",
       "excerpt": "The Global Face Recognition Software market 2022-2028 report studies vital factors about the Face Recognition Software that are essential to be understood by existing as well as latest market players.",
@@ -1042,126 +1162,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-visualcortex-and-i-pro-partner-to-facilitate-enterprise-wide-computer-vision-technology-deployments-in-apac.md",
-      "title": "VisualCortex and i-PRO partner to facilitate enterprise-wide Computer Vision technology deployments in APAC",
-      "excerpt": "VisualCortex – the Video Intelligence Platform connecting computer vision's potential to real-world business outcomes – has partnered with i-PRO – global leader of advanced sensing technologies for Intelligent Surveillance and Public Safety – to streamline end-to-end deployment for enterprise-wide video analytics solutions within the Asia Pacific region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-visualcortex-i-pro-partner-facilitate-enterprise-wide-computer-/2022/08/04/9651352.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-visualcortex-i-pro-partner-facilitate-enterprise-wide-computer-/2022/08/04/9651352.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
-      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
-      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
-          "width": 833,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
-      "title": "FedEx to expand robotics technology, artificial intelligence",
-      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
-      "sourceUrl": null,
-      "webUrl": "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wltx.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wltx.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "cdnAmpWebUrl": "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "publishedDateTime": "2022-08-03T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLTX19",
-        "domain": "wltx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

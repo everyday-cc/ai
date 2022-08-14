@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia lost a billion dollars in gaming GPU sales as AMD continues to thrive"
-    excerpt: "NVIDIA on Monday announced its preliminary financial results for the second quarter ending July 31, 2022. According to preliminary numbers released by the"
-    publishedDateTime: 2022-08-09T12:35:00Z
-    webUrl: "https://www.techworm.net/2022/08/nvidia-billion-dollars-loss-amd.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 33
   - title: "Chinese GPU maker: Biren BR100 has 77 billion transistors, 64GB HBM2e"
     excerpt: "China's new Biren BR100 GPU: 77 billion transistors, 7nm process node, 64GB HBM2e memory @ 2.3TB/sec memory bandwidth, PCIe 5.0."
     publishedDateTime: 2022-08-10T02:53:00Z

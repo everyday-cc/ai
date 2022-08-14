@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-he
 webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Natural Language Processing Market Size is projected to reach USD 91 Billion by 2030, growing at a CAGR of 27%: Straits Research"
+    excerpt: "Natural language processing (NLP) is a well-known artificial intelligence component widely used in consumer digital assistants and chatbots, as well as"
+    publishedDateTime: 2022-08-11T19:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28461907/natural-language-processing-market-size-is-projected-to-reach-usd-91-billion-by-2030-growing-at-a-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28461907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28461907"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Self-Learning Neuromorphic Chip Market To Grow At USD 2.76 Billion at a CAGR of 26.23% by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Self-Learning Neuromorphic Chip Market Analysis by Application, by Vertical – Forecast"
+    publishedDateTime: 2022-08-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28458646/self-learning-neuromorphic-chip-market-to-grow-at-usd-2-76-billion-at-a-cagr-of-26-23-by-2030-repo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28458646"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28458646"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "1sIyu9kaS7coYiCEzSMKCGOQlHEYB6NWan395tl8BqFoewdXB8YoxGO8KngsJkESAr4U4TI1FlZbxl3SPbZ1yDbYOke8eH8PmndTXDwORfR2+iQI2R6VHQb7VIddo0BzQMMvRSTnI5Bbw8f54nCnnLHiBLQ6VYC2qI+31LH4I5YJ7t3HtwvpfnInU2ceFNrCK7RKngiIDvPHFAGvefnMdm2GgztwXcNsoH6uhCOVMoiqkc6OP6nOB9Fp3ZGCJkxwNPvo+Hz1JzRCbJBQzYgL5lgQMUekD/C7MGSugS0uQBh/DtKwyBYFUe5BXDmLULufHzQGrbiNT8C1rNTHDmUUUmxLripNQqIcwrMrl86n39U=;Z65hKYSx9PBEXYK+/hvMzg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-
 webUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "No code, no problem, part 2: Setting the AI loose with the “easy button”"
-    excerpt: "In the second part of this three-part series, our heart attack predictions take flight."
-    publishedDateTime: 2022-08-09T13:00:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 70
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "o1CbTTVu7lcYKdnPvV4dbrKlX2I0KPJcurR7X7nNYBQrcWkOalzKNHyAKAtmlqt4bvLlkhM9I5AiPm1AzcIR+OvuMLVojz+24SW4INc/f9zniopg2q1FoBQpyyo1TQDn00HkaYvlXqaC3kygX2X/t8+NgEspjf9IWTlXKQfQm1K9yr8G7jwrk+G3W2KrzImYx0ltjYmPyoleNcJ96Uq2ZcH14DJdxL9NiRG1IdCKHs+pLembQf43p+eg6AYC0iQtDufEvb/B4pLrqx2n73xUajSCsaL6xef4x7uyhfwJKLgDQ0FGh7OmWcgLLV+6/hJkMesIkp9Q7u493P0dwzDfTBmz8PZJ1PinnyN0T7fGJFUvNxvmrE1UdaTffkx/T9qqIlzA+jFWRyzO9PrK2nqO7T3IS7bNrqdnqA8syiaAFuawapnWAU5LdDysXHIQt7NugvBRnYE6yxC0pHNw37w1Z4/ITakJuBEmalPjn5Cvqh++fJJJiYGOt6WIUNTZ82QP+NkyH9XcPEK82D1nnbhKTw==;4tI8Nwevac8Gy76PorZUcA=="
 ---

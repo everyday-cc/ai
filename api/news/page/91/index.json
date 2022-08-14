@@ -2,6 +2,134 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-06-02-the-battle-of-ai-processors-begins-in-2018.md",
+      "title": "The Battle of AI Processors Begins in 2018",
+      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028.md",
+      "title": "Cloud AI Chip Market Size and Share 2022: Global Industry Dynamics, Growth Analysis, Solution and Services Report by Forecast 2028",
+      "excerpt": "Jun 01, 2022 (Heraldkeepers) -- The Cloud AI Chip market report gives a complete analysis of the market’s pandemic. This information contains, among other things, the present influence on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
+      "title": "Google bans deepfake-generating AI from Colab",
+      "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "originalUrl": "https://techcrunch.com/2022/06/01/2328459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/01/2328459/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/",
+      "publishedDateTime": "2022-06-01T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-laredoan-leads-self-driving-car-racing-team.md",
       "title": "Laredoan leads self-driving car racing team",
       "excerpt": "When Cindy Heredia gets her MBA, she will have been part of a team which ran a car around a race track at 200 miles per hour with no one in it. Hopefully, at least. The 2013 graduate of AlexanderMIT-Pitt-RW autonomous racing team,",
@@ -1021,154 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-fine-tuning-a-bert-model-with-orbit.md",
-      "title": "Fine-tuning a BERT model with Orbit",
-      "excerpt": "This example will work through fine-tuning a BERT model using the Orbit training library. Orbit is a flexible, lightweight library designed to make it easy to write custom training loops in TensorFlow. Orbit handles common model training tasks such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
-      "originalUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space.md",
-      "title": "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space",
-      "excerpt": "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
-      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
-      "excerpt": "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1836296/Standigm_Merck_MOU.jpg",
-          "width": 400,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/baidu-ceo-says-its-robo-01-to-be-a-generation
 webUrl: "https://techstory.in/baidu-ceo-says-its-robo-01-to-be-a-generation-ahead-of-tesla-autopilot/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 555
     isCached: true
-
-related:
-  - title: "Baidu Claims Its Autonomous Tech Is Ahead Of Tesla"
-    excerpt: "Baidu, the Chinese search engine giant, says its electric vehicle firm Jida Auto is going to be one step ahead of Tesla in the development of advanced autonomous driving technologies. Soon after Baidu unveiled its new Apollo RT6 minivan,"
-    publishedDateTime: 2022-08-09T12:03:00Z
-    webUrl: "https://www.carscoops.com/2022/08/baidu-claims-its-autonomous-tech-is-ahead-of-tesla/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 34
 
 secured: "/5e+6gsCUibPzaxJLg8w4mZJ4T54C7M1IqiBdey21tEq4fmqnrVLJznbd1VdoNW1eYTFpLnN0zIaWgoMG1F9oCXG/3t0HPmHXKbFFRSUiS9uwM5e/qPcJV/I0RhnjxH/oXFTu6zCG1e2OxbIRCTdH6dNyhjccC1VraW++voukTrav07Io6wMDB81yLbSa8uMzElSrvpgnna58Kd+Tw/9/36YHPb6OxaoWhG/5R4Cxy0MiiMFbSHCMKLxd/DZM/sIPEjxK0owWA6375iqI2ixCbJt+/MOCsCY8yhKmrd8YLxCWP+sHJ+czL46Pw4C7T3jTJViEPnIyGBMFCKW9fmyyNGtXDdWgl1V104t6zmyQ2nQuyatPbpBF/AvaTjDVu4g49+88J7oSH+14eKItKIeBvhQoALHxurFqemXCrRyQQWKEWZhDk9Oxpo/YeI0oBkc8+IuIIV/3K4xj28qopa6vH+XAAOR8bxD8Gy8XdpWSgYoQFnJoYmigm43+jn2ywT/E9svMUv0ZY/1DdTgFlCO0A==;z/+rWD2FN5e62B3OEqBhSA=="
 ---

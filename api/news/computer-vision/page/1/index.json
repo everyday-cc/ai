@@ -203,7 +203,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -448,19 +448,19 @@
     {
       "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
       "title": "First, they banned facial recognition. Now they're not so sure",
-      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback.",
+      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "webUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "originalUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://CNNWIRE.images.worldnow.com/images/23132249_G.jpg?lastEditedDate=1659695046000",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -468,23 +468,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "publishedDateTime": "2022-08-05T05:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KAKE.com",
+        "domain": "kake.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -548,6 +539,49 @@
         "AI in Autos",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025.md",
+      "title": "Face Recognition Systems Market Growth 2022, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2025",
+      "excerpt": "Face Recognition Systems Market Growth 2022-2025 Global Industry Research report presents an in-depth analysis of the Face Recognition Systems market size, growth, share, segments, manufacturers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T02:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1369,49 +1403,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-lawmakers-seek-limits-on-facial-recognition.md",
-      "title": "Lawmakers seek limits on facial recognition",
-      "excerpt": "Lawmakers are moving to set strict new curbs on the use of facial recognition technology by law enforcement officials to track down suspects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
-      "originalUrl": "https://www.eagletribune.com/news/boston/lawmakers-seek-limits-on-facial-recognition/article_f80a6156-0cef-11ed-9419-870739d6d4ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

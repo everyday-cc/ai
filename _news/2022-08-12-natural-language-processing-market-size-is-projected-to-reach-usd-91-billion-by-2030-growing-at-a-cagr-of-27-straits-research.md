@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28461907"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28461907"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -28,49 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI in Healthcare Market to Hit USD 44.6 Billion , Globally By 2026 at 44.8% CAGR | Infinium Global Research"
-    excerpt: "The AI in Healthcare Market Research Report Study. Covers global and regional markets with an in-depth analysis of"
-    publishedDateTime: 2022-08-09T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-08-12T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
+  - title: "Self-Learning Neuromorphic Chip Market To Grow At USD 2.76 Billion at a CAGR of 26.23% by 2030 - Report by Market Research Future (MRFR)"
+    excerpt: "According to a comprehensive research report by Market Research Future (MRFR), \"Self-Learning Neuromorphic Chip Market Analysis by Application, by Vertical – Forecast"
+    publishedDateTime: 2022-08-11T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28458646/self-learning-neuromorphic-chip-market-to-grow-at-usd-2-76-billion-at-a-cagr-of-26-23-by-2030-repo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28458646"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28458646"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 59
+    quality: 26
     images:
       - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
         width: 300
         height: 250
         isCached: true
-  - title: "Call Center AI Market is Predicted to Reach to US$ 6 Billion in 2032 | Future Market Insights, Inc."
-    excerpt: "IBM and Regions Bank Corporation (US) teamed up in April 2019 to offer IBM Watson AI technology to help improve customer service and aid bankers in their daily duties. Regions Bank uses Watson ..."
-    publishedDateTime: 2022-08-12T06:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/call-center-ai-market-is-predicted-to-reach-to-us-6-billion-in-2032-future-market-insights-inc"
+  - title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
+    publishedDateTime: 2022-08-10T14:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 25
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "wU5ThCMPcGBbPJem4YyXSe6658Frfq/n2HRrvQ3/DCeQsso9zI6DVeCUWuiNtPC12007lko0QqsCv0fjXJqlG3u7x9MU5YBSZUhb4/JhYdwA4ksOwbTIoz305qXq+KWwvrPbJuAg1BzZsSru2lDCEGZOhonF9tQhjlesZkm9jRpqHSmd3Y5xV6JYfA6T8D3NERzO+g1xJJQU+CoVSfJVCIQdB/RbzhSNTLq0rYTDBGcl3wK3/+tIoLupht199R0KBgxl4bES29NMSpPafJck6Oh06OeKS7arEvUKuRUvyWSukNYGOFNn2o8Z5K/lkm1jYMHWF7SosCykn3mrjqT60Q7YNMfDewg8q7R9ksWVMAo=;V0NaknXAU2dw0A53fMbHhw=="

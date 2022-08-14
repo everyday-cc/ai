@@ -49,15 +49,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Nvidia lost a billion dollars in gaming GPU sales as AMD continues to thrive"
-    excerpt: "NVIDIA on Monday announced its preliminary financial results for the second quarter ending July 31, 2022. According to preliminary numbers released by the"
-    publishedDateTime: 2022-08-09T12:35:00Z
-    webUrl: "https://www.techworm.net/2022/08/nvidia-billion-dollars-loss-amd.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 33
 
 secured: "QPsxJX1dXZuSkB+aEloIrjqsFti7mWm3hzjgyWI3pDd+vT6Jt4RTj+F8bVjSPT0D85wnL5zzsHoQcQdrJXE02RLPuCHKAfpOREte+L5EInWgfW1BsbiO+WwSvCLvDQ7v3ne/Y04NYjTfC9fKgo5dtgXPQgRDkdeXC5i1UOcUc42VI2aXZImOZtQhdVcWM6Hv3MBbAtpLWnX+NjhC55JVTUocYMIRnyjZ84KkNnIo/ZVMZcqS3wNJ+RJs+Jm7qm/cGWgxobTiUboENYEEulKjxar1gVwBEi7yKsZzLXiDTibTJJBrNNl//iZMiwuoGxEEp+N+US3pGEQueTDX80lLPmTxhNwFUl0D/41QaTfz9ZU=;zcCqKmUCUQ+FXhjPKznflw=="
 ---

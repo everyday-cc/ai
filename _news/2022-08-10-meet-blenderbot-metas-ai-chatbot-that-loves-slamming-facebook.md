@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook’s AI chatbot still thinks Donald Trump is president"
-    excerpt: "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online."
-    publishedDateTime: 2022-08-09T12:02:00Z
-    webUrl: "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/"
-    ampWebUrl: "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Meta’s new AI chatbot can’t stop bashing Facebook"
     excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
     publishedDateTime: 2022-08-09T17:54:00Z
@@ -178,15 +162,6 @@ related:
       name: AV Club
       domain: avclub.com
     quality: 37
-  - title: "Meta’s new AI chatbot thinks Trump is still US president"
-    excerpt: "BlenderBot 3, which learns from conversations with strangers on the internet, also thinks Mark Zuckerberg is ‘creepy and manipulative’."
-    publishedDateTime: 2022-08-09T12:10:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/blenderbot-3-meta-ai-chatbot-facebook-donald-trump-fake-news-elections"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 19
   - title: "This AI chatbot wants you to visit its synagogue"
     excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
     publishedDateTime: 2022-08-12T09:21:00Z

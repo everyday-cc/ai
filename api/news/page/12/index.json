@@ -2,6 +2,143 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-02-should-self-driving-cars-come-with-black-box-recorders.md",
+      "title": "Should self-driving cars come with black box recorders?",
+      "excerpt": "As technology advances, an international team of experts suggests that autonomous vehicles and robots should come equipped with a black box.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
+      "originalUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
+      "publishedDateTime": "2022-08-01T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-diagnostic-robotics-raises-45m-series-b.md",
+      "title": "Diagnostic Robotics raises $45M Series B",
+      "excerpt": "Israel-based Diagnostic Robotics announced recently that it has closed a $45 million Series B financing round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
+      "originalUrl": "https://www.massdevice.com/diagnostic-robotics-raises-45m-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.massdevice.com/wp-content/uploads/2022/08/Diagnostic-Robotics-Logo.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassDevice",
+        "domain": "massdevice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-automating-neutron-experiments-with-ai.md",
+      "title": "Automating neutron experiments with AI",
+      "excerpt": "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
+      "originalUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/automating-neutron-exp.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-automating-neutron-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp",
+      "publishedDateTime": "2022-08-01T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
       "title": "Who Drives A Driverless Train?",
       "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
@@ -992,153 +1129,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
-      "title": "The Future of Supply Chains with Artificial Intelligence",
-      "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "originalUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/shv96cio-appli450308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5.md",
-      "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)",
-      "excerpt": "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "publishedDateTime": "2022-07-31T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
-      "title": "Bam! AI exits the Batcave to confront the jobs market",
-      "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "originalUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-185883522.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "publishedDateTime": "2022-07-31T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

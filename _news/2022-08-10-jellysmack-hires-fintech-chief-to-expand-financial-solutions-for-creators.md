@@ -33,6 +33,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Fintech Market Size : Key Facts, Dynamics, Segments and Forecast Predictions Presented 2022-2031"
+    excerpt: "Global fintech market was valued USD 5504.13 Billion and is expected to grow at CAGR of 23.58% during the forecast period. The key factor for the growth of the fintech market includes high investment in technology-based solutions by banks and firms."
+    publishedDateTime: 2022-08-11T19:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/fintech-market-size-key-facts-dynamics-segments-and-forecast-predictions-presented-2022-2031-2022-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trovata Execs Comment on Role of Open Banking, Variable Recurring Payments, Other Fintech Trends in Banking"
     excerpt: "Trovata executives explained the role of open banking, variable recurring payments, other Fintech trends in banking."
     publishedDateTime: 2022-08-12T15:36:00Z

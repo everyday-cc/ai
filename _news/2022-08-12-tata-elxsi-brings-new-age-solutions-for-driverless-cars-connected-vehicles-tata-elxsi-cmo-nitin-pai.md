@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solu
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Outlookindia
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: CMO Nitin Pai"
+    excerpt: "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and"
+    publishedDateTime: 2022-08-14T05:12:00Z
+    webUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    ampWebUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    cdnAmpWebUrl: "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
+    type: article
+    provider:
+      name: Udayavani
+      domain: udayavani.com
+    quality: 62
+    images:
+      - url: "https://www.udayavani.com/wp-content/uploads/2022/08/Tataelxi-Website-620x366.jpg"
+        width: 620
+        height: 366
+        isCached: true
   - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Elxsi CMO Nitin Pai"
     excerpt: "Nitin Pai highlighted the success of Tata Elxsi products and initiatives. He cited the example of TETHER Auto, which Tata Motors has adopted and is powering connectivity and data-led services for nearly 500,"
     publishedDateTime: 2022-08-12T06:27:00Z

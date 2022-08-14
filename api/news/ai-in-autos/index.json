@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-14-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai.md",
+      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: CMO Nitin Pai",
+      "excerpt": "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and",
+      "sourceUrl": null,
+      "webUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "originalUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udayavani.com/wp-content/uploads/2022/08/Tataelxi-Website-620x366.jpg",
+          "width": 620,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "cdnAmpWebUrl": "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "publishedDateTime": "2022-08-13T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Udayavani",
+        "domain": "udayavani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle.md",
       "title": "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle",
       "excerpt": "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations.",
@@ -84,49 +128,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai.md",
-      "title": "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai",
-      "excerpt": "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912",
-      "originalUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Tata_Elxsi_1660299460.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp",
-      "publishedDateTime": "2022-08-12T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -23,17 +23,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Blockchain VC ‘The Bitcoin Man’ Goes Big Into Artificial Intelligence with Solidus AI Tech"
-    excerpt: "Since then, The Week’s research team has noticed that venture capital (VC) funds from across the world are taking special interest with strategic investments into the AI industry. Today, here at The Week,"
-    publishedDateTime: 2022-08-09T11:43:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2022/08/09/blockchain-vc-the-bitcoin-man-goes-big-into-artificial-intelligence-with-solidus-ai-tech.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 22
-
 secured: "D9EiA7zxEpl4CFqaTlFXdVBljTPOKgyK1YgSWXy9LMribYmUPqsMK9k0SbbSwsv/QQvQx/EbVsoqQpBSj1Px8ZE3zSLb6wasz+RbEqkyw6g+fNfLcM9+EqVHM3xrz8kDGJStBCuk7qOX24Zw92vY6WFnmrn6Ec+N6YGke73AlvdRBF7JOCf0hMDaSgjoJg7BHVChPUDIDRkYObi2Rs6vr3EQoyTGjLjjkLUBM8v9Y2EIv34Pelt/Ft2X+yHx697S92AX6pzEnvFTaHKehyo1tkFdxtEscAjq/NHlXnEyZ76hUNJxcIA3ulGSsJUxduN4rpCNMlvQW5PZrSe6foVHT5HI+8Gonupe5AFBWnFoyVM=;gf7/9gonDbOTca2HqFotbg=="
 ---
 

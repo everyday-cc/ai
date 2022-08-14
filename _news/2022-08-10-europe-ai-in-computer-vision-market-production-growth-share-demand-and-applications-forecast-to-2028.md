@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AI In Computer Vision Market: Analysis By Key Players Focusing On Growth Strategies And Upcoming Future"
-    excerpt: "AI in Computer Vision Market The AI in computer vision market size is expected to reach $207.09 billion by 2030 from $9.18 billion in 202"
-    publishedDateTime: 2022-08-09T12:42:00Z
-    webUrl: "https://menafn.com/1104669768/AI-In-Computer-Vision-Market-Analysis-By-Key-Players-Focusing-On-Growth-Strategies-And-Upcoming-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
 
 secured: "zi6tJ6OFQejYJXHoCoGMrV3RwOtNkXpFpgrCM+xM7qY22PxF8IpgpALlxf5xaZOO+I+RUK+8n4Jbvvxx+0nP3Vh7rwIJebqh4026Mgllajq7NeCgqsg8pX8WXtCnKrt/frV573vQR5m12KTftZYolPPjhpT+Pw+B7ngvvJYm36GosTbyDeW1di8u9UABxKVi5ZmxE9dV5pKapXk2pB59bWTVT09GDkBX0EV7c1x7k59sRlA0B36i1uUDi9kQ7VC26Y/0O4/OheljW2af1ck8DBpRivjuhJhPYR+o/7b+AK43PcqEsefZEA9/F/QNlVAWcjX0f0Dz8ft2yfdREwitzTbxelEUWBRKBdU1ghftA1o=;5L9/c3nqdIPZFfdK0Bt+JQ=="
 ---

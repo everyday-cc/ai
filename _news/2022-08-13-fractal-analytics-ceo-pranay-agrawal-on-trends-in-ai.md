@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo
 webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: eWeek
@@ -26,17 +26,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Predictive Analytics Market Worth $38 Billion by 2028"
-    excerpt: "The Insight Partners published latest research study on \" Predictive Analytics Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Component [Solution (Risk Analytics, Marketing Analytics,"
-    publishedDateTime: 2022-08-09T12:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-predictive-analytics-market-worth-38-billion-2028-204-/2022/08/09/9652572.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "LjttrO+fLeRL8XMZkFA69msX3KPwTd51mHTpqApr7mhiTknMimCTdr1yOpMktFHnsSTAOoeT3dc+euobCj10NabIwAd2foVpZwEjXdu0bMgKcyRDGsX/lYIW04lcCkymZQF4vDkXmDOBgtrxXlixbw9Js1Idks2Nrd+m4raawP5bQ6cB5fM07DRbu+0/FNYiwsESr1aFeLdIY6pwvdIprasdgJxfS/SyX2F5AEyxii0pq8mH2JIVRp1hKwnVbUHaRDSG+uyQ3YkX3iNkyNEDouBIpsKfiaNjuPLAfOwdpAKJ/VhzCj3JgDL0oQXEviFJySY/XrjqeRCZmBNOx5HwZBhBqDvgv0G+GEwbhyXaLjY=;QdMoVtkKwcePZ6A44mf7tw=="
 ---

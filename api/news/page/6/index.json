@@ -2,6 +2,105 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
+      "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
+      "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb201aacab3c921fb6862c/0x0.jpg?format=jpg&crop=3442,2294,x1155,y170,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
+      "publishedDateTime": "2022-08-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
+      "title": "AI is not sentient. Why do people say it is?",
+      "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
+      "publishedDateTime": "2022-08-06T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai.md",
       "title": "No, You’re Not Alone. Google Is Also Making This Big Mistake On AI",
       "excerpt": "As AI goes, garbage in is most definitely garbage out, and AI projects are suffering from significant bad data garbage. If Google, ImageNet, and others are making this mistake, for sure you are making this mistake as well.",
@@ -873,19 +972,19 @@
     {
       "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
       "title": "First, they banned facial recognition. Now they're not so sure",
-      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country, the controversial technology is making a comeback.",
+      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "webUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "originalUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://CNNWIRE.images.worldnow.com/images/23132249_G.jpg?lastEditedDate=1659695046000",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -893,23 +992,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
-      "publishedDateTime": "2022-08-05T05:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T05:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KAKE.com",
+        "domain": "kake.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1057,83 +1147,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
-      "title": "Nextgen and AWS launch second Security Foundations program",
-      "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
-      "originalUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
-      "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
-      "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Global-Regtech-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
-      "publishedDateTime": "2022-08-04T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

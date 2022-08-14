@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerber
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
 type: article
 quality: 61
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "CEO Mark Zuckerberg is 'creepy and manipulative', says Meta's new AI Chatbot"
-    excerpt: "The chatbot iteration may be new but there is nothing special that it delivers. It gleans information from the internet and adds nothing more."
-    publishedDateTime: 2022-08-09T12:26:00Z
-    webUrl: "https://interestingengineering.com/culture/ceo-mark-zuckerberg-is-creepy-and-manipulative-says-metas-new-ai-chatbot"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 14
   - title: "Meta AI chatbot says Zuckerberg ‘too creepy’ and Trump will always be US president"
     excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot 3 thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and Donald Trump will always be the US president."
     publishedDateTime: 2022-08-09T22:30:00Z
