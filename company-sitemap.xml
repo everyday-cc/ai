@@ -205,12 +205,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/lemonade/</loc>
-    <lastmod>2022-08-08T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/argo.ai/</loc>
     <lastmod>2022-08-08T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -224,6 +218,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/kabbage/</loc>
+    <lastmod>2022-08-08T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/lemonade/</loc>
     <lastmod>2022-08-08T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>

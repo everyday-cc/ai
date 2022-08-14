@@ -158,7 +158,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 88,
+          "heat": 87,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
@@ -178,7 +178,7 @@
         }
       ],
       "size": 50,
-      "heat": 105,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
@@ -364,7 +364,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 8583
+        "followers": 8582
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -455,59 +455,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/lemonade.md",
-      "title": "Lemonade",
-      "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lemonade/index.json",
-      "webUrl": "https://everyday.cc/ai/company/lemonade/",
-      "type": "profile",
-      "name": "Lemonade",
-      "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-      "website": "https://www.lemonade.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/lemonade-inc-/",
-        "followers": 36367
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lemonade"
-      },
-      "twitter": {
-        "username": "lemonade_inc",
-        "url": "https://twitter.com/lemonade_inc",
-        "followers": 29104
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "New York, NY",
-        "New York"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Lemonade",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -675,6 +622,59 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/lemonade.md",
+      "title": "Lemonade",
+      "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lemonade/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lemonade/",
+      "type": "profile",
+      "name": "Lemonade",
+      "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+      "website": "https://www.lemonade.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lemonade-inc-/",
+        "followers": 36367
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lemonade"
+      },
+      "twitter": {
+        "username": "lemonade_inc",
+        "url": "https://twitter.com/lemonade_inc",
+        "followers": 29105
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "New York, NY",
+        "New York"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lemonade",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/recursionpharma.md",
       "title": "Recursion Pharmaceuticals",
       "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
@@ -752,7 +752,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 20830
+        "followers": 20831
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -806,7 +806,7 @@
       "twitter": {
         "username": "ActionIQinc",
         "url": "https://twitter.com/ActionIQinc",
-        "followers": 1620
+        "followers": 1622
       },
       "yearFounded": 0,
       "locations": [
@@ -994,7 +994,7 @@
       "twitter": {
         "username": "Mobvoi_Official",
         "url": "https://twitter.com/Mobvoi_Official",
-        "followers": 52408
+        "followers": 52407
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1107,7 +1107,7 @@
       "twitter": {
         "username": "Upstart",
         "url": "https://twitter.com/Upstart",
-        "followers": 17725
+        "followers": 17723
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
