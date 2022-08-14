@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
-publishedDateTime: 2022-08-12T17:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-ampWebUrl: "https://www.benzinga.com/amp/content/28477798"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798"
+excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
+publishedDateTime: 2022-08-12T19:28:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
-    isCached: true
 
 related:
   - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
@@ -37,6 +29,6 @@ related:
       domain: mobilitytechzone.com
     quality: 16
 
-secured: "B/AvknLXdSlKNQyvYwLXj0oupEf7+oq2HlI75fgcQ/yTZoaQochYa3LonuZgInCc+c9ZO6qpcThOZ2rSKmDVvxHYDZnxeRxy/g5pJEzUlEYJzGdL61C71aZ1KxDqG9++Cpsnm7uOhLexAUckzDvTwK5s/gZcB0+EXF3ANDUERDi9gosL+JlSG9TtunzWHUyxOOaF5OStZlkoL7nG2ttChlsAyXlFyyzFkXfzq+vkcbh/z5BKihhoXqE9pGlCJVqYF/GTo9InJiquky2ZmJN817WbnDZOQj5BkXfORrZh1mVjlfFpJGvYMBElwnFeS8JV8KHW12tqVg+fAjnP4g+MByLiBBs98cLAty74bKwdKw8=;lUohptXczwvaBXggvYu0DQ=="
+secured: "Ka3I2EvdUOL7FhIhxJgX3lja/qTnu7gSuFZ7Riezrt3R4pqXnXXOHNrZIBM9N1nEd+93o0itSRJTz2Ou2gBYJ46rb28XWlLJzKJG4+pTjAL+LhxDC5ssh6N8Xth9eaAM8WpA1bVL4Si7kuKPlJEcTwoojXrqtKZ8JO1e6TC7FwqP/9zUVSYPgcz/f2iJqoNEtn+nlJeeR8V8ATW43YP0cOo82SyP/xkW8oaoVyausJZN+svYcl08Uj4jZEaYHzmrpKVnMkh+EziuHUttJH3Bk+tTCWcvpwRduJK9ivkaQCy8hqqBYuo+ZZQRKAIE2mRtbYbHtATXMWEZdRbIHckHDGx7ZNrENsuzNbGS6pKpXts=;QW5QGkFkGp68N8Vx4aGXog=="
 ---
 

@@ -5,6 +5,8 @@ excerpt: "A team based at Princeton University has accurately simulated the init
 publishedDateTime: 2022-08-08T19:00:00Z
 originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
 webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
 
 provider:
@@ -14,7 +16,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
-secured: "9ldp+l6TSqEQNia5+OvBPH4OfrY/tZYNMn6UubJO4MezWHXVHuFJMs0VrAEODtx6irad2jcY8MWE4PgxiUMC1M74Hx7zY7izuj1SEGm3WxwfuJuDMZSdSgGIomyErSzwI+x+RD4DJoX6gh7ODQn99bTuTpQ7juG97vF5eFq9L1/inkHZ718oAmoQkXAKuTbel15p9aPZgOQMP+j+FoWHfzrUpsrbQvGu8EbhZ7Vb9VbCNxs3rOn/KyEf1F53RO9FhYNpPGV1MwAf8rg1yTMgEwdrnjwjzflzxoqwv/wYSjbQhdci6mc6McZ4QK+PT/jrD4/2+mV6kL2Fmf3DbtkDkmhX8FqbnP6S/z6I7ISZS8g7n1AOI+gZ+SxmZIw+eDyJow6OZ/xNHph/cDeRfYUm+KqGzVjKHEJMpGznlKAZnKGJtbWl3fx3XkAEy9rP1Kh1+qJn0jdbO6CB//Sijk3vAsTkD2rvjyXDodfWizIMNYTNN7iMqjSMDXHPOrG+EsTbpAQvkmx9MK2V+6pLwO3/BA==;CErirp1vrhDlWsMdChsIRg=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+    width: 2560
+    height: 1440
+    isCached: true
+
+secured: "D/doZPF0uxxePt30iO0qyzJQJUzDPLH9OpkCInYuOnMAkZXeYzEiEa7FlOo8ODFKqWtl8hSJRfzK4C6GlyQPXYMM3tAyaC8/KZ2ldIbvfHjEW42GQo5P33mIjrBcd7KP+19TrmFh3/35V5rMfJS+pvEQAWz6HSmsrXMwLpATkL0mPEZGCpzPpQsT01Z8b/V1V2gHmPJEJSlwckg2Nqlfd4QCbEabWjVF7MNHkc6sMOnpGEefFh6V4Fl0f2+FHRNl7Q+V63yGXBttI8VCJJtxhzWE6WhFMT7QgtWOe3drfEfUY9EqGiwiYuyzKogEhL9+kND6ieLyDg/lbwU3nXCRvgKuACOMNV5VuQlpOasAZr4=;omsgSqJCfVwqhb712lJO2g=="
 ---
 

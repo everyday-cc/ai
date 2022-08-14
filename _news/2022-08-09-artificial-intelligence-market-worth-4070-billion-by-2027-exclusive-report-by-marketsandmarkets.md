@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-09T15:04:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 5
+quality: 7
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 related:
   - title: "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast"
@@ -42,20 +43,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Chip for Data Centers Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
-    excerpt: "Global “ AI Chip for Data Centers Market ” 2022 report demonstrates the scope and Overview of the various commercial possibilities over the coming years and the positive revenue forecasts in the years ahead."
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -112,20 +99,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

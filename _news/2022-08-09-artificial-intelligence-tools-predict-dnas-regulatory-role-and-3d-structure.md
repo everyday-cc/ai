@@ -1,27 +1,24 @@
 ---
 category: news
 title: "Artificial intelligence tools predict DNA's regulatory role and 3D structure"
-excerpt: "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics."
-publishedDateTime: 2022-08-08T19:21:00Z
-originalUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
-webUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html"
-ampWebUrl: "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp"
+excerpt: "Newly developed artificial intelligence (AI) programs accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to ..."
+publishedDateTime: 2022-08-09T02:23:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220808162100.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220808162100.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg"
-    width: 2115
-    height: 1939
-    isCached: true
-
-secured: "uFtnyE4Ujz9TTVz6LWMJOrAAA971qap64SGrx1nYFk8zgQu4G7jmTN7Q+c1NMOofy7i36vXTzn3QeDe+cvNgflWNBo3looZf3+knB7soNB1S7yNl87v3IwcTaYSteXCWu+GdMy6OI+eDbZTzEHpZv3/OAUIO3sLCoSmoYVknhBv0rbJrXSjPtlXeTX7ThspXC0GbomEfOdzNR9LFMeF9J3Tk/qWK14xPfsZzfGH2n73Q8z/nGm6E7kaGvtci59RbVI7zMoiK+BZ/FzGw/8LklDKWEgt9GKekf0J2hHa7FpkbT9uFdmH+BNyTNaK3qvRqsJz1NB2D/MAtLrJMrLRfeIREmobE5vLDtbjZx2ClW2zfNnt9j1m8/YQRsMqMF5g+kIFgJPqkyO9trfyHLF6dPW2joa21PAvmRMrkBeLSy7GztHy+PHMRw/2cA40xUZ8qF0u+WtAwvllx9mV0Tla3684Cilx5z/i/3C7wOhFzhFF1csrb3P9giY93AMT2lMSPILElorZbqUwQNkbyOfiekA==;EjCTsoa64eSlBuBlhYlbbQ=="
+secured: "7Fyz+k0Ur4Hx11QjIBPxVL65zdFd224LHIcGEfkPxjMg2DEjy11JOUwChK7x1WCVqmNxIBC5RfhyVnNh9Eq56HNZIGEZP/CaAXKb36RzIJ9JA7Ak6KfmvPcAgZ8GNqm4Uc9ripuz5dhmiBZtYsTkR+2WGbIzXgbO1YW43HqXVdfiBKPON9qSEPYR2s7HqyIt9RWJIgxTcPXpOumXyk9zisvEwXMwaf1Pt3VpMRzZSfqvsZEEiSzFAKI3wvjNwPuk/wfk8J5mj6J4K6QNlpZn2KlYqE5TW/HQHmBn47+0CHidMkJa8y7bufeIEPUZGzllG5gJE36JL5csJFyPZDtKRXErAEk8TgmhJMdmHB4IHpg=;5EoyCQtf1GpAmyxakvf+dg=="
 ---
 

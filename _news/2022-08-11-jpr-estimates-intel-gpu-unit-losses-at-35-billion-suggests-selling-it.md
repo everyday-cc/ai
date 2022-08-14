@@ -1,10 +1,10 @@
 ---
 category: news
 title: "JPR estimates Intel GPU unit losses at $3.5 billion, suggests selling it"
-excerpt: "Intel may shut its Accelerated Computing Systems and Graphics Group, according to Jon Peddie Research's CEO (AXG). The division has lost money for years and has no competitive products in any market"
-publishedDateTime: 2022-08-11T07:08:00Z
-originalUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it.html"
-webUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it.html"
+excerpt: "shipments of its Ponte Vecchio compute GPU for AI and HPC. Given how late Intel's Arc Alchemist 500 and 700-series GPUs have arrived and that they will have to compete with AMD and Nvidia's next ..."
+publishedDateTime: 2022-08-11T10:53:00Z
+originalUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it,2.html"
+webUrl: "https://www.guru3d.com/news-story/jpr-estimates-intel-gpu-unit-losses-at-3-5-billionsuggests-selling-it,2.html"
 type: article
 quality: 18
 heat: 18
@@ -18,6 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "0SbgJCOF/btHe4B3fhJb1q9SDcfn9S6SauM/28d4xfUO2G2tDjJc7K+oohiBaZFAu5kPc6lJrCXwQDV+lb66ksZGUVO/rNVqolO6p3Y+lEeazkTAaTnQZZ+XA8aK6qohWQtBc2qF1QzPC9UH62Zkv6cKqxtiQBLI951YMMdBtMyraaJerkbcxTEl0SuGITT4jPtLSW6GFqwFcPzgaIbOcggavaqCmw71y0Y46GIReoeyovM6TcOc2uEctVWx52nA9v4799q7IV9gBGuHFd6p/cB6wajBk9X2xR2KEq3yuluBUts5sRVQUZm7jbx42KMkjbdz+p3dP2jpn9y6+iK/mXyOXQpo0ow4D/tDtAqYDx4=;DHfS/Lbo5SKCzU2HYdOMPQ=="
+secured: "QAuS21m04MtYD0XRHeXvTMYSfxG8Ib5UfKuhzKU5dH30GpDIYIasvd8Dqu1lZUyIeR/PhWCGGpyQz8aujCyOVqWWgVvT8nlmoqtjE4Aj+tgWlFcBvSkXvYGTTEYjhjyPz4Rs2w0hndg1AV8ctJYvy3j/xwrn17TrV55BQl/J350Ebi/vqqwRp10Uct3Z3V1BJwPZ4aOHO6wwjKcuj7DYOlCm0UDVeBfgfKohI9IJggPKSQi+71/OF58N9b3HvZaSPhWUS6LNrqBHX810L46VRD+quJIV8kFe/qXLQg+/Gw738eQgXORAkQQrYm32yC5LPcS9q3pBN5iBPJswFO0YEleFMRKo17bOYjwXXUW1RFA=;qOm7ZwFSjAmFQpzP5ozonw=="
 ---
 

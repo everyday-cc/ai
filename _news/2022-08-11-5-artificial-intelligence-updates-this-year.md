@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-10T19:27:00Z
 originalUrl: "https://www.beckersasc.com/asc-news/5-artificial-intelligence-updates-this-year.html"
 webUrl: "https://www.beckersasc.com/asc-news/5-artificial-intelligence-updates-this-year.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"

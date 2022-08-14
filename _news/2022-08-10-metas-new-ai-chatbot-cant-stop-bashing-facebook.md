@@ -3,8 +3,8 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
@@ -207,6 +207,6 @@ related:
       domain: aol.com
     quality: 15
 
-secured: "bEtiad6jyAkpmx885zu1dMfQp9kByak5qh6skhKwaTvVjcVHggE6Kpg5iRv05z1M6asQjzdE4qAh/mJbol8AxGkagqG6hMABOwFO3rlBjVWfMTJoaycZ3AjhMqtnkQlSzW1R1iu00Xbak2SnxwIo7UY0BGcHXxP7duSuGVouI9Y3fqSkConjXs9zNnWI4iIOsUgvl6OcwBbC0xCwsj4erSdtYdjm0F/VgMmwFLHKZeW7r84L2vTCyl1oqrHnmvsZGSdUqWBe/ZvJFuRqojAbUFX66ueiGlmvjmhIP7IbtiYmmEQNr5vg6dkyFsPVhdMiuZWtRXXA62E9+2Vh8NJP8vTL6jzPU6dBQk8+WwoO7jZpEeda4BA4Qd4MPThxUGeDlLJMS7EjwKOevgeHJ+CMPWDPViYY4FvJttBjVJrfFAfWS4p7BHDBLd5wikhztJDqWY/0NXDv3xf97QlZuybV/n/p9yIZ4QcoJdwP7lrZd2d1PX1pQ9TkRCGane8o5d8GzcWoIyfQBo9RnUidprKMIQ==;R5YTSg1mBjqQ6Ki3QG8jMg=="
+secured: "fL/bRvoW4j2F4mCHSjf6/ZghWYQ5/t9C+lFJq20bc9kOociqmKtkpItXCqx4DNSKsrFynKsRlWe0mcXPvbnN4x/7VCDjVvqqM2/a50V4QssY6H9QghvZ86om8W5Wb1py/A+Pm0fMuwgVLmCNaWl+x7Vrg6mYUO2JgIHKb5XB82aGSdwEzUFsB4j1BhUQn6aoxwy9kObIXQneUZuvVjj+cC9Yap12/QTweY8j+CPYhyy6PxhqWNH+7woT9VbEsEJABoEwn6sPmwj6wjNgdg3Jwo7PtECLySbM1uXapJFnEnVdm8CvBt/lI55FWUgPs0xxhBD+n8j6H0mjvKIPa6ftSLuZLxoVcnOXZtl1swF6TZ4=;ZPeA20qUbA/KrVUz+QZNkg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/food-robotics-market-202
 webUrl: "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12"
 type: article
 quality: 75
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Chip for Data Centers Market 2022 Global Industry Analysis by Trends, Size, Share and Revenue status by 2022"
-    excerpt: "Global “ AI Chip for Data Centers Market ” 2022 report demonstrates the scope and Overview of the various commercial possibilities over the coming years and the positive revenue forecasts in the years ahead."
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-chip-for-data-centers-market-2022-global-industry-analysis-by-trends-size-share-and-revenue-status-by-2022-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Small And Medium Business Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "In the forecast period of 2022-2028, the Global “ Artificial Intelligence In Small And Medium Business Market ” is expected to grow at a steady rate, according to the Artificial Intelligence In Small And Medium Business Market report,"
-    publishedDateTime: 2022-08-09T06:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
     excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
     publishedDateTime: 2022-08-10T07:20:00Z
@@ -159,6 +131,15 @@ related:
       name: Digital Journal
       domain: digitaljournal.com
     quality: 9
+  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
+    publishedDateTime: 2022-08-09T15:04:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 7
   - title: "Detecting Robot Market Size, Industry Share, In-Depth Technology Analysis, Covers Global And Regional, Opportunities Forecast 2022-2031"
     excerpt: "SDKI published a syndicated report on the Detecting robot Market , which is evaluated for the forecast period 2022-2031. The report offers an in-depth analysis of the market on the basis of size, volume,"
     publishedDateTime: 2022-08-09T09:53:00Z
@@ -173,15 +154,6 @@ related:
         width: 370
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0"
-    publishedDateTime: 2022-08-09T15:04:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "QUGnJ3be3Rai+o9ZVlb3Uo4bCTcA0/eOO+Ao65eYaG+fbd60aLCVEXUOBgd1xwUmvTuLd6LbT5Izy/mjEGRYF/SEtmTh6magG0evFpIblaA/GlMz4DB2WSQ7fr5Nvp30D/78lG85PvSteA+GWwNNv4dphHMbX6k0KB67Fs6VyT2olSAzeAAm7/m6QwHV7us0Lm6HICIGDAK1wyHgZYw54TryImP14Za/W/yUttj/Fh+MNN7d4h8HM5/5CI9fDnF4h8uFby5LKaGXvgYaxNg1Mg5kY6z8fsd73qnvBycgOmN52D+mr7nqC2RI3wvgozodN10DpkHpg2/q+RkUlRAtYrJYQTZEJcubaNHOmHpn5zM=;OmuQmOp8T3LFTRnkgTRLlw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
 type: article
 quality: 61
-heat: 92
+heat: 91
 published: true
 
 provider:

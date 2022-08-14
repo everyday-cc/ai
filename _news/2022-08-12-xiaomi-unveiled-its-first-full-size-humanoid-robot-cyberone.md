@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

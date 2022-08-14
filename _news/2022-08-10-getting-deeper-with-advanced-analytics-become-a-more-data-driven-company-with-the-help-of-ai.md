@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/gettin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/08/10/getting-deeper-with-advanced-analytics-become-a-more-data-driven-company-with-the-help-of-ai/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Skin-like computing chip can analyse health data with brain-mimicking AI"
-    excerpt: "Rather than working like a typical computer, the chip, which is called a neuromorphic computing chip, functions more like a human brain that is able to both store and analyse data in an integrated way."
-    publishedDateTime: 2022-08-09T05:08:00Z
-    webUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162"
-    ampWebUrl: "https://www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/skin-like-computing-chip-can-analyse-health-data-with-brain-mimicking-ai-article-93445162/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 73
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93445162,imgsize-100,width-1280,height-720,resizemode-75/93445162.jpg"
-        width: 1278
-        height: 720
-        isCached: true
   - title: "Global Healthcare Analytics Market Growth Sustained by Increasing Demand for Big Data"
     excerpt: "\"HEALTHCARE ANALYTICS\"Inkwood Research estimates that the Global Healthcare Analytics Market is evaluated to grow with a CAGR of 25.24%% in terms of revenue during the forecasting years of 2022-2030.“"
     publishedDateTime: 2022-08-09T22:10:00Z
