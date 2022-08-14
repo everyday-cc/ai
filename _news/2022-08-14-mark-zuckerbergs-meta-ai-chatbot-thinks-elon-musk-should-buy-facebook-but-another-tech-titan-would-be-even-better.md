@@ -1,29 +1,28 @@
 ---
 category: news
-title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
-excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
-publishedDateTime: 2022-08-11T16:57:00Z
-originalUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
+excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
+publishedDateTime: 2022-08-14T11:21:00Z
+originalUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
+webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
+ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
 type: article
-quality: 57
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
-    width: 1267
-    height: 713
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -42,6 +41,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
+    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
+    publishedDateTime: 2022-08-11T16:57:00Z
+    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 57
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
+        width: 1267
+        height: 713
         isCached: true
   - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
     excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
@@ -134,22 +149,6 @@ related:
       name: AV Club
       domain: avclub.com
     quality: 37
-  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
-    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
-    publishedDateTime: 2022-08-14T11:21:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 34
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "This AI chatbot wants you to visit its synagogue"
     excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
     publishedDateTime: 2022-08-12T09:21:00Z
@@ -169,6 +168,6 @@ related:
       domain: aol.com
     quality: 15
 
-secured: "+RgPTKTnKo3S1/3SdKH4qhMsoJDA8ZJp+o/hoiew1diA1ugR//XsbY9jrKCVMrHfKIxC8kgV0ONLvyUdOhiUKy5E3JzuXAwVmriFNZbrOtY4eptOFJ7C+AkecUubdWDiUgnfXSXZ3zZnYpqtqgu6WDdxkI2NsF/Z5QiW9BMgJklf8mW992ko5S/zkZWbMZq+52alIwy/w1Cj7ik6oM0wDQnq7pEzEhYvpNoVsh3slThhtEii05PFnZ0byryBnRh3v582fablY5oTTy1gbcZs6lDJ6EKuogQoyDkDpvmpPrrRcIJbGNfB8XsqYOGez2B1bS8dQUWFgbUV7SiYuqYiPiTIjxpcOwBUM3klabEirolaalwxS24rq8O1NaOctxxHYeOFNNmLa1v1zJH6e4WxwSo22flfz4XT1x1J3zyvUURi4CDyJ8qkUPtIkoExDF1TPpz89IL7Ww8mBxbPzPMLfd1nA77lTZB73JNDC/8jd1+gdQxJQHD3Oq+gYWVp+j3BneFnx0vbKFUZT7e551j5Gw==;XQqmIvk5TZ0QZzniN05aAw=="
+secured: "anqkfhIPMnXS2sg3Xlf34R1z0FIYm7OeFgVlKX/95D+p1KcGBVCvRbv9k6D8sq14ytFT5EDGZfrgXfyBUXOXaW1uoHXi0rjW58D5u0ggl1QGV/U3PJ0SsxUZ+9haK1kxZXu7BrVzcYdHos3WWW1ODRJVg8x/p/bHp5dkkthT6ldSxyfHRj1t14r4v0p2DqzYr5yJ4X8cssUEdsKgukxhWuZjET2xRCTRYrPzgWGOkNosveAYelhptFcC99EcOM8x3hMl43JVQd8dlAknUD8qNgDovbLP1BKSJQ1qH+gyPsDAsIiK42ZSuRLuMvjd7yhgAnocKKDJmWYp6Ob1PZ5lTYw8PIFwaiywXMUTRluMRGo=;/3ZQh1PIKTFhxZrcDR39hg=="
 ---
 

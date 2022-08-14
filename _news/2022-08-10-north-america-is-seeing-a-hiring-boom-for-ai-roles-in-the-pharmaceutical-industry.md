@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/analysis/north-america-i
 webUrl: "https://www.pharmaceutical-technology.com/analysis/north-america-is-seeing-a-hiring-boom-for-ai-roles-in-the-pharmaceutical-industry/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1038
     height: 778
     isCached: true
-
-related:
-  - title: "The CHIPS Act Is A Boon For American Innovation"
-    excerpt: "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers."
-    publishedDateTime: 2022-08-09T17:44:00Z
-    webUrl: "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f29a1a654dcc48001d9c76/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 953
-        isCached: true
 
 secured: "FQ6J8MDF2/Tk+jXZd6tiWHovdbX3k3cwZyBdAgS2NpUsmAWdI5+whjUS8D7vu3j03sfJTHHZWpzZNamfNm9vrVq2ADoasxg85UdhQ6cIEMV2HljrVGEVsTbEVjKsrPwqZOVATzhCzb6r3ANwmI8lDdIjT3k2qkxFcsSAQYYKi5b5GdUn+YtAqIKTdDKT7cNZzPR5/3eAioHtJqouxbtvNQb1OseXbS3udYDF6upD2G4zb9MxDG8p5iS+r9s0OuDEFMDo4gSgbUo7sBTqrdm4NMqkzK3CBF2M68HxfJryJsF2qyDHENYkbTDD81qERFw+Z/pbyWbBRfVZDn9LjEUaxF36DEONr6TAD1+28aUneHE=;IYi/jiO22pLHSL+RxxsJ9g=="
 ---

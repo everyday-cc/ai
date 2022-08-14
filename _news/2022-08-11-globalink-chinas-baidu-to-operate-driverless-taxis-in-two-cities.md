@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu gets permits for first fully driverless taxi service in China"
-    excerpt: "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ..."
-    publishedDateTime: 2022-08-09T17:35:00Z
-    webUrl: "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Baidu rolls out driverless taxi service in two Chinese cities"
     excerpt: "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport."
     publishedDateTime: 2022-08-10T08:31:00Z

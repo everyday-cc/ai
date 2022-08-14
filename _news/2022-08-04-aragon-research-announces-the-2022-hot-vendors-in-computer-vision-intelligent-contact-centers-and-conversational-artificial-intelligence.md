@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence"
-excerpt: "Computer vision – the use of AI algorithms to understand, analyze, and reconstruct visual scenes from image or video content – is commonly associated with self-driving cars and security ..."
-publishedDateTime: 2022-08-04T15:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-"
-ampWebUrl: "https://www.benzinga.com/amp/content/28357613"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28357613"
+excerpt: "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,"
+publishedDateTime: 2022-08-04T15:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04"
+webUrl: "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - AI in Autos
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "e6Sk2RBTB2x2lSXP6kIJqGbH4mwRoqSdO531p2jn+4xMz4jmv3xi4K7Ja/0uMmsJSGaY+Zash3pL3XMpVG9r5Luk14UIg7XA/HDkvWh/92IZqfI2jVWpIC7BsGWUB/w5bd/gX7Dps1CTMNrwWmAQiJFxB9pINUYL6quTrKIfcfKgDodYB5nbLGhPOnCXaBeqhHo5MpmM3J+QPyHw8bCzq7TKOr9+/7YoWBz0n8csAPzoXOWnqjsHZd6LyfUWc5wGoFpEcGtjodVac/3g5CtgACK/tz5XHeULu4zmyftk4eUw70Ho8VLdF7waS86KyzaIbbtZGUODUARFv7fiTlYvEsYM8UkTtpWGgQkh2RhO2MA=;hdCFIihwSaCMKrwtc+MfgA=="
+secured: "n0s+22xIp0GwCPcoD6OZV2naFnAmhYulchbxNrf13G4k+hpp2NV55HhkNt5O61dW0nwklhY7ZNB8pgwmRbUsMFCmQY8sGSNZ3OOtQKCCGtABAHsFi2wH//xoDPJJUe6HE79ttkMpW54oX+LS+deidmbM3lj2/K3tkurFYexrBX75cNR7MOlh+Qq+SZrRAvyJsV9WQYYKxM2y24V3nP8huC12Ho6OJ+dwmN5jyu3QC+teymd8e0LoDxekYTgZUYDbRv7lv/F0CJoZvOgIj3K/8Z39dGTpUa4cNLkdR3EUoU2tOKoiqU/77akIXokilCHlQHPjy9W3NFqc4PF8tUbpmTvgxg93XLXiDk0seCBREv4=;6BEhgpIzyBOApzsLUcrImw=="
 ---
 

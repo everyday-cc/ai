@@ -24,22 +24,6 @@ images:
     height: 357
     isCached: true
 
-related:
-  - title: "Representatives Revive Bipartisan Effort for Self-driving Vehicle Legislation"
-    excerpt: "Two members of the U.S. House of Representatives have launched a bipartisan effort to spur legislative efforts that support self-driving vehicles."
-    publishedDateTime: 2022-08-09T17:23:00Z
-    webUrl: "https://www.autodealertodaymagazine.com/368624/representatives-revive-bipartisan-effort-for-self-driving-vehicle-legislation"
-    type: article
-    provider:
-      name: autodealertodaymagazine
-      domain: autodealertodaymagazine.com
-    quality: 21
-    images:
-      - url: "https://dealerimages.bobitstudios.com/upload/auto-dealer-today/content/news/2022-08/3718712243_1f44384092-__-1200x630-s.jpg"
-        width: 500
-        height: 333
-        isCached: true
-
 secured: "r6zpVHJ1m3Q1AvL6XymHEJ1pzEPDAXBr+bSVDAYvAdRtGpHTucMRvudueavhCkiRv8OeGKwmAtEpqXSwGZTreKBsDg7eAr0UwvRiWHWK7AcbEATmyD6uU7VzYwhCYeVinQRCuP6CCloAmNhYaJJTD6SaT8v3c3ygalWGeHwmgrh+WNntjxX3sOcKK2aJmpbSoEI3+pY1AZcGbvZt+LI+tNWQ/LrOUMwAtXyYLV064hZoyjXs06WkDhJe43LxfiXGmELJhJ7hRin+PKow/BV5PGYEhfKuJFUYJMLsv7PAmL4B6y+w/3HkdgB7uXngwKoA71iG4DvoNS/7J1aAIH69PM0DbIRtKePHBIUK1Z5uG9DZjSYZ9OCcEnq2kwf1ycy9JsZ6P8GeYvLQ9eheOZYFsr9wo0UPaIhR1RyjNWRsgXnpA/kOg09LYEIfX8M7w5KiOcJaKG6Bp1gAkl0s2APOXZkMAWxAatP+oiNWVhUc4siDouRrepL3zbuSrxWCY5avi+5fOSCAq48sap0OsI8iBw==;z9LYeyW9sPJrtppA/u4aaA=="
 ---
 

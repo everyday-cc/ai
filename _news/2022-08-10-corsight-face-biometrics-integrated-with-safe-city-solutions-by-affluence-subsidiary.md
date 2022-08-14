@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202208/corsight-face-biometrics-in
 webUrl: "https://www.biometricupdate.com/202208/corsight-face-biometrics-integrated-with-safe-city-solutions-by-affluence-subsidiary"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -25,78 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Best Biometric Gun Safes of 2022"
-    excerpt: "We tested and reviewed the best biometric gun safes for quick access to your firearm and reliable security you can depend on."
-    publishedDateTime: 2022-08-09T18:24:00Z
-    webUrl: "https://www.outdoorlife.com/gear/best-biometric-gun-safes/"
-    ampWebUrl: "https://www.outdoorlife.com/gear/best-biometric-gun-safes/?amp"
-    cdnAmpWebUrl: "https://www-outdoorlife-com.cdn.ampproject.org/c/s/www.outdoorlife.com/gear/best-biometric-gun-safes/?amp"
-    type: article
-    provider:
-      name: Outdoor Life
-      domain: outdoorlife.com
-    quality: 44
-    images:
-      - url: "https://www.outdoorlife.com/uploads/2022/08/05/Best-Biometric-Gun-Safes.jpg?auto=webp"
-        width: 1200
-        height: 751
-        isCached: true
-  - title: "Biometric wallet, facial recognition deployed for patients in US, Israel"
-    excerpt: "MSP Recovery has deployed its biometrics-enabled app, LifeWallet as part of a new pilot program with Miami-based care provider Cano Health."
-    publishedDateTime: 2022-08-12T21:41:00Z
-    webUrl: "https://www.biometricupdate.com/202208/biometric-wallet-facial-recognition-deployed-for-patients-in-us-israel"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "Facial recognition might work better with a dedicated capture device, like all other biometrics"
-    excerpt: "Facial recognition would probably work better with images taken from a dedicated device, rather than one designed to capture good pictures of unrelated objects like landscapes, Arun Vemury said during a recent episode of the ‘Technologically Speaking ..."
-    publishedDateTime: 2022-08-11T17:31:00Z
-    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-might-work-better-with-a-dedicated-capture-device-like-all-other-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
-  - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
-    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
-    publishedDateTime: 2022-08-11T20:44:00Z
-    webUrl: "https://www.biometricupdate.com/202208/face-forensic-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Face Forensics launches victim identification system with biometrics and tattoo recognition"
-    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
-    publishedDateTime: 2022-08-11T20:48:00Z
-    webUrl: "https://www.biometricupdate.com/202208/face-forensics-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Move a little to your left. Turn your head. Perfect! Recreating crimes with face biometrics"
     excerpt: "Police in India can have the subject recreate the pose of the person they are looking for and compare the two pieces of evidence using face biometric systems."
     publishedDateTime: 2022-08-12T15:36:00Z
