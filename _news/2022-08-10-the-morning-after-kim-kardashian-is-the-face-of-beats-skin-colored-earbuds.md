@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/the-morning-after-kim-kardashian-is-the
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

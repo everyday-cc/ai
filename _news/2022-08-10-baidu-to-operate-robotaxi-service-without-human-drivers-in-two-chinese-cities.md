@@ -92,20 +92,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "China drafts national guidelines for commercial driverless robotaxis"
-    excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
-    publishedDateTime: 2022-08-09T10:48:00Z
-    webUrl: "https://technode.com/2022/08/09/china-drafts-national-guidelines-for-commercial-driverless-robotaxis/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/08/IMG_2-e1660039195363.jpg?fit=1335%2C705&ssl=1"
-        width: 1335
-        height: 705
-        isCached: true
   - title: "GLOBALink | China's Baidu to operate driverless taxis in two cities"
     excerpt: "Chinese tech giant Baidu has obtained permission to operate fully driverless taxis commercially on public roads in the cities of Wuha"
     publishedDateTime: 2022-08-11T12:55:00Z

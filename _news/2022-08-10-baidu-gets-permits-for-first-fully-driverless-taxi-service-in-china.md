@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Baidu-robotaxi.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "China drafts national guidelines for commercial driverless robotaxis"
-    excerpt: "The release of China’s first guidelines for commercial services of robotaxis could establish a state framework for self-driving tech."
-    publishedDateTime: 2022-08-09T10:48:00Z
-    webUrl: "https://technode.com/2022/08/09/china-drafts-national-guidelines-for-commercial-driverless-robotaxis/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/08/IMG_2-e1660039195363.jpg?fit=1335%2C705&ssl=1"
-        width: 1335
-        height: 705
         isCached: true
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."

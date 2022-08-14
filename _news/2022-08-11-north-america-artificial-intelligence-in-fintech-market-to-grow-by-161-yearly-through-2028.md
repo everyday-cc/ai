@@ -21,38 +21,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Asia Pacific Artificial Intelligence In Fintech..."
-    excerpt: "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment"
-    publishedDateTime: 2022-08-09T09:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28411655/asia-pacific-artificial-intelligence-in-fintech-market-report-2022-featuring-key-players-ibm-oracl"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28411655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28411655"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "US healthtech firm Basys.ai plans India entry to build AI technology"
-    excerpt: "Basys.ai, a Harvard-based healthtech startup, is in talks with healthcare providers in India and Singapore to launch its platform in these markets. The firm is depending on the central government's Ayushman Bharat Digital Mission,"
-    publishedDateTime: 2022-08-09T11:29:00Z
-    webUrl: "https://inshorts.com/en/news/us-healthtech-firm-basysai-plans-india-entry-to-build-ai-technology-1660044547075"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/us-healthtech-firm-basysai-plans-india-entry-to-build-ai-technology-1660044547075"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/us-healthtech-firm-basysai-plans-india-entry-to-build-ai-technology-1660044547075"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/08_aug/9_tue/img_1660031607583_106.jpg?"
-        width: 361
-        height: 585
-        isCached: true
   - title: "AI Solutions Are Making Strides In Fintech Land"
     excerpt: "Products like Toggle, though hardly revolutionary, nonetheless represent significant steps forward in improving day-to-day efficiency for advisors."
     publishedDateTime: 2022-08-10T16:06:00Z
@@ -67,6 +35,22 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Trovata Execs Comment on Role of Open Banking, Variable Recurring Payments, Other Fintech Trends in Banking"
+    excerpt: "Trovata executives explained the role of open banking, variable recurring payments, other Fintech trends in banking."
+    publishedDateTime: 2022-08-12T15:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Cavalary-of-the-Empire-Statue-Park-London-UK-600x513.jpeg"
+        width: 600
+        height: 513
+        isCached: true
   - title: "Banks and fintech firms: The symbiotic relationship"
     excerpt: "Customers expect a lot more from their banks today. They anticipate a full digital experience that engages with them on an individual, personalised basis. Fintech firms have excelled in customer experience and are far better at providing tailored products  and services than the banks,"
     publishedDateTime: 2022-08-11T09:11:00Z
@@ -80,20 +64,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/467.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Sesami acquires FinTech Planfocus"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2022-08-09T10:49:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/sesami-acquires-fintech-planfocus/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/08/Amsterdam_MPU.jpg"
-        width: 600
-        height: 500
         isCached: true
   - title: "Jellysmack Hires FinTech Chief to Expand Financial Solutions for Creators"
     excerpt: "In his new role, Marmor will spearhead JellyFi which will expand Jellysmack’s financial and capital solutions for creators. The initiative will enable creators to unlock their full business potential through new financial technology tools the company is developing."

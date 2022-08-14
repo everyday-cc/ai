@@ -2,21 +2,28 @@
 category: news
 title: "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com"
 excerpt: "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders."
-publishedDateTime: 2022-08-10T14:20:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom"
+publishedDateTime: 2022-08-10T14:21:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
+webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2"
 type: article
-quality: 0
-heat: 0
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "ylyhfvg/9XwjsndpmxmJSceR3qYvU4zOMkvi5WN3FpGYOY3jbKtAKft+Rydb4iZ7XgPGlgQqWKFHLDNvFcFxFYUwoXDEFlBI6aBK/jRJagjsS54H9tRhY+XcGq6srh36ENfMaZJ0k5Cr5VvsGB3EItlZBZ30vde8cAzc6QpnIYXjKED0VC8KHLIDVPX8+N1qUpv1W9tFTT20H+0SPecUDxhDYAwnqjyC/5r6PalHgGT/JwIRcx/xQbY8XGdSHFGQVH+1mUvKJY5UOsbclpwtKogGOMlpdRmfgDxQNoPxpw/5uJchjLKqrF5SNUQnkmy9qsQ+tpCiQuttw9lzzqL9dNaCX7yT3At1kOPMKqf22K8=;+B6fVzg6CtGEMyvxobptBw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "1sIyu9kaS7coYiCEzSMKCGOQlHEYB6NWan395tl8BqFoewdXB8YoxGO8KngsJkESAr4U4TI1FlZbxl3SPbZ1yDbYOke8eH8PmndTXDwORfR2+iQI2R6VHQb7VIddo0BzQMMvRSTnI5Bbw8f54nCnnLHiBLQ6VYC2qI+31LH4I5YJ7t3HtwvpfnInU2ceFNrCK7RKngiIDvPHFAGvefnMdm2GgztwXcNsoH6uhCOVMoiqkc6OP6nOB9Fp3ZGCJkxwNPvo+Hz1JzRCbJBQzYgL5lgQMUekD/C7MGSugS0uQBh/DtKwyBYFUe5BXDmLULufHzQGrbiNT8C1rNTHDmUUUmxLripNQqIcwrMrl86n39U=;Z65hKYSx9PBEXYK+/hvMzg=="
 ---
 

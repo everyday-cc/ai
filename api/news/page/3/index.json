@@ -105,7 +105,7 @@
       "originalUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -188,49 +188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report.md",
-      "title": "Machine learning is top skill in demand for data scientist jobs in India: Report",
-      "excerpt": "Python remains the most used programming language across all sectors and MS Excel, Tableau and Power BI are the top three visualisation tools used by data science professionals, according to the repor",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
-      "originalUrl": "https://www.mid-day.com/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/aug/Cashify-aa_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/technology/article/machine-learning-is-top-skill-in-demand-for-data-scientist-jobs-in-india-report-23240284",
-      "publishedDateTime": "2022-08-10T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -702,7 +659,7 @@
       "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1246,6 +1203,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-why-devops-needs-a-better-approach-to-cloud-networking.md",
+      "title": "Why devops needs a better approach to cloud networking",
+      "excerpt": "A full-stack networking platform with machine learning, autonomous capabilities, and multicloud support allows devops engineers to focus on what matters most—building applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "originalUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_network_connections_synchronization_thinkstock_584207196_3x2-100740711-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3668551/why-devops-needs-a-better-approach-to-cloud-networking.amp.html",
+      "publishedDateTime": "2022-08-09T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }
