@@ -8,7 +8,7 @@ webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-ma
 ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 

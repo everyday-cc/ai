@@ -151,7 +151,7 @@ related:
     provider:
       name: The Sun
       domain: thesun.co.uk
-    quality: 34
+    quality: 36
     images:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920

@@ -57,6 +57,15 @@ related:
         width: 640
         height: 460
         isCached: true
+  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
+    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston"
+    publishedDateTime: 2022-08-12T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics-1031679243"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Hyundai launches Boston Dynamics AI Institute to bolster advancements in AI and Robotics"
     excerpt: "Hyundai Motor Group and Boston Dynamics announced today that they’re launching the Boston Dynamics Artificial Intelligence (AI) Institute."
     publishedDateTime: 2022-08-12T14:41:00Z
@@ -70,20 +79,6 @@ related:
       - url: "https://finbold.com/app/uploads/2022/08/Hyundai-launches-Boston-Dynamics-AI-Institute-to-bolster-advancements-in-AI-and-Robotics.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-    publishedDateTime: 2022-08-12T09:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 59
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Hyundai to spend $424 mn to build AI research centre in US"
     excerpt: "As a component of the arrangement, Hyundai said it has as of late gained 42dot, a Seoul-based independent driving programming and portability stage startup, for 274.6 billion won ($211.1 million)."

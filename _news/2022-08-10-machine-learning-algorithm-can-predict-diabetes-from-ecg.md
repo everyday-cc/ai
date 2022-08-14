@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI + ECG heart trace can accurately predict diabetes and pre-diabetes"
-    excerpt: "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations."
-    publishedDateTime: 2022-08-09T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Indian scientists create artificial intelligence that can trace diabetes and pre-diabetes"
     excerpt: "A team of Indian scientists have developed an artificial intelligence (AI) algorithm that is derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), and can accurately predict diabetes and pre-diabetes."
     publishedDateTime: 2022-08-12T07:12:00Z

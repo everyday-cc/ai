@@ -24,17 +24,6 @@ images:
     height: 683
     isCached: true
 
-related:
-  - title: "Burn pits recognition for veterans took decade of struggle"
-    excerpt: "President Joe Biden is scheduled to sign the bill boosting health and disability benefits for veterans into law on Wednesday."
-    publishedDateTime: 2022-08-09T19:46:00Z
-    webUrl: "https://www.navytimes.com/news/burn-pits/2022/08/09/burn-pits-recognition-for-veterans-took-decade-of-struggle/"
-    type: article
-    provider:
-      name: Navy Times
-      domain: navytimes.com
-    quality: 4
-
 secured: "jsZYJp55+twZ2KKdrBSIKvDOGWCsutP5ovPQdH7bmuIa6TvqwmZr5iCikIX77vJ+p+IryXEA4IfkoC2r+bDNMES+/7XPjvOQHvgGFYrkgJK0+ilZqzhwXbfwzRb3HJMzOULxWcEVsKjrdhpQfJf4H2QE1O0bCYkbxrv679R1TjCnIrh4kp57upIXF6zLfua3vR9HOJH6VNnUuPvW7muyz10Z5mhHGzeHzvAitO9ytxZ88I+09Td+wwJkjJ4GhqTAvopxU0sIpRkjCNhIZ1Hb2rcoHRxrdkrwMAxy5vELDti1AjbcRhkUdm7QU0aZGAoNTn972CWdd6niNVYkzrXKeD2kTK8b3/GQOsrGBDBGT4R6hzpV7cUXymfrQ3NRCA1QOb7K5UgB29ujQfKQJ1UPUNVpks9/RaZ728ql+R1l9ofCZP23SgEIarLGO/kfReGl7zQNA70P9++HVmu5iVCnEHeKAGeGyO/zfgngKqQYegmNr95+t35R4ykBpiJ73WWJ/6FyujO/eoKoBynw/lVRLQ==;sKFVB/g4+rlDRMsz2pHZog=="
 ---
 

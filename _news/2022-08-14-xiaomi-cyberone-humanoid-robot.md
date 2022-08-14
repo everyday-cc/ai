@@ -43,6 +43,22 @@ related:
         width: 1500
         height: 1194
         isCached: true
+  - title: "Xiaomi Pilot Technology for autonomous driving unveiled"
+    excerpt: "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021."
+    publishedDateTime: 2022-08-14T14:05:00Z
+    webUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/"
+    ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg"
+        width: 1652
+        height: 920
+        isCached: true
   - title: "Xiaomi shows off humanoid robot prototype CyberOne; CCF's Climate Startup Week next month"
     excerpt: "Xiaomi showcased its humanoid robot prototype, called CyberOne, at an event yesterday, ahead of Tesla's AI day. CyberOne is 5.8 feet tall, weighs 52kg, and is nicknamed \"Metal Bro.\" It has also been given a zodiac sign,"
     publishedDateTime: 2022-08-12T04:46:00Z

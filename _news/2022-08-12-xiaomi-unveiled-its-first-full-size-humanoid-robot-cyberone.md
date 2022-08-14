@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Xiaomi Pilot Technology for autonomous driving unveiled"
+    excerpt: "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021."
+    publishedDateTime: 2022-08-14T14:05:00Z
+    webUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/"
+    ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg"
+        width: 1652
+        height: 920
+        isCached: true
   - title: "Xiaomi CyberOne Humanoid Robot"
     excerpt: "We’ve seen extraordinary progress in the industrial robotics space in the past few years, with robots using artificial intelligence (AI) to learn goal-based skills instead of mimicking pre-recorded motions. These robots can workaround unforeseen problems ..."
     publishedDateTime: 2022-08-13T17:12:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-14T11:52:00Z
 originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-automation-how-will-it-impact-future-jobs/"
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-automation-how-will-it-impact-future-jobs/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: India Times

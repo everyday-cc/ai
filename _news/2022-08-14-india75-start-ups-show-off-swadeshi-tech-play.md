@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-14T13:26:00Z
 originalUrl: "https://www.thehindubusinessline.com/companies/india75-start-ups-show-off-swadeshi-tech-play/article65768402.ece"
 webUrl: "https://www.thehindubusinessline.com/companies/india75-start-ups-show-off-swadeshi-tech-play/article65768402.ece"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Business Line

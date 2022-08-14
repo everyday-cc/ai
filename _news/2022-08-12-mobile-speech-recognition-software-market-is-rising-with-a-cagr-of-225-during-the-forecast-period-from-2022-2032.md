@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031"
-    excerpt: "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1."
-    publishedDateTime: 2022-08-09T21:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09"
+  - title: "Getting more men into nursing means a rethink of gender roles, pay and recognition. But we need them urgently"
+    excerpt: "Demand for health care is soaring as the population ages, medical treatments become more widely available and more people live with chronic and complex illnesses."
+    publishedDateTime: 2022-08-12T15:22:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-men-nursing-rethink-gender-roles.amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 25
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/getting-more-men-into.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "RGsi1yKPBqUY3Ihzed8DcxVeVJ8TvdBwR0xZfAjO27Z6Q620fF25x82zx43rAIlkKRnMK5V7bz+5dYpikfOZpn8bWqx4QEJrhz+kkBKLsb+ZDmKKswo7B9z349uKBOzOuctvFIFot51Y39Xvb5vRvnAPtlAlFyvdMlFBceZThk8I94gkTeKEYQmDophEzviRfNWg/+lgqV+gd2pqT0wm9DVLaoCkB4EK4uBKd+UpuEM9GtWFBkk/0t7UZI7i3i/ReV+ckZvqQX/ONTp8S/MS4vpla23VzPtkg9CNK4k7Q6pZf37/l2uoR/GWNU5HIcAsbU9K07c+KZzTDQd/6vT68W5RkwzJiWg1Edj1u+DPUiw=;pIsk8QTeMHeeI99t+SlmQQ=="

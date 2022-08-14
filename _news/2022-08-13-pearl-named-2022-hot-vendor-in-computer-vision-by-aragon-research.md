@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T17:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +17,17 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
+    excerpt: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research. Vendors selected for the \"Hot Vendor\" report are noteworthy, visionary, and innovative. SUNNYVALE, Ca"
+    publishedDateTime: 2022-08-11T08:39:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/08/11/9654326.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 16
 
 secured: "cmKzXUCXg/IQPNckexjWJQ5EZdriQ1RhqgAGkK2vwquq1CWbPZlEM//SZXjOAV54pL+W9Lk8t4J3rHKdTbRC4lqwoF1XOlTtASoIL6qXRXXkjMFO4lnZK03Q1BRNdUByyurIQ238A0xKrgligbgeR2AJ/10tQxwB6kOqi3P1NaA8FZNe/caMEImd/0whn2RABgt9tOH4RYOvhLWfHt1tCov3/ceCa6USpYhy2zRoP++hfrzIwW9yQI2oDeAW0bkYXb+k5lcHbFGqY7+PSuUCBm89nLlWpjCkKuhcqSRp+Hj33MGeG5gMc0Qv6Agm/JpgS0nQnH8I4x2s3O+b2x03VxWe5eATAnqJyBZo/cpqX0s=;qZekWiU++qCJt+c4ktvsag=="
 ---

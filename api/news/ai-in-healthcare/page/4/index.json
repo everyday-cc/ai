@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
+      "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
+      "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
+      "sourceUrl": null,
+      "webUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
+      "originalUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/XlXt-tLT2A48ziQkvqnMnVz_XQQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7Q47P474QJD6JIIRH23WO737WA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-waff-com.cdn.ampproject.org/c/s/www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "publishedDateTime": "2022-07-02T00:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAFF",
+        "domain": "waff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
       "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
       "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
@@ -1277,51 +1321,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
-      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
-      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Machine Learning"
       ]
     }
   ],

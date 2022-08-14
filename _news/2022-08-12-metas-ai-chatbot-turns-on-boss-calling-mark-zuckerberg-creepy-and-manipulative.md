@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Meta AI chatbot says Zuckerberg ‘too creepy’ and Trump will always be US president"
-    excerpt: "Meta (formerly Facebook) just unveiled an artificial intelligence (AI) conversational chatbot asking the public to give feedback. The initial reports are scary as the chatbot named BlenderBot 3 thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and Donald Trump will always be the US president."
-    publishedDateTime: 2022-08-09T22:30:00Z
-    webUrl: "https://indiatribune.com/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president/"
-    type: article
-    provider:
-      name: India Tribune
-      domain: indiatribune.com
-    quality: 13
   - title: "Meta AI chatbot says Mark Zuckerberg ‘too creepy’ and Donald Trump will always be US president"
     excerpt: "Meta’s newly unveiled artificial intelligence (AI) conversational chatbot, BlenderBot 3, thinks Meta founder and CEO Mark Zuckerberg is “creepy and manipulative” and thinks Donald Trump will always be the US president."
     publishedDateTime: 2022-08-10T12:28:00Z

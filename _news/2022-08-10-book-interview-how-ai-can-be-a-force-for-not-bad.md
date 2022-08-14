@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The future of interviewing is artificial intelligence"
-    excerpt: "As HR practitioners work hard to bring fairness and validity to interviewing, the future of the job interview is turning to the power of artificial intelligence. HR technology company Modern Hire has developed,"
-    publishedDateTime: 2022-08-09T20:36:00Z
-    webUrl: "https://www.hcamag.com/asia/specialisation/diversity-inclusion/the-future-of-interviewing-is-artificial-intelligence/416254"
-    type: article
-    provider:
-      name: hcamag.com
-      domain: hcamag.com
-    quality: 37
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/039/0308_637956741634332253.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Interview: Why the future of advertising is with AI"
     excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
     publishedDateTime: 2022-08-12T21:55:00Z

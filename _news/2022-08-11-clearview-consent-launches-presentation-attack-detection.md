@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-11T10:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
 webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MarketWatch

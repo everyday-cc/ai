@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-14T13:38:00Z
 originalUrl: "https://gulfnews.com/uae/science/how-artificial-intelligence-has-enhanced-dubais-power-water-services-1.89763893"
 webUrl: "https://gulfnews.com/uae/science/how-artificial-intelligence-has-enhanced-dubais-power-water-services-1.89763893"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Gulf News

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/viral/indian-scientists-create-a
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/viral/indian-scientists-create-artificial-intelligence-that-can-trace-diabetes-and-pre-diabetes"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI + ECG heart trace can accurately predict diabetes and pre-diabetes"
-    excerpt: "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations."
-    publishedDateTime: 2022-08-09T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Machine Learning Algorithm Can Predict Diabetes From ECG"
     excerpt: "A machine learning algorithm can detect diabetes and prediabetes from electrocardiogram (ECG) features, according to a study published online Aug. 9 in BMJ Innovations."
     publishedDateTime: 2022-08-10T15:56:00Z
