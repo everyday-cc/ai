@@ -1,28 +1,20 @@
 ---
 category: news
 title: "FedEx to expand robotics technology, artificial intelligence"
-excerpt: "Memphis-based FedEx will be using more robots and artificial intelligence. This comes after the company announced an expanded relationship with Berkshire Grey, a Massachusetts-based company that develops robotics technology and AI software for logistics businesses."
+excerpt: "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the"
 publishedDateTime: 2022-08-03T23:22:00Z
-originalUrl: "https://www.wfmynews2.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-webUrl: "https://www.wfmynews2.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-ampWebUrl: "https://www.wfmynews2.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
-cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+originalUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
+webUrl: "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72"
 type: article
 
 provider:
-  name: WFMY News2
-  domain: wfmynews2.com
+  name: Local 24 News
+  domain: localmemphis.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://media.wfmynews2.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
-
-secured: "wZ6YryhhE2jao7Q+r+tHqXImR6MrQ3FxQRRUZxeETiuqjy2pdhlxmoHLMM8IsdlOo5OnDOTPf9lREEvtsNxnPDfl+V4QnulCbG9XGtnyCTF0FUMWB0ICc7RGrGiW00L2zjcwOwo09KbB4G8qs8xspagJoGZL2ZxmhAFEbzzbo/Mv7iKyI+xvG+f30PQr13lAx0xY2b1XMFtfEK6qj7STpWiAglCyuE0uSSrYln26GFDzcsUoVsabMbnCN5/ovgKXVxICirqDuf4tU507K+iXdpbT7ovnOZkKlnyJrtOfKy/sd/HalQ3akTDjNQYv4ih2a+QHNNoEfMSMhY3/lTQWr/I6xY9ck6PlstBbNzvKyRk=;05dO8w32TCCjgI9UH53j4Q=="
+secured: "DvHr/LtCz5K2X24jhdLl/FyEnZ3IkO9h5IpfdtYtY12LjTPJlYjZW8pf/bAifzKWm3OoFv3bbnTKz9DcC9KrMt2b1d40UMgDyE8dcUBhvSZ6Gr+eAOIBpDF8tsm5HsaUGKeYyAFCOiY2YuRkpR6oEu6tKq0GPiSGdqn8OFdqZjc0GrLC/uI0RyxXdnhGX8KeDbVPhAIr1NH+1zWEU5ZZSv6PyDnqNjCVx9nkRiHLPhwTVB3YnOAr2ZUc+Bfra/Qv7OXOf+K1+lAIhPA5qgFfrSghEW4ZPaZsopCQ0t30YWixP8VRPF1j0u0z0gTt1xYDla7ZEf8iWS12bW8jRPelc0NbstqRHJI9Ft8KRPRlBCh/pbcYy2hEXXNnlPhySWA6Rp476Kc2U3NlioEa39fdXifBoK8JQ94LuaW/ybhSEEuj8tepUvYz/kf+nxM6Ut61/q/JdfzufIRyA2blDKlNgVa7PzqgwwLa2bGYCcGjv0c1XRryLxH10JTcB10Ao+uWhbXqZLay2KkTweo1HZRZSg==;EpqVcifU8hAY8no0aUHpFw=="
 ---
 
