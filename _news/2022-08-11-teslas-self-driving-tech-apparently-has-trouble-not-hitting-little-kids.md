@@ -87,20 +87,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Tesla’s Self-Driving Technology Fails to Detect Children in The Road, Tests Find"
-    excerpt: "A safe-technology advocacy group issued claimed Aug. 9 that Tesla’s full self-driving software represents a potentially lethal threat to child pedestrians, the latest in a series of claims and investigations into the technology to hit the world’s leading electric carmaker."
-    publishedDateTime: 2022-08-11T04:40:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35489-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 49
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0512_MuskReopensTeslaPlant.jpg?height=635&t=1648159694&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
     excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
     publishedDateTime: 2022-08-11T21:00:00Z
@@ -125,6 +111,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "How California could force Tesla to drop the name ‘full self-driving’"
+    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
+    publishedDateTime: 2022-08-15T18:27:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 19
 
 secured: "ccBVg57tthbn6vBSpGPe2DPzmgZdJ1LISogp/13n6M34E+AJ9KXgTyXXNi+Mnf1KvBOTipYUzgHprmUIF0y2FnqMTpKlWP6rNjzUF5aObCzklfm1kqaPzgeh8puwYE2tlm3z3fcDMkGQr3OwZRumzsF/n4MZZyepECNYztwKwF53NkSQrEMY2/dMjirKX80YUY8tB16zWvHeHBVGlYPO0tFCsz30QUKpqZFpsApdB0Hrl2/sgicMJj7BkMsVS4qOblhlmf8bHWsUzrImjnfEpkS8yQnAqeR7cmUbay98He9gyfsUPWtFSYIB9HzZes0UmVhSzjSCWbCGoiiigIGfXbk5x/Z+VlxVIW2+J6Ysvrpykf6mSgDrF/WXHtWWTbfQqA+AX7mhqyCk0zNLuCuD/kGPZ6yi0mO7DYE8N1JBo8G+PgrOgBKwiRYPySDowNeq1kTy66sEcS/ldmNGgcqNxUUVOZD19jHkQtxiMRDAKA7HjjmdPIERPYAZIkTLLr1iCLpDBX2arDus96LZcUuuCQ==;xy4icnwt/TPLqWIw/5Bzjg=="

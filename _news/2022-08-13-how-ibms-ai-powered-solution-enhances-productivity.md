@@ -1,0 +1,94 @@
+---
+category: news
+title: "How IBM’s AI-powered Solution Enhances Productivity"
+excerpt: "IBM Watson Workspace is a messaging application ... hold group conversations and share data files. Through its built-in AI capabilities, the solution has enabled Descasio’s sales and technical ..."
+publishedDateTime: 2022-08-13T00:00:00Z
+originalUrl: "https://www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/"
+webUrl: "https://www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/"
+ampWebUrl: "https://www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/amp/"
+cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/amp/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: This Day
+  domain: thisdaylive.com
+
+topics:
+  - IBM AI
+  - AI
+
+related:
+  - title: "New AI Facial Recognition and Emotion Detection Solution Powered by Intetics"
+    excerpt: "As a natural progression of facial recognition technology, emotion recognition is a field of computer vision that is gaining more and more attention in mass media. It involves facial emotion detection"
+    publishedDateTime: 2022-08-11T16:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28459827"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459827"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 73
+    images:
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "OPINION: Besides AI, regulation key to fight mis/disinformation"
+    excerpt: "While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
+    publishedDateTime: 2022-08-15T06:54:00Z
+    webUrl: "https://news.trust.org/item/20220815085446-xwfps/"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 37
+    images:
+      - url: "https://news.trust.org/contentAsset/image/0f504770-1444-4e4e-a682-f7ffb9339c00/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 733
+        isCached: true
+  - title: "Clearview Consent Launches Presentation Attack Detection"
+    excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
+    publishedDateTime: 2022-08-11T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
+    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
+    publishedDateTime: 2022-08-11T20:44:00Z
+    webUrl: "https://www.biometricupdate.com/202208/face-forensic-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Face Forensics launches victim identification system with biometrics and tattoo recognition"
+    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
+    publishedDateTime: 2022-08-11T20:48:00Z
+    webUrl: "https://www.biometricupdate.com/202208/face-forensics-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 14
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+
+secured: "hYsag9ISUWqvGuacdEF7BJoJwgsWQRDwZ1w0ixLNILdHRG89WKG1u0+pSP+jdRQ//AYOHJ3VYOmnhz6/9SkKz/qhoC+11vancwM1GYnSxK5B1A2J1O6zOzI/+8qqOuHdWmQjD+m3tFRVTxtyAefahZ1UjhjbhxzSvk/AWCwpc6Qv61nNC23yPJ0/3gqT69gmyq/pi7oiJasPwVN39dwlgXzjXqsvxhKzcz9ws/8ZSSkDZIZMzfgi10LGfRHpZAUoE4TQ4d/heqAd8ZfKLoOyUJ1UgPsILKAClp1hg849J2gEe8QSA8uUq30HwBV7OoXEDAbQv4ST8mCBaffL/sHK1gMcMG6Q1sh2qet5NNbq2q8=;l3IkNvqEmKnAdfC7OhVGug=="
+---
+

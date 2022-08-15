@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/business/interview-why-the-future-o
 webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Addressing industry challenges with AI and data: An interview with Infosys and Snowflake"
-    excerpt: "From cloud chaos to clarity.” Sunil Senan, senior vice president, and data and analytics service offering head at Infosys, and Chris Degnan, CRO at Snowflake, sit down with Lisa Martin and Dave Vellante at the Snowflake Summit 2022 to discuss how Infosys and Snowflake are"
-    publishedDateTime: 2022-08-15T13:21:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/"
-    ampWebUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
+  - title: "Interview: Dr. Susan Hura, Chief Design Officer at Kore.ai"
+    excerpt: "I recently caught up with Dr. Susan Hura, Chief Design Officer at Kore.ai to discuss the bank-end work that goes into developing an intuitive conversational AI-supported chatbot. She'll also dispel some of the myths behind developing and introducing a CAI-empowered chatbot into a business’s digital platform."
+    publishedDateTime: 2022-08-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/12/interview-dr-susan-hura-chief-design-officer-at-kore-ai/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/MIT-Sunil-Senan-Chris-Degnan.jpg?w=1800"
-        width: 1800
-        height: 1013
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "/aHiWTIlVWg94sch8S7SAbLU6tUQ8W2JYrWry8kJIbx+NXLS8h7tF5dn9FBy2yGB2mejBC8guVDEZ9xPURvWoPWT9lhVfmTFna5DoKg5tkBpUiylv2hVeMj6AD1R2Zax/rBDgG37QK8CWoGTqYpu3cBF++ZMT1LUdiZrUsGmculu+wdIrV1Jd9hA6UFNDEk4xYFvwljO+Y59gzDWIZh2xn93yLx1Nswr1Ck6f4BkMPrV0mYXIJVMs1y5yeE0D+CVzNCeGC59w5NEl4LJRE7JrKWHW+WO1c/udkmP2MQzDiYpegcw7X0XZvisDFdKN1BQ0KLId3JW367YIEzpeayk0mn4Hh7Tb3HEUYKsKrvtdgM=;NTKR/86twhwIAkSubwCsdA=="
 ---

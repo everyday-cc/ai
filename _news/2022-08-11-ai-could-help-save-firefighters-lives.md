@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Artificial intelligence could provide a much-needed heads-up for future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -; a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-11T01:54:00Z
-    webUrl: "https://www.news-medical.net/news/20220810/Artificial-intelligence-could-provide-a-much-needed-heads-up-for-future-firefighters.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 34
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-
 secured: "uwUEJBl68avDdj7ibhOvF4xgT2hJtsM/yaDgw7pBfgZKTJilYXkcdq7ZPdwLl869WZSvLmdIfNbh6kPkH70zkWO8IrCFXbR/vJ0/glEthEKJ2NFpvIIlqgw9zDsdFhedHNmJIF+M/GvUny3S4PWBOkgxG3TLVyNAAjiMv1N30c39QhZxPbDNBwaDcSOrbDMqOorj281ZE8xtOLoehGW3O5bx/AJHpzNz706Otc7fWm7ljPogFsvKt3QA0JJCgeZN6QTQrMoHsIQ2HGA6X/xrXOG1jcXoRVmfGsTJchNbh1mcHLNhi0UIISrfBgjsPtfgaIJWNCK2mxzRDCVFU//+0y92jq2Fz5GtgUF3lN5ox0s=;2aRyuPb8DeJ+GaEeyZJZrg=="
 ---
 

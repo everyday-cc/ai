@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T18:43:00Z
 originalUrl: "https://www.c4isrnet.com/cyber/2022/08/15/torchai-wins-pentagon-insider-threat-cybersecurity-contract/"
 webUrl: "https://www.c4isrnet.com/cyber/2022/08/15/torchai-wins-pentagon-insider-threat-cybersecurity-contract/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: C4ISRNET

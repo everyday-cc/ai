@@ -3,13 +3,13 @@ category: news
 title: "‘I am, in fact, a person’: can artificial intelligence ever be sentient?"
 excerpt: "Controversy over Google’s AI program is raising questions about just how powerful it is. Is it even safe? By Amelia Tait"
 publishedDateTime: 2022-08-14T07:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
-webUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 type: article
-quality: 58
-heat: 58
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "DcOY9FdDzIkztezXsa9sg7tESjEoPzo1GzViGZi3l4IvM9dUg5/hydsNGvoVk1sviv59rEQyml5Ih96msn5LoR5bJe2NHfD70Dp+EHjmgbooPL5aTxKoGTjvQs/1i24sAaTy4OgJkSAZbQRJXr99qpaINqRsKTF8yfoYLE3kuZGnUHyXgjZUpnApxxOp0SwzPRTOjfknEW3GHjW/1QuDt6ljpc6vMJKJBI4VOxrL2GyyI/jrD3RkN34CCy8GDax+qsWn6OlojX6A//osorKqQ9X/7Zt7FNK8tU0wgybqkSMlX7H2y1aWK8ojZ505qR6QDZK7qSOu/KrBSigdS1Ur94XX2qJqHGwN5jBVo0sR8V95vDeg3jnnvftPTdDKD2tqc3voiYo9WhwQ6QHutsgwuDj4BIx7f4FS0I8iZVafgGnWdxfZYgVKuepA4AwAIisWqfUcV1Rx8dnO+tLfLeUkfq09VNSGWKGctfzGR94AAN+g4IECbn/ag6iNBgNsFI/hcR7YM+K9aQlZqGFAiyqu/g==;abFin5bD5g+MXRN3ECd+bw=="
+secured: "0z4Xe7WTAITka0hg5NZ5sX/OJvZvCqlux84WkOKzEIOPUnHq8xFB4AcPFoHXLnQBWR05II534VFgwScp3VKJt2qwKDa23gY9vZNe/x6YW1mPL+H77S2JJGjOHi5YREY/RJjuNrUooqgUspczC1Fs6HzYwOiFxzBQkD77zL/KzQMXzVz8jZd1C+Pn6+aOUZ+rr3kDL40TKomssD4d5swnobxi1tfOH3V3xGsxP/9xDfOcY0K4XRilY7AENHIwKzCpS3reLtm0qONi/Imc027CRsxhYXxoadynHZHmMTSblg9RhrwRQC9AkJxLPIIXk0rvG1Ba75jksw11UPitxXomYgkbPVIjF4Oz5F0d2+EdVgc=;OauPluxOvB0GKLmdCsRz3g=="
 ---
 

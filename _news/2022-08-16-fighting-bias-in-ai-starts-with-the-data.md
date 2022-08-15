@@ -1,0 +1,71 @@
+---
+category: news
+title: "Fighting bias in AI starts with the data"
+excerpt: "A majority of IT executives say data accuracy is critical to their use of artificial intelligence. But only 6% reported achieving full data accuracy."
+publishedDateTime: 2022-08-15T19:25:00Z
+originalUrl: "https://www.zdnet.com/article/fighting-bias-in-ai-starts-with-the-data/"
+webUrl: "https://www.zdnet.com/article/fighting-bias-in-ai-starts-with-the-data/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
+type: article
+quality: 89
+heat: 119
+published: true
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
+    width: 1200
+    height: 802
+    isCached: true
+
+related:
+  - title: "Addressing industry challenges with AI and data: An interview with Infosys and Snowflake"
+    excerpt: "From cloud chaos to clarity.” Sunil Senan, senior vice president, and data and analytics service offering head at Infosys, and Chris Degnan, CRO at Snowflake, sit down with Lisa Martin and Dave Vellante at the Snowflake Summit 2022 to discuss how Infosys and Snowflake are"
+    publishedDateTime: 2022-08-15T13:21:00Z
+    webUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/"
+    ampWebUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 48
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/MIT-Sunil-Senan-Chris-Degnan.jpg?w=1800"
+        width: 1800
+        height: 1013
+        isCached: true
+  - title: "10 AI healthcare startups with the most funding"
+    excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
+    publishedDateTime: 2022-08-15T16:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/10-ai-healthcare-startups-with-the-most-funding.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Meta's AI starts spewing fake news"
+    excerpt: "Blenderbot 3 insists that Donald Trump is president and will remain so after 2024 Last week we reported how Facebook's new Blenderbot 3 AI was sexist and racist, but now it has turned into a pro-Trump conspiracy theorist with the intelligence of plankton."
+    publishedDateTime: 2022-08-15T09:29:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55323-meta-s-ai-starts-spewing-fake-news"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 17
+
+secured: "Gxkaby7WMy08nYz0bG9SAVRPa0Xo8/HDzGFoJgUQ/uO3D1WxOdjgx5U2jX9/IMmg9ld+cqbdP4L2g48b3nRgzlPMLGqeD6b933dJvVEPKifV9nzfHwPhBb/gBK5a60Gwl1J4nsC24hWjZCICeK4JTg2ZlpPs9Lb8yzP4Rwqh6NZonUB0lQaSH821TDG7mgAOXjhe6upl5li/1wrjejZ8kVqD+5m5kF9ixa6Dp27z0se7DUoFiJ1G6FCwUWHp++0yjuQGSrnSnAzhSI3fRcdl1lgFeu350zom0b5BPzDbVkT64rBWIY+fSB4MBIu+dS18y2uh51Lhhh0LH9BruMtBNtCNbyZvGq4T7bLn1QRgXK4=;ZcEQvNKNG521RKv6Q2wH9A=="
+---
+

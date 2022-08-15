@@ -39,6 +39,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How IBM’s AI-powered Solution Enhances Productivity"
+    excerpt: "IBM Watson Workspace is a messaging application ... hold group conversations and share data files. Through its built-in AI capabilities, the solution has enabled Descasio’s sales and technical ..."
+    publishedDateTime: 2022-08-13T00:00:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2018/08/23/how-ibms-ai-powered-solution-enhances-productivity/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 39
   - title: "OPINION: Besides AI, regulation key to fight mis/disinformation"
     excerpt: "While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
     publishedDateTime: 2022-08-15T06:54:00Z

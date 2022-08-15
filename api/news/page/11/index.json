@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-03-remote-surgery-robot-to-be-tested-on-space-station.md",
+      "title": "Remote surgery robot to be tested on space station",
+      "excerpt": "To overcome this challenge, NASA is preparing to test a remote surgical robot called MIRA (miniaturized ... with two instrument arms that can be controlled from afar for minimally invasive surgeries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/space/remote-surgery-robot-to-be-tested-on-space-station/",
+      "originalUrl": "https://www.digitaltrends.com/space/remote-surgery-robot-to-be-tested-on-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/mira-robot.jpg?p=1",
+          "width": 949,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/space/remote-surgery-robot-to-be-tested-on-space-station/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/space/remote-surgery-robot-to-be-tested-on-space-station/?amp",
+      "publishedDateTime": "2022-08-03T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse.md",
+      "title": "What Tech Leaders Should Consider About The Ethical Use Of AI In The Metaverse",
+      "excerpt": "With the advent of the metaverse which utilizes AI-based technology, ethical use will become an important point of concern for both brands and users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8dddcb14c77f8af660ab3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/what-tech-leaders-should-consider-about-the-ethical-use-of-ai-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-08-03T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-reltio-mdm-solution-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Reltio MDM Solution Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Reltio, the leading cloud-native, SaaS Master Data Management (MDM) company that accelerates the value of data for businesses, today announced the availability of the Reltio Connected Data Platform in the Microsoft Azure Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-utah-park-city-data-management-1dd4c4a6ecea4152964f10c93d25dd7c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-utah-park-city-data-management-1dd4c4a6ecea4152964f10c93d25dd7c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-advancing-artificial-intelligence-and-creating-the-technology-of-the-future.md",
       "title": "Advancing Artificial Intelligence And Creating The Technology Of The Future",
       "excerpt": "Tesla has applied an effective approach to building the innovation capital needed to win resources, then deliver on its overall vision.",
@@ -1032,135 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-macamiai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin.md",
-      "title": "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin",
-      "excerpt": "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/f/74/f747aa02-351b-58bb-b5e8-42929475162d/62e974e8b94a5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
-      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
-      "excerpt": "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-eating-high-processed-foods-could-lead-to-a-faster-rate-of-cognitive-decline-study.md",
-      "title": "Eating high-processed foods could lead to a faster rate of cognitive decline: study",
-      "excerpt": "A new study finds that eating high-processed foods could be connected to a faster rate of cognitive decline. High-processed foods like pre-made meals, frozen microwave meals and instant noodles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
-      "originalUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/03/1200/675/694940094001_6082876975001_6082894307001-vs.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
-      "publishedDateTime": "2022-08-02T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

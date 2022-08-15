@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-10-the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds.md",
+      "title": "The Morning After: Kim Kardashian is the face of Beats’ skin-colored earbuds",
+      "excerpt": "President Biden signs CHIPS Act to boost semiconductor production, Kim Kardashian is the face of Beat’s skin-colored earbuds, Ford will reopen F-150 Lightning orders this week at a much higher starting price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "originalUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/42f12f10-14fc-11ed-9deb-223f6720bcd5",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
+      "publishedDateTime": "2022-08-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
+      "title": "Top 5 Bitcoin Trading Robots for 2022",
+      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
+          "width": 600,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Peace FM Online",
+        "domain": "peacefmonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-machine-learning-is-causing-a-reproducibility-crisis-in-science.md",
       "title": "Machine Learning Is Causing a ‘Reproducibility Crisis’ in Science",
       "excerpt": "AI hype has researchers in fields from medicine to political science rushing to use techniques that they don’t always understand—causing a wave of spurious results.",
@@ -245,6 +340,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
+      "title": "Nation releases first draft of rules on self-driving vehicles in public",
+      "excerpt": "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
+          "width": 536,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028.md",
       "title": "Europe AI in Computer Vision Market Production, Growth, Share, Demand and Applications Forecast to 2028",
       "excerpt": "Pune,india-Business market insights Latest update on Europe AI in Computer Vision Analysis, Europe AI in Computer",
@@ -347,49 +485,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
-      "title": "Nation releases first draft of rules on self-driving vehicles in public",
-      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
-          "width": 536,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -621,26 +716,17 @@
       "title": "Meta’s new AI chatbot can’t stop bashing Facebook",
       "excerpt": "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp",
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-09T10:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1098,94 +1184,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases.md",
-      "title": "Iterable optimizes AI to hyper-personalize marketing and predict future purchases",
-      "excerpt": "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "originalUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/personalized_messages-e1659999200762.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "publishedDateTime": "2022-08-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tiktok-ai-text-to-image-generator-14253
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "TikTok’s new text-to-image AI tool lets you create trippy pictures"
+    excerpt: "TikTok has decided to jump on board with the emergence of new text-to-image AI tools. The platform now offers its own, albeit pretty basic, text-to-image AI that you can find inside the TikTok app itself."
+    publishedDateTime: 2022-08-15T16:54:00Z
+    webUrl: "https://knowtechie.com/tiktok-text-to-image-ai-tool/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 17
 
 secured: "Jv7G/2z8NY/Nsxbg8M6cYWpPYJhSL5WpN4+JKzGkEu/tHtX1sj1wFwV9Qi/jTi7YSRGUrcFC6zwRj2BfqeKOYPOeu/0SeFBZ3QBiMYFS9HpfTWjKfaaw4dTSymXQuR8+qjUOIxN/IP1X017IUvs++0DTsA5TRVlxLN0eIh29mtM1TzmrksytgCLsTzN8wu0m/CUSNY/LidUqqEpdyOr+nxqFfPLd9Cjz55rFE3DfKOz0iwk9JqcEodaGq5ygaUPoqUBrnO9lcgZ0UPOJUCh0K4ySoXkDjceVun3dDJJfALtCGy0DHJfmt3qpe8lb9xIVK2vFjwsWFh+UYsNjov57I5fiqHcqmcUuwshR8XhUdjk=;Fs+kBift0G2kE/5Z5ONPMw=="
 ---

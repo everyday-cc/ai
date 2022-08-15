@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-03-macamiai-a-robotic-process-automation-and-ai-consultancy-launches-in-austin.md",
+      "title": "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin",
+      "excerpt": "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/f/74/f747aa02-351b-58bb-b5e8-42929475162d/62e974e8b94a5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare.md",
+      "title": "Rhino Health Joins Alliance for Artificial Intelligence in Healthcare",
+      "excerpt": "About the Alliance for Artificial Intelligence in Healthcare (AAIH) The AAIH is a coalition of technology developers, pharmaceutical companies, and research organizations with the shared goal of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56707350-rhino-health-joins-alliance-for-artificial-intelligence-in-healthcare-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-eating-high-processed-foods-could-lead-to-a-faster-rate-of-cognitive-decline-study.md",
+      "title": "Eating high-processed foods could lead to a faster rate of cognitive decline: study",
+      "excerpt": "A new study finds that eating high-processed foods could be connected to a faster rate of cognitive decline. High-processed foods like pre-made meals, frozen microwave meals and instant noodles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
+      "originalUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2019/09/03/1200/675/694940094001_6082876975001_6082894307001-vs.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/eating-high-processed-foods-lead-faster-rate-cognitive-decline-study.amp",
+      "publishedDateTime": "2022-08-02T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine.md",
       "title": "Startup Brings AI Coaching Platform To Market, Launches Crowdfunding Campaign On Startengine",
       "excerpt": "IRVINE, Calif., Aug. 02, 2022 (GLOBE NEWSWIRE) -- Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven ...",
@@ -491,6 +620,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-lti-strengthens-strategic-collaboration-with-microsoft.md",
+      "title": "LTI Strengthens Strategic Collaboration with Microsoft",
+      "excerpt": "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-7088eabd6983487dbcd5eebda82a16f7",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-7088eabd6983487dbcd5eebda82a16f7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
       "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
       "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
@@ -964,186 +1136,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-bitalpha-ai-review-trending-trading-robot.md",
-      "title": "BitAlpha AI Review – Trending Trading Robot",
-      "excerpt": "Users should be aware that all trading involves risk and start with a minimum ... The BitAlpha AI platform supports more payment methods than most trading robots, including bank transfers ...",
-      "sourceUrl": null,
-      "webUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
-      "originalUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://augustafreepress.com/wp-content/uploads/2022/08/bitalpha-ai-bot.png",
-          "width": 523,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Augusta Free Press",
-        "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-7-ways-ai-will-affect-humans-in-our-future.md",
-      "title": "7 Ways AI Will Affect Humans In Our Future",
-      "excerpt": "The future of AI brings limitless possibilities and applications as the technology moves toward becoming less artificial and more intelligent, which, in turn, will help simplify our tasks in various fields.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8dbb2e31cb7d5797b70bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/02/7-ways-ai-will-affect-humans-in-our-future/amp/",
-      "publishedDateTime": "2022-08-02T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers.md",
-      "title": "Computer Vision: How This Transformational Technology Is Changing The Way Businesses Interact With Customers",
-      "excerpt": "Over time, computer vision will make shopping easier, help us stay healthy and even make it easier to do things like bank on the go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e41b8102bb4d368a77b2e3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
-      "publishedDateTime": "2022-08-02T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
-      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
-      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

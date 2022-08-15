@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T19:09:00Z
 originalUrl: "https://www.thecentersquare.com/south_carolina/report-south-carolina-ranked-40th-for-its-political-free-speech-protections/article_d099285a-1cbc-11ed-963c-8f67ce84e11a.html"
 webUrl: "https://www.thecentersquare.com/south_carolina/report-south-carolina-ranked-40th-for-its-political-free-speech-protections/article_d099285a-1cbc-11ed-963c-8f67ce84e11a.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: The Center Square

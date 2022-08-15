@@ -79,6 +79,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "TikTok’s new text-to-image AI tool lets you create trippy pictures"
+    excerpt: "TikTok has decided to jump on board with the emergence of new text-to-image AI tools. The platform now offers its own, albeit pretty basic, text-to-image AI that you can find inside the TikTok app itself."
+    publishedDateTime: 2022-08-15T16:54:00Z
+    webUrl: "https://knowtechie.com/tiktok-text-to-image-ai-tool/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 17
 
 secured: "PTXbalPSdMUEhonbxacmFiIgC/SrUg7jkTEG1+bVspnjPZc+ITGMLNxbiNVCXqDpp2lr1HnvnZ0L9LeyqT6HDEv58ZYkNCjhomUiAa8SIK/q4l0FBd37DwYWN5/2UtFE/j/KBTb1wXjt9NoudtKdQVCM/e2qForPmwD6NRw37IRzIoJzmqPcvyhlKYzTSICGPpc7gJOXumuxI1ZaKWRd7xX1LyKocc3f0tLihDh99KdJGkoDbfm1IBea0XQLIJ3VpAf+k2Tu4skJZbo4LTdW5e3cVtHrLon0pDUbuG4+OFOZduhpU5M4Nf4A2j7Gtx33LJLatxeTC7flmYNfoa/QAZ0hT5/ZRjHp3GpYezuE08Ylw4bo/AgJ28t5dAYCvsLDc7Rozgt/RyrGZCsMXhQTIlINPp6nu5MYw7Vk48wDghKHbIZaEkgYvupCbCiSzR2TRCIw6hMeC/SON3whDpLafLaNCWFnv/7UoQ1nEIKo6VLLkv7vY4Bs33E90kkD5TVhSojHNOgbIvrdBcnkLUB+pQ==;g/7B+WB1rDQfjOsRf7jDyg=="
 ---

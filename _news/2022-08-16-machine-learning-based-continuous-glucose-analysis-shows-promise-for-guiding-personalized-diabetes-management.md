@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T19:06:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-machine-learning-based-glucose-analysis-personalized.html"
 webUrl: "https://medicalxpress.com/news/2022-08-machine-learning-based-glucose-analysis-personalized.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

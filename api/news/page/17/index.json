@@ -2,6 +2,145 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-29-how-businesses-can-use-video-translation-to-grow-their-global-influence.md",
+      "title": "How Businesses Can Use Video Translation To Grow Their Global Influence",
+      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. If you want to grow your business globally, it helps to speak the language of your customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e28f5f373b64f5c2047183/0x0.jpg?format=jpg&width=1200",
+          "width": 1121,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/amp/",
+      "publishedDateTime": "2022-07-29T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-ai-used-by-bytedance-a-security-risk-indian-officials-on-re-entry-reports.md",
+      "title": "AI Used By ByteDance A Security Risk: Indian Officials On Re-Entry Reports",
+      "excerpt": "New Delhi remains concerned over ByteDance and its ability to harvest user data using AI, as it seeks to re-enter the Indian market.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
+      "originalUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2020/09/bytedance.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
+      "publishedDateTime": "2022-07-29T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
+      "title": "Analogue deep learning offers faster computation for artificial intelligence with much less energy",
+      "excerpt": "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
+      "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
+      "publishedDateTime": "2022-07-29T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027.md",
       "title": "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027",
       "excerpt": "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global ...",
@@ -1022,145 +1161,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-specialized-brain-regions-recognize-vocal-cues-that-dont-involve-speech.md",
-      "title": "Specialized brain regions recognize vocal cues that don’t involve speech",
-      "excerpt": "Insights into the organization of the brain voice-recognition system will enable researchers to better understand neurological disorders where voice perception is altered or missing, such as schizophrenia or autism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959561",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/74379d6e-29bc-4bab-85b3-7be3291c25a3/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-new-hardware-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
-      "title": "New hardware offers faster computation for artificial intelligence, with much less energy",
-      "excerpt": "As scientists push the boundaries of machine learning, the amount of time, energy, and money required to train increasingly complex neural network models is skyrocketing. A new area of artificial intelligence called analog deep learning promises faster computation with a fraction of the energy usage.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/new-hardware-offers-fa.jpg",
-          "width": 2480,
-          "height": 3507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.amp",
-      "publishedDateTime": "2022-07-28T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models.md",
-      "title": "NeMo Megatron Reinforces NVIDIA AI Leadership In Large Language Models",
-      "excerpt": "Transformer-based large language models (LLMs) are reshaping the AI landscape today. Since OpenAI established the now generally accepted scaling laws of transformers with GPT-3 in 2020, AI companies have been exerting extreme effort to stay at the vanguard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e2c812fa6527c5a904717f/0x0.png?format=png&width=1200",
-          "width": 638,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/07/28/nemo-megatron-reinforces-nvidia-ai-leadership-in-large-language-models/amp/",
-      "publishedDateTime": "2022-07-28T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

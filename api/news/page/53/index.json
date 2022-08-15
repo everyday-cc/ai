@@ -2,6 +2,143 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-06-29-is-artificial-intelligence-out-of-control-start-here.md",
+      "title": "Is artificial intelligence out of control? | Start Here",
+      "excerpt": "Artificial Intelligence News Artificial intelligence is becoming “like electricity”— it’s being used in almost every sector. But what exactly is it? And why are many governments trying to work out how to regulate it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
+      "originalUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PATxJ-wwcUY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
+      "cdnAmpWebUrl": "https://www-techstore-ie.cdn.ampproject.org/c/s/www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
+      "publishedDateTime": "2022-06-29T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techstore",
+        "domain": "techstore.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-spotify-is-developing-ai-tools-to-hook-users-on-music-creation.md",
+      "title": "Spotify Is Developing AI Tools To Hook Users On Music Creation",
+      "excerpt": "One tool will let you tweak a song’s rhythm or melody. Another can take the harmony of a pop song from, say, Justin Bieber or Drake and combine it with the melody and rhythm of a fugue by Schubert or Bach,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
+      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b8f318993181ecf4b0235c/0x0.jpg?format=jpg&crop=2841,1895,x0,y232,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
+      "publishedDateTime": "2022-06-29T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "originalUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "publishedDateTime": "2022-06-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy.md",
       "title": "RayStation 12A brings deep learning segmentation for all users as well as new features for brachytherapy",
       "excerpt": "With the release of RayStation 12A, deep learning segmentation is available for everyone that is using RayStation for patient modeling. New and updated segmentation models will be released on a ...",
@@ -977,144 +1114,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry.md",
-      "title": "A modern-day revolution: How AI could transform the healthcare industry",
-      "excerpt": "Hear from senior executives at some of the world’s leading enterprises about their experience with applied Data & AI and the strategies they’ve adopted for success. We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
-      "originalUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/a-modern-day-revolution-how-ai-could-transform-the-healthcare-industry/amp/",
-      "publishedDateTime": "2022-06-28T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ibm-unit-partners-to-boost-digital-skills.md",
-      "title": "IBM unit, partners to boost digital skills",
-      "excerpt": "Sawat Asdaron, managing director of IBM Thailand, said AI, hybrid cloud, data science, automation and cybersecurity are new areas that are in high demand by businesses. \"Skilled IT workforce is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
-      "originalUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-yugabyte-intros-new-migration-engine-for-its-powerful-distributed-database.md",
-      "title": "Yugabyte intros new migration engine for its powerful distributed database",
-      "excerpt": "Yugabyte Inc. today announced what it says are the most extensive set of updates ever made to its database ecosystem. The startup is the chief developer behind YugabyteDB, an open-source and high ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "originalUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/yugabytedb_6645_logo_1598517773_l07za-951991753.png",
-          "width": 1251,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T20:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

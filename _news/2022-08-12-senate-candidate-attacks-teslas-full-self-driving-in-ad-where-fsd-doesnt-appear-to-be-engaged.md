@@ -89,20 +89,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Tesla’s Self-Driving Technology Fails to Detect Children in The Road, Tests Find"
-    excerpt: "A safe-technology advocacy group issued claimed Aug. 9 that Tesla’s full self-driving software represents a potentially lethal threat to child pedestrians, the latest in a series of claims and investigations into the technology to hit the world’s leading electric carmaker."
-    publishedDateTime: 2022-08-11T04:40:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35489-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 49
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2020/0512_MuskReopensTeslaPlant.jpg?height=635&t=1648159694&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
     excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
     publishedDateTime: 2022-08-11T16:33:00Z
@@ -125,6 +111,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "How California could force Tesla to drop the name ‘full self-driving’"
+    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
+    publishedDateTime: 2022-08-15T18:27:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
     quality: 19
 
 secured: "wO1IAZ2EU9+aA7g7wnZZb4TINl6oB4hLHiA1YLreL5OTwAlXeU+xcl00cFeilY0vvi0Dl+upAz5HnyfdbwTXGSZk8IcuAB7F002fIttcEHcx1g8oHgpTBHJLqhdtZMszc45bDdBcLwyDGN7FkUdzW1wirlZS4gFCkwiM0QABvuE2ylQ/LYnk1dVD9e1iIIoQs8+s/XEz+D/H3RIJQzW3ED+/rWvjzOjLA0cYBwZg1Bz1gNXq1GZsb4Kr7mCLu5OS8Q9+Iky/woJddjdBKaOJxMcmnTa88Jw2PBWYzaYr5TgXhESARQYRjfiWjLdhOo96LmLR/hzlOsiIBCHN6VrfbZedYdau4XmCBw5qwDowwbPE9dh6Bb3Nx4OwoWsKYPaOUYrw4ZHMgA8f3CxkHIn4WGYV9iCoRSqi1rXQly3XTR7GVlnKLIt9DZemZ/yx9ryHHIYIyQAAK82hhpq0SzAtX6VYNAfBQcdWW09/fPEEOZ+8XdBtODjlsb0KUY5xqIUhxKts7ty5uM0uaUJ/VUrEyQ==;RL0aXwZPtnpI7TVow7+J3g=="

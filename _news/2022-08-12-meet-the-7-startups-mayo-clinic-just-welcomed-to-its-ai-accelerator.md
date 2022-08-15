@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 AI healthcare startups with the most funding"
-    excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
-    publishedDateTime: 2022-08-15T16:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/10-ai-healthcare-startups-with-the-most-funding.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Mayo Clinic adds a second round of AI startups to innovation accelerator program"
     excerpt: "Mayo Clinic Platform_Accelerate, a 20-week program to get healthcare AI startups prepared to enter the market, gives startups access to Mayo Clinic experts with a focus on AI model validation and clinical readiness,"
     publishedDateTime: 2022-08-11T16:45:00Z

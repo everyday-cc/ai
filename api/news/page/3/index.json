@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-11-the-power-of-now-how-ai-is-propelling-customer-experience-transformation.md",
+      "title": "The power of now: How AI is propelling customer experience transformation",
+      "excerpt": "Conversational AI is becoming the key to positive customer experiences, automated self-service and real-time agent support.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/",
+      "originalUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1338918342.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/",
+      "publishedDateTime": "2022-08-11T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-implementing-ai-youd-better-think-about-security-first.md",
+      "title": "Implementing AI? You'd Better Think About Security First",
+      "excerpt": "While AI has been a game-changer for solving complex business problems, there is a security risk landscape associated with it. Let's explore three areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,4000,x0,y209,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/amp/",
+      "publishedDateTime": "2022-08-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
       "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
       "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
@@ -703,8 +807,8 @@
       "title": "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com",
       "excerpt": "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -714,11 +818,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T07:21:00-07:00",
+      "publishedDateTime": "2022-08-10T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -728,7 +832,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1108,101 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds.md",
-      "title": "The Morning After: Kim Kardashian is the face of Beats’ skin-colored earbuds",
-      "excerpt": "President Biden signs CHIPS Act to boost semiconductor production, Kim Kardashian is the face of Beat’s skin-colored earbuds, Ford will reopen F-150 Lightning orders this week at a much higher starting price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
-      "originalUrl": "https://www.engadget.com/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/42f12f10-14fc-11ed-9deb-223f6720bcd5",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/the-morning-after-kim-kardashian-is-the-face-of-beats-skin-colored-earbuds-111518653.html",
-      "publishedDateTime": "2022-08-10T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
-      "title": "Top 5 Bitcoin Trading Robots for 2022",
-      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
-          "width": 600,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Peace FM Online",
-        "domain": "peacefmonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

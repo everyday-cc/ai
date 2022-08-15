@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T18:54:45Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-solutions-now-support-custom-iam-role-settings/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-solutions-now-support-custom-iam-role-settings/"
 type: article
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: AWS
