@@ -1,21 +1,29 @@
 ---
 category: news
 title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
-excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers. The Multicentre Epilepsy Lesion Detection (MELD) project,"
-publishedDateTime: 2022-08-14T23:57:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
-webUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
+excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
+publishedDateTime: 2022-08-15T03:34:00Z
+originalUrl: "https://www.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+webUrl: "https://www.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
 type: article
-quality: 17
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: IBTimes India
+  domain: ibtimes.co.in
 
 topics:
   - AI
+
+images:
+  - url: "https://data1.ibtimes.co.in/en/full/774799/brighter-brain.jpg?w=538&h=321"
+    width: 538
+    height: 321
+    isCached: true
 
 related:
   - title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
@@ -124,6 +132,6 @@ related:
       domain: medindia.net
     quality: 17
 
-secured: "zmWUdXQbQTX5PqQBz5FB4LVMckmyRCehwwfiJswjbGePPZiTx3ABOrM63H5PhA2AhX/eHsqjtbHhEg3MA76JQo3EYVzNfkG4t2WcVyJnnhmBfF85sZykehUUbDINj+N7UZ9ILX+wD+Eca65yNN55pedXpxExwldjvIjPBgachRMPZLOSbruuTSO6MMRsmWpz15+Eb10k094lFKl7IxqnoV76d3bv6jEVb7+hDQQYKvWqvMbDsrprzHGRG2aYv5u+oKRso1Rs2O0VGkYqAj1IOKnkixDBDIpazU3mS9RR2gK5MfwqzKbzbetdIK+ZZpDImR55TJKNJHrXqYz6VGD0VLQf7bMnooa2qPSX31O7BUA=;w0I0Z0qDGEHXjxrPsJrypA=="
+secured: "52FfDx9ENk6yiIGQgV1oBjYTZkgU5yY6yynREfA3Us3dR13UkZplv5untJt1x6jiV+484bacvZYEqGE6f+LvtUU6ly5n9KGhWnUgaYGYbxgKflvxdWQN1s7v4pLauP8dJSVi82x5TZgMXmpK5euZsZHgKT7cQG2JYTEyxwQYD4/Da85r4bpIyKyam4uCtnseMZytQFtqWWsLLeKF4recuMd1utTisf55T1KyAiHWC2KjzLdZEih9cZkK+zdx7G3+TyHFB7xOEOc3Ez41uGH7xDXZXRh/iqJ8BTHsblA0qPpkt3etlQ+H9hFbwnJZkmGgZLHx4ts7Nng3Yc/Ig9Zw73r0kE4JbbI3THrD2XvJp6Q=;lohj13TgIYJRm8gkMmm+Vw=="
 ---
 

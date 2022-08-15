@@ -3,14 +3,11 @@ category: news
 title: "Future of work: Beyond bossware and job-killing robots"
 excerpt: "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D."
 publishedDateTime: 2022-08-09T03:07:00Z
-originalUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-webUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
-ampWebUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+originalUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+webUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+ampWebUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 type: article
-quality: 89
-heat: 89
-published: true
 
 provider:
   name: VentureBeat
@@ -30,6 +27,6 @@ images:
     height: 617
     isCached: true
 
-secured: "EsD4D5/Hjwcv8+7xo/vHikBq+ruHhsNCe2dOwZJaOdj4DW7TjHlzs1oisA2g/pUN7jMGjOcZGoL1/JNblSWwELjIBzwGyzC7XSRV+TUUErbxR77VtXDSiV7y4mglb3XX3KWOy8vRARAFRsMBp6cNp/T3xzPHya7NoqFIgrz9lT7GphwfiHKnx4vzdAXJQG2PG7UBYI8PyMbwsoF8VMKBecNFRo/MgLIrLxVYs5yMdcFT5c9Spq4exmg3TMlG3Wv6NkNwPXU9VrEVTuBmYVZyyQ0bqZU0LbIs/FPDcIUXS9K9pfnwdsx1QFaoZ/jHsw5CbcUhDgS6q0ucu6clu497m9Rq2koyzTU2HcjIJsClfEmnAZfqiiE96NLc6N1Q0lFazPTGwzqizbVV8JZ7OGCLyQCP4WeHvgggypgNUP238plPP/g+O6aQfcPYlvRmIjCvOI6C/1GP0n2LMNtU845EF4Z2BHnpN11dhh56N1sdAhl/sjl5Lvd/pXEa1P4OmZKuVpPJrOu7nVqJdlesDvGrIQ==;l7hMTpG5/uEKH1RTHbNnHQ=="
+secured: "PXKvyKCo7u6pS6byDwEs/Ttu7v/71I4btqppqVtkjZ/V30PPD1lwsID/Tsc25O8s/e4CZcyTZ46wBlA6OsC37e5Z2t05kdydHS4jHXhPxqEJn6i6Ahy1HzmLdyP56K3SMm/hDljOFcHEnfMDIw/N/AZndvp201f8OPQGgHGkKplpvs2BRjpahf7LwyVsCP2Ke7GQZYFO21M1lA/z0GBwKkh25q4LhOilx2RneVUIH6Ngxno1NL/XrBoiUEWCpmAWFuexN6WlUMb+M/gaPlHaVhRxdOXPg6OgGzuWuyefds6K7RmpiAzQIbPai3W/Az7gd1NWQ0d5HtOJjCS2ZJyLdj1Ci7gTel2vnWu7K/f/wwI=;HhKls/yA2PZMXAA9TWA7Lw=="
 ---
 

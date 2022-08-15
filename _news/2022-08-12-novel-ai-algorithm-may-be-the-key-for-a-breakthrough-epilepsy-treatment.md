@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
+    publishedDateTime: 2022-08-15T03:34:00Z
+    webUrl: "https://www.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 57
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/774799/brighter-brain.jpg?w=538&h=321"
+        width: 538
+        height: 321
+        isCached: true
   - title: "Epilepsy: how an AI algorithm detects related brain abnormalities – new research"
     excerpt: "Abnormalities in the brain are one of the leading causes of this drug-resistant epilepsy, which is usually identified by MRI scans before surgery is carried out to cure the patient. However, identifying these abnormal areas from MRIs is an ongoing challenge for clinicians,"
     publishedDateTime: 2022-08-12T09:57:00Z
@@ -114,15 +130,6 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 17
-  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers. The Multicentre Epilepsy Lesion Detection (MELD) project,"
-    publishedDateTime: 2022-08-14T23:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 17
 
 secured: "poyejstfobb2OVXR+KbgYBqRWPss+bK15bb6s91m+PJ4UM1d+PzINIqBtNOIEdcb5V1cilMu+Ah7ifuEkrR3O5roTB73W2cDSPHoE0d4oO2TDGUUkKJzNG3/ELoySCgBWgoSvq3ZwrKsmb/al0VSRiriRWE5xufwY1kdPCRHJQj9krbuUPCQzYZ4zFyIa9aESf4/EQFmuhljAjqSEw7H3g0a8VuzYC4CQMEgUHQkJO+0fVXmum4qRd+irH9zfTeBdA5Rpcqnx8xFfqi/6nBOOwgbAToRGSa2o4D391r7+S6uc8Dy8J+9sV9H5mmLZHCzt8dCG4WfPaLIkrMvr/3OMi8ffD7U6bVo0Mi6+04X2QLZ+WcvPVSFzViWrVRkEicCE5szpQYkU+gpKI6TTMQ1TytGBukHJQY0jZuLTdOgzHVgdpwoekeUeifNtsr0qeD8GB3gd0D/NH4QlBCZsUryBuj7Z2M4BPAYcvsO04u8flE2LuvEByjNz6X35IIcuUiuTyV3YWaY3e7ryJdwibeK9Q==;EbUuJLtMgoc89XPdscJR4A=="

@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png"
@@ -20,6 +21,6 @@ images:
     height: 778
     isCached: true
 
-secured: "lPAjXmITEF4MvfYbQ9W7zXYlxTKeibd7+DK0zuxI/PX/AyPqFXXejHQC8JWbwHUKs+NffpFbzWmjyP2yj5eO4drje29V10s26FyoN9aM0oIIw3Lc+ifWieVjPdugJrjDywqDxThU7r5akl3/hbYkJtLmFeHnyQFTuD/y1GLy872eVQTcNfmD62YE/yAmIB1o2yoAnMmpj+0ulw/1i6kOuoGbDFcylQq+Mjg67eKC4njuTIrphpPYgqYKPwW0oDCpbNMbsIeJIsIcokQCSsc50lokwca5a9+st+tybJPHo+mqhG+HQ+vGAoDuzu4weq34MEzp79haUzC++bAvTYw7RD7th2pXlKC96JXdQIfo97w=;vkxOzRl2seeKuRvdeDXWLA=="
+secured: "yJvnsKSeHmOGFv5fHI3UY4n+SZ/mzfFcxqsQiFdYXw5DNB9tIXHrJLYtYLh91ADJVk2AN9kn2GHd1CiDBU2prvd+vccAKMkwVnytfxhhW9+QlGLthnZpO+FjYuM6gSi6PSzig84XhaGK8cCaa+X1nHlqOBABaQAwNoLvZghxlnPjwAtZZS6VzZal+vsTvTChqkI/pW/N5p+BI3W1jmU03K94eiqT5orKRrwAttL0nS1wZsZPiUdoW81qD3DWbG02WDUszqNdM+17NKAT0mjHniVpyyuOT3hT93TuYeM4Xg6BIYt/4o8eENkQ/mA7qJrr3ny6O6jURcKFRXdExsFKonu7NYj8XjJwOpgDEQpTkvslMpGh/tMkA6wQiFjFEmxbch05XOr/e5w2ssIOJ8eSbRHprTJcFAZot5+ShfsYvNzVDvkeezjTflB0b8sm/DJmjUL+EF04nx8AGzC7+tvPWjmL3KKvdEcJhevpCHrEvClZprjgpGpV6i6SBY5qXXZb5/+ExUUhiSMvX5aErwRUFw==;a7pCgAbZyJkHW14Zbr7Ybw=="
 ---
 

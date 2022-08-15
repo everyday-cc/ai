@@ -27,7 +27,7 @@ related:
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 16
+    quality: 18
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/TbFDb-1038x778.png"
         width: 1038

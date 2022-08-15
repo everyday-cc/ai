@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2022/08/xiaomi-cyberone-humanoid-robot-400x240.jpg"
         width: 400
         height: 240
-        isCached: true
-  - title: "'Deeply disturbing' Tesla warning as self-driving cars 'mow down CHILDREN' during test"
-    excerpt: "A \"DEEPLY disturbing\" video claims to show a Tesla using self-driving software repeatedly running over a child-sized mannequin during a test by a driving safety campaign group."
-    publishedDateTime: 2022-08-10T10:54:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 51
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Tesla-warning-as-self-driving-cars-mow-down-CHILDREN-during-test-1653219.jpg?r=1660131096379"
-        width: 590
-        height: 350
         isCached: true
   - title: "Tesla’s Self-Driving Technology Fails to Detect Children in The Road, Tests Find"
     excerpt: "A safe-technology advocacy group issued claimed Aug. 9 that Tesla’s full self-driving software represents a potentially lethal threat to child pedestrians, the latest in a series of claims and investigations into the technology to hit the world’s leading electric carmaker."

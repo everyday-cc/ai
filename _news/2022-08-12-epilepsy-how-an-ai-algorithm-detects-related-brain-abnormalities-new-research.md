@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
+    publishedDateTime: 2022-08-15T03:34:00Z
+    webUrl: "https://www.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+    type: article
+    provider:
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 57
+    images:
+      - url: "https://data1.ibtimes.co.in/en/full/774799/brighter-brain.jpg?w=538&h=321"
+        width: 538
+        height: 321
+        isCached: true
   - title: "Cure For Epilepsy Not Far Away: New AI Tool Can Detect Brain Abnormalities That Cause Epileptic Seizures"
     excerpt: "This new toll can detect abnormalities in focal cortical dysplasia (FCDs), which are a leading cause of drug-resistant epilepsy."
     publishedDateTime: 2022-08-13T09:18:00Z
@@ -114,15 +130,6 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 17
-  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers. The Multicentre Epilepsy Lesion Detection (MELD) project,"
-    publishedDateTime: 2022-08-14T23:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 17
 
 secured: "ELtP9xo5aQoeJdPeZRiVLsly53kEFL7d3r2LEQ5OttxosRmsROnVhQUdJGYtCtlcvFaJeTP6tTA7YrdCcBZ0q6yjXcTiRNDCN6CjhLx4ruMiQbU9jk5pl5FO87LmFQmrFxPafb29faeIdGfIHbgeukATUmcp8E/l00fHI5Sep6jTGwTBQT4h7YRpz5Xai2ttLdwWK3JIqa1tSjVAy8dLj6gPlxt61dgRojf5/jx6Zwo5Izq2ghBRqk3M6jRBeF4Hzxr6jWzRLw3cqLOd6eGlCINM2LZFL1sDeqYvII7cqywASX0XordmCCKWOljeGwG7UFBt/gesYCfx8J889EthixiYChdUtExCXOuSkqJ39HgbqGl8spJ3obaBv3GdK0mU1ZGawXc8KaDN9MeGlW6yqptRs5c6Ty4AqB8MkNHqYoIbgAPs8ljR/6x3n7Lvfaq7XKHn6D832Fa8H9HPKDqIodorugCPxyDlpV/TWb/9v1382GgmKRhw2x5x6HBW+GRMNg3YzhIUntmn785coeQg7Q==;OljUPR3UfF+R8o+dlKHCJg=="

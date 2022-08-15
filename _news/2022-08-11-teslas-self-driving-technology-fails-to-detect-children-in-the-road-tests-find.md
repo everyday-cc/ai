@@ -103,22 +103,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "'Deeply disturbing' Tesla warning as self-driving cars 'mow down CHILDREN' during test"
-    excerpt: "A \"DEEPLY disturbing\" video claims to show a Tesla using self-driving software repeatedly running over a child-sized mannequin during a test by a driving safety campaign group."
-    publishedDateTime: 2022-08-10T10:54:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1653219/tesla-self-driving-hit-children-safety-elon-musk/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 51
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/Tesla-warning-as-self-driving-cars-mow-down-CHILDREN-during-test-1653219.jpg?r=1660131096379"
-        width: 590
-        height: 350
-        isCached: true
   - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
     excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
     publishedDateTime: 2022-08-11T21:00:00Z
