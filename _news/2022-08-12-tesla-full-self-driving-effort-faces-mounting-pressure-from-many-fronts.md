@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-mounting-pressure-many-fronts/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Electrek
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged"
-    excerpt: "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test."
-    publishedDateTime: 2022-08-10T15:56:00Z
-    webUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/"
-    ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 95
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla's self-driving tech's 'failure' to detect kids on road sparks row"
-    excerpt: "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,"
-    publishedDateTime: 2022-08-11T08:16:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Ralph Nader Begs NHTSA to Pull Tesla's \"Full Self-Driving\" Software"
     excerpt: "Now, Nader is turning his ire toward Tesla and its \"Full Self-Driving\" (FSD) software which, despite not being final, is currently in use by thousands of ordinary drivers in a \"beta\" test form. The National Highway Traffic Safety Administration (NHTSA) is currently investigating several car accidents (some of them deadly) in which Tesla's Autopilot feature—a very pared back driver assist that shares some sensors and nascent capabilities with parts of FSD—are implicated as possible causes for the incidents."
     publishedDateTime: 2022-08-10T21:45:00Z
@@ -78,6 +46,22 @@ related:
       - url: "https://www.motortrend.com/uploads/2022/07/Tesla-Model-X-2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
+    excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
+    publishedDateTime: 2022-08-11T17:27:00Z
+    webUrl: "https://www.barrons.com/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-602198/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
@@ -137,6 +121,29 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "$20 million self-driving vehicle testing, training facility to be built in East Huntingdon"
+    excerpt: "A $20 million facility for testing and research of self-driving vehicles will be built in Westmoreland County, state officials announced Thursday. The project unveiled by PennDOT Secretary Yassmin Gramian will be built on about 100 acres of state-owned land at the Regional Industrial Development Corp."
+    publishedDateTime: 2022-08-11T21:21:00Z
+    webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 29
+    images:
+      - url: "https://assets-varnish.triblive.com/2022/08/5327977_web1_gtr-TestTrack-081222.jpg"
+        width: 640
+        height: 323
+        isCached: true
+  - title: "Ralph Nader calls for NHTSA to order removal of Tesla Full Self-Driving"
+    excerpt: "The auto-safety firebrand and former third-party Presidential candidate called FSD \"one of the most dangerous and irresponsible actions by a car company in decades.\""
+    publishedDateTime: 2022-08-10T18:15:00Z
+    webUrl: "https://www.greencarreports.com/news/1136786_ralph-nader-nhtsa-order-removal-of-tesla-full-self-driving"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 19
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
     publishedDateTime: 2022-08-11T11:05:00Z

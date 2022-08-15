@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "ABAIR announces their 1st course Ai for Radiology Administrators and Technologists"
+    excerpt: "ABAIR has set its first in-person course to be held in Las Vegas on November 15th and 16th. ABAIR will be providing Radiology Administrators and Technologists with an opportunity to become well-versed experts in the world of AI for radiology."
+    publishedDateTime: 2022-08-15T08:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/issuewire-2022-8-15-abair-announces-their-1st-course-ai-for-radiology-administrators-and-technologists"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 11
+
 secured: "/RLk8TorL3x3sw6ah0hTM6SQesFH4joRFPS7kQdPv47NR6lWQ7+KwvW5s0BZGl8xufmOcV1QRr8Taz9pdvwUMuZlePMakkPMAXLz+8YApAE9nYbN3DqPTPnFVFZF2aeDRo/qBK1Oywpga595+TvRN2/cBCPhlN/NGIRm7LvN/gjTdsLLBEcu7KECMDV9+IgWtPiqOF9LFUklUA8S9e53LWGmPf0DSwWMMRP2fPwouoILCLEnEdXkxhHO1OUtk5mbslWLXZB37zqywhKQT8H5ku7xe1LXDaPhujo6pfKhdd8pzU88dtupNgEH7GYsCg4My1Fjc4+4m2bFt7XOMeORMUeVfzK1T+c8RZNVpR8KR6U=;nt3woqnP4Wc3iZC3niL+hA=="
 ---
 

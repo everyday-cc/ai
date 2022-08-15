@@ -40,34 +40,6 @@ related:
         width: 2048
         height: 1812
         isCached: true
-  - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
-    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
-    publishedDateTime: 2022-08-11T20:44:00Z
-    webUrl: "https://www.biometricupdate.com/202208/face-forensic-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Face Forensics launches victim identification system with biometrics and tattoo recognition"
-    excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
-    publishedDateTime: 2022-08-11T20:48:00Z
-    webUrl: "https://www.biometricupdate.com/202208/face-forensics-launches-victim-identification-system-with-biometrics-and-tattoo-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 14
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/11164314/crime-scene-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "hFH97eLlea1bd1iB3+p14D6jxJl7hHdyUGrR4p2DkID5QHY+ousX5u8c+30jXO2EGU2HL0BucIHxO6uPj1fUg7J580G9HFSpS+3xjXKY0P+SkOnNxJQeTfignS++RTCy/zD9YIMYlh5iNngfdY/hhTb/1HvYkHSUhEGbuBt3Fci063pOQX8RhAA/RlGCxmm7r9Jwr2Y8zxGO5RpxTH84AgN8jrnIBIubPrzlSlFfbKnoVP04v7kKWd1sKCAZONc42bD4Z23+hYVmNFH+ddjKoS8uPcZkI4Z0HFRFVNn19zdOhEfkRrXq71JaRove5xaUpGyIk5iIp9r5q9QmM/0frPkOzWlgdms0V9T9FIwGsAv5xoT2eUTSnvTZR0yfsawLuv5g4FP4yFMTHYIIfxxZnsrh3BzHDeNLvionDJ4o7pIEOSisORLRXhNztzuts3DOHFTZMIRuAxnhJFX7qX2x8+ouUuxMU8D20IbdgAHE68sD6AMQLKdN1hr+PZTDtSKo5m6Cdi5cM3nlZAh8dRUXYA==;abN8FP1wnTZ1a6J9SBQa8A=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
-publishedDateTime: 2022-08-12T19:28:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+title: "Pearl Named 2022 “Hot Vendor” in Computer Vision by Aragon Research"
+excerpt: "LOS ANGELES–(BUSINESS WIRE)–Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of “Hot Vendors” in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose ..."
+publishedDateTime: 2022-08-12T21:25:00Z
+originalUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/"
+webUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/"
+ampWebUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
+cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
 related:
   - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
@@ -29,6 +37,6 @@ related:
       domain: mobilitytechzone.com
     quality: 16
 
-secured: "89EZTFipy14OtM7i+Iyrfw5ILOlfZJl9aQ94FSr5KKhdQkUt6md+Ll0EfnmlL+xyCAlvKPB2DurgfAq8TpW1t14/15eS2ljbb+svRhkeeYuqrL1a3BVaLthzLSYk9Od6nvd47ZcYjyVU8NrMtBewJt3+x9OEVSwQ8MxPiwXbDJNoWI97F8gYaiQCtglWI2qUwBMfAGafhaEUSHa7tFA4cZxpKzyISZE/13nkQRMvxrttF8UGgAjwBYTyCl4lOP5JwQkPSOFvKFBs9u5P+Qv67+8bjAJdSN0ZNloq6s2Lc5YpP0wWrL0W+MztoDp+Js6VRJowukzIzDCLw94OpENzV2tatFmgjalAdd2z3MivRJQ=;CybAhX2iKHK+qva6BAkHCg=="
+secured: "zP2o6P14QAQ5pk1uhzJ5UmhyYncHQccmYsLtaipkM+Wjh9OpuE/7UluWo7lO7bWYoTwK8Unk1S9IgWFKUajnGzYqDGZVT1QtehcvOD9b7oVPjA/K2EayJdi18XAj/Y88UBe7/S7QBJkUcQRRpn/NajOwVJ8095GfK6pkPllFyBVYqfRwXdp4YkPTmkzd8fiEmmWmirg3G0Syb0fcV4GTsNg5VMcp2xpl0en5ucu7t58eiAzy/Am8ZvhzTthoZIzZdwB693ln2yU1gCbWr/At9ncum8EPqxQoTZNtWyQPFTHLIS+OylpkdkU7phtScyxSEmc7Unu62sb0kRWpjfKyUtTMRN9yBHLds/d3k+35jgM=;FacGKlP+0mnsP1pnGt0Etw=="
 ---
 

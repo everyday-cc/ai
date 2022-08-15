@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-is
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
         width: 1024
         height: 569
-        isCached: true
-  - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
-    excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
-    publishedDateTime: 2022-08-10T15:33:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-meta-defend-racist-chatbot"
-    ampWebUrl: "https://futurism.com/facebook-meta-defend-racist-chatbot?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-meta-defend-racist-chatbot?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-meta-defend-racist-chatbot-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
     excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."

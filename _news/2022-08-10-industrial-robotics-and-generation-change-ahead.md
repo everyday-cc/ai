@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Industrial robotics and generation change ahead"
-excerpt: "Realtime Robotics, a specialist in autonomous motion planning for industrial robots, has announced partnership with Kawasaki Robotics on a project that aims to automate the programming, deployment and control of its industrial robots."
+excerpt: "has announced partnership with Kawasaki Robotics on a project that aims to automate the programming, deployment and control of its industrial robots. The partnership is described as a gamechanger ..."
 publishedDateTime: 2022-08-10T15:22:00Z
-originalUrl: "https://www.just-auto.com/analysis/industrial-robotics-and-generation-change-ahead/"
-webUrl: "https://www.just-auto.com/analysis/industrial-robotics-and-generation-change-ahead/"
+originalUrl: "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/"
+webUrl: "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Just Auto
@@ -24,6 +21,6 @@ images:
     height: 778
     isCached: true
 
-secured: "VZ2L6i3fKju669LtHgPOxLjFC+aLabsM+mVBUfyzKu1Xttj+n2fkbNlvySjoBnNSaJZ+Qa4QtfQ1XEC6S5ykiDIruyjAm+Qo6JMvKpptC7WTQu52aaSvjXW3oATbjMsojRGgkua0QAcWF05p0tlQTm2wfxd4QGIdWp6aW8qDCTxnVBVqa8ARzWmfp0Qg9l9Uj5W5na1/KeTyZbsZXjKxs6ZV9EiShfAZfBrAaqq217sc5gpq+o5YeOpv5xvZ9DDZ0CNHSrQWJPSTnGQ6ISpXEBvWWPkEU4LXOC82hZPRwNbhpyaNI1ozzrbwebLQqGfp6hRQEVFYiGYpmZuVlPseYGaHJX0GbfnOUe1NHK3Uwj+ntnih9hvJr51EMJtToStbnnOpYa6lTquN9jJPHCo5PvXhKHGIV5dvIKAcJKsNz9N1xDd80O0SbW233Igv44TvPSa+PxsPCTTjUwUxGV7HkkvW1/jnXK1f3Sq57y2e6UcXZiPWtjM8WOVyPXyhwxADvaKKl+LyztoYe12CariQdQ==;g0cNmzIsh4tgZYEytpZSvw=="
+secured: "75qf+xEf4Trmi9tCpe2ygU87zi8yrOP0wv2006XsyNZxbHcwh0Gj4HcZeepa+oXbjH0yDIYdEEkVHoc8xJoc+s/a4j+euCOKXd6ihicbQ5Cx8vym5sageOgAMTZ/LLnAYYEWPxTZ8VBpT7qL0NwP5Nyng2/u7hVEa/ThF2axCnfN28DK6+JB93O7wo0rPSPd9W6nsO7SkW0O3S9/J/Z7eOoRtQ933WUIbpBHZspaPFmdqMVyskE7S6Zjk7R425nbk8stO5Gc7j7TfrD38Lwe2qh7bIVyBQET8turedlQlQf8UwI64dhtY8P3u7Q9bzPSEeTKIy6VX9asyhxfpzC+0Gp5ORtdqcdnB7f8yDZ7vfw=;FFXKViAqIoItwxMuc4NpRQ=="
 ---
 

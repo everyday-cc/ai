@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220812/AI-Model-That-Reduces-C
 webUrl: "https://www.news-medical.net/news/20220812/AI-Model-That-Reduces-Cost-And-Time-And-Increasing-Accuracy-Of-Cancer-Diagnosis.aspx"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Revolutionary AI model for cancer diagnosis"
+    excerpt: "Researchers discover a revolutionary AI model for cancer diagnosis that is expected to revolutionise detection"
+    publishedDateTime: 2022-08-15T09:44:00Z
+    webUrl: "https://www.openaccessgovernment.org/revolutionary-ai-model-for-cancer-diagnosis/141518/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_178859620-scaled.jpg"
+        width: 2000
+        height: 1329
+        isCached: true
 
 secured: "XM6ucROCXNiUT30eQ4XYmTlVNLTaOX/hYBeiv/O+DUgPW4A0DmylrDN8xEXPqoFMXJPL+nZTDc9XzwRLs2fmSxbUwWx+yPQ7TEg0QShvrltmupIaJAa1yr9Ka7X4p3YxOZbpsS1KmJE+gPky5qyDAswUAx2/RlizoCK016YqiYUnDZIhDoR8GHnJbMdptc/vedpDfqV3oTPhsw3w1IXh4QdrLajldTAxAJCBW6ZNZ5NLl3Du2HE01SIS47bEEQFgOHkfEFsN9xzVfrv0A34Q0s91E4uD9uojiym4nUulZlaYr2DLjeT0ILaXLlT52ssJOLsU4Zzm4+lyZCBdWf7h6zYrEeP//6BoAJ7BvoDtoCg=;zYHD70mVQx6lEr88i7y3og=="
 ---

@@ -116,22 +116,6 @@ related:
         width: 1024
         height: 569
         isCached: true
-  - title: "Facebook Forced to Defend Its Brand New, Already-Racist Chatbot"
-    excerpt: "Within the span of a weekend, Facebook's new chatbot learned to be a racist conspiracist— and the company has already had to respond to headlines about it."
-    publishedDateTime: 2022-08-10T15:33:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-meta-defend-racist-chatbot"
-    ampWebUrl: "https://futurism.com/facebook-meta-defend-racist-chatbot?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-meta-defend-racist-chatbot?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-meta-defend-racist-chatbot-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
     excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
     publishedDateTime: 2022-08-14T11:21:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.thehansindia.com/hans/young-hans/iit-mandi-uses-ai-enh
 webUrl: "https://www.thehansindia.com/hans/young-hans/iit-mandi-uses-ai-enhanced-research-algorithm-tools-757220"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "IIT Mandi researchers use AI enhanced Operation Research algorithms for wastewater management"
-    excerpt: "IIT Mandi researchers have used AI enhanced operation research algorithms to find appropriate methods for wastewater management. This algorithm helps identify the most apt method for wastewater management by keeping in mind the socio-economic needs of the environment concerned."
-    publishedDateTime: 2022-08-10T15:16:00Z
-    webUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398"
-    ampWebUrl: "https://www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/iit-mandi-researchers-use-ai-enhanced-operation-research-algorithms-for-wastewater-management-article-93484398/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 46
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93484398,imgsize-100,width-1280,height-720,resizemode-75/93484398.jpg"
-        width: 1278
-        height: 720
-        isCached: true
-  - title: "How is artificial intelligence used in COVID-19 research?"
-    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
-    publishedDateTime: 2022-08-12T09:51:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "OVxApsSe4IzY9WuWC9sqaEFhWbU3hF1Wya+SFP1lO943177w+K4l0+kbLeO2PJVCRN4W9DFh6ZcBBgaR+nEPkvFmNsltdkcX9l0lA+MhW186iceWTpZzY865H75K/0+zOLkdxBb25zUQRpuJ+IGucvCtPplHWnOvhdgtQW/sUDEy7jmvBcHN9J+XNm2MAadYb0CpH/xy5vv5hNzCSPWusoY6V245Uey/AnR1+hrfDP4MIMlovG1kJQc8aITkKQ9VSkBHkGPqLz6bX5xQrc0+oVXj6IbxR0LAg3Oy92v8JcwSukbjst+67bm8k+dQPmGKm0cL2kU7JHTe8pyOAi54OwqIvV1bF/jXe90SQs4pPk0=;ciqDXl/BN9v5ehkMiBDimA=="
 ---
