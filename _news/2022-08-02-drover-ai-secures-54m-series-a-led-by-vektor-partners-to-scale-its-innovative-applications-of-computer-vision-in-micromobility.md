@@ -15,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1870247/Vektor_Partners_Drover_AI.jpg"
-    width: 400
-    height: 319
-    isCached: true
-
-secured: "NlCkNFkaQQTeiQfZf0yMUgJiVNvQN+M1SrPlb00rA1jnVZjU264lYmJhF4cZXf0b8UHBhhy6gJK/d2r0Fkbb9AqcVj87tQjnGQjbUlFEuvvUq5wwInucmWSRhvHgZpGud1b15U8FRzHm9+Epc+GoA2WbkJ+jwq3rVjphDU+rvTyggbmHO5EH6I92oNLphzGh+mjlVPL7V3uUxOUA3J+YEQ87BDqzlDhI9SkK6FAIwqnsehnd9sTpIW9GF7uajCL0uTL7lTdg6B2Qe1VK4rsvwBPNn+o//1Rgi5B58VEjbUKTkewEF4t2phS7jSUVdudL6CYB96a8HJXqHo/9IXoSMEZoVNzbtURewA7R3rI1QcQ=;GtuWPwj6K1BCw+5LZ3plrg=="
+secured: "LXvQ9xWSRAZKsxmhKzlDDGNvmse5NM3HOL6OzhkFoNA16KkDQBPaRsnBuc+Vh71cXuwO4Z48HAKKh+KjcyT32laMbcMPpBj3EyLnPSYURg2IniS9Rq+BQpDnvgM0MqlAva0TyGJb5dCGBnJfkzMlB89PuNtRRbkcQ5ZcHcA5NCZHwGCb3hksrKlT1M0KSSE6MayYetf9OxubQEDiewslui6/e1Sy9RZIX25ShQxxU0L8zTPxuBx4KTmHOnc1NDe/Nv2TPyeE1Yrh++kNXqhjhEJJsebg2yv4da/B7M+p+tS0hRbgBfYYmQHMj80Shw9OAmMIkY9E9lJxiSYl63EfXOVrehF8ov/4wzT8ZVHOb4Q=;pcP7wPZoL26f625V8exV9Q=="
 ---
 
