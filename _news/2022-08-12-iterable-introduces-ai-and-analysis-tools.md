@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5102042&name=iterable
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: research
@@ -42,15 +42,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
-    excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
-    publishedDateTime: 2022-08-10T13:43:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/iterable-introduces-ai-optimization-suite-drives-individualized-communications-for-millions-of-customers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
 
 secured: "/8FFvmx8pQxZ82doHiZw4+W7cyDzrcoctqNLoNpECMRJwGBAlp+oe2/4Q8jQ69bSPWB7Cotx98B2r1HbuMUKNRkObDPPlwiuiqzBpvzRT69LsJYUGPMK4VO3ZIMEsDj24zs0LfJKN3JZje1izsb4o11D9hFXY8/9utYk0u0uLX9fzDK8uLR59SU6npxsGTOfi5tU1Gq8nBpL4t8ZWm8YAMP3c43zRIcMzM4b6+dp2kCCFptYJnmzUW3XkxYtFwDvx+NF5Pq+z5MeWzMheqL/1RLiaeicBbE545b8Upsq+sfsR9aXmWRxowDbnzlwIo/pR7FPxQmujicPLQHm7qS7GMLwB9sm7u6g+CP3Av2xRKM=;gz5VxB2/80TIEaQB1t10FQ=="
 ---

@@ -41,24 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Yellow.ai announces the launch of its proprietary DynamicNLP™"
-    excerpt: "Powered by zero-shot learning, Yellow.ai’s DynamicNLP™ enables zero training of NLP models, go-live within minutes; while delivering over 97% intent accuracy"
-    publishedDateTime: 2022-08-10T13:25:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-announces-the-launch-of-its-proprietary-dynamicnlp-layv20we"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
-  - title: "Yellow.ai announces the launch of its proprietary DynamicNLPâ„¢, a first in the enterprise Conversational AI space"
-    excerpt: "According to the future of conversational AI from Deloitte, training AI agents with manual methods can take as long as six to nine months, making it one of the most common setup c"
-    publishedDateTime: 2022-08-10T13:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1269612&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "gcAbIpy9ukQ5G47cZZfBgwOvnP2g8e50HL6QaeVovo++UXRiIc/AXq35a4nuCD+tbjPzRoZ4h9g5rWB/WRkiG12la0UTgR4ZYbOoHAMHUU5fcj/AtSbGtub8CKgSHlQq4EueBN5NaPsMVXJIc0sdbq+eRMp2nHLq9rtwWxuAznjMgherLVeSBig6QcTIZTcv1fAXS+6BYy7RgCyey4w5P/LzeJ+vSUu6kUhDznYc0m4WjC0ssg9X7MrsVEbdU91QGI+pY+onrRt7MoJ0Y21j4TgCW1hLOJNaxtT2fDyal8BcYoB9Zwk2BnUPGcmvlqQMZqUf+TkLexmztINXDhqozjzdZIoh7WJBrYXYXhEk11E=;6WGBAVzGpCVY/euQjwQWDw=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 464
         height: 268
         isCached: true
-  - title: "ECG Using AI Algorithm can Predict Diabetes and Pre-diabetes Early"
-    excerpt: "DiaBeats algorithm can be used to screen in low-resource settings, as it can quickly predict diabetes and prediabetes with 97% accuracy."
-    publishedDateTime: 2022-08-10T13:24:00Z
-    webUrl: "https://www.medindia.net/news/healthwatch/ecg-using-ai-algorithm-can-predict-diabetes-and-pre-diabetes-early-208219-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 17
 
 secured: "Cl+2VpsyDl12RDf3rf5NcPpPm9EUDDNJaen2rPWS+U5JaWyv+Obbl6RNuvJwd/Lu0x/TlMMMde3aLXD4InNZCmXWayfNMMaOucgTuz1R7JPe2iYwamZ/b37goQC3zpGlSzwErV8U0dTehbMe7xPxLQgFQPwIiMpe23xaqOWAKopyNwBcLrYdDDl3xYfGtHygVT6TaN678XkB8zOdtnS/SLCepJCgjSJtbdf6DjkU0S3SKWkTXXd4NHqjgvD5I12NAcO+nbfUlcIg10SGvluQTXEd6/8BaeaTnXZ7GPD4b6jFadAywxPenxWtc96mDjiR0C6FhMwKKC67Z/VN5ksrzSYcXOc+VuV1XaGZAr/fPl/TkiaDYCsHFObXeSZ/3EJ8e3GIyQ+LRZLmduqj8LrWtMAlcGP/6JH6INSkBP53WPm0Fg8WpBUqhnEpEcTPd1ZCMhR11qsWeVj6Ewr4OzSC8cAxasxU44doezG0yIQ7SRa+hv1q+rhoMbqACl1qVcK8v2EHtWRAuxkiNbs+wYbzSA==;//mVUNSjuDEiliazDsVCPQ=="
 ---

@@ -858,48 +858,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-12-iterable-introduces-ai-and-analysis-tools.md",
-      "title": "Iterable introduces AI and analysis tools",
-      "excerpt": "Communication platform Iterable has launched its Artificial Intelligence (AI) optimisation suite, which includes tools such as Predictive Goals with Explainable AI, as well as existing Iterable AI products such as Brand Affinity and Send Time optimisation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/iterable-introduces-ai-and-predictive-tools/id/5102042",
-      "originalUrl": "https://www.research-live.com/article/news/iterable-introduces-ai-and-predictive-tools/id/5102042",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5102042&name=iterable-introduces-ai-and-analysis-tools",
-      "publishedDateTime": "2022-08-12T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-12-arm-partners-with-cruise-to-advance-autonomous-driving-support.md",
       "title": "Arm Partners With Cruise To Advance Autonomous Driving Support",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead give his analysis of Arm's new partnership with robotaxi company Cruise to power current and next-generation vehicles.",
@@ -1113,7 +1071,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1161,8 +1119,8 @@
       "title": "Why Airbus is betting on AI to fix pilot shortage, flight safety",
       "excerpt": "As airline passengers slog through a summer of rampant flight delays and cancellations, airlines are grappling with a massive post-pandemic increase in air travel demand and a long-term pilot shortage – while also prioritizing safety.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
-      "originalUrl": "https://venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
+      "webUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
+      "originalUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -1179,8 +1137,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
+      "ampWebUrl": "https://venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/why-airbus-is-betting-on-ai-to-fix-pilot-shortage-flight-safety/amp/",
       "publishedDateTime": "2022-08-11T19:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1196,6 +1154,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-ai-algorithm-that-detects-brain-abnormalities-could-help-cure-epilepsy.md",
+      "title": "AI algorithm that detects brain abnormalities could help cure epilepsy",
+      "excerpt": "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
+      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

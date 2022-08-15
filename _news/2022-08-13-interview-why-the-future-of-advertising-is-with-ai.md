@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/business/interview-why-the-future-o
 webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Book interview: How AI can be a force for ‘not bad’"
-    excerpt: "Massive productivity gains made by the implementation of AI come with the risk of discriminatory and privacy-invading outcomes, says Reid Blackman."
-    publishedDateTime: 2022-08-10T14:12:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/08/book-interview-how-ai-can-be-a-force-for-not-bad/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/19039/book-interview-web-hero_3130601619884992769.jpg?crop=0,0.11375,0,0.3940625&cropmode=percentage&width=1200&height=450&rnd=133040261680000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Interview: Dr. Susan Hura, Chief Design Officer at Kore.ai"
     excerpt: "I recently caught up with Dr. Susan Hura, Chief Design Officer at Kore.ai to discuss the bank-end work that goes into developing an intuitive conversational AI-supported chatbot. She'll also dispel some of the myths behind developing and introducing a CAI-empowered chatbot into a business’s digital platform."
     publishedDateTime: 2022-08-12T13:00:00Z

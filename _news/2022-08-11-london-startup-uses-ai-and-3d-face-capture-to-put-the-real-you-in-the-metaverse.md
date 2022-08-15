@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/lifestyles/technology/london-startup-uses-ai-and
 webUrl: "https://omaha.com/lifestyles/technology/london-startup-uses-ai-and-3d-face-capture-to-put-the-real-you-in-the/video_d9f59d02-7b96-5fef-8210-cce7c06c0f7e.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "AI takes the 'real' you into the metaverse"
-    excerpt: "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo"
-    publishedDateTime: 2022-08-10T13:10:00Z
-    webUrl: "https://www.reuters.com/video/watch/idsr3i?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/62f3a3d6e4b05160ceab43cb-1660134361379?location=LANDSCAPE"
-        width: 748
-        height: 421
-        isCached: true
-  - title: "Kiya.ai to celebrate Azadi Kaa Amrit Mahotsav in metaverse on Bharatmeta"
-    excerpt: "Kiyaverse pioneers use cases of merging real-world banking with Metaverse banking through an avatar based interactions."
-    publishedDateTime: 2022-08-14T06:47:00Z
-    webUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/"
-    ampWebUrl: "https://www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/digital-currency/kiya-ai-to-celebrate-azadi-kaa-amrit-mahotsav-in-metaverse-on-bharatmeta/2627849/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 56
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/image001.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Future Of Work In The Metaverse"
-    excerpt: "The metaverse, by design, was always intended to be more than just another ecosystem of \"virtual reality\"-based applications."
-    publishedDateTime: 2022-08-11T01:48:00Z
-    webUrl: "https://www.ibtimes.com/future-work-metaverse-3600517"
-    ampWebUrl: "https://www.ibtimes.com/future-work-metaverse-3600517?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/future-work-metaverse-3600517?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 44
-    images:
-      - url: "https://d.ibtimes.com/en/full/3586875/meetkai-inc-turns-times-square-live-portal-worlds-first-available-metaverse-accessible-via.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "RY4A1nd0kYSCA567ur2nErcPayZTaUDa1qEBWSEQRsn5QMzH3FTX2QTjEIFdtQI7THyJgXBHnp91NTF5AbCsxx8gaiYpa0KyggUHUtxpus7HuCxSz3d88gJ0tIPwY6s0kB/5lBktEF+tF2XBtA1gTvlNyySa1+ZIEFbCHx6B/zBJnJRANQYoQgilw6XbnJAfbi06F1krlHM+2B2xOxfBSqCz+BGBPxqdmCeIeP3H61fzngPBWTuYK7t6Ex8P56J7kwUMnfjyp3fD4K/b1izAUzZscbet7rZUVOCAj7WgglLKonu7blXa1fVwHYXE2uLkhRFJfEkcfmH79nsEEa/HlcKe2VVfxReQVJ3zZRb4IzU=;PCE04k1uEEoXf5MkfNDVqw=="
 ---

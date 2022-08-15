@@ -53,6 +53,17 @@ related:
         width: 800
         height: 522
         isCached: true
+  - title: "These Are the Degrees of the Future"
+    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
+    publishedDateTime: 2022-08-13T00:39:00Z
+    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
+    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 54
   - title: "AI may come to the rescue of future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
     publishedDateTime: 2022-08-10T19:47:00Z

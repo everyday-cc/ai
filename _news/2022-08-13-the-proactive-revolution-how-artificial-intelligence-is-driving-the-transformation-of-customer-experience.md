@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 636
         isCached: true
+  - title: "AI Power Consumption Exploding"
+    excerpt: "Today, that means bigger models and larger training sets, which require exponential increases in processing capability and the consumption of vast amounts of power in data centers for both training and inference."
+    publishedDateTime: 2022-08-15T07:04:00Z
+    webUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 37
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "SOhhxAzT0kGLCFrzSEWyodJ9TMK9OISraZSNanhMipiQueekcX3FtgsbjAHn9ROuFU+xf7Hr/Y6zGb3CRTn5flBpWr/j96a4p/5DI6GGzvKLVJMO31mqt6igVDwzQZBEhUsSYkxsLfx+UKaKpFizR+CseQp29kDZrFBm5W7Wu4ZS+I96E7LwSBuIyTQ+WgyMaaSgRzPYnVfECPYzOG4kx0SOfZU0D9Iz+WgBPEn+g6u0HsynUyEZ384dN+2UUUFJRWeAys7Q22VKyCRhuEKPaEqTIuflG/r49Sg7mpEgE1hqsF+2zYV7S/SAr6NcxsdiuDja94vVxH9N3ssBmazgWrnAzFmsFJSADMMaakTbxuw=;YAYnuUyb/Fy9nsBFHUZekg=="
 ---

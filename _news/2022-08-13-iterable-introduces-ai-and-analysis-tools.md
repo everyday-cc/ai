@@ -42,15 +42,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Iterable Introduces AI Optimization Suite, Drives Individualized Communications For Millions of Customers"
-    excerpt: "New AI Optimization Suite, alongside other products and capabilities, will be unveiled at Iterable’s signature conference, Activate Summit North America. SAN FRANCISCO, Aug. 9, 2022 — Iterable, the powerful communication"
-    publishedDateTime: 2022-08-10T13:43:00Z
-    webUrl: "https://multichannelmerchant.com/press-releases/iterable-introduces-ai-optimization-suite-drives-individualized-communications-for-millions-of-customers/"
-    type: article
-    provider:
-      name: Multichannel Merchant
-      domain: multichannelmerchant.com
-    quality: 0
 
 secured: "I+8l3Uf8heRqzRNNWdmrnYKiGUW5W+HVVM48NberdAxUlhI7AleHmT5sIvK5DrgE5pnYcuYwD+BWZwnsDXwICEEWhAKJfl84X56nBz5uolapXjNP1o+vBp1uplmfrojuKsomJJahDgoqhg7cWah2P4WOfDVV5/v1YVVUufH8C2h18TYBOA5Q4HEe35N226F9Jh5N7UXD/k+KSSsnjFXa/Hn/PFRBv5D7VUR8DljtdiYkSfe5dm6pFFC5zIZWg63bXD3Mbig+Wj1Y55ut1W+CdERuf2HsoBDnCi+850bhbtsyuAovu5wUFFp/ihgR63EKAgMuMZy7R0Am+aI0Dn3bH9tkcJh2KV5KqFPAh5kxCY4=;Kq0hl/7ASWEXyEXjAURE6w=="
 ---

@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Book interview: How AI can be a force for ‘not bad’"
-    excerpt: "Massive productivity gains made by the implementation of AI come with the risk of discriminatory and privacy-invading outcomes, says Reid Blackman."
-    publishedDateTime: 2022-08-10T14:12:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/08/book-interview-how-ai-can-be-a-force-for-not-bad/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/19039/book-interview-web-hero_3130601619884992769.jpg?crop=0,0.11375,0,0.3940625&cropmode=percentage&width=1200&height=450&rnd=133040261680000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Interview: Why the future of advertising is with AI"
     excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
     publishedDateTime: 2022-08-12T21:55:00Z

@@ -2,6 +2,126 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
+      "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
+      "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
+      "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1209778574.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
+      "publishedDateTime": "2022-05-26T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-emersons-zedi-cloud-moves-to-microsoft-azure.md",
+      "title": "Emerson’s Zedi Cloud Moves to Microsoft Azure",
+      "excerpt": "By synchronizing this data, cloud platforms can enable end-to-end planning and visibility that would be difficult or impossible if local, on-premises servers were used instead. Moreover, the cloud is increasingly seen as a key factor in helping companies meet sustainability goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
+      "originalUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-how-to-use-windows-speech-to-text-for-hands-free-typing.md",
+      "title": "How to Use Windows Speech-to-Text for Hands-Free Typing",
+      "excerpt": "Both versions of speech-to-text use online speech recognition to convert your spoken words into text, so you’ll need an internet connection for the technology to work. Speech-to-text is built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
+      "originalUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techlicious",
+        "domain": "techlicious.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-a-face-search-engine-anyone-can-use-is-alarmingly-accurate.md",
       "title": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
       "excerpt": "Unlike Clearview AI, a similar facial recognition tool available only to law enforcement, PimEyes does not include results from social media sites. The sometimes surprising images that PimEyes ...",
@@ -958,143 +1078,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-tcs-partners-with-deakin-university-to-co-develop-corporate-learning-programme.md",
-      "title": "TCS partners with Deakin University to co-develop corporate learning programme",
-      "excerpt": "Deakin University’s corporate learning and development division, DeakinCo. has partnered with Tata Consultancy Services (TCS ... as artificial intelligence, machine learning, data analytics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/",
-      "originalUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/CUET-12.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/tcs-partners-with-deakin-university-to-co-develop-corporate-learning-program/2538843/lite/",
-      "publishedDateTime": "2022-05-26T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-will-revolutionize-dentistrybut-only-if-we-free-our-data-first.md",
-      "title": "AI Will Revolutionize Dentistry—But Only If We Free Our Data First",
-      "excerpt": "We’re on the brink of a technological revolution that will bring dentistry into the 21st century. But we can only reach that point if we break down silos and logjams and set our data free.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628e3f96f806031d28cbc757/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/26/ai-will-revolutionize-dentistry-but-only-if-we-free-our-data-first/amp/",
-      "publishedDateTime": "2022-05-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-insurers-in-pursuit-of-autonomous-vehicle-answers.md",
-      "title": "Insurers in pursuit of autonomous vehicle answers",
-      "excerpt": "with its Autopilot capability and the significant progress of artificial intelligence (AI) technology in various domains — as well as the early overpromising of various vendors, including Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "originalUrl": "https://www.just-auto.com/analysis/insurers-in-pursuit-of-autonomous-vehicle-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/05/NS3uC.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

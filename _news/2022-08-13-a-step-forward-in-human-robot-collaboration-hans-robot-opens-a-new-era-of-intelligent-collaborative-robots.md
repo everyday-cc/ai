@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/sacred-rivers-tech
 webUrl: "https://apnews.com/press-release/globe-newswire/sacred-rivers-technology-china-91d5ab03e9ca9d22ea911fb90cdeb776"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "A new explainable AI paradigm that could enhance human-robot collaboration"
-    excerpt: "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,"
-    publishedDateTime: 2022-08-10T14:05:00Z
-    webUrl: "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg"
-        width: 2880
-        height: 2245
-        isCached: true
 
 secured: "2YotD2ux4QwmnsTMdVb89ilUmJqz4BmiGLhMFN68jklXJJ8GTd5ErM+C+4G7StrvVtqZLbFis32Mb2Y6qVyZ7FdWKkThefdSjEnHsKhmPgyENlkddjhWbUHn2P7irWzeMUdp4JP6wr7K37XZGEW7+8fkBu341GrjTXe3DnFdqi8Hzy9Kxqq9n7T060Q0Aa0nmPV6cnQjHpT2xIwbGwz9A7m6FzdXisHhPcEGiB+VtBht5Te/1fGWPZnAdfNsBppT8Ls3BL6BR26e4TNOD+dYsG96CtILGp7qin+sRBWZHyYyYKlob6xwhzhOzNvdBv/eHy3Ajw3HjZtP5GlQmSaNMlU7WjHyy4C1B+V3ZTpIFGw=;LuUMkfjo/futaQRQ4V02pQ=="
 ---

@@ -59,6 +59,54 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "We need to be proud of every language in our country: PM Modi’s I-Day 2022 speech"
+    excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country’s 76th Independence Day called for unity among people while pointing out that sometimes the country’s talent is restricted by its language barriers,"
+    publishedDateTime: 2022-08-15T06:44:00Z
+    webUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/"
+    ampWebUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 39
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2022/08/sdjckhdnkjcbhnsdkjbfjsdfv2022081505031320220815060315.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Independence Day 2022: PM Modi uses paper notes for his speech, ditches teleprompter"
+    excerpt: "Wearing a traditional tricoloured motif safa (headgear) with a long trail, Prime Minister Modi then recalled the 'architects of free India'."
+    publishedDateTime: 2022-08-15T05:52:00Z
+    webUrl: "https://www.indiatvnews.com/news/india/independence-day-2022-pm-modi-speech-uses-paper-notes-ditches-teleprompter-red-fort-latest-updates-2022-08-15-800087"
+    ampWebUrl: "https://www.indiatvnews.com/amp/news/india/independence-day-2022-pm-modi-speech-uses-paper-notes-ditches-teleprompter-red-fort-latest-updates-2022-08-15-800087"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/news/india/independence-day-2022-pm-modi-speech-uses-paper-notes-ditches-teleprompter-red-fort-latest-updates-2022-08-15-800087"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 37
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2022/08/pti08-15-2022-000060b-1660542425.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Independence Day: PM Modi says talent will be basis of New India, takes aim at 'Parivaarwaad' in I-Day 2022 speech"
+    excerpt: "Addressing the country from the ramparts of the Red Fort on the country's 76th Independence Day, the Prime Minister said that there is no place for corruption in our society and that the people of the country need to come together as a society to punish those who have propagated the evil of corruption."
+    publishedDateTime: 2022-08-15T06:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/independence-day-pm-modi-says-talent-will-be-basis-of-new-india-takes-aim-at-parivaarwaad-in-i-day-2022-speech/articleshow/93568282.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/independence-day-pm-modi-says-talent-will-be-basis-of-new-india-takes-aim-at-parivaarwaad-in-i-day-2022-speech/amp_articleshow/93568282.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/independence-day-pm-modi-says-talent-will-be-basis-of-new-india-takes-aim-at-parivaarwaad-in-i-day-2022-speech/amp_articleshow/93568282.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22108,msid-93568510/modi.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
     excerpt: "Beginning his speech at the Red Fort marking India 75th Independence Day Prime Minister Narendra Modi on Monday recalled the architects of free India who s"
     publishedDateTime: 2022-08-15T03:26:00Z

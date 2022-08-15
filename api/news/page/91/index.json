@@ -2,6 +2,134 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-06-02-oral-bs-toothbrush-uses-ai-to-grade-your-teeth-brushing-habits.md",
+      "title": "Oral-B's toothbrush uses AI to grade your teeth brushing habits",
+      "excerpt": "Your teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "originalUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02RW1mKe0esLHwloSTAeh8Q/hero-image.fill.size_1200x675.v1654116314.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "publishedDateTime": "2022-06-02T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to See Major Growth by 2028 | Medtronic, Stryker, Careskore",
+      "excerpt": "The Latest research study released by HTF MI “Global Artificial Intelligence (AI) in Healthcare Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-big-pharma-in-the-balance.md",
+      "title": "Big Pharma in the Balance",
+      "excerpt": "Healthcare AI company Deep Mind (a Google Health company) was in pole position followed by IBM Watson Health and Oncora Medical. However, many companies such as Babylon Health and Caption Health are waiting to jump on the podium (3). Investment in AI has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmtech.com/view/big-pharma-in-the-balance",
+      "originalUrl": "https://www.pharmtech.com/view/big-pharma-in-the-balance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/pharmtech/ade7d5321bf41851488473972cbb2bd8c7657a95-3281x1846.png?fit=crop&auto=format",
+          "width": 3281,
+          "height": 1846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmTech",
+        "domain": "pharmtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-biden-delivers-speech-on-gun-violence.md",
       "title": "Biden delivers speech on gun violence",
       "excerpt": "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates.",
@@ -993,145 +1121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco.md",
-      "title": "Cruise can finally charge for driverless robotaxi rides in San Francisco",
-      "excerpt": "Cruise, the autonomous vehicle unit of General Motors, has finally been given the green light to start charging fares for its driverless robotaxi service in San Francisco. The California Public ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-03-at-10.25.00-am.png",
-          "width": 723,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-ethical-artificial-intelligence-potential-standards-for-medical-device-manufacturers.md",
-      "title": "Ethical Artificial Intelligence: Potential Standards for Medical Device Manufacturers",
-      "excerpt": "While artificial intelligence (AI) has the potential to revolutionize a number of industries, the technology isn’t without its controversies. Over the past few years, researchers and developers have raised concerns around the potential impacts of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
-      "originalUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/artificial-intelligence-3382507_640-3_web.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-microsoft-leverages-fpgas-for-real-time-ai.md",
-      "title": "Microsoft Leverages FPGAs for Real-Time AI",
-      "excerpt": "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg",
-          "width": 1044,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

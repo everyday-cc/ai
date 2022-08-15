@@ -73,6 +73,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Optasia among the top 25 Middle East fintech companies"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T07:17:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 597
+        height: 597
+        isCached: true
   - title: "North America Artificial Intelligence In Fintech Market to Grow by 16.1% Yearly Through 2028"
     excerpt: "The North America Artificial Intelligence In Fintech Market is expected to witness market growth of 16.1% CAGR during the forecast period (2022-2028). Artificial intelligence has enhanced customer service,"
     publishedDateTime: 2022-08-11T13:21:00Z
@@ -96,15 +110,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Jellysmack Hires FinTech Chief to Expand Financial Solutions for Creators"
-    excerpt: "In his new role, Marmor will spearhead JellyFi which will expand Jellysmack’s financial and capital solutions for creators. The initiative will enable creators to unlock their full business potential through new financial technology tools the company is developing."
-    publishedDateTime: 2022-08-10T15:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-10-jellysmack-hires-fintech-chief-to-expand-financial-solutions-for-creators"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
 
 secured: "+ezt0jxO7cAhGFhROfqb+urj9M9/m/wveKTcYiada3qwZo8KP8F/MpOlelapMlqRXBpxU9cDXAe3BVT0R/9JF7sZqj94mVjoqfZ7tZNJfE3hArpHuYFB/yn7xH7tGHznBIx5+FtMUU5C4f6Eih1jMIAkwH1409oZQIpfyMYY3gDwFspIKiuKbDkiVjMSXpN4S12QWGG46s4GIQeDdhUp6LRVHN/KUl7sbG1b+OQ2e2S9GLyBBWvuWd2uOP1yBuRhBP/egzutj2cuGZ/ke1gCjVWC2wV3NnBlDzZmmZLz8iBRNaRqtSZw+NBlcVbA2FT8NoCx3hrURycZMHItXQ0Q0NYwJteX5oWaZETBLP3jr/w=;1RtGgKResbi8ZFgFNY3tbQ=="
 ---

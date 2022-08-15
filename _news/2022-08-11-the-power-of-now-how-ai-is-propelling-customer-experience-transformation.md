@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-cus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Power Consumption Exploding"
+    excerpt: "Today, that means bigger models and larger training sets, which require exponential increases in processing capability and the consumption of vast amounts of power in data centers for both training and inference."
+    publishedDateTime: 2022-08-15T07:04:00Z
+    webUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 37
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "THE PROACTIVE REVOLUTION: How Artificial Intelligence is Driving the Transformation of Customer Experience"
     excerpt: "Artificial Intelligence (AI) and machine learning (ML) lead the transformation of robotic exchanges to smart conversations between humans and computers. While the first wave of conversational AI chatbots lacked real-world natural language processing (NLP) and rendered them ineffective,"
     publishedDateTime: 2022-08-13T00:37:00Z
