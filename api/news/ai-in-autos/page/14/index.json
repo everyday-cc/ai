@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-12-google-unveils-artificial-intelligence-tool-for-real-world-searches.md",
+      "title": "Google unveils artificial intelligence tool for real-world searches",
+      "excerpt": "(Reuters) – Alphabet Inc’s Google on Wednesday laid out plans to bridge the real world and its digital universe of search, Maps and other services using new advances in artificial intelligence. At its annual Google I/O developer conference, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2022/05/11/google-unveils-artificial-intelligence-tool-for-real-world-searches/",
+      "originalUrl": "https://kfgo.com/2022/05/11/google-unveils-artificial-intelligence-tool-for-real-world-searches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-05/11/2022-05-11T175731Z_1_LYNXNPEI4A0Z5_RTROPTP_3_ALPHABET-GOOGLE-DEVELOPERS.JPG",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-raising-monster-rounds-for-self-driving-mobility-startups-on-techcrunch-live.md",
       "title": "Raising monster rounds for self-driving mobility startups on TechCrunch Live",
       "excerpt": "Raquel Urtasun founded Waabi in 2021 after spending nearly three years as Uber’s R&D head of Advanced Technology Group (ATG). Waabi’s mission is to develop an AI-first approach to speed up the commercial deployment of autonomous vehicles,",

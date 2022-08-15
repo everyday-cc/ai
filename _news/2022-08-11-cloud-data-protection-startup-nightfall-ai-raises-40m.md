@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/10/cloud-data-protection-startup-
 webUrl: "https://siliconangle.com/2022/08/10/cloud-data-protection-startup-nightfall-ai-raises-40m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 676
     height: 381
     isCached: true
-
-related:
-  - title: "Nightfall raises cash for its AI that detects sensitive data across apps"
-    excerpt: "Nightfall AI, a startup developing a platform that uses AI to detect sensitive data across different collaboration apps, has raised $40M in fresh capital."
-    publishedDateTime: 2022-08-10T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/08/10/nightfall-raises-cash-for-its-ai-that-detects-sensitive-data-across-apps/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
 
 secured: "dyEma3dJdUCeq84JGFQ9rpFZG0lDrKWgc7fiqHM1BGAiWW6ksdnECQ6Wf+qJouput8bnIo1X8NiJ1momDo06gic7ORe8r3b56B7C5zAV4AgGgY9ZKR53pUzUisSfuZD+9xkH/C7D9Z3x43fS/X5M0EsbznrPZC+3cFWlDcUubj0KK8ObkMLZZ9HajJB47RZ3WngkYW9plXxXY9gKL3XmcVj7wgmTL9TsREef1t3dZkAxgyqsNBa+wb6tBkEMvyVJN0FmdZ969WzCoc3NX0TaGk49yJ6yRBpnZg6DP/RxWwazi30PEnWJdavgIxkw8ks5e+hXRGq8tIZWLdnfQrCBW+d6joLiGMlSZ6Nvz9wmAmSDQsl/TIg9vVC/HzXZ0gVtrhqZA973707/hU0mAnmcppdSLX01LhHLMldy+eACn1Z1ex3i0RMIRuRKMWAMdJH9XTK6H07T9uRj9FfUNWZGTX5v5pgz1fExX2FAhdSwc9D+YUX64NM8TBreLU0uj53qv4R2PUmyCNy/HywdOvBCtQ==;mW+CveP7cu07F0QQ/+MJSg=="
 ---

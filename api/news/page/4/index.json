@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-10-the-chips-act-is-a-boon-for-american-innovation.md",
+      "title": "The CHIPS Act Is A Boon For American Innovation",
+      "excerpt": "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f29a1a654dcc48001d9c76/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 953,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
+      "publishedDateTime": "2022-08-09T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
+      "title": "Baidu gets permits for first fully driverless taxi service in China",
+      "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "publishedDateTime": "2022-08-09T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months.md",
       "title": "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months",
       "excerpt": "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year",
@@ -41,7 +145,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -527,8 +632,8 @@
       "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
       "excerpt": "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online.",
       "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
-      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
+      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=tag-post-strip_item_4_news",
+      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=tag-post-strip_item_4_news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1077,109 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
-      "title": "AI regulation: A state-by-state roundup of AI bills",
-      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
-      "originalUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
-      "publishedDateTime": "2022-08-08T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
-      "title": "Future of work: Beyond bossware and job-killing robots",
-      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
-      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
-      "publishedDateTime": "2022-08-08T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

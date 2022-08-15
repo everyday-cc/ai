@@ -82,6 +82,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T05:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Jellysmack Hires FinTech Chief to Expand Financial Solutions for Creators"
     excerpt: "In his new role, Marmor will spearhead JellyFi which will expand Jellysmack’s financial and capital solutions for creators. The initiative will enable creators to unlock their full business potential through new financial technology tools the company is developing."
     publishedDateTime: 2022-08-10T15:00:00Z

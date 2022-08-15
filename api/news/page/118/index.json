@@ -2,6 +2,93 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-05-12-texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit.md",
+      "title": "Texans can no longer use certain Instagram filters due to facial recognition lawsuit",
+      "excerpt": "Certain filters on Instagram are no longer available in Texas thanks to a lawsuit about facial recognition, according to media reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "originalUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GX4BH4B37BCFJFBLF6R4SWPM2Y.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/05/12/texans-can-no-longer-use-certain-instagram-filters-due-to-facial-recognition-lawsuit/?outputType=amp",
+      "publishedDateTime": "2022-05-12T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSAT",
+        "domain": "ksat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-ai-fintech-tifin-raises-109-million-series-d.md",
+      "title": "AI Fintech TIFIN Raises $109 Million Series D",
+      "excerpt": "TIFIN has raised $109 million in Series D funding at a valuation of $842 million. TIFIN shared that Franklin Resources (NYSE: BEN) and Motive Partners, have",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/08/Machine-Learning-Computer-AI-Artificial-Intelligence.jpeg",
+          "width": 1146,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/05/190986-ai-fintech-tifin-raises-109-million-series-d/amp/",
+      "publishedDateTime": "2022-05-12T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-data-driven-fintech-tifin-valued-at-842m-in-new-109m-series-d-round.md",
       "title": "Data-driven fintech TIFIN valued at $842M in new $109M Series D round",
       "excerpt": "TIFIN brought in $109 million in fresh funding to bring its tech to the wealth and asset management industries",
@@ -1067,92 +1154,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more.md",
-      "title": "Google ups the AI ante with new features for Voice, Assistant, Maps and more",
-      "excerpt": "AI systems are allowing search to take “huge ... A new capability, Nest Hub Max, allows systems to process and recognize users to start conversations much easier, Tasca said.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1175256533-e1652306874947.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
-      "publishedDateTime": "2022-05-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence.md",
-      "title": "Look behind the curtain: Don’t be dazzled by claims of ‘artificial intelligence’",
-      "excerpt": "We are presently living in an age of “artificial intelligence” — but not how the companies selling “AI” would have you believe. According to Silicon Valley, machines are rapidly surpassing human performance on a variety of tasks from mundane ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
-      "originalUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2022-05-11T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

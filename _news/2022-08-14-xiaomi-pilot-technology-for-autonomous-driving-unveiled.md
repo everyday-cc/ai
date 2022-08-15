@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 1194
         isCached: true
+  - title: "Xiaomi CyberOne Robot Revealed To Give Tesla Bot A Humanoid Rival"
+    excerpt: "Xiaomi claims that the CyberOne humanoid robot uses a combination of complex mechatronics and Artificial Intelligence developed by Xiaomi's dedicated robotics division — the Xiaomi Robot Labs."
+    publishedDateTime: 2022-08-12T04:48:00Z
+    webUrl: "https://www.slashgear.com/961166/xiaomi-cyberone-robot-revealed-to-give-tesla-bot-a-humanoid-rival/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 86
+    images:
+      - url: "https://www.slashgear.com/img/gallery/xiaomi-cyberone-robot-revealed-to-give-tesla-bot-a-humanoid-rival/l-intro-1660231543.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Xiaomi CyberOne Humanoid Robot"
     excerpt: "We’ve seen extraordinary progress in the industrial robotics space in the past few years, with robots using artificial intelligence (AI) to learn goal-based skills instead of mimicking pre-recorded motions. These robots can workaround unforeseen problems ..."
     publishedDateTime: 2022-08-13T17:12:00Z

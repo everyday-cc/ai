@@ -86,6 +86,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 12
+  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T05:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "9scthEYTl70qvwocGFYLzKceJlTxjRfPQM0r+ioFzUfj0Qnh71A8+bIOWGJlrjpCRE0ygsJB0WNxCosdPZ4XKXBEiEoDVDur1G1NiwKEEksqeUrlXnVGEWb1o9t7gq97+/k37CdxCCIzhBahitZf3QpY/lwZxY+JLB+/RM10CeNqtdcLlnlRYF/lBZAhAXeIFQiyE2n61t0iIknONhiZOQtdYaj1U9LUMq5uglU5kTmVPuz9cHfieoi2E9LxIBKw3U2tMWFNVhcOohchk7fltwpMdaiHbS2CupacQDtNRNSWDXuK9FfQrSbbXY0wRz9lYXsGeeCyOg+46xsA1GG8EDqwMKraG5bLcnAx9y9goOU=;5K/CSrSvFKd1p71lY6oICA=="
 ---

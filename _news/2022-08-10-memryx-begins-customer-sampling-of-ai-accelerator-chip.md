@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-10T11:54:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
   name: Joplin Globe
@@ -24,24 +21,6 @@ images:
     height: 456
     isCached: true
 
-related:
-  - title: "MemryX Is A New AI Company We Actually Need"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack."
-    publishedDateTime: 2022-08-11T15:34:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds"
-        width: 711
-        height: 487
-        isCached: true
-
-secured: "GlfQex6h0HERBokodujfJqqE0y704hISNJJa45zJUIgHJZt9DfdIV/z5unJDjI9mhogmfc/QPAZAloBEBdKWgSWeeFcaQ6h4Uelp9/ficapccnvMutbcVDqn9XivR1DrBwjma8sFtmdP4Yu/IfaecoOMDYD3gWAlINbu6JOlR3muWhQysrZldIQTtDV+8z7Pe0+2/S8qmdLF8+Ph0plSIsqxGZpheT5rn0OydjHTtzW1+YflZBmpqm3wuH8pWa5SeiLWrvb13qv9jvF6zyolzvo5y9DPzj1LnJGXMWqHse7UBuR4J6OyWOYqgevd1BlHDtOn4YhGnEVU5vfX8UocBfDaDkArq77KP1R9uUcN9gA=;AOE22MZj5Ouf27dbzDpY3Q=="
+secured: "KtKaxgzDGhmZqCDPcgtSVRBIdXfsPH6RMwwYNZwiNGiDpJXaaaWuTuwRINgEYyDhqdgQVsfqnGI91KgTU46TupgXtQ4Rf700gMM0gWOVwzRVJKsxPRFQhBEwjtVKOWArYi1+gh/EftTMZdsdw+ovZZXO/X9mEmtbGnOzz5+SdLCnJW+PMV1c6m/cqauth/8kg87+ihMQ4TH6GTlSakjZhmwANR41Us15wYG6CMGsahtYMQMFO6d9zrEKNnwt0aJ4T7oUPfl2584vk+iUPFD2GroMt4QBNtPkrNz3gh257ti/l2IpmTRReKvFlsZQ4T1nTjwO0DUq9qk0zFS7cJ4uNPX/Pc5iuVeiiogRo094CCU=;NNnTR8yCJoM/Iiw8EeQL+Q=="
 ---
 

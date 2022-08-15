@@ -58,6 +58,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-asia-pacific-artificial-intelligence-in-fintech.md",
       "title": "Asia Pacific Artificial Intelligence In Fintech...",
       "excerpt": "The \"Asia Pacific Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment",
@@ -1254,50 +1298,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors.md",
-      "title": "Genuine Marketing Group Inc. adds IBM Alumnus to Board of Directors",
-      "excerpt": "Genuine Marketing Group Inc. announces the appointment of William Le Voir-Barry to Chief Technology Officer and GMG Board Member. On June 22nd, the company",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b2/8b21842b-b8a6-59b5-8be9-6a713d302324/62bc9509c5036.image.jpg?crop=968%2C508%2C418%2C0&resize=968%2C508&order=crop%2Cresize",
-          "width": 968,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

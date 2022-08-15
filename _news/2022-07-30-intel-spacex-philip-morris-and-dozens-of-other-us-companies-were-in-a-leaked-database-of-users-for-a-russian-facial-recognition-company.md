@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel, SpaceX, Philip Morris, and dozens of other US companies were in a leaked database of users for a Russian facial recognition company"
-excerpt: "A leaked user list from NTech Lab, a Russia-based facial recognition company, has more than 1,100 entities, including dozens of US companies."
-publishedDateTime: 2022-07-30T13:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7"
-webUrl: "https://markets.businessinsider.com/news/stocks/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7"
+excerpt: "NTech Lab claims that FindFace can do facial recognition, object recognition, license plate recognition, and detection of features (such as \"gender, age, emotions, glasses, face mask, beard ..."
+publishedDateTime: 2022-07-30T13:31:00Z
+originalUrl: "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7"
+webUrl: "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ltpO2anVXeaUcG7SLCrMzEPwYmiAEjiemvEl5ub9HZBuTp/7o+SzhcOJP/+GmOWuKNXv01Bj0GMDbrBKPIIXbMsMUws4TK2e3ekZBmhCMSo2j4UVQro5M6FVjlwdolGEndjPOttYrBiru5ycrkMXeWWFy2vxZxrihz9HusYi1saZuVfhFQMTVGemWVTjjCt3L1GoPji4+ldYY2IG6souT/69+TikgBm7RwzuqO+9xeKMfcXFB7W4kSps2h1UIImBNrWzbYENrgvPmDqlT1CoqTX0Rfu0603uwrg/XEVvsemx8YKOM5UBBmScE8QXTsL54scQMoqNriO2Ucb+D/i5fHAFJ3Hj6An5xFc86c1Ri0c=;mvXtumBbdS4tjpiGAxZNog=="
+secured: "/4IrZmandDyEK/y+vQud6cJZBb8L2y3k5TFKIVRZ251amNI4kxhMJ+SGTDMALFOqnd1OkNpBm+8mArflWRPgqRSrc/wx4Hob2S1ssOxK8sapS7il8aqzjulQrJ5S94hK6bqmnGI2tYheZeVHQOsMyoZFNLuNrKTkNrnD6z8R8tWBxI+ZwYT770T5QwK+ABWEHg/5uf2XIUv4uMHopvU70o9ltKykOjuFS/lbLEFUtVe+nEMTIaR+NURcnp5tZdCYXseWG2UdWoAcivifFq+pRvkkA0yJmX8L3iAU3B3ra1f9ji15l1M1D0/GKDj2QnV96LfPsnPYWYGYxrxdWREgJhQ+iTqR9v6Uj5kTpWdBlMY=;pzaMZtWmwbJCbrRXAwM19w=="
 ---
 

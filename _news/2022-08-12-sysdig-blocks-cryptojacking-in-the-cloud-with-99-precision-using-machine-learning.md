@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/company-news/sysdig-blocks-crypt
 webUrl: "https://itwire.com/guest-articles/company-news/sysdig-blocks-cryptojacking-in-the-cloud-with-99-precision-using-machine-learning.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 600
     height: 900
     isCached: true
-
-related:
-  - title: "Sysdig incorporates machine learning to detect cryptojacking attempts"
-    excerpt: "Sysdig announces the launch of an AI-powered solution designed to address cryptojacking and cryptomining attempts."
-    publishedDateTime: 2022-08-10T13:00:00Z
-    webUrl: "https://venturebeat.com/security/sysdig-cryptojacking/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "cMZVmhR/jZqr/YSQV5oXioob5SRyEct2+5uEsUG+83TLEfMFMJUng2hgjZNRF3p6lmM6ojQNDpqjwZASOru7nP2NjZYeCoHA6KeJegtc4JQpPsJKAnzsvrlu32A3VBiFRDSjUolNft8d+R6hCJDz6utWTZbn1Dmv7Hm6Zc8PDBAKD8ddDN76lxMlA+mOW6zihvowxk0WQz+E7eZrIm6HaowmtVbcpbwd/HXwgVRNFdPAN2e/fFDN2B2+YkRJYtnRtVh2Yhxr+S9cM1HSCCIIIcaaU+qRA0+6wnm+jnuECQEd70K+WL0OlQaeR1vgOTYdhsF8Knni1gumb7HrBTK1bhkK+HC7y63/uZfUptNhQnLl3ZChQ+Bbel+RZTNVb6t/7gJRs0mcvCd/GW0gwzD5OSq96qbbRMvzpnYozKnMidFINFplV3X8+bIPkh5GKbSAlNg4XSC5lUyiTM0nJNNET7/mg9CsgtazygoQgca/qtg3uJsxhLDFmQDiQnXeD9Sc4ET/pk/5cIftpbzWN28CjA==;ZSh78gKTG7EPROJrLBjCNA=="
 ---

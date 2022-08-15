@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-27-artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Market Report Shows Demand to Boost Industry Growth from 2022 to 2026| IBM, Intel, Microsoft, SAP, etc.",
+      "excerpt": "The Global “Artificial Intelligence (AI) in Agriculture Market” provides a comprehensive valuation of the market through in-depth understanding, accurate market growth, deep market analysis, evaluating past developments,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "originalUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
       "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
       "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
@@ -1325,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-avaya-onecloud-now-available-on-microsoft-azure.md",
-      "title": "Avaya OneCloud – now available on Microsoft Azure",
-      "excerpt": "Avaya and Microsoft have expanded their global partnership by combining the industry-leading Avaya OneCloud portfolio with Microsoft Azure to provide organizations have more options to increase productivity and customer engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
-      "originalUrl": "https://gadget.co.za/avaya-onecloud-now-available-on-microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Avaya-Microsoft-Azure-Announce-CPaaS-Integration-1280x720-1.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

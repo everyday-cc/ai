@@ -2,6 +2,93 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
+      "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
+      "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T12:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
       "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
       "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
@@ -966,111 +1053,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-a-year-in-the-making-bigsciences-ai-language-model-is-finally-available.md",
-      "title": "A year in the making, BigScience’s AI language model is finally available",
-      "excerpt": "BigScience, a collaborative research effort spearheaded by Hugging Face, has released a large language model that can be applied to a range of domains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/",
-      "originalUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
-      "title": "AI goes multilingual with Hugging Face’s BLOOM",
-      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

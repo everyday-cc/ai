@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -482,19 +482,19 @@
     {
       "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
       "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "In its second Hot Vendors report of the year, Aragon Research recognizes noteworthy, visionary, and innovative vendors in three markets: Computer Vision, Intelligent Contact Centers, and Conversational AI.",
+      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
+      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -502,14 +502,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28357613",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28357613",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-04T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -932,10 +941,10 @@
     {
       "path": "_news/2022-07-30-intel-spacex-philip-morris-and-dozens-of-other-us-companies-were-in-a-leaked-database-of-users-for-a-russian-facial-recognition-company.md",
       "title": "Intel, SpaceX, Philip Morris, and dozens of other US companies were in a leaked database of users for a Russian facial recognition company",
-      "excerpt": "A leaked user list from NTech Lab, a Russia-based facial recognition company, has more than 1,100 entities, including dozens of US companies.",
+      "excerpt": "NTech Lab claims that FindFace can do facial recognition, object recognition, license plate recognition, and detection of features (such as \"gender, age, emotions, glasses, face mask, beard ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
+      "webUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
+      "originalUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -954,7 +963,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T06:10:00-07:00",
+      "publishedDateTime": "2022-07-30T06:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

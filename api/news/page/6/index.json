@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
+      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
+      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
+      "title": "Baidu wins approval for China’s first full driverless taxis",
+      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing.md",
       "title": "From AI to voice search, how new-age innovations are defining the future of digital marketing",
       "excerpt": "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,",
@@ -1071,92 +1157,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
-      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "publishedDateTime": "2022-08-05T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more.md",
-      "title": "Riot Games, AWS Reimagine Esports with Stats, Power Rankings, and More",
-      "excerpt": "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s Esports content is created and distributed in the cloud. Riot is the first company to use AWS’s data analytics integration for Esports broadcasts to reimagine how fans experience League of Legends (LoL),",
-      "sourceUrl": null,
-      "webUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
-      "originalUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uHT3YVVHypGFFRubmjx3jT-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AV Network",
-        "domain": "avnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

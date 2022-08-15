@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-rel
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/"
 type: article
 quality: 95
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -137,15 +137,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Tesla Model 3 Self-Driving Tech Is Not Ready For Roads; Runs Down Dummy Child During Safety Test"
-    excerpt: "The Dawn Project report claims that the Tesla Model 3 failed to identify the child mannequin during the self-driving test."
-    publishedDateTime: 2022-08-10T13:02:00Z
-    webUrl: "https://in.mashable.com/elon-musk/36535/tesla-model-3-self-driving-tech-is-not-ready-for-roads-runs-down-dummy-child-during-safety-test"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 36
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
     publishedDateTime: 2022-08-11T11:05:00Z

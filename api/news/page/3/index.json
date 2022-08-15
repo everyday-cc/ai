@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -294,6 +294,49 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-memryx-begins-customer-sampling-of-ai-accelerator-chip.md",
+      "title": "MemryX Begins Customer Sampling of AI Accelerator Chip",
+      "excerpt": "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -587,6 +630,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1104,110 +1191,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-chips-act-is-a-boon-for-american-innovation.md",
-      "title": "The CHIPS Act Is A Boon For American Innovation",
-      "excerpt": "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f29a1a654dcc48001d9c76/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 953,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
-      "publishedDateTime": "2022-08-09T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
-      "title": "Baidu gets permits for first fully driverless taxi service in China",
-      "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
-      "publishedDateTime": "2022-08-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -207,6 +207,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-35",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-pandemic-revealed-technology-deficits-microsoft-azure-is-growing-to-fill-in-the-gaps.md",
       "title": "The Pandemic Revealed Technology Deficits, Microsoft Azure is Growing to Fill in the Gaps",
       "excerpt": "The recent pandemic revealed numerous shortcomings in relying on legacy on-premise applications and IT operations, strengthening arguments for a move to cloud computing across industries. With a greater number of employees transitioning to work remotely during the height of COVID-19,",
@@ -1388,59 +1432,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-review-snowflake-aces-python-machine-learning.md",
-      "title": "Review: Snowflake aces Python machine learning",
-      "excerpt": "Snowpark for Python gives data scientists a nice way to do DataFrame-style programming against the Snowflake data warehouse, including the ability to set up full-blown machine learning pipelines to run on a recurrent schedule.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-494707502-100632557-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

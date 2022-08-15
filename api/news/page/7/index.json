@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
+      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
+      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
+      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
+      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
+      "publishedDateTime": "2022-08-05T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaiser Health News",
+        "domain": "khn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more.md",
+      "title": "Riot Games, AWS Reimagine Esports with Stats, Power Rankings, and More",
+      "excerpt": "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s Esports content is created and distributed in the cloud. Riot is the first company to use AWS’s data analytics integration for Esports broadcasts to reimagine how fans experience League of Legends (LoL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "originalUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uHT3YVVHypGFFRubmjx3jT-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AV Network",
+        "domain": "avnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-why-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics.md",
       "title": "Why retailers are upping their investments in data infrastructure and advanced analytics",
       "excerpt": "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics.",
@@ -1022,92 +1108,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
-      "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
-      "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "originalUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "publishedDateTime": "2022-08-04T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

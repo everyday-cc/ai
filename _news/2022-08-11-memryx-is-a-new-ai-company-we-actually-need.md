@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 711
     height: 487
     isCached: true
-
-related:
-  - title: "MemryX Begins Customer Sampling of AI Accelerator Chip"
-    excerpt: "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ..."
-    publishedDateTime: 2022-08-10T11:54:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/memryx-begins-customer-sampling-of-ai-accelerator-chip/article_1851bf0b-53ab-5af7-bf7a-4ff8022392e1.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 54
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/JoplinMag_082022-350px.jpg"
-        width: 350
-        height: 456
-        isCached: true
 
 secured: "GuBnQ8fcOsDmBBdIZ5o0INDz3gHbJ010Kd+6KVlzLOCQ6RQO9PlXnzbNF5I/xYvuZZqXQB9mXu3SPb8lhvsw88YjOSN3CdMDrNSgUpnv5V3tH5YJcTjBI6jPJuOCNmqhAXlTxgEYjrNd6E+b0fTFeFA2Wl/Ad4t/npGWcvM02RLPoKtkVHs4Qu6CVUSFHNmRFvafgYJFUKhFJCBaWuvQ+Q8kAWVZCq7CehU8TvcIB+0jg63E/ZMB05JenTZfmpeRi5oy84iC+0+pDmR51xqXhthS3e8PKa2SuHT8+cq+ZfYab0uxbo+TczMeDQGYSR0E9lg1rgflGYw0ceK87HzjZ9Tx0CosBI+6t9TgXGxSEUY=;bMK2aYQh4HPl+SRd9oPa+Q=="
 ---

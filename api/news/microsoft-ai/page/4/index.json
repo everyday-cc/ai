@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-08-merck-accelerator-welcomes-biotech-start-ups-specializing-in-ai-and-machine-learning.md",
+      "title": "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning",
+      "excerpt": "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
+      "originalUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biopharma-reporter.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/biopharma-reporter.com/article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus/15579011-1-eng-GB/Merck-accelerator-welcomes-biotech-start-ups-with-AI-focus.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "biopharma-reporter",
+        "domain": "biopharma-reporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-kmworld-ai-50-2022-the-companies-empowering-intelligent-knowledge-management.md",
       "title": "KMWorld AI 50 2022: The Companies Empowering Intelligent Knowledge Management",
       "excerpt": "which elevates customer support and self-service outcomes through a unified cognitive platform and suite of next-gen support applications. Hyland—Hyland is a content services provider whose platform enables organizations to augment existing solutions and ...",
@@ -1256,61 +1300,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward.md",
-      "title": "Wells Fargo CIO: AI and machine learning will move financial services industry forward",
-      "excerpt": "Wells Fargo is incorporating artificial intelligence (AI) and machine learning (ML) initiatives to accelerate operations and better understand customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/14224371682_7060d038fd_k.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 875,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/29/wells-fargo-cio-ai-and-machine-learning-will-move-financial-services-industry-forward%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-06-29T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance",
-        "AWS AI"
       ]
     }
   ],

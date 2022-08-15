@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
+      "title": "AI regulation: A state-by-state roundup of AI bills",
+      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "publishedDateTime": "2022-08-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
       "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
       "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
@@ -921,8 +1024,8 @@
       "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
       "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?time=1659952202",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?time=1659952202",
+      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
+      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -932,7 +1035,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "publishedDateTime": "2022-08-08T03:08:00-07:00",
+      "publishedDateTime": "2022-08-08T03:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -1076,92 +1179,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
-      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
-      "title": "Baidu wins approval for China’s first full driverless taxis",
-      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
         "publishers": null,
         "authors": null
       },

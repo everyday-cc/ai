@@ -54,7 +54,21 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 25
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
-secured: "LjlTGekCI571j/mI2vutx5hM0R0mUWHHZ/kfJVPp45iq/OHQYjRokXAY3XrkerQkdFuNVj9DY/aYa4I7otGFFp4ykrgxxqPCYOABB+WVMNrghUcPA51yiOGiGUwnvg+PK8wBykgc0a9MuuxNZ6bTINztCgYvjK0wCFye0mgV7hoDL9cA3JXLIfhdYrg2iMbwfErb5cfnd2OACfAE3LFJcX3U8WlyTM6UBK8OR2k3Su0q/IgNOlk4ICxXP8ZpAXG6LTQFLBOkJL1PHhuBaMcT/3nX1sUEXbCY/dNsxxczEwZ7PpsuW6G8t1E2LrA6tbU30VsUkALXfTvVVTujZJP15sdtAanQXtF6p1fpxxWVLt4=;9UnQtNUX39E4s/54Qfptnw=="
+secured: "gCsTfO9PpTVcexv6UCmKzxhjH1R+frAPWzSuu2QYE978Ip9wMKRQR0oclZyK2wtH/qUlx6PIvAa2SiSZUlyZ0GRZvRFWzi7LJhYrSeRI81G2wlU+1DUvLzs1W2ptYdCUZq2sYekJaip2rGtlgl4taaUwS+h3OSmOcCqYE++ddCWjFCABs8EPQsC9t05CY60Wphwn6PAlZHTrpeoI6VjuAEncNpEnHNziClU9Kte22mNFn8okMkTxXvjEBRwqtspRFx2uPRCCYHa7cKIgF+UmzxcLydpznWo2eVVA9cO3bIF5WuNjZjIlUkvDjAOmv7fmF6pr7oApHH3bAShKhIY/j0Ks7ePXl5KNaucOvm6RV3MThBrt7g6zY7RVCpXaJ88oQYmiQyu22/JJ6L86C/QvFal9uGEyKehAT+OITezQhXXRXnXbQSXXlMLgFGp8Ireek9a/FQEoAc1NqLAxRxdcmYWBVk24TSskzQc0rzA8PODgED+FIpL2z+DzKANS76gLPymq0tqccDO+zikmTkHC6g==;I0xwCLaWYhGlumZbePiw9Q=="
 ---
 
