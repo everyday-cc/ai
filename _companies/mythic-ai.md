@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mythicinc"
   url: "https://twitter.com/mythicinc"
-  followers: 1519
+  followers: 1520
 
 size: 11-50 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=q59k-4c-hbk"
 
-secured: "PShZ8urXw6cBj891zYHqmFWJyZCatB6HDZWC7k8D5I6HaUiggZ4t5jRlTXFWoF2xiR/6uEnFtUMCsVLmEhpUHjmztAQGMfwQKUIV5/uDp7qBYKZqtsYJL6hYHyzbIXtyVjCiy8PvpAh4M+RI58Gti241n3K9CdvSvdUtit6gu/hyVTmVhFK5NV+XBJYKjFYohQwgtaMSRErqI+amDE7vmptj4FJTFAZhMNGuSnLAwynGFaYqh7s8H27lnb1syvLIabkOYi9nHnRsf+EC2NjdJFRSEHAzZHT5BQ4LjXsSzKaAQNiITXZlG7Ea7Cxn69ZabIuHRSKi/jrJ0nCVhu94vE7tV7pf85OoRgq0cBrChOW5QQLSOi+syFx7nhk7rhAWZFq7/1U0g9Jqmm9uCKRrUTpNAaX9FOwUD+yR28erom0=;XysPrdzNz7Hp2tcUONxZ9g=="
+secured: "xY3mUx6pa4yNgc4R3SDck1i8xJdrVS+QOinLyXKGxo7hwQfPtgDRr/sGVoFj8c274gosr5gcLZNHSNcSyCHW2col74Aiia8egehgOHE2f5mMt2AAgYr+Zc74NB42U0vfARWsq0QiChWRrGbPe//ao8lCJDHrBrv07vNHFxEpH6ZpdgJ9cK9YOU2h3ZOUiyQaEQElubCIFChddQWits7aGMZaEDALMeO8ckUTEBeZt3dLYbQF0/4KB3HuGZgKTiHZSebHe1xEomqpBNcPOPoJtpoTanzNZVSavbG590b0tntb+RX9nmIbh1v00wQjj948J52l/eTIk+kWzcWhYk9hrJX6HuLdAtWyG+sk4QvicQHSo5daULOXpGBHCTAbyKFy4IoHX4hwFBWPBdvFjtJML7YbgGOLR3DMU2FC+6udgnQ=;x3DN5CSOv86g+YLtote6Xw=="
 ---
 
