@@ -39,7 +39,7 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Diagnostic-Robotics-puts-AI-to-work-in-preventative-care.png"
         width: 600

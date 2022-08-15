@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/retail/a-peep-inside-amazon-s-roboti
 webUrl: "https://www.afr.com/companies/retail/a-peep-inside-amazon-s-robotics-hub-20220809-p5b8ho"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
-secured: "97QLNLEzFGo3vKNT7RRMbqAn7+oWjTl9zitk3a7kIla68AhnCBkZ7DnqctmM0yYSIBnoKiFHdkDxnpCcYzidM/2fQn6HJlSWUQwqvVIYb6OXK8Vm/9tdG10mqoeeSbabZ/WgDRSSY2Yp7H+FQrGC5lpQv/8ubrkSTV34bjR54U2iSOTO9UsnghJrlRChaCEU4TZ63UI+PSrb+W00F2DtXgCThepF1YSX52UoKRusV0jM9EeXkF1AGn9q/uBPiD0GCTvTyUFP6KEpvwyaMyanUqRmOsY1aVlTQdhhJQFdledS6JP9GSYrlTifK7DxELHXqeP7o7v7tFBWOdaOYfuU+h7roPTo7/YdAgNXmHKS9Zc=;M0PQ+Xrt6Y18LuLBynmOcg=="
+related:
+  - title: "The Latest Innovation in Spine Robotics’"
+    excerpt: "It had been four years since we spoke with one of the early adopters of spine robotic assist systems—the director of education for the spine division and director of the spine fellowship at one of the leading medical centers in the world,"
+    publishedDateTime: 2022-08-15T13:50:00Z
+    webUrl: "https://ryortho.com/2022/08/the-latest-innovation-in-spine-robotics/"
+    type: article
+    provider:
+      name: Orthopedics This Week
+      domain: ryortho.com
+    quality: 34
+
+secured: "wVSnaAodjUdTzIEJl4yj8rLNe6qd45MM+JbojbjnAyEIwgPKqG4K78kdKsn6QkSmTnzQqpSB8ZVi9ISwaiR548pQq+VZHpQD7Wzo60TSG+c9t6ayIyNkite6DUObxf1umojd54+SPRaxCinZx8tBHQh1pKp50hOk36Byuwp31jkeNMjcCSoePETjXDvQH/fFroxMjOKazkbGF1rT+H8zLZF6/xVwWWGDp+5NKpFMf3/OI1qw4zBlwjUmEzYY64N2mwYwHf5y6/5URt2rkNX+bZkEkwDzY7r27Hb2LjSIw2ZpM2XUOO+lCoV5gTlNVtVwNf3d6mSHSsZwhgEmAb43sCm2S3WZ9ynt7A/tK+NUS++6EAj/JndHglvfPYnEg4uWShqACY8CrcN7yb1ivaZFdclZMlHcWKvr1DVHP5z2rc+kU7Xn0n2lcC6hggXIULyVpWnzmdt2wowXmA266uEdM2nVPgW2crfPsXmTN4rMyI+/lZb0l2xKKWbbUfBVMnshHAU/h6GXPBpX45VwC41yyA==;HDDYpdZkGX00kPlAB/j2VQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-mounting-pressure-many-fronts/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ralph Nader Begs NHTSA to Pull Tesla's \"Full Self-Driving\" Software"
-    excerpt: "Now, Nader is turning his ire toward Tesla and its \"Full Self-Driving\" (FSD) software which, despite not being final, is currently in use by thousands of ordinary drivers in a \"beta\" test form. The National Highway Traffic Safety Administration (NHTSA) is currently investigating several car accidents (some of them deadly) in which Tesla's Autopilot feature—a very pared back driver assist that shares some sensors and nascent capabilities with parts of FSD—are implicated as possible causes for the incidents."
-    publishedDateTime: 2022-08-10T21:45:00Z
-    webUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/"
-    ampWebUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2022/07/Tesla-Model-X-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
     excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
     publishedDateTime: 2022-08-11T17:27:00Z

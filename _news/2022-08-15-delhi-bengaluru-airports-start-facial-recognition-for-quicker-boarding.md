@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T13:05:00Z
 originalUrl: "https://www.business-standard.com/article/current-affairs/delhi-bengaluru-airports-start-facial-recognition-for-quicker-boarding-122081500802_1.html"
 webUrl: "https://www.business-standard.com/article/current-affairs/delhi-bengaluru-airports-start-facial-recognition-for-quicker-boarding-122081500802_1.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Standard

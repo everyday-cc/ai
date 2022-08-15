@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Global Speech & Voice Recognition Market..."
+    excerpt: "Market Segmentation & Coverage: This research report categorizes the Speech & Voice Recognition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on ..."
+    publishedDateTime: 2022-08-12T10:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28470258/the-global-speech-voice-recognition-market-grew-usd-10-926-66-million-by-2027-at-a-cagr-of-18-32"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28470258"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28470258"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "MVKch9cjz3w74LMkoLjzqgm5hWElAemhw+piZ3mdC0H9FrKTp3MUDAgxQxQ2yde/FG9PcJK+DGYgHTPK4Ij0TyU08X0/p0JcBCNZrzDgC9RHD4GI5rlU86Hz/JZnP7CUUd0burGD/3D6iDyOLRjqZGTHo2QWgrJFdSvpc2+kRTZyI8Vw5PZ0mvb8NharSIur+ulwNp2unoNvLZGGVm3xGJg6Q0iBgHAyC/gnxZj1eHEpn97DJPlrxMhdEW2+MuGR1lshs/SJE1oe+BQZd9fYnoukA98yzzjEtN0CLm0EQMHQ7P0jCNTYi9LOOFSHGiXiNGoulgnigo+CChSCcauGdxWYtze6yG1CiqNyr+T9PSs=;muxkgFhQPQKzRb4ryDPJhw=="
 ---

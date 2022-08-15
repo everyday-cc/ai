@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T13:25:00Z
 originalUrl: "https://www.technologyreview.com/2022/08/15/1057750/ai-will-reshape-health-care-we-will-determine-if-its-for-better-or-worse/"
 webUrl: "https://www.technologyreview.com/2022/08/15/1057750/ai-will-reshape-health-care-we-will-determine-if-its-for-better-or-worse/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: MIT Technology Review

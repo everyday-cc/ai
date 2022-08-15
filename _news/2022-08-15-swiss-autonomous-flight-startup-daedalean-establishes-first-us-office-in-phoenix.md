@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T09:30:00Z
 originalUrl: "https://www.bizjournals.com/phoenix/inno/stories/news/2022/08/15/daedalean-phoenix-office.html"
 webUrl: "https://www.bizjournals.com/phoenix/inno/stories/news/2022/08/15/daedalean-phoenix-office.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals

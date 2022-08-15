@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:25:00Z
 originalUrl: "https://www.business2community.com/cryptocurrency/bitcoin-robots/bitcoin-360-ai-review"
 webUrl: "https://www.business2community.com/cryptocurrency/bitcoin-robots/bitcoin-360-ai-review"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Business 2 Community

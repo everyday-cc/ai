@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2022/08/15/qualcomm-ai-research-innovates-3d-perception-techniques/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2022/08/15/qualcomm-ai-research-innovates-3d-perception-techniques/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

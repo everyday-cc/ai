@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/15/ai-ethics-and-the-geopolitical-wrestling-match-over-who-will-win-the-race-to-attain-true-ai-or-agi/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/15/ai-ethics-and-the-geopolitical-wrestling-match-over-who-will-win-the-race-to-attain-true-ai-or-agi/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Forbes

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:24:00Z
 originalUrl: "https://gulfnews.com/business/analysis/uae-has-been-fertile-ground-for-ai-tech-and-for-many-reasons-1.1660566218607"
 webUrl: "https://gulfnews.com/business/analysis/uae-has-been-fertile-ground-for-ai-tech-and-for-many-reasons-1.1660566218607"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Gulf News

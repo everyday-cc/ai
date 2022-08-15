@@ -7,7 +7,7 @@ originalUrl: "https://www.nzherald.co.nz/nz/apple-iphone-face-recognition-doesnt
 webUrl: "https://www.nzherald.co.nz/nz/apple-iphone-face-recognition-doesnt-work-for-man-with-moko-kanohi/SGT4Z2E232H7BSGUP7GE5RH6K4/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Apple Face ID Fails To Work For Māori Man With Traditional Tattoos"
+    excerpt: "Paaka Edwards has urged people to approach Apple, asking them to update their technology to be more inclusive."
+    publishedDateTime: 2022-08-15T13:46:00Z
+    webUrl: "https://www.newsweek.com/apple-face-id-fails-work-mori-man-traditional-tattoos-1733657"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 49
 
 secured: "kaGdMeZ42iF4faFRBeLRlzYqTGydhwlODSuCOPYfSd6z+AzPEg8HRTJAxQmybKx3PAS5akbAcweWSDYzzRI/Vdv8yax+rcnkVT0/mhKvgLSF3THHeB8NeXSVogeMMpqtSQHZ4Mcc8D3MYQiY0NXi5WFNPiG7oyr/GWtdfxd74lREMquyI8/JeYG5P982G1SEquGi6yOR4TrWbjaXIzA0LrYp6wAiSkZ18nhKkarj0S2kEhG+AzFRHl75971XAgt7QUWxaeKcVHX6nPeSUovpqd7W796rVX3NwSa1sAQ6fVsPjFYOuef0st0iWAsP4JUgPE+6oXpLAWjMeLeexNYY1RYBec1Ayyh8gYGNezK+qTM=;KTYZY739gDLXrbNXJ7GqWQ=="
 ---

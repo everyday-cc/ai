@@ -52,6 +52,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 21
+  - title: "The path to successful conversational AI capabilities"
+    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
+    publishedDateTime: 2022-08-15T13:24:00Z
+    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "QNhVE1V6s4TwwbEWy4I2lf4YtiroDLjJ0Ym3FEYo7aVRiUpwLGKPDYaEWZ57Ad7uc5ADOaJJtBp4TDQuZ9eaLItfEooGIkTbJG8QE0Zy00grjVACSXMZq0OyHsFNeHSy71sDQYGNH/A3upCkXLlTpqBaxTEs7CZslEKUnFFaIrpoa4//9QZUrMW/1YUW1Qsihh7f2dy6ZWeyHlB+LbH52fJj/9+tr5cYTm0dceePLWbXlN5ED8HhpwPwVThjQlQjWeUlxN7Q6hu4OmCP5YzZOZVFzgPlvR9dC16+VpFC+1qlKTHdIqfhJ9H32FN0H7gRg6kF3EKEakG+8fDV+Uo5KFTJYNHKbzRaahoDCPzqatNvB1d4sU0cEvzt61Tha3dttvyaCqo6q2IExeu7LsAUwLMpsjyqMVM2IokjrbucokwCJ//fq1m0ozUJWlLgKqaBjiy0X5BfeFT6znmtFsJDyTPtcYql7ctRuvu9E/Dwf6Q4uMoq1Dnua8rJ5jqaicGjDslBBEs691lXFrTch9dImA==;FPX8c5AiGo61zDbJenNeYQ=="
 ---

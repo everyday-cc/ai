@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T11:01:00Z
 originalUrl: "https://www.tvbeurope.com/live-production/laliga-employs-artificial-intelligence-to-create-real-time-highlights"
 webUrl: "https://www.tvbeurope.com/live-production/laliga-employs-artificial-intelligence-to-create-real-time-highlights"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: tvbeurope.com

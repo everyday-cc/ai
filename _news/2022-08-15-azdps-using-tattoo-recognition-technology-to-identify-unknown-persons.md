@@ -59,6 +59,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Arizona DPS using tattoo recognition technology to identify unknown persons"
+    excerpt: "The Arizona Department of Public Safety has used tattoo recognition technology to identify two deceased persons in the state since June 23."
+    publishedDateTime: 2022-08-15T12:25:00Z
+    webUrl: "https://ktar.com/story/5198470/arizona-dps-using-tattoo-recognition-technology-to-identify-unknown-persons/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 2
 
 secured: "C2bXqNCK+Gwtv7Pfuv19xYDF9HecBmAjulHD+NHPFz11fYRaJ2MGw5rk1YF4gtowDm6NfwH4+DrTByzAK8ouvS9mH+Y5R/vXhzlejn0ji+tyODvPiUcQhxIzuNEzOfhyx4qXqv+h0DIvWfQsAnqR509II7u1OYDJpXQ8C0CrT4q6aaDd5Aye6rqNfCgNOwBBn8uaO2yd8/38H8MKU3etfzNlk6GNT1CFUSd9tuZTsnbQlqElR2OlN/pbWG8WHKKVEEJOTVBbE6yc0aJiOUg8zRqKPUpazVVYqNNP2Qdal+cYquAuJQQukn6Ed6Gzr5WleiMo1EJjBUwMXsLwnGS6y6PKAOCHw9c2OzzaM7zhNQ/aQoI+qKGBV6O4Zm/9DFuG0M8bqgdkuTUO0nDefX0QbGyyaUm0J1BDVH7FUKYhzyI6eh7B8wEfS6372TpoHUy+Z7tQtajNVMl9QjxpTTAqV5IKvbljhNyA6tZkFQn5xMnoYrjhy84lFFIkzhRDO7IWxoxNTE+nXHgrMUCZjmQF3g==;gi3Ccn03roozGhmtuzN+Tg=="
 ---

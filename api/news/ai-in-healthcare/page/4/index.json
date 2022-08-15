@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
+      "title": "Access Healthcare to hire 18,000 people in 12 months",
+      "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "originalUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "publishedDateTime": "2022-07-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-04-factors-to-consider-regarding-ai-therapy.md",
       "title": "Factors to Consider Regarding AI Therapy",
       "excerpt": "In the first part of this post, we discussed how an effective AI therapist might be developed in the near future. In this second part, we will discuss some additional considerations of an AI ...",
@@ -1268,49 +1311,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution.md",
-      "title": "BioMech, ēlizur Announce Partnership Integrating AI-Enabled Motion Analytics into Physical Therapy Solution",
-      "excerpt": "BioMech Health and ēlizur announce an agreement to integrate BioMech Lab Into the Shoulder Strengthening and Stabilization System (SSS).",
-      "sourceUrl": null,
-      "webUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
-      "originalUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ptproductsonline.com/wp-content/uploads/2022/06/integration.jpg",
-          "width": 978,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Physical Therapy Products",
-        "domain": "ptproductsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

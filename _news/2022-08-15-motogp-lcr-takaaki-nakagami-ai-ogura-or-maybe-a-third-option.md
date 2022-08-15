@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T13:31:00Z
 originalUrl: "https://www.crash.net/motogp/news/1009984/1/lcr-takaaki-nakagami-ai-ogura-or-maybe-third-option"
 webUrl: "https://www.crash.net/motogp/news/1009984/1/lcr-takaaki-nakagami-ai-ogura-or-maybe-third-option"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Crash

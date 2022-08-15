@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://files.scmagazine.com/wp-content/uploads/2022/06/MicrosoftTeams-image-28-scaled-e1654085434931.jpg"

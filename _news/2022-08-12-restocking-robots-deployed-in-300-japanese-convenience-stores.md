@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Robot arms are replacing shelf stockers in Japan's stores"
-    excerpt: "Telexistence Inc. and FamilyMart Co. are rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores across Japan."
-    publishedDateTime: 2022-08-10T20:38:00Z
-    webUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.amp"
+  - title: "Robot arms are replacing shelf stockers in Japan’s stores"
+    excerpt: "A Japanese chain will soon be rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores."
+    publishedDateTime: 2022-08-15T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/robot-arms-are-replacing-shelf-stockers-in-japans-stores/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/emptystore.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 21
 
 secured: "YktzzpihDhs9wI9c0Q+CIM5q47Vqd+VYUCM/q2RzA5b7MJb5CeK1nQPzqG38Icm9QJ+1Bi82cSvuGE10vPNYPd8t6ttPu21Ue6yeVYxpM5dAfyjciWRXFN3hciBL04ab0HabSMMH/GkC+IHIM4vB8bWsRvReMM9RFiFO0rshfJoopSwCmgTIpUDiwD3fPJBJ+75BYNguAPQC0Vf5vgmAFsbH14niZZ4FVZh/gharOOu1CMg9qpIgrKidfN3/veqA62+Xw0GT5Yk0C7qeLPMyHS63ruvogHCWlELu/TZNq+9xyjPCoIdcjLycyOR20YhPnhg1rcgdm/u9pyZTllTrEHGO3CgR6SE/+DZqhnJWn0a5kN0IWkNinc6BNow4jDQc9L/fPJDdl9tB0peJiS9OFKVFt0LvdyAR2gONLGzjCF393QdaGqlAm+TQmtlfbPl40i8HKoZjD9vnwBGwVEAEV8wjGMyW0Z6tP2izY+vSbprolr2K4rv7XL/pMwYguHmCogO2+XBvFqdD06beKiXftw==;EI/yE0/ycs2U6yN+qHI6Fw=="
 ---

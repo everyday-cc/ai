@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T15:37:00Z
 originalUrl: "https://bestmediainfo.com/2022/08/windows-defender-about-to-spice-things-up-with-ai"
 webUrl: "https://bestmediainfo.com/2022/08/windows-defender-about-to-spice-things-up-with-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Best Media

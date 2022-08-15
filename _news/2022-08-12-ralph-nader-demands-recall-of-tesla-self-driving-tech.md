@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ralph Nader Begs NHTSA to Pull Tesla's \"Full Self-Driving\" Software"
-    excerpt: "Now, Nader is turning his ire toward Tesla and its \"Full Self-Driving\" (FSD) software which, despite not being final, is currently in use by thousands of ordinary drivers in a \"beta\" test form. The National Highway Traffic Safety Administration (NHTSA) is currently investigating several car accidents (some of them deadly) in which Tesla's Autopilot feature—a very pared back driver assist that shares some sensors and nascent capabilities with parts of FSD—are implicated as possible causes for the incidents."
-    publishedDateTime: 2022-08-10T21:45:00Z
-    webUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/"
-    ampWebUrl: "https://www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ralph-nader-nhtsa-recall-tesla-fsd/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/2022/07/Tesla-Model-X-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
     publishedDateTime: 2022-08-13T10:30:00Z

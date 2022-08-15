@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:32:00Z
 originalUrl: "https://www.newscientist.com/article/2333604-people-with-half-a-brain-removed-do-well-at-face-and-word-recognition/"
 webUrl: "https://www.newscientist.com/article/2333604-people-with-half-a-brain-removed-do-well-at-face-and-word-recognition/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: New Scientist

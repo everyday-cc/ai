@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:00:00Z
 originalUrl: "https://techcrunch.com/2022/08/15/mobot-secures-capital-to-grow-its-fleet-of-robots-that-bug-test-mobile-apps/"
 webUrl: "https://techcrunch.com/2022/08/15/mobot-secures-capital-to-grow-its-fleet-of-robots-that-bug-test-mobile-apps/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

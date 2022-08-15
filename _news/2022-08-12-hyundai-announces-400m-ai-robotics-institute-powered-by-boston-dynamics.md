@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
 type: article
 quality: 118
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute to spearhead advancements in Artificial Intelligence & robotics"
+    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the"
+    publishedDateTime: 2022-08-15T15:22:00Z
+    webUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
+    ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
+    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 79
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/12/hyundai-AAM-plans.jpg?fit=1200%2C822&#038;ssl=1"
+        width: 1200
+        height: 822
+        isCached: true
   - title: "Hyundai to set up Robot AI research institute in US"
     excerpt: "By Kim Hyun-bin Hyundai Motor Group announced Friday the launch of the Boston Dynamics AI Institute with the goal of making fundamental advances in artificial intelligence (AI), r"
     publishedDateTime: 2022-08-12T06:47:00Z
@@ -83,7 +99,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

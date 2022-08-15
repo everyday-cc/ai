@@ -45,6 +45,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "The Global Speech & Voice Recognition Market..."
+    excerpt: "Market Segmentation & Coverage: This research report categorizes the Speech & Voice Recognition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on ..."
+    publishedDateTime: 2022-08-12T10:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28470258/the-global-speech-voice-recognition-market-grew-usd-10-926-66-million-by-2027-at-a-cagr-of-18-32"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28470258"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28470258"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
     excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
     publishedDateTime: 2022-08-12T17:27:00Z

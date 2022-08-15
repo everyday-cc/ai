@@ -1,20 +1,42 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
-publishedDateTime: 2022-08-12T19:28:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
+publishedDateTime: 2022-08-12T17:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+ampWebUrl: "https://www.benzinga.com/amp/content/28477798"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798"
 type: article
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "EvfCxnawRg+Q/jfFx3XoqfvDu6F6vfbPW7+X81dO9u4tcL0y5O6mORgtglBRYEAwVtqRhpzLDyXlyx/t9vVa5BceTIhYXpjXE+YOFGiCuze07i00duqR9YUTGLYD6NWH540ASgkCEYgFR1QaW6XcfUTgJqQoa+1hTNVeKFDpAcMrFhNAx5G7jjhzgNKneRPQIVuf22LiH+p8wVrwewk0ojjyLCF923Ch09oe3d6ZeF4WldYI7T9UgTPgTfHZdKtDlzCbwZHoVN3S8j0VgDFm34+LPRjGQYyEI2nCQ2hmbM8XNLYe985hWLorEvCFAptYVjHghRAX1NSb5s1oekrx8uuUOVQFdY28KrrhNFp71ag=;GQeATyUy6M2r9xnRibLwiA=="
+images:
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
+    isCached: true
+
+related:
+  - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
+    excerpt: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research. Vendors selected for the \"Hot Vendor\" report are noteworthy, visionary, and innovative. SUNNYVALE, Ca"
+    publishedDateTime: 2022-08-11T08:39:00Z
+    webUrl: "https://www.mobilitytechzone.com/wimax/news/2022/08/11/9654326.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 16
+
+secured: "viv02wHugmMVi0f8CbhuKe2Hgunt1drU68qSeijqn0xCCFJGTaP6FV0BTxgOeHLKCS10QUYe10jQIbV0em/GPkvprK6uEeaqc5PBaw9/ZdJ7w2wmKiupivyY9rgCTLr8ix61UCjJN6JyTR3HqA8aNd22Jq6lpXn/oTPfHOsTXQrdsjCmmblHlL9yM0gwd7mDxGDk1SMPFPAMpQcZ/Ws3liSWhjzMO78Zckfa7auErQc4jn/xf1BkvbLm1nx/isMXVW2tt0RWsbbIlDISG1KBf9R5Ea3BZthL3Cch9wsrlPGelH1vcFBNrqVoH80lg2eEmZQVOsi9wXy8hOOEQPT5rEp/mwAzzYpNqqno5eInuzM=;bwllAi2N27El3UI66Hu/HQ=="
 ---
 

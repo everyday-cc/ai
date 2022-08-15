@@ -107,20 +107,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
-    excerpt: "Beginning his speech at the Red Fort marking India 75th Independence Day Prime Minister Narendra Modi on Monday recalled the architects of free India who s"
-    publishedDateTime: 2022-08-15T03:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272653920/i-day-speech-pm-modi-recalls-contributions-of-architects-of-free-india"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 23
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660534121.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
     excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
     publishedDateTime: 2022-08-15T06:51:00Z
@@ -149,6 +135,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
+    excerpt: "Beginning his speech at the Red Fort marking India's 75th Independence Day, Prime Minister Narendra Modi on Monday recalled the \"architects of free India\" who significantly contributed to India's freedom struggle."
+    publishedDateTime: 2022-08-15T15:27:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220815/3973275.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
 secured: "7OsZJmu/QHiXyKLAYwGybIUBAWAgxwyjqWPGzJqHMf7pbgNLitMWTsRm6baJOBDbsrcGVQmarhmadoXAOwHCcHa1N4sl/sucI/6KsVorMCfx46buhUOZAoKNl2iIjUDsF9guKKSqtojyU+U9+5VCmBwH6hardxf+4ICpcjIVyrfrmEbFe2VVrd2wCXjxo9kxVH77KNd3PW4E7PLUJDGTMXXe0+eYISzyO1H8pKWbxkoCavBiTk2AunL65cD5nOuFAh/CQsiAGEinBztxCUh86nwbP3L4avfHOKVR2UlYJ7hfg3hAzl6DwTw2/VlMSVnkQR5Xe9vzz7CdH5Y+90eNmXQ8rAjPqw6L9QZdA4C1mr7Z+0mJ5Khj6gR/bUPEd1WTlInEG5tiTkjFboKia6pfcj7wZ22h+Mv8DsTWoiD97FEuEElPw4DRrV0QnpCyJJh7qY7fIbZY628hoYAvZ8QJqfusVVt1yRpdpJmG4e1f1fbTzSxILD19UG2qpvbqSuTU8brhJm1LCgzQKOz01J44aA==;ZfJ4lB632NoSLzzJ22Qeow=="
 ---

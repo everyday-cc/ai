@@ -50,6 +50,15 @@ related:
         width: 1430
         height: 644
         isCached: true
+  - title: "The path to successful conversational AI capabilities"
+    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
+    publishedDateTime: 2022-08-15T13:24:00Z
+    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "yI7jw2sILilcpQ5B5KeJAnu6t4PwYQflnlGGHLdidvPy8DKT2iMn+h4rF48Vqj0dkZJ2mnGk+EOcdJauFOaXTp/B75UXURVQnDK1SxyD70AqcZJyT2RtchQkdQfNMD4pWVIXkoJ/eD/6LaKKfV/5tk7mcuFp7KbhVTwvWozdxIyrhR99UMIKTdslq9+MUFZD/Irs7YOjYGZy9p70bkwS7t15WaPGt4i2cbrneaUSam6r9WlvWCkimUM+FkK+Jgiss4h+lpST6XORAMmH7fcltrzeEAzspm+etK+PtrOwaRmenzFJQmzL1HD1aZ8x1DQ241mfm97lWvyUdIacigiFBUmf7iz4eb/KTjmrdOp+o+SI1mk4D9Yb7aJVokSbda8/uTbbwZcv1p2VBLBKEvjNkYiycHrv1Qco1oY13cmNVaeAsm+TsYHMp74HTrX8fW+LjNBZXcrXwiWs1YjKt7FDHL3ZR/mMXre/XC7ilXKgzJxEc2EZXFGnT/FYuBoSi5eg0PntLrlshixReqJkztXEQQ==;ETtKd6nZqMLk11dRJ5LMug=="
 ---

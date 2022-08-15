@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T13:40:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2022/08/15/453196-how-machine-learning-improve-google-search-campaigns.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2022/08/15/453196-how-machine-learning-improve-google-search-campaigns.htm"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TMCnet

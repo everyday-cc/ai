@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-02-automation-tech-company-uipath-acquires-ai-startup-reinfer.md",
+      "title": "Automation Tech Company UiPath Acquires AI Startup Re:infer",
+      "excerpt": "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
+      "originalUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-595225/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
+      "publishedDateTime": "2022-08-01T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-what-will-it-cost-to-fix-that-door-ding-artificial-intelligence-can-help.md",
       "title": "What Will It Cost To Fix That Door Ding? Artificial Intelligence Can Help",
       "excerpt": "Artificial Intelligence is potentially a game-changer for anyone with a smartphone who needs a detailed auto damage report.",
@@ -1351,40 +1404,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-forget-apple-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch.md",
-      "title": "Forget Apple: Here Are 2 Lesser-Known Artificial Intelligence Stocks to Watch",
-      "excerpt": "All are tech pioneers and Artificial Intelligence (AI) is widely used by all – from the iPhone’s FaceID and Google’s search algorithms on to Amazon’s cloud computing solutions which are used by millions across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "originalUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/forget-apple%3A-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch?amp",
-      "publishedDateTime": "2022-07-17T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

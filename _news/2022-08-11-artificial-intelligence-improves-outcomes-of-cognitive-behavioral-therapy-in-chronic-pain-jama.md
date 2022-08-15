@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/medicine/news/artificial-intelligenc
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291"
 type: article
 quality: 77
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -25,6 +25,35 @@ images:
     width: 1500
     height: 960
     isCached: true
+
+related:
+  - title: "AI could help patients with chronic pain avoid opioids"
+    excerpt: "Cognitive behavioral therapy is an effective alternative to opioid painkillers for managing chronic pain. But getting patients to complete those programs is challenging, especially because psychotherapy often requires multiple sessions and mental health specialists are scarce."
+    publishedDateTime: 2022-08-15T14:30:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-ai-patients-chronic-pain-opioids.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-patients-chronic-pain-opioids.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-patients-chronic-pain-opioids.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/back-pain.jpg"
+        width: 1920
+        height: 1350
+        isCached: true
+  - title: "AI Pain Care Tool May Increase Access, Reduce Costs for Chronic Pain Patients"
+    excerpt: "A cognitive behavioral therapy intervention for chronic pain, personalized for patients using artificial intelligence, achieved similar results as standard therapies."
+    publishedDateTime: 2022-08-15T13:37:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-pain-care-tool-may-increase-access-reduce-costs-for-chronic-pain-patients"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-pain-care-tool-may-increase-access-reduce-costs-for-chronic-pain-patients"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-pain-care-tool-may-increase-access-reduce-costs-for-chronic-pain-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
 
 secured: "EndH8vR0QLIdNiVeInf7Xw0gAVTv/ZGFBnkkoZNSEpHKyjPsSAixVTwUur9Gkzhl7hPpF0p5drxiJbgPu2cmSHwGVZKIAbPuUpqjZ3ot46EjV4cGT1wrHENBr5zVCfJFLNWAjw2+3w8SwZfmICSbcCNgydhobHy/hBXJmRkWy/JVj3NlHmYnU5rZceeUzMpiU2donMDDKyzmUpTG3qQ1tOdstaNcKosendB6XWMGCLx1njX1gaVcDCXqBLiLLa5jwYoDl4beHdeswuIeUfv1xQRBDlWuDKoVCGx7MeCd6yAVtBseuruPFL5piNEtbGWxFU/qgZv8nN57r+I34xK/PX+4mtcagyRncKycfU5e+ICCgKdRFa5a81nk2iAYx3975icI8vLL7V7AGTPMV/cqMg7iihh/UdgGA1dd1KB5HM7rYTXfCTqvqrQYOxOyJ1IRi6DBLY0IDaE8+b4aXsk8C7H9uJv0ByCJ2pVg8Z+AVVP6rlvrj0M6n+OUHvROSkk/jrv5QeEh8waWZySZmcCT4w==;266ZUF8xYW23qHHHCtv6Rw=="
 ---

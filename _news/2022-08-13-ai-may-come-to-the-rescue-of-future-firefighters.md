@@ -64,20 +64,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 54
-  - title: "AI may come to the rescue of future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don’t see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover — a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-10T19:47:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961518"
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
+    publishedDateTime: 2022-08-12T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/263568-ai-may-come-to-the-rescue-of-future-firefighters"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/34462cbf-20e6-4b2d-a95f-2408ab313874/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "BJi2edW2iR2WH4cmrm8iUF8LRVORPtAKilm/AHbOFRWViU8WqSRCnFeQd7d7IjqMP5AKnbw1FzWUvdJ/JN+gjqBGbxdJmf5/pY5ahixkdKs5+f9rq3qnHCciXc6DGiUGd78GD5OIGDNTI9dRh46nzNXltF5o9EasbKGPm8EsvyLLH6uJTPK95EAmpA0QIY3whhJDV9WzRQEJpgdxz36CU9sGpIKTCiAgDgGEJzWsH8PGuz2o8ghtvh1jz/O/LgKpk8b89If5ySrQLriCGggINw8PS7L0OIa+oGHsTvOWn/yxNY0PbBu3ztEiLoxHabgPZ8Q/Onp2aBKg5hE83YRSijisXvEnMFJ3zdh5WDMqmqY=;uIoiQ01yr81ZRRlReawo+w=="
 ---

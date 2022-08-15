@@ -107,20 +107,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
-    excerpt: "Beginning his speech at the Red Fort marking India 75th Independence Day Prime Minister Narendra Modi on Monday recalled the architects of free India who s"
-    publishedDateTime: 2022-08-15T03:26:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272653920/i-day-speech-pm-modi-recalls-contributions-of-architects-of-free-india"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 23
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660534121.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
     excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
     publishedDateTime: 2022-08-15T06:51:00Z
@@ -149,6 +135,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
+    excerpt: "Beginning his speech at the Red Fort marking India's 75th Independence Day, Prime Minister Narendra Modi on Monday recalled the \"architects of free India\" who significantly contributed to India's freedom struggle."
+    publishedDateTime: 2022-08-15T15:27:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20220815/3973275.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 3
 
 secured: "bhB+6G3sb6JatsIVQnSpqIWmrzNdkwZ01vB0f4KicXvtcjZ1qOptWNMBvGjmKE0Mlv6zVAL0XZp2HP4QrIBwHTAgItl486MzV5F8PGK56q03ASKU97uKcxB97M6zvrCcaihsee30U0tUnvCXsQ1TkbhG9Ksm+5iDEkBCI7kqImEN2REg3baQVBCnzwfOjCDh7i4O7q7H8D3m2VWoV0zT+5H6U39fjpjL8RW6dni8CWozOIQ3EyOVOGkl9jPDv+GA3CKkqCjUqP4bJ3sjzcJin2aGrlhL2dM7uGcsaQIoK9hvo1S78D9i0LSeE1dkpPd+p4eVJHpSJXrDlGZFzyWdSlbMo9Zrel10bl6HFuTIHp0=;plZzn29MntBgdXOyX5yuZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/08/11/1057611/emtech-digital-h
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/11/1057611/emtech-digital-how-to-craft-effective-ai-policy/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "Effectively Building A Pool Of AI Educators For K-12"
+    excerpt: "Whether we know it or not, we are interacting with AI on a daily basis. Be it in the form of AI-powered smart devices, robotics-enabled toys or through our interactions with chatbots and social media platforms."
+    publishedDateTime: 2022-08-15T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/15/effectively-building-a-pool-of-ai-educators-for-k-12/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Xovjz/vXChGGpnIsRLDIBKi+wO5mO21m+NzpPZKCL9ZKb8cZ7PfT3Uls+T0GbjmB0iSHJ1fzZVvU1+E9YY4dTbFP1rne3V3W1nAYJwfoWArIxpT84xAzIpJOdXOT3g4984iJj5604ODSoxWMZJEBRPs9iRQDlHddmU/GMh/XAbLlhyZQS5lR9kosBhhZsAGq6FPHfKXf90tO6KnfiAGTExCPaPp//Mnr8cZKvZ78zOqF5SkQq1eIrZbbxqOjFhIZwaoOMdKXjEpel4MAaj5TRD1S0Cf+a57vMebcqg1XtYuKz57Cl/dIfOb/CCDZLZ18sYOUlPIgC4R1uOZ0rWVnqElCEmTNiPe8d+VctbwsNN1g4p2dcSUjRJPAwZpnSaU5uCuf3R/u++6istFl7Q8U61i0QjqwGDV7ORtq9NbVzkZ13SUV7t/AaRi7ZmjC8HpGWim+4/mwChSWZzgb3aDPp2emsfOSKV7/98y5DyFexhg0zUXxwkoLDaLADPdUns7Qh58gf7dvmteLbuHxvPBa+g==;89uVGKKO4c6xOkdmbbgpmw=="
 ---

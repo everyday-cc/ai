@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T12:23:00Z
 originalUrl: "https://www.datacenterdynamics.com/en/news/tesla-has-seventh-largest-gpu-supercomputer-in-the-world-employee-claims/"
 webUrl: "https://www.datacenterdynamics.com/en/news/tesla-has-seventh-largest-gpu-supercomputer-in-the-world-employee-claims/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Datacenter Dynamics

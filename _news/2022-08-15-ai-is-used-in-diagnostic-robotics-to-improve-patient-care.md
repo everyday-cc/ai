@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-15T10:22:00Z
 originalUrl: "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/"
 webUrl: "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Diagnostic-Robotics-puts-AI-to-work-in-preventative-care.png"
