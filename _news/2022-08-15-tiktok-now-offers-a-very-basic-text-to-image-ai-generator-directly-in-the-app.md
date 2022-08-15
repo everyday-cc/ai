@@ -54,6 +54,34 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "TikTok’s New AI Generator Uses Text To Create Abstract Artwork"
+    excerpt: "TikTok reportedly suggests the prompts “astronaut in the ocean” and “flower galaxy” as examples of what the generator can create. There are some limitations to the new feature. The artwork produced is a swirling,"
+    publishedDateTime: 2022-08-15T15:33:00Z
+    webUrl: "https://hypebeast.com/2022/8/tiktok-ai-text-to-image-generator-artwork"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2FTikToks-New-AI-Generator-Uses-Text-To-Create-Abstract-Artwork-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "TikTok takes on viral trend with new text-to-image AI filter"
+    excerpt: "The new 'AI greenscreen' filter on TikTok is the app's attempt to jump on the text-to-image trend popularised by the likes of DALL-E."
+    publishedDateTime: 2022-08-15T17:27:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/titok-text-to-image-ai-filter"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/AdobeStock_446367840_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "vPC5JzKiAK0gxPnxgKWTuvciITJL3DBihz6omjApSx72SNM/N8PTx8IlsP/SL5VzNJL4+X0Hn7RV70DL9mClOAwU+eFS4N0gDJPxJ63wb0whzXsg8jFah3ZY+rAKcmpu+lzxqA2IvzmBYxR4mX8FtHIB1aDrxDNH3IEwQVJOLXtNgASqVfuJO19bX/vcgcKy6Vd2gtMZ8Heto+9QEfel+g3wF27bE7Pnf+vsDIuFiSkwOZ0bKSmNjA3eJbGibsGtsVr+sFnShKGnVVB06qHMor4M7lp82Dxj/C9el6M03QW/qC91W/IU6lSnjmZOYZOU+0+HIAE6tN2sdG77DxPLKIHTr24AvUkRe1vP/vxNhyOdEshWh/nSvsgHOPiWI6oOQEnDqVfBtp5LBQrDASpACGIjZiKR4ev1ortBlzBb1kKCfsYb781CaGe+rOt0ABe5Xt4pnBCawzcffTb/wjVaDZbrQUW00w/Ds+fHT34Twm6ns6YoNcBcq4qEkKWnsq3eORttHkgk2qPe7APOSu9C4A==;w/IRS3yYLpH1uxrrnuInoA=="
 ---

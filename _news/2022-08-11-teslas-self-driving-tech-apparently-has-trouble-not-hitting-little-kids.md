@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary"
+    excerpt: "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times."
+    publishedDateTime: 2022-08-15T16:02:00Z
+    webUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/"
+    ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 97
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Full Self-Driving effort faces mounting pressure from many fronts"
     excerpt: "Tesla’s Autopilot and Full Self-Driving programs are facing mounting pressure from many fronts as regulators and politicians are getting involved. The National Highway Traffic Safety Administration (NHTSA) has famously launched 38 special investigations of crashes involving Tesla vehicles where it believes advanced driver assistance systems (ADAS),"
     publishedDateTime: 2022-08-12T10:09:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "$20 million self-driving vehicle testing, training facility to be built in East Huntingdon"
-    excerpt: "A $20 million facility for testing and research of self-driving vehicles will be built in Westmoreland County, state officials announced Thursday. The project unveiled by PennDOT Secretary Yassmin Gramian will be built on about 100 acres of state-owned land at the Regional Industrial Development Corp."
-    publishedDateTime: 2022-08-11T21:21:00Z
-    webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 29
-    images:
-      - url: "https://assets-varnish.triblive.com/2022/08/5327977_web1_gtr-TestTrack-081222.jpg"
-        width: 640
-        height: 323
         isCached: true
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/artist-uses-ai-show-how-worl
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/artist-uses-ai-show-how-world-s-streets-could-be-more-pedestrian-friendly-375925?amp=1"
 type: article
 quality: 50
-heat: 80
-published: true
+heat: 60
+published: false
 
 provider:
   name: Astro Awani
@@ -39,34 +39,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/08/11/1693193.jpg"
         width: 1240
         height: 826
-        isCached: true
-  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 25
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
-        width: 1420
-        height: 798
         isCached: true
 
 secured: "XD9CHla2iEcBL9x10eQYmgtIsmLbocKJCecHPPouyp/opY10TsoAnZiVaphHmzvzil7Og+EwTBNq8K5KNZYJXAvn36MZACdsGksim2S+SKU4opJO3RBLbx9eu2OWXx+r40mYjDe5JzwsIM5dCSfUTFO+XuitymZ50ja/c4xxexHdtZ11U02hWOUAKaEkQ93zdW3wM/7DGFNBp8dTL9eOpGeaJ1uDEpGQFhBE+d44VQO46fWspMH7pc9D9GZgNTiO0T91cX6i2ctwpzMAmPl6p+5UlrKIPqltVjGKlVd+epyQj4jV+A86ysP+sBZrWcMUrpfkHhE0NnCbYAVVWEmgwp/gGbHM8kkL0hrCHKIBPOM=;PCUtgNEzlPTDDU3HknPiIQ=="

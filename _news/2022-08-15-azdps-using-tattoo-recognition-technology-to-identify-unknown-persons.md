@@ -43,22 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Tattoo recognition software helps identify 2 deceased victims in Arizona"
-    excerpt: "The recognition software has 1.4 million images of tattoos currently in the database that were obtained during criminal booking procedures."
-    publishedDateTime: 2022-08-10T23:24:00Z
-    webUrl: "https://www.12news.com/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    ampWebUrl: "https://www.12news.com/amp/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 43
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/b351eafa-adc8-404a-b0e5-0589fba636e8/b351eafa-adc8-404a-b0e5-0589fba636e8_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Arizona DPS using tattoo recognition technology to identify unknown persons"
     excerpt: "The Arizona Department of Public Safety has used tattoo recognition technology to identify two deceased persons in the state since June 23."
     publishedDateTime: 2022-08-15T12:25:00Z

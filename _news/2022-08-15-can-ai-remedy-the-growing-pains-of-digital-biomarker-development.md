@@ -23,6 +23,22 @@ images:
     height: 778
     isCached: true
 
+related:
+  - title: "Exscientia: Using AI To Power Drug Development"
+    excerpt: "Exscientia is a unique developmental concern using artificial intelligence to help identify promising drug compounds. Click here for a full investment analysis."
+    publishedDateTime: 2022-08-15T16:29:00Z
+    webUrl: "https://seekingalpha.com/article/4534432-exscientia-using-ai-power-drug-development"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
+
 secured: "7gCa2rb418EyD3GALlL7fz+JqiqnLne5FcDXC5+tltOtp6+7lNWjt5Ku/qCk46d21Dc6N1DWzgl6ypRwNzap/1ZpwVmuwUTwL9X3lN/jexbtcmQ4f0BMiF1Q3mIXotnSVcA7EUUf1biFcGFPwhCxfk8XvQULtsIAFIhZb6Pc2Kfg/n5uC1YQHTKPewX23XcoAOqGl8pE9Ef0x0nn3Sfe564V2fuXX+d9i/QBZj3YrQBmR3uqYhfsMawiRdV8058GQo3mYPI4ak/mDKDS5JNOQuDrZRlXAucslu8XNtF7eUB8qzK8YXi9y75WrDSjE3Q4ZFkqL9G0lBjbBvkZYYK+MIt8n+U98NXgYeo2atjPGG1Jrz9nPHE8YNv3eAN7WqBa++veotFvr5vGXwEuR1TzZzVyUZR30HL0WGdX2LR5ul+8g7MOXF9ctErBBQqGvhH3NDQDBKSI0NmULIDFADt6ZPu6yG+ayuyvdqKGOm9b5gHPRlmR4RO4W4egR9apqY56G6hQmhEnnCDPW09z71M/9w==;0r9hPfkOh0O7gIP2Q1RYNA=="
 ---
 

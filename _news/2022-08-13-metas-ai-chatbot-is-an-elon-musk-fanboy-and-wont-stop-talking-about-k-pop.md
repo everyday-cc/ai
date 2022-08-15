@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook"
-    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
-    publishedDateTime: 2022-08-10T23:48:00Z
-    webUrl: "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
     excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
     publishedDateTime: 2022-08-11T16:57:00Z
@@ -49,22 +33,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
         width: 1267
         height: 713
-        isCached: true
-  - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
-    excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
-    publishedDateTime: 2022-08-12T15:47:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-ai-criticizing-facebook"
-    ampWebUrl: "https://futurism.com/facebook-ai-criticizing-facebook?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
     excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
@@ -114,63 +82,15 @@ related:
         width: 1024
         height: 569
         isCached: true
-  - title: "Facebook does something right for a change"
-    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
-    publishedDateTime: 2022-08-15T11:03:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+  - title: "AI chatbots offer a way to connect with and engage customers"
+    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
+    publishedDateTime: 2022-08-11T18:07:00Z
+    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
-    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
-    publishedDateTime: 2022-08-12T16:06:00Z
-    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
-    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 37
-  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
-    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
-    publishedDateTime: 2022-08-14T11:21:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 36
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Facebook’s Ignorant Chatbot Wasn’t a Total Disaster"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebooks-ignorant-chatbot-wasnt-a-total-disaster/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "This AI chatbot wants you to visit its synagogue"
     excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
     publishedDateTime: 2022-08-12T09:21:00Z
@@ -179,15 +99,6 @@ related:
     provider:
       name: Arutz Sheva
       domain: israelnationalnews.com
-    quality: 17
-  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
-    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
-    publishedDateTime: 2022-08-15T05:03:00Z
-    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
     quality: 17
 
 secured: "Sa84tggO2CHXStBEWpiO6YDseLfs2EgGlUKD9dVDRt1zR+V3cyHW7BxiQtUKEUQoTMpz2hlJ8j/DMLTDVDF92wJqURL2U1L0qL4o8aZOtkelGQNWHlyXm2f8KshgWGOP3hqUbPC83tovYidQ6EgrJWQ/D9SI8QfbV++DdwutQMGkzkhpeEBMZkKC00ulpg0E3x13VR9B/ErRXmUGCAK/uIh3Qkc2m/gKrKyuEHMoqNL+oOis6gxnkWXCT8UibyuMzKFXqoKzELlu68uRLJYasutRIYmRuOVGxXMvHB0H3hS8sWAAS0jNFKHkG5FF2wQ1lU5TFpinTkCDguxpH7hqF+vTwOS3F4VNRcz0+NXxwPyM4bTVJCnacnn9srVjqP9NtbqgenxBbupA1vJWlu93WqNCr3M8vrHiRQ4vTXdeQ88jEGT+z+v9JKBfctuhgPcsBkI6MPI3xecrIytylCFYx5w1QvIT9O08y3qpxLlfEN8E1y8RhB6RYAefwE725ejEAZud9HFGYaUbrO7bwyltUA==;Tj86zhhoH9B6U1bep0IGbA=="

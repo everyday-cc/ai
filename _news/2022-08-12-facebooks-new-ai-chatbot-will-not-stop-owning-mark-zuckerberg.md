@@ -20,117 +20,37 @@ topics:
   - AI
 
 related:
-  - title: "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook"
-    excerpt: "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?"
-    publishedDateTime: 2022-08-10T23:48:00Z
-    webUrl: "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/"
+  - title: "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’"
+    excerpt: "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch"
+    publishedDateTime: 2022-08-11T22:58:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 61
     images:
-      - url: "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200"
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Meta's AI chatbot turns on boss calling Mark Zuckerberg 'creepy and manipulative'"
+    excerpt: "After a number of journalists tested out the new feature, the replies were a little surprising when it was asked questions about Mark Zuckerberg"
+    publishedDateTime: 2022-08-12T05:28:00Z
+    webUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493"
+    ampWebUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 52
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article26125971.ece/ALTERNATES/s1200/0_GettyImages-961785536.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
-    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
-    publishedDateTime: 2022-08-11T16:57:00Z
-    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
-        width: 1267
-        height: 713
-        isCached: true
-  - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
-    excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
-    publishedDateTime: 2022-08-12T15:47:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-ai-criticizing-facebook"
-    ampWebUrl: "https://futurism.com/facebook-ai-criticizing-facebook?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
-    excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
-    publishedDateTime: 2022-08-12T05:30:00Z
-    webUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868"
-    ampWebUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://i.ndtvimg.com/i/2018-04/mark-zuckerberg-reuters_650x400_71522815002.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
-    excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
-    publishedDateTime: 2022-08-11T22:05:00Z
-    webUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/"
-    ampWebUrl: "https://forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/514189/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/?amp=1"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 51
-    images:
-      - url: "https://forward.com/wp-content/uploads/2022/08/Untitled-design-2-1.png"
-        width: 2160
-        height: 1200
-        isCached: true
-  - title: "BlenderBot, Meta’s AI chatbot, really, really wants you to check out its synagogue"
-    excerpt: "\"You should visit sometime! You'd fit right in,\" the chatbot said, repeatedly. It wasn't the antisemitism I'd been told to expect."
-    publishedDateTime: 2022-08-11T20:40:00Z
-    webUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue"
-    ampWebUrl: "https://www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
-    cdnAmpWebUrl: "https://www-jta-org.cdn.ampproject.org/c/s/www.jta.org/2022/08/11/united-states/blenderbot-metas-ai-chatbot-really-really-wanted-me-to-check-out-its-synagogue/amp"
-    type: article
-    provider:
-      name: Jewish Telegraphic Agency
-      domain: jta.org
-    quality: 51
-    images:
-      - url: "https://www.jta.org/wp-content/uploads/2022/08/Untitled-design-2-1024x569.png"
-        width: 1024
-        height: 569
-        isCached: true
-  - title: "Facebook does something right for a change"
-    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
-    publishedDateTime: 2022-08-15T11:03:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
     excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
@@ -148,29 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Facebook’s Ignorant Chatbot Wasn’t a Total Disaster"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebooks-ignorant-chatbot-wasnt-a-total-disaster/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "This AI chatbot wants you to visit its synagogue"
-    excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
-    publishedDateTime: 2022-08-12T09:21:00Z
-    webUrl: "https://www.israelnationalnews.com/news/358077"
-    type: article
-    provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 17
   - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
     excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
     publishedDateTime: 2022-08-15T05:03:00Z
@@ -180,15 +77,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
 
 secured: "lH+iXvN/4P240YMi3mR2ON9f3Z4MU3+n9aVO97dzwjeWgK/q7nxgLaVBd6woLRE7U7CmSlVNs4daq3JPB/HQXulU6kIar+IsbiHcre2KkTbBF3Ok88jRrxd6jr2OIVnwrxyWfnyrdrgGM13PjjgnUuO4IOEhlpiV0VOTz0c6aiQMICSNbe1kFtcTGf+fLKBp1lxSFMmIxwOuu7FBO6iipEr4AxFCmXVl3/+mC5OxBj0Lsz/ptBKvBDJKEX8yRQTZozpt0UL/Yii4AixtiLUY2LvKlu+mHBya8OMiMl2iq72aLCzVpMm0BF4ZYZbaQ4Fiv5X+h0eRvyV9+sN/plstVrEuHSU4WFdw3sSB2Xy747pHPGshzltB3+RtN0NtDUcXnhb9pSOVq3/G33wxEgsjadtOfoZKUgV9jgZbzf4PhmGg6nDve4uilvNjO0SloC8AnrG2l4SnvKia5VhWmYPY3n21wsxIou0mQNuIyUWrKLxvW8otNoJ6gIaR6ojHcVBtTSpQp1FarrzDULSDc0pLtw==;JUclZPDMLcgdQa1j5IxUJw=="
 ---

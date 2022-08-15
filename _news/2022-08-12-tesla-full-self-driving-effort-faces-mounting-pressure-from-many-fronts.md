@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-mounting-pressure-many-fronts/amp/"
 type: article
 quality: 89
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary"
+    excerpt: "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times."
+    publishedDateTime: 2022-08-15T16:02:00Z
+    webUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/"
+    ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 97
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
     excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
     publishedDateTime: 2022-08-11T17:27:00Z
@@ -104,20 +120,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "$20 million self-driving vehicle testing, training facility to be built in East Huntingdon"
-    excerpt: "A $20 million facility for testing and research of self-driving vehicles will be built in Westmoreland County, state officials announced Thursday. The project unveiled by PennDOT Secretary Yassmin Gramian will be built on about 100 acres of state-owned land at the Regional Industrial Development Corp."
-    publishedDateTime: 2022-08-11T21:21:00Z
-    webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 29
-    images:
-      - url: "https://assets-varnish.triblive.com/2022/08/5327977_web1_gtr-TestTrack-081222.jpg"
-        width: 640
-        height: 323
         isCached: true
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."

@@ -55,7 +55,35 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
+  - title: "TikTok’s New AI Generator Uses Text To Create Abstract Artwork"
+    excerpt: "TikTok reportedly suggests the prompts “astronaut in the ocean” and “flower galaxy” as examples of what the generator can create. There are some limitations to the new feature. The artwork produced is a swirling,"
+    publishedDateTime: 2022-08-15T15:33:00Z
+    webUrl: "https://hypebeast.com/2022/8/tiktok-ai-text-to-image-generator-artwork"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2FTikToks-New-AI-Generator-Uses-Text-To-Create-Abstract-Artwork-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "TikTok takes on viral trend with new text-to-image AI filter"
+    excerpt: "The new 'AI greenscreen' filter on TikTok is the app's attempt to jump on the text-to-image trend popularised by the likes of DALL-E."
+    publishedDateTime: 2022-08-15T17:27:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/titok-text-to-image-ai-filter"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/AdobeStock_446367840_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "TW25/kg+qdu8MFmci5YMmoEytwpzNaL1YP40K+5KmssqcDnphg9260XYdoZ7pox5i0G0CXosQcdhZMIPUGsrhkZOWIRss9fYJrtrQGdfAfF0QLuTR7C+YtiBGCTw7pYtqFWV7ZyVXuEpxsGzh/q0Djojo2s+BM4RzLXzpn9IGfPND3P/245NYugo+TVOjvuooKNkUMBG5s8wzy3J26SmtLR/IwhhLyHet2lMiZjeJIpH0dM7FlKjUHQk9LEzobjRUKLHOXOzNL+NdjndfV1V+CRjbagmZhNRY7QT7vpEboa+saxBvvSXzP22t4VqCdtmrOuopvtPMiXd7C0SCCi/XeY3aNIz7KZYApDkjtrvA1M=;xCh8rJD6ynnZC0zEy6VKhw=="
+secured: "YRhNazaOQcTbkycQCYFXBMsdnHKj03M16uFLXhO2L7R6poJ/A4JeFWLPjfbPgYbiO7GHJz7zUcBeEbFn8edM2My9Gcqz90ig/gXitBLqvIeSrqsZ5svnYr5b9HpjoDfttVMUp2I3sW+vI/l6LvLUfdKV+DXBM9KPqNi5sFN+80eBHqSXnY2OYG9yqO3s3uCslUO69V4dSzhVwE14g5Hu0ahT6UhzbEvcJNsWeMgZZFkmDzm7zwRd0136GWXODBVc2NEdNhw1ErxSxxVEy53vQCfkvCeXDcoCbY79kR7BXtfns+o+n35UtTP1KsdG9CQDfs/q0Sx3O2WwaCi5HOhX1xaKM4D7LtkwcY0ZR6XWQhUcZoZH5GfTpUabhoIr4ObWMSxB4d4tF8VgtYmqfbEe+T/4bgvMJcbkEaTF8+UONaRDy9XbQrTb7YFtGc0xrwruX03WEwbdd1CDdmorbSHzMPyI/lBYgVNkjI2WxVRJnf02klTaQT6DKc3k2UqR0allTQp9GHy8w+8HkJOFEVsS7w==;ZdeZSOTKFcHin6f+8dZaOQ=="
 ---
 

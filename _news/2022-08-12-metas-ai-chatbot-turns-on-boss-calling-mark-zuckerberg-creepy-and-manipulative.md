@@ -42,6 +42,42 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
+    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
+    publishedDateTime: 2022-08-12T16:06:00Z
+    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
+    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 37
+  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
+    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
+    publishedDateTime: 2022-08-14T11:21:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 36
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
+    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
+    publishedDateTime: 2022-08-15T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "zq483phpwocbMckiJZOtF1uSm6+g4VvPgZMiGiqqBda5MhaPxveeYbw9/m3eu9WCxraMh/rXZjIIekrYsGaBEwgl+FoKx8f5B9BUAbdLNtOsX1pCnw2SEszibQBETWc79tXcGSGbfLlhdKyR8Tg/NNMNR5ZQXiSUqN0QDHHNf1ClkoMf+j6W3cOtoGZvEklRX77dOBrjl6hsflWv3hXjcDQ/mtvmo7PT4YOgYsyOJmjz3RXJYWpsmFps94+HwZ60bKKRyN0Matg5UTOCgqzB9JQdzvhHQloo0Zqkxb5NVksjcog13kq/RuzboHirKIgD0HTNyW7VA3S0LeZbDkTCKpJxmsdrNcLpfW34fRUBiAw=;4xvQrwoUWQb8xKr3L0kQUA=="
 ---

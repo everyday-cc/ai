@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-18-artificial-intelligence-in-cybersecurity-market-size-to-reach-usd-1338-billion-by-2030-driven-by-growing-number-of-cyber-attacks.md",
+      "title": "Artificial Intelligence in Cybersecurity Market Size to Reach USD 133.8 Billion by 2030 Driven by Growing Number of Cyber Attacks",
+      "excerpt": "The Global Artificial Intelligence (AI) in Cybersecurity Market size accounted for USD 14.9 Billion in 2021 and is estimated to reach the market value of USD 133.8 Billion by",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28094953/artificial-intelligence-in-cybersecurity-market-size-to-reach-usd-133-8-billion-by-2030-driven-by-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28094953/artificial-intelligence-in-cybersecurity-market-size-to-reach-usd-133-8-billion-by-2030-driven-by-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28094953",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28094953",
+      "publishedDateTime": "2022-07-18T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-forget-apple-here-are-2-lesser-known-artificial-intelligence-stocks-to-watch.md",
       "title": "Forget Apple: Here Are 2 Lesser-Known Artificial Intelligence Stocks to Watch",
       "excerpt": "All are tech pioneers and Artificial Intelligence (AI) is widely used by all – from the iPhone’s FaceID and Google’s search algorithms on to Amazon’s cloud computing solutions which are used by millions across the globe.",
@@ -1295,50 +1338,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
-      "title": "Expanding artistic frontiers in artificial intelligence",
-      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
-          "width": 711,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "publishedDateTime": "2022-07-05T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI",
         "AI in Healthcare"
       ]

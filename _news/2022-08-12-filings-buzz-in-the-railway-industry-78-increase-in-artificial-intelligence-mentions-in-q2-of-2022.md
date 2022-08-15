@@ -7,7 +7,7 @@ originalUrl: "https://www.railway-technology.com/dashboards/filings/filings-buzz
 webUrl: "https://www.railway-technology.com/dashboards/filings/filings-buzz-in-the-railway-industry-78-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,7 +27,7 @@ related:
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/TbFDb-1038x778.png"
         width: 1038

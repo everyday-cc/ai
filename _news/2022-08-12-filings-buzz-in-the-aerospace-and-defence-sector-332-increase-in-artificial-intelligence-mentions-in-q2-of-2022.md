@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-12T05:00:00Z
 originalUrl: "https://www.army-technology.com/dashboards/filings/filings-buzz-in-the-aerospace-and-defence-sector-332-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
 webUrl: "https://www.army-technology.com/dashboards/filings/filings-buzz-in-the-aerospace-and-defence-sector-332-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
 type: article
-quality: 18
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/TbFDb-1038x778.png"

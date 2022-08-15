@@ -51,22 +51,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Tattoo recognition software helps identify 2 deceased victims in Arizona"
-    excerpt: "The recognition software has 1.4 million images of tattoos currently in the database that were obtained during criminal booking procedures."
-    publishedDateTime: 2022-08-10T23:24:00Z
-    webUrl: "https://www.12news.com/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    ampWebUrl: "https://www.12news.com/amp/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/police-identify-deceased-victims-using-technology-recognizes-tattoos/75-55c0681e-b6eb-40d4-aeca-6a9a0a9af4f6"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 43
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/b351eafa-adc8-404a-b0e5-0589fba636e8/b351eafa-adc8-404a-b0e5-0589fba636e8_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "S1BgAG/4drtU+xrs55eIp4dO2s9XAWQGUKVXb7oNADVCi+EUvDpXzdlLrvQe/naoOY8sLnNvwXS0/cPHgSTrmwjtxi4LK4zcAPGdImsCQLywXBP/+mF00IPNj/DGMoqkpP80VjSKiz+Qqj7SkpKI1g9AnQ3OYlPxkocg2zwQWK06gzmbIqfvxAtCDZDWioEsxSmsdxzTPPGmFFDZrbwJ6O5XPhiB/6a806N96rMW6OLVQPxIL1pDXNZE4fDi8xqA1bfHOJEQVl3ogJCF4IZ1KoqpeiajiscjYXpvdWMPX4aU84Bis4a4iZil+eEzbhOCUas2E90bTwWqgwtsmw+IBnfg/LYJ6CoTJMCE+iZl/ZyKJPjdOJnIZqR/suX77ih5oO+juWQ+JdQU6ty2Zh9IwSgUGuxKGNk0SL3CsLaiMSTWSSU+hX0aDI/dnljwC7MgFFsHns2Ji9ZALkzic/UJTt8xcfaNM8lEQbhZnminIfcpigfMIeDreiICcZ5QYQmNqWqD6pjrJxpwfEeZ2xz20Q==;Ip0CLy45UVg71vAln6aFAg=="
 ---

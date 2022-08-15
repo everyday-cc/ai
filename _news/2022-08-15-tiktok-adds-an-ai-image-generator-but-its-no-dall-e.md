@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/tiktok-ai-text-to-image-generator-14253
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -55,6 +55,34 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
+  - title: "TikTok’s New AI Generator Uses Text To Create Abstract Artwork"
+    excerpt: "TikTok reportedly suggests the prompts “astronaut in the ocean” and “flower galaxy” as examples of what the generator can create. There are some limitations to the new feature. The artwork produced is a swirling,"
+    publishedDateTime: 2022-08-15T15:33:00Z
+    webUrl: "https://hypebeast.com/2022/8/tiktok-ai-text-to-image-generator-artwork"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2FTikToks-New-AI-Generator-Uses-Text-To-Create-Abstract-Artwork-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "TikTok takes on viral trend with new text-to-image AI filter"
+    excerpt: "The new 'AI greenscreen' filter on TikTok is the app's attempt to jump on the text-to-image trend popularised by the likes of DALL-E."
+    publishedDateTime: 2022-08-15T17:27:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/titok-text-to-image-ai-filter"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/AdobeStock_446367840_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Jv7G/2z8NY/Nsxbg8M6cYWpPYJhSL5WpN4+JKzGkEu/tHtX1sj1wFwV9Qi/jTi7YSRGUrcFC6zwRj2BfqeKOYPOeu/0SeFBZ3QBiMYFS9HpfTWjKfaaw4dTSymXQuR8+qjUOIxN/IP1X017IUvs++0DTsA5TRVlxLN0eIh29mtM1TzmrksytgCLsTzN8wu0m/CUSNY/LidUqqEpdyOr+nxqFfPLd9Cjz55rFE3DfKOz0iwk9JqcEodaGq5ygaUPoqUBrnO9lcgZ0UPOJUCh0K4ySoXkDjceVun3dDJJfALtCGy0DHJfmt3qpe8lb9xIVK2vFjwsWFh+UYsNjov57I5fiqHcqmcUuwshR8XhUdjk=;Fs+kBift0G2kE/5Z5ONPMw=="
 ---

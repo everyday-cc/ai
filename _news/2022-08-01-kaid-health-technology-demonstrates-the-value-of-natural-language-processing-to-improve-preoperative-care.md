@@ -1,8 +1,8 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "NLP engine holds promise to automate preoperative assessment, including at times outperforming clinicians BOSTON--(BUSINESS WIRE)--KAID Health, an"
-publishedDateTime: 2022-08-01T14:01:00Z
+excerpt: "BOSTON–(BUSINESS WIRE)–KAID Health, an AI-powered health care data analysis and provider engagement platform, announced the results of a study that validates the potential utility of its Natural Language Processing (NLP) technology to improve provider ..."
+publishedDateTime: 2022-08-01T15:30:00Z
 originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
 webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
 ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
@@ -23,6 +23,6 @@ images:
     height: 552
     isCached: true
 
-secured: "J2ZAXhECAcD0kegWwiFjfay38kTc9mTiG6c9+hYSF4XOYf/3S1yfH673T2If3y9LK1iu3Kbla1s/r1P4NJWQed7xIanZwKVThVsV41/b8NmBl7JwAmLqtFicB+q5G34dAXnk0yPkaUoRBukPvWwauXwd7S4PtPFrr1E0iolvbkJQBIPTeUb3Ho6Ifu7Ln38fJAEVD+RPaaQcgtQ2mhgQCxfIixk6NvLOFfqfZXLXCvAEpPcHCnIjrn/mS3BnIETopzBTDihvYqPlNVAsDpcElzbYgrQylWuKKP94T5qsFsEGmeMyW5E9hONyYbsQRR3u4TDL5rdtExJ3dSfpruadVNblI5htkObkhBeYQsamMe0tDIdkwFQcE2GgYm7ihcQDLn2dwp3+P0y4PYcYxlaknXJWTzPmT7DrPyDLRNcAvQa+T0wWSMtgZqIY7Js7npxKnHHQF29gpf5KpVJcBOxuTnJAajXhnOjSdtpJpwP3t07RL5CMhHmXvr/etcdHaoNB6Ts5Pxj9sDvVZQE2RKbpXg==;xHIg17GMkRu3MUqdclx/rg=="
+secured: "I7ukNsZ52v/1CwHuH7FnNvRiCg56+s+AeI9nKOFMx49pj9Wtle3rlbQhksywGHQysSN8s7jGIsxqCz7mi5JSEkjgLLc5bH22gCXsbCHPPkUnGm5ihwBTEZKi9E/PVbn5IFnP1ErBNQMaq+pZlALdIowu+sGqFXumii8Vsy9VH13Tz785mDtwLiYoCq8C0l5uueE2B5Mp/ver0PT7PazrZR6dIui0uV0C+Hkf6dRHh/5xJUpon266E/rd9Lhq/DiFGoqNOtfLzZ/h4S26Q54PcpUJdzf9RSrI5m7+K0XNcW1CO8s24DlUZBuoDdaBzdcNPYrGH1P8HY5uPFR19blXzREJqL6gBM/77KyMm10fwRo=;/3HR/e/Ks5laMZZXgpDAOA=="
 ---
 
