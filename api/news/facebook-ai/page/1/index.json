@@ -206,6 +206,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
+      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
+      "excerpt": "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "publishedDateTime": "2022-08-09T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
       "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
       "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
@@ -1389,50 +1432,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
-      "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
-      "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg",
-          "width": 650,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nigeriacommunicationsweek",
-        "domain": "nigeriacommunicationsweek.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

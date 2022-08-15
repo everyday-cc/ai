@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:

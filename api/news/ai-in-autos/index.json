@@ -425,6 +425,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
+      "title": "Nation releases first draft of rules on self-driving vehicles in public",
+      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
+          "width": 536,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
       "title": "Baidu gets permits for first fully driverless taxi service in China",
       "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
@@ -574,50 +617,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "publishedDateTime": "2022-08-08T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
       "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
       "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
@@ -717,8 +716,8 @@
       "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
       "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?time=1659952202",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?time=1659952202",
+      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
+      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -728,7 +727,7 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "publishedDateTime": "2022-08-08T03:08:00-07:00",
+      "publishedDateTime": "2022-08-08T03:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",

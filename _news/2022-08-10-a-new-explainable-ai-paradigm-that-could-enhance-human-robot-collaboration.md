@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collabor
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: techxplore
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Best Examples Of Human And Robot Collaboration"
-    excerpt: "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other."
-    publishedDateTime: 2022-08-10T05:03:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/"
+  - title: "Rather than threaten jobs, artificial intelligence should collaborate with human writers"
+    excerpt: "The artificial intelligence, called GPT-3, is a large language model developed by OpenAI, and it posed a bold question in the headline of its machine-generated text: “A robot wrote this entire article."
+    publishedDateTime: 2022-08-10T07:18:00Z
+    webUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/"
+    ampWebUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://stuff.co.za/wp-content/uploads/2021/11/Artificial-Intelligence-Writing.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "A Step Forward in Human-Robot Collaboration: Han’s Robot Opens A New Era of Intelligent Collaborative Robots"
     excerpt: "Collaborative robots came into being to solve this issue, allowing robots and workers to work together to improve efficiency. However, this is only the first step. Han’s Robot is developing intelligent collaborative robots that do not require secondary development which users can buy and use according to their needs and costs."

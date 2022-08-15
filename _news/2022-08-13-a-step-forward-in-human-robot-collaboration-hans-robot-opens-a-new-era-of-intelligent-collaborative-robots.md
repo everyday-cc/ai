@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Best Examples Of Human And Robot Collaboration"
-    excerpt: "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other."
-    publishedDateTime: 2022-08-10T05:03:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A new explainable AI paradigm that could enhance human-robot collaboration"
     excerpt: "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,"
     publishedDateTime: 2022-08-10T14:05:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg"
         width: 2880
         height: 2245
+        isCached: true
+  - title: "Rather than threaten jobs, artificial intelligence should collaborate with human writers"
+    excerpt: "The artificial intelligence, called GPT-3, is a large language model developed by OpenAI, and it posed a bold question in the headline of its machine-generated text: “A robot wrote this entire article."
+    publishedDateTime: 2022-08-10T07:18:00Z
+    webUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/"
+    ampWebUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 50
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2021/11/Artificial-Intelligence-Writing.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "2YotD2ux4QwmnsTMdVb89ilUmJqz4BmiGLhMFN68jklXJJ8GTd5ErM+C+4G7StrvVtqZLbFis32Mb2Y6qVyZ7FdWKkThefdSjEnHsKhmPgyENlkddjhWbUHn2P7irWzeMUdp4JP6wr7K37XZGEW7+8fkBu341GrjTXe3DnFdqi8Hzy9Kxqq9n7T060Q0Aa0nmPV6cnQjHpT2xIwbGwz9A7m6FzdXisHhPcEGiB+VtBht5Te/1fGWPZnAdfNsBppT8Ls3BL6BR26e4TNOD+dYsG96CtILGp7qin+sRBWZHyYyYKlob6xwhzhOzNvdBv/eHy3Ajw3HjZtP5GlQmSaNMlU7WjHyy4C1B+V3ZTpIFGw=;LuUMkfjo/futaQRQ4V02pQ=="

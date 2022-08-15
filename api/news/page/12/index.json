@@ -2,6 +2,190 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
+      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
+      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
+      "title": "Artificial Intelligence (AI) Speakers Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
+      "excerpt": "This new report by Report Mines provides a comprehensive summary of the new developments within the \" Artificial Intelligence (AI) Speakers market \" across the global regions which includes ( North America: United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-this-comedian-hilariously-explains-why-elon-musks-self-driving-tesla-wont-work-in-india.md",
+      "title": "This Comedian Hilariously Explains Why Elon Musk's Self Driving Tesla Won't Work In India",
+      "excerpt": "Elon Musk wants to bring self-driving cars to India, and this has landed a lot of desi opinions on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoopwhoop.com/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "originalUrl": "https://www.scoopwhoop.com/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.scoopwhoop.com/anj2/62e8bc4a25f1c70001cd0986/f8bf8fae-5144-42a7-8d1a-b548337a11e0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scoopwhoop.com/amp/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "cdnAmpWebUrl": "https://www-scoopwhoop-com.cdn.ampproject.org/c/s/www.scoopwhoop.com/amp/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "publishedDateTime": "2022-08-02T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScoopWhoop",
+        "domain": "scoopwhoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
+      "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
+      "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai-1031638723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1870688/Photo_1.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-how-is-the-healthcare-sector-inclining-toward-artificial-intelligence-worldwide.md",
       "title": "How is the healthcare sector inclining toward artificial intelligence worldwide?",
       "excerpt": "As awareness about artificial intelligence and its potential is spreading, so is the faith of various industries in its capabilities of improving production and quality of life. Artificial ...",
@@ -938,196 +1122,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-mlops-making-sense-of-a-hot-mess.md",
-      "title": "MLops: Making sense of a hot mess",
-      "excerpt": "Investment in MLOps is both an enterprise must and a hyper-fragmented landscape. A Gartner analyst weighs in on the confusing landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1138917075.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/mlops-making-sense-of-a-hot-mess/amp/",
-      "publishedDateTime": "2022-08-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-alphafold-has-predicted-the-structures-of-almost-every-known-protein.md",
-      "title": "AlphaFold has predicted the structures of almost every known protein",
-      "excerpt": "Google offshoot DeepMind has released more than 200 million predicted 3D structures, covering nearly the entire protein universe",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/news/alphafold-has-predicted-the-structures-of-almost-every-known-protein/4016033.article",
-      "originalUrl": "https://www.chemistryworld.com/news/alphafold-has-predicted-the-structures-of-almost-every-known-protein/4016033.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/0/7/8/521078_proteins_a0a143zzk9_malaria_parasite_110364.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-should-self-driving-cars-come-with-black-box-recorders.md",
-      "title": "Should self-driving cars come with black box recorders?",
-      "excerpt": "Why shouldn’t self-driving cars and robots have the ... team of experts — academic researchers in robotics and artificial intelligence as well as industry developers, insurers, and government ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "originalUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "publishedDateTime": "2022-08-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-money-keeps-raining-down-from-the-aws-cloud.md",
-      "title": "Money Keeps Raining Down From The AWS Cloud",
-      "excerpt": "AWS should surpass Lenovo this year and Dell before too long, and over the longest of hauls AWS has a good chance to catch Microsoft; it has already blown by IBM, Hewlett Packard Enterprise, and Cisco Systems. A lot depends on where you want to draw the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
-      "originalUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/aws-datacenter-racks.jpg",
-          "width": 746,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/01/money-keeps-raining-down-from-the-aws-cloud/amp/",
-      "publishedDateTime": "2022-08-01T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

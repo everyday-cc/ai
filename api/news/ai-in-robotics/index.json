@@ -499,6 +499,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-a-new-explainable-ai-paradigm-that-could-enhance-human-robot-collaboration.md",
+      "title": "A new explainable AI paradigm that could enhance human-robot collaboration",
+      "excerpt": "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg",
+          "width": 2880,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "publishedDateTime": "2022-08-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
       "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
       "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
@@ -1375,60 +1418,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market growth analysis, statistics, key insights and trend 2022 to 2026",
-      "excerpt": "Artificial Intelligence (AI) chipsets market is undergoing constant changes as several companies across the world are indulging in heavy investments to introduce advanced technologies in automotive safety systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

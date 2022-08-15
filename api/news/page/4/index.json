@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases.md",
+      "title": "Iterable optimizes AI to hyper-personalize marketing and predict future purchases",
+      "excerpt": "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
+      "originalUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/personalized_messages-e1659999200762.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
+      "publishedDateTime": "2022-08-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-a-lesson-from-google-can-ai-bias-be-monitored-internally.md",
       "title": "A Lesson from Google: Can AI Bias be Monitored Internally?",
       "excerpt": "Dr. Timnit Gebru was the co-lead of Google’s Ethical AI research team—until she raised concerns about bias in the company’s large language models and was forced out in 2020. Her departure sent shockwaves through the AI and tech community and raised ...",
@@ -242,6 +329,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
+      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
+      "excerpt": "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
+      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=related-posts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "publishedDateTime": "2022-08-09T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -880,6 +1010,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
+      "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
+      "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/m204pp/article65749618.ece/alternates/LANDSCAPE_615/Kloudpad_Founders.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-missouri-based-fintech-to-acquire-glastonburys-payrailz.md",
       "title": "Missouri-based fintech to acquire Glastonbury’s Payrailz",
       "excerpt": "A Missouri-based publicly traded financial technology firm announced Thursday it has reached an agreement to acquire Glastonbury-based digital payment company, Payrailz. Jack Henry & Associates Inc. said the purchase will expand its digital payment capabilities,",
@@ -1024,188 +1197,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-tools-predict-dnas-regulatory-role-and-3d-structure.md",
-      "title": "Artificial intelligence tools predict DNA's regulatory role and 3D structure",
-      "excerpt": "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "originalUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg",
-          "width": 2115,
-          "height": 1939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "publishedDateTime": "2022-08-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "publishedDateTime": "2022-08-08T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-brain-robot-therapy-reroutes-motor-pathway-in-stroke-patients.md",
-      "title": "Brain-robot therapy reroutes motor pathway in stroke patients",
-      "excerpt": "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960933",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
-      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
-      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
-          "width": 1325,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:48:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

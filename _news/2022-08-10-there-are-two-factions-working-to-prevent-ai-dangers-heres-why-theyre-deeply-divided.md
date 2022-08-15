@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/2022/8/10/23298108/a
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/2022/8/10/23298108/ai-dangers-ethics-alignment-present-future-risk"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1400
     height: 1050
     isCached: true
+
+related:
+  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 25
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "qpwT/cqcYaF9VmIjt0KkUzk9PzYc72MmbsU2Wxem6+f/6zACe+JM/j6tl8tX1+22Gazza3BipLEyMeQfO0q6c2r0FttOZcV8nidkHUR1ObxmVMQc8jPrbFrWlD4tykitGEZ26XEUYuaeU7nPWgPzNHh8ucEE02Mgf4mG+bL7/Mhpz5a1ds+lX72AO3C54B3xaPoZyZKbNRcakRvgYtqEe79lJYMqTb08rJsT4UT/JLsHQgjeqQGufYP1pOvCflmnZjJUqyebYzpWNFCIxgBxCxIywP4848ugRLfqQEiufxO/Oes1BFk1MG2gKdPukHSMTOUuOeSBCK6eWwmJ1hGGYkUx5wLjRVppisO953FfTH0=;GmbhisujXJrR6jJdQkW8/w=="
 ---

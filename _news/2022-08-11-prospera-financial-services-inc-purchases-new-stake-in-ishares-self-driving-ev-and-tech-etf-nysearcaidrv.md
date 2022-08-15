@@ -46,15 +46,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 18
-  - title: "Guardforce AI (NASDAQ:GFAI) Shares Up 13.4%"
-    excerpt: "Guardforce AI Co., Limited (NASDAQ:GFAI – Get Rating)’s stock price was up 13.4% during trading on Tuesday . The stock traded as high as $0.36 and last traded at $0.34. Approximately 11,897,363 shares traded hands during trading,"
-    publishedDateTime: 2022-08-10T07:00:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/10/guardforce-ai-nasdaqgfai-shares-up-13-4.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 17
   - title: "National Bank of Canada FI Acquires 932 Shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
     excerpt: "National Bank of Canada FI grew its position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 31.7% during the first quarter, according to the company in its most recent 13F filing with the SEC."
     publishedDateTime: 2022-08-12T09:38:00Z

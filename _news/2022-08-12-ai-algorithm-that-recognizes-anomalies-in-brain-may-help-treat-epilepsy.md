@@ -115,6 +115,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 17
+  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers. The Multicentre Epilepsy Lesion Detection (MELD) project,"
+    publishedDateTime: 2022-08-14T23:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "BvdEhUbCvbE2sTJVBDJYnbTyWvv/YQlGACginPfYUsau9GeBgZnTa/kE6a83nJeJffO60AWmuXYqaaKOzLAIJ/w1zVS/GXkKLtFObQn6pU32NghTkuGRnYlCcDtveVlIrFBhrCWHe0vZtLsT4lU1z0q/iNItPJGmsxAUvMMd55eAkQvCiRbqXWT0W9fKF3BvdNypUs0Vnn0qJ5re2+o/kFdVBo7p5zhg0aecdogznugJzjbWnPpaI7vTAP1qAWcITWJvR+1SN3ugvMXz85lALeGxDvEEmryPsoWhJaToodz1lqShDM7IsIb02uMcrJkrultnSkxwTDZw3VsqtpuROa3i4S/H2eaJ70g8dvr5ySg=;uKQaGbQh4rj7MGEYUSAckw=="
 ---

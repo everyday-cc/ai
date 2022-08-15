@@ -47,15 +47,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 18
-  - title: "Guardforce AI (NASDAQ:GFAI) Shares Up 13.4%"
-    excerpt: "Guardforce AI Co., Limited (NASDAQ:GFAI – Get Rating)’s stock price was up 13.4% during trading on Tuesday . The stock traded as high as $0.36 and last traded at $0.34. Approximately 11,897,363 shares traded hands during trading,"
-    publishedDateTime: 2022-08-10T07:00:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/10/guardforce-ai-nasdaqgfai-shares-up-13-4.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 17
   - title: "Prospera Financial Services Inc Purchases New Stake in ExlService Holdings, Inc. (NASDAQ:EXLS)"
     excerpt: "Prospera Financial Services Inc purchased a new stake in ExlService Holdings, Inc. (NASDAQ:EXLS – Get Rating) in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission."
     publishedDateTime: 2022-08-11T08:42:00Z

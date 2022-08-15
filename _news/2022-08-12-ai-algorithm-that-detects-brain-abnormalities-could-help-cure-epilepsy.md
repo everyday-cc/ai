@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalit
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
 type: article
 quality: 57
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
+    quality: 17
+  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
+    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers. The Multicentre Epilepsy Lesion Detection (MELD) project,"
+    publishedDateTime: 2022-08-14T23:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Health/20220815/3973242.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 17
 
 secured: "dp6UINMME+2nbYi3Fadd5gXdvyX1GpyT7stTQP6qd7cK8x+YHdzciwA6Wbd2ItGW1mvNDe93TMKpuon2m81KnKkb/wvFcgNuY8Xw9XBgzNXWI+7tAF5HtJ7A3fffNYdY27Tkv1yZhd9m9UPiF2CM/2hjOK7jXkVTZl9BgB31/8SpTkAOmJMhuUy+A3R4sm1/43B5wVej76WUdYVsw11zpLGIxlCZxR0cwtnXWf/fHY46Afx8lQ/FvrIg6PBSNVhhX/B/RMbG5BqgHu0zd/kBRlxSMgkVPCCpTLcJu/wTtGOhOpU0weCIoFwYYYiebbyTHxD+2iCPSk32omgeVjFmvAxbNj+fLAZD2BGw4LJBingiAyhWHxUuUzBWEKVtrjAU0bzZPHo0SrrjLSsn8ce2T+YCcwGbDL+4fXCHFQye5qO2cXPEFC/OoLjOL28vnV+vDxeRVloJZSGvoSYKBzJ9fMgqN97jcsDH8Xdovx/9dVt6t23P9/BsruP0BohhX91YrjFDOkp1/BC0lYCkmEnHyQ==;lNSwc8qCTad48uXKzhBEJg=="

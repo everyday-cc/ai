@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-a-new-explainable-ai-paradigm-that-could-enhance-human-robot-collaboration.md",
+      "title": "A new explainable AI paradigm that could enhance human-robot collaboration",
+      "excerpt": "Artificial intelligence (AI) methods have become increasingly advanced over the past few decades, attaining remarkable results in many real-world tasks. Nonetheless, most existing AI systems do not share their analyses and the steps that led to their predictions with human users,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-explainable-ai-p.jpg",
+          "width": 2880,
+          "height": 2245,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-ai-paradigm-human-robot-collaboration.amp",
+      "publishedDateTime": "2022-08-10T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-ai-takes-the-real-you-into-the-metaverse.md",
       "title": "AI takes the 'real' you into the metaverse",
       "excerpt": "Posted . 08/10 A London-based startup wants to help you step into the metaverse with your 'real' face instead of the cartoo",
@@ -304,7 +347,7 @@
       "originalUrl": "https://www.vox.com/future-perfect/2022/8/10/23298108/ai-dangers-ethics-alignment-present-future-risk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -700,6 +743,49 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
+      "title": "Nation releases first draft of rules on self-driving vehicles in public",
+      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
+          "width": 536,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T19:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1141,93 +1227,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases.md",
-      "title": "Iterable optimizes AI to hyper-personalize marketing and predict future purchases",
-      "excerpt": "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "originalUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/personalized_messages-e1659999200762.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "publishedDateTime": "2022-08-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
       ]
     }
   ],
