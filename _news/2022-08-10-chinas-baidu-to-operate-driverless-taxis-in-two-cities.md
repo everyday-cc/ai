@@ -7,8 +7,8 @@ originalUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f38671a310fd2b29e71788.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: 中国日报网
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu rolls out driverless taxi service in two Chinese cities"
-    excerpt: "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport."
-    publishedDateTime: 2022-08-10T08:31:00Z
-    webUrl: "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Baidu To Operate Robotaxi Service Without Human Drivers In Two Chinese Cities"
     excerpt: "Baidu has received the green light to begin testing fully-autonomous taxis in two major Chinese cities, a first for a company in China. The technology giant received regulatory approvals to operate its Apollo Go autonomous ride-hailing service in Chongqing and central Wuhan."
     publishedDateTime: 2022-08-10T11:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
   - AWS AI
   - Computer Vision
+
+related:
+  - title: "Amazon Comprehend Announces the Reduction of the Minimum Requirements for Entity Recognition"
+    excerpt: "Poor outcomes may stem from insufficient or inaccurate annotations. Tools like Amazon SageMaker Ground Truth, can be used to annotate documents more rapidly and create an augmented manifest ..."
+    publishedDateTime: 2022-08-12T08:20:00Z
+    webUrl: "https://www.infoq.com/news/2022/08/amazon-comprehend/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 45
+    images:
+      - url: "https://res.infoq.com/news/2022/08/amazon-comprehend/en/headerimage/generatedHeaderImage-1660163398343.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "av8Nxydemy8Tlson2804E7AGcgDneXNSwqFodxUwkGB5xp3VgonBag4+niW5yY1MPvQaRvy5kmy9dA1+O5RPDyvk46BzWw1FFayvnlCOXW0tmPrG9z0eJr2ZkTCiFJ3zRCqq8jVWt5Tu/bzZkDXOwrbmhkG92b/cyjAoR5CcY/X2Ep3S6savCt4C5EaB5mMF446g5ZuX0jf2crXQjBsNH/yW/YrK4BGOHnsUEkuXqugM3UqnPZCzlFPhiNWI7NjzBCYENPHKc+6ADqhWobICjIFrsw/AeIFTpD4XGFR3nV+AddQoV9tj8Ck9CwLbEfUiwXQrlgxAWmLnlQW8CQt1+KpBBGXWQLXFDodl6Koh+DM=;v4tX7UQl7HftFLvGCCXxnw=="
 ---

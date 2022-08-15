@@ -41,22 +41,6 @@ related:
         width: 2880
         height: 2245
         isCached: true
-  - title: "Rather than threaten jobs, artificial intelligence should collaborate with human writers"
-    excerpt: "The artificial intelligence, called GPT-3, is a large language model developed by OpenAI, and it posed a bold question in the headline of its machine-generated text: “A robot wrote this entire article."
-    publishedDateTime: 2022-08-10T07:18:00Z
-    webUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/"
-    ampWebUrl: "https://stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2022/08/10/rather-than-threaten-jobs-artificial-intelligence-should-collaborate-with-human-writers/?amp=1"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 50
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2021/11/Artificial-Intelligence-Writing.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "2YotD2ux4QwmnsTMdVb89ilUmJqz4BmiGLhMFN68jklXJJ8GTd5ErM+C+4G7StrvVtqZLbFis32Mb2Y6qVyZ7FdWKkThefdSjEnHsKhmPgyENlkddjhWbUHn2P7irWzeMUdp4JP6wr7K37XZGEW7+8fkBu341GrjTXe3DnFdqi8Hzy9Kxqq9n7T060Q0Aa0nmPV6cnQjHpT2xIwbGwz9A7m6FzdXisHhPcEGiB+VtBht5Te/1fGWPZnAdfNsBppT8Ls3BL6BR26e4TNOD+dYsG96CtILGp7qin+sRBWZHyYyYKlob6xwhzhOzNvdBv/eHy3Ajw3HjZtP5GlQmSaNMlU7WjHyy4C1B+V3ZTpIFGw=;LuUMkfjo/futaQRQ4V02pQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/food-robotics-market-202
 webUrl: "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Future Growth and Business Opportunities 2022-2028|Latest Research Report"
-    excerpt: "The unique point that this report includes, is that it contains details about the import and export policies that can have an immediate impact on the Artificial Intelligence (AI)"
-    publishedDateTime: 2022-08-10T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-future-growth-and-business-opportunities-2022-2028latest-research-report-2022-08-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
 
 secured: "QUGnJ3be3Rai+o9ZVlb3Uo4bCTcA0/eOO+Ao65eYaG+fbd60aLCVEXUOBgd1xwUmvTuLd6LbT5Izy/mjEGRYF/SEtmTh6magG0evFpIblaA/GlMz4DB2WSQ7fr5Nvp30D/78lG85PvSteA+GWwNNv4dphHMbX6k0KB67Fs6VyT2olSAzeAAm7/m6QwHV7us0Lm6HICIGDAK1wyHgZYw54TryImP14Za/W/yUttj/Fh+MNN7d4h8HM5/5CI9fDnF4h8uFby5LKaGXvgYaxNg1Mg5kY6z8fsd73qnvBycgOmN52D+mr7nqC2RI3wvgozodN10DpkHpg2/q+RkUlRAtYrJYQTZEJcubaNHOmHpn5zM=;OmuQmOp8T3LFTRnkgTRLlw=="
 ---

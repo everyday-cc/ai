@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202208/uk-officialdom-have-warm-pl
 webUrl: "https://www.biometricupdate.com/202208/uk-officialdom-have-warm-places-in-their-hearts-for-live-facial-recognition"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 2048
     height: 1333
     isCached: true
-
-related:
-  - title: "UK to surveil convicted migrants with facial recognition"
-    excerpt: "Migrants convicted of a crime could be subject to facial recognition scans up to five times a day under plans drawn up by the Home Office, which campaigners and experts have condemned as “racial surveillance”. According to a Home Office data protection ..."
-    publishedDateTime: 2022-08-10T07:52:00Z
-    webUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition"
-    ampWebUrl: "https://www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523632/UK-to-surveil-convicted-migrants-with-facial-recognition?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 59
-    images:
-      - url: "https://www.computerweekly.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "JeaJaGviSJiLDNXAivJxNsTavx0s6/fDFGxpNRvv1iEw7KvNvNLcdfw++WUkBwGDG+oiw4h6V7lt5pzzl3YnYKVgzSDSw98cFYcLJGQIn1MwE2YHSuLTofUpsYIEwqtWni345GA4Z9izePGlXXoMdhawAQmOGx2/+w3o4YGv6BAjESPw2H6hNc2oBVq2iOE1s3JDoTe59keNipOnduOQr0TmLWOtIiP2i2x8xHVK/WCyrJohkai0VgKNvUvLA7abUQ3334PWcSUuOIcAOXt3v3t5Rlcj+jC9RKUeXY2Tzw8lmxGblaoOYbOUHN+d7O7MNyrJLfsiFle5/0muGS6M9Z2D1nIbf2vQicsBTGhHvVNqE2YJ8f+vh+8p8d66XlMr+fRk3zZU4taCGpuawbkLGvlrmtCjF4W6qq/iEGujlZc2GM/gXpL5RkjfQMJ8lDCR6QX5ZisGE35AveyTvLgCzgDenC42DAOqs5pn1xprgHew+XqKp5snRHLkEguKW40PgB7Erdt6oTW6BAgl+tviDA==;A3+jpKJ4BAuBPMInDZu0Jw=="
 ---

@@ -1,25 +1,28 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,"
-publishedDateTime: 2022-08-08T19:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/960990"
-webUrl: "https://www.eurekalert.org/news-releases/960990"
+excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
+publishedDateTime: 2022-08-08T19:00:00Z
+originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
+ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
+    width: 2560
+    height: 1440
     isCached: true
 
-secured: "vfKZx1wnOSVDEkwzSvC/CDf4VNj7L+z3u3VD9WVzyq8y0j0G4h0pF3byJkiPy+YpKdNrMl3CYVKV/m1aLnnYF0yuEkwplnq+sOmJSr6o5GM5vMr7aBDBBCBpS/zOYw/5R2gQE2zSNbPNBETPKn6ixtMq+6uLXJL95CHjrN7pwxbyLyXI4TFWjm1wGWfVLi+E0ZGgmzCbZxW/8rkQLZHs2acRda/e7hR0fXCWoyVTUwCLMsYi+1x1fMhbjMPLWD+b3D5q0ej4ZtvZQzBkapH0ai9pB9C4Albj5j+JuyFsOY5W5c8D0R7CNwnovhPiMPU0NT9FTs+B18PFxwUTKNCNEv7lUuWG7gDZvznqaD7OJZY=;TiKf5zOkiD5yRjdJUYsQcw=="
+secured: "t7WgG6e2+GVyI5w+3ozxhDdLFjQ3wKbUtgRX4YAZjbFtnQDwZTbdhDsxa35UkH14nUEwDwIwSF9TLJJj1VBK83WOdUVAe4UX6Xu0gw8zksoMPh4xcTGYQ9vtIv737zcBzf1ht4Yda6w8ceQEOGQlQBSdl6XWTs1uGx24JHXD891Set6USXxauN9RQkCgvDR5SWR/vFMvY/45xEamnJVEB4y4hvYt88JkSZpQ9utJH1IUeC6a1WqIKR5C0JoQRp/g++fj3K7TCJ9RAAwZkQpdscLVNjJ4nvGy/cZ6cldWH4Syd2mJnb6sIcMiFRKzcaSm5ysMsQe26PdwwKCI7qS2yV2uNy46kjPTm3zjcRYKamM=;VFa3avLnH7WjebMhvpSm1w=="
 ---
 

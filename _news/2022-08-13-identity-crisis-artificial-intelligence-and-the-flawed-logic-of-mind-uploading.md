@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/virtual/identity-crisis-artificial-intellige
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
