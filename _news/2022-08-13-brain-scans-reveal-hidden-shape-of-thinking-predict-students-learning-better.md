@@ -44,15 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 33
-  - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
-    excerpt: "The traditional tests and grades that educators have long used may measure learning less accurately than scans of the brain, according to a new study published in Science Advances. The paper, authored by a team of researchers from seven universities and led by Georgetown neuroscientists,"
-    publishedDateTime: 2022-08-10T18:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-brain-scans-reveal-hidden-students.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 3
 
 secured: "VKvSkg3T+w17+vq7V+cKDsPVkAWg4IhjNQjOG4rCwVCJOm8hxhueN06UZRMx73VX78uW9FcjRI9cJG0mNKr7s1B+KCfS7iqjomu8kYnx5KsTD2WNe/i5gOMTgTW9+n5Hjfh0ChpM9qVBUoHBQlS/6bx1BfMDmQPwW+JQX3KGo9k/uftYYyfv/QmiEJ73b2NN5Ent6nLNz24/VabozqxDvP4AOAkUjoryPvEDeSxCScv3nH8OWwe8OaftX/NQYMNYBXnRwO7DLdyzxGb+4RLBbtrjYcbW7NKe2vnYp4HirW7nDh9TdAofSLNengEsVDM8zkiS3o8PC/Q7aZ9+UVJlKiIX1FzscCXLfZtUNfYbD8Q=;58dsx+1QNiPXzOSwx6bTcQ=="
 ---

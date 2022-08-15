@@ -116,6 +116,22 @@ related:
         width: 1024
         height: 569
         isCached: true
+  - title: "Facebook does something right for a change"
+    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
+    publishedDateTime: 2022-08-15T11:03:00Z
+    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
+    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
     excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
     publishedDateTime: 2022-08-14T11:21:00Z

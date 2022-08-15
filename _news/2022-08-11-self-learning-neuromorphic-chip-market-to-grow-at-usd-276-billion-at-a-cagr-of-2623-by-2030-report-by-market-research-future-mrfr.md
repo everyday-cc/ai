@@ -43,6 +43,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"AI in Insurance Market by Offering (Hardware, Software, Service), by Deployment"
+    publishedDateTime: 2022-08-15T11:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-insurance-market-to-reach-45-74-billion-globally-by-2031-at-32-5-cagr-allied-market-research-872030314.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
 
 secured: "oQeDsxdT7fBRQ7iKa4HFm94++BVMRQc2GX5CypF2dalAfg2toIutqSHLmNyukil6aT2tHAvuQlgmn21nmci+nUzDXxwK/WAmBAPysrTwAkF6CpeaaQsdiiBTJoUkfdGqRHqt+CTgHIzMLWSK3BaAuhpV/jVRAUmehwXhyumE/4KM4UFTrBhgB25sRt3NaPxqSJOYOD1jb2X7Waj2nWewQ+q3mAIM9UKuGQbANbDquwaFtfUJAZgNjhCu9f6mjsd6UN31h7KyE5Ag7zZPC/3frZ4SvUEO63qJJnAojFY5wR3N3u4OeUskh9vtr9tbzWJRLCR8gSEpRiToPjpcLQbn7MtkUpvRGBD5G+2Jj1lulNo=;DrPl5eeZTViKQMBLtdriYw=="
 ---

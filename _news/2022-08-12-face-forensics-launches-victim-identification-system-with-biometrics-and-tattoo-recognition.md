@@ -55,15 +55,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Deep learning, subtraction technique optimal for coronary stent evaluation by CTA"
-    excerpt: "According to research published in the American Journal of Roentgenology (AJR), the combination of deep-learning reconstruction (DLR) and a subtraction technique yielded optimal diagnostic performance for the detection of in-stent restenosis by coronary CTA."
-    publishedDateTime: 2022-08-10T18:44:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-deep-technique-optimal-coronary-stent.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
   - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
     excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
     publishedDateTime: 2022-08-11T20:44:00Z

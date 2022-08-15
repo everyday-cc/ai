@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI in Fintech Market to Reach $61.30 Billion, Globally, by 2031 at 22.5% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, 'AI in Fintech Market by Component (Solution, Services), by Deployment Mode"
-publishedDateTime: 2022-08-01T11:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-reach-61-30-billion-globally-by-2031-at-22-5-cagr-allied-market-research-846460409.html"
+excerpt: "Allied Market Research published a report, titled, ' AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots), Business Analytics and Reporting,"
+publishedDateTime: 2022-08-01T12:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-fintech-market-reach-6130-billion-globally-2031-/2022/08/01/9647909.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "sBh4xiHPER1E8dkPHTol3BZAQdbOdDCp14zHHOlbZ0CSR7+n+q9cEfEEvfySMT7bUsV+8YJeEsrSzD+QVgfb3sStkM/GXZInTywSNyp8gI06FGwXw9d2QlkegFEbkeo42y294LIh0sjHzmToRz7ySGcgwpZdObYUBlGEagSl+2/oaJHjJd/dIdmBb5tJ33n68Du4qojrARk8znKcm6VLb224FkeNMqSdMYXr5Ii2LlGsPbWY2Est/dogNWtH9vyCD0Dzjl03cZ3+AZm52zov2lSDPJlCvnZ0E/myT0JzKi9uYES8uraFGxpYtEQylzIu3CwbJ1UjoyrDmRIOjfAQNL8pqvVv3AAlqC7PYtsJePhABDy6CDJ5HgjX3+JW75goejMS99a6FeywwSINzKCFv9ICrQCOvyjVOgH2IkYAu5Kh1PGpa4QyQJdTz+daEgu8cfJmnEepHnbA6F+j7FOHyBv/ikQXb/0draTbG8VZBG6cx8XkrivMVsRmAHzrbtncurwoCY7lWzmzLr3li0mDpA==;g36njIGdb3Y+3vsG48UEiQ=="
+secured: "jM5Fv0yyQb0N5Ufv1KP/f1GFkH5NIyjTyUhYEeSNteGimRpTVVEaNbQAmjk9Wi+L4iIIjvUmjROc8Y9lBhTPPSc530+nGGpHjbk55SecGQOmn6v+5ipAcBEt6QknIXfIsglzBSUsWJi6vDz1b3G4Z/zDNvVRuVRXgax88iAbjPsz944d11klX+k/0z23SFJ3duXySuO32u0CP+8WvIyK2NWwrhT3HV1S2WxffKlo+xAtVdjyKu/kr0YhF7au2jcPp9NXBzs9r/u45ouYT3jLKmq62E2Q4v9pINmZ1rf782BoHdeCOP/S5/KPKXtM2BreaCdsHHDxEe9vyb+sPVjnRaDSfwwULO6ZOVy5d6dRBks=;guz4lRxkKR9fMyImDs/FDw=="
 ---
 

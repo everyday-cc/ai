@@ -40,15 +40,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Deep learning, subtraction technique optimal for coronary stent evaluation by CTA"
-    excerpt: "According to research published in the American Journal of Roentgenology (AJR), the combination of deep-learning reconstruction (DLR) and a subtraction technique yielded optimal diagnostic performance for the detection of in-stent restenosis by coronary CTA."
-    publishedDateTime: 2022-08-10T18:44:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-deep-technique-optimal-coronary-stent.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 14
   - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
     excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
     publishedDateTime: 2022-08-11T20:44:00Z
@@ -78,6 +69,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "mdvXWUBOQwC8y6cNbZuRgSiWO+PSrAPgec9ZqfxCCX/BkynOA7do8AvymNCbgXnkw+R61/qpV6Q1oymmxuF1v1dWa3rY0qOYXKJMyfI6/FcNbLAsODjfHd9+hQBeqZ1/YH9zr1FLX30cNwk7izj+7h7q3gofO016bRal8PwF/b5AR4gC52yRn5GW19oQFV4ScegBOsW4V+ftooSRc1+pSS+AeIukGwfFV+ol9wRKvUKNuHB1wLAUgeCmkjYibb6OAvO13DGRRFAi/52SSGPZyk0sJgpAgXSDArZCzToKyz0y2Z/uFRoIHNLQBSDJuJyC/wxk08mOI+q0t59b4+Iq7KrbDArf40tkKj+uRZHqza8=;1yZku0VGXEOTrpYJqd94zQ=="
+secured: "m85eTtVtrQQD10bbtwpR/If7YtzfcFP5dTEI+/pLvtUYDbBHbwF4aV7O1Xk0TkeatvwzFfBmPeZN0d3u6Ns9fEJSoz9vqukq2QmYhZ3/LAedrzDDEtjAH95f7iqVWzFbGbe7cVcvN41mahCkyzrxlSsc4xj1Ro6LbVbAYdcVwBJP760fpdpvbv7k5J6PojryqRfFAsEDako+tfiDEss6f0oSUmfvo6IGXYgmc3gNMVGQtdE1JKSgqN6kp3cVtHgRHDxTkNHhUvGwsOnEeOHtN5XPoJbBzr19Jr+0pIsExA9Liu0LFan6kF188bTNUAjIwcvc/lVk9TClPbTivslwyzFaj10S4FxKwCSI/+lW/cMZjGn2Xz3jh+suknr/a1yXt3BZdSCdtxS8b5B6jtABON+CkTKW94Iw+zNqaS7jWxz5NwAFcqxpc3cIxX3vSAsS880SiRY4DnMULW3Gc5Bwn3fTNqSV2DmQ3CLcSg7y09TPUJBy83RUxQXtpBiJ3up0sKN3apEChp5Cym+h0miOQw==;6braldIdWQSNVx2Oj+CZ2w=="
 ---
 

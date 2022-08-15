@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/12/tesla-full-self-driving-effort-faces-mounting-pressure-many-fronts/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -135,15 +135,6 @@ related:
         width: 640
         height: 323
         isCached: true
-  - title: "Ralph Nader calls for NHTSA to order removal of Tesla Full Self-Driving"
-    excerpt: "The auto-safety firebrand and former third-party Presidential candidate called FSD \"one of the most dangerous and irresponsible actions by a car company in decades.\""
-    publishedDateTime: 2022-08-10T18:15:00Z
-    webUrl: "https://www.greencarreports.com/news/1136786_ralph-nader-nhtsa-order-removal-of-tesla-full-self-driving"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 19
   - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
     excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
     publishedDateTime: 2022-08-11T11:05:00Z

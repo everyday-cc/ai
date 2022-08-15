@@ -1,26 +1,32 @@
 ---
 category: news
 title: "First, they banned facial recognition. Now they're not so sure"
-excerpt: "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ..."
-publishedDateTime: 2022-08-05T12:34:00Z
-originalUrl: "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure"
-webUrl: "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure"
+excerpt: "in addition to the change in the city's rules regarding the use of facial-recognition software in general. \"We can't understand why you would object to these safeguards,\" he said. The trio of New ..."
+publishedDateTime: 2022-08-05T12:24:00Z
+originalUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+webUrl: "https://edition.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html"
 type: article
 
 provider:
-  name: KAKE.com
-  domain: kake.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://CNNWIRE.images.worldnow.com/images/23132249_G.jpg?lastEditedDate=1659695046000"
-    width: 500
-    height: 333
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "SeT5HO+WMr5eyz4rqCRDY3aQnVph3Bf3WuCakoYzzoLv1rWopzqwIzrpKb8l7M2FZsbMO3DpwmPl/G/CwBPL2IkqdWDXbKpp4kXudb4PSurqOwyaTTgxaYQEiep/CKf/e44MJgkgGG7sI0pjl5Hg3fF35hLcJn5vq4BRwSXP7Dt0VHKjpOsBaNt6PE2USl6OrbvQfKgcjSq3JszaOoJu2zhOCDQJavVKK/HmBwXGjWMVNHd5CCyXN4cSndS90aYsHn/v/Vza8P9w6YXNZ3bBtOSg3eEEZ4f/kuxU1lwBjXvxGxjNn/VxTCXVRFLYVywQ6zK9eofmcywMVyRtJWyf7AM3+zTykOByALmiTvSEGAk=;yU+vIBooyoShkSHQiiqIsw=="
+secured: "ksQ8RvI2pS5Wsa2gKfG1KK1lHxHLTdyEqjzngKQWVLmG/N1+g4pCokJIfmftgVI/e43nDzYoFMX5wKE+P3g94bO9EbX1NdjHU1wJVZtozw7P5uKRpvqv9VP1hwHHowFovVfxWaaFKiP58MeAcfiJMjVieM2F1iZv5trE0tI9CKFVeYBtuqn8Dq3QVqY0fwEFCPkXNy4wvUPS4FSseRiNW2NNP6akwKpNdQzbEMvVH3kLPXRSnLiux8LAblKDwJBTsYJxATm3NKVyVgmddADzBUVyGyP17rgKek1FHfcxhFmN+nJG0PuvAcBh2sS66o/wOhiOYBTVfK4TA2aYUZ2FpvzDnKktcEwy5gfpqHrpEQY=;p6eqGl6CegZZmriZGh4Z3w=="
 ---
 

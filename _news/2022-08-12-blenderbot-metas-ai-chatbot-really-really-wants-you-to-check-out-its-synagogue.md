@@ -106,6 +106,22 @@ related:
         width: 2160
         height: 1200
         isCached: true
+  - title: "Facebook does something right for a change"
+    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
+    publishedDateTime: 2022-08-15T11:03:00Z
+    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
+    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
     excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
     publishedDateTime: 2022-08-12T16:06:00Z

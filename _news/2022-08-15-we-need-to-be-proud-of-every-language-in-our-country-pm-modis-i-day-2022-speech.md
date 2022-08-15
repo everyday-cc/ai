@@ -1,29 +1,27 @@
 ---
 category: news
-title: "We need to be proud of every language in our country: PM Modi’s I-Day 2022 speech"
-excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country’s 76th Independence Day called for unity among people while pointing out that sometimes the country’s talent is restricted by its language barriers,"
-publishedDateTime: 2022-08-15T06:44:00Z
-originalUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/"
-webUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/"
-ampWebUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
+title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
+excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
+publishedDateTime: 2022-08-15T06:51:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272654011/we-need-to-be-proud-of-every-language-in-our-country-pm-modi-i-day-2022-speech"
+webUrl: "https://www.bignewsnetwork.com/news/272654011/we-need-to-be-proud-of-every-language-in-our-country-pm-modi-i-day-2022-speech"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2022/08/sdjckhdnkjcbhnsdkjbfjsdfv2022081505031320220815060315.jpg"
-    width: 600
-    height: 450
+  - url: "https://cdn.bignewsnetwork.com/ani1660546246.jpg"
+    width: 630
+    height: 420
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://c.ndtvimg.com/2022-08/ntss8ls8_pm-modi_625x300_15_August_22.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "PM Modi ditches teleprompter and uses paper notes for Independence Day speech"
+    excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence."
+    publishedDateTime: 2022-08-15T10:36:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/15/w600X390/PM-Modi-IndependenceDay.jpeg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Independence Day: PM Modi ditches teleprompter, uses paper notes for his speech"
     excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence which is being celebrated in the country under the banner of Azadi Ka Amrit Mahotsav."
@@ -136,6 +150,6 @@ related:
         height: 420
         isCached: true
 
-secured: "XoCtA5W2KxnF9ER+Gi55hOI3slBJZUYADM/BqDM3BMHV8jaSgmw/9gm2o+g6hX46BkhWH47GuYz1e8ifW/WdOUS1vBgpjTuKVI75wQEinxCm74E4CVUCLnFMq/ndkBElyw20E83Ume9E5OlD7XrkVYo8nRgKWxr0U/ICF3Uk8m+DsOaJG4ZhyhD43RgioOtTP0kmEBLJ3c+klQ57+55YT5jhrdA1iR927b/in4etf3xwjzApBHYxHP6vv2X8rD7miUPTUFZlTK5aPLwQs0Kre+8nWMfj+ApawnLFxFT0Nj159Z377DZAgbJPV4cqtaoWuNnQwqwW3QQRoIBZ++NDHLyqpBlmPIIebjUh6K2geEg=;q2ZoiyO9aOPJqecXwssI3A=="
+secured: "OdswYVHirfumkLarSNPUxDOHSybaKLZTBNxTdDf0y7PGz7Lb8VwqEcejyKAtNsNQR6yPEFshz2TOKSM9ndbURGpxiTCeLqtkQXeeHM12Tm2khEtjw4xeWsvsMFF3WjuqRcUjmNVETGZ6S6hy6HtAZ6/sx+/7u9jeuWxzm8K5wRjZXiHBFjZaYhKL6UJJgmfuwl+YBdbvz7wddoek50WA6VUa20Nu86T+RJ5qvoPN9fi1JD20neM2uIBepAzv7ZmHrXDhW2dBtCRr2Qcz3SM2h21L8qHcEJLXWyzxwGI4t8ho94dlRyAeu+dZbJvNiwawZ3FVxCcAXnVkPlJoN5D7pGXsllrSaPmY0Ryidw4SK7M=;DHx0CGLaBZgqwcNLe06d5w=="
 ---
 

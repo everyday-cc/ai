@@ -7,7 +7,7 @@ originalUrl: "https://indiaeducationdiary.in/san-diego-state-university-6-25-mil
 webUrl: "https://indiaeducationdiary.in/san-diego-state-university-6-25-million-grant-establishes-new-ai-center-at-fowler-college-of-business-supports-student-athletes/"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Aalto University: Machine learning course by Aalto University Summer School and Unite! kicks off with 60 students"
+    excerpt: "The summer course Human-Centered Machine-Learning kicked off in August 2022 with 60 students on Aalto University campus with students from Brazil, Germany, Czech Republic, Sweden, Italy, China, Turkey and Spain."
+    publishedDateTime: 2022-08-15T11:38:00Z
+    webUrl: "https://indiaeducationdiary.in/aalto-university-machine-learning-course-by-aalto-university-summer-school-and-unite-kicks-off-with-60-students/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 18
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/03/Aalto-University.png"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "70u4SxPbr6S4uTWm7PJth66TWCXnjsi4g5Dp4il/6zlB+9SGZvMfk+80utPnCCIJGYaJoAHpQdR8ym5lraVmCFkov1aLDu6FbhOz3cDNpu6/Jd7r+raSZRO3gRYZH5SGAAdhgLtxAkNIbBTcCSNevtv819jbZQQDYj0dN5/V7T5ozkIINTNmEh/j/1tVLVM4+dRM7tSbnfa7NbcGbbiG5vQEHzqTOSCT4GWWT0nBjfWyyr3lZMm0fZqL3BbPvPezDl0uFKiBvz0MTGRGivult5QZNWoHT9BRsYaTQ17UNbyFNtw4dFQ/yFQyf/F3Q3+IUqHd/lvqLujpdZjJBTGaBdSGeXqyldhR/AVN4z+StCk=;xNp+0gkZAq+Dk2YyaO2DKQ=="
 ---

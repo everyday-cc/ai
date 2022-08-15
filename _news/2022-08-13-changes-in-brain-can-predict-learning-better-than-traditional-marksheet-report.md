@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 15
-  - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
-    excerpt: "The traditional tests and grades that educators have long used may measure learning less accurately than scans of the brain, according to a new study published in Science Advances. The paper, authored by a team of researchers from seven universities and led by Georgetown neuroscientists,"
-    publishedDateTime: 2022-08-10T18:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-brain-scans-reveal-hidden-students.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 3
 
 secured: "XEJZDJU4qKq7LzPSQKu+D/Vxfkwc1QhSyIB5nFLirDzCub8viV1EOEhXPrxJakKvz8yqDzXUmgR4cqEHzqhdzZA1mWs9Ir0DoTR3rUSnE4ijeCUo9tRMgwnLQFQg/B6kfGqSIeooFEZPcf2hN2inxC26/CJBTX92LVKkBcP8OGHUQzGacajBSoukNG9wb9LR049xP5BoO5VMK3yS+BC/94CYyv7nLiEa+6m8irBlOcDiA7JC/ERZpo6b/KDVhvfu6RCkJVL/4JlZCfCoSKk6PF3aCO1oofz8MXeMzUbJUYJkNln+mAvefM4/oTqD24jlSpz18o3aAJ98cvEcsl0/0zF+LGhgRoeSTcK95pXkIZ0=;OxGF9zklLBg/KvSyCHddKw=="
 ---

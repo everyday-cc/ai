@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AZDPS using tattoo recognition technology to identify unknown persons"
+    excerpt: "The Arizona Department of Public Safety has used tattoo recognition technology to identify two deceased persons in the state since June 23."
+    publishedDateTime: 2022-08-15T11:25:00Z
+    webUrl: "https://ktar.com/story/5198470/azdps-using-tattoo-recognition-technology-to-identify-unknown-persons/"
+    ampWebUrl: "https://ktar.com/story/5198470/azdps-using-tattoo-recognition-technology-to-identify-unknown-persons/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5198470/azdps-using-tattoo-recognition-technology-to-identify-unknown-persons/amp/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 44
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2022/08/tattoos2_giitem-photos456479080_11@0.25x-e1660433073485-1024x575.png"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Tattoo recognition software helps identify 2 deceased victims in Arizona"
     excerpt: "The recognition software has 1.4 million images of tattoos currently in the database that were obtained during criminal booking procedures."
     publishedDateTime: 2022-08-10T23:24:00Z

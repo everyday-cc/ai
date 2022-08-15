@@ -43,6 +43,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "PM Modi ditches teleprompter and uses paper notes for Independence Day speech"
+    excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence."
+    publishedDateTime: 2022-08-15T10:36:00Z
+    webUrl: "https://www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.html"
+    ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 41
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/15/w600X390/PM-Modi-IndependenceDay.jpeg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Independence Day: PM Modi ditches teleprompter, uses paper notes for his speech"
     excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence which is being celebrated in the country under the banner of Azadi Ka Amrit Mahotsav."
     publishedDateTime: 2022-08-15T05:05:00Z
@@ -75,22 +91,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "We need to be proud of every language in our country: PM Modi’s I-Day 2022 speech"
-    excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country’s 76th Independence Day called for unity among people while pointing out that sometimes the country’s talent is restricted by its language barriers,"
-    publishedDateTime: 2022-08-15T06:44:00Z
-    webUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/"
-    ampWebUrl: "https://theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/we-need-to-be-proud-of-every-language-in-our-country-pm-modis-i-day-2022-speech/1083352/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 39
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/08/sdjckhdnkjcbhnsdkjbfjsdfv2022081505031320220815060315.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Independence Day: PM Modi says talent will be basis of New India, takes aim at 'Parivaarwaad' in I-Day 2022 speech"
     excerpt: "Addressing the country from the ramparts of the Red Fort on the country's 76th Independence Day, the Prime Minister said that there is no place for corruption in our society and that the people of the country need to come together as a society to punish those who have propagated the evil of corruption."
     publishedDateTime: 2022-08-15T06:13:00Z
@@ -118,6 +118,20 @@ related:
     quality: 23
     images:
       - url: "https://cdn.bignewsnetwork.com/ani1660534121.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
+    excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
+    publishedDateTime: 2022-08-15T06:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272654011/we-need-to-be-proud-of-every-language-in-our-country-pm-modi-i-day-2022-speech"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 19
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1660546246.jpg"
         width: 630
         height: 420
         isCached: true
