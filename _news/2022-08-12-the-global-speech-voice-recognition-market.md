@@ -43,20 +43,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Educational Robot Market worth US$ 3,327.74 million by 2028 – Exclusive Research by The Insight Partners"
-    excerpt: "According to The Insight Partners' research, the Educational Robot Market Forecast to 2028 - COVID-19 Impact and"
-    publishedDateTime: 2022-08-11T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-worth-us-332774-million-by-2028-exclusive-research-by-the-insight-partners-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
     excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
     publishedDateTime: 2022-08-12T17:27:00Z

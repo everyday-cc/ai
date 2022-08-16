@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
+      "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
+      "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
+      "originalUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/atvi.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
+      "publishedDateTime": "2022-08-01T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
       "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
       "excerpt": "On Thursday, Google's sister company, DeepMind, announced it has successfully used artificial intelligence to predict the 3D structures of nearly every catalogued protein known to science.",
@@ -373,58 +425,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
-      "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
-      "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/atvi.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "publishedDateTime": "2022-08-01T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-02-should-self-driving-cars-come-with-black-box-recorders.md",
       "title": "Should self-driving cars come with black box recorders?",
       "excerpt": "As technology advances, an international team of experts suggests that autonomous vehicles and robots should come equipped with a black box.",
@@ -744,6 +744,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
+      "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
+      "excerpt": "BOSTON–(BUSINESS WIRE)–KAID Health, an AI-powered health care data analysis and provider engagement platform, announced the results of a study that validates the potential utility of its Natural Language Processing (NLP) technology to improve provider ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "originalUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/",
+      "publishedDateTime": "2022-08-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-how-to-use-ios-16s-expanded-sound-recognition-tool.md",
       "title": "How to use iOS 16's expanded sound recognition tool",
       "excerpt": "Sound recognition can also be incorporated into ... to find a customization option that most closely aligns with the object you want to record, whether an alarm or appliance.",
@@ -817,40 +860,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
-      "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
-      "excerpt": "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },

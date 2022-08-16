@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Automotive Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
-    excerpt: "This “Artificial Intelligence for Automotive market research report” offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Artificial Intelligence for Automotive group."
-    publishedDateTime: 2022-08-11T11:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-automotive-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
     excerpt: "According to IMARC Group latest report titled \" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
     publishedDateTime: 2022-08-12T06:25:00Z

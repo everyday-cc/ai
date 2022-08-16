@@ -103,15 +103,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla's 'manslaughtering' self-driving vehicles urged to be recalled"
-    excerpt: "The National Highway Traffic Safety Administration has been urged by Ralph Nader to recall Tesla's Full Self-Driving technology."
-    publishedDateTime: 2022-08-11T11:05:00Z
-    webUrl: "https://www.tweaktown.com/news/87884/teslas-manslaughtering-self-driving-vehicles-urged-to-be-recalled/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
     publishedDateTime: 2022-08-15T18:27:00Z

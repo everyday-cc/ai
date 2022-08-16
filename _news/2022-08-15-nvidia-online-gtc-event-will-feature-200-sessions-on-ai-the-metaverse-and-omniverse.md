@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "NVIDIA's Omniverse Engine Can Create Hyper-Realistic Digital Avatars"
-    excerpt: "According to the tech giant, the new engine can produce high-quality digital avatars with minimal computing power, and they’ll eventually even be able to pass the Turing test. The program uses a series of existing technologies from NVIDIA,"
-    publishedDateTime: 2022-08-11T12:21:00Z
-    webUrl: "https://hypebeast.com/2022/8/nvidia-omniverse-avatar-cloud-engine-artificial-intelligence-technology"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fnvidia-omniverse-avatar-cloud-engine-artificial-intelligence-technology-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
-
 secured: "jlwPgaaHlSe0mwFFxPjctASa7r8m6nK+SyoGbzhGO7s04TFW6lWXphcv1q/3Cw05DG9aXIn2F4vHxwl4yrWv5tKaX5t2QRcAzLBa0gKimChJ3B1BcHJiFnSmvrW2Lo4aUl+iYp9ECvfargy9tjE/AvHk1RhazjG0CIzBaGFQcH21b92vBPXUEDi7KqYXKgprhv6GWsPxDw05Rq90P2UJKYSqXfJ5QHg+avMLbqQ0x76FRx6wGn6cOAKlWhE6OqruGjKuCHmIM/KrX60VedOFiKZuKdurlqHD3OZrYtUr97hBwgwHiXwFFq2CUaTfyZuzHQL6fPOESlUBxt2NYDWYO7mTByfSCuhSo9Chony/5Mc0OpV2ZzOJ15DsLRmLxujZFAsXtka+S8bZfjg9RJ/WVK0LD/y7eE/afm+coMFZ8TgielRVnHFynAaejBynWgqYl2WbdeFPcGqWibvPFdYpipJLVDCQUCXuLEK9MkUqBYCmd0Ali+YHkky0TYC3jfD6MTTtvMk+2PQBJ8zFZbzfvw==;DwT/Qa4PdjZR+isLq8D9yQ=="
 ---
 

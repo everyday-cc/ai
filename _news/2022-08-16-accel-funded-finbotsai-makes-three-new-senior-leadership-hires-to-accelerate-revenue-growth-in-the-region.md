@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Accel-funded finbots.ai makes three new senior leadership hires to accelerate revenue growth in the region"
-excerpt: "PRNewswire/ -- finbots.ai, Accel-funded Business-to-Business-focused (B2B) Fintech offering an Artificial Intelligence (AI) credit modelling platform for banks and digital lenders, announced today the appointment of three new senior hires to lead its product management,"
-publishedDateTime: 2022-08-16T03:39:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270672&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270672&cat=PR News Wire"
+excerpt: "PRNewswire/ -- finbots.ai, Accel-funded Business-to-Business-focused (B2B) Fintech offering an Artificial Intelligence (AI) credit modelling platform for banks and digital"
+publishedDateTime: 2022-08-16T03:30:00Z
+originalUrl: "https://www.asiaone.com/business/accel-funded-finbotsai-makes-three-new-senior-leadership-hires-accelerate-revenue-growth"
+webUrl: "https://www.asiaone.com/business/accel-funded-finbotsai-makes-three-new-senior-leadership-hires-accelerate-revenue-growth"
 type: article
-quality: 1
-heat: 1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "F/9oNlcsdw4C9yySCzGgLIAV85ljSiBwwoF8EmD6qhG3iwfzKCU//Tjo6moWKFY8kxwt1BYTge6TDaoETjhV87hiiUAxbN8wENNCz157vD4fpLFObCoX5lofSAloM72UyvGgDheD4aQfXlRFuMD7+ce5C83p75o6P9Su6V+5Pipetl0zfoWM/1lkcBR3FKLiv8vkyG0/xcxJZq8OtuxyhCHKN0VDJyIXjMD53LC5LWH6gTdmF8RcRJyd6zKHYQCNuoi870WOdKDDD8jBwfOYshIaK2BY2oRfEc6lzCNADRc/5LXSiycCQELhCKPuQYRLJo4xKkaze2FmnJhI15bZxziV83Imb0tLhF5CB3HQbiQ=;OTrkiQsuXCvTuoq9K05/3w=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/pr-newswire_500_4_862.jpg?h=7de12b8a&itok=7pmod6vY"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "ZLjNsAAPNi0AFO+3hyEH7YsC1aBFWSfYfjRyBDrHoR3rY1E9RC+zyUjNh0QMkpgzS1TzzK1OC7BvCqgizjjtzmWNZktM+aham7vq+wShWWL/xB0rhdAcuAodb00GubpQ8WWZjRL4RqMCrzXDkGZQt/8B7Gw2FCT3NdpsiEuSQW/Ar9Nr54YbUgFZxJ5RsW2q6jtG+UuKvBorOc4WL4fLBFwTj4tt2OOBfogpQHuEUeTRU9UKOGkoBnGEm0dkcprSUdT7OxIpgfJJIuiQvw+QmE56tLQvv91E47BxC0Hx6PgAkgwcp8j+fXuZrlMVNxgcTMcAkGXUz4WdI6QzWlGCJHco08kAzpc6p+w/TjDK03s=;3cYNf2f4FnRuOW7Dvm+gaA=="
 ---
 

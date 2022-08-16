@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robot Market worth US$ 3,327.74 million by 2028 – Exclusive Research by The Insight Partners"
-    excerpt: "According to The Insight Partners' research, the Educational Robot Market Forecast to 2028 - COVID-19 Impact and"
-    publishedDateTime: 2022-08-11T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-worth-us-332774-million-by-2028-exclusive-research-by-the-insight-partners-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Global Speech & Voice Recognition Market..."
     excerpt: "Market Segmentation & Coverage: This research report categorizes the Speech & Voice Recognition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on ..."
     publishedDateTime: 2022-08-12T10:42:00Z

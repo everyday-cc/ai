@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm's report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
-publishedDateTime: 2022-08-12T20:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/12/9655439.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/12/9655439.htm"
+excerpt: "Vendors selected for the report are noteworthy, visionary, and innovative in their respective fields Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2"
+publishedDateTime: 2022-08-12T17:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+ampWebUrl: "https://www.benzinga.com/amp/content/28477798"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28477798"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "GhjlYh9WcC0lV+DKt4VdMrZPjnj9bs+UjnYG7ywcq4Xlzcga51Tj8Mu13L7NX0EZHuDVdDO4nVAWNQZ06G6SOowR/ekEpl9sIljJkZH73W5GpKoy2HLGpYhAnRKcUhOJVj0ZCLikQuAajWaCkdDFIWJ3klKj/ZL7dGApcQH5jMIoXaHqaj6lI2+xrA6lszd8zPJWE4m4DZkvGXu2/LHzt3CoOtL6FpNYqpPecG5nnnmJ8avFaUEfK3oOW4N9Fddq5fyfxEPQWaJiUyD33kd7+Apa4CRRpQ9z6eBDaIinzyMBpWrCdGLIRMYoeEEUdusNRh/5fMlLtoAVc64q6XBCmMTriuvYSzp9Bb61l9SOaFY=;dnfkpxf38KR+2SFIJx9RKQ=="
+images:
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "URpRPg22NoyzDHGDHkJ21b6z+KJzzgbPmIXzu+tgvmiuAgeipq8N2Au6NGLycOO/lR9n102qeRKbMoF2/c1jN2nxsAnLo98LEdSJjOQiJypL8CvSlqugebqs2saG5i7qtcz3v/GuDTR9tGyeiaa7JZno3PCVatsTmUZU9MpmfxmfiPCkuOQmXCEomYcz+C80JnH2e/MuFx48IIsbbuTZQW/OR4COUgfX6Va9vbxZ3c98ZEXXBy/EnMn+CnEA5LPFswyDAf22JeIrkL4BJxITAgJPXOaiWDKWmLeUz2PpzqRUN+vG53MceqoFImXg0uz/lxkD8ZgNZGvV1zO23u1TP41A889KcUKlV/7qtk+bzXc=;wAfc0Bzya6vcvyrdDc3pFQ=="
 ---
 

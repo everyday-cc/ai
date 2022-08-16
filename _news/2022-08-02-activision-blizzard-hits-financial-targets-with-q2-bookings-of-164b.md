@@ -2,15 +2,12 @@
 category: news
 title: "Activision Blizzard hits financial targets with Q2 bookings of $1.64B"
 excerpt: "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly."
-publishedDateTime: 2022-08-01T20:53:00Z
-originalUrl: "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/"
-webUrl: "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/"
-ampWebUrl: "https://venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/"
+publishedDateTime: 2022-08-02T03:08:00Z
+originalUrl: "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/"
+webUrl: "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/"
+ampWebUrl: "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: VentureBeat
@@ -30,6 +27,6 @@ images:
     height: 668
     isCached: true
 
-secured: "9onEzzQZQvLagF3Ljo06qyFd5jAPseQhlP8f5eWnvAhm0SW0DBFSDKJj7GrTqf3O8p0ylcQ0xu+3hZTFHjEBufvciowum95J4OKqcgyzkJ46LRDt1jFVsDvl+BimLTX0qciYt4Wk0QAYLinpmTRQIbV/UxkOPvJ/oDGYW789v6HbXPP+gIwKPhp0eXrIrsf5/uNQrcUqZW2ygjMkX1GrBX9Ichpzf/h8gUULwtaFWKVMBe0DGvAQFpIiDrLb29hKxJA2LEwqcBoFCXKV413fAZIdfVIlhn6b4JUWDpQoPRw0GK3GPVMG953embyorXtr015Pc/RCCqpM1BCuVYVK7rDYKz0lXUy6ZoOYky9wsVjUF7W87RImOQJ4AK8IxbxQyGjcHSbpe+otfC6Wiu3IVGArdK3N5ljY/BUteI/mOWW0V8cQQ2hofogh0Q8UG1VLf9O5yC9bIqCRisZSK4r/bHsVfKJNr/0U1p8iBy99MJtc1FsO+d9ndlfmuOzhmmeXxqAsA0srJgsYf5ekUZoQMQ==;CcCqru2I4SYzuSB6au9ZQg=="
+secured: "Q+DDPZ8/Tnew2pBZKTHFC8sG5FJ0SVvitn7iPuMMqBnnmo07K3l9aGNwHfqFSY+tsuMVkcSY4A85/fEDlALIPq0fAjopvAkVV7ugCHn0NxFurKTx4RZpjRo76tRSPzNYnZUuWs1y2cRDvGnSM1Xi3T8v76QzUeJV70TsVnKFr4RWwIem0x35QQ3c5LcaCGwmjsIydeVr6cRQ1dD6HvZTQhCULu+tscLOWGMHjLgwOG5YUkM09SVOwJeeuMzMTQ5Oe2IgB80wl1T9vn430NqfxynvDIrs3fCx/85OhP4x037+PXWXL4oI0oWJ2A2uTEp5nPXkH1N3PjAc0xSu5V7uZfLE6v8I+ZzG9MBoPAVs+I4=;IYjQfg7+iRk6xylw05fgXg=="
 ---
 
