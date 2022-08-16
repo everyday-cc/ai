@@ -34,6 +34,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Israeli autonomous robots for Japanese auto parts maker"
+    excerpt: "Musashi Seimitsu says the robots will help provide a more humane workplace where employees don’t need to do repetitive, tedious tasks."
+    publishedDateTime: 2022-08-16T06:15:00Z
+    webUrl: "https://www.israel21c.org/israeli-autonomous-robots-for-japanese-auto-parts-maker/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 39
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2022/08/634AI_AMR.jpg"
+        width: 1600
+        height: 901
+        isCached: true
 
 secured: "COxyooFWaxcqXR798QvoLjJDl+0Zu06G3OQNXVVSjXWMT82tShgmh8xrJx3axE1/W8+RfBFhSgZLNcO53mNeTfGdpQBxNI9ol8NpQNCD6Eh4lCiKLoy3vjyt+D6d6Dz/xXr3+YQfQaDhJhyiMR+Bhlo/t/2pchtZ/SZeBubUXA9Si2K2cDb8Jq9O/78mcFgwJ1bJiB+ygvCf5NX/nAZKoWFsfriC/CLmxThw3G0vrWLqBgJogjVmPjO0Q0seHWe8btb5utncsDa10k5RwUCasL4ZhQJQOOn/xqZ7ifZsxC0uq2IeuD6n3XfqROZKu9vb3nAnbrtyQPbC6CA0/J0AzJqwMDk/kMqxmguU5nTkJsiTcQrKNid4qBGDeTv4oeqXgyTGiJKMeCapcdu0vRXtdwsUHGVfgh/Vuwto5ojoPUFBCN9xwf61kOy8jNnbpFWNLP1e0z3betLNEWRKKt+5DvU2QfuwuBUPiaqkrZqUFl3onKfkyinxXjHCr9lMcPMaxp9/Hwlxz38xP02UijXZvg==;8N8xH648P0PQagV3qB0yUw=="
 ---

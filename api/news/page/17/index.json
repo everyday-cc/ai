@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-07-30-how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication.md",
+      "title": "How artificial intelligence is elevating Gen Z’s level of financial sophistication",
+      "excerpt": "Customer service, cost optimization, and the development of new, useful products are all being aided by AI-powered financial applications. Financial institutions of the future will rely heavily on artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
+      "originalUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bestgamingpro.com/wp-content/uploads/2022/07/How-AI-is-making-Gen-Z-the-most-financially-sophisticated-generation.png",
+          "width": 600,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bestgamingpro",
+        "domain": "bestgamingpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-see-scientists-transform-dead-spiders-into-creepy-reanimated-robots.md",
       "title": "See scientists transform dead spiders into creepy reanimated robots",
       "excerpt": "If you thought that science couldn’t go too far, you may change your mind soon. A group of researchers ... back to life using puffs of air to control its legs. The researchers shared a video ...",
@@ -1116,58 +1159,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-cognitive-search-tools-market-2022-supply-demand-industry-research-and-end-user-analysis-forecasts-2030.md",
-      "title": "Cognitive Search Tools Market 2022 Supply-Demand, Industry Research and End User Analysis Forecasts 2030",
-      "excerpt": "The global Cognitive Search Tools Market is expected to reach US$ Million by 2027, with a CAGR of $$% from 2020 to 2027, based on Report Ocean newly published report. The demand for Internet-of-Things (IoT) technology and services are growing globally,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-search-tools-market-2022-supply-demand-industry-research-and-end-user-analysis-forecasts-2030-2022-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-search-tools-market-2022-supply-demand-industry-research-and-end-user-analysis-forecasts-2030-2022-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care"
-excerpt: "BOSTON–(BUSINESS WIRE)–KAID Health, an AI-powered health care data analysis and provider engagement platform, announced the results of a study that validates the potential utility of its Natural Language Processing (NLP) technology to improve provider ..."
-publishedDateTime: 2022-08-01T15:30:00Z
-originalUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-webUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/"
-ampWebUrl: "https://www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care/amp/"
+excerpt: "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,"
+publishedDateTime: 2022-08-01T14:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care"
 type: article
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
-
-secured: "mM/WN2MdOYNd8PJUWbwWnOEj/WquaCfLzkhgYCgdVoJptmcYhg91ej63rfdx55lXe+EefDfB2anydvYmn/e7ph/QYNuR2UxhHH6TI4dR60ksUZ3pj7/PPIMC/KTxJfxsdMiOxlg2+whUUyFC+8kNOtAC1PYke7AvqVYhSGRgjszALlpsJ/njOfir/2FpHy9mO+9W8aHyx/t8VbKjlrOEp9hQSBvQdRw3WfI50eGJHbpyyMuPrGBGXSyncJWyBakWiN9Cf7b/6DUPvLlradjfof0/WSUfxZkAZ78bqV3raOf5lLj7fSbgVqYcv+kUSzBT7F5H8nf2Z44QjDwlCdnWHeOAS5NHvzO+rtNZNLE04wA=;Z/AAWh5Gl323hqBE5+/kUA=="
+secured: "R4X4r7DaRnO+rXy5j0PTv2Pm+DoSyYXSGA/WgjUxTq0rT5MihoSit1tvZ3Op4MPmHXjWNrZGVSt5En8jp4ZdhII2W28dsXYBEzsvQxUYN1l03IoR3D98IDp2aUq+lu4IxSXvTgezQXv0Yg42CQNN1WodLnqXniea/DfHtWJ4DBcsEvRETnniDEqjm7RE90CngMvjj4icRO/TTsbJCtLLz77DygGAM3yxBDzgeRAGXvM/2RMOOmPPd6bk+rdJI2k4tZX/V+BHmjw4QM4vuTzeM1xzKRkxgTSRP7LQpwGvqNRgfFtLUzWUxge5FijxELhHSsLsKHIshetutmxzKP0chPctvb1nJfe2fAkMjDFA080=;ja/VsF1W0AmVzOZ5ztEroA=="
 ---
 

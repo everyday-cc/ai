@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/08/11/google-featured-snippets-ai-upda
 webUrl: "https://techcrunch.com/2022/08/11/google-featured-snippets-ai-update/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Google Is Using AI to Cut Down on False Info in 'Featured Snippets' Results"
-    excerpt: "AI models are also helping Google understand when featured snippets are not useful, particularly in cases that have no real answer."
-    publishedDateTime: 2022-08-11T15:01:00Z
-    webUrl: "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00KTUfG9CZCvCOcV1v21Itf-1.fit_lim.size_1200x630.v1660223149.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Google rolls out new AI features to improve search results"
     excerpt: "Google LLC has updated its search engine with new artificial intelligence capabilities that will help improve the accuracy of search results. Pandu Nayak, a Google Fellow and the company’s vice president of search,"
     publishedDateTime: 2022-08-11T17:32:00Z

@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence improves outcomes of cognitive behavioral therapy in chronic pain: JAMA"
-    excerpt: "USA: Use of artificial intelligence for adjusting treatment in cognitive behavioral therapy intervention for chronic pain (AI-CBT-CP) can achieve noninferior and possibly better outcomes relative to standard cognitive behavioral therapy while increasing access and reducing therapist costs,"
-    publishedDateTime: 2022-08-11T14:30:00Z
-    webUrl: "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291"
-    ampWebUrl: "https://medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 77
-    images:
-      - url: "https://medicaldialogues.in/h-upload/2022/08/09/182903-untitled-design-2022-08-09t135154100.jpg"
-        width: 1500
-        height: 960
-        isCached: true
   - title: "AI could help patients with chronic pain avoid opioids"
     excerpt: "Cognitive behavioral therapy is an effective alternative to opioid painkillers for managing chronic pain. But getting patients to complete those programs is challenging, especially because psychotherapy often requires multiple sessions and mental health specialists are scarce."
     publishedDateTime: 2022-08-15T14:30:00Z

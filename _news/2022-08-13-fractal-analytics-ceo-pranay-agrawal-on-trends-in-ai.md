@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo
 webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: eWeek
@@ -26,6 +26,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "AI, analytics key to developing African hydrocarbons"
+    excerpt: "Africa has had massive oil and gas discoveries in recent years ­– including the Greater Tortue Ahmeyim offshore Senegal and Mauritania, the Luiperd and Brulpadda in South Africa and the Rovuma Basin discoveries offshore Mozambique,"
+    publishedDateTime: 2022-08-16T07:01:00Z
+    webUrl: "https://it-online.co.za/2022/08/16/ai-analytics-key-to-developing-african-hydrocarbons/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
 
 secured: "G16mzz0UtIE/f5fE/rcqkHoVSn1LGl7bYzj3St07/TR+5RH3Qp5wKc2gFOmzKCc3UxzNqiMwVDHWPpCfJzTtD4EPgCFUULAfJ/gsYtLdEFiGLG3Cb96yJqHZHlpTkQYLlDqg/luScGGV43Ml6gVJIou0g9e+oUYj1SHgnPy66385UeWA2O/oJhwNm33L1NoPFc8uSSgILBNJ1/2A1Ei1ZnBqFHqshCnqRcw/qGwpVRGfs2AfrK1DDHNyro2hoAorB9zWALLn9l1+dJQaVk97xck+RN/lJFVRSUrdRQEGLcN35UqOBXJYWT02JI30x3f0nYzOLmyZL64eKXCWHOtN/WcMv2fBBY58F5zG3zhcp+0P/J8yLN1hD32NTQhuEJq4yXWKI2psxDALdj+F0RzoCjGTf5J0wmSTNeIhfaWFMYOQbIqejD+wJiqGmXgJHcSaPmRlZHoKzmmAg+bwqVpEsFFxhSX1uGJQYcdn9wE+CmxTkJbXe7l+SX1P2+ZXvEQkoFkmJmGlCUq11AyOmdW0MA==;k7qtWPMBKQJr/H/VZBor0A=="
 ---

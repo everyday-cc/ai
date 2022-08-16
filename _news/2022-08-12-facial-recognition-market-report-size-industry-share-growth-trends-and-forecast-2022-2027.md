@@ -66,6 +66,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
+  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
+    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
+    publishedDateTime: 2022-08-16T06:03:00Z
+    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
+        width: 408
+        height: 250
+        isCached: true
 
 secured: "6lSlwk+2ctvdy+0QM3oo0pIuXEP0qiY3vdmHxbv2mjxg62282QJ2xRluVmNxfBVktc94RcsQIGbOkzxnY7UfwVBTHYWlI/agrAPoHWu+tPw+x5fymqeP1W1/h11kfta+LOJTFL47+ezSly9btoXfCRjO2nj9EgTSJRwhJ/GR0+wfbHxqKLo0Lb+CDspY9dBL3JF6NjnFl/ciEWxEu35Z6lDbE7aVzVkeV0E56tAXsc5ajHiz1Btbip245M9uhk7WwocYUm0j2YI/nzwN/3MLTXpuUehRyX5tt2Ni6xsf7mfp4/6chIPA4TKu4/S5dSwHIAxPFaZqA/mMQ/mEyLI6onaTSeLOVyvHhSKGwKXTBPo=;2b1Ky+CXa8YQ9V3Heznxxg=="
 ---

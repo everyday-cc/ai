@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Is Using AI to Cut Down on False Info in 'Featured Snippets' Results"
-    excerpt: "AI models are also helping Google understand when featured snippets are not useful, particularly in cases that have no real answer."
-    publishedDateTime: 2022-08-11T15:01:00Z
-    webUrl: "https://www.pcmag.com/news/google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00KTUfG9CZCvCOcV1v21Itf-1.fit_lim.size_1200x630.v1660223149.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Google says AI update will improve search result quality in ‘snippets’"
     excerpt: "If you’ve ever Googled something only to be met with a little info box highlighting the top answer, you’ve encountered one of Google’s “featured snippets. Featured snippets are the little bite-sized Google results the search engine packages up and delivers to the top of the page for many searches."
     publishedDateTime: 2022-08-11T19:09:00Z

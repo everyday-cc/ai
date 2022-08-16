@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Can people with spinal cord injuries walk and run? New study answers"
+    excerpt: "The traumatic account of a celebrity's spinal cord injury occasionally makes the news. Despite the dramatic advances in medicine and biology, the medical problem of nerve injury has remained a mystery."
+    publishedDateTime: 2022-08-16T06:48:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/health/can-people-with-spinal-cord-injuries-walk-and-run-new-study-answers-101660631867282.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/can-people-with-spinal-cord-injuries-walk-and-run-new-study-answers-101660631867282-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/can-people-with-spinal-cord-injuries-walk-and-run-new-study-answers-101660631867282-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/16/1600x900/pexels-cottonbro-8879123_1660632320870_1660632343444_1660632343444.jpg"
+        width: 1600
+        height: 873
+        isCached: true
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
     excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
     publishedDateTime: 2022-08-15T15:36:00Z

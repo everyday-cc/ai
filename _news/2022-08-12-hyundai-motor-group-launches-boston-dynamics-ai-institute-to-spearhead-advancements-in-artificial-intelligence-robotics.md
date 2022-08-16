@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-publishedDateTime: 2022-08-12T09:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+publishedDateTime: 2022-08-12T06:04:00Z
+originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The NewsMarket
+  domain: thenewsmarket.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
+    width: 1164
+    height: 657
     isCached: true
 
 related:
@@ -72,6 +72,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202208/8f13e438b9c24feeada18fa7f57f15bf.jpg"
         width: 640
         height: 460
+        isCached: true
+  - title: "Hyundai launches $400-million Boston Dynamics AI institute"
+    excerpt: "The Hyundai Motor Group bought a controlling share in Boston Dynamics for US$800 million back in 2020, impressed by the potential of its array of world-leading humanoid, quadrupedal and other robots."
+    publishedDateTime: 2022-08-16T07:38:00Z
+    webUrl: "https://newatlas.com/robotics/hyundai-boston-dynamics-artificial-intelligence/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Boston Dynamics launching $400 million AI and robotics research center in Kendall"
     excerpt: "Robotics maker Boston Dynamics and its owner, Hyundai Motor group, on Friday announced they were investing $400 million to create a Cambridge. The new center, called the Boston Dynamics AI Institute,"
@@ -198,6 +212,6 @@ related:
       domain: universalhub.com
     quality: 13
 
-secured: "43ShYAsfDd/DiMvipFtOHUhAkBxQXM/uu5B+DMdFNCV/x88dX3I1gkBvsorK74rvSKHc62Ja8E+wSMV0XwJrBnt6WfB3WmZ6XCB2yXq9OOv5Six4ii07wq+EI4xNObIzarkd11yHx1ZH0Ajc6vT8BNMPlMGvPMgMuxzd05CTKWhm6PzN+lfaOEXVqZAdRAacjEfXJHf8rRpUEAM3uQkoOAg9P+8/vSNWNVo4lvE1ppU0oDnEDhInxW4VC84M8jf61kLHyckg6ZU536CDozaMy1qsolHY6URUeMjPlo2gm/2gRAF5Slf9SKjL+Iw/S5CFNSW00HftIoP+7WYCM9WlRVkGHNHAKxnZ/d7Gyv8xQ7k=;r8z1NFc/Hn5c0y/XLyVx2A=="
+secured: "rNCTCfqKcp/iT6I07Fra7p7v2Ljg5JkQYbJ3iPJY8Jl/NwJMs7fc//mH/b7L2tcnpYRzO2BVUBkzxW0cE3cjmSnAnf9iyz6F6YZa/trFP1u6DMuVtsSb8+dbfRsdXNWxSmVjwKNOZbMq7Un+M5WHjGMyu4b1q9F+kELBnTmIWL8I1meXIvAf802JNM02aWAubvKA6H4srUXRorXTXtHHaY7u4GVvvq5WdlNLZW7YpktV9gnc+QCxPIxwvpJ9qSeLfzKqZNzYEToZpyb1VsQmchtdf8I/DTm8HCnCOLoYjZA6rSzK5QhGsXLuWXyq2Nq98akWes6zwgm9h6ZSNvHARiBpoTWj71cOYYzBDLsKiQU=;6w8ryWbhp1KdQCi/2M3plQ=="
 ---
 

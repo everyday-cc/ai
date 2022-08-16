@@ -52,6 +52,20 @@ related:
       name: This Day
       domain: thisdaylive.com
     quality: 39
+  - title: "Africa: Opinion - Besides AI, Regulation Key to Fight Mis/Disinformation"
+    excerpt: "Opinion - While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
+    publishedDateTime: 2022-08-16T07:30:00Z
+    webUrl: "https://allafrica.com/stories/202208160083.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 38
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
   - title: "OPINION: Besides AI, regulation key to fight mis/disinformation"
     excerpt: "While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
     publishedDateTime: 2022-08-15T06:54:00Z

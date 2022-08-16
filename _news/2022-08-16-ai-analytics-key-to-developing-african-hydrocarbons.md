@@ -1,0 +1,38 @@
+---
+category: news
+title: "AI, analytics key to developing African hydrocarbons"
+excerpt: "Africa has had massive oil and gas discoveries in recent years ­– including the Greater Tortue Ahmeyim offshore Senegal and Mauritania, the Luiperd and Brulpadda in South Africa and the Rovuma Basin discoveries offshore Mozambique,"
+publishedDateTime: 2022-08-16T07:01:00Z
+originalUrl: "https://it-online.co.za/2022/08/16/ai-analytics-key-to-developing-african-hydrocarbons/"
+webUrl: "https://it-online.co.za/2022/08/16/ai-analytics-key-to-developing-african-hydrocarbons/"
+type: article
+quality: 17
+heat: -1
+published: false
+
+provider:
+  name: IT-Online
+  domain: it-online.co.za
+
+topics:
+  - AI
+
+related:
+  - title: "Fractal Analytics CEO Pranay Agrawal on Trends in AI"
+    excerpt: "I spoke with Pranay Agrawal, CEO and Co-Founder at Fractal Analytics, about what’s driving the AI sector, and how companies can best strategize to maximize their AI deployment. It seems like many companies seek to get on board with AI,"
+    publishedDateTime: 2022-08-12T21:29:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/08/New-eSPEAKS-thumbnail.png"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "LfKfeF63ORvp9rhxXSlw5012XVJhYyl6NCaQf1xdHEWT2Smvx7Egxqa/frxNSZYAMijINi3QZpb9IrxgoWRU513TWW3P1l0TjNMJ0b4Bp3M7qMBpwuZDxnglwaAlOwj34aOwKsIOm7zmz81L+LYJ3KhdixYfdnNjL8i/+ZdVcmztRZSZci2X9/dvKfzjh4uwGS8CP9cZ8h6l+nx+jLIJf/kK08Syq7s9YEa+vOkP3ieiSpl2snxjTSYshoJXzeTIUqsiKarouz1tlDdmXd5NXIu31ZDlcUxwumGzt/pl5pB4lZKyNqLi0eXupCJ947/ji5xIwFuKlwEoH7kNwQFCcUqbKjIX5/6Zxj+zz9jQ5lg=;sDvAT21x2H1Ts/x9V9PcSA=="
+---
+

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/restocking-robots-deployed-in-300-j
 webUrl: "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli autonomous robots for Japanese auto parts maker"
+    excerpt: "Musashi Seimitsu says the robots will help provide a more humane workplace where employees don’t need to do repetitive, tedious tasks."
+    publishedDateTime: 2022-08-16T06:15:00Z
+    webUrl: "https://www.israel21c.org/israeli-autonomous-robots-for-japanese-auto-parts-maker/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 39
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2022/08/634AI_AMR.jpg"
+        width: 1600
+        height: 901
+        isCached: true
   - title: "Robot arms are replacing shelf stockers in Japan’s stores"
     excerpt: "A Japanese chain will soon be rolling out a fleet of AI-driven robots to restock shelves in 300 convenience stores."
     publishedDateTime: 2022-08-15T13:00:00Z

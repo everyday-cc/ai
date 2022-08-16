@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "The power of now: How AI is propelling customer experience transformation"
-    excerpt: "Conversational AI is becoming the key to positive customer experiences, automated self-service and real-time agent support."
-    publishedDateTime: 2022-08-11T13:20:00Z
-    webUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/"
-    ampWebUrl: "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/"
+  - title: "Revolutionary AI model for cancer diagnosis"
+    excerpt: "Researchers discover a revolutionary AI model for cancer diagnosis that is expected to revolutionise detection"
+    publishedDateTime: 2022-08-15T09:44:00Z
+    webUrl: "https://www.openaccessgovernment.org/revolutionary-ai-model-for-cancer-diagnosis/141518/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1338918342.jpg?w=1200&strip=all"
-        width: 1200
-        height: 636
-        isCached: true
-  - title: "AI Power Consumption Exploding"
-    excerpt: "Today, that means bigger models and larger training sets, which require exponential increases in processing capability and the consumption of vast amounts of power in data centers for both training and inference."
-    publishedDateTime: 2022-08-15T07:04:00Z
-    webUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
     quality: 37
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_178859620-scaled.jpg"
+        width: 2000
+        height: 1329
+        isCached: true
+  - title: "AI Model That Reduces Cost And Time And Increasing Accuracy Of Cancer Diagnosis"
+    excerpt: "A research team led by Professor Park Sang-Hyun of the Department of Robotics and Mechatronics Engineering (also in charge of the Artificial Intelligence major) at DGIST (President Kuk Yang) developed a weakly supervised deep learning model that can accurately show the presence and location of cancer in pathological images based only on data where the cancer is present."
+    publishedDateTime: 2022-08-12T14:19:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/AI-Model-That-Reduces-Cost-And-Time-And-Increasing-Accuracy-Of-Cancer-Diagnosis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 33
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "SOhhxAzT0kGLCFrzSEWyodJ9TMK9OISraZSNanhMipiQueekcX3FtgsbjAHn9ROuFU+xf7Hr/Y6zGb3CRTn5flBpWr/j96a4p/5DI6GGzvKLVJMO31mqt6igVDwzQZBEhUsSYkxsLfx+UKaKpFizR+CseQp29kDZrFBm5W7Wu4ZS+I96E7LwSBuIyTQ+WgyMaaSgRzPYnVfECPYzOG4kx0SOfZU0D9Iz+WgBPEn+g6u0HsynUyEZ384dN+2UUUFJRWeAys7Q22VKyCRhuEKPaEqTIuflG/r49Sg7mpEgE1hqsF+2zYV7S/SAr6NcxsdiuDja94vVxH9N3ssBmazgWrnAzFmsFJSADMMaakTbxuw=;YAYnuUyb/Fy9nsBFHUZekg=="

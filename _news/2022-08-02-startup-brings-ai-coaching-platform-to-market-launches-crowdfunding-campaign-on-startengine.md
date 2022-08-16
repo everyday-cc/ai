@@ -1,27 +1,19 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching"
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28314784/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/g28314784/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-ampWebUrl: "https://www.benzinga.com/amp/content/28314784"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28314784"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-images:
-  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "EtzsZISMDJqBtDaToklKifyfCMDGGfqYF6OVOkOecS2388/3f15uD/nJU9dAMy3harR0FqHKDz7SbjSR7OAyI3cstqng+Wlwuc7OJZNYl9T86qvSQ8vpiomYU7Q4vRIKOJewxluj0XE1RK5ikfhbwfw5scyWkgfvIuOpd+pr+9WEn31NOPXfPPf5cvsQx7S3zh5Ad2Z5sWMrM4aWB2hqaUL+MbEpHUeSCSZUqFrJG0EKAwUKINQJVIZcqnRnMVT0y9NDkNlShh9EsEvAgNajLKL+/A8ac3Sd8BknXNn5bYzgrP5PlZ5AKIEUl6fKchGQtPsR2+YGZBkTa3TXxxwtJSVRQAl6nUKRdBBJkbIclRQ=;OiJcVWtYvSqUN/8sVrYY5A=="
+secured: "FmeF8YC6GbULQ3QJUBYc0byrFhcgdPuMJI5O76Fq6yTbXISxOWtECdyMdszWpFhcqNWjPqHEk3MmGpSOtkxpPAIEP6WkpRmI06P8JSlBkiEexHFrsA33xJMf0qTm3G0wREvxi3KcCS8QN31Yqx/0M3BpK8x1T1Mx4g8gGPQghdzF6Py2p+4lUUdVCiTUYo9NmpCcfus37XMbNu4n/43jnkQtAFmKECl0U0+1DLWx5OYQd29cPAivBQk8DiB7pSk2AHpbYQ4yDk+/ogC0EHgneoTwyqNb4S4US8yDnYemYdp1Oca61QCHJ8uH0xz2rpBtKS42InAYwNP5HU7/KCjOXAhjabB+2QBLf6L4wjcWQgM=;nIHnae0eafgsU6Abi03A8g=="
 ---
 

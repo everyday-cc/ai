@@ -1,26 +1,25 @@
 ---
 category: news
 title: "macami.ai, a Robotic Process Automation and AI Consultancy, Launches in Austin"
-excerpt: "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based"
+excerpt: "Today, co-founders and tech industry veterans Carlos Martin and Venky Cheluvaraj announce the launch of macami.ai, a Cedar Park-based robotic process automation and AI consultancy that demystifies the use of artificial intelligence,"
 publishedDateTime: 2022-08-02T18:22:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_858efaf1-a9ed-516a-a492-48f110dd180d.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
+webUrl: "https://apnews.com/press-release/business-wire/technology-austin-texas-robotics-artificial-intelligence-4642a9cee8464f039622f4d2dc64d7bf"
 type: article
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/f/74/f747aa02-351b-58bb-b5e8-42929475162d/62e974e8b94a5.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "owWh4sQdICmCpbnHQY+5Jaa29Dn+o30YwwcKoHYKlf/W5n0IkZ7Pflm7I1D/9bXQP8IJXQSBvHZbQWHBzEp4HUjwg3eJ1H0J0uYclCd+iR5UUvFTEcy8mDlXaJ7k6AOKwOZJg5la9mAQC5QkYEaYbMzld0q0nbgf0TeOgf6rouDpRtLDI1VhbdU5T5uUgWtB8SDAahqqEHp1V7jhWoUf7P9kw3o4262apKC1gHo+yvl/hNzCaPhRD0QPQjgi2KNHowviedJWmeBSVrpf/qh4Aij0DaimRwmgl1qR1ttGXFzC0so4IXYGtahJYL76HSyvzUcf1a0QknqnXK9+j0VCZ23t7eV0JM5r6V6MqLYDcyE=;ZwqB6TbPr3b5AIaaPKGFOw=="
+secured: "IfRmOhDghn7aYit1PbiWb0R1sUMe5z30E1y3qyEnE3eniDs+nkfvZchTJUXGRn3bvKYTsAO4LZqRmpfeKZxVteMNeW9anSuDJB48GsVM5It1TYHw3h5KePMQDo7+2z93guOrql20QKOiTG0EihEpk928fDTjvJ6vI1GK6hCSpe/fz54HYZfA9b/IP2ll5sunz+HJch86eNbq09yJFrlWSjrMXqMjk4S9CibkPk6EwF7EyQxPMPua1GdsM6y9VTLJT4fFqPr52PQg2JiNrf3Jb74Ck7dwT8/KXTWVBiiBo/Q3iSwzbyUIR+AkxEGm7qZQR+Vb5yiIbf4FVESDL/BCt9YJtMhs2S+OevVTAI4aJA8=;Tz56evFUl0/sge8LHdcltQ=="
 ---
 
