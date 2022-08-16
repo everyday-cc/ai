@@ -20,35 +20,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U."
-    publishedDateTime: 2022-08-11T18:34:00Z
-    webUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp"
+  - title: "Why AI Is the New Frontier in China-US Competition"
+    excerpt: "With China well-placed to take advantage of these potentially lucrative innovations, Washington must leverage AI in its infrastructural plans for the future."
+    publishedDateTime: 2022-08-15T15:39:00Z
+    webUrl: "https://thediplomat.com/2022/08/why-ai-is-the-new-frontier-in-china-us-competition/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg"
-        width: 1920
-        height: 1278
-        isCached: true
-  - title: "Artificial intelligence could lower nuclear energy costs"
-    excerpt: "Scientists at the Argonne National Laboratory in Lemont are devising systems that could make nuclear energy more competitive using artificial intelligence."
-    publishedDateTime: 2022-08-11T19:02:00Z
-    webUrl: "https://www.dailyherald.com/business/20220811/artificial-intelligence-could-lower-nuclear-energy-costs"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: The Diplomat
+      domain: thediplomat.com
     quality: 37
     images:
-      - url: "https://www.dailyherald.com/gfx/site/logos/dh-logo-1024.png"
-        width: 1024
-        height: 1024
+      - url: "https://thediplomat.com/wp-content/uploads/2021/08/sizes/td-story-s-2/thediplomat_2021-09-01.jpg"
+        width: 600
+        height: 420
         isCached: true
 
 secured: "skMV39TEm0shBR6taaPoLl9FSQFfa1ltYUOmZrvzcWTKdJD7jPZI7bsSAykntYCi/ViM1BDMuyNWa+oIHVSzIormJhxy77+N5s6EGjwnxEIhmyvmPprwyYlVYXmnKnPVOrLYA3CqtV9kpC1+i3wEi5gCLyVmguuEGyMoH8EwIlpq0yZbbXwKHUECIQVbokoH3smrGyacE0KiDm2kVws48tltIR+wnT8tDmCTvGAiY6E2tA9lendi4FEZtZ2I1X4gcYjGvFiiwf9WQlNZLxZuAyTtWXd4zMkSlbjq8h1noK1l7HBVb4PciacAR0YrCrxGE1RfyOM4x8S/VBMRkfdvXbb+uJ95d8OGKVKujEVzrL1oA/EZ9UwXY5eu/hSlQXQwkex4Z9abjuT+QYoHZH8+jtG+pbBXheyEOOPW9E7hRwfTtzIWuubR8grXAw6/E7tBBqbsd9m3eOc1hbhvfrZAq4IM4OuodTaTuq8dWjeRBKUJzijR90AbZc4JzN2I9Z0KES1NCpVcAV6sfA7fXd1XLQ==;ZVXQjMqVoJ71hLt+kR1J/g=="

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months.md",
+      "title": "DigiYatra face recognition system to be used at Hyderabad airport for 3 months",
+      "excerpt": "From August 18, passengers at the GMR Hyderabad International Airport will be automatically processed based on the facial recognition system at select checkpoints",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/news/cities/Kochi/77w45k/article25218374.ece/alternates/LANDSCAPE_615/13KI-AIRPORT",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece/amp/",
+      "publishedDateTime": "2022-08-16T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
       "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
       "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
@@ -1324,58 +1367,6 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-computer-vision-in-automation-market-2022-growth-company-profiles-developing-technologies-investment-opportunities-till-2030.md",
-      "title": "Computer Vision in Automation Market 2022 | Growth, Company Profiles, Developing Technologies, Investment Opportunities till 2030",
-      "excerpt": "The global Computer Vision in Automation market size will reach USD million in 2030, growing at a CAGR of % during the analysis period. As the global economy recovers in 2021 and the supply of the industrial chain improves,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-automation-market-2022-growth-company-profiles-developing-technologies-investment-opportunities-till-2030-2022-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-automation-market-2022-growth-company-profiles-developing-technologies-investment-opportunities-till-2030-2022-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T22:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

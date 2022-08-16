@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-techn
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Xiaomi Pilot Technology for autonomous driving unveiled"
+    excerpt: "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021."
+    publishedDateTime: 2022-08-14T14:05:00Z
+    webUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/"
+    ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 74
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg"
+        width: 1652
+        height: 920
+        isCached: true
   - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
     excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"
     publishedDateTime: 2022-08-12T16:47:00Z

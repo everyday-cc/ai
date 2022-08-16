@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) as a Service Market Trends, High CAGR, Industry Size, New Innovations, Future Scope and Forecast 2028"
-    excerpt: "Data Bridge Market Research analyses that the artificial intelligence (AI) as a service market will exhibit a CAGR of 36.72% for the forecast period of 2021-2028 and is expected to reach the market value of USD 71,"
-    publishedDateTime: 2022-08-11T18:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-as-a-service-market-trends-high-cagr-industry-size-new-innovations-future-scope-and-forecast-2028-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
     excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
     publishedDateTime: 2022-08-15T14:16:00Z

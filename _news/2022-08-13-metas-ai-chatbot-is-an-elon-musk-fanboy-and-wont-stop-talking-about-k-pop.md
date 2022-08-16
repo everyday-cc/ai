@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
 webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI chatbots offer a way to connect with and engage customers"
-    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
-    publishedDateTime: 2022-08-11T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "Sa84tggO2CHXStBEWpiO6YDseLfs2EgGlUKD9dVDRt1zR+V3cyHW7BxiQtUKEUQoTMpz2hlJ8j/DMLTDVDF92wJqURL2U1L0qL4o8aZOtkelGQNWHlyXm2f8KshgWGOP3hqUbPC83tovYidQ6EgrJWQ/D9SI8QfbV++DdwutQMGkzkhpeEBMZkKC00ulpg0E3x13VR9B/ErRXmUGCAK/uIh3Qkc2m/gKrKyuEHMoqNL+oOis6gxnkWXCT8UibyuMzKFXqoKzELlu68uRLJYasutRIYmRuOVGxXMvHB0H3hS8sWAAS0jNFKHkG5FF2wQ1lU5TFpinTkCDguxpH7hqF+vTwOS3F4VNRcz0+NXxwPyM4bTVJCnacnn9srVjqP9NtbqgenxBbupA1vJWlu93WqNCr3M8vrHiRQ4vTXdeQ88jEGT+z+v9JKBfctuhgPcsBkI6MPI3xecrIytylCFYx5w1QvIT9O08y3qpxLlfEN8E1y8RhB6RYAefwE725ejEAZud9HFGYaUbrO7bwyltUA==;Tj86zhhoH9B6U1bep0IGbA=="
 ---

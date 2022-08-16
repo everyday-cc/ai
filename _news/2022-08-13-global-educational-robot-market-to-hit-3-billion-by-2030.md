@@ -57,6 +57,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
 
 secured: "MVKch9cjz3w74LMkoLjzqgm5hWElAemhw+piZ3mdC0H9FrKTp3MUDAgxQxQ2yde/FG9PcJK+DGYgHTPK4Ij0TyU08X0/p0JcBCNZrzDgC9RHD4GI5rlU86Hz/JZnP7CUUd0burGD/3D6iDyOLRjqZGTHo2QWgrJFdSvpc2+kRTZyI8Vw5PZ0mvb8NharSIur+ulwNp2unoNvLZGGVm3xGJg6Q0iBgHAyC/gnxZj1eHEpn97DJPlrxMhdEW2+MuGR1lshs/SJE1oe+BQZd9fYnoukA98yzzjEtN0CLm0EQMHQ7P0jCNTYi9LOOFSHGiXiNGoulgnigo+CChSCcauGdxWYtze6yG1CiqNyr+T9PSs=;muxkgFhQPQKzRb4ryDPJhw=="
 ---

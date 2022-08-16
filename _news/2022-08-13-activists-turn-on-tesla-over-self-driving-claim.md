@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
-    excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
-    publishedDateTime: 2022-08-11T17:27:00Z
-    webUrl: "https://www.barrons.com/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-602198/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
     excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
     publishedDateTime: 2022-08-11T21:00:00Z

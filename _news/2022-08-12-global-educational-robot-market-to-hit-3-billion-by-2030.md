@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 531
         height: 250
         isCached: true
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
 
 secured: "uACtoc/bvM7dHHh9BoHnQbxq1AKX5niPlD3sZSzEcEMLphfgxloPcaSAEDezEjB6oYiEqq1Mgk7plJqaHULN9SPnliqjFcdvThgOIjqwyBAucfOpo0J+wPfJBXVMrcjvYusflsZ00JLc7nIGOIq7lNxanyFqjZCdEjDlRVRyCqOaVZNhc0PRpnDhVz0NCZzsuLoQ4BiAhwwytRXa3piTP2sW4CroV4p11h0X4vAiZLxoe01vz283Lnvr2j5mO+QX4EKD0Z/AwmSTpCGkbPrItz6O/9wzJSJwAqRM+IojQvAbTA6UkJHXKXorQuhOOgWcRBMf28KeYw60+PX5ONaNDhk9Pem/aqdbRiUqOOYn0ew=;N1v10/x/Tod7A8Nv9zE9XA=="
 ---

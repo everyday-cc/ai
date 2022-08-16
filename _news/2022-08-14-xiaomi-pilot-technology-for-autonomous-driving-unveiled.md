@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-au
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Gizmochina
@@ -31,65 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi unveiled its first full-size humanoid robot, CyberOne"
-    excerpt: "Xiaomi announced a bunch of new products at today’s event and to be honest they were all pretty cool. However, what impressed us the most is Xiaomi’s first full-size humanoid robot called CyberOne."
-    publishedDateTime: 2022-08-11T17:37:00Z
-    webUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/"
-    ampWebUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
+  - title: "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle"
+    excerpt: "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations."
+    publishedDateTime: 2022-08-13T03:21:00Z
+    webUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/Xiaomi-Cyberone-robot-1.jpg"
-        width: 1500
-        height: 1194
-        isCached: true
-  - title: "Xiaomi CyberOne Robot Revealed To Give Tesla Bot A Humanoid Rival"
-    excerpt: "Xiaomi claims that the CyberOne humanoid robot uses a combination of complex mechatronics and Artificial Intelligence developed by Xiaomi's dedicated robotics division — the Xiaomi Robot Labs."
-    publishedDateTime: 2022-08-12T04:48:00Z
-    webUrl: "https://www.slashgear.com/961166/xiaomi-cyberone-robot-revealed-to-give-tesla-bot-a-humanoid-rival/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 86
-    images:
-      - url: "https://www.slashgear.com/img/gallery/xiaomi-cyberone-robot-revealed-to-give-tesla-bot-a-humanoid-rival/l-intro-1660231543.jpg"
+      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png"
         width: 1600
         height: 900
         isCached: true
-  - title: "Xiaomi CyberOne Humanoid Robot"
-    excerpt: "We’ve seen extraordinary progress in the industrial robotics space in the past few years, with robots using artificial intelligence (AI) to learn goal-based skills instead of mimicking pre-recorded motions. These robots can workaround unforeseen problems ..."
-    publishedDateTime: 2022-08-13T17:12:00Z
-    webUrl: "https://www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/"
-    ampWebUrl: "https://www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp/"
+  - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
+    excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"
+    publishedDateTime: 2022-08-12T16:47:00Z
+    webUrl: "https://www.techworm.net/2022/08/xiaomi-testing-self-driving-vehicles-china.html"
     type: article
     provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 59
+      name: techworm.net
+      domain: techworm.net
+    quality: 24
     images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2022/08/xiaomi-cyberone-robot.jpg"
-        width: 862
-        height: 647
+      - url: "https://www.techworm.net/wp-content/uploads/2022/08/xiaomi-self-driving.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Xiaomi shows off humanoid robot prototype CyberOne; CCF's Climate Startup Week next month"
-    excerpt: "Xiaomi showcased its humanoid robot prototype, called CyberOne, at an event yesterday, ahead of Tesla's AI day. CyberOne is 5.8 feet tall, weighs 52kg, and is nicknamed \"Metal Bro.\" It has also been given a zodiac sign,"
-    publishedDateTime: 2022-08-12T04:46:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/xiaomi-shows-off-humanoid-robot-prototype-cyberone-ccfs-climate-startup-week-next-month/78923"
+  - title: "Xiaomi says it has 140 vehicles across China testing autonomous driving"
+    excerpt: "SHANGHAI: Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies."
+    publishedDateTime: 2022-08-12T01:29:00Z
+    webUrl: "https://www.carsifu.my/news/xiaomi-says-it-has-140-vehicles-across-china-testing-autonomous-driving"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 30
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
     images:
-      - url: "https://www.forbesindia.com/media/audio/2022/Aug/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Clipboard012.jpg"
         width: 800
-        height: 600
+        height: 393
         isCached: true
 
 secured: "cxbmpoZusKparO4qT3IfXTVGDZHf3hpbTp5OXvZp51L4bwRqU5IX41TPNOqAuU0uJ5kfWAUYJUHp9XCYIMd8/Il/tgPqcK4mjwyo7KwYzgCW2XxLzPT43so51oGLwI1+2YXqvvr+mkSzow6Yu4SB1vUkdoMfCtvHKRf5x8iziT7EHn/zE72hslh8oMVEk8e8Gj/wD5sIZ+N1xlSV8tuc+IS2j3+WBlH/kYuv7MLAXrnJUSwNP1b1k6g6/LdLPXylIjYXxgB/g+HHpHSFl94KH5XEevOtUSc7oJCAZzltntNZ6wsXAV0MM+c1DiKNXVG7yrW2CDcqo3IA6ZA9KJCByBbfg0rLOhPTk15LdBiQ1ospwm7yFMEH33IIPH922k03Fb1tY0BxxI/L8lJaKwTdynwKcn5/GCvLcW92s2JZY0oGdvQQco0JDhCiJYQRH58PNK4NAriA4x7FklN3z7uLdv8pRXqQbeTcl0vDEqWyWiaXtBglc6dW0299IO7mRc1Z+sOw4iIhd975xQWMZtMRMA==;ShVMQN6wmorfQ9P+aUZatw=="

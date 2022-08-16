@@ -26,24 +26,6 @@ images:
     height: 654
     isCached: true
 
-related:
-  - title: "Tech SA: Southwest Research Institute developing self-driving shuttle for research, campus tours"
-    excerpt: "A team of engineers at the Southwest Research Institute hope their latest invention can help solve some of San Antonio’s infrastructure and mobility challenges."
-    publishedDateTime: 2022-08-11T17:08:00Z
-    webUrl: "https://www.ksat.com/news/local/2022/08/11/tech-sa-southwest-research-institute-developing-self-driving-shuttle-for-research-campus-tours/"
-    ampWebUrl: "https://www.ksat.com/news/local/2022/08/11/tech-sa-southwest-research-institute-developing-self-driving-shuttle-for-research-campus-tours/?outputType=amp"
-    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2022/08/11/tech-sa-southwest-research-institute-developing-self-driving-shuttle-for-research-campus-tours/?outputType=amp"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 31
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OPEKXIEOVBEP3HIDH6NGOYFQGU.png?_a=ATAK9d60"
-        width: 700
-        height: 395
-        isCached: true
-
 secured: "VOsSAwWzVkoa0XZ+mKNhg36QX7c3OwJHybyu7ZBLORNChho3Dvc7eDW65sxk5MxA8Gz31r/d9mzKKXd5q40linHcgNCAr/lh31dV9Dzc4pME/rPDsBDZwCul4qEKlERSbqtfYHa49dzjbfn50mIOH1nkiXq2fKpZH8Vz+ysP4BA5IAyYhHPiVleaonbACPhD3hJu5iBdquqAgfUAav5APcx2k3aPzlF7WqhFUOJNJESz3KJ70DErEG4JCs/Qy+OJICHdwQR/WEp1aQ3RuBoODpGFWVvTMEimfFrSkuECrZZRFxPwPyeWQD8KQ6D+o8ohVRZR+zSyvHaKBIq1Gz7BZkULnq9X4Kh1ANQXMhrROCbD2ML9dApwII2kop1es48cTUaPlemwq6ZR8CH7ClPVWcYgPq48ZC7FUZh8Ob9ryWbTW9xz/e6Qkki5R8TVy6icriuL+tz03m/S6epylMqLiA+P3n3boSuVZYgpVbx+vlLvgzyLLn931N8AwGJ0f0Mn2lxx7xi1wg4nlhvOnylgLQ==;scPnxQYm4u2LOZoYnnWweQ=="
 ---
 

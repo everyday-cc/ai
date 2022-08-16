@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition might work better with a dedicated capture device, like all other biometrics"
-    excerpt: "Facial recognition would probably work better with images taken from a dedicated device, rather than one designed to capture good pictures of unrelated objects like landscapes, Arun Vemury said during a recent episode of the ‘Technologically Speaking ..."
-    publishedDateTime: 2022-08-11T17:31:00Z
-    webUrl: "https://www.biometricupdate.com/202208/facial-recognition-might-work-better-with-a-dedicated-capture-device-like-all-other-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
-        width: 2048
-        height: 1812
-        isCached: true
   - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
     excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
     publishedDateTime: 2022-08-11T20:44:00Z

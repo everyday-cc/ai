@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-15T17:29:00Z
 originalUrl: "https://www.edweek.org/technology/artificial-intelligence-is-all-around-us-so-this-district-designed-its-own-ai-curriculum/2022/08"
 webUrl: "https://www.edweek.org/technology/artificial-intelligence-is-all-around-us-so-this-district-designed-its-own-ai-curriculum/2022/08"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://epe.brightspotcdn.com/dims4/default/20462e7/2147483647/strip/true/crop/7364x4864+0+0/resize/954x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2F26%2F8b%2F29cd25c5429a9f93476ec1d7b040%2Fartificial-intelligence-1212326103.jpg"

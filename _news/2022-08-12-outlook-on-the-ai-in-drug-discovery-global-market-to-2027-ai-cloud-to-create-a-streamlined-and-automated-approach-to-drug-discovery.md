@@ -23,6 +23,17 @@ images:
     height: 249
     isCached: true
 
+related:
+  - title: "Artificial Intelligence In Drug Discovery Global Market to Grow from $1.04 Billion to $2.99 Billion by 2026"
+    excerpt: "The global artificial intelligence (AI) in drug discovery market is expected to grow from $791.83 million in 2021 to $1042.30 million in 2022 at a compound annual growth rate (CAGR) of 31.6%. The market is expected to reach $2994."
+    publishedDateTime: 2022-08-16T11:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-drug-discovery-global-market-grow-from-/2022/08/16/9656310.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "iaj0cFSPiTsV5EZRG9yPnRT8RbmS6GQJFvJr2ZL26+JkHkqRhdCSaiLtKt6vkoUUE/30qWjo2zWFhQxlk7YvCftk9aJ9K/KmwLBlov0NOjrqWiGX3V50qm9wt4s+2Rs9J5lxTIDTnurNerTFCNFYEjqzbz4k3JHo6n1cgQs3Au/NueN2svcaZkf2xUNxVneDTAw+HBQeRCfw50/FtFTvIfOAgCLhOd3sGZ0rcxpGnYDZQuWnAYN9gLQCW9sUF+/oWGdBP1E7WLu8mLhGICvSaaaCjCazm60M6Mwcecu5Vj1s2Zjx8L6Hvyy9muijTjxLauuSrRfv4+8nfDXa25S/J3b+oVzTOnvXllj3USHTU7w=;BDleSz0VGC9LUlLaUJxjHg=="
 ---
 

@@ -2,6 +2,257 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-08-ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases.md",
+      "title": "IBM Research Rolls Out A Comprehensive AI And ML Edge Research Strategy Anchored By Enterprise Partnerships And Use Cases",
+      "excerpt": "Goodson, recently met with Dr. Nick Fuller, Vice President, Distributed Cloud, at IBM Research for a discussion about IBM’s long-range plans and strategy for artificial intelligence and machine learning at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f12d261c21e21259d408c4/0x0.jpg?format=jpg&width=1200",
+          "width": 548,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/08/08/ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases/amp/",
+      "publishedDateTime": "2022-08-08T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-meta-develops-conversational-ai-chatbot-concern-for-data-sharing.md",
+      "title": "Meta develops conversational AI chatbot: Concern for data-sharing?",
+      "excerpt": "Meta’s AI research labs have developed A conversational bot and want the public to interact with it for feedback about the chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing-11659971501983.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/08/08/600x338/robot_1651690580942_1659973452554_1659973452554.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/meta-develops-conversational-ai-chatbot-concern-for-datasharing/amp-11659971501983.html",
+      "publishedDateTime": "2022-08-08T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-microsoft-stock-azure-growth-proves-resilient.md",
+      "title": "Microsoft Stock: Azure Growth Proves Resilient",
+      "excerpt": "Azure’s growth was a major highlight considering Google Cloud’s revenue in the recent quarter increased 36% YoY to $6.3 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ec7f705c6f50a743373b0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2022/08/08/microsoft-stock-azure-growth-proves-resilient/amp/",
+      "publishedDateTime": "2022-08-08T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-natural-language-processing-nlp-market-worth-494-billion-by-2027-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "CHICAGO, /PRNewswire/ --Natural Language Processing (NLP) Marketsize to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-08-11203110",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
+      "title": "Google Sues Sonos Over Voice Control Technology",
+      "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
+      "originalUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/1ab8c1ec92e7e5a7577256e1cb142c4ea645c6e2/2022/04/15/32b089bd-0635-49e7-813b-e3d2410c60c1/google-logo-2022-443.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
+      "publishedDateTime": "2022-08-08T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
       "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
       "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
@@ -511,37 +762,28 @@
     },
     {
       "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
-      "title": "Baidu bags China's first fully driverless robotaxi licenses",
+      "title": "Baidu Bags China's First Fully Driverless Robotaxi Licenses",
       "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:28:00-07:00",
+      "publishedDateTime": "2022-08-07T19:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -931,238 +1173,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-sunak-promises-artificial-intelligence-in-schools-to-cut-teachers-workloads.md",
-      "title": "Sunak promises artificial intelligence in schools to cut teachers’ workloads",
-      "excerpt": "Rishi Sunak has said that as prime minister he would encourage the use of artificial intelligence (AI) technology in the classroom to reduce the workload on teachers. The promise to champion new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/08/06/11/211ebc721a5af92d8aef148a9a7eebc8Y29udGVudHNlYXJjaGFwaSwxNjU5ODU4ODMz-2.68185792.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-why-i-downclock-my-powerful-gpu-and-you-should-too.md",
-      "title": "Why I downclock my powerful GPU, and you should too",
-      "excerpt": "Let me explain. I appreciate that off the back of a GPU pricing crisis, which saw almost everyone unable to find a card like this (let alone afford it), that sounds super wrong. I’m lucky that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/amd-rx-6950-xt-review-8.jpg?p=1",
-          "width": 1500,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/why-i-downclock-my-powerful-gpu/?amp",
-      "publishedDateTime": "2022-08-07T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitaltrends.com",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-for-vigil-over-lac-india-develops-ai-driven-drone-read-here.md",
-      "title": "For vigil over LAC, India develops AI-driven drone. Read here",
-      "excerpt": "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
-      "originalUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
-      "publishedDateTime": "2022-08-07T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
-      "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
-      "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "publishedDateTime": "2022-08-07T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-you-need-to-stop-doing-this-on-your-ai-projects.md",
-      "title": "You Need To Stop Doing This On Your AI Projects",
-      "excerpt": "One of the biggest reasons for AI project failure is that companies don’t justify the use of AI from an return on investment (ROI) perspective. Simply put, they’re not worth the time and expense given the cost,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ef228fda71be391f4eacad/0x0.jpg?format=jpg&crop=2372,1335,x0,y39,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/07/you-need-to-stop-doing-this-on-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

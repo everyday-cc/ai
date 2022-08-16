@@ -3,37 +3,28 @@
   "value": [
     {
       "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
-      "title": "Baidu bags China's first fully driverless robotaxi licenses",
+      "title": "Baidu Bags China's First Fully Driverless Robotaxi Licenses",
       "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:28:00-07:00",
+      "publishedDateTime": "2022-08-07T19:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -892,6 +883,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-02-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
+      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
+      "excerpt": "For example, a safety driver—a person who sits in the truck to backstop the artificial intelligence—should never be able to engage a self-driving system that isn’t properly functioning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-591288/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
       "title": "Who Drives A Driverless Train?",
       "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
@@ -1134,6 +1177,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
+      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
+      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
       "title": "The Future of Supply Chains with Artificial Intelligence",
       "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
@@ -1322,92 +1417,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-driverless-cars-may-need-gender-settings-as-women-are-better-at-using-them-than-men.md",
-      "title": "Driverless cars may need gender settings as women are better at using them than men",
-      "excerpt": "Previous studies have shown that women are less positive about the idea of driverless cars, but researchers said new results show they are able to use and interact with them better than men Credit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2022/07/30/driverless-cars-may-need-gender-settings-women-better-using/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2022/07/30/driverless-cars-may-need-gender-settings-women-better-using/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2022/07/30/TELEMMGLPICT000304231712_trans_NvBQzQNjv4BqyuLFFzXshuGqnr8zPdDWXhbQKbwj1ZsnNMhuR7O6ySI.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-artificial-intelligence-is-changing-the-way-we-write.md",
-      "title": "How Artificial Intelligence is Changing the Way We Write",
-      "excerpt": "Is AI changing the way we write? This post looks at some of the ways AI can affect how we communicate with others.",
-      "sourceUrl": null,
-      "webUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
-      "originalUrl": "https://huddle.eurostarsoftwaretesting.com/how-artificial-intelligence-is-changing-the-way-we-write/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2022/06/Huddle-blog-AI-for-writing.png",
-          "width": 1170,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Test Environment",
-        "domain": "eurostarsoftwaretesting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

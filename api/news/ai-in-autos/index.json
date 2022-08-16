@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
+      "title": "Elon Musk drops details about Tesla's humanoid robot",
+      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "publishedDateTime": "2022-08-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
       "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
       "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
@@ -63,7 +116,7 @@
       "originalUrl": "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -107,21 +160,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-15-elon-musk-reveals-more-details-about-tesla-robot-sees-people-gifting-it-to-elderly-parents.md",
-      "title": "Elon Musk reveals more details about Tesla Robot, sees people gifting it to elderly parents",
-      "excerpt": "Tesla CEO Elon Musk has revealed more details about Tesla Optimus, the company’s upcoming humanoid robot, and how he sees the product rolling out over the next decade. Over the last few years, Musk has been getting quite cozy with the Chinese government.",
+      "path": "_news/2022-08-14-xiaomi-pilot-technology-for-autonomous-driving-unveiled.md",
+      "title": "Xiaomi Pilot Technology for autonomous driving unveiled",
+      "excerpt": "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/",
-      "originalUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/",
+      "webUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg",
+          "width": 1652,
+          "height": 920,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,16 +182,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/",
-      "publishedDateTime": "2022-08-15T03:08:00-07:00",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
+      "publishedDateTime": "2022-08-14T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -154,9 +207,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -201,49 +253,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle.md",
-      "title": "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle",
-      "excerpt": "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html",
-      "publishedDateTime": "2022-08-12T20:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -770,17 +779,17 @@
     {
       "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
       "title": "Nation releases first draft of rules on self-driving vehicles in public",
-      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
+      "excerpt": "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ...",
       "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "webUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
+          "url": "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
           "width": 536,
           "height": 357,
           "title": null,
@@ -792,7 +801,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T19:17:00-07:00",
+      "publishedDateTime": "2022-08-10T00:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "中国日报网",

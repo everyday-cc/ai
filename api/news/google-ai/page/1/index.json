@@ -264,6 +264,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-04-worlds-largest-metaverse-nobody-is-talking-about.md",
+      "title": "World’s Largest Metaverse nobody is talking about",
+      "excerpt": "Blue Shark’, ‘Project Avengers’ and ‘AI Dogfighting’, which sound like titles of Marvel movies, are some of the billion-dollar metaverse projects of the US army. The metaverse project of the US army is believed to be much bigger than Meta’s metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "originalUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/military-robots.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-google-ai-lab-can-predict-the-structure-of-all-proteins.md",
       "title": "Google AI lab can predict the structure of all proteins",
       "excerpt": "Researchers at DeepMind, a subsidiary of Google parent company Alphabet, have said they can predict the three-dimensional structure of nearly all known proteins using artificial intelligence, The Wall Street Journal reported July 28.",
@@ -1337,49 +1380,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-phaidra-which-sells-ai-tech-to-industrial-customers-raises-25m-from-deepmind-co-founder-others.md",
-      "title": "Phaidra, which sells AI tech to industrial customers, raises $25M from DeepMind co-founder, others",
-      "excerpt": "The startup, led by alum from Alphabet’s AI research hub DeepMind, launched in Seattle in 2019 and focuses on creating AI-powered tech that is both scalable and repeatable. This allows it to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
-      "originalUrl": "https://www.geekwire.com/2022/seattle-startup-building-industrial-ai-tools-raises-25m-from-deepmind-co-founder-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]

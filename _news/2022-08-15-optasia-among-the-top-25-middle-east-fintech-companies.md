@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-amon
 webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
-    publishedDateTime: 2022-08-15T05:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
+  - title: "15/08 – Weekly Fintech Recap"
+    excerpt: "Partnerships BT and Barclaycard Payments Announce Partnership Offering Exclusive Benefits for UK Micro-businesses BT today announced Barclaycard Payments as the latest business to join its new partnership network,"
+    publishedDateTime: 2022-08-15T08:18:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/1508-weekly-fintech-recap"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_8.jpeg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "aUXfQsggdBL7LzSfsqDlaEWdXzE9JWuTiHXn/Iw1BavA1FN7grSFkMoa+o/Qgw4VhutjtYPI8GUAmXoj1qlogOZ5wvvquLq1bCCYgGPExnMtYREZJD97/ArrKDy10RTqWxXn7sClWerWIaZLCTtg24BEzm8keQq6hNGc6/RojO5jbT//W3Uf4Nq/21K37umG212kfpyrfcyZV946WX9Btc08EWRuVqCIOS51Ko/eC9c/DgQxMNpGW67lizitrBaafUsF4I/OpI3OQ7+QENvTksCxM07ZEy+MRIlOyhk/Wr2mqHCP0MMKdzPYSoTmDBOmwxvRRwyI0a5Tj7pqIef/TtGHcPnYFdHSKmDGSsQNGVQ=;Mo1ekEXdNFuOV9dOe/sEMQ=="

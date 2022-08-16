@@ -46,6 +46,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 5
+  - title: "Financial Contrast: Okta (NASDAQ:OKTA) versus Zeta Global (NASDAQ:ZETA)"
+    excerpt: "Okta (NASDAQ:OKTA – Get Rating) and Zeta Global (NASDAQ:ZETA – Get Rating) are both computer and technology companies, but which is the superior stock? We will compare the two companies based on the strength of their earnings,"
+    publishedDateTime: 2022-08-16T05:32:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/16/financial-contrast-okta-nasdaqokta-versus-zeta-global-nasdaqzeta.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 4
 
 secured: "Yg2LUPHIfQN8aBQWLNqCFKuMrYuvhKgsUsq4TOWLwrn7J9G+LgmDscjRtg9j51GRVbbXgZdBFhZezJId5PDus5PNlpCzYtF/qrkfaLdapHPrmJVRCWtHCNu+7auGJ10aH5uvWxP3hIBc1E51WtN5FGG96L8cL5bgFquh7eQ80mkx/J4XQh2vINeKX+g96sqxYkjfqfTsk4VERO0mxrslukfZjhWNjhXIDjVLX4EcnVWLOTbfNDGjJkI9ZfzhqfZVY1eTaGnZSvTQQb/2ophWO+7Swm/QDFoGIQc4yNBZTrSsTgJyKHC1ReCtCMMtbeSqX0DYauqyWoMQDFHy05jUUyuMmlQBlAMh3aAyQKDLRxwihIztJEP2gRb24UV1wchC4LJlHA1N8DFnSH6DzTue2keFLG2PUekWFALcL7DwB0XN6nTNoDrWniKw/uP1lwVWU/3lIxIO/PGN3UXCDaZuIVu9FlYih/JUs3GosKnZMdo9r2GJXcjiygt9DHeFrX7p8yjiLmqpdCwMXFCOMz9zxA==;IDYsm4fDAnOLtNcXfDvqYg=="
 ---

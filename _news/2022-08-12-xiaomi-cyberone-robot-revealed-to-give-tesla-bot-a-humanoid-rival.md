@@ -30,68 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi unveiled its first full-size humanoid robot, CyberOne"
-    excerpt: "Xiaomi announced a bunch of new products at today’s event and to be honest they were all pretty cool. However, what impressed us the most is Xiaomi’s first full-size humanoid robot called CyberOne."
-    publishedDateTime: 2022-08-11T17:37:00Z
-    webUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/"
-    ampWebUrl: "https://www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/11/xiaomi-unveiled-its-first-full-size-humanoid-robot-cyberone/?amp=1"
+  - title: "Elon Musk drops details about Tesla's humanoid robot"
+    excerpt: "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light."
+    publishedDateTime: 2022-08-16T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/Xiaomi-Cyberone-robot-1.jpg"
-        width: 1500
-        height: 1194
+      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Xiaomi Pilot Technology for autonomous driving unveiled"
-    excerpt: "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021."
-    publishedDateTime: 2022-08-14T14:05:00Z
-    webUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/"
-    ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
+  - title: "Elon Musk reveals more details about Tesla Robot, sees people gifting it to elderly parents"
+    excerpt: "Tesla CEO Elon Musk has revealed more details about Tesla Optimus, the company’s upcoming humanoid robot, and how he sees the product rolling out over the next decade. Over the last few years, Musk has been getting quite cozy with the Chinese government."
+    publishedDateTime: 2022-08-15T10:08:00Z
+    webUrl: "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/"
+    ampWebUrl: "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 74
+      name: Electrek
+      domain: electrek.co
+    quality: 111
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg"
-        width: 1652
-        height: 920
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Xiaomi CyberOne Humanoid Robot"
-    excerpt: "We’ve seen extraordinary progress in the industrial robotics space in the past few years, with robots using artificial intelligence (AI) to learn goal-based skills instead of mimicking pre-recorded motions. These robots can workaround unforeseen problems ..."
-    publishedDateTime: 2022-08-13T17:12:00Z
-    webUrl: "https://www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/"
-    ampWebUrl: "https://www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp/"
-    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp/"
+  - title: "A Tesla fan tested out the Full Self-Driving"
+    excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
+    publishedDateTime: 2022-08-15T17:34:00Z
+    webUrl: "https://www.businessinsider.in/thelife/news/a-tesla-fan-tested-out-the-full-self-driving-softwares-child-detection-using-a-real-kid-after-a-video-went-viral-of-it-running-over-a-toddler-sized-mannequin/articleshow/93578352.cms"
     type: article
     provider:
-      name: Ubergizmo Feed
-      domain: ubergizmo.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2022/08/xiaomi-cyberone-robot.jpg"
-        width: 862
-        height: 647
-        isCached: true
-  - title: "Xiaomi shows off humanoid robot prototype CyberOne; CCF's Climate Startup Week next month"
-    excerpt: "Xiaomi showcased its humanoid robot prototype, called CyberOne, at an event yesterday, ahead of Tesla's AI day. CyberOne is 5.8 feet tall, weighs 52kg, and is nicknamed \"Metal Bro.\" It has also been given a zodiac sign,"
-    publishedDateTime: 2022-08-12T04:46:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/xiaomi-shows-off-humanoid-robot-prototype-cyberone-ccfs-climate-startup-week-next-month/78923"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 30
-    images:
-      - url: "https://www.forbesindia.com/media/audio/2022/Aug/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 19
 
 secured: "XsZpz/XQIwn9dxyNbYluHUUx3DF2UmKSE7lRz4hNWaPb+r7aGG759lWlIx4/Fq2J10ff9JxU5I/UQQ24+W7CcsiseJEq1T7RyshQ6AYWfTEXCwogofAyqGxHGhTyKEYxTFzlzuOwkMLm55tHXu7Q+fJt63hv+LAFWZQfFrzoeaDnzppxXQBKCrloAhP9Z9eiVzhOU8IZMU4X8x0Ga63Zce6TyrMs7qT8HeXcQBGfkRMpsk3jCCfFljS07OHxyFgsMJYtvyL1YWoy3IwuM3T9hBuYnslZj3y7LysjSN2qLGU7rnqzDfJ/t5dpHGo3DInHWMKvUIObIkoY0xPSesKEbVDTqZM37vYc6RiorOwtcGI=;3owpps91aVEcq6RQCS322w=="
 ---

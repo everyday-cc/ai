@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Ralph Nader Demands Recall Of Tesla Self-Driving Tech"
-    excerpt: "The longtime consumer advocate is calling on the federal government to \"prevent the growing deaths and injuries.\""
-    publishedDateTime: 2022-08-11T17:27:00Z
-    webUrl: "https://www.barrons.com/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ralph-nader-tesla-self-driving-recall-51660238766"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-602198/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"

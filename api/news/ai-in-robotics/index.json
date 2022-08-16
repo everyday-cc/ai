@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-15-elon-musk-reveals-more-details-about-tesla-robot-sees-people-gifting-it-to-elderly-parents.md",
-      "title": "Elon Musk reveals more details about Tesla Robot, sees people gifting it to elderly parents",
-      "excerpt": "Tesla CEO Elon Musk has revealed more details about Tesla Optimus, the company’s upcoming humanoid robot, and how he sees the product rolling out over the next decade. Over the last few years, Musk has been getting quite cozy with the Chinese government.",
+      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
+      "title": "Elon Musk drops details about Tesla's humanoid robot",
+      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/",
-      "originalUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/",
+      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
           "width": 1200,
-          "height": 628,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/",
-      "publishedDateTime": "2022-08-15T03:08:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "publishedDateTime": "2022-08-16T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -167,7 +167,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
