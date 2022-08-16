@@ -1,20 +1,31 @@
 ---
 category: news
 title: "Germany: 1 dead after self-driving BMW veers into traffic"
-excerpt: "Police in Germany say that one person has died and nine were seriously injured after a self-driving test car veered into oncoming traffic. It triggered a series of collisions involving four vehicles Monday afternoon."
-publishedDateTime: 2022-08-16T13:34:00Z
-originalUrl: "https://kstp.com/kstp-news/business-news/germany-1-dead-after-self-driving-bmw-veers-into-traffic/"
-webUrl: "https://kstp.com/kstp-news/business-news/germany-1-dead-after-self-driving-bmw-veers-into-traffic/"
+excerpt: "Police in Germany say that one person has died and nine were seriously injured after a self-driving test car veered into oncoming traffic"
+publishedDateTime: 2022-08-16T09:15:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/germany-dead-driving-bmw-veers-traffic-88433372"
+webUrl: "https://abcnews.go.com/International/wireStory/germany-dead-driving-bmw-veers-traffic-88433372"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/germany-dead-driving-bmw-veers-traffic-88433372"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/germany-dead-driving-bmw-veers-traffic-88433372"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: KSTP
-  domain: kstp.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "24gZcCdmX64WXh3KDdVdaNMOvB1bmySqJAbXvb6050ga2N1rEG+gM2iIGM4Pz+/yGsb54De/BuXQ7XJAhbhZkL5GBy3Ieh5N1hrKiWIx6+SB9UgaiXLZUJXfWYzYGtwwTXYovzoDT8OjjDRwdun3XnlrYvHmtBHHjfdnQRDGjYn+T/mI9uyn04+LIB5UgHQ8p3Z/s/yq07uNFDDpwbrdiUzwiaCZ0/NvkpYnB5uyo7MKeet4vf9GZebdTBDHkZMaLz4yEP8+ZucnFMCEdBIarW/bB7CEMZKLZDBw8CEvx4WW8Na5+JCSKMJ3JhZmYk8mCqaDwNiy516ngqVnRRuvcfd/ZuJmgGt4G07H+Nw+bPg=;P8YbkMcGjCxKtFS1LbNIuw=="
+images:
+  - url: "https://s.abcnews.com/images/US/220816_vod_onlocation_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+secured: "A0UmPe2NXn0nwUOiXtGfrA15YJDMok7zL2mCbrlFqUIw0V7wzPHgfTHOZQ71p0OfFrENzgjPl+kwONK1j5GGwE9Gw53EdJx+kVVjj9QRik9PJeEMVnl5wDw7qjOrFK7A3xepvyqAM7gTKgzSH/9EtYWKRFmm2lPo2wGxXJZyIkdgRqHbDi9z8AnAnYSC5UvsjPy8IrdWqZI+wyhYDKT7TmVGYuVbCKbWrNh7CTWa1LSwHzAmeiKHdoV22Kg1bm+zwsmetVcg5XnBRRNEF6qDWIQaUN6toiTwwJP78Rga5bcngvWJ4RbeJWddgpheZQmdNquFvodUitWDVzj04tYMps7rxjeDV/0lojjmv5DxL/k=;ldHyuL2UXAEv3zJ8TUPFjg=="
 ---
 

@@ -57,21 +57,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
-    excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
-    publishedDateTime: 2022-08-11T21:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
+  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
+    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
+    publishedDateTime: 2022-08-16T11:17:00Z
+    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 47
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 71
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
+        width: 1975
+        height: 1110
         isCached: true
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."

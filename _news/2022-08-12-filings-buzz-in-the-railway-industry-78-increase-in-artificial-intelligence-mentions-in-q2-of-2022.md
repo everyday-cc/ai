@@ -19,17 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Filings buzz in the aerospace and defence sector: 332% increase in artificial intelligence mentions in Q2 of 2022"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the aerospace and defence sector rose 332% between the first and second quarters of 2022."
-    publishedDateTime: 2022-08-12T05:00:00Z
-    webUrl: "https://www.army-technology.com/dashboards/filings/filings-buzz-in-the-aerospace-and-defence-sector-332-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
+  - title: "Artificial intelligence innovation among railway industry companies has dropped off in the last three months"
+    excerpt: "Research and innovation in artificial intelligence in the railway equipment supply, product and services sector has declined in the last year."
+    publishedDateTime: 2022-08-13T05:00:00Z
+    webUrl: "https://www.railway-technology.com/dashboards/patents/artificial-intelligence-innovation-among-railway-industry-companies-has-dropped-off-in-the-last-three-months/"
+    type: article
+    provider:
+      name: Railway Technology
+      domain: railway-technology.com
+    quality: 37
+    images:
+      - url: "https://www.railway-technology.com/wp-content/uploads/sites/13/2022/08/BaKRM-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
+  - title: "Artificial intelligence innovation among military industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the military equipment and technologies sector has declined in the last year."
+    publishedDateTime: 2022-08-13T05:00:00Z
+    webUrl: "https://www.army-technology.com/dashboards/patents/artificial-intelligence-innovation-among-military-industry-companies-has-dropped-off-in-the-last-year-2/"
     type: article
     provider:
       name: Army Technology
       domain: army-technology.com
-    quality: 20
+    quality: 24
     images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/TbFDb-1038x778.png"
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/db2Gg-1038x778.png"
         width: 1038
         height: 778
         isCached: true

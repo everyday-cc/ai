@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-18-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook.md",
+      "title": "UK Publishes Proposal For Artificial Intelligence (AI) Rulebook",
+      "excerpt": "The UK government has issued a proposal to provide guidance to fast-growing artificial intelligence (AI) technology. The proposal will impact financial",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/AI-Face-Digital-ID-Artificial-Intelligence.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193813-uk-publishes-proposal-for-artificial-intelligence-ai-rulebook/amp/",
+      "publishedDateTime": "2022-07-18T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
       "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
       "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
@@ -1291,49 +1334,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
-      "title": "IIT Madras AI tool maps cancer-causing genes",
-      "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
-      "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
-      "publishedDateTime": "2022-07-06T20:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

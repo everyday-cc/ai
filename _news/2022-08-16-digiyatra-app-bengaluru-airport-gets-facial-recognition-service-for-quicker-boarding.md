@@ -43,6 +43,15 @@ related:
         width: 615
         height: 383
         isCached: true
+  - title: "Digiyatra: Hyderabad International Airport set to use facial recognition"
+    excerpt: "DigiYatra will avoid multiple identity checks at the airport enabling seamless and hassle-free travel. “This technology will enable passengers a paperless travel, and they will be able to use a face scan as a boarding pass” said an official."
+    publishedDateTime: 2022-08-16T13:45:00Z
+    webUrl: "https://www.hindustantimes.com/cities/digiyatra-hyderabad-international-airport-set-to-use-facial-recognition-101660654923141.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
   - title: "Delhi, Bengaluru airports start facial recognition for quicker boarding"
     excerpt: "Domestic passengers at Bengaluru airport and Delhi’s T3 terminal will have a smoother experience after the places introduced facial recognition systems on Tuesday. A beta version of Digi Yatra at the two airports will automatically process passengers' entry based on the facial recognition system at all checkpoints."
     publishedDateTime: 2022-08-15T13:05:00Z

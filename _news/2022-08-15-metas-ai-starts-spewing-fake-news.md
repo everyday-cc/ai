@@ -59,6 +59,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
+  - title: "The Biggest Challenges When Adopting Data and AI Technologies"
+    excerpt: "In this contributed article, David Sweenor, Senior Director of Product Marketing at Alteryx, explains what it takes to create a data-driven culture in the office. Taking small, incremental steps to developing a data-centric work culture is the way to go in the adoption of data science,"
+    publishedDateTime: 2022-08-16T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/16/the-biggest-challenges-when-adopting-data-and-ai-technologies/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "EFceIMDyVQaZJeNVfzYQvUz7cGgf47yvttqmohpSy0vBMNwflas0AxJFlryvrB+9p3tq+m0LjMPEJE8GlnTW8oWVfvgM1o0JL/u8KFeyO95503M6LscUW7s9tQZ+zsrUB2dYdfeMb3SoK59t9PcBeDp/7mq1vNdLce1GpskzLKnf2AmkVTd/UUM8e6LQZd/zHfmEeNmZY94uY67hsGRIZ3AzHfL7XTfexTHQsXbWmrF+OJolFw7TFSqnop2ZWLnTzXAGP/pAuHmxhF66Q977fUbEM1IVGY2vXr6V0kwYZMcp55nTjdZBpYJp5AzWFJkqtP6mz4Vq1EqvWlXjVtO+B8ZAbJ6gDYXgX4g8HZ2F3Ee4nbhU4s7bTrDveD2vT41yrzAFtbHCKKT8TQdacCEJfbBfCH5B7z07JPKMZtksDQA9Hdw6+AWHJDVQA/Y066QfYlsC5wV+lcGnPbWz4dGOCAueo8/nO0bAWkdYUoxteuIhWeP8i6bEIRGbwBQA4mCX2swPxLTurGOaj88ofwZH4g==;oEL7vszvbvgHyQ2Fvy2Ezg=="
 ---

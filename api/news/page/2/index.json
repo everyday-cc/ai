@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-14-the-one-practice-that-is-separating-the-ai-successes-from-the-failures.md",
+      "title": "The One Practice That Is Separating The AI Successes From The Failures",
+      "excerpt": "What are the 20% of successful AI organizations doing that are setting themselves apart from the failures, leading their projects to success?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f856e07fd141a708fe6376/0x0.jpg?format=jpg&width=1200",
+          "width": 960,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/amp/",
+      "publishedDateTime": "2022-08-14T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-14-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai.md",
+      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: CMO Nitin Pai",
+      "excerpt": "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and",
+      "sourceUrl": null,
+      "webUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "originalUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udayavani.com/wp-content/uploads/2022/08/Tataelxi-Website-620x366.jpg",
+          "width": 620,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "cdnAmpWebUrl": "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai",
+      "publishedDateTime": "2022-08-13T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Udayavani",
+        "domain": "udayavani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-13-identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading.md",
+      "title": "Identity crisis: Artificial intelligence and the flawed logic of ‘mind uploading’",
+      "excerpt": "It is theoretically feasible that through 'mind uploading,' simulated minds could coexist inside a rich simulation of physical reality.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
+      "originalUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/MindUploading-2000x1000-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
+      "publishedDateTime": "2022-08-13T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices.md",
       "title": "AI Ethics Flummoxed By Those Salting AI Ethicists That “Instigate” Ethical AI Practices",
       "excerpt": "Is it okay or is it questionable for those salting AI Ethicists that seek to get hired by firms just to from-within stoke Ethical AI adherence? Here's the look at impacts on AI autonomous systems by such practices.",
@@ -96,7 +244,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -295,7 +443,7 @@
       "originalUrl": "https://futurism.com/the-byte/facebook-ai-criticizing-facebook",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -717,6 +865,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-5-ways-ai-is-shaping-the-future-of-investment-research.md",
+      "title": "5 Ways AI is shaping the future of investment research",
+      "excerpt": "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-human-vs-ai-who-would-win-in-the-iconic-mind-combat.md",
       "title": "Human Vs AI: Who Would Win In The Iconic Mind Combat?",
       "excerpt": "Human vs AI is one of the most heated and ongoing debates. AI is only one level above basic computer programming, while humans are arguably on a much higher level. Human brains are capable of more than just logically processing information.",
@@ -1004,208 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
-      "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
-      "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "publishedDateTime": "2022-08-11T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
-      "title": "Degrees of the Future 2022: Artificial Intelligence",
-      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
-          "width": 800,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "publishedDateTime": "2022-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
-      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
-      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
-      "publishedDateTime": "2022-08-11T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
-      "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
-      "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/27/ML-7925-image001-1225x630.png",
-          "width": 1225,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T13:46:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

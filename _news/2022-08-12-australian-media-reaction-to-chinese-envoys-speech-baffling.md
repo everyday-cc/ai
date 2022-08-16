@@ -24,17 +24,6 @@ images:
     height: 278
     isCached: true
 
-related:
-  - title: "Australian hospitality venues argue facial recognition deployments will help protect public"
-    excerpt: "New South Wales pubs and clubs want further deployments of facial recognition technologies to tackle problem drinking and problem gambling."
-    publishedDateTime: 2022-08-11T19:43:00Z
-    webUrl: "https://www.biometricupdate.com/202208/australian-hospitality-venues-argue-facial-recognition-deployments-will-help-protect-public"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 9
-
 secured: "PHfb3RG4MrPddDa4YtYZdim9CwGX86Xdw7vUPPTZTyBEPYIpvUAmkFnqFNHfWxgHfLHxF/mPxVpk0WCzhjAtyi5qXTtM2LBa1Mj0gpM7N9Zvjd1TKQQJieMQfI7QaxD94iWQlpXanP4Sed4csiZQ0JDd0n6hknAaorG6UUPrplGRMFJLc91KG16OoJhZsgiHZDUlWjskXujTW97JhSBicHytsyUaQ5rFiBs1CpMA2wE1lCdDmFoeyVKnQ/2mtFIMrjVcYO1PVz7oPki4vZx1ae8RYdxHxRYZfcRRCGesIDJsE2gtCHtXN/CcYNMNVRsuxN8W1mBKBl74V+jggzEQadf7dlMZhSIiY6crbm3Jlio=;ste4d7WIXJ1saug7LIQCCw=="
 ---
 

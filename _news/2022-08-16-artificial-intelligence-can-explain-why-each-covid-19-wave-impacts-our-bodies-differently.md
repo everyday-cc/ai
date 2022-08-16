@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T12:18:00Z
 originalUrl: "https://www.surrey.ac.uk/news/artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-our-bodies-differently"
 webUrl: "https://www.surrey.ac.uk/news/artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-our-bodies-differently"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: University of Surrey

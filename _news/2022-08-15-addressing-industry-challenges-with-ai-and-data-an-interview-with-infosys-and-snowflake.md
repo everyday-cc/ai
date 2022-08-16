@@ -60,6 +60,15 @@ related:
       name: Fudzilla
       domain: fudzilla.com
     quality: 17
+  - title: "The Biggest Challenges When Adopting Data and AI Technologies"
+    excerpt: "In this contributed article, David Sweenor, Senior Director of Product Marketing at Alteryx, explains what it takes to create a data-driven culture in the office. Taking small, incremental steps to developing a data-centric work culture is the way to go in the adoption of data science,"
+    publishedDateTime: 2022-08-16T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/16/the-biggest-challenges-when-adopting-data-and-ai-technologies/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "dwGp9e5+GdzQ6awTyUFSFY2vqFqOqTZ/58mysdTJl8iftQA0LRc+TXi7oLPpjZvU3/qCtVfKFM4720g1+4ltGpaYaIbgjaPpnP+vCMQGABJa8xoBJPg85NihpqY6cRH2ZW8AGOS+D9J06N/BpMDM03iHezTB/U5YoSfHU77wm77NAfWsF0aknpD3AFdwldXHlFkKGDTSbb+MV3NScCFWWpKgzrQ2BumrejXeQxjEMgXtgK20NEgpj+STLo2noryB1kRhh/fcpWT1gfkqAHwOwcQRFqrv9yewl6i12WVcpyuHadElNzMarlTXW1evTrbFvt+afdmICvMAQI28YMq6+7xt3aH/i+1w9GuD1QG4ArObqYzYppE4GU1yuLh1WOBO3mj0RosiOXgvOMXpQgf1X4TmdMAlxTJcm2+XLtKdAnaiAHyUWdsmn2Ylnm6jXxo6qHMso5Ra+dqDzStOMmV12SNq4tQ/lScVw3JYfI6cprLspakMEjRVkc/ELzfRX6igqSjLVA3IgOxplVgcdbVuqg==;0FR697vay6N7te/UuJhHLw=="
 ---

@@ -47,6 +47,15 @@ related:
         width: 1800
         height: 958
         isCached: true
+  - title: "Kore.ai Opens its Enterprise XO Platform to SMBs, Developer Community to Drive Conversational AI Innovation and Adoption"
+    excerpt: "Global CAI leader's no-code platform now accessible to SMBs and developers with seamless integration in a pay-as-you-go modelORLANDO, Fla., Aug."
+    publishedDateTime: 2022-08-16T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kore-ai-opens-its-enterprise-xo-platform-to-smbs-developer-community-to-drive-conversational-ai-innovation-and-adoption-1031686891"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "PO3BGv+GMdg+g3140u+9qhEQcM6l13DMnbIFq0eq1f5qiYfKG360LPPWHHGapSQv4Ck4brIYxcnrWM/3wws7Ef7a1CAkhFkOv8HnuFdpKxvRbuUhKSnOCRl/N0S0N8L3AnxUiZ1sFwsQ8qOvSp6CZx4CNdCzTEPPORf6qE1qXFqRDy/181mV8pUYujgiRWHFU4bI0bsY4hDzimJU0yI5awdz6xqmdTYj5BxFv9OGd7amau49TGgi5Cj8GuYOuPMuQ5ZstNLb4UZLpCQLGnhfJtu0LzLP+3i6lYP5rfCi+IHoznX79RSsKcy2BePMd2wndtn9ecchR+2hziRnZlxJ803wfZV5TjrWBprpnGHz3/WSnpeNnIKy3NA6EfrjV57eoAP8GFgrAps3jrU6B+ZQXUZq1ER6BcFqnHr9dfQ8lw6POzJ0RHR4zCbU2zPntmY7cOdpHeh167mMcws3RHgsuqbodk+dvSDcdIu3928srd13NbDzEOC7aa4UEYj9JFUFRDoHlOVn6EbpjMlpBLfG0Q==;NYABSznqPp3H7wA4weT56Q=="
 ---

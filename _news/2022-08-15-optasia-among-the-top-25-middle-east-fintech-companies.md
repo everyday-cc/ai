@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "15/08 – Weekly Fintech Recap"
-    excerpt: "Partnerships BT and Barclaycard Payments Announce Partnership Offering Exclusive Benefits for UK Micro-businesses BT today announced Barclaycard Payments as the latest business to join its new partnership network,"
-    publishedDateTime: 2022-08-15T08:18:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/1508-weekly-fintech-recap"
+  - title: "Gearing up for the next bull run in fintech investing in India"
+    excerpt: "India is home to the third-largest fintech ecosystem in the world, attracting over 40% of fintech investments in Asia in the first half of 2022. Currently grabbing eyeballs on the global map, the Indian"
+    publishedDateTime: 2022-08-16T13:46:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_8.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Trovata Execs Comment on Role of Open Banking, Variable Recurring Payments, Other Fintech Trends in Banking"
+    excerpt: "Trovata executives explained the role of open banking, variable recurring payments, other Fintech trends in banking."
+    publishedDateTime: 2022-08-12T15:36:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 41
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Cavalary-of-the-Empire-Statue-Park-London-UK-600x513.jpeg"
+        width: 600
+        height: 513
+        isCached: true
+  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T05:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "aUXfQsggdBL7LzSfsqDlaEWdXzE9JWuTiHXn/Iw1BavA1FN7grSFkMoa+o/Qgw4VhutjtYPI8GUAmXoj1qlogOZ5wvvquLq1bCCYgGPExnMtYREZJD97/ArrKDy10RTqWxXn7sClWerWIaZLCTtg24BEzm8keQq6hNGc6/RojO5jbT//W3Uf4Nq/21K37umG212kfpyrfcyZV946WX9Btc08EWRuVqCIOS51Ko/eC9c/DgQxMNpGW67lizitrBaafUsF4I/OpI3OQ7+QENvTksCxM07ZEy+MRIlOyhk/Wr2mqHCP0MMKdzPYSoTmDBOmwxvRRwyI0a5Tj7pqIef/TtGHcPnYFdHSKmDGSsQNGVQ=;Mo1ekEXdNFuOV9dOe/sEMQ=="

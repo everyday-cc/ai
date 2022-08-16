@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T12:15:00Z
 originalUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-08-16-mayo-clinic-mercy-data-collaboration-aims-drive"
 webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2022-08-16-mayo-clinic-mercy-data-collaboration-aims-drive"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: aha.org

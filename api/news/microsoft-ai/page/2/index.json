@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
+      "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
+      "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
+      "originalUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
       "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
       "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
@@ -1299,49 +1343,6 @@
       "provider": {
         "name": "Eagle-Tribune",
         "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-documents-reveal-advanced-ai-tools-google-is-selling-to-israel-the-intercept.md",
-      "title": "Documents Reveal Advanced AI Tools Google Is Selling to ‘Israel’ – The Intercept",
-      "excerpt": "Training materials reviewed by The Intercept confirm that Google is offering advanced artificial intelligence and machine-learning capabilities to the ‘Israeli’ government through its controversial “Project Nimbus” contract.",
-      "sourceUrl": null,
-      "webUrl": "https://en.abna24.com/story/1277017",
-      "originalUrl": "https://en.abna24.com/story/1277017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.abna24.ir/image/jpeg/2022/July/26/bfb318e7-fd3c-490f-809f-ef00ade1e4d1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T21:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AhlulBayt News Agency",
-        "domain": "abna24.com",
         "images": null,
         "publishers": null,
         "authors": null

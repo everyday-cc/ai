@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-07-iit-madras-ai-tool-maps-cancer-causing-genes.md",
+      "title": "IIT Madras AI tool maps cancer-causing genes",
+      "excerpt": "PIVOT helps recovery in patients, reduces side effects and uses information on mutations for customised therapies",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
+      "originalUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/07/Main-Gate_IIT-Madras1200x667.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health/iit-madras-ai-tool-maps-cancer-causing-genes-8013074/lite/",
+      "publishedDateTime": "2022-07-06T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-an-outsiders-view-into-healthcarewhat-ai-can-and-cant-do.md",
       "title": "An Outsider’s View Into Healthcare—What AI Can And Can’t Do",
       "excerpt": "As most physicians are only beginning to become familiar with AI and understand its use cases, what can AI currently do in medical settings, and where is more time and innovation needed?",
@@ -1267,50 +1310,6 @@
         "AI Hardware",
         "Natural Language Processing",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program.md",
-      "title": "AdTheorent Wins \"Machine Learning Innovation Award\" in 2022 Artificial Intelligence (AI) Breakthrough Awards Program",
-      "excerpt": "Marks AdTheorent's Fifth Consecutive AI Breakthrough Awards Win . NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (\"AdTheorent\" or the \"Company) (Nas",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "originalUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,21 +2,21 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2022-02-24-does-ai-have-the-answer-to-the-customer-experience-riddle.md",
-      "title": "Does AI Have The Answer To The Customer Experience Riddle?",
-      "excerpt": "The telecommunications industry is so many enterprises wrapped into one—they have to get every aspect of customer experience right. It’s a challenge every organization can learn from.",
+      "path": "_news/2022-05-11-intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus.md",
+      "title": "Intel Pits New Gaudi2 AI Training Engine Against Nvidia GPUs",
+      "excerpt": "Nvidia is not the only company that has created specialized compute units that are good at the matrix math and tensor processing that underpins AI",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/",
+      "webUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
+      "originalUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621797eb40ac01b3dedcafb3/0x0.jpg?format=jpg&crop=1845,1038,x0,y89,safe&fit=crop",
-          "width": 1845,
-          "height": 1038,
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/intel-habana-gaudi2-logo.jpg",
+          "width": 709,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,64 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2022/02/24/does-ai-have-the-answer-to-the-customer-experience-riddle/amp/",
-      "publishedDateTime": "2022-02-24T07:56:00-08:00",
+      "ampWebUrl": "https://www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/05/10/intel-pits-new-gaudi2-ai-training-engine-against-nvidia-gpus/amp/",
+      "publishedDateTime": "2022-05-10T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-ai-developed-by-deepmind-can-control-the-fuel-for-fusion-energy.md",
-      "title": "AI developed by DeepMind can control the fuel for fusion energy",
-      "excerpt": "The Energy Central Power Industry Network is based on one core idea - power industry professionals helping each other and advancing the industry",
-      "sourceUrl": null,
-      "webUrl": "https://energycentral.com/c/iu/ai-developed-deepmind-can-control-fuel-fusion-energy",
-      "originalUrl": "https://energycentral.com/c/iu/ai-developed-deepmind-can-control-fuel-fusion-energy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://energycentral.com/sites/default/files/ec-core/users/191615/dave_bryant_2_0.jpg",
-          "width": 1651,
-          "height": 1760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Energy Central",
-        "domain": "energycentral.com",
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -91,250 +40,27 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-five9-ceo-ai-software-for-call-centers-selling-like-hotcakes.md",
-      "title": "Five9 CEO: AI software for call centers 'selling like hotcakes'",
-      "excerpt": "Call center software pioneer Five9 has a number you can call -- 915-f-i-v-e-9-a-i -- to hear the stentorian voice of a call agent. It can tell you jokes, and it sounds much more natural than a typical interactive voice response system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/five9-ceo-ai-software-for-call-center-selling-like-hotcakes/",
-      "originalUrl": "https://www.zdnet.com/article/five9-ceo-ai-software-for-call-center-selling-like-hotcakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/fdaddc5a44cd0a8a624719a0d3792ce5825d1f48/2022/02/24/c424bf93-19e9-4409-9e70-9751f575cee6/rowan-trollope-2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/five9-ceo-ai-software-for-call-center-selling-like-hotcakes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/five9-ceo-ai-software-for-call-center-selling-like-hotcakes/",
-      "publishedDateTime": "2022-02-24T07:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace.md",
-      "title": "GA Telesis Digital Innovation Group Announces FraudBlock™ API Service for Enterprises in AWS Marketplace",
-      "excerpt": "The Digital Innovation Group (“DIG”), a GA Telesis, LLC company, announces Fraudblock™, the first Fraud Protection Application Programming Interface (API) service of its kind for U.S.-based enterprises,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace/article_158aa711-6659-5c74-9ecb-a544f7843ba5.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/ga-telesis-digital-innovation-group-announces-fraudblock-api-service-for-enterprises-in-aws-marketplace/article_158aa711-6659-5c74-9ecb-a544f7843ba5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced.md",
-      "title": "2022 Fintech Awards Spotlight: TOGGLE AI, Award Nominations Announced",
-      "excerpt": "Benzinga, a media and data provider bridging the gap between retail and institutional investors, will be holding its annual Benzinga Global Fintech Awards, a day of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced",
-      "originalUrl": "https://www.benzinga.com/fintech/22/02/25815021/2022-fintech-awards-spotlight-toggle-ai-award-nominations-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25815021",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25815021",
-      "publishedDateTime": "2022-02-24T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars.md",
-      "title": "AI Ethics Grapples With Societal AI Wish Fulfillment, Including The Dreamy Case Of Those Idolized AI-Based Self-Driving Cars",
-      "excerpt": "AI ethics examines the impact of societal AI wish-fulfillment when it comes to underplaying AI risks and downsides, which arises in many AI arenas including the advent of AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6213fd49c1dc8fd430c0952c/0x0.jpg?format=jpg&crop=3860,2172,x0,y102,safe&fit=crop",
-          "width": 3860,
-          "height": 2172,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/02/24/ai-ethics-grapples-with-societal-ai-wish-fulfillment-including-the-dreamy-case-of-those-idolized-ai-based-self-driving-cars/amp/",
-      "publishedDateTime": "2022-02-24T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI",
-        "AI Ethics",
-        "AI in Autos"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2022-02-24-artificial-intelligence-platform-shows-potential-for-thyroid-cancer-screening-and-staging-from-ultrasound-images.md",
-      "title": "Artificial intelligence platform shows potential for thyroid cancer screening and staging from ultrasound images",
-      "excerpt": "A new study finds that an artificial intelligence (AI) model incorporating multiple methods of machine learning accurately detects thyroid cancer and predicts pathological and genomic outcomes through analysis of routine ultrasound images.",
+      "path": "_news/2022-05-11-certn-nabs-50m-to-accelerate-background-checks-with-ai.md",
+      "title": "Certn nabs $50M to accelerate background checks with AI",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944395",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944395",
+      "webUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-deep-learning-poised-to-improve-breast-cancer-imaging.md",
-      "title": "Deep learning poised to improve breast cancer imaging",
-      "excerpt": "The deep learning algorithm overcomes a major hurdle in multi-modality imaging by allowing images to be recovered in real time. In Optica, Optica Publishing Group’s journal for high-impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/944066",
-      "originalUrl": "https://www.eurekalert.org/news-releases/944066",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0ae14217-666d-4f6f-8604-0611f535c7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -342,52 +68,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade.md",
-      "title": "Report: A majority of consumers believe AI will have a positive impact in the next decade",
-      "excerpt": "While consumers have become more comfortable with giving up data to reap the benefits of AI, communication and transparency are still key.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "originalUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1208151395-e1645639894269.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/02/24/report-a-majority-of-consumers-believe-ai-will-have-a-positive-impact-in-the-next-decade/amp/",
-      "publishedDateTime": "2022-02-24T06:00:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/10/certn-nabs-50m-to-accelerate-background-checks-with-ai/amp/",
+      "publishedDateTime": "2022-05-10T12:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -414,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-02-24-the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022.md",
-      "title": "The Top Five Sectors Where AI Is Poised To Make Huge Industrial Impacts In 2022",
-      "excerpt": "There’s no denying AI made immense progress in 2021. Moving into 2022, as the CEO of a global AI company creating industrial-grade solutions, it’s looking as though, while innovation will endure, critical advancements won’t necessarily be from the technology itself but more in the way it’s utilized and operationalized.",
+      "path": "_news/2022-05-11-sofi-stock-falls-after-fintech-firm-accidentally-releases-first-quarter-report-early.md",
+      "title": "SoFi stock falls after fintech firm accidentally releases first-quarter report early",
+      "excerpt": "Shares of SoFi fell sharply on Tuesday and were halted for nearly three hours after the company accidentally released its first-quarter results early. The company said the report was released early due to human error.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/",
+      "webUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "originalUrl": "https://www.cnbc.com/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6216521a02453bb63285909a/0x0.jpg?format=jpg&width=1200&fit=bounds",
-          "width": 1200,
-          "height": 841,
+          "url": "https://image.cnbcfm.com/api/v1/image/107018575-1645558180917-gettyimages-1372185735-0j5a7034_07649f06-aee4-4713-b71b-eb5bcd0da8bb.jpeg?v=1645558270",
+          "width": 2803,
+          "height": 1936,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -436,16 +119,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/02/24/the-top-five-sectors-where-ai-is-poised-to-make-huge-industrial-impacts-in-2022/amp/",
-      "publishedDateTime": "2022-02-24T05:45:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/05/10/sofi-stock-falls-trading-halted-after-fintech-firm-accidentally-releases-q1-report.html",
+      "publishedDateTime": "2022-05-10T11:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -461,25 +144,26 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-02-24-machine-learnings-carbon-footprint-will-shrink-claims-google.md",
-      "title": "Machine learning's carbon footprint will shrink, claims Google",
-      "excerpt": "Machine learning (ML) is growing rapidly, but as techniques improve, its carbon footprint will level off and even shrink, according to new research from Google. Energy use can be reduced by choosing efficient ML models, and running them preferably in the ...",
+      "path": "_news/2022-05-11-slai-makes-intelligent-choices-around-machine-learning-setups-for-developers.md",
+      "title": "Slai makes intelligent choices around machine learning setups for developers",
+      "excerpt": "Slai is building a developer-first platform for machine learning. It equips developers with the tools to quickly ship machine-learning applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/machine-learnings-carbon-footprint-will-shrink-claims-google/",
+      "webUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
+      "originalUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://media.datacenterdynamics.com/media/images/Zinco79.original_brain_thinkstock.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/slai-founders.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -487,630 +171,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:04:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/10/slai-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T10:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-use-of-artificial-intelligence-in-agriculture-comes-with-substantial-risks-researchers-warn.md",
-      "title": "Use of Artificial Intelligence in Agriculture Comes with Substantial Risks, Researchers Warn",
-      "excerpt": "Imagine a field of wheat that extends to the horizon, being grown for flour that will be made into bread to feed cities' worth of people. Imagine that all authority for tilling, planting, fertilising,",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12773_16457041713834921.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-voipfuture-has-joined-aws-isv-accelerate-program.md",
-      "title": "Voipfuture Has Joined AWS ISV Accelerate Program",
-      "excerpt": "Voipfuture, a provider of a unique carrier-grade, dual-visibility voice service quality monitoring and analytics solution, has announced today that it has been accepted",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/voipfuture-has-joined-aws-isv-accelerate-program/article_7164cf91-4b6b-5e06-bb41-be033504d8fa.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-robot-eases-pressures-and-boosts-performance-for-nep.md",
-      "title": "Robot Eases Pressures and Boosts Performance for NEP",
-      "excerpt": "To implement the robot, EAS assigned a dedicated technical developer to work with NEP and worked on a fixed price contract to give the not-for-profit organisation certainty in terms of cost of investment. Craig Alderson sees introducing RPA as the right ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2022/02/23/robot-eases-pressures-and-boosts-performance-for-nep",
-      "originalUrl": "https://bdaily.co.uk/articles/2022/02/23/robot-eases-pressures-and-boosts-performance-for-nep",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/ISyo0cmLv7W4PFKpP4xtr71Dsde7OyMotpHViEqG.jpeg?w=940&h=430&fm=jpg&fit=crop-50-47&s=5d98cded709870de67af2fc70960963f",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-nobleai-announces-rollout-of-aws-govcloud.md",
-      "title": "Noble.AI Announces Rollout of AWS GovCloud",
-      "excerpt": "Noble.AI announced the rollout of AWS GovCloud support for their Science-Based AI Platform. By choosing to enable GovCloud, Noble.AI",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "originalUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/02/Noble.AI-Announces-Rollout-of-AWS-GovCloud_-Enabling-Customers-to-tackle-their-most-strategic-R_D-workloads-01-1.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/noble-ai-announces-rollout-of-aws-govcloud/amp/",
-      "publishedDateTime": "2022-02-24T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-zf-to-develop-chassis-for-baidus-smart-ev-brand-jidu.md",
-      "title": "ZF to develop chassis for Baidu's smart EV brand Jidu",
-      "excerpt": "German supplier ZF Friedrichshafen will assist Jidu, a smart electric-vehicle brand of Chinese self-driving technology developer Baidu, to develop chassis and other components. Under an agreement ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
-      "originalUrl": "https://europe.autonews.com/automakers/zf-develop-chassis-baidus-smart-ev-brand-jidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/JIDU%20Robocar%20Concept%20Car.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-accelerator-startupbay-invests-usd-12-mn-in-pune-based-robotics-firm-rocket-ai.md",
-      "title": "Accelerator StartupBay invests USD 1.2 Mn in Pune-based robotics firm Rocket AI",
-      "excerpt": "Accelerator StartupBay has invested USD 1.2 million in the seed round of Pune-based robotics firm Rocket AI’s seed funding round in return for a 10 percent stake. Rocket AI combines low-code no-code,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/",
-      "originalUrl": "https://analyticsindiamag.com/accelerator-startupbay-invests-usd-1-2-mn-in-pune-based-robotics-firm-rocket-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/02/Untitled-design-2.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-24T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-meta-to-break-language-barriers-with-ai-builds-universal-speech-translator.md",
-      "title": "Meta to break language barriers with AI, builds universal speech translator",
-      "excerpt": "Meta announced an ambitious plan to use AI for translation which has been used by several players including Google & Apple, Indian Govt too has launched its ambitious NLTM programme",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/03/full/1643876854-9687.jpg?im=Resize,width=1200",
-          "width": 1200,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/meta-to-break-language-barriers-with-ai-builds-universal-speech-translator-122022400693_1.html",
-      "publishedDateTime": "2022-02-24T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems.md",
-      "title": "UC Berkeley robot navigation could chart a new-course for self-driving systems",
-      "excerpt": "An approach that uses hours of video and elements of reinforcement learning can guide a robot vehicle almost two miles without a full map of the surroundings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "originalUrl": "https://www.zdnet.com/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/94fe2957ac206bbd2cf1bb49da44fb770d24fc61/2022/02/23/1f831631-725b-4e2f-b0cf-82318abd4921/levine-clearpath-uvg-navigates-to-destination.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uc-berkeley-robot-navigation-could-chart-a-new-course-for-self-driving-systems/",
-      "publishedDateTime": "2022-02-23T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-the-complementary-strengths-of-ai-and-human-intelligence.md",
-      "title": "The complementary strengths of AI and human intelligence",
-      "excerpt": "Kathy Peach, director at Nesta’s Centre for Collective Intelligence Design, describes projects the organisation supports that explore the interaction between artificial and human intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence",
-      "originalUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-complementary-strengths-of-AI-and-human-intelligence?amp=1",
-      "publishedDateTime": "2022-02-23T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-meta-plans-ai-driven-universal-translator.md",
-      "title": "Meta plans AI-driven universal translator",
-      "excerpt": "Facebook parent company Meta on Wednesday detailed several research efforts that it insists are key to its project of building a metaverse. The big picture: While some of the work, like a new type of haptic gloves,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "originalUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/NxzBynvHAAjmzngPOi3qiO5XJM8=/0x0:2635x1482/1366x768/2022/02/24/1645664901557.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/facebook-ai-metaverse-language-translator-fdc10a79-49c4-40e6-a7fa-b4780d936d70.html",
-      "publishedDateTime": "2022-02-23T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback.md",
-      "title": "IRS will allow taxpayers to forgo facial recognition amid blowback",
-      "excerpt": "The IRS said Monday that it would allow taxpayers to opt out of using facial recognition technology and would shift to a different identity verification system next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "originalUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/irs-will-allow-taxpayers-to-forgo-facial-recognition-amid-blowback-2/?amp=1",
-      "publishedDateTime": "2022-02-23T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-facebooks-hyped-new-ai-concept-looks-busted-as-hell.md",
-      "title": "Facebook's hyped new 'AI concept' looks busted as hell",
-      "excerpt": "The biggest stories of the day delivered to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "originalUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00WJ1YKZuWlWoFBX77qQhh3/hero-image.fill.size_1200x675.v1645662499.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facebook-meta-ai-builder-bot?amp",
-      "publishedDateTime": "2022-02-23T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028.md",
-      "title": "Cognitive Systems Spending Market Global Outlook, Demand and Scope 2021 to 2028",
-      "excerpt": "Feb 24, 2022 (AmericaNewsHour) -- Key Companies Covered in the Cognitive Systems Spending Market Research HP, IBM, Microsoft ... and reliability of their services. Ranging from artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-global-outlook-demand-and-scope-2021-to-2028-2022-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T17:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-24-artificial-neural-networks-market-2022-size-share-industry-growing-rapidly-with-recent-demand-trends-development-revenue-and-forecast-to.md",
-      "title": "Artificial Neural Networks Market 2022 Size, share Industry Growing Rapidly with Recent Demand, Trends, Development, Revenue and Forecast to 2027",
-      "excerpt": "Feb 24, 2022 (The Expresswire) -- \"The Global Artificial Neural Networks Market statesthe impact of Coronavirus COVID-19 on theindustry/market, the report provide in-depth analysis and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-size-share-industry-growing-rapidly-with-recent-demand-trends-development-revenue-and-forecast-to-2027-2022-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-size-share-industry-growing-rapidly-with-recent-demand-trends-development-revenue-and-forecast-to-2027-2022-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-23T17:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1131,5 +201,5 @@
       ]
     }
   ],
-  "nextPage": 125
+  "nextPage": null
 }

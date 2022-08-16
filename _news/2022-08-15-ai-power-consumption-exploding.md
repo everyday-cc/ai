@@ -23,17 +23,6 @@ images:
     height: 1440
     isCached: true
 
-related:
-  - title: "Imagining the AI-powered future of the financial planning profession"
-    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
-    publishedDateTime: 2022-08-12T12:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 19
-
 secured: "lzC2penJzpylAGGDGJ+1JIGzXh+pb4iI4IOA4y0d3rZayWJoFhIUor2bldD5mEOMYuy/f1sNeJ54YvYZIp5T3nnKeroFLAtVSp3JlAWEk8y9uDCvCo7lad68/zqXffM7u05WoYl7BjB0DTKwOHVgyvJJNoCH+6oEb3Fgc6Gi1hncNHaZm8+nhavJC5g12pK45ovztIY5corc51Z7NcCbkEjc79Fbd99uo8MgmWW/+XKe8IiMl1u5/2MSMiawYf+f2BMvHvkI7291RacALlzGGGokFPzXjfNo0pKyov75+06n0DIroHHr/xYiCl68WTRSgwbXe1xdQVEmhQUpDB6thkN/tNkeOTuol/b9qLh4iC3pyx7cZlbaKMRdqUf0/MdrxuM3P/nOk/B0InJqpxEW+9XAj/X788aqMAUBXeb6TSsv49sMD4l5h/wa1tGlbrmki3y5b2X0q6uSfyOHuproFLwywbRcEUHY4c75QTU4lgGxaqx20eg9EN2CS9xleJ5Ex7sIC+WrjvVRvNTA7AXSmA==;/COfNiOpwnRU2ueCLq9dUA=="
 ---
 

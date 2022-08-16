@@ -19,20 +19,80 @@ topics:
   - AI
 
 related:
-  - title: "AI Power Consumption Exploding"
-    excerpt: "Today, that means bigger models and larger training sets, which require exponential increases in processing capability and the consumption of vast amounts of power in data centers for both training and inference."
-    publishedDateTime: 2022-08-15T07:04:00Z
-    webUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
+  - title: "5 Ways AI is shaping the future of investment research"
+    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
+    publishedDateTime: 2022-08-12T10:43:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
+        width: 800
+        height: 522
+        isCached: true
+  - title: "AI may come to the rescue of future firefighters"
+    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
+    publishedDateTime: 2022-08-12T18:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161024.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "How is artificial intelligence used in COVID-19 research?"
+    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
+    publishedDateTime: 2022-08-12T09:51:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
+    publishedDateTime: 2022-08-16T03:44:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Interview: Why the future of advertising is with AI"
+    excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
+    publishedDateTime: 2022-08-12T21:55:00Z
+    webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 37
     images:
-      - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"
-        width: 2560
-        height: 1440
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Meeting-Tim-Sandle.jpeg"
+        width: 1024
+        height: 580
         isCached: true
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
+    publishedDateTime: 2022-08-12T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/263568-ai-may-come-to-the-rescue-of-future-firefighters"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "4yv3b2SncUuH8xy4b9zmTUS+iNk1CaF4b7ulQyHC/Da/31zM0NneBr2WsjbBbJoiYvX5Jphj9BDn4lXu9JE9PPbNmOLEJvUCzaWH3mT2Cfa5/x/PMgs+yfhWT7tdQYmXZEKSDXak3D8VGaEa7YhyqyV3XXw/rn+MjqJjGIg05ubUTOWWdZxZl8oxLoHxaBzfq1CGB4ac9nZvL1nYsPv3wmUJczTiStK6+bdtFYsbrD3tw4bWTLrNNjp/IDPwt0VALqnUdXUAeVIv7p5aeHx1YC5B9E/GA00zMF8VbCXwrbjO1DdlFZy59uybcfX3bGA71PIRtPszYGPZT8fcP2bFckckgnm1iYzHXObLBMaSdKrCwIyBXPANOiZVE55OTdfp36bxfcaBzjXq+3/24ZqUAotYPyJ/sZ5IsGzl+vwARMIVW7IFf+OzL9UcjiVQnEpocJemUYhPrZudVHpL4KjOohaDbmPQA/8cIjxydLt3NgyIT//jZXsn5bafjCbo26UwjxxFouDQ463eOuJ+za260Q==;e8gKEenBeyv1JE1txf/nvQ=="
 ---

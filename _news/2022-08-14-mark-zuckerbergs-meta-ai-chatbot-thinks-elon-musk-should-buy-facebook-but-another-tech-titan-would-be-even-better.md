@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’"
-    excerpt: "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch"
-    publishedDateTime: 2022-08-11T22:58:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
+  - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
+    excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
+    publishedDateTime: 2022-08-12T05:30:00Z
+    webUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868"
+    ampWebUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 61
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://i.ndtvimg.com/i/2018-04/mark-zuckerberg-reuters_650x400_71522815002.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Meta's AI chatbot turns on boss calling Mark Zuckerberg 'creepy and manipulative'"
     excerpt: "After a number of journalists tested out the new feature, the replies were a little surprising when it was asked questions about Mark Zuckerberg"
@@ -59,25 +59,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
-    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
-    publishedDateTime: 2022-08-12T16:06:00Z
-    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
-    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
+    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
+    publishedDateTime: 2022-08-15T20:35:00Z
+    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
     type: article
     provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 37
-  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
-    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
-    publishedDateTime: 2022-08-15T05:03:00Z
-    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 32
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "This AI chatbot wants you to visit its synagogue"
+    excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
+    publishedDateTime: 2022-08-12T09:21:00Z
+    webUrl: "https://www.israelnationalnews.com/news/358077"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: Arutz Sheva
+      domain: israelnationalnews.com
     quality: 17
 
 secured: "ApwLUutOHtCmgjc08J8spzYfI8GhYD8OeNZK4L1WzGwYgMSg61THXB8BcSgZNG+OJiedPnkvZpTEsGKcg4v5aQxXogtm6D7v8fAXE3ZWtK16DymxQVumr9YQdJNX/YftoQkrqQDvCutN2qkMyQb/BL9u5YHdE/FfgGO/er9P1Bh28A7eJKUdqYOgSK1OAlP2ofbT+IL4RIcbLCic6PutsLG6TZK4LLUjl7k7lQ9Y2hulGF+howwvi3+NXy9SvUurGIZMiygN+8/bhjPW+jwUixQiu3W26CgIBD8pV1Q02DQqSr3p4wy8/beHK95xQR4IiJDX3v635Msu3Abco2oAtI4J1BUBJe1eg0zcjL/TMzp9SbTSDFJLbKoZx/0C6VR9Iu2UszlRWm2xKRp8PmvOPgoc5MVeRYcCulupM4KVSxcr/UtiGeLJWmFKTzdP+k9GZ5Vadd9fdkt3LMWE83EMDDxh7NUoLormCMVCAXNdh61ss/08i6Dt9DSJW5UheR7N2a+7pb/tzLdRqp0tRl8j9g==;9dDGdpktSFDpIFcQ9nqXxQ=="

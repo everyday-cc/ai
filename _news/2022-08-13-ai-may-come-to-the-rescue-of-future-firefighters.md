@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Degrees of the Future 2022: Artificial Intelligence"
-    excerpt: "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list."
-    publishedDateTime: 2022-08-11T22:30:00Z
-    webUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946"
-    ampWebUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 93
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg"
-        width: 800
-        height: 399
-        isCached: true
   - title: "5 Ways AI is shaping the future of investment research"
     excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
     publishedDateTime: 2022-08-12T10:43:00Z
@@ -53,17 +37,20 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "These Are the Degrees of the Future"
-    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
-    publishedDateTime: 2022-08-13T00:39:00Z
-    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
-    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+  - title: "How is artificial intelligence used in COVID-19 research?"
+    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
+    publishedDateTime: 2022-08-12T09:51:00Z
+    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "AI May Come to the Rescue of Future Firefighters"
     excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
     publishedDateTime: 2022-08-16T03:44:00Z
@@ -78,6 +65,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Interview: Why the future of advertising is with AI"
+    excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
+    publishedDateTime: 2022-08-12T21:55:00Z
+    webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 37
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Meeting-Tim-Sandle.jpeg"
+        width: 1024
+        height: 580
+        isCached: true
   - title: "AI May Come to the Rescue of Future Firefighters"
     excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
     publishedDateTime: 2022-08-12T00:00:00Z
@@ -86,6 +87,15 @@ related:
     provider:
       name: acm.org
       domain: acm.org
+    quality: 19
+  - title: "Imagining the AI-powered future of the financial planning profession"
+    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
+    publishedDateTime: 2022-08-12T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
     quality: 19
 
 secured: "BJi2edW2iR2WH4cmrm8iUF8LRVORPtAKilm/AHbOFRWViU8WqSRCnFeQd7d7IjqMP5AKnbw1FzWUvdJ/JN+gjqBGbxdJmf5/pY5ahixkdKs5+f9rq3qnHCciXc6DGiUGd78GD5OIGDNTI9dRh46nzNXltF5o9EasbKGPm8EsvyLLH6uJTPK95EAmpA0QIY3whhJDV9WzRQEJpgdxz36CU9sGpIKTCiAgDgGEJzWsH8PGuz2o8ghtvh1jz/O/LgKpk8b89If5ySrQLriCGggINw8PS7L0OIa+oGHsTvOWn/yxNY0PbBu3ztEiLoxHabgPZ8Q/Onp2aBKg5hE83YRSijisXvEnMFJ3zdh5WDMqmqY=;uIoiQ01yr81ZRRlReawo+w=="

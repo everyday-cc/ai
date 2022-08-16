@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:32:00Z
 originalUrl: "https://www.dpreview.com/videos/2769150599/photographer-jon-taylor-sweet-shoot-an-engagement-with-the-help-of-imagen-ai"
 webUrl: "https://www.dpreview.com/videos/2769150599/photographer-jon-taylor-sweet-shoot-an-engagement-with-the-help-of-imagen-ai"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Digital Photography Review

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-ok-google-get-me-a-coke-artificial-intelligence-giant-demos-soda-fetching-robots.md",
+      "title": "OK Google, Get Me A Coke: Artificial Intelligence Giant Demos Soda-Fetching Robots",
+      "excerpt": "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/business/ok-google-get-me-a-coke-artificial-intelligence-giant-demos-soda-fetching-robots-3259723",
+      "originalUrl": "https://www.ndtv.com/business/ok-google-get-me-a-coke-artificial-intelligence-giant-demos-soda-fetching-robots-3259723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/lb76gmp_reuters-image_625x300_16_August_22.jpg",
+          "width": 1485,
+          "height": 1015,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/business/ok-google-get-me-a-coke-artificial-intelligence-giant-demos-soda-fetching-robots-3259723/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/ok-google-get-me-a-coke-artificial-intelligence-giant-demos-soda-fetching-robots-3259723/amp/1",
+      "publishedDateTime": "2022-08-16T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-ai-language-skills-coax-google-robots-into-the-real-world.md",
+      "title": "AI Language Skills Coax Google Robots Into the Real World",
+      "excerpt": "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
       "title": "Elon Musk drops details about Tesla's humanoid robot",
       "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
@@ -1312,102 +1407,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
-      "title": "Tesla teases Optimus humanoid robot prototype with new image",
-      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
-      "publishedDateTime": "2022-08-04T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-demand-for-inspection-robots-expected-to-spike-by-2023.md",
-      "title": "Demand for Inspection Robots Expected to Spike by 2023",
-      "excerpt": "Shenhao speculates that inspection robots will gain popularity in three major application fields: energy, rail and power stations.",
-      "sourceUrl": null,
-      "webUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
-      "originalUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://railway-news.com/wp-content/uploads/2022/08/Shenhao-Inspection-Robots.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "railway-news",
-        "domain": "railway-news.com",
         "images": null,
         "publishers": null,
         "authors": null

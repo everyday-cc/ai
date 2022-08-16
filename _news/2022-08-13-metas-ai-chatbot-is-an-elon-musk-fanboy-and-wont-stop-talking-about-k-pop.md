@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Kore.ai announces pay-as-you-go pricing for low-code AI chatbot development"
+    excerpt: "Startup Kore.AI Inc. said today it’s making its “low code” conversational artificial intelligence tools available on a pay-as-you-go basis, expanding their availability to smaller businesses. Backed by Nvidia Corp."
+    publishedDateTime: 2022-08-16T12:00:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/kore-ai-announces-pay-go-pricing-low-code-ai-chatbot-development/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
+
 secured: "Sa84tggO2CHXStBEWpiO6YDseLfs2EgGlUKD9dVDRt1zR+V3cyHW7BxiQtUKEUQoTMpz2hlJ8j/DMLTDVDF92wJqURL2U1L0qL4o8aZOtkelGQNWHlyXm2f8KshgWGOP3hqUbPC83tovYidQ6EgrJWQ/D9SI8QfbV++DdwutQMGkzkhpeEBMZkKC00ulpg0E3x13VR9B/ErRXmUGCAK/uIh3Qkc2m/gKrKyuEHMoqNL+oOis6gxnkWXCT8UibyuMzKFXqoKzELlu68uRLJYasutRIYmRuOVGxXMvHB0H3hS8sWAAS0jNFKHkG5FF2wQ1lU5TFpinTkCDguxpH7hqF+vTwOS3F4VNRcz0+NXxwPyM4bTVJCnacnn9srVjqP9NtbqgenxBbupA1vJWlu93WqNCr3M8vrHiRQ4vTXdeQ88jEGT+z+v9JKBfctuhgPcsBkI6MPI3xecrIytylCFYx5w1QvIT9O08y3qpxLlfEN8E1y8RhB6RYAefwE725ejEAZud9HFGYaUbrO7bwyltUA==;Tj86zhhoH9B6U1bep0IGbA=="
 ---
 

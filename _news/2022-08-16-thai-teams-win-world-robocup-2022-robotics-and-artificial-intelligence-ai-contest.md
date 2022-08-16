@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T12:36:00Z
 originalUrl: "https://www.pattayamail.com/thailandnews/thai-teams-win-world-robocup-2022-robotics-and-artificial-intelligence-ai-contest-406922"
 webUrl: "https://www.pattayamail.com/thailandnews/thai-teams-win-world-robocup-2022-robotics-and-artificial-intelligence-ai-contest-406922"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Pattaya Mail

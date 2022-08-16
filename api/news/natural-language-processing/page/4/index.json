@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-14-an-ai-model-named-bloom-larger-than-openais-gpt-3-and-metaais-opt-will-be-open-sourced.md",
+      "title": "An AI Model Named BLOOM, Larger than OpenAI’s GPT-3 and MetaAI’s OPT, Will Be Open Sourced",
+      "excerpt": "Its openness can democratize access to AI technologies, making a deep impact on society, according to experts talking at TheNextWeb.com. It’d free AI from bit tech labs that have spent millions of dollars developing systems such as LaMDA (Google) and GPT-3 (OpenAI).",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
+      "originalUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2022/07/bloom.jpg",
+          "width": 860,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-14-speech-and-voice-recognition-market-by-deployment-mode-technology-vertical-and-geography-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Speech and Voice Recognition Market by Deployment Mode, Technology, Vertical and Geography - Global Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "Extensive penetration of speech and voice recognition technologies in smart appliances. The demand for smart homes and smart appliances is increasing owing to various factors, inc",
@@ -1294,50 +1337,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-ai-machine-translation-research-helps-break-language-barriers.md",
-      "title": "Meta’s AI Machine Translation Research Helps Break Language Barriers",
-      "excerpt": "Kindly share this postMeta has announced that it has built and open sourced ‘No Language Left Behind’ NLLB-200, a single AI model that is the first to translate across 200 different languages, including 55 African languages with state-of-the-art results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/metas-ai-machine-translation-research-helps-break-language-barriers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2021/12/Meta-1.jpg",
-          "width": 650,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nigeriacommunicationsweek",
-        "domain": "nigeriacommunicationsweek.com.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

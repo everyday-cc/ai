@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:30:00Z
 originalUrl: "https://techxplore.com/news/2022-08-tactile-sensors-machine-robots-fabrics.html"
 webUrl: "https://techxplore.com/news/2022-08-tactile-sensors-machine-robots-fabrics.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: techxplore

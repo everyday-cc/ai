@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-26-dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures.md",
+      "title": "Dogs Mentally Understand How Much We Love Them, Canine Cognition Expert Assures",
+      "excerpt": "He has recently teamed up with Purina Pro Plan Bright Mind, a dog food dedicated to improving your pet’s cognitive function, to help owners figure out what’s really going on in their dog’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/",
+      "originalUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2016%2F10%2Fman-kissing-dog.jpg",
+          "width": 2000,
+          "height": 997,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/?amp=true",
+      "cdnAmpWebUrl": "https://people-com.cdn.ampproject.org/c/s/people.com/pets/dogs-mentally-understand-how-much-we-love-them-canine-cognition-expert-assures/?amp=true",
+      "publishedDateTime": "2022-06-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-25-covid-cognitive-decline-more-widespread-than-thought-say-researchers-at-australias-first-long-covid-clinic.md",
       "title": "COVID cognitive decline more widespread than thought, say researchers at Australia's first long-COVID clinic",
       "excerpt": "And the team has found something startling. Around one quarter of the ADAPT study's participants were experiencing noticeable cognitive decline a year after getting COVID. And, some sort of ...",
@@ -1315,49 +1358,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci.md",
-      "title": "Recorded Future Announces Second Investment in Cyber Threat Cognitive Intelligence (CTCI)",
-      "excerpt": "Bill Ladd, Chief Data Scientist, Recorded Future Combining cognitive reasoning and machine learning with intelligence lifecycle collection, CTCI curates and validates CVE data that threat actors ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci-1031538590",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

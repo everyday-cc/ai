@@ -2,6 +2,325 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-09-microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine.md",
+      "title": "Microsoft's Azure named official cloud partner of the Unity game engine",
+      "excerpt": "The long-time collaborators made it official, positioning Microsoft's Azure as the cloud platform of choice for Unity's future 3D worlds as they are deployed on everything from Xbox game consoles to enterprise clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/39d0861ae7c64367b6174547c351fc2765343ca5/2022/08/08/6e5d5ba4-23bd-41cd-82ff-466cb008df64/unity-x-microsoft.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
+      "publishedDateTime": "2022-08-08T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-artificial-intelligence-tools-predict-dnas-regulatory-role-and-3d-structure.md",
+      "title": "Artificial intelligence tools predict DNA's regulatory role and 3D structure",
+      "excerpt": "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
+      "originalUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg",
+          "width": 2115,
+          "height": 1939,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
+      "publishedDateTime": "2022-08-08T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "became possible when the researchers incorporated deep neural networks, a form of artificial intelligence, into their methods. The study was published in the journal Proceedings of the National Ac ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/960990",
+      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-brain-robot-therapy-reroutes-motor-pathway-in-stroke-patients.md",
+      "title": "Brain-robot therapy reroutes motor pathway in stroke patients",
+      "excerpt": "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/960933",
+      "originalUrl": "https://www.eurekalert.org/news-releases/960933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
+      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
+          "width": 1325,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:48:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
+      "title": "Baidu wins approval for China's first full driverless taxis",
+      "excerpt": "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
+      "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
+      "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
+      "originalUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=4646e4d2-757a-5482-9ca9-d15a9ed60636&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84603&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
+      "publishedDateTime": "2022-08-08T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases.md",
       "title": "IBM Research Rolls Out A Comprehensive AI And ML Edge Research Strategy Anchored By Enterprise Partnerships And Use Cases",
       "excerpt": "Goodson, recently met with Dr. Nick Fuller, Vice President, Distributed Cloud, at IBM Research for a discussion about IBM’s long-range plans and strategy for artificial intelligence and machine learning at the edge.",
@@ -762,28 +1081,37 @@
     },
     {
       "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
-      "title": "Baidu Bags China's First Fully Driverless Robotaxi Licenses",
+      "title": "Baidu bags China's first fully driverless robotaxi licenses",
       "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:45:00-07:00",
+      "publishedDateTime": "2022-08-07T19:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -845,334 +1173,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.md",
-      "title": "Microsoft Spreads FUD on Office Connections to Microsoft 365 Services",
-      "excerpt": "Microsoft appears to be deliberately trying to confuse the public on Office 2016 and Office 2019 connections to Microsoft 365 services. In a July Redmond article, I reported on Microsoft's plans ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0817red_WinInsider.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-using-ai-chips-to-design-better-ai-chips.md",
-      "title": "Using AI Chips To Design Better AI Chips",
-      "excerpt": "Nvidia’s “Hopper” GPU architecture, introduced in March and expanding the company’s already expansive focus on AI, machine learning and neural networks, contains almost 13,000 instances of circuits designed using AI techniques. In a six-page ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
-      "originalUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/nvidia-hopper-die-shot.jpg",
-          "width": 435,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/using-ai-chips-to-design-better-ai-chips/amp/",
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-risks-posed-by-ai-are-real-eu-moves-to-beat-the-algorithms-that-ruin-lives.md",
-      "title": "‘Risks posed by AI are real’: EU moves to beat the algorithms that ruin lives",
-      "excerpt": "Darko Matovski, the chief executive and co-founder of London-headquartered AI startup causaLens, believes his firm is among them. The startup, which publicly launched in January 2021, has already ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/134de371376f8371d023c5d0f3024e5c18a9eb5a/239_0_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=208310e8910bdde284ff7c0e27e1370c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/07/ai-eu-moves-to-beat-the-algorithms-that-ruin-lives",
-      "publishedDateTime": "2022-08-07T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools.md",
-      "title": "Why not all VCs are ready to embrace AI-powered investment tools",
-      "excerpt": "Not all VCs are embracing AI for due diligence and investment decisions. Why? It could be that the algorithms fall short in key ways.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/",
-      "originalUrl": "https://techcrunch.com/2022/08/07/why-not-all-vcs-are-ready-to-embrace-ai-powered-investment-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1023943076.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-8-ultimate-ai-projects-for-beginners.md",
-      "title": "8 Ultimate AI Projects for Beginners",
-      "excerpt": "So you have decided to take an Artificial Intelligence (AI) course to stay relevant in an increasingly digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence.md",
-      "title": "A bionic chip analyzes health data with brain-mimicking artificial intelligence",
-      "excerpt": "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "originalUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/9965a991f124a48186e400c6cd712e646cb7c34d.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "publishedDateTime": "2022-08-07T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

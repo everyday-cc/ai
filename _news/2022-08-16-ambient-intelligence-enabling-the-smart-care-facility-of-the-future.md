@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/16/ambient-intelligence-enabling-the-smart-care-facility-of-the-future/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/16/ambient-intelligence-enabling-the-smart-care-facility-of-the-future/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Forbes

@@ -25,68 +25,59 @@ topics:
   - AI
 
 related:
-  - title: "Degrees of the Future 2022: Artificial Intelligence"
-    excerpt: "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list."
-    publishedDateTime: 2022-08-11T22:30:00Z
-    webUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946"
-    ampWebUrl: "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp"
+  - title: "These AI-Generated Takes on Classic Movie Posters Are Out of the Box"
+    excerpt: "In a project called ROBOMOJI, artist Vincenzi has been using artificial intelligence (AI) to reimagine movie posters of classic cinematic masterpieces to explore AI’s relationship to art and culture."
+    publishedDateTime: 2022-08-15T16:45:00Z
+    webUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482"
+    ampWebUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
+    cdnAmpWebUrl: "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
+    type: article
+    provider:
+      name: Apartment Therapy
+      domain: apartmenttherapy.com
+    quality: 59
+    images:
+      - url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fnews-culture%2F2022-08%2Fshutterstock_dvds"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "The Best Free AI Art Generators, Ranked"
+    excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
+    publishedDateTime: 2022-08-15T13:05:00Z
+    webUrl: "https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263"
     type: article
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 93
+    quality: 47
+  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 28
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg"
-        width: 800
-        height: 399
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
+        width: 1420
+        height: 798
         isCached: true
-  - title: "5 Ways AI is shaping the future of investment research"
-    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
-    publishedDateTime: 2022-08-12T10:43:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/"
+  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 25
     images:
-      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
-        width: 800
-        height: 522
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
+        width: 1420
+        height: 798
         isCached: true
-  - title: "AI may come to the rescue of future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-12T18:25:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161024.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
-    publishedDateTime: 2022-08-16T03:44:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
-    publishedDateTime: 2022-08-12T00:00:00Z
-    webUrl: "https://cacm.acm.org/news/263568-ai-may-come-to-the-rescue-of-future-firefighters"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "kjW8ii46kFLLcc934TKoU+PlRViKhLaTZKI4ESc6Wq0oowIvTnV56aMki7Gb+deHyeRyoAWxowLTNEPPwtyv0+cdVWAIFHciQYOviTVdb7uAaRDcGpjItZKy3IVAZgfhnw4ttpF9rafA7TBOs2BJYv4cQj/6I6CpoP6lHHTOK7wwX9SC6660+ON4cKhHcLQej4spvw3Z8SFnzsriyhI8c2mxmgSgfxnVyOljrsyg07ZT0h6Cy1bVry68GYLUDz3ZkCdRosmZhtOqY7zqcv8xo3FKRtRZlWy6PYEpft358G1NNhn/MxYphfNlFle9JytrMnxcumcwDhXWg7Sw9i5+kegWPwhqhai4Vtfc2iAUJu+He30JLoTYamdt2AgyV62Wq+1KIDAkbZk/epjMiJmW/n6i8dP38nl75nQXOInurNjkptpnFK2lF6vn7YnosohCrhthNM3iH5PR2gKslv2arapkgmM1w5q5qBXzCrumogIxDQeKa7xXK4nRSMHlOuQAIH6K70PlOk8ICteTO9zDLA==;PRSb8/obcKiAEvf5eAz2bA=="
 ---

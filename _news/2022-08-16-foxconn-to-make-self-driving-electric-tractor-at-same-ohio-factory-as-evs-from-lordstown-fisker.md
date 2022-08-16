@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:00:00Z
 originalUrl: "https://www.greencarreports.com/news/1136831_foxconn-self-driving-electric-tractor-ohio-factory-lordstown-fisker"
 webUrl: "https://www.greencarreports.com/news/1136831_foxconn-self-driving-electric-tractor-ohio-factory-lordstown-fisker"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Green Car Reports

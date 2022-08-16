@@ -2,6 +2,351 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-06-riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more.md",
+      "title": "Riot Games, AWS Reimagine Esports with Stats, Power Rankings, and More",
+      "excerpt": "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s Esports content is created and distributed in the cloud. Riot is the first company to use AWS’s data analytics integration for Esports broadcasts to reimagine how fans experience League of Legends (LoL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "originalUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uHT3YVVHypGFFRubmjx3jT-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AV Network",
+        "domain": "avnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-why-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics.md",
+      "title": "Why retailers are upping their investments in data infrastructure and advanced analytics",
+      "excerpt": "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-89320698.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "publishedDateTime": "2022-08-05T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "(CNN Business)Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "publishedDateTime": "2022-08-05T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-uk-plans-to-use-smartwatches-facial-recognition-to-surveil-convicted-migrants.md",
+      "title": "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants",
+      "excerpt": "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "originalUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "publishedDateTime": "2022-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor.md",
+      "title": "U.S. appeals court says artificial intelligence can't be patent inventor",
+      "excerpt": "An artificial intelligence system cannot be an inventor under United States patent law, a U.S. appeals court affirmed Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/us-appeals-court-says-artificial-intelligence-cant-be-patent-inventor-2022-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zfHRHa8GqFXR61NmxV7lu1-mJLc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q3OQD33BFRPLRC6RJQY5BRPPSU.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
+      "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
+      "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "originalUrl": "https://www.engadget.com/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/38277eb0-14d7-11ed-bfed-63245ce47b6b",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uk-facial-recognition-smartwatch-migrant-criminals-160623241.html",
+      "publishedDateTime": "2022-08-05T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-trai-floats-paper-on-leverage-ai-big-data-for-sector.md",
       "title": "Trai floats paper on leverage AI, big data for sector",
       "excerpt": "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,",
@@ -754,329 +1099,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
-      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
-      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
-      "publishedDateTime": "2022-08-04T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
-      "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
-      "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "originalUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "publishedDateTime": "2022-08-04T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-bloomz-provides-equitable-school-communication-with-language-translation.md",
-      "title": "Bloomz Provides Equitable School Communication with Language Translation",
-      "excerpt": "With an app like Bloomz, the concern that families are missing out is cast aside because of its language functionalities. Because Bloomz offers a variety of features which focus on accessibility and fostering equitable communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1869433/Bloomz_alert.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
-      "title": "Ghost Security reinvents app security with unsupervised machine learning",
-      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "publishedDateTime": "2022-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
-      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
-      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
-      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
-          "width": 2835,
-          "height": 1929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "publishedDateTime": "2022-08-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players.md",
-      "title": "Speech and Voice Recognition Technology Market Insights and In-Depth Analysis 2022-2028 with Types, Products and Key Players",
-      "excerpt": "Aug 04, 2022 (Market Insight Reports) -- The research report on Speech and Voice Recognition Technology market report provides a granular assessment of this industry vertical The report provides a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

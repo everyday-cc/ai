@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo
 webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "New integrate.ai platform preserves privacy in machine learning and analytics"
+    excerpt: "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,"
+    publishedDateTime: 2022-08-16T14:30:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png"
+        width: 483
+        height: 409
+        isCached: true
   - title: "Infosys’ AI & Analytics Play"
     excerpt: "Infosys is at the forefront of technology innovation and is leading the way for multiple AI and analytics solutions and initiatives for its customers across the globe."
     publishedDateTime: 2022-08-16T06:30:00Z

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
+      "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
+      "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/1/w600X390/IIT.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
+      "publishedDateTime": "2022-06-30T20:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-brain-connected-robot-arms-enable-paralyzed-man-to-feed-himself.md",
+      "title": "Brain-connected robot arms enable paralyzed man to feed himself",
+      "excerpt": "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
+      "originalUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg",
+          "width": 829,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-pitch-your-startup-at-tc-sessions-robotics.md",
       "title": "Pitch your startup at TC Sessions: Robotics",
       "excerpt": "Robotics 2022 – is coming back virtually July 21. It’s slated to be one of the best programming lineups in the robotics industry with luminaries like U.S. secretary of labor, Marty Walsh; inventor Dean Kamen;",
@@ -1158,101 +1253,6 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
-      "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
-      "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
-      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marietta Daily Journal",
-        "domain": "mdjonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
-      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
-      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
-      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
-          "width": 2000,
-          "height": 1718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
-      "publishedDateTime": "2022-06-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -20,53 +20,35 @@ topics:
   - AI
 
 related:
-  - title: "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’"
-    excerpt: "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch"
-    publishedDateTime: 2022-08-11T22:58:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/"
+  - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
+    excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
+    publishedDateTime: 2022-08-12T15:47:00Z
+    webUrl: "https://futurism.com/the-byte/facebook-ai-criticizing-facebook"
+    ampWebUrl: "https://futurism.com/facebook-ai-criticizing-facebook?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 61
+      name: Futurism
+      domain: futurism.com
+    quality: 57
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Meta's AI chatbot turns on boss calling Mark Zuckerberg 'creepy and manipulative'"
-    excerpt: "After a number of journalists tested out the new feature, the replies were a little surprising when it was asked questions about Mark Zuckerberg"
-    publishedDateTime: 2022-08-12T05:28:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
+  - title: "Facebook Does Something Right for a Change"
+    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
+    publishedDateTime: 2022-08-15T05:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 52
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article26125971.ece/ALTERNATES/s1200/0_GettyImages-961785536.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
-    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
-    publishedDateTime: 2022-08-14T11:21:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 36
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
     excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
@@ -77,6 +59,20 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
+  - title: "The Big Read: Watch out Facebook (and the world), as pandemic-fuelled TikTok boom unleashes the good, bad and ugly"
+    excerpt: "Driven to “insanity and boredom” while being stuck at home during the partial lockdown in 2020, Ms Nicole Liel turned to a new social media app that her social circle has been using to pass her time."
+    publishedDateTime: 2022-08-13T00:00:00Z
+    webUrl: "https://www.todayonline.com/big-read/facebook-and-world-pandemic-fuelled-tiktok-boom-unleashes-good-bad-and-ugly-1968086"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 2
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--z83YOMOV--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/08/12/20220812_am_br-tiktok.jpg?itok=de5AEKyH"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "lH+iXvN/4P240YMi3mR2ON9f3Z4MU3+n9aVO97dzwjeWgK/q7nxgLaVBd6woLRE7U7CmSlVNs4daq3JPB/HQXulU6kIar+IsbiHcre2KkTbBF3Ok88jRrxd6jr2OIVnwrxyWfnyrdrgGM13PjjgnUuO4IOEhlpiV0VOTz0c6aiQMICSNbe1kFtcTGf+fLKBp1lxSFMmIxwOuu7FBO6iipEr4AxFCmXVl3/+mC5OxBj0Lsz/ptBKvBDJKEX8yRQTZozpt0UL/Yii4AixtiLUY2LvKlu+mHBya8OMiMl2iq72aLCzVpMm0BF4ZYZbaQ4Fiv5X+h0eRvyV9+sN/plstVrEuHSU4WFdw3sSB2Xy747pHPGshzltB3+RtN0NtDUcXnhb9pSOVq3/G33wxEgsjadtOfoZKUgV9jgZbzf4PhmGg6nDve4uilvNjO0SloC8AnrG2l4SnvKia5VhWmYPY3n21wsxIou0mQNuIyUWrKLxvW8otNoJ6gIaR6ojHcVBtTSpQp1FarrzDULSDc0pLtw==;JUclZPDMLcgdQa1j5IxUJw=="
 ---

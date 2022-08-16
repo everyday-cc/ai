@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:12:00Z
 originalUrl: "https://techxplore.com/news/2022-08-superior-phase-recovery-hologram-reconstruction.html"
 webUrl: "https://techxplore.com/news/2022-08-superior-phase-recovery-hologram-reconstruction.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: techxplore

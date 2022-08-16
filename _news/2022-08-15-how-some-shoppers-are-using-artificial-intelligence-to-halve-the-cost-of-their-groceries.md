@@ -40,6 +40,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "These Are the Degrees of the Future"
+    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
+    publishedDateTime: 2022-08-13T00:39:00Z
+    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
+    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 54
   - title: "The Best Free AI Art Generators, Ranked"
     excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
     publishedDateTime: 2022-08-15T13:05:00Z

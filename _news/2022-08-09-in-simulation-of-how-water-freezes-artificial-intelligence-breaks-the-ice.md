@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "i1RzEvYceHlAb3089OF3ww2N7bomuIM5rZBxbXn9APt53uP4cy+jJmmUM9GGK3Goe6q5IJp0sqY6MqZ0MovVPlg/9B262lz4ewOud+NqaOTNgBlpgSLo9TEoIZ6+mTmsmiUcgJGS7mrhR0kso0R+ckiFUR7GClePyZ70NeT/OWYniL7PmuXuxVQPXMS6D/mMgriRY1lqqYPHb0DJgS2RyYWvL5hYZF4bo/bx6vqRHk3aOIaVJbkPuQZDD18MzDodaSnot8j7Xtdo1zPQsVgdxmdv1ynbSM1SP+J1sxSF919GB5A0g9nYfXYIRdHxvW5V05MTJ2ynvRTAkNyprLs6DQn/egmiRxqrcFPl9ESzD88=;sBX72llghM4zCv0cPNOhKw=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
+    isCached: true
+
+secured: "IpJMtAkqiKLjTzWR74GXETYPHk3OfxiZi5nu7yAmdRZRy5TBmCbZMLtF4b0Mo2gZVXPm5/mpZWN1r4xFtmVRYZVvejeRSvMypaMmgB1kBGL2TQoEtyXzaHUSQSEkXIHBCJZH8+KfaLn756vkuCoC4o060Uebs8AlU/xGps0EjAKpyHYZVC6Mn66LYwzDZEKdkv/j3eLHbACbBm71kSW1ZXrteRK0BmWVE6HO9tlsqYbw19NWlfFq6ozMg9NKkQQwwrVbLZo+cmy1PYRqf/kQB7yMCys4UECHM79JzPz7DuT9bpNh0XZgIjSoweCJV89XaLEA3DwxYhLZmiUFkn8mEMAeh7vfDT8/b3wNHCEorSM=;rSH9D7sWOzzrl7J80J1vbg=="
 ---
 

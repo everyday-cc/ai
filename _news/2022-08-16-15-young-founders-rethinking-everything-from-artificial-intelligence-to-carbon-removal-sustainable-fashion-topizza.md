@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:14:00Z
 originalUrl: "https://www.entrepreneur.com/article/432612"
 webUrl: "https://www.entrepreneur.com/article/432612"
 type: article
+quality: 60
+heat: 60
+published: false
 
 provider:
   name: Entrepreneur
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "KRagEEout2Xdj6iXwIZrTXfhBBnXa9n0e8ADP6Nr7ltlWlqjFFZ0DuYn10f3h9L+1/u5Svby6ttQG7R7TpVgzMJ8rs+MBJxlE4MNK8fYZvuC49aPYpwC1wDyUUrKEZl0nH2pWOwivpnvvn+2pED1hx8ogU2kF6JLgyVGtvZIpLntJg5+qRd+O2pkQlmsZoxGaROhSkUjHpBWE+MOeK3MN8x8HG9CAVrv//HiXSfbR8oEeUg7KwLzXjljf5bH/auikpaDJ3i5B18tvC8fNgLK7ECvxoSV7LSR4P5ZnKuIY3je55mt1KIbTjpxzp3TAngX0DbpAOWTdi/89mzRKzpJBxsSImpxdkfYvXvooh1LvFVaLQMf/W95f51boC5Kix/zktVW3pp3yKydudi7UtBu/VzVcUEEAVPatPI4enp5mBi+TInNxiu4QUpXC6nxV1EDYFGSut5LOeIxPbD3Xxpb2mS/SEpVikP3M/ljD6RQA7TJXpFXLHUcng8qJkSWqC+ZGo9Xo64N3qBUx7g3vhMLoQ==;hP10KpdHB8xvub8siwpnDw=="
+images:
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1660146923-ent22-sept-YoungMil-AlexandrWang-hero.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "nAOtIgj9SWm++Q4f7GroIP1daBIBSZP4ftHSy97IdJ5EsYsuiLibAPrc5TrZYsG7u7jZ7Zfn6yH6hQnm9NLU7s3plZHmvkWNS6mE6ZUclOiSAcSm/r8raoMvO7uOocMczQDtEcE7V3VeHGpsEjCTA66za13n3kax+Kn0RFRneOM5jQDP6elBTs8Fpr50duvVBgjjDFnBdC9bfgzfxvP79Auwf4juD6X9UBMdJTI2uLwZ1MP9XzoKjciTIe/ZcU6FmLI7izerz4FZW7k8Dmvpxbp9Mg6IPr5L0T4Gngt/cH8MBanKbOeLfVGRwqXcq2Ykrb+OepEAgOw26m69JAPr3qHtHt79vZxThH8ZuEIgSMc=;jBpkfxMHELSDBnOtSEzxOw=="
 ---
 

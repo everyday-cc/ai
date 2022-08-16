@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
+    quality: 17
+  - title: "The Biggest Challenges When Adopting Data and AI Technologies"
+    excerpt: "In this contributed article, David Sweenor, Senior Director of Product Marketing at Alteryx, explains what it takes to create a data-driven culture in the office. Taking small, incremental steps to developing a data-centric work culture is the way to go in the adoption of data science,"
+    publishedDateTime: 2022-08-16T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/08/16/the-biggest-challenges-when-adopting-data-and-ai-technologies/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 17
 
 secured: "qk88Rl6EKLy/oGjgSLPAgQBAKGdWrS/ROUHcqrxbMqJTviJFgN2gXORDnFeDrdmGf53tHJBjmWce8lu31QrW3yxZH4SQUMzHucxd+F/cbw7CwrN5SMMNvN1V7zP3muIkzR9ntFGApArsK2bp0KUq2lNc/XuLqxX1fjyC5bv2feyuKlteHO9BeffmjurUDF1nhs2Gr1eJUdRsgInP2uAenXP4IccCudOVVfr4P3mbyAVgFVJgFFkHUGEoWD1tMYvf8hTjJ8VaCNyuVVRZ5tMj7Tkj4N2hX8K81lDV4CLLXll4FxDkXLdIofVeQ0kC3TkaGIwXqip9SIWEIXy8kqVZz+8X0tvP2oLu+/9X/cnBzuq9pmsBwEh68pI+0iXRb89d8LtkPWHOzbEm0fT1BMLExO9V+4jmAodFk9+kYDfL1woFnkItDrs5qClDj2y/8+9ymp9Gt/+reBZwnKhzU02+ypu+a6M51ZpS2FWeeDkdmQuGvljYKiL3dFZEJDlBdxi8ewLuEs2aGR5HXZgl4YWn8A==;nqwviUKzmQbIBBVQhXccpg=="

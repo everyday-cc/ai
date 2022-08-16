@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T11:50:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/990225/fobi-ai-enters-into-qples-by-fobi-reseller-agreement-with-leading-media-platform-shopperbridge-990225.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/990225/fobi-ai-enters-into-qples-by-fobi-reseller-agreement-with-leading-media-platform-shopperbridge-990225.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Proactiveinvestors

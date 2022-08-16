@@ -38,6 +38,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "These Are the Degrees of the Future"
+    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
+    publishedDateTime: 2022-08-13T00:39:00Z
+    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
+    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 54
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
     publishedDateTime: 2022-08-14T22:57:00Z

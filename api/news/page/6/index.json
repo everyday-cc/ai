@@ -2,6 +2,302 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
+      "title": "U of A integrating artificial intelligence into exoskeleton technology",
+      "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
+      "sourceUrl": null,
+      "webUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "originalUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/8/8/2498165/_jcr_content/renditions/videothumbnail.1660054959435.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
+      "publishedDateTime": "2022-08-09T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai.md",
+      "title": "YC-Backed Kaedim Helps Game Developers Generate 3D Models Using AI",
+      "excerpt": "For video game artists, converting 2D sketches into 3D assets takes thousands of hours across a standard-sized video game. Kaedim provides game developers with modeling software that can rapidly convert 2D images into 3D models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb4b0553e2902591373b0b/0x0.jpg?format=jpg&crop=886,498,x0,y0,safe&width=1200",
+          "width": 886,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/09/yc-backed-kaedim-helps-game-developers-generate-3d-models-using-ai/amp/",
+      "publishedDateTime": "2022-08-09T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update.md",
+      "title": "Traceable AI Addresses API-based Data Security and Fraud Attacks in Latest Platform Update",
+      "excerpt": "Flexible deployment options: Fully out-of-band collection via network log analysis of AWS, Google Cloud Platform (GCP), and Azure clouds - specifically for ... About Traceable AI Traceable is the industry's leading API security platform that identifies ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
+          "width": 400,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research.md",
+      "title": "Global AI in Healthcare Market to Hit USD 44.6 Billion , Globally By 2026 at 44.8% CAGR | Infinium Global Research",
+      "excerpt": "The AI in Healthcare Market Research Report Study. Covers global and regional markets with an in-depth analysis of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
+      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
+      "excerpt": "Turns out, AI chatbots are only as good as us humans when it comes to biases as they learn from us. Last week, Meta released the company’s new BlenderBot 3 AI chatbot in the US. Within no time it was already making a number of false statements based on interactions it had with real humans online.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=tag-post-strip_item_4_news",
+      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/?ico=tag-post-strip_item_4_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
+      "publishedDateTime": "2022-08-09T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm.md",
+      "title": "NNAISENSE announces release of EvoTorch, a rare open-source evolutionary algorithm",
+      "excerpt": "AI vendor NNAISENSE today announced the formal release of its EvoTorch open-source evolutionary algorithm technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
+      "originalUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm/amp/",
+      "publishedDateTime": "2022-08-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-englands-rare-diseases-action-plan-needs-ai-to-succeed.md",
       "title": "England’s Rare Diseases Action Plan Needs AI To Succeed",
       "excerpt": "By further incentivizing investment in AI-led drug discovery and more direct collaboration between the government, the NHS and the life sciences and biotech sectors, we can make a difference at scale.",
@@ -241,6 +537,40 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation.md",
+      "title": "US lawmakers set their sights on reviving self-driving car legislation",
+      "excerpt": "As self-driving technologies begin to hit the market, new laws need to be enacted to create order at a federal level. Now, self-driving vehicles are getting a boost from legislators in the House of Representatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
+      "originalUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbtnews",
+        "domain": "cbtnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -839,325 +1169,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine.md",
-      "title": "Microsoft's Azure named official cloud partner of the Unity game engine",
-      "excerpt": "The long-time collaborators made it official, positioning Microsoft's Azure as the cloud platform of choice for Unity's future 3D worlds as they are deployed on everything from Xbox game consoles to enterprise clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/39d0861ae7c64367b6174547c351fc2765343ca5/2022/08/08/6e5d5ba4-23bd-41cd-82ff-466cb008df64/unity-x-microsoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "publishedDateTime": "2022-08-08T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-tools-predict-dnas-regulatory-role-and-3d-structure.md",
-      "title": "Artificial intelligence tools predict DNA's regulatory role and 3D structure",
-      "excerpt": "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "originalUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg",
-          "width": 2115,
-          "height": 1939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "publishedDateTime": "2022-08-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
-      "publishedDateTime": "2022-08-08T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-brain-robot-therapy-reroutes-motor-pathway-in-stroke-patients.md",
-      "title": "Brain-robot therapy reroutes motor pathway in stroke patients",
-      "excerpt": "Brain-robot interfaces — apparatuses where brain activity controls the movements of a robotic device that supports a hand or limb — show promise in rehabilitating paralyzed stroke patients. Yet the exact way the therapy impacts the brain is unknown,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960933",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960933",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/de0626de-b5a5-455f-8ba0-af79c260a7ac/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
-      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
-      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
-          "width": 1325,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:48:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
-      "title": "Baidu wins approval for China's first full driverless taxis",
-      "excerpt": "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
-      "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
-      "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
-      "originalUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=4646e4d2-757a-5482-9ca9-d15a9ed60636&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84603&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives?amp=1",
-      "publishedDateTime": "2022-08-08T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -41,6 +41,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
+    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
+    publishedDateTime: 2022-08-12T16:06:00Z
+    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
+    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 37
   - title: "Facebook Does Something Right for a Change"
     excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
     publishedDateTime: 2022-08-15T05:23:00Z
@@ -55,6 +66,15 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
+    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
+    publishedDateTime: 2022-08-15T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "7a8TXptbcN+ha0wzjkIvTMhn+8YQi0YPMrQ9zYS0rMbeY4qMNZ82UJB7Ve/zpg0EQpnxey3btv4PTww/kLt8ZhotygEDILBMIfN3U29lq05OmGnZxf/yH74KkbTjMaPVjn8Mck9polvl8kwCBhYEPHcetKqO/Xe5PQamw81OMb5Xz6IGo827ijT8PFX9MyNXt8CWInHLkewb1SvxiBzD+zcpGvItrsuZgdwt+DP7doPqUIwn56CKvWfUMUd5ikczrygLTzOFl/kJ1H+51n1FUkpZt4mMxfHhtwXmb5CTV7f2OYFMhtVjn2WSKkWVfxKg6Yg/wEA5UxqHxR1zrtwoYrJjwqEUZL0JaylZNzYw48MNPnjqWnwphSrZ9Y9Sxv8mokNx4E+9XbY6JzwZAk+/SPaB3CPYhNSmf7jnzCfXZuXGf/NY7TGVFCL1OcdRF6SBJ9LF9p9LPxT9OY/KZXimX95ZM16ztWAzElZFA01l2Rjsw7QJgULFkWaQzgAjdwSvoH50ndLp39Uv1KRiTDRxPQ==;uLiUba85mw6aeO7voqIb6g=="
 ---

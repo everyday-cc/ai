@@ -24,6 +24,17 @@ images:
     height: 337
     isCached: true
 
+related:
+  - title: "AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \" AI in Insurance Market by Offering (Hardware, Software, Service), by Deployment Model (On-premise, Cloud), by Technology (Machine Learning, Natural Language Processing,"
+    publishedDateTime: 2022-08-15T12:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-insurance-market-reach-4574-billion-globally-2031-/2022/08/15/9655654.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+
 secured: "FWf8u5hzkoLM/RuQ4OcX7EmuCq38W5flYGMeKx+lamAEoitUxH+UuyxS0s+GtDuA8OhQUbiv4x5JOi76T2ndBUZsTQ0grjX3l7wjLb5ucxEh1Ifclk/J4EY7L+bdr/rXD1VPoZWXaR769/4zsHIStHe33jIe25x0lrVjJ6V0xSvFrL0tt6FX/Ox+pdzFukXJnCNHe3uUME59e3na6BtiDLzZ5dP9gv84zyNLYQBlv/YY2X/8sOvQYD/UctcpZCmiEI4bXZfyqducPk98roe//cWNAPkRNcRK+04KhQ8WWpkGfc6QMb7UBZoBlrcXrfG5XTr5FzqKta7te/oOVqzykrhoawFYmiEEwxVSamvS1g4=;Frm8C3YPLrsDE9cuXx1Syw=="
 ---
 

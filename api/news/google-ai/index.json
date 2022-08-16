@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-making-robots-more-helpful-with-language.md",
+      "title": "Making robots more helpful with language",
+      "excerpt": "Even the simplest human tasks are unbelievably complex. The way we perceive and interact with the world requires a lifetime of accumulated experience and context. For example, if a person tells you, “I am running out of time,” you don’t immediately worry they are jogging on a street where the space-time",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "originalUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Video_Thumbnail_DJA2TWg.max-1300x1300.png",
+          "width": 1300,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-realising-scientists-are-the-real-superheroes.md",
       "title": "Realising scientists are the real superheroes",
       "excerpt": "Meet Edgar Duéñez-Guzmán, a research engineer on our Multi-Agent Research team who’s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
@@ -1329,59 +1381,6 @@
         "AI in Healthcare",
         "AI in Autos",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

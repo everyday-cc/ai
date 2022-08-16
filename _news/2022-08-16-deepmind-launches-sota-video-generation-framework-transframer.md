@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T13:22:00Z
 originalUrl: "https://analyticsindiamag.com/deepmind-launches-sota-video-generation-framework-transframer/"
 webUrl: "https://analyticsindiamag.com/deepmind-launches-sota-video-generation-framework-transframer/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

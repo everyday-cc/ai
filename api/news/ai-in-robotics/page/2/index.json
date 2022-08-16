@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-demand-for-inspection-robots-expected-to-spike-by-2023.md",
+      "title": "Demand for Inspection Robots Expected to Spike by 2023",
+      "excerpt": "Shenhao speculates that inspection robots will gain popularity in three major application fields: energy, rail and power stations.",
+      "sourceUrl": null,
+      "webUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
+      "originalUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://railway-news.com/wp-content/uploads/2022/08/Shenhao-Inspection-Robots.png",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "railway-news",
+        "domain": "railway-news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
       "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
       "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
@@ -1287,101 +1383,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
-      "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
-      "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1867128/KEENON_Brand_Day.jpg",
-          "width": 400,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups.md",
-      "title": "ARTPARK Foundation Sets Up $100 Mn Venture Fund To Back 10-15 AI, Robotics Startups",
-      "excerpt": "ARTPARK will invest in 10-15 early and growth-stage AI and robotics startups over a period of three years from the VC fund",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
-      "originalUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/07/Social-13.png",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
-      "publishedDateTime": "2022-07-28T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

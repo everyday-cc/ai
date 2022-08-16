@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-03-google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image.md",
+      "title": "Google Translate camera makes it super easy to translate text from an image",
+      "excerpt": "The Google Translate app uses artificial intelligence to translate text from photos in a matter of seconds Since camera and AI technology have advanced so much, translating between languages has become a whole lot easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
+      "originalUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KskZgw3fzEALBhKZvsRVfD-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitalcameraworld",
+        "domain": "digitalcameraworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city.md",
       "title": "Juneau’s first Ukrainian refugees receive special recognition from the city",
       "excerpt": "The pair, who are the first refugees from the war in Ukraine to seek haven in Juneau, received a special recognition at the beginning of the CBJ Assembly meeting and gave a short speech that ...",
@@ -205,10 +248,10 @@
     {
       "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
       "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
-      "excerpt": "We have demonstrated that NLP technology can help identify critical medical conditions relevant to preanesthetic evaluation. Key to this was KAID Health’s ability to utilize unstructured free-text input from the electronic medical record (EMR) to flag critical medical conditions for anesthesiologists,",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-1-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220801005505/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220801005505/kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -218,11 +261,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T07:00:00-07:00",
+      "publishedDateTime": "2022-08-01T08:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1339,49 +1382,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-natural-language-processing-market-size-share-industry-outlook-global-forecast-to-2031.md",
-      "title": "Natural Language Processing Market Size, Share, Industry Outlook & Global Forecast To 2031",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 06:04 /Comserve / -- Impact Analysis of COVID-19 on the Global Natural Language Processing Market: As per the study of Research Dive, the Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "originalUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357472",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

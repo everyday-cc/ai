@@ -2,6 +2,208 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
+      "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
+      "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
+      "publishedDateTime": "2022-08-11T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
+      "title": "Degrees of the Future 2022: Artificial Intelligence",
+      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
+          "width": 800,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
+      "publishedDateTime": "2022-08-11T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
+      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
+      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "publishedDateTime": "2022-08-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
+      "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
+      "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/27/ML-7925-image001-1225x630.png",
+          "width": 1225,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:46:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-why-diversity-should-have-a-critical-impact-on-data-privacy.md",
       "title": "Why diversity should have a critical impact on data privacy",
       "excerpt": "Exploring why diversity must play a critical role in data privacy and how companies can create more inclusive and ethical technologies.",
@@ -634,6 +836,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-11-clearview-consent-launches-presentation-attack-detection.md",
+      "title": "Clearview Consent Launches Presentation Attack Detection",
+      "excerpt": "Hoan Ton-That, Clearview AI’s CEO said, “The launch of our Presentation Attack ... facial recognition technology providers such as Amazon Rekognition and Microsoft Azure, while delivering superior performance and accuracy. Clearview Consent is also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
       "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
       "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
@@ -834,6 +1070,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
+      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
+      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
+      "sourceUrl": null,
+      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "whichcar",
+        "domain": "whichcar.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-realising-scientists-are-the-real-superheroes.md",
       "title": "Realising scientists are the real superheroes",
       "excerpt": "Meet Edgar Duéñez-Guzmán, a research engineer on our Multi-Agent Research team who’s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
@@ -935,312 +1214,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-microsoft-makes-its-3d-emoji-library-available-on-github-and-figma.md",
-      "title": "Microsoft makes its 3D emoji library available on GitHub and Figma",
-      "excerpt": "and PowerPoints into apps by using Microsoft cognitive AI tech to scan the inputs and produce working app controls backed with data storage. The company also is working on a Canva-like tool called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b57d8a198543fddaa3d95993722019034d1e7984/2022/08/10/2160b01d-1efb-4126-954e-2ca6664587a9/microsoftemojigithub.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
-      "publishedDateTime": "2022-08-10T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
-      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
-      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "publishedDateTime": "2022-08-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels.md",
-      "title": "Use computer vision to measure agriculture yield with Amazon Rekognition Custom Labels",
-      "excerpt": "In the agriculture sector, the problem of identifying and counting the amount of fruit on trees plays an important role in crop estimation. The concept of renting and leasing a tree is becoming popular, where a tree owner leases the tree every year before the harvest based on the estimated fruit yeild.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T12:02:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
-      "title": "10 top artificial intelligence (AI) solutions in 2022",
-      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "publishedDateTime": "2022-08-10T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
-      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
-      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
-          "width": 1328,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T08:57:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

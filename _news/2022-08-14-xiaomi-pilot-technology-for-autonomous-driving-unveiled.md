@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-au
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Clipboard012.jpg"
         width: 800
         height: 393
+        isCached: true
+  - title: "Xiaomi to test self-driving vehicles in China: CEO"
+    excerpt: "Xiaomi will begin testing its autonomous vehicles with the goal of becoming “an industry leader” in the booming Chinese smart electric vehicle market in"
+    publishedDateTime: 2022-08-12T08:18:00Z
+    webUrl: "https://technode.com/2022/08/12/xiaomi-to-test-self-driving-vehicles-in-china-ceo/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
 
 secured: "cxbmpoZusKparO4qT3IfXTVGDZHf3hpbTp5OXvZp51L4bwRqU5IX41TPNOqAuU0uJ5kfWAUYJUHp9XCYIMd8/Il/tgPqcK4mjwyo7KwYzgCW2XxLzPT43so51oGLwI1+2YXqvvr+mkSzow6Yu4SB1vUkdoMfCtvHKRf5x8iziT7EHn/zE72hslh8oMVEk8e8Gj/wD5sIZ+N1xlSV8tuc+IS2j3+WBlH/kYuv7MLAXrnJUSwNP1b1k6g6/LdLPXylIjYXxgB/g+HHpHSFl94KH5XEevOtUSc7oJCAZzltntNZ6wsXAV0MM+c1DiKNXVG7yrW2CDcqo3IA6ZA9KJCByBbfg0rLOhPTk15LdBiQ1ospwm7yFMEH33IIPH922k03Fb1tY0BxxI/L8lJaKwTdynwKcn5/GCvLcW92s2JZY0oGdvQQco0JDhCiJYQRH58PNK4NAriA4x7FklN3z7uLdv8pRXqQbeTcl0vDEqWyWiaXtBglc6dW0299IO7mRc1Z+sOw4iIhd975xQWMZtMRMA==;ShVMQN6wmorfQ9P+aUZatw=="

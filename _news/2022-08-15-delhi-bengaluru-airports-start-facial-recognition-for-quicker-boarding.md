@@ -51,6 +51,15 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Digiyatra: Hyderabad International Airport set to use facial recognition"
+    excerpt: "DigiYatra will avoid multiple identity checks at the airport enabling seamless and hassle-free travel. “This technology will enable passengers a paperless travel, and they will be able to use a face scan as a boarding pass” said an official."
+    publishedDateTime: 2022-08-16T13:45:00Z
+    webUrl: "https://www.hindustantimes.com/cities/digiyatra-hyderabad-international-airport-set-to-use-facial-recognition-101660654923141.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
 
 secured: "CNyP/Cr4WH9Aw0ysbQJX3pHviZOeVd7gZ/xylqTBA/oHFpxyF4HB9jvVDQKzNn8eZCn8hYjsTlApkwha4Pqqk+Bs7hwyMBc5suQAe53tMdQHiTUBGWCrmuP6He3P59ygRE8M8wauOKVWlZ9xjbHcN1sn1KF8o0cc6DJR6pEskK/GjFQySP+ZdwKc2ewUD5eekd/Hgl7+wKEl0DeKOJJtKWicdyRMXg/GKun9lW88uqhqLhAFldHmQDe5lNb+Ffwo9bOB6a+e++BRtExSEihsaB7br2XVBgDrV/atuOJYJIgFj3sQ2q6Q2bFV2EXTEHLgQ4Fc9nyLMRQUcxTt/dRX6VGdaGprtD1WfVsSCBeIPK51R1/MWihYTqlKu68JTS/OBvWwfU91X9sm0FJqomY166zTxN+HugQdZattQ5lZisJr6lbZ0VrapNynIA2ji+hZShcjB0WdoqDGKKvEJ7/85qT27tLeINXt4rCYU23N/IvBUwNByafH9QIH36JHnLCNo0DWUUURxn/9GRANJ+oV4g==;mNL4B+iAuIs7DjhS5Nx1Lg=="
 ---

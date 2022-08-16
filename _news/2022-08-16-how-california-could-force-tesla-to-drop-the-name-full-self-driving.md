@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
+    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
+    publishedDateTime: 2022-08-16T11:17:00Z
+    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 71
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
+        width: 1975
+        height: 1110
+        isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
     publishedDateTime: 2022-08-13T10:30:00Z
@@ -64,22 +80,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2022/08/xiaomi-cyberone-humanoid-robot-400x240.jpg"
         width: 400
         height: 240
-        isCached: true
-  - title: "Senate Candidate Attacks Tesla’s Full Self-Driving In Ad Where FSD Doesn’t Appear To Be Engaged"
-    excerpt: "Tesla’s Full Self-Driving technology has plenty of adversaries. One of those is Dan O’Dowd, a tech executive who owns a company that builds software that competes with FSD and is running for Senate. He and his Dawn Project initiative have just released a smear video purporting to show how dangerous FSD is."
-    publishedDateTime: 2022-08-11T21:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/senate-candidate-critical-of-teslas-full-self-driving-releases-attack-ad-where-fsd-doesnt-appear-to-be-engaged/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 47
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
-        width: 1024
-        height: 555
         isCached: true
 
 secured: "StLoFHMAkzdreAy6fiTcvdrITyncMG0CzJaX0dPzxbeO4N0tdfxVmlmdNL6d23tleQ1gEwUlzbFyHt37WhVuzosY3WBZIHLU6GTGlIAAWQOkSGsBLAunonEmtaP8u8sdi4dA8yOz6hRZsuzDg0cjfQtygVZMtL9DSHqXIKaD0UuR+F8OpsLvJlgrwkKGuizgP/Gt82dGpGHDpA5HjOFDa4CETNgQNS1Riro2NkTGzjAaGDj8qRSXTkAvcbc76L/tE8CSqtDjliCAYZmapGAeTuxw6HCYUvzMR9LQk9ki3TUQAlivflAoOUoUyB2NRfVxtDFLOA3fqD0RWdtN5yTyflefE0DaNhXqpomuYEFwoEQ4wbakdxYQ/ocC4dgU913BxPL8ylgnr2at5NgCv0npYB9K/OvI1gCWBEgGTkLSkPsKUle0hNRs4zlqRIKPPqV3mGMatJM+jkm+i9uDuK2EACIGPlaIec7dg67KpACHUJvfKYlGj2K22McsfrHsv5Z5otTpRW009+Kml27HVwFFmA==;5fkfQjvSvDbY397nVdsSKA=="

@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-16-natural-language-processing-market-forecast-2022-2028-cagr-294.md",
+      "title": "Natural Language Processing Market Forecast [2022-2028] | CAGR 29.4%",
+      "excerpt": "Jun 16, 2022 (The Expresswire) -- The global “Natural Language Processing Market Size” is rising with a steady CAGR and expected to generate the highest revenue by 2029. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-forecast-2022-2028-cagr-294-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-15T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-customize-pronunciations-using-amazon-polly.md",
       "title": "Customize pronunciations using Amazon Polly",
       "excerpt": "Amazon Polly breathes life into text by converting it into lifelike speech. This empowers developers and businesses to create applications that can converse in real time, thereby offering an enhanced interactive experience. Text-to-speech (TTS) in Amazon Polly supports a variety of languages and locales,",
@@ -1301,58 +1353,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
-      "title": "Conversational AI: Trends, Forecasts, Application Options",
-      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "publishedDateTime": "2022-06-06T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

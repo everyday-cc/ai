@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-05-12-google-adds-support-for-24-new-languages-to-translate.md",
+      "title": "Google adds support for 24 new languages to Translate",
+      "excerpt": "Google is adding support for 24 new languages to its Translate tool, the company announced today during its I/O 2022 developer conference. Among the newly available languages are Sanskrit, Tsongae and Sorani Kurdish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-translate-24-language-expansion-171810853.html",
+      "originalUrl": "https://www.engadget.com/google-translate-24-language-expansion-171810853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-05/5ef38f70-d14d-11ec-9ffb-4994f1bacf3b",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-translate-24-language-expansion-171810853.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-translate-24-language-expansion-171810853.html",
+      "publishedDateTime": "2022-05-11T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-transnational-modern-languages-a-handbook.md",
       "title": "Transnational Modern Languages: A Handbook",
       "excerpt": "An Open Access edition of this book will be available onthe Liverpool University Press website and the OAPENlibrary. In a world increasingly defined by",

@@ -41,6 +41,26 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
+    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
+    publishedDateTime: 2022-08-12T16:06:00Z
+    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
+    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+    type: article
+    provider:
+      name: AV Club
+      domain: avclub.com
+    quality: 37
+  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
+    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
+    publishedDateTime: 2022-08-15T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
   - title: "The Big Read: Watch out Facebook (and the world), as pandemic-fuelled TikTok boom unleashes the good, bad and ugly"
     excerpt: "Driven to “insanity and boredom” while being stuck at home during the partial lockdown in 2020, Ms Nicole Liel turned to a new social media app that her social circle has been using to pass her time."
     publishedDateTime: 2022-08-13T00:00:00Z
