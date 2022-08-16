@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Computer Vision Market to Grow at Healthy CAGR as the Potential keep on Unwinding | SkyQuest Technology"
-excerpt: "According to SkyQuest, the global computer vision workforce will grow from 190,000 in 2016 to almost 485,000 by the end of 2023. This growth is due in part to the growing demand for applications such as facial recognition and autonomous driving."
-publishedDateTime: 2022-08-04T12:23:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology-2022-08-04"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology-2022-08-04"
+excerpt: "Westford, USA, Aug. 04, 2022 (GLOBE NEWSWIRE) -- Computer vision market has seen a rapid increase in popularity recently, with businesses and consumers alike turning to the technology for a number ..."
+publishedDateTime: 2022-08-04T08:24:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "piNYWAinz/qjIz+sRmxCvlSjRf0cjNJcvy06L4HNtUAAJtzN8qRqu/ODq65YQYoITQunsB7Blg4HDCCuZJ47qv0FRGg3BSBNzIhd/S3FHoCLmB3kAN1+gCsQFsg+hCz6RMK0NMrymB9k/LF16GY3hOq1x3sqa26Eiem0CRnRNHJ/eSJ/TjL/XvwpFVmphBaAaKEQrUgTs2M+0W7Xfq7WfhRGzhYRNkx/DcN9l5cCVw7KHo2sjPR7ZMsy9lzVl6I7PwX3rC2D8L6bjXGXPliWPY+dXXloxSz3S45nWZwydQSR5+T8z1RZICwaU4MeWjI3aPeSzQto6Q+h09d4Z1q0zW+CFcnQthyOSzU1QPVaxHk=;5WLebqG7FzajjbSBXAWVKQ=="
+secured: "ewoMF4zLdiO+sI6ivcDmqg/gNCRV2DdMFaIESBt7/ki6ppkkGHAXwBN39rymnTlUVKPX04Bx0EWp+C/BcefvFrMK/glF61R9F7RKCsl7bbhwnOU5Z09nNnJAawD2E2EWPjZcQlwVAtuW3PM3hsm0KGhSVcmaroWxRv4D/jl4CY4EMVkucyEy3D41ZJfGziUlDp1PtyB1HLA4lqVUimvjFK71y0OciUHDpVfogYquTgcBou/VOWevXv3pkr9XxdFI1oL+ojs+OhPDU8bSGRa0SKgjKB92XnpraBYVnYTGV5J6DKBKcDsBwPTfT5IoIcMlRg70iOiR/4i5OdB2ytCG/gwL9wEoNy1cxRte+djw5kI=;BXN7iNouxhatBDuosBfJkw=="
 ---
 

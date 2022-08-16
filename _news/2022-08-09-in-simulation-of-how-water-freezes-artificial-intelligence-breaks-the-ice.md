@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
@@ -22,6 +23,6 @@ images:
     height: 1440
     isCached: true
 
-secured: "0e+KEMEUgLvhBxdq2O0/O4q5SrcMVupsj9WnRz+c9j0lWe37Oiux+m/NcLbxohKAIC6z8qMkZLGIZt3uJ161o4Q3KvexbxrUozFj7b/92L1qkslfSc1tmeK+pP7Gminuys83ow/xW/FdN5sHbj/vRUcKmmV3tSNODbiHPMuLSRS8W/VUrfBkp5w9EuTgg8bAbdGCJBH724WbCp6VOyX4V/g8v5RQjbFNjHOpJKoJBLvoVCH47iPqGzxFahN+f1Vu9XYnA/P08i9BlHNnT4dwH0yd+dgHDKYfVzvMtGgGky8F+IUd8iv2DRSgr/p90v0bPadf2Gjd+znL7QImVURwjstdoLFGS994oDqVdvHUrig=;oZOUm3b3MMffY2E3HPPvpQ=="
+secured: "GYIgQI6lHKcL1ZhpPqG0Pf6Dunr6ljWQF4e6d23EZ25O31GBVf6Q1DXYZspMoa0KW7AUMIX0tFfSyadnPUOTxhyaivbxgcTzIHDE3mTk9StPJCHnRK7pcdqE4EPj33w+/JlKN9CFXxftlPNvhGF0FnIwm1pE8CLon/eHTL15QskoFh5Sc01DTGY0wIJx0d3bCD7njXg1eFhx8JHUrFQObF3rFv03wdULdJ39zuCErayhlUpexTso+UpLPKifNTPXP6IWikFUUo/oF1xq5kIRPs6MUPq5AwvVfCFCyAm+PPoopTW51/JiMdnsYgALHEeR9jlIZpt0BjXOZU+jpGq0dIxsZlqClTQX3uUQ05CHk81Or6dY9lna9FyvmVcvE3mXZdIhv1PzUcNLQb6wRIeXUrCNrQQoV5kBwkLeKyCiL6zHrwvl55B91AB7HZTfjhYJlBdoI9U6AyduDDCutzmcoKw0KESvBwDgP01bCTNSXh9G/iPsrA49qlyeRy/7i96MoIXAwthphLzJiMoJT2MS5w==;nQSQWuIg8YzM1252gy9Nuw=="
 ---
 

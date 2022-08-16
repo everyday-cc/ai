@@ -1,0 +1,20 @@
+---
+category: news
+title: "Talking about an AI revolution? Don't forget the storage"
+excerpt: "The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology. So, what is the state of the art today? What effect will the hybrid cloud era have?"
+publishedDateTime: 2022-08-16T18:00:00Z
+originalUrl: "https://www.theregister.com/2022/08/16/open_storage_summit_nvidia/"
+webUrl: "https://www.theregister.com/2022/08/16/open_storage_summit_nvidia/"
+type: article
+
+provider:
+  name: theregister
+  domain: theregister.com
+
+topics:
+  - AI Hardware
+  - AI
+
+secured: "sn448mPvlh3UqugL1gc40AHv6u4SU+iQIo1/xVbz9cZ9aCiDo7OHn2WR2L7JDTKNBZDHalrt7imfs5q/Q0Ak2CHb9eNPfC4oHs7ePT3SndYFsr7L9h1qwIMUHq5O7YveMjkbeQSYZhdp9/lOCr4k6Y7ors6KwYcunVy7k3Ql5btbF9OwpYJ2U0P3V9l95dtFWHFHnKTv8RIKhghHvZNyk8hm8Lj8Q/BFzSD+MMIJWCkayT9hpCr2Q9T168Sv9hA8IzLe6nRdd5Cw4we3qcx2sKwrXqIhWENZVd7YH8R7c8zF0xSHKuwqQG2Yr3YLj9u0qCMgzTk3+QlK2o68VUlW1dA46apSAylVFQw6vymo/Gj4E48qPVT1SPUN7wJf7/I2MQJd4IvU/YkHzJcgL1TPy7Jdt2y0/llNlCVG7i3pzJbzlghKPlmhecLN83gTIGe1qdkjKtZ5K2gfsYM3IKENX4SutG5RefBMFfFu4iKCk3+o5XDpnoq47T/Mgqy9vEsnpmDnfVs6vz03GXG6hE1HYA==;KDO0NTE0DPFPACU1F03EKQ=="
+---
+

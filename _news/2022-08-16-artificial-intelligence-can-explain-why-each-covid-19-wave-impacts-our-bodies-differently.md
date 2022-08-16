@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence can explain why each Covid-19 wave impacts our bodies differently"
-excerpt: "Scientists from the University of Surrey collected blood samples of hospital patients and found that Covid-19 changed people's metabolism. The team observed that the effects of Covid-19 changed over time,"
-publishedDateTime: 2022-08-16T12:18:00Z
-originalUrl: "https://www.surrey.ac.uk/news/artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-our-bodies-differently"
-webUrl: "https://www.surrey.ac.uk/news/artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-our-bodies-differently"
+excerpt: "Researchers have identified what they believe to be robust metabolic markers of Covid, a discovery which could lead to better understanding and treatments for people that suffer from symptoms of the disease months after diagnosis."
+publishedDateTime: 2022-08-16T14:41:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961951"
+webUrl: "https://www.eurekalert.org/news-releases/961951"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: University of Surrey
-  domain: surrey.ac.uk
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "4/yvgVlATHipA1eh5m6MNR1FHENg4iV1dbNfwMguVCI79Q7vt2zqzl2ow2DsV2MPXNU8wInA4LD8gO515wfoLxYossFPXDPPN1jDgm+6eVPauBQUuMbhkCkcEKNE06GVcEyKSQKAO/tCZRjH5xgUuorxXsXrGc768KghNGVepb6SMhpY5P8ft1XTgt9ImOlFJj5a5Wx02wX4D5LZcj93fULV5ZPx+H4iPvaIq7CW0BD0MqhY44K5DYBh3iPepjBbwM7E7D+MjzWuY+x/elluWGQg9Y0TJQICUZg0XPOzYOB2P2jdXTqmhPcT7Zb06O5njJnzRPj9Ess83tY/QgJNl/8Bu7n/Gf+anJV9HXSeaw4J7tZq+GDujV/J6A0OGJpYYnXnzjepnrTVsxkj9lqQTWYcjq1UQGh/28stGt+fKexFnGzpJxtb0eODqnbCytK5Wg5lKsEd8XBPRw4wtXsnRycFlFAwgNfeNvLaZSn3twpsgF737wz3x8byfWKEwLluSFxJK+v0isSWTGJM4sT/ew==;PFKG87rsCWiCdSdZCIi2mA=="
+secured: "1JCKooyCiDY3k4Mc4LpXjmDbRk1ZekjB6iA5je7BwFKi7Il4qVwrQGktz+RK30Hg1/UXoOraDUbD9NXZPF69ITRNFCMrT3LAZTKTKtvftSpVEtifMlmFFRCqnja7y8bSUrWXx5+jwMW+h9SEpC4Ww1z2+PQ7QyuKdwMqn2ONlhVpYuTPxrmYtAOTezqpA3AeQ3doNsKSywvFko8hJF21/9ITZNs0o7NIIEtRenEcaufr/QVlpRtGIjKIF6cpa8XtQyNalQxoFYLnYar7Gsa/TD8yH4beNas6X8Sze43CbilcDuep8per+AKUUUE81fxhP4vDcEyecDtT9WwJtKyVsTweSYMQuezvsFkW1DRoSl8=;TMWE7Jt8yWmzer5dovXykA=="
 ---
 

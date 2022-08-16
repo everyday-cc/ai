@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Gaggle and AWS Collaborate to Create Mental Health Hotline that Connects K-12 Students to Trained Crisis Counselors, Anywhere, Anytime"
-excerpt: "According to the latest research from the Centers for Disease Control and Prevention, 20 percent of teens reported having seriously considered suicide, and nine percent have"
-publishedDateTime: 2022-08-03T14:19:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28333252/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/g28333252/gaggle-and-aws-collaborate-to-create-mental-health-hotline-that-connects-k-12-students-to-trained-"
-ampWebUrl: "https://www.benzinga.com/amp/content/28333252"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28333252"
+excerpt: "Gaggle, the leader in helping K-12 districts manage student safety on school-provided technology, is working with Amazon Web Services (AWS) to address the issue by providing in-the-moment support for students experiencing mental health crises including anxiety,"
+publishedDateTime: 2022-08-03T14:23:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-health-education-mental-8d59f7b22bea8e4d8f9f49ad748875ca"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-health-education-mental-8d59f7b22bea8e4d8f9f49ad748875ca"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "1rDshspXEm46ataRX6QCT3zUPsnD2cdeWbq6bP3rlYZorF8x8lXyOnA1iBE69G2feJvVHYHnN+sd2MGmP4y5xUptTSIy+Snpm42S3f2AXS4Ga//YSF5rRQ++ngwcEc/8XihjXyzDyH5VAvi9AhaOvy8EeSraJp1813wVY43re1Jd8DxogFOM4wpLu+xiHqWilo5gBkSEHdUO9o6MlBilKF8n5pD1zLg/ROHzu/V114Howd4MiYIxSwa7+WETIGFWRHagzXnWQqx/vGmnL0T0QXqXDYzNliO+6vXkMaDPxxvaschROUFWoUzu9z67rEegCMMA1t/e+Wg5+OebojzXddFRfkYPWyjjkdYuxFBPBLQ=;OoSrLHQIwdtJo1u9VAPlZg=="
+secured: "NJmSe9AfkVoaBEmM+Xa7cr3v3x5tfYZT/9EOKnhHMTLD7VOz7DnuOPYLpDqtbulX8GCC8SvONTqSQDNb7gnSnt2RLNUGx/nthSDnefD9HYdZ3YZxRZ2QWvAMYbIxEUj964KrVUoYxitJH2u7HFiQJtBm1miTzbkl2aiFAgm0CLz2mSyujtDPVT5Ecl8oeA82HoCJGcKqMNb7Gy4n/dueTK8MHMcRkQ9+jE3aMiMXnbe/hOutD2/8S6ktunopnZ7dfct7HBHNWmLLR4EZ3Hde8csC0QWKf8MzIHpwDONQE+Qo3x9wVDw5J/8qz/7SXQDB6sNZizGLUeyrd9ZibQz1qPNNV73FbQunBb2jrMxoa2o=;yuPkZCwPNFr/WZPGGZW4iA=="
 ---
 
