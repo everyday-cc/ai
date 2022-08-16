@@ -75,15 +75,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
-    publishedDateTime: 2022-08-12T00:00:00Z
-    webUrl: "https://cacm.acm.org/news/263568-ai-may-come-to-the-rescue-of-future-firefighters"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "Imagining the AI-powered future of the financial planning profession"
     excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
     publishedDateTime: 2022-08-12T12:00:00Z

@@ -60,6 +60,15 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data"
+    excerpt: "The platform leverages federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access due to privacy,"
+    publishedDateTime: 2022-08-16T16:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656838.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "LfKfeF63ORvp9rhxXSlw5012XVJhYyl6NCaQf1xdHEWT2Smvx7Egxqa/frxNSZYAMijINi3QZpb9IrxgoWRU513TWW3P1l0TjNMJ0b4Bp3M7qMBpwuZDxnglwaAlOwj34aOwKsIOm7zmz81L+LYJ3KhdixYfdnNjL8i/+ZdVcmztRZSZci2X9/dvKfzjh4uwGS8CP9cZ8h6l+nx+jLIJf/kK08Syq7s9YEa+vOkP3ieiSpl2snxjTSYshoJXzeTIUqsiKarouz1tlDdmXd5NXIu31ZDlcUxwumGzt/pl5pB4lZKyNqLi0eXupCJ947/ji5xIwFuKlwEoH7kNwQFCcUqbKjIX5/6Zxj+zz9jQ5lg=;sDvAT21x2H1Ts/x9V9PcSA=="
 ---

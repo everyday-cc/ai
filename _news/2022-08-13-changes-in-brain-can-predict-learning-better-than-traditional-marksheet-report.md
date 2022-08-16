@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/science/changes-in-brain-can-predict-
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/changes-in-brain-can-predict-learning-better-than-traditional-marksheet-report-101660366251203-amp.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
-    excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students' brains while taking a course that emphasized spatial learning."
-    publishedDateTime: 2022-08-11T23:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 33
   - title: "Brain scans reveal hidden shape of thinking, predict students' learning better"
     excerpt: "Magnetic Resonance Imaging (MRI) scans showed changes in students' brains as they learned the course curriculum, and these changes were compared to the ways that learning is traditionally measured (e."
     publishedDateTime: 2022-08-12T17:58:00Z

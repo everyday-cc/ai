@@ -73,6 +73,22 @@ related:
         width: 1975
         height: 1110
         isCached: true
+  - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
+    excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
+    publishedDateTime: 2022-08-16T16:49:00Z
+    webUrl: "https://futurism.com/the-byte/california-tesla-full-self-driving"
+    ampWebUrl: "https://futurism.com/california-tesla-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-tesla-full-self-driving?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 55
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/california-tesla-stop-calling-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
     publishedDateTime: 2022-08-15T18:27:00Z

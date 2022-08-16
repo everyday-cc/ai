@@ -61,6 +61,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 17
+  - title: "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data"
+    excerpt: "The platform leverages federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access due to privacy,"
+    publishedDateTime: 2022-08-16T16:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656838.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
 
 secured: "kOP1ORKYD6tYvmnlzBWb9RI1JWhijDed5uFoEJzv+ZraIKSJgxGE70nIpXTrdp4+zDPMjjVKFX4yYkj9xTGIpTqF97azeTEo6mtmi5o10/JGQu8pV+q16PyHlCnnbFxzen8i4zkXvViqRUyETfFrJpbL5TtZnrjyVTfs8H9mK7AvmXvjCiFbaGZao+UzhwalhQJaAq5CSKM9u9oC8g08AuCzdiGvHNsASa6vIk9AL36EdFaoLaoc6UgdI/rN7pswvd7f5wcOqz9KaS6E8p+cvA/H5sbH53eCUPMtG6md8xkGUH1UZfumq9CkdYcyvZwxREH/twkL28WuTeKzHu7G/AnNy9g7+fXkLqGug5+zYpM=;yVnNlsOtoLk7QAxJiVHOMQ=="
 ---

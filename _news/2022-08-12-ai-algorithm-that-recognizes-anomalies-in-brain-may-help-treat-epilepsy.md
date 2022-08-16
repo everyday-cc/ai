@@ -9,8 +9,8 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/ai-al
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: India Times
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI algorithm that detects brain abnormalities could help cure epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers."
-    publishedDateTime: 2022-08-12T00:00:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
     excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
     publishedDateTime: 2022-08-15T03:34:00Z

@@ -27,21 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
+  - title: "OK Google, Get Me A Coke: AI Giant Demos Soda-fetching Robots"
     excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-16T13:10:00Z
-    webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+    publishedDateTime: 2022-08-16T15:00:00Z
+    webUrl: "https://www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478"
+    ampWebUrl: "https://www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
+      - url: "https://d.ibtimes.com/en/full/3804516/google-research-scientist-fei-xia-accepts-coca-cola-can-robot-during-demonstration-ai.jpg"
         width: 1200
-        height: 628
+        height: 820
         isCached: true
 
-secured: "VjbgsoLfYosckULfeQBnXIMUnixZG5bD0x+tBzZyhKYV17+6PyoYS4FyMuaMW5FwoaUWCKUMkm+FUTP/CAFKgds4iZhOdpOf19NOs9YyB3Nw7sT3mhcWzNNbhNRpbtyXXoMIChquWUI9sSpBaEw6DMg+ud1dN61BXh0fsbo+wUdI1hSnfMdMy8hgalw0Flh+kBTDBDKPrsw82zd3trTHVwLenerH35uaypRccGfl/a0Jj4rDFsmo3Fu6//K4a2fcDc6vCrpsioKXooaRZ0W4XgthHfhAymBy9uV6BaUEeF1Yj3P9Cm27WBKQX9lY3h9vkawlLgrjbzgHy/zW8LDZG7WhFMkS3sMrWZUs/LWtk58=;SZX/7JoMTtd8dL6keWPMwA=="
+secured: "V7zk7AU+wPofrbIEQiEkryd/yK7yYr39Vu/Y/GKb3EuWHXKNfY3seq0s6TdGzqJpdCRlxGRDjBVISl7m78f/opAGAnuQvLQ4QbbX+8xXsqj76TSooeDcQGUbc9DaJ/ybPx9GpY0cfvopQ9i5Mm8J3kmOZEDy6kWPIsOKHeh+71o49LcjaiIJG0zbsGJO6YVStML+yXCyBV56W7a779X2bJVffXRZXVIHWg22wXb5HMRLSWWHgs1gUgu/wepI08ddcyjivo9UOaPtW4pHO6tVuEMRicMfpIFF/ngJ+v5nesWZwF0P/m0aI4S6LxcgleA4HUcupXxwjgGTm978bdfD8HJ3l3CTjfa/1NiBe/Xqj/Ibz5f6tyhkyXZ+xtg/kKr6m30igN64KUbLomTgzLJjdfga07f390CaJ8ptU5rXCt4QTVKR9fXj0JGNPGSJ7+VZjHHFB1szeRZ3hapoHt9T2ffgoOuRlEy2emYZx3gnU2UDiyxSyV9+LVDwnO2cyk13tt7fioLJc5IjuNP3WT5FeQ==;+d8kIhqV5VjNi1OffrNAnA=="
 ---
 

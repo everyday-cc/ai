@@ -52,6 +52,20 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 1
+  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
+    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
+    publishedDateTime: 2022-08-15T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/961673"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 258
+        isCached: true
 
 secured: "v7dcPSHlWq+wk7+RwcdYeal144rFeTZdtHpUOrDZsy9spB+v8KZT3NYrBWNOIkb95XHHhlnMZHpqzbSWz2EUFNAznoZQziWkcU7CFuTsOYjDuUmYcXrI+/3AmAgaAltvQ8iOcMqpnVgaEAcZw/mxrzPRgDvEG6hO8NgoxhDWXbZa7p+PFurNgyzMaFM3BL+wCpExzngYazo8NCnzneN6XQzGhUAirGHu2+I3EGyD4hjc4yVx88bnMemaZAHi7dUj1Jb2YQeX9DI9OdFtKdt35t3oIrPCxm3fMALuT0O0IS/G3NiV4yaX88NpKL3esEQwB3535pHUcdYJT+WJ1fU9akXCGPZ9nXzqVSYxj+yp9js=;qwB465NPiKMeqPGZRtMRTg=="
 ---

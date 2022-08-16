@@ -1,30 +1,29 @@
 ---
 category: news
-title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
+title: "OK Google, Get Me A Coke: AI Giant Demos Soda-fetching Robots"
 excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-16T13:10:00Z
-originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
-webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+publishedDateTime: 2022-08-16T15:00:00Z
+originalUrl: "https://www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478"
+webUrl: "https://www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478"
+ampWebUrl: "https://www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-3602478?amp=1"
 type: article
-quality: 67
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
+  - url: "https://d.ibtimes.com/en/full/3804516/google-research-scientist-fei-xia-accepts-coca-cola-can-robot-during-demonstration-ai.jpg"
     width: 1200
-    height: 628
+    height: 820
     isCached: true
 
 related:
@@ -45,6 +44,6 @@ related:
         height: 1015
         isCached: true
 
-secured: "cSCNHNG6+SkebJe1yi5qgoATNZv+m4L4RkasPoniC8FRMZDsMXLH96c1Lt8ncJ+oAsKdYbONszZXDnF6AyJxeEVW1HVpbNqrEknc+QpkQQVn+6FHn6I/r3sapw3b3tr6zcXhTPAKNUCZOkGWElkNQ2J34Wj5oZAT/h0njVJa+731g3ulCXvOM8vrvmTMFpSrdUEH9CcE28WKpWjKvqd+Gk7x0d0U/RUFihU24d69+zbaw0aY3KexF1B9cO+OsvxGeWW+Yrt82Jtrfr9vWOWuDEmw16+LGyOLFa+XGyTeMNFnsTzsOWA2kcKG79sc7p2yJzGn4kUz/QBKy3eOUZuk3oolsfrvEiXI19+emiOmsOs=;s7JseCN/rVdqbQJTHwf3eg=="
+secured: "88d8Yg2FsMSa2lcbtdGve0xufuvfSNHPykuz5uGSn/92jMPVgMaNHWZALIr18S4++41NSVwLIy5xHyg9IcEVAaKT5ChOnlGiINAXvmJjNB06AtgmjXQAUgfije6ZKHkxz+KMqTveJ0YsbEpsaqoxlx+PDAgKh3OCobhClSUWOn2GftBXhFG13QaoW4d02PvIBMC84vJk+hJ1cxndptINu7eXETQGfgpRLVGJ8EcD1aeC4DYLWeiW0vvNzdKA4Zt66JCVYDZo+6azx4Sod0TJGqMneCqSSv9bTzgC/fXULUuhv5knGRUnIDqi2iIcZRwGj5AZkSdj0yiR3sIwPM6ZV+QQ1p3uj+Tk+nEKDHwlIBA=;8Dej9W8dZ0qAdqG7qPsEFA=="
 ---
 

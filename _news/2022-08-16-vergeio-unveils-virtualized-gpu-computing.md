@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
-secured: "OOmVLHYcy/EoM4UW1O+kVzBblDuQ9QaNv4mfuxb6u4V3L2s7seyglcYVbyezTXdK/dQbRmgp6FGtqjFAYhdOJCQXBfUaOjmbTz+29zkOI8tesH0Kfo3w3OFU/PIx/YtE5zWYnJD+kJkrwOYRQ94ePTahtArMTPqST0woKVc+zgj39G2bY7HkD0h/diucBYGyH3f4+7xG6y2EEgMl8OPJ+8cfYpoWDyDm9iPOAmIBk+my1M9IAhTYa7qlDfikheNxg0dgz/mfIMFPWjNHobJg13K//AhAL0EKa1aGz5p2xbXeqLUaeLSta8QIekmqcYgTgMuLLMO+5ryVaDyrwsgT33ac5EBB14aX6WRUU0bhkpM=;Nii2gcjr26OiiqyBPgaPgg=="
+related:
+  - title: "Verge.io Virtualizes GPU Computing to Cut Complexity and Cost"
+    excerpt: "Verge.io, the company that virtualizes data centers, is adding new features to its Verge-OS software to give users the performance of GPUs as virtualized, shared resources. This move creates a cost-effective,"
+    publishedDateTime: 2022-08-16T16:41:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Vergeio-Virtualizes-GPU-Computing-to-Cut-Complexity-and-Cost-154413.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "HMy+Jjhf66NYsZnas/EDuOiX6Q+OxvZpsi+mrTG0SnlzZjP5H0VSAoTnVNXO1DMXvyJ72WZRazBUjXqfsfIon63qQ9jC/HtRGzV6/j4A8JNXAjXL+7aLqNnq6R1xsYRIZ8JkWwlOe0bkKYXFTD0Wpm5XtnA1ugDdJ2oo50ElVBs9j43uQE87Mv14yxF0wlJNr6UGwMfubQ7te4ZT4ENOX02hBs2ukIDC61VWOacwcWj5G/oXKFI2zLKbGoRrued+yX1w++IyM3XzjSVH2HzZc9C9QLuERTzycFTEOTkWv7hsSK+Cn0AT2jzDzaNgENQ4amYIACTvayRDktJaDdq1GnsprGHdoHlhFyhiiA7jKIOHvsFVuZIJjf2zghaXNCpR2xV0iS/IiLgvBnNIF71G7iZ7h8+bUfn8NAfcA7CQcfVjDbjmObOU4UwibQrEttdArE6sg6ki55pzdKQudpcQHz0hkqzvwnNBmsS4/EsO5ujbSDc6nro9R3vXm5pSV/ljVWP225/08joPSrxRok26eA==;fnRwWZAsZRWrbbLKbpR6Bw=="
 ---
 

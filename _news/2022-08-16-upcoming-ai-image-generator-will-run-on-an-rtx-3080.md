@@ -82,6 +82,20 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 44
+  - title: "Made-Up Words Trick AI Text-To-Image Generators"
+    excerpt: "Specially crafted patterns can fool face recognition systems. So one scientist designed special nonsense words to see whether they could trick text-to-image generators."
+    publishedDateTime: 2022-08-16T16:00:00Z
+    webUrl: "https://www.discovermagazine.com/technology/made-up-words-trick-ai-text-to-image-generators"
+    type: article
+    provider:
+      name: Discover Magazine
+      domain: discovermagazine.com
+    quality: 39
+    images:
+      - url: "https://images.ctfassets.net/cnu0m8re1exe/6PxgO9demcBYf1HD3d5InY/cb92da17c818c6b58127024530f9c63c/shutterstock_427067446.jpg"
+        width: 1000
+        height: 523
+        isCached: true
   - title: "TikTok’s New AI Generator Uses Text To Create Abstract Artwork"
     excerpt: "TikTok reportedly suggests the prompts “astronaut in the ocean” and “flower galaxy” as examples of what the generator can create. There are some limitations to the new feature. The artwork produced is a swirling,"
     publishedDateTime: 2022-08-15T15:33:00Z

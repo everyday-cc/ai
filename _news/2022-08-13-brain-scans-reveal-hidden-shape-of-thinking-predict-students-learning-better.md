@@ -35,15 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Brain scans reveal the hidden shape of thinking and predict students' learning better than test scores"
-    excerpt: "Neuroscientists have documented a link between spatial and verbal reasoning by scanning students' brains while taking a course that emphasized spatial learning."
-    publishedDateTime: 2022-08-11T23:06:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161049.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 33
 
 secured: "VKvSkg3T+w17+vq7V+cKDsPVkAWg4IhjNQjOG4rCwVCJOm8hxhueN06UZRMx73VX78uW9FcjRI9cJG0mNKr7s1B+KCfS7iqjomu8kYnx5KsTD2WNe/i5gOMTgTW9+n5Hjfh0ChpM9qVBUoHBQlS/6bx1BfMDmQPwW+JQX3KGo9k/uftYYyfv/QmiEJ73b2NN5Ent6nLNz24/VabozqxDvP4AOAkUjoryPvEDeSxCScv3nH8OWwe8OaftX/NQYMNYBXnRwO7DLdyzxGb+4RLBbtrjYcbW7NKe2vnYp4HirW7nDh9TdAofSLNengEsVDM8zkiS3o8PC/Q7aZ9+UVJlKiIX1FzscCXLfZtUNfYbD8Q=;58dsx+1QNiPXzOSwx6bTcQ=="
 ---

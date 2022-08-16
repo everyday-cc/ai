@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
+    excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
+    publishedDateTime: 2022-08-16T16:49:00Z
+    webUrl: "https://futurism.com/the-byte/california-tesla-full-self-driving"
+    ampWebUrl: "https://futurism.com/california-tesla-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-tesla-full-self-driving?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 55
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/california-tesla-stop-calling-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
     publishedDateTime: 2022-08-13T10:30:00Z
@@ -83,6 +99,6 @@ related:
       domain: eastbaytimes.com
     quality: 19
 
-secured: "dV9F6+EPxVIga20Zup3toWNfM8Xng7Axm3joQx4qN9YOZrlkHpKy7g8/X8B6qTVz/YcgUGxJx8UqXI3pibh2zjgmLP2rsKrbXdyYRfWwF0ESEEO+ou8wP2z+jl87OOOQGMd9+qcrOkaN5UyZOIN3YPsKqtQU1o9RQGKTBn5feZA2FYwPO4RKBsZ2zPVrd2hknvYBN5X6o8z7SuuYySaBJbpGsyREI1E26OggwvqbbEY6crk7JaoLPi+ZLOhp5Dkzp44Jsxnt553FrZOh2JA521BCWpFrzm5voVaucTWGGUIDXDGehuc4vkfftavOMCeethXZsSQTdYhqdtzGYqrmdq477iGJ0rI+TaWwe3EWnbk=;+I4B/vM0KWGGTX0CV7eORg=="
+secured: "5bTdslACRPMmp7//28aKCOXazVBWjA1/BiL9WNUBaf56eRhwqv4lJxTdaYAbvoVZqUP7o1fbBibTF5hrgzS1ITj9+EGI5TE9knOO5UCoAJ9O3u4bsDogEnI/97gGyQmF5hi/3TSAGvUbMPMFNWrYfLeSAmS8N79PsS1EIXVUSpy4WBea2lvH2J8VxOM7q4Qgn92waGI3qqPiQ1ZUozXDbExg/mRv61XuQ0VByWiWOJTuCM+2tTTX6L96S6x6tpD+5CvXlGqRBPKn1lzZK5xMovHF1gwcxCdBYLHdzrJqKtbWEIdv6GRASbHXEWDaO22R5uouAYjXmKEpsniOE/FIbfjaz6QI7POz3q4nnt65Qz/uWZHV3ydUuXc7S+8hktdoygUA07/2bwn+EK2mVWkz++y4pd8dNyNV2cmB5i9XND1UsiSugyVKJzDb56+LsJPARKcrWEvGv+OTMLDyLQ+qDkWSpL6io7BfC6JcABgKz+OBbAe/VRQRR7nUD6vrNlN4tHGJYcQC2ilGr+Whv7dujQ==;2ejH339k9sWeCV8WE8Zpzg=="
 ---
 

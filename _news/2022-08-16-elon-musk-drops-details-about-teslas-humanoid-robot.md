@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.slashgear.com/img/gallery/xiaomi-cyberone-robot-revealed-to-give-tesla-bot-a-humanoid-rival/l-intro-1660231543.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Elon Musk provides information on Tesla’s humanoid robot"
+    excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."
+    publishedDateTime: 2022-08-16T17:22:00Z
+    webUrl: "https://bestgamingpro.com/elon-musk-provides-information-on-teslas-humanoid-robot/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 58
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Elon-Musk-drops-details-about-Teslas-humanoid-robot.png"
+        width: 600
+        height: 365
         isCached: true
   - title: "A Tesla fan tested out the Full Self-Driving"
     excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
