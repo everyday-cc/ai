@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-21-see-how-3-industry-leading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it.md",
+      "title": "See how 3 industry-leading companies are driving innovation in a new episode of Inside Azure for IT",
+      "excerpt": "In this episode, you’ll get a behind-the-scenes look at how three companies are using cutting-edge technologies like high-performance computing, Quantum, and AI to solve complex challenges, power innovation, and generate new kinds of business impact.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
+      "originalUrl": "https://azure.microsoft.com/blog/see-how-3-industryleading-companies-are-driving-innovation-in-a-new-episode-of-inside-azure-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T03:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-recorded-future-announces-second-investment-in-cyber-threat-cognitive-intelligence-ctci.md",
       "title": "Recorded Future Announces Second Investment in Cyber Threat Cognitive Intelligence (CTCI)",
       "excerpt": "Bill Ladd, Chief Data Scientist, Recorded Future Combining cognitive reasoning and machine learning with intelligence lifecycle collection, CTCI curates and validates CVE data that threat actors ...",
@@ -1280,59 +1323,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-your-microsoft-teams-video-calls-will-soon-be-powered-by-ai-and-machine-learning.md",
-      "title": "Your Microsoft Teams video calls will soon be powered by AI and machine learning",
-      "excerpt": "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
-      "publishedDateTime": "2022-06-13T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

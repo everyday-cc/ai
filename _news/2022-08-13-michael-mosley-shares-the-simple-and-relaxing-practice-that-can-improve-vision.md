@@ -26,24 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Dr Mosley shares the relaxing practice that can ‘improve vision’ - ‘Powerful effect'"
-    excerpt: "SINCE the pandemic, you are probably spending even more time in front of screens. Between working from home to binge-watching TV shows, your eyes might seem glued to the screen for the majority of the day."
-    publishedDateTime: 2022-08-12T03:00:00Z
-    webUrl: "https://www.express.co.uk/life-style/health/1654130/dr-michael-mosley-taking-a-break-improves-vision"
-    ampWebUrl: "https://www.express.co.uk/life-style/health/1654130/dr-michael-mosley-taking-a-break-improves-vision/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1654130/dr-michael-mosley-taking-a-break-improves-vision/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 37
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/dr-michael-mosley-vision-eye-1654130.jpg?r=1660255156829"
-        width: 590
-        height: 350
-        isCached: true
-
 secured: "3IULPYKjH6RFsWseaCMxdP3Vr0AvO764qypyP2DIXS4vvJ1tjab86DF3yRN5Tae64Ndlhg3OjcrnUPCdmaJMXJZVqUAIbPsVTt3XaL5MAFBLUisLpEzubcjrLw9TBbkiciTwp4kuDAGcbXbPlN50B7kAkxSG0qZ0LwxwEz2XSmlmFffl9drKDzgXv0qa1fM/xD2qywg+xaxmGZxy9Sd+Bh+VFOnJkzihyuDtlj2N+pexZntW5bCpG6rUbZiDxKwj76QyNDGLkR1aOxz7b2Hwic8kao2LfM0h/fs8fotVLkjvJaZo5JYrSORmUrUpLV08e4MANOjXxunvdiJYzi+1aqprbH2Pd9rfnj2quFZplWw66sNMizTrHQAGf97C8cLHpKfj5BIIFEhgcVdvYIGIQ6ikXStTIfmkEX8epRhpvCfvvpDirhBVSW/9LCi2K6XZwXKOuxFbkChMw2nLhfMh9p7L1FJqD5Fo2awWmBFgIYvihfSETHedKg1A6XbHiQvbE4xxr9myXdJmXGhEowfc9g==;rJwOkdsoXud5trlpGXXe9Q=="
 ---
 

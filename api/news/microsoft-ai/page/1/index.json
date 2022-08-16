@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms.md",
+      "title": "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms",
+      "excerpt": "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-black-hat-2022-reveals-enterprise-security-trends.md",
       "title": "Black Hat 2022 reveals enterprise security trends",
       "excerpt": "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks.",
@@ -1397,58 +1449,6 @@
         "name": "MedPage Today",
         "domain": "medpagetoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
-      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
-      "excerpt": "While scientists have always recommended physical activity to keep the brain healthy, research now shows regular stretching and motion exercises can help older people with mild memory troubles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "originalUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d65e022-dec5-405d-9c8f-df89169b5319/3965b698-d2da-45fb-91c0-f7b83924295d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
-      "publishedDateTime": "2022-08-03T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

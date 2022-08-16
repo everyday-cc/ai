@@ -26,6 +26,17 @@ images:
     height: 558
     isCached: true
 
+related:
+  - title: "Germany: 1 dead, 9 injured after test car veers into traffic"
+    excerpt: "Police in Germany say that one person has died and nine were seriously injured after a self-driving test car veered into oncoming traffic."
+    publishedDateTime: 2022-08-16T11:20:00Z
+    webUrl: "https://www.seattletimes.com/business/germany-1-dead-after-self-driving-bmw-veers-into-traffic/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 4
+
 secured: "A0UmPe2NXn0nwUOiXtGfrA15YJDMok7zL2mCbrlFqUIw0V7wzPHgfTHOZQ71p0OfFrENzgjPl+kwONK1j5GGwE9Gw53EdJx+kVVjj9QRik9PJeEMVnl5wDw7qjOrFK7A3xepvyqAM7gTKgzSH/9EtYWKRFmm2lPo2wGxXJZyIkdgRqHbDi9z8AnAnYSC5UvsjPy8IrdWqZI+wyhYDKT7TmVGYuVbCKbWrNh7CTWa1LSwHzAmeiKHdoV22Kg1bm+zwsmetVcg5XnBRRNEF6qDWIQaUN6toiTwwJP78Rga5bcngvWJ4RbeJWddgpheZQmdNquFvodUitWDVzj04tYMps7rxjeDV/0lojjmv5DxL/k=;ldHyuL2UXAEv3zJ8TUPFjg=="
 ---
 

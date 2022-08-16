@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-pres
 webUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-anlaytics/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 483
     height: 409
     isCached: true
+
+related:
+  - title: "Integrate.ai Announces Availability of New Privacy-Preserving ML Platform"
+    excerpt: "TORONTO, Aug. 16, 2022 -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data, today"
+    publishedDateTime: 2022-08-16T19:24:00Z
+    webUrl: "https://www.datanami.com/this-just-in/integrate-ai-announces-availability-of-new-privacy-preserving-ml-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
 
 secured: "xZPXkEZmBJwIXJKDx6kyd0MT9XfrPsvSwsJwOF2PZcMNue7kBFWLSs3dGRB5WsySwIdI54AUTRZ2Et0vJLkWYLVKFmbLehzIYVDkQ5n66wWOfg0dp11uAAsKuBaYNz8zwH/OIh6y2UXip6AipCsD+x36i82meMaWf6C4xMJt4GH3wCYXhxwoEgTpVGMgvSs7Wh229UuUjUqzdtAOKS48P39fXzK78D4hb46KPcz4OWh/8vIXjeczAq1Z+jy9G46pwQljrRBqghQcQqKrhB2K3dVNKfEr+Bg/845xmgdzdnfHlkDDzgKocdT2HEUQel5KDCihhaNt8oiSLZmD5hw/H/4RITN6NRjDO5WyE7jVGxXDAeFPgRqwA7ehMT2sxB6uShUCz5aE3zc4++Y7dW3oQ1lhyVpX83RuEVcN+QGbI5l8/IGl87YK/CL0AKxfp9taZb5LpRFi+ctTIVGy+f5fPIqpaqg+u54PVZU7SMVuiDXDzaxoiVLuQhwoqEk/U8rkJ4JZ8vPaTrTSeWoy39UTZQ==;2L43w7xwqOGglXBnhnSaGw=="
 ---

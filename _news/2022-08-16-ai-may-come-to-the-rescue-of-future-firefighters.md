@@ -76,6 +76,20 @@ related:
         width: 1024
         height: 580
         isCached: true
+  - title: "AI was supposed to be the future of health care, but it's barely the present"
+    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
+    publishedDateTime: 2022-08-16T18:06:00Z
+    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 36
+    images:
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Imagining the AI-powered future of the financial planning profession"
     excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
     publishedDateTime: 2022-08-12T12:00:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-14T07:00:00Z
 originalUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 webUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: The Guardian

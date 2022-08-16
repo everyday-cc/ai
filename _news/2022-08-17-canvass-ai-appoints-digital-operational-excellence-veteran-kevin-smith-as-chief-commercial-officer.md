@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T19:28:00Z
 originalUrl: "https://www.automation.com/en-us/articles/august-2022/canvass-ai-kevin-smith-chief-commercial-officer"
 webUrl: "https://www.automation.com/en-us/articles/august-2022/canvass-ai-kevin-smith-chief-commercial-officer"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Automation

@@ -23,20 +23,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "How AI can make retail a more human experience"
-    excerpt: "She forecasts that in the next decade, AI will be so widespread that we will interact with it hundreds of times a day, including when we’re sleeping. Digital workflow company, ServiceNow, has partnered with Dr Wallace to explore the technology trends and cultural shifts set to influence work and life in the next 10 years,"
-    publishedDateTime: 2022-08-12T03:03:00Z
-    webUrl: "https://www.retailbiz.com.au/online-retailing/how-ai-can-make-retail-a-more-human-experience/"
-    type: article
-    provider:
-      name: retailbiz.com.au
-      domain: retailbiz.com.au
-    quality: 39
-    images:
-      - url: "https://www.retailbiz.com.au/wp-content/uploads/2022/08/WEB-ONLY-How-AI-can-make-retail-a-more-human-experience-iStock-1206796363.jpg"
-        width: 1800
-        height: 958
-        isCached: true
   - title: "Advertisers Need More Than AI. They Need Diverse Human Talent"
     excerpt: "To make the most of AI, advertisers must diversify data analytics teams to bring varied perspectives and talents to data collection and decision-making."
     publishedDateTime: 2022-08-15T04:45:00Z

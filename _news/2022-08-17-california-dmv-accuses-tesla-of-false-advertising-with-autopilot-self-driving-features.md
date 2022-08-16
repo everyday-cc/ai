@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T19:12:00Z
 originalUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
 webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Washington Times

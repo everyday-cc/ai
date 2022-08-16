@@ -2,6 +2,170 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-05-27-algorithm-queen-robot-artist-ai-da-creates-an-eerie-portrait-of-elizabeth-ii-to-mark-her-platinum-jubilee.md",
+      "title": "'Algorithm Queen': Robot artist Ai-Da creates an eerie portrait of Elizabeth II to mark her Platinum Jubilee",
+      "excerpt": "British-made robot Ai-Da spent 10 days in detention at Egyptian ... Ai-Da was eventually released just hours before the start of the 'Forever is Now' exhibition in Cairo, where she was due to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10857943/Algorithm-Queen-Robot-artist-Ai-Da-creates-portrait-Elizabeth-II-mark-Platinum-Jubilee.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10857943/Algorithm-Queen-Robot-artist-Ai-Da-creates-portrait-Elizabeth-II-mark-Platinum-Jubilee.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/05/26/17/58322799-0-image-a-31_1653580922987.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10857943/amp/Algorithm-Queen-Robot-artist-Ai-Da-creates-portrait-Elizabeth-II-mark-Platinum-Jubilee.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10857943/amp/Algorithm-Queen-Robot-artist-Ai-Da-creates-portrait-Elizabeth-II-mark-Platinum-Jubilee.html",
+      "publishedDateTime": "2022-05-26T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap.md",
+      "title": "Artificial Intelligence (AI) in Agriculture Market Report Shows Demand to Boost Industry Growth from 2022 to 2026| IBM, Intel, Microsoft, SAP, etc.",
+      "excerpt": "The Global “Artificial Intelligence (AI) in Agriculture Market” provides a comprehensive valuation of the market through in-depth understanding, accurate market growth, deep market analysis, evaluating past developments,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "originalUrl": "https://xaralite.com/300975/uncategorized/artificial-intelligence-ai-in-agriculture-market-report-shows-demand-to-boost-industry-growth-from-2022-to-2026-ibm-intel-microsoft-sap-etc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-platform-market-2022-report-covers-top-key-players-profiling-ayasdi-wipro-holmes-vital-ai-rainbird-meyaai-cisco.md",
+      "title": "Artificial Intelligence Platform Market 2022 Report Covers Top Key Players Profiling – Ayasdi, Wipro HOLMES, Vital AI, Rainbird, Meya.ai, Cisco",
+      "excerpt": "The recent report on “Artificial Intelligence Platform Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/304365/technology/artificial-intelligence-platform-market-2022-report-covers-top-key-players-profiling-ayasdi-wipro-holmes-vital-ai-rainbird-meya-ai-cisco/",
+      "originalUrl": "https://xaralite.com/304365/technology/artificial-intelligence-platform-market-2022-report-covers-top-key-players-profiling-ayasdi-wipro-holmes-vital-ai-rainbird-meya-ai-cisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg",
+          "width": 1024,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-google-leads-in-negative-media-perception-around-ai-ethics.md",
+      "title": "Google Leads In Negative Media Perception Around AI, Ethics",
+      "excerpt": "The marketplace for artificial intelligence is worth billions ... Nvidia with 202, Baidu with 144, Waymo with 90, C3.ai with 87, Tesla with 68, Argo AI with 39, Cruise Automation with 26, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/374162/google-leads-in-negative-media-perception-around-a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2022/05/24/googlehq_alAC7dL.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-the-man-who-invented-the-self-driving-car-in-1986.md",
       "title": "The man who invented the self-driving car (in 1986)",
       "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
@@ -919,187 +1083,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
-      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
-      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
-      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
-      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
-      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
-      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
-          "width": 904,
-          "height": 732,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "publishedDateTime": "2022-05-26T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
-      "title": "Baidu Announces First Quarter 2022 Results",
-      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

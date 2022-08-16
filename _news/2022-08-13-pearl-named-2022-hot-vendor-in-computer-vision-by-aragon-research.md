@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-12T17:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/b28477798/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

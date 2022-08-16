@@ -23,6 +23,17 @@ images:
     height: 495
     isCached: true
 
+related:
+  - title: "Josh.ai And Somfy Partner For Control Of Motorized Solutions"
+    excerpt: "Josh.ai announced an integration with Somfy, the world’s largest manufacturer of tubular motors for interior window coverings and exterior shading solutions"
+    publishedDateTime: 2022-08-16T17:21:00Z
+    webUrl: "https://www.twice.com/product/product-spotlight/smart-home/josh-ai-and-somfy-partner-for-control-of-motorized-solutions"
+    type: article
+    provider:
+      name: Twice
+      domain: twice.com
+    quality: 17
+
 secured: "Oe0Kggkrm1tAk4SucrFDabyLm6GDQNC+KtY6O5WxAANBiou+YnpjLfafJuZgO0JFAqhACdQuweGEbntQDTNxneB9AvT87ln54PItLT4xHHYfFF7PiIHPEfJeYxQ9x5MWCuHQzuoy6CWqFzWlotbtg07l0yqlS8JTKhxcAkHZS9oOeWWVCZMKOlVqeZ71I5/uUvDbEnU5ae6F61Q3diPVXtEXJ4GvLiOC3r2xVc5JoxHjnLpf6sKBRpH8rb3LMp8FdA0z1WLUg2dWOkNHBJE8Cpy0y4BFZNJLFjr2MuXvmZl+wTd45Od86gGerMw45ZVQipXxlyUm+GRO+3PqxJFCzFv4MBDWTBVtpyXCV0IFtCM=;WpgZRRInbagtnI85MMabSA=="
 ---
 

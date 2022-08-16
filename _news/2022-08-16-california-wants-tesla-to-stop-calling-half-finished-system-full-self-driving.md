@@ -75,6 +75,15 @@ related:
         width: 1975
         height: 1110
         isCached: true
+  - title: "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas"
+    excerpt: "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas."
+    publishedDateTime: 2022-08-16T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
     publishedDateTime: 2022-08-13T10:30:00Z

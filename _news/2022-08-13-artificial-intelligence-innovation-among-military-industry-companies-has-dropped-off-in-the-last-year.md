@@ -39,15 +39,6 @@ related:
         width: 1038
         height: 778
         isCached: true
-  - title: "Filings buzz in the railway industry: 78% increase in artificial intelligence mentions in Q2 of 2022"
-    excerpt: "Mentions of artificial intelligence within the filings of companies in the railway industry rose 78% between the first and second quarters of 2022."
-    publishedDateTime: 2022-08-12T05:00:00Z
-    webUrl: "https://www.railway-technology.com/dashboards/filings/filings-buzz-in-the-railway-industry-78-increase-in-artificial-intelligence-mentions-in-q2-of-2022/"
-    type: article
-    provider:
-      name: Railway Technology
-      domain: railway-technology.com
-    quality: 19
 
 secured: "Wo2jUUVej4GidNgaUK4GiJsbtJ9A5PBI7saA+HanEZymOKSGIgZV81zlhOreAWL9urlqmbPXTXP5ZNUXsKvjD0LdAVZNCxGVUXO0ZrKuQTN3rqTXKFV9zSx0JcHA6Jvfw6C75aoDXpVYamwVZFGJ4PPA6kAzLWfBhQrTJPPn/+2JqsUCJ7xIlEVW2tPLZ8AETGryBXIgk0HzL1Wfrnnn/38Xw6Az3AwjEpog3K50wiAP21d7OvQBakAnQzv4pGN/r2oD8vG3CaddP9gtu1tJuaxWZVedO+M4s9UNgtClfB+ztFpVrpDI2Xstv2JAR+rwUVUiuVlwIFTzt5ybJx8PVsa85w+091ofZeuLYRZE9iDdfyJQhc0tuRtMurhaGUG76eRi7gBl6FB9NAGbFwQWauSOr0kpFZjva6cw7rLMU25208m3vpC3gPfB0CnfOmGkT3yjtgyTE4OSmXC097UL0GLvBL1tG6hM/2h41WJcHJbD67Tb5gcMA0F+SmIv9VpajIsDpy28mB2/bn0xmwRXUQ==;jqizQXisotc+2KmXbBO22g=="
 ---

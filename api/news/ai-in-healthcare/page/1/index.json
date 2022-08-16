@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
+      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
+      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
+      "sourceUrl": null,
+      "webUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "originalUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "publishedDateTime": "2022-08-16T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-these-ai-generated-takes-on-classic-movie-posters-are-out-of-the-box.md",
       "title": "These AI-Generated Takes on Classic Movie Posters Are Out of the Box",
       "excerpt": "In a project called ROBOMOJI, artist Vincenzi has been using artificial intelligence (AI) to reimagine movie posters of classic cinematic masterpieces to explore AI’s relationship to art and culture.",
@@ -1311,40 +1354,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
-      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
-      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
         "images": null,
         "publishers": null,
         "authors": null

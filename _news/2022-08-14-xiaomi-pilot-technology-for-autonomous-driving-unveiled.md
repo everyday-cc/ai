@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-au
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.techworm.net/wp-content/uploads/2022/08/xiaomi-self-driving.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Xiaomi says it has 140 vehicles across China testing autonomous driving"
-    excerpt: "SHANGHAI: Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies."
-    publishedDateTime: 2022-08-12T01:29:00Z
-    webUrl: "https://www.carsifu.my/news/xiaomi-says-it-has-140-vehicles-across-china-testing-autonomous-driving"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Clipboard012.jpg"
-        width: 800
-        height: 393
         isCached: true
   - title: "Xiaomi to test self-driving vehicles in China: CEO"
     excerpt: "Xiaomi will begin testing its autonomous vehicles with the goal of becoming “an industry leader” in the booming Chinese smart electric vehicle market in"

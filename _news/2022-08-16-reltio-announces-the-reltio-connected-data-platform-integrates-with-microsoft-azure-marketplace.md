@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Reltio-Announces-the-R
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Reltio-Announces-the-Reltio-Connected-Data-Platform-Integrates-with-Microsoft-Azure-Marketplace-154395.aspx"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
+    excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
+    publishedDateTime: 2022-08-16T20:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
+        width: 400
+        height: 210
+        isCached: true
 
 secured: "jtdBz2RLImnFTlX0uWvGDOg3IelMRjRhTh6jVUv3cS+TtLD6yF9gWSaaYxM8fKjWfhmfjdvydng1LktVbJnY89wD8DJ3CzctYkwRG3eau3QPGZ63YavIkF3yko0hXTycU3x/WvVRiuMQtbplr0/0/kbWBItiunCjJChI4La2gtNPkvPa8StPnEGvUutv+x/Oqaocjppp56zEeiED2TMqv+FSkZHcASKihkQmnnheKo5pUzgwqBuWtaqBMCfpVq7LVPU9lh6b/5d4iuMsSlvbIgAabsp9kd2pmVbg0w7INaopRJ+Gha3DfvKMMZCa7yWnDIruZAA3vd9w08Eif6MYke7AnuA6A1p9jOA7fasiqPA=;ta4X75NxRbSBuzvmk18Klg=="
 ---

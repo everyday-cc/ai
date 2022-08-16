@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp
 cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2022/08/xiaomi-cyberone-humanoid-robot/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 862
     height: 647
     isCached: true
-
-related:
-  - title: "Xiaomi shows off humanoid robot prototype CyberOne; CCF's Climate Startup Week next month"
-    excerpt: "Xiaomi showcased its humanoid robot prototype, called CyberOne, at an event yesterday, ahead of Tesla's AI day. CyberOne is 5.8 feet tall, weighs 52kg, and is nicknamed \"Metal Bro.\" It has also been given a zodiac sign,"
-    publishedDateTime: 2022-08-12T04:46:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/xiaomi-shows-off-humanoid-robot-prototype-cyberone-ccfs-climate-startup-week-next-month/78923"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 30
-    images:
-      - url: "https://www.forbesindia.com/media/audio/2022/Aug/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "TXKmf0PEVNWM+zu4eCX7iYpzDKjCehUNC0SMWGqryY2x8521fNbksechkDMMn8OHKlp3fdbNDpyqx2HV5W+ibsyKmXkkVuxk6uxobVNgo7VQHk767pF60p5AyHjbl9FsgYTwCUMXmI7bgjiydKP6Vu0dJI4j6zgB/D7YOZ48ZYIj8gXyEnACeE/+ilF1Atw521t1Ez/ktX9SxRyVoOS6FSDvj2vV1kC8ugSIGWvZKHHjPvMf+FngdGusECBL0apZ3a6kgzC5vlpwmG0z4Ii0JcFiTl5w/5GctkTd2uMICpb2wnOP4kcEBMl0AHZA0oF3dDrXrd6RPlhrrq97apIdljk4yZrEU2nbr6bqGJxnftU=;uYlQ5jNYDHuAyhx92nc6kA=="
 ---
