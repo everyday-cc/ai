@@ -40,22 +40,6 @@ related:
         width: 1920
         height: 1278
         isCached: true
-  - title: "How artificial intelligence could lower nuclear energy costs"
-    excerpt: "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is"
-    publishedDateTime: 2022-08-11T16:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/b28459196/how-artificial-intelligence-could-lower-nuclear-energy-costs"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28459196"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459196"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Can artificial intelligence make nuclear energy more cost competitive?"
     excerpt: "Argonne National Laboratory believe artificial intelligence could save the nuclear industry more than $500 million a year."
     publishedDateTime: 2022-08-12T15:29:00Z

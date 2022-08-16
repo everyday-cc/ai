@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/news/252523634/Met-Police-ramp-up-f
 webUrl: "https://www.computerweekly.com/news/252523634/Met-Police-ramp-up-facial-recognition-despite-ongoing-concerns"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "A controversial facial recognition tech tool used by Palm Beach County police is here to stay — but is it fair?"
-    excerpt: "Some Palm Beach County police agencies have been using facial recognition technology for more than a decade. Advocates want tighter regulation."
-    publishedDateTime: 2022-08-15T02:07:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/2022/08/14/police-use-controversial-facial-recognition-software-here-stay/7746094001/"
+  - title: "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!"
+    excerpt: "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,"
+    publishedDateTime: 2022-08-16T08:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 16
+      name: India Times
+      domain: indiatimes.com
+    quality: 66
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CDEO+XhOVzHyd5RUy+0DC56NztBI6pV+aRII8IQwAWxXnzpH8LJR/90IHDk26ZmXOB2rTTu4DAMBjw0zt+RmJ4THl9QIrSRR+3E1sCKBfbsE+s+CRFMtQAQM+Qdz/s3m9vT1rhlCfTdDeessxrExhOyHgCxSDl3M4wH5Ptm4jctCqeJQ6/BJaAeGyL4FWlgROM60CmfsQpUriIipY6P3AK5RQ4qss19ZWujuDuXEFAwKsjyJ2n9yAkA9f5MUoErETIuQD8PSqeojkKlMjNAOI2IrqPZ5nkPOO5BKclHV6enOR4QuMHmOWVbDCsIu4ZAlwAhO86ASpmkL30Z2TiXBu+3w3rdUmiByiGabqR+hhhNzC5VkpxJbjNPWiJnHLMMoLqnA3R+u/clTae+NFCVcQBH82hXOTGGzMssJXQh2h/tpc1M1C0GV6QFjCzJ5A9cYMnyKt2oxke/k/1mpCzRRNd/W1MWp5i1fj/xf0zdJwjJhQeRMWWAggGD2KU8up+W+VCLZn1eAQwF9WAuYV2N/AA==;idkEoBEGrJ+eUzB+c35u6Q=="
 ---

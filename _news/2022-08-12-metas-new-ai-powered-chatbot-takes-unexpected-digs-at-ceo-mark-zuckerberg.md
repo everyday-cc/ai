@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unex
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: NDTV
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
-    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
-    publishedDateTime: 2022-08-11T16:57:00Z
-    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
-        width: 1267
-        height: 713
-        isCached: true
   - title: "BlenderBot, Meta’s AI chatbot, really, really wanted me to check out its synagogue"
     excerpt: "You should visit sometime! You’d fit right in,” the chatbot said, repeatedly. It wasn’t the antisemitism I’d been told to expect."
     publishedDateTime: 2022-08-11T22:05:00Z
@@ -74,15 +58,20 @@ related:
         width: 1024
         height: 569
         isCached: true
-  - title: "AI chatbots offer a way to connect with and engage customers"
-    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
-    publishedDateTime: 2022-08-11T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
+    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
+    publishedDateTime: 2022-08-15T20:35:00Z
+    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 32
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "This AI chatbot wants you to visit its synagogue"
     excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
     publishedDateTime: 2022-08-12T09:21:00Z
@@ -92,15 +81,6 @@ related:
       name: Arutz Sheva
       domain: israelnationalnews.com
     quality: 17
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
 
 secured: "zxreXIITpy3BrfJMqgzJ1IZ0Acl7WtGd+ecdcLBTzx3YyVQSMQEJnj7YUlxSd/nofjqol2sdUcd42HylXnExLSkYtXb9Uyk22YzBmAcGtvo6T/69p1aS9fs3DG/sWcNzJr2QAvKZQnvivxJYQdXyPF4SZFEKYU0XdxeqiIZytOcMFJ1lGrSfvnnnsz7yrQCDBAgWV/kWhYrE9rJrBRDPSSQ/Ev9BbKUCzFyaGlQli6TEnkg+Vr/iyt/DWFGUB3j0kaj1Yh1wET+EJ6ElhoIRWcyk1VpOcYKFLnhx5OGgCq4YAYgIMoSD03kfAdkS5knFfGXinQLrCsf9Wi4K5wki+A8fSL3wipPtdXAryrczRubyiMe5gz42jBevTiZELCMq+ZuHfLpN0fsD2ZA69Y8lt04iuvoqLaXIQdpT3Qsexw4GmK1EaaCVaR2y3nafz1zxhOfBCoiRdjWUuBCr6/GOcqWYU7wbkXRZgVr8F6PhMyxcge6or+e2PVZ5Vm6ysZSALAonD8JWR+n3DSq2WTZ3Sg==;JVUWdu9x7UnNgwfwrshWRQ=="
 ---

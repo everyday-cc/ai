@@ -25,6 +25,22 @@ images:
     height: 438
     isCached: true
 
+related:
+  - title: "Africa: Opinion - Besides AI, Regulation Key to Fight Mis/Disinformation"
+    excerpt: "Opinion - While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
+    publishedDateTime: 2022-08-16T07:30:00Z
+    webUrl: "https://allafrica.com/stories/202208160083.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 38
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
 secured: "oDQanLyBOpwplkJg1jfmHzcT4u3uzPJySSspf08U/FtHR7R+4ka2klHiNlCp7B3omjkdTgYBHF//YpJGG2PSdNaP2LvMyVPd/m5+nrTWpfCEj8FRgys4DZkLtFIwSr8wWpbnJalp/pnr29xJWSTzzsZdtR5kWxxyvSUQc7AdIhEMMNf7UQ9FzSl29yA2wDL0AMTFsnQJIq7OnnBmsMEviEs20Y916m9FWLtFcvmrTRohDWKVBNOa/+epgoukFNWliQssgBGSYmDx8GPbExj97m3I2Ojxmes0NTj70kUdJhWcq53Isg19QGI/fdqHgrVRTtGGVi9swSbUId/AjLD6R5XtPX5ZKIXdgRWlRhMvWwWWJm+Ul+LUtWYkFS82RtqhUjDobCaePpApG5boULGS6OJf9dd4RNginEV0SGxLvivwR3J81VVLehnRLCt8zG8DNSYXJD9c7hxfNSSZkOAKDtjzUXdHRNiOpzQL0Z87hRvNbTfcoYVUaYHXqTE3LpmqP1tkw2X/AwY8kmFUCf8ZXQ==;t0qBpfmwGvd2g+MjGNngfA=="
 ---
 

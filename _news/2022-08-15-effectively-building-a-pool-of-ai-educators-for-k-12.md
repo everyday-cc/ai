@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/15/effectiv
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/15/effectively-building-a-pool-of-ai-educators-for-k-12/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How to craft effective AI policy"
-    excerpt: "A conversation about equity and what it takes to make effective AI policy. This episode was taped before a live audience at MIT Technology Review’s annual AI conference, EmTech Digital. We Meet: Nicol Turner Lee,"
-    publishedDateTime: 2022-08-11T15:47:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/11/1057611/emtech-digital-how-to-craft-effective-ai-policy/"
-    ampWebUrl: "https://www.technologyreview.com/2022/08/11/1057611/emtech-digital-how-to-craft-effective-ai-policy/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/11/1057611/emtech-digital-how-to-craft-effective-ai-policy/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/anthony-emtech2a.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "OOn3NOYJqIgkluGJWQlrUIOlJjZN7X8YNCxs9Zm4QdPnrpX60IO5LAxZVNuGg4q6nstnxEYiC92Zr9sPTsoK8Q/VLqqqrREHrKKR2FLAA5eYGWFyOZU/9D0rDHexE9+6GtG/Pw5ZoCK+LJmzUW7/iRot9k/tpnf89XDFP01638ZMYH7dzaTut5Fx7hqp8gtfKXgPY6m2QuiL3oVTD4MmX4TpSbYFJjnOnTCxC7DNCkCSfrA0AKghL/ey+al4aBXQBDcyy8IigYm4GaYkIRS/2xKBysG5gUJ9Mj8SC9lMrLQND7pQGtvUBxVI7MF7DOidiskBX9SUKxDJearACI7w94Gkd+4XHEZw6tzGz6NYZnyOyqbvny2Nqv49KGOJFo5XvZmA4IUx869yHwWQK68pZTgS5ItM8TFN6loebz4YYVMg5/OGnVApeRgIaomtfxqiG7m5QG3F6wbpZWn8x+sAKUKrhqI4SdwKIXRYGekvoDuX/zb3lLIb76aNN4dK49AxNK49jqrIlB2cjlhfSdhdJA==;jmZmmu47xqEWNZiIVx9GdA=="
 ---

@@ -32,15 +32,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Mayo Clinic adds a second round of AI startups to innovation accelerator program"
-    excerpt: "Mayo Clinic Platform_Accelerate, a 20-week program to get healthcare AI startups prepared to enter the market, gives startups access to Mayo Clinic experts with a focus on AI model validation and clinical readiness,"
-    publishedDateTime: 2022-08-11T16:45:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/mayo-clinic-adds-a-second-round-of-ai-startups-to-innovation-accelerator-program.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 12
 
 secured: "xJbsLe8DIGs0JNTFz0QWCrYdP14/xsPJn5LJBuTfMe8ZvS/IBXzP8aXzuzdQSINEOrxWfj94Y+WycXEa4GvDrsggeIRpvdIch7qfdy9V6pKsr8wniyNh+AEOjF+VsoVtgxr6lQFBWKi07Fc2s0OwHtV0K7Le90Sin+7Ru5cLEAGdHnutMGExzMXQ8vxzH4XA2Z0SZY/C82gjgSpcV6gMvNP4wQd0dsXB8Rs3yoeLVLUrl5vo+1r+MiEuF+6WMW3jyf+nRVEGgTp3pmB/gq/SHNaIInh4F6wpX89yEZqhx+A4sMV9Fz8Pyc8tPJCXQQEOa4o6OdMfwSf3gVtmMvfNKxNNryfYJOwqv8BgiK+i0XA=;zH1ehFYZHEIP95yt7+yHCQ=="
 ---

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
-    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
-    publishedDateTime: 2022-08-11T16:57:00Z
-    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
-        width: 1267
-        height: 713
-        isCached: true
   - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
     excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
     publishedDateTime: 2022-08-12T05:30:00Z
@@ -74,15 +58,20 @@ related:
         width: 1024
         height: 569
         isCached: true
-  - title: "AI chatbots offer a way to connect with and engage customers"
-    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
-    publishedDateTime: 2022-08-11T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
+    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
+    publishedDateTime: 2022-08-15T20:35:00Z
+    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 32
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "This AI chatbot wants you to visit its synagogue"
     excerpt: "Over the course of our hour-long conversation Tuesday morning, during which I tried to bait it into talking about Jews, BlenderBot invited me to its synagogue at least half a dozen times. “We belong to an Orthodox synagogue in NYC."
     publishedDateTime: 2022-08-12T09:21:00Z
@@ -92,15 +81,6 @@ related:
       name: Arutz Sheva
       domain: israelnationalnews.com
     quality: 17
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
 
 secured: "0gX19U+DrYd88Dh5xgBc5e/JksUcR7o/eBF8ySLhhPAWbRLZ9yptkWodgff89+GSahJO9jmtSuT4yugQDOTUvlbw7jblsW9+MGvdBXFqIJmNidfp0Tc8J2P2zQwZNJRwUokzethlPmQ2heWnv4/kbAqxqYt+pZF5GWBPCwLsqCqCGYhGQQTF+ut/2nsR6Rg1LyLjfGsIMF0qsh5gqnCK5rAyPY7RAADsEv4naDmnyi58JhMrCeSHRAqG9jm4J+eWqYmaN1+G4F7CzRurHVREplApM5a3R70USvvcQR7kNe2FNIhy3YzMhhd5CCae6FeTfcCgVcW8P/Z7XLqGCX+PkpZtnDKV5JVnzGMk75JjI1JgpP5FqKgTwtRlW9Qmjj2GdTtkTkxh/bWW3UHFE9IwghleVRMY0xgBmOZQYWXfj0IUDFVqcWJxBtsyJrhvD0K3LkPP3/8G95dd7N9QC5P9cPfvNC789PRC35ewp7BTg6kdEfO74tRnmg7h2xHHq0RIAQyOKSQd9y5zqXlPOfLXnw==;qFCkhOJbYr8BJIZ0NoLRtg=="
 ---

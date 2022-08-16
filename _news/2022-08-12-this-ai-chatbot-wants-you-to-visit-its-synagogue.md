@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so"
-    excerpt: "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data."
-    publishedDateTime: 2022-08-11T16:57:00Z
-    webUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 57
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg"
-        width: 1267
-        height: 713
-        isCached: true
   - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
     excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
     publishedDateTime: 2022-08-12T05:30:00Z
@@ -82,24 +66,20 @@ related:
         width: 1024
         height: 569
         isCached: true
-  - title: "AI chatbots offer a way to connect with and engage customers"
-    excerpt: "As your first level of customer engagement and support, AI chatbots provide an opportunity for responsiveness and efficient problem-solving."
-    publishedDateTime: 2022-08-11T18:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-chatbots-offer-a-way-to-connect-with-and-engage-customers/"
+  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
+    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
+    publishedDateTime: 2022-08-15T20:35:00Z
+    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 32
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+rM63lJD/7pRxvgV0MGUbgAWLg0SH4d62EhvMvzrEZyuzuL/rzZWV1A67dI+xbcEqsgQyDOteRt9dRrsSao+3DBMd+IpW2pRi04Z46UjFvqBAoWwCT2Pbz9OooaLELbqtSUdtufwnuB5Q4nA/aLBehK4oqodwpo1KrKb4Lz/HVx0yXDMODnle57ticMcZcYFDvYZ5qPtLdh72kv8b1rT2c1j01ZLig1gTa7gqJKdeki5T0Up2R5kOUSoiXDHNU4qJFYZ1uJ4bhKKkw6dOitiOWllivP2W21KeEOE8SRSFGeVzdFd1MyiSJ4bioOCQl1DRljWnQ1vyHMV0KkcOjupSAYGdCrX5yVSuTiYixvvsbu12bGPhCOn4hGcwerUPBu9Ju8B0vhQYlOkeZTyLce8rz0zB3Xw76WaS1Ju5BLDTgv7J27HcaoOfcpmFD7KVhJRFPQMR8g05bKqGJSUuZoSRqGWjra2wBjbIS9GRFPb7/ZQR6iBV+Eyw081sx3xPJKxJbVsuGyWJviJWtOI9Bxi8w==;PfYFpdd+H7JFT8nYre3p3A=="
 ---

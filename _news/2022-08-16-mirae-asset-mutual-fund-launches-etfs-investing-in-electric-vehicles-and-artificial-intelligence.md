@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/mf/mf-news/mirae-asset-mutual-fund-launc
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/mf/mf-news/mirae-asset-mutual-fund-launches-etfs-investing-in-electric-vehicles-and-artificial-intelligence/amp_articleshow/93586532.cms"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 450
     isCached: true
 
-secured: "gsdvepfvTFklYmg6CVOAR1+dT1rkBdc4/oYDKpC/Vd1ZCRUQnP6Kru+nLaMefHZXgjiPqh2n6gMO5aN78HPA6n6YffI+goVcNbcA+T1n0YYt7UmlPzpvdXQL8Qnw77vAp0wH5tG2BvqDHZD6xkDC44gj1SMjgMm+8hAjfyZJ5OUMrksb1FaOGR+Q1CByVrXsEaxwqjxg54YGn3xxSEXlFnqQ9WhXcm716sHRG0Kx7DTRhtMKHO95iGxHItVPzDpAklH0TIbCaMAbALNU7sYQUrFi+utGX57q0Fcu2i0AHfA3n8MbmvxTb/BNtAP6iOhlxRe6W3ppa5XmAB9LGOS7fyE5Pxww5TgdgFMoyZHisH4=;nsrwm7qUxWs3W6c0MaKTRg=="
+related:
+  - title: "Mirae launches 2 funds on electric, autonomous vehicles and AI themes"
+    excerpt: "Mirae Asset Global Electric & Autonomous Vehicles ETFs Fund of Fund and Mirae Asset Global X Artificial Intelligence and Technology ETF Fund of Fund will be available to investors in both, regular pla"
+    publishedDateTime: 2022-08-16T08:05:00Z
+    webUrl: "https://www.livemint.com/mutual-fund/mf-news/mirae-launches-2-funds-on-electric-autonomous-vehicles-and-ai-themes-11660637148086.html"
+    ampWebUrl: "https://www.livemint.com/mutual-fund/mf-news/mirae-launches-2-funds-on-electric-autonomous-vehicles-and-ai-themes/amp-11660637148086.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/mutual-fund/mf-news/mirae-launches-2-funds-on-electric-autonomous-vehicles-and-ai-themes/amp-11660637148086.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/08/16/600x338/b34951e4-1d39-11ed-b960-3da57f062e11_1660637119136.jpg"
+        width: 600
+        height: 338
+        isCached: true
+
+secured: "XDjFWrI68asxIwCSxZfUVQNdqNAQPP/pXy1yTJqa1iqSd/HOmAhSy3ghwtA1sTmfE060YyPGx/6tzWCkNa4PH9XFE31hjDGt6DI1ZEjXdvkxTAtvpniYMQqxAP/zxpyFZ7GVP/tiK2VeWCttfWvjcILrHDX8cHzoTgiNXkvVpUUwVKA7XZ6O2NklmhzXd22e81tdeJqiJ0dJYWz2jxvGxCbOOEbLAldnayPw+aAunB5ujidrxxKRSC1mRbHZSPEoMOKIOS7ey5uAd+Izja7EwfbQ3f0onM9EznA13urLwmVY8g08OBB2ekLN+KLK3mpqkFm63+eXVREi8n1vBVDmRAeNF++BFO+5qpKbzIjerYaEqOx+GJiG2G3SRUbqNwDUtjL4N2GWvCmNthPJi0PB0v4QnVztv7RKBdEWR9p7pZavyEfeDqsb/67IjurKLN1TzoCTtCZfct9mfShcySRImuOTZWN6FbUIepXGZIb/ieU67R9Qkjt1MpcyiGCZN7tfin0BjULTUstsI591g+eVbQ==;x4aVO+ZSrvFnK0QGw00fwA=="
 ---
 

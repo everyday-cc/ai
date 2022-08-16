@@ -3,8 +3,8 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "7sarVyQyHf7SMBD991vrWHbR+7a7bx3pul8+SPKmmU4oIW3ksDvnNXyVrODZtp49i6cfJ2j94BHPk9Co9gBmf/Tk80s0NqutngFszNqCSE5j1wmBEA1MKv46DFbVY+CBNvPm9T4CgxUTCCVrxrRBQHeJ3MrAwd+tlokeKYkPua9rIIPIYgPCdt/8wGzfR3r5/Q3/Lp/JobTn0JLpPJRH88z7OaBd/I8oojpOuoJeY8C2avV/QOXgqV6Cs8NP0s63ZqIUhFWT6llF+UeGn7zH0CLxaqKkYPMnQvtY2q6ONlXMQofOmA+IvWLljzXp45jKy9uZHJIE5Ip831b+gWlsj8g4gxSYb6aZyj4UvXhl7Bc=;Cwu1uQRJezbqIJOY9Bp7mw=="
+secured: "KYs0KstBPLQ6CF2QaQdxGLEt8C+evaI8IEcSHIdmjfNHycy43EY7caymwLFv7SBUkFTAmMhseiG94gnh/ouRDwSBaHbSzpW0PIiZWZdihw8+XEE5WuvRqEVeDq310DLXsQ+5056z4lP2hMdtHina6Np0qFPB5zBGD27Yw+lumnEk9WRHpX+3a3GSduIGNLZdHOP2PHCdm2Xr0LgRVi/p2GJ2zpk/fIa06mWj1DVZQ+00G6G5MPtqQ+qIreKNPwogQ1B/IgM0J8+FRGARSDQBkiBcFsWKsCJUQxdcjrnRqqN5Ty/di3Addt45Z38VwHLrTJwV/IVvEIqhz6UZtOEUa5r0UfYPNX9ZpFtGT02SmQU=;lIe5QkQQN9pa6Nl5f2u2Cg=="
 ---
 

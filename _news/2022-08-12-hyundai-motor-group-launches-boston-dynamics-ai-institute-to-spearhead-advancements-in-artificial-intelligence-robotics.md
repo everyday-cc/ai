@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
-publishedDateTime: 2022-08-12T06:04:00Z
-originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
-webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
+publishedDateTime: 2022-08-12T09:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: The NewsMarket
-  domain: thenewsmarket.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
-    width: 1164
-    height: 657
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -81,7 +82,7 @@ related:
     provider:
       name: New Atlas
       domain: newatlas.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
         width: 1200
@@ -212,6 +213,6 @@ related:
       domain: universalhub.com
     quality: 13
 
-secured: "rNCTCfqKcp/iT6I07Fra7p7v2Ljg5JkQYbJ3iPJY8Jl/NwJMs7fc//mH/b7L2tcnpYRzO2BVUBkzxW0cE3cjmSnAnf9iyz6F6YZa/trFP1u6DMuVtsSb8+dbfRsdXNWxSmVjwKNOZbMq7Un+M5WHjGMyu4b1q9F+kELBnTmIWL8I1meXIvAf802JNM02aWAubvKA6H4srUXRorXTXtHHaY7u4GVvvq5WdlNLZW7YpktV9gnc+QCxPIxwvpJ9qSeLfzKqZNzYEToZpyb1VsQmchtdf8I/DTm8HCnCOLoYjZA6rSzK5QhGsXLuWXyq2Nq98akWes6zwgm9h6ZSNvHARiBpoTWj71cOYYzBDLsKiQU=;6w8ryWbhp1KdQCi/2M3plQ=="
+secured: "KAZ3T94Gsjepk+jFc77BlB1yo3M+UsxU+Dgr+ezuLvXMbguXq4PcONYkNPsQl+ehMIuugHdtS+fdBklCo7NgdKDkbPWkhS5GNyq40OIYYhMBPQZ6AJ9yhSG39lqCgtxizpWL4T92sZxqf+ITdHIglRmc22T05XYlUzMtZhA0JGj7E4AmwkJ8RYGx2MWtg4hIpKbnf4vf2lBpeeznYYaGc4mJcjHj+W5HOErWefbVaRzP0NTyM33d4PvL3Uzlfryh5+ltZDe5GTlhIJLMUx4/nLGDMcsbrKv9kJD9UQULui81ZYx8iBVhmfJkFJaKaj879t08vP3x3+KhG627cHpksYaeBcb9gqN1xd0RitCjBHU=;7qysqKNRtKiekM5QpCNLyQ=="
 ---
 

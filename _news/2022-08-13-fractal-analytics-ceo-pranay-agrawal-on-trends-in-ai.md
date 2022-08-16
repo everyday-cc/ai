@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo
 webUrl: "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Infosys’ AI & Analytics Play"
+    excerpt: "Infosys is at the forefront of technology innovation and is leading the way for multiple AI and analytics solutions and initiatives for its customers across the globe."
+    publishedDateTime: 2022-08-16T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/infosys-ai-analytics-play/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Infosys-AI-and-analytics-play.png"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "AI, analytics key to developing African hydrocarbons"
     excerpt: "Africa has had massive oil and gas discoveries in recent years ­– including the Greater Tortue Ahmeyim offshore Senegal and Mauritania, the Luiperd and Brulpadda in South Africa and the Rovuma Basin discoveries offshore Mozambique,"
     publishedDateTime: 2022-08-16T07:01:00Z

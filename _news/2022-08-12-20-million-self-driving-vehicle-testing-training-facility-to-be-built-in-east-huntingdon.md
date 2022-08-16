@@ -7,7 +7,7 @@ originalUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-ve
 webUrl: "https://triblive.com/local/westmoreland/20-million-self-driving-vehicle-testing-training-facility-to-be-built-in-east-huntingdon/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Officials Eye Safety as Self-Driving Tests Progress in Penn."
-    excerpt: "As the Pennsylvania Senate prepares to consider legislation that could make it possible to conduct self-driving testing without a person behind the wheel, the issue is more important than ever."
-    publishedDateTime: 2022-08-11T15:18:00Z
-    webUrl: "https://www.govtech.com/transportation/officials-eye-safety-as-self-driving-tests-progress-in-penn"
-    ampWebUrl: "https://www.govtech.com/transportation/officials-eye-safety-as-self-driving-tests-progress-in-penn?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/transportation/officials-eye-safety-as-self-driving-tests-progress-in-penn?_amp=true"
+  - title: "Self-driving vehicle facility planned for Westmoreland County"
+    excerpt: "A new self-driving vehicle facility is coming to Westmoreland County. The East Huntingdon location will have a three-mile test track. PennDOT is building the facility on state-owned land at RIDC Westmoreland."
+    publishedDateTime: 2022-08-12T12:14:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/self-driving-vehicle-facility-planned-for-westmoreland-county/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 44
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/21f177e/2147483647/strip/true/crop/380x258+0+0/resize/380x258!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F52%2F1c%2F88f483b648e19b44d28ba6b5355c%2Fhp-logo-black.jpg"
-        width: 380
-        height: 258
-        isCached: true
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
 secured: "8rDRNsUu2I6pIoG7gBP/UyfWx4JBwcNW/hWCOb0othG/yWewzLEPVYm0qqRwm8XPXh9fUU2/sWbBcS9XH/OrHZqTjytKImdcAcO2KWL72eIeRgphnA4uosUdelZhfFcU+WZufSNjNy2+ErF5Rqq8exHqn19C5X35s5H7Jopqe99fAXhGsDcnmENFmVsv8CjIkU+igaHsXCQtUFLXWYEs9/r3BH5nRiUpZJGhZHdAhuO05QNoT2S5faOI0Jc1POMheVews/ECCOHQP60ge2icYj/LfZXUYHVB3K/h6DVDuc/jDOcvAvGkSoWMWBER5GgD7X3GM3VemOqfTorTBL5w9gcZ4VN+YkRGOdPaffjvyOpzNvXDSQ5L/470Nl8ezY3f4VZ4cDKK+UzkcBoqoqD2witp4pFx0twsdISqT+YUVfRg458OQHlZkQfFl2lqt9ECfYJqTf8NYOGHM9LvSBQrBq7vwMEBgn3r48bOWi7l0tN6WYEG8XprIHx7jc5I6fbPAgOIAxbU35pjcViaDKGyMQ==;I1E538kon1MJAw6OaDf+gA=="
 ---

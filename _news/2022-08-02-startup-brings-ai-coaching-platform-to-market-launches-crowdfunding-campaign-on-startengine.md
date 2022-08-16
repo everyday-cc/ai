@@ -1,19 +1,27 @@
 ---
 category: news
 title: "Startup Brings AI Coaching Platform to Market, Launches Crowdfunding Campaign on StartEngine"
-excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching experience that provides personal development paths and situational coaching to users."
+excerpt: "Tech startup GoMe.ai has launched a campaign on equity crowdfunding platform StartEngine to fund and market its key offering: an AI-driven, SaaS-based mobile coaching"
 publishedDateTime: 2022-08-02T15:57:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-2-startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28314784/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/g28314784/startup-brings-ai-coaching-platform-to-market-launches-crowdfunding-campaign-on-startengine"
+ampWebUrl: "https://www.benzinga.com/amp/content/28314784"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28314784"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "FmeF8YC6GbULQ3QJUBYc0byrFhcgdPuMJI5O76Fq6yTbXISxOWtECdyMdszWpFhcqNWjPqHEk3MmGpSOtkxpPAIEP6WkpRmI06P8JSlBkiEexHFrsA33xJMf0qTm3G0wREvxi3KcCS8QN31Yqx/0M3BpK8x1T1Mx4g8gGPQghdzF6Py2p+4lUUdVCiTUYo9NmpCcfus37XMbNu4n/43jnkQtAFmKECl0U0+1DLWx5OYQd29cPAivBQk8DiB7pSk2AHpbYQ4yDk+/ogC0EHgneoTwyqNb4S4US8yDnYemYdp1Oca61QCHJ8uH0xz2rpBtKS42InAYwNP5HU7/KCjOXAhjabB+2QBLf6L4wjcWQgM=;nIHnae0eafgsU6Abi03A8g=="
+images:
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "Op4YPv6BW+NKrfts165iKTzDHBKu3O4OE8T83tm1Va7CF6yeg2IQf+9IXSSBVK+1dMIKoIb8quSv4Fu67iLnZjJJA+j7Bq2rLRl2GFl4WcpieP4Cg9xyoDyu5+I2JKHZxat3JJxgzkoyJRcbBlerhz26Is+kl1a/kJ/oeGbrZkqKetO6eDwIqIzA2AvcLE2sUqt5BUR5z/GRss6h76ZFi13DDeWIRHD8hxf6OTCM78w7By3IoWioQTEc6dSBiOgelIX0zPgxV9wu0o8+WEpPrIgytXUFZyQ3akWTyr1XJzanm4vuDbhds3ewSmJGG9kg13sKubA4X9MYTbdxe+GeJfw4IMUcH6d/4I3AAWz3Qxk=;P1MLl/Wl0hPyGqvpKpH9Ug=="
 ---
 

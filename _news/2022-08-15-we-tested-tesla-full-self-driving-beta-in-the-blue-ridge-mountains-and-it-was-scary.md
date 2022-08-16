@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/nHIgawTRCv8-HD-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
-    excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
-    publishedDateTime: 2022-08-11T16:33:00Z
-    webUrl: "https://knowtechie.com/tesla-fsd-apparently-has-trouble-not-hitting-little-kids/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 38
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."

@@ -32,6 +32,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Infosys’ AI & Analytics Play"
+    excerpt: "Infosys is at the forefront of technology innovation and is leading the way for multiple AI and analytics solutions and initiatives for its customers across the globe."
+    publishedDateTime: 2022-08-16T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/infosys-ai-analytics-play/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Infosys-AI-and-analytics-play.png"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "LfKfeF63ORvp9rhxXSlw5012XVJhYyl6NCaQf1xdHEWT2Smvx7Egxqa/frxNSZYAMijINi3QZpb9IrxgoWRU513TWW3P1l0TjNMJ0b4Bp3M7qMBpwuZDxnglwaAlOwj34aOwKsIOm7zmz81L+LYJ3KhdixYfdnNjL8i/+ZdVcmztRZSZci2X9/dvKfzjh4uwGS8CP9cZ8h6l+nx+jLIJf/kK08Syq7s9YEa+vOkP3ieiSpl2snxjTSYshoJXzeTIUqsiKarouz1tlDdmXd5NXIu31ZDlcUxwumGzt/pl5pB4lZKyNqLi0eXupCJ947/ji5xIwFuKlwEoH7kNwQFCcUqbKjIX5/6Zxj+zz9jQ5lg=;sDvAT21x2H1Ts/x9V9PcSA=="
 ---

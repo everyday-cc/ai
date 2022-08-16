@@ -93,20 +93,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla’s self-driving tech apparently has trouble not hitting little kids"
-    excerpt: "Teslas are some of the most technologically advanced vehicles with their electric motors and self-driving technology. But it turns out that Tesla’s Full Self-Driving (FSD) tech has trouble not running over kids in its path."
-    publishedDateTime: 2022-08-11T16:33:00Z
-    webUrl: "https://knowtechie.com/tesla-fsd-apparently-has-trouble-not-hitting-little-kids/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 38
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
     publishedDateTime: 2022-08-15T18:27:00Z
