@@ -26,7 +26,7 @@ related:
   - title: "Next Generation Defense Technology"
     excerpt: "Charting, Price Performance, News & Related Contracts."
     publishedDateTime: 2022-08-16T01:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIK22/pressreleases/9693188/next-generation-defense-technology/"
+    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIU22/pressreleases/9693188/next-generation-defense-technology/"
     type: article
     provider:
       name: The Globe and Mail

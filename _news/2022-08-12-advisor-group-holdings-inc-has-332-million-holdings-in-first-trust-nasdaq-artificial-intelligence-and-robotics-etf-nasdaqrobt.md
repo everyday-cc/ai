@@ -37,15 +37,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 5
-  - title: "Prospera Financial Services Inc Purchases New Stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Prospera Financial Services Inc purchased a new stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) in the 1st quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-08-11T09:38:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/11/prospera-financial-services-inc-purchases-new-stake-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
   - title: "311 Shares in Citrix Systems, Inc. (NASDAQ:CTXS) Bought by Prospera Financial Services Inc"
     excerpt: "Prospera Financial Services Inc bought a new stake in Citrix Systems, Inc. (NASDAQ:CTXS – Get Rating) in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-08-12T09:08:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-amon
 webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Banks and fintech firms: The symbiotic relationship"
-    excerpt: "Customers expect a lot more from their banks today. They anticipate a full digital experience that engages with them on an individual, personalised basis. Fintech firms have excelled in customer experience and are far better at providing tailored products  and services than the banks,"
-    publishedDateTime: 2022-08-11T09:11:00Z
-    webUrl: "https://www.finextra.com/the-long-read/467/banks-and-fintech-firms-the-symbiotic-relationship"
+  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T05:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/467.jpg"
-        width: 800
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
 

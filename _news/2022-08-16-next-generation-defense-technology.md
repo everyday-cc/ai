@@ -3,8 +3,8 @@ category: news
 title: "Next Generation Defense Technology"
 excerpt: "Charting, Price Performance, News & Related Contracts."
 publishedDateTime: 2022-08-16T01:54:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIK22/pressreleases/9693188/next-generation-defense-technology/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIK22/pressreleases/9693188/next-generation-defense-technology/"
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIU22/pressreleases/9693188/next-generation-defense-technology/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIU22/pressreleases/9693188/next-generation-defense-technology/"
 type: article
 quality: 24
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: forbes.com
     quality: 34
 
-secured: "SP71J0zH0G7GBTA8M+dW2ESA1bGB6KM7zOw4nZm5Bacqa6D6wg5KFtTEHp0nJSGYg2Fo1/hbJdCNyQj4sQqdJtIdOu+srAUjbhFaMBcdGaP7C66Tfo5smZA89UKF/2i/oOjjgNuziecl6/NZdXKcv2eEHvGGtIxa9cKYcB5IoFcKkjmgHpNwnVAF4h6QVicaUdf7ija/DLr+tt0ay9tlBt42+4aDMANpvica3CF23ufHTDnLL3oC8RtO0qY+BA2zmnUrMAubrCsqZ4vr2f1XUEXEEcYjzKka4JU8TWkQMNy4ii8d12Eh431OjykBsiUzkNCRkAEV/liF6hICHKU71hFVCRCyEHt0lJbguVMBy2U=;Xq/190RjLygq6MMouQMJKg=="
+secured: "r+hPx+ScLcJ97SWYtDkWM6X+pSJw1uQFvnU5dm/tYwsvZs0tRzH1pKBXpL0P3upDavGeVC4Pb4mRnwKwNDDRMCj8z1h6qF7FfxhwMdXnUsgNS04qw4+gU3SA4BxdxDfmAM4kXExiCdKyAVJjr28ZJLpv40IDFmeUIYwx4Dibv8j4ysVSxdALwNg6nZxePsZY+pxpuXdGcKbcU5BN0wgMSttc3iWxHTiZXfqPuDuRwTUxfxozA5YdhRA15Qvjg2Npao+s9MFSsncrmwjXcsh2g/8hl28qpo6eM2Wm95WTbsWYCx8Dlpn15RR1GU/TfSYVfcqW6opfO9UMLqmABC4ZRoQfDKQhJxHIJw6wZ9UgnyQ=;9eJ+e8ifmdgcaup92jaD5Q=="
 ---
 

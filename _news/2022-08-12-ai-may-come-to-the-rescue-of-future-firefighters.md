@@ -69,6 +69,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
+    publishedDateTime: 2022-08-16T03:44:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ZCZ581Iu+semCLNUuFsHXNJmWD6MCsfDEij70Zxj2nkJyseCW77YXK6jxZWkm3ChLQ2pUPncLlhtmrWQU+hOtJg32yJY+rsK7Fk3vwjiM8od9aUpZqVTDKWwDGF6tzeUkSr1JG2h6zypMv72398CwG6pXIg2GVmeIT2TOwnWIfLlTgrY6hsyUIRE/ow77m8aiOzYuQbvFj46R5CSqGg2M4YvZu0DCurTaUAbK8oc+bN04zeB6t6xEIE92MwXFaKWYCXhF/4cdkSh/PLudkQSWlYyHUWwjdHl0/92O9U5S/f+U6u6MEt0puaMHzOA+UJ+KooO3BI6Q172VUMXL4Ajk2JnSAEa0jaMZqukbF46Nt0=;H2nQ/uLQh9W1VIQ2LbryPg=="
 ---

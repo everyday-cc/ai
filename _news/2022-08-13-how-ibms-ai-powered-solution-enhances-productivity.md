@@ -51,15 +51,6 @@ related:
         width: 1100
         height: 733
         isCached: true
-  - title: "Clearview Consent Launches Presentation Attack Detection"
-    excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
-    publishedDateTime: 2022-08-11T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Face Forensic launches victim identification system with biometrics and tattoo recognition"
     excerpt: "Face Forensics new victim identification system for use in investigations into human trafficking and child abuse is based on biometrics and tattoo recognition."
     publishedDateTime: 2022-08-11T20:44:00Z

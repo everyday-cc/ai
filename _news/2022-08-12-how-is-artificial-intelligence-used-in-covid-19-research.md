@@ -25,22 +25,6 @@ images:
     height: 1125
     isCached: true
 
-related:
-  - title: "AI Research Codes are Open, Accessibility is an Issue"
-    excerpt: "Snippet: AI can’t advance without sharing dataset/code, and it doesn't matter how many conferences back Open Science, researchers still aren’t making codes public"
-    publishedDateTime: 2022-08-11T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-research-codes-are-open-accessibility-is-an-issue/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/How-to-read-AIML-research-papers.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "sM5CX855AJVx26+TnSD+owi6y11Ko8flP0yUT2M/VQaQhnayyfAJfxL+U9ta/Vr/YfIkiTIvN9cG3bqpODFkzb0hXRy5TDl0r1gp+Dvc+mXApJBPvla+ykMcnfarVHudh1P0HtHXf8mf80j/1PO4Z8fJQhwReXaTQb+dh/utW+ZVUa1SIOEm0wAKBPmZJk19wvifT9OsDMI1XRumZl667nOi3CV+A7NlQYgc6PDWZ5KK2Ym6eJfFYBRstx4zKEFTHwkGpXGHQi4Kle4JHnENAKltdtDHP5qxc236jGD0OTB1oeRFg5LvJhtAeR7iyS8VPMnJ2uBLyT2TtkGBNXKLLXBqpHSJrvbld1xQlq64tDhZY7NcVSue8UX/mNz3K/51x1cECVmZB6s3hBnbqNsP0Cp6CoiHV4wOyZSicgU2bPBdC0BXoXo9fhG3y21rfxHSIbNjkXn5IjRQCW1Er6hYtvjStR2jFP6o+V6GRMqqnRt5ogPHS+q+V7eMLn6/tYaaF8SReWCdTW0rONYCqhsHZg==;Smu1NZqISjHeeVek1+Kaww=="
 ---
 

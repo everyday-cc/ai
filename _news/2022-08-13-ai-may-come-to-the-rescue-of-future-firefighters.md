@@ -65,6 +65,20 @@ related:
       domain: gizmodo.com
     quality: 54
   - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
+    publishedDateTime: 2022-08-16T03:44:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI May Come to the Rescue of Future Firefighters"
     excerpt: "A new artificial intelligence model from researchers at the U.S. National Institute of Standards and Technology and Hong Kong Polytechnic University could warn firefighters of imminent combustion or flashovers."
     publishedDateTime: 2022-08-12T00:00:00Z
     webUrl: "https://cacm.acm.org/news/263568-ai-may-come-to-the-rescue-of-future-firefighters"
