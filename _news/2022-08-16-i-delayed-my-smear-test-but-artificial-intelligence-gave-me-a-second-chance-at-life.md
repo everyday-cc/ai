@@ -8,8 +8,8 @@ webUrl: "https://www.thesun.co.uk/health/19519684/smear-test-artificial-intellig
 ampWebUrl: "https://www.thesun.co.uk/health/19519684/smear-test-artificial-intelligence-cancer-health/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19519684/smear-test-artificial-intelligence-cancer-health/amp/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/TOB-off-platform-p31.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
@@ -26,6 +27,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "HtNTQboh+KLKXnhdjoDPqz8l5lqn9zVDiannEmUHd4FFIjMun6iwmSlVV8L1cM9zaw9W5nMp2pBxLJG2HJzlhtkkalDFwFqtc00m9X3q0FBmeOjPmg2YUEkb/BYN+b6PbnbXYU8SlChqL3Z5rh3jUCJuaIN6azZagWc8zvLuvFhzlakz8Yvuhg0qBKtvNr2iEQFBIKYtjFze7cNEPcwr1NV72Nrmsarfjsk3tbATlLX47luS9Bn5KISzX7ubdypgFIp1dxgjWQalcxBs+EM3U+BSxSzDnSmLG8KDxwRQJ6aOyae4W9bbRd6CUaK9NBw/xrlxEOL7d1J9gC7vQZxVMpIQ5Z9hnN6/daCnwPQhkIM=;7qMKhvTeJmUXgH6iMp/YPw=="
+secured: "4j+rAnkdjDGiA1y51GMfjWQopj8KTl4wMTUH8R7u0ozDAWtuOkO6YcIMSwtw/JeaRUug3jUbuvoKZ01F5uDQIFVfjYBPGETBfhifZqWQan+MSTo4Hrx+NcYhq1dTZIT7W5NKz6qRZ2IA7P2h8vXhZ8TellfWtlqsgBvTQxs5W00QxU8TgBiDjq38Xrx4EfE7/cq5VFM1wnCAZwMoBDZt07n6bzVSNMpUivcbCvwcI8W6GIJ/JXOsFOHmeqwu5PupnNgcYpXnViChjsCx6+rwBERpkRxnwqbsZ+6KJUTuyyTxQMz9A/w81duSGrSYKc6b/02dLOBVjUC6k0H0+HZOxIuGn980d6ijMQvt3e1vecb63zAzaIJbPgf4dkXPVWWc49lLKsrr29O/xbpQt5vUD5xnjAfnJImLDcFTg8Aje6wNVaiDugkNRbMBgdU3hRbWrCiw5UHa+CNPCJUNc0homFXtSOdtvlGAC9eIONKM6070Xd0SOCZy7w1s7oMJXOB84Q4BIw0AIo+N6EAHPJlY0A==;fTIzPLikCVhFVUBkhxglXA=="
 ---
 

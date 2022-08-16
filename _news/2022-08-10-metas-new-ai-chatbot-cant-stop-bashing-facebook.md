@@ -3,8 +3,10 @@ category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
 excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
 publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?ref=upstract.com&amp;curator=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
+ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "g1/HIum2NAfF5l1F+Jli8kzmo8fTs5sVPXIpkUcLjjYTaLyEqNOqZNU+FbqMKCjlLFcVXPXWsa0YamGoV5Hx3h238R9RUqLUO21WJQTzuBxWoOAvpxQvAb4e8PUDfwnNfpG/IdPNKcIKwlpFPScNvAOARnZJErtqDuMntMxMyxM4PbpNykB2ScNDIUoffXI3haJAgk5NNe2e3A02mn9019s3qpGH8F81m4Jerd2D3qVdZVm42iYDjKDIqI9XN9JmEjOLCcfxjIF6iQOdsjlqzYKXf0o8L++7qg2HaBuHdRvrecOR25R6nnzr9pN9/2g76ybq0djGAD9VjNnLpHhHmL59sikHdkS5xlw47jAUpZIqMzrxR2a7TRs/wLNc3pZ+r6qE9rDkAtQgzdsOPN+3fAJ44CehJRbEtEJtB3fVBI3VnV3Y1dPLons7JQ3+gqg4SLVEBy0sig4Y/9l52o8JtV6Mn2q8HP2WI3MuKafaPUgOhtgk7t0by6TWfEXKGLzk9TOMXL31L5p33g4gDpOQRg==;Usx4NoLrs1DBC+l/0lHyOg=="
+images:
+  - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "B//8QVRXRsI/HP5V9T15uo1iLWkV0kAndi5LWcYDLNYBLkZ4U/IIE4+u8M4RvGpax9WWrasnywipRboMWOTdG7EctRamNoln/rr5q7gAODehAk0yk6NXqWcuTnCNBCVauH37HkmzMvbAmMAcMW9vKPiqZMKlvg+lsbz8p+sknHZmsMS9bUwK6wlBYiWjPPpX2mlrgtszL71qaKZO+plOzRWlc+jf4mb4XBV0GvIkndVUlERMu8UlXfT1b6eZl1nCU+TWJ7/g7C2YX9IC8KxQLMKRH8E4JVM2hhwddzDCMpduiKH/XH8CDduY9ScFkQzuRUzxc/I7slEMOnHHAf5BUab9viWZn4JSXcEi6enSD6A=;4IONP3th5rRw0oYIW6YwAw=="
 ---
 

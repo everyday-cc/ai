@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Pearl Named 2022 “Hot Vendor” in Computer Vision by Aragon Research"
-    excerpt: "LOS ANGELES–(BUSINESS WIRE)–Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of “Hot Vendors” in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose ..."
-    publishedDateTime: 2022-08-12T21:25:00Z
-    webUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/"
-    ampWebUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
+  - title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
+    excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Visioni by Aragon Research, Inc. The firm’s report ..."
+    publishedDateTime: 2022-08-12T23:12:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220812005359/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 59
-    images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "z6lDVss4mxl8JULUwRtRxYsZ3zfNRk8kN8ovUb0eUXNkVsOhjtyL0v0n7l2HKxW+E43e2A8axqGPAtnSskPcVA6CRhNk427gA3B7Va+nQ2vPuqoMyH5t+V/g14x/iW52PDcnrIHD1TQIdeh3sVOHnWv1EFddz2hQ+fsj99VAzosWMcqSlSD63u2K6PzOzcXFqubVpM+x+O2lSiZxFydTNHPs3bzpWXnLs8qiud3c+DBa5+Zj4Nd+KUdEgfMvcAtpS+LbYa3xYokvS0yX6g+GZqVaCS0rTElECmF+4+RHJAFsi9d+KuAhd0kiA43axOJzkxnNG45VRJlEhtM2b4awVIOgU9f25s9l/RFbdmFxvx8=;0P+7VAgnPH1D263MSbQBAQ=="
 ---

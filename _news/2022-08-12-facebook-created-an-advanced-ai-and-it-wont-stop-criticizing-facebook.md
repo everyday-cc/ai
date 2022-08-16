@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook does something right for a change"
-    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
-    publishedDateTime: 2022-08-15T11:03:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+  - title: "Facebook Does Something Right for a Change"
+    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
+    publishedDateTime: 2022-08-15T05:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "The Big Read: Watch out Facebook (and the world), as pandemic-fuelled TikTok boom unleashes the good, bad and ugly"
     excerpt: "Driven to “insanity and boredom” while being stuck at home during the partial lockdown in 2020, Ms Nicole Liel turned to a new social media app that her social circle has been using to pass her time."

@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Pearl Named 2022 “Hot Vendor” in Computer Vision by Aragon Research"
-excerpt: "LOS ANGELES–(BUSINESS WIRE)–Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of “Hot Vendors” in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose ..."
-publishedDateTime: 2022-08-12T21:25:00Z
-originalUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/"
-webUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/"
-ampWebUrl: "https://www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research/amp/"
+title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
+excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Visioni by Aragon Research, Inc. The firm’s report ..."
+publishedDateTime: 2022-08-12T23:12:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220812005359/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://www.morningstar.com/news/business-wire/20220812005359/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
-quality: 59
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
 
 related:
   - title: "Inbenta Profiled in Conversational AI \"Hot Vendor\" report by Aragon Research"
@@ -37,6 +29,6 @@ related:
       domain: mobilitytechzone.com
     quality: 16
 
-secured: "LsK0NkYs58ALFCuakijqRJb/nlTv6sQ9h2FZmsgwanHTwIz4Na3O3Vm/JKvdHVRoCki1ZShGwQNeQ/3VgRH6kZAa1D5WcOLy6fAdj2lCI83NcA6HGG8Nd+iUXML3bY8U/BuM7S5BgmGbIifYw88fNtJuJD3h+zWQWD2ipnsN3C7rJdf2oAk+5pnVxtdR1riNd1UgBYCJiuaUP9qYyfPOhw9Zh3PgtausONT8Ev+UYPXkCPhR70duFBxI5BPSEiDnmcDOpI7hRaQsZUIs9O4aCQokZsMqHCmUQ32JOqUUVlh6/OKn5j2JrdJgiRmObjvpgWFrM8kSNr+Sk1e0+4VNPsVIjI01KYYPsJV4K35Cgrw=;ybU5YjMWd2X0GMwGEkSgdw=="
+secured: "FqI7oHzO+Zix6y3CAux2ae0a0SiPVxhU+HRtGaOeUtk5HaBYaZ2TVl1YxAQ9JO1DLoVm3AjUuiKRU0Gpwd0fFwLrY1la4zYEGDMUUAVhhxMS35EbSm4F18nIDf8DRcgk6/RQ2LHhzapbwmrsUpsxKsftEqhCb2As5J2yLY4tuAyqm6pe8J00VBw9Oi28ptVEW2yVIQ4VkL7d74OZPndn4Juu2We/aD5HkOM5GLSfnleOZiRijKT8VZwHu9I2KMSdOMpWgA+gw8KEi9Iq1TmoC3zEYjt4LoSw+SN6Lxbj8O8tNSojrADR+GxysBzs43TsZMsyy8Qn/KIT+FMx5Jy3caZ+2mLi993cZLf1pBupDN0=;0QogW1e8Mh3PIdnIvnKfyQ=="
 ---
 

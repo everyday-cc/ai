@@ -38,15 +38,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 19
-  - title: "Short Interest in Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Increases By 85.2%"
-    excerpt: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ – Get Rating) saw a significant growth in short interest in the month of July. As of July 31st, there was short interest totalling 38,900 shares,"
-    publishedDateTime: 2022-08-11T06:26:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/11/short-interest-in-global-x-artificial-intelligence-technology-etf-nasdaqaiq-increases-by-85-2.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 18
   - title: "Prospera Financial Services Inc Purchases New Stake in ExlService Holdings, Inc. (NASDAQ:EXLS)"
     excerpt: "Prospera Financial Services Inc purchased a new stake in ExlService Holdings, Inc. (NASDAQ:EXLS – Get Rating) in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission."
     publishedDateTime: 2022-08-11T08:42:00Z

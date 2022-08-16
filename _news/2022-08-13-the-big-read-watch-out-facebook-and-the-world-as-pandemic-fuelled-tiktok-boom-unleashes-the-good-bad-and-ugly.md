@@ -41,21 +41,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facebook does something right for a change"
-    excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
-    publishedDateTime: 2022-08-15T11:03:00Z
-    webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-    ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+  - title: "Facebook Does Something Right for a Change"
+    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
+    publishedDateTime: 2022-08-15T05:23:00Z
+    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 44
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
     images:
-      - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "7a8TXptbcN+ha0wzjkIvTMhn+8YQi0YPMrQ9zYS0rMbeY4qMNZ82UJB7Ve/zpg0EQpnxey3btv4PTww/kLt8ZhotygEDILBMIfN3U29lq05OmGnZxf/yH74KkbTjMaPVjn8Mck9polvl8kwCBhYEPHcetKqO/Xe5PQamw81OMb5Xz6IGo827ijT8PFX9MyNXt8CWInHLkewb1SvxiBzD+zcpGvItrsuZgdwt+DP7doPqUIwn56CKvWfUMUd5ikczrygLTzOFl/kJ1H+51n1FUkpZt4mMxfHhtwXmb5CTV7f2OYFMhtVjn2WSKkWVfxKg6Yg/wEA5UxqHxR1zrtwoYrJjwqEUZL0JaylZNzYw48MNPnjqWnwphSrZ9Y9Sxv8mokNx4E+9XbY6JzwZAk+/SPaB3CPYhNSmf7jnzCfXZuXGf/NY7TGVFCL1OcdRF6SBJ9LF9p9LPxT9OY/KZXimX95ZM16ztWAzElZFA01l2Rjsw7QJgULFkWaQzgAjdwSvoH50ndLp39Uv1KRiTDRxPQ==;uLiUba85mw6aeO7voqIb6g=="

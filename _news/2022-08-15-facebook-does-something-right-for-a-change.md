@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facebook does something right for a change"
-excerpt: "Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients but in a completely different part of the business, Facebook’s exchange of information was going the other way and to good effect."
-publishedDateTime: 2022-08-15T11:03:00Z
-originalUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-webUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/"
-ampWebUrl: "https://indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/facebook-does-something-right-for-a-change-8091580/lite/"
+title: "Facebook Does Something Right for a Change"
+excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
+publishedDateTime: 2022-08-15T05:23:00Z
+originalUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
+webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2022/08/Facebook-does-something-right-parmyolson.jpg"
-    width: 1200
-    height: 667
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -58,6 +56,6 @@ related:
         height: 676
         isCached: true
 
-secured: "gcI8JXsJMQ6bRvNYoS1pl+1/EIfX8t15EOyqkeuekcivWalpP+l/c6ZKFof9Pthv/qXWA7mw2xpEBdF6WbNB0HItfalJ5sbRNrrNANEgxA1Kk5Rrlc6ab8c1e7jU932Zg7bFekJCA1qWqPzQ6raY8sngLFtASWCsOwhJJp4oCesF3kFGoMwSjH7P6EZ+F1bIcqEDht3Sr5Xg4pDRp+HdoFpMfUvDTCqq+douRfaChGfWd8q0jwgBLmDT6MxKMJ0wzRznzBlEaguASXVuskYpmJIBVGtdnMiyebsETryarLuWr3b3tCEuk6rC/PMgE4xtDMzs7i023rrJbHPBgywa2KhoeviVh9HuQe5Oc20KrwD6KTH8ZnCv+lZ/AYaQh4ZYZV2OaYiX/0j5/oyHWOwmLGnBxpmNO9KKhGW6vUyt48m9jOQiz2OA3+RP2uPKb/v2yGYMCRuks2hJ9ViUVEaHgkNR7kLkDS17GAjyGfA3x6kcxxVDdmq+7ToMwz2CPYjs88e0fxgvrAgH1rZjlU42VA==;2Ra7gRI7a8udIHpsQdvc5Q=="
+secured: "nB7aHXdd2+zDx86zbXAcrcXpQhqbwJ3NSCLDRA7vfwizxH39SLZGVDiC14F+vCJR3rTxFBb0kb4OaAI2vLD8ZoT3RdhIRYiSPUSpm7oPhLwrnMeZbf8aoy/juuG8FPZ0z5z2aQiAsNvFkJJwV8A69V9nDxIjUVR1qx7K+YR2xpChHYrhWhmLMs8XNa4loUDw6xvce2WfnkStma8pxLAvTTuvECUQU3//pRoVEM4akSJ8Y14ud1XUdvz64v6f7aKtXSqBASIJlNheq2AE2Pds4GXugxAWAWHgV35kgfgCc/FOrE+jr0I7agHLDhccJOis4FHTXpDdHowtstABEOPunP2Xk3NoZmqwXtS0CcyDqxs=;ZhM7zwUSdAudM/uva+I7zw=="
 ---
 

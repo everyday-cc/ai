@@ -9,7 +9,7 @@ ampWebUrl: "https://www.astroawani.com/berita-dunia/artist-uses-ai-show-how-worl
 cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/artist-uses-ai-show-how-world-s-streets-could-be-more-pedestrian-friendly-375925?amp=1"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 590
     height: 400
     isCached: true
-
-related:
-  - title: "This artist uses AI to show how the world’s streets could be more pedestrian-friendly"
-    excerpt: "How do we imagine the downtown zones of the future? The Twitter account @Betterstreetsai explores this question by using DALL-E, the artificial intelligence (AI) that has started a real trend on the Web."
-    publishedDateTime: 2022-08-11T07:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/11/this-artist-uses-ai-to-show-how-the-worlds-streets-could-be-more-pedestrian-friendly"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 30
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/11/1693193.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "XD9CHla2iEcBL9x10eQYmgtIsmLbocKJCecHPPouyp/opY10TsoAnZiVaphHmzvzil7Og+EwTBNq8K5KNZYJXAvn36MZACdsGksim2S+SKU4opJO3RBLbx9eu2OWXx+r40mYjDe5JzwsIM5dCSfUTFO+XuitymZ50ja/c4xxexHdtZ11U02hWOUAKaEkQ93zdW3wM/7DGFNBp8dTL9eOpGeaJ1uDEpGQFhBE+d44VQO46fWspMH7pc9D9GZgNTiO0T91cX6i2ctwpzMAmPl6p+5UlrKIPqltVjGKlVd+epyQj4jV+A86ysP+sBZrWcMUrpfkHhE0NnCbYAVVWEmgwp/gGbHM8kkL0hrCHKIBPOM=;PCUtgNEzlPTDDU3HknPiIQ=="
 ---
