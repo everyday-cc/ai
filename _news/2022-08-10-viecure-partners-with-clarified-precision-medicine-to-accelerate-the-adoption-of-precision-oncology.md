@@ -1,23 +1,26 @@
 ---
 category: news
 title: "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology"
-excerpt: "VieCure will fully integrate the Clarified Precision Medicine Somatic and Germline Clinical Consultation process within its A.I. platform and offer community oncologists with streamlined access to Clarified’s nationally recognized test interpretation team."
-publishedDateTime: 2022-08-10T12:00:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology"
-webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology"
+excerpt: "VieCure, a cancer care company with a market leading artificial intelligence, informatics, and clinical decision support platform, announced today a new strategic collaboration with Clarified Precision Medicine which will make precision oncology more accessible for patients and community oncologists."
+publishedDateTime: 2022-08-10T12:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "CFFqVYdMGlC5m9pooR6C0N7+iiZ5SBQuynb2qF+axewrfqmbt8BIGJfo5CUnaLqduYpDI3M/sAanH/isJARIIQJgCetTTgrPuLF3VgVydoFP89QcY96OLOL7LifUNCFkiexH6tBIjFNq+azMti5zAmbc4R+2iM2du7vo0AoSnXLFQoSBt1szmQ2q5ND57CfhhdDZ9MMpeJq+Qb4d1xVMF9YuqrH8ygPK8UoRJe5EesBZajEUdNYBZ0Tgd4ySLVCp2mws9dZbjeSSoSaGm6ChCTj1ckI5Pl+tRvJQzq8LsiL0THeE4cTabtNBfzZhE/N0M1Qk5D2lWZhfmZTaDaC7jhTh8MtL+IaXm8trn9W9W3o=;WBuq4jFlEsYBsVq/zZV8FQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/b4/cb4a01d1-e635-5791-8467-b2f7b87fb7f1/62f3a263e6c1b.image.jpg?crop=872%2C458%2C0%2C61&resize=872%2C458&order=crop%2Cresize"
+    width: 872
+    height: 458
+    isCached: true
+
+secured: "ptpAojIVd+UiCprJl3MUJBpOxsBLkUL5rqfR9cPnj6sXsUObv+BzNo2HU6WDCPo0Rjh/3SxFHGbFUZqSlFiLIY1dabEGDW4KiLhzxhucx7Ea1lfGD9rIOm0Wb7LlreltbqC0mPSuGHqS1c1l/qZSpYEiyrOZ5RvOyhuESZ6R7W3tKQcWIM3pw/XRd8S4D3/wNSkpnUM5Z2LmMi9knqgMG/Qrhemexwm2/mC5VvmPF05t6rhcDBVX0Xkchs8lRbLEDP17odF2LL8vz6z2pzE+0jI+3/+f5afLsaTKWX6FyoX9cWLS1/zczay5Lo3+aGGYgC+mU8OoQ+kwPa5zjm83mP+XEgVvmklRWT0MyZm24Nc=;4Ircpzk71XIyZxnOYuQjfA=="
 ---
 

@@ -32,6 +32,15 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Where Mayo Clinic is exploring clinical AI development"
+    excerpt: "Mayo Clinic created a hub for digital transformation that uses data, analytics, machine learning and AI to help improve patient health and deliver monitoring, diagnosis and treatment recommendations through digital channels to patients."
+    publishedDateTime: 2022-08-15T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-mayo-clinic-is-exploring-clinical-ai-development.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
 
 secured: "JOBAotzg75IA69jGTjE4TcxarjeqMExFA4zXlXEz+m2Il+V72YKzRjL8Yid/ZR+ONHDoShru+WCNhAjm4/e8Od3VF1KB9GpKlg1kOlUENrCec2RLpeO5wkRMiypjULQU52lUPPotlqYU2bdRpgbNygKqoJcGv3xw483yPHJd1GOo3mWPMofYLeQs4qpSX5n/dITjk1zs35lxVpY1R4QzTs9A8fy98DhCjRLeKNvLRV+aQ8qblugP4t5mrCtHh7VrlIjTdgU68KHa5/OEmysW1vcyDQwiZ/49sLu3zYuTJYzz99yVj8MtPXP1kMzCA2P2iyih9Xy99SFt/+sWHgSECdYlf2rHfgIawYLcdoa38EU=;ZiIiZAgC5Hm5tExrv19qNQ=="
 ---

@@ -2,6 +2,334 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-09-sam-weitzman-makes-pools-safer-and-easier-to-maintain-using-advanced-artificial-intelligence.md",
+      "title": "Sam Weitzman Makes Pools Safer and Easier To Maintain Using Advanced Artificial Intelligence",
+      "excerpt": "In this episode, we are joined by Sam Weitzman, the Founder, and CEO of Deep Innovations, which develops cutting-edge cloud-based technology, artificial intelligence, and computer vision to create various value-add applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/433014",
+      "originalUrl": "https://www.entrepreneur.com/article/433014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
+      "title": "AI regulation: A state-by-state roundup of AI bills",
+      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "publishedDateTime": "2022-08-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
+      "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
+      "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/m204pp/article65749618.ece/alternates/LANDSCAPE_615/Kloudpad_Founders.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-missouri-based-fintech-to-acquire-glastonburys-payrailz.md",
+      "title": "Missouri-based fintech to acquire Glastonbury’s Payrailz",
+      "excerpt": "A Missouri-based publicly traded financial technology firm announced Thursday it has reached an agreement to acquire Glastonbury-based digital payment company, Payrailz. Jack Henry & Associates Inc. said the purchase will expand its digital payment capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "originalUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartfordbusiness.com/sites/default/files/2021-04/payrailz2_opt.jpg",
+          "width": 770,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Business",
+        "domain": "hartfordbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-datacenter-props-up-nvidia-as-gaming-sales-collapse.md",
+      "title": "Datacenter Props Up Nvidia As Gaming Sales Collapse",
+      "excerpt": "These discrete GPU sales aimed at gamers and cryptocurrency miners took ... By contrast, sales in Nvidia’s datacenter division, which is driven largely by AI workloads but also by a fair amount of HPC simulation and modeling and data analytics workloads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
+      "originalUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
+          "width": 937,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
+      "publishedDateTime": "2022-08-08T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-361-until-2032-future-market-insights-inc.md",
+      "title": "GPU as a Service Deployment to be Maximum across Real Estate, registering a CAGR of 36.1% until 2032- Future Market Insights, Inc.",
+      "excerpt": "The rising adoption of Artificial Intelligence (AI) across industries such as healthcare, BFSI, and others, is considered as one of the emerging trends. Major players across the GPU as a service ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28409243/gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-36-1-until-2032",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28409243/gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-36-1-until-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28409243",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28409243",
+      "publishedDateTime": "2022-08-08T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-baidu-ceo-says-autonomous-tech-from-robocar-brand-jidu-will-be-a-generation-ahead-of-tesla.md",
       "title": "Baidu CEO says autonomous tech from ‘Robocar’ brand JIDU will be a generation ahead of Tesla",
       "excerpt": "During its inaugural partner’s conference in Shanghai, autonomous-centric robotic car brand JIDU shared details of its lofty production expansion goals overseas. Furthermore, the CEO of parent company Baidu,",
@@ -150,19 +478,19 @@
     {
       "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
       "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,",
+      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960990",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
+      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
+          "width": 2560,
+          "height": 1440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,13 +498,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:12:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "publishedDateTime": "2022-08-08T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -186,6 +514,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -861,317 +1190,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
-      "title": "Veritone creates AI-driven revenue opportunities on AWS",
-      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "originalUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
-          "width": 1024,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "publishedDateTime": "2022-08-08T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-two-chinese-cities-approve-baidus-unmanned-self-driving-taxis.md",
-      "title": "Two Chinese Cities Approve Baidu’s Unmanned Self-Driving Taxis",
-      "excerpt": "China, seeking to catch up to the U.S. in autonomous driving cars, has been increasingly active in setting up regulations that allow such vehicles on public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "originalUrl": "https://www.wsj.com/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-599394/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/two-chinese-cities-approve-baidus-unmanned-self-driving-taxis-11659939689",
-      "publishedDateTime": "2022-08-07T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
-      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
-      "title": "Baidu wins approval for China’s first full driverless taxis",
-      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing.md",
-      "title": "From AI to voice search, how new-age innovations are defining the future of digital marketing",
-      "excerpt": "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
-          "width": 434,
-          "height": 474,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
-      "publishedDateTime": "2022-08-07T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-how-enlighten-designs-is-balancing-professional-services-sales-and-delivery.md",
-      "title": "How Enlighten Designs is balancing professional services, sales and delivery",
-      "excerpt": "Hamilton-based IT services and consulting partner Enlighten Designs is focused on ‘keeping a finger on the pulse’ of customer requirements to remain agile and seeking market expansion through growing its expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
-      "originalUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/damon_kelly-1.jpg",
-          "width": 458,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -2,6 +2,389 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-invia-robotics-wins-the-2022-technology-innovation-goods-to-person-robotics-award-from-frost-sullivan.md",
+      "title": "inVia Robotics Wins the 2022 Technology Innovation Goods-to-Person Robotics Award from Frost & Sullivan",
+      "excerpt": "Leading eCommerce logistics Automation Company is recognized for providing innovative solutions to supply chain challenges WESTLAKE VILLAGE, Calif., June 1, 2022 /PRNewswire/ -- inVia Robotics –– a leader in eCommerce fulfillment automation systems –– has been awarded this year’s Best Practices Technology Innovation Leadership Award in the North American goods-to-person robotics market by Frost & Sullivan,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
+      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
+      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
+          "width": 811,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:29:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
+      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
+      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-hugging-face-models.md",
+      "title": "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models",
+      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg",
+          "width": 1000,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:25:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
+          "width": 526,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
+      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
+      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
+      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
+      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "publishedDateTime": "2022-06-01T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
       "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
       "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
@@ -776,367 +1159,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity.md",
-      "title": "AI in Fintech Market 2022-2030 Scope and overview, Growth Opportunity",
-      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Report Ocean published the latest research report on the AI in Fintech market. In order to comprehend a market holistically, a variety of factors must be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-2030-scope-and-overview-growth-opportunity-2022-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Research Report 2022 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence In Drug Discovery Market Size, Share & Trends Analysis Report by Application (Drug Optimization & Repurposing, Preclinical Testing), by Therapeutic Area, by Region, and Segment Forecasts,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-artificial-intelligence-in-drug-discovery-market-research-report-2022-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-the-race-to-hide-your-voice.md",
-      "title": "The Race to Hide Your Voice",
-      "excerpt": "Voice recognition—and data collection—have boomed in recent years. Researchers are figuring out how to protect your privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
-      "originalUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62969e5ac54d2f0c8603ffab/master/pass/security-voice-ai.jpg",
-          "width": 2401,
-          "height": 1351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/voice-recognition-privacy-speech-changer/amp",
-      "publishedDateTime": "2022-06-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-microsoft-dev-box-your-development-workstation-on-azure.md",
-      "title": "Microsoft Dev Box: Your development workstation on Azure",
-      "excerpt": "Build 2022 had a developer focus, with new tools to make it easier to write code in a world of hybrid work. Dev Box promises to make your development environments easier to manage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/04/15/10/it-as-a-product_boxes_glowing-box_binary_package-by-masterzphotois-getty-100798698-large-100924633-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662291/microsoft-dev-box-your-development-workstation-on-azure.amp.html",
-      "publishedDateTime": "2022-06-01T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-artificial-intelligence-is-helping-to-measure-creative-effectiveness-in-marketing.md",
-      "title": "How artificial intelligence is helping to measure creative effectiveness in marketing",
-      "excerpt": "In marketing, 'creative impact' was once too subjective to measure. But with modern AI solutions, creative efforts can now be effectively analyzed. As part of The Drum's Creativity in Focus Deep Dive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "originalUrl": "https://www.thedrum.com/opinion/2022/06/01/how-artificial-intelligence-helping-measure-creative-effectiveness-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-668177-the-drum-image-31653982470--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital.md",
-      "title": "Arteria AI Announces Strategic Investment Co-Led by Citi SPRINT and BDC Capital",
-      "excerpt": "Arteria AI, an award-winning global leader in enterprise digital documentation, today announced it has received strategic investments from Citi SPRINT (Spread Products Investment Technologies), the strategic investing arm of the bank’s industry-leading Global Spread Products division,",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "originalUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/arteria-ai-announces-strategic-investment-co-led-by-citi-sprint-and-bdc-capital/amp/",
-      "publishedDateTime": "2022-06-01T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
-      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
-      "excerpt": "Performance targets were exceeded in machine learning and molecular dynamics, which are essential to advancing scientific research and discovery STUTTGART, Germany–(BUSINESS WIRE)–Inspur information, a leading IT infrastructure solutions provider, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "originalUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg/amp/",
-      "publishedDateTime": "2022-06-01T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-azure-nc-a100-v4-vms-for-ai-now-generally-available.md",
-      "title": "Azure NC A100 v4 VMs for AI now generally available",
-      "excerpt": "AI is revolutionizing the world we live in—from the way we entertain ourselves, to the products and services that we consume, to the way we care for our bodies, and how we go about our daily work. At Microsoft, our NC series virtual machines (VMs) allow our customers and partners access to almost limitless",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-nc-a100-v4-vms-for-ai-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T01:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

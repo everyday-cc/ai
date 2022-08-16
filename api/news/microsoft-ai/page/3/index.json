@@ -2,6 +2,178 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-26-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
+      "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
+      "excerpt": "Insight used its Insight Lens™ framework to migrate multiple siloed datasets into an optimized Azure machine learning architecture built on Databricks. The result is an increase in about $20 million in annual sales for the client, and the chip ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing/",
+      "originalUrl": "https://www.01net.it/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing/amp/",
+      "publishedDateTime": "2022-07-25T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
+      "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
+      "excerpt": "Insight used its Insight Lens™ framework to migrate multiple siloed datasets into an optimized Azure machine learning architecture built on Databricks. The result is an increase in about $20 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28190502/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28190502/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28190502",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28190502",
+      "publishedDateTime": "2022-07-25T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Botminds Document AI is Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "SEATTLE and CHENNAI, India, July 25, 2022 /PRNewswire/ -- Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1865614/Botminds_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28186895",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28186895",
+      "publishedDateTime": "2022-07-25T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-25-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X·CELERATE IoT Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to X·CELERATE IoT to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/25/9644286.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/449859/PRNE_Xoriant_Logo.jpg",
+          "width": 400,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-23-azure-synapse-vs-databricks-data-platform-comparison.md",
       "title": "Azure Synapse vs. Databricks: Data Platform Comparison",
       "excerpt": "For those wanting a top-class data warehouse for analytics, Azure Synapse wins. But for those needing more robust ELT (extract, load, transform), data science, and machine learning features ...",
@@ -1171,199 +1343,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii.md",
-      "title": "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii",
-      "excerpt": "Applications are now open for high school students interested in learning about artificial intelligence. Bootcamps will be held across the country, including in Honolulu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
-      "originalUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/03/GettyImages-1295900106.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
-      "publishedDateTime": "2022-07-14T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
-      "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
-      "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
-      "originalUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1355611023_update.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
-      "publishedDateTime": "2022-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-deltastream-emerges-from-stealth-to-simplify-real-time-streaming-apps.md",
-      "title": "DeltaStream emerges from stealth to simplify real-time streaming apps",
-      "excerpt": "California-based DeltaStream today emerged from stealth with $10 million seed funding from New Enterprise Associates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "originalUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-740521139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
-      "publishedDateTime": "2022-07-13T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
-      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
-      "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
-      "originalUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T05:59:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
       ]
     }
   ],

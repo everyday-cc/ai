@@ -151,6 +151,162 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
+      "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
+      "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "originalUrl": "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/",
+      "publishedDateTime": "2022-08-11T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-intel-foundry-services-announces-mediatek-as-first-wafer-customer.md",
+      "title": "Intel Foundry Services Announces MediaTek As First Wafer Customer",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Intel's announcement of its first official wafer fabrication customer with MediaTek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f4654c546802fe027ff4e0/0x0.png?format=png&width=1200",
+          "width": 1100,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
+      "publishedDateTime": "2022-08-10T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-microsoft-makes-its-3d-emoji-library-available-on-github-and-figma.md",
+      "title": "Microsoft makes its 3D emoji library available on GitHub and Figma",
+      "excerpt": "and PowerPoints into apps by using Microsoft cognitive AI tech to scan the inputs and produce working app controls backed with data storage. The company also is working on a Canva-like tool called ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b57d8a198543fddaa3d95993722019034d1e7984/2022/08/10/2160b01d-1efb-4126-954e-2ca6664587a9/microsoftemojigithub.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "publishedDateTime": "2022-08-10T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
       "title": "10 top artificial intelligence (AI) solutions in 2022",
       "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
@@ -784,6 +940,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-08-microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.md",
+      "title": "Microsoft Spreads FUD on Office Connections to Microsoft 365 Services",
+      "excerpt": "Microsoft appears to be deliberately trying to confuse the public on Office 2016 and Office 2019 connections to Microsoft 365 services. In a July Redmond article, I reported on Microsoft's plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0817red_WinInsider.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
       "title": "Accelerating Azure Databricks Runtime for Machine Learning",
       "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
@@ -1270,180 +1469,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-active-social-life-may-create-cognitive-buffer-against-alzheimers-study-suggests.md",
-      "title": "Active social life may create cognitive buffer against Alzheimer's, study suggests",
-      "excerpt": "Advertisement As the basis of the study, researchers from the United Kingdom explored the idea that genetic and \"life course\" factors may help create a so-called \"cognitive reserve\" that provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4611659541537/2022/1/9a254516326158d3d5bbaa2c2e5b48b2/v1.5/Active-social-life-may-create-cognitive-buffer-against-Alzheimers-study-suggests.jpg?lg=5",
-          "width": 900,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2022/08/03/social-life-cognitive-decline-study/4611659541537/",
-      "publishedDateTime": "2022-08-03T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a 'cognitive reserve' that provides a buffer against the disease. Why do some people with amyloid plaques in their brains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220803161028.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers.md",
-      "title": "Mild exercise halts cognitive decline in people at risk of Alzheimer's",
-      "excerpt": "For older people with mild cognitive impairment, just 2 hours of low-intensity exercise a week may be enough to halt further cognitive decline. Mild cognitive impairment (MCI) refers to problems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "originalUrl": "https://www.newscientist.com/article/2332198-mild-exercise-halts-cognitive-decline-in-people-at-risk-of-alzheimers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/08/03210657/SEI_117727557.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-study-education-job-and-social-life-may-help-protect-brain-from-cognitive-decline.md",
-      "title": "Study: Education, job, and social life may help protect brain from cognitive decline",
-      "excerpt": "Researchers looked at genetic and life course factors that may help create a \"cognitive reserve\" that provides a buffer against the disease in a study published in the August 3, 2022, online issue ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/5-brain.jpg",
-          "width": 1920,
-          "height": 1390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-job-social-life-brain-cognitive.amp",
-      "publishedDateTime": "2022-08-03T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

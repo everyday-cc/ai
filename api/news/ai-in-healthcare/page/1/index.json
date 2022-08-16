@@ -384,6 +384,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology.md",
+      "title": "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology",
+      "excerpt": "VieCure, a cancer care company with a market leading artificial intelligence, informatics, and clinical decision support platform, announced today a new strategic collaboration with Clarified Precision Medicine which will make precision oncology more accessible for patients and community oncologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/b4/cb4a01d1-e635-5791-8467-b2f7b87fb7f1/62f3a263e6c1b.image.jpg?crop=872%2C458%2C0%2C61&resize=872%2C458&order=crop%2Cresize",
+          "width": 872,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
       "title": "The Best Examples Of Human And Robot Collaboration",
       "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
@@ -1323,49 +1366,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-according-to-marketsandmarketscom-artificial-intelligence-in-healthcare-market-2027-research-study-edition.md",
-      "title": "According to MarketsandMarkets.com – Artificial Intelligence in Healthcare Market 2027 Research Study Edition",
-      "excerpt": "The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% Increasing application of AI in healthcare such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
-      "originalUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-size.jpg",
-          "width": 650,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New Uses For AI In Chips"
-    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
-    publishedDateTime: 2022-08-11T07:05:00Z
-    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 58
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
-        width: 1430
-        height: 644
-        isCached: true
   - title: "The path to successful conversational AI capabilities"
     excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
     publishedDateTime: 2022-08-15T13:24:00Z

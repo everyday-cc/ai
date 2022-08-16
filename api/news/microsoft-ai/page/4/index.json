@@ -2,6 +2,199 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-15-get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii.md",
+      "title": "Get ready for Mark Cuban’s artificial intelligence bootcamp in Hawaii",
+      "excerpt": "Applications are now open for high school students interested in learning about artificial intelligence. Bootcamps will be held across the country, including in Honolulu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
+      "originalUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2022/03/GettyImages-1295900106.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
+      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/get-ready-for-mark-cubans-artificial-intelligence-bootcamp-in-hawaii/amp/",
+      "publishedDateTime": "2022-07-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KHON2",
+        "domain": "khon2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-rocky-linux-9-brings-security-enhancements-and-better-performance-for-enterprise-users.md",
+      "title": "Rocky Linux 9 brings security enhancements and better performance for enterprise users",
+      "excerpt": "Rocky Linux 9 shares many of the capabilities of Red Hat's Linux 9, including updated cryptographic libraries and security enhancements.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
+      "originalUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1355611023_update.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/14/rocky-linux-9-brings-new-build-system-for-enterprise-users/amp/",
+      "publishedDateTime": "2022-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-deltastream-emerges-from-stealth-to-simplify-real-time-streaming-apps.md",
+      "title": "DeltaStream emerges from stealth to simplify real-time streaming apps",
+      "excerpt": "California-based DeltaStream today emerged from stealth with $10 million seed funding from New Enterprise Associates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
+      "originalUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-740521139.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/deltastream-emerges-from-stealth-to-simplify-real-time-streaming-applications/amp/",
+      "publishedDateTime": "2022-07-13T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
+      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+      "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "originalUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:59:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
       "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
       "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
@@ -1126,160 +1319,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-prefrontal-cerebellar-dynamics-during-post-success-and-post-error-cognitive-controls-in-major-psychiatric-disorders.md",
-      "title": "Prefrontal-cerebellar dynamics during post-success and post-error cognitive controls in major psychiatric disorders",
-      "excerpt": "Center for Psychiatric Neuroscience, Feinstein Institutes for Medical Research, Manhasset, NY, USA Division of Psychiatry Research, Zucker Hillside Hospital, Glen Oaks, NY, USA Department of Psychiatry, Zucker School of Medicine at Hofstra/Northwell ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ptsd-may-accelerate-cognitive-decline-over-time.md",
-      "title": "PTSD May Accelerate Cognitive Decline Over Time",
-      "excerpt": "Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline over time, new research suggests. In an analysis of more than 12,000 middle-aged women who had experienced at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/976526",
-      "originalUrl": "https://www.medscape.com/viewarticle/976526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-tamarack-technology-announces-new-member-of-tamarackai-team.md",
-      "title": "Tamarack Technology Announces New Member of Tamarack.ai Team",
-      "excerpt": "The Tamarack team is expanding. Tamarack Technology, the St. Paul-based software company, has announced the addition of Brian Turner to its Tamarack.ai team. As a data engineer, Turner will focus on,",
-      "sourceUrl": null,
-      "webUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team",
-      "originalUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team?hs_amp=true",
-      "cdnAmpWebUrl": "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team?hs_amp=true",
-      "publishedDateTime": "2022-06-30T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TECH",
-        "domain": "tech.mn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-using-azure-communication-services-for-email.md",
-      "title": "Using Azure Communication Services for email",
-      "excerpt": "use the Microsoft Graph APIs to monitor an Exchange Online mailbox set as the “reply to” address in your messages. This will allow you to use tools like Cognitive Services to generate dynamic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
-      "originalUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/incoming_emails_by_thinkstock_dns_security_locked_server_parked_domain_by_imaginima_gettyimages_3x2_2122x1415-100825984-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
-      "publishedDateTime": "2022-06-29T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

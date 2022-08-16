@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Where Mayo Clinic is exploring clinical AI development"
+    excerpt: "Mayo Clinic created a hub for digital transformation that uses data, analytics, machine learning and AI to help improve patient health and deliver monitoring, diagnosis and treatment recommendations through digital channels to patients."
+    publishedDateTime: 2022-08-15T20:50:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/where-mayo-clinic-is-exploring-clinical-ai-development.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 17
   - title: "Mayo Clinic adds a second round of AI startups to innovation accelerator program"
     excerpt: "Mayo Clinic Platform_Accelerate, a 20-week program to get healthcare AI startups prepared to enter the market, gives startups access to Mayo Clinic experts with a focus on AI model validation and clinical readiness,"
     publishedDateTime: 2022-08-11T16:45:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-15T20:05:00Z
 originalUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/08/15/why-ai-isnt-changing-health-care-faster-00051944"
 webUrl: "https://www.politico.com/newsletters/digital-future-daily/2022/08/15/why-ai-isnt-changing-health-care-faster-00051944"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.politico.com/95/f4/837933a24a2b81747ba8b38bc0c8/download-85.jpeg"

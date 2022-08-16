@@ -2,6 +2,188 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-25-covid-cognitive-decline-more-widespread-than-thought-say-researchers-at-australias-first-long-covid-clinic.md",
+      "title": "COVID cognitive decline more widespread than thought, say researchers at Australia's first long-COVID clinic",
+      "excerpt": "And the team has found something startling. Around one quarter of the ADAPT study's participants were experiencing noticeable cognitive decline a year after getting COVID. And, some sort of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
+      "originalUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/ffb1a11f12f1797b90baf63522d04857?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=0&width=862&height=485",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101178450",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101178450",
+      "publishedDateTime": "2022-06-24T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
+      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
+      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "originalUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "publishedDateTime": "2022-06-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
+      "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
+      "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "publishedDateTime": "2022-06-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
+      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
+      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "originalUrl": "https://news.sky.com/story/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/enterpreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "publishedDateTime": "2022-06-24T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-some-people-do-better-on-cognitive-tasks-while-walking.md",
       "title": "Some People Do Better on Cognitive Tasks while Walking",
       "excerpt": "Some young and healthy people improve performance on cognitive tasks while walking by changing the use of neural resources, according to a new study. It has long been thought that when walking is ...",
@@ -1166,169 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds.md",
-      "title": "Childhood obesity may affect cognitive function in midlife, study finds",
-      "excerpt": "Photo (c) Md Saiful Islam Khan - Getty Images A new study conducted by researchers from Monash University explored how childhood obesity may impact consumers’ cognitive function as they go into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "originalUrl": "https://www.consumeraffairs.com/news/childhood-obesity-may-affect-cognitive-function-in-midlife-study-finds-062122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ConsumerAffairs",
-        "domain": "consumeraffairs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-jan-6-testimony-drives-cognitive-dissonance-for-trump-fans.md",
-      "title": "Jan. 6 testimony drives ‘cognitive dissonance’ for Trump fans",
-      "excerpt": "“It’s cognitive dissonance,” said Jennifer Stromer-Galley, a Syracuse University professor who has studied how Trump used social media and advertising to mobilize his base. “If you believe ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/06/sjm-Disinformation_98658590-1.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/06/20/jan-6-testimony-drives-cognitive-dissonance-for-trump-fans/amp/",
-      "publishedDateTime": "2022-06-20T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-dementia-two-childhood-factors-that-can-lead-to-cognitive-decline-in-midlife-new-study.md",
-      "title": "Dementia: Two childhood factors that can lead to cognitive decline in midlife - new study",
-      "excerpt": "They were then followed up between 2017 and 2019 - aged between 39 and 50 - when their cognitive function was assessed using a range of computerised tests. These participants were followed up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/1627736_1.jpg?r=1655626056776",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1627736/dementia-symptoms-obesity-fitness-influence-risk-of-cognitive-decline/amp",
-      "publishedDateTime": "2022-06-19T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-cognitive-restructuring-and-its-techniques.md",
-      "title": "Cognitive restructuring and its techniques",
-      "excerpt": "Cognitive restructuring is a technique that helps people change the way they think. It can help people feel differently about things that worry or frustrate them, and this in turn can affect ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-restructuring",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/05/Cognitive_restructuring_GettyImages1127955961_Thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

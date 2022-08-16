@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Uses For AI In Chips"
-    excerpt: "ML/DL is increasing design complexity at the edge, but it's also adding new options for improving power and performance."
-    publishedDateTime: 2022-08-11T07:05:00Z
-    webUrl: "https://semiengineering.com/new-uses-for-ai-in-chips/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 58
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"
-        width: 1430
-        height: 644
-        isCached: true
   - title: "AI for a Better World"
     excerpt: "In this special guest feature, Tobi Knaup, CEO of D2iQ, explores how AI will make the world a better place. AI is a general-purpose tool that will be built into almost every product and service we use,"
     publishedDateTime: 2022-08-12T13:00:00Z

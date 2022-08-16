@@ -3,8 +3,8 @@ category: news
 title: "‘I am, in fact, a person’: can artificial intelligence ever be sentient?"
 excerpt: "Controversy over Google’s AI program is raising questions about just how powerful it is. Is it even safe? By Amelia Tait"
 publishedDateTime: 2022-08-14T07:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
-webUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions?amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "A1p2jXcmx+XXKFtVbto5ZWs29pPiXw+sL3C/cFi+u4z2nyPafOXfzPm9W53jWodBAR374PrX4N1/CxadlCLUbU5rS7iK+kJevdnrq+7/TcLkv+2j5zJ4pTMiTG1wt6HwFGQr9htrUOCE1jaY5NIGFMfD4kPqiLADfruqUEgcf07gPHPR9S309qXfKOsDZygarIpIxTV0Oe9/qvxIlBPlWo2p7416FJl4i/87S/fEm5R+7TeyMyeOs3XWPHXMcyHXwsFnKBjHXh6X1si5AVg+TpcAisSL2xrvvimycrl4PDOB1sGKIesEufUr8xWozye+wcv71EHUQfV4dYUya+Tmv5N3OaFp4a8e7q1/elrRosE=;RzyhUJF3rU4u1QWUAwUzFw=="
+secured: "UbPiNVYyLJCYFK9aRDxRB4cCIdgq1F0i7rzyhif8H99kKEdFi7L7uArWqxgrAo4KgGNEjne4qh340k2Qscbe0gP0WOjyAhTPsRwHff3ntpwJyWQTaFmpj6mabDtVUDf0VezFPIApw9HzqXRvz9zGdtObO61Jy+WafKibdU6U2C5w8vHyRVsia9zCsESa1Ov7PGCx1dtLr9Ioxyqm70zkdjb3NUJywc36u28fsYl6bxtHE40C0goRsK7f2OzzJAw5YqqIfoEUPZ3JxZW6VsEvpYu5LApcL+p60QqSGbl9nR6UBgE9u/9BDyEPnzM0D8cWK1dzs/brrBSRcAH/CrkiUXuXENJLfr3Zi2fTUznO8ak=;76dQk09nIjptXgIGfsn6XA=="
 ---
 

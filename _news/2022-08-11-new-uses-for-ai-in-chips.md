@@ -19,6 +19,7 @@ topics:
   - AI Hardware
   - Machine Learning
   - Computer Vision
+  - Microsoft AI
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/ai3-1.png?fit=1430%2C644&ssl=1"

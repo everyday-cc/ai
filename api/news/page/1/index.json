@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
+      "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
+      "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
+      "originalUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Dojo-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
+      "publishedDateTime": "2022-08-15T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-customize-your-recommendations-by-promoting-specific-items-using-business-rules-with-amazon-personalize.md",
       "title": "Customize your recommendations by promoting specific items using business rules with Amazon Personalize",
       "excerpt": "Today, we are excited to announce Promotions feature in Amazon Personalize that allows you to explicitly recommend specific items to your users based on rules that align with your business goals. For instance, you can have marketing partnerships that require you to promote certain brands, in-house content,",
@@ -1167,57 +1220,6 @@
         "name": "Futurism",
         "domain": "futurism.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletter-august-6th.md",
-      "title": "Nancy Pelosi’s Visit To Taiwan, AMTD Digital’s IPO, Crypto And More: Forbes AI Newsletter - August 6th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f671a9bc5c4bcbd07ff4e2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/12/nancy-pelosis-visit-to-taiwan-amtd-digitals-ipo-crypto-and-more-forbes-ai-newsletteraugust-6th/amp/",
-      "publishedDateTime": "2022-08-12T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

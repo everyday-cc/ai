@@ -2,6 +2,376 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-05-26-yes-ai-can-be-tricked-and-its-a-serious-problem.md",
+      "title": "Yes, AI Can Be Tricked, And it's a Serious Problem",
+      "excerpt": "By examining the areas of the brain that are damaged in cases of visual agnosia, researchers are able to determine what structures play a role in object recognition. While artificial intelligence hasn't reached the levels of sophistication of the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "originalUrl": "https://www.designnews.com/electronics-test/yes-ai-can-be-tricked-and-its-serious-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/MIT%20piggie.png?itok=oGHiuE3t",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent.md",
+      "title": "Report: 92% of HR leaders plan on using AI to acquire talent",
+      "excerpt": "Armed with valuable data insights, HR leaders can use AI to augment their processes and build a future of work that's intelligent by design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/report-92-of-hr-leaders-plan-on-using-ai-to-acquire-talent/amp/",
+      "publishedDateTime": "2022-05-25T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence.md",
+      "title": "Navy Unmanned Task Force Lead: Common Control System Critical to Enable Artificial Intelligence",
+      "excerpt": "The head of the Navy’s Unmanned Task Force said a control system common for aerial, surface and underwater unmanned systems is still the goal as the Navy develops and fields unmanned systems for the fleet,",
+      "sourceUrl": null,
+      "webUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
+      "originalUrl": "https://seapowermagazine.org/navy-unmanned-task-force-lead-common-control-system-critical-to-enable-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://seapowermagazine.org/wp-content/uploads/2022/05/MUMT-2-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SEAPOWER",
+        "domain": "seapowermagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022.md",
+      "title": "Satya Nadela Announces Microsoft’s New Technologies at Build Conference 2022",
+      "excerpt": "Kindly share this postMicrosoft Build Conference 2022 kicked off on Tuesday May 24 with Microsoft CEO Satya Nadela talking about ten new technologies that are “coming together as a powerful platform” to help developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/05/Microsoft-Build-2022-CEO-speecgh-2-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-backlash-over-law-that-would-let-gardai-use-facial-recognition-technology.md",
+      "title": "Backlash over law that would let gardai use facial recognition technology",
+      "excerpt": "The justice minister has come under pressure to explain the nature of legislation that would allow gardai to use facial recognition technology (FRT).Helen McEnt",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "originalUrl": "https://www.thetimes.co.uk/article/backlash-over-law-that-would-let-gardai-use-facial-recognition-technology-fk8b0kg0t",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F9bdafcf6-dc48-11ec-bcbd-e35b52e0266c.jpg?crop=2950%2C1660%2C0%2C154&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-could-machine-learning-and-operations-research-lift-each-other-up.md",
+      "title": "Could machine learning and operations research lift each other up?",
+      "excerpt": "Perhaps cross-fertilizing machine learning and operations research with techniques and lessons learned could help lift both of them up.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172-e1653501662265.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/could-machine-learning-and-operations-research-lift-each-other-up/amp/",
+      "publishedDateTime": "2022-05-25T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-dataai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend.md",
+      "title": "Data.ai: Mobile has huge lead on PC and console in consumer spend",
+      "excerpt": "A new report from Data.ai shows that mobile gaming's momentum has not slowed, and it's got an even bigger lead on PC and console.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
+      "originalUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/Data.ai-Mobile-spend.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/25/data-ai-mobile-has-huge-lead-on-pc-and-console-in-consumer-spend/amp/",
+      "publishedDateTime": "2022-05-25T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-meta-taps-latest-azure-virtual-machines-for-ai-research.md",
+      "title": "Meta Taps Latest Azure Virtual Machines for AI Research",
+      "excerpt": "Meta, formerly known as 'Facebook,' is using the latest Azure virtual machines (VMs) with graphics processing unit (GPU) compute power for its 'large-scale AI research workloads,' Microsoft announced on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-ai-deep-learning-predicts-cancer-from-scans-of-lung-nodules.md",
       "title": "AI Deep Learning Predicts Cancer From Scans of Lung Nodules",
       "excerpt": "This AI deep learning neural network, with a design inspired by the biological brain, had 650,000 neurons, 60 million parameters, and five convolutional layers. It won the ImageNet Large-Scale ...",
@@ -750,368 +1120,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-microsoft-expands-its-ai-partnership-with-meta.md",
-      "title": "Microsoft expands its AI partnership with Meta",
-      "excerpt": "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 288,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2de2b1ed6198eabf6d34c116d16c495cfd2c5a8f/2022/05/25/bd51eb15-1abb-4761-b527-6d312c91ef59/aimodelsbuild2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-expands-its-ai-partnership-with-meta/",
-      "publishedDateTime": "2022-05-25T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-intel-onednn-ai-optimizations-enabled-as-default-in-tensorflow.md",
-      "title": "Intel oneDNN AI Optimizations Enabled as Default in TensorFlow",
-      "excerpt": "What’s New: In the latest release of TensorFlow 2.9, the performance improvements delivered by the Intel® oneAPI Deep Neural",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-6109704a06c047c5a390b5d1b5d5733f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "TensorFlow",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
-      "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
-      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid.md",
-      "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid,",
-      "excerpt": "The ML Workbench is a Jupyter-based Python development framework that allows data scientists to quickly build powerful deep learning AI models using connected data. Graph-enabled ML has more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid/article_7d3502f7-c1f3-593b-9e08-8b145d8db17f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-compreface-open-source-facial-recognition-service-releases-new-features.md",
-      "title": "CompreFace Open Source Facial Recognition Service Releases New Features",
-      "excerpt": "CompreFace Version 1.0 offers more user-friendly UI benefits, no-code REST APIs, CCTV and Home Assistance integrations, AWS deployment, and more",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/compreface-open-source-facial-recognition-service-releases-new-features/article_e3624746-9b45-5cac-810c-636e8419895c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ai-chip-startup-simaai-bags-another-30m-ahead-of-growth.md",
-      "title": "AI chip startup Sima.ai bags another $30M ahead of growth",
-      "excerpt": "Sima.ai, a startup developing an embedded edge chip to accelerate AI workloads, has raised $30 million in an expanded venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/",
-      "originalUrl": "https://techcrunch.com/2022/05/25/ai-chip-startup-sima-ai-bags-another-30m-ahead-of-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-global-adasad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous-driving-ai-data-training.md",
-      "title": "Global ADAS/AD Chip Industry Research Report 2022: SoC Vendors Accelerate the Layout of Autonomous Driving AI Data Training",
-      "excerpt": "DUBLIN, May 25, 2022 /PRNewswire/ -- The \"ADAS/AD Chip Industry Research Report, 2022\" report has been added to ResearchAndMarkets.com's offering. The world's leading autonomous driving AI training chips include: Intel Ponte Vecchio, NVIDIA A100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_automotive/global-adas-ad-chip-industry-research-report-2022-soc-vendors-accelerate-the-layout-of-autonomous/article_fba726ef-7b87-518e-ae31-6a1f7e5d0a8a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-aiml-chips.md",
-      "title": "Ayar Labs teams with Nvidia for optical interconnects to speed up AI/ML chips",
-      "excerpt": "AI/ML and other data-heavy interactions, the company said. At least at the outset of their release into the market, the new optical chips will go to CPU and GPU makers (such as Intel, Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "originalUrl": "https://venturebeat.com/2022/05/25/ayar-labs-teams-with-nvidia-for-optical-interconnects-to-speed-up-ai-ml-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

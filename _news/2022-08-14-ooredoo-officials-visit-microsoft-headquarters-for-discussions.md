@@ -7,7 +7,7 @@ originalUrl: "https://thepeninsulaqatar.com/article/14/08/2022/ooredoo-officials
 webUrl: "https://thepeninsulaqatar.com/article/14/08/2022/ooredoo-officials-visit-microsoft-headquarters-for-discussions"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 585
     isCached: true
 
-secured: "Zlfe4AecVjPSpfTkT1xw84/yx3tagmOa2Nz4k1IxFZpF+0Pee36vikTXbADp9P2DED/Nf/dqkAb9AnIdzhUvGaQobUG/Ox5TgDrbcGhBQSaLwn4xaB2hWGok0zClT2acntkNLPoqP8grYd1SbIIRrSRNYcyynUMect/SFL7Nqw9zoPA/0R+7wgT/9B7ONoD/ClDooblT0GUwqSpo9ONx6QTNkRP/uqlWL/6usrx6tyTuqCJkC1OdG8R1WYBXWkUvWSQLjIR9x3xMU8O0vcaf4Wa1XOLNUNksLNYP1Gm6ckzn+9nYoY392QdCdGUTkOuKHA9N7z123kp/KI2xCIQw/Ytnr/hLt86zSoJO8687ES4=;+OrCWZH62GsDIG8q4J28ZA=="
+related:
+  - title: "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year"
+    excerpt: "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ..."
+    publishedDateTime: 2022-08-11T22:11:00Z
+    webUrl: "https://www.zdnet.com/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/c090dc1c928cf8099bdf98d8ffc98fcea278e518/2022/08/08/e1d0e5a7-27e5-4c6d-b669-9a0ed1789a98/officebackendconnectivity.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 674
+        isCached: true
+
+secured: "bda2WyAwgENFz6o6gR9QZAIJJQKFSRjlkKeVR0SoyVjpEoqLu7O8flw13mH/ZiyoZZvhJVT2umEDF2NNFz7U8e9DCbqxU/89ocWlLUXMTRWfsyVfKfCvIGEfMUZo0EMyACtQdZCOvRyTzy5bVaahXwLq7PNzt4fzwKR9JP0iOcv3EtyQHTn9jx6+LU8CRDW8KnlTth5U0Ewq893jAAwvwFaJITqti+coxEX3sBLLQFOSSPXm7lkaw447VLNhmg9xatnGXjggiGX8oSRKufHuMPq3cJQwM8tm+IXN3sKnoWqT7HQPOyXjiyJ17m1BRLKlzwo19EEedSZhegdluNbHaa2nFVpc4ZX5yOnHPNo2Y7yNdiyuxZvzUhTrEd4O1HhK5ceWENXfQLR3SRpP3ji1FiJSi1F+hVtRi3eVS+nPxVvccwIN+AEj/uA/Jcx7lDVaUPKVFomrcIFI0+bOAkqBRpZI38Um5Ia+rk+bpyL7mFdGu9kU9I8urcejLJ/h/J8m0fcTg64tbF/VGsseZPiPsA==;bImapr0k/ON4Q0bOkwIoag=="
 ---
 

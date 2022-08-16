@@ -38,15 +38,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 19
-  - title: "Prospera Financial Services Inc Purchases New Stake in ExlService Holdings, Inc. (NASDAQ:EXLS)"
-    excerpt: "Prospera Financial Services Inc purchased a new stake in ExlService Holdings, Inc. (NASDAQ:EXLS – Get Rating) in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission."
-    publishedDateTime: 2022-08-11T08:42:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/11/prospera-financial-services-inc-purchases-new-stake-in-exlservice-holdings-inc-nasdaqexls.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
   - title: "Prospera Financial Services Inc Purchases New Stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
     excerpt: "Prospera Financial Services Inc purchased a new stake in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) in the 1st quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-08-11T09:38:00Z

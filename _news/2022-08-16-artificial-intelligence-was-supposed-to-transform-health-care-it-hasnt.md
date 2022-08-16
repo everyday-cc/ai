@@ -35,7 +35,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://static.politico.com/95/f4/837933a24a2b81747ba8b38bc0c8/download-85.jpeg"
         width: 1330
