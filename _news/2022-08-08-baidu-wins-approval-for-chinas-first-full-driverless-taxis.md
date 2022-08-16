@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Baidu wins approval for China's first full driverless taxis"
-excerpt: "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ..."
-publishedDateTime: 2022-08-08T16:03:00Z
-originalUrl: "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
-webUrl: "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+title: "Baidu wins approval for China’s first full driverless taxis"
+excerpt: "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ..."
+publishedDateTime: 2022-08-08T04:50:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
 type: article
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW"
-    width: 860
-    height: 573
-    isCached: true
-
-secured: "ZxK+YUSazG2/OWXk21B0mm2Rfw1UFlNQbVORkx4jVDXZSGBvq4d3LoMM8irDhHGnc3t2xR/XkVS4MqYwkdBnunNXZ0eMXOIr+0wS424ehTW/R7YYNAxt4+hilbWnRecnSol4YA0cWt1SKhd7OwqekflotZir7Pc6P7rgN70Y1dy2J60lpbWR8zCWHWMCn3snK3ZKhosRrhkw0Y83U4H59YO1623n87rspAlQOYCd7HSvEkLoCb7JDH/EfekRDYxzNG5l2bFIMN5sgWwBRWSnBpz0a+F8X/d+TgLKiqKo/JSzWMPyXCHMyQJgg4cDWi00BBJnhaiLdGuum+ukHdo1bYVwI1dwdikI9WGo0x/kJ8w=;qa2RFCExWCala01Th+y5pQ=="
+secured: "il36xpkmx7/X2vKHUasgXWle2I/yiIVGAMRLj6yI6p0wjGXjZWOq3fOcfqALPsT4BVqZFkBk/Ob1neBQqgPpCewfdYX+Ty+WXPd+DELtRZd1jhJXxBeRlRlEK4sLrd79hwRiwNanF+Xv7ueM6aaZzW80gqSnregqfdMAMKhZFBx6KP3o1gQwSCxPJJtyIJ9l7oTOGwSU9lkbpI3S6LGwVjlgd2kZ05aWzvSZY8c21ElrmD9P1EBhs600CDTXfFqgDLrZR+T5EfKZfFcPOohP1LYkuLXbczGwqEqrp0m6jYFJQAxwkN487sIB2zHV0qIdm6Uhpf5DT/YdFyMmLqaXwz0MwnKXku0nvQU8faqgVt8=;9fbCmxO33VRAslGCJJ6Atg=="
 ---
 

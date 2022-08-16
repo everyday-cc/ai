@@ -2,30 +2,19 @@
 category: news
 title: "I delayed my smear test but artificial intelligence gave me a second chance at life"
 excerpt: "FORGET visions of Arnie-style Terminator robots posing a terrifying threat to humanity. When it comes to Artificial Intelligence (AI), most of us already interact with it every day, be it a chat"
-publishedDateTime: 2022-08-15T19:01:00Z
-originalUrl: "https://www.thescottishsun.co.uk/health/9309892/smear-test-artificial-intelligence-cancer-health/"
-webUrl: "https://www.thescottishsun.co.uk/health/9309892/smear-test-artificial-intelligence-cancer-health/"
-ampWebUrl: "https://www.thescottishsun.co.uk/health/9309892/smear-test-artificial-intelligence-cancer-health/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/health/9309892/smear-test-artificial-intelligence-cancer-health/amp/"
+publishedDateTime: 2022-08-15T20:01:00Z
+originalUrl: "https://www.thesun.co.uk/health/19519684/smear-test-artificial-intelligence-cancer-health/"
+webUrl: "https://www.thesun.co.uk/health/19519684/smear-test-artificial-intelligence-cancer-health/"
 type: article
-quality: 53
-heat: 53
-published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/08/TOB-off-platform-p31.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "0/BV3xevAJNkkyoqxdYxmgAPDNTiEPG8FiS7Zi7FbE870G9v3Y5Rr9nifgWexqUUs1N/gN8Nnwc4BXFG2hXPCbixXmPL9vQgnc7aBrTg1spOSQLPQwsNM7BYjmsMboc0XsexH6HRAt/kSwOUTLzYdKFbR9XbdiRJpxmx88t5OEM8jVpB1D/MmgL8lbiXwnaOHbqY06x/3Rl7ioSweNzCm9R8ZAy8qmRfpLeCZuybqJOyXl+vAwgtgcXSKLG4/MMp1BkU+WeBByAZC3B3y6zCZ3kevcs5AV2agcKakj1Z5zhCQjWaR6VQP3sJBhtgeT6TVsMELY5yJX28uEZlGLhD6RJPWzDYyAUw4UyRrloDKvs=;BufSmROxJiUjANbjwhq36Q=="
+secured: "uw7Q3TrX6T/iNkvNRcjZf2fpg6mjugwcn2BHcWKjrM/WM+BWo/G0mA3w8mHD4hEGOawj+t0bEqmcz30lHG1HBfiEEWlUWzQkOvyxRFxNrfcZjA07ryF38KV9HgW7MmYCEambfV4ynwvCWmqZM9pQsqFbfng8Mj4lvpskXSlrrZXSnJVb4iE8ICl3ylEm+z6Bvb2zkzSTRJNTLQX7VL37mVKoq7czeiYNC2zlxhGxeD/ZNg0Q/ZI/a/mTafASoCjVjWrv26oI47e+jwirAjIBc87Lh4pxXDjNk7HvszPEGVQ6NQb6UiMpa0Hoeb3aHm2vXf7c3mQaWv/MFbH61ricieT52K1gEB190T1BCHMzRyk5evQi7rTfN0sJjRKN/OBBNRYLu2g/UEeOahIz2he+uo2wgnBJArLPfq/NHiU3PsgZtdQKzShdogzgbbIayJP8ncW1pHpup0msrwRjlkOYIcociDxPu+3qGhiE7X/x1CATCQghrsOq05WrDJYmDndMFfBmB1X9SZYqASAFdlapSA==;yus54ODfcK8kvVbRZDHB8g=="
 ---
 

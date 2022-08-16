@@ -1,26 +1,20 @@
 ---
 category: news
 title: "VieCure Partners with Clarified Precision Medicine to Accelerate the Adoption of Precision Oncology"
-excerpt: "VieCure, a cancer care company with a market leading artificial intelligence, informatics, and clinical decision support platform, announced today a new strategic collaboration with Clarified Precision Medicine which will make precision oncology more accessible for patients and community oncologists."
-publishedDateTime: 2022-08-10T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology/article_1f3243b6-0a98-5a55-8b75-3eb11589cc53.html"
+excerpt: "VieCure will fully integrate the Clarified Precision Medicine Somatic and Germline Clinical Consultation process within its A.I. platform and offer community oncologists with streamlined access to Clarified’s nationally recognized test interpretation team."
+publishedDateTime: 2022-08-10T12:00:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-10-viecure-partners-with-clarified-precision-medicine-to-accelerate-the-adoption-of-precision-oncology"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/b4/cb4a01d1-e635-5791-8467-b2f7b87fb7f1/62f3a263e6c1b.image.jpg?crop=872%2C458%2C0%2C61&resize=872%2C458&order=crop%2Cresize"
-    width: 872
-    height: 458
-    isCached: true
-
-secured: "/qqNj5Qh+9V6UvJshsLEbIqfVSXHy5acWW9G02Pes8tcAmnZucBgUcfAW/bqMavCd3oqswFYnj4H3mAk/0NnjGNQ0sEdhPRWu3E7p4FVYkSRh+5Rehr9IxWayzQkJw/eFitsuVVNUeCOkEq9ZLhwTdhSa5peuqLawTvy9RcfEtzrjUFktTYyabk7lbDDuAQ8vtWs6LMXSLTZMiVugTH2dmd7tuiIW+odJPjVQSY/DKyvhqyDolOrwJVpvJ/saKPNNF2n43XB9cnm96Sa6qV2aI/Ft509ABNm0MMN7cBhIn1NuQqIcp+BhQJC5hZj4wYjMJ0kSq354niudJjU5+bWunXaS7w0N2Y39yzDG1A65ggiKAPTZM0ZzNoyigDsag1UbSviC1Xmf8jysYX2bZDMiTKWGSxjgKwgAkBP1F7ob2yN3lAJyo38UsIbr0IN+vMCNMv4DxqYcICrk0uwAvu6lPN7kjx+HH9R9tyuYDAF3J4t9sf57/nGSa41THWiogwxyM8ha4Yp41OkzmW9jRq3hw==;+JIE8OkD24qf1ZF+ewUSIw=="
+secured: "Qk8hSV/8uxK/A2k7nonQWzDPQf+luRSuk6bfl9NjzJe9LKEcw2ef2AqKCTb05gbMc4NCGURa4gIDlSgessI06JGE5K7/vkt6zF17Kj2XOzQ2ifzISmvejpnoR9uS6+8FBAwecCPonVzVMtTvT1O/7sgUP84aiTMb+wDN02sYprKyfZ0V0lm922L5iTS88ZkydynWe3AJJykOyXD0F9MAM52LjvO+N/vn4JhyhzX6se3iDHEXEbrLjBGUatqvxZ21e28ihExHabPb/wg6nhyVyl6LOuFDAr7cXaTl7eckPdFxxIujCsoKZBeoirsXMHcMTG6cx3yWDK8hrphQ6SJK8vze8kBf2bQfoM8usaHCNLk=;qLxFuyNzpDHwvkYHS1yzwA=="
 ---
 

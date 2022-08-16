@@ -1,28 +1,20 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-publishedDateTime: 2022-08-08T19:00:00Z
-originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+excerpt: "became possible when the researchers incorporated deep neural networks, a form of artificial intelligence, into their methods. The study was published in the journal Proceedings of the National Ac ..."
+publishedDateTime: 2022-08-08T19:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960990"
+webUrl: "https://www.eurekalert.org/news-releases/960990"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-    width: 2560
-    height: 1440
-    isCached: true
-
-secured: "6Z/reaLGPadLldw8NLtbN+ohbwhfDMhzBHF6uJlBnw1827OUoKWCbPVxL6HTELLlHqI0i8K9EcylFvV20qd5G6o+GC2/GWkyBrCKSMfSprf8sSZyxu36KmHZpMW0CKwda9p+WP1fwVaZLXHSwJ/+Be+wO7vaAm1RzQjllUZ5WPj7YaLCrfCWpP6RmIDw89fQd3orKpgjb2fWjYcVGhJJQhpzEo8XhIg7IYvS1kAmSijFf5pC/F5CMO+4MxAaxj2qlmjjB4MVK1JcWTqnHQr/pjqww8vgfdO5o0R6HV12El0TAQphBtyAiQRB8C/emkUWE2jMk5dmX1IqJsCKSHgUHBpU7HznYue6AwnZ6ZaMIriOfNLXn4Qz206YdTR+9cVNJ6OWOqgW7h/a3r0QjG+H8COOKgFM9+5w6W8hkKUDwlMVaGpXJqGD1zzQIZKFOzZJ9kePLYFjo1zPBEBTSWFiBY2OeOOc09Pdrgy0J/qb/nmgWzChBnCLLBX91Sg+Ep3FBDIpkz6eT8JH3H/rjEq+0w==;3FX1ZdcV47pL72yQzDfJrQ=="
+secured: "i1RzEvYceHlAb3089OF3ww2N7bomuIM5rZBxbXn9APt53uP4cy+jJmmUM9GGK3Goe6q5IJp0sqY6MqZ0MovVPlg/9B262lz4ewOud+NqaOTNgBlpgSLo9TEoIZ6+mTmsmiUcgJGS7mrhR0kso0R+ckiFUR7GClePyZ70NeT/OWYniL7PmuXuxVQPXMS6D/mMgriRY1lqqYPHb0DJgS2RyYWvL5hYZF4bo/bx6vqRHk3aOIaVJbkPuQZDD18MzDodaSnot8j7Xtdo1zPQsVgdxmdv1ynbSM1SP+J1sxSF919GB5A0g9nYfXYIRdHxvW5V05MTJ2ynvRTAkNyprLs6DQn/egmiRxqrcFPl9ESzD88=;sBX72llghM4zCv0cPNOhKw=="
 ---
 
