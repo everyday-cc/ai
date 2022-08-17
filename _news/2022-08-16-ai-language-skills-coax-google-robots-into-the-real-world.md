@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/93608834.cms?height=275&width=412"
         width: 412
         height: 275
+        isCached: true
+  - title: "Google gives helper robots language skills to understand humans better"
+    excerpt: "Researchers at Google believe large language models can help robots respond to more complex and abstract requests from humans."
+    publishedDateTime: 2022-08-17T07:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-robots-alphabet-large-language-models"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/helper-robot-2.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "8/ASOIdu7BdpAyM184mgWJU5JxeoGOGYVk6k+r1/6L+MUmnqMsHFE6gQx38CHMO9u49+8B/eCRPVsha7MePEdmIseqOH98PQRnkPV9C3qzKW7I2Yewb5NZCzHMzmIOjj0nNUEEocWzdfmxCTv7/2d1X9LrlUn44gKInT+PoPL8MUSTRFTBqczmaAVCQEEofNN6KGQ+1H4gA+JF6HprhiIQWAmAPCfFMIkXyrhvpMGZroVJO5CWzRhazrq8q+10sqxOddu/GPyEHn7DgqU+GKYIGlrJLGU7BBY6YjlYk9mo6n6yW9Qeq8XwDtXTAP4en0i66ZWTXWpuGVQb1lv3YI4aaeEkMw1E7qkswN8Y81TWCTJgA7aJk56LLYXLo3MKmf3pXkQVBNyMBjS24B2juhbsl5Mm6OVCaS6Yz4LSO19qOeKf7g1etyRtIoGjAW406B+kZbp86V4OQ/uYmje27nn3D9RIF/+NX1vJU1YRxokpuMhI/fH4JDijc/e8N5mfb5BJUC4tjwmRF/pD7PNckoyA==;qEOOveLjLbomYyrT1jgMWw=="

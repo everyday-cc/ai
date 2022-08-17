@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Machine translation could make English-only science accessible to all"
-    excerpt: "UC Berkeley scientists and students looked at current artificial intelligence translation systems and found that, though flawed, they have become good enough for researchers to broadly translate their work into other languages,"
-    publishedDateTime: 2022-08-17T05:31:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220816175107.htm"
+    excerpt: "While still in high school, Xinyi Liu worked briefly in a lab at Beihang University in Beijing and was surprised to see Chinese researchers routinely using Google Translate to generate the first English draft of scientific papers."
+    publishedDateTime: 2022-08-17T06:27:00Z
+    webUrl: "https://phys.org/news/2022-08-machine-english-only-science-accessible.html"
+    ampWebUrl: "https://phys.org/news/2022-08-machine-english-only-science-accessible.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-machine-english-only-science-accessible.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
+      name: Phys.org
+      domain: phys.org
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-translation-co.jpg"
+        width: 1650
+        height: 1275
+        isCached: true
 
 secured: "8twOK1HLuDGtnqqj7YRqjLLLH0axiA8t6M75Lo3s9BhlMRZ+pQxySN/HtDrHn1v2tS6j9DT91MNSamd9WLjZPYEsIV2BHKwrf2gCC1BgDzqrBpYqqjgvufYBS5TVRQsRQF34B9gSZbW0lyTUhBGnAsvVXSeHR+24FacjHUIcsou66eTzftivrcTI8ysO19t+ODaUOICQts9lTzELkoiMChDkEBQbGkzIwoAlPac4CvVx/4r2nmrcQycNegUH24NQzNjJ8jZFKXQKdNwZzVVq4GHKraQ1yQNJ/NeYpR8ZbGKOQaTrL0mdLHk58sjJ2F209O44pKwruXgJqbvcWLRqz2vUOJjjwfQKzOJZAXqKLmk=;i47C61C88Z7yNKH1uXlHtw=="
 ---

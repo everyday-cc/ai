@@ -38,20 +38,6 @@ related:
         width: 2000
         height: 1329
         isCached: true
-  - title: "AI Model That Reduces Cost And Time And Increasing Accuracy Of Cancer Diagnosis"
-    excerpt: "A research team led by Professor Park Sang-Hyun of the Department of Robotics and Mechatronics Engineering (also in charge of the Artificial Intelligence major) at DGIST (President Kuk Yang) developed a weakly supervised deep learning model that can accurately show the presence and location of cancer in pathological images based only on data where the cancer is present."
-    publishedDateTime: 2022-08-12T14:19:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/AI-Model-That-Reduces-Cost-And-Time-And-Increasing-Accuracy-Of-Cancer-Diagnosis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 33
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Talking about an AI revolution? Don’t forget the storage"
     excerpt: "Sponsored GPUs have revolutionized AI and HPC over the last decade. But they didn’t do this on their own. The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology."
     publishedDateTime: 2022-08-16T09:00:00Z

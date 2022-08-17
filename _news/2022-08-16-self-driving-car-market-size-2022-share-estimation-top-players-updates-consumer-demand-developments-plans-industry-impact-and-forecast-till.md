@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "North America Machine Learning Market Is Expected To Get Major Boost In Demand Over The Forecast Period 2022-2031"
-    excerpt: "The report titled  North America Machine Learning Market  which was recently added by Kenneth Research, aims at providing the cl"
-    publishedDateTime: 2022-08-16T10:11:00Z
-    webUrl: "https://menafn.com/1104703202/North-America-Machine-Learning-Market-Is-Expected-To-Get-Major-Boost-In-Demand-Over-The-Forecast-Period-2022-2031"
+  - title: "Artificial Intelligence in Medicine Market Size - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2022-2031"
+    excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
+    publishedDateTime: 2022-08-14T17:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size---top-companies-business-growth-investment-opportunities-share-and-forecasts-2022-2031-2022-08-14"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?201239"
-        width: 375
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZCRSbFpIHOyMxxXgfrjsqWn5GvhauwaridR8o5Q/vZdbGSYHlVE1X5bT5xroo3B0g562wN9nhAUYbR7Gz1Ckm9m5X/l+V7hYR6l0m8GT5al4CSqIoW1XG2krLfKYECEB1ZYjP6bx0c87QIcxEpwosBczkZcXWCJ4KLS55ghO6Tvbm2DzeIfzvtKC8jbZRxI+PGRGZLM159lOWf3W4l27hxYEInyjCTAOVinK061DP67QEPGatPCr49vLwdzpV2UPuGI7KmA2RsWOmkQ1kB/s1LAPURskzCZwtcDdGONq0DY+NVHr+5YM0HQYDgH3BTsnxnYS/8RfWiNY+V/fyEOw6oyM/V6thkocD4HF6yisl90=;o8NBJlGhlVGPc60O9W4z4g=="

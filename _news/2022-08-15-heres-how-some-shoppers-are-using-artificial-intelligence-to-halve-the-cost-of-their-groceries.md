@@ -24,33 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "These AI-Generated Takes on Classic Movie Posters Are Out of the Box"
-    excerpt: "In a project called ROBOMOJI, artist Vincenzi has been using artificial intelligence (AI) to reimagine movie posters of classic cinematic masterpieces to explore AI’s relationship to art and culture."
-    publishedDateTime: 2022-08-15T16:45:00Z
-    webUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482"
-    ampWebUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
-    cdnAmpWebUrl: "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
+  - title: "What Are The 10 Best AI Consulting Firms"
+    excerpt: "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030."
+    publishedDateTime: 2022-08-17T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
     type: article
     provider:
-      name: Apartment Therapy
-      domain: apartmenttherapy.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fnews-culture%2F2022-08%2Fshutterstock_dvds"
-        width: 1500
-        height: 1000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 540
         isCached: true
-  - title: "These Are the Degrees of the Future"
-    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
-    publishedDateTime: 2022-08-13T00:39:00Z
-    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
-    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
+  - title: "The tip of the AI-ceberg: How finance firms can unlock greater value from artificial intelligence"
+    excerpt: "Finance organisations are increasingly turning to artificial intelligence in pursuit of competitive advantage. However, although many firms are achieving successful results from AI projects, scaling up enterprise-wide often remains elusive."
+    publishedDateTime: 2022-08-15T14:01:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 76
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-691642344.jpg"
+        width: 750
+        height: 451
+        isCached: true
   - title: "The Best Free AI Art Generators, Ranked"
     excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
     publishedDateTime: 2022-08-15T13:05:00Z
@@ -60,19 +65,19 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "These AI-generated Overwatch fusions are beautiful and terrifying"
-    excerpt: "Harrison started by feeding the AI simple instructions like \"make a fusion portrait of Mercy from Overwatch and Junkrat from Overwatch\" and in some cases took more direct control over artistic influences with tags like 4K,"
-    publishedDateTime: 2022-08-17T00:07:00Z
-    webUrl: "https://www.pcgamer.com/these-ai-generated-overwatch-fusions-are-beautiful-and-terrifying/"
+  - title: "The best AI tech films as per IMDb"
+    excerpt: "Since 1977, when the first ‘Star Wars’ film created a rage among the masses, it led filmmakers to churn out sci-fi content in abundance."
+    publishedDateTime: 2022-08-14T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-best-ai-tech-films-as-per-imdb/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 37
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KSohfWX3S5vZDtXXM6QJBe-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/marketing-futurist-analytics-india-magazine.jpeg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."

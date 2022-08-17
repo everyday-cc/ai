@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation releases first draft of rules on self-driving vehicles in public"
-excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
-publishedDateTime: 2022-08-10T02:17:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
-webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+excerpt: "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ..."
+publishedDateTime: 2022-08-10T07:03:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+  - url: "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
     width: 536
     height: 357
     isCached: true
 
-secured: "dneFELpodfCZ78hJK1vKnPs/2kFntXQnwzJlZmOjjQcevlMKP3SMzHY7VCoEaL3LA2RVjYzt5Gm1thRatYhOn54REqGTkMNc1Q4spOasFR4qzhTcBg9UR1lurnWkMLzvPX+LexyAbGJnxbuMY/6Ky1atOmEAPVPQsGIGOaASGJyP3c0oJVlYXjMCeHqcRCDgAK5amQf9lHDUkJ7vTx/44Oz7R2JYLl8TKzsNnoDsIomt/LYT9kAQsOmYkgahtNwsNZPbDm04inIQ/ST+XRUofTSMN7YZru2PC/uj1iZWb5vkk7+Fi09Q6EjIhFYx/QVuBMj/9pdq2rhe+LT0Wu0v0dzrNwMujkC9iEhZth79pKA=;u1zO7VuN2D3iVphBo/PsUg=="
+secured: "PvqZWfAtkPu7xtmInQvPYFGmHikRDnBorJz4dDa7mZGMXslLgoff8ncTjnAF8lno0WbAjFX2P0sr2AMLIcJIkUkF0hRwxmsPZtuC3w4o6KLQFoMFEej00wkBeWHf0qccYn8CpL39cQq/FTEgFjx9298gH6hGm39vRAuhBruH4t2+8LQ+iYfktO5CB01sEPrMf7xwHqjNH1EkObyfKaNTgQrcGrORgttveFtjtNQaMY/m2CH8IS1zHEVfUqb56n2gKSxMcjNJ858UzmvkT6Wdfc/mJEezJpnKE5mELNJXtrICCWg2rqj2Q8Pq8rp/y9gIfpZUmRmtrQY6+2eIMWV7zzO0UpEMLTdHvdfVHc1zJlI=;QvBYQLQ0f20Uj5lTSlTH5A=="
 ---
 

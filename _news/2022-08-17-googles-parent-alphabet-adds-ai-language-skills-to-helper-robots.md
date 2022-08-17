@@ -58,6 +58,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Google gives helper robots language skills to understand humans better"
+    excerpt: "Researchers at Google believe large language models can help robots respond to more complex and abstract requests from humans."
+    publishedDateTime: 2022-08-17T07:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-robots-alphabet-large-language-models"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/helper-robot-2.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "uZDP6EeeyODYH3ks7m0TeMDLyrKLco25rpibq/jEqXqqCb2UDim1w/8IP9twFnNAQERBqmYLP6SeAHJdI2VhgnxXmS+4in16Lq7JEajzeVC8j4bxTovrqVIvYaHsS1f4UqYD0o+Gqf74RZkF5nHT0hxh0RVhvJh26R4kXEf0WvCfnJTFTCTnfqtCSgulbSPYrRKWbwmlLub8r6Qhv/KxV/+fXIHG5nUVLw6gVwdXwagvmrPJTP1ftMquvePnTuPvZEYXiVhjnPmXVDOsNQCSWKN1hZoxBDC2ItyhDXZobNsjCI6lb5DtowQR512C3n/Cqru2dbs/KPb1qQ9ipu3qNO0+U1Jo59hZYcF+uSCJp6k=;es0QujBtW4LOCvGnkCCUww=="
 ---

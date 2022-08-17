@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: List of Banks in Belarus
@@ -27,15 +27,73 @@ images:
     isCached: true
 
 related:
-  - title: "How AI can shape a sustainable future"
-    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
-    publishedDateTime: 2022-08-15T08:50:00Z
-    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
+  - title: "What Are The 10 Best AI Consulting Firms"
+    excerpt: "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030."
+    publishedDateTime: 2022-08-17T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 540
+        isCached: true
+  - title: "The Best Free AI Art Generators, Ranked"
+    excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
+    publishedDateTime: 2022-08-15T13:05:00Z
+    webUrl: "https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "The best AI tech films as per IMDb"
+    excerpt: "Since 1977, when the first ‘Star Wars’ film created a rage among the masses, it led filmmakers to churn out sci-fi content in abundance."
+    publishedDateTime: 2022-08-14T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-best-ai-tech-films-as-per-imdb/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/marketing-futurist-analytics-india-magazine.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 28
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 25
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "aOGSEAtBkJC3mbvy0aoZqdeEAoeNWaejffX9477Uur8v963wjNbccJv+R00frCl0qqTh1tJCACE9P6yicnb4ICpC6DFntfIUuz4Eb8y62yP894rz6J92qV4JD77WBDGp5548xitOMT5nmWlnl28ZRV2OBwq2Azoj4/eZ+hyD8bJX39vIztm4hiUjWBq4nNXHs/Va/W6W2I2YiLwwkDvGw+zDiClQT0oC9lwQd4QW5roxpv3BFWpHAGCZERaYRJ43708SZK7kNhTauSUv99hfhzJXHNI+4GmIRjIE5682c6ZXdwnBqo9d5ftbvc4zm2yKHwzt5qzM0mlgZeK4jO7JLK7WFje7Byj+YQ4PzO8sAhg=;vEBOZF6O3SRQkyn4SuXOJA=="
 ---

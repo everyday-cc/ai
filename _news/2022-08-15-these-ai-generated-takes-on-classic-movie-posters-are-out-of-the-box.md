@@ -9,7 +9,7 @@ ampWebUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482
 cdnAmpWebUrl: "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 79
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 54
-  - title: "The Best Free AI Art Generators, Ranked"
-    excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
-    publishedDateTime: 2022-08-15T13:05:00Z
-    webUrl: "https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "These AI-generated Overwatch fusions are beautiful and terrifying"
     excerpt: "Harrison started by feeding the AI simple instructions like \"make a fusion portrait of Mercy from Overwatch and Junkrat from Overwatch\" and in some cases took more direct control over artistic influences with tags like 4K,"
     publishedDateTime: 2022-08-17T00:07:00Z
@@ -60,34 +51,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/KSohfWX3S5vZDtXXM6QJBe-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 25
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
-        width: 1420
-        height: 798
         isCached: true
 
 secured: "CI3lqr53K1rPnz/+QGvZnfNUxNmYycAL8t76bfQl97juBexT/nGd/2x0lhWWxf686g7dfDOYePMD6cbkDh1OGk10fIBXRmXr7XsCyiqo0FcLvvsN1AJ3ATU9Amm2yOPdEwt+etNbI5kSGrZaQqRHCpnHf3JTXsAAlWiAvJgaamPRuBCMmxYKC0tYNN4TyklrBFOOn6KE/UMXGhfa/FCgoWT0lSLQ8hV3bLtBxkc3cJUtB4TFjrFcqJIc2iUQDnChy6gqv9YZGeo8Eh2cS3K5QcF75rwEphcByOgAMUyuw2jWf2/bRxPe5eCC5x7Ys5Of0oaWDnj/aVApOM76nSKnVPidaOx74AFsR9mwQL7yGFSJJhcnp0ofMhN7NjoHNqHBfsiEe4Y6Ft9BCbc8L7kTQoNOFLPAxAXQb8v+8gMEWmoP6muB2SSNHeOh1a4svRQ4x3giekKlInnD9LmsDDxIu2TJVpKhe78q6Fg+sDCgJEkg5VpB9f8eqNFzZ2JIGgqASJRRB8i7HhEC/2i9t2h5NQ==;FHGT/QFp6/99UkQoLFZhHA=="

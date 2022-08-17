@@ -24,17 +24,6 @@ images:
     height: 398
     isCached: true
 
-related:
-  - title: "ROKIT Healthcare to Enable Innovation in Treatment of Diabetes Foot and Osteoarthritis Combining AI and 3D Bioprinting on Google Cloud"
-    excerpt: "ROKIT Healthcare, a company specializing in bio-healthcare, today announced it will provide a hyper-personalized medical platform that uses 3D bioprinting and AI technology built on Google Cloud, to innovate the treatment of osteoarthritis and diabetes feet (diabetic foot lesion ulcer)."
-    publishedDateTime: 2022-08-12T13:26:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/12/9655245.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-
 secured: "L44UZXgXAL4CaSrWZODn1/+XTft9m4r8s41zLtgnYZXnFslPc+bX7rgSGtLTOlCH5KVqdxO5SShScLAffecA0Kf4kbp8xltd3GpDkFoyII+7p/O2LdEy53Z68CVra58eeUW2XMRwJ9IECM+8lUDrzE58YridjjMHLQ1Ey1Q0aYT/YMsBwYTWgSWijSZ1uAHv+0w7ANDcXhiIPfIJ8gfhF/IXXvM84LOQyUrZ0Sy4kelafd4VOdSdjwV7mul3vQ0EsO7BY6eGt+wsMCqgvUfAToiL6lRHJkRCsmSAW0lwFJlfcIxhFPEEN768Qs/U1OJ4lN8aGa9oUbaLqJHR9ippmieSQQjOcz7l8ObBKmSw5DF07E8mnqzBuFtXb6NwRbaNrWsz4bO7dSIqcN4NItxEq+fDrNtRXgyXFpZT1vOBGyx1CD+fHsWMcsy7ystPt3aqdlhOrZsSLu/arGASQNMxwNTGB59CSukIM+sP8++K3bUqzWHGtL8rs1LIThIMk+jYSkrHnG+Qc61g4yuE9D8zRg==;+m4Y/wDUofU0tfMlVd3pug=="
 ---
 

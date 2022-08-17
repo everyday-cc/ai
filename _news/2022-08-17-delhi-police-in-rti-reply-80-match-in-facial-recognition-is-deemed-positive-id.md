@@ -43,6 +43,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "80% accuracy in facial recognition database is a positive match for Delhi Police: Report"
+    excerpt: "An 80 per cent accuracy in facial recognition databases was considered a positive match by the Delhi Police, which deployed the technology to identify accused in major clashes in the city, RTI records show."
+    publishedDateTime: 2022-08-17T06:14:00Z
+    webUrl: "https://www.deccanherald.com/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 50
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/17/file79k5jxgl1fq610vnd8z-991311-1622271230-1-1046836-1635906143-1136806-1660716893.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "kguzP6k1frzrnEZVgbAd+7bQH6QYEL5OeOLU/opLDIsOTRuFbJYbLNz/8oVNAdWPjn93L3mLOTajOhxDQhVQAk1/hsIzFdI9+yHI6xY0xnSA28H5PPDlm5JECq+4cmPvnVx92LhG+GjS/cRt3PKD8MKtdXfE48KXG++9PCM1F/YPufEgee72t1NXw/BpiQXzx2/eZQEoNF1DOdpK/U11y+9SBCc9yXXJQrA0YhLlxs/TzY9C/koV5+tv+GP3BkJAivbc54gCITDlYtaoJFM47u0XwUtwM8eg20QID+awfiTThaJhbuSmlc6QmFX6h/IVJ3a6FxPAAX4bfiOr5qA0u6jHbmcqtYnE5LQ/ExmDk2K+SxHiUhcQo1T+li/0dEdXmmu9xqm1iBrtqsgVJBTGpPEzlP1r3+XZ76EjPHQNMLoHZFPLDRlVNlTBTFpk8uvKqVup1rxWKiOvev3QupSivrrcmgZNHEArrdXhaWOPyNeCAYzDFiWliAQ9Jq9ymxivhzMZ+2IgH8l1fWJr3fNJSQ==;CBRToEvyvNqYw8SpON+cbA=="
 ---

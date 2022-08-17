@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-17T03:52:00Z
 originalUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
 webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
+  - IBM AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
@@ -85,6 +87,6 @@ related:
       domain: insidebigdata.com
     quality: 17
 
-secured: "0XvRSUekE/BSsclpzDcvJcY6fNdfEXAsSBTPG1bYHgNXfFxYlLZG6buYD6Twe6mECCo9FSfNh1ZaJ8ZQSALoGm4TpgzfCBwrgLCJm2B5LepcVMovNKKV9kG1rKcW/IeI1ibknwWrYQDyrfdSedX7Bzc2v1YBqV1Xom9fjM8BC5SEc97t+NVM9Nise2MVZR18rpOVisyx/fmwMr4KmgIc51Pnht2l2vP69URXLSgB6paQpF7OdmiUrrXtDM69lGd9FRyyterVvty8JHAND5SSYYcdmaIjAkqlqyVFEwt1mXVV43pBY6irhCM/DkcPo6NL1JEE9u9rY0f/kFcaKVdrOhogxLYDjDX1Y3eUNVqCIgM=;zy6+pbN6r0AFoJF2LN4W7A=="
+secured: "rGIvc5B+sy8Vx5txqFhWgsmtang/5y/isrkP0SAmTIL+SjtWnKH2UPmPaQ1JwCezMjRtG30X4uVqXk2PPqvPHvbE/3F6834I66b3kP8ib3L0f2wx0HCoZqXI31WtxoGGsvjtBdmyjnC3yjpt9r75l9XENpRyW7DNvYewIvSQpxaTRU0GcvBxKezS6Ix0H8diYVMDjQ1Na0gLa8TeVg5FJNusHE3NhesbnDFBloSCe5mfXueT0CrCeeIIOauWP37MOAew2fyUjGPPyhBpK8XtLuZ3R8M05Hu0AJesvfurCY24kiGXjbySZUPh29YMlPCc8MIDQe2aYWJOiiFMZGICDHXYWzNTiXdcWCo3HcrmPK3OA6c2KeC31pqyW0TAZ3apX/OUMvQgu+j6G3QcW/4knJhXFB/kMIai9Dzy+oqECX1QRaPy54udV5igVtM0qW6tJKQ+LdcWzdYCkM3rsG5WaAejdL0HKV/nhWlCeMR50kcl21n65qEP6PP5prTcQayEITuauYCJHnw4LDzEmndZdA==;GgFdEW0NB0KITQy4bpDneA=="
 ---
 

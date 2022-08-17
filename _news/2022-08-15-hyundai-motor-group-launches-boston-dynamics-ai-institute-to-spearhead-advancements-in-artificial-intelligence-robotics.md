@@ -57,34 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston Dynamics launching $400 million AI and robotics research center in Kendall"
-    excerpt: "Robotics maker Boston Dynamics and its owner, Hyundai Motor group, on Friday announced they were investing $400 million to create a Cambridge. The new center, called the Boston Dynamics AI Institute,"
-    publishedDateTime: 2022-08-12T14:30:00Z
-    webUrl: "https://www.bostonglobe.com/2022/08/12/business/boston-dynamics-launching-400-million-ai-robotics-research-center-kendall/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 64
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/UvZhxqttvBn_Kv-paJCYFNulnTY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/F3CC5SPSUA3SN7LQABOJGBRXZ4.jpg"
-        width: 506
-        height: 337
-        isCached: true
-  - title: "Hyundai launches Boston Dynamics AI Institute to bolster advancements in AI and Robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics announced today that they’re launching the Boston Dynamics Artificial Intelligence (AI) Institute."
-    publishedDateTime: 2022-08-12T14:41:00Z
-    webUrl: "https://finbold.com/hyundai-launches-boston-dynamics-ai-institute-to-bolster-advancements-in-ai-and-robotics/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 62
-    images:
-      - url: "https://finbold.com/app/uploads/2022/08/Hyundai-launches-Boston-Dynamics-AI-Institute-to-bolster-advancements-in-AI-and-Robotics.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
     excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."
     publishedDateTime: 2022-08-13T00:00:00Z
@@ -101,15 +73,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Hyundai launches Boston Dynamics AI Institute"
-    excerpt: "Marc Raibert, founder of Boston Dynamics, will lead the institute's work on cognitive AI, athletic AI, organic hardware design and ethics and policy."
-    publishedDateTime: 2022-08-12T13:46:00Z
-    webUrl: "https://www.therobotreport.com/hyundai-launches-boston-dynamics-ai-institute/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 49
   - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
     excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."
     publishedDateTime: 2022-08-14T18:43:00Z

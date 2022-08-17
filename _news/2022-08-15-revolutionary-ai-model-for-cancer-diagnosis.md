@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Model That Reduces Cost And Time And Increasing Accuracy Of Cancer Diagnosis"
-    excerpt: "A research team led by Professor Park Sang-Hyun of the Department of Robotics and Mechatronics Engineering (also in charge of the Artificial Intelligence major) at DGIST (President Kuk Yang) developed a weakly supervised deep learning model that can accurately show the presence and location of cancer in pathological images based only on data where the cancer is present."
-    publishedDateTime: 2022-08-12T14:19:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/AI-Model-That-Reduces-Cost-And-Time-And-Increasing-Accuracy-Of-Cancer-Diagnosis.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 33
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "THE PROACTIVE REVOLUTION: How Artificial Intelligence is Driving the Transformation of Customer Experience"
     excerpt: "Artificial Intelligence (AI) and machine learning (ML) lead the transformation of robotic exchanges to smart conversations between humans and computers. While the first wave of conversational AI chatbots lacked real-world natural language processing (NLP) and rendered them ineffective,"
     publishedDateTime: 2022-08-13T00:37:00Z
