@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T12:30:00Z
 originalUrl: "https://medcitynews.com/2022/08/voice-transcription-ai-the-future-of-doctor-patient-interactions/"
 webUrl: "https://medcitynews.com/2022/08/voice-transcription-ai-the-future-of-doctor-patient-interactions/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MedCity News

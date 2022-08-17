@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "The Scope and Complexities of Risk Management in Financial Services"
-    excerpt: "By Renato Fazzone, FTI Technology With increasing digitalisation, banks and financial service providers are exposed to an increasing spate of risks. Cybersecurity threats are steadily rising. Data privacy authorities are ramping enforcement and the scope of sector-specific regulations are widening."
-    publishedDateTime: 2022-08-12T19:03:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-scope-and-complexities-of-risk-management-in-financial-services/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 4
-
 secured: "p6SsrOwnuM+LfsMxHagnnzSF2DcYXrfYCOiUs2tnBRFQUcubYekrVgEW/8u2RXZcFD69eEIBK2vpRwFucNC4fkdSqSRfEBi1l5LBBGjv2G+5iWn7RM4lbZjNaMdi54Aw0ETDEvzi3LMBNCjg5FjnMWHWuE9Pywc6XuOSvMaB2ABlKldOgjsDFEXR4yHCYTVOdAsMvJXkRCjtj6mPAOUAwc3R654WQMtwhd1bFPtVdYBgirDqOi48eoymFwC3oPBlEGjBYnStQCx155rr5t7mClUuxsZKq2+rSogLKISWKaBLhLeBtCA6JbzrNOGmwIOYhsX+7QseK6OC8Sz79+d2dQ+VDsBA92Msxktugr4T/Hg=;b3uXiJEYND5FAFi5/W9hQA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T13:30:00Z
 originalUrl: "https://venturebeat.com/games/modulate-raises-30m-to-detoxify-voice-chat-in-games-with-ai/"
 webUrl: "https://venturebeat.com/games/modulate-raises-30m-to-detoxify-voice-chat-in-games-with-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

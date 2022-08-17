@@ -28,10 +28,10 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 2
-  - title: "Amid Accelerated Digitization, Streaming Analytics Market to Surpass US$ 86.5 Bn by 2032 | Future Market Insights, Inc."
-    excerpt: "NEWARK, DE / ACCESSWIRE / August 17, 2022 / Global streaming analytics is expected to reach US$ 86.5 Bn in 2032, with sales growing at an astounding CAGR of 20.8% over the forecast period of 2022 to 2032."
-    publishedDateTime: 2022-08-17T09:41:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-17-amid-accelerated-digitization-streaming-analytics-market-to-surpass-us-865-bn-by-2032-future-market-insights-inc"
+  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
+    publishedDateTime: 2022-08-17T14:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald

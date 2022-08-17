@@ -7,7 +7,7 @@ originalUrl: "https://allafrica.com/stories/202208130028.html"
 webUrl: "https://allafrica.com/stories/202208130028.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 664
     height: 664
     isCached: true
+
+related:
+  - title: "Promoting Artificial Intelligence In Africa"
+    excerpt: "Muthoni Wanyoike is a Kenyan data scientist who is passionate about promoting Artificial Intelligence (AI) in Africa. Her work is geared"
+    publishedDateTime: 2022-08-15T16:13:00Z
+    webUrl: "https://www.businessghana.com/site/news/General/268673/Promoting-Artificial-Intelligence-In-Africa-"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-08-15-152221001.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "LldosnvOtxTpDMD0HWswftpl+6fAJJlMhTk0FXtopN2+qZKybQOQDnpMbf+B0OLeDP44fR0T0G5Bd6XS4IiYTmwwcmfCYBrwRtlMqyyG99dv1Iw9EQH0feHD19mjI7ucd2G4VMajTy4ixTFrCdMC3VtdkSuLmUmuz/a389wuMrzFv3ySd2shKuff0xhrplXv7+6ROcjXNwayDdCWfQTBsVUNGjCeWsfhJh7TUkE5yK7eI22kjMoFgzl6j/R0Lp+KFDgUMZM4z8q+fyyLNHUhv5B1mIp5SKIUFZLsDKLlbOMflL5fTprD9ErEzKbhrUx6nwEYlOb3qfNznv66i3L6Uz0E3yjWdDRg4MKBN2y2yik=;YooUvCGHD2+xYuGNH0jmww=="
 ---

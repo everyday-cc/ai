@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "SoundHound AI, Inc. (SOUN) CEO Keyvan Mohajer on Q2 2022 Results - Earnings Call Transcript"
-    excerpt: "Q2 2022 Earnings Conference Call August 11, 2022 05:30 PM ET Company Participants Scott Smith - Head-Investor Relations Keyvan Mohajer -"
-    publishedDateTime: 2022-08-12T22:27:00Z
-    webUrl: "https://seekingalpha.com/article/4533785-soundhound-ai-inc-soun-ceo-keyvan-mohajer-on-q2-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 27
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "BigBear.ai Holdings, Inc. (BBAI) CEO Reggie Brothers on Q2 2022 Results - Earnings Call Transcript"
     excerpt: "Q2 2022 Earnings Conference Call August 09, 2022, 05:00 PM ET Company Participants Josh Kinley - Chief Corporate Development Reggie Brothers -"
     publishedDateTime: 2022-08-14T05:25:00Z

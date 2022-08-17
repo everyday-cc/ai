@@ -41,36 +41,6 @@ related:
         width: 1600
         height: 873
         isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
-    excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
-    publishedDateTime: 2022-08-15T15:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
-        width: 899
-        height: 441
-        isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
-    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 258
-        isCached: true
 
 secured: "mBzn+wVEo9KnETwXWMyXDE1OOKz4S++RcD+elEZ0lzHr2/fgW+bEQHeiBQQFcbO1FpQ5iY9ZM6+pMp58GkzHD5kqn0qgsdrPvW/vuLELFcQSaMg8dF/hc6EzerI/0jQ+G2tDvOfiZSgMvx8XoGwySib/MlI3pgd9LF4nmso4ZocLJv2dgA+wWV7YRymghKvbQybYm1qd3AvQeswkxvtmUYYXqfSpdqCwU6eu4TtGHSgv11PSqFXs2y1HG4OMCYxxcLXzFdtE1gn56ISbfZMaNBo62Nlm8XCtHo2oAqu2AAq/+kKqcfyG1R4eSlVDHN8BjlXxHCjLnTuSepTewKEUBZfvl8ZGrQJ9+rp8o/5orezpifCAdaO/Q/smNXGwhblI53n+5L/5OrsKiKXvDVmvawruYoUkHWKgY84qpWnKEdSqoxjwzfC0Q4Cotq3gITEHOwaSLExTJ0cPQ0MreqL5+ZkWbWaRu1aJZlbOeS+gGG/VU5ojZ5gHSrv8AKzFru85CdRVUO1XhyFstSQQEtAmtA==;/t+9A9hzNeuYPJhj+nQjWQ=="
 ---

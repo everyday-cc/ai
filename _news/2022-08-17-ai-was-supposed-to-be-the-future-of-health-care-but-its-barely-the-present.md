@@ -55,6 +55,20 @@ related:
         width: 1330
         height: 887
         isCached: true
+  - title: "AI has yet to revolutionize health care"
+    excerpt: "Questions remain about how regulators can rein in AI’s shortcomings, including bias that threatens to exacerbate health inequities."
+    publishedDateTime: 2022-08-17T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/health-cares-ai-revolution-hasnt-arrived-00052204"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 37
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "YD6KaYJjv48EI8NDV0pKvTY98gPAo/S3vxLk9VoH92S9PExcqee94yADd5LCw2234eSeYFgaYvUDoh/0IBKXeCq9/kMnIV+euInQdkeupXZAGgej1OlvwK1pNbALwbevqMm0U4nDBp5CEE5GVvoX2JhK4tvc9ntJW15nEaxtiVCougLd+lZe5cXG7P8vH7K7xZ1LiZseOdUAtgApJNx2jiKcFZSF5xfeQGvBBJt8CiN/vdEo8dFy6tPuexjDRm+GxFfgt9KLsSMh2vT8DBnwYTdRWhAVexOnm4x7n9ioA4AZX56xDX4/OV4OR20VnGE4fXcCKYS6XMy6k2jrUN+GnElrAmx8FM06tfYvIymW19S/8v+QyQV0ThXbJbnYVNdb6ds6clIDWx77CqRCJJriLoTYwF0FtO1iE+BUyB/B/xkVqyJbeZIktdQcZyG+97/OJzdOHIyqCVzsQjYD4KPmVh3ISMmmyOBVkIW6TT79x/MKvDwPqVloEpEAuMLAJE07tblEeFZT3a98ezFSerQ2Dw==;BKkb3N+7jOL6YJmI2CLi6A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T12:01:00Z
 originalUrl: "https://www.axios.com/pro/climate-deals/2022/08/17/bearing-maritime-ai-software-funding-mitsui"
 webUrl: "https://www.axios.com/pro/climate-deals/2022/08/17/bearing-maritime-ai-software-funding-mitsui"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Axios

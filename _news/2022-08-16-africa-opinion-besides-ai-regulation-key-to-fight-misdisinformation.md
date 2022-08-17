@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "OPINION: Besides AI, regulation key to fight mis/disinformation"
+    excerpt: "While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
+    publishedDateTime: 2022-08-15T06:54:00Z
+    webUrl: "https://news.trust.org/item/20220815085446-xwfps/"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 37
+    images:
+      - url: "https://news.trust.org/contentAsset/image/0f504770-1444-4e4e-a682-f7ffb9339c00/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
+        width: 1100
+        height: 733
+        isCached: true
 
 secured: "9rJcK8Nx+3N1u8WN6nXFibhbIjAuiP3K1Q2dPGc091kj1SrReUnZLFZrYaZ3zxPZs6ejMeS+QW2t3QEqaASYMqOJsYoQaC0BJXrGaC8HidOcHXp4s8XPMikdjPaMfhO3xkTrZ7AoC1n6opHzp4MZN9vahr5GtQjgrsV5GoRpMLVQGRrlk+BaPh/cJUiI/daP/8Uj2tQ41kVPtA6tcdvq7aAElSVhXjMF5QzmMUvr/0WKz15/lH9tDKjdHXf94gig6k757tB4091c3PyiYjxeJUFsixFASWtPBq1C5dp9Y2GvL0ryx9xcJKPJAJVllYva5PkyUD7cEGtbIV6rRml7wzPN4oAT0zwvRoJL+o9P1J0=;8mHaSG0rbB9f81Os71PuvA=="
 ---

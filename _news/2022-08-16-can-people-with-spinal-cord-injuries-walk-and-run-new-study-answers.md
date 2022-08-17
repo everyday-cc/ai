@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
-    excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
-    publishedDateTime: 2022-08-15T15:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
-        width: 899
-        height: 441
-        isCached: true
   - title: "Can people with spinal injuries walk and run, researchers probe in new study"
     excerpt: "An international research team has succeeded in recovering muscle movement in a model of paralysed mice organic through artificial nerves The team was led by P"
     publishedDateTime: 2022-08-15T18:58:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1660589526.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
-    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 258
         isCached: true
 
 secured: "v7dcPSHlWq+wk7+RwcdYeal144rFeTZdtHpUOrDZsy9spB+v8KZT3NYrBWNOIkb95XHHhlnMZHpqzbSWz2EUFNAznoZQziWkcU7CFuTsOYjDuUmYcXrI+/3AmAgaAltvQ8iOcMqpnVgaEAcZw/mxrzPRgDvEG6hO8NgoxhDWXbZa7p+PFurNgyzMaFM3BL+wCpExzngYazo8NCnzneN6XQzGhUAirGHu2+I3EGyD4hjc4yVx88bnMemaZAHi7dUj1Jb2YQeX9DI9OdFtKdt35t3oIrPCxm3fMALuT0O0IS/G3NiV4yaX88NpKL3esEQwB3535pHUcdYJT+WJ1fU9akXCGPZ9nXzqVSYxj+yp9js=;qwB465NPiKMeqPGZRtMRTg=="

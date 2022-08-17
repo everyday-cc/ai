@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T13:37:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/08/194873-assetz-capital-to-leverage-risknarrative-platform-to-address-financial-crime-management/"
 webUrl: "https://www.crowdfundinsider.com/2022/08/194873-assetz-capital-to-leverage-risknarrative-platform-to-address-financial-crime-management/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Crowdfund Insider

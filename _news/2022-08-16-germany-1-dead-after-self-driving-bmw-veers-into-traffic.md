@@ -36,6 +36,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 4
+  - title: "BMW denies ‘self-driving’ electric car caused deadly traffic pileup"
+    excerpt: "BMW is denying a claim by German law enforcement officials that one of its self-driving electric vehicles was autonomous at the time that it veered into opposing traffic and caused a four-car"
+    publishedDateTime: 2022-08-17T12:58:00Z
+    webUrl: "https://nypost.com/2022/08/17/bmw-denies-self-driving-electric-car-caused-fatal-traffic-pileup/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
 
 secured: "A0UmPe2NXn0nwUOiXtGfrA15YJDMok7zL2mCbrlFqUIw0V7wzPHgfTHOZQ71p0OfFrENzgjPl+kwONK1j5GGwE9Gw53EdJx+kVVjj9QRik9PJeEMVnl5wDw7qjOrFK7A3xepvyqAM7gTKgzSH/9EtYWKRFmm2lPo2wGxXJZyIkdgRqHbDi9z8AnAnYSC5UvsjPy8IrdWqZI+wyhYDKT7TmVGYuVbCKbWrNh7CTWa1LSwHzAmeiKHdoV22Kg1bm+zwsmetVcg5XnBRRNEF6qDWIQaUN6toiTwwJP78Rga5bcngvWJ4RbeJWddgpheZQmdNquFvodUitWDVzj04tYMps7rxjeDV/0lojjmv5DxL/k=;ldHyuL2UXAEv3zJ8TUPFjg=="
 ---

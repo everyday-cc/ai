@@ -98,6 +98,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-new-integrateai-platform-preserves-privacy-in-machine-learning-and-analytics.md",
+      "title": "New integrate.ai platform preserves privacy in machine learning and analytics",
+      "excerpt": "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "originalUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png",
+          "width": 483,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices.md",
       "title": "AI Ethics Flummoxed By Those Salting AI Ethicists That “Instigate” Ethical AI Practices",
       "excerpt": "Is it okay or is it questionable for those salting AI Ethicists that seek to get hired by firms just to from-within stoke Ethical AI adherence? Here's the look at impacts on AI autonomous systems by such practices.",
@@ -182,6 +226,50 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
+      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1352,102 +1440,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
-      "title": "Google fires engineer who contended its AI technology was sentient",
-      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
-      "publishedDateTime": "2022-07-23T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
-      "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
-      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-23T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI Ethics"
       ]

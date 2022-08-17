@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
-      "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
-      "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f11fcf7fe1776868257314/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "publishedDateTime": "2022-08-08T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-5-stocks-ill-almost-certainly-still-own-in-2030.md",
       "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
       "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
@@ -127,6 +75,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
+      "title": "Baidu wins approval for China’s first full driverless taxis",
+      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -506,43 +497,25 @@
     {
       "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
       "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
+      "excerpt": "In its second Hot Vendors report of the year, Aragon Research recognizes noteworthy, visionary, and innovative vendors in three markets: Computer Vision, Intelligent Contact Centers, and Conversational AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/p28357613/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28357613",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28357613",
       "publishedDateTime": "2022-08-04T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,231 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
+      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
+      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
+      "title": "Baidu wins approval for China’s first full driverless taxis",
+      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
+          "width": 1240,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing.md",
+      "title": "From AI to voice search, how new-age innovations are defining the future of digital marketing",
+      "excerpt": "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Akhil.png",
+          "width": 434,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing/",
+      "publishedDateTime": "2022-08-07T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
+      "title": "Baidu bags China's first fully driverless robotaxi licenses",
+      "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-how-enlighten-designs-is-balancing-professional-services-sales-and-delivery.md",
+      "title": "How Enlighten Designs is balancing professional services, sales and delivery",
+      "excerpt": "Hamilton-based IT services and consulting partner Enlighten Designs is focused on ‘keeping a finger on the pulse’ of customer requirements to remain agile and seeking market expansion through growing its expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
+      "originalUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/damon_kelly-1.jpg",
+          "width": 458,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
       "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
       "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
@@ -916,239 +1141,6 @@
         "AI Ethics",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai.md",
-      "title": "No, You’re Not Alone. Google Is Also Making This Big Mistake On AI",
-      "excerpt": "As AI goes, garbage in is most definitely garbage out, and AI projects are suffering from significant bad data garbage. If Google, ImageNet, and others are making this mistake, for sure you are making this mistake as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eadf98d17679765fb6862c/0x0.jpg?format=jpg&crop=2209,1243,x0,y136,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "publishedDateTime": "2022-08-05T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
-      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
-      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "publishedDateTime": "2022-08-05T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
-      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
-      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-open-source-protein-structures-dtns-4332.md",
-      "title": "Open Source Protein Structures – DTNS 4332",
-      "excerpt": "DeepMind announced it was releasing and making free the expanded database filled with 200 million highly accurate protein structure predictions generated by DeepMind’s AI,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "originalUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tech News Show",
-        "domain": "dailytechnewsshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
-      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "publishedDateTime": "2022-08-05T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

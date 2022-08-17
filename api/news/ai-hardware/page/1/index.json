@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
+      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
+      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "publishedDateTime": "2022-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots.md",
       "title": "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots",
       "excerpt": "Speaking orders are naturally understood by robots, who consider their options in light of their capabilities and make little plans to carry out the request.",
@@ -1390,58 +1433,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-north-america-artificial-intelligence-ai-chip-market-worth-observing-growth-business-market-insights.md",
-      "title": "North America Artificial Intelligence (AI) Chip Market Worth Observing Growth | Business Market Insights",
-      "excerpt": "Jul 29, 2022 (Heraldkeepers) -- Pune, India-North America AI Chip market is expected to grow from US$ 2.50 Bn in 2018 to US$ 30.62 Bn by the year 2027 with a CAGR of 32.0% from the year 2019 to 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-chip-market-worth-observing-growth-business-market-insights-2022-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-chip-market-worth-observing-growth-business-market-insights-2022-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

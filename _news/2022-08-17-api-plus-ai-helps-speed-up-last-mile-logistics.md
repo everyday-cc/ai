@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/need-a-last-mile-logistics-solution-hypertrack-has-an-api-for-that/"
 webUrl: "https://venturebeat.com/ai/need-a-last-mile-logistics-solution-hypertrack-has-an-api-for-that/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

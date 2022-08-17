@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
+      "title": "Best practices for building machine learning platforms on the cloud",
+      "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1214403575.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "publishedDateTime": "2022-08-17T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
       "title": "Why data ethics leadership needs to become the new normal in finance",
       "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
@@ -1293,50 +1346,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-good-finance-chooses-cyberlinks-faceme-facial-recognition-technology-to-perform-identity-verification-for-its-online-banking-services.md",
-      "title": "Good Finance Chooses CyberLink’s FaceMe® Facial Recognition Technology to Perform Identity Verification for Its Online Banking Services",
-      "excerpt": "Good Finance implemented CyberLink’s FaceMe AI facial recognition engine into its mobile app and portal to eliminate the need for new online banking customers to visit a physical branch when performing certain operations such as opening an account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
-      "originalUrl": "https://www.eagletribune.com/region/good-finance-chooses-cyberlink-s-faceme-facial-recognition-technology-to-perform-identity-verification-for-its/article_ff41fe09-e38d-59ff-8bce-a07014c25d7e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/b/5d/b5dc9d28-25b0-5748-bb91-5e946d0a6c48/62d6afcd1a645.image.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI",
         "AI in Finance"
       ]

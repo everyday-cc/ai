@@ -41,6 +41,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI has yet to revolutionize health care"
+    excerpt: "Questions remain about how regulators can rein in AI’s shortcomings, including bias that threatens to exacerbate health inequities."
+    publishedDateTime: 2022-08-17T14:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/health-cares-ai-revolution-hasnt-arrived-00052204"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 37
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "AI was supposed to be the future of health care, but it's barely the present"
     excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
     publishedDateTime: 2022-08-16T18:06:00Z

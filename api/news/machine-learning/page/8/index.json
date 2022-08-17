@@ -2,6 +2,146 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-14-deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr.md",
+      "title": "Deep Learning Market Size, Share, Sales, Scope, Trends, Industry Overview, Top Players, Growth, Forecast to 2029 – VMR",
+      "excerpt": "Jun 14, 2022 (Heraldkeepers) -- New Jersey, United States,- The Global Deep Learning Market research includes an in-depth analysis of key geographical trends, market dynamics, and global size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-the-qwak-machine-learning-ml-production-platform-advantage.md",
+      "title": "The Qwak Machine Learning (ML) Production Platform Advantage",
+      "excerpt": "Businesses have recognized the latent power that lies in machine learning and AI technology. Consequently, they are investing heavily in ML and AI to gain a competitive edge in the new market. A BCG survey states that at least six out of ten businesses are developing algorithms and hiring data scientists in the ongoing machine learning and AI trend.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-inrule-adds-automl-capabilities-to-its-ml-modeling-engine.md",
+      "title": "InRule adds AutoML capabilities to its ML modeling engine",
+      "excerpt": "InRule says that incorporating ML automation into its no-code decision platform enables enterprises to scale ML faster and more effectively.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
+      "originalUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1252838354-e1655148284978.png?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
+      "publishedDateTime": "2022-06-13T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-your-microsoft-teams-video-calls-will-soon-be-powered-by-ai-and-machine-learning.md",
       "title": "Your Microsoft Teams video calls will soon be powered by AI and machine learning",
       "excerpt": "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ...",
@@ -1266,136 +1406,6 @@
       "provider": {
         "name": "Financial Post",
         "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-deep-learning-solves-nuisance-alarms-and-tailgating-in-access-control.md",
-      "title": "Deep learning solves nuisance alarms and tailgating in access control",
-      "excerpt": "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
-      "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
-      "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "originalUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/5cb311187f7e809a9685637b0d50f833.png",
-          "width": 800,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/seinfeld-dall-e-ai-artworks-nightmares-1849028244/amp",
-      "publishedDateTime": "2022-06-08T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-trai-looking-at-ai-machine-learning-to-curb-pesky-communications.md",
-      "title": "Trai looking at AI, machine learning to curb pesky communications",
-      "excerpt": "The Telecom Regulatory Authority of India (Trai) is looking at utilising technologies like artificial intelligence (AI) and machine learning (ML) to tackle the menace of spam communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "originalUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-148.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "publishedDateTime": "2022-06-07T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

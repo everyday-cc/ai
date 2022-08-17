@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/17/ai-ethics-wants-ai-to-spur-the-un-sustainability-development-goals-sdgs-though-ai-might-go-the-other-way/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/17/ai-ethics-wants-ai-to-spur-the-un-sustainability-development-goals-sdgs-though-ai-might-go-the-other-way/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Forbes

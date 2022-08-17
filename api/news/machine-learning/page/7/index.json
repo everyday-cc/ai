@@ -2,6 +2,149 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-22-inrule-technology-delivers-workflow-automation-to-democratize-ai-and-machine-learning.md",
+      "title": "InRule Technology delivers workflow automation to democratize AI and machine learning",
+      "excerpt": "InRule Technology, an intelligence automation company, is adding AutoML within xAI Workbench, the company’s suite of machine learning modeling engines. “For organizations seeking to empower non-data science staff to build machine learning models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153592",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-using-artificial-intelligence-to-improve-business-decisions.md",
+      "title": "Using Artificial Intelligence To Improve Business Decisions",
+      "excerpt": "Artificial intelligence (AI) is to business what telescopes are to star gazing—an incredible technological boost that magnifies, clarifies and illuminates business decisions. AI-enabled technology drives everything from algorithms that filter spam emails to complex systems that can drive cars without human intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/21/using-artificial-intelligence-to-improve-business-decisions/amp/",
+      "publishedDateTime": "2022-06-21T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-the-role-of-machine-learning-and-artificial-intelligence-in-transforming-residential-real-estate-market.md",
       "title": "The role of machine learning and artificial intelligence in transforming residential real estate market",
       "excerpt": "One of the primary reasons for this change is the revolutionary use of machine learning and artificial intelligence in the real estate market. While their contributions may not be evident, changes are apparent when comparing the present-day residential ...",
@@ -1176,146 +1319,6 @@
         "name": "CSOonline",
         "domain": "csoonline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr.md",
-      "title": "Deep Learning Market Size, Share, Sales, Scope, Trends, Industry Overview, Top Players, Growth, Forecast to 2029 – VMR",
-      "excerpt": "Jun 14, 2022 (Heraldkeepers) -- New Jersey, United States,- The Global Deep Learning Market research includes an in-depth analysis of key geographical trends, market dynamics, and global size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-share-sales-scope-trends-industry-overview-top-players-growth-forecast-to-2029-vmr-2022-06-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-the-qwak-machine-learning-ml-production-platform-advantage.md",
-      "title": "The Qwak Machine Learning (ML) Production Platform Advantage",
-      "excerpt": "Businesses have recognized the latent power that lies in machine learning and AI technology. Consequently, they are investing heavily in ML and AI to gain a competitive edge in the new market. A BCG survey states that at least six out of ten businesses are developing algorithms and hiring data scientists in the ongoing machine learning and AI trend.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-6-14-the-qwak-machine-learning-ml-production-platform-advantage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-inrule-adds-automl-capabilities-to-its-ml-modeling-engine.md",
-      "title": "InRule adds AutoML capabilities to its ML modeling engine",
-      "excerpt": "InRule says that incorporating ML automation into its no-code decision platform enables enterprises to scale ML faster and more effectively.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
-      "originalUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1252838354-e1655148284978.png?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/13/inrule-adds-automl-capabilities-to-its-ml-modeling-engine/amp/",
-      "publishedDateTime": "2022-06-13T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

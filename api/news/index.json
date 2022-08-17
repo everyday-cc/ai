@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-google-scientists-create-ai-that-can-generate-videos-from-one-frame.md",
+      "title": "Google Scientists Create AI That Can Generate Videos From One Frame",
+      "excerpt": "Google's DeepMind neural network has demonstrated that it can create short videos from a single image frame with its new AI, Transframer.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/google-deepmind-video-single-frame",
+      "originalUrl": "https://futurism.com/the-byte/google-deepmind-video-single-frame",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/08/google-deepmind-video-single-frame-1-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/google-deepmind-video-single-frame?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp",
+      "publishedDateTime": "2022-08-17T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
+      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
+      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "publishedDateTime": "2022-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
+      "title": "Best practices for building machine learning platforms on the cloud",
+      "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1214403575.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "publishedDateTime": "2022-08-17T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-the-role-of-ethics-in-the-evolving-world-of-marketing-ai.md",
       "title": "The Role Of Ethics In The Evolving World Of Marketing AI",
       "excerpt": "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers.",
@@ -158,7 +297,7 @@
       "originalUrl": "https://www.newsweek.com/fox-news-liz-cheney-speech-january-6-donald-trump-fbi-raid-1734332",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -834,6 +973,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-new-integrateai-platform-preserves-privacy-in-machine-learning-and-analytics.md",
+      "title": "New integrate.ai platform preserves privacy in machine learning and analytics",
+      "excerpt": "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "originalUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png",
+          "width": 483,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-ai-language-skills-coax-google-robots-into-the-real-world.md",
       "title": "AI Language Skills Coax Google Robots Into the Real World",
       "excerpt": "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab.",
@@ -1038,206 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
-      "title": "Elon Musk drops details about Tesla's humanoid robot",
-      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "publishedDateTime": "2022-08-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-what-will-a-dystopian-world-with-ai-in-charge-be-like.md",
-      "title": "What Will A Dystopian World With AI In Charge Be Like?",
-      "excerpt": "Artificial intelligence has been around for a long time, ever since computers have been able to make decisions based on inputs and conditions. When we see AI gone rogue in the movies, it's the system's malevolence combined with the power of some machines that frightens people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8de3551653d7fcab80b06/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
-      "publishedDateTime": "2022-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
-      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
-      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "publishedDateTime": "2022-08-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
-      "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
-      "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
-      "originalUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Dojo-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
-      "publishedDateTime": "2022-08-15T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

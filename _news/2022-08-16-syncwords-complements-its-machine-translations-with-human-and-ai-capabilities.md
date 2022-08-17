@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T14:40:00Z
 originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

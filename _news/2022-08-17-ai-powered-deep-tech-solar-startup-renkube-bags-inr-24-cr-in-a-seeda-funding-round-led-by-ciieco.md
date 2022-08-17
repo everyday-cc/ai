@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T04:50:00Z
 originalUrl: "https://www.indianweb2.com/2022/08/ai-powered-deep-tech-solar-startup.html"
 webUrl: "https://www.indianweb2.com/2022/08/ai-powered-deep-tech-solar-startup.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: indianweb2.com

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dyst
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 1200
     isCached: true
+
+related:
+  - title: "What does falling in love taste like? NotCo is using AI to figure it out."
+    excerpt: "The Chilean unicorn’s new patents supply more scent data to product design, helping bring innovations — and products from its joint venture with Kraft Heinz — to the market quickly."
+    publishedDateTime: 2022-08-17T13:15:00Z
+    webUrl: "https://www.fooddive.com/news/notco-falling-in-love-scent-data-patent-innovation/629001/"
+    type: article
+    provider:
+      name: Food Dive
+      domain: fooddive.com
+    quality: 18
 
 secured: "hkSr4crvuGqhZBeopTHyXke9YJoHMWYa3ImZ3Zsq537XHHYatVkGI5hTMvMA5gTZwtfQV7QuPmsevnDX59+KQjldQDXo0v2n/H+tAuc6t27oHlyTXf8hAHmdNgUaMQfT2ENsQnY8pGZ6ZubSe3q6WjfhCJeKKH9xB6G0ZsqMLhSErCPb5fLiP0zyYQQoAG2NLqaqb89K6lK7p5MS05Axj9yErNmvBunCfSJmATRbhtScwiX6QjYSE+Ok8LVS7/TZT5O9VSUHzO0MAmbV8oVxTLhuIz+WkbH8s7WQ3McEB7TFLSj2BbUuP3OA2ta/qYiQWWLdQNPDiqR2e1YVZig9TX7e1b5dLpmMAa0UwB5gKo3V1pvQFaP+Qq0xueN9bJf4TkyTcLY5A9PkpbcPOREj3nTWoHinXtOaR4RPd+3H26HJG5Q6vk+3+EBPBE1d3I/+sKv11fMG/3Qipfubm2hvu7Va15A6Xex9ImxIUlJfmlEYuHUJlWAfc11R7EfWu3T6IRYeBuTEiep25VklaKrVKA==;WeaPkqRlgXJYEU1scVNNYQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/webinars/role-motion-control-medical-ro
 webUrl: "https://www.mddionline.com/webinars/role-motion-control-medical-robotics"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Motion Control in Medical Robotics"
-    excerpt: "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,"
-    publishedDateTime: 2022-08-12T21:43:00Z
-    webUrl: "https://www.designnews.com/motion-control/role-motion-control-medical-robotics"
-    type: article
-    provider:
-      name: Design News
-      domain: designnews.com
-    quality: 54
-    images:
-      - url: "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "The Latest Innovation in Spine Robotics’"
     excerpt: "It had been four years since we spoke with one of the early adopters of spine robotic assist systems—the director of education for the spine division and director of the spine fellowship at one of the leading medical centers in the world,"
     publishedDateTime: 2022-08-15T13:50:00Z

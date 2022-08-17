@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T13:00:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2022/08/nist-release-new-playbook-ai-best-practices/375920/"
 webUrl: "https://www.nextgov.com/emerging-tech/2022/08/nist-release-new-playbook-ai-best-practices/375920/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Nextgov

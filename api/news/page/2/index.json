@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
+      "title": "Elon Musk drops details about Tesla's humanoid robot",
+      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
+      "publishedDateTime": "2022-08-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-what-will-a-dystopian-world-with-ai-in-charge-be-like.md",
+      "title": "What Will A Dystopian World With AI In Charge Be Like?",
+      "excerpt": "Artificial intelligence has been around for a long time, ever since computers have been able to make decisions based on inputs and conditions. When we see AI gone rogue in the movies, it's the system's malevolence combined with the power of some machines that frightens people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8de3551653d7fcab80b06/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
+      "publishedDateTime": "2022-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
+      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
+      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "publishedDateTime": "2022-08-16T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
+      "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
+      "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
+      "originalUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Dojo-Supercomputer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/",
+      "publishedDateTime": "2022-08-15T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-customize-your-recommendations-by-promoting-specific-items-using-business-rules-with-amazon-personalize.md",
       "title": "Customize your recommendations by promoting specific items using business rules with Amazon Personalize",
       "excerpt": "Today, we are excited to announce Promotions feature in Amazon Personalize that allows you to explicitly recommend specific items to your users based on rules that align with your business goals. For instance, you can have marketing partnerships that require you to promote certain brands, in-house content,",
@@ -62,7 +262,7 @@
       "originalUrl": "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1028,196 +1228,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-fractal-analytics-ceo-pranay-agrawal-on-trends-in-ai.md",
-      "title": "Fractal Analytics CEO Pranay Agrawal on Trends in AI",
-      "excerpt": "I spoke with Pranay Agrawal, CEO and Co-Founder at Fractal Analytics, about what’s driving the AI sector, and how companies can best strategize to maximize their AI deployment. It seems like many companies seek to get on board with AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/08/New-eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-this-startup-is-setting-a-dall-e-2-like-ai-free-consequences-be-damned.md",
-      "title": "This startup is setting a DALL-E 2-like AI free, consequences be damned",
-      "excerpt": "A startup, Stability AI, wants to open source the AI tech behind image generation systems like DALL-E 2. That could open a huge can of worms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/a-startup-wants-to-democratize-the-tech-behind-dall-e-2-consequences-be-damned/amp/",
-      "publishedDateTime": "2022-08-12T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
-      "title": "Why data ethics leadership needs to become the new normal in finance",
-      "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "originalUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1212832689.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
-      "publishedDateTime": "2022-08-12T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

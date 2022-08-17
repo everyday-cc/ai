@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T12:51:00Z
 originalUrl: "https://inshorts.com/en/news/aibased-ecommerce-startup-graas-raised-$40-mn-in-funding-1660740699477"
 webUrl: "https://inshorts.com/en/news/aibased-ecommerce-startup-graas-raised-$40-mn-in-funding-1660740699477"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Inshorts

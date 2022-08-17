@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
+      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
+      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "publishedDateTime": "2022-06-14T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-how-do-you-insure-artificial-intelligence.md",
       "title": "How do you insure artificial intelligence?",
       "excerpt": "No doubt, this software has some built-in artificial intelligence (AI) elements. When insuring a vehicle manufacturer, it’s not too difficult to spot the potential for critical failure ...",
@@ -1286,50 +1330,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
-      "publishedDateTime": "2022-06-04T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

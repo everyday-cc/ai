@@ -7,7 +7,7 @@ originalUrl: "https://pressgazette.co.uk/chip-cmo-interview-ai-is-the-future-of-
 webUrl: "https://pressgazette.co.uk/chip-cmo-interview-ai-is-the-future-of-marketing/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI Hardware
   - AI
   - AI in Marketing
-
-related:
-  - title: "Interview: Why the future of advertising is with AI"
-    excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
-    publishedDateTime: 2022-08-12T21:55:00Z
-    webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Meeting-Tim-Sandle.jpeg"
-        width: 1024
-        height: 580
-        isCached: true
 
 secured: "O+InljqbxDW6SeMrVjh1Mn6JQH0PLqZqhrWVx4jCZ2NdvwXd2YAGF1sl76Ryj2FbrOTm2vbpDpSXABJd2Rv/4LuvBLJDi6xQ5Ao6zEqNYQNI3At//NKv8PntLpEYw+mJMNI8+vdp1cia0dTjXyj8bqe3oP0xMSIdQT3kA918skpYkBmeM0iMjXAyHrm7PUCbk1Mig9yVsAQVdlm1gxARE/p2OydgwSwK/b8kfKYQGq0F2EZzoGE7P4ZtRqrS49XXJvBA8yb3/r0HzNmePMGsYHX5YQoMX6TimH9mBP2WQVD/kqQwy35pCKrpOR/2TXfDkJ5exoXSLlF/v4eI3NYUUz6MgVZxlv6MNEiwRUjIbkvwFunBEWRnSrcPFPod1uCoRgsU3wphKkkLNMozowANjDFWL7EKo0kWp/DBwG28Kf7MdOx7uW6k78WxT5ZoCd+iECiw1iKiShjEE8AHYqrXKJ7+0PU4h+2Qu/v6hDh99FtFl8jxhtf5V5pFbdiuYrVJ61p8UT0cgADbPBOzjGMmMg==;BiBmMHuqhkiCcNCJxBeCZA=="
 ---
