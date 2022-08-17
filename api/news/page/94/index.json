@@ -2,6 +2,104 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
+      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
+      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "publishedDateTime": "2022-06-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-precision-healthcare-ai-tools-eyed-by-investors.md",
+      "title": "Precision healthcare AI tools eyed by investors",
+      "excerpt": "AI and ML promise to transform healthcare across the board, but particularly through the use of precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1216142687-e1654121302980.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/precision-healthcare-ai-tools-eyed-by-investors/amp/",
+      "publishedDateTime": "2022-06-02T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies.md",
       "title": "Guardforce AI announces further expansion into China with acquisition of additional 12 robotics companies",
       "excerpt": "The deal, valued at US$12 million, follows the company's previously announced definitive agreement to acquire seven robotics companies in China",
@@ -1025,92 +1123,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-snowflake-vs-databricks-data-platform-comparison-2022.md",
-      "title": "Snowflake vs. Databricks: Data Platform Comparison 2022",
-      "excerpt": "The comparison between data platforms Snowflake and Databricks is crucial for today’s business, because data analytics and data management are now deeply essential to businesses",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023.md",
-      "title": "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023",
-      "excerpt": "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
-      "originalUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

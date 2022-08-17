@@ -26,6 +26,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Don't rely on AI – Transcription Puppy is the trusted way to have files transcribed in just 24 hours"
+    excerpt: "This full-scale transcription service offers quick and accurate results at an affordable rate. Transcription Puppy is the fast, accurate, and affordable way to have digital audio and video files transcribed."
+    publishedDateTime: 2022-08-15T12:07:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28492283/dont-rely-on-ai-transcription-puppy-is-the-trusted-way-to-have-files-transcribed-in-just-24-hours"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+
 secured: "EvDNQVpCsZmzEGrJAkUh1ijMibAFqCBV5E3H6HXvbJLChaOGHsKtjKjsNsgiARMFdB+gNORLqovAOcTuROzQZpm5c/eBi2wcCAVBpWljPKWb8n/GbbysBoLcPKQBO9XvN84XTostUU0L/FPbaD5QJvfRey7xKidma8ysyNVwOTPDnfOUDY7svfFlAGWJ+Ofl3FhqZuiI5XmalZDb427N9h6E0IhmswSLNseTMre9eHTrwVLbqusq5JvRdWmxEF4hkpb7QhMc3ei+sxrWptDSxv1cbC8IvTVs6Z9iq2HjNj0EjbJX/aAZM/SOtBlYXfj6o14iig0VwNtWPOhDhHqXmm+URvJ9p03r8KkiTUIsvncrmjfcIsjakR4ruosQrsKEbXBAbhSnm1MzvfOW95NG7CpSqs/GSKnMlk0appaFHT9BJKNwU4zkUZgq+z5rv1hPBjhA5dm1pJ0MGxIba48r2fZs3apIjLU1DXq4ryluEH37K//mjFhxqrh18AEO5UqeGNsbxKPDbfjXiOG3mi8new==;lG7tgRYkQ4t+JJ461J41yw=="
 ---
 

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels.md",
+      "title": "Announcing the launch of the model copy feature for Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/16/model-copy-feature.jpg",
+          "width": 1329,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T15:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months.md",
       "title": "DigiYatra face recognition system to be used at Hyderabad airport for 3 months",
       "excerpt": "From August 18, passengers at the GMR Hyderabad International Airport will be automatically processed based on the facial recognition system at select checkpoints",
@@ -1332,49 +1385,6 @@
       "provider": {
         "name": "New Statesman",
         "domain": "newstatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-explained-how-myanmars-junta-is-using-chinese-facial-recognition-technology.md",
-      "title": "Explained: How Myanmar’s junta is using Chinese facial recognition technology",
-      "excerpt": "Rights groups warn high-tech surveillance systems will be used to track down and eliminate the junta's opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
-      "originalUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/07/eye-story-faceoff-759-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/explained-sci-tech/explained-myanmars-junta-using-chinese-facial-recognition-technology-8057742/lite/",
-      "publishedDateTime": "2022-07-29T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

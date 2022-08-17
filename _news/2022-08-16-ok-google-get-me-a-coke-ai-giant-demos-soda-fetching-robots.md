@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-16T13:10:00Z
 originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
 webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
 type: article
-quality: 84
-heat: 94
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
@@ -46,6 +47,6 @@ related:
         height: 1015
         isCached: true
 
-secured: "dSyqJfej7xeUcA4eFGTgca+hG3iAx3408OqXmdnUj8x1OkE7u/ZzP5KzEmWGliwyBSPWeKLCSAMlrr+Z5DcUXhP8K1V3YBlb1q2VnqOQuyCHFXBs/RwtwjMXcix2dXxpn1gMPUSp50WqbcgBh0HcobVo8hsG1KCWDeS9aLK27Ppgp3ol5JCeLE/f9wC1NTlenWueSTLfa0W+Ny88dupQD+djWDl11ZwDZEd9Yr+TIUfryB486FkBw+ztl5/xCmxUsYZWqehSZKNcGqm8jHMa0ni8vSA96Wupa5sBjuNYIZHkHEE/grqoTCnE1e+wtYdcbXsA5oaK59vw8G1f0Jrek5Er48VOTjuvO1btetWiKOQ=;ulhS/jVxZtWSZvB8kXW5qg=="
+secured: "9cmMD7+WKlyDhE3UXvMAcOz+R/s/ZLJZk5rFSRkzEkXJU9FuELf7sPOfweMkzmO+o+/uMGyjITTu1C4oAr1WZh6f+A2/FjSIQ4rA3Aq/3HfBPDu4e+fiHKN8Z/C6J5dPtSMh+cUErpzZlxEGXyZqp85G1z5yM2zheKD03eyNqqbtn3ocHSENrsytIHwMaVkPAAHYmkMEEsgUh8YW+DCcvBnrlBA7BvkFXwkyzcLOAvG51Zqf1OSPLU5yce9MURmxgzrXF2J2/WGBWF9gaN6CuK7xASF9K9IjCf8pJ1CO7YByo0fBfR81WkUUyMGNoDH7RIT06HGwlcP6U60hEPHJYabGHwDGcmRjyTiMggh1a9Xk69M9Oad1Y5GqpZTzB5mHxArZNgahiLT+R3DJBaXt0ptrjxLYNwz6xBFfdLURd6TivylA89x5049rsSRcHW4cM5L9BDOCXD9PXjkxe6rRjmG6b0fR84HHa8LzMaTUem/aLoORlVRRHxon8WB/BotTJBjvVtpAwIqneh8ctbOQVg==;sY2AlnM0SF0DzyNYOig2cA=="
 ---
 

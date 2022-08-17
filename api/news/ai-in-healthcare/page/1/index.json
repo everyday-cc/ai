@@ -6,8 +6,8 @@
       "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
       "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
       "sourceUrl": null,
-      "webUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "originalUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "webUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "originalUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
       "featuredContent": null,
       "highlight": null,
       "heat": 73,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
       "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "publishedDateTime": "2022-08-16T13:32:00-07:00",
+      "publishedDateTime": "2022-08-16T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CTV News",
@@ -96,7 +96,7 @@
       "originalUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -554,50 +554,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months.md",
-      "title": "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months",
-      "excerpt": "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "originalUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     },
     {
@@ -1354,6 +1310,40 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
+      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
+      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
         "images": null,
         "publishers": null,
         "authors": null

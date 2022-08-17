@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
 type: article
 quality: 118
-heat: 258
+heat: 238
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/12/hyundai-AAM-plans.jpg?fit=1200%2C822&#038;ssl=1"
         width: 1200
         height: 822
-        isCached: true
-  - title: "Hyundai to set up Robot AI research institute in US"
-    excerpt: "By Kim Hyun-bin Hyundai Motor Group announced Friday the launch of the Boston Dynamics AI Institute with the goal of making fundamental advances in artificial intelligence (AI), r"
-    publishedDateTime: 2022-08-12T06:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/419_334341.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334341"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202208/8f13e438b9c24feeada18fa7f57f15bf.jpg"
-        width: 640
-        height: 460
         isCached: true
   - title: "Hyundai launches $400-million Boston Dynamics AI institute"
     excerpt: "The Hyundai Motor Group bought a controlling share in Boston Dynamics for US$800 million back in 2020, impressed by the potential of its array of world-leading humanoid, quadrupedal and other robots."
@@ -104,20 +88,6 @@ related:
       - url: "https://finbold.com/app/uploads/2022/08/Hyundai-launches-Boston-Dynamics-AI-Institute-to-bolster-advancements-in-AI-and-Robotics.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-    publishedDateTime: 2022-08-12T09:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 61
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Hyundai to spend $424 mn to build AI research centre in US"
     excerpt: "As a component of the arrangement, Hyundai said it has as of late gained 42dot, a Seoul-based independent driving programming and portability stage startup, for 274.6 billion won ($211.1 million)."

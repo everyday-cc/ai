@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
+      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
+      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-worlds-largest-metaverse-nobody-is-talking-about.md",
+      "title": "World’s Largest Metaverse nobody is talking about",
+      "excerpt": "Blue Shark’, ‘Project Avengers’ and ‘AI Dogfighting’, which sound like titles of Marvel movies, are some of the billion-dollar metaverse projects of the US army. The metaverse project of the US army is believed to be much bigger than Meta’s metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "originalUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/military-robots.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
       "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
       "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
@@ -222,22 +317,31 @@
       "title": "FedEx to expand robotics technology, artificial intelligence",
       "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
       "sourceUrl": null,
-      "webUrl": "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
-      "originalUrl": "https://www.wltx.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
       "publishedDateTime": "2022-08-03T16:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WLTX19",
-        "domain": "wltx.com",
+        "name": "Local 24 News",
+        "domain": "localmemphis.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1044,91 +1148,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
-      "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
-      "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
-      "originalUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eaae20a4b525b4d6b80b31/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
-      "publishedDateTime": "2022-08-03T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-mparticle-acquires-ai-startup-vidora.md",
-      "title": "mParticle Acquires AI Startup Vidora",
-      "excerpt": "NEW YORK, Aug. 3, 2022 -- mParticle, a leader in customer data infrastructure, announced today that it has acquired Vidora, an AI personalization platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
-      "originalUrl": "https://www.datanami.com/this-just-in/mparticle-acquires-ai-startup-vidora/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

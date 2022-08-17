@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
+      "title": "Veritone creates AI-driven revenue opportunities on AWS",
+      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
+      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
+          "width": 1000,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligentcio.com",
+        "domain": "intelligentcio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
+      "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
+      "originalUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
+          "width": 1024,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
+      "publishedDateTime": "2022-08-08T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-two-chinese-cities-approve-baidus-unmanned-self-driving-taxis.md",
       "title": "Two Chinese Cities Approve Baidu’s Unmanned Self-Driving Taxis",
       "excerpt": "China, seeking to catch up to the U.S. in autonomous driving cars, has been increasingly active in setting up regulations that allow such vehicles on public roads.",
@@ -1059,93 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
-      "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
-      "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb201aacab3c921fb6862c/0x0.jpg?format=jpg&crop=3442,2294,x1155,y170,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
-      "publishedDateTime": "2022-08-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-mischief-models-have-the-potential-to-make-a-fresh-internet-hell.md",
-      "title": "AI ‘Mischief Models’ Have the Potential To Make a Fresh Internet Hell",
-      "excerpt": "A YouTuber in the AI community trained an AI language model called “GPT-4chan” to give misogynistic responses to questions. This suggests that many people will be able to use and expand on this AI that espouses hate speech – and that got the attention of the AI ethics community.",
-      "sourceUrl": null,
-      "webUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "originalUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-06T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Wire",
-        "domain": "thewire.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

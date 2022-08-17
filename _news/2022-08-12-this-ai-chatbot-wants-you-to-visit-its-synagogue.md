@@ -7,7 +7,7 @@ originalUrl: "https://www.israelnationalnews.com/news/358077"
 webUrl: "https://www.israelnationalnews.com/news/358077"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,68 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg"
-    excerpt: "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3."
-    publishedDateTime: 2022-08-12T05:30:00Z
-    webUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868"
-    ampWebUrl: "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1"
+  - title: "Kore.ai announces pay-as-you-go pricing for low-code AI chatbot development"
+    excerpt: "Startup Kore.AI Inc. said today it’s making its “low code” conversational artificial intelligence tools available on a pay-as-you-go basis, expanding their availability to smaller businesses. Backed by Nvidia Corp."
+    publishedDateTime: 2022-08-16T12:00:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/kore-ai-announces-pay-go-pricing-low-code-ai-chatbot-development/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://i.ndtvimg.com/i/2018-04/mark-zuckerberg-reuters_650x400_71522815002.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Meta's AI chatbot turns on boss calling Mark Zuckerberg 'creepy and manipulative'"
-    excerpt: "After a number of journalists tested out the new feature, the replies were a little surprising when it was asked questions about Mark Zuckerberg"
-    publishedDateTime: 2022-08-12T05:28:00Z
-    webUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493"
-    ampWebUrl: "https://www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/us-news/metas-ai-chatbot-turns-boss-27721493.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 52
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article26125971.ece/ALTERNATES/s1200/0_GettyImages-961785536.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
-    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
-    publishedDateTime: 2022-08-14T11:21:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 36
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
-    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
-    publishedDateTime: 2022-08-15T20:35:00Z
-    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
-    type: article
-    provider:
-      name: thedeepdive
-      domain: thedeepdive.ca
-    quality: 32
-    images:
-      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "+rM63lJD/7pRxvgV0MGUbgAWLg0SH4d62EhvMvzrEZyuzuL/rzZWV1A67dI+xbcEqsgQyDOteRt9dRrsSao+3DBMd+IpW2pRi04Z46UjFvqBAoWwCT2Pbz9OooaLELbqtSUdtufwnuB5Q4nA/aLBehK4oqodwpo1KrKb4Lz/HVx0yXDMODnle57ticMcZcYFDvYZ5qPtLdh72kv8b1rT2c1j01ZLig1gTa7gqJKdeki5T0Up2R5kOUSoiXDHNU4qJFYZ1uJ4bhKKkw6dOitiOWllivP2W21KeEOE8SRSFGeVzdFd1MyiSJ4bioOCQl1DRljWnQ1vyHMV0KkcOjupSAYGdCrX5yVSuTiYixvvsbu12bGPhCOn4hGcwerUPBu9Ju8B0vhQYlOkeZTyLce8rz0zB3Xw76WaS1Ju5BLDTgv7J27HcaoOfcpmFD7KVhJRFPQMR8g05bKqGJSUuZoSRqGWjra2wBjbIS9GRFPb7/ZQR6iBV+Eyw081sx3xPJKxJbVsuGyWJviJWtOI9Bxi8w==;PfYFpdd+H7JFT8nYre3p3A=="
 ---

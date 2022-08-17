@@ -19,34 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Food Robotics Market 2022-2027: Report, Size, Industry Share, Growth, Trends and Forecast"
-    excerpt: "According to IMARC Group latest report titled \" Food Robotics Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-08-12T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/food-robotics-market-2022-2027-report-size-industry-share-growth-trends-and-forecast-2022-08-12"
+  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2022-08-12T15:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Facial Recognition Market Report, Size, Industry Share, Growth, Trends and Forecast 2022-2027"
-    excerpt: "According to IMARC Group latest report titled \" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", offers a comprehensive analysis of the industry,"
-    publishedDateTime: 2022-08-12T06:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-report-size-industry-share-growth-trends-and-forecast-2022-2027-2022-08-12"
+  - title: "The Global Speech & Voice Recognition Market..."
+    excerpt: "Market Segmentation & Coverage: This research report categorizes the Speech & Voice Recognition to forecast the revenues and analyze the trends in each of the following sub-markets: Based on ..."
+    publishedDateTime: 2022-08-12T10:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28470258/the-global-speech-voice-recognition-market-grew-usd-10-926-66-million-by-2027-at-a-cagr-of-18-32"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28470258"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28470258"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+        width: 300
+        height: 250
         isCached: true
+  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
+    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
+    publishedDateTime: 2022-08-12T17:27:00Z
+    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
+        width: 531
+        height: 250
+        isCached: true
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
   - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
     excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-08-16T16:16:00Z
@@ -56,20 +83,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 1
-  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
-    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
-    publishedDateTime: 2022-08-16T06:03:00Z
-    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
-        width: 408
-        height: 250
-        isCached: true
 
 secured: "AZQX4N9sOsP/sB8mFjVTbB/2YJ2O5Gj43OUbHvgbJlD1jzN55KEKuByCQW7lPwwWPogkqfwfpxJJdDfWWzHE88u5Pa7W6IBqfrD3awzN3IcP83necMXGnSi32juJNiK7YItqUq/ujfuTTkiiytoPmKE4DS/6/L0MjKZaS0F6Mpm53RsFZI2ZNzso2Tq+nMS9USGtArR5P4O3hyQ0fmjotnJFQWlXewfPMfpdrWOP+fvbbbDAQPZVnxnx8mHNk+SK2FqBdakTow3pJFeQl59VoAXD7n3rHSfA7d+DcVzB4dwKoDZfO8J+gBoGx3rl8vh7OtDUKC3bbtnPCiTDzdjpHDXe2lvNWdQD3PmgGmaWg7g=;QIcKW4yB3RvYfcvRF6uJmA=="
 ---

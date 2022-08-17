@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
+    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
+    publishedDateTime: 2022-08-16T06:03:00Z
+    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
+        width: 408
+        height: 250
+        isCached: true
+
 secured: "uWMncNDs+8qMN1HuBzC+yZLc/8y7qAYAz3iphzep+k4RGGQa8+sozw7W+kaCnh5C6IhqTGl2eFf+aSEJ/8vrGZv7raCI/jF0fBpE/SW/UxqaMF5ECeMrdCkrjBPonB+07fNu5ztFx83xyqJnuSBnH+JZLSKZ4AQvCJpP+cNVP1ird/fVjvjARvINnv0uFLOez3hjVp640lcSUL85q91kjYrRElbJ05T2kcltTC7mAcam6/1ZGvhtnMn/QLveIab4440REnXdPgo7nLOxPlADm+DW3lOcvQXBKOJ4xyeCtC9CDjBk1vT6uLmfjqve/JBl1OAjzQOsD5hoylBL5caQLr/O0UeK0HyhnLPWMfLsYKA=;OhkqtWmTpbjJG/hDCm57tA=="
 ---
 

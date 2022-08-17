@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2022-05-26-baidu-beats-revenue-estimates-helped-by-ai-cloud-services.md",
-      "title": "Baidu beats revenue estimates helped by AI, cloud services",
-      "excerpt": "Last month Baidu received permits to deploy robotaxis without humans in the driving seat on open Chinese roads for the first time. read more Apollo Go, Baidu's robotaxi service, currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-26-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
       "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets.",
       "excerpt": "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ...",
@@ -1355,6 +1303,49 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin.md",
+      "title": "Pittsburgh-based Argo AI touts driverless operations in Miami and Austin",
+      "excerpt": "Pittsburgh-based Argo AI has pulled drivers from its autonomous cars in Miami and Austin, though it is still in the testing phase. Its commercial partnerships with Walmart and Lyft still have backup drivers in both cities. General Motors and its autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin",
+      "originalUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/0a92cfb/2147483647/strip/true/crop/3924x2207+0+256/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7f%2F01%2F5a5ea67e44c1bc2325802ac4ad61%2Fap10040103787.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true",
+      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/pittsburgh-based-argo-ai-touts-driverless-operations-in-miami-and-austin?_amp=true",
+      "publishedDateTime": "2022-05-17T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WCPO Cincinnati",
+        "domain": "wcpo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

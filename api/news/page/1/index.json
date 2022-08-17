@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-16-announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels.md",
+      "title": "Announcing the launch of the model copy feature for Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/16/model-copy-feature.jpg",
+          "width": 1329,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T15:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
+      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
+      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
+      "sourceUrl": null,
+      "webUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "originalUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "publishedDateTime": "2022-08-16T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-cloud-based-medical-imaging-reconstruction-using-deep-neural-networks.md",
       "title": "Cloud-based medical imaging reconstruction using deep neural networks",
       "excerpt": "Medical imaging techniques like computed tomography (CT), magnetic resonance imaging (MRI), medical x-ray imaging, ultrasound imaging, and others are commonly used by doctors for various reasons. Some examples include detecting changes in the appearance of organs, tissues, and vessels, and detecting",
@@ -51,49 +147,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
-      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
-      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
-      "sourceUrl": null,
-      "webUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "originalUrl": "https://saskatoon.ctvnews.ca/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "publishedDateTime": "2022-08-16T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -157,7 +210,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -197,7 +250,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -418,7 +472,7 @@
       "originalUrl": "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -458,7 +512,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1201,57 +1256,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-tiktok-adds-an-ai-image-generator-but-its-no-dall-e.md",
-      "title": "TikTok adds an AI image generator, but it's no DALL-E",
-      "excerpt": "You don't need to fire up DALL-E if you want AI to create images from text — you just need a popular social media app. The Verge notes TikTok has introduced a rudimentary \"AI greenscreen\" effect in its Android and iOS apps that turns your text descriptions into artwork.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
-      "originalUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
-      "publishedDateTime": "2022-08-15T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

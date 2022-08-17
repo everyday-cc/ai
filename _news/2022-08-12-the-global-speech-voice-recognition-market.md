@@ -66,6 +66,24 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-08-16T16:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
+    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
+    publishedDateTime: 2022-08-15T14:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "o14TLJ9hA9EVP5u3HpDWN5wcJ2SDWN3I+yJwOuG7ZJ5GFtLO4rZBmKSM1sXFC6KROlsSJrB0cn9zYPrRD+Rhjy3b3P03YtQeM+1BxOZU9sOiB8l8Fu/PCOqTPq8aY3z6DvXu0Htil737Y5DtGhBMdr5/zdDeFcs+iHZIlkoQDzvZLKq3y0zFaqqMxXSNBVv/haxksoE0BVzNxuv3AlpXUN0NsRAmTnNYXO+IIJk/Hv4xjxJbDvU0MgqjWfZUnLTa/la8qTiAldD2MIOc9hIj+IdmSa21nLuiUOsT45CSeByyOSKQGkZhhgU6L3Ea72/EJivVYFoYjK21fD9QHp+DjxYea4Xkcp47pLxdRaVEERs=;WcPb1NEAjNoFtQ8T1Vfo0g=="
 ---

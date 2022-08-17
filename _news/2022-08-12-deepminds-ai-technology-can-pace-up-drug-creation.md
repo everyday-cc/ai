@@ -27,7 +27,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54"
         width: 1280

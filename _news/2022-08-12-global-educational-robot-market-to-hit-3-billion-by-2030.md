@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -66,6 +66,24 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-08-16T16:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
+    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
+    publishedDateTime: 2022-08-15T14:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "uACtoc/bvM7dHHh9BoHnQbxq1AKX5niPlD3sZSzEcEMLphfgxloPcaSAEDezEjB6oYiEqq1Mgk7plJqaHULN9SPnliqjFcdvThgOIjqwyBAucfOpo0J+wPfJBXVMrcjvYusflsZ00JLc7nIGOIq7lNxanyFqjZCdEjDlRVRyCqOaVZNhc0PRpnDhVz0NCZzsuLoQ4BiAhwwytRXa3piTP2sW4CroV4p11h0X4vAiZLxoe01vz283Lnvr2j5mO+QX4EKD0Z/AwmSTpCGkbPrItz6O/9wzJSJwAqRM+IojQvAbTA6UkJHXKXorQuhOOgWcRBMf28KeYw60+PX5ONaNDhk9Pem/aqdbRiUqOOYn0ew=;N1v10/x/Tod7A8Nv9zE9XA=="
 ---

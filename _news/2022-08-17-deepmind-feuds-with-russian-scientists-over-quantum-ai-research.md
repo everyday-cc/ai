@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-16T19:39:00Z
 originalUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research"
 webUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research"
 type: article
-quality: 84
-heat: 104
+quality: 86
+heat: 106
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54"
@@ -48,6 +49,6 @@ related:
       domain: phys.org
     quality: 25
 
-secured: "1m03WkYN/81Kojl5eHWpiQRuTQWo5Pk8fP0gQAIsENinrW9WthLWicwN+pzgMCKJFAKNNzw6EGRiCuMHNiOJx/7rZmY7THX4akQ4B0QTE5uyioqRmhZqHvwGjLuEHll6Ap+mpdCohIVOq8KSyRyijf4m5KU2sWhr8f3C+/2wn5Hjckmve8zXXVnmJmgNb4zCpBtQMjOWTlI5VNle07NmteKJVOGvC61tgURa+haLtr4R4kvdd+XC9wXCQZpyZH4AjN9uOmwvG2BYZB76JiYuUQNEl0cPRKw7KXIL+NKH4AauWUykWuY3XwUowxyf6m/4o7Mnz0hk53e3E7LEbLkprEao7S2PTIgQRP7swG8vltQ=;mTCoRwWaXEUuNsyYlb+kWw=="
+secured: "lLF62u2J70SgzTkPks6J4nrYwSlOp+EU5zzvr8bdg6jNRmDUOmYpvUD1fDSfofxSLIWIWEB6E+tKSUaBzIZ/0/vS9pXAuTrYtx57Gp+Pxy5IeJx79bYovumb52ES5utwZgkIunmGBnR1efyPHea60p8c4Fmkh1zZQOblFl4yCCJmXpMUKi5My8jDN7XOSPhMEsWKqIsz86I0SNDOwwSkw13CCYoJIfns8vplQJZCsvpwBNWBeHR72aWeTlhuR8jHlVRHRCkQhRbQ/T0Uevi3O7qJ8Vl1DzcuS9xzR9EB8QJeDy5wZYob/5EwIz/zCxMsf+3TbI4S57w7owu38qIArmRJlkJhZYGbP5Hz/oUbKjDaoCGQN2XUQREe84P85iSLSByqjCMXVnHqUbrgGlfF9fu6mif21rZayySR5kb3wmbcdv6pjPY5DYbg4PVGt+tnSYCKAS1K1SHK1Md5CY1CUGvfoxFi5a64DV5bQvNZocCrLnX5/2VqrnHCq96JygTudSOHEvmP16kl5W0XS9kCVQ==;YweiBz6xxmD44alqaO6kaA=="
 ---
 

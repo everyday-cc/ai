@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
+      "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
+      "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb201aacab3c921fb6862c/0x0.jpg?format=jpg&crop=3442,2294,x1155,y170,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/08/06/ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient/amp/",
+      "publishedDateTime": "2022-08-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-ai-mischief-models-have-the-potential-to-make-a-fresh-internet-hell.md",
+      "title": "AI ‘Mischief Models’ Have the Potential To Make a Fresh Internet Hell",
+      "excerpt": "A YouTuber in the AI community trained an AI language model called “GPT-4chan” to give misogynistic responses to questions. This suggests that many people will be able to use and expand on this AI that espouses hate speech – and that got the attention of the AI ethics community.",
+      "sourceUrl": null,
+      "webUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
+      "originalUrl": "https://science.thewire.in/the-sciences/ai-mischief-models-internet-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-06T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Wire",
+        "domain": "thewire.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
       "title": "AI is not sentient. Why do people say it is?",
       "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
@@ -1043,91 +1130,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-mit-creates-artificial-neuron-1-million-times-faster-than-in-human-brain.md",
-      "title": "MIT creates artificial neuron 1 million times faster than in human brain",
-      "excerpt": "The increase in potential processing speed, researcher Murat Onen said, is not comparable to a \"faster car\", but to a “spacecraft.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.brusselstimes.com/business/267524/mit-creates-artificial-neuron-1-million-times-faster-than-in-human-brain",
-      "originalUrl": "https://www.brusselstimes.com/business/267524/mit-creates-artificial-neuron-1-million-times-faster-than-in-human-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Brussels Times",
-        "domain": "brusselstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.md",
-      "title": "Some cloud-based AI systems are returning to on-premises data centers",
-      "excerpt": "AI/ML model training and knowledge-based storage and processing are more costly on a cloud than many thought, and prices for compute and storage equipment have fallen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html",
-      "originalUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/10/cloud_computing_by_rawpixel_cc0_via_pexels_3x2-100740699-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3669313/some-cloud-based-ai-systems-are-returning-to-on-premises-data-centers.amp.html",
-      "publishedDateTime": "2022-08-05T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
