@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-17-four-companies-leading-the-rise-of-artificial-intelligence-big-data.md",
+      "title": "Four Companies Leading The Rise Of Artificial Intelligence & Big Data",
+      "excerpt": "Recent technological advancements in artificial intelligence (AI) have companies diversifying their revenue streams across the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/22/08/28533522/four-companies-leading-the-rise-of-artificial-intelligence-big-data",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/22/08/28533522/four-companies-leading-the-rise-of-artificial-intelligence-big-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/08/17/shutterstock_1663029574.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28533522",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28533522",
+      "publishedDateTime": "2022-08-17T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
       "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
       "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
@@ -74,49 +118,6 @@
       "provider": {
         "name": "Politico",
         "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-these-ai-generated-takes-on-classic-movie-posters-are-out-of-the-box.md",
-      "title": "These AI-Generated Takes on Classic Movie Posters Are Out of the Box",
-      "excerpt": "In a project called ROBOMOJI, artist Vincenzi has been using artificial intelligence (AI) to reimagine movie posters of classic cinematic masterpieces to explore AI’s relationship to art and culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482",
-      "originalUrl": "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fnews-culture%2F2022-08%2Fshutterstock_dvds",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1",
-      "cdnAmpWebUrl": "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1",
-      "publishedDateTime": "2022-08-15T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Apartment Therapy",
-        "domain": "apartmenttherapy.com",
         "images": null,
         "publishers": null,
         "authors": null

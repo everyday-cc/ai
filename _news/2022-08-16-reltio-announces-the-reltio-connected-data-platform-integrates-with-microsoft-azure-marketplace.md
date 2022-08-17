@@ -53,6 +53,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database"
+    excerpt: "Datadog, Inc., the monitoring and security platform for cloud applications, has announced expanded monitoring for Microsoft SQL"
+    publishedDateTime: 2022-08-17T16:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
 
 secured: "jtdBz2RLImnFTlX0uWvGDOg3IelMRjRhTh6jVUv3cS+TtLD6yF9gWSaaYxM8fKjWfhmfjdvydng1LktVbJnY89wD8DJ3CzctYkwRG3eau3QPGZ63YavIkF3yko0hXTycU3x/WvVRiuMQtbplr0/0/kbWBItiunCjJChI4La2gtNPkvPa8StPnEGvUutv+x/Oqaocjppp56zEeiED2TMqv+FSkZHcASKihkQmnnheKo5pUzgwqBuWtaqBMCfpVq7LVPU9lh6b/5d4iuMsSlvbIgAabsp9kd2pmVbg0w7INaopRJ+Gha3DfvKMMZCa7yWnDIruZAA3vd9w08Eif6MYke7AnuA6A1p9jOA7fasiqPA=;ta4X75NxRbSBuzvmk18Klg=="
 ---

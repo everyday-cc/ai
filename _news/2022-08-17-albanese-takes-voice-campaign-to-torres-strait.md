@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/albanese-takes-voice-campaign
 webUrl: "https://www.afr.com/politics/federal/albanese-takes-voice-campaign-to-torres-strait-20220817-p5bahe"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "PM trip to Torres Strait for voice talks"
+    excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
+    publishedDateTime: 2022-08-17T17:39:00Z
+    webUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683"
+    ampWebUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 59
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-7918683/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Torres Strait talking: strong Indigenous voice, less red tape"
     excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."
     publishedDateTime: 2022-08-17T09:25:00Z

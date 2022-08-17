@@ -3,20 +3,28 @@ category: news
 title: "How California could force Tesla to drop the name ‘full self-driving’"
 excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
 publishedDateTime: 2022-08-15T18:27:00Z
-originalUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
-webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+originalUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+webUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+ampWebUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Silicon Valley
+  domain: siliconvalley.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.siliconvalley.com/wp-content/uploads/2022/08/hypatia-h_c85b2ae6a8935fd9695ed8b635234df8-h_a442bbd62830e856012cf8eea7d9277c.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary"
@@ -91,6 +99,6 @@ related:
         height: 240
         isCached: true
 
-secured: "StLoFHMAkzdreAy6fiTcvdrITyncMG0CzJaX0dPzxbeO4N0tdfxVmlmdNL6d23tleQ1gEwUlzbFyHt37WhVuzosY3WBZIHLU6GTGlIAAWQOkSGsBLAunonEmtaP8u8sdi4dA8yOz6hRZsuzDg0cjfQtygVZMtL9DSHqXIKaD0UuR+F8OpsLvJlgrwkKGuizgP/Gt82dGpGHDpA5HjOFDa4CETNgQNS1Riro2NkTGzjAaGDj8qRSXTkAvcbc76L/tE8CSqtDjliCAYZmapGAeTuxw6HCYUvzMR9LQk9ki3TUQAlivflAoOUoUyB2NRfVxtDFLOA3fqD0RWdtN5yTyflefE0DaNhXqpomuYEFwoEQ4wbakdxYQ/ocC4dgU913BxPL8ylgnr2at5NgCv0npYB9K/OvI1gCWBEgGTkLSkPsKUle0hNRs4zlqRIKPPqV3mGMatJM+jkm+i9uDuK2EACIGPlaIec7dg67KpACHUJvfKYlGj2K22McsfrHsv5Z5otTpRW009+Kml27HVwFFmA==;5fkfQjvSvDbY397nVdsSKA=="
+secured: "o+A1nL61yC8nziPRS51RMOQVkbVYKSibB7KU/yvItoQOxbgX73fVONlGaEjdLjg8+zwM9sKIsJnOc4A4egCQorr9XmVWyxRU/1WGokJKZDgsCyCxirS9FerXaLVSJ1zZn0SKuMJt9x4c7FfOna90m9YlzDSFUbgkS3r1ncnP4KAGVlP+YQYBqMo0689aM5jbtdkCRYmJTkQP+GwZFyLy/rNESuvndoR7EzBOevoOAFIsnkAMgkS9p9rByHUGPqnxc8GjPwNV8B0+KwY/LrhTfiThP12gTe8demL4uAb3+WjhrYy2IUgSayShZabzfNaln+lv4myN5Xc968zMZnX7M7mjGjqwhtU5DWEhJsWqf/A=;cYKGCCiDYtgU8+MXhTHfUQ=="
 ---
 

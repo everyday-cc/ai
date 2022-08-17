@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end"
+    excerpt: "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the"
+    publishedDateTime: 2022-08-17T16:49:00Z
+    webUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/"
+    ampWebUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 71
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-robot.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk provides information on Tesla’s humanoid robot"
     excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."

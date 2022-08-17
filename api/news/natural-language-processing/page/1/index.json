@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-18-pm-trip-to-torres-strait-for-voice-talks.md",
+      "title": "PM trip to Torres Strait for voice talks",
+      "excerpt": "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683",
+      "originalUrl": "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.perthnow.com.au/publication/C-7918683/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp",
+      "cdnAmpWebUrl": "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp",
+      "publishedDateTime": "2022-08-17T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Perth Now",
+        "domain": "perthnow.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-fox-news-cuts-liz-cheney-speech-before-these-jan-6-fbi-raid-remarks.md",
       "title": "Fox News Cuts Liz Cheney Speech Before These Jan. 6 FBI Raid Remarks",
       "excerpt": "Towards the end of Cheney's speech, she warned against believing Trump's \"insidious lies\" about the recent FBI raid on his Mar-a-Lago home.",
@@ -1445,58 +1488,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
-      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
-      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

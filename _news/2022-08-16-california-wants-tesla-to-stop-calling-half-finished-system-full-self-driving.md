@@ -68,6 +68,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "How California could force Tesla to drop the name ‘full self-driving’"
+    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
+    publishedDateTime: 2022-08-15T18:27:00Z
+    webUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+    ampWebUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Silicon Valley
+      domain: siliconvalley.com
+    quality: 59
+    images:
+      - url: "https://www.siliconvalley.com/wp-content/uploads/2022/08/hypatia-h_c85b2ae6a8935fd9695ed8b635234df8-h_a442bbd62830e856012cf8eea7d9277c.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Activists turn on Tesla over “self-driving” claim"
     excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
     publishedDateTime: 2022-08-13T10:30:00Z
@@ -82,15 +98,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "How California could force Tesla to drop the name ‘full self-driving’"
-    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
-    publishedDateTime: 2022-08-15T18:27:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
 
 secured: "znOykngaAK99LRpNsC2JQW6auYWQi8GduDieejNRnWsqiqhn5XUn3oQYxuGI5YW5cslbjobbdlKfBo56c64tpFYZ28LTEs/MnqBK0B/3qvF96A6CPTrtL1yAv15aHHyAzQYAHYgbJJMmu0JyryNgYbmq+HXbJVopEeCDXxezBMSQuji2HMrgCMjDb52QdHZa+X+X9NdRcmGV3Bnad3FnpmPAqkpF2MbiXShOf39BTHgfYeDxv9jGb5P0PbCqNa9aefZ3Sn0pGI5gcC1pO4WPajtFXkQXOe6DDCLdkInlk6Qi3PkBi6cPx48RdznGPdNzUUJYu7hIkWZ02BPoznPEQkBxg9dtKFkqsvCz7bNPxds=;mSanpqZxtD8IXYyE9fJMCA=="
 ---

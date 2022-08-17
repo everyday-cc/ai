@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-15T07:04:00Z
 originalUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
 webUrl: "https://semiengineering.com/ai-power-consumption-exploding/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"

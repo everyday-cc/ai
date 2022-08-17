@@ -9,8 +9,8 @@ ampWebUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482
 cdnAmpWebUrl: "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Apartment Therapy
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These Are the Degrees of the Future"
-    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
-    publishedDateTime: 2022-08-13T00:39:00Z
-    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
-    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
   - title: "These AI-generated Overwatch fusions are beautiful and terrifying"
     excerpt: "Harrison started by feeding the AI simple instructions like \"make a fusion portrait of Mercy from Overwatch and Junkrat from Overwatch\" and in some cases took more direct control over artistic influences with tags like 4K,"
     publishedDateTime: 2022-08-17T00:07:00Z

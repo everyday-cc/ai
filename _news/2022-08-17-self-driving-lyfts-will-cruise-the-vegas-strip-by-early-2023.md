@@ -41,7 +41,16 @@ related:
         width: 917
         height: 600
         isCached: true
+  - title: "BMW denies ‘self-driving’ electric car caused deadly traffic pileup"
+    excerpt: "BMW is denying a claim by German law enforcement officials that one of its self-driving electric vehicles was autonomous at the time that it veered into opposing traffic and caused a four-car"
+    publishedDateTime: 2022-08-17T12:58:00Z
+    webUrl: "https://nypost.com/2022/08/17/bmw-denies-self-driving-electric-car-caused-fatal-traffic-pileup/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 4
 
-secured: "qK6/IVTpsGjr/OUkcamdpRsOZs01NJDi+Z1oIUE05OsSOpGBsYCfsHNod2WM4gmL1E15fqbJHgzHC87T+5x+iYpqxXUyBPFnqFA6fhv/VoBp10xwoONl/wbe3oQXzpKhwtg4QYSaXrCpiKQVz7wI0GC6KwZ+FQMpSm0n3h6XWCTyARSGJR8LznOoRCeq68SM49V6VJPnBdKqDBDog0APt0HUFxqs3aWuNzcjtobR3IocMTAQsB00aNQ5AUYqiTi6embUTv49AyjmswnfW70ZFztS7UPu/A11NxSszI27cGZDeEntILugoHcaR3n/KZ3dzcOAURkSx20Iz2gOA8vBj5Wr78bj+Dg4jeR3O2DVW28=;ZzMLO8arMdXafrezq4uCfg=="
+secured: "ihkHozFx870rv1iWX2Cly6E7YM97GwMS8RxvKPiQmokhT7iIPSm2uuZiuxhu9MIngsV7E8oebNisqd+SH64KMD15RBoxQL9ilpjhRvOm52mFi4KZ7ZZWSe6YhaJV/P1KHDY/kMk84G2kGp7e1Wfj1G26xNsSCS70YoZp7MhIw3PWEmhouiUUL4xXIcUxITot24F08PdItXSq8wjxppbjyIFzjawbYvj/CjR0QK1KUCtAAHtbps439CQdOZ6N8TlKXHt9Niv4hwvmObg9+JMCaEuVzLdLP/xnUt2xT9NB5zgB0wYqkcKt47vtrDa1nLUPD8c0E7G8kCIBTY78yYlv8A8q8yEc104xNO+8YuEbxTzagVvNJIFEIpLsGV4JeoTJvcpHhbKCHQR2M3UM3ZWlnQNF9hNfN3bQq6rWIH1uyx6UKBb6S3Yvxm2fY8d1rYI0IsLstlVUaVWc6jpRyIRqoxggBaFNd0WWzRyqqnFc2A4lNy2gTsj4fhT0sa5LevQDzDVbE+FH9gxxPg2oeO02MA==;PEgwp7D9SK7K5euKZDUsqQ=="
 ---
 

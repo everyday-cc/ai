@@ -56,6 +56,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "How California could force Tesla to drop the name ‘full self-driving’"
+    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
+    publishedDateTime: 2022-08-15T18:27:00Z
+    webUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+    ampWebUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Silicon Valley
+      domain: siliconvalley.com
+    quality: 59
+    images:
+      - url: "https://www.siliconvalley.com/wp-content/uploads/2022/08/hypatia-h_c85b2ae6a8935fd9695ed8b635234df8-h_a442bbd62830e856012cf8eea7d9277c.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
     excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
     publishedDateTime: 2022-08-16T16:49:00Z
@@ -86,15 +102,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "How California could force Tesla to drop the name ‘full self-driving’"
-    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
-    publishedDateTime: 2022-08-15T18:27:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
 
 secured: "5eOMwsjttvw4QckvF1fTXabBmGlrQUYCOIF7t9HMDXGTtWn0Rbo1CvcT7Cvdqdd5a0lQr1422dc/JWFM2NT0h8kxf+yhjxwkuT3ugv2x75nL7kjDQYA0ks1I/eCrvgwbd7xk8oHQK0yaA3+odIOEi4Hcct82c6916DuPkSyU3T/lVubyD5J0woaCOV4q9rDFep2q2a2k9M2cw1bK93sHvvXj0uhFBt/Squ2xB97WtVDKWAnpQO7jOiZGCfwcVQ31Nr5GwHZGcdn4yXQfTaGb4vn2vitVEd/Kv9+ool2ljkHJfM7wHGHD1uDlanUg2KAnnitik3AMGnmPpaNHJsdVLPCQ90LgJVVufqxltqqus/Mxp1Nlc23qEuyzp9o2S/PnBfhNM9nAdgsjehSz2PFR08ISvrEoMUFZ9NWbN1ja0CdOg6RwfFQ1AuirRIP6kigNTyInq4NtZuXBhTFNYetbPAbXdj5ijG3O5PZ80EpBgd7gNfREQ+66NbKunprkuWP/OnnOXLtzUNxIq21QMXh+qA==;oQvG5JLvOauKhxuUd4PqZw=="
 ---

@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-19-artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero.md",
+      "title": "Artificial Intelligence for Accounting Market Analysis, Research Study With Microsoft, AWS, Xero",
+      "excerpt": "This Artificial Intelligence for Accounting market research ... Some of the Top companies Influencing this Market include:Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.ai, AppZen, YayPay ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-for-accounting-market-analysis-research-study-with-microsoft-aws-xero",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-riot-games-taps-aws-for-new-cloud-based-esports-content.md",
       "title": "Riot Games taps AWS for new cloud-based esports content",
       "excerpt": "New broadcast stats, power rankings and challenges will be delivered through the partnership between Riot Games and AWS.",
@@ -1280,49 +1315,6 @@
       "provider": {
         "name": "Mobility Techzone",
         "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-yugabyte-intros-new-migration-engine-for-its-powerful-distributed-database.md",
-      "title": "Yugabyte intros new migration engine for its powerful distributed database",
-      "excerpt": "Yugabyte Inc. today announced what it says are the most extensive set of updates ever made to its database ecosystem. The startup is the chief developer behind YugabyteDB, an open-source and high ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "originalUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/yugabytedb_6645_logo_1598517773_l07za-951991753.png",
-          "width": 1251,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T20:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

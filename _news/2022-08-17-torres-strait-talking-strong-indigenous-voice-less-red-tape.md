@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "PM trip to Torres Strait for voice talks"
+    excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
+    publishedDateTime: 2022-08-17T17:39:00Z
+    webUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683"
+    ampWebUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 59
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-7918683/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Albanese takes Voice campaign to Torres Strait"
     excerpt: "Anthony Albanese will consult Torres Strait leaders on his plan to create an Indigenous Voice to parliament during a landmark visit to Thursday Island, north of Cape York, this week. Pushing for progress on his plan to recognise Aboriginal and Torres Strait Islander Australians in the Constitution,"
     publishedDateTime: 2022-08-17T08:18:00Z

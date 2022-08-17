@@ -34,6 +34,29 @@ related:
         width: 1800
         height: 1010
         isCached: true
+  - title: "Optasia among the top 25 Middle East fintech companies"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T07:17:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 597
+        height: 597
+        isCached: true
+  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
+    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
+    publishedDateTime: 2022-08-17T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "G3lHfx8i83vzLcwkt8sJT8ez144f6E32wAodiM44qWNrM5L0IB2dBZ7Zw7yNZ3VE3tPJ9MPKyz7KmxeiagQFeGlkJFeO/5cK9tu5HZkT0EPN5NFQPSOuhMT9HHhi+hyGhrR0gTz6xAGKyC2W+ul5U2GDO3+EJe5BZGbwJ+m63CrreUHjiHxj8AiXcwHPkcr7hl8Wsh9VbV8aQSc09yfAGnNMsVXWqT+CiHts51ACShCTMcHR938oaWNMzzse+PeI76wIvgWXTlShNLdoJ7/a0/r2XhVKjZztk0sQ+dbMBFSckfuzWpDQ0QnFVyVXd98zkHlBq6zstJZ2dwPGUBlb5VGrLgTPybJYHarp5EtNXuU=;a9q/BEXC4b4Dt+7zS9ldJQ=="
 ---

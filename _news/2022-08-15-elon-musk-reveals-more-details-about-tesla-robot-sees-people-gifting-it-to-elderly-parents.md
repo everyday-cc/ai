@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end"
+    excerpt: "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the"
+    publishedDateTime: 2022-08-17T16:49:00Z
+    webUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/"
+    ampWebUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 71
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-robot.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk provides information on Tesla’s humanoid robot"
     excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."
     publishedDateTime: 2022-08-16T17:22:00Z

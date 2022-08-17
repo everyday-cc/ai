@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-19-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "Well, this is awkward. One of Apple’s highest-profile return-to-office detractors reportedly landed a new gig at Alphabet’s DeepMind, marking the latest drama over Big Tech’s remote work ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/1df6fad1a744c6167d22b8a2880b1d68.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet/amp/",
+      "publishedDateTime": "2022-05-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
       "title": "From LEGO competitions to DeepMind's robotics lab",
       "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",

@@ -8,8 +8,8 @@ webUrl: "https://futurism.com/the-byte/google-deepmind-video-single-frame"
 ampWebUrl: "https://futurism.com/google-deepmind-video-single-frame?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp"
 type: article
-quality: 59
-heat: 79
+quality: 61
+heat: 71
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://wp-assets.futurism.com/2022/08/google-deepmind-video-single-frame-1-600x315.jpg"
@@ -27,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "This game was made entirely from AI-generated images"
-    excerpt: "An independent developer has released a short 2D shooting game they made using only AI-generated art. The game itself isn't very remarkable but shows some of"
-    publishedDateTime: 2022-08-17T13:45:00Z
-    webUrl: "https://www.techspot.com/news/95646-game-made-entirely-ai-generated-images.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
   - title: "Using AI to Automate, Orchestrate, and Accelerate Fraud Prevention"
     excerpt: "As fraud, waste, and abuse (FWA) cost government agencies and private companies billions each year, artificial intelligence (AI) has transformed how"
     publishedDateTime: 2022-08-16T17:01:00Z
@@ -51,6 +43,6 @@ related:
         height: 738
         isCached: true
 
-secured: "zgJeIbLOe8XoymJdBe0hTvjcvAVOaNZqtb1Zbe9sXoRfHA3Jcb8wnRDAHQdOeiyOtpw+lx3EiIGfz0uTc9uMS4rPNp0pn6W7W3JDTtHt4OwyAqC+1yz8a8hYPMwQrVN8y7wmWgnBFxv1LBZuQGXI6CqiZc1CLQATW1YQw/00fEbpQsY40q5sq79E661QnBeJeQNiEdTZ4+kvvEEfsehEjsdnzzdIBSFBprV7VG3lVy38Q3yoZTG35Ad8m7Vcv25405zHMD7omhptvoCsvoWjzF+mXS0rUwcVYklAzANPpxu4FJacqtJYTTR5SZIROOjOd9Gnb8xW3VlXOrtMYbQAIhNtzobFBK9Cc6+6UnIH0A8=;en27X3gn/L5SKy9Nc+qN3w=="
+secured: "syTU8PU4PiyQL2U7JWoCrIU5TnhXuCg5OkW8P4bHP73w9kQl2Kw+cS28uMCGpBmtboKDauK0srBc/hLH5Gs/C/i/J3LF/jG6O1QQ/595eXAvFtrkl/ECpUs3U1Tgqe5BNCj0gb94WibYG8oQFNbvKFD1MudkTFyjzEVUFC9iyaHSnFbVcDsS/4Z2i2oa8Y5rnUPtp9YE2gYVrR6Blr8opCJmyegELz0MH21Or06dCqChhDl5WTGRoGnHXZjJhhrYXkjAvkf7HWMoiHYa/lfh3VMzeDYJF/8d1HrBK5itHgfo9U/GjlGcCb1T4QqlsieKHqOweUl8TUUoUmyWWt+l0hjGkiJECG51a4NMLjHr4GrNFu9ZkKbEkbHr9Pejxprmg07hMrYGQNUkIZK61LhbgXWNgUaey565jvZ6x/lZ0BDXEQuEhfDgBw6r7gLPLvFKI3hW01HFT3bLEcNKvZIZKKU1u4XgVo9oeLDF70Q+fCdG3+eq/jUVqM0/0wLiQYzZea7hUirr5eZfLJqoMcUhmg==;3ZPY6wsB7yhl0qCGXyg7dA=="
 ---
 

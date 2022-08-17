@@ -55,6 +55,22 @@ related:
         width: 1975
         height: 1110
         isCached: true
+  - title: "How California could force Tesla to drop the name ‘full self-driving’"
+    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
+    publishedDateTime: 2022-08-15T18:27:00Z
+    webUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
+    ampWebUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
+    type: article
+    provider:
+      name: Silicon Valley
+      domain: siliconvalley.com
+    quality: 59
+    images:
+      - url: "https://www.siliconvalley.com/wp-content/uploads/2022/08/hypatia-h_c85b2ae6a8935fd9695ed8b635234df8-h_a442bbd62830e856012cf8eea7d9277c.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
     excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
     publishedDateTime: 2022-08-16T16:49:00Z
@@ -85,15 +101,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "How California could force Tesla to drop the name ‘full self-driving’"
-    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
-    publishedDateTime: 2022-08-15T18:27:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 19
 
 secured: "Dy2GxcHRxUEqKigWjeZwy/aWrsw7XpjoHScm9O+FF0vodadWKgBj8uQJmrU+S78j/VQ47HTd0QlxTlhogiT5jKAh9v8M2WvHzL4AbHsT/uZBJaXj08pcWphFgv8n56Zl0tTGRQioCOqI+ONjeUdRX6N0NKhnvYtMLNgeno/pUlduNB7NQ04QyKBpAMhEltOsfmyWqgkqGtVCFzDHj7bCyG8Zi9CCRyJoZ9DDRoJBhWg1RY0OUqm0D0pHa5rVfzAqNwLqD2PRUeN8HXXMsoAubFwdl2oFbyQHA7sbrcWpQWXFaGwcRG7/ou3s2ZPGG6OAmvs9LAakurQVibc4M2seMpzPlkVNr2Ln4zrGOFApIK1PJR2qqRNf0Rt1HFlIstzeAYAbwSpMCdAQ1ZwBfn0niSw5fW2DyiiwxQZjDxkbJZu1s8XDcRO84xxeuwGFdrq9Sy8tj4elth4jEmEX1IqbUESWk3bAhqvKYwD4obD8CQoB94EfEYkKYmfsvfpD4djmTtxLHjWyhyBjeACdsRZz3A==;QQ58HsG2yLDoAdLIPRUs6w=="
 ---

@@ -2,6 +2,411 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
+      "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
+      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being.md",
+      "title": "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being",
+      "excerpt": "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
+      "originalUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
+      "publishedDateTime": "2022-07-23T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-sony-bravia-xr-oled-a80k-series-with-4k-resolution-cognitive-processor-xr-launched-in-india-check-price-specs.md",
+      "title": "Sony Bravia XR OLED A80K series with 4K resolution, cognitive processor XR launched in India: Check price, specs",
+      "excerpt": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The cognitive processor XR powering the TVs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/07/ezgif-2-cb277f5b6f.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "publishedDateTime": "2022-07-23T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
+      "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
+      "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "publishedDateTime": "2022-07-23T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-how-to-build-ai-that-actually-works-for-your-business.md",
+      "title": "How to Build AI That Actually Works for Your Business",
+      "excerpt": "The biggest, fanciest, most ‘intelligent’-seeming artificial intelligence gets all the attention, but tried-and-true algorithms, applied to narrowly defined problems, are far more useful today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "originalUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-589120/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "publishedDateTime": "2022-07-22T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-ai-is-key-to-keeping-your-digital-services-running.md",
+      "title": "AI Is Key To Keeping Your Digital Services Running",
+      "excerpt": "The right AI approach can make the difference between up and running and down and out. You don’t need us to tell you that times are weird. The perfect storm of Covid variant waves, war in Ukraine, unrelenting climate events,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db2cbccce38e50ba39dc40/0x0.jpg?format=jpg&width=1200",
+          "width": 567,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "publishedDateTime": "2022-07-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-take-an-inside-look-at-how-nopds-facial-recognition-tech-works.md",
+      "title": "Take an inside look at how NOPD's facial recognition tech works",
+      "excerpt": "According to the NOPD, the department’s facial recognition policy has already been approved by the Department of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "originalUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wwltv.com/assets/WWL/images/3111947a-0bb6-4e4e-93b9-887b75ffbdc3/3111947a-0bb6-4e4e-93b9-887b75ffbdc3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "cdnAmpWebUrl": "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "publishedDateTime": "2022-07-22T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLTV",
+        "domain": "wwltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail banking industry rose in June 2022",
+      "excerpt": "Retail banking sector hiring for machine learning related positions kept relatively steady in June 2022 compared with June last year",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/07/oJp5H-1038x778.png",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailbankerinternational",
+        "domain": "retailbankerinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-dynamic-mental-illness-indicators-caught-by-advanced-ai-in-brain-imaging.md",
+      "title": "Dynamic mental illness indicators caught by advanced AI in brain imaging",
+      "excerpt": "New research by Georgia State University's TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer's disease, schizophrenia and autism—in time to help prevent and more easily treat these disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "publishedDateTime": "2022-07-22T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-omaha-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
       "excerpt": "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th.",
@@ -697,395 +1102,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till.md",
-      "title": "Computer Vision Market Share & Growth 2022 CAGR Value, Top Manufacturers, Competitive Landscape, Industry Size, Applications and Forecast till 2026",
-      "excerpt": "Global “ Computer Vision Market ” report provides in depth information of marketing strategy analysis, growth opportunities, dynamics and development trends. Also, Computer Vision Market research report includes business overview,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till-2026-2022-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-share-growth-2022-cagr-value-top-manufacturers-competitive-landscape-industry-size-applications-and-forecast-till-2026-2022-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-22T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
-      "title": "Don’t get too emotional about emotion-reading AI",
-      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "publishedDateTime": "2022-07-22T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope.md",
-      "title": "Why distributed AI is key to pushing the AI innovation envelope",
-      "excerpt": "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "originalUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-21-at-4.46.37-PM.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "publishedDateTime": "2022-07-21T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
-      "title": "Here’s what it looks like to ride a Chinese robotaxi with no steering wheel",
-      "excerpt": "Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese tech giant, ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "originalUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel 3000",
-        "domain": "channel3000.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-car.md",
-      "title": "Baidu unveils latest autonomous electric car",
-      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/22/baidu-unveils-latest-autonomous-electric-car",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/22/baidu-unveils-latest-autonomous-electric-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/22/1668252.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft.md",
-      "title": "Content Analytics Discovery and Cognitive Software Market Is Booming Worldwide with Facebook, Google, Microsoft",
-      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. by Type (Test Softwares (in Multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Markets-Srore-shopping-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
-      "title": "IBM Watson Gets a Factory Job",
-      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
-          "width": 800,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

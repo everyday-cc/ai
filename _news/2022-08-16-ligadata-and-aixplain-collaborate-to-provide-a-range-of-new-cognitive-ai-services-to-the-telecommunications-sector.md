@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/514068/LigaData-and-aiXplain-collaborate
 webUrl: "https://www.totaltele.com/514068/LigaData-and-aiXplain-collaborate-to-provide-a-range-of-new-cognitive-AI-services-to-the-telecommunications-sector"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
+    excerpt: "By leveraging natural language processing, artificial intelligence, and machine learning, Auditoria removes friction and repetition from mundane tasks while automating complex functions, and providing real-time visibility into cash performance. Corporate ..."
+    publishedDateTime: 2022-08-17T15:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
+    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
+    publishedDateTime: 2022-08-17T09:03:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "xqTcGufr0q+REHTp+3hu71UeFhFkObKLoAoKG6bFO34grTBbysvg87q5lUd/r1/kaNa5DzQSULKzvnHJYbPLyOGDqu0v/jrGs5RNurLUyAgU2OzK8ZW80+IhdH0W3H3rDT+I/xmaHGYD8EQgwElYMGVrZeHgcW5y+P00y4jF47n1ooeHxFIWJhcs0ga7pFjxuGXA+ELujXhmdSNxkIt4tPZYAx9rR3zKeqfJnfSW9U4onYjKx2qyRWTVCj8Ng2hhHu154V+ZyOgrYK4Q6AVEnCVa4JM2xJD4IgU0Q+2fRTYIuERQUUCi4Lmj35fntU5mmw1jnPmDqCHhiLN2Cq/AIawmTbDKrUwnF+4YEfsFIwY=;F3X50bb2W07k+ZmQOGi/aw=="
 ---

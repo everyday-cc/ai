@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "China's autonomous driving enters 'fast lane' with commercial operations"
+    excerpt: "Thanks to continuous technology innovation and policy support, China has made steady strides in autonomous driving, from running trials in semi-closed areas to venturing it on open roads, as the market potential of this technology continues to grow in the country."
+    publishedDateTime: 2022-08-16T02:04:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/16/WS62faf729a310fd2b29e726a2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 23
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/16/62faf729a310fd2bec9c4ec8.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Xinhua Headlines: China's autonomous driving enters \"fast lane\" with commercial operations"
     excerpt: "Thanks to continuous technology innovation and policy support, China has made steady strides in autonomous driving, from running trials in semi-closed areas to venturing it on open roads, as the market potential of this technology continues to grow in the country."
     publishedDateTime: 2022-08-15T15:31:00Z

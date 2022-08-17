@@ -25,36 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Gearing up for the next bull run in fintech investing in India"
-    excerpt: "India is home to the third-largest fintech ecosystem in the world, attracting over 40% of fintech investments in Asia in the first half of 2022. Currently grabbing eyeballs on the global map, the Indian"
-    publishedDateTime: 2022-08-16T13:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
+  - title: "Fintech sitcom explores AI challenges and the war on talent"
+    excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
+    publishedDateTime: 2022-08-17T10:30:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://assets.bizclikmedia.net/1800/e9e536c99e2cbb01bb2c582f0fb0802a:2b15c1fb874205d86b33777f498f0f50/1080x1080-get-ahead-watch-now-still-1.png.jpg"
+        width: 1800
+        height: 1010
         isCached: true
-  - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
-    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
-    publishedDateTime: 2022-08-15T05:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-middle-east-8252a450f192c86f1900bbe337e895e5"
+  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
+    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
+    publishedDateTime: 2022-08-17T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "aUXfQsggdBL7LzSfsqDlaEWdXzE9JWuTiHXn/Iw1BavA1FN7grSFkMoa+o/Qgw4VhutjtYPI8GUAmXoj1qlogOZ5wvvquLq1bCCYgGPExnMtYREZJD97/ArrKDy10RTqWxXn7sClWerWIaZLCTtg24BEzm8keQq6hNGc6/RojO5jbT//W3Uf4Nq/21K37umG212kfpyrfcyZV946WX9Btc08EWRuVqCIOS51Ko/eC9c/DgQxMNpGW67lizitrBaafUsF4I/OpI3OQ7+QENvTksCxM07ZEy+MRIlOyhk/Wr2mqHCP0MMKdzPYSoTmDBOmwxvRRwyI0a5Tj7pqIef/TtGHcPnYFdHSKmDGSsQNGVQ=;Mo1ekEXdNFuOV9dOe/sEMQ=="
 ---

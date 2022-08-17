@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Optasia among the top 25 Middle East fintech companies"
+    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
+    publishedDateTime: 2022-08-15T07:17:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 597
+        height: 597
+        isCached: true
+  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
+    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
+    publishedDateTime: 2022-08-17T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
   - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
     excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
     publishedDateTime: 2022-08-16T13:38:00Z

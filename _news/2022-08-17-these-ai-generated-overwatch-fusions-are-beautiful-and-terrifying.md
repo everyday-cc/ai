@@ -40,17 +40,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "These Are the Degrees of the Future"
-    excerpt: "Gizmodo and Statista identified 25 fields of study that most reflect the technologies, cultural shifts, and challenges of the mid-21st century."
-    publishedDateTime: 2022-08-13T00:39:00Z
-    webUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174"
-    ampWebUrl: "https://gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/science-tech-best-emerging-college-university-majors-1849385174/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 54
 
 secured: "zM3Aaib5RMecraIUvRB9kFrduuQ0VVgsNYhAD8IF+ILHCViS3TdJK9fEz2hz++OYGkQ2/N2ez0+igPI5x41SRqFxQ8FOxXAhAJlPDUbvp8l5EogyF+Oeexc5d26L8f9HvbNN9AyUP9Xv+YwPM/bheF5wMZOnRqtkoeD8jaSL1y1jUej3wjOM8YcIIEG/qFBKC/Dw1wTfUDMEbcR/vKw/r2WQB3Uzwqmbs6RcjZPmwgD6hrEYKzD+mzBHqBIr6Qrw6ECSY/ZZ+A+IneOLh0kJt3As+JNNlyn9fs4xtliKojizsY5XFu+UxaUD/cscJjnacMo6xVM54mK6Ns4IJ8dyzpMd0I37EnlXTOXSB9VgnSqyc81HwWY5sl0KvV+h6qR1X3WRUqTWxa9A9blIp223o3Id3oq/NrpxYdQZitj1U9+u8EP6ZOK+6l7CI3hDz2FQ4mr6dwZ4mF9KNqhcSa1pGeByEGnv0BoxclFgYkqys/LyTdJrv3jWkKC6JD9JGzdergFfK3R5LroV6YARA5Csfw==;/MvkjcIu818H5eeoLibmZg=="
 ---

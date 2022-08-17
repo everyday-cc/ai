@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
+    excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
+    publishedDateTime: 2022-08-17T16:38:00Z
+    webUrl: "https://www.environmentalleader.com/2022/08/ai-platform-aims-to-help-shipping-industry-tackle-emissions-regulations/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 37
+    images:
+      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/08/container-ship-g005ca98e7_1920-1024x614.jpg"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
     excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
     publishedDateTime: 2022-08-15T15:36:00Z
@@ -58,6 +72,6 @@ related:
         height: 258
         isCached: true
 
-secured: "VredkKPKiuniDqc3dHAdI7Ybrh3bOZibG+df4HsuiE1RdTy9oEkRT5o+JeUvOGZVA4vSv5xiJ5PzAl+DgWOoIAzmvK/pwveWm9MBaOKS2XJLJf9B7Nlt2VVeOCtw9/BYMdYDU8ScRIrTqsbIxb3wl7uspJwJ+L+rCjMc0WfPBu/BpEYt8HzXGe3HNSrhTEmbpswjpXAVA/GyiHRV44mWQ4cXGR/ozOTeliSZfJIvX8R4qcFMdKXzSYFgle6LPTL3VXuzieLtKX3PKmhvyC/VdmuyCA0owKZ9MRUXLe3UsbldJg57C5xCs7XJDe1qKTk3Yw8L4EgZ8G2Iax2aWzxsct2hPs/jnrscVwOSPS6se88=;si9ZA6OG4PfnAmCZk0/yUw=="
+secured: "cTobc/nEUvT0JvHH4JaOtYrJJTMYcRTa94t55MOTjzoeygY7+F2w6mFEGQyKDhus3YKOKqaivDiemQh3yjTJchu6rqgZt0E+f6Fvm2fT0Yu35XTYKLYsblknRCIIT8FM4PJEA4kzoHR5vFIHo4CrXwLXs0jkG/yIL+0fH35U+ryKrqK6kTACS//zoORPViBITBPi8AtxnGp1BhqJazIOIbTdqLoGxeAxsviHQFRob3tXIpkm9AyZU58fou05621iOoRbRX/ZrtQIjQ663PIcUJZa/Fu7eg40+tZ1nzT+LKIJhJD4cfOzuEDvZ+lT1yrPCVpSV26895dOiuYAA1xQ/nanQN84kF747r2GvKenQjq7bkHRAiF2ehuu3vlgqHsGDMSyXoNZvVrXwnGpgqGHFDeEjW681G2bpjsKCr5rpAJI66iHUuTbVx+tZw1Cdb3yECsHxZh132x+HW3bsNukabOPRfkW4+Av6MHhvrTDjjp7RK4d0bjree6cwvqQs6g9lzSwPvr/Vc9jQzB3Yj617w==;YhPGoyXmBPTfh9VnlpSruA=="
 ---
 

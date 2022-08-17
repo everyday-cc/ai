@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
-    excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."
-    publishedDateTime: 2022-08-13T00:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Hyundai-x-Boston-Dynamics-2.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Hyundai invests in AI, software research centres"
     excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
     publishedDateTime: 2022-08-15T16:54:00Z

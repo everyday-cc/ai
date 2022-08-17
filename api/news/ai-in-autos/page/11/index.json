@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-08-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
+      "title": "Alphabet's Waymo, Uber Freight in deal for future self-driving trucks",
+      "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc (GOOGL.O), and Uber Technology Inc's (UBER.N) Freight business on Tuesday said they signed a long-term strategic partnership that would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2018/01/Diesel-trucks.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
+      "publishedDateTime": "2022-06-07T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
       "title": "Alphabet's Waymo, Uber Freight In Deal For Future Self-driving Trucks",
       "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc, and Uber Technology Inc's Freight business on Tuesday said they signed a long-term strategic partnership that would allow future customers to deploy autonomous trucks more efficiently.",
@@ -1283,49 +1326,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-laredoan-leads-self-driving-car-racing-team.md",
-      "title": "Laredoan leads self-driving car racing team",
-      "excerpt": "When Cindy Heredia gets her MBA, she will have been part of a team which ran a car around a race track at 200 miles per hour with no one in it. Hopefully, at least. The 2013 graduate of AlexanderMIT-Pitt-RW autonomous racing team,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "originalUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/00/63/22547674/3/rawImage.jpg",
-          "width": 1536,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "publishedDateTime": "2022-06-01T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laredo Morning Times",
-        "domain": "lmtonline.com",
         "images": null,
         "publishers": null,
         "authors": null

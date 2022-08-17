@@ -9,7 +9,7 @@ ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
 type: article
 quality: 79
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
-    excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."
-    publishedDateTime: 2022-08-13T00:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Hyundai-x-Boston-Dynamics-2.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
     excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."

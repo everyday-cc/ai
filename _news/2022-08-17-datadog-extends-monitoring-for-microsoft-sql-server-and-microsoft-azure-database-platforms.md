@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-mo
 webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database"
+    excerpt: "Datadog, Inc., the monitoring and security platform for cloud applications, has announced expanded monitoring for Microsoft SQL"
+    publishedDateTime: 2022-08-17T16:23:00Z
+    webUrl: "https://www.datanami.com/this-just-in/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 29
 
 secured: "FeYoI9Fr0IlWVywbB/BFVhQFovYVnSNBEp9E5AVJwyLpbWJDSZmddz9m2MfDhbcFzjAOfTjeLyzH/RivzEj8w8MosD5wvvBeMOinL7mFjudpjbWdFS0FMgPOo3KUi6kQij11WiqiHqIDYgRQoFz85GAsuHGS3thzlZ71/MxQFSrhpPHg0/nMol0b4GrxyStLYBrSJ2QdIJrcTVK2fxCS9fk4VImBqSsO9ORB09J19oXPJMENMp+Tnys+CrLKraVfa49U7M+tOkgUL5SGjanQ9VT6JM8Vq3XCLQss8/zcxP6IU6Y73i40MsJe6Nb8rIDmQT8dHHeVG3IJElZTPmD/6eevcxlwrQ9gW3ubJ2BMT/jnsX8eoImoWJHrGlLB8dn5acDZ2ohqupJeqVlXtiYpjxViiHXILfIs2UCZXojuTClpQkBvs5S7+ULM+XiM7oQCgdZU2hnxUDtZjRMoxvBWZdbxFD+EuW+d2aVLlWFxfR7X+JCAob4u0sgJEj65U0A1gDLL8a9pb8nH1o2gzJJspA==;Y+D7gtlBktt8MCnObkcX4Q=="
 ---

@@ -27,15 +27,6 @@ related:
       name: Future Market Insights
       domain: fmiblog.com
     quality: 2
-  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
-    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
-    publishedDateTime: 2022-08-17T09:03:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "Y3z/WDC98oNIG2PPNHQJ7FqsoOEkA+JUeNG0xIjTsU6KrOJyShNvckoHV/yW+HV8oJqGfvMOzSv315tJ6RoJOJmUzYrIhQt1w2XcOJR5Dk0nBjV8aaF//VsvSWTjXpKfo/mF87wip4sCPAi7/O7uSB1bkrGRqP66oVKH99vZ0YevJYeG85x1mzAZ8Qw+ugcYTA0dEMeSwBzAPOYwJ8KdIhM9vN+c4UlBNKlbAa9eHLvDb1bKiYdejxRfpzVSbj/33NpMBizOa6NXByUGQOsAx0Gi5lIofpapN6AnwOKo8be4riaBsgTyrGC4t555Kh9rcCbVTZ25KU2ARsRz1LAUb/TbHl2l7P8JyNXijJh/+J0=;5kKXOD1mUgxim5vi3I+HfA=="
 ---

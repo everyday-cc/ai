@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "The Benefits of Integrating AI and ML to Maximize Operational Efficiency"
+    excerpt: "In this special guest feature, Zach Thomas, VP of Product Marketing, Conga, discusses the ways emerging technologies like AI and ML can expedite business operations to accelerate revenue. Outlined are the top benefits organizations can experience by integrating AI and ML into their operations,"
+    publishedDateTime: 2022-08-17T16:14:00Z
+    webUrl: "https://insidebigdata.com/2022/08/17/the-benefits-of-integrating-ai-and-ml-to-maximize-operational-efficiency/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 33
+
 secured: "7eFiKLsEeT7iquHvaZqqZO2HWzkC9/S57slSRsWe9KEr0fzam5A8ccpaLB5RJZc+kFgpm0+lwbxe8i87k7mvEAYtXFvpJmkAMMjhxUb3J2Y/6z9rKoMVXdKNl75F6+6l/FIS0brJDukwSHsTTCWB21r4pQQDV0/WilQ6aPoyheq+FyLo2z9pYGZSOxVP2BARlVdds1HrQdCJyWwHnVfcdsatge++jB/Q/tAnp4Y3YpwNFCINRsQjcdGCk9VZ30XiDrCBvZIAYqqG9QuLgar0eg+MUoTMBAdjpTDzgDAFWjG/7SsafEgpbB761+k6igOXzqk3bnHdEhG0gG0H9kZmxi92i4uTgYPCG/Q79lhX7Mo=;OrdnZGlh0HgizAaRLi1d8g=="
 ---
 

@@ -33,20 +33,6 @@ related:
         width: 2000
         height: 1329
         isCached: true
-  - title: "THE PROACTIVE REVOLUTION: How Artificial Intelligence is Driving the Transformation of Customer Experience"
-    excerpt: "Artificial Intelligence (AI) and machine learning (ML) lead the transformation of robotic exchanges to smart conversations between humans and computers. While the first wave of conversational AI chatbots lacked real-world natural language processing (NLP) and rendered them ineffective,"
-    publishedDateTime: 2022-08-13T00:37:00Z
-    webUrl: "https://www.destinationcrm.com/ReportsandResearch/12070-THE-PROACTIVE-REVOLUTION-How-Artificial-Intelligence-is-Driving-the-Transformation-of-Customer-Experience.htm"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 19
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147361-Ebook_The-Proactive-Revolution_FINAL-1-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "Talking about an AI revolution? Don’t forget the storage"
     excerpt: "Sponsored GPUs have revolutionized AI and HPC over the last decade. But they didn’t do this on their own. The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology."
     publishedDateTime: 2022-08-16T09:00:00Z
